@@ -21,15 +21,15 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 308 Rules:
+There are currently 309 Rules:
     1 with Power=4
-   20 with Power=3
+   21 with Power=3
    37 with Power=2
   250 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2033
-Highest Rule Number assigned so far: 2033
+Highest current Rule Number:         2034
+Highest Rule Number assigned so far: 2034
 
 ======================================================================
 Table of Contents:
@@ -381,7 +381,7 @@ Definitions
   fall into any other Category
 ----------------------------------------------------------------------
 
-Rule 1727/10 (Power=1)
+Rule 1727/11 (Power=1)
 Happy Birthday
 
       WHEREAS, in June 1993, the world's only MUD-based nomic, Nomic
@@ -424,10 +424,10 @@ Happy Birthday
 
       BE IT FURTHER RESOLVED that, as close as practical to Agora's
       Birthday (June 30 at 00:04:30 GMT+1200), the Payroll Clerk
-      shall transfer 50 Stems from the Bank to each Player;
+      shall transfer 10 Stems from the Bank to each Player;
 
       BE IT FURTHER RESOLVED that the Payroll Clerk shall transfer
-      25 Stems from the Bank to each Player who, during Agora's
+      5 Stems from the Bank to each Player who, during Agora's
       Birthday, publicly recognizes Agora's Birthday; but no Player
       shall receive more than one such transfer during each year's
       Birthday Celebration.
@@ -437,7 +437,7 @@ Happy Birthday
       purpose encouraging the celebration of Agora's Birthday; and
       which Contests, in the Notary's estimation, are worthy of
       recognition for this effort; and shall pay out to the
-      Contestmaster of each such Contest 100 Stems;
+      Contestmaster of each such Contest 20 Stems;
 
       BE IT FURTHER RESOLVED that the Courts shall be closed on
       Agora's Birthday; that is, the Clerk of the Courts shall not
@@ -463,6 +463,7 @@ Amended(7) by Proposal 4018 (Kelly), Jun. 21 2000
 Amended(8) by Proposal 4099 (Murphy), Jan. 15 2001
 Amended(9) by Proposal 4147 (Wes), 13 May 2001
 Amended(10) by Proposal 4159 (Kelly), 5 June 2001
+Amended(11) by Proposal 4367 (Steve), 23 August 2002
 
 ----------------------------------------------------------------------
 
@@ -2174,7 +2175,7 @@ Amended(10) by Proposal 4279 (harvel), 3 April 2002
 
 ----------------------------------------------------------------------
 
-Rule 1664/19 (Power=2)
+Rule 1664/20 (Power=2)
 Rebellion
 
       A Rebellious player may Call for a Revolt at any time by
@@ -2197,7 +2198,7 @@ Rebellion
 
          - The Registrar shall expunge the Blots of each Rebellious
            player
-         - The Registrar shall pay out 40 Stems to each Rebellious
+         - The Registrar shall pay out 8 Stems to each Rebellious
            player
          - The GWotO shall remove all Abiding Oligarchs from the
            Oligarchy
@@ -2244,6 +2245,7 @@ Amended(16) by Proposal 4098 (Murphy), Jan. 15 2001
 Amended(17) by Proposal 4110 (Ziggy), Feb. 13 2001
 Amended(18) by Proposal 4128 (Murphy), Mar. 28 2001
 Amended(19) by Proposal 4221 (Steve), 10 October 2001
+Amended(20) by Proposal 4367 (Steve), 23 August 2002
 
 ----------------------------------------------------------------------
 
@@ -2393,11 +2395,11 @@ Amended(6) by Proposal 4250 (harvel), 19 February 2002
 
 ----------------------------------------------------------------------
 
-Rule 1893/11 (Power=1)
+Rule 1893/12 (Power=1)
 The Treasuror's Budget
 
       The Treasuror's Budget shall contain the Basic Officer Salary
-      (BOS), an amount between 0 and 200 Stems inclusive.
+      (BOS), an amount between 0 and 40 Stems inclusive.
       Additionally, the Budget shall contain the values all of the
       following compensations:
 
@@ -2439,6 +2441,7 @@ Amended(8) by Proposal 4054 (Oerjan), Aug. 21 2000
 Amended(9) by Proposal 4081 (Elysion), Oct. 30 2000
 Amended(10) by Proposal 4140 (Wes), Apr. 15 2001
 Amended(11) by Proposal 4155 (harvel), 18 May 2001
+Amended(12) by Proposal 4367 (Steve), 23 August 2002
 
 ----------------------------------------------------------------------
 
@@ -3304,6 +3307,27 @@ Amended(1) by Proposal 3736 (Blob), May 3 1998
 
 ----------------------------------------------------------------------
 
+Rule 2034/0 (Power=3)
+Votes are Protected
+
+      Any Proposal that, as all or part of its effect, would change an
+      entity's vote on an Issue for which the voting period has begun
+      but for which no official voting report has been published at
+      the time of the Proposal's adoption shall be wholly without
+      effect, any Rule to the contrary notwithstanding.
+
+      Once an official voting report has been published for that
+      Issue, no votes on that Issue may be changed or cancelled, and
+      the outcome of the Issue may not be changed in any way, any Rule
+      to the contrary notwithstanding. Nothing in this Rule shall be
+      construed as preventing the correction of errors in reporting
+      the results of voting on Issues.
+
+History:
+Created by Proposal 4366 (Steve), 23 August 2002
+
+----------------------------------------------------------------------
+
 Rule 693/6 (Power=2)
 Prescribed Voting Period
 
@@ -3965,13 +3989,13 @@ Amended(1) by Proposal 1502, Mar. 24 1995
 
 ----------------------------------------------------------------------
 
-Rule 947/17 (Power=1)
+Rule 947/18 (Power=1)
 Bonus for Repeal
 
       (a) If there are 100 or more rules, and a proposal is adopted
           containing a provision that one or more rules be repealed,
           and if, in the Rulekeepor's estimation, the proposal
-          simplifies the ruleset, then the Rulekeepor shall pay out 30
+          simplifies the ruleset, then the Rulekeepor shall pay out 6
           Stems to its proposer.  If the Rulekeepor decides that the
           proposal does not simplify the ruleset, e must announce this
           decision.
@@ -3982,7 +4006,7 @@ Bonus for Repeal
           the procedure for doing so is initiated within one week of
           the announcement of the Rulekeepor's decision.  As soon as
           possible after the Rulekeepor's decision is reversed in this
-          manner, the Proposal's Proposer shall pay out 30 Stems to
+          manner, the Proposal's Proposer shall pay out 6 Stems to
           emself.
 
 History:
@@ -4005,18 +4029,18 @@ Amended(14) by Proposal 3897 (harvel), Aug. 27 1999
 Amended(15) by Proposal 3947 (harvel), Nov. 20 1999
 Amended(16) by Proposal 4190 (Steve), 18 July 2001
 Amended(17) by Proposal 4305 (harvel), 28 May 2002
+Amended(18) by Proposal 4367 (Steve), 23 August 2002
 
 ----------------------------------------------------------------------
 
-Rule 1678/5 (Power=1)
+Rule 1678/6 (Power=1)
 Encourage Proposals by New Players
 
-      If an Interested Proposal passes, and that Proposal was
-      submitted by a Player within that Player's Grace Period, then
-      the Assessor shall pay out to that Player an award of one
-      Papyrus, over and above any other award that Player might also
-      receive for that Proposal. This Rule takes precedence over Rules
-      that would prevent this award.
+      If a Proposal passes, and that Proposal was submitted by a
+      Player within that Player's Grace Period, then the Assessor
+      shall pay out to that Player an award of one Papyrus if the
+      Proposal was Interested, or 0.2 Papyri if the Proposal was
+      Disinterested.
 
 History:
 Created by Proposal 2758 (Swann), Nov. 28 1996
@@ -4025,6 +4049,7 @@ Amended(2) by Proposal 3463 (Harlequin), Apr. 17 1997, substantial
 Amended(3) by Proposal 3533 (General Chaos), Jul. 15 1997, substantial
 Amended(4) by Proposal 3897 (harvel), Aug. 27 1999
 Amended(5) by Proposal 4050 (t), Aug. 15 2000
+Amended(6) by Proposal 4365 (Steve), 23 August 2002
 
 ----------------------------------------------------------------------
 
@@ -8261,51 +8286,56 @@ Amended(4) by Proposal 4180 (Elysion), 7 July 2001
 
 ----------------------------------------------------------------------
 
-Rule 1930/3 (Power=1)
+Rule 1930/4 (Power=1)
 Scoring
 
-      If a Player is found Guilty of a Crime, e may be Penalized
-      a number of Points equal to the Class of the Crime times 2.
+      (a) If a Player is found Guilty of a Crime, e may be Penalized a
+          number of Points equal to the Class of the Crime times 2.
 
-      If a Player wins a contested Election, e may be Awarded
-      10 Points.
+      (b) If a Player wins a contested Election, e may be Awarded 10
+          Points.
 
-      If a Player Resigns from an Office, e may be Penalized
-      5 Points.
+      (c) If a Player Resigns from an Office, e may be Penalized 5
+          Points.
 
-      If a Player is Impeached, e may be Penalized 15 Points.
+      (d) If a Player is Impeached, e may be Penalized 15 Points.
 
-      If a Revolt succeeds, each Rebellious Player may be Awarded
-      15 Points.
+      (e) If a Revolt succeeds, each Rebellious Player may be Awarded
+          15 Points.
 
-      If a Revolt fails, each Rebellious Player may be Penalized
-      10 Points.
+      (f) If a Revolt fails, each Rebellious Player may be Penalized
+          10 Points.
 
-      If a Player submits a Proposal which is Adopted, e may be
-      Awarded a number of Points equal to twice the number of
-      AGAINST Votes cast on that Proposal.
+      (g) If a Player submits a Disinterested Proposal which is
+          Adopted, e may be Awarded 1 Point, plus 1 Point for each
+          vote that was cast AGAINST the Proposal.
 
-      If a Player is the only Player to Vote either FOR or AGAINST
-      a particular Proposal that e did not write or Propose, e may
-      be Awarded 2 Points.
+      (h) If a Player submits an Interested Proposal which is Adopted,
+          e may be Awarded 4 Points, plus 1 Point for each vote that
+          was cast AGAINST the Proposal.
 
-      If a Judgement is Sustained on Appeal, the original Judge
-      may be Awarded 5 Points
+      (i) If a Player is the only Player to Vote either FOR or AGAINST
+          a particular Proposal that e did not write or Propose, e may
+          be Awarded 2 Points.
 
-      If a Judgement is Overturned on Appeal, the original Judge
-      may be Penalized 5 Points.
+      (j) If a Judgement is Sustained on Appeal, the original Judge
+          may be Awarded 5 Points
 
-      If a Player gains a Patent Title which e has not held during
-      the 7 days prior to gaining it, e may be Awarded 5 Points.
+      (k) If a Judgement is Overturned on Appeal, the original Judge
+          may be Penalized 5 Points.
 
-      If a Player is granted a Degree e has not previously held, e may
-      be Awarded 10 Points.
+      (l) If a Player gains a Patent Title which e has not held during
+          the 7 days prior to gaining it, e may be Awarded 5 Points.
+
+      (m) If a Player is granted a Degree e has not previously held, e
+          may be Awarded 10 Points.
 
 History:
 Created by Proposal 3977 (Wes), Feb. 23 2000
 Amended(1) by Proposal 4113 (Elysion), Mar. 2 2001
 Amended(2) by Proposal 4141 (Wes), Apr. 15 2001
 Amended(3) by Proposal 4320 (t), 28 May 2002
+Amended(4) by Proposal 4365 (Steve), 23 August 2002
 
 ----------------------------------------------------------------------
 
@@ -9934,7 +9964,7 @@ Amended(1) by Proposal 4228 (root), 22 November 2001
 
 ----------------------------------------------------------------------
 
-Rule 2022/1 (Power=1)
+Rule 2022/2 (Power=1)
 Sente and Gote
 
       On the fifteenth of each Nomic Month, the following actions
@@ -9962,18 +9992,22 @@ Sente and Gote
              (a) an amount of Stems equal to the Minimum Income times
                  the Basic Officer's Salary to all Players whose
                  location has Sente;
-             (b) to the owner of each Land Unit that has Sente as is
-                 not owned by the Bank or the Land Bureau
-                     * 3 Stems if the Weather is Plenty;
-                     * 2 Stems if the Weather is Fair;
-                     * 1 Stem if the Weather is Foul.
+             (b) to the owner of any Land Unit that has Sente and is
+                 not owned by the Bank or the Land Bureau:
+                     * if the Weather is Plenty, 3 Stems for each 5
+                       Land Units with Sente that e owns;
+                     * if the Weather is Fair, 2 Stems for each 5
+                       Land Units with Sente that e owns;
+                     * if the Weather is Foul, 1 Stem for each 5
+                       Land Units with Sente that e owns;
 
       Sente and Gote shall only be changed as defined by this Rule, on
       the fifteenth of each Nomic Month.
 
 History:
 Created by Proposal 4283 (Goethe), 16 April 2002
-Amended by Proposal 4308 (Sir Toby), 28 May 2002
+Amended(1) by Proposal 4308 (Sir Toby), 28 May 2002
+Amended(2) by Proposal 4367 (Steve), 23 August 2002
 
 ----------------------------------------------------------------------
 
