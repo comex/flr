@@ -21,15 +21,15 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 307 Rules:
+There are currently 308 Rules:
     1 with Power=4
    21 with Power=3
-   37 with Power=2
+   38 with Power=2
   248 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2034
-Highest Rule Number assigned so far: 2034
+Highest current Rule Number:         2035
+Highest Rule Number assigned so far: 2035
 
 ======================================================================
 Table of Contents:
@@ -5112,6 +5112,18 @@ History:
 Created by Proposal 3821 (Blob), Jan. 12 1999
 Amended(1) by Proposal 4298 (Murphy), 17 May 2002
 Amended(2) by Proposal 4342 (root), 8 July 2002
+
+----------------------------------------------------------------------
+
+Rule 2035/0 (Power=2)
+The Unready are Ineligible
+
+      When a player becomes unready e begins to Turn Around And
+      Around. If at any time an Unready player is not Turning Around
+      And Around e begins to Turn Around And Around.
+
+History:
+Created by Proposal 4397 (RedKnight), 17 October 2002
 
 ----------------------------------------------------------------------
 
