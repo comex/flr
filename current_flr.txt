@@ -21,15 +21,15 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 269 Rules:
+There are currently 270 Rules:
     1 with Power=4
    23 with Power=3
    39 with Power=2
-  206 with Power=1
+  207 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2079
-Highest Rule Number assigned so far: 2079
+Highest current Rule Number:         2080
+Highest Rule Number assigned so far: 2080
 
 ======================================================================
 Table of Contents:
@@ -7132,6 +7132,21 @@ History:
 Created by Proposal 4630 (Goethe), 19 December 2004
 
 ----------------------------------------------------------------------
+
+Rule 2080/0 (Power=1)
+Cards for Proposals
+
+      When an Interested Proposal is adopted, the Proposer shall gain
+      one pending draw, regardless of any applicable Hand Limit.
+
+      When a Disinterested Proposal is adopted, the Proposer shall
+      gain one pending draw, subject to any applicable Hand Limit.
+
+History:
+Created by Proposal 4635 (OscarMeyr), 23 January 2005
+
+----------------------------------------------------------------------
+
 
 ======================================================================
 Patent Titles
