@@ -7357,7 +7357,7 @@ Amended(2) by Proposal 3533 (General Chaos), Jul. 15 1997, substantial
 
 ----------------------------------------------------------------------
 
-Rule 1941/1 (Power=1)
+Rule 1941/2 (Power=1)
 Fees
 
       If the Rules associate a non-negative cost, price, charge, or
@@ -7368,11 +7368,9 @@ Fees
       To perform a fee-based action, a Player (the Actor) who is
       otherwise permitted to perform the action must announce that e
       is performing the action and announce that there is a fee for
-      that action.
-
-      If the Actor has kudos equal to or greater than the fee, the
-      action is performed, the Actor's kudos are decreased by the fee,
-      and Agora's kudos are increased by the fee.
+      that action.  Upon said announcement, the action is performed,
+      the Actor's kudos are decreased by the fee, and Agora's kudos
+      are increased by the fee.
 
       Any Player (hereafter the challenger) may announce that the
       Actor possessed insufficient Honor (kudos) to perform the
@@ -7381,13 +7379,11 @@ Fees
 
       As soon as possible after such a challenge, the Herald shall
       confirm or deny whether the Actor possessed kudos equal to or
-      greater than the fee at the time e attempted the action.
-
-      If the Actor in fact possessed insufficient honor, the action
+      greater than the fee at the time e attempted the action.  If the
+      Actor in fact possessed insufficient honor, or the honor of the
+      Actor cannot be determined by reasonable effort, the action
       shall be deemed to have not occurred and the kudos of the Actor
-      shall be deemed to have not changed.  Otherwise the action shall
-      be deemed to have occurred (and the change in kudos shall be
-      recorded).
+      (and Agora) shall be deemed to have not been changed by the fee.
 
       If a Player issues a challenge as above, but more than 7 days
       have passed since the attempted action, then the action shall be
@@ -7399,6 +7395,7 @@ Fees
 History:
 Created by Proposal 4011 (Wes), Jun. 1 2000
 Amended(1) by Proposal 4486 (Michael), 24 April 2003
+Amended(2) by Proposal 4528 (Goethe), 1 October 2003
 
 ----------------------------------------------------------------------
 
