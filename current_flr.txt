@@ -21,15 +21,15 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 311 Rules:
+There are currently 312 Rules:
     1 with Power=4
-   21 with Power=3
+   22 with Power=3
    38 with Power=2
   251 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2038
-Highest Rule Number assigned so far: 2038
+Highest current Rule Number:         2039
+Highest Rule Number assigned so far: 2039
 
 ======================================================================
 Table of Contents:
@@ -930,6 +930,18 @@ Amended(4) by Proposal 3999 (harvel), May 2 2000
 
 ----------------------------------------------------------------------
 
+Rule 2039/0 (Power=3)
+Ought implies can
+
+      Other Rules to the contrary notwithstanding, the failure to
+      perform an action required by the Rules, where the person
+      required to act was not empowered to do so, shall never
+      constitute the commission of a Crime or Infraction.
+
+History:
+Created by Proposal 4440 (Steve), 3 February 2003
+
+----------------------------------------------------------------------
 
 
 ======================================================================
