@@ -28,7 +28,7 @@ There are currently 301 Rules:
 
 Lowest current Rule Number:           101
 Highest current Rule Number:         1986
-Highest Rule Number assigned so far: 1986
+Highest Rule Number assigned so far: 1988
 
 
 
@@ -2178,6 +2178,32 @@ Amended(15) by Proposal 4091 (Elysion), Dec. 18 2000
 Amended(16) by Proposal 4098 (Murphy), Jan. 15 2001
 Amended(17) by Proposal 4110 (Ziggy), Feb. 13 2001
 Amended(18) by Proposal 4128 (Murphy), Mar. 28 2001
+
+----------------------------------------------------------------------
+
+Rule 1988/0 (Power=2)
+Bastille Day
+
+      July 14 of each year shall be known as Bastille Day.  For a
+      Revolt called on this day the normal procedure is modified, as
+      follows:
+
+         i) Each Rebellious Player shall count twice for the purpose
+            of determining success if, during that Bastille Day, e
+            publicly hums a few bars of 'La Marseillaise'.
+
+            This includes the determination of the number of players,
+            and the Miscreant adjustment, which may become 2 rather
+            than 1.
+
+        ii) On success, rather than having all eir Blots expunged,
+            each Rebellious Player shall be left with 1 Blot each,
+            even if e was previously Immaculate.
+
+      This Rule takes precedence over the normal Revolt Procedure.
+
+History:
+Created by Proposal 4182 (Oerjan), 9 July 2001
 
 ----------------------------------------------------------------------
 
@@ -8957,23 +8983,21 @@ Organizations
   in general.
 ----------------------------------------------------------------------
 
-Rule 1528/6 (Power=1)
+Rule 1528/7 (Power=1)
 Organizations
 
-      There are entities known as Organizations.  An entity is only an
-      Organization when specifically designated as such by the Rules.
-      Each Organizations consists of the following elements:
+      An Organization is an entity designated as such by the Rules.
 
-        i) An associated SLC.
-       ii) A set of Players under the Jurisdiction of the associated
-           SLC.
-      iii) A Name that is unique to that Organization.
+      Each Organization shall have the following properties:
 
-      No Organization exists that is not of a class of Organization
-      that is defined in the Rules. The class of an Organization is
-      specified when it is formed, and can not change thereafter.  If
-      a class of Organization ever becomes undefined in the Rules,
-      then all Organizations of that class are immediately dissolved.
+        a) A Name.
+        b) A Class.
+        c) A Charter.
+        d) An Administrator.
+        e) One or more Members.
+
+      Any of these properties may be changed by unanimous agreement of
+      all Members, except for Class which may never change.
 
 History:
 Created by Proposal 1760, Oct. 21 1995
@@ -8983,21 +9007,15 @@ Amended(3) by Proposal 2725, Oct. 23 1996
 Amended(4) by Proposal 3533 (General Chaos), Jul. 15 1997, substantial
 Amended(5) by Proposal 3889 (harvel), Aug. 9 1999
 Amended(6) by Proposal 3889 (harvel), Aug. 9 1999
+Amended(7) by Proposal 4181 (Murphy), 9 July 2001
 
 ----------------------------------------------------------------------
 
-Rule 1614/6 (Power=1)
-Organizations' Names
+Rule 1614/7 (Power=1)
+Names of Organizations
 
-      Each Organization shall have a unique name. No action is
-      permitted that would allow either a nameless Organization to
-      exist.
-
-      The Name of an Organization shall only be changed as specified
-      by its SLC, or as specified in the Rules. If no other procedure
-      is specified, the Name of any Organization shall change with the
-      unanimous consent of all Players within the Jurisdiction of that
-      Organization's SLC.
+      Each Organization has a unique Name.  The Name of an Organization
+      may only change as specified by its Charter or by the Rules.
 
 History:
 Created by Proposal 2525, Mar. 10 1996
@@ -9007,51 +9025,69 @@ Amended(3) by Proposal 3889 (harvel), Aug. 9 1999
 Amended(4) by Proposal 3950 (harvel), Dec. 8 1999
 Amended(5) by Proposal 3968 (harvel), Feb. 4 2000
 Amended(6) by Proposal 3999 (harvel), May 2 2000
+Amended(7) by Proposal 4181 (Murphy), 9 July 2001
 
 ----------------------------------------------------------------------
 
-Rule 1612/1 (Power=1)
-Organizations' SLCs
+Rule 1987/0 (Power=1)
+Classes of Organizations
 
-      Unless otherwise specified in an Organization's SLC, that SLC
-      can be changed by the unanimous consent of all the Players
-      within the SLCs Jurisdiction.
+      The following Classes of Organizations exist:
 
-      The Jurisdiction of an Organization's SLC is permitted to vary
-      over the period of its existence. The SLC of an Organization
-      ceases to exist when the Organization ceases to exist.
+        a) Groups.
+        b) Contests.
+
+History:
+Created by Proposal 4181 (Murphy), 9 July 2001
+
+----------------------------------------------------------------------
+
+Rule 1612/2 (Power=1)
+Charters of Organizations
+
+      Each Organization has an associated SLC, known as its Charter.
+      The Charter of an Organization may only change as specified by
+      its Charter or by the Rules.
+
+      A Member of an Organization is a Player within the jurisdiction
+      of its Charter.
+
+      Rules to the contrary notwithstanding, no Player shall ever
+      involuntarily become a Member of an Organization.
+
+      When an Organization ceases to exist, its Charter ceases to
+      exist.
 
 History:
 Created by Proposal 2525, Mar. 10 1996
 Amended(1) by Proposal 2725, Oct. 23 1996
+Amended(2) by Proposal 4181 (Murphy), 9 July 2001
 
 ----------------------------------------------------------------------
 
-Rule 1531/8 (Power=1)
-Administrators and Their Duties
+Rule 1531/9 (Power=1)
+Administrators of Organizations
 
-      The Administrator of an Organization shall be within the
-      Jurisdiction of that Organization's SLC, be the Maintainer
-      of the Organization's SLC, and be the Executor of that
-      Organization.
+      Each Organization shall have an Administrator, who must be a
+      Member.  The Administrator of an Organization may only change as
+      specified by its Charter or by the Rules.
+
+      The Administrator is Maintainer of the Charter, unless otherwise
+      specified by its Charter or by the Rules.
+
+      The Administrator is Executor of the Organization, unless
+      otherwise specified by its Charter or by the Rules.
 
       The Administrator shall inform the Notary of the following
       changes as soon as possible after they occur, and identify the
       nature of the change:
 
-        i) The Name of the Organization changes.
-       ii) The Administrator of the Organization changes.
-      iii) The Executor of the Organization changes.
-       iv) The Maintainer of the Organization's SLC changes.
-        v) The Jurisdiction of the Organization's SLC changes.
-       vi) The Organization undergoes a Voluntary Dissolution.
-
-      The Administrator also shall be the Player required to maintain
-      a record of the Players within the Jurisdiction of the
-      Organization's SLC.
-
-      Rules governing specific classes of Organizations may specify
-      different duties for the Administrator.
+        a) The Name changes.
+        b) The Administrator changes.
+        c) The Executor changes.
+        d) The Maintainer of the Charter changes.
+        e) The jurisdiction of the Charter changes.
+        f) The Organization voluntarily dissolves.
 
 History:
 Created by Proposal 1760, Oct. 21 1995
@@ -9064,37 +9100,23 @@ Amended(5) by Proposal 3823 (Oerjan), Jan. 21 1999
 Amended(6) by Proposal 3823 (Oerjan), Jan. 21 1999
 Amended(7) by Proposal 3889 (harvel), Aug. 9 1999
 Amended(8) by Proposal 3950 (harvel), Dec. 8 1999
+Amended(9) by Proposal 4181 (Murphy), 9 July 2001
 
 ----------------------------------------------------------------------
 
-Rule 1533/12 (Power=1)
+Rule 1533/13 (Power=1)
 Application to Create an Organization
 
-      There is a type of Application called an Application to Create
-      an Organization (ACO).  A valid ACO, in order to have effect
-      upon submission, must include the following:
+      An Application to Create an Organization (ACO) shall be submitted
+      to the Notary.
 
-        i) A defined class for the prospective Organization.
-       ii) A unique Name for the prospective Organization.
-      iii) An SLC for the prospective Organization.
-       iv) All additional information required by the Rules governing
-           the class of the prospective Organization.
-        v) The signatures of at least as many distinct Players as
-           required by the Rules governing the class of the
-           prospective Organization, (minimum one) all of whom must be
-           eligible to be members of the prospective Organization.
+      To be valid, an ACO must specify all properties that an Organization
+      is required to have.  Other Rules may place further conditions on the
+      validity of ACOs for a specific Class of Organization.
 
-      A valid ACO is submitted by submitting it to the Notary or by
-      publishing it.
-
-      The effect of submitting a valid ACO is to create the
-      prospective Organization, with the signatories as its Foundors.
-      The Foundors then come under the Jurisdiction of that
-      Organization's SLC.
-
-      An ACO shall only be valid if its contents are not in conflict
-      with this or other Rules.  An ACO that is not valid shall never
-      be submitted.
+      The effect of submitting a valid ACO is to create the prospective
+      Organization, with the Sponsor and signatories as Foundors and
+      initial Members.
 
 History:
 Created by Proposal 1760, Oct. 21 1995
@@ -9111,37 +9133,18 @@ Amended(9) by Rule 1533, Sep. 7 1997, substantial
 Amended(10) by Proposal 3823 (Oerjan), Jan. 21 1999
 Amended(11) by Proposal 4147 (Wes), 13 May 2001
 Amended(12) by Proposal 4159 (Kelly), 5 June 2001
+Amended(13) by Proposal 4181 (Murphy), 9 July 2001
 
 ----------------------------------------------------------------------
 
-Rule 1397/6 (Power=1)
+Rule 1397/7 (Power=1)
 Dissolution of Organizations
 
-      An Organization shall be dissolved only when the Rules or the
-      Organization's SLC requires it.  An Organization shall be
-      required to be dissolved whenever any of the following
-      conditions is true:
+      A Organization shall cease to exist only as specified by its
+      Charter or by the Rules.
 
-        (i)  the Jurisdiction of its SLC becomes empty, and there is
-             no provision for this to change;
-
-       (ii)  the continued existence of the Organization would require
-             that the Organization not have all of a legal
-             Administrator, a legal Executor, and a legal Maintainer
-             for its SLC; or
-
-      (iii)  the SLC of the Organization requires the Organization to
-             dissolve.
-
-      Requirement to dissolve by condition (iii) is Voluntary.  Any
-      other requirement to dissolve is Administrative.
-
-      The Notary shall detect when an Administrative Dissolution takes
-      place.
-
-      Each Organization ceases to exist upon its dissolution.  Other
-      Rules may require an Organization to dissolve under other
-      circumstances.
+      An Organization shall cease to exist if it would otherwise lack
+      a property that Organizations are required to have.
 
 History:
 Created by Proposal 1397, Jan. 29 1995
@@ -9151,28 +9154,9 @@ Amended(3) by Proposal 2421, Jan. 30 1996
 Amended(4) by Proposal 2525, Mar. 10 1996
 Amended(5) by Proposal 2725, Oct. 23 1996
 Amended(6) by Proposal 4002 (harvel), May 8 2000
+Amended(7) by Proposal 4181 (Murphy), 9 July 2001
 
 ----------------------------------------------------------------------
-
-Rule 1617/1 (Power=1)
-Changing the Jurisdiction of an Organization's SLC
-
-      The Jurisdiction of an Organization's SLC shall only be changed
-      in accordance with that SLC and with the Rules.  If there are no
-      provisions for changing such an SLC, then the SLC can not be
-      changed.
-
-      No Player shall ever be made part of the Jurisdiction of the SLC
-      of any Organization without eir consent.  This takes precedence
-      over any Rule that would permit a Player to be involuntarily
-      made part of the Jurisdiction of such a SLC.
-
-History:
-Created by Proposal 2525, Mar. 10 1996
-Amended(1) by Proposal 2725, Oct. 23 1996
-
-----------------------------------------------------------------------
-
 
 
 ======================================================================
