@@ -3774,25 +3774,30 @@ Amended(8) by Proposal 4412 (Steve), 6 November 2002
 
 ----------------------------------------------------------------------
 
-Rule 1965/1 (Power=2)
+Rule 1965/2 (Power=2)
 Complacent Oligarchy
 
-      As soon as possible after an Ordinary Proposal fails Quorum, the
+      As soon as possible after an ordinary proposal fails quorum, the
       Assessor shall publish a Notice of Complacency to that effect.
+      In addition, at any time during the voting period of an ordinary
+      proposal for which the number of entities eligible to vote on
+      the proposal is less than the quorum of the proposal, the
+      Assessor may immediately publish a Notice of Complacency without
+      waiting for the proposal's voting period to end.
 
-      Publication by the Assessor of a Notice of Complacency results
-      in a copy of the Proposal being added to the Proposal Pool. This
-      new Proposal is Democratic and Distributable, and is deemed to
-      have been submitted by the entity that submitted the Ordinary
-      Proposal.
+      Upon publication by the Assessor of a Notice of Complacency for
+      a proposal, the proposal is immediately aborted.  In addition,
+      the copy of the proposal that is added to the proposal pool as a
+      result of the abortion becomes democratic and distributable.
 
-      If an Ordinary Proposal has achieved Quorum, publication by the
-      Assessor of a Notice of Complacency for that Proposal is the
-      Class 2 Crime of Sending It Back Where It Don't Belong.
+      Publication by the Assessor of a Notice of Complacency not
+      strictly authorized or required by this rule is the Class 2
+      Crime of Sending It Back Where It Don't Belong.
 
 History:
 Created by Proposal 4111 (Elysion), Feb. 20 2001
 Amended(1) by Proposal 4161 (Steve), 5 June 2001
+Amended(2) by Proposal 4487 (root), 28 April 2003
 
 ----------------------------------------------------------------------
 
