@@ -6696,7 +6696,7 @@ Amended(1) by Proposal 4520 (Goethe), 30 July 2003
 ----------------------------------------------------------------------
 
 Rule 2048/0 (Power=1)
-Englightenment
+Enlightenment
 
       A Player (the Sensei) may, by public announcement, enlighten
       Agora by choosing two Players to be the Yin and the Yang
