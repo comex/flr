@@ -2975,7 +2975,6 @@ Adoption Indices
 
          b) any values requested by its Proposer as permitted in 2).
 
-
       4) This is the only mechanism for setting or changing the
          Adoption Index of a Proposal.  This Rule takes precedence
          over Rules that would allow other mechanisms for setting or
