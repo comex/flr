@@ -21,20 +21,19 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 298 Rules:
+There are currently 299 Rules:
    19 with Power=3
    30 with Power=2
-  249 with Power=1
+  250 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         1981
-Highest Rule Number assigned so far: 1981
+Highest current Rule Number:         1983
+Highest Rule Number assigned so far: 1984
 
 
 
 ======================================================================
 Table of Contents:
-  The Game of Agora
   Definitions
   The Rules
   The Players
@@ -61,6 +60,7 @@ Table of Contents:
   Property
   Currencies
   The Bank
+  Bonds
   Stems
   Voting Entitlements
   Winning a Game
@@ -1440,7 +1440,7 @@ Amended(8) by Proposal 4002 (harvel), May 8 2000
 
 ----------------------------------------------------------------------
 
-Rule 1686/8 (Power=1)
+Rule 1686/9 (Power=1)
 Official Reports
 
       For each Office, the Rules may designate certain information to
@@ -1449,24 +1449,15 @@ Official Reports
       Official Reports. All information which is part of an Officer's
       Official Report(s) shall be maintained by that Officer.
 
-      Each Officer with a Weekly Report is required to publish that
-      Report during each Nomic Week, else e shall be Guilty of the
-      Class 2 Infraction of Failure to Report. Each Officer with a
-      Monthly Report is required to publish that Report during each
-      Nomic Month, else e shall be Guilty of the Class 2 Infraction
-      of Failure to Report. The Infraction of Failure to Report may
-      be detected and reported by the Grand Warden of the Oligarchy
-      or the Speaker.
-
-      If an Officer with a Weekly Report fails to publish that Report
-      during three consecutive Nomic Weeks, e commits the Class
-      10 Crime of Dereliction of Duty. If an Officer with a Monthly
-      Report fails to publish that Report during three consecutive
-      Nomic Months, e commits the Class 10 Crime of Dereliction of
-      Duty. Any Officer found Guilty of Dereliction of Duty shall be
-      immediately retired from Office. No player may be found Guilty
-      of Dereliction of Duty more than once each quarter for any
-      particular Office.
+      Each Officer with a Weekly Report is required to publish it
+      during each Nomic Week; each Officer with a Monthly Report is
+      required to publish it during each Nomic Month.  Failure to do
+      so is the Class 2 Infraction of Failure to Report.  Failure to
+      do so for three consecutive Nomic (Weeks/Months) is instead the
+      Class 10 Infraction of Dereliction of Duty; any Officer found
+      guilty of this Infraction is automatically retired.  These
+      Infractions may be detected and reported by the Assistant
+      Director of Personnel and the Speaker.
 
 History:
 Created by Proposal 2839 (Zefram), Mar. 11 1997
@@ -1478,6 +1469,7 @@ Amended(5) by Proposal 4002 (harvel), May 8 2000
 Amended(6) by Proposal 4053 (harvel), Aug. 21 2000
 Amended(7) by Proposal 4142 (Murphy), Apr. 15 2001
 Amended(8) by Proposal 4147 (Wes), 13 May 2001
+Amended(9) by Proposal 4164 (Murphy), 11 June 2001
 
 ----------------------------------------------------------------------
 
@@ -1965,38 +1957,6 @@ Amended(3) by Proposal 2668, Sep. 12 1996
 Amended(4) by Proposal 3741 (Murphy), May 8 1998
 Amended(5) by Proposal 3972 (Peekee), Feb. 14 2000
 Amended(6) by Proposal 4011 (Wes), Jun. 1 2000
-
-----------------------------------------------------------------------
-
-Rule 1644/6 (Power=1)
-Dereliction of Duty
-
-      A Player who:
-
-      (i)   is the Electee to an Office which e currently holds, and
-            whose duties include the weekly production of an Official
-            Report, and
-      (ii)  fails in 3 consecutive weeks to produce the weekly Report
-            for that Office
-
-      commits the Class 10 Infraction of Dereliction of Duty.
-      Additionally, such a Player is removed from said Office.
-
-      The Assistant Director of Personnel is the Officer authorized to
-      detect and report the commission of Infractions of Dereliction
-      of Duty by Officers other than the Assistant Director of
-      Personnel. The Clerk of the Courts is the Officer authorized to
-      detect and report the commission of the Infraction of
-      Dereliction of Duty by the Assistant Director of Personnel.
-
-History:
-Created by Proposal 2638 (Steve), Jul. 12 1996
-Amended(1) by Proposal 2731 (Steve), Oct. 30 1996
-Amended(2) by Proposal 3742 (Murphy), May 8 1998
-Amended(3) by Proposal 3897 (harvel), Aug. 27 1999
-Amended(4) by Proposal 3940 (Blob), Nov. 15 1999
-Amended(5) by Proposal 4053 (harvel), Aug. 21 2000
-Amended(6) by Proposal 4142 (Murphy), Apr. 15 2001
 
 ----------------------------------------------------------------------
 
@@ -2958,7 +2918,7 @@ Amended(1) by Proposal 4085 (Blob), Nov. 16 2000
 
 ----------------------------------------------------------------------
 
-Rule 1954/2 (Power=1)
+Rule 1954/3 (Power=1)
 Distribution of Papyri
 
       As soon as possible after the fifteenth day of each month, the
@@ -2975,16 +2935,11 @@ Distribution of Papyri
       the Promotor shall pay out one Papyrus to the debtor of the
       satisfied debt.
 
-      The Promotor may, within a week after the end of a Papyrus
-      Auction, pay out to emself a number of Stems equal to the
-      Winning Bid of the Auction, if there were at least three
-      different winners in the Auction, not counting the Promotor
-      emself.
-
 History:
 Created by Proposal 4050 (t), Aug. 15 2000
 Amended(1) by Proposal 4056 (t), Aug. 21 2000
 Amended(2) by Proposal 4085 (Blob), Nov. 16 2000
+Amended(3) by Proposal 4167 (root), 11 June 2001
 
 ----------------------------------------------------------------------
 
@@ -4848,23 +4803,19 @@ Selecting a Judge
   for a CFJ.
 ----------------------------------------------------------------------
 
-Rule 1868/1 (Power=1)
+Rule 1868/2 (Power=1)
 Selecting a Judge
 
       Whenever there is an open Call for Judgement to which no Player
       has been assigned as its Judge, the Clerk of the Court shall, as
       soon as possible after being made aware of this condition,
-      select a Player to be assigned as its Judge.  This selection
-      shall be made from amongst all those Players eligible to serve
-      as the Judge of that CFJ.
+      select a Player to be assigned as its Judge and announce eir
+      selection.  This selection shall be made from amongst all
+      those Players eligible to serve as the Judge of that CFJ.
 
       Once selected as the Judge of a CFJ, that Player remains the
       Judge of that CFJ until e is Recused from that CFJ or becomes
       ineligible to Judge that particular CFJ.
-
-      The Clerk shall announce the identity of the Player who is
-      assigned to Judge a CFJ as soon as possible after the selection
-      is made.
 
       A CFJ is "open" if it has neither been dismissed nor judged, or
       if there is an outstanding judicial motion pertaining to that
@@ -4884,6 +4835,7 @@ identity of that Player is announced."
 History:
 Created by Proposal 3816 (Repeal-O-Matic), Dec. 21 1998
 Amended(1) by Proposal 3962 (Wes), Jan. 20 2000
+Amended(2) by Proposal 4166 (Elysion), 11 June 2001
 
 ----------------------------------------------------------------------
 
@@ -7204,36 +7156,37 @@ Amended(6) by Proposal 4156 (Ian), 18 May 2001
 
 ----------------------------------------------------------------------
 
-Rule 1599/6 (Power=1)
+Rule 1599/7 (Power=1)
 Overdue Debts
 
-      The Executor of the creditor of any unsatisfied debt may, at
-      any time, Order the debtor to satisfy that debt; but e may not
-      do so if any other Order neither satisfied nor vacated exists
-      requiring the same debtor to satisfy the same debt, or if the
-      debt is disputed. The debtor shall have seven days to satisfy
-      the debt from the time the Order is executed.
+      The Executor of the creditor of any unsatisfied debt may, at any
+      time, demand the debtor to satisfy that debt, provided e has not
+      already done so.  E does so by sending a message to the debtor
+      setting forth the demand.  The debtor shall have seven days to
+      satisfy the debt from the time the demand is sent, except that
+      if the debtor's Executor is on Hold at the time the demand is
+      sent, the debtor shall instead have seven days from when the
+      debtor's Executor comes off Hold to satisfy the debt.  Time
+      during which a debt is disputed is not counted for any purpose
+      of this Rule.
 
-      Any entity Ordered to satisfy a debt who fails to do so within
-      the time allowed by this Rule commits the Infraction of
-      Persistent Indebtedness when that time first elapses, and
-      further does so again every seven days after the time allowed
-      has expired. Time during which the debt is disputed or the
-      Order is stayed is not counted for the purpose of this Rule. If
-      the Executor of the entity so Ordered is on Hold at the time
-      the Order is issued, the time shall not begin to run until the
-      Executor comes off Hold. These Infractions shall be reported by
-      the creditor of the debt and carry a penalty of one Blot.
+      A debt not satisfied within the time allowed by this Rule
+      becomes delinquent when that time elapses.  It ceases to be
+      delinquent when it is satisfied.
 
-      No Order to satisfy a debt shall be enforced in any way after
-      such time as the debt is satisfied, and the executor of any
-      such Order shall vacate it as soon as the underlying debt is
-      satisfied. If a debt becomes disputed, any Order to satisfy the
-      disputed debt shall be stayed by its executor for the duration
-      of the dispute. The Clerk of the Courts may stay, and a Judge
-      stay or vacate, any Order which should properly be stayed or
-      vacated (respectively) under this Rule in the event the
-      executor of the Order neglects to do so.
+      Any Player who is either:
+        (a) the Executor of an entity which owes a delinquent debt, or
+        (b) a Limited Executor of an entity which has no Executor and
+            which owes a delinquent debt, where:
+          (1) that Player has the authority to execute a transfer for
+              that entity which would satisfy the delinquent debt, and
+          (2) that entity possesses sufficient Property such that the
+              delinquent debt can be satisfied;
+      commits the Class 1 Infraction of Persistent Indebtedness when
+      that debt first becomes delinquent, and commits it again every
+      seven days thereafter for as long as the debt remains
+      delinquent.  This Infraction may be reported by the creditor of
+      the delinquent debt.
 
 History:
 Created by Proposal 2493, Feb. 16 1996
@@ -7244,6 +7197,7 @@ Amended(3) by Proposal 3604 (General Chaos), Dec. 9 1997, substantial
 Amended(4) by Proposal 3704 (General Chaos), Mar. 19 1998
 Amended(5) by Proposal 3851 (General Chaos), Apr. 12 1999
 Amended(6) by Proposal 4018 (Kelly), Jun. 21 2000
+Amended(7) by Proposal 4165 (Kelly), 11 June 2001
 
 ----------------------------------------------------------------------
 
@@ -7331,13 +7285,17 @@ Amended(9) by Proposal 4151 (Kelly), 13 May 2001
 
 ----------------------------------------------------------------------
 
-Rule 1887/12 (Power=1)
+Rule 1887/13 (Power=1)
 Default Procedure for Auctions
 
       When an Auction is required and the procedure is not defined
-      elsewhere, the following standard Auction procedure shall be
-      used. Details specified herein are defaults which may be
-      modified by other Rules for specific situations.
+      elsewhere, the Auctioneer shall select a rules-defined Auction
+      Procedure and publicly announce eir selection. If e does not
+      specify which procedure is used, the Default Auction Procedure
+      shall be used.
+
+      The details specified herein are for the Default Auction
+      Procedure.
 
       (a) Auctioneer: The Auctioneer is responsible for collecting
           bids and announcing the result of the Auction. Unless
@@ -7404,9 +7362,9 @@ Default Procedure for Auctions
           Auctioneer shall announce the winning Bids and issue to each
           winning Bidder a separate bill for each of eir winning Bids.
 
-          Unless specified otherwise, the Auctioneer shall transfer an
-          Auctioned item to the winning Bidder as soon as possible
-          after the bill for that item is paid.
+      Unless specified otherwise, the Auctioneer shall pay out an
+      Auctioned item to the winning Bidder as soon as possible after
+      the bill for that item is paid.
 
 History:
 Created by Proposal 3853 (Blob), Apr. 19 1999
@@ -7422,22 +7380,134 @@ Amended(9) by Proposal 4099 (Murphy), Jan. 15 2001
 Amended(10) by Proposal 01-005 (Steve), Feb. 2 2001
 Amended(11) by Proposal 4122 (Goethe), Mar. 21 2001
 Amended(12) by Proposal 4147 (Wes), 13 May 2001
+Amended(13) by Proposal 4167 (root), 11 June 2001
 
 ----------------------------------------------------------------------
 
-Rule 1888/0 (Power=1)
+Rule 1888/1 (Power=1)
 Private Auctions
 
-      If an Auction is designated by the rules as being Private,
-      then Bids may only made by sending them privately to the
-      Auctioneer. This rule takes precedence over the standard
-      Auction procedure.
+      The Auction Procedure for a Private Auction is the same as the
+      Default Auction Procedure except that Bids may only made by
+      sending them privately to the Auctioneer.
 
 History:
 Created by Proposal 3853 (Blob), Apr. 19 1999
+Amended(1) by Proposal 4167 (root), 11 June 2001
 
 ----------------------------------------------------------------------
 
+Rule 1983/0 (Power=1)
+Vickrey Auctions
+
+      The Auction Procedure for a Vickrey Auction is the same as the
+      Default Auction Procedure with the following modifications:
+
+      (a) Bidders: Every Player not on Hold may Bid in an Auction. On
+          Hold status is measured at the time a Player sends eir
+          Bid. Any Player with the same Executor as the Auctioneer may
+          bid only in the first 72 hours of the Auction.
+
+      (b) Making Bids: If the Bidder has the same Executor as the
+          Auctioneer, then the Bids must be made in a message to a
+          Public Forum. Otherwise, the Bidder may either Bid in a
+          Public Forum or privately to the Auctioneer.
+
+      (c) End of Auction: The Auction shall end one week after it
+          begins.
+
+      (d) The Final Auction Price is:
+          (1) The amount of the largest nonwinning uncancelled valid
+              Bid, if there were N or more valid uncancelled Bids in
+              the Auction;
+          (2) The Starting Bid, if there were fewer than N valid
+              uncancelled Bids.
+          For the purpose of this Rule, N is equal to the number of
+          items being Auctioned.
+
+      The Auctioneer and eir Executor must treat all bids made in a
+      Vickrey Auction as secret while the Auction is in
+      progress. Other players, however, are free to reveal as much
+      about their bidding as they wish.
+
+History:
+Created by Proposal 4167 (root), 11 June 2001
+
+----------------------------------------------------------------------
+
+Rule 1984/0 (Power=1)
+Raffles
+
+      There is a type of Auction named a Raffle. The Auction Procedure
+      for a Raffle is as follows:
+
+      (a) Riff-Raff: The Riff-Raff is responsible for selling Raffle
+          tickets and announcing the result of the Raffle. Unless
+          otherwise specified, the Speaker shall be the Riff-Raff.
+
+      (b) Entrants: Every Player not on Hold may enter the Raffle. On
+          Hold status is measured at the time a Player enters the
+          Raffle.
+
+      (c) Raffle Currency: Each Raffle is conducted in one particular
+          currency. The Rule requiring a particular Raffle must
+          specify the currency to be used, or the Raffle cannot take
+          place.
+
+      (d) Number of Items: Each Raffle is conducted for 1 or more
+          identical items. Throughout this Rule, N indicates the
+          number of items up for bid in the Raffle.
+
+      (e) Start of Auction: The Raffle begins at the time the first
+          correct and legal announcement that a Raffle is begun, as
+          defined in other Rules, is published, together with the
+          identity of the Riff-Raff, the Raffle Currency, the number
+          of items, and the Ticket Price.
+
+      (f) Ticket Price: All tickets shall have the same Ticket Price.
+          If not otherwise specified, the Ticket Price shall be equal
+          to the MUQ of the Raffle Currency.
+
+      (g) Buying Tickets: An Entrant buys a ticket by paying a Fee of
+          the Ticket Price in the Raffle Currency to the Bank,
+          provided that the purchase is not made before the start of
+          the Auction, or after its end. Each Entrant may buy as many
+          tickets as e desires during the Auction.
+
+      (h) End of Raffle: If, one week after the Raffle started, no
+          Raffle tickets have been bought, the Raffle ends, and has no
+          winner. Otherwise the Raffle ends when 72 hours have passed
+          without a valid ticket purchase having been made. The Raffle
+          shall end 14 days after the Raffle has started, if it has
+          not ended earlier.
+
+      (i) Winning Tickets: When the Raffle ends, the Riff-Raff shall
+          randomly determine N valid Raffle tickets as having won the
+          Raffle. Each Raffle ticket has one chance to win, and
+          multiple Raffle tickets bought by the same Entrant may win.
+          If there were less than N valid Raffle tickets, then all
+          valid Raffle tickets shall be considered to have won the
+          Raffle.
+
+      (j) Final Auction Price: The Final Auction Price for a Raffle is
+          equal to the Ticket Price.
+
+      (k) Riff-Raff's Gratuity: Within a week after the end of the
+          Raffle, the Riff-Raff may pay out to emself the Ticket Price
+          in the Raffle Currency if:
+          (1) The Raffle had at least three separate winning Entrants,
+              not including the Riff-Raff; and
+          (2) The Riff-Raff has not already done so for that Raffle.
+
+      (l) Announcing Winners: As soon as possible after the end of the
+          Raffle, the Riff-Raff shall announce the winning tickets and
+          transfer to each winning Entrant a separate Auctioned item
+          for each of eir winning tickets.
+
+History:
+Created by Proposal 4167 (root), 11 June 2001
+
+----------------------------------------------------------------------
 
 
 ======================================================================
@@ -7504,8 +7574,6 @@ Amended(2) by Proposal 3533 (General Chaos), Jul. 15 1997
 Amended(3) by Proposal 4018 (Kelly), Jun. 21 2000
 
 ----------------------------------------------------------------------
-
-
 
 ======================================================================
 Bonds
@@ -7659,6 +7727,19 @@ Acceleration of Bonds
 
 History:
 Created by Proposal 4126 (Kelly), Mar. 28 2001
+
+----------------------------------------------------------------------
+
+Rule 1982/0 (Power=1)
+Calling Bonds
+
+      At any time, the issuer of a Bond may call that Bond by
+      publishing a notice stating that e is calling it.  When the
+      issuer of a Bond calls the bond, it is immediately accelerated,
+      as described elsewhere.
+
+History:
+Created by Proposal 4163 (Kelly), 11 June 2001
 
 ----------------------------------------------------------------------
 
