@@ -6294,7 +6294,7 @@ The Registrar
   This Category includes Rules concerning the Office of Registrar.
 ----------------------------------------------------------------------
 
-Rule 559/22 (Power=1)
+Rule 559/23 (Power=1)
 The Registrar
 
       The Registrar is an office; its holder is responsible for
@@ -6320,11 +6320,9 @@ The Registrar
 
         (vi) each player's Noisy/Quiet/Silent status, and the most
              recent date on which that player became Noisy, Quiet,
-             or Silent;
+             or Silent; and
 
-       (vii) the identity of the Distributor; and
-
-      (viii) a list of players who are Monks.
+       (vii) the identity of the Distributor.
 
 History:
 Created by Proposal 559 (Wes), ca. Oct. 7 1993
@@ -6351,6 +6349,7 @@ Amended(19) by Proposal 4259 (root), 21 February 2002
 Amended(20) by Proposal 4278 (harvel), 3 April 2002
 Amended(21) by Proposal 4435 (Murphy), 28 January 2003
 Amended(22) by Proposal 4563 (OscarMeyr), 6 April 2004
+Amended(23) by Proposal 4616 (OscarMeyr), 1 October 2004
 
 ----------------------------------------------------------------------
 
