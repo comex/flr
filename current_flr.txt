@@ -21,15 +21,15 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 273 Rules:
+There are currently 271 Rules:
     1 with Power=4
    23 with Power=3
-   40 with Power=2
-  209 with Power=1
+   39 with Power=2
+  208 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2066
-Highest Rule Number assigned so far: 2066
+Highest current Rule Number:         2067
+Highest Rule Number assigned so far: 2067
 
 ======================================================================
 Table of Contents:
@@ -55,6 +55,7 @@ Table of Contents:
   The Registrar
   The Rulekeepor
   Kudos
+  Cards
   Patent Titles
   Degrees and Theses
   Winning a Game
@@ -68,8 +69,6 @@ Table of Contents:
   Teams
   Winners' Hall of Ugly Fountains
 ----------------------------------------------------------------------
-
-
 
 ======================================================================
 The Game of Agora
@@ -1492,103 +1491,6 @@ Power of Attorney
 History:
 Created by Proposal 3739 (Swann), May 3 1998
 Amended(1) by Proposal 4190 (Steve), 18 July 2001
-
-----------------------------------------------------------------------
-
-Rule 1960/4 (Power=1)
-Roles
-
-      Role is a stuck player switch with values null, Acolyte, Patron,
-      Politician, and Scribe.
-
-      A player may flip eir role if one of the following is true:
-
-      a) Eir role is null.
-
-      b) E has not changed eir role in the past three months.
-
-      c) E has not changed eir role in the past six weeks, and e pays
-         a fee of 2 kudos for the purpose of making this change.
-
-      d) E pays a fee of 6 kudos for the purpose of making this
-         change.
-
-History:
-Created by Proposal 4085 (Blob), Nov. 16 2000
-Amended(1) by Proposal 4175 (Elysion), 7 July 2001
-Amended(2) by Proposal 4486 (Michael), 24 April 2003
-Amended(3) by Proposal 4523 (Murphy), 28 August 2003
-Amended(4) by Proposal 4561 (Sherlock), 22 March 2004
-
-----------------------------------------------------------------------
-
-Rule 1986/7 (Power=2)
-Role-Based Powers
-
-      An action is a Progressive action if the rules so state.
-
-      If an action is progressive, a Player (the Actor) may perform
-      the action either:
-
-      (a) with the Support of a number Players equal to one plus the
-          number of times that actor has performed that action in the
-          current week;
-      (b) by paying a fee equal to the amount of Support required in
-          (a);
-      (c) if the number calculated in (a) is zero, by public
-          announcement.
-
-      A progressive action may be associated with a role if the rules
-      so state.  If an progressive action is associated with a role,
-      only players who hold that role may perform, or support
-      performance of, that action.
-
-      Rubberstamping a Proposal is a progressive action for Scribes.
-      A Rubberstamped Proposal becomes Distributable.
-
-      Absolving an entity is a progressive action for Acolytes.
-      Absolving an entity expunges 1 Blot from that entity.
-
-      Debating an Undistributed Proposal is a progressive Action for
-      Politicians.  The effect of Debating a Proposal is to change its
-      Chamber to one named by the Politician, provided it is legal for
-      that Proposal to be in the named Chamber and the Proposal is not
-      Sane.
-
-
-History:
-Created by Proposal 4174 (Kelly), 7 July 2001
-Amended(1) by Proposal 4254 (Goethe), 21 February 2002
-Amended(2) by Proposal 4281 (Goethe), 16 April 2002
-Amended(3) by Proposal 4282 (Goethe), 16 April 2002
-Amended(4) by Proposal 4398 (harvel), 23 October 2002
-Amended(5) by Proposal 4401 (Goddess Eris), 23 October 2002
-Amended(6) by Proposal 4486 (Michael), 24 April 2003
-Amended(7) by Proposal 4493 (Steve), 13 May 2003
-
-----------------------------------------------------------------------
-
-Rule 2065/0 (Power=1)
-Role-Based Powers
-
-      For Acolytes, Absolving an entity is a progressive action.
-      Absolving an entity expunges 1 Blot from that entity.
-
-      For Patrons, Donating to a Team is a progressive Action.  The
-      effect of Donating to a Team is to increase that Team's Team
-      Points by 5.
-
-      For Politicians, Debating an Undistributed Proposal is a
-      progressive Action.  The effect of Debating a Proposal is to
-      change its Chamber to one named by the Politician, provided it
-      is legal for that Proposal to be in the named Chamber and the
-      Proposal is not Sane.
-
-      For Scribes, Rubberstamping a Proposal is a progressive action.
-      A Rubberstamped Proposal becomes Distributable.
-
-History:
-Created by Proposal 4561 (Sherlock), 22 March 2004
 
 ----------------------------------------------------------------------
 
@@ -3471,18 +3373,21 @@ Amended(1) by Proposal 4159 (Kelly), 5 June 2001
 
 ----------------------------------------------------------------------
 
-Rule 1933/5 (Power=2)
+Rule 1933/6 (Power=2)
 A Proposal's Chamber
 
       Chamber is a stuck switch for Proposals with values Ordinary and
       Democratic.
 
-      Rules to the nonwithstanding, a Proposal can never be Ordinary
-      if its Adoption Index is two (2) or greater.
+      An Ordinary Proposal with Adoption Index of two (2) or greater
+      is a Stalled Proposal.  Rules to the contrary notwithstanding, a
+      Stalled Proposal may not be distributed.  If a proposal is
+      distributed that was Stalled at the time of distribution, the
+      Promotor shall abort it as soon as possible.
 
-      Every Proposals is initially Ordinary unless the above
-      limitation applies to it, in which case it is initially
-      Democratic.  The Chamber of a Proposal may only be changed as
+      Every Proposal is initially Democratic, unless its Adoption
+      Index is less than two (2), in which case it is initially
+      Ordinary.  The Chamber of a Proposal may only be changed as
       specified by an instrument with Power greater than or equal to
       two (2).
 
@@ -3494,6 +3399,7 @@ Amended(2) by Proposal 4018 (Kelly), Jun. 21 2000
 Amended(3) by Proposal 4111 (Elysion), Feb. 20 2001
 Amended(4) by Proposal 4282 (Goethe), 16 April 2002
 Amended(5) by Proposal 4539 (Goethe), 16 November 2003
+Amended(6) by Proposal 4570 (Elysion), 2 May 2004
 
 ----------------------------------------------------------------------
 
@@ -6841,6 +6747,42 @@ Amended(7) by Proposal 4018 (Kelly), Jun. 21 2000
 Amended(8) by Proposal 4033 (Chuck), Aug. 2 2000
 Amended(9) by Proposal 4151 (Kelly), 13 May 2001
 Amended(10) by Proposal 4486 (Michael), 24 April 2003
+
+----------------------------------------------------------------------
+
+======================================================================
+Cards
+  This Category includes Rules regulating Cards.
+----------------------------------------------------------------------
+
+Rule 2067/0 (Power=1)
+Cards in Play
+
+      The following Classes of Cards are defined:
+
+      * Caption: Distrib-u-Matic
+        Elements: Budgeted
+        Exploit: Cause any one Proposal to become Distributable.
+
+      * Caption: Absolv-o-Matic
+        Elements: Budgeted,
+                  Limited [Immaculate Players] [1]
+        Exploit: Expunge one Blot from any one entity.
+
+      * Caption: Debate-o-Matic
+        Elements: Budgeted
+        Exploit: Change the Chamber of any one non-Sane Proposal to
+          the Chamber of your choice, provided it is legal for that
+          Proposal to be in the named Chamber.
+
+      * Caption: Boost-o-Matic
+        Elements: Budgeted
+        Exploit: Increase any one Team's Team Points by 5.
+        Exploit: Increase any one Team's Team Points by 10 for a Fee
+          of 1 Kudo.
+
+History:
+Created by Proposal 4569 (Wes), 2 May 2004
 
 ----------------------------------------------------------------------
 
