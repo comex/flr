@@ -3298,7 +3298,7 @@ Amended(1) by Proposal 4159 (Kelly), 5 June 2001
 
 ----------------------------------------------------------------------
 
-Rule 1933/6 (Power=2)
+Rule 1933/7 (Power=2)
 A Proposal's Chamber
 
       Chamber is a stuck switch for Proposals with values Ordinary and
@@ -3306,8 +3306,8 @@ A Proposal's Chamber
 
       An Ordinary Proposal with Adoption Index of two (2) or greater
       is a Stalled Proposal.  Rules to the contrary notwithstanding, a
-      Stalled Proposal may not be distributed.  If a proposal is
-      distributed that was Stalled at the time of distribution, the
+      Proposal is Undistributable while it is Stalled. If a proposal
+      is distributed that was Stalled at the time of distribution, the
       Promotor shall abort it as soon as possible.
 
       Every Proposal is initially Democratic, unless its Adoption
@@ -3325,6 +3325,7 @@ Amended(3) by Proposal 4111 (Elysion), Feb. 20 2001
 Amended(4) by Proposal 4282 (Goethe), 16 April 2002
 Amended(5) by Proposal 4539 (Goethe), 16 November 2003
 Amended(6) by Proposal 4570 (Elysion), 2 May 2004
+Amended(7) by Proposal 4590 (Elysion), 4 July 2004
 
 ----------------------------------------------------------------------
 
@@ -4243,7 +4244,7 @@ Amended(3) by Proposal 4250 (harvel), 19 February 2002
 
 ----------------------------------------------------------------------
 
-Rule 1958/1 (Power=1)
+Rule 1958/2 (Power=1)
 Nominating with Budgets
 
       (a) If an office has a budget, then a nomination in an election
@@ -4260,18 +4261,20 @@ Nominating with Budgets
           to the current budget for that Office.  If the current
           budget is not valid, tough cookies.
 
-      (d) When the voting period begins, the vote collector shall
-          announce each candidate's last valid proto-budget.
+      (d) As soon as possible after the end of the nominating period,
+          the vote collector shall announce each candidate's last
+          valid proto-budget.
 
-      (e) When the voting period ends, the winner's last valid
-          proto-budget becomes the budget of that office, and e shall
-          announce it as soon as possible. If the election ends
-          without a winner, then the existing Budget remains in
+      (e) When the election ends, the winner's last valid proto-budget
+          becomes the budget of that office, and the winner shall
+          announce it as soon as possible.  If the election ends
+          without a winner, then the existing budget remains in
           effect.
 
 History:
 Created by Proposal 4054 (Oerjan), Aug. 21 2000
 Amended(1) by Proposal 4480 (Steve), 23 April 2003
+Amended(2) by Proposal 4589 (Murphy), 4 July 2004
 
 ----------------------------------------------------------------------
 
@@ -4777,19 +4780,30 @@ Amended(12) by Proposal 4563 (OscarMeyr), 6 April 2004
 
 ----------------------------------------------------------------------
 
-Rule 1450/3 (Power=1)
-Speaker Cannot Stay ADoP, CotC or Justiciar
+Rule 1450/4 (Power=1)
+Judicial Separation
 
-      If at any time the Speaker shall be the Electee to any of the
-      Office of ADoP, the Office of CotC, or the Office of Justiciar,
-      e shall be retired from whichever of those Offices e is Electee
-      to.
+      Whenever the Speaker is Electee to the Office of Clerk of the
+      Courts, e is retired from that Office.
+
+      Whenever the Speaker is Electee to the Office of Justiciar, e is
+      retired from that Office.
+
+      Whenever a Player is both Clerk of the Courts and Justiciar, e
+      is removed from the Office of Justiciar.
+
+      Neither the Speaker, the Justiciar, nor a nominee for Justiciar
+      may be nominated for Clerk of the Courts.
+
+      Neither the Speaker, the Clerk of the Courts, nor a nominee for
+      Clerk of the Courts may be nominated for Justiciar.
 
 History:
 Created by Proposal 1547, Apr. 14 1995
 Amended(1) by Proposal 2442, Feb. 6 1996
 Amended(2) by Proposal 3742 (Harlequin), May 8 1998
 Amended(3) by Proposal 4576 (Murphy), 31 May 2004
+Amended(4) by Proposal 4592 (Murphy), 4 July 2004
 
 ----------------------------------------------------------------------
 
@@ -5810,15 +5824,11 @@ Amended(12) by Proposal 4579 (Murphy), 15 June 2004
 
 ----------------------------------------------------------------------
 
-Rule 910/10 (Power=1)
+Rule 910/11 (Power=1)
 The Justiciar
 
       The Justiciar is an office; its holder is responsible for
       justice and for serving on a Board of Appeals when necessary.
-
-      Neither the Speaker nor the Clerk of the Courts (CotC) may
-      nominate for the office of Justiciar; if the Justiciar ever
-      becomes CotC, e is removed from the office of Justiciar.
 
 History:
 Created by Proposal 910, May 4 1994
@@ -5832,6 +5842,7 @@ Amended(7) by Proposal 3827 (Kolja A.), Feb. 4 1999
 Amended(8) by Proposal 3871 (Peekee), Jun. 2 1999
 Amended(9) by Proposal 3902 (Murphy), Sep. 6 1999
 Amended(10) by Proposal 4250 (harvel), 19 February 2002
+Amended(11) by Proposal 4592 (Murphy), 4 July 2004
 
 ----------------------------------------------------------------------
 
