@@ -21,15 +21,15 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 273 Rules:
+There are currently 277 Rules:
     1 with Power=4
    23 with Power=3
    39 with Power=2
-  210 with Power=1
+  214 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2085
-Highest Rule Number assigned so far: 2085
+Highest current Rule Number:         2089
+Highest Rule Number assigned so far: 2090
 
 ======================================================================
 Table of Contents:
@@ -57,7 +57,7 @@ Table of Contents:
   Kudos
   Cards
   Patent Titles
-  Degrees and Theses
+  The University of Agora
   Indulgences and Blots
   Changing Speakers
   Subordinate Legal Codes
@@ -1416,7 +1416,7 @@ Amended(6) by Proposal 4211 (harvel), 10 September 2001
 
 ----------------------------------------------------------------------
 
-Rule 1841/5 (Power=1)
+Rule 1841/6 (Power=1)
 Granting Power of Attorney
 
       (a) A Player (the Grantor) who has been continuously registered
@@ -1440,7 +1440,7 @@ Granting Power of Attorney
           the grant, or at the time specified by the Grantor,
           whichever is latest. If the Grantor specifies a time at
           which the grant of PoA is to commence, it must be a time no
-          more than seven says from the Grantor's announcement. Later
+          more than seven days from the Grantor's announcement. Later
           specifications are without effect for the purposes of this
           Rule.
 
@@ -1467,6 +1467,7 @@ Amended(2) by Proposal 4147 (Wes), 13 May 2001
 Amended(3) by Proposal 4190 (Steve), 18 July 2001
 Amended(4) by Proposal 4211 (harvel), 10 September 2001
 Amended(5) by Proposal 4278 (harvel), 3 April 2002
+Amended(6) by Proposal 4656 (Quazie), 29 March 2005
 
 ----------------------------------------------------------------------
 
@@ -1527,7 +1528,7 @@ Amended(9) by Proposal 4250 (harvel), 19 February 2002
 
 ----------------------------------------------------------------------
 
-Rule 1686/11 (Power=1)
+Rule 1686/12 (Power=1)
 Official Reports
 
       The Rules may designate certain information to be part of an
@@ -1543,15 +1544,18 @@ Official Reports
       shall announce this fact.  The only condition for mauveness is
       being nicknamed Blob.
 
-      Each officer with a Weekly Report must publish it weekly; each
-      officer with a Monthly Report must publish it monthly.  Failure
-      to do so is the Class 2 Infraction of Failure to Report.  If an
-      officer fails to do so for at least three consecutive reporting
-      periods, e may be cited for either Failure to Report or the
-      Class 10 Infraction of Dereliction of Duty but not both.  Any
-      officer cited for Dereliction of Duty is immediately removed
-      from that office. The Assistant Director of Personnel and the
-      Speaker may report these Infractions.
+      Each officer with a Weekly Report must publish it weekly unless
+      the content of the report would substantially be the same as in
+      the previously published report. In this case, a report must
+      only be published within one week of the next substantial change
+      to the report's content. Each officer with a Monthly Report must
+      publish it monthly.  Failure to do so is the Class 2 Infraction
+      of Failure to Report.  If an officer fails to do so for at least
+      three consecutive reporting periods, e may be cited for either
+      Failure to Report or the Class 10 Infraction of Dereliction of
+      Duty but not both.  Any officer cited for Dereliction of Duty is
+      immediately removed from that office. The Assistant Director of
+      Personnel and the Speaker may report these Infractions.
 
 History:
 Created by Proposal 2839 (Zefram), Mar. 11 1997
@@ -1566,6 +1570,7 @@ Amended(8) by Proposal 4147 (Wes), 13 May 2001
 Amended(9) by Proposal 4164 (Murphy), 11 June 2001
 Amended(10) by Proposal 4250 (harvel), 19 February 2002
 Amended(11) by Proposal 4489 (root), 6 May 2003
+Amended(12) by Proposal 4655 (Kolja), 29 March 2005
 
 ----------------------------------------------------------------------
 
@@ -2533,7 +2538,7 @@ Making Proposals
   submission and distribution of Proposals, and the Proposal Pool.
 ----------------------------------------------------------------------
 
-Rule 1483/9 (Power=1)
+Rule 1483/10 (Power=1)
 Definition of Proposals
 
       A Proposal is created when a Legislator who is not Mute
@@ -2542,11 +2547,6 @@ Definition of Proposals
       Proposal and the entity delivering that text becomes the
       Proposer of that Proposal. This process is known as Proposing or
       submitting a Proposal.
-
-      The delivery of text identical to another Proposal which was
-      Proposed less than three weeks previous does not create a
-      new Proposal unless accompanied by a clear and explicit
-      indication that the intent was to Propose a duplicate Proposal.
 
       The publishing of the Proposal Pool never creates new
       Proposals.
@@ -2569,6 +2569,7 @@ Amended(7) by Proposal 3990, "Harsher Blot Penalties", (Elysion),
   Mar. 30 2000
 Amended(8) by Proposal 4050 (t), Aug. 15 2000
 Amended(9) by Proposal 4147 (Wes), 13 May 2001
+Amended(10) by Proposal 4658 (root), 29 March 2005
 
 ----------------------------------------------------------------------
 
@@ -4960,7 +4961,7 @@ Amended(7) by Proposal 4398 (harvel), 23 October 2002
 
 ----------------------------------------------------------------------
 
-Rule 2024/1 (Power=1)
+Rule 2024/2 (Power=1)
 Linked Statements
 
       Linked CFJs are multiple Calls for Judgement submitted in a
@@ -4990,13 +4991,16 @@ Linked Statements
 
       If a Trial Judge is recused from a Linked CFJ, then it ceases to
       be Linked to any other CFJ.  If a Trial Judge is recused from
-      two or more Linked CFJs in a single message, then those CFJs
-      continue to be Linked to each other, but not to any other CFJs
-      to which the Judge is still assigned.
+      two or more Linked CFJs in a single message, or if a Trial Judge
+      is simultaneously and automatically recused from two or more
+      Linked CFJs, then those CFJs continue to be Linked to each
+      other, but not to any other CFJs to which the Judge is still
+      assigned.
 
 History:
 Created by Proposal 4298 (Murphy), 17 May 2002
 Amended(1) by Proposal 4579 (Murphy), 15 June 2004
+Amended(2) by Proposal 4659 (root), 29 March 2005
 
 ----------------------------------------------------------------------
 
@@ -6887,19 +6891,22 @@ Amended(1) by Proposal 4625 (Goethe), 20 November 2004
 Amended(2) by Proposal 4633 (Goethe), 9 January 2005
 
 ----------------------------------------------------------------------
-Rule 2074/0 (Power=2)
+Rule 2074/1 (Power=2)
 Hand Flux
 
       Flux is a stuck switch for Gamblers with states Free and Frozen.
-      Rules to the contrary nonwithstanding, a Gambler with frozen
+      Rules to the contrary notwithstanding, a Gambler with frozen
       flux may not play, discard, or transfer cards from eir hand, nor
-      may the Deckmastor satisfy pending draws for that hand.
+      may the Deckmastor satisfy pending draws for that hand. However,
+      the Deckmastor may by public announcement discard cards from any
+      Frozen Gambler as required by the Rules.
 
       The Deck's flux shall always be free, rules to the contrary
-      nonwithstanding.
+      notwithstanding.
 
 History:
 Created by Proposal 4614 (Goethe), 21 September 2004
+Amended(1) by Proposal 4660 (root), 29 March 2005
 
 ----------------------------------------------------------------------
 Rule 2075/2 (Power=1)
@@ -7470,14 +7477,93 @@ The Garden
       the Herald may repeal this Rule without Objection.
 
 History:
-Created by by Proposal 4486 (Michael), 24 April 2003
+Created by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
 ======================================================================
-Degrees and Theses
-  This Category includes Rules concerning Theses and that subset
-  of Patent Titles known as Degrees.
+The University of Agora
+  This Category includes Rules concerning the University of Agora,
+  Theses and that subset of Patent Titles known as Degrees.
+----------------------------------------------------------------------
+
+Rule 2086/0 (Power=1)
+The University of Agora
+
+      The University is an Entity.
+
+      As President of the University, the Speaker is the sole Executor
+      of the University, but may take no action on behalf of The
+      University except as explicitly permitted by the Rules.
+
+      Education is a stuck Player switch with values Student and
+      Faculty Member.  The Herald shall flip the Education switch to
+      Faculty Member for a Player as soon as possible after that
+      Player is awarded a Degree.  The Herald is the recordkeepor of
+      Education.
+
+History:
+Created by Proposal 4657 (Sherlock), 29 March 2005
+
+----------------------------------------------------------------------
+
+Rule 2087/0 (Power=1)
+Research Grants
+
+      The University offers Research Grants for projects that improve
+      the intellectual, cultural and social life of Agora.  The
+      Speaker may announce a Research Grant by publicly describing a
+      task to be performed and stating a number between one and five.
+
+      If another Player completes this task to the Speaker's
+      satisfaction within the next month, the Speaker shall award to
+      that Player an equal number of Boons of Achievement, without two
+      objections.  No more than one Player may receive this award.  If
+      more than one Player undertakes the task, the Speaker shall
+      choose only one Player to receive the award.
+
+History:
+Created by Proposal 4657 (Sherlock), 29 March 2005
+
+----------------------------------------------------------------------
+
+Rule 2088/0 (Power=1)
+The University Book Club
+
+      The University sponsors a monthly Book Club.  During the first
+      week of each month the first Player who publically specifies a
+      rule as that month's Book Club Selection becomes the Moderator
+      for the University Book Club.  The Assessor shall award one Boon
+      of Refinement apiece to the Moderator and Proposer for the first
+      passed proposal within the next thirty days that either amends
+      or repeals this Selection.
+
+History:
+Created by Proposal 4657 (Sherlock), 29 March 2005
+
+----------------------------------------------------------------------
+
+Rule 2089/0 (Power=1)
+Gardner Library
+
+      The University (hereafter the Library) is a Gambler.  Whenever
+      the Library has fewer than five Cards, the Deckmastor shall as
+      soon as possible deal randomly chosen Cards to the Library until
+      it has five cards.
+
+      A Player (hereafter the Borrower) may check out a specified Card
+      from the Library by paying a Fee for the Library's upkeep.  The
+      fee is 2 Kudos for Students and 1 Kudo for Faculty Members.  The
+      Card is considered reserved and may not be checked out by any
+      Player until it is dealt to the Library again by the Deckmastor.
+
+      As soon as possible after a Card is checked out from the Library
+      and it is within the Speaker's ability to do so, the Speaker
+      shall transfer the Card from the Library to the Borrower.
+
+History:
+Created by Proposal 4657 (Sherlock), 29 March 2005
+
 ----------------------------------------------------------------------
 
 Rule 1367/6 (Power=1)
