@@ -21,10 +21,10 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 271 Rules:
+There are currently 272 Rules:
     1 with Power=4
    23 with Power=3
-   36 with Power=2
+   37 with Power=2
   211 with Power=1
 
 Lowest current Rule Number:           101
@@ -7121,6 +7121,23 @@ Ephemera
 
 History:
 Created by Proposal 4486 (Michael), 24 April 2003
+
+----------------------------------------------------------------------
+
+Rule 2050/0 (Power=2)
+The Garden
+
+      A Daffodil is a Boon that may be awarded as the Rules specify or
+      by an Instrument of Power 2 or greater.
+
+      A Weed is an Albatross that may be awarded as the Rules specify
+      or by an Instrument of Power 2 or greater.
+
+      If there are no Players that hold at least one Weed or Daffodil,
+      the Herald may repeal this Rule without Objection.
+
+History:
+Created by by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
