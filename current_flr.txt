@@ -7536,15 +7536,14 @@ Amended(1) by Proposal 4176 (root), 7 July 2001
 
 ----------------------------------------------------------------------
 
-Rule 1984/2 (Power=1)
+Rule 1984/3 (Power=1)
 Raffles
 
       There is a type of Auction named a Raffle. The Auction Procedure
       for a Raffle is as follows:
 
-      (a) Riff-Raff: The Riff-Raff is responsible for selling Raffle
-          tickets and announcing the result of the Raffle. Unless
-          otherwise specified, the Speaker shall be the Riff-Raff.
+      (a) Auctioneer: The Auctioneer is responsible for conducting the
+          Raffle. The Auctioneer is herein known as the Riff-Raff.
 
       (b) Entrants: Every Player not on Hold may enter the Raffle. On
           Hold status is measured at the time a Player enters the
@@ -7593,17 +7592,14 @@ Raffles
           valid Raffle tickets shall be considered to have won the
           Raffle.
 
-      (j) Final Auction Price: The Final Auction Price for a Raffle is
-          equal to the Ticket Price.
-
-      (k) Riff-Raff's Gratuity: Within a week after the end of the
+      (j) Riff-Raff's Gratuity: Within a week after the end of the
           Raffle, the Riff-Raff may pay out to emself the Ticket Price
           in the Raffle Currency if:
           (1) The Raffle had at least three separate winning Entrants,
               not including the Riff-Raff; and
           (2) The Riff-Raff has not already done so for that Raffle.
 
-      (l) Announcing Winners: As soon as possible after the end of the
+      (k) Announcing Winners: As soon as possible after the end of the
           Raffle, the Riff-Raff shall announce the winning tickets.
           Upon this announcement, the owner of the Auctioned items
           shall incur a debt of one Auctioned lot of items to each
@@ -7613,6 +7609,7 @@ History:
 Created by Proposal 4167 (root), 11 June 2001
 Amended(1) by Proposal 4176 (root), 7 July 2001
 Amended(2) by Proposal 4177 (Elysion), 7 July 2001
+Amended(3) by Proposal 4265 (Steve), 17 March 2002
 
 ----------------------------------------------------------------------
 
