@@ -21,15 +21,15 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 281 Rules:
+There are currently 282 Rules:
     1 with Power=4
    22 with Power=3
    39 with Power=2
-  219 with Power=1
+  220 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2052
-Highest Rule Number assigned so far: 2052
+Highest current Rule Number:         2054
+Highest Rule Number assigned so far: 2054
 
 ======================================================================
 Table of Contents:
@@ -69,7 +69,6 @@ Table of Contents:
   The Notary
   Groups and Contests
   Teams
-  The Land of Arcadia
   Winners' Hall of Ugly Fountains
 ----------------------------------------------------------------------
 
@@ -1483,7 +1482,7 @@ Amended(2) by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
-Rule 1986/6 (Power=2)
+Rule 1986/7 (Power=2)
 Role-Based Powers
 
       An action is a Progressive action if the rules so state.
@@ -1500,7 +1499,7 @@ Role-Based Powers
           announcement.
 
       A progressive action may be associated with a role if the rules
-      so state.  If an energetic action is associated with a role,
+      so state.  If an progressive action is associated with a role,
       only players who hold that role may perform, or support
       performance of, that action.
 
@@ -1525,6 +1524,7 @@ Amended(3) by Proposal 4282 (Goethe), 16 April 2002
 Amended(4) by Proposal 4398 (harvel), 23 October 2002
 Amended(5) by Proposal 4401 (Goddess Eris), 23 October 2002
 Amended(6) by Proposal 4486 (Michael), 24 April 2003
+Amended(7) by Proposal 4493 (Steve), 13 May 2003
 
 ----------------------------------------------------------------------
 
@@ -6664,7 +6664,7 @@ Patent Titles
   This Category includes Rules regulating Patent Titles.
 ----------------------------------------------------------------------
 
-Rule 649/14 (Power=1)
+Rule 649/15 (Power=1)
 Patent Titles
 
       A Patent Title is a legal item of recognition of a person's
@@ -6684,10 +6684,10 @@ Patent Titles
       which Title has been awarded to or revoked from which person or
       persons.
 
-      Unless otherwise specified, each Patent Title has Historical
-      Significance.  The Herald may, Without Objection, cause that
-      Title to lose its Historical Significance.  That Title
-      immediately gains Hysterical Significance.
+      Significance is a stuck switch for Patent Titles with states
+      Historical, Hysterical, and Ephemeral.  The Herald may, Without
+      Objection, cause a Title be switched from Historical
+      Significance to Hysterical Significance.
 
 History:
 Created by Proposal 649 (Wes), ca. Oct. 22 1993
@@ -6709,6 +6709,7 @@ Amended(11) by Proposal 3968 (harvel), Feb. 4 2000
 Amended(12) by Proposal 4002 (harvel), May 8 2000
 Amended(13) by Proposal 4110 (Ziggy), Feb. 13 2001
 Amended(14) by Proposal 4147 (Wes), 13 May 2001
+Amended(15) by Proposal 4497 (Steve), 13 May 2003
 
 ----------------------------------------------------------------------
 
@@ -6831,12 +6832,12 @@ Amended(2) by Proposal 4173 (Goethe), 26 June 2001
 Rule 2049/0 (Power=1)
 Ephemera
 
-      A Patent Title is Ephemeral if the rules state that the Patent
-      Title is ephemeral.  Karma is a stuck switch for ephemeral
-      patent titles with states Boon and Albatross.  Defining
-      something to be a 'boon' or an 'albatross' is equivalent to
-      defining it to be an ephemeral Patent Title with its Karma set
-      as defined.
+      A Patent Title has Ephemeral significance if the rules state
+      that the Patent Title is ephemeral.  Karma is a stuck switch for
+      ephemeral patent titles with states Boon and Albatross.
+      Defining something to be a 'boon' or an 'albatross' is
+      equivalent to defining it to be an ephemeral Patent Title with
+      its Karma set as defined.
 
       Players may be permitted or required by the Rules to award or
       revoke Boons or Albatrosses.  If so, these awards are performed
@@ -7060,7 +7061,7 @@ Property
   This Category includes Rules concerning Property in general.
 ----------------------------------------------------------------------
 
-Rule 1942/3 (Power=1)
+Rule 1942/4 (Power=1)
 Property
 
       A property is an entity which the rules permit to be possessed
@@ -7080,11 +7081,21 @@ Property
       this record and any changes thereto since the last posting of
       eir Report.
 
+      If a category of properties ceases to exist, all debts of that
+      property shall cease to exist.  The former recordkeepor of that
+      property category must, as soon as possible after the category
+      ceases to exist, publish entities' holdings of that category as
+      they existed immediately before this destruction.
+
+      If a Player destroys a category of property for which e is a
+      debtor, e commits the Class-4 Crime of Writing Bad Checks.
+
 History:
 Created by Proposal 4018 (Kelly), Jun. 21 2000
 Amended(1) by Proposal 4110 (Ziggy), Feb. 13 2001
 Amended(2) by Proposal 4250 (harvel), 19 February 2002
 Amended(3) by Proposal 4486 (Michael), 24 April 2003
+Amended(4) by Proposal 4497 (Steve), 13 May 2003
 
 ----------------------------------------------------------------------
 
@@ -7120,7 +7131,7 @@ Amended(1) by Proposal 4190 (Steve), 18 July 2001
 
 ----------------------------------------------------------------------
 
-Rule 1908/4 (Power=1)
+Rule 1908/5 (Power=1)
 Abandoned Property
 
       Property possessed by an entity (the Dissolute) without a Prime
@@ -7137,8 +7148,8 @@ Abandoned Property
       (2) forgive in part or in full any debts owed to em;
 
       (3) Without Objection, transfer property owned by em to the
-          Bank, unless the Dissolute was a player before eir property
-          was abandoned; or
+          Mintor or Recordkeepor of that Property, unless the
+          Dissolute was a player before eir property was abandoned; or
 
       (4) transfer property to satisfy the Dissolute's Will, provided
           that the Dissolute was not Silent when e lost eir Prime
@@ -7156,6 +7167,7 @@ Amended(1) by Proposal 3930 (Murphy), Oct. 17 1999
 Amended(2) by Proposal 4018 (Kelly), Jun. 21 2000
 Amended(3) by Proposal 4082 (Peekee), Oct. 30 2000
 Amended(4) by Proposal 4211 (harvel), 10 September 2001
+Amended(5) by Proposal 4497 (Steve), 13 May 2003
 
 ----------------------------------------------------------------------
 
@@ -7807,7 +7819,7 @@ Amended(6) by Proposal 4467 (OscarMyer), 17 March 2003
 
 ----------------------------------------------------------------------
 
-Rule 1930/5 (Power=1)
+Rule 1930/6 (Power=1)
 Scoring
 
       (a) If a Player wins a contested Election, e may be Awarded 10
@@ -7842,8 +7854,9 @@ Scoring
       (j) If a Judgement is Overturned on Appeal, the original Judge
           may be Penalized 5 Points.
 
-      (k) If a Player gains a Patent Title which e has not held during
-          the 7 days prior to gaining it, e may be Awarded 5 Points.
+      (k) If a Player gains a Historical Patent Title which e has not
+          held during the 7 days prior to gaining it, e may be Awarded
+          5 Points.
 
       (l) If a Player is granted a Degree e has not previously held, e
           may be Awarded 10 Points.
@@ -7855,6 +7868,7 @@ Amended(2) by Proposal 4141 (Wes), Apr. 15 2001
 Amended(3) by Proposal 4320 (t), 28 May 2002
 Amended(4) by Proposal 4365 (Steve), 23 August 2002
 Amended(5) by Proposal 4408 (OscarMeyr), 30 October 2002
+Amended(6) by Proposal 4497 (Steve), 13 May 2003
 
 ----------------------------------------------------------------------
 
@@ -8926,7 +8940,7 @@ Teams
   This Category includes Rules about Player Teams
 ----------------------------------------------------------------------
 
-Rule 2041/0 (Power=1)
+Rule 2041/1 (Power=1)
 Teams
 
       All Players are grouped into units known as Teams.  No Player
@@ -8936,12 +8950,75 @@ Teams
       in a Team may change that Team's Team Name with the Support of
       two other Players in the same Team.
 
-      A Team Score is at all times an integer.  The Team Score of a
-      Team is the total sum of all Points of all Players grouped into
-      that Team.
-
 History:
 Created by Proposal 4453 (Sherlock), 22 February 2003
+Amended(1) by Proposal 4494 (Peekee), 13 May 2003
+
+----------------------------------------------------------------------
+
+Rule 2053/0 (Power=1)
+Team Points, Team Scores
+
+      A Team Score is at all times an integer.  The Team Score of a
+      Team is the total sum of all Points of all Players grouped into
+      that Team, plus the Team's Team Points.
+
+      A Team who has not been Awarded or Penalized since the last Team
+      Win has zero Team Points.
+
+      The Rules may specify that certain events may cause a certain
+      Team to be Awarded or Penalised Team Points. If said event
+      occurs, then any Player may notify the Scorekeepor of the Award
+      or Penalty. The Scorekeepor shall then note the change in the
+      affected Team Points.
+
+      Such a notification must meet the following requirements, else
+      it is ineffective:
+      -- It must be sent within 7 days of the event
+      -- It must unambiguously describe the event
+      -- It must indicate the Rule allowing the Award or Penalty
+      -- It must be the first valid notification for that specific
+         event
+
+History:
+Created by by Proposal 4494 (Peekee), 13 May 2003
+
+----------------------------------------------------------------------
+
+Rule 2054/0 (Power=1)
+Team Scoring
+
+      (a) If all the Players on a Team Vote on a Democratic Proposal,
+          the Team may be Awarded 10 Team Points.
+
+      (b) If none of the Players on a Team Vote on a Democratic
+          Proposal, the Team may be Penalised 20 Team Points.
+
+      (c) If all the players on a Team vote FOR a Democratic Proposal
+          and none of them vote AGAINST it, or all the players on a
+          Team vote AGAINST a Democratic Proposal and none of them
+          vote FOR it, the Team may be awarded 10 Team points.
+
+      (d) If all the Players on a Team Vote in an Election, the Team
+          may be Awarded 10 Team Points.
+
+      (e) If none of the Players on a Team Vote in an Election, the
+          Team may be Penalised 20 Team Points.
+
+      (f) If all the Players on a Team Vote for the same Candidate in
+          an Election, the Team may be awarded 10 Team Points.
+
+      (g) If a Revolt succeeds, and every Player on a Team is
+          Rebellious, the Team may be Awarded 30 Points.
+
+      (h) If a Revolt fails, and every Player on a Team is Rebellious,
+          the Team may be Penalised 30 Points.
+
+      (i) Once in each Agoran week if all the Players on a Team are
+          Immaculate, the Team may be Awarded 5 Team Points.
+
+History:
+Created by Proposal 4494 (Peekee), 13 May 2003
 
 ----------------------------------------------------------------------
 
@@ -8995,34 +9072,6 @@ New Player Team Assignment
 
 History:
 Created by Proposal 4453 (Sherlock), 22 February 2003
-
-----------------------------------------------------------------------
-
-
-======================================================================
-The Land of Arcadia
-  This Category includes Rules about the virtual Land of Arcadia
-----------------------------------------------------------------------
-
-Rule 1999/0 (Power=1)
-Entity Location
-
-      The following Entities shall each have a single defined Location
-      corresponding to a single Latitude, Longitude pair within the
-      limits set in the Rules for Latitude and Longitude on the Map of
-      Arcadia:
-              (a) Every Player;
-              (b) Every Organization.
-      No other Entity shall have a location unless it is defined in
-      other Rules.  The Location of an Entity may not be set or
-      changed except as explicitly permitted by the Rules or an
-      instrument of Power 1 or greater.  If an Entity is specified by
-      this Rule as having a defined Location, but its Location has not
-      been explicity set or changed, its Location shall be Latitude 0,
-      Longitude 0.
-
-History:
-Created by Proposal 4197 (Goethe), 8 August 2001
 
 ----------------------------------------------------------------------
 
