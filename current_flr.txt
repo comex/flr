@@ -6897,7 +6897,7 @@ Created by Proposal 4569 (Wes), 2 May 2004
 
 ----------------------------------------------------------------------
 
-Rule 2071/0 (Power=1)
+Rule 2071/1 (Power=1)
 Wacky Cards
 
       The following Classes of Cards are defined:
@@ -6950,8 +6950,16 @@ Wacky Cards
         Elements: Handed [2]
         Exploit: You may Draw two Cards without paying a Fee.
 
+      * Caption: Discard and Draw
+        Quota: 1
+        Elements: None
+        Exploit: Discard X cards from your hand.  For a fee of
+          X Kudos, draw X cards.  Do not include this card as
+          one of the discarded cards.
+
 History:
 Created by Proposal 4574 (Wes), 14 May 2004
+Amended(1) by Proposal 4607 (Goethe), 8 August 2004
 
 ----------------------------------------------------------------------
 
