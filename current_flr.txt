@@ -1086,13 +1086,18 @@ Amended(13) by Proposal 4451 (Cecilius), 22 February 2003
 
 ----------------------------------------------------------------------
 
-Rule 1677/11 (Power=1)
+Rule 1677/12 (Power=1)
 Honoring the New
 
       As soon as possible after the beginning of a Player's Grace
       Period, the Registrar shall announce eir Arrival.  This
       Announcement shall have the effect of setting that Player's
       kudos to twice the Tabla Rasa.
+
+      If a Player joins the game, but is neither subject to a Grace
+      Period nor been a Player at any time since the last Turning of a
+      New Parchment, then the Herald shall set eir Kudos to half the
+      Tabla Rasa (rounded up).
 
 History:
 Created by Proposal 2757 (Swann), Nov. 28 1996
@@ -1108,6 +1113,7 @@ Amended(8) by Proposal 4050 (t), Aug. 15 2000
 Amended(9) by Proposal 4155 (harvel), 18 May 2001
 Amended(10) by Proposal 4344 (Goethe), 11 July 2002
 Amended(11) by Proposal 4486 (Michael), 24 April 2003
+Amended(12) by Proposal 4520 (Goethe), 30 July 2003
 
 ----------------------------------------------------------------------
 
@@ -6664,7 +6670,7 @@ Kudos
   This Category includes Rules regulating the Kudos system.
 ----------------------------------------------------------------------
 
-Rule 2047/0 (Power=2)
+Rule 2047/1 (Power=2)
 Kudos
 
       Kudos (singular Kudo) are an integral measure of a Player's
@@ -6677,8 +6683,12 @@ Kudos
       Agora, as a whole, also has a defined number of Kudos.  No other
       non-Player entity has a defined number of Kudos.
 
+      If an entity has a defined number of Kudos, but the number has
+      not been set by the Rules, then the entity has 1 Kudo.
+
 History:
 Created by Proposal 4486 (Michael), 24 April 2003
+Amended(1) by Proposal 4520 (Goethe), 30 July 2003
 
 ----------------------------------------------------------------------
 
