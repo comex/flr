@@ -21,15 +21,15 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 308 Rules:
+There are currently 309 Rules:
     1 with Power=4
    21 with Power=3
    38 with Power=2
-  248 with Power=1
+  249 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2035
-Highest Rule Number assigned so far: 2035
+Highest current Rule Number:         2036
+Highest Rule Number assigned so far: 2036
 
 ======================================================================
 Table of Contents:
@@ -641,22 +641,19 @@ Amended(1) by Proposal 3994 (harvel), Apr. 20 2000
 
 ----------------------------------------------------------------------
 
-Rule 1023/15 (Power=2)
+Rule 1023/16 (Power=2)
 Definition of "As Soon As Possible"
 
-      Whenever a Player is required to perform an action "as soon
-      as possible", then e is required to perform the action within
-      a week.
+      A requirement to perform an action "as soon as possible" is a
+      requirement to perform the action within a week.
 
-      A Player who fails to observe this requirement commits the
-      Class 1 Infraction of Tardiness.  All Players are authorized to
-      detect and report the commission of the Infraction of Tardiness.
+      If a Player fails to observe such a requirement, and no other
+      Rule defines a penalty for the failure, then the Player commits
+      the Class 1 Infraction of Tardiness, which may be reported by
+      any Player.
 
-      This Rule does not deprive actions which do not conform to its
-      requirements of whatever effects they would otherwise have.
-      Rather, this Rule defines the latest time at which actions to be
-      performed "as soon as possible" may be performed without
-      incurring a penalty.
+      This Rule does not prevent late actions from taking effect, but
+      merely penalizes the Player for being late.
 
       Other Rules may grant extensions of the penalty-free period to
       non-active Players without conflicting with this Rule.
@@ -687,6 +684,7 @@ Amended(12) by Proposal 3897 (harvel), Aug. 27 1999
 Amended(13) by Proposal 3950 (harvel), Dec. 8 1999
 Amended(14) by Proposal 4004 (Steve), May 8 2000
 Amended(15) by Proposal 4278 (harvel), 3 April 2002
+Amended(16) by Proposal 4406 (Murphy), 30 October 2002
 
 ----------------------------------------------------------------------
 
@@ -1060,50 +1058,28 @@ Mutated from MI=Unanimity to MI=3 by Proposal 1482, Mar. 15 1995
 
 ----------------------------------------------------------------------
 
-Rule 1016/14 (Power=2)
+Rule 1016/16 (Power=2)
 Activity Levels
 
-      Each player has an activity level, which is always exactly one
-      of active, inactive, and frozen.  A player's activity level may
-      not be modified except by methods described explicitly in the
-      rules.
+      (a) Each player has an activity level, which is either active or
+          inactive. "Off hold" and "on hold" are unambiguous synonyms
+          for "active" and "inactive", respectively.
 
-      This rule takes precedence over each rule that regulates
-      activity levels and the powers or duties that a player may have
-      because of eir activity level.
+      (b) Whenever a player registers or reregisters, e is active.
 
-      An activity level of active is higher than any other activity
-      level.  An activity level of inactive is higher than an activity
-      level of frozen.
+      (c) A player may change eir activity level by announcing that e
+          does so, provided that a week has passed since e last
+          changed eir activity level.
 
-      Whenever a player registers or reregisters, e becomes active.
+      (d) Inactive players may not vote, make proposals, hold office,
+          or be a Judge of a CFJ.  An inactive player may not be
+          required by the rules to perform any duty or action, unless
+          the rules explicitly state that they can require inactive
+          players to perform that duty or action.
 
-      A player may lower eir activity level by announcing that e does
-      so and indicating eir new activity level, unless the rules do
-      not permit that player to change to that activity level.  If the
-      player becomes inactive in this way, e may not become active
-      until at least 96 hours after e last become inactive.
-
-      An inactive player may become active by announcing that e does
-      so, unless the rules do not permit that player to become active.
-
-      A frozen player who has been frozen for at least 90 days may
-      increase eir activity level by announcing that e does so and
-      indicating eir new activity level, unless the rules do not
-      permit that player to change to that activity level.
-
-      "Off hold" and "on hold" are unambiguous synonyms for "active"
-      and "inactive", respectively.  "put in cold storage" is an
-      unambiguous synonym for "frozen".
-
-      Only an active player may vote, make proposals, hold office, or
-      be a Judge of a CFJ.  An inactive player may not be required by
-      the rules to perform any duty or action unless the rules
-      explicitly state that they can require inactive players to
-      perform that duty or action.  A frozen player may not be
-      required by the rules to perform any duty or action.
-
-      Not being Active is a Win-Preventing Condition.
+      (e) This rule takes precedence over each other rule that
+          regulates activity levels and the powers or duties that a
+          player may have because of eir activity level.
 
 [CFJ 718: Because of Rule 1011, a Player may not be placed On Hold
  except as specified in the Rules.]
@@ -1131,6 +1107,7 @@ Amended(12) by Proposal 4278 (harvel), 3 April 2002
 Amended(13) by Proposal 4385 (Steve), 17 September 2002
 Amended(14) by Proposal 4388 (OscarMeyr), 5 October 2002
 Amended(15) by Proposal 4400 (Pakaran), 23 October 2002
+Amended(16) by Proposal 4407 (Steve), 30 October 2002
 
 ----------------------------------------------------------------------
 
@@ -1161,39 +1138,24 @@ Amended(5) by Proposal 4011 (Wes), Jun. 1 2000
 
 ----------------------------------------------------------------------
 
-Rule 1042/17 (Power=1)
+Rule 1042/18 (Power=1)
 Deregistration Due to Silence
 
-      Each player is always Noisy, Quiet, or Silent, but never more
-      than one of these.  Whenever a player registers or posts to a
-      public forum, that player is Noisy.
+      (a) Each player is always noisy, quiet, or silent, but never
+          more than one of these. Whenever a player registers or posts
+          to a public forum, that player is noisy.
 
-      A player who has not within the most recent 24 hours caused
-      another player to become Quiet may cause another Active Noisy
-      player to become Quiet by sending a message to a public forum in
-      which e identifies the player and states that e causes that
-      player to become Quiet.  Whenever a player has been Quiet
-      continuously for two weeks, Inactive continuously for two
-      months, or Frozen continuously for two years, e becomes Silent.
+      (b) A player who has not quietened another player in the past 24
+          hours may do so by publically identifying the player and
+          stating that e causes that player to become quiet.
 
-      Any player may publicly allege that some other player has
-      abandoned the game.  A player has abandoned the game if and only
-      if e is Silent.  As soon as possible after a public allegation
-      that a player has abandoned the game, the Registrar shall
-      publicly confirm or deny the allegation.
+      (c) If a player has been quiet continuously for one month, or
+          inactive continuously for three months, e becomes silent.
 
-      If the allegation is confirmed, then the following events shall
-      occur in order:
-
-       (i) if the Silent player is the Speaker, e commits the Class 15
-           Crime of Speaker Abandonment and ceases to be Speaker, and
-           the Speaker-Elect becomes Speaker;
-
-      (ii) the Silent player is deregistered.
-
-      The Silent player shall be deemed to have been deregistered as
-      of the timestamp of the message from the Registrar confirming
-      the allegation.
+      (d) Any player may publish a Notice of Abandonment, identifying
+          another player and alleging that that player has abandoned
+          the game. A Notice of Abandonment is or becomes invalid if
+          the player identified in it is not, or ceases to be, silent.
 
 History:
 Created by Proposal 460 (Jim Shea), Sep. 15 1994
@@ -1222,6 +1184,63 @@ Amended(14) by Proposal 4147 (Wes), 13 May 2001
 Amended(15) by Proposal 4154 (harvel), 18 May 2001
 Amended(16) by Proposal 4211 (harvel), 10 September 2001
 Amended(17) by Proposal 4278 (harvel), 3 April 2002
+Amended(18) by Proposal 4407 (Steve), 30 October 2002
+
+----------------------------------------------------------------------
+
+Rule 2036/0 (Power=1)
+The Silent Treatment
+
+      (a) The publication of a Notice of Abandonment commences the
+          Silent Treatment for the player identified in it.
+
+      (b) The requirement to perform the actions described in this
+          Rule is subject to the Notice of Abandonment remaining
+          valid. If at any time during the Silent Treatment the Notice
+          of Abandonment is invalid, then the Treatment is terminated,
+          and the Registrar is relieved of all powers and
+          responsibilities regarding it.
+
+      (c) As soon as possible after the commencement of the Silent
+          Treatment, the Registrar shall:
+
+          (1) publically confirm whether the Notice of Abandonment was
+              valid at the commencement of the Silent Treatment, and
+              whether it remains valid;
+
+          (2) publish in all designated Public Fora, and send to the
+              preferred email address of the player, if e has one, a
+              Notice of Intent to Deregister, identifying the player
+              to be deregistered (the same as in the Notice of
+              Abandonment), and announcing the Registrar's intent to
+              deregister that player after one month has passed.
+
+      (d) If the Notice of Abandonment remains valid a month after the
+          publication of the Notice of Intent to Deregister, then the
+          Registrar shall, as soon as possible, publish in all
+          designated Public Fora, and send to the preferred email
+          address of the player, if e has one, a Notice of
+          Deregistration, identifying the player being deregistered
+          (the same as in the Notice of Abandonment). A Notice of
+          Deregistration is valid if and only if it is published by
+          the Registrar, following the procedures described in this
+          Rule.
+
+      (e) Upon publication of a valid Notice of Deregistration, the
+          following events occur in order:
+
+          (1) if the player identified in the Notice of Deregistration
+              is the Speaker, e commits the Class 15 Crime of Speaker
+              Abandonment; e ceases to be Speaker, and the
+              Speaker-Elect becomes Speaker;
+
+          (2) the player identified in the Notice of Deregistration is
+              deregistered;
+
+          (3) the Silent Treatment for that player concludes.
+
+History:
+Created by Proposal 4407 (Steve), 30 October 2002
 
 ----------------------------------------------------------------------
 
@@ -2097,7 +2116,7 @@ Amended(2) by Proposal 4135 (harvel), Apr. 5 2001
 
 ----------------------------------------------------------------------
 
-Rule 1553/2 (Power=1)
+Rule 1553/3 (Power=1)
 Officer Transition
 
       Whenever a Player ceases to hold an Office, that Player shall
@@ -2105,14 +2124,14 @@ Officer Transition
       for the conduct of that Office, including any records the holder
       of that Office is required to maintain, are made available to
       the next Player to hold that Office.  A Player who fails to do
-      so violates this Rule, and commits the Class 4 Crime of Improper
-      Officer Transition.
+      so commits the Class 4 Crime of Improper Officer Transition.
 
 History:
 Created by Proposal 2429 (favor), Jan. 30 1996
 Amended(1) by Proposal 2831 (Murphy), Mar. 7 1997, cosmetic
   (unattributed)
 Amended(2) by Proposal 3897 (harvel), Aug. 27 1999
+Amended(3) by Proposal 4406 (Murphy), 30 October 2002
 
 ----------------------------------------------------------------------
 
@@ -2888,7 +2907,7 @@ Amended(11) by Proposal 3968 (harvel), Feb. 4 2000
 
 ----------------------------------------------------------------------
 
-Rule 1724/7 (Power=1)
+Rule 1724/8 (Power=1)
 Urgent Proposals
 
       A Proposal is Urgent if all the following conditions are met:
@@ -2903,7 +2922,7 @@ Urgent Proposals
       The Promotor may distribute an Urgent Proposal as soon as it
       becomes Distributable, and e is required to do so within five
       days. Failure to do so is the Class 1 Infraction of Lack of
-      Urgency, which may be detected and reported by any Player.
+      Urgency, which may be reported by any Player.
 
       The Voting Period of an Urgent Proposal is five days from the
       time the Proposal is distributed.
@@ -2917,6 +2936,7 @@ Amended(4) by Proposal 3922 (Wes), Oct. 3 1999
 Amended(5) by Proposal 3945 (Peekee), Nov. 20 1999
 Amended(6) by Proposal 4050 (t), Aug. 15 2000
 Amended(7) by Proposal 4072 (Steve), Sep. 20 2000
+Amended(8) by Proposal 4406 (Murphy), 30 October 2002
 
 ----------------------------------------------------------------------
 
@@ -4168,7 +4188,7 @@ Amended(2) by Proposal 2585, May 1 1996
 Amended(3) by Proposal 2783 (Steve), Jan. 15 1997, substantial
 Amended(4) by Proposal 3746 (Blob), May 15 1998
 Amended(5) by Proposal 3884 (harvel), Jul. 26 1999
-Amedned(6) by Proposal 3972 (Peekee), Feb. 14 2000
+Amended(6) by Proposal 3972 (Peekee), Feb. 14 2000
 Amended(7) by Proposal 4099 (Murphy), Jan. 15 2001
 Amended(8) by Proposal 4147 (Wes), 13 May 2001
 Amended(9) by Proposal 4257 (Murphy), 21 February 2002
@@ -4542,28 +4562,37 @@ Amended(1) by Proposal 3768 (Chuck), Jul. 22 1998
 
 ----------------------------------------------------------------------
 
-Rule 1794/4 (Power=1)
+Rule 1794/5 (Power=1)
 Classes of Orders
 
-      (a) Each Order is of one of the following classes:
-        (1) Judicial: A Judicial Order is an Order executed by a
-            Player while acting as a Judge.
-        (2) Appellate: An Appellate Order is an Order executed by a
-            Board of Appeals.
-        (3) Administrative: An Administrative Order is an Order
-            executed by an Officer in the course of performing the
-            duties of that Office, except when those duties involve
-            acting as a member of a Board of Appeals.
-        (4) Legislative: A Legislative Order is an Order executed as
-            part of the effect of the adoption of a Proposal.
-        (5) Private: A Private Order is any Order not described above.
+      Each Order is of exactly one of the following classes.  If an
+      Order could be of more than one of these classes, then it is
+      of the first class that matches.
 
-      (b) For the purpose of this Rule, the holder of any of the
-          following positions shall be considered an Officer when
-          performing a duty required by or a privilege permitted only
-          by virtue of holding that position:
-          (1) the Speaker; or
-          (2) the Recordkeepor of a Currency.
+        (a) A Legislative Order is an Order executed as part of the
+            effect of the adoption of a Proposal.
+
+        (b) A Sentencing Order is an Order executed to impose the
+            penalty for a Crime.
+
+        (c) A Ticketing Order is an Order executed to impose the
+            penalty for an Infraction.
+
+        (d) An Appellate Order is an Order executed by a Board of
+            Appeals.
+
+        (e) A Judicial Order is an Order executed by a Judge in the
+            course of performing eir duties or privileges as Judge.
+
+        (f) An Administrative Order is an Order executed by an
+            Officer in the course of performing the duties or
+            privileges of that Office.  For the purpose of this
+            Rule, the following positions are deemed to be Offices:
+
+               (i) The Speaker.
+              (ii) The Recordkeepor of a Currency.
+
+        (g) Any other Order is a Private Order.
 
 History:
 Created by Proposal 3704 (General Chaos), Mar. 19 1998
@@ -4571,6 +4600,7 @@ Amended(1) by Proposal 3869 (General Chaos), May 24 1999
 Amended(2) by Proposal 3896 (Elysion), Aug. 27 1999
 Amended(3) by Proposal 4048 (Peekee), Aug. 15 2000
 Amended(4) by Proposal 4137 (harvel), Apr. 5 2001
+Amended(5) by Proposal 4406 (Murphy), 30 October 2002
 
 ----------------------------------------------------------------------
 
@@ -5320,7 +5350,7 @@ Amended(11) by Proposal 3629 (General Chaos), Dec. 29 1997,
 Amended(12) by Proposal 3645 (elJefe), Dec. 29 1997
 Amended(13) by Proposal 3889 (harvel), Aug. 9 1999
 Amended(14) by Proposal 3897 (harvel), Aug. 27 1999
-Amedned(15) by Proposal 3968 (harvel), Feb. 4 2000
+Amended(15) by Proposal 3968 (harvel), Feb. 4 2000
 Amended(16) by Proposal 3998 (harvel), May 2 2000
 Amended(17) by Proposal 4147 (Wes), 13 May 2001
 Amended(18) by Proposal 4298 (Murphy), 17 May 2002
@@ -5474,34 +5504,39 @@ Amended(8) by Proposal 4298 (Murphy), 17 May 2002
 
 ----------------------------------------------------------------------
 
-Rule 1803/0 (Power=1)
-Judicial Orders
+Rule 1803/1 (Power=1)
+Judicial and Sentencying Orders
 
-      Judicial Orders are executed by being sent to the Clerk of the
-      Courts, but do not take effect until their publication by the
-      Clerk of the Courts.  The Clerk of the Courts shall publish each
-      Judicial Order as soon as possible after receiving it from the
-      Judge who executed it.
+      Judicial Orders and Sentencing Orders are executed by being sent
+      to the Clerk of the Courts, but do not take effect until their
+      publication by the Clerk of the Courts.  The Clerk of the Courts
+      shall publish each Judicial Order and Sentencing Order as soon
+      as possible after receiving it from the Judge who executed it.
 
 History:
 Created by Proposal 3704 (General Chaos), Mar. 19 1998
+Amended(1) by Proposal 4406 (Murphy), 30 October 2002
 
 ----------------------------------------------------------------------
 
-Rule 1804/1 (Power=1)
-Appeal of Judicial Orders
+Rule 1804/2 (Power=1)
+Appeal of Judicial and Sentencing Orders
 
-      As soon as possible after a Judicial Order is Appealed, the
-      Clerk of the Courts shall stay it.  If the Appeal is sustained,
-      then the Board of Appeals shall vacate this stay as soon as
+      As soon as possible after a Judicial Order or Sentencing Order
+      is Appealed, the Clerk of the Courts shall stay it.  If the
+      Appeal is sustained, then the Board of Appeals shall vacate this
+      stay as soon as possible.  If the Appeal is sustained, then the
+      Board of Appeals shall vacate the stayed Order as soon as
       possible.
 
-      In the Appeal of a Judicial Order, the Board of Appeals shall
-      consider whether the Order was properly and validly executed.
+      In the Appeal of a Judicial Order or Sentencing Order, the Board
+      of Appeals shall consider whether the Order was properly and
+      validly executed.
 
 History:
 Created by Proposal 3704 (General Chaos), Mar. 19 1998
 Amended(1) by Proposal 4298 (Murphy), 17 May 2002
+Amended(2) by Proposal 4406 (Murphy), 30 October 2002
 
 ----------------------------------------------------------------------
 
@@ -5523,7 +5558,7 @@ Created by Proposal 3704 (General Chaos), Mar. 19 1998
 
 ----------------------------------------------------------------------
 
-Rule 1827/4 (Power=1)
+Rule 1827/5 (Power=1)
 Granting or Denying Motions
 
       A Judge must either grant or deny each Motion forwarded to em by
@@ -5544,7 +5579,7 @@ Granting or Denying Motions
 
       If a Judge fails to Grant or Deny a Motion within five days of
       when it was forwarded to em by the Clerk of the Courts, e
-      commits the Class 0.5 Infraction of Slow Motion, detected and
+      commits the Class 0.5 Infraction of Slow Motion, which may be
       reported by the Clerk of the Courts. If this occurs, the Clerk
       of the Courts shall Recuse the Judge and assign a new one as
       usual.
@@ -5559,6 +5594,7 @@ Amended(1) by Proposal 3823 (Oerjan), Jan. 21 1999
 Amended(2) by Proposal 3962 (Wes), Jan. 20 2000
 Amended(3) by Proposal 4160 (root), 5 June 2001
 Amended(4) by Proposal 4278 (harvel), 3 April 2002
+Amended(5) by Proposal 4406 (Murphy), 30 October 2002
 
 ----------------------------------------------------------------------
 
@@ -5902,21 +5938,21 @@ Amended(1) by Proposal 4298 (Murphy), 17 May 2002
 
 ----------------------------------------------------------------------
 
-Rule 1564/11 (Power=1)
+Rule 1564/12 (Power=1)
 Initiating Appeals
 
       The following are subject to Appeal:
 
         a) The Judgement of a Trial Judge.
         b) The grant or denial of a Motion.
-        c) The execution of a Judicial Order.
+        c) The execution of a Judicial or Sentencing Order.
         d) A claim that a Trial Judge has failed to perform a required
            judicial duty.
 
       A subject is Appealed when any of the following occurs:
 
         i) Three Players Appeal it.
-       ii) A Player Appeals a Judicial Order binding em.
+       ii) A Player Appeals a Judicial or Sentencing Order binding em.
       iii) A Player Appeals a Trial Judgement convicting em of a
            Crime.
 
@@ -5935,6 +5971,7 @@ Amended(8) by Proposal 3509 (Harlequin), Jun. 16 1997, substantial
 Amended(9) by Proposal 3704 (General Chaos), Mar. 19 1998
 Amended(10) by Proposal 4147 (Wes), 13 May 2001
 Amended(11) by Proposal 4298 (Murphy), 17 May 2002
+Amended(12) by Proposal 4406 (Murphy), 30 October 2002
 
 ----------------------------------------------------------------------
 
@@ -6095,32 +6132,23 @@ Rule Violations
   concerning violations of the Rules.
 ----------------------------------------------------------------------
 
-Rule 908/14 (Power=1)
+Rule 908/15 (Power=1)
 Formal Apologies
 
-      If a Call for Judgement (CFJ) the Statement of which alleges
-      that a Player (herein called the Ninny) has acted or has failed
-      to act in such a way as to be in violation of one or more Rules
-      is judged TRUE, then the Judge so finding may Order that Player
-      to submit, within 72 hours, a Formal Apology.  If the Ninny is
-      Ready and the act or failure to act is not subject to penalties
-      by virtue of being defined to be a Crime or an Infraction, then
-      the Judge must issue such an Order as soon as possible after the
-      Clerk of the Courts publishes the judgement.
+      If a Player (hereafter the Ninny) is convicted of a Crime, then
+      instead of executing Sentencing Orders, the Judge may (Without
+      Objection) Order the Ninny to publish a Formal Apology.  Such an
+      Order is known as an Order to Apologize.
 
-      A Formal Apology shall consist of a letter of at least 200
-      words, to be published by the Ninny, explaining the Ninny's
-      error, shame, remorse, and ardent desire for self-improvement.
+      A Formal Apology must be at least 200 words, and must explain
+      the Ninny's error, shame, remorse, and ardent desire for
+      self-improvement.  Furthermore, the Order to Apologize may
+      include up to ten Prescribed Words of the Judge's choice, all of
+      which must appear in the Formal Apology.
 
-      The Judge issuing such an Order may, at eir discretion, include
-      in eir Order a list of up to ten Prescribed Words (to be chosen
-      by the Judge) which must be included in the Formal Apology.  If
-      the Judge elects to include Prescribed Words, all of the Words
-      required must appear within the Formal Apology.
-
-      The failure to abide by an Order to Submit a Formal Apology is
-      the Class 3 Infraction of Failure to Apologize, to be reported
-      by the Judge who issued the original Order.
+      Failure to obey an Order to Apologize within 72 hours is the
+      Class 3 Infraction of Shamelessness, to be reported by the Judge
+      who issued the Order.
 
 History:
 Created by Proposal 781, ca. Dec. 20 1993
@@ -6141,6 +6169,7 @@ Amended(11) by Proposal 3704 (General Chaos), Mar. 19 1998
 Amended(12) by Proposal 4147 (Wes), 13 May 2001
 Amended(13) by Proposal 4155 (harvel), 18 May 2001
 Amended(14) by Proposal 4298 (Murphy), 17 May 2002
+Amended(15) by Proposal 4406 (Murphy), 30 October 2002
 
 ----------------------------------------------------------------------
 
@@ -6174,14 +6203,16 @@ Amended(5) by Proposal 4152 (Murphy), 13 May 2001
 
 ----------------------------------------------------------------------
 
-Rule 1504/6 (Power=1)
+Rule 1504/7 (Power=1)
 Sentencing Orders
 
-      The imposition of penalties for the commission of a Crime shall
-      be by Sentencing Order(s).  Upon a judicial finding that an
-      entity has committed a Crime, the Judge so finding shall execute
-      Sentencing Orders sufficient to implement the penalty required
-      by the Rules for that Crime.
+      Upon a judicial finding that an entity has committed a Crime,
+      the Judge so finding shall execute, as soon as possible, either:
+
+        a) all and only those Sentencing Orders necessary and
+           sufficient to impose the penalty for that Crime; or
+
+        b) (Without Objection) an Order to Apologize.
 
 History:
 Created by Proposal 1682, Aug. 22 1995
@@ -6192,30 +6223,40 @@ Infected and Amended(3) by Rule 1454, Jan. 8 1996, substantial
 Amended(4) by Proposal 3452 (Steve), Apr. 7 1997, substantial
 Amended(5) by Proposal 3533 (General Chaos), Jul. 15 1997, substantial
 Amended(6) by Proposal 3704 (General Chaos), Mar. 19 1998
+Amended(7) by Proposal 4406 (Murphy), 30 October 2002
 
 ----------------------------------------------------------------------
 
-Rule 1812/5 (Power=1)
+Rule 1812/6 (Power=1)
 Notices of Infraction
 
-      If an entity (hereafter the Defendant) commits an Infraction,
+      If an entity (hereafter the Jaywalker) commits an Infraction,
       then any Player authorized by the Rules to report the commission
-      of that Infraction may announce a Notice of Infraction.  This
-      Notice shall explicitly specify the following:
+      of that Infraction (hereafter the Traffic Cop) may publish a
+      Notice of Infraction.  This Notice shall explicitly specify the
+      following:
 
         a) The Infraction that has been committed.
-        b) The identity of the Defendant.
+        b) The identity of the Jaywalker.
         c) The Rule(s) defining that action or inaction as an
            Infraction.
-        d) The action or inaction by which the Defendant committed the
+        d) The action or inaction by which the Jaywalker committed the
            Infraction.
-        e) Whatever Orders are sufficient to impose the penalty for
-           the Infraction.
+        e) All and only those Ticketing Orders necessary and
+           sufficient to impose the penalty for that Infraction.  The
+           Orders are executed and take effect upon publication.
 
-      If a Claim of Error alleging that the Defendant did not commit
-      the Infraction is admitted, then the Player who announced the
-      Notice of Infraction shall vacate all Orders that e executed to
-      impose the penalty for the Infraction.
+      When a Player publishes a Claim of Error alleging that the
+      Jaywalker did not commit the Infraction, e may (in the same
+      message as the COE) stay one or more of the Ticketing Orders.
+      If the COE is denied, then the Traffic Cop shall vacate the
+      Order to Stay as soon as possible. If the COE is admitted, then
+      the Traffic Cop shall vacate all the stayed Ticketing Orders as
+      soon as possible.
+
+      Players are encouraged to CFJ on the commission of Infractions
+      only when a question of interpretation, rather than of fact,
+      arises.
 
 History:
 Created by Proposal 3704 (General Chaos), Mar. 19 1998
@@ -6224,6 +6265,7 @@ Amended(2) by Proposal 4099 (Murphy), Jan. 15 2001
 Amended(3) by Proposal 4147 (Wes), 13 May 2001
 Amended(4) by Proposal 4152 (Murphy), 13 May 2001
 Amended(5) by Proposal 4369 (RedKnight), 29 August 2002
+Amended(6) by Proposal 4406 (Murphy), 30 October 2002
 
 ----------------------------------------------------------------------
 
@@ -6244,32 +6286,34 @@ Amended(1) by Proposal 3768 (Chuck), Jul. 22 1998
 
 ----------------------------------------------------------------------
 
-Rule 1816/1 (Power=3)
+Rule 1816/2 (Power=3)
 No Double Jeopardy for Crimes
 
-      (a) No Player may be penalized more than once for any single
-          act, or failure to act, that is in violation of one or more
-          Rules.
+      No Player may be penalized more than once for any single action
+      or inaction.
 
-      (b) Where a CFJ exists whose Statement alleges that a Player has
-          through action or inaction violated a Rule, and that CFJ has
-          not been dismissed, any further CFJ alleging that the same
-          Player has through the same action or inaction violated the
-          same Rule, lacks standing and shall be dismissed.
+      If a non-dismissed CFJ alleges that a Player has committed a
+      Crime through a given action or inaction, then any further CFJ
+      alleging that the same Player has committed the same Crime
+      through the same action or inaction lacks standing and shall be
+      dismissed.
 
 History:
 Created by Proposal 3704 (General Chaos), Mar. 19 1998
 Amended(1) by Proposal 4341 (Steve), 8 July 2002
 Power changed from 1 to 3 by Proposal 4341 (Steve), 8 July 2002
+Amended(2) by Proposal 4406 (Murphy), 30 October 2002
 
 ----------------------------------------------------------------------
 
-Rule 1505/7 (Power=1)
+Rule 1505/9 (Power=1)
 Standard Classes of Crimes and Infractions
 
-      A Class N Crime or Infraction, where N is replaced with a
-      number, is a Crime or Infraction for which the penalty is
-      N Blots.
+      A Class N Infraction (where N is replaced with a number) is an
+      Infraction for which the penalty is N Blots.
+
+      A Class N Crime (where N is replaced with a number) is a Crime
+      for which the penalty is N Blots and a loss of 2*N Points.
 
 History:
 Created by Proposal 1682, Aug. 22 1995
@@ -6281,6 +6325,8 @@ Infected and Amended(5) by Rule 1454, Dec. 23 1997, substantial
   (unattributed)
 Amended(6) by Rule 1505, Jan. 6 1998
 Amended(7) by Proposal 3897 (harvel), Aug. 27 1999
+Amended(8) by Proposal 4406 (Murphy), 30 October 2002
+Amended(9) by Proposal 4408 (OscarMeyr), 30 October 2002
 
 ----------------------------------------------------------------------
 
@@ -8328,48 +8374,45 @@ Amended(4) by Proposal 4180 (Elysion), 7 July 2001
 
 ----------------------------------------------------------------------
 
-Rule 1930/4 (Power=1)
+Rule 1930/5 (Power=1)
 Scoring
 
-      (a) If a Player is found Guilty of a Crime, e may be Penalized a
-          number of Points equal to the Class of the Crime times 2.
-
-      (b) If a Player wins a contested Election, e may be Awarded 10
+      (a) If a Player wins a contested Election, e may be Awarded 10
           Points.
 
-      (c) If a Player Resigns from an Office, e may be Penalized 5
+      (b) If a Player Resigns from an Office, e may be Penalized 5
           Points.
 
-      (d) If a Player is Impeached, e may be Penalized 15 Points.
+      (c) If a Player is Impeached, e may be Penalized 15 Points.
 
-      (e) If a Revolt succeeds, each Rebellious Player may be Awarded
+      (d) If a Revolt succeeds, each Rebellious Player may be Awarded
           15 Points.
 
-      (f) If a Revolt fails, each Rebellious Player may be Penalized
+      (e) If a Revolt fails, each Rebellious Player may be Penalized
           10 Points.
 
-      (g) If a Player submits a Disinterested Proposal which is
+      (f) If a Player submits a Disinterested Proposal which is
           Adopted, e may be Awarded 1 Point, plus 1 Point for each
           vote that was cast AGAINST the Proposal.
 
-      (h) If a Player submits an Interested Proposal which is Adopted,
+      (g) If a Player submits an Interested Proposal which is Adopted,
           e may be Awarded 4 Points, plus 1 Point for each vote that
           was cast AGAINST the Proposal.
 
-      (i) If a Player is the only Player to Vote either FOR or AGAINST
+      (h) If a Player is the only Player to Vote either FOR or AGAINST
           a particular Proposal that e did not write or Propose, e may
           be Awarded 2 Points.
 
-      (j) If a Judgement is Sustained on Appeal, the original Judge
+      (i) If a Judgement is Sustained on Appeal, the original Judge
           may be Awarded 5 Points
 
-      (k) If a Judgement is Overturned on Appeal, the original Judge
+      (j) If a Judgement is Overturned on Appeal, the original Judge
           may be Penalized 5 Points.
 
-      (l) If a Player gains a Patent Title which e has not held during
+      (k) If a Player gains a Patent Title which e has not held during
           the 7 days prior to gaining it, e may be Awarded 5 Points.
 
-      (m) If a Player is granted a Degree e has not previously held, e
+      (l) If a Player is granted a Degree e has not previously held, e
           may be Awarded 10 Points.
 
 History:
@@ -8378,6 +8421,7 @@ Amended(1) by Proposal 4113 (Elysion), Mar. 2 2001
 Amended(2) by Proposal 4141 (Wes), Apr. 15 2001
 Amended(3) by Proposal 4320 (t), 28 May 2002
 Amended(4) by Proposal 4365 (Steve), 23 August 2002
+Amended(5) by Proposal 4408 (OscarMeyr), 30 October 2002
 
 ----------------------------------------------------------------------
 
@@ -8664,25 +8708,13 @@ Amended(6) by Proposal 4398 (harvel), 23 October 2002
 
 ----------------------------------------------------------------------
 
-Rule 1439/8 (Power=1)
-Blots Due to a CFJ
+Rule 1439/9 (Power=1)
+Default Penalty for Violating a Rule
 
-      If a Call For Judgement (CFJ) clearly alleging that a Player has
-      violated a specific Rule is found to be TRUE, the Player
-      receives Blots equal to the Power of the violated Rule rounded
-      down to the nearest whole integer, or four Blots if its
-      Power exceeds four, unless the violated Rule explicitly defines
-      or forbids a Blot penalty in the case of a CFJ.  The penalty
-      shall be as defined in the Rule, if the Rule defines it; no Blot
-      penalty shall be imposed if the Rule forbids it.
-
-      The Player who initially called for the CFJ shall notify the
-      Herald of the Blot assessment.
-
-      If such a Judgement is overturned upon appeal, then the Player
-      who received Blots shall expunge the Blots that were given due
-      to the initial Judgement of the CFJ and notify the Herald of
-      this action.
+      Violating a Rule is the Class N Crime of Disobedience, unless
+      other Rules define or prohibit a penalty for the violation.  N
+      is the Power of the violated Rule (rounded down to the nearest
+      multiple of the MUQ of Indulgences), but shall not exceed 4.
 
 History:
 Created by Proposal 1460, Mar. 1 1995
@@ -8696,6 +8728,7 @@ Amended(5) by Proposal 3500 (Crito), Jun. 3 1997, substantial
 Amended(6) by Proposal 3823, (Oerjan), Jan. 21 1999
 Amended(7) by Proposal 3901 (Schneidster), Sep. 6 1999
 Amended(8) by Proposal 3950 (harvel), Dec. 8 1999
+Amended(9) by Proposal 4406 (Murphy), 30 October 2002
 
 ----------------------------------------------------------------------
 
@@ -9023,62 +9056,29 @@ Created by Proposal 2490, Feb. 16 1996
 
 ----------------------------------------------------------------------
 
-Rule 1594/1 (Power=1)
+Rule 1594/2 (Power=1)
 Violation of SLCs
 
-      A Player who is within the Jurisdiction of a SLC is required to
-      abide by it while e remains within its Jurisdiction, unless
-      doing so would violate either the Rules or another SLC with
-      higher precedence.
-
-      A Player who fails to abide by a SLC is in violation of that
-      SLC.  A Player who is found by a CFJ to have violated a SLC
-      shall suffer whatever penalties specified in the Rules
-      authorizing the violated SLC, or, if there is no such penalty
-      specified, a default penalty of one Blot, to be reported by
-      the Judge of the CFJ.
-
-      There shall be no additional penalty imposed upon a Player who
-      violates this Rule by violating a SLC; this Rule takes
-      precedence over any Rule which specifies penalties for violating
-      Rules.
+      While a Player remains within the Jurisdiction of a SLC, e is
+      required to abide by it, unless doing so would violate either
+      the Rules or another SLC with higher precedence.  Violation of
+      this requirement is the Class 1 Crime of Insubordination.
 
 History:
 Created by Proposal 2490, Feb. 16 1996
 Amended(1) by Proposal 3897 (harvel), Aug. 27 1999
+Amended(2) by Proposal 4406 (Murphy), 30 October 2002
 
 ----------------------------------------------------------------------
 
-Rule 1457/11 (Power=1)
+Rule 1457/12 (Power=1)
 Judicial Procedure for Violations of an SLC
 
-      When any Player believes that a Subordinate Legal Code (SLC) has
-      been violated by a Player within the SLC's Jurisdiction e shall
-      inform the Maintainer of that SLC of that belief, along with the
-      nature of the violation, the violated text of the SLC, and the
-      identity of the violating Player. The Maintainer shall then, as
-      soon as possible, distribute this information to all Players
-      within the Jurisdiction of the violated SLC.
+      Only Players within the Jurisdiction of a SLC may CFJ that a
+      Player has violated that SLC.
 
-      If, within 72 hours of this distribution, no Player within the
-      SLC's Jurisdiction disputes the claim, the Maintainer shall
-      declare the SLC violated.  The Maintainer is then allowed to
-      initiate any corrections and penalties allowed by the Rules and
-      the violated SLC.
-
-      If any Player under the SLC's Jurisdiction disputes the claim
-      of violation within 72 hours, then any Player may submit a Call
-      for Judgement, alleging that a specific Player has violated the
-      SLC. Such a CFJ cannot be made in any other circumstance.
-
-      All Players within the SLC's Jurisdiction are automatically
-      ineligible to Judge such a CFJ.
-
-      Whenever such a CFJ is found TRUE, the SLC has been violated and
-      the SLC's Maintainer shall perform the same duties as when no
-      Player contests the claim. If such a TRUE Judgement is
-      overturned on Appeal, those actions shall be reversed to the
-      extent possible immediately upon the resolution of the appeal.
+      All Players within the Jurisdiction of a SLC are automatically
+      ineligible to Judge a CFJ that a Player has violated that SLC.
 
 History:
 Created by Proposal 1575, Apr. 28 1995
@@ -9098,6 +9098,7 @@ Amended(9) by Proposal 3532 (General Chaos), Jul. 15 1997, cosmetic
 Amended(10) by Proposal 3533 (General Chaos), Jul. 15 1997,
   substantial
 Amended(11) by Proposal 3823 (Oerjan), Jan. 21 1999
+Amended(12) by Proposal 4406 (Murphy), 30 October 2002
 
 ----------------------------------------------------------------------
 
