@@ -789,27 +789,30 @@ Created by Proposal 3695 (Steve), Mar. 3 1998
 
 ----------------------------------------------------------------------
 
-Rule 1870/1 (Power=1)
+Rule 1870/2 (Power=1)
 Merry Christmas, Agora, And A Happy New Year!
 
-      The period commencing every year at midnight GMT on the morning
-      of December 24, and concluding at the beginning of the first
-      Nomic Week to commence after January 2, is a Holiday.
+      The period each year from midnight GMT on the morning of 24
+      December to the beginning of the first Agoran week to begin
+      after 2 January is a Holiday.
 
 History:
 Created by Proposal 3819 (Steve), Dec. 28 1998
 Amended(1) by Proposal 01-003 (Steve), Feb. 2 2001
+Amended(2) by Proposal 4398 (harvel), 23 October 2002
 
 ----------------------------------------------------------------------
 
-Rule 1750/0 (Power=1)
+Rule 1750/1 (Power=1)
 Read the Ruleset Week
 
-      In each year, the first Nomic Week falling entirely in
-      February shall be designated "Read the Ruleset Week".
+      The first Agoran week each year which falls entirely in February
+      is Read the Ruleset Week.  Agorans are encouraged to read the
+      ruleset during Read the Ruleset Week.
 
 History:
 Created by Proposal 3601 (Chuck), Dec. 9 1997
+Amended(1) by Proposal 4398 (harvel), 23 October 2002
 
 ----------------------------------------------------------------------
 
@@ -1098,11 +1101,7 @@ Activity Levels
       the rules to perform any duty or action unless the rules
       explicitly state that they can require inactive players to
       perform that duty or action.  A frozen player may not be
-      required by the rules to perform any duty or action, and is not
-      permitted to perform any of the actions defined by the Rules
-      that non-frozen Players are explicitly permitted by the Rules to
-      perform, with the exception of changing eir activity level, and
-      deregistering.
+      required by the rules to perform any duty or action.
 
       Not being Active is a Win-Preventing Condition.
 
@@ -1131,6 +1130,7 @@ Amended(11) by Proposal 3740 (Repeal-O-Matic), May 8 1998
 Amended(12) by Proposal 4278 (harvel), 3 April 2002
 Amended(13) by Proposal 4385 (Steve), 17 September 2002
 Amended(14) by Proposal 4388 (OscarMeyr), 5 October 2002
+Amended(15) by Proposal 4400 (Pakaran), 23 October 2002
 
 ----------------------------------------------------------------------
 
@@ -1390,20 +1390,20 @@ Amended(1) by Proposal 4175 (Elysion), 7 July 2001
 
 ----------------------------------------------------------------------
 
-Rule 1986/3 (Power=2)
+Rule 1986/5 (Power=2)
 Role-Based Powers
 
       A Scribe may Rubberstamp a Proposal by paying a Fee in Papyri,
       or receiving the Support of a number of other Scribes, equal to
       the number of Proposals that the Scribe has previously
-      Rubberstamped in the current Nomic Week (minimum zero).  A
+      Rubberstamped in the current Agoran Week (minimum zero).  A
       Rubberstamped Proposal becomes Distributable: this does not
       change its Distribution Fee.
 
       An Acolyte may absolve (remove) 1 Blot from any Entity by paying
       Fee in Indulgences, or receiving the Support of a number of
       other Acolytes, equal to the number of such Absolutions the
-      Acolyte has previously performed in the current Nomic Week
+      Acolyte has previously performed in the current Agoran Week
       (minimum zero).
 
       An Acolyte may Exorcise a Dissolute Entity with the Support of
@@ -1415,15 +1415,17 @@ Role-Based Powers
       moment after its Distribution, a Blessed Proposal becomes
       Democratic if it is not already.
 
-      A Politician, with the Support of another Poltician, may Unbless
-      an Undistributed Blessed Proposal.  An Unblessed Proposal is no
-      longer Blessed.
+      A Politician, with the Support of another Politician, may
+      Unbless an Undistributed Blessed Proposal.  An Unblessed
+      Proposal is no longer Blessed.
 
 History:
 Created by Proposal 4174 (Kelly), 7 July 2001
 Amended(1) by Proposal 4254 (Goethe), 21 February 2002
 Amended(2) by Proposal 4281 (Goethe), 16 April 2002
 Amended(3) by Proposal 4282 (Goethe), 16 April 2002
+Amended(4) by Proposal 4398 (harvel), 23 October 2002
+Amended(5) by Proposal 4401 (Goddess Eris), 23 October 2002
 
 ----------------------------------------------------------------------
 
@@ -2949,7 +2951,7 @@ Amended(2) by Proposal 4145 (Ian), Apr. 22 2001
 
 ----------------------------------------------------------------------
 
-Rule 2016/0 (Power=2)
+Rule 2016/1 (Power=2)
 Contested Proposals
 
       (a) A null Proposal is a Proposal containing no provisions,
@@ -2958,10 +2960,10 @@ Contested Proposals
 
       (b) Any Player may make a null Proposal Distributable without
           payment of the usual Fee, provided that no other null
-          Proposal in the current Nomic Month has been made
+          Proposal in the current Agoran Month has been made
           Distributable under this provision.
 
-      (c) The first null Proposal to be distributed in each Nomic
+      (c) The first null Proposal to be distributed in each Agoran
           Month is a Contested Proposal.
 
       (d) A Contested Proposal is Democratic.
@@ -2983,6 +2985,7 @@ Contested Proposals
 
 History:
 Created by Proposal 4264 (Steve), 4 March 2002
+Amended(1) by Proposal 4398 (harvel), 23 October 2002
 
 ----------------------------------------------------------------------
 
@@ -4951,11 +4954,11 @@ Amended(3) by Proposal 4298 (Murphy), 17 May 2002
 
 ----------------------------------------------------------------------
 
-Rule 1562/6 (Power=1)
+Rule 1562/7 (Power=1)
 Excess CFJs
 
       A CFJ made by a person who has previously made five or more CFJs
-      during the same Nomic Week is an Excess CFJ.
+      during the same Agoran Week is an Excess CFJ.
 
       The Caller of an Excess CFJ commits the Class 1 Infraction of
       Excess CFJing, to be reported by the Clerk of the Courts.
@@ -4974,6 +4977,7 @@ Amended(3) by Proposal 3463 (Harlequin), Apr. 17 1997, substantial
 Amended(4) by Proposal 3839 (Murphy), Mar. 8 1999
 Amended(5) by Proposal 3897 (harvel), Aug. 27 1999
 Amended(6) by Proposal 4298 (Murphy), 17 May 2002
+Amended(7) by Proposal 4398 (harvel), 23 October 2002
 
 ----------------------------------------------------------------------
 
@@ -6685,7 +6689,7 @@ Amended(9) by Proposal 4339 (Sir Toby), 8 July 2002
 
 ----------------------------------------------------------------------
 
-Rule 1922/3 (Power=1)
+Rule 1922/4 (Power=1)
 Defined Regular Patent Titles
 
       The following are Patent Titles:
@@ -6720,7 +6724,8 @@ Defined Regular Patent Titles
 
       (d)  Filthy Bureaucrat, to be awarded to any player who at some
            point simultaneously holds and is Electee to three or more
-           Offices.
+           Offices. This Patent Title is revoked from a player who
+           ceases to hold and be Electee to three or more Offices.
 
       (e)  Groovy, which may be awarded to any Player Winning the Game
            at least once since the introduction of this Patent Title
@@ -6733,6 +6738,7 @@ Created by Proposal 3916 (harvel), Sep. 27 1999
 Amended(1) by Proposal 1922 (Goethe), Mar. 28 2001
 Amended(2) by Proposal 4204 (Syllepsis), 28 August 2001
 Amended(3) by Proposal 4288 (OscarMeyr), 5 May 2002
+Amended(4) by Propsoal 4404 (Steve), 23 October 2002
 
 ----------------------------------------------------------------------
 
@@ -7682,16 +7688,28 @@ Amended(18) by Proposal 4385 (Steve), 17 September 2002
 
 ----------------------------------------------------------------------
 
-Rule 1888/1 (Power=1)
+Rule 1888/2 (Power=1)
 Private Auctions
 
       The Auction Procedure for a Private Auction is the same as the
-      Default Auction Procedure except that Bids may only made by
-      sending them privately to the Auctioneer.
+      Default Auction Procedure with the following modifications:
+
+      (a) Bidders: any Player with the same Executor as the Auctioneer
+          may bid only in the first 72 hours of the Auction.
+
+      (b) Bidding: if a bidder has the same Executor as the
+          Auctioneer, then eir bids must be made publicly. Otherwise,
+          bidders must send eir bids privately to the Auctioneer.
+
+      (c) Canceling Bids: if a Bidder has the same Executor as the
+          Auctioneer, then eir Bids must be canceled publicly.
+          Otherwise, bidders must cancel eir bids privately to the
+          Auctioneer.
 
 History:
 Created by Proposal 3853 (Blob), Apr. 19 1999
 Amended(1) by Proposal 4167 (root), 11 June 2001
+Amended(2) by Proposal 4403 (OscarMeyr), 23 October 2002
 
 ----------------------------------------------------------------------
 
@@ -7901,14 +7919,15 @@ Power changed from 1 to 2 by Proposal 4322 (t), 31 May 2002
 
 ----------------------------------------------------------------------
 
-Rule 1479/5 (Power=1)
+Rule 1479/6 (Power=1)
 Definition of "Pay Out" and "Bill"
 
       (a) Whenever a Rule requires a Player to pay out one or more
           Properties to some entity, the Bank shall incur a debt to
           that entity for those Properties, and the named Player
           shall, as soon as possible, post a public notice of the
-          debt.
+          debt. The Player is relieved of this obligation if the debt
+          is satisfied before the public notice is posted.
 
       (b) If a Rule explicitly permits a Player to pay out one or more
           Properties to some entity, but does not require em to do so,
@@ -7919,7 +7938,9 @@ Definition of "Pay Out" and "Bill"
       (c) Whenever a Rule requires a Player to bill an entity for one
           or more Properties, that entity shall incur a debt to the
           Bank for those Properties, and the named Player shall, as
-          soon as possible, post a public notice of the debt.
+          soon as possible, post a public notice of the debt. The
+          Player is relieved of this obligation if the bill is paid
+          before the public notice is posted.
 
 CFJ 1301 (Judged TRUE, 13 June 2001): "Rule 1479 should be interpreted
  such that an Order, which requires a Player to pay out one or more
@@ -7934,6 +7955,7 @@ Amended(2) by Proposal 3533 (General Chaos), Jul. 15 1997
 Amended(3) by Proposal 4018 (Kelly), Jun. 21 2000
 Amended(4) by Proposal 4353 (Steve), 7 August 2002
 Amended(5) by Proposal 4364 (Steve), 16 August 2002
+Amended(6) by Proposal 4402 (Steve), 23 October 2002
 
 ----------------------------------------------------------------------
 
@@ -8211,7 +8233,7 @@ Created by Proposal 4253 (Goethe), 19 February 2002
 
 ----------------------------------------------------------------------
 
-Rule 2015/0 (Power=1)
+Rule 2015/1 (Power=1)
 A Champion's Retirement
 
       Rules to the contrary nonwithstanding, the Winner's Stipend may
@@ -8234,13 +8256,14 @@ A Champion's Retirement
       shall be awarded.
 
       If a Player bears the Patent Title Current Champion at the
-      beginning of four consecutive Nomic months without a Win
+      beginning of four consecutive Agoran months without a Win
       occuring, then at the beginning each month thereafter, until a
       Win occurs, the Scorekeepor shall Bill the Player an amount
       equal to twice the current Winner's Stipend times the BOS.
 
 History:
 Created by Proposal 4253 (Goethe), 19 February 2002
+Amended(1) by Proposal 4398 (harvel), 23 October 2002
 
 ----------------------------------------------------------------------
 
@@ -8494,7 +8517,7 @@ Amended(3) by Proposal 4375 (RedKnight), 6 September 2002
 
 ----------------------------------------------------------------------
 
-Rule 1712/16 (Power=1)
+Rule 1712/17 (Power=1)
 Distribution of Indulgences
 
       The Ideal Indulgence Circulation Level (IICL) is the number of
@@ -8506,9 +8529,9 @@ Distribution of Indulgences
       which have been auctioned off to Winning Bidders in prior
       Indulgence Auctions but not yet paid for.  The Monthly Bank
       Indulgence Gain (MBIG) is the number of Indulgences transferred
-      from other entities to the Bank during a given Nomic Month, less
-      the number of Indulgences transferred from the Bank to other
-      entities during that same Nomic Month.
+      from other entities to the Bank during a given Agoran Month,
+      less the number of Indulgences transferred from the Bank to
+      other entities during that same Agoran Month.
 
       As soon as possible after the start of each month, the Herald
       shall calculate the Indulgence Differential, which is equal to
@@ -8550,6 +8573,7 @@ Amended(13) by Proposal 4249 (Murphy), 19 February 2002
 Amended(14) by Proposal 4272 (Murphy), 22 March 2002
 Amended(15) by Proposal 4281 (Goethe), 16 April 2002
 Amended(16) by Proposal 4356 (Steve), 7 August 2002
+Amended(17) by Proposal 4398 (harvel), 23 October 2002
 
 ----------------------------------------------------------------------
 
@@ -8597,12 +8621,12 @@ Amended(8) by Proposal 4272 (Murphy), 22 March 2002
 
 ----------------------------------------------------------------------
 
-Rule 1747/5 (Power=1)
+Rule 1747/6 (Power=1)
 Pardoning Lawlessness
 
       The Clerk of the Courts has the power to Pardon Fugitives from
       Justice that have been deregistered for Lawlessness.  The Clerk
-      may not exercise this power more than once per Nomic month, and
+      may not exercise this power more than once per Agoran month, and
       may not Pardon the same person twice in a given term of Office
       (although, if re-elected later, e may again Pardon that person).
       The Clerk of the Courts Pardons a Fugitive from Justice by
@@ -8636,6 +8660,7 @@ Amended(2) by Proposal 3931 (Crito), Oct. 17 1999
 Amended(3) by Proposal 4038 (Oerjan), Aug. 7 2000
 Amended(4) by Proposal 4147 (Wes), 13 May 2001
 Amended(5) by Proposal 4272 (Murphy), 22 March 2002
+Amended(6) by Proposal 4398 (harvel), 23 October 2002
 
 ----------------------------------------------------------------------
 
@@ -9601,12 +9626,12 @@ Amended(2) by Proposal 4147 (Wes), 13 May 2001
 
 ----------------------------------------------------------------------
 
-Rule 1990/1 (Power=1)
+Rule 1990/2 (Power=1)
 Points Contests
 
       A Contest may be a Points Contest if its ACO specifically states
       that it is a Points Contest.  A Player may not be the
-      Contestmaster of more than one Points Contest in a single Nomic
+      Contestmaster of more than one Points Contest in a single Agoran
       month.
 
       PWIN is the number of points required for a Player to achieve a
@@ -9640,20 +9665,22 @@ Points Contests
 History:
 Created by Proposal 4191 (Goethe), 18 July 2001
 Amended(1) by Proposal 4357 (Sir Toby), 16 August 2002
+Amended(2) by Proposal 4398 (harvel), 23 October 2002
 
 ----------------------------------------------------------------------
 
-Rule 2031/1 (Power=1)
+Rule 2031/2 (Power=1)
 Money Grubbing Contests
 
       A Contest may be a Money Grubbing Contest if its ACO
       specifically states that it is a Money Grubbing Contest. A
       Player may not be the Contestmaster of more than one Money
-      Grubbing Contest in a single Nomic month.
+      Grubbing Contest in a single Agoran month.
 
 History:
 Created by Proposal 4337 (Sir Toby), 30 June 2002
 Amended(1) by Proposal 4357 (Sir Toby), 16 August 2002
+Amended(2) by Proposal 4398 (harvel), 23 October 2002
 
 ----------------------------------------------------------------------
 
@@ -9841,63 +9868,78 @@ Created by Proposal 4197 (Goethe), 8 August 2001
 
 ----------------------------------------------------------------------
 
-Rule 2003/6 (Power=1)
-Moving in Arcadia
+Rule 2003/7 (Power=1)
+Actions in Arcadia
 
-      Every week, each Player may expend up to 10 Movement Units, and
-      an Organization may expend up to 5 Movement Units, to move about
-      in the Land of Arcadia. Movement Units are not transferrable,
-      and do not persist from one week to the next.
+      Every week, the number of Actions Units an entity may expend to
+      perform actions in the Land of Arcadia is as follows,
 
-      A player makes a move by notifying the Mapkeepor of the
-      specifics of the move. So long as e does not spend more than eir
-      allotted number of Movement Units, a Player may move as many
-      times as e wishes in a single week.
+      - If the entity is a Player 10 minus 1 for every 5 Blots in the
+        Player's Stain
 
-      When a move specifies an alternating Land Type, the Land Type
+      - If the entity is a Group 1 plus 3 for every Member of the
+        Group located on or adjacent to the location of the Group at
+        the start of the week.
+
+      - All other entities zero.
+
+      Action Units are not transferable, and do not persist from one
+      week to the next.
+
+      An entity may expend Action Units to carry out an action in
+      Arcadia by notifying the Mapkeepor of the specifics of the act.
+      So long as e does not spend more than eir allotted number of
+      Action Units, e may make as many actions e wishes in a single
+      week.
+
+      When an act specifies an alternating Land Type, the Land Type
       chosen will be based upon the Land Type used as the previous
-      alternating Land Type. The next Land Type will be the one
-      non-Aether Land Type that is defined next in the Rules, after
-      the previous Land Type. If the previous Land Type is the last
-      Land Type defined in the Rules, or if no alternating Land Type
-      has ever been picked before, the next Land Type is the first
-      non-Aether Land Type defined in the Rules. As soon as possible
-      after a Player notifies the Mapkeepor of a move that specifies
+      alternating Land Type, so that consecutive alternating Land
+      Types alternate between Black and White. As soon as possible
+      after a Player notifies the Mapkeepor of an act that specifies
       an alternating Land Type, the Mapkeepor must announce which Land
-      Type was used for that move.
+      Type was used for that act.
 
-      Entities may expend:
+      Players may expend:
 
-	* 2 Movement Units to move from one Land Unit to an adjacent
-	  Unit if their Land Types are the same and the destination is
-	  not Aether;
+      * 2 Action Units to move from one Land Unit to an adjacent Unit
+        if their Land Types are the same and the destination is not
+        Aether.
 
-	* 5 Movement Units to move from one Land Unit to an adjacent
-	  Unit if their Land Types differ and the destination is not
-	  Aether;
+      * 5 Action Units to move from one Land Unit to an adjacent Unit
+        if their Land Types differ and the destination is not Aether;
 
-	* 5 Movement Units to set Land Type of a Land Unit which e
-	  owns to any Land Type other than Aether, whether or not e is
-	  located at that Land Unit;
+      Groups may expend:
 
-	* 5 Movement Units to set the Land Type of a random Land Unit
-	  that is adjacent to the Entity's current location, is of
-	  type Aether, and is owned by the Land Bureau, to an
-	  alternating Land Type. The Mapkeepor will make the random
-	  determination.  This movement has no effect if there are no
-	  qualifying Land Units. As soon as possible after a Player
-	  notifies the Mapkeepor of this move, the Mapkeepor must
-	  announce which Land Unit, if any, is changed by this
-	  movement. The change occurs at the time of the first legal
-	  announcement from the Mapkeepor declaring which Land Unit's
-	  Land Type has changed.
+      * 5 Action Units to move from its current location to the
+        location of one of its Members.
 
-	* 10 Movement Units to set the Land Type of the Entity's
-	  current location to any Land Type of eir choice other than
-	  Aether, if and only if the Unit is owned by the Land Bureau.
+      Any entity may expend:
 
-	* 10 Movement Units to set the Land Type of any Land Unit that
-	  is of type Aether to an alternating Land Type.
+      * 5 Action Units to set Land Type of a Land Unit which e owns to
+        any Land Type other than Aether, whether or not e is located
+        at that Land Unit.
+
+      * 5 Movement Units to set the Land Type of a random Land Unit
+        that is adjacent to the Entity's current location, is of type
+        Aether, and is owned by the Land Bureau, to an alternating
+        Land Type.  The Mapkeepor will make the random determination.
+        This movement has no effect if there are no qualifying Land
+        Units.  As soon as possible after a Player notifies the
+        Mapkeepor of this move, the Mapkeepor must announce which Land
+        Unit, if any, is changed by this movement.  The change occurs
+        at the time of the first legal announcement from the Mapkeepor
+        declaring which Land Unit's Land Type has changed.
+
+      * 10 Movement Units to set the Land Type of the Entity's current
+        location to any Land Type of eir choice other than Aether, if
+        and only if the Unit is owned by the Land Bureau.
+
+      * 10 Movement Units to set the Land Type of any Land Unit that
+        is of type Aether to an alternating Land Type.
+
+      Unless explicitly permitted by other Rules, all other actions
+      and moves in Arcadia are invalid.
 
 History:
 Created by Proposal 4207 (neil), 3 September 2001
@@ -9907,6 +9949,7 @@ Amended(3) by Proposal 4280 (OscarMeyr), 3 April 2002
 Amended(4) by Proposal 4283 (Goethe), 16 April 2002
 Amended(5) by Proposal 4293 (Sir Toby), 10 May 2002
 Amended(6) by Proposal 4373 (Sir Toby), 6 September 2002
+Amended(7) by Proposal 4405 (Peekee), 23 October 2002
 
 ----------------------------------------------------------------------
 
@@ -9941,10 +9984,10 @@ Amended(3) by Proposal 4386 (Peekee), 25 September 2002
 
 ----------------------------------------------------------------------
 
-Rule 2005/1 (Power=1)
+Rule 2005/2 (Power=1)
 Tolls
 
-      A Player who owns Land may impose a Toll on any (currently
+      An Entity who owns Land may impose a Toll on any (currently
       un-Tolled) piece of Land e owns.  To do so, e must pay a Fee of
       0.2 Indulgences and publicly announce that e is imposing a
       Toll, clearly and unambiguously identifying the Unit of Land in
@@ -9954,20 +9997,20 @@ Tolls
       A Toll is a number of VEs, Indulgences, or Papyri.  No Unit of
       Land may have a Toll in other currencies, or in more than one of
       these currencies.  No Toll shall be greater than 200 times the
-      MUQ of the currency in which it is denominated.  If a Player
+      MUQ of the currency in which it is denominated.  If an entity
       (the Tollee) Moves into a Unit of Land which is at the time
-      owned by another Player (the Toller), and for which there is at
+      owned by another Entity (the Toller), and for which there is at
       the time a Toll established, e (the Tollee) is said to be In
       Toll to the Unit of Land in question, for the amount of the Toll
       on that unit of land (at the time of the Move)
 
       The owner (Toller) of a Unit of Land may notify the Mapkeepor
-      that e believes a Player has been In Toll to a Unit of Land
+      that e believes an entity has been In Toll to a Unit of Land
       owned by em; to do so, e submits a Notification of Toll, which
       must unambiguously describe the Unit of Land in question, the
-      amount of the Toll, and the Player (alleged Tollee) in question.
+      amount of the Toll, and the Entity (alleged Tollee) in question.
       The alleged Move must have occurred within the past week.  A
-      Player may submit only one such Notification for a given Unit of
+      Entity may submit only one such Notification for a given Unit of
       Land in a single week, and may not submit substantially the same
       Notification two weeks in a row.  Any Notification of Toll
       contrary to this Rule is invalid and shall be discarded.
@@ -9993,21 +10036,22 @@ Tolls
       amount, e (the Mapkeepor) commits the Class 3 Crime of Not
       Feeding the Toll Under the Bridge.
 
-      A Player may remove a Toll from any Tolled Unit of Land e owns
-      by publicly announcing that e does so.  If a Player loses
+      An Entity may remove a Toll from any Tolled Unit of Land e owns
+      by publicly announcing that e does so.  If an entity loses
       possession of a Unit of Land, all Tolls imposed on that Unit by
-      that Player are removed.
+      that Entity are removed.
 
 History:
 Created by Proposal 4210 (neil), 10 September 2001
 Amended(1) by Proposal 4228 (root), 22 November 2001
+Amended(2) by Proposal 4405 (Peekee), 23 October 2002
 
 ----------------------------------------------------------------------
 
-Rule 2022/3 (Power=1)
+Rule 2022/4 (Power=1)
 Sente and Gote
 
-      On the fifteenth of each Nomic Month, the following actions
+      On the fifteenth of each Agoran Month, the following actions
       occur in sequence, and these changes must be reported by the
       Mapkeepor as soon as possible after they occur:
 
@@ -10042,13 +10086,14 @@ Sente and Gote
                        Land Units with Sente that e owns;
 
       Sente and Gote shall only be changed as defined by this Rule, on
-      the fifteenth of each Nomic Month.
+      the fifteenth of each Agoran Month.
 
 History:
 Created by Proposal 4283 (Goethe), 16 April 2002
 Amended(1) by Proposal 4308 (Sir Toby), 28 May 2002
 Amended(2) by Proposal 4367 (Steve), 23 August 2002
 Amended(3) by Proposal 4386 (Peekee), 25 September 2002
+Amended(4) by Proposal 4398 (harvel), 23 October 2002
 
 ----------------------------------------------------------------------
 
