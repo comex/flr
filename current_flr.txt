@@ -21,15 +21,15 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 272 Rules:
+There are currently 273 Rules:
     1 with Power=4
    23 with Power=3
    41 with Power=2
-  207 with Power=1
+  208 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2061
-Highest Rule Number assigned so far: 2061
+Highest current Rule Number:         2062
+Highest Rule Number assigned so far: 2062
 
 ======================================================================
 Table of Contents:
@@ -8476,6 +8476,32 @@ New Player Team Assignment
 
 History:
 Created by Proposal 4453 (Sherlock), 22 February 2003
+
+----------------------------------------------------------------------
+
+Rule 2062/0 (Power=1)
+Team Captains
+
+      Leadership is a loose Team switch with values null and each of
+      the Team's Members.  The Scorekeepor shall maintain and report
+      records for this switch.
+
+      If a Team's leadership is null, any Member of that Team may flip
+      the Team's leadership, Without Objection from the other Members
+      of that Team.
+
+      If a Team's leadership is non-null, the leadership identifies
+      the Team Captain, who is the Executor of that Team.  The Captain
+      may flip eir Team's leadership without restriction; any other
+      Member of the Team may flip the Team's leadership with N
+      Supporters, where N + 1 is the minimal majority of that Team's
+      Members.
+
+      If the Team Captain ceases to be a member of the Team, that
+      Team's leadership becomes null.
+
+History:
+Created by Proposal 4544 (OscarMeyr), 16 December 2003
 
 ----------------------------------------------------------------------
 
