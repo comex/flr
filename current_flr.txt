@@ -6753,7 +6753,7 @@ Amended(1) by Proposal 4614 (Goethe), 21 September 2004
 
 ----------------------------------------------------------------------
 
-Rule 2069/1 (Power=1)
+Rule 2069/2 (Power=1)
 Card Definitions
 
       I. Possession
@@ -6839,10 +6839,15 @@ Card Definitions
           of Offices e holds.  For the purposes of this Rule, the
           Speakership is considered an office.
 
+          If the Deckmastor errs, in good faith, in selecting a
+          particular card to deal, and that error does not greatly
+          change the probability of selecting that card, that deal
+          shall be allowed to stand.
 
 History:
 Created by Proposal 4573 (Wes), 14 May 2004
 Amended(1) by Proposal 4625 (Goethe), 20 November 2004
+Amended(2) by Proposal 4633 (Goethe), 9 January 2005
 
 ----------------------------------------------------------------------
 Rule 2074/0 (Power=2)
