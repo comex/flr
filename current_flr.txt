@@ -21,16 +21,14 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 306 Rules:
+There are currently 315 Rules:
    19 with Power=3
-   31 with Power=2
-  256 with Power=1
+   34 with Power=2
+  262 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         1992
-Highest Rule Number assigned so far: 1992
-
-
+Highest current Rule Number:         2001
+Highest Rule Number assigned so far: 2001
 
 ======================================================================
 Table of Contents:
@@ -71,6 +69,7 @@ Table of Contents:
   Organizations
   The Notary
   Groups and Contests
+  The Land of Arcadia
 ----------------------------------------------------------------------
 
 
@@ -9653,5 +9652,281 @@ Points Contests
 
 History:
 Created by Proposal 4191 (Goethe), 18 July 2001
+
+----------------------------------------------------------------------
+
+======================================================================
+The Land of Arcadia
+  This Category includes Rules about the virtual Land of Arcadia
+----------------------------------------------------------------------
+
+Rule 1993/0 (Power=2)
+The Land of Arcadia
+
+      Arcadia is a land entirely defined by the Arcadian Map (the
+      Map).  The Map is a record kept by the Office of the Mapkeepor.
+
+      The Map divides Arcadia into a finite, discrete number of Units
+      of Land, or simply Land.  Each Unit of Land is a unique instance
+      of nonfungible Property specified by a pair of integers known as
+      its Latitude and Longitude.
+
+      Every unique pair of integers within the limits defined in the
+      Rules for Latitude and Longitude signifies an existent Unit of
+      Land.  No other Units of Land may exist.  Units of Land may only
+      be created or destroyed by changing the limits of Latitude and
+      Longitude defined in the Rules.
+
+      All values for Latitude must lie between -25 and +25, inclusive.
+      All values for Longitude must lie between -25 and +25,
+      inclusive.
+
+      The Total Land Area of Arcadia is the number of existent Units
+      of Land defined by permissible Latitude and Longitude pairs.
+
+History:
+Created by Proposal 4197 (Goethe), 8 August 2001
+
+----------------------------------------------------------------------
+
+Rule 1994/0 (Power=2)
+Ownership of Land
+
+      Any existent Land for which ownership has not been explicitly
+      changed belongs to an entity known as the Land Bureau (the
+      Bureau).
+
+      Land belonging to the Bureau is called Unclaimed Land.  Land
+      belonging to the Bank is called Public Land.  Land belonging to
+      any other entity is called Private Land.  A Unit of Land for
+      which a debt exists is considered to be In Escrow.
+
+      The Mapkeepor is the Executor of the Land Bureau.  The Mapkeepor
+      is also a Limited Executor of the Bank, with the authority to
+      satisfy debts of Land owed by the Bank to its creditors, and the
+      authority to demand the payment of Land owed to the Bank by its
+      debtors.
+
+      The transfer of Unclaimed or Public Land to any entity must be
+      specifically permitted by the Rules, or be performed by the
+      explicit action of an instrument of Power 2 or greater, to be an
+      authorized Transfer.
+
+      Private Land may be transferred from its owner to any other
+      entity by the owner's Executor.  Any other transfer of Private
+      Land must be performed by the explicit Action of an instrument
+      of Power 2 or greater to be an authorized transfer.
+
+History:
+Created by Proposal 4197 (Goethe), 8 August 2001
+
+----------------------------------------------------------------------
+
+Rule 1995/0 (Power=2)
+Land Types
+
+      Each Unit of Land shall have a single Land Type.  Each Unit of
+      Land that has a Land Type shall have either zero or one Land
+      Subtypes.  The Land Type or Subtype of a Unit may only be
+      changed as specifically permitted by the Rules, or by an
+      instrument of Power 2 or greater.
+
+      The phrase "Units of X", where X is a Land Type (or Subtype)
+      defined by the Rules, shall be considered a synonym for "Units
+      of Land that have Land Type (or Subtype) X".
+
+      When existent Land has not had its Type changed as explicitly
+      permitted by the Rules, or has a Type that is not currently
+      defined by the Rules, it shall be considered to have the Land
+      Type of Aether.  Rules to the contrary nonwithstanding, Units of
+      Aether may not be transferred from the Bureau, or owned by any
+      entity other than the Bureau.  If Private or Public Land becomes
+      Aether it shall be transferred to the Bureau as soon as
+      possible.
+
+      When existent Land has not had its Subtype changed as explicitly
+      permitted by the Rules, or has a Subtype that is not currently
+      defined by the Rules as permissible for its Land Type, it shall
+      be considered to have no Subtype.
+
+History:
+Created by Proposal 4197 (Goethe), 8 August 2001
+
+----------------------------------------------------------------------
+
+Rule 1996/0 (Power=1)
+The Mapkeepor
+
+      There exists the Office of Mapkeepor, whose responsibility is to
+      be the recordkeeper for the Land of Arcadia.  The Mapkeepor
+      shall produce a Weekly Report including:
+
+            (a) The Ownership and Land Type of all existent Land;
+            (b) All changes in the Ownership and Land Type of existent
+                Land since the most recent report;
+            (c) The Location of all Entities or Instruments that have
+                a defined Location.
+
+History:
+Created by Proposal 4197 (Goethe), 8 August 2001
+
+----------------------------------------------------------------------
+
+Rule 1997/0 (Power=1)
+Defined Land Types and Subtypes
+
+      In addition to Aether, the following Land Types are defined:
+           (a) Wilderness;
+           (b) Farmland;
+           (c) Water;
+           (d) Urbana.
+
+       The following Land Subtypes are permissible for Units of
+       Wilderness:
+           (a) Mountans;
+           (b) Hills;
+           (c) Forest;
+           (d) Desert;
+
+       The following Land Subtypes are permissible for Units of
+       Urbana:
+           (a) City;
+           (b) Road;
+           (c) Aqueduct.
+
+History:
+Created by Proposal 4197 (Goethe), 8 August 2001
+
+----------------------------------------------------------------------
+
+Rule 1998/0 (Power=1)
+Land Topology
+
+      Two Units of Land are Adjacent if neither their Latitudes nor
+      their Longitudes differ by more than one from each other.
+
+      The Penguin Distance between two given Units of Land is the
+      minimum number of Single Waddles required to Travel from one of
+      the given Units to the other given Unit, where one Single Waddle
+      is the Penguin Distance required to Travel from one Unit of Land
+      to an Adjacent Unit of Land.
+
+      Of a Land Unit:
+         (1) the Land Unit with the same Longitude and a Latitude
+             greater by 1 is its Northern Neighbor.
+         (2) the Land Unit with the same Longitude and a Latitude less
+             by 1 is its Southern Neighbor.
+         (3) the Land Unit with the same Latitude and a Longitude
+             greater by 1 is its Eastern Neighbor.
+         (4) the Land Unit with the same Latitude and a Longitude less
+             by 1 is its Western Neighbor.
+
+History:
+Created by Proposal 4197 (Goethe), 8 August 2001
+
+----------------------------------------------------------------------
+
+Rule 1999/0 (Power=1)
+Entity Location
+
+      The following Entities shall each have a single defined Location
+      corresponding to a single Latitude, Longitude pair within the
+      limits set in the Rules for Latitude and Longitude on the Map of
+      Arcadia:
+              (a) Every Player;
+              (b) Every Organization.
+      No other Entity shall have a location unless it is defined in
+      other Rules.  The Location of an Entity may not be set or
+      changed except as explicitly permitted by the Rules or an
+      instrument of Power 1 or greater.  If an Entity is specified by
+      this Rule as having a defined Location, but its Location has not
+      been explicity set or changed, its Location shall be Latitude 0,
+      Longitude 0.
+
+History:
+Created by Proposal 4197 (Goethe), 8 August 2001
+
+----------------------------------------------------------------------
+
+Rule 2000/0 (Power=1)
+Rule Location
+
+      The Rule Mapping is a Rules-defined calculation that maps
+      a single integer (a Rule Number as defined elsewhere in the
+      Rules) onto a single Latitude, Longitude pair within the limits
+      of Latitude and Longitude on the Map of Arcadia.
+
+      The Rule Mapping must be such that no two possible Rule Numbers
+      between 101 and the Total Land Area of Arcadia are mapped to the
+      same Latitude, Longitude pair.
+
+      For any existent Rule, the Latitude and Longitude pair resulting
+      from a Rule Mapping of the Rule's Number is the Rule's Location.
+      A Rule's Location only changes if its Rule Number changes or if
+      the Rule Mapping contained in this Rule changes.
+
+      The Rule Mapping is defined by the following procedure:
+        1.  The number 100 is subtracted from the Rule Number to
+            calculate the number of Vulture Steps in the Rule Number's
+            Vulture Journey.
+        2.  The Latitude and Longitude of the Mapping shall be that of
+            the Land Unit Visited when the final Vulture Step of the
+            Rule Number's Vulture Journey is taken, where each Vulture
+            Step in the Journey is taken as follows:
+
+              (a) If no Vulture Steps have yet been taken in the
+                  Journey, by visiting the Land Unit with Latitude 0,
+                  Longitude 0; otherwise,
+              (b) From the Land Unit most recently visited in the
+                  specific Vulture Journey:
+                  (i) If neither its Northern, nor Western, nor
+                      Southern, nor Eastern Neighbor has been visited
+                      in the Journey, by visiting its Eastern
+                      Neighbor; otherwise,
+                 (ii) If its Nothern, Western, and Southern Neighbors
+                      have all been visited, by visiting
+                      its Eastern Neighbor; otherwise,
+                (iii) If its Western Neighbor has been visited but
+                      its Northern Neighbor has not, by visiting its
+                      Northern Neighbor, otherwise;
+                 (iv) If the Southern Neighbor has been visited but
+                      the Western Neightbor has not, by visiting the
+                      Western Neighbor, otherwise;
+                  (v) If the Eastern Neighbor has been visited but the
+                      Southern Neighbor has not, by visiting the
+                      Southern Neighbor, otherwise;
+                 (vi) If the Northern Neigbor has been visited but
+                      the Eastern Neighbor has not, by visiting the
+                      Eastern Neighbor.
+
+History:
+Created by Proposal 4197 (Goethe), 8 August 2001
+
+----------------------------------------------------------------------
+
+Rule 2001/0 (Power=1)
+This Landscape, This Ruleset
+
+      Upon the adoption of this Rule, if a number which maps onto
+      the Latitude, Longitude pair of an existent Unit of Land using
+      the Rule Mapping, is not an existent Rule Number, the Unit's
+      Land Type shall be changed to Aether.
+
+      Otherwise, the Land Type of the Unit of Land at the Latitude,
+      Longitude representing each Rule Number's Location:
+
+        (i) shall be changed to Land Type Wilderness if the Rule has a
+            Power greater than or equal to 1, but less than 2.
+
+       (ii) shall be changed to Land Type Farmland if the Rule has
+            a Power greater than or equal to 2, but less than 3.
+
+      (iii) shall be changed to Land Type Urbana if the Rule has
+            a Power of 3 or more.
+
+      If a Rule Change enacts a new Rule, repeals an existing Rule, or
+      changes the Power of a Rule, the Land Type at the Rule's
+      Location shall be changed as above.  Land Types may still be
+      changed by other Rules.
 
 ----------------------------------------------------------------------
