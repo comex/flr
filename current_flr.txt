@@ -2561,9 +2561,10 @@ Rule 2010/0 (Power=2)
 Oligarchy Upkeep
 
       As soon as possible after the beginning of each month, the GWotO
-      shall bill each non-Elder Oligarch 0.1 VEs. The GWotO shall remove
-      from the Oligarchy any Oligarch who does not pay a debt resulting
-      from this Rule within 7 days of the announcement of such a debt.
+      shall bill each non-Elder Oligarch 0.1 VEs. The GWotO shall
+      remove from the Oligarchy any Oligarch who does not pay a debt
+      resulting from this Rule within 7 days of the announcement of
+      such a debt.
 
 History:
 Created by Proposal 4221 (Steve), 10 October 2001
@@ -5972,8 +5973,8 @@ Crimes and Infractions
 Rule 1503/5 (Power=1)
 Crimes and Infractions
 
-      An action or inaction is a Crime or an Infraction only if defined
-      as such by the Rules.
+      An action or inaction is a Crime or an Infraction only if
+      defined as such by the Rules.
 
       An entity may be convicted of a Crime only by a judicial finding
       that e has committed that Crime.  An entity may be convicted of
@@ -6802,10 +6803,9 @@ Embezzlement and Receiving Stolen Property
 
       (d) A Player who has been informed that e, or an entity of which
           e is the Prime Executor, has incurred a debt of the type
-          decribed in
-          (c) and who does not act to satisfy that debt within in a week of
-          being informed of it commits the Class 10 Crime of Receiving
-          Stolen Property.
+          decribed in (c) and who does not act to satisfy that debt
+          within in a week of being informed of it commits the Class
+          10 Crime of Receiving Stolen Property.
 
       (e) For the the purposes of this Rule, a valid but unauthorized
           transfer is considered to have been made intentionally if
@@ -8063,35 +8063,35 @@ Amended(4) by Proposal 4211 (harvel), 10 September 2001
 Rule 2011/0 (Power=1)
 Stems Weather
 
-       As soon as possible after the beginning of each month, the
-       Treasuror shall randomly Determine the Weather for the month.
-       The Weather can be one of either Foul, Fair, or Plenty, and
-       shall be determined using the following probabilities:
-                      0.20  Foul.
-                      0.30  Fair.
-                      0.20  Plenty.
-                      0.30  Same as the previous month.
+      As soon as possible after the beginning of each month, the
+      Treasuror shall randomly Determine the Weather for the month.
+      The Weather can be one of either Foul, Fair, or Plenty, and
+      shall be determined using the following probabilities:
+                     0.20  Foul.
+                     0.30  Fair.
+                     0.20  Plenty.
+                     0.30  Same as the previous month.
 
-       When the Treasuror posts eir Determination of the Weather for a
-       month, the following events shall occur in the listed sequence
-       immediately after the Weather is Determined:
+      When the Treasuror posts eir Determination of the Weather for a
+      month, the following events shall occur in the listed sequence
+      immediately after the Weather is Determined:
 
-            (a) A number of Stems in the Bank's possession, equal to
-                the number of Players in the game multiplied by the
-                Minimum Income, shall be Destroyed.  If this value is
-                greater than the number of Stems in the Possession of
-                the Bank, all the Stems in the Possession of the Bank
-                shall be Destroyed instead.
-            (b) A number of Stems shall be Created in the Bank's
-                Possession, equal to the number Destroyed in (a) above
-                multiplied by:
-                     0.50 if the Weather is Foul;
-                     1.00 if the Weather is Fair;
-                     1.50 if the Weather is Plenty.
+           (a) A number of Stems in the Bank's possession, equal to
+               the number of Players in the game multiplied by the
+               Minimum Income, shall be Destroyed.  If this value is
+               greater than the number of Stems in the Possession of
+               the Bank, all the Stems in the Possession of the Bank
+               shall be Destroyed instead.
+           (b) A number of Stems shall be Created in the Bank's
+               Possession, equal to the number Destroyed in (a) above
+               multiplied by:
+                    0.50 if the Weather is Foul;
+                    1.00 if the Weather is Fair;
+                    1.50 if the Weather is Plenty.
 
-       The Treasuror shall announce the number of Stems Created and
-       Destroyed by this Rule in the message in which e announces the
-       Weather.
+      The Treasuror shall announce the number of Stems Created and
+      Destroyed by this Rule in the message in which e announces the
+      Weather.
 
 History:
 Created by Proposal 4234 (Goethe), 29 November 2001
@@ -9218,8 +9218,9 @@ Amended(7) by Proposal 4181 (Murphy), 9 July 2001
 Rule 1614/7 (Power=1)
 Names of Organizations
 
-      Each Organization has a unique Name.  The Name of an Organization
-      may only change as specified by its Charter or by the Rules.
+      Each Organization has a unique Name.  The Name of an
+      Organization may only change as specified by its Charter or by
+      the Rules.
 
 History:
 Created by Proposal 2525, Mar. 10 1996
@@ -9311,16 +9312,17 @@ Amended(9) by Proposal 4181 (Murphy), 9 July 2001
 Rule 1533/13 (Power=1)
 Application to Create an Organization
 
-      An Application to Create an Organization (ACO) shall be submitted
-      to the Notary.
+      An Application to Create an Organization (ACO) shall be
+      submitted to the Notary.
 
-      To be valid, an ACO must specify all properties that an Organization
-      is required to have.  Other Rules may place further conditions on the
-      validity of ACOs for a specific Class of Organization.
+      To be valid, an ACO must specify all properties that an
+      Organization is required to have.  Other Rules may place further
+      conditions on the validity of ACOs for a specific Class of
+      Organization.
 
-      The effect of submitting a valid ACO is to create the prospective
-      Organization, with the Sponsor and signatories as Foundors and
-      initial Members.
+      The effect of submitting a valid ACO is to create the
+      prospective Organization, with the Sponsor and signatories as
+      Foundors and initial Members.
 
 History:
 Created by Proposal 1760, Oct. 21 1995
@@ -9808,18 +9810,17 @@ Defined Land Types and Subtypes
            (c) Water;
            (d) Urbana.
 
-       The following Land Subtypes are permissible for Units of
-       Wilderness:
-           (a) Mountans;
-           (b) Hills;
-           (c) Forest;
-           (d) Desert;
+      The following Land Subtypes are permissible for Units of
+      Wilderness:
+          (a) Mountans;
+          (b) Hills;
+          (c) Forest;
+          (d) Desert;
 
-       The following Land Subtypes are permissible for Units of
-       Urbana:
-           (a) City;
-           (b) Road;
-           (c) Aqueduct.
+      The following Land Subtypes are permissible for Units of Urbana:
+          (a) City;
+          (b) Road;
+          (c) Aqueduct.
 
 History:
 Created by Proposal 4197 (Goethe), 8 August 2001
