@@ -21,15 +21,15 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 283 Rules:
+There are currently 270 Rules:
     1 with Power=4
    23 with Power=3
    39 with Power=2
-  220 with Power=1
+  207 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2057
-Highest Rule Number assigned so far: 2057
+Highest current Rule Number:         2058
+Highest Rule Number assigned so far: 2058
 
 ======================================================================
 Table of Contents:
@@ -58,7 +58,6 @@ Table of Contents:
   Kudos
   Patent Titles
   Degrees and Theses
-  Property
   Currencies
   Winning a Game
   Points and the Scorekeepor
@@ -2646,6 +2645,28 @@ Amended(2) by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
+Rule 2058/0 (Power=2)
+Removing Oligarchs from the Oligarchy
+
+      When the Rules direct the GWotO to remove a Player from the
+      Oligarchy, the GWotO shall publicly announce:
+
+      (i) the Oligarch to be removed;
+      (ii) the reason for the removal; and
+      (iii) the Rule that authorizes that reason.
+
+      If this notice is correct, the named Player ceases to be an
+      Oligarch as of the GWotO's announcement.
+
+      The GWotO's announcement is to be made as soon as possible after
+      the governing event happens, unless the governing Rule specifies
+      a different time period.
+
+History:
+Created by Proposal 4532 (OscarMeyr), 26 October 2003
+
+----------------------------------------------------------------------
+
 ======================================================================
 Making Proposals
   This rather large Category includes Rules regulating the
@@ -4569,7 +4590,7 @@ Amended(1) by Proposal 3768 (Chuck), Jul. 22 1998
 
 ----------------------------------------------------------------------
 
-Rule 1794/5 (Power=1)
+Rule 1794/6 (Power=1)
 Classes of Orders
 
       Each Order is of exactly one of the following classes.  If an
@@ -4591,13 +4612,10 @@ Classes of Orders
         (e) A Judicial Order is an Order executed by a Judge in the
             course of performing eir duties or privileges as Judge.
 
-        (f) An Administrative Order is an Order executed by an
-            Officer in the course of performing the duties or
-            privileges of that Office.  For the purpose of this
-            Rule, the following positions are deemed to be Offices:
-
-               (i) The Speaker.
-              (ii) The Recordkeepor of a Currency.
+        (f) An Administrative Order is an Order executed by an Officer
+            in the course of performing the duties or privileges of
+            that Office.  For the purpose of this Rule, the Speaker is
+            deemed to be an Office.
 
         (g) Any other Order is a Private Order.
 
@@ -4608,6 +4626,7 @@ Amended(2) by Proposal 3896 (Elysion), Aug. 27 1999
 Amended(3) by Proposal 4048 (Peekee), Aug. 15 2000
 Amended(4) by Proposal 4137 (harvel), Apr. 5 2001
 Amended(5) by Proposal 4406 (Murphy), 30 October 2002
+Amended(6) by Proposal 4533 (Murphy), 26 October 2003
 
 ----------------------------------------------------------------------
 
@@ -5751,38 +5770,35 @@ Amended(6) by Proposal 3768 (Chuck), Jul. 22 1998
 
 ----------------------------------------------------------------------
 
-Rule 1742/2 (Power=1)
+Rule 1742/3 (Power=1)
 Agreements between Players
 
       Players may make agreements among themselves with the intention
-      that such agreements will be binding under the Rules. If such
-      an agreement is subsequently broken, any Player party to that
+      that such agreements will be binding under the rules.  If such
+      an agreement is subsequently broken, any player party to that
       agreement may then call a CFJ alleging that the agreement has
-      been broken. If the Judge of such a CFJ finds that the
-      agreement was entered into with the intention that the
-      agreement be binding under the Rules and that the agreement has
-      in fact been broken, e may Order the breaching party to:
-      (1) transfer Property to the other party or parties to remedy
-          the damages from the breach,
-      (2) perform according to the agreement, or
-      (3) perform such other substitute acts as would fairly serve
-          the interests of the agreement.
-      E may further Order the other parties of the agreement to
-      perform such acts as may be necessary to preserve fairness and
-      justice.
+      been broken.  If the judge of such a CFJ finds that the
+      agreement was entered into with the intention that the agreement
+      be binding under the rules, and that the agreement has in fact
+      been broken, then e may order the breaching party to perform
+      according to the agreement, or perform substitute acts that
+      would fairly serve the interests of the agreement; e may further
+      order the other parties of the agreement to perform such acts as
+      may be necessary to preserve fairness and justice.
 
-      Nothing in this Rule shall be construed so as to impair the
+      Nothing in this rule shall be construed so as to impair the
       enforcement of an agreement which requires a Player to violate
       another agreement.
 
-      A CFJ alleging that an agreement has been broken called by
-      anyone who is not party to that agreement lacks standing and
-      shall be dismissed.
+      If a CFJ alleging that an agreement has been broken is called by
+      anyone who is not party to that agreement, then it lacks
+      standing and shall be dismissed.
 
 History:
 Created by Proposal 3558 (General Chaos), Oct. 24 1997
 Amended(1) by Proposal 3704 (General Chaos), Mar. 19 1998
 Amended(2) by Proposal 4018 (Kelly), Jun. 21 2000
+Amended(3) by Proposal 4533 (Murphy), 26 October 2003
 
 ----------------------------------------------------------------------
 
@@ -7119,247 +7135,8 @@ Created by Proposal 4462 (Goethe), 17 March 2003
 ----------------------------------------------------------------------
 
 ======================================================================
-Property
-  This Category includes Rules concerning Property in general.
-----------------------------------------------------------------------
-
-Rule 1942/4 (Power=1)
-Property
-
-      A property is an entity which the rules permit to be possessed
-      by another entity.  The term "possess" refers to the legal
-      status of possessing a property; the terms "possessor" and
-      "owner" are synonyms, as are "possess" and "own".  Individual
-      properties may not be created or destroyed, or their ownership
-      changed, except in accordance with the rules.
-
-      Each property shall have a recordkeepor, which is a player
-      required to maintain a record of who owns that property.  The
-      Notary is the recordkeepor for each property that would
-      otherwise have no recordkeepor.
-
-      If one of the official duties of an officer is to be the
-      recordkeepor of a property, then eir Weekly Report shall include
-      this record and any changes thereto since the last posting of
-      eir Report.
-
-      If a category of properties ceases to exist, all debts of that
-      property shall cease to exist.  The former recordkeepor of that
-      property category must, as soon as possible after the category
-      ceases to exist, publish entities' holdings of that category as
-      they existed immediately before this destruction.
-
-      If a Player destroys a category of property for which e is a
-      debtor, e commits the Class-4 Crime of Writing Bad Checks.
-
-History:
-Created by Proposal 4018 (Kelly), Jun. 21 2000
-Amended(1) by Proposal 4110 (Ziggy), Feb. 13 2001
-Amended(2) by Proposal 4250 (harvel), 19 February 2002
-Amended(3) by Proposal 4486 (Michael), 24 April 2003
-Amended(4) by Proposal 4497 (Steve), 13 May 2003
-
-----------------------------------------------------------------------
-
-Rule 2030/0 (Power=2)
-Property Protection
-
-      Rules to the contrary nonwithstanding, a provision of an adopted
-      Proposal that attemps to change the ownership of Property or
-      create a debt by any means other than by changing the Ruleset
-      shall be considered without effect, unless (a) the Proposal is
-      Democratic; and (b) the Proposal has an Adoption Index of 2 or
-      greater.
-
-History:
-Created by Proposal 4329 (Goethe), 9 June 2002
-Power changed from 1 to 2 by Proposal 4340 (root), 8 July 2002
-
-----------------------------------------------------------------------
-
-Rule 1959/2 (Power=1)
-Wills
-
-      (a) An entity's Will is a description of how the entity's
-          Property should be distributed in the event that the entity
-          ceases to have an Executor.  An entity may never have more
-          than one Will.
-
-      (b) An entity creates a Will for emself by publishing it.
-
-      (c) An entity changes or destroys eir Will by announcing e does
-          so.
-
-      (d) The Notary shall keep a record of all Wills.
-
-History:
-Created by Proposal 4082 (Peekee), Oct. 30 2000
-Amended(1) by Proposal 4190 (Steve), 18 July 2001
-Amended(2) by Proposal 4506 (Sherlock), 20 June 2003
-
-----------------------------------------------------------------------
-
-Rule 1908/5 (Power=1)
-Abandoned Property
-
-      Property possessed by an entity (the Dissolute) without a Prime
-      Executor is deemed to be abandoned as long as it is possessed by
-      the Dissolute.
-
-      The Notary is a Limited Executor of each Dissolute, on behalf of
-      whom e may:
-
-      (1) transfer property owned by em to any creditor of any of eir
-          debts, for the purpose of making partial or complete payment
-          on those debts;
-
-      (2) forgive in part or in full any debts owed to em;
-
-      (3) Without Objection, transfer property owned by em to the
-          Mintor or Recordkeepor of that Property, unless the
-          Dissolute was a player before eir property was abandoned; or
-
-      (4) transfer property to satisfy the Dissolute's Will, provided
-          that the Dissolute was not Silent when e lost eir Prime
-          Executor and all debts for that type of property that the
-          Dissolute had when e lost eir Prime Executor have been
-          satisfied.
-
-      If any entity possessing property dies, dissolves, or otherwise
-      ceases to exist, that entity shall be deemed to exist for as
-      long as e possesses property.
-
-History:
-Created by Proposal 3896 (Elysion), Aug. 27 1999
-Amended(1) by Proposal 3930 (Murphy), Oct. 17 1999
-Amended(2) by Proposal 4018 (Kelly), Jun. 21 2000
-Amended(3) by Proposal 4082 (Peekee), Oct. 30 2000
-Amended(4) by Proposal 4211 (harvel), 10 September 2001
-Amended(5) by Proposal 4497 (Steve), 13 May 2003
-
-----------------------------------------------------------------------
-
-======================================================================
 Currencies
   This Category includes Rules concerning Currencies in general.
-----------------------------------------------------------------------
-
-Rule 1467/7 (Power=1)
-Definition of a Currency
-
-      A Currency is a category of entities established by the Rules.
-      Each instance of a Currency is a Property. Instances of a given
-      Currency are fungible. The size of a single instance, or
-      "unit", of a given Currency is its Minimum Unit Quantity (MUQ).
-      Individual units of a Currency cannot be divided; therefore,
-      the final result of all computations involving numbers of units
-      of Currency shall be rounded off to the nearest integral
-      multiple of its MUQ.
-
-      Unless otherwise specified, the MUQ of a Currency is one (1).
-
-      Since units of Currency are fungible, it is not necessary for
-      the Recordkeepor of a Currency to track the individual
-      ownership of each unit; rather, it is sufficient to maintain a
-      record of the total number of units possessed by each entity
-      which possesses any number of units of that Currency.
-
-History:
-Created by Proposal 1601, Jun. 19 1995
-Amended(1) by Proposal 1685, Sep. 1 1995
-Amended(2) by Proposal 2470, Feb. 16 1996
-Infected and Amended(3) by Rule 1454, Oct. 13 1997, substantial
-  (unattributed)
-Amended(4) by Rule 1467, Oct. 27 1997, substantial
-Amended(5) by Proposal 3894 (harvel), Aug. 16 1999
-Amended(6) by Proposal 3999 (harvel), May 2 2000
-Amended(7) by Proposal 4018 (Kelly), Jun. 21 2000
-
-----------------------------------------------------------------------
-
-Rule 1579/6 (Power=1)
-Mintors
-
-      Each Currency shall have associated with it a Mintor, which must
-      be an entity to which the Rules grant Mint Authority.  An entity
-      has Mint Authority if and only if granted it by the Rules.
-
-      If the Mintor of a Currency ceases to exist, or ceases to have
-      the authority to be a Mintor, then all units of that Currency
-      are destroyed, and that Currency ceases to exist.  The
-      Recordkeepor of that Currency shall publicly announce when
-      this happens.
-
-      All Players have Mint Authority.
-
-History:
-Created by Proposal 2470, Feb. 16 1996
-Amended(1) by Proposal 3502 (General Chaos), Jun. 8 1997, substantial
-Amended(2) by Proposal 3533 (General Chaos), Jul. 15 1997, substantial
-Amended(3) by Proposal 3543 (Harlequin), Aug. 17 1997, substantial
-Infected and Amended(4) by Rule 1454, Aug. 30 1997, substantial
-  (unattributed)
-Amended(5) by Rule 1579, Sep. 13 1997, substantial
-Amended(6) by Proposal 4099 (Murphy), Jan. 15 2001
-
-----------------------------------------------------------------------
-
-Rule 1722/2 (Power=1)
-Creation of New Currencies
-
-      A new Currency is created when an entity which has Mint
-      Authority publicly posts a message stating that e is doing so,
-      provided that also e states in that message the values of all
-      properties which the Rules require of Currencies.  The Mintor of
-      a Currency created in this way is the entity which created it,
-      any specification to the contrary notwithstanding.  If the
-      Recordkeepor of the Currency to be created is not the Executor
-      of the Mintor, the proposed Recordkeepor must first consent to
-      being its Recordkeepor before the Currency is created.
-
-      A Currency is destroyed when the Mintor of that Currency
-      publicly states that e is doing so, unless this destruction
-      would be prohibited by the Rules.
-
-      The Mintor of a Currency may not destroy that Currency if that
-      Currency exists by virtue of being required to exist by the
-      Rules.
-
-      The Recordkeepor of a Currency created by the procedure in this
-      Rule is changed when the Mintor of that Currency announces the
-      change; but if the new Recordkeepor is not the Executor of the
-      Mintor, the new Recordkeepor must first consent to being made
-      Recordkeepor.
-
-History:
-Created by Proposal 3502 (General Chaos), Jun. 8 1997
-Amended(1) by Proposal 3823 (Oerjan), Jan. 21 1999
-Amended(2) by Proposal 4147 (Wes), 13 May 2001
-
-----------------------------------------------------------------------
-
-Rule 1471/2 (Power=1)
-Creation and Destruction of Units of Currency
-
-      New units of a Currency are created when the Mintor of that
-      Currency transmits to the Recordkeepor of that Currency a notice
-      that e is creating new units of that Currency, specifying the
-      number of units that e is creating.  The newly created units are
-      added to the Mintor's possessions.
-
-      Units of Currency are destroyed when any entity which possesses
-      units of that Currency transmits to the Recordkeepor of that
-      Currency a notice that e is destroying units of that Currency,
-      specifying the number of units that e is destroying.  An entity
-      cannot destroy more units of a Currency than e possesses,
-      however.  The units destroyed are removed from the possession of
-      the entity performing the destruction.
-
-History:
-Created by Proposal 1601, Jun. 19 1995
-Amended(1) by Proposal 2619, Jun. 19 1996
-Amended(2) by Proposal 3533 (General Chaos), Jul. 15 1997, substantial
-
 ----------------------------------------------------------------------
 
 Rule 1941/2 (Power=1)
@@ -7404,241 +7181,6 @@ Amended(2) by Proposal 4528 (Goethe), 2 October 2003
 
 ----------------------------------------------------------------------
 
-Rule 1598/12 (Power=1)
-Property Transfers
-
-      (a) A Notice of Transfer is a message which sets forth the
-          intent to transfer one or more Properties from one entity
-          (the "transferor") to some other entity (the "transferee").
-
-      (b) A valid Notice of Transfer must additionally:
-          (1) specify one or more Properties all of which are owned by
-              the transferor; and
-          (2) be sent by the Executor of the transferor, or by a
-              Limited Executor of the transferor with the authority to
-              execute transfers on behalf of that entity with respect
-              to all of the Properties involved.
-
-      (c) A transfer of a Property occurs only when its Recordkeepor
-          receives a valid Notice of Transfer.
-
-      (d) The effect of a transfer of Properties is to cause the
-          transferor to cease to possess the Properties transferred,
-          and simultaneously to cause the transferee to possess them.
-
-      (e) The Recordkeepor of a Property shall maintain a record of
-          all transfers of that Property. E shall retain a record of
-          each Notice of Transfer which e receives (whether valid or
-          not) involving that Property. E shall retain this record of
-          each Notice of Transfer for at least four weeks after its
-          receipt.
-
-      (f) If the transferor transfers Property to the transferee with
-          the purpose of satisfying a debt, or of paying the Fee
-          associated with performing an action, but the debt does not
-          exist, or the action is not successfully performed, then the
-          transferor may publicly demand the return of the Property.
-          The effect of such a demand is to cause the transferee to
-          incur a debt to the transferor for the Property transferred.
-
-[In CFJ 1302, judged TRUE on 26 June 2001, the Judge agreed with the
- caller's argument that "a 'conditionally expressed Notice of
- Transfer' (that is, a message which appears to be a Notice of
- Transfer but with a condition attached), where a reasonable person
- would conclude that the sender of the purported Notice of Transfer
- did not possess, at the time e sent the purported Notice of Transfer,
- immediate knowledge as to whether the condition was true, does not
- express an 'intent to transfer one or more Properties' and as such is
- not a Notice of Transfer.  Rather, such a message expresses an intent
- to achieve a certain state of affairs which may or may not include a
- transfer, and as such fails to set forth the requisite intent
- required by Rule 1598."]
-
-[CFJ 1337, judged 8 January 2002, established that the use of a
- locution like 'I transfer all my Papyri (3.15) to the Bank' is
- acceptable and valid as a Notice of Transfer, because it clearly
- specifies the Properties being transferred.]
-
-History:
-Created by Proposal 2493, Feb. 16 1996
-Amended(1) by Proposal 2626, Jun. 29 1996
-Amended(2) by Proposal 3533 (General Chaos), Jul. 15 1997, substantial
-Infected and Amended(3) by Rule 1454, Nov. 26 1997, substantial
-  (unattributed)
-Amended(4) by Rule 1598, Dec. 10 1997, substantial
-Amended(5) by Proposal 3627 (General Chaos), Dec. 29 1997, substantial
-Amended(6) by Proposal 3704 (General Chaos), Mar. 19 1998
-Amended(7) by Proposal 3755 (Crito), Jun. 12 1998
-Amended(8) by Proposal 3901 (Schneidster), Sep. 6 1999
-Amended(9) by Proposal 4018 (Kelly), Jun. 21 2000
-Amended(10) by Proposal 4099 (Murphy), Jan. 15 2001
-Amended(11) by Proposal 4156 (Ian), 18 May 2001
-Amended(12) by Proposal 4190 (Steve), 18 July 2001
-
-----------------------------------------------------------------------
-
-Rule 1596/9 (Power=1)
-Debt
-
-      (a) A "debt" is an obligation arising under the Rules for one
-          entity (the "debtor") to make a transfer of one or more
-          Properties to some other entity (the "creditor").
-
-      (b) No debt shall be enforceable unless a notice sufficient to
-          inform the debtor of the debt has been sent to the debtor.
-          If a Rule requires that a public notice of a debt be posted,
-          the debt is not enforceable until and unless that notice is
-          posted.
-
-      (c) A debt is satisfied when the debtor has transferred (or is
-          deemed to have transferred) all the Properties named to the
-          creditor (either as a single transfer or as the aggregate of
-          multiple transfers).
-
-      (d) A debt is forgiven when the creditor of a debt sends a
-          notice to the debtor that e is forgiving the
-          debt. Forgiveness may be for the entire debt or for any part
-          thereof. The effect of forgiving a debt is to relieve the
-          debtor of the obligation arising from that part of the debt
-          which has been forgiven to transfer Property to the
-          creditor.
-
-      (e) If two entities are each others' debtor, and all or part of
-          their debts to each other are for the same quantity (equal
-          portions) of the same fungible Property, then a public
-          announcement of this mutual debt by either entity will have
-          the effect of satisfying the equal portions of the debts for
-          both debtors as in (c) above.
-
-History:
-Created by Proposal 2493, Feb. 16 1996
-Amended(1) by Proposal 2626, Jun. 29 1996
-Amended(2) by Proposal 3533 (General Chaos), Jul. 15 1997, substantial
-Amended(3) by Proposal 3704 (General Chaos), Mar. 19 1998
-Amended(4) by Proposal 4018 (Kelly), Jun. 21 2000
-Amended(5) by Proposal 4037 (Oerjan), Aug. 7 2000
-Amended(6) by Proposal 4156 (Ian), 18 May 2001
-Amended(7) by Proposal 4234 (Goethe), 29 November 2001
-Amended(8) by Proposal 4259 (Murphy), 21 February 2002
-Amended(9) by Proposal 4356 (Steve), 7 August 2002
-
-----------------------------------------------------------------------
-
-Rule 1599/9 (Power=1)
-Overdue Debts
-
-      (a) Provided that e has not already done so, the Executor of the
-          creditor of any unsatisfied debt may demand that the debtor
-          satisfy that debt, by notifying the debtor of the demand.
-
-      (b) The debtor shall have seven days from the time of the
-          notification to satisfy the debt, except that if the debtor
-          is not active at the time the demand is sent, the debtor
-          shall instead have seven days from the time e becomes active
-          to satisfy the debt. Time during which a debt is disputed is
-          not counted for the purposes of this Rule.
-
-      (c) A debt not satisfied within the time allowed by this Rule
-          becomes delinquent when that time elapses. It ceases to be
-          delinquent when it is satisfied.
-
-      (d) Any Player who is the Prime Executor of an entity with
-          respect to the satisfaction of a debt owed by that entity
-          commits the Class 1 Infraction of Persistent Indebtedness
-          when that debt first becomes delinquent, and commits it
-          again every seven days thereafter for as long as the debt
-          remains delinquent. This Infraction may be reported by the
-          creditor of the delinquent debt.
-
-History:
-Created by Proposal 2493, Feb. 16 1996
-Amended(1) by Proposal 2830 (Murphy), Mar. 7 1997, cosmetic
-  (unattributed)
-Amended(2) by Proposal 3533 (General Chaos), Jul. 15 1997, substantial
-Amended(3) by Proposal 3604 (General Chaos), Dec. 9 1997, substantial
-Amended(4) by Proposal 3704 (General Chaos), Mar. 19 1998
-Amended(5) by Proposal 3851 (General Chaos), Apr. 12 1999
-Amended(6) by Proposal 4018 (Kelly), Jun. 21 2000
-Amended(7) by Proposal 4165 (Kelly), 11 June 2001
-Amended(8) by Proposal 4278 (harvel), 3 April 2002
-Amended(9) by Proposal 4346 (Steve), 11 July 2002
-
-----------------------------------------------------------------------
-
-Rule 1853/10 (Power=1)
-Levying Taxes
-
-      The Recordkeepor of a Currency ("the taxing authority") may levy
-      a tax on that Currency only as follows:
-
-      (A) First, the taxing authority publically issues an
-          announcement of intent to levy a tax; second, at a later
-          point, the taxing authority publically issues a tax notice
-          (the levy).
-
-      (B) To be valid, both the notice of intent to levy a tax, and
-          the tax notice itself, must specify the elements of the tax,
-          viz., the currency being taxed, the tax rate expressed as a
-          percentage of holdings (which may not exceed 50%), and any
-          exemptions.
-
-      (C) The tax notice must be published between seven and fourteen
-          days after the time of the announcement of the intent to
-          issue the levy, and must be at least 30 days after the last
-          valid tax notice published for that Currency.  The
-          announcement of intent to issue the levy may not take place
-          while another attempt to levy a tax on that Currency is
-          pending under the authority of this Rule.
-
-      (D) The tax may include exemptions on a fixed amount of the
-          holdings of every taxable entity, provided that:
-           (i) All Players are exempt identical amounts,
-          (ii) All Non-players are exempt identical amounts,
-         (iii) The Non-players' exemption is less than or equal to
-               the Players' exemption.
-
-      (E) The tax debt for each taxable entity is calculated on the
-          basis of the entity's holdings at the time of the
-          publication of the notice of intent. Any holdings exempt
-          from the tax are exempted, and the tax is applied to the
-          remainder at the specified tax rate.
-
-      (F) A tax notice must also indicate the currency holdings of
-          each taxable entity at the time of the publication of the
-          notice of intent to levy a tax, and the tax debt incurred by
-          each such entity.  Any error in the calculation of holdings
-          or tax debts does not invalidate the tax notice with respect
-          to the other taxable entities mentioned in it.
-
-      (G) Upon the publication of a valid tax notice, each taxable
-          entity incurs a debt to the Mintor of the Currency equal to
-          eir tax debt.
-
-      (H) All entities are taxable, except for:
-          (i) rebellious players who were rebellious at the time the
-              intent to levy was published, and
-         (ii) entities explicitly specified by the rule authorizing
-              the levy as non-taxable for that levy.
-
-      Other Rules may specify conditions under which an entity other
-      than the recordkeepor of a currency may be a taxing authority
-      for the purposes of this Rule.
-
-History:
-Created by Proposal 3747 (Steve), May 22 1998
-Amended(1) by Proposal 3790 (Steve), Oct. 6 1998
-Amended(2) by Proposal 3794 (Kolja A.), Oct. 19 1998
-Amended(3) by Proposal 3857 (General Chaos), Apr. 27 1999
-Amended(4) by Proposal 3897 (harvel), Aug. 27 1999
-Amended(5) by Proposal 3951 (Elysion), Dec. 8 1999
-Amended(6) by Proposal 4018 (Kelly), Jun. 21 2000
-Amended(7) by Proposal 4127 (Murphy), Mar. 28 2001
-Amended(8) by Proposal 4193 (Taral), 18 July 2001
-Amended(9) by Proposal 4470 (Steve), 26 March 2003
-Amended(10) by Proposal 4486 (Michael), 24 April 2003
-
-----------------------------------------------------------------------
-
 Rule 1661/10 (Power=1)
 The Right of Patronage
 
@@ -7666,140 +7208,6 @@ Amended(7) by Proposal 4018 (Kelly), Jun. 21 2000
 Amended(8) by Proposal 4033 (Chuck), Aug. 2 2000
 Amended(9) by Proposal 4151 (Kelly), 13 May 2001
 Amended(10) by Proposal 4486 (Michael), 24 April 2003
-
-----------------------------------------------------------------------
-
-Rule 1887/19 (Power=1)
-Auctions and the Default Auction Procedure
-
-      When an Auction is to be held and the procedure is not
-      specified, the Auctioneer may select a rules-defined Auction
-      Procedure. If e does not specify which procedure is to be used,
-      the Default Auction Procedure shall be used.
-
-      The Default Auction Procedure is as follows:
-
-      (a) Auctioneer: the Auctioneer is the Player who initiates the
-          Auction, and is responsible for collecting bids and
-          announcing the result of the Auction. If the Rules require
-          (or permit) an Auction to be initiated, but do not specify
-          which Player shall initiate it, then the Speaker shall (or
-          may) initiate it.
-
-      (b) Bidders: every active Player may bid in an Auction;
-          non-active Players may not bid. Activity is measured at the
-          time a Player sends eir bid.
-
-      (c) Auction Currency: each Auction is conducted in one
-          particular currency. The Rule providing for a particular
-          Auction must specify the currency to be used, or the Auction
-          cannot take place.
-
-      (d) Number of lots: each Auction is conducted for 1 or more
-          identical lots of identical items, which must all be owned
-          by the same entity. Throughout this Rule, N indicates the
-          number of lots up for bid in the Auction.
-
-      (e) Start of Auction: the Auction begins when the first
-          announcement that an Auction has begun is made by a Player
-          authorized to initiate the Auction. The announcement must
-          contain:
-          (1) the identity of the Auctioneer;
-          (2) the Auction Currency;
-          (3) the number of items being Auctioned; and
-          (4) the value of the Starting Bid.
-
-      (f) Errors in initiating Auctions: if one of the required
-          elements is missing from the announcement initiating the
-          Auction, or is incorrect, then the Auctioneer may let the
-          Auction stand Without 2 Objections. If the Auction stands,
-          then the announcement initiating the Auction is deemed to
-          have been legal and correct for the purposes of the
-          Rules. If the Auction does not stand, it is deemed not to
-          have occurred.
-
-      (g) Starting Bid: the Starting Bid is the minimum possible value
-          of a bid. If not otherwise specified, the Starting Bid is
-          equal to the MUQ of the Auction Currency.
-
-      (h) Bidding: a bid is a public message from a bidder identifying
-          the Auction e is bidding in, and specifying the amount of
-          eir bid. Each bidder may make as many bids as e likes during
-          the Auction.  A bid is only valid if it satisfies the
-          following conditions:
-          (1) it is made after the start of the Auction, and before
-              its end;
-          (2) the amount of the bid is a multiple of the MUQ of the
-              Auction Currency; and
-          (3) the amount of the bid is no less than the Starting Bid.
-
-      (i) Cancelling bids: a bidder may cancel eir bid while the
-          Auction is in progress by publically identifying the bid to
-          be cancelled.
-
-      (j) End of Auction: the Auction ends if any of the following
-          occur:
-          (1) one week has passed from the start of the Auction, and
-              no bids have been made; or
-          (2) a bid has been made in the Auction, and 72 hours have
-              passed without there being a change in the N highest
-              bids in the Auction; or
-          (3) 14 days have passed since the Auction began.
-
-      (k) Winning bids: when the Auction ends, the winning bids are
-          the N largest uncancelled valid bids in the Auction (or all
-          valid uncancelled Bids, if there were less than N valid
-          uncancelled bids). Ties shall be broken in favor of earlier-
-          submitted bids. If there were no bids in the Auction, then
-          the Auction has no winner.
-
-      (l) Final Auction Price: the Final Auction Price is either:
-          (1) the amount of the Nth highest bid, if there were N or
-              more valid uncancelled bids in the auction; or
-          (2) the Starting Bid, if there were greater than zero but
-              fewer than N valid uncancelled bids.
-
-      (m) Billing for winning bids: as soon as possible after the end
-          of the Auction, the Auctioneer shall announce the winning
-          bids and issue to each winning bidder a separate bill for
-          each of eir winning bids.
-
-      (n) Defaulting: a winning bidder has a week from the time e is
-          billed by the Auctioneer for a winning bid e made to satisfy
-          the debt arising from that bid. If e does not do so, e
-          commits the Class 2 Infraction of Defaulting (reportable by
-          the Auctioneer), and thereafter loses eir right to purchase
-          the Auctioned item by paying the debt arising from that
-          bid. As soon as possible after a winning bidder defaults on
-          a bid, the Auctioneer shall Order the owner of the items
-          being Auctioned to forgive the unsatisfied debt arising from
-          the bid.
-
-      (o) Unless specified otherwise, the owner of the Auctioned items
-          shall incur a debt of one Auctioned lot of items to the
-          winning bidder when the bill for that lot is paid.
-
-History:
-Created by Proposal 3853 (Blob), Apr. 19 1999
-Amended(1) by Proposal 3884 (harvel), Jul. 26 1999
-Amended(2) by Proposal 3897 (harvel), Aug. 27 1999
-Amended(3) by Proposal 3979 (Elysion), Feb. 23 2000
-Amended(4) by Proposal 3980 (Steve), Mar. 1 2000
-Amended(5) by Proposal 4000 (Steve), May 2 2000
-Amended(6) by Proposal 4018 (Kelly), Jun. 21 2000
-Amended(7) by Proposal 4026 (t), Jul. 14 2000
-Amended(8) by Proposal 4094 (Steve), Jan. 15 2001
-Amended(9) by Proposal 4099 (Murphy), Jan. 15 2001
-Amended(10) by Proposal 01-005 (Steve), Feb. 2 2001
-Amended(11) by Proposal 4122 (Goethe), Mar. 21 2001
-Amended(12) by Proposal 4147 (Wes), 13 May 2001
-Amended(13) by Proposal 4167 (root), 11 June 2001
-Amended(14) by Proposal 4176 (root), 7 July 2001
-Amended(15) by Proposal 4249 (Murphy), 19 February 2001
-Amended(16) by Proposal 4278 (harvel), 3 April 2002
-Amended(17) by Proposal 4356 (Steve), 7 August 2002
-Amended(18) by Proposal 4385 (Steve), 17 September 2002
-Amended(19) by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
@@ -8786,28 +8194,28 @@ The Notary
   This Category includes Rules concerning the Office of Notary.
 ----------------------------------------------------------------------
 
-Rule 1458/14 (Power=1)
+Rule 1458/15 (Power=1)
 The Notary
 
       The Notary is an office; its holder is responsible for
       maintaining a record of organizations and their jurisdictions.
 
-      The Notary's Weekly Report shall include the following
-      information for each Organization:
+      The Notary's weekly report shall include the following
+      information for each organization:
 
-        (i)  its name;
-       (ii)  its Administrator;
-      (iii)  its Executor;
-       (iv)  its SLC's Maintainer; and
-        (v)  its Jurisdiction's Players.
+        a) Its name.
+        b) Its administrator.
+        c) Its executor.
+        d) The maintainer of its charter.
+        e) A list of players within its jurisdiction.
 
-      The Notary's Monthly Report shall include the Charter of each
-      Organization.
+      The Notary's monthly report shall include the charter of each
+      organization.
 
-      Also, as soon as possible after the creation or dissolution of
-      any Organization, the Notary shall announce that fact.  If an
-      Organization is created, the Notary shall announce the above
-      information for that Organization.
+      As soon as possible after the creation or dissolution of an
+      organization, the Notary shall announce that fact.  If an
+      organization is created, the Notary shall announce the above
+      information for that organization.
 
 History:
 Created by Proposal 1575, Apr. 28 1995
@@ -8827,6 +8235,7 @@ Amended(11) by Proposal 4250 (harvel), 19 February 2002
 Amended(12) by Proposal 4486 (Michael), 24 April 2003
 Amended(13) by Proposal 4510 (Sherlock), 10 July 2003
 Amended(14) by Proposal 4525 (Murphy), 28 August 2003
+Amended(15) by Proposal 4533 (Murphy), 26 October 2003
 
 ----------------------------------------------------------------------
 
@@ -8879,39 +8288,34 @@ Amended(14) by Proposal 4147 (Wes), 13 May 2001
 
 ----------------------------------------------------------------------
 
-Rule 1539/3 (Power=1)
+Rule 1539/4 (Power=1)
 Regulations and Membership of Contests
 
-      No Player within Jurisdiction of a Contest's Regulations is
-      bound to obey any Regulation or combination of Regulations that
-      conflict with the Rules.
+      The regulations of a contest may specify the following:
 
-      The Regulations can specify the following:
+        a) How a contestmaster is replaced.  No person may become
+           contestmaster without eir consent.  If left unspecified,
+           the contestmaster cannot change while the contest exists.
 
-        i) How a Contestmaster is replaced. No person may become
-           Contestmaster without eir consent.  If left unspecified,
-           the Contestmaster cannot change while the Contest exists.
-       ii) How the Currencies in the Contest Fund shall be spent.  If
-           this is not specified, they may only be spent when the
-           Rules require it.
-      iii) The amount of the Entry Fee for the Contest, in the form of
-           units of any specific Currency.
-       iv) Additional restrictions on Players to become Contestants,
-           and conditions under which Contestants cease to be
-           Contestants.
+        b) Restrictions on players to become contestants.
 
-      A Player becomes a Contestant by notifying the Contestmaster.
-      If the Contest Regulations specify an Entry Fee, the Player must
-      also pay the prescribed Entry Fee to the Contest Fund.  A
-      Contestant may quit a Contest at any time by so notifying the
-      Contestmaster.  A Contestmaster may publicly resign at any time,
-      at which time e ceases to be Contestmaster.
+        c) Conditions under which contestants cease to be contestants.
+
+      No player is bound to obey any regulation or combination of
+      regulations that conflict with the Rules.
+
+      A player becomes a contestant, or ceases to be a contestant, by
+      notifying the contestmaster.
+
+      A contestmaster may publicly resign at any time, at which time e
+      ceases to be contestmaster.
 
 History:
 Created by Proposal 1760, Oct. 21 1995
 Amended(1) by Proposal 2725, Oct 23 1996
 Amended(2) by Proposal 4147 (Wes), 13 May 2001
 Amended(3) by Proposal 4484 (OscarMeyr), 23 April 2003
+Amended(4) by Proposal 4533 (Murphy), 26 October 2003
 
 ----------------------------------------------------------------------
 
@@ -8956,21 +8360,6 @@ Amended(1) by Proposal 4357 (Sir Toby), 16 August 2002
 Amended(2) by Proposal 4398 (harvel), 23 October 2002
 Amended(3) by Proposal 4492 (Peekee), 6 May 2003
 Amended(4) by Proposal 4502 (Peekee), 5 June 2003
-
-----------------------------------------------------------------------
-
-Rule 2031/2 (Power=1)
-Money Grubbing Contests
-
-      A Contest may be a Money Grubbing Contest if its ACO
-      specifically states that it is a Money Grubbing Contest. A
-      Player may not be the Contestmaster of more than one Money
-      Grubbing Contest in a single Agoran month.
-
-History:
-Created by Proposal 4337 (Sir Toby), 30 June 2002
-Amended(1) by Proposal 4357 (Sir Toby), 16 August 2002
-Amended(2) by Proposal 4398 (harvel), 23 October 2002
 
 ----------------------------------------------------------------------
 
@@ -9024,7 +8413,7 @@ Created by by Proposal 4494 (Peekee), 13 May 2003
 
 ----------------------------------------------------------------------
 
-Rule 2042/4 (Power=1)
+Rule 2042/5 (Power=1)
 Team Wins
 
       A Team achieves a Team Win when its Team Score reaches reaches
@@ -9053,8 +8442,8 @@ Team Wins
       Players or Teams as e sees fit. The Scorekeepor shall include
       the details of the reassignments in eir announcement.
 
-      Upon the Scorekeepor's announcement, all Players' Scores are set
-      to zero.
+      Upon the Scorekeepor's announcement, all Players' Scores and all
+      Teams' Scores are set to zero.
 
 History:
 Created by Proposal 4453 (Sherlock), 22 February 2003
@@ -9062,6 +8451,7 @@ Amended(1) by Proposal 4486 (Michael), 24 April 2003
 Amended(2) by Proposal 4491 (Peekee), 6 May 2003
 Amended(3) by Proposal 4502 (Peekee), 5 June 2003
 Amended(4) by Proposal 4503 (Peekee), 15 June 2003
+Amended(5) by Proposal 4530 (OscarMeyr), 26 October 2003
 
 ----------------------------------------------------------------------
 
