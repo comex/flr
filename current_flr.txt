@@ -21,15 +21,15 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 307 Rules:
+There are currently 308 Rules:
     1 with Power=4
    20 with Power=3
    37 with Power=2
-  249 with Power=1
+  250 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2032
-Highest Rule Number assigned so far: 2032
+Highest current Rule Number:         2033
+Highest Rule Number assigned so far: 2033
 
 ======================================================================
 Table of Contents:
@@ -2604,7 +2604,7 @@ Amended(2) by Proposal 4307 (Steve), 28 May 2002
 
 ----------------------------------------------------------------------
 
-Rule 2027/0 (Power=2)
+Rule 2027/1 (Power=2)
 Vacant Oligarchy
 
       At any time at which the number of Oligarchs is less than Quorum
@@ -2619,12 +2619,13 @@ Vacant Oligarchy
           Support of the appointed Player and Without 3
           Objections. The appointed Player becomes an Oligarch upon
           payment of the Base Seating Fee if e is a Politician, or
-          twice the Base Seating Fee if he is not a Politician,
+          twice the Base Seating Fee if e is not a Politician,
           provided that payment is made within a week of the
           appointment.
 
 History:
 Created by Proposal 4307 (Steve), 28 May 2002
+Amended(1) by Proposal 4354 (RedKnight), 7 August 2002
 
 ----------------------------------------------------------------------
 
@@ -3078,49 +3079,54 @@ Amended(1) by Proposal 4195 (Syllepsis), 26 July 2001
 
 ----------------------------------------------------------------------
 
-Rule 1770/15 (Power=1)
+Rule 1770/16 (Power=1)
 Distributing Proposals
 
-      During each Week, the Promotor must either distribute every
-      Proposal that was Distributable at the beginning of that Week,
-      or announce that there were no such Proposals. Failure to do so
-      is the Class 1 Infraction of Promotor Tardiness, which any
-      Player may detect and report.
+      (a) The Promotor is permitted to distribute a Distributable
+          Proposal at any time.
 
-      The distribution of each Proposal shall be accompanied by the
-      identity of its Proposing Entity, and an indication of the
-      Proposal's Chamber.  However, the failure of the Promotor to
-      distribute any of these accompaniments with a Proposal does not
-      deprive the distribution of the Proposal of any legal effect.
+      (b) During each Week, the Promotor is required to distribute
+          every Proposal that was Distributable at the beginning of
+          that Week, unless the Proposal has since ceased to be
+          Distributable.
 
-      A Proposal is legally distributed only if it is explicitly
-      marked as such. When a Proposal is distributed, it is removed
-      from the Proposal Pool.
+      (c) If there were no Distributable Proposals at the beginning of
+          the Week, then the Promotor is required publically to note
+          this fact at some time during the Week.
 
-      The Promotor shall not distribute any Proposal which is not
-      Distributable, and must abort any Proposal so distributed. If
-      the Promotor aborts a Proposal which e knows was Distributable
-      at the time it was distributed, e commits the Class 2 Crime of
-      Illegal Abortion.
+      (d) Failure by the Promotor to either distribute Proposals as
+          required in (b), or to make an announcement as required in
+          (c), is the Class 1 Infraction of Promotor Tardiness, which
+          any Player may report.
 
-      The Promotor aborts a Proposal by publishing an announcement to
-      that effect, clearly identifying the Proposal which has been
-      aborted.  When a Proposal is aborted:
+      (e) The Promotor shall include with the distribution of each
+          Proposal the identity of its Proposing Entity, its Adoption
+          Index, and an indication of the Proposal's Chamber. However,
+          the failure of the Promotor to include any of these
+          accompaniments with a Proposal does not deprive the
+          distribution of the Proposal of any legal effect.
 
-      (a)  the Voting Period for that Proposal immediately ends, if it
-           has not ended already;
-      (b)  all Votes cast on that Proposal are cancelled, and the
-           Proposal fails;
-      (c)  the Assessor is relieved of any duty to report on Votes
-           cast on that Proposal; and
-      (d)  the Proposal is added to the Proposal Pool.
+      (f) A Proposal is legally distributed only if it is accompanied
+          by an explicit indication that it is being distributed. When
+          a Proposal is distributed, it is removed from the Proposal
+          Pool.
 
-      The distribution of an Undistributable Proposal, when the
-      Promotor knows that the Proposal is Undistributable, is the
-      Class 2 Crime of Promotor Misrepresentation. The distribution of
-      a text purporting to be a Proposal, when the Promotor knows that
-      the text is not a Proposal, is the Class 5 Crime of Promotor
-      Fraud.
+      (g) The Promotor shall not distribute any Proposal which is not
+          Distributable, and must abort any Proposal so distributed.
+          If the Promotor aborts a Proposal which e knows was
+          Distributable at the time it was distributed, e commits the
+          Class 2 Crime of Illegal Abortion.
+
+      (h) The Promotor aborts a Proposal by publishing an announcement
+          to that effect, clearly identifying the Proposal which has
+          been aborted.
+
+      (i) The distribution of an Undistributable Proposal, when the
+          Promotor knows that the Proposal is Undistributable, is the
+          Class 2 Crime of Promotor Misrepresentation.  The
+          distribution of a text purporting to be a Proposal, when the
+          Promotor knows that the text is not a Proposal, is the Class
+          5 Crime of Promotor Fraud.
 
 [In upholding the Judgement of CFJ 1089, the Board of Appeals held
  that in order for a Proposal to have been legally distributed, it is
@@ -3144,6 +3150,24 @@ Amended(12) by Proposal 4034 (Chuck), Aug. 2 2000
 Amended(13) by Proposal 4050 (t), Aug. 15 2000
 Amended(14) by Proposal 4072 (Steve), Sep. 20 2000
 Amended(15) by Proposal 4282 (Goethe), 16 April 2002
+Amended(16) by Proposal 4355 (Steve), 7 August 2002
+
+----------------------------------------------------------------------
+
+Rule 2033/0 (Power=1)
+Aborting a Proposal
+
+      (a) When a Proposal is aborted:
+          (1)  the Voting Period for the Proposal immediately ends, if
+               it has not ended already;
+          (2)  all Votes cast on the Proposal are cancelled, and the
+               Proposal fails;
+          (3)  the Assessor is relieved of any duty to report on Votes
+               cast on the Proposal; and
+          (4)  a copy of the Proposal is added to the Proposal Pool.
+
+History:
+Created by Proposal 4355 (Steve), 7 August 2002
 
 ----------------------------------------------------------------------
 
@@ -3371,7 +3395,7 @@ Amended(4) by Proposal 4282 (Goethe), 16 April 2002
 
 ----------------------------------------------------------------------
 
-Rule 1950/3 (Power=2)
+Rule 1950/4 (Power=2)
 Voting Power
 
       (a) An entity's Voting Power on an Ordinary Proposal is as
@@ -3394,9 +3418,9 @@ Voting Power
       (c) An entity's Voting Power on a Parliamentary Proposal is as
           follows:
             (1) One, if the entity is one of the following:
-                (a)   The Oligarchy;
-                (b)   The Democracy;
-                (c)   The Speakership.
+                (a)   The First Estate;
+                (b)   The Second Estate;
+                (c)   The Third Estate.
             (2) Any other entity, zero.
 
       (c) The value of an entity's Voting Power for any given Chamber
@@ -3422,6 +3446,7 @@ Created by Proposal 4032 (t), Jul. 24 2000
 Amended(1) by Proposal 4085 (Blob), Nov. 16 2000
 Amended(2) by Proposal 4221 (Steve), 10 October 2001
 Amended(3) by Proposal 4282 (Goethe), 16 April 2002
+Amended(4) by Proposal 4352 (OscarMeyr), 7 August 2002
 
 ----------------------------------------------------------------------
 
@@ -3454,75 +3479,64 @@ Amended(10) by Proposal 4190 (Steve), 18 July 2001
 
 ----------------------------------------------------------------------
 
-Rule 2020/0 (Power=1)
+Rule 2020/1 (Power=1)
 Parliamentary Votes
 
       For a Parliamentary Proposal, the Assessor will count as
       "Preliminary Votes" after the voting period has ended:
-        1.  Communications from Oligarch Players or their executors
-            which would have been legal votes if the Proposal had been
-            Ordinary.
-        2.  Communications from non-Oligarch Players or their
-            executors which would have been legal votes if the
-            Proposal had been Democratic.
-        3.  Public communications from an untainted Speaker,
-            indicating a Veto of the Proposal.
+        1.  For the First Estate, communications from Acolyte Players
+            or their executors that would have been legal votes if the
+            Proposal had been Sane.
+        2.  For the Second Estate, communications from Politician
+            Players or their executors that would have been legal
+            votes if the Proposal had been Sane.
+        3.  For the Third Estate, communications from Scribe Players
+            or their executors that would have been legal votes if the
+            Proposal had been Sane.
 
-      If the preliminary votes of the Oligarch Players (both voting
-      index and quorum, with the exception that the Speaker's Veto
-      does not affect this determination of quorum) would have passed
-      the Proposal were they deemed to be Ordinary Votes on an
-      Ordinary Proposal, the Oligarchy shall be deemed to have cast 1
-      vote FOR the Proposal, otherwise the Oligarchy will be deemed to
-      have cast 1 vote AGAINST.
-
-      If the preliminary votes of the non-Oligarch Players (both
-      voting index and quorum) would have passed the Proposal were
-      they deemed to be Democratic Votes on a Democratic Proposal, the
-      Democracy shall be deemed to have cast 1 vote FOR the Proposal,
-      otherwise the Democracy will be deemed to have cast 1 vote
-      AGAINST.
-
-      If the untainted Speaker Vetoed the Proposal, the Speakership
-      shall be deemed to have cast 1 vote AGAINST the Proposal,
-      otherwise the Speakership shall be deemed to have cast 1 vote
-      FOR the Proposal.
-
-      The timing of all votes cast on Parliamentary Proposals shall be
-      deemed to be an instant before the end of the Voting Period.
-      There are no other specific mechanisms for casting votes on
-      Parliamentary Proposals.
+      For each Estate, if the preliminary votes of Players in that
+      Estate (both voting index and quorum) would have passed the
+      Proposal were they deemed to be Democratic votes on a Sane
+      Proposal, then that Estate shall be deemed to have cast 1 vote
+      FOR the Proposal; otherwise, that Estate shall be deemed to have
+      cast 1 vote AGAINST the Proposal. The timing of all votes cast
+      on Parliamentary Proposals shall be deemed to be an instant
+      before the end of the Voting Period. There are no other specific
+      mechanisms for casting votes on Parliamentary Proposals.
 
 History:
 Created by Proposal 4282 (Goethe), 16 April 2002
+Amended(1) by Proposal 4352 (OscarMeyr), 7 August 2002
 
 ----------------------------------------------------------------------
 
-Rule 2021/1 (Power=2)
+Rule 2021/2 (Power=2)
 Chamber Procedure
 
-      The Chamber Fee for a Proposal is initially 0.1 Voting
-      Entitlements.  Any Politician may change the Chamber of a
-      Proposal that is not Sane to another Chamber of eir choice, by
-      publicly paying this fee, provided that it is legal for the
-      Proposal to be in the new Chamber.  When a Proposal's Chamber is
-      changed via this Rule:
+      (a) The Chamber Fee for a Proposal is initially 0.1 Voting
+          Entitlements.  Any Politician may change the Chamber of a
+          Proposal that is not Sane to another Chamber of eir choice,
+          by publically paying this Fee, provided that it is legal for
+          the Proposal to be in the new Chamber.
 
-        (i)  The Chamber Fee for the Proposal is doubled;
-        (ii) If the Proposal is in its Voting Period, it is Aborted as
-             described elsewhere, and returned to the Proposal Pool
-             with its Distributability and other characteristics
-             intact.
+      (b) When a Proposal's Chamber is changed via this Rule:
+          (1) the Chamber Fee for the Proposal is doubled; and
+          (2) if the Proposal is in its Voting Period, it is Aborted
+              as described elsewhere, and returned to the Proposal
+              Pool with its Distributability and other characteristics
+              intact.
 
-      An Untainted Speaker, with 2 Supporters, may Sanitise a
-      Distributed Proposal that is not already Sane and for which the
-      Voting Period has not ended. If this happens, the Proposal is
-      Aborted as described elsewhere, but remains Distributable and
-      becomes Democratic and Sane.
+      (c) An Untainted Speaker, with 2 Supporters, may Sanitise a
+          Distributed Proposal that is not already Sane and for which
+          the Voting Period has not ended. If the Speaker Sanitises a
+          Proposal, the Proposal is Aborted as described elsewhere;
+          the Proposal remains Distributable, but becomes Democratic
+          and Sane.
 
 History:
 Created by Proposal 4282 (Goethe), 16 April 2002
 Amended(1) by Proposal 4329 (Goethe), 9 June 2002
+Amended(2) by Proposal 4355 (Steve), 7 August 2002
 
 ----------------------------------------------------------------------
 
@@ -7318,7 +7332,7 @@ Amended(12) by Proposal 4190 (Steve), 18 July 2001
 
 ----------------------------------------------------------------------
 
-Rule 1596/8 (Power=1)
+Rule 1596/9 (Power=1)
 Debt
 
       (a) A "debt" is an obligation arising under the Rules for one
@@ -7337,11 +7351,12 @@ Debt
           multiple transfers).
 
       (d) A debt is forgiven when the creditor of a debt sends a
-          notice to the debtor that e is forgiving the debt.
-          Forgiveness may be for the entire debt or for any part
-          thereof.  The effect forgiving a debt is as if the debtor
-          had made a payment on the debt for the portion forgiven,
-          except that no transfer of property takes place thereby.
+          notice to the debtor that e is forgiving the
+          debt. Forgiveness may be for the entire debt or for any part
+          thereof. The effect of forgiving a debt is to relieve the
+          debtor of the obligation arising from that part of the debt
+          which has been forgiven to transfer Property to the
+          creditor.
 
       (e) If two entities are each others' debtor, and all or part of
           their debts to each other are for the same quantity (equal
@@ -7349,7 +7364,6 @@ Debt
           announcement of this mutual debt by either entity will have
           the effect of satisfying the equal portions of the debts for
           both debtors as in (c) above.
-
 
 History:
 Created by Proposal 2493, Feb. 16 1996
@@ -7361,6 +7375,7 @@ Amended(5) by Proposal 4037 (Oerjan), Aug. 7 2000
 Amended(6) by Proposal 4156 (Ian), 18 May 2001
 Amended(7) by Proposal 4234 (Goethe), 29 November 2001
 Amended(8) by Proposal 4259 (Murphy), 21 February 2002
+Amended(9) by Proposal 4356 (Steve), 7 August 2002
 
 ----------------------------------------------------------------------
 
@@ -7491,90 +7506,114 @@ Amended(9) by Proposal 4151 (Kelly), 13 May 2001
 
 ----------------------------------------------------------------------
 
-Rule 1887/16 (Power=1)
-Default Procedure for Auctions
+Rule 1887/17 (Power=1)
+Auctions and the Default Auction Procedure
 
-      When an Auction is required and the procedure is not defined
-      elsewhere, the Auctioneer shall select a rules-defined Auction
-      Procedure and publicly announce eir selection. If e does not
-      specify which procedure is used, the Default Auction Procedure
-      shall be used.
+      When an Auction is to be held and the procedure is not
+      specified, the Auctioneer may select a rules-defined Auction
+      Procedure. If e does not specify which procedure is to be used,
+      the Default Auction Procedure shall be used.
 
-      The details specified herein are for the Default Auction
-      Procedure.
+      The Default Auction Procedure is as follows:
 
-      (a) Auctioneer: The Auctioneer is responsible for collecting
-          bids and announcing the result of the Auction.  The
-          Auctioneer is the Player who initiates the Auction.  If the
-          Rules require or allow an Auction to be initiated, but do
-          not specify which Player shall initiate it, then the Speaker
-          shall initiate it.
+      (a) Auctioneer: the Auctioneer is the Player who initiates the
+          Auction, and is responsible for collecting bids and
+          announcing the result of the Auction. If the Rules require
+          (or permit) an Auction to be initiated, but do not specify
+          which Player shall initiate it, then the Speaker shall (or
+          may) initiate it.
 
-      (b) Bidders: Every Player not on Hold may Bid in an Auction.
-          Activity is measured at the time a Player sends eir Bid.
+      (b) Bidders: every Player not on Hold may bid in an Auction.
+          Activity is measured at the time a Player sends eir bid.
 
-      (c) Auction Currency: Each Auction is conducted in one
-          particular currency. The Rule requiring a particular
-          Auction must specify the currency to be used, or the
-          Auction cannot take place.
+      (c) Auction Currency: each Auction is conducted in one
+          particular currency. The Rule providing for a particular
+          Auction must specify the currency to be used, or the Auction
+          cannot take place.
 
-      (d) Number of Lots: Each Auction is conducted for 1 or more
+      (d) Number of lots: each Auction is conducted for 1 or more
           identical lots of identical items, which must all be owned
           by the same entity. Throughout this Rule, N indicates the
           number of lots up for bid in the Auction.
 
-      (e) Start of Auction: The Auction begins at the time the first
-          correct and legal announcement that an Auction is begun, as
-          defined in other Rules, is published, together with the
-          identity of the Auctioneer, the Auction Currency, the number
-          of items, and the value of the Starting Bid.
+      (e) Start of Auction: the Auction begins when the first
+          announcement that an Auction has begun is made by a Player
+          authorized to initiate the Auction. The announcement must
+          contain:
+          (1) the identity of the Auctioneer;
+          (2) the Auction Currency;
+          (3) the number of items being Auctioned; and
+          (4) the value of the Starting Bid.
 
-      (f) Starting Bid: The Starting Bid is the minimum possible
-          value of a bid. If not otherwise specified, the Starting
-          Bid is equal to the MUQ of the Auction Currency.
+      (f) Errors in initiating Auctions: if one of the required
+          elements is missing from the announcement initiating the
+          Auction, or is incorrect, then the Auctioneer may let the
+          Auction stand Without 2 Objections. If the Auction stands,
+          then the announcement initiating the Auction is deemed to
+          have been legal and correct for the purposes of the
+          Rules. If the Auction does not stand, it is deemed not to
+          have occurred.
 
-      (g) Making Bids: Each Bidder may make as many Bids as e desires
-          during the Auction.  A Bid is a public message, announcing
-          that the sender is bidding in that particular Auction, and
-          the amount of eir Bid.  A Bid is only valid if it satisfies
-          the following conditions:
-          (1) The Bid is not made before the start of the Auction, or
-              after its end.
-          (2) The amount Bid is a multiple of the MUQ of the Auction
-              Currency.
-          (3) The amount Bid is no less than the Starting Bid.
+      (g) Starting Bid: the Starting Bid is the minimum possible value
+          of a bid. If not otherwise specified, the Starting Bid is
+          equal to the MUQ of the Auction Currency.
 
-      (h) Canceling Bids: A Bid may be cancelled by its Bidder by
-          publicly posting such, clearly identifying the Bid to be
-          cancelled, while the Auction is in progress.
+      (h) Bidding: a bid is a public message from a bidder identifying
+          the Auction e is bidding in, and specifying the amount of
+          eir bid. Each bidder may make as many bids as e likes during
+          the Auction.  A bid is only valid if it satisfies the
+          following conditions:
+          (1) it is made after the start of the Auction, and before
+              its end;
+          (2) the amount of the bid is a multiple of the MUQ of the
+              Auction Currency; and
+          (3) the amount of the bid is no less than the Starting Bid.
 
-      (i) End of Auction: If, one week after the Auction started,
-          there have been no Bids made, the Auction ends, and has no
-          winner. Otherwise the Auction ends when 72 hours have
-          passed without a valid Bid higher than the Nth-highest Bid
-          (at the time the Bid is made) having been made. The Auction
-          shall end 14 days after the Auction has started, if it has
-          not ended earlier.
+      (i) Cancelling bids: a bidder may cancel eir bid while the
+          Auction is in progress by publically identifying the bid to
+          be cancelled.
 
-      (j) Winning Bids: When the Auction ends, the winning Bids are
-          the N largest uncancelled valid Bids in that auction (or
-          all valid uncancelled Bids, if there were less than N valid
-          uncancelled Bids). Ties shall be broken in favor of earlier-
-          submitted bids.
+      (j) End of Auction: the Auction ends if any of the following
+          occur:
+          (1) one week has passed from the start of the Auction, and
+              no bids have been made; or
+          (2) a bid has been made in the Auction, and 72 hours have
+              passed without there being a change in the N highest
+              bids in the Auction; or
+          (3) 14 days have passed since the Auction began.
 
-          The Final Auction Price is:
-          (1) The amount of the Nth highest Bid, if there were N or
-              more valid uncancelled Bids in the auction;
-          (2) The Starting Bid, if there were fewer than N valid
-              uncancelled Bids.
+      (k) Winning bids: when the Auction ends, the winning bids are
+          the N largest uncancelled valid bids in the Auction (or all
+          valid uncancelled Bids, if there were less than N valid
+          uncancelled bids). Ties shall be broken in favor of earlier-
+          submitted bids. If there were no bids in the Auction, then
+          the Auction has no winner.
 
-          As soon as possible after the end of the Auction, the
-          Auctioneer shall announce the winning Bids and issue to each
-          winning Bidder a separate bill for each of eir winning Bids.
+      (l) Final Auction Price: the Final Auction Price is either:
+          (1) the amount of the Nth highest bid, if there were N or
+              more valid uncancelled bids in the auction; or
+          (2) the Starting Bid, if there were greater than zero but
+              fewer than N valid uncancelled bids.
 
-      Unless specified otherwise, the owner of the Auctioned items
-      shall incur a debt of one Auctioned lot of items to the
-      winning Bidder when the bill for that lot is paid.
+      (m) Billing for winning bids: as soon as possible after the end
+          of the Auction, the Auctioneer shall announce the winning
+          bids and issue to each winning bidder a separate bill for
+          each of eir winning bids.
+
+      (n) Defaulting: a winning bidder has a week from the time e is
+          billed by the Auctioneer for a winning bid e made to satisfy
+          the debt arising from that bid. If e does not do so, e
+          commits the Class 2 Infraction of Defaulting (reportable by
+          the Auctioneer), and thereafter loses eir right to purchase
+          the Auctioned item by paying the debt arising from that
+          bid. As soon as possible after a winning bidder defaults on
+          a bid, the Auctioneer shall Order the owner of the items
+          being Auctioned (normally the Bank) to forgive the
+          unsatisfied debt arising from the bid.
+
+      (o) Unless specified otherwise, the owner of the Auctioned items
+          shall incur a debt of one Auctioned lot of items to the
+          winning bidder when the bill for that lot is paid.
 
 History:
 Created by Proposal 3853 (Blob), Apr. 19 1999
@@ -7594,6 +7633,7 @@ Amended(13) by Proposal 4167 (root), 11 June 2001
 Amended(14) by Proposal 4176 (root), 7 July 2001
 Amended(15) by Proposal 4249 (Murphy), 19 February 2001
 Amended(16) by Proposal 4278 (harvel), 3 April 2002
+Amended(17) by Proposal 4356 (Steve), 7 August 2002
 
 ----------------------------------------------------------------------
 
@@ -7610,31 +7650,29 @@ Amended(1) by Proposal 4167 (root), 11 June 2001
 
 ----------------------------------------------------------------------
 
-Rule 1983/2 (Power=1)
+Rule 1983/3 (Power=1)
 Vickrey Auctions
 
       The Auction Procedure for a Vickrey Auction is the same as the
       Default Auction Procedure with the following modifications:
 
-      (a) Bidders: Every Player not on Hold may Bid in an Auction.
-          Activity is measured at the time a Player sends eir Bid. Any
-          Player with the same Executor as the Auctioneer may bid only
-          in the first 72 hours of the Auction.
+      (a) Bidders: any Player with the same Executor as the Auctioneer
+          may bid only in the first 72 hours of the Auction.
 
-      (b) Making Bids: If the Bidder has the same Executor as the
-          Auctioneer, then the Bids must be made in a message to a
-          Public Forum. Otherwise, the Bidder may either Bid in a
-          Public Forum or privately to the Auctioneer.
+      (b) Bidding: if a bidder has the same Executor as the
+          Auctioneer, then eir bids must be made
+          publically. Otherwise, bidders may bid either publically, or
+          privately to the Auctioneer.
 
-      (c) End of Auction: The Auction shall end one week after it
+      (c) End of Auction: the Auction shall end one week after it
           begins.
 
-      (d) The Final Auction Price is:
+      (d) The Final Auction Price is either:
           (1) The amount of the largest nonwinning uncancelled valid
-              Bid, if there were more than N valid uncancelled Bids in
-              the Auction;
-          (2) The Starting Bid, if there were N or fewer valid
-              uncancelled Bids.
+              bid, if there were more than N valid uncancelled bids in
+              the Auction; or
+          (2) the Starting Bid, if there were N or fewer valid
+              uncancelled bids.
           For the purpose of this Rule, N is equal to the number of
           items being Auctioned.
 
@@ -7647,77 +7685,68 @@ History:
 Created by Proposal 4167 (root), 11 June 2001
 Amended(1) by Proposal 4176 (root), 7 July 2001
 Amended(2) by Proposal 4278 (harvel), 3 April 2002
+Amended(3) by Proposal 4356 (Steve), 7 August 2002
 
 ----------------------------------------------------------------------
 
-Rule 1984/4 (Power=1)
+Rule 1984/5 (Power=1)
 Raffles
 
-      There is a type of Auction named a Raffle. The Auction Procedure
-      for a Raffle is as follows:
+      There is a type of Auction called a Raffle. The Auction
+      Procedure for a Raffle is the same as the Default Auction
+      Procedure, with the following modifications:
 
-      (a) Auctioneer: The Auctioneer is responsible for conducting the
-          Raffle. The Auctioneer is herein known as the Riff-Raff.
+      (a) Auctioneer: the Auctioneer is known as the Riff-Raff.
 
-      (b) Entrants: Every Player not on Hold may enter the Raffle.
-          Activity is measured at the time a Player enters the
-          Raffle. However, if a rule prohibits a player from bidding
-          in this Auction, then e is also prohibited from buying
-          tickets.
+      (b) Start of Raffle: the Raffle begins when the first
+          announcement that a Raffle has begun is made by a Player
+          authorized to initiate the Raffle. The announcement must
+          contain:
+          (1) the identity of the Riff-Raff;
+          (2) the Raffle Currency;
+          (3) the number of items, N, being Raffled; and
+          (4) the Ticket Price, a multiple of the MUQ of the Raffle
+              Currency.
 
-      (c) Raffle Currency: Each Raffle is conducted in one particular
-          currency. The Rule requiring a particular Raffle must
-          specify the currency to be used, or the Raffle cannot take
-          place.
-
-      (d) Number of Lots: Each Raffle is conducted for 1 or more
-          identical lots of identical items, which must all be owned
-          by the same entity. Throughout this Rule, N indicates the
-          number of lots up for bid in the Raffle.
-
-      (e) Start of Auction: The Raffle begins at the time the first
-          correct and legal announcement that a Raffle is begun, as
-          defined in other Rules, is published, together with the
-          identity of the Riff-Raff, the Raffle Currency, the number
-          of items, and the Ticket Price.
-
-      (f) Ticket Price: All tickets shall have the same Ticket Price.
+      (c) Ticket Price: all tickets shall have the same Ticket Price.
           If not otherwise specified, the Ticket Price shall be equal
           to the MUQ of the Raffle Currency.
 
-      (g) Buying Tickets: An Entrant buys a ticket by paying a Fee of
-          the Ticket Price in the Raffle Currency to the Bank,
-          provided that the purchase is not made before the start of
-          the Auction, or after its end. Each Entrant may buy as many
-          tickets as e desires during the Auction.
+      (d) Buying tickets: an entrant buys a ticket by paying a Fee
+          equal to the Ticket Price to the Bank, provided that the
+          purchase is not made before the start of the Auction, or
+          after its end.  Each entrant may buy as many tickets as e
+          likes during the Auction.
 
-      (h) End of Raffle: If, one week after the Raffle started, no
-          Raffle tickets have been bought, the Raffle ends, and has no
-          winner. Otherwise the Raffle ends when 72 hours have passed
-          without a valid ticket purchase having been made. The Raffle
-          shall end 14 days after the Raffle has started, if it has
-          not ended earlier.
+      (e) End of Raffle: the Raffle ends if any of the following
+          occur:
+          (1) one week has passed from the start of the Raffle, and no
+              tickets have been purchased; or
+          (2) a ticket has been purchased in the Raffle, and 72 hours
+              have passed without another ticket being purchased in
+              the
+              Raffle;
+          (3) 14 days have passed since the Raffle began.
 
-      (i) Winning Tickets: When the Raffle ends, the Riff-Raff shall
-          randomly determine N valid Raffle tickets as having won the
-          Raffle. Each Raffle ticket has one chance to win, and
-          multiple Raffle tickets bought by the same Entrant may win.
+      (f) Winning tickets: When the Raffle ends, the Riff-Raff shall
+          randomly determine N valid Raffle tickets to be winning
+          tickets. Each Raffle ticket has one chance to win, and
+          multiple Raffle tickets bought by the same entrant may win.
           If there were less than N valid Raffle tickets, then all
-          valid Raffle tickets shall be considered to have won the
-          Raffle.
+          valid Raffle tickets are winning tickets.
 
-      (j) Riff-Raff's Gratuity: Within a week after the end of the
-          Raffle, the Riff-Raff may pay out to emself the Ticket Price
-          in the Raffle Currency if:
-          (1) The Raffle had at least three separate winning Entrants,
-              not including the Riff-Raff; and
-          (2) The Riff-Raff has not already done so for that Raffle.
-
-      (k) Announcing Winners: As soon as possible after the end of the
+      (g) Announcing winners: as soon as possible after the end of the
           Raffle, the Riff-Raff shall announce the winning tickets.
           Upon this announcement, the owner of the Auctioned items
           shall incur a debt of one Auctioned lot of items to each
-          winning Entrant for each of eir winning tickets.
+          winning entrant for each of eir winning tickets.
+
+      (h) Riff-Raff's Gratuity: within a week after the end of the
+          Raffle, the Riff-Raff may pay out to emself the Ticket Price
+          in the Raffle Currency if:
+          (1) the Raffle had at least three separate winning entrants,
+              not including the Riff-Raff; and
+          (2) the Riff-Raff has not already done so for that Raffle.
 
 History:
 Created by Proposal 4167 (root), 11 June 2001
@@ -7725,6 +7754,7 @@ Amended(1) by Proposal 4176 (root), 7 July 2001
 Amended(2) by Proposal 4177 (Elysion), 7 July 2001
 Amended(3) by Proposal 4265 (Steve), 17 March 2002
 Amended(4) by Proposal 4278 (harvel), 3 April 2002
+Amended(5) by Proposal 4356 (Steve), 7 August 2002
 
 ----------------------------------------------------------------------
 
@@ -7817,18 +7847,25 @@ Power changed from 1 to 2 by Proposal 4322 (t), 31 May 2002
 
 ----------------------------------------------------------------------
 
-Rule 1479/3 (Power=1)
+Rule 1479/4 (Power=1)
 Definition of "Pay Out" and "Bill"
 
-      Whenever a Rule requires a Player to pay out one or more
-      Properties to some entity, the Bank shall incur a debt to that
-      entity for those Properties, and the named Player shall, as
-      soon as possible, post a public notice of the debt.
+      (a) Whenever a Rule requires a Player to pay out one or more
+          Properties to some entity, the Bank shall incur a debt to
+          that entity for those Properties, and the named Player
+          shall, as soon as possible, post a public notice of the
+          debt.
 
-      Whenever a Rule requires a Player to bill an entity for one or
-      more Properties, that entity shall incur a debt to the Bank for
-      those Properties, and the named Player shall, as soon as
-      possible, post a public notice of the debt.
+      (b) If a Rule explicitly permits a Player to pay out one or more
+          Properties to some entity, but does not require em to do so,
+          then the Bank shall incur a debt to that entity for those
+          Properties when the Player posts a public notice of the
+          debt.
+
+      (c) Whenever a Rule requires a Player to bill an entity for one
+          or more Properties, that entity shall incur a debt to the
+          Bank for those Properties, and the named Player shall, as
+          soon as possible, post a public notice of the debt.
 
 CFJ 1301 (Judged TRUE, 13 June 2001): "Rule 1479 should be interpreted
  such that an Order, which requires a Player to pay out one or more
@@ -7841,6 +7878,7 @@ Created by Proposal 1601, Jun. 19 1995
 Amended(1) by Proposal 2476, Feb. 16 1996
 Amended(2) by Proposal 3533 (General Chaos), Jul. 15 1997
 Amended(3) by Proposal 4018 (Kelly), Jun. 21 2000
+Amended(4) by Proposal 4353 (steve), 7 August 2002
 
 ----------------------------------------------------------------------
 
@@ -8391,7 +8429,7 @@ Amended(2) by Proposal 4272 (Murphy), 22 March 2002
 
 ----------------------------------------------------------------------
 
-Rule 1712/15 (Power=1)
+Rule 1712/16 (Power=1)
 Distribution of Indulgences
 
       The Ideal Indulgence Circulation Level (IICL) is the number of
@@ -8414,9 +8452,7 @@ Distribution of Indulgences
       determine the number of Blots and the number of Indulgences
       owned as published in the most recent Herald's Report; other
       values in the formula shall be determined as of the time of the
-      calculation. If the Herald makes an error in determining the
-      number of Indulgences to be Auctioned, in good faith, that
-      number shall be allowed to stand.
+      calculation.
 
       If the Indulgence Differential is greater than zero, then the
       Herald shall, as soon as possible after the start of that month,
@@ -8448,6 +8484,7 @@ Amended(12) by Proposal 4203 (neil), 28 August 2001
 Amended(13) by Proposal 4249 (Murphy), 19 February 2002
 Amended(14) by Proposal 4272 (Murphy), 22 March 2002
 Amended(15) by Proposal 4281 (Goethe), 16 April 2002
+Amended(16) by Proposal 4356 (Steve), 7 August 2002
 
 ----------------------------------------------------------------------
 
