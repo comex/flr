@@ -1821,44 +1821,34 @@ Amended(5) by Proposal 4147 (Wes), 13 May 2001
 
 ----------------------------------------------------------------------
 
-Rule 1552/3 (Power=1)
+Rule 1552/4 (Power=1)
 Requirements for Ratification
 
-      In order for an Official Document to be valid for the purpose of
-      a Ratification, it must satisfy all the following criteria at
-      the time the Proposal which would Ratify it is Proposed:
+      An Official Document is legally permissible to Ratify if and
+      only if all of the following are true:
 
-           i) The Rules require some specific Player to produce and/or
-              maintain the document.
-          ii) The Rules required it to be published.  (A requirement
-              that it be sent to all Players fulfills this criterion.)
-         iii) It is not currently subject to a Claim of Error. (COE)
-          iv) It is not currently subject to a pending Call for
-              Judgement (CFJ), or a pending Appeal of a CFJ.
-           v) The information within the Document has not been
-              superseded by a subsequent Document.
-          vi) The Document is not the Ruleset. The Ruleset is
-              specifically excluded from Ratification.
+      a) The Rules required some specific Player to produce and/or
+         maintain the document.
 
-      Further, a Document can become invalid during the Voting Period
-      of a Proposal which would Ratify it if any of the following
-      occurs:
+      b) The Rules required it to be published.  (A requirement that
+         it be sent to all Players fulfills this criterion.)
 
-           i) The Document is superseded by a subsequent Document
-              which contradicts the information in the prior Document.
-              This does not apply if there is a COE alleging the
-              contradiction is an error, and the error is admitted
-              before the end of the Proposal's Voting Period.
-          ii) A COE is made on the Document, and the COE has not been
-              denied before the end of the Proposal's Voting
-              Period.
-         iii) The Document becomes subject to a pending CFJ or a
-              pending appeal of a CFJ.
+      c) It is not currently subject to a Claim of Error (COE).
 
-       If, during the Voting Period of a Proposal to Ratify a
-       Document, another Document is issued that does not contradict
-       the prior Document, it does not alter the validity of the prior
-       Document.
+      d) It is not currently subject to a pending Call for Judgement
+         (CFJ), or a pending Appeal of a CFJ.
+
+      e) The information within the Document has not been superseded
+         by a subsequent Document that contradicts it.  (This does not
+         apply if a COE alleging the contradiction is in error is
+         admitted.)
+
+      f) The Document is not the Ruleset.  The Ruleset is specifically
+         excluded from Ratification.
+
+      Ratification by Proposal is effective only if the Document is
+      legally permissible to Ratify when the Proposal takes effect.
+
 
 History:
 Created by Proposal 2425, Jan. 30 1996
@@ -1866,6 +1856,7 @@ Amended(1) by Proposal 3510 (Harlequin), Jun. 16 1997, substantial
   (unattributed)
 Amended(2) by Proposal 3823 (Oerjan), Jan. 21 1999
 Amended(3) by Proposal 4147 (Wes), 13 May 2001
+Amended(4) by Proposal 4517 (Murphy), 18 July 2003
 
 ----------------------------------------------------------------------
 
@@ -2304,7 +2295,7 @@ Amended(11) by Proposal 4461 (Maud), 17 March 2003
 
 ----------------------------------------------------------------------
 
-Rule 1664/21 (Power=2)
+Rule 1664/22 (Power=2)
 Rebellion
 
       A Rebellious player may Call for a Revolt at any time by
@@ -2327,7 +2318,7 @@ Rebellion
 
          - The Registrar shall expunge the Blots of each Rebellious
            player
-         - The Registrar shall grant the emphemeral Patent Title Rebel
+         - The Registrar shall grant the ephemeral Patent Title Rebel
            Hero to each Rebellious player.
          - The GWotO shall remove all Abiding Oligarchs from the
            Oligarchy
@@ -2372,6 +2363,7 @@ Amended(18) by Proposal 4128 (Murphy), Mar. 28 2001
 Amended(19) by Proposal 4221 (Steve), 10 October 2001
 Amended(20) by Proposal 4367 (Steve), 23 August 2002
 Amended(21) by Proposal 4486 (Michael), 24 April 2003
+Amended(22) by Proposal 4516 (Murphy), 18 July 2003
 
 ----------------------------------------------------------------------
 
