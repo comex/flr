@@ -21,7 +21,7 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 304 Rules:
+There are currently 305 Rules:
    19 with Power=3
    31 with Power=2
   254 with Power=1
