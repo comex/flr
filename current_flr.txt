@@ -3462,7 +3462,7 @@ Created by Proposal 4282 (Goethe), 16 April 2002
 
 ----------------------------------------------------------------------
 
-Rule 2021 (Power=2)
+Rule 2021/0 (Power=2)
 Chamber Procedure
 
       The Chamber Fee for a Proposal is initially 0.1 Voting
@@ -10230,8 +10230,8 @@ Sente and Gote
         (ii) Any entities whose locations are on land units so
              transformed shall have their locations set to 0,0.
 
-       (iii) If any land unit so transformed is not property of the Land
-             Bureau, it becomes property of the Land Bureau.
+       (iii) If any land unit so transformed is not property of the
+             Land Bureau, it becomes property of the Land Bureau.
 
         (iv) If there are more Land Units of a single defined Land
              Type, Aether excepted, then there are of all other Land
