@@ -515,7 +515,7 @@ Power changed from 1 to 2 by Proposal 3999 (harvel), May 2 2000
 
 ----------------------------------------------------------------------
 
-Rule 2040/0 (Power=2)
+Rule 2040/1 (Power=2)
 Switches
 
       A switch is a set of states associated with a class of entities.
@@ -525,9 +525,10 @@ Switches
 
       The recordkeepor for a class of entities shall also maintain
       records of any switches associated with that class, as well as
-      for each entity of the class the current state of the switch.
+      the current state of the switch for each entity of the class.
       If the recordkeepor is required to publish a report, that report
-      shall include records of these switches.
+      shall include records of these switches.  The rules may require
+      a different player to maintain and report these records.
 
       Whenever an entity is created in a class of entities associated
       with a switch, it shall be in the state of the switch specified
@@ -543,8 +544,7 @@ Switches
       flipped to some state, the entity shall come to be in that state
       and simultaneously cease to be in any other state of the switch.
 
-      Viscosity is a stuck switch for switches with values loose and
-      stuck.
+      A switch is loose unless the rules define it as stuck.
 
       An executor of an entity may flip any of the loose switches on
       that entity, unless the rules otherwise prohibit doing so.
@@ -560,6 +560,7 @@ Switches
 
 History:
 Created by Proposal 4456 (Maud), 22 February 2003
+Amended(1) by Proposal 4527 (Murphy), 16 September 2003
 
 ----------------------------------------------------------------------
 
@@ -1165,28 +1166,27 @@ Mutated from MI=Unanimity to MI=3 by Proposal 1482, Mar. 15 1995
 
 ----------------------------------------------------------------------
 
-Rule 1016/16 (Power=2)
+Rule 1016/17 (Power=2)
 Activity Levels
 
-      (a) Each player has an activity level, which is either active or
-          inactive. "Off hold" and "on hold" are unambiguous synonyms
-          for "active" and "inactive", respectively.
+      Activity is a stuck player switch with values active and
+      inactive.
 
-      (b) Whenever a player registers or reregisters, e is active.
+      "Off hold" and "on hold" are unambiguous synonyms for "active"
+      and "inactive", respectively.
 
-      (c) A player may change eir activity level by announcing that e
-          does so, provided that a week has passed since e last
-          changed eir activity level.
+      A player may flip eir activity, unless e has done so within the
+      past week.
 
-      (d) Inactive players may not vote, make proposals, hold office,
-          or be a Judge of a CFJ.  An inactive player may not be
-          required by the rules to perform any duty or action, unless
-          the rules explicitly state that they can require inactive
-          players to perform that duty or action.
+      Inactive players may not vote, make proposals, hold office, or
+      be a judge of a CFJ.  An inactive player may not be required by
+      the rules to perform any duty or action, unless the rules
+      explicitly state that they can require inactive players to
+      perform that duty or action.
 
-      (e) This rule takes precedence over each other rule that
-          regulates activity levels and the powers or duties that a
-          player may have because of eir activity level.
+      This rule takes precedence over all other rules that regulate
+      activity, or the powers or duties that a player may have because
+      of eir activity.
 
 [CFJ 718: Because of Rule 1011, a Player may not be placed On Hold
  except as specified in the Rules.]
@@ -1215,6 +1215,7 @@ Amended(13) by Proposal 4385 (Steve), 17 September 2002
 Amended(14) by Proposal 4388 (OscarMeyr), 5 October 2002
 Amended(15) by Proposal 4400 (Pakaran), 23 October 2002
 Amended(16) by Proposal 4407 (Steve), 30 October 2002
+Amended(17) by Proposal 4527 (Murphy), 16 September 2003
 
 ----------------------------------------------------------------------
 
@@ -2395,15 +2396,14 @@ Created by Proposal 4182 (Oerjan), 9 July 2001
 
 ----------------------------------------------------------------------
 
-Rule 1840/3 (Power=2)
+Rule 1840/4 (Power=2)
 Political Status
 
-      Each player's Political Status is either Abiding or Rebellious;
-      the Registrar shall include a list of Rebellious players in the
-      Registrar's Report.  A player can change eir Political Status by
-      publicly announcing e does so, provided e has not changed eir
-      Political Status during the current month. A new players is
-      always Abiding when e becomes a player.
+      Orthodoxy is a stuck player switch with values abiding and
+      rebellious.
+
+      A player may flip eir orthodoxy, unless e has done so during the
+      current month.
 
       At the beginning of each month, each Rebellious Player commits
       the Class 2 Infraction of Inciting to Riot (to be reported by
@@ -2428,6 +2428,7 @@ Created by Proposal 3737 (Swann), May 3 1998
 Amended(1) by Proposal 3951 (Elysion), Dec. 8 1999
 Amended(2) by Proposal 4091 (Elysion), Dec. 18 2000
 Amended(3) by Proposal 4096 (Elysion), Jan. 15 2001
+Amended(4) by Proposal 4527 (Murphy), 16 September 2003
 
 ----------------------------------------------------------------------
 
@@ -5148,15 +5149,14 @@ Amended(3) by Proposal 4523 (Murphy), 28 August 2003
 
 ----------------------------------------------------------------------
 
-Rule 2035/0 (Power=2)
+Rule 2035/1 (Power=2)
 The Unready are Ineligible
 
-      When a player becomes unready e begins to Turn Around And
-      Around. If at any time an Unready player is not Turning Around
-      And Around e begins to Turn Around And Around.
+      Whenever an unready player is unturned, e becomes turned.
 
 History:
 Created by Proposal 4397 (RedKnight), 17 October 2002
+Amended(1) by Proposal 4527 (Murphy), 16 September 2003
 
 ----------------------------------------------------------------------
 
