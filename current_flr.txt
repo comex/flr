@@ -71,7 +71,6 @@ Table of Contents:
   Organizations
   The Notary
   Groups and Contests
-  Honour
 ----------------------------------------------------------------------
 
 
@@ -7997,6 +7996,43 @@ Indulgences and Blots
   This Category includes Rules concerning Indulgences and Blots.
 ----------------------------------------------------------------------
 
+Rule 1377/14 (Power=1)
+The Herald
+
+      There exists the Office of Herald, whose responsibility it is to
+      keep track of Blots and to be the Recordkeepor of Indulgences.
+
+      The Herald's Report shall include the following:
+
+        (i)  The number of Blots staining the records of each Player
+             and Fugitive from Justice.
+
+       (ii)  A list of each Patent Title with Historical Significance
+             that at least one person Bears and that is not a Degree,
+             with a list of which persons Bear it.
+
+      (iii)  A list of Degrees which have been granted, and which
+             persons Bear them.
+
+History:
+Created by Proposal 1377, Jan. 17 1995
+Infected and Amended(1) by Rule 1454, Jan. 29 1996
+Amended(2) by Proposal 2503, Mar. 3 1996
+Amended(3) by Proposal 2839 (Zefram), Mar. 11 1997, substantial
+Amended(4) by Proposal 3476 (Oerjan), May 11 1997, substantial
+Amended(5) by Proposal 3533 (General Chaos), Jul. 15 1997, substantial
+Amended(6) by Proposal 3827 (Kolja A.), Feb. 4 1999
+Amended(7) by Proposal 3871 (Peekee), Jun. 2 1999
+Amended(8) by Proposal 3889 (harvel), Aug. 9 1999
+Amended(9) by Proposal 3901 (Schneidster), Sep. 6 1999
+Amended(10) by Proposal 3902 (Murphy), Sep. 6 1999
+Amended(11) by Proposal 3926 (Crito), Oct. 10 1999
+Amended(12) by Proposal 4002 (harvel), May 8 2000
+Amended(13) by Proposal 4110 (Ziggy), Feb. 13 2001
+Amended(14) by Proposal 4124 (Elysion), Mar. 28 2001
+
+----------------------------------------------------------------------
+
 Rule 1435/14 (Power=1)
 Definition of Indulgences, Blots and Immaculate
 
@@ -9257,39 +9293,3 @@ Honour
   This Category includes Rule 1377.
 ----------------------------------------------------------------------
 
-Rule 1377/14 (Power=1)
-The Herald
-
-      There exists the Office of Herald, whose responsibility it is to
-      keep track of Blots and to be the Recordkeepor of Indulgences.
-
-      The Herald's Report shall include the following:
-
-        (i)  The number of Blots staining the records of each Player
-             and Fugitive from Justice.
-
-       (ii)  A list of each Patent Title with Historical Significance
-             that at least one person Bears and that is not a Degree,
-             with a list of which persons Bear it.
-
-      (iii)  A list of Degrees which have been granted, and which
-             persons Bear them.
-
-History:
-Created by Proposal 1377, Jan. 17 1995
-Infected and Amended(1) by Rule 1454, Jan. 29 1996
-Amended(2) by Proposal 2503, Mar. 3 1996
-Amended(3) by Proposal 2839 (Zefram), Mar. 11 1997, substantial
-Amended(4) by Proposal 3476 (Oerjan), May 11 1997, substantial
-Amended(5) by Proposal 3533 (General Chaos), Jul. 15 1997, substantial
-Amended(6) by Proposal 3827 (Kolja A.), Feb. 4 1999
-Amended(7) by Proposal 3871 (Peekee), Jun. 2 1999
-Amended(8) by Proposal 3889 (harvel), Aug. 9 1999
-Amended(9) by Proposal 3901 (Schneidster), Sep. 6 1999
-Amended(10) by Proposal 3902 (Murphy), Sep. 6 1999
-Amended(11) by Proposal 3926 (Crito), Oct. 10 1999
-Amended(12) by Proposal 4002 (harvel), May 8 2000
-Amended(13) by Proposal 4110 (Ziggy), Feb. 13 2001
-Amended(14) by Proposal 4124 (Elysion), Mar. 28 2001
-
-----------------------------------------------------------------------
