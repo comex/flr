@@ -2059,7 +2059,7 @@ The Cabinet
 History:
 Created by Proposal 3887 (Blob), Jul. 30 1999
 Amended(1) by Proposal 4250 (harvel), 19 February 2002
-Amended(2) by Proposal 4576 (Murphy), 31 May 2004
+Amended(2) by Proposal 4576 (root), 31 May 2004
 
 ----------------------------------------------------------------------
 
@@ -2306,7 +2306,7 @@ Amended(21) by Proposal 4486 (Michael), 24 April 2003
 Amended(22) by Proposal 4516 (Murphy), 18 July 2003
 Amended(23) by Proposal 4554 (Elysion), 27 February 2004
 Amended(24) by Proposal 4555 (Elysion), 22 March 2004
-Amended(25) by Proposal 4576 (Murphy), 31 May 2004
+Amended(25) by Proposal 4576 (root), 31 May 2004
 Amended(26) by Proposal 4624 (Goethe), 20 November 2004
 
 ----------------------------------------------------------------------
@@ -2403,7 +2403,7 @@ Created by Proposal 4142 (Murphy), Apr. 15 2001
 Amended(1) by Proposal 4250 (harvel), 19 February 2002
 Amended(2) by Proposal 4259 (root), 21 February 2002
 Amended(3) by Proposal 4267 (root), 22 March 2002
-Amended(4) by Proposal 4576 (Murphy), 31 May 2004
+Amended(4) by Proposal 4576 (root), 31 May 2004
 
 ----------------------------------------------------------------------
 
@@ -2491,7 +2491,7 @@ Amended(2) by Proposal 01-005 (Steve), Feb. 2 2001
 Amended(3) by Proposal 4111 (Elysion), Feb. 20 2001
 Amended(4) by Proposal 4221 (Steve), 10 October 2001
 Amended(5) by Proposal 4555 (Elysion), 22 March 2004
-Amended(6) by Proposal 4576 (Murphy), 31 May 2004
+Amended(6) by Proposal 4576 (root), 31 May 2004
 Amended(7) by Proposal 4614 (Goethe), 21 September 2004
 Amended(8) by Proposal 4638 (root), 19 February 2005
 
@@ -2517,7 +2517,7 @@ Amended(5) by Proposal 4486 (Michael), 24 April 2003
 Amended(6) by Proposal 4534 (OscarMeyr), 8 November 2003
 Amended(7) by Proposal 4555 (Elysion), 22 March 2004
 Amended(8) by Proposal 4568 (Maud), 27 April 2004
-Amended(9) by Proposal 4576 (Murphy), 31 May 2004
+Amended(9) by Proposal 4576 (root), 31 May 2004
 Amended(10) by Proposal 4614 (Goethe), 21 September 2004
 
 ----------------------------------------------------------------------
@@ -3394,7 +3394,7 @@ Amended(4) by Proposal 4352 (OscarMeyr), 7 August 2002
 Amended(5) by Proposal 4370 (OscarMeyr), 6 September 2002
 Amended(6) by Proposal 4486 (Michael), 24 April 2003
 Amended(7) by Proposal 4539 (Goethe), 16 November 2003
-Amended(8) by Proposal 4576 (Murphy), 31 May 2004
+Amended(8) by Proposal 4576 (root), 31 May 2004
 Amended(9) by Proposal 4624 (Goethe), 20 November 2004
 
 ----------------------------------------------------------------------
@@ -3482,7 +3482,7 @@ The Speaker's Veto
 
 History:
 Created by Proposal 4276 (Steve), 28 March 2002
-Amended(1) by Proposal 4576 (Murphy), 31 May 2004
+Amended(1) by Proposal 4576 (root), 31 May 2004
 
 ----------------------------------------------------------------------
 
@@ -3625,7 +3625,7 @@ Amended(16) by Proposal 4278 (harvel), 3 April 2002
 Amended(17) by Proposal 4282 (Goethe), 16 April 2002
 Amended(18) by Proposal 4311 (root), 28 May 2002
 Amended(19) by Proposal 4410 (Steve), 6 November 2002
-Amended(20) by Proposal 4576 (Murphy), 31 May 2004
+Amended(20) by Proposal 4576 (root), 31 May 2004
 
 ----------------------------------------------------------------------
 
@@ -3712,7 +3712,7 @@ History:
 Created by Proposal 4111 (Elysion), Feb. 20 2001
 Amended(1) by Proposal 4161 (Steve), 5 June 2001
 Amended(2) by Proposal 4487 (root), 28 April 2003
-Amended(3) by Proposal 4576 (Murphy), 31 May 2004
+Amended(3) by Proposal 4576 (root), 31 May 2004
 
 ----------------------------------------------------------------------
 
@@ -4813,7 +4813,7 @@ History:
 Created by Proposal 1547, Apr. 14 1995
 Amended(1) by Proposal 2442, Feb. 6 1996
 Amended(2) by Proposal 3742 (Harlequin), May 8 1998
-Amended(3) by Proposal 4576 (Murphy), 31 May 2004
+Amended(3) by Proposal 4576 (root), 31 May 2004
 Amended(4) by Proposal 4592 (Murphy), 4 July 2004
 
 ----------------------------------------------------------------------
@@ -7891,7 +7891,7 @@ Amended(7) by Proposal 3974 (Elysion), Feb. 14 2000
 Amended(8) by Proposal 4246 (Steve), 19 February 2002
 Amended(9) by Proposal 4250 (harvel), 19 February 2002
 Amended(10) by Proposal 4429 (The Goddess Eris), 16 January 2003
-Amended(11) by Proposal 4576 (Murphy), 31 May 2004
+Amended(11) by Proposal 4576 (root), 31 May 2004
 Amended(12) by Proposal 4594 (Murphy), 4 July 2004
 
 ----------------------------------------------------------------------
@@ -8080,7 +8080,7 @@ Amended(6) by Proposal 3703 (Steve), Mar. 9 1998
 Amended(7) by Proposal 3974 (Elysion), Feb. 14 2000
 Amended(8) by Proposal 4053 (harvel), Aug. 21 2000
 Amended(9) by Proposal 4147 (Wes), 13 May 2001
-Amended(10) by Proposal 4576 (Murphy), 31 May 2004
+Amended(10) by Proposal 4576 (root), 31 May 2004
 
 ----------------------------------------------------------------------
 
