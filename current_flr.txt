@@ -183,22 +183,43 @@ Amended(3) by Proposal 4150 (Elysion), 13 May 2001
 
 ----------------------------------------------------------------------
 
-Rule 754/4 (Power=1)
-Spelling, Quoting, and Terminology
+Rule 754/5 (Power=3)
+Freedom of Communication
 
-      Differences in spelling, grammar, or dialect, or the
-      substitution of a word or phrase by a synonym or abbreviation,
-      are inconsequential in all forms of Nomic communication, as long
-      as there is no ambiguity in meaning.  A Player shall not be
-      penalised for accurately quoting a Rule, Proposal, Statement,
-      Judgement, the words of another Player, or other reference.
+      Freedom of speech being essential for the healthy functioning of
+      any non-Imperial nomic, it is hereby resolved:
 
-      Except when the Rules explicitly state otherwise, any
-      mathematical term in the Rules shall be construed to have its
-      standard mathematical meaning.  In particular, "number" shall
-      mean "real number".
+      (1) No Player shall be prohibited from participating in the
+          Fora.
 
-      This Rule takes precedence over any other Rule which specifies
+      (2) No Player shall be punished for accurately quoting a Rule,
+          Proposal, Statement, Judgement, another Player, or another
+          reference.
+
+      Regularity of communication being essential for the healthy
+      function of any nomic, it is hereby resolved:
+
+      (3) A difference in spelling, grammar, or dialect, or the use of
+          a synonym or abbreviation in place of a word or phrase, is
+          inconsequential in all forms of communication, as long as
+          the difference does not create an ambiguity in meaning.
+
+      (4) A term explicitly defined by the Rules shall be interpreted
+          as having that meaning, as shall its ordinary-language
+          synonyms not explicitly defined by the rules.  In
+          particular, the term "number" shall be interpreted as "real
+          number".
+
+      (5) Any term primarily used in mathematical or legal contexts,
+          and not addressed by previous provisions of this Rule, shall
+          be interpreted as having the meaning it has in those
+          contexts.
+
+      (6) Any term not addressed by previous provisions of this Rule
+          shall be interpreted as having its ordinary-language
+          meaning.
+
+      This rule takes precedence over any other rules which dictate
       terminology or grammar.
 
 [CFJ 712: This includes referring to a Player by a method other than
@@ -214,6 +235,8 @@ Amended(1) by Proposal 2042, Dec. 11 1995
 Infected and Amended(2) by Rule 1454, Dec. 17 1995
 Amended(3) by Proposal 3452 (Steve), Apr. 7 1997, substantial
 Amended(4) by Proposal 3915 (harvel), Sep. 27 1999
+Power changed from 1 to 3 by Proposal 4507 (Murphy), 20 June 2003
+Amended(5) by Proposal 4507 (Murphy), 20 June 2003
 
 ----------------------------------------------------------------------
 
@@ -609,29 +632,34 @@ Amended(13) by Proposal 4456 (Maud), 22 February 2003
 
 ----------------------------------------------------------------------
 
-Rule 459/4 (Power=1)
+Rule 459/5 (Power=1)
 Agoran Epochs
 
-      Weeks, months, quarters and years are epochs.  The corresponding
-      Agoran epochs, which constitute the four types of Agoran epochs,
-      are Agoran weeks, Agoran months, Agoran quarters, and Agoran
-      years, respectively.
+      Days, weeks, months, quarters, and years are epochs.  The
+      corresponding Agoran epochs are Agoran days, Agoran weeks,
+      Agoran months, Agoran quarters, and Agoran years, respectively.
 
-      Agoran weeks begin at midnight GMT on Monday.  Agoran months
-      begin at midnight GMT on the first day of each Gregorian month.
-      Agoran quarters begin when the Agoran months of January, April,
-      July, and October begin.  Agoran years begin when the Agoran
-      month of January begins.  An Agoran epoch lasts until the next
-      Agoran epoch of the same type begins.
+      Agoran days begin at midnight GMT.  Agoran weeks begin at
+      midnight GMT on Monday.  Agoran months begin at midnight GMT on
+      the first day of each Gregorian month.  Agoran quarters begin
+      when the Agoran months of January, April, July, and October
+      begin.  Agoran years begin when the Agoran month of January
+      begins.  An Agoran epoch lasts until the next Agoran epoch of
+      the same type begins.
 
-      Except in this Rule, when the Rules refer to an epoch, they
-      shall be interpreted to refer to the corresponding Agoran epoch.
+      Except in this Rule, when the Rules refer to an epoch as an
+      independent entity (e.g. "each month"), they shall be
+      interpreted as referring to the corresponding Agoran epoch.
+      However, when the Rules refer to an epoch as a relative duration
+      (e.g. "one month after", "within one month", "for one month"),
+      they shall be interpreted as referring to the ordinary-language
+      meaning of that duration.
 
-      Automatic events that happen weekly, monthly, quarterly, or
-      yearly happen at the beginning of the corresponding Agoran
-      epoch.  Any activity that must be performed weekly, monthly,
-      quarterly, or yearly must be performed at least once during each
-      corresponding Agoran epoch.
+      Automatic events that happen daily, weekly, monthly, quarterly,
+      or yearly happen at the beginning of the corresponding Agoran
+      epoch.  Any activity that must be performed daily, weekly,
+      monthly, quarterly, or yearly must be performed at least once
+      during each corresponding Agoran epoch.
 
       Other Rules may explicitly define alternate schedules for events
       or classes of events.
@@ -642,6 +670,7 @@ Amended(1) by Proposal 2697, Oct. 10 1996
 Amended(2) by Proposal 3950 (harvel), Dec. 8 1999
 Amended(3) by Proposal 4114 (Elysion), Mar. 2 2001
 Amended(4) by Proposal 4250 (harvel), 19 February 2002
+Amended(5) by Proposal 4505 (Murphy), 20 June 2003
 
 ----------------------------------------------------------------------
 
@@ -7115,19 +7144,25 @@ Power changed from 1 to 2 by Proposal 4340 (root), 8 July 2002
 
 ----------------------------------------------------------------------
 
-Rule 1959/1 (Power=1)
+Rule 1959/2 (Power=1)
 Wills
 
       (a) An entity's Will is a description of how the entity's
           Property should be distributed in the event that the entity
-          ceases to have an Executor. The Notary shall keep a record
-          of all Wills.
+          ceases to have an Executor.  An entity may never have more
+          than one Will.
 
-      (b) An entity creates a Will for itself by publishing it.
+      (b) An entity creates a Will for emself by publishing it.
+
+      (c) An entity changes or destroys eir Will by announcing e does
+          so.
+
+      (d) The Notary shall keep a record of all Wills.
 
 History:
 Created by Proposal 4082 (Peekee), Oct. 30 2000
 Amended(1) by Proposal 4190 (Steve), 18 July 2001
+Amended(2) by Proposal 4506 (Sherlock), 20 June 2003
 
 ----------------------------------------------------------------------
 
