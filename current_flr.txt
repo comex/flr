@@ -21,14 +21,14 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 316 Rules:
+There are currently 318 Rules:
    19 with Power=3
    33 with Power=2
-  264 with Power=1
+  266 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2011
-Highest Rule Number assigned so far: 2011
+Highest current Rule Number:         2015
+Highest Rule Number assigned so far: 2015
 
 ======================================================================
 Table of Contents:
@@ -485,7 +485,7 @@ Power changed from 1 to 2 by Proposal 3999 (harvel), May 2 2000
 
 ----------------------------------------------------------------------
 
-Rule 478/11 (Power=1)
+Rule 478/12 (Power=1)
 The Public Forum
 
       A Public Forum is a medium of communication so designated by
@@ -495,8 +495,8 @@ The Public Forum
 
       A Discussion Forum is a medium of communication so designated
       by the Registrar. A Discussion Forum shall never be a Public
-      Forum and messages sent to a Discussion Forum are never
-      considered to have been sent to all Players.
+      Forum, and a message is not considered to have been sent to
+      all Players solely because it was sent to a Discussion Forum.
 
       The Registrar may designate a given medium of communication to
       be (or cease to be) a Public Forum or a Discussion Forum Without
@@ -558,31 +558,43 @@ Amended(8) by Proposal 2791 (Andre), Jan. 30 1997, substantial
 Amended(9) by Proposal 3521 (Chuck), Jun. 23 1997, substantial
 Amended(10) by Proposal 3823 (oerjan), Jan. 21 1999
 Amended(11) by Proposal 4147 (Wes), 13 May 2001
+Amended(12) by Proposal 4248 (Murphy), 19 February 2002
 
 ----------------------------------------------------------------------
 
-Rule 459/3 (Power=1)
-The Nomic Week
+Rule 459/4 (Power=1)
+Agoran Epochs
 
-      The Nomic Week begins at the midnight, GMT, that begins each
-      Monday. Any automatic change in the state of the Game which
-      must occur weekly occurs at the beginning of the Nomic Week.
-      Any automatic change which must occur monthly occurs at the
-      midnight, GMT, which begins the first day of the month.  Any
-      automatic change which must occur quarterly occurs at the
-      midnight, GMT, which begins the first day of each calendar
-      quarter.
+      Weeks, months, quarters and years are epochs.  The corresponding
+      Agoran epochs, which constitute the four types of Agoran epochs,
+      are Agoran weeks, Agoran months, Agoran quarters, and Agoran
+      years, respectively.
+
+      Agoran weeks begin at midnight GMT on Monday.  Agoran months
+      begin at midnight GMT on the first day of each Gregorian month.
+      Agoran quarters begin when the Agoran months of January, April,
+      July, and October begin.  Agoran years begin when the Agoran
+      month of January begins.  An Agoran epoch lasts until the next
+      Agoran epoch of the same type begins.
+
+      Except in this Rule, when the Rules refer to an epoch, they
+      shall be interpreted to refer to the corresponding Agoran epoch.
+
+      Automatic events that happen weekly, monthly, quarterly, or
+      yearly happen at the beginning of the corresponding Agoran
+      epoch.  Any activity that must be performed weekly, monthly,
+      quarterly, or yearly must be performed at least once during each
+      corresponding Agoran epoch.
 
       Other Rules may explicitly define alternate schedules for events
-      or classes of events.  Any activity that must be performed at
-      least weekly, monthly, or quarterly, must occur at least once in
-      the given period.
+      or classes of events.
 
 History:
 Created by Proposal 459 (Jim Shea), Sep. 15 1993
 Amended(1) by Proposal 2697, Oct. 10 1996
 Amended(2) by Proposal 3950 (harvel), Dec. 8 1999
 Amended(3) by Proposal 4114 (Elysion), Mar. 2 2001
+Amended(4) by Proposal 4250 (harvel), 19 February 2002
 
 ----------------------------------------------------------------------
 
@@ -1358,18 +1370,34 @@ Amended(1) by Proposal 4175 (Elysion), 7 July 2001
 
 ----------------------------------------------------------------------
 
-Rule 1986/0 (Power=1)
-The Scribes' Council
+Rule 1986/1 (Power=2)
+Role-Based Powers
 
-      The set of all Players who are currently Scribes is known as the
-      Scribes' Council.
+      A Scribe may lower the Distribution Cost of a Proposal by 1 with
+      the Support of another Scribe, to a minimum cost of 0, provided
+      the Cost of the Proposal has not already been so lowered.
 
-      Any Player may make any Undistributable Proposal Distributable
-      (without payment of any Fee) with the Support of a majority of
-      the Scribes' Council.
+      An Acolyte may expunge 1 Blot from any Entity with the Support
+      of another Acolyte, provided the Acolyte has not so Expunged a
+      Blot in the same Nomic Week.
+
+      An Acolyte with the Support of a Scribe, or a Scribe with the
+      Support of an Acolyte, may Bless an Undistributed Proposal.  A
+      moment after its Distribution, a Blessed Ordinary Proposal
+      becomes Democratic.
+
+      A Politician, with the Support of another Poltician, may Unbless
+      an Undistributed Blessed Proposal.  An Unblessed Proposal is no
+      longer Blessed.
+
+      An Untainted Speaker, with 2 Supporters, may Sanitise a
+      Distributed Proposal for which the Voting Period has not ended.
+      If this happens, the Proposal is Aborted as described elsewhere,
+      but remains Distributable and becomes Democratic and Sane.
 
 History:
 Created by Proposal 4174 (Kelly), 7 July 2001
+Amended(1) by Proposal 4254 (Goethe), 21 February 2002
 
 ----------------------------------------------------------------------
 
@@ -1408,14 +1436,17 @@ Officers
   This Category includes Rules applying to Officers in general.
 ----------------------------------------------------------------------
 
-Rule 1006/8 (Power=1)
-Definition of Office
+Rule 1006/9 (Power=1)
+Offices
 
-      An Office is a position so designated by the Rules.
+      The Rules may designate positions to be offices.  No office may
+      be held by more than one player.  Each office that would
+      otherwise not be held by any player shall be held by the
+      Speaker, unless it is not possible for the Speaker to hold that
+      office.
 
-      Each Office is always held by exactly one Player (called an
-      Officer).  Each Office shall be held by the Speaker unless
-      otherwise specified.
+      The holder of an office may be referred to by the name of the
+      office.
 
 History:
 Created by Proposal 386 (Alexx), Aug. 16 1993
@@ -1432,27 +1463,35 @@ Amended(5) by Proposal 2442, Feb. 6 1996
 Amended(6) by Proposal 2623, Jun. 19 1996
 Amended(7) by Proposal 3902 (Murphy), Sep. 6 1999
 Amended(8) by Proposal 4002 (harvel), May 8 2000
+Amended(9) by Proposal 4250 (harvel), 19 February 2002
 
 ----------------------------------------------------------------------
 
-Rule 1686/9 (Power=1)
+Rule 1686/10 (Power=1)
 Official Reports
 
-      For each Office, the Rules may designate certain information to
-      be part of that Office's Weekly Report or Monthly Report. All
-      Weekly Reports and Monthly Reports shall also be known as
-      Official Reports. All information which is part of an Officer's
-      Official Report(s) shall be maintained by that Officer.
+      The Rules may designate certain information to be part of an
+      Office's Weekly Report or Monthly Report.  An Office's Weekly
+      Reports and Monthly Reports constitute the Office's Official
+      Report.  All information that is part of an Office's Official
+      Report shall be maintained by the corresponding officer.
 
-      Each Officer with a Weekly Report is required to publish it
-      during each Nomic Week; each Officer with a Monthly Report is
-      required to publish it during each Nomic Month.  Failure to do
-      so is the Class 2 Infraction of Failure to Report.  Failure to
-      do so for three consecutive Nomic (Weeks/Months) is instead the
-      Class 10 Infraction of Dereliction of Duty; any Officer found
-      guilty of this Infraction is automatically retired.  These
-      Infractions may be detected and reported by the Assistant
-      Director of Personnel and the Speaker.
+      The rules may specify conditions under which a player is marvy;
+      that player is not marvy unless the rules explicitly state at
+      least one such condition and all such conditions are satisfied.
+      As soon as possible after a player becomes marvy, the Speaker
+      shall announce this fact.  The only condition for marviness is
+      membership in the Outer Cabinet.
+
+      Each officer with a Weekly Report must publish it weekly; each
+      officer with a Monthly Report must publish it monthly.  Failure
+      to do so is the Class 2 Infraction of Failure to Report.  If an
+      officer fails to do so for at least three consecutive reporting
+      periods, e may be cited for either Failure to Report or the
+      Class 10 Infraction of Dereliction of Duty but not both.  Any
+      officer cited for Derelicition of Duty is immediately retired.
+      The Assistant Director of Personnel and the Speaker may report
+      these Infractions.
 
 History:
 Created by Proposal 2839 (Zefram), Mar. 11 1997
@@ -1465,6 +1504,7 @@ Amended(6) by Proposal 4053 (harvel), Aug. 21 2000
 Amended(7) by Proposal 4142 (Murphy), Apr. 15 2001
 Amended(8) by Proposal 4147 (Wes), 13 May 2001
 Amended(9) by Proposal 4164 (Murphy), 11 June 2001
+Amended(10) by Proposal 4250 (harvel), 19 February 2002
 
 ----------------------------------------------------------------------
 
@@ -1798,21 +1838,29 @@ Amended(6) by Proposal 4142 (Murphy), Apr. 15 2001
 
 ----------------------------------------------------------------------
 
-Rule 880/6 (Power=1)
-Resignation of Offices
+Rule 880/7 (Power=1)
+Resignation
 
-      A Player may, at any time, resign from any Office which e
-      currently holds.
+      An oligarch or the holder of an office may resign from eir
+      position at any time by announcing that e does so.
 
-      An Electee to an Office who resigns from that Office may
-      appoint a successor at the time e resigns. In this case,
-      the resigning Player is retired from that Office; if the
-      named successor agrees publicly to be successor to the Office,
-      the named successor becomes holder of the Office.
+      The electee to an office may appoint another player as a
+      successor when e resigns.  If so, the resigning player is
+      retired from that office, and if within one week from the
+      appointment the named succcessor publicly agrees to be successor
+      to the office, that player becomes holder of the office.
 
-      A non-Electee who resigns an Office, or an Electee who
-      does not name a successor, is immediately removed from
-      Office.
+      An oligarch may appoint another player as a successor when e
+      resigns.  If so, the resigning player is removed from the
+      Oligarchy, and if within one week from the appointment the named
+      successsor publicly agrees to be successor to the seat in the
+      Oligarchy and pays a fee of 1 Voting Entitlement, that player
+      becomes an Oligarch.
+
+      A non-electee who resigns or an electee who does not name a
+      successor is immediately removed from office.  An oligarch who
+      does not name a successor is immediately removed from the
+      Oligarchy.
 
 History:
 Created by Proposal 405 (Alexx), Sep. 3 1993
@@ -1824,6 +1872,7 @@ Amended(3) by Proposal 2442, Feb. 6 1996
 Amended(4) by Proposal 2781 (Steve), Jan. 15 1997, substantial
 Amended(5) by Proposal 3742 (Harlequin), May 8 1998
 Amended(6) by Proposal 4011 (Wes), Jun. 1 2000
+Amended(7) by Proposal 4250 (harvel), 19 February 2002
 
 ----------------------------------------------------------------------
 
@@ -1956,14 +2005,16 @@ Amended(6) by Proposal 4011 (Wes), Jun. 1 2000
 
 ----------------------------------------------------------------------
 
-Rule 1905/0 (Power=1)
+Rule 1905/1 (Power=1)
 The Cabinet
 
-      The set of Players consisting of the Speaker and all current
-      Electees to Offices is called the Cabinet.
+      The Cabinet, or Inner Cabinet, consists of the Speaker and all
+      electees to office.  The Outer Cabinet consists of all Oligarchs
+      who are not members of the Inner Cabinet.
 
 History:
 Created by Proposal 3887 (Blob), Jul. 30 1999
+Amended(1) by Proposal 4250 (harvel), 19 February 2002
 
 ----------------------------------------------------------------------
 
@@ -2249,22 +2300,20 @@ Amended(3) by Proposal 4096 (Elysion), Jan. 15 2001
 
 ----------------------------------------------------------------------
 
-Rule 1955/4 (Power=1)
+Rule 1955/5 (Power=1)
 The Grand Warden of the Oligarchy
 
-      (a) There is an Office of Grand Warden of the Oligarchy (GWotO),
-          whose responsibility it is to maintain a list of Oligarchs.
+      The Grand Warden of the Oligarchy (GWotO) is an office; its
+      holder is recordkeepor of oligarchs and is responsible for
+      conducting auctions for positions in the Oligarchy.
 
-      (b) The Grand Warden of the Oligarchy's Report shall consist of
-          a list of all Oligarchs and a list of all Elder Oligarchs
-          (if any).
+      The GWotO's Weekly Report shall include a list of all oligarchs
+      identifying which, if any, are elder oligarchs.
 
-      (c) The GWotO shall have a budget containing the Oligarchy
-          Auction Rate, which is an integer between 1 and 4
-          inclusive. The GWotO may amend eir budget Without 2
-          Objections from Oligarchs.  There is an Office of Grand
-          Warden of the Oligarchy, whose responsibility it is to
-          conduct Auctions for positions in the Oligarchy.
+      The GWotO shall have a budget containing the Oligarchy Auction
+      Rate, which is a positive integer less than 5.  The GWotO may
+      Without 2 Objections from oligarchs replace the budget with a
+      proto-budget e publishes when e announces eir intent to do so.
 
 History:
 Created by Proposal 4053 (harvel), Aug. 21 2000
@@ -2272,54 +2321,48 @@ Amended(1) by Proposal 4071 (Steve), Sep. 14 2000
 Amended(2) by Proposal 01-005 (Steve), Feb. 2 2001
 Amended(3) by Proposal 4142 (Murphy), Apr. 15 2001
 Amended(4) by Proposal 4221 (Steve), 10 October 2001
+Amended(5) by Proposal 4250 (harvel), 19 February 2002
 
 ----------------------------------------------------------------------
 
-Rule 1975/0 (Power=1)
+Rule 1975/2 (Power=1)
 The Assistant Director of Personnel
 
-      There is an Office of Assistant Director of Personnel, whose
-      responsibility it is to hold Elections for Officers.
+      The Assistant Director of Personnel (ADoP) is an office; its
+      holder is recordkeepor for offices and the Speaker and is
+      responsible for holding elections for offices.
 
-      The Assistant Director of Personnel's Report shall include:
+      The ADoP's Weekly Report shall include:
 
-        (a)  a list of all Offices;
+      (a) a list of all offices;
 
-        (b)  for each Office, the Electee to the Office and the
-             earliest date such that e was the Electee to the Office
-             on that date, and no other Player has been the Electee to
-             the Office since that date;
+      (b) for each office, the electee to the office and the date on
+          which e most recently became electee to that office;
 
-        (c)  for each Office where the current holder of the Office is
-             not the Electee, the current holder of the Office, and
-             the date on which e became the holder of the Office;
+      (c) for each office for which the holder of the office is not
+          the electee, the current holder of the office, and the date
+          on which e most recently became holder of that office;
 
-        (d)  for each Office, the date on which the Term of Service
-             for the Office expires (or an indication that the Office
-             is held in perpetuity); and
-
-        (e)  the identity of the Speaker and the date of the next
-             Quarterly Speaker Transition.
+      (d) for each office, the date on which the term of service for
+          that office ends, or an indication that the office is held
+          in perpetuity; and
 
 History:
 Created by Proposal 4142 (Murphy), Apr. 15 2001
+Amended(1) by Proposal 4250 (harvel), 19 February 2002
+Amended(2) by Proposal 4259 (root), 21 February 2002
 
 ----------------------------------------------------------------------
 
-Rule 1892/5 (Power=1)
+Rule 1892/6 (Power=1)
 The Treasuror
 
-      There exists the Office of Treasuror, whose responsibility it is
-      to record various information regarding Budgets, Currencies and
-      Properties, and to maintain the Treasuror's Budget.
+      The Treasuror is an office; its holder is recordkeepor of
+      generic information, excluding holdings, of currencies, and is
+      responsible for setting the values of compensations.
 
-      The Treasuror's Monthly Report shall include, for each
-      Currency:
-
-        (i)  its name;
-       (ii)  its Mintor;
-      (iii)  its Recordkeepor; and
-       (iv)  its MUQ.
+      The Treasuror's Monthly Report shall include, for each currency,
+      its name, mintor, recordkeepor, and Minimum Unit Quantity.
 
 History:
 Created by Proposal 3871 (Peekee), Jun. 2 1999
@@ -2328,6 +2371,7 @@ Amended(2) by Proposal 3935 (Murphy), Oct. 24 1999
 Amended(3) by Proposal 4002 (harvel), May 8 2000
 Amended(4) by Proposal 4054 (Oerjan), Aug. 21 2000
 Amended(5) by Proposal 4085 (Blob), Nov. 16 2000
+Amended(6) by Proposal 4250 (harvel), 19 February 2002
 
 ----------------------------------------------------------------------
 
@@ -2380,13 +2424,13 @@ Amended(11) by Proposal 4155 (harvel), 18 May 2001
 
 ----------------------------------------------------------------------
 
-Rule 1940/3 (Power=1)
+Rule 1940/4 (Power=1)
 Periodic Compensations
 
       The Rules may designate certain compensations to be periodic
-      compensations.  As soon as possible after the beginning of each
-      month, each periodic compensation required to be paid out shall
-      be paid out by the Officer required to do so.
+      compensations.  At the beginning of each month, each periodic
+      compensation required to be paid out shall be paid out by the
+      Officer required to do so.
 
       The Minimum Income, the Distributor's Gratuity, the Speaker's
       Gratuity, and the Salary for each Office are periodic
@@ -2410,6 +2454,7 @@ Created by Proposal 3998 (harvel), May 2 2000
 Amended(1) by Proposal 4081 (Elysion), Oct. 30 2000
 Amended(2) by Proposal 4140 (Wes), Apr. 15 2001
 Amended(3) by Proposal 4179 (Taral), 7 July 2001
+Amended(4) by Proposal 4260 (Goethe), 21 February 2002
 
 ----------------------------------------------------------------------
 
@@ -2801,15 +2846,14 @@ Amended(2) by Proposal 4145 (Ian), Apr. 22 2001
 
 ----------------------------------------------------------------------
 
-Rule 1607/9 (Power=1)
+Rule 1607/10 (Power=1)
 The Promotor
 
-      There exists the Office of Promotor, whose responsibility it is
-      to receive and distribute Proposals, and to be the Recordkeepor
-      for Papyri.
+      The Promotor is an office; its holder is recordkeepor of Papyri
+      and is responsible for receiving and distributing proposals.
 
-      The Promotor's Report shall include a list of the titles and
-      submission dates of all Proposals in the Proposal Pool.
+      The Promotor's Weekly Report shall include a list of the titles
+      and submission dates of all proposals in the proposal pool.
 
 History:
 Created by Proposal 2522, Mar. 10 1996
@@ -2822,6 +2866,7 @@ Amended(6) by Proposal 3902 (Murphy), Sep. 6 1999
 Amended(7) by Proposal 4002 (harvel), May 8 2000
 Amended(8) by Proposal 4050 (t), Aug. 15 2000
 Amended(9) by Proposal 4085 (Blob), Nov. 16 2000
+Amended(10) by Proposal 4250 (harvel), 19 February 2002
 
 ----------------------------------------------------------------------
 
@@ -2838,7 +2883,7 @@ Amended(2) by Proposal 4203 (neil), 28 August 2001
 
 ----------------------------------------------------------------------
 
-Rule 1954/4 (Power=1)
+Rule 1954/5 (Power=1)
 Distribution of Papyri
 
       As soon as possible after the fifteenth day of each month, the
@@ -2846,10 +2891,10 @@ Distribution of Papyri
       always auction at least one Papyrus. Otherwise, the Promotor may
       auction as many Papyri as e wishes.
 
-      The items to be auctioned are individual Papyri, and thus
-      the number of items is equal to the number of Papyri to be
-      Auctioned. The Auctioneer shall be the Promotor, and the Auction
-      shall be conducted in Stems. Only Scribes may bid.
+      The items to be auctioned are individual Papyri, and thus the
+      number of items is equal to the number of Papyri to be
+      Auctioned.  The Auction shall be conducted in Stems. Only
+      Scribes may bid.
 
 History:
 Created by Proposal 4050 (t), Aug. 15 2000
@@ -2857,6 +2902,7 @@ Amended(1) by Proposal 4056 (t), Aug. 21 2000
 Amended(2) by Proposal 4085 (Blob), Nov. 16 2000
 Amended(3) by Proposal 4167 (root), 11 June 2001
 Amended(4) by Proposal 4203 (neil), 28 August 2001
+Amended(5) by Proposal 4249 (Murphy), 19 February 2002
 
 ----------------------------------------------------------------------
 
@@ -3070,17 +3116,21 @@ Voting on Proposals
   other actions which take place during the Voting Period.
 ----------------------------------------------------------------------
 
-Rule 1449/12 (Power=1)
+Rule 1449/14 (Power=1)
 The Assessor
 
-      (a) There exists the Office of Assessor, whose responsibility it
-          is to receive and announce the results of Votes on
-          Proposals.
+      The Assessor is an office; its holder is recordkeepor of Voting
+      Entitlements and is responsible for receiving and announcing the
+      results of votes on proposals.
 
-      (b) The Assessor shall include the Voting Power of each entity
-          on Ordinary and Democratic Proposals in eir Weekly Report. E
-          may exclude entities whose Voting Power is zero on both
-          Ordinary and Democratic Proposal from the Report.
+      The Assessor's Weekly Report shall include a list of the
+      identity, voting power on ordinary proposals, and voting power
+      on democratic proposals for each entity with nonzero voting
+      power on either ordinary or democratic proposals.
+
+      (c) The Assessor's Budget shall consist of the Voting
+          Entitlements per Player (VEPP), a real multiple of 0.1
+          between 0.5 and 2.0 inclusive.
 
 History:
 Created by Proposal 1531, Mar. 24 1995
@@ -3096,6 +3146,8 @@ Amended(9) by Proposal 3871 (Peekee), Jun. 2 1999
 Amended(10) by Proposal 3897 (harvel), Aug. 27 1999
 Amended(11) by Proposal 3902 (Murphy), Sep. 6 1999
 Amended(12) by Proposal 4221 (Steve), 10 October 2001
+Amended(13) by Proposal 4250 (harvel), 19 February 2002
+Amended(14) by Proposal 4255 (Steve), 21 February 2002
 
 ----------------------------------------------------------------------
 
@@ -3197,70 +3249,6 @@ Amended(1) by Proposal 3990, "Agora Abhors a Vacuum", (Murphy),
   Mar. 24 2000
 Amended(2) by Proposal 4018 (Kelly), Jun. 21 2000
 Amended(3) by Proposal 4111 (Elysion), Feb. 20 2001
-
-----------------------------------------------------------------------
-
-Rule 1934/4 (Power=2)
-The Speaker, Sanity, and Buying Democracy
-
-      An Untainted Speaker may, with 3 Supporters, Sanitise an Interested
-      Proposal which would otherwise be an Ordinary Proposal, for
-      which the Voting Period has not yet concluded, and which has
-      never been the subject of an Attempt to Democratise.
-
-      If a Proposal is Sanitised before its Voting Period commences,
-      said Proposal becomes a Democratic Proposal, becomes a Sane Proposal,
-      and has its Distribution Cost modified as required by other Rules.
-
-      If a Proposal is Sanitised during its Voting Period, said
-      Proposal is not modified until at least one Papyrus is publicly
-      transferred to the Bank solely for this stated purpose by any
-      Player during the Proposal's Voting Period.  If this happens,
-      the Proposal becomes a Democratic Proposal, the Proposal becomes
-      a Sane Proposal, and all votes thus far cast on the Proposal are
-      cancelled.  The Assessor shall announce that the Proposal has
-      been successfully Sanitised; the Voting Period of the Proposal
-      is extended to end seven days after this announcement.
-
-      Any Player may, With Support, make an Attempt to Democratise an
-      Interested Proposal which would otherwise be an Ordinary
-      Proposal, and for which the Voting Period has not yet concluded.
-      There is a Fee of 0.1 VEs for a Player other than an Untainted
-      Speaker to make an Attempt to Democratise.  This Fee must be
-      paid publicly.
-
-      Once an Attempt to Democratise a Proposal has been made, until
-      the end of the Proposal's Voting Period, any Player may publicly
-      transfer any number of VEs to the Bank with a clear, unambiguous
-      statement that this transfer is made solely for the purpose of
-      Democratising the Proposal, or solely for the purpose of keeping
-      the Proposal Ordinary.
-
-      At the end of the Voting Period, Democratisation succeeds if at
-      least as many VEs have been publicly transferred to the Bank for
-      Democratisating the Proposal as for keeping the Proposal
-      Ordinary.  The Assessor shall announce as soon as possible after
-      the end of the Voting Period whether or not Democratisation of
-      that Proposal has succeeded.
-
-      If Democratisation does not succeed, the Voting Period is
-      considered to have ended as usual.  The Attempt does not in any
-      way modify the Proposal in question.
-
-      If Democratisation succeeds, the Proposal becomes a Democratic
-      Proposal, and all Votes thus far cast on the Proposal are
-      cancelled.  The Voting Period for that Proposal is considered
-      not to have ended (except for the purposes of this Attempt to
-      Democratise), and is extended to end seven days after the
-      Assessor's announcement that Democratisation has succeeded.
-
-History:
-Created by Proposal 3980 (Steve), Mar. 1 2000
-Amended(1) by Proposal 3990, "Agora Abhors a Vacuum", (Murphy),
-  Mar. 26 2000
-Amended(2) by Proposal 4049 (Elysion), Aug. 15 2000
-Amended(3) by Proposal 4145 (Ian), Apr. 22 2001
-Amended(4) by Proposal 4187 (neil), 18 July 2001
 
 ----------------------------------------------------------------------
 
@@ -3857,12 +3845,12 @@ Referenda and Elections
   other than Proposals, particularly Referenda and Elections.
 ----------------------------------------------------------------------
 
-Rule 1434/8 (Power=1)
+Rule 1434/10 (Power=1)
 Default Procedure for Referendum Voting
 
       When a Referendum Vote is required and the procedure is not
       defined elsewhere, the following Standard Referendum Voting
-      Procedure shall be used. Details specified herein are defaults
+      Procedure shall be used.  Details specified herein are defaults
       which may be modified by other Rules for specific situations.
 
       This procedure shall under no circumstances be used for Voting
@@ -3870,67 +3858,73 @@ Default Procedure for Referendum Voting
       governing specific types of Proposals.
 
       * Vote Collector: The Vote Collector is responsible for
-      collecting and tallying the Votes and announcing the result.
-      Unless otherwise specified, the Speaker shall be the Vote
-      Collector.
+        collecting and tallying the Votes, and announcing the results.
+        The Vote Collector is the Speaker at the time the Referendum
+        begins.
 
-      * Voters: Only Active Players may Vote on a Referendum.
-      Activity is measured at the time a Player sends eir Vote.
+      * Disappearance of Vote Collector: If the Vote Collector
+        deregisters or is deregistered before announcing the results
+        of the Referendum, then the Referendum fails.
 
-      * Voting: A Voting Entity Votes by sending eir Vote to the Vote
-      Collector during the Voting Period, indicating what Referendum e
-      is Voting on, and what eir Vote is.
+      * Voters:  For the purpose of this Rule, a Voter is an entity
+        permitted to Vote on a Referendum.  Only Active Players are
+        Voters.  Activity is measured at the time a Vote is sent.
 
-      * Vote Values: A Vote is FOR, AGAINST, or ABSTAIN. Words which
-      are effectively synonymous with these are also permissible.
+      * Voting: A Voter Votes by sending eir Vote to the Vote
+        Collector during the Voting Period, indicating what Referendum
+        e is Voting on, and what eir Vote is.
 
-      * Vote Strength: Every Vote has equal strength. No Voting Entity
-      may Vote more than once on any single Referendum.
+      * Vote Values: A Vote is FOR, AGAINST, or ABSTAIN.  Words which
+        are effectively synonymous with these are also permissible.
+
+      * Vote Strength: Every Vote has equal strength.  No Voter may
+        Vote more than once on any single Referendum.
 
       * Retraction: A Vote, once sent to the Vote Collector, cannot be
-      changed.
+        changed.
 
-      * Start of Voting: The Voting Period begins at the time the
-      first correct and legal public announcement that a Referendum is
-      begun, as defined in other Rules.  Such an announcement must
-      include the identity of the Vote Collector.
+      * Start of Voting: The Voting Period begins at the time of the
+        first correct and legal public announcement that a Referendum
+        has begun, as defined in other Rules.  Such an announcement
+        must include the identity of the Vote Collector.
 
-      * Duration of Voting: The Voting Period lasts for one Week. All
-      Votes received by the Vote Collector outside of the Voting
-      Period have no effect.
+      * Duration of Voting: The Voting Period lasts for one Week.  All
+        Votes received by the Vote Collector outside of the Voting
+        Period have no effect.
 
-      * Secrecy During Voting: Unless otherwise specified, the Vote
-      Collector may not give away any information about the Votes
-      while the Voting is underway.
+      * Secrecy During Voting: At any time, the Vote Collector may
+        publish a list of Voters who have Voted.  However, the Vote
+        Collector shall not reveal the value of any Voter's Vote to
+        anyone but that Voter, unless e has the Voter's permission to
+        do so.
 
-      This shall in no way prohibit the Vote Collector from publishing
-      at any time a list of those Players who have already Voted.
+      * Announcement of Results: As soon as possible after the end of
+        the Voting Period, the Vote Collector shall announce the
+        number of Votes of each kind, as well as the name and Vote of
+        each Entity that Voted. If e does not do this as soon as
+        possible, then the Referendum fails.
 
-      * Secrecy After Voting: Unless otherwise specified, the Vote
-      Collector shall publish, after the Voting
-      Period is over, the number of Votes of each kind as well as the
-      name and Vote of each Entity which cast a Vote.
+      * Quorum: Quorum is 50% of the eligible Voters at the beginning
+        of the Voting Period.  If fewer Voters Vote, then the
+        Referendum fails.
 
-      * Adoption Ratio: The Adoption Ratio, the ratio of FOR Votes on
-      a Referendum relative to the AGAINST VOTES, must be greater than
-      Adoption Index for the Referendum to pass. If it is not, the
-      Referendum fails.
+      * Adoption Index:  The Adoption Index of a Referendum is 1.
 
-      * Adoption Index: Unless otherwise specified, the Adoption Index
-      for a Referendum is 1.
+      * Adoption Ratio: The Adoption Ratio of a Referendum is the
+        ratio of FOR Votes to AGAINST Votes.  If the Adoption Ratio is
+        greater than the Adoption Index (or if both are Unanimity),
+        and if the Referendum does not fail for some other reason,
+        then it passes; otherwise, it fails.
 
-      * Quorum: Quorum shall be set at 50% of the eligible Voters
-      at the beginning of the Voting Period. If a smaller fraction
-      voted, the Referendum automatically fails.
+      * Effectiveness: A Referendum takes effect when the Vote
+        Collector correctly announces that it passes.  The effect of a
+        Referendum is defined by other Rules.
 
-      * Nonperformance by Vote Collector: The Vote Collector must
-      perform eir required duties, but if the result of a Referendum
-      is not announced within one Week following the end of the Voting
-      Period, it automatically fails.
-
-      * Effectiveness: the full effects of a Referendum, as defined
-      in Rules which make use of the Referendum procedure, come
-      into force as of the moment the results are published.
+      * Cutoff for Challenges: If the results of a Referendum are not
+        challenged within seven days after the Vote Collector
+        announces them, then the announced results are the true
+        results of that Referendum, even if they would otherwise be in
+        error.
 
 History:
 Created by Proposal 1456, Mar. 1 1995
@@ -3942,100 +3936,116 @@ Amended(5) by Proposal 3884 (harvel), Jul. 26 1999
 Amedned(6) by Proposal 3972 (Peekee), Feb. 14 2000
 Amended(7) by Proposal 4099 (Murphy), Jan. 15 2001
 Amended(8) by Proposal 4147 (Wes), 13 May 2001
+Amended(9) by Proposal 4257 (Murphy), 21 February 2002
+Amended(10) by Proposal 4258 (Murphy), 21 February 2002
 
 ----------------------------------------------------------------------
 
-Rule 1445/15 (Power=1)
+Rule 1445/16 (Power=1)
 Defaults for Elections
 
       When an Election is required and the procedure is not defined
       elsewhere, the following Standard Election Procedure shall be
-      used. Details specified herein are defaults which may be
+      used.  Details specified herein are defaults which may be
       modified by other Rules for specific situations.
 
       * Vote Collector: The Vote Collector is responsible for taking
-      nominations, collecting and tallying the Votes, and announcing
-      the result.  Unless otherwise specified, the Speaker at the
-      time the Referendum starts shall be the Vote Collector.
+        nominations, collecting and tallying the Votes, and announcing
+        the results.  The Vote Collector is the Speaker at the time
+        the Election begins.
 
-      If the Vote Collector deregisters or is deregistered before the
-      Voting Period ends, the Election has no Winner.
+      * Disappearance of Vote Collector: If the Vote Collector
+        deregisters or is deregistered before announcing the winner of
+        the Election, then the Election has no winner.
 
-      * Nominator: Each Active Player may Nominate emself in an
-      Election. On Hold status is measured at the time a Player
-      makes or attempts to make a Nomination.
+      * Nominator: A Nominator is an entity permitted to Nominate a
+        Candidate in an Election.  Only Active Players are Nominators.
+        Activity is measured at the time a Nomination is sent.
 
-      * Nomination: A Nominator makes a Nomination by sending a
-      message to the Vote Collector during the Nominating Period
-      indicating for which Election e is Nominating.
+      * Prospective: A Prospective is an entity permitted to be
+        Nominated as a Candidate in an Election.  Only Active Players
+        are Prospectives.  Activity is measured at the time a
+        Nomination is sent.
 
-      * Candidates: A Player who has Nominated for an Election is
-      called a Candidate for that Election.
+      * Nominating: A Nominator Nominates a Prospective by sending a
+        message to the Vote Collector during the Nominating Period,
+        indicating the Election and the Prospective.  If the
+        Prospective is not explicitly identified, then it is the same
+        as the Nominator.
 
-      * Retraction: A Nomination, once sent to the Vote Collector, may
-      be retracted before the end of the Nominating Period. A player
-      may retract a Nomination e has made by sending a message to the
-      Vote Collector, indicating that e wishes to retract eir
-      Nomination.
+      * Candidates: A Candidate for an Election is a Prospective who
+        has been Nominated in that Election.
 
-      * Start of Nominations: The Nominating Period begins at the
-      time of the first correct and legal announcement that the
-      Election has begun, as required by the Rules calling for the
-      Election.
+      * Retraction: A Nominator may retract eir Nomination by sending
+        a message to the Vote Collector during the Nominating Period,
+        indicating the Election and the Prospective.  If the
+        Prospective is not explicitly identified, then it is the same
+        as the Nominator.
+
+      * Declination: A Prospective may decline eir Nomination by
+        sending a message to the Vote Collector during the Nominating
+        Period, indicating the Election.  Upon doing so, e may not be
+        re-Nominated in that Election by anyone but emself.
+
+      * Mode of Nominations: There are three Modes of Nominations:
+        Selfish, Selfless, or Open.  The Vote Collector may specify a
+        Mode of Nominations when e announces the start of the
+        Election; if e does not, then the Mode is Selfish.
+
+        (a) In a Selfish Election, a Nominator may Nominate only
+            emself.
+        (b) In a Selfless Election, a Nominator may not Nominate
+            emself.
+        (c) In an Open Election, a Nominator may Nominate any
+            Prospective.
+
+      * Start of Nominations: The Nominating Period begins at the time
+        of the first correct and legal announcement that an Election
+        has begun, as defined in other Rules.  Such an announcement
+        must include the identity of the Vote Collector.
 
       * Duration of Nominations: The Nominating Period lasts for one
-      Week.  All Nominations received by the Vote Collector outside of
-      the Nominating Period have no effect.
+        Week.  All Nominations received by the Vote Collector outside
+        of the Nominating Period have no effect.
 
-      * Secrecy: Nominations need not be kept secret.
+      * Secrecy:  Nominations need not be kept secret.
 
-      * Announcing Candidates : the Vote Collector shall publicly
-      announce, as soon as possible after the Nominating Period is
-      over, the names of all Players who Nominated for the Election.
+      * End of Nominations: As soon as possible after the end of the
+        Nominating Period, the Vote Collector shall publish a list of
+        all Candidates.  If e does not do this as soon as possible,
+        then the Election has no winner.
 
-      If there are no Candidates in a given Election, then that
-      Election shall have no Winner. If there is only one Candidate in
-      a given Election, then that Candidate shall be the Winner of
-      that Election.
+      If there are no Candidates, then the Election has no winner.
 
-      In all other cases, a Referendum shall being at the time
-      Candidates are Announced, which shall be conducted using the
-      standard procedure for Referendum Voting with the following
-      exceptions :
+      If there is exactly one Candidate, then e is the winner of that
+      Election.
+
+      If there are two or more Candidates, then a Referendum begins
+      when the Vote Collector publishes the list of Candidates.  This
+      is a standard Referendum, with the following exceptions:
 
       * Vote Collector: The Vote Collector for the Referendum is the
-      same as the Vote Collector for the Election.
+        same as the Vote Collector for the Election.
 
-      * Vote Values: A Vote is the name of exactly one of the
-      Candidates for the given Election. Words which are effectively
-      synonymous with these are also permissible.
+      * Vote Values: A Vote is the name of exactly one Candidate for
+        the given Election.  Words which are effectively synonymous
+        with these are also permissible.
 
-      * Adoption: The Winner of the Election is the Candidate for whom
-      the most votes were cast. If there is more than one such
-      candidate, the Speaker chooses one of those candidates as the
-      winner, and must publicly announce eir chosen candidate as
-      winner.
+      * Failure of Referendum: If the Referendum fails for any reason
+        (e.g. Quorum is not achieved), then the Election has no
+        winner.
 
-      * Quorum: Quorum shall be set at 50% of the eligible Voting
-      Entities at the beginning of the Voting Period. If a smaller
-      fraction voted, the Election has no Winner.
+      * Adoption: The winner of the Election is the Candidate for whom
+        the most Votes were cast.  If two or more Candidates are tied
+        for most Votes, then the Speaker shall choose one of those
+        Candidates, who becomes the winner when the Speaker announces
+        eir choice.  The Speaker shall announce eir choice as soon as
+        possible after the Vote Collector announces the results of
+        Voting.
 
-      * Nonperformance by Vote Collector: The Vote Collector must
-      perform eir required duties, but if the result of an Election is
-      not announced within one Week following the end of the Voting
-      Period, the Election has no Winner.
-
-      * Effective Time of Election Results: The results of an Election
-      are effective at the time the results of the Referendum are
-      announced; or, if there is no Referendum, at the time that the
-      Vote Collector announces that there is to be no Referendum.
-
-      * Cutoff for Challenges: Any challenge of the correctness of the
-      announced results of an Election must be made within seven days
-      of the time the results are announced.  If seven days pass from
-      the time the results are announced without a challenge, the
-      announced results are the true results of that Election, whether
-      or not they be in error in any way.
+      * Effectiveness: An Election takes effect when the Vote
+        Collector correctly announces the identity of its winner.  The
+        effect of an Election is defined by other Rules.
 
 History:
 Created by Proposal 1499 (Blob), Mar. 24 1995
@@ -4055,6 +4065,7 @@ Amended(12) by Proposal 3990, "Harsher Blot Penalties", (Elysion),
 Amended(13) by Proposal 4017 (Elysion), Jun. 21 2000
 Amended(14) by Proposal 4031 (Elysion), Jul. 24 2000
 Amended(15) by Proposal 4147 (Wes), 13 May 2001
+Amended(16) by Proposal 4257 (Murphy), 21 February 2002
 
 ----------------------------------------------------------------------
 
@@ -4085,31 +4096,33 @@ Amended(5) by Proposal 4142 (Murphy), Apr. 15 2001
 
 ----------------------------------------------------------------------
 
-Rule 1957/2 (Power=1)
+Rule 1957/3 (Power=1)
 Budgets
 
-      A Budget is a document maintained by a particular Office, whose
-      holder is its Maintainer, and determining various values as
-      explicitly required or permitted by the Rules.
+      A budget is a document maintained by an office which determines
+      the values of various properties the office is empowered to
+      determine.  An office has a budget only if the Rules explicitly
+      indicate that the office has a budget.  Each budget shall be
+      part of the corresponding office's Monthly Report.  As soon as
+      possible after a budget changes, the holder of the corresponding
+      office (the maintainer) shall publish it.
 
-      An Office has a Budget only if the Rules explicitly designate
-      one.  Each Budget shall be part of the Monthly Reports of its
-      Maintainer.  The Maintainer shall publish the Budget as soon as
-      possible whenever it changes.
+      As soon as possible after a budget is discovered to be invalid,
+      its maintainer shall create a valid budget as close as possible
+      to the most recent valid version of the budget.  The new budget
+      shall be effective when the maintainer publishes it.
 
-      If a current Budget is discovered to be invalid, then its
-      Maintainer shall create a valid one as soon as possible.  This
-      valid one should be as close as possible to the most recent
-      valid version of the Budget.
-
-      While holding an Office as Electee, an Officer may amend its
-      Budget Without Objection; the Rules regarding a particular
-      Budget may specify a different procedure for its amendment.
+      While holding an office as electee, an officer may Without
+      Objection amend the budget to adhere to a proto-budget which e
+      must publish at the time e announces eir intent to amend.  The
+      Rules regarding a particular budget may specify a different
+      procedure for its amendment.
 
 History:
 Created by Proposal 4054 (Oerjan), Aug. 21 2000
 Amended(1) by Proposal 4144 (Blob), Apr. 22 2001
 Amended(2) by Proposal 4147 (Wes), 13 May 2001
+Amended(3) by Proposal 4250 (harvel), 19 February 2002
 
 ----------------------------------------------------------------------
 
@@ -4572,26 +4585,26 @@ The Clerk of the Courts
   the Courts.
 ----------------------------------------------------------------------
 
-Rule 889/10 (Power=1)
+Rule 889/11 (Power=1)
 The Clerk of the Courts
 
-      There exists the Office of Clerk of the Courts, whose
-      responsibility it is to oversee the judicial system.
+      The Clerk of the Courts (CotC) is an office; its holder is
+      responsible for receiving and distributing Calls for Judgement
+      (CFJs) and Appeals.
 
-      The Monthly Report of the Clerk of the Courts shall include the
-      Stare Decisis, which is a list of past Calls for Judgement
-      (CFJs). The following information shall be included for each
-      CFJ:
+      The CotC's Monthly Report shall include the Stare Decisis, which
+      is a list of past CFJs.  The following information shall be
+      included for each CFJ:
 
-        (i)  its statement;
-       (ii)  the date on which it was called;
-      (iii)  its outcome (if any) on Judgement; and
-       (iv)  its outcome (if any) on Appeal.
+        (i) its statement;
+       (ii) the date on which it was called;
+      (iii) its outcome (if any) on Judgement; and
+       (iv) its outcome (if any) on Appeal.
 
-      Whenever a CFJ is made, the Clerk shall add it to the list.  E
-      may, at eir discretion, add earlier CFJs.  E may, Without
-      Objection, remove any CFJ from the list that e deems no longer
-      relevant.
+      Whenever a CFJ is made, the CotC shall add it to the list.  E
+      may, at eir discretion, add earlier CFJs.  E may Without
+      Objection remove any CFJ e deems no longer relevant from the
+      list.
 
 History:
 Created by Proposal 406 (Alexx), Sep. 3 1993
@@ -4607,6 +4620,7 @@ Amended(7) by Proposal 3871 (Peekee), Jun. 2 1999
 Amended(8) by Proposal 3902 (Murphy), Sep. 6 1999
 Amended(9) by Proposal 3978 (Blob), Feb. 23 2000
 Amended(10) by Proposal 4002 (harvel), May 8 2000
+Amended(11) by Proposal 4250 (harvel), 19 February 2002
 
 ----------------------------------------------------------------------
 
@@ -5577,17 +5591,15 @@ Amended(9) by Proposal 4213 (Taral), 29 September 2001
 
 ----------------------------------------------------------------------
 
-Rule 910/9 (Power=1)
+Rule 910/10 (Power=1)
 The Justiciar
 
-      There exists the Office of Justiciar, whose responsibility it is
-      to serve on a Board of Appeals when necessary.
+      The Justiciar is an office; its holder is responsible for
+      justice and for serving on a Board of Appeals when necessary.
 
-      The Speaker and the Clerk of the Courts cannot Nominate for the
-      Office of Justiciar.
-
-      If the Justiciar ever becomes Clerk of the Courts, e is removed
-      from the Office of Justiciar.
+      Neither the Speaker nor the Clerk of the Courts (CotC) may
+      nominate for the office of Justiciar; if the Justiciar ever
+      becomes CotC, e is removed from the office of Justiciar.
 
 History:
 Created by Proposal 910, May 4 1994
@@ -5600,6 +5612,7 @@ Amended(6) by Proposal 3742 (Harlequin), May 8 1998
 Amended(7) by Proposal 3827 (Kolja A.), Feb. 4 1999
 Amended(8) by Proposal 3871 (Peekee), Jun. 2 1999
 Amended(9) by Proposal 3902 (Murphy), Sep. 6 1999
+Amended(10) by Proposal 4250 (harvel), 19 February 2002
 
 ----------------------------------------------------------------------
 
@@ -6132,11 +6145,11 @@ The Registrar
   This Category includes Rules concerning the Office of Registrar.
 ----------------------------------------------------------------------
 
-Rule 559/17 (Power=1)
+Rule 559/19 (Power=1)
 The Registrar
 
-      There exists the Office of Registrar, whose responsibility it is
-      to maintain a list of players.
+      The Registrar is an office; its holder is responsible for
+      maintaining the register of players.
 
       The Registrar's Report shall include all of the following
       information:
@@ -6160,8 +6173,7 @@ The Registrar
              recent date on which that player became Noisy, Quiet,
              or Silent;
 
-       (vii) the identities of the Distributor and the Speaker (and
-             eir Term of Service); and
+       (vii) the identity of the Distributor; and
 
       (viii) a list of players who are Monks.
 
@@ -6185,6 +6197,8 @@ Amended(14) by Proposal 4057 (harvel), Aug. 29 2000
 Amended(15) by Proposal 4155 (harvel), 18 May 2001
 Amended(16) by Proposal 4195 (Syllepsis), 26 July 2001
 Amended(17) by Proposal 4211 (harvel), 10 September 2001
+Amended(18) by Proposal 4250 (harvel), 19 February 2002
+Amended(19) by Proposal 4259 (root), 21 February 2002
 
 ----------------------------------------------------------------------
 
@@ -6211,14 +6225,15 @@ The Rulekeepor
   as well as Rules regulating the Logical Ruleset and Rule Titles.
 ----------------------------------------------------------------------
 
-Rule 1051/16 (Power=1)
+Rule 1051/17 (Power=1)
 The Rulekeepor
 
-      There exists the Office of Rulekeepor, whose responsibility it
-      is to maintain a list of all the Rules of Agora.
+      The Rulekeepor is an office; its holder is responsible for
+      maintaining the text of the rules of Agora.
 
-      The Rulekeepor's Report includes the Short Logical Ruleset.  Eir
-      Monthly Report includes the Full Logical Ruleset.
+      The Rulekeepor's Weekly Report shall include the Short Logical
+      Ruleset.  The Rulekeepor's Monthly Report shall include the Full
+      Logical Ruleset.
 
 History:
 ...
@@ -6239,6 +6254,7 @@ Amended(13) by Proposal 3871 (Peekee), Jun. 2 1999
 Amended(14) by Proposal 3882 (harvel), Jul. 21 1999
 Amended(15) by Proposal 3902 (Murphy), Sep. 6 1999
 Amended(16) by Proposal 4002 (harvel), May 8 2000
+Amended(17) by Proposal 4250 (harvel), 19 February 2002
 
 ----------------------------------------------------------------------
 
@@ -6687,29 +6703,30 @@ Property
   This Category includes Rules concerning Property in general.
 ----------------------------------------------------------------------
 
-Rule 1942/1 (Power=1)
+Rule 1942/2 (Power=1)
 Property
 
-      Any entity which the Rules permit to be possessed by another
-      entity is a Property. Within the context of the Rules, the term
-      "possess" refers to the legal status of possessing a Property;
-      the terms "possessor" and "owner" are synonymous, as are
-      "possess" and "own".  Individual Properties may not be created
-      or destroyed, or their ownership changed, except in accordance
-      with the Rules.
+      A property is an entity which the rules permit to be possessed
+      by another entity.  The term "possess" refers to the legal
+      status of possessing a property; the terms "possessor" and
+      "owner" are synonyms, as are "possess" and "own".  Individual
+      properties may not be created or destroyed, or their ownership
+      changed, except in accordance with the rules.
 
-      Every Property shall have a Recordkeepor, which is some Player
-      who is required to retain a record of who owns that Property.
-      If, for a given Property, no other Rule provides otherwise, or
-      if the Rules would otherwise provide for a person who is not a
-      Player, the Treasuror shall maintain this record. If one of the
-      Official duties of an Officer is to be the Recordkeepor of a
-      Property, then eir Report shall include this record and any
-      changes thereto since the last posting of eir Report.
+      Each property shall have a recordkeepor, which is a player
+      required to maintain a record of who owns that property.  The
+      Treasuror is the recordkeepor for each property that would
+      otherwise have no recordkeepor.
+
+      If one of the official duties of an officer is to be the
+      recordkeepor of a property, then eir Weekly Report shall include
+      this record and any changes thereto since the last posting of
+      eir Report.
 
 History:
 Created by Proposal 4018 (Kelly), Jun. 21 2000
 Amended(1) by Proposal 4110 (Ziggy), Feb. 13 2001
+Amended(2) by Proposal 4250 (harvel), 19 February 2002
 
 ----------------------------------------------------------------------
 
@@ -6768,7 +6785,7 @@ Amended(4) by Proposal 4211 (harvel), 10 September 2001
 
 ----------------------------------------------------------------------
 
-Rule 1981/1 (Power=1)
+Rule 1981/2 (Power=1)
 Embezzlement and Receiving Stolen Property
 
       (a) A transfer of Property from one entity to another entity
@@ -6779,9 +6796,9 @@ Embezzlement and Receiving Stolen Property
           transfer of Property from any entity to another entity
           commits the Class 10 Crime of Embezzlement.
 
-      (c) An entity which receives Property from any entity as the
-          result of an intentional, valid and unauthorized transfer
-          incurs a debt to the transferor for all such Property.
+      (c) An entity which receives Property as the result of a valid
+          but unauthorized transfer incurs a debt to the Payor of that
+          transfer for all Property thus received.
 
       (d) A Player who has been informed that e, or an entity of which
           e is the Prime Executor, has incurred a debt of the type
@@ -6805,10 +6822,11 @@ Embezzlement and Receiving Stolen Property
 History:
 Created by Proposal 4156 (Ian), 18 May 2001
 Amended(1) by Proposal 4190 (Steve), 18 July 2001
+Amended(2) by Proposal 4256 (Murphy), 21 February 2002
 
 ----------------------------------------------------------------------
 
-Rule 2006/0 (Power=1)
+Rule 2006/1 (Power=1)
 Looting Auctions
 
       As soon as possible after a player becomes a Dissolute, the
@@ -6822,12 +6840,11 @@ Looting Auctions
       Looting Auctions shall follow the default procedure for Auctions
       with the following modifications:
 
-      (1) The Auctioneer shall be the Notary.
-      (2) The Auction Currency shall be Indulgences.
-      (3) The Starting Price shall be the number of Blots the
+      (1) The Auction Currency shall be Indulgences.
+      (2) The Starting Price shall be the number of Blots the
           Dissolute had when e became a Dissolute, or one Indulgence
           if the Dissolute was Immaculate.
-      (4) The Auction shall be for a temporary privilege, not for an
+      (3) The Auction shall be for a temporary privilege, not for an
           item, and so no debt of items to the winning Bidder when eir
           bill is paid shall be incurred.
 
@@ -6848,6 +6865,7 @@ Looting Auctions
 
 History:
 Created by Proposal 4211 (harvel), 10 September 2001
+Amended(1) by Proposal 4249 (Murphy), 19 February 2002
 
 ----------------------------------------------------------------------
 
@@ -7145,7 +7163,7 @@ Amended(12) by Proposal 4190 (Steve), 18 July 2001
 
 ----------------------------------------------------------------------
 
-Rule 1596/7 (Power=1)
+Rule 1596/8 (Power=1)
 Debt
 
       (a) A "debt" is an obligation arising under the Rules for one
@@ -7170,11 +7188,7 @@ Debt
           had made a payment on the debt for the portion forgiven,
           except that no transfer of property takes place thereby.
 
-      (e) An entity which receives Property as the result of an
-          unauthorized transfer incurs a debt for the transferred
-          Property to the entity that made the transfer.
-
-      (f) If two entities are each others' debtor, and all or part of
+      (e) If two entities are each others' debtor, and all or part of
           their debts to each other are for the same quantity (equal
           portions) of the same fungible Property, then a public
           announcement of this mutual debt by either entity will have
@@ -7191,6 +7205,7 @@ Amended(4) by Proposal 4018 (Kelly), Jun. 21 2000
 Amended(5) by Proposal 4037 (Oerjan), Aug. 7 2000
 Amended(6) by Proposal 4156 (Ian), 18 May 2001
 Amended(7) by Proposal 4234 (Goethe), 29 November 2001
+Amended(8) by Proposal 4259 (Murphy), 21 February 2002
 
 ----------------------------------------------------------------------
 
@@ -7325,7 +7340,7 @@ Amended(9) by Proposal 4151 (Kelly), 13 May 2001
 
 ----------------------------------------------------------------------
 
-Rule 1887/14 (Power=1)
+Rule 1887/15 (Power=1)
 Default Procedure for Auctions
 
       When an Auction is required and the procedure is not defined
@@ -7338,8 +7353,11 @@ Default Procedure for Auctions
       Procedure.
 
       (a) Auctioneer: The Auctioneer is responsible for collecting
-          bids and announcing the result of the Auction. Unless
-          otherwise specified, the Speaker shall be the Auctioneer.
+          bids and announcing the result of the Auction.  The
+          Auctioneer is the Player who initiates the Auction.  If the
+          Rules require or allow an Auction to be initiated, but do
+          not specify which Player shall initiate it, then the Speaker
+          shall initiate it.
 
       (b) Bidders: Every Player not on Hold may Bid in an Auction. On
           Hold status is measured at the time a Player sends eir Bid.
@@ -7423,6 +7441,7 @@ Amended(11) by Proposal 4122 (Goethe), Mar. 21 2001
 Amended(12) by Proposal 4147 (Wes), 13 May 2001
 Amended(13) by Proposal 4167 (root), 11 June 2001
 Amended(14) by Proposal 4176 (root), 7 July 2001
+Amended(15) by Proposal 4249 (Murphy), 19 February 2001
 
 ----------------------------------------------------------------------
 
@@ -7558,6 +7577,43 @@ Amended(2) by Proposal 4177 (Elysion), 7 July 2001
 
 ----------------------------------------------------------------------
 
+Rule 2012/0 (Power=1)
+Single-Bid Auctions
+
+      (a) There is a type of Auction called a Single-Bid Auction. The
+	  procedure for conducting a Single-Bid Auction is the same as
+	  that used in the Default Auction Procedure, with the following
+	  additions and exceptions:
+
+	  (1) Bid Inflation Factor: As part of any correct and legal
+	      announcement that a Single-Bid Auction is commencing,
+	      the Auctioneer must announce the value of the Bid
+	      Inflation Factor for the Auction, a real number between
+	      0 and 1 inclusive.
+
+	  (2) Making Bids: Each Player eligible to bid in the Auction
+	      is permitted to make only one bid, called the initial
+	      Bid.  Any bids made by a Player after eir initial Bid in
+	      the Auction are invalid. A Player who cancels eir bid is
+	      ineligible to make further bids in the Auction. All Bids
+	      must be made publically.
+
+	  (3) Value of Bids: at each midnight GMT during the Auction,
+	      the value of each valid, uncancelled Bid remaining in
+	      the Auction is increased by an amount equal to the Bid
+	      Inflation Factor multiplied by the initial Bid.
+
+	  (4) Final Auction Price: for the purposes of determining the
+	      Winner(s) of the Auction, the value of each Bid as
+	      calculated in (3) above is used. However, the debt
+	      incurred by a Winner of the Auction is equal to eir
+	      initial Bid.
+
+History:
+Created by Proposal 4251 (Steve), 19 February 2002
+
+----------------------------------------------------------------------
+
 
 ======================================================================
 The Bank
@@ -7638,10 +7694,11 @@ Bonds
   Usuror.
 ----------------------------------------------------------------------
 
-Rule 1970/2 (Power=1)
+Rule 1970/3 (Power=1)
 The Usuror
 
-      The Office of the Usuror is hereby established.
+      The Usuror is an office; its holder is recordkeepor for Bonds
+      and is partially responsible for the woes of revolving credit.
 
       The Usuror is a Limited Executor of the Bank, with the authority
       to satisfy debts of Bonds owed by the Bank to its creditors.
@@ -7650,6 +7707,7 @@ History:
 Created by Proposal 4126 (Kelly), Mar. 28 2001
 Amended(1) by Proposal 4144 (Blob), Apr. 22 2001
 Amended(2) by Proposal 4171 (Blob), 26 June 2001
+Amended(3) by Proposal 4250 (harvel), 19 February 2002
 
 ----------------------------------------------------------------------
 
@@ -7793,7 +7851,7 @@ Created by Proposal 4126 (Kelly), Mar. 28 2001
 
 ----------------------------------------------------------------------
 
-Rule 1971/0 (Power=1)
+Rule 1971/1 (Power=1)
 Bank Issuance of Bonds
 
       The Bank, by the Treasuror, may issue Bonds with two Supporters.
@@ -7808,8 +7866,7 @@ Bank Issuance of Bonds
       number of Bonds of that species, the Auction Currency, and the
       Minimum Bid of each Auction shall be determined by the Treasuror
       as part of the message indicating eir intent to hold a Bank Bond
-      Auction.  The Auctioneer of all Bank Bond Auctions shall be the
-      Treasuror.
+      Auction.
 
       The Bank is not required to actually possess the Bonds it
       intends to Auction at the time the intent to conduct an Auction
@@ -7822,6 +7879,7 @@ Bank Issuance of Bonds
 
 History:
 Created by Proposal 4126 (Kelly), Mar. 28 2001
+Amended(1) by Proposal 4249 (Murphy), 19 February 2002
 
 ----------------------------------------------------------------------
 
@@ -7955,11 +8013,12 @@ Stems
   the Office of the Payroll Clerk.
 ----------------------------------------------------------------------
 
-Rule 1909/6 (Power=1)
+Rule 1909/7 (Power=1)
 The Payroll Clerk
 
-      There exists the Office of Payroll Clerk, whose responsibility
-      it is to be Recordkeepor for Stems and to pay out Salaries.
+      The Payroll Clerk is an office; its holder is recordkeepor of
+      Stems and is responsible for paying out salaries and other
+      compensations.
 
 History:
 Created by Proposal 3897 (harvel), Aug. 27 1999
@@ -7969,6 +8028,7 @@ Amended(3) by Proposal 3980 (Steve), Mar. 1 2000
 Amended(4) by Proposal 4002 (harvel), May 8 2000
 Amended(5) by Proposal 4053 (harvel), Aug. 21 2000
 Amended(6) by Proposal 4085 (Blob), Nov. 16 2000
+Amended(7) by Proposal 4250 (harvel), 19 February 2002
 
 ----------------------------------------------------------------------
 
@@ -8059,38 +8119,43 @@ Amended(2) by Proposal 4203 (neil), 28 August 2001
 
 ----------------------------------------------------------------------
 
-Rule 1946/4 (Power=1)
+Rule 1946/7 (Power=1)
 Distribution of Voting Entitlements
 
-      The Ideal Voting Entitlement Circulation Level (IVECL) is equal
-      to the number of registered Players.
+      (a) The Ideal Voting Entitlement Circulation Level (IVECL) is
+          equal to the number of registered Players multiplied by the
+          Voting Entitlements per Player as set in the Assessor's
+          Budget.
 
-      The Actual Voting Entitlement Circulation Level (AVECL) is the
-      total number of Voting Entitlements owned by entities other
-      than the Bank, augmented by the total number of Voting
-      Entitlements owned by the Bank which have been auctioned off to
-      Winning Bidders in prior Voting Entitlement Auctions but not
-      yet paid for.
+      (b) The Actual Voting Entitlement Circulation Level (AVECL) is
+          the total number of Voting Entitlements owned by entities
+          other than the Bank, augmented by the total number of Voting
+          Entitlements owned by the Bank which have been auctioned off
+          to Winning Bidders in prior Voting Entitlement Auctions but
+          not yet paid for.
 
-      The Voting Entitlement Surplus is the difference between the
-      IVECL and the AVECL; if the AVECL is greater than the IVECL,
-      the Voting Entitlement Surplus is zero.
+      (c) The Voting Entitlement Surplus is the difference between the
+          IVECL and the AVECL; if the AVECL is greater than the IVECL,
+          the Voting Entitlement Surplus is zero.
 
-      Whenever it occurs that the Voting Entitlement Surplus is
-      positive and no Auction of Voting Entitlements is already in
-      progress, the Assessor shall auction off the surplus Voting
-      Entitlements. The items to be auctioned are lots of 0.1 VEs; the
-      number of items is equal to the Voting Entitlement Surplus
-      multiplied by 10, rounded down to the nearest integer.  The
-      Auctioneer shall be the Assessor, and the Auction shall be
-      conducted in Stems. Only Politicians may bid.
+      (d) If the Voting Entitlement Surplus is positive at the
+          beginning of the month, the Assessor shall as soon as
+          possible auction off the surplus Voting Entitlements. The
+          items to be auctioned are lots of 0.1 VEs; the number of
+          items is equal to the Voting Entitlement Surplus multiplied
+          by 10, rounded down to the nearest integer.  The Auctioneer
+          shall be the Assessor, and the Auction shall be conducted in
+          Stems. Only Politicians may bid.
 
 History:
 Created by Proposal 4018 (Kelly), Jun. 21 2000
 Amended(1) by Proposal 4058 (Peekee), Aug. 29 2000
 Amended(2) by Proposal 4085 (Blob), Nov. 16 2000
 Amended(3) by Proposal 4117 (Blob), Mar. 6 2001
-Amended(4) by Proposal 1946 (neil), 28 August 2001
+Amended(4) by Proposal 4203 (neil), 28 August 2001
+Amended(5) by Proposal 4247 (Murphy), 19 February 2002
+Amended(6) by Proposal 4249 (Murphy), 19 February 2002
+Amended(7) by Proposal 4255 (Steve), 21 February 2002
 
 ----------------------------------------------------------------------
 
@@ -8170,6 +8235,75 @@ Amended(2) by Proposal 4110 (Ziggy), Feb. 13 2001
 
 ----------------------------------------------------------------------
 
+Rule 2013/0 (Power=1)
+Champion's Contests
+
+      A Contest may be a Champion's Contest if and only if:
+            (i) its Contestmaster bears the Patent Title Current
+                Champion;
+           (ii) no other Contest is a Champion's Contest;
+          (iii) the Contest's Regulations state that it is a
+                Champion's Contest.
+      If any of these criteria cease to be true, the Contest
+      immediately ceases being a Champion's Contest.
+
+History:
+Created by Proposal 4253 (Goethe), 19 February 2002
+
+----------------------------------------------------------------------
+
+Rule 2014/0 (Power=1)
+SemiGenii
+
+      SemiGenius is a defined regular Patent Title.
+
+      Bearing the Patent Title SemiGenius is a Win Condition.  If at
+      any time a Player Wins the Game, the Patent Title SemiGenius is
+      revoked from all those who bear it.
+
+      The Patent Title SemiGenius may only be Awarded by an valid
+      Public Announcement of SemiGeniosity naming the Awardee.  Such
+      an Announcement may only be made by the Contestmaster of a
+      Champion's Contest.  To be valid, the Announcement must be made
+      only as explicitly permitted by the Regulations of the Contest.
+
+History:
+Created by Proposal 4253 (Goethe), 19 February 2002
+
+----------------------------------------------------------------------
+
+Rule 2015/0 (Power=1)
+A Champion's Retirement
+
+      Rules to the contrary nonwithstanding, the Winner's Stipend may
+      not be changed except as permitted by this Rule.
+
+      If a Player Wins the Game by Bearing the Patent Title
+      SemiGenius, The Winner's Stipend shall be set equal to
+      proportion, rounded to the nearest multiple of 0.1, of Active
+      Players (out of total number of Active Players at the time of
+      the Win) that were Contestants, at any time since the most
+      recent previous Win, in the Champion's Contest that Awarded that
+      Patent Title.
+
+      In this case, the Scorekeepor shall pay out the Champion's
+      Pension, equal to this new Winner's Stipend times the BOS, to
+      the Contestmaster who awarded the Patent Title.
+
+      If a Player Wins the Game by any other Win Condition, the
+      Winner's Stipend shall be set to 0.5, and no Champion's Pension
+      shall be awarded.
+
+      If a Player bears the Patent Title Current Champion at the
+      beginning of four consecutive Nomic months without a Win
+      occuring, then at the beginning each month thereafter, until a
+      Win occurs, the Scorekeepor shall Bill the Player an amount
+      equal to twice the current Winner's Stipend times the BOS.
+
+History:
+Created by Proposal 4253 (Goethe), 19 February 2002
+
+----------------------------------------------------------------------
 
 
 ======================================================================
@@ -8178,20 +8312,21 @@ Points and the Scorekeepor
   Scorekeepor
 ----------------------------------------------------------------------
 
-Rule 1928/2 (Power=1)
+Rule 1928/3 (Power=1)
 The Scorekeepor
 
-      There exists the Office of Scorekeepor, whose responsibility it
-      is to keep track of Scores.
+      The Scorekeepor is an office; its holder is responsible for
+      keeping track of scores.
 
-      The Scorekeepor's Report includes the Score of each current
-      Player, as well as any changes thereto since the last posting
-      of the Report.
+      The Scorekeepor's Weekly Report shall include the score of each
+      registered player, as well as any changes thereto since the last
+      posting of the Report.
 
 History:
 Created by Proposal 3977 (Wes), Feb. 23 2000
 Amended(1) by Proposal 3993 (t), Apr. 20 2000
 Amended(2) by Proposal 4002 (harvel), May 8 2000
+Amended(3) by Proposal 4250 (harvel), 19 February 2002
 
 ----------------------------------------------------------------------
 
@@ -8289,11 +8424,11 @@ Indulgences and Blots
   This Category includes Rules concerning Indulgences and Blots.
 ----------------------------------------------------------------------
 
-Rule 1377/14 (Power=1)
+Rule 1377/15 (Power=1)
 The Herald
 
-      There exists the Office of Herald, whose responsibility it is to
-      keep track of Blots and to be the Recordkeepor of Indulgences.
+      The Herald is an office; its holder is recordkeepor of
+      Indulgences and is responsible for keeping track of Blots.
 
       The Herald's Report shall include the following:
 
@@ -8323,6 +8458,7 @@ Amended(11) by Proposal 3926 (Crito), Oct. 10 1999
 Amended(12) by Proposal 4002 (harvel), May 8 2000
 Amended(13) by Proposal 4110 (Ziggy), Feb. 13 2001
 Amended(14) by Proposal 4124 (Elysion), Mar. 28 2001
+Amended(15) by Proposal 4250 (harvel), 19 February 2002
 
 ----------------------------------------------------------------------
 
@@ -8396,7 +8532,7 @@ Amended(1) by Proposal 4110 (Ziggy), Feb. 13 2001
 
 ----------------------------------------------------------------------
 
-Rule 1712/12 (Power=1)
+Rule 1712/13 (Power=1)
 Distribution of Indulgences
 
       The Ideal Indulgence Circulation Level (IICL) is the number of
@@ -8435,9 +8571,8 @@ Distribution of Indulgences
       In an Indulgence Auction held in accordance with this rule, the
       items to be auctioned are individual Indulgences, and thus the
       number of items is equal to the number of Indulgences to be
-      Auctioned. In addition, the Auctioneer shall be the Herald, and
-      the Auction shall be conducted in Stems with only Acolytes being
-      allowed to bid.
+      Auctioned. In addition, the Auction shall be conducted in Stems
+      with only Acolytes being allowed to bid.
 
 History:
 Created by Proposal 3476 (Oerjan), May 11 1997
@@ -8453,6 +8588,7 @@ Amended(9) by Proposal 4085 (Blob), Nov. 16 2000
 Amended(10) by Proposal 4162 (Elysion), 11 June 2001
 Amended(11) by Proposal 4188 (Goethe), 18 July 2001
 Amended(12) by Proposal 4203 (neil), 28 August 2001
+Amended(13) by Proposal 4249 (Murphy), 19 February 2002
 
 ----------------------------------------------------------------------
 
@@ -8608,15 +8744,18 @@ Changing Speakers
   This Category includes Rules regulating changing the Speaker.
 ----------------------------------------------------------------------
 
-Rule 1647/7 (Power=1)
+Rule 1647/9 (Power=1)
 The Speaker-Elect
 
-      There exists the Office of Speaker-Elect, whose responsibility
-      it is to be the Speaker's successor.
+      The Speaker-Elect is an office; its holder is usually the
+      Speaker's successor.
 
       Whenever the Speaker-Elect becomes Speaker, e ceases to be
       Speaker-Elect.  The Speaker can never hold the Office of
-      Speaker-Elect.
+      Speaker-Elect, nor be the Electee to the Office of
+      Speaker-Elect.  If the Speaker somehow becomes the Electee to
+      the Office of Speaker-Elect, e is immediately removed from that
+      Office.
 
       The Clerk of the Courts and Justiciar cannot Nominate for the
       Office of Speaker-Elect.
@@ -8639,6 +8778,8 @@ Amended(4) by Proposal 3871 (Peekee), Jun. 2 1999
 Amended(5) by Proposal 3887 (Blob), Jul. 30 1999
 Amended(6) by Proposal 3902 (Murphy), Sep. 6 1999
 Amended(7) by Proposal 3974 (Elysion), Feb. 14 2000
+Amended(8) by Proposal 4246 (Steve), 19 February 2002
+Amended(9) by Proposal 4250 (harvel), 19 February 2002
 
 ----------------------------------------------------------------------
 
@@ -9227,11 +9368,11 @@ The Notary
   This Category includes Rules concerning the Office of Notary.
 ----------------------------------------------------------------------
 
-Rule 1458/10 (Power=1)
+Rule 1458/11 (Power=1)
 The Notary
 
-      There exists the Office of Notary, whose responsibility it is to
-      maintain a Record of Organizations and their Jurisdictions.
+      The Notary is an office; its holder is responsible for
+      maintaining a record of organizations and their jurisdictions.
 
       The Notary's Report shall include the following information
       for each Organization:
@@ -9261,6 +9402,7 @@ Amended(7) by Proposal 3871 (Peekee), Jun. 2 1999
 Amended(8) by Proposal 3902 (Murphy), Sep. 6 1999
 Amended(9) by Proposal 4002 (harvel), May 8 2000
 Amended(10) by Propoal 01-002 (Blob), Feb. 2 2001
+Amended(11) by Proposal 4250 (harvel), 19 February 2002
 
 ----------------------------------------------------------------------
 
@@ -9418,21 +9560,6 @@ Amended(3) by Proposal 2725, Oct. 23 1996
 Infected and Amended(4) by Rule 1454, Feb. 28 1997, substantial
   (unattributed)
 Amended(5) by Proposal 3452 (Steve), Apr. 7 1997, substantial
-
-----------------------------------------------------------------------
-
-Rule 1980/0 (Power=1)
-Becoming Parliamentary
-
-      Rules to the contrary nonwithstanding, a Group becomes a
-      Parliamentary Group (P-Group) if its Vizier posts such intent
-      to the Public Forum, provided at least two of its Members are
-      not in eir Grace Period, and either: (a) the Group has been
-      in existence for one month and has cast one legal Democratic
-      Vote; or (b) the Group was formed prior to May 1, 2001.
-
-History:
-Created by Proposal 4146 (Goethe), Apr. 22 2001
 
 ----------------------------------------------------------------------
 
@@ -9652,21 +9779,23 @@ Created by Proposal 4197 (Goethe), 8 August 2001
 
 ----------------------------------------------------------------------
 
-Rule 1996/0 (Power=1)
+Rule 1996/1 (Power=1)
 The Mapkeepor
 
-      There exists the Office of Mapkeepor, whose responsibility is to
-      be the recordkeeper for the Land of Arcadia.  The Mapkeepor
-      shall produce a Weekly Report including:
+      The Mapkeepor is an office; its holder is recordkeepor for the
+      Land of Arcadia.
 
-            (a) The Ownership and Land Type of all existent Land;
-            (b) All changes in the Ownership and Land Type of existent
-                Land since the most recent report;
-            (c) The Location of all Entities or Instruments that have
-                a defined Location.
+      The Mapkeepor's Weekly Report shall include:
+
+        (i) the ownership and land type of all existing land;
+       (ii) all changes in the ownership and land type of existing
+            land since the most recent report; and
+      (iii) the location of each entity or instrument with a defined
+            non-secret location.
 
 History:
 Created by Proposal 4197 (Goethe), 8 August 2001
+Amended(1) by Proposal 4250 (harvel), 19 February 2002
 
 ----------------------------------------------------------------------
 
@@ -9899,7 +10028,7 @@ Amended(2) by Proposal 4229 (Goethe), 22 November 2001
 
 ----------------------------------------------------------------------
 
-Rule 2004/1 (Power=1)
+Rule 2004/2 (Power=1)
 Land Auctions
 
       As soon as possible after the tenth day of each Month, the
@@ -9918,7 +10047,6 @@ Land Auctions
       For each of these Auctions:
         * The item to be Auctioned is the piece of Land in question.
         * The Procedure to be used is the Vickrey Auction.
-        * The Auctioneer shall be the Mapkeepor.
         * The Default Auction Currency shall be Indulgences; however,
           the Auctioneer may select a different Bank Currency with 2
           Supporters.
@@ -9926,6 +10054,7 @@ Land Auctions
 History:
 Created by Proposal 4210 (neil), 10 September 2001
 Amended(1) by Proposal 4234 (Goethe), 29 November 2001
+Amended(2) by Proposal 4249 (Murphy), 19 February 2002
 
 ----------------------------------------------------------------------
 
