@@ -27,8 +27,8 @@ There are currently 300 Rules:
   251 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         1985
-Highest Rule Number assigned so far: 1985
+Highest current Rule Number:         1986
+Highest Rule Number assigned so far: 1986
 
 
 
@@ -1352,7 +1352,7 @@ Created by Proposal 3739 (Swann), May 3 1998
 
 ----------------------------------------------------------------------
 
-Rule 1960/0 (Power=1)
+Rule 1960/1 (Power=1)
 Roles
 
       Each player may have a Role, which is one of the following:
@@ -1365,19 +1365,40 @@ Roles
       Player gains a new role, then e ceases to hold any previous
       roles. Initially players do not have any role.
 
-      A Player who has no role, or a player who has not changed
-      eir role in the past 3 months, may change roles by announcing
-      publicly what role e is changing to.
+      A Player changes eir Role by publicly announcing which Role e is
+      changing to, provided one of the following is true:
+
+          1) e has no role or e has not changed eir role in the past 3
+             months.
+          2) e has not changed eir role in the past six weeks and e
+             has paid a Fee of 1 Indulgence for the purpose of making
+             this change
+          3) e has paid a Fee of 3 Indulgences for the purpose of
+             making this change.
 
       The Registrar shall keep track of each player's role, and
       include it in eir report.
 
 History:
 Created by Proposal 4085 (Blob), Nov. 16 2000
+Amended(1) by Proposal 4175 (Elysion), 7 July 2001
 
 ----------------------------------------------------------------------
 
+Rule 1986/0 (Power=1)
+The Scribes' Council
 
+      The set of all Players who are currently Scribes is known as the
+      Scribes' Council.
+
+      Any Player may make any Undistributable Proposal Distributable
+      (without payment of any Fee) with the Support of a majority of
+      the Scribes' Council.
+
+History:
+Created by Proposal 4174 (Kelly), 7 July 2001
+
+----------------------------------------------------------------------
 
 ======================================================================
 Officers
@@ -2324,7 +2345,7 @@ Amended(11) by Proposal 4155 (harvel), 18 May 2001
 
 ----------------------------------------------------------------------
 
-Rule 1940/2 (Power=1)
+Rule 1940/3 (Power=1)
 Periodic Compensations
 
       The Rules may designate certain compensations to be periodic
@@ -2338,12 +2359,12 @@ Periodic Compensations
 
       The Payroll Clerk shall pay out the Minimum Income to each
       Player, and shall further pay out to each Player the designated
-      Salary for each Office that Player held for at least 12 days of
+      Salary for each Office that Player held for at least 16 days of
       the previous month.
 
       The Payroll Clerk shall pay out the Distributor's Gratuity to
       the Distributor if the Distributor is a Player and was both the
-      Distributor and a Player for at least 12 days of the previous
+      Distributor and a Player for at least 16 days of the previous
       month.
 
       The Registrar shall pay out the Speaker's Gratuity to a Player
@@ -2353,6 +2374,7 @@ History:
 Created by Proposal 3998 (harvel), May 2 2000
 Amended(1) by Proposal 4081 (Elysion), Oct. 30 2000
 Amended(2) by Proposal 4140 (Wes), Apr. 15 2001
+Amended(3) by Proposal 4179 (Taral), 7 July 2001
 
 ----------------------------------------------------------------------
 
@@ -4804,15 +4826,16 @@ Amended(2) by Proposal 4166 (Elysion), 11 June 2001
 
 ----------------------------------------------------------------------
 
-Rule 698/6 (Power=1)
+Rule 698/7 (Power=1)
 Always an Eligible Judge
 
       Every Active Player is eligible to judge a given Call for
       Judgement (CFJ) unless specifically made ineligible by some
       Rule.
 
-      Whenever a Player becomes subject to a Grace Period, e becomes
-      ineligible to judge CFJs.
+      Whenever a Player becomes subject to a Grace Period, e shall be
+      considered to have made emself ineligible to judge CFJs, as
+      described in other Rules.
 
       The Caller of a given CFJ is never eligible to judge that CFJ.
 
@@ -4855,6 +4878,7 @@ Amended(3) by Proposal 2457, Feb. 26 1996
 Amended(4) by Proposal 3821 (Blob), Jan. 12 1999
 Amended(5) by Proposal 3823 (Oerjan), Jan. 21 1999
 Amended(6) by Proposal 4155 (harvel), 18 May 2001
+Amended(7) by Proposal 4178 (root), 7 July 2001
 
 ----------------------------------------------------------------------
 
@@ -7265,7 +7289,7 @@ Amended(9) by Proposal 4151 (Kelly), 13 May 2001
 
 ----------------------------------------------------------------------
 
-Rule 1887/13 (Power=1)
+Rule 1887/14 (Power=1)
 Default Procedure for Auctions
 
       When an Auction is required and the procedure is not defined
@@ -7289,9 +7313,10 @@ Default Procedure for Auctions
           Auction must specify the currency to be used, or the
           Auction cannot take place.
 
-      (d) Number of Items: Each Auction is conducted for 1 or more
-          identical items. Throughout this Rule, N indicates the
-          number of items up for bid in the Auction.
+      (d) Number of Lots: Each Auction is conducted for 1 or more
+          identical lots of identical items, which must all be owned
+          by the same entity. Throughout this Rule, N indicates the
+          number of lots up for bid in the Auction.
 
       (e) Start of Auction: The Auction begins at the time the first
           correct and legal announcement that an Auction is begun, as
@@ -7342,9 +7367,9 @@ Default Procedure for Auctions
           Auctioneer shall announce the winning Bids and issue to each
           winning Bidder a separate bill for each of eir winning Bids.
 
-      Unless specified otherwise, the Auctioneer shall pay out an
-      Auctioned item to the winning Bidder as soon as possible after
-      the bill for that item is paid.
+      Unless specified otherwise, the owner of the Auctioned items
+      shall incur a debt of one Auctioned lot of items to the
+      winning Bidder when the bill for that lot is paid.
 
 History:
 Created by Proposal 3853 (Blob), Apr. 19 1999
@@ -7361,6 +7386,7 @@ Amended(10) by Proposal 01-005 (Steve), Feb. 2 2001
 Amended(11) by Proposal 4122 (Goethe), Mar. 21 2001
 Amended(12) by Proposal 4147 (Wes), 13 May 2001
 Amended(13) by Proposal 4167 (root), 11 June 2001
+Amended(14) by Proposal 4176 (root), 7 July 2001
 
 ----------------------------------------------------------------------
 
@@ -7377,7 +7403,7 @@ Amended(1) by Proposal 4167 (root), 11 June 2001
 
 ----------------------------------------------------------------------
 
-Rule 1983/0 (Power=1)
+Rule 1983/1 (Power=1)
 Vickrey Auctions
 
       The Auction Procedure for a Vickrey Auction is the same as the
@@ -7398,9 +7424,9 @@ Vickrey Auctions
 
       (d) The Final Auction Price is:
           (1) The amount of the largest nonwinning uncancelled valid
-              Bid, if there were N or more valid uncancelled Bids in
+              Bid, if there were more than N valid uncancelled Bids in
               the Auction;
-          (2) The Starting Bid, if there were fewer than N valid
+          (2) The Starting Bid, if there were N or fewer valid
               uncancelled Bids.
           For the purpose of this Rule, N is equal to the number of
           items being Auctioned.
@@ -7412,10 +7438,11 @@ Vickrey Auctions
 
 History:
 Created by Proposal 4167 (root), 11 June 2001
+Amended(1) by Proposal 4176 (root), 7 July 2001
 
 ----------------------------------------------------------------------
 
-Rule 1984/0 (Power=1)
+Rule 1984/2 (Power=1)
 Raffles
 
       There is a type of Auction named a Raffle. The Auction Procedure
@@ -7427,16 +7454,19 @@ Raffles
 
       (b) Entrants: Every Player not on Hold may enter the Raffle. On
           Hold status is measured at the time a Player enters the
-          Raffle.
+          Raffle. However, if a rule prohibits a player from bidding
+          in this Auction, then e is also prohibited from buying
+          tickets.
 
       (c) Raffle Currency: Each Raffle is conducted in one particular
           currency. The Rule requiring a particular Raffle must
           specify the currency to be used, or the Raffle cannot take
           place.
 
-      (d) Number of Items: Each Raffle is conducted for 1 or more
-          identical items. Throughout this Rule, N indicates the
-          number of items up for bid in the Raffle.
+      (d) Number of Lots: Each Raffle is conducted for 1 or more
+          identical lots of identical items, which must all be owned
+          by the same entity. Throughout this Rule, N indicates the
+          number of lots up for bid in the Raffle.
 
       (e) Start of Auction: The Raffle begins at the time the first
           correct and legal announcement that a Raffle is begun, as
@@ -7480,12 +7510,15 @@ Raffles
           (2) The Riff-Raff has not already done so for that Raffle.
 
       (l) Announcing Winners: As soon as possible after the end of the
-          Raffle, the Riff-Raff shall announce the winning tickets and
-          transfer to each winning Entrant a separate Auctioned item
-          for each of eir winning tickets.
+          Raffle, the Riff-Raff shall announce the winning tickets.
+          Upon this announcement, the owner of the Auctioned items
+          shall incur a debt of one Auctioned lot of items to each
+          winning Entrant for each of eir winning tickets.
 
 History:
 Created by Proposal 4167 (root), 11 June 2001
+Amended(1) by Proposal 4176 (root), 7 July 2001
+Amended(2) by Proposal 4177 (Elysion), 7 July 2001
 
 ----------------------------------------------------------------------
 
@@ -8038,7 +8071,7 @@ Amended(2) by Proposal 4002 (harvel), May 8 2000
 
 ----------------------------------------------------------------------
 
-Rule 1929/3 (Power=1)
+Rule 1929/4 (Power=1)
 Points
 
       A Player's Score is a measure of that Player's unloserliness,
@@ -8061,7 +8094,7 @@ Points
          -- It must be the first such notification for that specific
             event
 
-      Having a Score of 200 Points or more is a Win Condition. If at
+      Having a Score of 100 Points or more is a Win Condition. If at
       any time a Player Wins the Game, all Player's Scores shall
       instantly be set to zero.
 
@@ -8070,6 +8103,7 @@ Created by Proposal 3977 (Wes), Feb. 23 2000
 Amended(1) by Propsoal 3993 (t), Apr. 20 2000
 Amended(2) by Proposal 4141 (Wes), Apr. 15 2001
 Amended(3) by Proposal 4141 (Wes), Apr. 15 2001
+Amended(4) by Proposal 4180 (Elysion), 7 July 2001
 
 ----------------------------------------------------------------------
 
