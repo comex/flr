@@ -21,15 +21,15 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 270 Rules:
+There are currently 271 Rules:
     1 with Power=4
    23 with Power=3
    39 with Power=2
-  207 with Power=1
+  208 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2080
-Highest Rule Number assigned so far: 2082
+Highest current Rule Number:         2083
+Highest Rule Number assigned so far: 2083
 
 ======================================================================
 Table of Contents:
@@ -6866,7 +6866,7 @@ History:
 Created by Proposal 4614 (Goethe), 21 September 2004
 
 ----------------------------------------------------------------------
-Rule 2075/1 (Power=1)
+Rule 2075/2 (Power=1)
 Winning Hands
 
       The Deckmastor's Budget shall contain between one and three
@@ -6886,25 +6886,57 @@ Winning Hands
       Patent Title Champion.
 
       Exactly one week after a true announcement, the Flux of all
-      Gamblers except the Deck shall become frozen.  The Deckmastor
-      shall transfer random cards from the hands of each frozen
-      gambler to the deck, until each frozen gambler has either (a) a
-      hand size equal to or less than the Minimum hand size or (b) no
-      cards.  Then, the Deckmaster shall deal cards to the winner up
-      to the maximum hand size.  When these tasks have been peformed,
-      the Flux of every Gambler shall become free.
+      Gamblers except the Deck shall become frozen.
 
       If no one has won the game in the last six months, then any
       Gambler may announce a Skunk, which shall trigger the effects of
       a true announcement of a win above, except that no boon shall be
-      awarded nor shall extra winner's cards be dealt.
+      awarded.
 
 History:
 Created by Proposal 4614 (Goethe), 21 September 2004
 Amended(1) by Proposal 4626 (Goethe), 20 November 2004
+Amended(2) by Proposal 4644 (root), 12 March 2005
 
 ----------------------------------------------------------------------
 
+Rule 2083/0 (Power=1)
+Win Resolution
+
+      As soon as possible after any gambler's hand becomes frozen, the
+      Deckmastor shall perform the following actions in order:
+
+      1) Calculate and publicly announce the Card Tax for each frozen
+         gambler.  The Card Tax for a frozen gambler is equal to the
+         hand size of that gambler less the minimum hand size.  The
+         Card Tax shall be calculated as of the moment the gambler's
+         hand became frozen.
+
+      2) From every frozen gambler in turn, transfer cards selected at
+         random from that gambler's hand to the Deck until eir hand
+         size has been reduced by an amount not less than eir Card Tax
+         or e has no cards remaining.
+
+      3) If the hands were frozen because of a win, deal cards to the
+         winner until eir hand size has been increased by the maximum
+         hand size less the minimum hand size, calculated as of the
+         moment the winner's hand became frozen.
+
+      4) Publicly announce that the table is open for business.
+
+      Upon publication of an announcement as in 4), the Flux of every
+      gambler shall become free.  If the Deckmastor makes a public
+      announcement as in 4) when one or more gamblers are frozen but
+      steps 1), 2), and 3) have not been completed, then the
+      announcement is still valid, but the Deckmastor must complete
+      steps 1), 2), and 3) as soon as possible.  If the Deckmastor's
+      error is not made in good faith, then e commits the Class 4
+      Crime of Stacking the Deck.
+
+History:
+Created by Proposal 4644 (root), 12 March 2005
+
+----------------------------------------------------------------------
 Rule 2070/3 (Power=1)
 Card Powerz
 
@@ -7134,17 +7166,25 @@ Created by Proposal 4630 (Goethe), 19 December 2004
 
 ----------------------------------------------------------------------
 
-Rule 2080/0 (Power=1)
+Rule 2080/1 (Power=1)
 Cards for Proposals
 
-      When an Interested Proposal is adopted, the Proposer shall gain
-      one pending draw, regardless of any applicable Hand Limit.
+      If an Interested Proposal is adopted, the Proposer may draw from
+      the deck by announcing the Proposal number while drawing,
+      provided that e does so within a week after the proposal's
+      adoption and that e has not already done so for the same
+      proposal.
 
-      When a Disinterested Proposal is adopted, the Proposer shall
-      gain one pending draw, subject to any applicable Hand Limit.
+      If a Disinterested Proposal is adopted, the Proposer may draw
+      from the deck by announcing the Proposal number while drawing;
+      so long as the Proposer's Hand Size is smaller than the Maximum
+      Hand Size plus the number of Offices e holds, the Proposer
+      performs the draw within a week after the proposal's adoption,
+      and the Proposer has not already done so for the same proposal.
 
 History:
 Created by Proposal 4635 (OscarMeyr), 23 January 2005
+Amended(1) by Proposal 4644 (root), 12 March 2005
 
 ----------------------------------------------------------------------
 
@@ -7253,7 +7293,7 @@ Amended(9) by Proposal 4339 (Sir Toby), 8 July 2002
 
 ----------------------------------------------------------------------
 
-Rule 1922/7 (Power=1)
+Rule 1922/8 (Power=1)
 Defined Regular Patent Titles
 
       The following are Patent Titles:
@@ -7291,6 +7331,12 @@ Defined Regular Patent Titles
            Offices. This Patent Title is revoked from a player who
            ceases to hold and be Electee to three or more Offices.
 
+      (e) Three Months Long Service, Six Months Long Service, Nine
+          Months Long Service, Twelve Months Long Service, to be
+          awarded to any player who has held a particular Office
+          continuously for the specified duration.  Each of these
+          titles shall be awarded only once per player.
+
 History:
 Created by Proposal 3916 (harvel), Sep. 27 1999
 Amended(1) by Proposal 1922 (Goethe), Mar. 28 2001
@@ -7300,6 +7346,7 @@ Amended(4) by Propsoal 4404 (Steve), 23 October 2002
 Amended(5) by Proposal 4453 (Sherlock), 22 February 2003
 Amended(6) by Proposal 4556 (Goethe), 22 March 2004
 Amended(7) by Proposal 4614 (Goethe), 21 September 2004
+Amended(8) by Proposal 4642 (Murphy), 12 March 2005
 
 ----------------------------------------------------------------------
 
