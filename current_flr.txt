@@ -21,14 +21,14 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 321 Rules:
+There are currently 319 Rules:
    19 with Power=3
    34 with Power=2
-  268 with Power=1
+  266 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2019
-Highest Rule Number assigned so far: 2019
+Highest current Rule Number:         2022
+Highest Rule Number assigned so far: 2022
 
 ======================================================================
 Table of Contents:
@@ -1386,34 +1386,40 @@ Amended(1) by Proposal 4175 (Elysion), 7 July 2001
 
 ----------------------------------------------------------------------
 
-Rule 1986/1 (Power=2)
+Rule 1986/3 (Power=2)
 Role-Based Powers
 
-      A Scribe may lower the Distribution Cost of a Proposal by 1 with
-      the Support of another Scribe, to a minimum cost of 0, provided
-      the Cost of the Proposal has not already been so lowered.
+      A Scribe may Rubberstamp a Proposal by paying a Fee in Papyri,
+      or receiving the Support of a number of other Scribes, equal to
+      the number of Proposals that the Scribe has previously
+      Rubberstamped in the current Nomic Week (minimum zero).  A
+      Rubberstamped Proposal becomes Distributable: this does not
+      change its Distribution Fee.
 
-      An Acolyte may expunge 1 Blot from any Entity with the Support
-      of another Acolyte, provided the Acolyte has not so Expunged a
-      Blot in the same Nomic Week.
+      An Acolyte may absolve (remove) 1 Blot from any Entity by paying
+      Fee in Indulgences, or receiving the Support of a number of
+      other Acolytes, equal to the number of such Absolutions the
+      Acolyte has previously performed in the current Nomic Week
+      (minimum zero).
+
+      An Acolyte may Exorcise a Dissolute Entity with the Support of
+      another Acolyte.  The effect of Exorcism is to instantly
+      transfer all of the Entity's Indulgences to the Bank.
 
       An Acolyte with the Support of a Scribe, or a Scribe with the
       Support of an Acolyte, may Bless an Undistributed Proposal.  A
-      moment after its Distribution, a Blessed Ordinary Proposal
-      becomes Democratic.
+      moment after its Distribution, a Blessed Proposal becomes
+      Democratic if it is not already.
 
       A Politician, with the Support of another Poltician, may Unbless
       an Undistributed Blessed Proposal.  An Unblessed Proposal is no
       longer Blessed.
 
-      An Untainted Speaker, with 2 Supporters, may Sanitise a
-      Distributed Proposal for which the Voting Period has not ended.
-      If this happens, the Proposal is Aborted as described elsewhere,
-      but remains Distributable and becomes Democratic and Sane.
-
 History:
 Created by Proposal 4174 (Kelly), 7 July 2001
 Amended(1) by Proposal 4254 (Goethe), 21 February 2002
+Amended(2) by Proposal 4281 (Goethe), 16 April 2002
+Amended(3) by Proposal 4282 (Goethe), 16 April 2002
 
 ----------------------------------------------------------------------
 
@@ -2950,7 +2956,7 @@ Amended(2) by Proposal 4203 (neil), 28 August 2001
 
 ----------------------------------------------------------------------
 
-Rule 1954/5 (Power=1)
+Rule 1954/6 (Power=1)
 Distribution of Papyri
 
       As soon as possible after the fifteenth day of each month, the
@@ -2960,8 +2966,7 @@ Distribution of Papyri
 
       The items to be auctioned are individual Papyri, and thus the
       number of items is equal to the number of Papyri to be
-      Auctioned.  The Auction shall be conducted in Stems. Only
-      Scribes may bid.
+      Auctioned.  The Auction shall be conducted in Stems.
 
 History:
 Created by Proposal 4050 (t), Aug. 15 2000
@@ -2970,6 +2975,7 @@ Amended(2) by Proposal 4085 (Blob), Nov. 16 2000
 Amended(3) by Proposal 4167 (root), 11 June 2001
 Amended(4) by Proposal 4203 (neil), 28 August 2001
 Amended(5) by Proposal 4249 (Murphy), 19 February 2002
+Amended(6) by Proposal 4281 (Goethe), 16 April 2002
 
 ----------------------------------------------------------------------
 
@@ -3037,7 +3043,7 @@ Amended(1) by Proposal 4195 (Syllepsis), 26 July 2001
 
 ----------------------------------------------------------------------
 
-Rule 1770/14 (Power=1)
+Rule 1770/15 (Power=1)
 Distributing Proposals
 
       During each Week, the Promotor must either distribute every
@@ -3047,11 +3053,10 @@ Distributing Proposals
       Player may detect and report.
 
       The distribution of each Proposal shall be accompanied by the
-      identity of its Proposing Entity, and an indication of whether
-      the Proposal is Ordinary or Democratic. However, the failure of
-      the Promotor to distribute any of these accompaniments with a
-      Proposal does not deprive the distribution of the Proposal of
-      any legal effect.
+      identity of its Proposing Entity, and an indication of the
+      Proposal's Chamber.  However, the failure of the Promotor to
+      distribute any of these accompaniments with a Proposal does not
+      deprive the distribution of the Proposal of any legal effect.
 
       A Proposal is legally distributed only if it is explicitly
       marked as such. When a Proposal is distributed, it is removed
@@ -3103,6 +3108,7 @@ Amended(11) by Proposal 4005 (Taral), May 8 2000
 Amended(12) by Proposal 4034 (Chuck), Aug. 2 2000
 Amended(13) by Proposal 4050 (t), Aug. 15 2000
 Amended(14) by Proposal 4072 (Steve), Sep. 20 2000
+Amended(15) by Proposal 4282 (Goethe), 16 April 2002
 
 ----------------------------------------------------------------------
 
@@ -3183,7 +3189,7 @@ Voting on Proposals
   other actions which take place during the Voting Period.
 ----------------------------------------------------------------------
 
-Rule 1449/14 (Power=1)
+Rule 1449/15 (Power=1)
 The Assessor
 
       The Assessor is an office; its holder is recordkeepor of Voting
@@ -3191,9 +3197,8 @@ The Assessor
       results of votes on proposals.
 
       The Assessor's Weekly Report shall include a list of the
-      identity, voting power on ordinary proposals, and voting power
-      on democratic proposals for each entity with nonzero voting
-      power on either ordinary or democratic proposals.
+      identity and voting power for Proposals in each Chamber, for all
+      entities with nonzero voting power in at least one Chamber.
 
       (c) The Assessor's Budget shall consist of the Voting
           Entitlements per Player (VEPP), a real multiple of 0.1
@@ -3215,6 +3220,7 @@ Amended(11) by Proposal 3902 (Murphy), Sep. 6 1999
 Amended(12) by Proposal 4221 (Steve), 10 October 2001
 Amended(13) by Proposal 4250 (harvel), 19 February 2002
 Amended(14) by Proposal 4255 (Steve), 21 February 2002
+Amended(15) by Proposal 4282 (Goethe), 16 April 2002
 
 ----------------------------------------------------------------------
 
@@ -3301,14 +3307,23 @@ Amended(1) by Proposal 4159 (Kelly), 5 June 2001
 
 ----------------------------------------------------------------------
 
-Rule 1933/3 (Power=2)
-Ordinary and Democratic Proposals
+Rule 1933/4 (Power=2)
+A Proposal's Chamber
 
-      Every Proposal is either Ordinary or Democratic. A Proposal is
-      Ordinary unless
-      (a) the Proposal has an Adoption Index of two (2) or greater;
-      (b) the Proposal is made Democratic as specified by an
-          instrument with Power greater than or equal to two (2).
+      Every Proposal shall be in (or have) exactly one defined Chamber
+      out of the following possibile Chambers:
+          (A) Ordinary;
+          (B) Democratic;
+          (C) Parliamentary.
+
+      Rules to the nonwithstanding, a Proposal can never be Ordinary
+      if its Adoption Index is two (2) or greater.
+
+      Every Proposals is initially Ordinary unless the above
+      limitation applies to it, in which case it is initially
+      Democratic.  The Chamber of a Proposal may only be changed as
+      specified by an instrument with Power greater than or equal to
+      two (2).
 
 History:
 Created by Proposal 3980 (Steve), Mar. 1 2000
@@ -3316,50 +3331,61 @@ Amended(1) by Proposal 3990, "Agora Abhors a Vacuum", (Murphy),
   Mar. 24 2000
 Amended(2) by Proposal 4018 (Kelly), Jun. 21 2000
 Amended(3) by Proposal 4111 (Elysion), Feb. 20 2001
+Amended(4) by Proposal 4282 (Goethe), 16 April 2002
 
 ----------------------------------------------------------------------
 
-Rule 1950/2 (Power=2)
+Rule 1950/3 (Power=2)
 Voting Power
 
       (a) An entity's Voting Power on an Ordinary Proposal is as
           follows:
-
             (1) An Oligarch: one;
             (2) Any other entity: zero.
 
       (b) An entity's Voting Power on a Democratic Proposal is as
           follows:
-
             (1) A Player: one plus the number of Voting Entitlements e
                 possesses rounded down, minus one for every five Blots
                 e has, with a minimum of zero and a maximum of:
-                 (a) for an Oligarch, two;
-                 (b) for a non-Oligarch, five.
+                (a) for an Oligarch, two;
+                (b) for a non-Oligarch, five.
             (2) The Bank: zero;
             (3) Any other entity: as defined in the Rules, with a
                 default of zero if the Rules don't specify the Voting
                 power on a Democratic Proposal for that entity.
 
-      (c) The value of an entity's Voting Power on Ordinary and
-          Democratic Proposals at the beginning of each Week shall be
-          in effect for all Proposals distributed during that
-          Week. However, if a Proposal is made Democratic after it has
-          been distributed, the Voting Power of each entity for that
-          Proposal is redetermined at the time the Proposal is made
-          Democratic.
+      (c) An entity's Voting Power on a Parliamentary Proposal is as
+          follows:
+            (1) One, if the entity is one of the following:
+                (a)   The Oligarchy;
+                (b)   The Democracy;
+                (c)   The Speakership.
+            (2) Any other entity, zero.
+
+      (c) The value of an entity's Voting Power for any given Chamber
+          at the beginning of each Week shall be in effect for all
+          Proposals distributed during that Week. However, if a
+          Proposal's Chamber is changed after it has been distributed,
+          the Voting Power of each entity for that Proposal is
+          redetermined at the time the Chamber is changed.
 
       (d) An entity may cast as many votes as e wishes on a Proposal,
-          up to the limit determined by that entity's Voting Power on
-          that Proposal, with the exception that no Player may vote on
-          an Ordinary Proposal unless e is an Oligarch at the time e
-          casts eir vote. An entity may cast its votes in any
-          combination e wishes.
+          in any combination, up to the limit determined by that
+          entity's Voting Power on that Proposal, with the exceptions
+          that:
+              (1) no Player may vote on an Ordinary Proposal unless e
+                  is an Oligarch at the time e casts eir vote.
+              (2) Votes on Parliamentary Proposals shall only be cast
+                  through specific mechanisms indicated by the Rules
+                  for each specific entity with Voting Power on
+                  Parliamentary Proposals.
 
 History:
 Created by Proposal 4032 (t), Jul. 24 2000
 Amended(1) by Proposal 4085 (Blob), Nov. 16 2000
 Amended(2) by Proposal 4221 (Steve), 10 October 2001
+Amended(3) by Proposal 4282 (Goethe), 16 April 2002
 
 ----------------------------------------------------------------------
 
@@ -3389,6 +3415,76 @@ Amended(7) by Proposal 3937 (Wes), Oct. 31 1999
 Amended(8) by Proposal 3968 (harvel), Feb. 4 2000
 Amended(9) by Proposal 3972 (Peekee), Feb. 14 2000
 Amended(10) by Proposal 4190 (Steve), 18 July 2001
+
+----------------------------------------------------------------------
+
+Rule 2020/0 (Power=1)
+Parliamentary Votes
+
+      For a Parliamentary Proposal, the Assessor will count as
+      "Preliminary Votes" after the voting period has ended:
+        1.  Communications from Oligarch Players or their executors
+            which would have been legal votes if the Proposal had been
+            Ordinary.
+        2.  Communications from non-Oligarch Players or their
+            executors which would have been legal votes if the
+            Proposal had been Democratic.
+        3.  Public communications from an untainted Speaker,
+            indicating a Veto of the Proposal.
+
+      If the preliminary votes of the Oligarch Players (both voting
+      index and quorum, with the exception that the Speaker's Veto
+      does not affect this determination of quorum) would have passed
+      the Proposal were they deemed to be Ordinary Votes on an
+      Ordinary Proposal, the Oligarchy shall be deemed to have cast 1
+      vote FOR the Proposal, otherwise the Oligarchy will be deemed to
+      have cast 1 vote AGAINST.
+
+      If the preliminary votes of the non-Oligarch Players (both
+      voting index and quorum) would have passed the Proposal were
+      they deemed to be Democratic Votes on a Democratic Proposal, the
+      Democracy shall be deemed to have cast 1 vote FOR the Proposal,
+      otherwise the Democracy will be deemed to have cast 1 vote
+      AGAINST.
+
+      If the untainted Speaker Vetoed the Proposal, the Speakership
+      shall be deemed to have cast 1 vote AGAINST the Proposal,
+      otherwise the Speakership shall be deemed to have cast 1 vote
+      FOR the Proposal.
+
+      The timing of all votes cast on Parliamentary Proposals shall be
+      deemed to be an instant before the end of the Voting Period.
+      There are no other specific mechanisms for casting votes on
+      Parliamentary Proposals.
+
+History:
+Created by Proposal 4282 (Goethe), 16 April 2002
+
+----------------------------------------------------------------------
+
+Rule 2021 (Power=2)
+Chamber Procedure
+
+      The Chamber Fee for a Proposal is initially 0.1 Voting
+      Entitlements.  Any Politician may change the Chamber of a
+      Proposal that is not Sane to another Chamber of eir choice, by
+      publicly paying this fee, provided that it is legal for the
+      Proposal to be in the new Chamber.  When a Proposal's Chamber is
+      changed via this Rule:
+
+        (i)  The Chamber Fee for the Proposal is doubled;
+        (ii) If the Proposal is in its Voting Period, it is Aborted as
+             described elsewhere, and returned to the Proposal Pool
+             with its Distributability and other characteristics
+             intact.
+
+      An Untainted Speaker, with 2 Supporters, may Sanitise a
+      Distributed Proposal for which the Voting Period has not ended.
+      If this happens, the Proposal is Aborted as described elsewhere,
+      but remains Distributable and becomes Democratic and Sane.
+
+History:
+Created by Proposal 4282 (Goethe), 16 April 2002
 
 ----------------------------------------------------------------------
 
@@ -3566,7 +3662,7 @@ The End of the Voting Period
   the Voting Period or upon the announcement of Proposal results.
 ----------------------------------------------------------------------
 
-Rule 879/16 (Power=2)
+Rule 879/17 (Power=2)
 Quorum
 
       An ordinary proposal achieves quorum if at least three oligarchs
@@ -3581,6 +3677,10 @@ Quorum
       number of non-frozen players and number of active noisy players
       at the time that the proposal was distributed, or at the time it
       was made a democratic proposal, whichever is later.
+
+      A Parliamentary Proposal acheives quorum if at least two of the
+      entities with Voting Power on the Proposal are deemed to have
+      cast votes either FOR or AGAINST it.
 
 History:
 Initial Mutable Rule 201, Jun. 30 1993
@@ -3604,6 +3704,7 @@ Amended(13) by Proposal 4018 (Kelly), Jun. 21 2000
 Amended(14) by Proposal 4239 (Murphy), 29 January 2002
 Amended(15) by Proposal 4276 (Steve), 28 March 2002
 Amended(16) by Proposal 4278 (harvel), 3 April 2002
+Amended(17) by Proposal 4282 (Goethe), 16 April 2002
 
 ----------------------------------------------------------------------
 
@@ -8218,7 +8319,7 @@ Amended(2) by Proposal 4203 (neil), 28 August 2001
 
 ----------------------------------------------------------------------
 
-Rule 1946/7 (Power=1)
+Rule 1946/8 (Power=1)
 Distribution of Voting Entitlements
 
       (a) The Ideal Voting Entitlement Circulation Level (IVECL) is
@@ -8244,7 +8345,7 @@ Distribution of Voting Entitlements
           items is equal to the Voting Entitlement Surplus multiplied
           by 10, rounded down to the nearest integer.  The Auctioneer
           shall be the Assessor, and the Auction shall be conducted in
-          Stems. Only Politicians may bid.
+          Stems.
 
 History:
 Created by Proposal 4018 (Kelly), Jun. 21 2000
@@ -8255,6 +8356,7 @@ Amended(4) by Proposal 4203 (neil), 28 August 2001
 Amended(5) by Proposal 4247 (Murphy), 19 February 2002
 Amended(6) by Proposal 4249 (Murphy), 19 February 2002
 Amended(7) by Proposal 4255 (Steve), 21 February 2002
+Amended(8) by Proposal 4281 (Goethe), 16 April 2002
 
 ----------------------------------------------------------------------
 
@@ -8651,7 +8753,7 @@ Amended(2) by Proposal 4272 (Murphy), 22 March 2002
 
 ----------------------------------------------------------------------
 
-Rule 1712/14 (Power=1)
+Rule 1712/15 (Power=1)
 Distribution of Indulgences
 
       The Ideal Indulgence Circulation Level (IICL) is the number of
@@ -8689,8 +8791,7 @@ Distribution of Indulgences
       In an Indulgence Auction held in accordance with this rule, the
       items to be auctioned are individual Indulgences, and thus the
       number of items is equal to the number of Indulgences to be
-      Auctioned. In addition, the Auction shall be conducted in Stems
-      with only Acolytes being allowed to bid.
+      Auctioned.  The Auction shall be conducted in Stems.
 
 History:
 Created by Proposal 3476 (Oerjan), May 11 1997
@@ -8708,6 +8809,7 @@ Amended(11) by Proposal 4188 (Goethe), 18 July 2001
 Amended(12) by Proposal 4203 (neil), 28 August 2001
 Amended(13) by Proposal 4249 (Murphy), 19 February 2002
 Amended(14) by Proposal 4272 (Murphy), 22 March 2002
+Amended(15) by Proposal 4281 (Goethe), 16 April 2002
 
 ----------------------------------------------------------------------
 
@@ -9805,7 +9907,7 @@ The Land of Arcadia
   This Category includes Rules about the virtual Land of Arcadia
 ----------------------------------------------------------------------
 
-Rule 1993/0 (Power=2)
+Rule 1993/1 (Power=2)
 The Land of Arcadia
 
       Arcadia is a land entirely defined by the Arcadian Map (the
@@ -9822,15 +9924,15 @@ The Land of Arcadia
       be created or destroyed by changing the limits of Latitude and
       Longitude defined in the Rules.
 
-      All values for Latitude must lie between -25 and +25, inclusive.
-      All values for Longitude must lie between -25 and +25,
-      inclusive.
+      All values for Latitude must lie between -9 and +9, inclusive.
+      All values for Longitude must lie between -9 and +9, inclusive.
 
       The Total Land Area of Arcadia is the number of existent Units
       of Land defined by permissible Latitude and Longitude pairs.
 
 History:
 Created by Proposal 4197 (Goethe), 8 August 2001
+Amended(1) by Proposal 4283 (Goethe), 16 April 2002
 
 ----------------------------------------------------------------------
 
@@ -9921,37 +10023,27 @@ Amended(2) by Proposal 4280 (OscarMeyr), 3 April 2002
 
 ----------------------------------------------------------------------
 
-Rule 1997/0 (Power=1)
+Rule 1997/1 (Power=1)
 Defined Land Types and Subtypes
 
       In addition to Aether, the following Land Types are defined:
-           (a) Wilderness;
-           (b) Farmland;
-           (c) Water;
-           (d) Urbana.
-
-      The following Land Subtypes are permissible for Units of
-      Wilderness:
-          (a) Mountans;
-          (b) Hills;
-          (c) Forest;
-          (d) Desert;
-
-      The following Land Subtypes are permissible for Units of Urbana:
-          (a) City;
-          (b) Road;
-          (c) Aqueduct.
+        (a) Black;
+        (b) White.
 
 History:
 Created by Proposal 4197 (Goethe), 8 August 2001
+Amended(1) by Proposal 4283 (Goethe), 16 April 2002
 
 ----------------------------------------------------------------------
 
-Rule 1998/1 (Power=1)
+Rule 1998/2 (Power=1)
 Land Topology
 
-      Two Units of Land are Adjacent if neither their Latitudes nor
-      their Longitudes differ by more than one from each other.
+      Two Units of Land are Adjacent if and only if:
+         (i) They have the same Latitude, and their Longitudes differ
+             by exactly one; or
+        (ii) They have the same Longitude, and their Latitudes differ
+             by exactly one.
 
       The Penguin Distance between two given Units of Land is the
       minimum number of Single Waddles required to Travel from one of
@@ -9959,25 +10051,15 @@ Land Topology
       is the Penguin Distance required to Travel from one Unit of Land
       to an Adjacent Unit of Land.
 
-      Of a Land Unit:
-         (1) the Land Unit with the same Longitude and a Latitude
-             greater by 1 is its Northern Neighbor.
-         (2) the Land Unit with the same Longitude and a Latitude less
-             by 1 is its Southern Neighbor.
-         (3) the Land Unit with the same Latitude and a Longitude
-             greater by 1 is its Eastern Neighbor.
-         (4) the Land Unit with the same Latitude and a Longitude less
-             by 1 is its Western Neighbor.
-
       Two Units of Land are said to be Connected by a specific Type or
       Subtype of Land if it is possible to travel from the first Unit
       to the second by Waddling only over Land of that specific Type
       or Subtype.
 
-
 History:
 Created by Proposal 4197 (Goethe), 8 August 2001
 Amended(1) by Proposal 4217 (Syllepsis), 29 September 2001
+Amended(2) by Proposal 4283 (Goethe), 16 April 2002
 
 ----------------------------------------------------------------------
 
@@ -10003,147 +10085,42 @@ Created by Proposal 4197 (Goethe), 8 August 2001
 
 ----------------------------------------------------------------------
 
-Rule 2000/0 (Power=1)
-Rule Location
-
-      The Rule Mapping is a Rules-defined calculation that maps
-      a single integer (a Rule Number as defined elsewhere in the
-      Rules) onto a single Latitude, Longitude pair within the limits
-      of Latitude and Longitude on the Map of Arcadia.
-
-      The Rule Mapping must be such that no two possible Rule Numbers
-      between 101 and the Total Land Area of Arcadia are mapped to the
-      same Latitude, Longitude pair.
-
-      For any existent Rule, the Latitude and Longitude pair resulting
-      from a Rule Mapping of the Rule's Number is the Rule's Location.
-      A Rule's Location only changes if its Rule Number changes or if
-      the Rule Mapping contained in this Rule changes.
-
-      The Rule Mapping is defined by the following procedure:
-        1.  The number 100 is subtracted from the Rule Number to
-            calculate the number of Vulture Steps in the Rule Number's
-            Vulture Journey.
-        2.  The Latitude and Longitude of the Mapping shall be that of
-            the Land Unit Visited when the final Vulture Step of the
-            Rule Number's Vulture Journey is taken, where each Vulture
-            Step in the Journey is taken as follows:
-
-              (a) If no Vulture Steps have yet been taken in the
-                  Journey, by visiting the Land Unit with Latitude 0,
-                  Longitude 0; otherwise,
-              (b) From the Land Unit most recently visited in the
-                  specific Vulture Journey:
-                  (i) If neither its Northern, nor Western, nor
-                      Southern, nor Eastern Neighbor has been visited
-                      in the Journey, by visiting its Eastern
-                      Neighbor; otherwise,
-                 (ii) If its Nothern, Western, and Southern Neighbors
-                      have all been visited, by visiting
-                      its Eastern Neighbor; otherwise,
-                (iii) If its Western Neighbor has been visited but
-                      its Northern Neighbor has not, by visiting its
-                      Northern Neighbor, otherwise;
-                 (iv) If the Southern Neighbor has been visited but
-                      the Western Neightbor has not, by visiting the
-                      Western Neighbor, otherwise;
-                  (v) If the Eastern Neighbor has been visited but the
-                      Southern Neighbor has not, by visiting the
-                      Southern Neighbor, otherwise;
-                 (vi) If the Northern Neigbor has been visited but
-                      the Eastern Neighbor has not, by visiting the
-                      Eastern Neighbor.
-
-History:
-Created by Proposal 4197 (Goethe), 8 August 2001
-
-----------------------------------------------------------------------
-
-Rule 2001/0 (Power=1)
-This Landscape, This Ruleset
-
-      Upon the adoption of this Rule, if a number which maps onto
-      the Latitude, Longitude pair of an existent Unit of Land using
-      the Rule Mapping, is not an existent Rule Number, the Unit's
-      Land Type shall be changed to Aether.
-
-      Otherwise, the Land Type of the Unit of Land at the Latitude,
-      Longitude representing each Rule Number's Location:
-
-        (i) shall be changed to Land Type Wilderness if the Rule has a
-            Power greater than or equal to 1, but less than 2.
-
-       (ii) shall be changed to Land Type Farmland if the Rule has
-            a Power greater than or equal to 2, but less than 3.
-
-      (iii) shall be changed to Land Type Urbana if the Rule has
-            a Power of 3 or more.
-
-      If a Rule Change enacts a new Rule, repeals an existing Rule, or
-      changes the Power of a Rule, the Land Type at the Rule's
-      Location shall be changed as above.  Land Types may still be
-      changed by other Rules.
-
-----------------------------------------------------------------------
-
-Rule 2003/3 (Power=1)
+Rule 2003/4 (Power=1)
 Moving in Arcadia
 
-      Every week, each Player may expend up to 10 Movement Units to
-      move about in the Land of Arcadia, and each Organization may
-      expend up to 5 Movement Units.  Movement Units are not
-      transferable, and do not persist from one week to the next.
+      Every week, each Player may expend up to 10 Movement Units, and
+      an Organization may expend up to 5 Movement Units, to move about
+      in the Land of Arcadia.  Movement Units are not transferrable,
+      and do not persist from one week to the next.
 
-      A player makes a Move by notifying the Mapkeepor of the location
-      (the Destination) into which e is attempting to move.  If the
-      Player has enough Movement Units left this week, and the Move is
-      valid, the Player's Location is changed to the Destination.  So
-      long as e does not spend more than eir allotted number of
-      Movement Units, a Player may move as many times as e wishes in a
-      single week.
+      A player makes a move by notifying the Mapkeepor of the
+      specifics of the move.  So long as e does not spend more than
+      eir allotted number of Movement Units, a Player may move as many
+      times as e wishes in a single week.
 
-      Players may expend:
-        * 10 Movement Units to move into an adjacent unit of Type
-          Wilderness, Subtype Mountains.
-        *  5 Movement Units to move into an adjacent unit of Type
-          Wilderness, Subtype Hills.
-        *  3 Movement Units to move into an adjacent unit of Type
-          Wilderness, Subtype Forest or Desert.
-        *  3 Movement Units to move into an adjacent unit of Type
-          Wilderness with no Subtype.
-        *  2 Movement Units to move into an adjacent unit of Type
-          Farmland.
-        *  1 Movement Unit to move into an adjacent unit of Type
-           Urbana.
+      Entities may expend:
+        * 2 Movement Units to move from one Land Unit to an adjacent
+          Unit if their Land Types are the same and the destination is
+          not Aether.
+        * 5 Movement Units to move from one Land Unit to an adjacent
+          Unit if their Land Types differ and the destination is not
+          Aether;
+        * 5 Movement Units to set Land Type of a Land Unit which e
+          owns to any Land Type other than Aether, whether or not e is
+          located at that Land Unit.
+        * 10 Movement Units to set the Land Type of the Entity's
+          current location to any Land Type of eir choice other than
+          Aether, if and only if the Unit is owned by the Land Bureau.
 
-      A player may also expend 10 Movement Units to Explore, by
-      notifying the Mapkeepor that e does so.  If a Player Explores,
-      all units of Aether within a Penguin Distance of 2 from the
-      Player's current location are assigned a new Land Type and
-      possibly Subtype.  For each unit of Aether affected, there is a:
-       * 0.15 probability it becomes the same type and subtype
-              as the land at the location of the exploring Player;
-       * 0.10 probability it becomes Wilderness/Mountains;
-       * 0.20 probability it becomes Wilderness/Hills;
-       * 0.20 probability it becomes Wilderness/Forest;
-       * 0.10 probability it becomes Wilderness/Desert;
-       * 0.05 probability it becomes Farmland, no subtype;
-       * 0.20 probability it becomes Water, no subtype.
-
-      The random choice of new Land Type and Subtype is to be made by
-      the Mapkeepor.  Affected units take on the new Land Type at the
-      beginning of the next week, and all such changes shall be
-      indicated in the Mapkeepor's Report for that week.
-
-      Moves explicitly allowed by this Rule, including Exploring, are
-      valid, unless made invalid by other Rules.  Unless explicity
-      permitted by other Rules, all other Moves are invalid.
+      Unless explicity permitted by other Rules, all other Moves are
+      invalid.
 
 History:
 Created by Proposal 4207 (neil), 3 September 2001
 Amended(1) by Proposal 4215 (neil), 29 September 2001
 Amended(2) by Proposal 4229 (Goethe), 22 November 2001
 Amended(3) by Proposal 4280 (OscarMeyr), 3 April 2002
+Amended(4) by Proposal 4283 (Goethe), 16 April 2002
 
 ----------------------------------------------------------------------
 
@@ -10240,74 +10217,42 @@ Amended(1) by Proposal 4228 (root), 22 November 2001
 
 ----------------------------------------------------------------------
 
-Rule 2007/0 (Power=1)
-Developing Land
+Rule 2022/0 (Power=1)
+Sente and Gote
 
-      A Player who owns a Unit of Land and is Located at that Unit of
-      Land may change the Land Type and/or Subtype in the following
-      manner:
+      On the fifteenth of each Nomic Month, the following actions
+      occur in sequence, and these changes must be reported by the
+      Mapkeepor as soon as possible after they occur:
 
-      a) If the Unit of Land is of Type Wilderness, e may change that
-         Unit of Land to Type Farmland by expending 5 Movement Points
-         and paying a Fee of:
+         (i) Every Land Unit that is not connected by its own type to
+             a unit of Aether shall be transformed to Aether;
 
-           i)   0.1 BOS in Stems, rounded up, if the Unit is of
-                Subtype Forest;
+        (ii) Any entities whose locations are on land units so
+             transformed shall have their locations set to 0,0.
 
-           ii)  0.25 BOS in Stems, rounded up, if the Unit is of
-                Subtype Desert; or
+       (iii) If any land unit so transformed is not property of the Land
+             Bureau, it becomes property of the Land Bureau.
 
-           iii) 1 BOS in Stems, rounded up, if the Unit is of
-                Subtype Mountain.
+        (iv) If there are more Land Units of a single defined Land
+             Type, Aether excepted, then there are of all other Land
+             Types combined (other than Aether), then all Land Units
+             of that majority Type are said to have Sente.  Land Units
+             of all other defined Types are said to have Gote.
 
-      b) If the Unit of Land is of Type Farmland, e may change that
-         Unit of Land to Type Urbana by expending 5 Movement Points
-         and paying a Fee of:
+         (v) the Mapkeepor shall Pay Out:
+             (a) an amount of Stems equal to the Minimum Income times
+                 the Basic Officer's Salary to all Players whose
+                 location has Sente;
+             (b) to the owner of each Land Unit that has Sente as is
+                 not owned by the Bank or the Land Bureau
+                     * 3 Stems if the Weather is Plenty;
+                     * 2 Stems if the Weather is Fair;
+                     * 1 Stem if the Weather is Foul.
 
-           i)   0.1 BOS in Stems, rounded up, in which case the Unit
-                will have Subtype Road;
-
-           ii)  0.25 BOS in Stems, rounded up, in which case the Unit
-                will have Subtype Aqueduct; or
-
-           iii) if there are no Units of subtype City within a Penguin
-                Distance of 3 from the Unit, The Unit is Connected to
-                a Unit of Water by Aqueduct, and there are at least 8
-                Units of Farmland within a Penguin Distance of 2 from
-                the Unit, 1 BOS in Stems, in which case the Unit will
-                have Subtype City. In this case the Player is required
-                to give a unique name to the City.
-
-      Units affected by this Rule take on the new Land Type at the
-      beginning of the next week, and all such changes shall be
-      indicated in the Mapkeepor's Report for that week.
+      Sente and Gote shall only be changed as defined by this Rule, on
+      the fifteenth of each Nomic Month.
 
 History:
-Created by Proposal 4217 (Syllepsis), 29 September 2001
+Created by Proposal 4283 (Goethe), 16 April 2002
 
 ----------------------------------------------------------------------
-
-Rule 2008/0 (Power=1)
-Arcadian Cities
-
-      A Unit of Land of Subtype City may be referred to as just a
-      City, Arcadian City, or by its unique name, if any.
-
-      The Unit of Land at (0,0) shall always remain a City. This city
-      shall be named Tripolis, the Capital of Arcadia, and shall
-      always be Public Land, owned by the Bank. This takes precedence
-      over any Rule to the contrary.
-
-      Any City other than Tripolis ceases to be a City and becomes a
-      Unit of Land of Subtype Road whenever:
-
-      a) It is not Connected to Water by Aqueduct; or
-
-      b) There are less than 8 Units of Farmland within a Penguin
-         Distance of 2 from the City.
-
-History:
-Created by Proposal 4217 (Syllepsis), 29 September 2001
-
-----------------------------------------------------------------------
-
