@@ -21,15 +21,15 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 312 Rules:
+There are currently 313 Rules:
     1 with Power=4
    22 with Power=3
-   38 with Power=2
-  251 with Power=1
+   40 with Power=2
+  250 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2039
-Highest Rule Number assigned so far: 2039
+Highest current Rule Number:         2040
+Highest Rule Number assigned so far: 2040
 
 ======================================================================
 Table of Contents:
@@ -496,53 +496,92 @@ Power changed from 1 to 2 by Proposal 3999 (harvel), May 2 2000
 
 ----------------------------------------------------------------------
 
-Rule 478/12 (Power=1)
-The Public Forum
+Rule 2040/0 (Power=2)
+Switches
 
-      A Public Forum is a medium of communication so designated by
-      the Registrar. Sending a message to a Public Forum shall be
-      considered the equivalent of sending that message to all
-      Players.
+      A switch is a set of states associated with a class of entities.
+      Each switch shall have a default state, which if not otherwise
+      specified shall be the first state mentioned in the rule
+      defining the switch.
 
-      A Discussion Forum is a medium of communication so designated
-      by the Registrar. A Discussion Forum shall never be a Public
-      Forum, and a message is not considered to have been sent to
-      all Players solely because it was sent to a Discussion Forum.
+      The recordkeepor for a class of entities shall also maintain
+      records of any switches associated with that class, as well as
+      for each entity of the class the current state of the switch.
+      If the recordkeepor is required to publish a report, that report
+      shall include records of these switches.
 
-      The Registrar may designate a given medium of communication to
-      be (or cease to be) a Public Forum or a Discussion Forum Without
-      Objection. An announcement of such a designation shall be made
-      via the medium whose designation is being changed. Any
-      designation of a medium as a Public Forum shall also be
-      announced via all existing Public Fora in addition to any
-      other requirements.
+      Whenever an entity is created in a class of entities associated
+      with a switch, it shall be in the state of the switch specified
+      by the order or provision creating it; if no state is specified,
+      it shall be in the default state of the switch.
 
-      It is the responsibility of every Active Player to ensure that
-      e is able to receive messages via each and every Public Forum.
-      Any inability of a Player to receive messages via a particular
-      Public Forum does not deprive that medium of its legal status
-      as a Public Forum. Players are in no way required to receive
-      messages via any particular Discussion Forum.
+      Whenever an entity joins a class of entities associated with a
+      switch, the entity shall be in the default state of the switch.
 
-      The Registrar shall include as part of eir Report all media
-      which are currently Public or Discussion Fora and sufficient
-      data regarding each medium to allow new Players to receive
-      messages via that medium.
+      A player who may flip a switch on an entity to some state may do
+      so by announcement.  In eir announcement, e must indicate the
+      entity, switch, and new state.  When a switch on an entity is
+      flipped to some state, the entity shall come to be in that state
+      and simultaneously cease to be in any other state of the switch.
 
-      Any communication which has been sent via a Public Forum shall
-      be considered to have been made publicly. Any communication
-      which has been sent to all Players via some other medium, or
-      combination of mediums, shall be considered to have been made
-      publicly, provided it contains some clear designation that it
-      is intended to be public.
+      Viscosity is a stuck switch for switches with values loose and
+      stuck.
 
-      If the Rules require a Player to publish certain information,
-      then e is considered to have satisfied that requirement at the
-      time e publicly sends a message containing the information e is
-      required to publish.
+      An executor of an entity may flip any of the loose switches on
+      that entity, unless the rules otherwise prohibit doing so.
 
-      If the Rules require a Player to announce certain information,
-      that announcement must be made publicly.
+      The stuck switches on an entity can be flipped only when the
+      rules so indicate.
+
+      Whenever a switch is created, or becomes associated with a class
+      of entities, then each entity in the class that had previously
+      been in a state that is now a state of the switch shall continue
+      to be in that state; all other entities in the class shall be in
+      the default state of the switch.
+
+History:
+Created by Proposal 4456 (Maud), 22 February 2003
+
+----------------------------------------------------------------------
+
+Rule 478/13 (Power=1)
+Fora
+
+      Publicity is a stuck forum switch with values null, Discussion,
+      and Public.
+
+      The Registrar may, without objection, flip the publicity of a
+      forum.  In addition to any other requirements the rules place on
+      this action, the Registrar's announcement of intent must be sent
+      to that forum, and if the forum is being made Public, then the
+      announcement by which the Registrar performs the modification
+      must be sent to all existing Public fora.
+
+      It is the responsibility of each active player to ensure that e
+      can receive messages via each Public forum.
+
+      The Registrar shall include as part of eir Report all Public or
+      Discussion fora and sufficient data regarding each such forum to
+      allow players to receive messages via that medium.  The
+      Registrar need not keep track of fora with null state.
+
+      A message is not public unless some rule states that it is
+      public.  A message is public if it is sent via a Public forum,
+      or if it is sent to all players via a combination of fora and
+      contains a clear designation of intent to be public.
+
+      A player publishes information by publicly sending a message
+      containing that information, and announces something by
+      publishing it.
+
+      If the rules state that a player may perform an action by
+      announcement, then that player may perform that action by
+      announcing that e performs it.  If the rules state that a player
+      may perform an action by private message to some player, then
+      that player may perform that action by sending a message
+      privately to the specified player indicating that e performs it.
+      In either case, such a message must unambiguously describe the
+      action to be performed.
 
 [CFJ 752: Something sent to a Player who is obligated to send it to
  all Players is sufficient for sending something to the PF.
@@ -570,6 +609,7 @@ Amended(9) by Proposal 3521 (Chuck), Jun. 23 1997, substantial
 Amended(10) by Proposal 3823 (oerjan), Jan. 21 1999
 Amended(11) by Proposal 4147 (Wes), 13 May 2001
 Amended(12) by Proposal 4248 (Murphy), 19 February 2002
+Amended(13) by Proposal 4456 (Maud), 22 February 2003
 
 ----------------------------------------------------------------------
 
@@ -815,7 +855,6 @@ Amended(1) by Proposal 4398 (harvel), 23 October 2002
 ----------------------------------------------------------------------
 
 
-
 ======================================================================
 The Rules
   This Category includes Rules about the Rules.  (See also
@@ -949,7 +988,7 @@ The Players
   This Category includes Rules defining and classifying Players.
 ----------------------------------------------------------------------
 
-Rule 869/12 (Power=1)
+Rule 869/13 (Power=1)
 Registered Players
 
       Any person who is not registered as a Player may do so by
@@ -982,6 +1021,12 @@ Registered Players
       eir Grace Period shall be extended by a period of time equal in
       length to that Holiday.
 
+      Whenever a Player registers during a Holiday, eir Grace Period
+      shall be extended by a period of time equal to the time which
+      elapses between eir registration and the conclusion of that
+      Holiday, provided that no other Rule extends eir Grace Period by
+      reason of that Holiday.
+
       For the purposes of determining when a Player's Grace Period is
       scheduled to conclude, where more than one Holiday falls fully
       or partially within that Grace Period, the calculation shall be
@@ -1012,6 +1057,7 @@ Amended(9) by Proposal 4011 (Wes), Jun. 1 2000
 Amended(10) by Proposal 4147 (Wes), 13 May 2001
 Amended(11) by Proposal 4155 (harvel), 18 May 2001
 Amended(12) by Proposal 4430 (Cecilius), 16 January 2003
+Amended(13) by Proposal 4451 (Cecilius), 22 February 2003
 
 ----------------------------------------------------------------------
 
@@ -3317,7 +3363,7 @@ The Assessor
 
       The Assessor's Weekly Report shall include a list of the
       identity and voting power for Proposals in each Chamber, for all
-      entities with nonzero voting power in at least one Chamber.
+n      entities with nonzero voting power in at least one Chamber.
 
       (c) The Assessor's Budget shall consist of the Voting
           Entitlements per Player (VEPP), a real multiple of 0.1
@@ -4982,12 +5028,14 @@ Amended(5) by Proposal 4298 (Murphy), 17 May 2002
 
 ----------------------------------------------------------------------
 
-Rule 2023/0 (Power=1)
+Rule 2023/1 (Power=2)
 Submitting a CFJ to the Justiciar
 
       A CFJ may be submitted to the Justiciar.  For such a CFJ, the
       Justiciar shall perform all duties and fulfill all roles that
-      would otherwise be assigned to the Clerk of the Courts.
+      would otherwise be assigned to the Clerk of the Courts. This
+      takes precedence over Rules that would otherwise assign duties
+      and roles regarding a CFJ to the Clerk of the Courts.
 
       All persons are encouraged to submit a CFJ to the Justiciar only
       when there is a good reason not to submit it to the Clerk of the
@@ -4995,6 +5043,8 @@ Submitting a CFJ to the Justiciar
 
 History:
 Created by Proposal 4298 (Murphy), 17 May 2002
+Power changed from 1 to 2 by Proposal 4452 (Sir Toby), 22 Feb. 2003
+Amended(1) by Proposal 4452 (Sir Toby), 22 February 2003
 
 ----------------------------------------------------------------------
 
@@ -7936,43 +7986,55 @@ Amended(6) by Proposal 4385 (Steve), 17 September 2002
 
 ----------------------------------------------------------------------
 
-Rule 2012/1 (Power=1)
+Rule 2012/2 (Power=1)
 Single-Bid Auctions
 
-      (a) There is a type of Auction called a Single-Bid Auction. The
-          procedure for conducting a Single-Bid Auction is the same as
-          that used in the Default Auction Procedure, with the
-          following additions and exceptions:
+      There is a type of auction called a single-bid auction. The
+      procedure for conducting a single-bid auction is the same as
+      that used in the default auction procedure, with the following
+      additions and exceptions:
 
-          (1) Bid Inflation Factor: As part of any correct and legal
-              announcement that a Single-Bid Auction is commencing,
-              the Auctioneer must announce the value of the Bid
-              Inflation Factor for the Auction, a real number between
-              0 and 1 inclusive.
+      (a) Bid inflation factor: As part of any correct and legal
+          announcement that a single-bid auction is commencing, the
+          Auctioneer must announce the value of the bid inflation
+          factor for the auction, a real number between 0 and 1
+          inclusive.
 
-          (2) Making Bids: Each Player eligible to bid in the Auction
-              is permitted to make only one bid, called the initial
-              Bid.  Any bids made by a Player after eir initial Bid in
-              the Auction are invalid. A Player who cancels eir bid is
-              ineligible to make further bids in the Auction. All Bids
-              must be made publically.
+      (b) Making bids: each player eligible to bid in the auction is
+          permitted to make only one bid, called the initial bid.  Any
+          bids made by a player after eir initial bid in the auction
+          are invalid.  A player who cancels eir bid is ineligible to
+          make further bids in the auction.  All bids must be made
+          publically.
 
-          (3) Value of Bids: at each midnight GMT during the Auction,
-              the value of each valid, uncancelled Bid remaining in
-              the Auction is increased by an amount equal to the Bid
-              Inflation Factor multiplied by the initial Bid.
+      (c) Value of bids: at each midnight GMT during the auction, the
+          value of each valid, uncancelled bid remaining in the
+          auction is increased by an amount equal to the bid inflation
+          factor multiplied by the initial bid.
 
-          (4) Final Auction Price: for the purposes of determining the
-              Winner(s) of the Auction, the value of each Bid as
-              calculated in (3) above is used.  However, the debt
-              incurred by a Winner of the Auction is equal to the Nth
-              highest Winning Initial Bid, where N is the number of
-              items being Auctioned, or to the Starting Bid, if there
-              were fewer than N bids.
+      (d) End of auction: the auction ends if any of the following
+          occur:
+
+          (1) one week has passed from the start of the auction, and
+              no bids have been made; or
+
+          (2) a bid has been made in the auction, and there has been
+              no change in the N highest initial bids for 72 hours; or
+
+          (3) fourteen days have passed since the Auction began.
+
+      (e) Final auction price: for the purposes of determining the
+          winner(s) of the auction, the value of each bid as
+          calculated in (c) above is used. However, the debt incurred
+          by a winner of the auction is equal to the Nth highest
+          winning initial bid, where N is the number of items being
+          auctioned, or to the starting bid, if there were fewer than
+          N bids.
 
 History:
 Created by Proposal 4251 (Steve), 19 February 2002
 Amended(1) by Proposal 4321 (Steve), 31 May 2002
+Amended(2) by Proposal 4446 (Steve), 22 February 2003
 
 ----------------------------------------------------------------------
 
