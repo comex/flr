@@ -7567,6 +7567,12 @@ Definition of "Pay Out" and "Bill"
       those Properties, and the named Player shall, as soon as
       possible, post a public notice of the debt.
 
+CFJ 1301 (Judged TRUE, 13 June 2001): "Rule 1479 should be interpreted
+ such that an Order, which requires a Player to pay out one or more
+ Properties to some entity, and which is valid and proper under the
+ Rules, causes the Bank to incur one or more debts to the named
+ entity."
+
 History:
 Created by Proposal 1601, Jun. 19 1995
 Amended(1) by Proposal 2476, Feb. 16 1996
