@@ -21,11 +21,11 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 311 Rules:
+There are currently 309 Rules:
     1 with Power=4
    23 with Power=3
    40 with Power=2
-  247 with Power=1
+  245 with Power=1
 
 Lowest current Rule Number:           101
 Highest current Rule Number:         2046
@@ -4314,7 +4314,7 @@ Amended(10) by Proposal 4258 (Murphy), 21 February 2002
 
 ----------------------------------------------------------------------
 
-Rule 1445/16 (Power=1)
+Rule 1445/17 (Power=1)
 Defaults for Elections
 
       When an Election is required and the procedure is not defined
@@ -4420,6 +4420,12 @@ Defaults for Elections
         Collector correctly announces the identity of its winner.  The
         effect of an Election is defined by other Rules.
 
+      * Cutoff for Challenges: If the results of an Election are not
+        challenged within seven days after the Vote Collector
+        announces them, then the announced results are the true
+        results of that Election, even if they would otherwise be in
+        error.
+
 History:
 Created by Proposal 1499 (Blob), Mar. 24 1995
 Amended(1) by Proposal 1763, Oct. 31 1995
@@ -4439,6 +4445,7 @@ Amended(13) by Proposal 4017 (Elysion), Jun. 21 2000
 Amended(14) by Proposal 4031 (Elysion), Jul. 24 2000
 Amended(15) by Proposal 4147 (Wes), 13 May 2001
 Amended(16) by Proposal 4257 (Murphy), 21 February 2002
+Amended(17) by Proposal 4480 (Steve), 23 April 2003
 
 ----------------------------------------------------------------------
 
@@ -4499,25 +4506,35 @@ Amended(3) by Proposal 4250 (harvel), 19 February 2002
 
 ----------------------------------------------------------------------
 
-Rule 1958/0 (Power=1)
+Rule 1958/1 (Power=1)
 Nominating with Budgets
 
-      If an Office has a Budget, then each Nominee for the Office
-      shall submit a valid Proto-Budget during the Nomination Period,
-      or else eir Nomination shall automatically be withdrawn at the
-      end of the Nomination Period.  A Proto-Budget is valid if it
-      would be valid as a Budget.
+      (a) If an office has a budget, then a nomination in an election
+          for that office is not valid unless a valid proto-budget is
+          associated with it.
 
-      When the Voting Period begins, the Vote Collector shall announce
-      each Candidate's last valid Proto-Budget.
+      (b) A proto-budget submitted by a nominee during the nominating
+          period is associated with that nominee's nomination. A
+          proto-budget is valid if it would be valid as a budget.
 
-      When the Voting Period ends, the Winner's last valid
-      Proto-Budget becomes the Budget of that Office, and e shall
-      announce it as soon as possible.  If the Election ends without a
-      Winner, then the existing Budget remains in effect.
+      (c) If a nominee for an Office fails to submit a valid
+          proto-budget during the nominating period, then by default
+          eir nomination is associated with a proto-budget identical
+          to the current budget for that Office.  If the current
+          budget is not valid, tough cookies.
+
+      (d) When the voting period begins, the vote collector shall
+          announce each candidate's last valid proto-budget.
+
+      (e) When the voting period ends, the winner's last valid
+          proto-budget becomes the budget of that office, and e shall
+          announce it as soon as possible. If the election ends
+          without a winner, then the existing Budget remains in
+          effect.
 
 History:
 Created by Proposal 4054 (Oerjan), Aug. 21 2000
+Amended(1) by Proposal 4480 (Steve), 23 April 2003
 
 ----------------------------------------------------------------------
 
@@ -9564,7 +9581,7 @@ Amended(14) by Proposal 4147 (Wes), 13 May 2001
 
 ----------------------------------------------------------------------
 
-Rule 1539/2 (Power=1)
+Rule 1539/3 (Power=1)
 Regulations and Membership of Contests
 
       No Player within Jurisdiction of a Contest's Regulations is
@@ -9585,8 +9602,9 @@ Regulations and Membership of Contests
            and conditions under which Contestants cease to be
            Contestants.
 
-      A Player becomes a Contestant by notifying the Contestmaster and
-      paying the prescribed Entry Fee to the Contest Fund.  A
+      A Player becomes a Contestant by notifying the Contestmaster.
+      If the Contest Regulations specify an Entry Fee, the Player must
+      also pay the prescribed Entry Fee to the Contest Fund.  A
       Contestant may quit a Contest at any time by so notifying the
       Contestmaster.  A Contestmaster may publicly resign at any time,
       at which time e ceases to be Contestmaster.
@@ -9595,6 +9613,7 @@ History:
 Created by Proposal 1760, Oct. 21 1995
 Amended(1) by Proposal 2725, Oct 23 1996
 Amended(2) by Proposal 4147 (Wes), 13 May 2001
+Amended(3) by Proposal 4484 (OscarMeyr), 23 April 2003
 
 ----------------------------------------------------------------------
 
