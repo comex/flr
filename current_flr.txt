@@ -21,15 +21,15 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 265 Rules:
+There are currently 268 Rules:
     1 with Power=4
    23 with Power=3
-   37 with Power=2
-  204 with Power=1
+   39 with Power=2
+  205 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2075
-Highest Rule Number assigned so far: 2075
+Highest current Rule Number:         2078
+Highest Rule Number assigned so far: 2078
 
 ======================================================================
 Table of Contents:
@@ -2235,7 +2235,7 @@ Amended(11) by Proposal 4461 (Maud), 17 March 2003
 
 ----------------------------------------------------------------------
 
-Rule 1664/25 (Power=2)
+Rule 1664/26 (Power=2)
 Rebellion
 
       A Rebellious player may Call for a Revolt at any time by
@@ -2261,7 +2261,8 @@ Rebellion
          - The Registrar shall grant the ephemeral Patent Title Rebel
            Hero to each Rebellious player.
          - All Stock Cards in the possession of Abiding Players are
-           returned to the Deck
+           returned to the Deck, and all Abiding Players have their
+           initiative switched to Gote.
          - Each Abiding player that is the Electee to an Office is
            retired from that Office.
          - All Rebellious players become Abiding again
@@ -2306,6 +2307,7 @@ Amended(22) by Proposal 4516 (Murphy), 18 July 2003
 Amended(23) by Proposal 4554 (Elysion), 27 February 2004
 Amended(24) by Proposal 4555 (Elysion), 22 March 2004
 Amended(25) by Proposal 4576 (Murphy), 31 May 2004
+Amended(26) by Proposal 4624 (Goethe), 20 November 2004
 
 ----------------------------------------------------------------------
 
@@ -2843,19 +2845,25 @@ Amended(2) by Proposal 4145 (Ian), Apr. 22 2001
 
 ----------------------------------------------------------------------
 
-Rule 2059/1 (Power=2)
+Rule 2059/2 (Power=2)
 Legality of Bonus Clauses
 
-      Advertising is a stuck proposal switch with values none,
-      positive, negative.
+      The following Element is defined for cards:
 
-      A player may pay 2 kudos to flip the advertising switch of any
-      proposal in the pool from none to another value, or from another
-      value to none.
+        Grafty: If a card is Grafty, then it is Budgeted, with its
+        initial quota set equal to one plus the number of Players who
+        voted FOR the Proposal that first defined that class of card
+        as Grafty.  When the Deckmastor initially creates cards to
+        fulfil this quota, e shall, Rules to the contrary
+        nonwithstanding, first destroy all existing copies of the
+        card, then create one copy in the possession of the Deck, and
+        finally create one copy in the possession of each Player who
+        voted FOR said proposal.
 
 History:
 Created by Proposal 4537 (Murphy), 16 November 2003
 Amended(1) by Proposal 4562 (root), 22 March 2004
+Amended(2) by Proposal 4622 (Goethe), 20 November 2004
 
 ----------------------------------------------------------------------
 
@@ -3088,6 +3096,38 @@ Mutated from MI=1 to MI=2 by Proposal 2665, Sep. 12 1996
 
 ----------------------------------------------------------------------
 
+Rule 2078/0 (Power=2)
+Takeover Proposals
+
+      Initiative is a stuck player switch, tracked by the Assessor,
+      with values Gote and Sente.
+
+      A Takeover Proposal is a proposal meeting these requirements:
+
+        (a) It is labelled as a Takeover Proposal.
+        (b) No Takeover Proposal has been submitted earlier in the
+            same month.
+        (c) It specifies a set of players (hereafter the Corporate
+            Raiders) that is no larger than P/2 or smaller than P/3,
+            where P is the number of active noisy players at the time
+            of submission.
+
+      Rules to the Contrary nonwithstanding, a Takeover Proposal is
+      both Democratic and Sane.
+
+      At the beginning of a Takeover Proposal's voting period, all
+      players have their initiative flipped to Gote.  At the end of a
+      Takeover Proposal's voting period, all players have their
+      initiative flipped as follows:
+        (a) Adopted:  All Corporate Raiders gain Sente.
+        (b) Rejected:  All other players gain Sente.
+        (c) Failed quorum:  No one gains Sente.
+
+History:
+Created by Proposal 4624 (Goethe), 20 November 2004
+
+----------------------------------------------------------------------
+
 ======================================================================
 Voting on Proposals
   This Category includes Rules regulating Voting on Proposals and
@@ -3131,13 +3171,13 @@ Amended(16) by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
-Rule 2052/2 (Power=2)
+Rule 2052/4 (Power=2)
 Voting Potential
 
       (a) Associated with every Player is a non-negative integral
           number known as that Player's Voting Potential.  At the
           beginning of each new month, every Player's Voting Potential
-          is set to zero.
+          is divided by two and rounded down.
 
       (b) At any time, a Player may, by announcement, increase their
           Voting Potential by a positive integral amount, N. The Fee
@@ -3147,10 +3187,20 @@ Voting Potential
       (c) The Assessor is responsible for tracking these
           announcements, and recording Players' Voting Potentials.
 
+      (d) the Political Charge is a positive integer that is initially
+          4, and may be changed only as defined by instruments of a
+          power of 2 or greater.  Rules to the contrary
+          nonwithstanding, if the current value of the Political
+          Charge cannot be determined by reasonable effort, it shall
+          be considered to be reset to 4.  The Assessor is responsible
+          for tracking the current Political Charge.
+
 History:
 Created by Proposal 4486 (Michael), 24 April 2003
 Amended(1) by Proposal 4526 (Steve), 8 September 2003
 Amended(2) by Proposal 4555 (Elysion), 22 March 2004
+Amended(3) by Proposal 4621 (Goethe), 20 November 2004
+Amended(4) by Proposal 4626 (Goethe), 20 November 2004
 
 ----------------------------------------------------------------------
 
@@ -3295,7 +3345,7 @@ Amended(8) by Proposal 4599 (root), 11 July 2004
 
 ----------------------------------------------------------------------
 
-Rule 1950/8 (Power=2)
+Rule 1950/9 (Power=2)
 Voting Power
 
       (a) An entity's Voting Power on an Ordinary Proposal is as
@@ -3305,14 +3355,11 @@ Voting Power
 
       (b) An entity's Voting Power on a Democratic Proposal is as
           follows:
-
-            * A Player:
-                  (a) two plus that Player's Voting Potential if that
-                      Player has zero Share Holdings.
-                  (b) one plus that Player's Voting Potential
-                      otherwise.
-
-            * Any other entity: as defined in the Rules, with a
+          (1) A Player:
+                  (i)  that Player's Voting Potential if that Player
+                       has Sente.
+                  (ii) one otherwise.
+          (2) Any other entity: as defined in the Rules, with a
               default of zero if the Rules don't specify the Voting
               power on a Democratic Proposal for that entity.
 
@@ -3341,6 +3388,7 @@ Amended(5) by Proposal 4370 (OscarMeyr), 6 September 2002
 Amended(6) by Proposal 4486 (Michael), 24 April 2003
 Amended(7) by Proposal 4539 (Goethe), 16 November 2003
 Amended(8) by Proposal 4576 (Murphy), 31 May 2004
+Amended(9) by Proposal 4624 (Goethe), 20 November 2004
 
 ----------------------------------------------------------------------
 
@@ -6704,7 +6752,7 @@ Amended(1) by Proposal 4614 (Goethe), 21 September 2004
 
 ----------------------------------------------------------------------
 
-Rule 2069/0 (Power=1)
+Rule 2069/1 (Power=1)
 Card Definitions
 
       I. Possession
@@ -6786,10 +6834,14 @@ Card Definitions
           A Gambler may Draw from The Deck for a Fee equal to the
           number of times that Gambler has previously Drawn from the
           Deck during the current month so long as the Gambler's Hand
-          Size is smaller than the Maximum Hand Size.
+          Size is smaller than the Maximum Hand Size plus the number
+          of Offices e holds.  For the purposes of this Rule, the
+          Speakership is considered an office.
+
 
 History:
 Created by Proposal 4573 (Wes), 14 May 2004
+Amended(1) by Proposal 4625 (Goethe), 20 November 2004
 
 ----------------------------------------------------------------------
 Rule 2074/0 (Power=2)
@@ -6807,7 +6859,7 @@ History:
 Created by Proposal 4614 (Goethe), 21 September 2004
 
 ----------------------------------------------------------------------
-Rule 2075/0 (Power=1)
+Rule 2075/1 (Power=1)
 Winning Hands
 
       The Deckmastor's Budget shall contain between one and three
@@ -6838,14 +6890,15 @@ Winning Hands
       If no one has won the game in the last six months, then any
       Gambler may announce a Skunk, which shall trigger the effects of
       a true announcement of a win above, except that no boon shall be
-      awarded nor shall extra winner's be dealt.
+      awarded nor shall extra winner's cards be dealt.
 
 History:
 Created by Proposal 4614 (Goethe), 21 September 2004
+Amended(1) by Proposal 4626 (Goethe), 20 November 2004
 
 ----------------------------------------------------------------------
 
-Rule 2070/1 (Power=1)
+Rule 2070/2 (Power=1)
 Card Powerz
 
       The following Elements for Cards are defined:
@@ -6869,13 +6922,17 @@ Card Powerz
       * Persistent: Playing this Card does not result in its being
         transferred to The Deck.
 
+      * Delayed[N]: You may not play this card if you have played a
+        copy of this card in the past N times 24 hours.
+
 History:
 Created by Proposal 4573 (Wes), 14 May 2004
 Amended(1) by Proposal 4614 (Goethe), 21 September 2004
+Amended(2) by Proposal 4620 (Goethe), 20 November 2004
 
 ----------------------------------------------------------------------
 
-Rule 2067/1 (Power=1)
+Rule 2067/1 (Power=2)
 Cards in Play
 
       The following Classes of Cards are defined:
@@ -6898,6 +6955,7 @@ Cards in Play
 History:
 Created by Proposal 4569 (Wes), 2 May 2004
 Amended(1) by Proposal 4614 (Goethe), 21 September 2004
+Power changed from 1 to 2 by Proposal 4626 (Goethe), 20 November 2004
 
 ----------------------------------------------------------------------
 
@@ -6957,6 +7015,78 @@ Created by Proposal 4574 (Wes), 14 May 2004
 Amended(1) by Proposal 4607 (Goethe), 8 August 2004
 Amended(2) by Proposal 4611 (OscarMeyr), 10 September 2004
 Amended(3) by Proposal 4614 (Goethe), 21 September 2004
+
+----------------------------------------------------------------------
+
+Rule 2076/0 (Power=1)
+Card cards
+
+       Caption:  Your Turn
+       Elements: Budgeted
+       Exploit:  A Player you name must play or discard a card in the
+                 next 72 hours, or commit the Class-1 Infraction of
+                 Delay of Game, reportable by you.
+
+       Caption:  Discard Picking
+       Elements: Budgeted, Delayed[4]
+       Exploit:  If a copy of a card was played or discarded in the
+                 past 72 hours, you may name it, and a copy of that
+                 card, if one is still in the deck, is automatically
+                 transferred from the Deck to your hand.
+
+       Caption:  Enforced Charity
+       Elements: Budgeted, Delayed[3]
+       Exploit:  A Player you name must transfer a card of eir choice
+                 to you in the next 72 hours, or commit the Class-2
+                 Infraction of Greed, reportable by you.
+
+       Caption:  Drop your Weapon
+       Elements: Budgeted
+       Exploit:  A card of your choice, from the Gambler of your
+                 choice, is automatically Discarded, provided that
+                 Gambler has a copy of that card.
+
+       Caption:  Presto!
+       Elements: Budgeted, Delayed[7]
+       Exploit:  A card of your choice, from the Gambler of your
+                 choice, is automatically transferred to your hand,
+                 provided that Gambler has a copy of that card.
+
+History:
+Created by Proposal 4620 (Goethe), 20 November 2004
+
+----------------------------------------------------------------------
+
+Rule 2077/0 (Power=1)
+Democratic cards
+
+      The following Classes of Cards are defined:
+
+      * Caption:  Coalition
+        Elements: Grafty, Budgeted
+        Exploit:  You may increase or decrease the Voting Potential of
+                  an indicated Player by N by paying a fee of N for
+                  yourself, or 2 times N for another Player.
+
+      * Caption:  Patronage
+        Elements: Grafty, Budgeted
+        Exploit:  You may increase or decrease the Political Charge by
+                  N by paying a fee of 4 times N.  If undefined
+                  elsewhere, the Political Charge is a positive
+                  integer, tracked by the Assessor, which begins at 4.
+
+      * Caption:  Policy
+        Elements: Budgeted
+        Exploit:  You may sanitize a Proposal, as described elsewhere
+                  in the Rules.
+
+      * Caption:  Procedure
+        Elements: Budgeted
+        Exploit:  You may abort and make undistributable any non-sane
+                  Proposal.
+
+History:
+Created by Proposal 4623 (Goethe), 20 November 2004
 
 ----------------------------------------------------------------------
 
