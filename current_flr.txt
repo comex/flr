@@ -6897,7 +6897,7 @@ Created by Proposal 4569 (Wes), 2 May 2004
 
 ----------------------------------------------------------------------
 
-Rule 2071/1 (Power=1)
+Rule 2071/2 (Power=1)
 Wacky Cards
 
       The following Classes of Cards are defined:
@@ -6957,9 +6957,20 @@ Wacky Cards
           X Kudos, draw X cards.  Do not include this card as
           one of the discarded cards.
 
+      * Caption: Rebel Rabble
+        Elements: Budgeted,
+                  Restricted [Rebellious]
+        Exploit: For a fee of N Kudos, where N is the current number
+          of Rebellious Players, increase the effective number of
+          Rebellious Players by 1 for 10 days (which is one week
+          on the Revolutionary Calendar).  Count the day this Card
+          is played as day #1.
+
+
 History:
 Created by Proposal 4574 (Wes), 14 May 2004
 Amended(1) by Proposal 4607 (Goethe), 8 August 2004
+Amended(2) by Proposal 4611 (OscarMeyr), 10 September 2004
 
 ----------------------------------------------------------------------
 
@@ -7473,13 +7484,13 @@ Amended(3) by Proposal 4566 (Goethe), 11 April 2004
 
 ----------------------------------------------------------------------
 
-Rule 1929/7 (Power=1)
+Rule 1929/8 (Power=1)
 Points
 
       A Player's Score is a measure of that Player's unloserliness,
       measured in Points. The Score of each Player is at all times an
       integer. A Player who has not been Awarded or Penalized since
-      the last Team Win has a Score of zero Points.
+      the last Score Reset has a Score of zero Points.
 
       The Rules may specify that certain events may cause a certain
       Player to be Awarded Points (causing eir Score to be increased)
@@ -7516,6 +7527,7 @@ Amended(4) by Proposal 4180 (Elysion), 7 July 2001
 Amended(5) by Proposal 4453 (Sherlock), 22 February 2003
 Amended(6) by Proposal 4467 (OscarMyer), 17 March 2003
 Amended(7) by Proposal 4542 (Murphy), 23 November 2003
+Amended(8) by Proposal 4612 (Murphy), 10 September 2004
 
 ----------------------------------------------------------------------
 
@@ -8022,17 +8034,15 @@ Amended(3) by Proposal 3703, Mar. 9 1998
 
 ----------------------------------------------------------------------
 
-Rule 2073/0 (Power=1)
+Rule 2073/1 (Power=1)
 Quis Custodiet Ipsos Custodes?
 
       Whenever the Speaker is Electee to the Office of Assistant
       Director of Personnel, e is retired from that Office.
 
-      The Assistant Director of Personnel cannot be Nominated for the
-      Office of Speaker-Elect.
-
 History:
 Created by Proposal 4594 (Murphy), 4 July 2004
+Amended(1) by Proposal 4613 (Murphy), 10 September 2004
 
 ----------------------------------------------------------------------
 
@@ -8550,15 +8560,15 @@ Amended(1) by Proposal 4494 (Peekee), 13 May 2003
 
 ----------------------------------------------------------------------
 
-Rule 2053/1 (Power=1)
+Rule 2053/2 (Power=1)
 Team Points, Team Scores
 
       A Team Score is at all times an integer.  The Team Score of a
       Team is the total sum of all Points of all Players grouped into
       that Team, plus the Team's Team Points.
 
-      A Team who has not been Awarded or Penalized since the last Team
-      Win has zero Team Points.
+      A Team who has not been Awarded or Penalized since the last
+      Score Reset has zero Team Points.
 
       The Rules may specify that certain events may cause a certain
       Team to be Awarded or Penalised Team Points. If said event
@@ -8588,44 +8598,12 @@ Team Points, Team Scores
 History:
 Created by Proposal 4494 (Peekee), 13 May 2003
 Amended(1) by Proposal 4542 (Murphy), 23 November 2003
+Amended(2) by Proposal 4612 (Murphy), 10 September 2004
 
 ----------------------------------------------------------------------
 
-Rule 2042/6 (Power=1)
+Rule 2042/7 (Power=1)
 Team Wins
-
-      A Team achieves a Team Win when its Team Score reaches reaches
-      the Team Points Goal, as set in the Scorekeepor's Budget.
-
-      The Scorekeepor shall make a public announcement of the Team Win
-      as soon as possible after the Team Win is achieved.  In the
-      announcement the Scorekeepor shall award the Boon of Teamwork to
-      each Player in the winning Team.
-
-      Later in the same announcement the Scorekeepor shall reassign
-      the grouping of Players into Teams as follows;
-
-      1) The Player with the highest Score in the Team with the
-         highest Team Score is assigned to the Team with the lowest
-         Team Score.
-
-      2) The Player who has the lowest Score in the Team with the
-         lowest Team Score is assigned as to distribute the players as
-         evenly as possible among the Teams.
-
-      3) All other Players remain assigned to the same Teams.
-
-      If in any of the above there is a choice of more than one Player
-      or Team, the Scorekeepor shall choose between the applicable
-      Players or Teams as e sees fit. The Scorekeepor shall include
-      the details of the reassignments in eir announcement.
-
-      The Scorekeepor may rename any Team in this announcement, if e
-      chooses to do so.  That Team shall be known by its new name
-      henceforth.
-
-      Upon the Scorekeepor's announcement, all Players' Scores and all
-      Teams' Scores are set to zero.
 
 History:
 Created by Proposal 4453 (Sherlock), 22 February 2003
@@ -8635,6 +8613,7 @@ Amended(3) by Proposal 4502 (Peekee), 5 June 2003
 Amended(4) by Proposal 4503 (Peekee), 15 June 2003
 Amended(5) by Proposal 4530 (OscarMeyr), 26 October 2003
 Amended(6) by Proposal 4547 (Sherlock), 13 January 2004
+Amended(7) by Proposal 4612 (Murphy), 10 September 2004
 
 ----------------------------------------------------------------------
 
