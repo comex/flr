@@ -9805,7 +9805,7 @@ Created by Proposal 4197 (Goethe), 8 August 2001
 
 ----------------------------------------------------------------------
 
-Rule 1996/2 (Power=1)
+Rule 1996/3 (Power=1)
 The Mapkeepor
 
       The Mapkeepor is an office; its holder is recordkeepor for the
@@ -9819,11 +9819,14 @@ The Mapkeepor
       (iii) the location for the previous week and the current week of
             each entity or instrument with a defined non-secret
             location.
+       (iv) The number of action units available to each entity for
+            the current week.
 
 History:
 Created by Proposal 4197 (Goethe), 8 August 2001
 Amended(1) by Proposal 4250 (harvel), 19 February 2002
 Amended(2) by Proposal 4280 (OscarMeyr), 3 April 2002
+Amended(3) by Proposal 4425 (SirToby), 2 January 2003
 
 ----------------------------------------------------------------------
 
@@ -9889,18 +9892,21 @@ Created by Proposal 4197 (Goethe), 8 August 2001
 
 ----------------------------------------------------------------------
 
-Rule 2003/7 (Power=1)
+Rule 2003/8 (Power=1)
 Actions in Arcadia
 
       Every week, the number of Actions Units an entity may expend to
       perform actions in the Land of Arcadia is as follows,
 
-      - If the entity is a Player 10 minus 1 for every 5 Blots in the
-        Player's Stain
+      - If the entity is a Player, 10, minus 1 for every 5 Blots in
+        the Player's Stain as recorded in the most recent Herald's
+        report before the week started, plus 1 for every unit of Land
+        with Gote owned by the Player.
 
-      - If the entity is a Group 1 plus 3 for every Member of the
+      - If the entity is a Group, 1, plus 3 for every Member of the
         Group located on or adjacent to the location of the Group at
-        the start of the week.
+        the start of the week, plus 1 for every unit of Land with Gote
+        owned by the Group.
 
       - All other entities zero.
 
@@ -9971,6 +9977,7 @@ Amended(4) by Proposal 4283 (Goethe), 16 April 2002
 Amended(5) by Proposal 4293 (Sir Toby), 10 May 2002
 Amended(6) by Proposal 4373 (Sir Toby), 6 September 2002
 Amended(7) by Proposal 4405 (Peekee), 23 October 2002
+Amended(8) by Proposal 4425 (SirToby), 2 January 2003
 
 ----------------------------------------------------------------------
 
