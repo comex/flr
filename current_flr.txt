@@ -9383,7 +9383,7 @@ Classes of Organizations
       The following Classes of Organizations exist:
 
         a) Contests.
-        b) Monasteries
+        b) Monasteries.
 
 History:
 Created by Proposal 4181 (Murphy), 9 July 2001
