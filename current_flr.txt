@@ -852,17 +852,27 @@ Created by Proposal 3695 (Steve), Mar. 3 1998
 
 ----------------------------------------------------------------------
 
-Rule 1870/2 (Power=1)
+Rule 1870/3 (Power=1)
 Merry Christmas, Agora, And A Happy New Year!
 
       The period each year from midnight GMT on the morning of 24
       December to the beginning of the first Agoran week to begin
       after 2 January is a Holiday.
 
+      There exists a Boon known as Shiny New Toy, and an Albatross
+      known as Lump of Coal.  For the purposes of this rule, Players
+      with a Stain of at least one Blot are known as Naughty, and
+      Players with a Stain of less than one Blot are known as Nice.
+
+      As soon as possible after the conclusion of the Holiday
+      described above, the Herald shall award a Shiny New Toy to each
+      Nice Player, and a Lump of Coal to each Naughty player.
+
 History:
 Created by Proposal 3819 (Steve), Dec. 28 1998
 Amended(1) by Proposal 01-003 (Steve), Feb. 2 2001
 Amended(2) by Proposal 4398 (harvel), 23 October 2002
+Amended(3) by Proposal 4548 (Magu), 13 January 2004
 
 ----------------------------------------------------------------------
 
@@ -8422,7 +8432,7 @@ Amended(1) by Proposal 4542 (Murphy), 23 November 2003
 
 ----------------------------------------------------------------------
 
-Rule 2042/5 (Power=1)
+Rule 2042/6 (Power=1)
 Team Wins
 
       A Team achieves a Team Win when its Team Score reaches reaches
@@ -8451,6 +8461,10 @@ Team Wins
       Players or Teams as e sees fit. The Scorekeepor shall include
       the details of the reassignments in eir announcement.
 
+      The Scorekeepor may rename any Team in this announcement, if e
+      chooses to do so.  That Team shall be known by its new name
+      henceforth.
+
       Upon the Scorekeepor's announcement, all Players' Scores and all
       Teams' Scores are set to zero.
 
@@ -8461,6 +8475,7 @@ Amended(2) by Proposal 4491 (Peekee), 6 May 2003
 Amended(3) by Proposal 4502 (Peekee), 5 June 2003
 Amended(4) by Proposal 4503 (Peekee), 15 June 2003
 Amended(5) by Proposal 4530 (OscarMeyr), 26 October 2003
+Amended(6) by Proposal 4547 (Sherlock), 13 January 2004
 
 ----------------------------------------------------------------------
 
