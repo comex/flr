@@ -21,15 +21,15 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 281 Rules:
+There are currently 283 Rules:
     1 with Power=4
    23 with Power=3
    39 with Power=2
-  218 with Power=1
+  220 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2055
-Highest Rule Number assigned so far: 2055
+Highest current Rule Number:         2057
+Highest Rule Number assigned so far: 2057
 
 ======================================================================
 Table of Contents:
@@ -1289,7 +1289,7 @@ Amneded(19) by Proposal 4424 (Steve), 16 December 2002
 
 ----------------------------------------------------------------------
 
-Rule 2036/0 (Power=1)
+Rule 2036/1 (Power=1)
 The Silent Treatment
 
       (a) The publication of a Notice of Abandonment commences the
@@ -1309,23 +1309,22 @@ The Silent Treatment
               valid at the commencement of the Silent Treatment, and
               whether it remains valid;
 
-          (2) publish in all designated Public Fora, and send to the
-              preferred email address of the player, if e has one, a
-              Notice of Intent to Deregister, identifying the player
-              to be deregistered (the same as in the Notice of
-              Abandonment), and announcing the Registrar's intent to
-              deregister that player after one month has passed.
+          (2) publish in all designated Public Fora, and send to each
+              listed e-mail address of the player, a Notice of Intent
+              to Deregister, identifying the player to be deregistered
+              (the same as in the Notice of Abandonment), and
+              announcing the Registrar's intent to deregister that
+              player after one month has passed.
 
       (d) If the Notice of Abandonment remains valid a month after the
           publication of the Notice of Intent to Deregister, then the
           Registrar shall, as soon as possible, publish in all
-          designated Public Fora, and send to the preferred email
-          address of the player, if e has one, a Notice of
-          Deregistration, identifying the player being deregistered
-          (the same as in the Notice of Abandonment). A Notice of
-          Deregistration is valid if and only if it is published by
-          the Registrar, following the procedures described in this
-          Rule.
+          designated Public Fora, and send to each listed e-mail
+          address of the player, a Notice of Deregistration,
+          identifying the player being deregistered (the same as in
+          the Notice of Abandonment). A Notice of Deregistration is
+          valid if and only if it is published by the Registrar,
+          following the procedures described in this Rule.
 
       (e) Upon publication of a valid Notice of Deregistration, the
           following events occur in order:
@@ -1342,6 +1341,7 @@ The Silent Treatment
 
 History:
 Created by Proposal 4407 (Steve), 30 October 2002
+Amended(1) by Proposal 4511 (Murphy), 10 July 2003
 
 ----------------------------------------------------------------------
 
@@ -4307,18 +4307,18 @@ Amended(17) by Proposal 4480 (Steve), 23 April 2003
 
 ----------------------------------------------------------------------
 
-Rule 1558/5 (Power=1)
+Rule 1558/6 (Power=1)
 Defaults for Elections for Offices
 
       When the Rules require that an Election be conducted to fill
       an Office, that Election shall be conducted in accordance with
       the usual Rules for Elections, with the following exceptions:
 
-      * The Vote Collector of the Election shall be the Assistant
-        Director of Personnel, unless the Office which the Election is
-        seeking to fill is that of the Assistant Director of
-        Personnel, in which case the Vote Collector shall be the
-        Speaker; and
+      * The Vote Collector is the Assistant Director of Personnel at
+        the time the Election begins, unless the Election seeks to
+        fill the Office of Assistant Director of Personnel, in which
+        case the Vote Collector is the Speaker at the time the
+        Election begins.
 
       * No Player may be Nominated who, at the time of attempted
         Nomination, would not be permitted to hold the Office which
@@ -4331,6 +4331,7 @@ Amended(2) by Proposal 3628 (Murphy), Dec. 29 1997
 Amended(3) by Proposal 3940 (Blob), Nov. 15 1999
 Amended(4) by Proposal 4053 (harvel), Aug. 21 2000
 Amended(5) by Proposal 4142 (Murphy), Apr. 15 2001
+Amended(6) by Proposal 4509 (Murphy), 10 July 2003
 
 ----------------------------------------------------------------------
 
@@ -4448,6 +4449,17 @@ Amended(5) by Proposal 4147 (Wes), 13 May 2001
 
 ----------------------------------------------------------------------
 
+Rule 2057/0 (Power=1)
+A Duty to Vote
+
+      When an election fails quorum, each eligible voter who did not
+      vote commits the Class 1 Infraction of Apathy, to be reported by
+      the vote collector.
+
+History:
+Created by Proposal 4514 (Murphy), 10 July 2003
+
+----------------------------------------------------------------------
 
 
 ======================================================================
@@ -6337,6 +6349,16 @@ Amended(10) by Proposal 4416 (OscarMeyr), 16 November 2002
 
 ----------------------------------------------------------------------
 
+Rule 2056/0 (Power=1)
+Invisibilitating
+
+      Each player is authorised to report the Infraction of
+      Invisibilitating.
+
+History:
+Created by Proposal 4513 (Steve), 10 July 2003
+
+----------------------------------------------------------------------
 
 
 ======================================================================
@@ -6345,7 +6367,7 @@ The Distributor
   Distributor.
 ----------------------------------------------------------------------
 
-Rule 1670/13 (Power=1)
+Rule 1670/14 (Power=1)
 The Distributor
 
       The person who is most responsible for the maintainance of one
@@ -6354,10 +6376,10 @@ The Distributor
       Distributor shall take effect when announced publicly by the
       Registrar.
 
-      The Registrar is obliged to keep the Distributor informed of the
-      e-mail addresses of all Players, as well as to inform the
-      Distributor of any address change as soon as possible after e
-      learns of it.
+      The Registrar is obliged to keep the Distributor informed of all
+      listed e-mail addresses of all Players, as well as to inform the
+      Distributor of any listing or unlisting as soon as possible
+      after e learns of it.
 
 History:
 Created by Proposal 2739 (Swann), Nov. 7 1996
@@ -6376,6 +6398,7 @@ Amended(10) by Proposal 3897 (harvel), Aug. 27 1999
 Amended(11) by Proposal 3916 (harvel), Sep. 27 1999
 Amended(12) by Proposal 3998 (harvel), May 2 2000
 Amended(13) by Proposal 4141 (Wes), Apr. 15 2001
+Amended(14) by Proposal 4511 (Murphy), 10 July 2003
 
 ----------------------------------------------------------------------
 
@@ -8642,7 +8665,7 @@ Amended(2) by Proposal 4181 (Murphy), 9 July 2001
 
 ----------------------------------------------------------------------
 
-Rule 1531/9 (Power=1)
+Rule 1531/10 (Power=1)
 Administrators of Organizations
 
       Each Organization shall have an Administrator, who must be a
@@ -8652,19 +8675,17 @@ Administrators of Organizations
       The Administrator is Maintainer of the Charter, unless otherwise
       specified by its Charter or by the Rules.
 
-      The Administrator is Executor of the Organization, unless
-      otherwise specified by its Charter or by the Rules.
-
       The Administrator shall inform the Notary of the following
       changes as soon as possible after they occur, and identify the
       nature of the change:
 
-        a) The Name changes.
-        b) The Administrator changes.
-        c) The Executor changes.
-        d) The Maintainer of the Charter changes.
-        e) The jurisdiction of the Charter changes.
-        f) The Organization voluntarily dissolves.
+       a) The Name changes.
+       b) The Administrator changes.
+       c) The Executor changes.
+       d) The Maintainer of the Charter changes.
+       e) The jurisdiction of the Charter changes.
+       f) The Organization voluntarily dissolves.
+       g) The Charter changes.
 
 History:
 Created by Proposal 1760, Oct. 21 1995
@@ -8678,6 +8699,7 @@ Amended(6) by Proposal 3823 (Oerjan), Jan. 21 1999
 Amended(7) by Proposal 3889 (harvel), Aug. 9 1999
 Amended(8) by Proposal 3950 (harvel), Dec. 8 1999
 Amended(9) by Proposal 4181 (Murphy), 9 July 2001
+Amended(10) by Proposal 4510 (Sherlock), 10 July 2003
 
 ----------------------------------------------------------------------
 
@@ -8757,24 +8779,23 @@ The Notary
   This Category includes Rules concerning the Office of Notary.
 ----------------------------------------------------------------------
 
-Rule 1458/12 (Power=1)
+Rule 1458/13 (Power=1)
 The Notary
 
       The Notary is an office; its holder is responsible for
-      maintaining a record of organizations and their jurisdictions,
-      and generic information, excluding holdings, of currencies.
+      maintaining a record of organizations and their jurisdictions.
 
-      The Notary's Report shall include the following information:
+      The Notary's Weekly Report shall include the following
+      information for each Organization:
 
-      (A) For each organization:
-            (i)  its name;
-           (ii)  its Administrator;
-          (iii)  its Executor;
-           (iv)  its SLC's Maintainer; and
-            (v)  its Jurisdiction's Players.
+        (i)  its name;
+       (ii)  its Administrator;
+      (iii)  its Executor;
+       (iv)  its SLC's Maintainer; and
+        (v)  its Jurisdiction's Players.
 
-      (B) For each currency, its name, mintor, recordkeepor, and
-          Minimum Unit Quantity.
+      The Notary's Monthly Report shall include the SLC of each
+      Organization.
 
       Also, as soon as possible after the creation or dissolution of
       any Organization, the Notary shall announce that fact.  If an
@@ -8797,6 +8818,7 @@ Amended(9) by Proposal 4002 (harvel), May 8 2000
 Amended(10) by Propoal 01-002 (Blob), Feb. 2 2001
 Amended(11) by Proposal 4250 (harvel), 19 February 2002
 Amended(12) by Proposal 4486 (Michael), 24 April 2003
+Amended(13) by Proposal 4510 (Sherlock), 10 July 2003
 
 ----------------------------------------------------------------------
 
