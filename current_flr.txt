@@ -335,7 +335,7 @@ Definitions
   fall into any other Category
 ----------------------------------------------------------------------
 
-Rule 1727/9 (Power=1)
+Rule 1727/10 (Power=1)
 Happy Birthday
 
       WHEREAS, in June 1993, the world's only MUD-based nomic, Nomic
@@ -400,7 +400,7 @@ Happy Birthday
       Birthday; nor shall any Player submit to the Clerk of the
       Courts a Call For Judgement, notice of ineligibility to Judge,
       Judgement, call for Appeal, or Appellate Decision, on Agora's
-      Birthday; nor shall any Player Execute an Application to Submit
+      Birthday; nor shall any Player submit an Application to Submit
       an Opinion on Agora's Birthday; however, if any of the above do
       take place on Agora's Birthday, in violation of this Rule, this
       Rule does not deprive them of their usual effects.
@@ -416,6 +416,7 @@ Amended(6) by Proposal 3940 (Blob), Nov. 15 1999
 Amended(7) by Proposal 4018 (Kelly), Jun. 21 2000
 Amended(8) by Proposal 4099 (Murphy), Jan. 15 2001
 Amended(9) by Proposal 4147 (Wes), 13 May 2001
+Amended(10) by Proposal 4159 (Kelly), 5 June 2001
 
 ----------------------------------------------------------------------
 
@@ -3236,14 +3237,14 @@ Power changed from 1 to 2 by Proposal 4040 (Oerjan), Aug. 7 2000
 
 ----------------------------------------------------------------------
 
-Rule 1726/0 (Power=1)
+Rule 1726/1 (Power=1)
 The Guillotine
 
       There is a type of Application known as a Guillotine
-      Application.  Such an Application is Executed by submitting it
+      Application.  Such an Application is submitted by submitting it
       to the Assessor.  A Guillotine Application may specify when it
       is to take effect; if it does not do so, or specifies a time
-      prior to its Execution, it takes effect when Executed.  For a
+      prior to its submission, it takes effect when submitted.  For a
       Guillotine Application to take effect:
 
       * it must state that it is a Guillotine Application;
@@ -3267,6 +3268,7 @@ The Guillotine
 
 History:
 Created by Proposal 3512 (Zefram), Jun. 16 1997
+Amended(1) by Proposal 4159 (Kelly), 5 June 2001
 
 ----------------------------------------------------------------------
 
@@ -3669,17 +3671,25 @@ Amended(5) by Proposal 3818 (Chuck), Dec. 21 1998
 
 ----------------------------------------------------------------------
 
-Rule 1965/0 (Power=2)
+Rule 1965/1 (Power=2)
 Complacent Oligarchy
 
-      As soon as possible after an Ordinary Proposal fails quorum, the
-      Assessor shall announce that it has done so.  Upon such an
-      announcement, the Proposal becomes Democratic, its Voting period
-      is extended to end seven days after the announcement, and all
-      Votes previously cast on it are cancelled.
+      As soon as possible after an Ordinary Proposal fails Quorum, the
+      Assessor shall publish a Notice of Complacency to that effect.
+
+      Publication by the Assessor of a Notice of Complacency results
+      in a copy of the Proposal being added to the Proposal Pool. This
+      new Proposal is Democratic and Distributable, and is deemed to
+      have been submitted by the entity that submitted the Ordinary
+      Proposal.
+
+      If an Ordinary Proposal has achieved Quorum, publication by the
+      Assessor of a Notice of Complacency for that Proposal is the
+      Class 2 Crime of Sending It Back Where It Don't Belong.
 
 History:
 Created by Proposal 4111 (Elysion), Feb. 20 2001
+Amended(1) by Proposal 4161 (Steve), 5 June 2001
 
 ----------------------------------------------------------------------
 
@@ -4269,45 +4279,54 @@ Applications
   This Category includes Rules concerning Applications.
 ----------------------------------------------------------------------
 
-Rule 1626/3 (Power=1)
+Rule 1626/4 (Power=1)
 Applications
 
-      An Application is any body of text designated as such by a
-      Player.  This Player is known as its Sponsor.
+      An Application is any document which has been clearly labeled as
+      an Application and which has been submitted as an Application by
+      some person.  That person is known as the Application's Sponsor.
 
-      A Player's Signature is added to an Application when e sends a
-      message to that Application's Sponsor indicating that e wishes
-      to sign it.
+      The Sponsor of an Application may attach the signatures of other
+      persons, or signatories, to the Application at the time e
+      submits it.  The Sponsor may not attach any signature to an
+      Application without first having obtained the explicit consent
+      of the signatory.  A signatory may revoke eir consent, once
+      granted, by informing the Sponsor.
 
-      A Player's Signature is stricken from the Application when e
-      sends a message to the Sponsor of the Application stating that e
-      wishes eir signature stricken.  Further, the Sponsor of an
-      Application may strike any Signature from the Application at any
-      time.
+      An Application is submitted by sending it to a Player designed
+      by the Rules to receive Applications of that particular type,
+      bearing a clear indication that the document in question is
+      intended to be an Application and that it is being submitted by
+      the Sponsor as an Application.  If the Rules do not otherwise
+      designate a Player to receive a particular type of Application,
+      the Speaker shall do so.  The effect of submitting an valid
+      Application is determined by the Rules pertaining to
+      Applications of that particular type.
 
-      If an Application is amended in any way (except to add or strike
-      a Signature), any and all Signatures which appear on it are
-      stricken from it.
+      A person who submits an Application with signatures attached
+      belonging to any person who has not consented to having eir
+      signature attached to that Application commits the Class 4 Crime
+      of Application Fraud.  An Application submitted with attached
+      signatures belonging to a person who did not consent to such
+      attachment is invalid.
 
-      An Application is Executed when its Sponsor submits it to
-      whatever Officer or other Player is designated by the Rules to
-      receive Applications of that particular type, with whatever
-      effect is defined by the Rules for the Execution of that type of
-      Application.  However, any other Rule notwithstanding, the
-      Execution of an Application shall have no effect unless Executed
-      within 14 days of the time the oldest Signature which appears on
-      it was added.
+      Signatures are presumed to have been attached with the consent
+      of the signatory.  This presumption shall be rebutted only by a
+      declaration from the alleged signatory, made within 60 days of
+      the submission of the Application, stating that the signatory
+      did not consent or that e consented and then subsequently
+      revoked eir consent.  The Sponsor bears the burden of proof to
+      show that such a declaration, once made, is false.
 
-      If a Player Executing an Application claims that the Application
-      contains certain Signatures, but the purported Signatures have
-      not been added to it in a manner consistent with this Rule, e
-      commits the Class 4 Crime of Application Fraud.
+      It shall be a defense to the Crime of Application Fraud that the
+      Sponsor did not receive a signatory's notice of revocation.
 
 History:
 Created by Proposal 2605, May 26 1996
 Amended(1) by Proposal 3565 (General Chaos), Oct. 24 1997, substantial
 Amended(2) by Proposal 3823 (Oerjan), Jan. 21 1999
 Amended(3) by Proposal 3897 (harvel), Aug. 27 1999
+Amended(4) by Proposal 4159 (Kelly), 5 June 2001
 
 ----------------------------------------------------------------------
 
@@ -5328,7 +5347,7 @@ Created by Proposal 3704 (General Chaos), Mar. 19 1998
 
 ----------------------------------------------------------------------
 
-Rule 1827/2 (Power=1)
+Rule 1827/3 (Power=1)
 Granting or Denying Motions
 
       A Judge must either grant or deny each Motion forwarded to em by
@@ -5347,12 +5366,12 @@ Granting or Denying Motions
       the record of the CFJ, and shall notify the Player who made the
       Motion of that determination.
 
-      If a Judge fails to Grant or Deny a Motion within seven days
-      of when it was forwarded to em by the Clerk of the Courts, e
-      commits the Class 0.5 Infraction of Slow Motion, detected
-      and reported by the Clerk of the Courts. If this occurs,
-      the Clerk of the Courts shall Recuse the Judge and assign
-      a new one as usual.
+      If a Judge fails to Grant or Deny a Motion within five days of
+      when it was forwarded to em by the Clerk of the Courts, e
+      commits the Class 0.5 Infraction of Slow Motion, detected and
+      reported by the Clerk of the Courts. If this occurs, the Clerk
+      of the Courts shall Recuse the Judge and assign a new one as
+      usual.
 
       If a Motion is made after a case is closed, and the original
       Judge of that case is no longer a Player or is On Hold, then
@@ -5362,6 +5381,7 @@ History:
 Created by Proposal 3704 (General Chaos), Mar. 19 1998
 Amended(1) by Proposal 3823 (Oerjan), Jan. 21 1999
 Amended(2) by Proposal 3962 (Wes), Jan. 20 2000
+Amended(3) by Proposal 4160 (root), 5 June 2001
 
 ----------------------------------------------------------------------
 
@@ -5543,14 +5563,14 @@ Amended(2) by Proposal 4018 (Kelly), Jun. 21 2000
 
 ----------------------------------------------------------------------
 
-Rule 1365/6 (Power=1)
+Rule 1365/7 (Power=1)
 Concurring and Dissenting Opinions
 
       There shall exist a type of Application called an Application
       to Submit an Opinion.  Such an Application, if effective, has
       the effect of annotating a Judgement or Dismissal in a given
       Call for Judgement.  In order for such an Application to have
-      effect upon Execution, it must satisfy the following
+      effect upon submission, it must satisfy the following
       requirements:
 
       * It must clearly indicate to which CFJ it applies.
@@ -5563,19 +5583,19 @@ Concurring and Dissenting Opinions
         may include, but are not necessarily limited to, citations
         of deciding Rules, past Judgements, and Game Custom.
       * It must bear the Signatures of at least two Players.
-      * It must be Executed no earlier than the submission of the
+      * It must be submitted no earlier than the submission of the
         Judgement or Dismissal to which it applies, and no later than
         one week after the publication by the Clerk of the Courts of
         that Judgement or Dismissal.
 
-      An Application to Submit an Opinion is Executed by submitting
+      An Application to Submit an Opinion is submitted by submitting
       it to the Clerk of the Courts.  Such an Application, having
-      been Executed and having met all the requirements for
+      been submitted and having met all the requirements for
       effectiveness, is also called an Opinion.  It is also referred
       to as a Concurring Opinion or a Dissenting Opinion, as
       indicated in the Opinion.
 
-      Once an Application to Submit an Opinion is Executed and takes
+      Once an Application to Submit an Opinion is submitted and takes
       effect, the Clerk of the Courts must distribute the Opinion to
       all Players as soon as possible.  Furthermore, the Opinion must
       be appended to the Legal Judgement or Dismissal.
@@ -5589,6 +5609,7 @@ Infected and Amended(4) by Rule 1454, Nov. 4 1996
 Amended(5) by Proposal 2750 (Chuck), Nov. 18 1996, substantial
 Amended(6) by Proposal 3531 (General Chaos), Jul. 15 1997, cosmetic
   (unattributed)
+Amended(7) by Proposal 4159 (Kelly), 5 June 2001
 
 ----------------------------------------------------------------------
 
@@ -8890,12 +8911,12 @@ Amended(8) by Proposal 3950 (harvel), Dec. 8 1999
 
 ----------------------------------------------------------------------
 
-Rule 1533/11 (Power=1)
+Rule 1533/12 (Power=1)
 Application to Create an Organization
 
       There is a type of Application called an Application to Create
       an Organization (ACO).  A valid ACO, in order to have effect
-      upon Execution, must include the following:
+      upon submission, must include the following:
 
         i) A defined class for the prospective Organization.
        ii) A unique Name for the prospective Organization.
@@ -8907,17 +8928,17 @@ Application to Create an Organization
            prospective Organization, (minimum one) all of whom must be
            eligible to be members of the prospective Organization.
 
-      A valid ACO is Executed by submitting it to the Notary or by
+      A valid ACO is submitted by submitting it to the Notary or by
       publishing it.
 
-      The effect of Executing a valid ACO is to create the prospective
-      Organization, with the signatories as its Foundors.  The
-      Foundors then come under the Jurisdiction of that Organization's
-      SLC.
+      The effect of submitting a valid ACO is to create the
+      prospective Organization, with the signatories as its Foundors.
+      The Foundors then come under the Jurisdiction of that
+      Organization's SLC.
 
       An ACO shall only be valid if its contents are not in conflict
       with this or other Rules.  An ACO that is not valid shall never
-      be Executed.
+      be submitted.
 
 History:
 Created by Proposal 1760, Oct. 21 1995
@@ -8933,6 +8954,7 @@ Infected and Amended(8) by Rule 1454, Aug. 24 1997, substantial
 Amended(9) by Rule 1533, Sep. 7 1997, substantial
 Amended(10) by Proposal 3823 (Oerjan), Jan. 21 1999
 Amended(11) by Proposal 4147 (Wes), 13 May 2001
+Amended(12) by Proposal 4159 (Kelly), 5 June 2001
 
 ----------------------------------------------------------------------
 
@@ -9093,16 +9115,16 @@ Amended(15) by Proposal 4153 (Michael), 13 May 2001
 
 ----------------------------------------------------------------------
 
-Rule 716/6 (Power=1)
+Rule 716/7 (Power=1)
 How to Form a Group
 
       An ACO that attempts to form a Group must contain, in addition
       to any information required elsewhere, a specification of the
       prospective initial Ordinancekeepor and Vizier of the Group to
       be created.  Further, an Application to Create a Group is
-      invalid, and has no effect if Executed, if any of its
+      invalid, and has no effect if submitted, if any of its
       signatories is a Member of another Group at the time of its
-      Execution.
+      submission.
 
 History:
 Created by Proposal 716 (Chuck), ca. Nov. 4 1993
@@ -9113,6 +9135,7 @@ Amended(3) by Proposal 1760, Oct. 21 1995
 Amended(4) by Proposal 2653, Apr. 6 1996
 Amended(5) by Proposal 2634, Jul. 4 1996
 Amended(6) by Proposal 2725, Oct. 23 1996
+Amended(7) by Proposal 4159, 5 June 2001
 
 ----------------------------------------------------------------------
 
