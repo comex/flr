@@ -2639,7 +2639,7 @@ Amended(4) by Proposal 4221 (Steve), 10 October 2001
 
 ----------------------------------------------------------------------
 
-Rule 1963/3 (Power=2)
+Rule 1963/4 (Power=2)
 Eligible Oligarchs
 
       (a) A Player is ineligible to be an Oligarch if and only if any
@@ -2648,8 +2648,10 @@ Eligible Oligarchs
           (1) e is not active;
           (2) e has three or more Blots;
           (3) e is the Speaker;
-          (4) e is the Electee to the Office of Speaker-Elect; or
-          (5) e is the Grand Warden of the Oligarchy.
+          (4) e is the Electee to the Office of Speaker-Elect;
+          (5) e is the Grand Warden of the Oligarchy; or
+          (6) e is an Oligarch, and e has defaulted on payment of eir
+              Oligarchy Upkeep since last becoming an Oligarch.
 
       (b) If an Oligarch becomes ineligible to be an Oligarch, the
           GWotO shall remove that Player from the Oligarchy as soon as
@@ -2666,6 +2668,7 @@ Created by Proposal 01-005 (Steve), Feb. 2 2001
 Amended(1) by Proposal 4221 (Steve), 10 October 2001
 Amended(2) by Proposal 4262 (Steve), 4 March 2002
 Amended(3) by Proposal 4278 (harvel), 3 April 2002
+Amended(4) by Proposal 4458 (Steve), 3 March 2003
 
 ----------------------------------------------------------------------
 
