@@ -29,7 +29,7 @@ There are currently 270 Rules:
 
 Lowest current Rule Number:           101
 Highest current Rule Number:         2080
-Highest Rule Number assigned so far: 2081
+Highest Rule Number assigned so far: 2082
 
 ======================================================================
 Table of Contents:
@@ -3806,7 +3806,7 @@ Created by Proposal 3869 (General Chaos), May 24 1999
 
 ----------------------------------------------------------------------
 
-Rule 1561/1 (Power=2)
+Rule 1561/2 (Power=2)
 Illegality of Bonus Clauses
 
       Any Proposal which offers a bribe to a Player or Players to
@@ -3814,9 +3814,13 @@ Illegality of Bonus Clauses
       Proposal) shall be completely without effect, even if it is
       adopted, any Rule to the contrary notwithstanding.
 
+      Proposing a card with an element of Grafty is not considered
+      bribery.
+
 History:
 Created by Proposal 2449, Feb. 6 1996
 Amended(1) by Proposal 2627, Jul. 4 1996
+Amended(2) by Proposal 4640 (Quazie), 6 March 2005
 
 ----------------------------------------------------------------------
 
