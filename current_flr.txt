@@ -21,15 +21,15 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 268 Rules:
+There are currently 269 Rules:
     1 with Power=4
    23 with Power=3
    39 with Power=2
-  205 with Power=1
+  206 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2078
-Highest Rule Number assigned so far: 2078
+Highest current Rule Number:         2079
+Highest Rule Number assigned so far: 2079
 
 ======================================================================
 Table of Contents:
@@ -3964,7 +3964,7 @@ Referenda and Elections
   other than Proposals, particularly Referenda and Elections.
 ----------------------------------------------------------------------
 
-Rule 1434/10 (Power=1)
+Rule 1434/11 (Power=1)
 Default Procedure for Referendum Voting
 
       When a Referendum Vote is required and the procedure is not
@@ -4023,9 +4023,9 @@ Default Procedure for Referendum Voting
         each Entity that Voted. If e does not do this as soon as
         possible, then the Referendum fails.
 
-      * Quorum: Quorum is 50% of the eligible Voters at the beginning
-        of the Voting Period.  If fewer Voters Vote, then the
-        Referendum fails.
+      * Quorum: Quorum is one third of the eligible Voters at the
+        beginning of the Voting Period.  If fewer Voters Vote, then
+        the Referendum fails.
 
       * Adoption Index:  The Adoption Index of a Referendum is 1.
 
@@ -4057,6 +4057,7 @@ Amended(7) by Proposal 4099 (Murphy), Jan. 15 2001
 Amended(8) by Proposal 4147 (Wes), 13 May 2001
 Amended(9) by Proposal 4257 (Murphy), 21 February 2002
 Amended(10) by Proposal 4258 (Murphy), 21 February 2002
+Amended(11) by Proposal 4629 (Murphy), 19 December 2004
 
 ----------------------------------------------------------------------
 
@@ -6898,7 +6899,7 @@ Amended(1) by Proposal 4626 (Goethe), 20 November 2004
 
 ----------------------------------------------------------------------
 
-Rule 2070/2 (Power=1)
+Rule 2070/3 (Power=1)
 Card Powerz
 
       The following Elements for Cards are defined:
@@ -6925,14 +6926,21 @@ Card Powerz
       * Delayed[N]: You may not play this card if you have played a
         copy of this card in the past N times 24 hours.
 
+      * Powered [X], where X is a positive integer: This Card has a
+        Power of X.  To Activate any Exploit possessed by this Card, a
+        Fee of X - 1 must be paid in addition to any other Fees
+        required to Activate that Exploit, unless that Exploit
+        explicitly specifies otherwise.
+
 History:
 Created by Proposal 4573 (Wes), 14 May 2004
 Amended(1) by Proposal 4614 (Goethe), 21 September 2004
 Amended(2) by Proposal 4620 (Goethe), 20 November 2004
+Amended(3) by Proposal 4631 (root), 19 December 2004
 
 ----------------------------------------------------------------------
 
-Rule 2067/1 (Power=2)
+Rule 2067/2 (Power=2)
 Cards in Play
 
       The following Classes of Cards are defined:
@@ -6947,7 +6955,7 @@ Cards in Play
         Exploit: Expunge one Blot from any one entity.
 
       * Caption: Debate-o-Matic
-        Elements: Budgeted
+        Elements: Budgeted, Powered [2]
         Exploit: Change the Chamber of any one non-Sane Proposal to
           the Chamber of your choice, provided it is legal for that
           Proposal to be in the named Chamber.
@@ -6956,6 +6964,7 @@ History:
 Created by Proposal 4569 (Wes), 2 May 2004
 Amended(1) by Proposal 4614 (Goethe), 21 September 2004
 Power changed from 1 to 2 by Proposal 4626 (Goethe), 20 November 2004
+Amended(2) by Proposal 4631 (root), 19 December 2004
 
 ----------------------------------------------------------------------
 
@@ -7088,6 +7097,34 @@ Democratic cards
 
 History:
 Created by Proposal 4623 (Goethe), 20 November 2004
+
+----------------------------------------------------------------------
+
+Rule 2079/0 (Power=1)
+Discord
+
+      The following card is defined:
+
+      Caption: Chaos Apple
+      Quota:   1
+      Elements: Handed[5], Delayed[7], Kallisti!
+      Exploit: If this card has not been Played in the current
+               quarter, then, as soon as possible after this card is
+               played, the Deckmaster shall simultaneously transfer
+               all cards from non-Deck hands to a temporary Gambler
+               known as Fate.  E shall then deal cards at random from
+               Fate to each Gambler until each Gambler has the same
+               number of cards as e had immediately before Fate took a
+               hand.  If, between the time this card is Played and the
+               time Fate's cards are dealt, exactly a single Player
+               publicly claims to be The Prettiest One, the Deckmastor
+               shall transfer this card to em as soon as possible
+               after Fate's cards are dealt.  The Deckmastor is
+               encouraged use Heisenberg's Law in dealing hands from
+               Fate.
+
+History:
+Created by Proposal 4630 (Goethe), 19 December 2004
 
 ----------------------------------------------------------------------
 
