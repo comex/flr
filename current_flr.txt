@@ -323,7 +323,7 @@ Amended(5) by Proposal 4190 (Steve), 18 July 2001
 
 ----------------------------------------------------------------------
 
-Rule 1989/0 (Power-1)
+Rule 1989/0 (Power=1)
 Prime Executors
 
       (a) The Prime Executor of an entity with respect to a certain
