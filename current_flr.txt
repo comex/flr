@@ -8959,7 +8959,7 @@ Created by by Proposal 4494 (Peekee), 13 May 2003
 
 ----------------------------------------------------------------------
 
-Rule 2042/3 (Power=1)
+Rule 2042/4 (Power=1)
 Team Wins
 
       A Team achieves a Team Win when its Team Score reaches reaches
@@ -8967,8 +8967,8 @@ Team Wins
 
       The Scorekeepor shall make a public announcement of the Team Win
       as soon as possible after the Team Win is achieved.  In the
-      announcement the Scorekeepor shall payout 25 Stems to each
-      Player in the winning Team.
+      announcement the Scorekeepor shall award the Boon of Teamwork to
+      each Player in the winning Team.
 
       Later in the same announcement the Scorekeepor shall reassign
       the grouping of Players into Teams as follows;
@@ -8996,6 +8996,7 @@ Created by Proposal 4453 (Sherlock), 22 February 2003
 Amended(1) by Proposal 4486 (Michael), 24 April 2003
 Amended(2) by Proposal 4491 (Peekee), 6 May 2003
 Amended(3) by Proposal 4502 (Peekee), 5 June 2003
+Amended(4) by Proposal 4503 (Peekee), 15 June 2003
 
 ----------------------------------------------------------------------
 
