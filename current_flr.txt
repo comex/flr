@@ -3401,7 +3401,7 @@ The Speaker, Sanity, and Buying Democracy
       Player during the Proposal's Voting Period.  If this happens,
       the Proposal becomes a Democratic Proposal, the Proposal becomes
       a Sane Proposal, and all votes thus far cast on the Proposal are
-      cancelled.  The Assessor shall announce that the Proposal ha
+      cancelled.  The Assessor shall announce that the Proposal has
       been successfully Sanitised; the Voting Period of the Proposal
       is extended to end seven days after this announcement.
 
