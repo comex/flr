@@ -21,15 +21,15 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 273 Rules:
+There are currently 265 Rules:
     1 with Power=4
    23 with Power=3
    37 with Power=2
-  212 with Power=1
+  204 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2073
-Highest Rule Number assigned so far: 2073
+Highest current Rule Number:         2075
+Highest Rule Number assigned so far: 2075
 
 ======================================================================
 Table of Contents:
@@ -58,15 +58,12 @@ Table of Contents:
   Cards
   Patent Titles
   Degrees and Theses
-  Winning a Game
-  Points and the Scorekeepor
   Indulgences and Blots
   Changing Speakers
   Subordinate Legal Codes
   Organizations
   The Notary
   Groups and Contests
-  Teams
   Winners' Hall of Ugly Fountains
 ----------------------------------------------------------------------
 
@@ -2448,7 +2445,7 @@ The Oligarchy
   Oligarchy.
 ----------------------------------------------------------------------
 
-Rule 1932/6 (Power=2)
+Rule 1932/7 (Power=2)
 Shareholders and the Corporation
 
       The following Elements for Cards are defined:
@@ -2460,13 +2457,13 @@ Shareholders and the Corporation
       The following Classes of Cards are defined:
 
       * Caption: One Share
-        Elements: Budgeted, Bleed [2], Shares [1]
+        Elements: Budgeted, Shares [1]
 
       * Caption: Two Shares
-        Elements: Budgeted, Bleed [4], Shares [2]
+        Elements: Budgeted, Shares [2]
 
       * Caption: Three Shares
-        Elements: Budgeted, Bleed [6], Shares [3]
+        Elements: Budgeted, Shares [3]
 
       * Caption: Corporate Bankruptcy
         Quota: 1
@@ -2493,19 +2490,19 @@ Amended(3) by Proposal 4111 (Elysion), Feb. 20 2001
 Amended(4) by Proposal 4221 (Steve), 10 October 2001
 Amended(5) by Proposal 4555 (Elysion), 22 March 2004
 Amended(6) by Proposal 4576 (Murphy), 31 May 2004
+Amended(7) by Proposal 4614 (Goethe), 21 September 2004
 
 ----------------------------------------------------------------------
 
-Rule 1963/9 (Power=2)
+Rule 1963/10 (Power=2)
 Eligible Shareholders
 
       A Player is an Eligible Shareholder unless:
 
       (1) e is not active;
       (2) e has three or more Blots;
-      (3) e has fewer than zero points;
-      (4) e is the Speaker; or
-      (5) e is the Speaker-Elect.
+      (3) e is the Speaker; or
+      (4) e is the Speaker-Elect.
 
 History:
 Created by Proposal 01-005 (Steve), Feb. 2 2001
@@ -2518,6 +2515,7 @@ Amended(6) by Proposal 4534 (OscarMeyr), 8 November 2003
 Amended(7) by Proposal 4555 (Elysion), 22 March 2004
 Amended(8) by Proposal 4568 (Maud), 27 April 2004
 Amended(9) by Proposal 4576 (Murphy), 31 May 2004
+Amended(10) by Proposal 4614 (Goethe), 21 September 2004
 
 ----------------------------------------------------------------------
 
@@ -2842,44 +2840,6 @@ History:
 Created by Proposal 4050 (t), Aug. 15 2000
 Amended(1) by Proposal 4139 (Ziggy), Apr. 15 2001
 Amended(2) by Proposal 4145 (Ian), Apr. 22 2001
-
-----------------------------------------------------------------------
-
-Rule 2016/1 (Power=2)
-Contested Proposals
-
-      (a) A null Proposal is a Proposal containing no provisions,
-          i.e., one that does not propose any Rule Changes, or any
-          other changes to the game state.
-
-      (b) Any Player may make a null Proposal Distributable without
-          payment of the usual Fee, provided that no other null
-          Proposal in the current Agoran Month has been made
-          Distributable under this provision.
-
-      (c) The first null Proposal to be distributed in each Agoran
-          Month is a Contested Proposal.
-
-      (d) A Contested Proposal is Democratic.
-
-      (e) Notwithstanding the prevailing Mode of Voting on Proposals,
-          voting on a Contested Proposal is always Unrestricted. This
-          Rule takes precedence over Rules that determine the
-          permissible methods for casting votes on Proposals.
-
-      (f) If a Contested Proposal fails Quorum, no Points are Awarded.
-
-      (g) If a Contested Proposal achieves Quorum, but fails, each
-          Player who voted against the Proposal and did not vote for
-          it may be Awarded 10 Points.
-
-      (h) If a Contested Proposal is adopted, each Player who voted
-          for the Proposal and did not vote against it may be Awarded
-          10 Points.
-
-History:
-Created by Proposal 4264 (Steve), 4 March 2002
-Amended(1) by Proposal 4398 (harvel), 23 October 2002
 
 ----------------------------------------------------------------------
 
@@ -4279,7 +4239,7 @@ Amended(2) by Proposal 4589 (Murphy), 4 July 2004
 
 ----------------------------------------------------------------------
 
-Rule 1835/3 (Power=1)
+Rule 1835/4 (Power=1)
 Standing Down
 
       During the Voting Period of an Election, any Candidate for that
@@ -4298,14 +4258,14 @@ Standing Down
       If, at any time during the Voting Period of an Election, there
       remains only a single Candidate, the Voting Period ends
       immediately, with the sole remaining Candidate as the winner of
-      that Election.  For the purposes of Rules on awarding Points,
-      that Election shall not be considered a contested Election.
+      that Election.
 
 History:
 Created by Proposal 3715 (Blob), Mar. 19 1998
 Amended(1) by Proposal 4035 (Chuck), Aug. 2 2000
 Amended(2) by Proposal 4147 (Wes), 13 May 2001
 Amended(3) by Proposal 4363 (OscarMeyr), 16 August 2002
+Amended(4) by Proposal 4614 (Goethe), 21 September 2004
 
 ----------------------------------------------------------------------
 
@@ -6238,7 +6198,7 @@ Amended(2) by Proposal 4406 (Murphy), 30 October 2002
 
 ----------------------------------------------------------------------
 
-Rule 1505/10 (Power=1)
+Rule 1505/11 (Power=1)
 Standard Classes of Crimes and Infractions
 
       A Class N Infraction (where N is replaced with a number) is an
@@ -6247,19 +6207,15 @@ Standard Classes of Crimes and Infractions
       Herald to record the penalty.
 
       A Class N Crime (where N is replaced with a number) is a Crime
-      for which the penalty is N Blots and a loss of 2*N Points.  Such
-      a penalty is assessed upon the execution of a Sentencing Order
-      that Orders the Herald to record the penalty, and a Notice of
-      Award of the Points penalty.
+      for which the penalty is N Blots.  Such a penalty is assessed
+      upon the execution of a Sentencing Order that Orders the Herald
+      to record the penalty.
 
       If such a Sentencing or Ticketing Order is vacated after the
       Herald has already recorded the penalty, then an equal number of
       Blots are expunged from the penalized entity.  (If the entity
       has less Blots than the amount of the penalty, then all eir
-      Blots are expunged.)  In the case of a vacated Sentencing Order,
-      the lost Points are to be Awarded back to the penalized entity,
-      provided that the game has not been Won between the execution of
-      the Sentencing Order and its vacation.
+      Blots are expunged.)
 
 History:
 Created by Proposal 1682, Aug. 22 1995
@@ -6274,6 +6230,7 @@ Amended(7) by Proposal 3897 (harvel), Aug. 27 1999
 Amended(8) by Proposal 4406 (Murphy), 30 October 2002
 Amended(9) by Proposal 4408 (OscarMeyr), 30 October 2002
 Amended(10) by Proposal 4416 (OscarMeyr), 16 November 2002
+Amended(11) by Proposal 4614 (Goethe), 21 September 2004
 
 ----------------------------------------------------------------------
 
@@ -6718,7 +6675,7 @@ Cards
   This Category includes Rules regulating Cards.
 ----------------------------------------------------------------------
 
-Rule 2068/0 (Power=1)
+Rule 2068/1 (Power=1)
 The Deckmastor
 
       The Deckmastor is an office which acts as the recordkeepor for
@@ -6726,8 +6683,10 @@ The Deckmastor
       all Cards in existence and what entity possesses each Card.
 
       The Deckmastor shall have a budget containing the Maximum Hand
-      Size, which is a positive integer between 3 and 10. In the
-      absence of a budget, the Maximum Hand Size shall be 5.
+      Size and the Minimum Hand Size, each of which is a positive
+      integer between 2 and 10, with the Minimum being less than the
+      Maximum. In the absence of a budget, the Maximum Hand Size shall
+      be 5 and the Minimum Hand Size shall be 2.
 
       The Deck is a Gambler. The Deckmastor shall be the sole Executor
       of The Deck, but may take no action on behalf of The Deck except
@@ -6742,6 +6701,7 @@ The Deckmastor
 
 History:
 Created by Proposal 4573 (Wes), 14 May 2004
+Amended(1) by Proposal 4614 (Goethe), 21 September 2004
 
 ----------------------------------------------------------------------
 
@@ -6833,8 +6793,60 @@ History:
 Created by Proposal 4573 (Wes), 14 May 2004
 
 ----------------------------------------------------------------------
+Rule 2074/0 (Power=2)
+Hand Flux
 
-Rule 2070/0 (Power=1)
+      Flux is a stuck switch for Gamblers with states Free and Frozen.
+      Rules to the contrary nonwithstanding, a Gambler with frozen
+      flux may not play, discard, or transfer cards from eir hand, nor
+      may the Deckmastor satisfy pending draws for that hand.
+
+      The Deck's flux shall always be free, rules to the contrary
+      nonwithstanding.
+
+History:
+Created by Proposal 4614 (Goethe), 21 September 2004
+
+----------------------------------------------------------------------
+Rule 2075/0 (Power=1)
+Winning Hands
+
+      The Deckmastor's Budget shall contain between one and three
+      Winning Hands, each of which is a list of cards with a hand size
+      at least two greater than the Maximum Hand Size.
+
+      If a Gambler's Hand is identical to a winning hand at any
+      particular moment, any Gambler has 72 hours from that moment to
+      announce that a Gambler holds or has held a winning hand.
+
+      If the announcement is false, the Deckmastor shall, as soon as
+      possible, transfer 1 card at random from the announcing
+      Gambler's Hand to the Deck.
+
+      If the announcement is true, the holding Gambler Wins the Game,
+      and is awarded the boon of Pokerface and the defined regular
+      Patent Title Champion.
+
+      Exactly one week after a true announcement, the Flux of all
+      Gamblers except the Deck shall become frozen.  The Deckmastor
+      shall transfer random cards from the hands of each frozen
+      gambler to the deck, until each frozen gambler has either (a) a
+      hand size equal to or less than the Minimum hand size or (b) no
+      cards.  Then, the Deckmaster shall deal cards to the winner up
+      to the maximum hand size.  When these tasks have been peformed,
+      the Flux of every Gambler shall become free.
+
+      If no one has won the game in the last six months, then any
+      Gambler may announce a Skunk, which shall trigger the effects of
+      a true announcement of a win above, except that no boon shall be
+      awarded nor shall extra winner's be dealt.
+
+History:
+Created by Proposal 4614 (Goethe), 21 September 2004
+
+----------------------------------------------------------------------
+
+Rule 2070/1 (Power=1)
 Card Powerz
 
       The following Elements for Cards are defined:
@@ -6858,15 +6870,13 @@ Card Powerz
       * Persistent: Playing this Card does not result in its being
         transferred to The Deck.
 
-      * Bleed [X], where X is a non-negative integer: At the beginning
-        of each week, the Holder of this card loses X Points.
-
 History:
 Created by Proposal 4573 (Wes), 14 May 2004
+Amended(1) by Proposal 4614 (Goethe), 21 September 2004
 
 ----------------------------------------------------------------------
 
-Rule 2067/0 (Power=1)
+Rule 2067/1 (Power=1)
 Cards in Play
 
       The following Classes of Cards are defined:
@@ -6886,50 +6896,26 @@ Cards in Play
           the Chamber of your choice, provided it is legal for that
           Proposal to be in the named Chamber.
 
-      * Caption: Boost-o-Matic
-        Elements: Budgeted
-        Exploit: Increase any one Team's Team Points by 5.
-        Exploit: Increase any one Team's Team Points by 10 for a Fee
-          of 1 Kudo.
-
 History:
 Created by Proposal 4569 (Wes), 2 May 2004
+Amended(1) by Proposal 4614 (Goethe), 21 September 2004
 
 ----------------------------------------------------------------------
 
-Rule 2071/2 (Power=1)
+Rule 2071/3 (Power=1)
 Wacky Cards
 
       The following Classes of Cards are defined:
-
-      * Caption: ZOT!
-        Quota: 1
-        Elements: Handed [3]
-        Exploit: For a Fee of X Kudos, an entity of your choice loses
-          (X times 10) Points. If this would cause that entity to have
-          fewer than zero Points, e shall instead have zero Points.
 
       * Caption: Albatross Flies Away
         Quota: 1
         Elements: Limited [Immaculate Players] [3]
         Exploit: You may revoke one of your own Albatrosses.
 
-      * Caption: Point Mine
-        Quota: 1
-        Elements: Persistent
-        Exploit: So long as you have not done so already during the
-          current week, you may gain 1 Point.
-
       * Caption: Dud
         Elements: Budgeted, Persistent
         Exploit: You may wish in your own mind that you had a
           luckier Draw.
-
-      * Caption: Dud Fusion
-        Quota: 1
-        Elements: Bleed [2]
-        Exploit: You may discard X Dud Cards to gain X times 20
-          Points.
 
       * Caption: Player Stasis
         Quota: 1
@@ -6971,6 +6957,7 @@ History:
 Created by Proposal 4574 (Wes), 14 May 2004
 Amended(1) by Proposal 4607 (Goethe), 8 August 2004
 Amended(2) by Proposal 4611 (OscarMeyr), 10 September 2004
+Amended(3) by Proposal 4614 (Goethe), 21 September 2004
 
 ----------------------------------------------------------------------
 
@@ -7078,7 +7065,7 @@ Amended(9) by Proposal 4339 (Sir Toby), 8 July 2002
 
 ----------------------------------------------------------------------
 
-Rule 1922/6 (Power=1)
+Rule 1922/7 (Power=1)
 Defined Regular Patent Titles
 
       The following are Patent Titles:
@@ -7116,10 +7103,6 @@ Defined Regular Patent Titles
            Offices. This Patent Title is revoked from a player who
            ceases to hold and be Electee to three or more Offices.
 
-      (e)  Admiral, to be awarded to a Team Captain when eir Team
-           achieves a Team Win.
-
-
 History:
 Created by Proposal 3916 (harvel), Sep. 27 1999
 Amended(1) by Proposal 1922 (Goethe), Mar. 28 2001
@@ -7128,6 +7111,7 @@ Amended(3) by Proposal 4288 (OscarMeyr), 5 May 2002
 Amended(4) by Propsoal 4404 (Steve), 23 October 2002
 Amended(5) by Proposal 4453 (Sherlock), 22 February 2003
 Amended(6) by Proposal 4556 (Goethe), 22 March 2004
+Amended(7) by Proposal 4614 (Goethe), 21 September 2004
 
 ----------------------------------------------------------------------
 
@@ -7373,161 +7357,6 @@ Awardable Degrees
 
 History:
 Created by Proposal 4462 (Goethe), 17 March 2003
-
-----------------------------------------------------------------------
-
-======================================================================
-Winning a Game
-  This Category includes Rules specifying the winner of the Game.
-----------------------------------------------------------------------
-
-Rule 2013/1 (Power=1)
-Champion's Contests
-
-      If no Champion's Contest exists, the Scorekeepor or the Speaker
-      may, with 2 Support, name an existing Contest to be a Champion's
-      Contest.  The namers are encouraged to select Contests that they
-      feel would give the maximum enjoyment to Agorans as a whole, and
-      give preference to Contests run by Players who were members of
-      the most recently winning team.
-
-      The Contestmaster of a Champion's Contest ceases to be a member
-      of any team, rules to the contrary nonwithstanding.  If e ceases
-      to be Contestmaster of a Champion's Contest, e shall be assigned
-      to a team as if e were a new Player.
-
-      Each Champion's Contest begins with zero awardable points, as
-      tracked by the Scorekeepor.  At the beginning of each month, the
-      Contest's awardable points are increased by the Champion's Grant
-      contained in the Scorekeepor's Budget.
-
-      A Champion's Contest Contestmaster may publish a Notice of
-      Award, listing a positive number of Points to be awarded to a
-      team or teams.  The posting must obey all regulations for such
-      posting contained in the Contest's SLC, and award no more than
-      the Contest's awardable points, to be valid.
-
-      The effect of a valid Notice of Award is to increase the named
-      teams' points as indicated, and decrease the Contest's awardable
-      points by the same amount.
-
-      When a Team Win occurs, any Champion's Contest ceases to be a
-      Champion's Contest and loses all awardable points.
-
-History:
-Created by Proposal 4253 (Goethe), 19 February 2002
-Amended(1) by Proposal 4550 (Goethe), 24 January 2004
-
-----------------------------------------------------------------------
-
-======================================================================
-Points and the Scorekeepor
-  This Category includes Rules on Points and the Office of the
-  Scorekeepor
-----------------------------------------------------------------------
-
-Rule 1928/4 (Power=1)
-The Scorekeepor
-
-      The Scorekeepor is an office; its holder is responsible for
-      keeping track of scores and Teams.
-
-      The Scorekeepor's Weekly Report shall include the score of each
-      registered Player and all Team Scores as well as any changes to
-      either since the last posting of the Report.
-
-History:
-Created by Proposal 3977 (Wes), Feb. 23 2000
-Amended(1) by Proposal 3993 (t), Apr. 20 2000
-Amended(2) by Proposal 4002 (harvel), May 8 2000
-Amended(3) by Proposal 4250 (harvel), 19 February 2002
-Amended(4) by Proposal 4453 (Sherlock), 22 February 2003
-
-----------------------------------------------------------------------
-
-Rule 2055/3 (Power=1)
-The Scorekeepor's Budget
-
-      The Scorekeepor's Budget shall contain the following:
-
-        a) The Team Points Goal, a positive integer.
-        b) The Champion's Grant, a positive integer.
-        c) One or more scoring events, each with the following
-           information:
-               i) Whether it is an award or a penalty.
-              ii) The amount of the award/penalty, a positive integer.
-             iii) The conditions required for the event to occur.
-              iv) A description of which player/team receives the
-                  award/penalty.
-
-      Each scoring event in the Scorekeepor's Budget may cause the
-      specified player/team to be awarded/penalized the specified
-      number of points, as defined by other rules.
-
-      If no Team Score is greater than half the Team Points Goal,
-      then:
-          (a) Any Player may amend the Scorekeepor's budget by adding
-              a valid scoring event, provided e does so both without
-              Objection from the Scorekeepor and with Support from a
-              member of a different team;
-
-          (b) The Scorekeepor may amend the budget by adding,
-              removing, or changing scoring events, provided e does so
-              both without 3 Objections and with Support from a member
-              of a different team.
-
-History:
-Created by Proposal 4502 (Peekee), 5 June 2003
-Amended(1) by Proposal 4542 (Murphy), 23 November 2003
-Amended(2) by Proposal 4565 (Goethe), 6 April 2004
-Amended(3) by Proposal 4566 (Goethe), 11 April 2004
-
-----------------------------------------------------------------------
-
-Rule 1929/8 (Power=1)
-Points
-
-      A Player's Score is a measure of that Player's unloserliness,
-      measured in Points. The Score of each Player is at all times an
-      integer. A Player who has not been Awarded or Penalized since
-      the last Score Reset has a Score of zero Points.
-
-      The Rules may specify that certain events may cause a certain
-      Player to be Awarded Points (causing eir Score to be increased)
-      or Penalized Points (causing eir Score to be decreased). If said
-      event occurs, then any Player may notify the Scorekeepor of the
-      Award or Penalty. The Scorekeepor shall then note the change in
-      the affected Player's Score.
-
-      Such a notification must meet the following requirements, else
-      it is ineffective:
-         -- It must be sent within 7 days of the event
-         -- It must unambiguously describe the event
-         -- It must indicate the Rule allowing the Award or Penalty
-         -- It must be the first valid notification for that specific
-            event
-
-      If the event did not actually occur, and the notification is
-      challenged within 7 days for this reason, then the notification
-      is invalid and points do not change.
-
-      If the event did not actually occur, and the notification is not
-      challenged within 7 days for this reason, then the notification
-      is valid and points change.  If the notification is challenged
-      later, then the player may be penalized/awarded a number of
-      points equal to the original award/penalty.
-
-
-History:
-Created by Proposal 3977 (Wes), Feb. 23 2000
-Amended(1) by Propsoal 3993 (t), Apr. 20 2000
-Amended(2) by Proposal 4141 (Wes), Apr. 15 2001
-Amended(3) by Proposal 4141 (Wes), Apr. 15 2001
-Amended(4) by Proposal 4180 (Elysion), 7 July 2001
-Amended(5) by Proposal 4453 (Sherlock), 22 February 2003
-Amended(6) by Proposal 4467 (OscarMyer), 17 March 2003
-Amended(7) by Proposal 4542 (Murphy), 23 November 2003
-Amended(8) by Proposal 4612 (Murphy), 10 September 2004
 
 ----------------------------------------------------------------------
 
@@ -8536,125 +8365,6 @@ Amended(1) by Proposal 2725, Oct 23 1996
 Amended(2) by Proposal 4147 (Wes), 13 May 2001
 Amended(3) by Proposal 4484 (OscarMeyr), 23 April 2003
 Amended(4) by Proposal 4533 (Murphy), 26 October 2003
-
-----------------------------------------------------------------------
-
-======================================================================
-Teams
-  This Category includes Rules about Player Teams
-----------------------------------------------------------------------
-
-Rule 2041/1 (Power=1)
-Teams
-
-      All Players are grouped into units known as Teams.  No Player
-      may belong to more than one Team at any time.
-
-      Each Team shall have a Team Name by which it is known.  A Player
-      in a Team may change that Team's Team Name with the Support of
-      two other Players in the same Team.
-
-History:
-Created by Proposal 4453 (Sherlock), 22 February 2003
-Amended(1) by Proposal 4494 (Peekee), 13 May 2003
-
-----------------------------------------------------------------------
-
-Rule 2053/2 (Power=1)
-Team Points, Team Scores
-
-      A Team Score is at all times an integer.  The Team Score of a
-      Team is the total sum of all Points of all Players grouped into
-      that Team, plus the Team's Team Points.
-
-      A Team who has not been Awarded or Penalized since the last
-      Score Reset has zero Team Points.
-
-      The Rules may specify that certain events may cause a certain
-      Team to be Awarded or Penalised Team Points. If said event
-      occurs, then any Player may notify the Scorekeepor of the Award
-      or Penalty. The Scorekeepor shall then note the change in the
-      affected Team Points.
-
-      Such a notification must meet the following requirements, else
-      it is ineffective:
-      -- It must be sent within 7 days of the event
-      -- It must unambiguously describe the event
-      -- It must indicate the Rule allowing the Award or Penalty
-      -- It must be the first valid notification for that specific
-         event
-
-      If the event did not actually occur, and the notification is
-      challenged within 7 days for this reason, then the notification
-      is invalid and points do not change.
-
-      If the event did not actually occur, and the notification is not
-      challenged within 7 days for this reason, then the notification
-      is valid and points change.  If the notification is challenged
-      later, then the team may be penalized/awarded a number of points
-      equal to the original award/penalty.
-
-
-History:
-Created by Proposal 4494 (Peekee), 13 May 2003
-Amended(1) by Proposal 4542 (Murphy), 23 November 2003
-Amended(2) by Proposal 4612 (Murphy), 10 September 2004
-
-----------------------------------------------------------------------
-
-Rule 2042/7 (Power=1)
-Team Wins
-
-History:
-Created by Proposal 4453 (Sherlock), 22 February 2003
-Amended(1) by Proposal 4486 (Michael), 24 April 2003
-Amended(2) by Proposal 4491 (Peekee), 6 May 2003
-Amended(3) by Proposal 4502 (Peekee), 5 June 2003
-Amended(4) by Proposal 4503 (Peekee), 15 June 2003
-Amended(5) by Proposal 4530 (OscarMeyr), 26 October 2003
-Amended(6) by Proposal 4547 (Sherlock), 13 January 2004
-Amended(7) by Proposal 4612 (Murphy), 10 September 2004
-
-----------------------------------------------------------------------
-
-Rule 2043/0 (Power=1)
-New Player Team Assignment
-
-      As soon as possible after a Player registers, the Scorekeepor
-      shall assign em to a Team and publicly announce the assignment.
-      The Scorekeepor shall make the assignment so as to distribute
-      the players as evenly as possible among the teams. If more than
-      one assignment would achieve this, the Scorekeepor may choose
-      among them.
-
-History:
-Created by Proposal 4453 (Sherlock), 22 February 2003
-
-----------------------------------------------------------------------
-
-Rule 2062/0 (Power=1)
-Team Captains
-
-      Leadership is a loose Team switch with values null and each of
-      the Team's Members.  The Scorekeepor shall maintain and report
-      records for this switch.
-
-      If a Team's leadership is null, any Member of that Team may flip
-      the Team's leadership, Without Objection from the other Members
-      of that Team.
-
-      If a Team's leadership is non-null, the leadership identifies
-      the Team Captain, who is the Executor of that Team.  The Captain
-      may flip eir Team's leadership without restriction; any other
-      Member of the Team may flip the Team's leadership with N
-      Supporters, where N + 1 is the minimal majority of that Team's
-      Members.
-
-      If the Team Captain ceases to be a member of the Team, that
-      Team's leadership becomes null.
-
-History:
-Created by Proposal 4544 (OscarMeyr), 16 December 2003
 
 ----------------------------------------------------------------------
 
