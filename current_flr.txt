@@ -21,15 +21,15 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 271 Rules:
+There are currently 273 Rules:
     1 with Power=4
    23 with Power=3
    39 with Power=2
-  208 with Power=1
+  210 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2083
-Highest Rule Number assigned so far: 2083
+Highest current Rule Number:         2085
+Highest Rule Number assigned so far: 2085
 
 ======================================================================
 Table of Contents:
@@ -1988,14 +1988,18 @@ Amended(9) by Proposal 4271 (Murphy), 22 March 2002
 
 ----------------------------------------------------------------------
 
-Rule 790/11 (Power=1)
+Rule 790/12 (Power=1)
 Filling Vacant Offices
 
-      As soon as possible after an Office ceases to have an
-      Electee (or is created without installing an Electee),
-      the designated conductor of Office Elections shall
-      initiate an Election for that Office, as described by
-      other Rules.
+      As soon as possible after
+
+        a) an Office ceases to have an Electee;
+        b) an Office is created without installing an Electee; or
+        c) an Election for an Office without an Electee becomes Stale;
+
+      the designated conductor of Office Elections shall initiate an
+      Election for that Office, as described by other Rules.  This
+      requirement is cancelled if the Office comes to have an Electee.
 
       The designated conductor of Office Elections is the Assistant
       Director of Personnel, unless the Office in question is
@@ -2016,6 +2020,7 @@ Amended(8) by Proposal 3940 (Blob), Nov. 15 1999
 Amended(9) by Proposal 4053 (harvel), Aug. 21 2000
 Amended(10) by Proposal 4103 (Murphy), Jan. 15 2001
 Amended(11) by Proposal 4142 (Murphy), Apr. 15 2001
+Amended(12) by Proposal 4650 (Murphy), 22 March 2005
 
 ----------------------------------------------------------------------
 
@@ -3129,6 +3134,26 @@ Created by Proposal 4624 (Goethe), 20 November 2004
 
 ----------------------------------------------------------------------
 
+Rule 2085/0 (Power=1)
+Mute Exemption
+
+      A Legislator who is Mute may, with two support, submit a body of
+      text with Mute Exemption.  This text becomes a Proposal if it
+      meets all rule requirements for a Proposal other than the
+      Proposer not being Mute.
+
+      As soon as possible after a Proposal with Mute Exemption passes,
+      the Assessor shall expunge a number of Blots from the Proposer
+      equal to the Adoption Index of the Proposal.  The Proposer shall
+      receive no Boons that may have awarded by other rules for the
+      passing of the Proposal.
+
+History:
+Created by Proposal 4649 (Quazie), 22 March 2005
+
+----------------------------------------------------------------------
+
+
 ======================================================================
 Voting on Proposals
   This Category includes Rules regulating Voting on Proposals and
@@ -4197,7 +4222,7 @@ Amended(18) by Proposal 4637 (Murphy), 19 February 2005
 
 ----------------------------------------------------------------------
 
-Rule 1558/6 (Power=1)
+Rule 1558/7 (Power=1)
 Defaults for Elections for Offices
 
       When the Rules require that an Election be conducted to fill
@@ -4214,6 +4239,12 @@ Defaults for Elections for Offices
         Nomination, would not be permitted to hold the Office which
         the Election is seeking to fill.
 
+      * If the Vote Collector fails to meet an ASAP requirement to
+        publish a list of Candidates, or the identity of the winning
+        Candidate, then the Election/Referendum does not fail, but
+        becomes Stale.  If a new Election for the same Office is
+        initiated, then the stale Election/Referendum fails.
+
 History:
 Created by Proposal 2442, Feb. 6 1996
 Amended(1) by Proposal 2564, Apr. 6 1996
@@ -4222,6 +4253,7 @@ Amended(3) by Proposal 3940 (Blob), Nov. 15 1999
 Amended(4) by Proposal 4053 (harvel), Aug. 21 2000
 Amended(5) by Proposal 4142 (Murphy), Apr. 15 2001
 Amended(6) by Proposal 4509 (Murphy), 10 July 2003
+Amended(7) by Proposal 4650 (Murphy), 22 March 2005
 
 ----------------------------------------------------------------------
 
@@ -5045,7 +5077,7 @@ Amended(11) by Proposal 4424 (Steve), 16 December 2002
 
 ----------------------------------------------------------------------
 
-Rule 1871/5 (Power=1)
+Rule 1871/6 (Power=1)
 Turns for All
 
       Orientation is a stuck player switch with values unturned and
@@ -5061,6 +5093,9 @@ Turns for All
       one such CFJ.  Upon such an announcement, all turned players
       become unturned.
 
+      The CotC may switch the Orientation of players e expects to
+      judge CFJs slowly or not at all to turned, without 2 objections.
+
 History:
 Created by Proposal 3821 (Blob), Jan. 12 1999
 Amended(1) by Proposal 4298 (Murphy), 17 May 2002
@@ -5068,6 +5103,7 @@ Amended(2) by Proposal 4342 (root), 8 July 2002
 Amended(3) by Proposal 4523 (Murphy), 28 August 2003
 Amended(4) by Proposal 4563 (OscarMeyr), 6 April 2004
 Amended(5) by Proposal 4596 (Murphy), 4 July 2004
+Amended(6) by Proposal 4648 (Kolja), 22 March 2005
 
 ----------------------------------------------------------------------
 
@@ -7185,6 +7221,35 @@ Cards for Proposals
 History:
 Created by Proposal 4635 (OscarMeyr), 23 January 2005
 Amended(1) by Proposal 4644 (root), 12 March 2005
+
+----------------------------------------------------------------------
+
+Rule 2084/0 (Power=1)
+Cash Cards
+
+      * Caption: Greedy Bastard
+        Elements: Budgeted
+        Exploit:  Gain one Kudo, but also gain the Albatross of Greed.
+
+      * Caption: Charity Brings Happiness
+        Elements: Budgeted
+        Exploit: For a fee of one Kudo you may indicate any other
+          player to gain one Kudo, as long as they have fewer Kudos
+          than you do and is not yourself.  Upon doing this you gain
+          the boon of Charity.
+
+      * Caption: Thieves in the Night
+        Element: Grafty, Delayed[5]
+        Exploit: Provided that fewer than half of all gamblers,
+          besides the deck, have a 'Thieves in the Night' card in
+          their hand, and the player you indicate does not have a
+          'Thieves in the Night' card in their hand, That player
+          losses one Kudo and you gain one Kudo.  For each of the
+          aforementioned stipulations that is false upon the playing
+          of this card, you gain the Albatross of Thief.
+
+History:
+Created by Proposal 4647 (Quazie), 22 March 2005
 
 ----------------------------------------------------------------------
 
