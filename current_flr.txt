@@ -21,15 +21,15 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 310 Rules:
+There are currently 311 Rules:
     1 with Power=4
    23 with Power=3
    40 with Power=2
-  246 with Power=1
+  247 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2045
-Highest Rule Number assigned so far: 2045
+Highest current Rule Number:         2046
+Highest Rule Number assigned so far: 2046
 
 ======================================================================
 Table of Contents:
@@ -7698,42 +7698,71 @@ Amended(9) by Proposal 4346 (Steve), 11 July 2002
 
 ----------------------------------------------------------------------
 
-Rule 1853/8 (Power=1)
+Rule 1853/9 (Power=1)
 Levying Taxes
 
-      Taxes may be levied only by an Officer explicitly permitted by
-      the Rules to do so.
+      (a) Taxes may be levied only by a person explicitly empowered by
+          the rules to do so; each currency Recordkeepor is empowered
+          to levy a tax on that currency, and is herein referred to as
+          "the taxing authority".
 
-      An Officer levies a tax by announcing that e does so, and
-      specifying:
+      (b) The procedure for levying a tax may be summarized as
+          follows: first, the taxing authority publically issues an
+          announcement of intent to levy a tax; second, at a later
+          point, the taxing authority publically issues a tax notice.
 
-        (1) The Currency being taxed.
-        (2) The percentage of the tax.
-        (3) Any exemptions applying to the tax.
-        (4) The Rule authorizing em to levy the tax.
+      (c) To be valid, both the notice of intent to levy a tax, and
+          the tax notice itself, must specify the elements of the tax,
+          viz., the currency being taxed, the tax rate expressed as a
+          percentage of holdings (which may not exceed 50% unless the
+          Rule authorizing the tax explicitly permits it), and any
+          exemptions.
 
-      Upon such an announcement, each taxable entity becomes liable to
-      the Bank for a debt equal to the specified percentage of eir
-      taxable holdings of that Currency at the time of the
-      announcement.  As soon as possible after this happens, the
-      Recordkeepor of that Currency shall publish a report listing
-      each entity's holdings of that Currency as of the time of the
-      announcement.
+      (d) An exemption is specified as a percentage of the holdings of
+          a taxable entity. It may be set at the discretion of the
+          taxing authority, provided that:
 
-      All entities are taxable, except for:
+          (1) all players are exempt identical amounts,
+          (2) all non-players are exempt identical amounts, and
+          (3) the non-players' exemption is less than or equal to the
+              players' exemption.
 
-        (a) the Bank
-        (b) all Rebellious Players who were Rebellious at the time the
-            intent to levy was published
-        (c) entities explicitly specified by the Rule authorizing the
-            levy as tax-exempt for that levy
+      (e) A notice of intent to levy a tax may not validly be issued
+          while another attempt to levy a tax in that currency is
+          proceeding in accordance with this rule.
 
-      All Currency holdings are taxable, except for holdings
-      explicitly specified by the Rule authorizing the levy as
-      tax-exempt for that levy.
+      (f) A tax notice may only validly be issued between seven and
+          fourteen days after the publication of a valid notice of
+          intent to levy a tax, and at least 30 days after the
+          publication of the last valid tax notice (if there has been
+          one).
 
-      The percentage of the tax may not exceed 50%, unless the Rule
-      authorizing the levy explicitly permits it to do so.
+      (g) A tax notice must also indicate the currency holdings of
+          each taxable entity at the time of the publication of the
+          notice of intent to levy a tax, and the tax debt incurred by
+          each such entity.
+
+      (h) The tax debt for each taxable entity is calculated on the
+          basis of the entity's holdings at the time of the
+          publication of the notice of intent to levy a tax. Any
+          holdings exempt from the tax are exempted, and the tax is
+          applied to the remainder at the specified tax rate.
+
+      (i) Any error in the calculation of holdings or tax debts for a
+          taxable entity does not invalidate the tax notice with
+          respect to the other taxable entities mentioned in it.
+
+      (j) Upon the publication of a valid tax notice, each taxable
+          entity incurs a debt to the Bank equal to the tax debt for
+          that entity.
+
+      (k) All entities are taxable, except for:
+          (1) the Bank,
+          (2) rebellious players who were rebellious at the time the
+              intent to levy was published, and
+          (3) entities explicitly specified by the rule authorizing
+              the levy as non-taxable for that levy.
+
 
 History:
 Created by Proposal 3747 (Steve), May 22 1998
@@ -7745,6 +7774,7 @@ Amended(5) by Proposal 3951 (Elysion), Dec. 8 1999
 Amended(6) by Proposal 4018 (Kelly), Jun. 21 2000
 Amended(7) by Proposal 4127 (Murphy), Mar. 28 2001
 Amended(8) by Proposal 4193 (Taral), 18 July 2001
+Amended(9) by Proposal 4470 (Steve), 26 March 2003
 
 ----------------------------------------------------------------------
 
@@ -9861,16 +9891,18 @@ Amended(3) by Proposal 4425 (SirToby), 2 January 2003
 
 ----------------------------------------------------------------------
 
-Rule 1997/1 (Power=1)
+Rule 1997/2 (Power=1)
 Defined Land Types and Subtypes
 
       In addition to Aether, the following Land Types are defined:
         (a) Black;
-        (b) White.
+        (b) White;
+        (c) Purple.
 
 History:
 Created by Proposal 4197 (Goethe), 8 August 2001
 Amended(1) by Proposal 4283 (Goethe), 16 April 2002
+Amended(2) by Proposal 4471 (OscarMyer), 26 March 2003
 
 ----------------------------------------------------------------------
 
@@ -10147,6 +10179,46 @@ Amended(2) by Proposal 4367 (Steve), 23 August 2002
 Amended(3) by Proposal 4386 (Peekee), 25 September 2002
 Amended(4) by Proposal 4398 (harvel), 23 October 2002
 Amended(5) by Proposal 4453 (Sherlock), 22 February 2003
+
+----------------------------------------------------------------------
+
+Rule 2046/0 (Power=1)
+Q*Bert (tm)
+
+      Q*Bert (tm) is an entity in Arcadia.  Q*Bert moves one space per
+      week, according to the following procedure:
+
+      Q*Bert moves one space in a random direction, but not to the
+      space it last moved from.  Q*Bert is permitted to move to an
+      undefined destination or to Aether.  If Q*Bert moves to an
+      undefined destination, its location becomes undefined, and the
+      next week it will move to (0,0).
+
+      Normally, Q*Bert moves in a diagonal direction.  If Q*Bert ends
+      its diagonal movement at a location that another entity ends eir
+      movement at for that week, then in the following week Q*Bert
+      will say "@!#?@!" and move in a random orthogonal direction.
+
+      Q*Bert has a color, which is a defined Land Type other than
+      Aether and that does not have Sente.  When Q*Bert moves to a
+      space, it changes the Land Type of that space.  If the current
+      Type is not the same as Q*Bert's color, Q*Bert changes that
+      space's type to its color.  Otherwise, Q*Bert changes that
+      space's type to the Land Type that currently has Sente.
+
+      The Mapkeepor is a Limited Executor of Q*Bert, and its Prime
+      Executor for its movement in Arcadia.  The Mapkeepor is to make
+      the random determination of Q*Bert's movement direction and
+      publish Q*Bert's movement and its effect as soon as possible
+      after the start of the Agoran week.
+
+      Upon the Mapkeepor's report that Q*Bert's color has Sente,
+      Q*Bert's color becomes a random Land Type other than Aether or
+      the old color.  The Mapkeepor will make this random
+      determination.
+
+History:
+Created by Proposal 4471 (OscarMyer), 26 March 2003
 
 ----------------------------------------------------------------------
 
