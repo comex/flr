@@ -7171,6 +7171,7 @@ Debt
 
       (e) An entity which receives Property as the result of an
           unauthorized transfer incurs a debt for the transferred
+          Property to the entity that made the transfer.
 
 History:
 Created by Proposal 2493, Feb. 16 1996
