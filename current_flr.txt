@@ -2442,30 +2442,31 @@ Amended(11) by Proposal 4155 (harvel), 18 May 2001
 
 ----------------------------------------------------------------------
 
-Rule 1940/4 (Power=1)
+Rule 1940/5 (Power=1)
 Periodic Compensations
 
-      The Rules may designate certain compensations to be periodic
-      compensations.  At the beginning of each month, each periodic
-      compensation required to be paid out shall be paid out by the
-      Officer required to do so.
+      (a) The Rules may designate certain compensations to be periodic
+          compensations.  At the beginning of each month, each
+          periodic compensation required to be paid out shall be paid
+          out by the Officer required to do so.
 
-      The Minimum Income, the Distributor's Gratuity, the Speaker's
-      Gratuity, and the Salary for each Office are periodic
-      compensations.
+      (b) The Minimum Income, the Distributor's Gratuity, the
+          Speaker's Gratuity, and the Salary for each Office are
+          periodic compensations.
 
-      The Payroll Clerk shall pay out the Minimum Income to each
-      Player, and shall further pay out to each Player the designated
-      Salary for each Office that Player held for at least 16 days of
-      the previous month.
+      (c) The Payroll Clerk shall pay out the Minimum Income to each
+          Player, and shall further pay out to each Player the
+          designated Salary for each Office that Player held for at
+          least 16 days of the previous month.
 
-      The Payroll Clerk shall pay out the Distributor's Gratuity to
-      the Distributor if the Distributor is a Player and was both the
-      Distributor and a Player for at least 16 days of the previous
-      month.
+      (d) The Payroll Clerk shall pay out the Distributor's Gratuity
+          to the Distributor if the Distributor is a Player and was
+          both the Distributor and a Player for at least 16 days of
+          the previous month.
 
-      The Registrar shall pay out the Speaker's Gratuity to a Player
-      if that Player was Speaker for the whole of the previous month.
+      (e) The Registrar shall pay out the Speaker's Gratuity to a
+          Player if that Player was Speaker for at least 16 days of
+          the previous month.
 
 History:
 Created by Proposal 3998 (harvel), May 2 2000
@@ -2473,6 +2474,7 @@ Amended(1) by Proposal 4081 (Elysion), Oct. 30 2000
 Amended(2) by Proposal 4140 (Wes), Apr. 15 2001
 Amended(3) by Proposal 4179 (Taral), 7 July 2001
 Amended(4) by Proposal 4260 (Goethe), 21 February 2002
+Amended(5) by Proposal 4361 (Steve), 16 August 2002
 
 ----------------------------------------------------------------------
 
@@ -4354,7 +4356,7 @@ Created by Proposal 4054 (Oerjan), Aug. 21 2000
 
 ----------------------------------------------------------------------
 
-Rule 1835/2 (Power=1)
+Rule 1835/3 (Power=1)
 Standing Down
 
       During the Voting Period of an Election, any Candidate for that
@@ -4372,13 +4374,15 @@ Standing Down
 
       If, at any time during the Voting Period of an Election, there
       remains only a single Candidate, the Voting Period ends
-      immediately, with the sole remaining Candidate as the winner
-      of that Election.
+      immediately, with the sole remaining Candidate as the winner of
+      that Election.  For the purposes of Rules on awarding Points,
+      that Election shall not be considered a contested Election.
 
 History:
 Created by Proposal 3715 (Blob), Mar. 19 1998
 Amended(1) by Proposal 4035 (Chuck), Aug. 2 2000
 Amended(2) by Proposal 4147 (Wes), 13 May 2001
+Amended(3) by Proposal 4363 (OscarMeyr), 16 August 2002
 
 ----------------------------------------------------------------------
 
@@ -7650,7 +7654,7 @@ Amended(1) by Proposal 4167 (root), 11 June 2001
 
 ----------------------------------------------------------------------
 
-Rule 1983/3 (Power=1)
+Rule 1983/4 (Power=1)
 Vickrey Auctions
 
       The Auction Procedure for a Vickrey Auction is the same as the
@@ -7664,10 +7668,10 @@ Vickrey Auctions
           publically. Otherwise, bidders may bid either publically, or
           privately to the Auctioneer.
 
-      (c) End of Auction: the Auction shall end one week after it
+      (d) End of Auction: the Auction shall end one week after it
           begins.
 
-      (d) The Final Auction Price is either:
+      (e) The Final Auction Price is either:
           (1) The amount of the largest nonwinning uncancelled valid
               bid, if there were more than N valid uncancelled bids in
               the Auction; or
@@ -7686,6 +7690,7 @@ Created by Proposal 4167 (root), 11 June 2001
 Amended(1) by Proposal 4176 (root), 7 July 2001
 Amended(2) by Proposal 4278 (harvel), 3 April 2002
 Amended(3) by Proposal 4356 (Steve), 7 August 2002
+Amended(4) by Proposal 4358 (Sir Toby), 16 August 2002
 
 ----------------------------------------------------------------------
 
@@ -7847,7 +7852,7 @@ Power changed from 1 to 2 by Proposal 4322 (t), 31 May 2002
 
 ----------------------------------------------------------------------
 
-Rule 1479/4 (Power=1)
+Rule 1479/5 (Power=1)
 Definition of "Pay Out" and "Bill"
 
       (a) Whenever a Rule requires a Player to pay out one or more
@@ -7878,7 +7883,8 @@ Created by Proposal 1601, Jun. 19 1995
 Amended(1) by Proposal 2476, Feb. 16 1996
 Amended(2) by Proposal 3533 (General Chaos), Jul. 15 1997
 Amended(3) by Proposal 4018 (Kelly), Jun. 21 2000
-Amended(4) by Proposal 4353 (steve), 7 August 2002
+Amended(4) by Proposal 4353 (Steve), 7 August 2002
+Amended(5) by Proposal 4364 (Steve), 16 August 2002
 
 ----------------------------------------------------------------------
 
@@ -7998,7 +8004,7 @@ Amended(2) by Proposal 4203 (neil), 28 August 2001
 
 ----------------------------------------------------------------------
 
-Rule 1946/8 (Power=1)
+Rule 1946/9 (Power=1)
 Distribution of Voting Entitlements
 
       (a) The Ideal Voting Entitlement Circulation Level (IVECL) is
@@ -8009,9 +8015,17 @@ Distribution of Voting Entitlements
       (b) The Actual Voting Entitlement Circulation Level (AVECL) is
           the total number of Voting Entitlements owned by entities
           other than the Bank, augmented by the total number of Voting
-          Entitlements owned by the Bank which have been auctioned off
-          to Winning Bidders in prior Voting Entitlement Auctions but
-          not yet paid for.
+          Entitlements owned by the Bank which either:
+          (1) are already being Auctioned by the Bank in prior Voting
+              Entitlement Auctions that have not yet concluded; or
+          (2) have been auctioned in prior Voting Entitlement Auctions
+              that have concluded, but where the debts arising from
+              Winning Bids have neither been paid nor defaulted upon;
+              or
+          (3) have been Auctioned in prior Voting Entitlement Auctions
+              that have concluded, and the debts arising from the
+              Winning Bids have been paid, but the Voting Entitlements
+              have not been transferred to the Winning Bidders.
 
       (c) The Voting Entitlement Surplus is the difference between the
           IVECL and the AVECL; if the AVECL is greater than the IVECL,
@@ -8036,6 +8050,7 @@ Amended(5) by Proposal 4247 (Murphy), 19 February 2002
 Amended(6) by Proposal 4249 (Murphy), 19 February 2002
 Amended(7) by Proposal 4255 (Steve), 21 February 2002
 Amended(8) by Proposal 4281 (Goethe), 16 April 2002
+Amended(9) by Proposal 4359 (Steve), 16 August 2002
 
 ----------------------------------------------------------------------
 
@@ -9536,12 +9551,12 @@ Amended(2) by Proposal 4147 (Wes), 13 May 2001
 
 ----------------------------------------------------------------------
 
-Rule 1990/0 (Power=1)
+Rule 1990/1 (Power=1)
 Points Contests
 
       A Contest may be a Points Contest if its ACO specifically states
       that it is a Points Contest.  A Player may not be the
-      Contestsmaster of more than one Points Contest in a single Nomic
+      Contestmaster of more than one Points Contest in a single Nomic
       month.
 
       PWIN is the number of points required for a Player to achieve a
@@ -9574,19 +9589,21 @@ Points Contests
 
 History:
 Created by Proposal 4191 (Goethe), 18 July 2001
+Amended(1) by Proposal 4357 (Sir Toby), 16 August 2002
 
 ----------------------------------------------------------------------
 
-Rule 2031/0 (Power=1)
+Rule 2031/1 (Power=1)
 Money Grubbing Contests
 
       A Contest may be a Money Grubbing Contest if its ACO
       specifically states that it is a Money Grubbing Contest. A
-      Player may not be the Contestsmaster of more than one Money
+      Player may not be the Contestmaster of more than one Money
       Grubbing Contest in a single Nomic month.
 
 History:
 Created by Proposal 4337 (Sir Toby), 30 June 2002
+Amended(1) by Proposal 4357 (Sir Toby), 16 August 2002
 
 ----------------------------------------------------------------------
 
