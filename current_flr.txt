@@ -21,14 +21,14 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 317 Rules:
+There are currently 316 Rules:
    19 with Power=3
    34 with Power=2
-  264 with Power=1
+  263 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2008
-Highest Rule Number assigned so far: 2008
+Highest current Rule Number:         2010
+Highest Rule Number assigned so far: 2010
 
 ======================================================================
 Table of Contents:
@@ -2114,7 +2114,7 @@ Amended(9) by Proposal 4121 (Ziggy), Mar. 16 2001
 
 ----------------------------------------------------------------------
 
-Rule 1664/18 (Power=2)
+Rule 1664/19 (Power=2)
 Rebellion
 
       A Rebellious player may Call for a Revolt at any time by
@@ -2139,7 +2139,8 @@ Rebellion
            player
          - The Registrar shall pay out 40 Stems to each Rebellious
            player
-         - All positions in the Oligarchy become vacant.
+         - The GWotO shall remove all Abiding Oligarchs from the
+           Oligarchy
          - Each Abiding player that is the Electee to an Office is
            retired from that Office.
          - All Rebellious players become Abiding again
@@ -2154,9 +2155,9 @@ Rebellion
          - All Rebellious players gain 2 Blots.
          - The player who Called for Revolt gains 2 (additional) Blots
 
-      The effects of a Call for Revolt shall be based on the
-      Political Status and Indulgence holdings of players at the time
-      of the Call.
+      The effects of a Call for Revolt shall be based on the Political
+      Status, Oligarchy membership, and Indulgence holdings of players
+      at the time of the Call.
 
       The Registrar shall notify the Herald of all Blots gained or
       expunged as a result of this Rule.
@@ -2182,6 +2183,7 @@ Amended(15) by Proposal 4091 (Elysion), Dec. 18 2000
 Amended(16) by Proposal 4098 (Murphy), Jan. 15 2001
 Amended(17) by Proposal 4110 (Ziggy), Feb. 13 2001
 Amended(18) by Proposal 4128 (Murphy), Mar. 28 2001
+Amended(19) by Proposal 4221 (Steve), 10 October 2001
 
 ----------------------------------------------------------------------
 
@@ -2247,26 +2249,29 @@ Amended(3) by Proposal 4096 (Elysion), Jan. 15 2001
 
 ----------------------------------------------------------------------
 
-Rule 1955/3 (Power=1)
+Rule 1955/4 (Power=1)
 The Grand Warden of the Oligarchy
 
-      There is an Office of Grand Warden of the Oligarchy, whose
-      responsibility it is to conduct Auctions for positions in
-      the Oligarchy.
+      (a) There is an Office of Grand Warden of the Oligarchy (GWotO),
+          whose responsibility it is to maintain a list of Oligarchs.
 
-      The Grand Warden of the Oligarchy's Report shall include:
+      (b) The Grand Warden of the Oligarchy's Report shall consist of
+          a list of all Oligarchs and a list of all Elder Oligarchs
+          (if any).
 
-        (a)  a list of all positions in the Oligarchy with their
-             ranks, and the Players who hold those positions; and
-
-        (b)  the date on which the current High Oligarch, if there is
-             one, became the High Oligarch.
+      (c) The GWotO shall have a budget containing the Oligarchy
+          Auction Rate, which is an integer between 1 and 4
+          inclusive. The GWotO may amend eir budget Without 2
+          Objections from Oligarchs.  There is an Office of Grand
+          Warden of the Oligarchy, whose responsibility it is to
+          conduct Auctions for positions in the Oligarchy.
 
 History:
 Created by Proposal 4053 (harvel), Aug. 21 2000
 Amended(1) by Proposal 4071 (Steve), Sep. 14 2000
 Amended(2) by Proposal 01-005 (Steve), Feb. 2 2001
 Amended(3) by Proposal 4142 (Murphy), Apr. 15 2001
+Amended(4) by Proposal 4221 (Steve), 10 October 2001
 
 ----------------------------------------------------------------------
 
@@ -2416,108 +2421,101 @@ The Oligarchy
   Oligarchy.
 ----------------------------------------------------------------------
 
-Rule 1932/3 (Power=2)
+Rule 1932/4 (Power=2)
 The Oligarchy
 
-      The Oligarchy is a set of six positions which are filled by
-      Players, who are called Oligarchs. No Player may ever occupy
-      more than one position in the Oligarchy at any one time. A
-      position is vacant if and only if it is not occupied; hence
-      there is a vacancy in the Oligarchy only when there are fewer
-      than six Oligarchs.
+      (a) The Oligarchy is the set of all Players who are Oligarchs.
 
-      There are three ranks within the Oligarchy, termed High, Middle,
-      and Low. There are at most one High Oligarch and at most two
-      Middle Oligarchs. There may be as many as six Low Oligarchs, but
-      the normal number is three.
-
-      An Oligarch may resign eir position in the Oligarchy by
-      publicly announcing e does so. Upon such an announcement, e
-      ceases to be an Oligarch and eir position becomes vacant.
+      (b) An Oligarch may resign eir position in the Oligarchy by
+          publicly announcing that e does so. Upon such an
+          announcement, e ceases to be an Oligarch.
 
 History:
 Created by Proposal 3980 (Steve), Mar. 1 2000
 Amended(1) by Proposal 4084 (Steve), Nov. 9 2000
 Amended(2) by Proposal 01-005 (Steve), Feb. 2 2001
 Amended(3) by Proposal 4111 (Elysion), Feb. 20 2001
+Amended(4) by Proposal 4221 (Steve), 10 October 2001
 
 ----------------------------------------------------------------------
 
-Rule 1963/0 (Power=2)
-Vacancies in the Oligarchy
+Rule 2009/0 (Power=2)
+Elder Oligarchs
 
-      If an Oligarch is On Hold, is a Zombie, has three or more Blots,
-      is the Speaker, or is rotated out of the Oligarchy, then the
-      Grand Warden of the Oligarchy is required to remove that Player
-      from the Oligarchy as soon as possible.
+      (a) Upon the creation of this Rule, all Players who were Low,
+          Middle, or High Oligarchs when the Proposal creating this
+          Rule was adopted become Oligarchs. Each of these Players is
+          an Elder Oligarch until e ceases to be an Oligarch or until
+          e has been an Elder Oligarch for 3 months.
 
-      The GWoTO removes a Player from the Oligarchy by correctly
-      announcing that at least one of the above conditions has arisen
-      for that Player. The named Player ceases to be an Oligarch as of
-      the GWoTO's announcement, and eir position in the Oligarchy
-      becomes vacant.
+      (b) The Rulekeepor may repeal this Rule Without Objection if
+          there are no Elder Oligarchs.
 
-      An Oligarch who ceases to be a Player also ceases to be an
-      Oligarch, and eir position in the Oligarchy becomes vacant.
+History:
+Created by Proposal 4221 (Steve), 10 October 2001
+
+----------------------------------------------------------------------
+
+Rule 1963/1 (Power=2)
+Eligible Oligarchs
+
+      (a) A Player is ineligible to be an Oligarch if and only if any
+          of the following are true:
+
+            (1) e is On Hold;
+            (2) e has three or more Blots;
+            (3) e is the Speaker or the Speaker-Elect; or
+            (4) e is the Grand Warden of the Oligarchy.
+
+      (b) If an Oligarch becomes ineligible to be an Oligarch, the
+          GWotO shall remove that Player from the Oligarchy as soon as
+          possible.  The GWoTO removes a Player from the Oligarchy by
+          correctly announcing that at least one of the above
+          conditions has arisen for that Player. The named Player
+          ceases to be an Oligarch as of the GWoTO's announcement.
+
+      (c) An Oligarch who ceases to be a Player ceases to be an
+          Oligarch.
 
 History:
 Created by Proposal 01-005 (Steve), Feb. 2 2001
+Amended(1) by Proposal 4221 (Steve), 10 October 2001
 
 ----------------------------------------------------------------------
 
-Rule 1964/0 (Power=1)
-Filling Vacancies in the Oligarchy
-
-      Whenever there exist Oligarchy positions which are neither
-      occupied nor pending, and no Oligarchy Auction is in progress,
-      the Grand Warden of the Oligarchy (GWoTO) shall initiate an
-      Auction for a number of positions equal to the number of
-      positions neither occupied nor pending. At most one Auction of
-      Oligarchy positions shall be conducted at a time; if the number
-      of vacant positions increases during an Auction, the GWoTO shall
-      not initiate a new Auction until the current Auction ends.
-
-History:
-Created by Proposal 01-005 (Steve), Feb. 2 2001
-
-----------------------------------------------------------------------
-
-Rule 1936/6 (Power=2)
+Rule 1936/7 (Power=2)
 Auctioning Positions in the Oligarchy
 
-      Whenever an Auction is conducted to fill a position or positions
-      in the Oligarchy, the standard Auction procedure is used, with
-      the following additions and exceptions:
+      (a) As soon as possible after the beginning of each month, the
+          GWotO shall auction off a number of Oligarchy positions
+          equal to the Oligarchy Auction Rate. The GWotO shall conduct
+          the Auction according to one of the Rules-defined Auction
+          Procedures, with the following modifications:
 
-      (a) Auction Currency: the Auction Currency is Stems.
+          (1) Auction Currency: the Auction Currency is Stems.
 
-      (b) Bidders: Only Politicians may bid. The Speaker, the
-          Speaker-Elect, all Zombies, and all Oligarchs may not bid.
+          (2) Bidders: Only non-Oligarchy Politicians who are eligible
+              to be Oligarchs may bid.
 
-      (c) If a bidder ceases to be a Player, goes On Hold, or becomes
-          a Zombie, an Oligarch, the Speaker or the Speaker-Elect
-          during the Auction, then all eir bids in the Auction are
-          cancelled.
+          (3) If a bidder becomes an Oligarch or becomes ineligible to
+              be an Oligarch, then all eir bids in the Auction are
+              cancelled.
 
-      (d) Winning bids: when the Auctions ends, the winning bids are
-          the N largest uncancelled bids made by different Players
-          who are not Oligarchs, where N is the number of positions
-          being Auctioned.
+          (4) Winning bids: when the Auctions ends, the winning bids
+              are the N largest valid uncancelled bids made by
+              different Players who are not Oligarchs, where N is the
+              number of positions being Auctioned.
 
-      (e) Defaulting: a winning bidder has one week from the time e
-          is billed by the Auctioneer for eir winning bid in which to
-          pay the bill. If the bill remains unpaid for more than one
-          week, then the winning bidder is considered to have
-          defaulted. In that case, the Auctioneer shall forgive the
-          debt and penalise the defaulting bidder 2 Blots.
+          (5) Defaulting: a winning bidder has one week from the time
+              e is billed by the Auctioneer for eir winning bid in
+              which to pay the bill. If the bill remains unpaid for
+              more than one week, then the winning bidder is
+              considered to have defaulted. In that case, the
+              Auctioneer shall forgive the debt and penalise the
+              defaulting bidder 2 Blots.
 
-      A position in the Oligarchy is pending if the position is
-      vacant, an Auction has been held for that position and a winning
-      bidder determined, and the winning bidder has not defaulted.
-
-      When a winning bidder pays the bill for eir winning bid in the
-      Auction, e becomes a Low Oligarch, provided the position is
-      pending.
+      (b) When a winning bidder pays the bill for eir winning bid in
+          the Auction, e becomes an Oligarch.
 
 History:
 Created by Proposal 3980 (Steve), Mar. 1 2000
@@ -2527,107 +2525,22 @@ Amended(3) by Proposal 4084 (Steve), Nov. 9 2000
 Amended(4) by Proposal 4085 (Blob), Nov. 16 2000
 Amended(5) by Proposal 01-005 (Steve), Feb. 2 2001
 Amended(6) by Proposal 535[2001] (Elysion), Feb. 2 2001
+Amended(7) by Proposal 4221 (Steve), 10 October 2001
 
 ----------------------------------------------------------------------
 
-Rule 1937/6 (Power=2)
-Distributing Positions in the Oligarchy
+Rule 2010/0 (Power=2)
+Oligarchy Upkeep
 
-      When there are six Oligarchs and a number of Low Oligarchs other
-      than three, the Oligarchy is "abnormally distributed", and an
-      Oligarchy selection takes place as set out below.
-
-      After a Player has become an Oligarch, or an Oligarch has
-      changed rank, then if the Oligarchy is abnormally distributed,
-      the Grand Warden of the Oligarchy shall, within three days,
-      publish a list of the Oligarchs and their ranks, identifying
-      those Players who are required to make the selection, and the
-      set of Players from whom the selection is to be made. Failure to
-      do so is the Class 1 Infraction of Oligardiness, which may be
-      reported by any Player. However, if the Oligarchy selection
-      occurs before the GWoTO publishes the list, the GWoTO is
-      relieved of eir obligation to publish it.
-
-      Whenever there are six Oligarchs, and no High Oligarch, the Low
-      Oligarchs are permitted to select a Middle Oligarch to become
-      the new High Oligarch. If there are no Middle Oligarchs, the Low
-      Oligarchs shall instead select one of their own number to become
-      the new High Oligarch. The immediately prior High Oligarch may
-      not be selected as the new High Oligarch, if e is presently a
-      Low Oligarch.
-
-      Whenever there are six Oligarchs, a High Oligarch, and fewer
-      than two Middle Oligarchs, the High Oligarch is permitted to
-      select a Low Oligarch to become Middle Oligarch.
-
-      When a selection from a set of one candidate is to be made, that
-      candidate is selected immediately without any action by any
-      Player.
-
-      When a selection from a set of two or more candidates is to be
-      made, and that selection is not to be made by the Speaker, the
-      individual or individuals who are to make the selection shall
-      announce their recommendations in the Public Forum. They are
-      permitted to make their recommendations from the time the
-      Oligarchy becomes abnormally distributed. They are required to
-      make their recommendations within three days of the GWoTO's
-      announcement. Recommendations, once made, cannot be changed.
-
-      The selection occurs when one candidate has received the
-      recommendation of a majority of those persons required to make a
-      recommendation. If three days pass from the GWoTO's announcement
-      without one candidate receiving the recommendation of a
-      majority, then if there is a candidate which has received more
-      recommendations than any other candidate, that candidate is
-      selected; otherwise, the decision passes to the Speaker, and the
-      Speaker shall make the selection.
-
-      When a selection from a set of two or more candidates is to be
-      made, and that selection is required to be made by the Speaker,
-      the Speaker shall make eir selection within seven days by
-      announcing it in the Public Forum. A Speaker who fails to make
-      such a selection becomes Tainted. If, at the time a Player
-      becomes Speaker, the previous Speaker was required to make a
-      selection by this Rule and had not yet done so, the new Speaker
-      shall be instead required to make the selection, and shall do so
-      within seven days of becoming Speaker, or become Tainted.
-
-      If a vacancy in the Oligarchy arises when the Oligarchy is
-      abnormally distributed, then the Oligarchy selection and all
-      requirements on Players arising from it are cancelled.
-
-      Any Player required to make a recommendation by this Rule who
-      fails to do so within the allotted time commits the Class 1
-      Infraction of Oligardiness; this Infraction may be reported by
-      any Player.
+      As soon as possible after the beginning of each month, the GWotO
+      shall bill each non-Elder Oligarch 0.1 VEs. The GWotO shall remove
+      from the Oligarchy any Oligarch who does not pay a debt resulting
+      from this Rule within 7 days of the announcement of such a debt.
 
 History:
-Created by Proposal 3980 (Steve), Mar. 1 2000
-Amended(1) by Proposal 4000 (Steve), May 2 2000
-Amended(2) by Proposal 4053 (harvel), Aug. 21 2000
-Amended(3) by Proposal 4073c (Elysion), Sep. 26 2000
-Amended(4) by Proposal 4084 (Steve), Nov. 9 2000
-Amended(5) by Proposal 4098 (Murphy), Jan. 15 2001
-Amended(6) by Proposal 4185 (Ziggy), 18 July 2001
+Created by Proposal 4221 (Steve), 10 October 2001
 
 ----------------------------------------------------------------------
-
-Rule 1938/2 (Power=2)
-Rotation Out of the Oligarchy
-
-      If the same Player has been High Oligarch continuously for at
-      least four weeks, and there have been no vacancies in the
-      Oligarchy during the past Nomic Week, then at the beginning of
-      the next Nomic Week, the High Oligarch is rotated out of the
-      Oligarchy.
-
-History:
-Created by Proposal 3980 (Steve), Mar. 1 2000
-Amended(1) by Proposal 01-005 (Steve), Feb. 2 2001
-
-----------------------------------------------------------------------
-
-
 
 ======================================================================
 Making Proposals
@@ -3174,11 +3087,17 @@ Voting on Proposals
   other actions which take place during the Voting Period.
 ----------------------------------------------------------------------
 
-Rule 1449/11 (Power=1)
+Rule 1449/12 (Power=1)
 The Assessor
 
-      There exists the Office of Assessor, whose responsibility it is
-      to receive and announce the results of Votes on Proposals.
+      (a) There exists the Office of Assessor, whose responsibility it
+          is to receive and announce the results of Votes on
+          Proposals.
+
+      (b) The Assessor shall include the Voting Power of each entity
+          on Ordinary and Democratic Proposals in eir Weekly Report. E
+          may exclude entities whose Voting Power is zero on both
+          Ordinary and Democratic Proposal from the Report.
 
 History:
 Created by Proposal 1531, Mar. 24 1995
@@ -3193,6 +3112,7 @@ Amended(8) by Proposal 3827 (Kolja A.), Feb. 4 1999
 Amended(9) by Proposal 3871 (Peekee), Jun. 2 1999
 Amended(10) by Proposal 3897 (harvel), Aug. 27 1999
 Amended(11) by Proposal 3902 (Murphy), Sep. 6 1999
+Amended(12) by Proposal 4221 (Steve), 10 October 2001
 
 ----------------------------------------------------------------------
 
@@ -3361,48 +3281,47 @@ Amended(4) by Proposal 4187 (neil), 18 July 2001
 
 ----------------------------------------------------------------------
 
-Rule 1950/1 (Power=2)
+Rule 1950/2 (Power=2)
 Voting Power
 
-      An Entity's Voting Power on an Ordinary Proposal is as follows:
+      (a) An entity's Voting Power on an Ordinary Proposal is as
+          follows:
 
-         (a) The High Oligarch: three;
-         (b) A Middle Oligarch: two;
-         (c) A Low Oligarch: one;
-         (d) Any other entity: zero.
+            (1) An Oligarch: one;
+            (2) Any other entity: zero.
 
-      An Entity's Voting Power on a Democratic Proposal is as follows:
+      (b) An entity's Voting Power on a Democratic Proposal is as
+          follows:
 
-         (a) A Player: one plus the number of Voting Entitlements
-             e possesses rounded down, minus one for every five Blots
-             e has, with a minimum of zero and a maximum of:
-             (1) for the High Oligarch, one;
-             (2) for a Middle Oligarch, two;
-             (3) for a Low Oligarch, three;
-             (4) for a non-Oligarch, five.
-         (b) The Bank: zero;
-         (c) Any other entity: as defined in the Rules, with a default
-             of zero if the Rules don't specify the Voting power on a
-             Democratic Proposal for that entity.
+            (1) A Player: one plus the number of Voting Entitlements e
+                possesses rounded down, minus one for every five Blots
+                e has, with a minimum of zero and a maximum of:
+                 (a) for an Oligarch, two;
+                 (b) for a non-Oligarch, five.
+            (2) The Bank: zero;
+            (3) Any other entity: as defined in the Rules, with a
+                default of zero if the Rules don't specify the Voting
+                power on a Democratic Proposal for that entity.
 
-      At the beginning of a week, the Assessor shall determine each
-      entity's Voting Power on Democratic and Ordinary Proposals.
-      These values shall then be in effect for all Proposals of the
-      proper type distributed during that week. However, if a Proposal
-      is made Democratic after it has been distributed, the Voting
-      Power of each entity for that Proposal is redetermined at the
-      time the Proposal is made Democratic.
+      (c) The value of an entity's Voting Power on Ordinary and
+          Democratic Proposals at the beginning of each Week shall be
+          in effect for all Proposals distributed during that
+          Week. However, if a Proposal is made Democratic after it has
+          been distributed, the Voting Power of each entity for that
+          Proposal is redetermined at the time the Proposal is made
+          Democratic.
 
-      An entity may cast as many votes as e wishes on a Proposal, up
-      to the limit determined by that entity's Voting Power on
-      that Proposal, with the exception that no Player may vote on an
-      Ordinary Proposal unless e is an Oligarch at the time e casts
-      eir vote. An entity may cast its votes in any combination e
-      wishes.
+      (d) An entity may cast as many votes as e wishes on a Proposal,
+          up to the limit determined by that entity's Voting Power on
+          that Proposal, with the exception that no Player may vote on
+          an Ordinary Proposal unless e is an Oligarch at the time e
+          casts eir vote. An entity may cast its votes in any
+          combination e wishes.
 
 History:
 Created by Proposal 4032 (t), Jul. 24 2000
 Amended(1) by Proposal 4085 (Blob), Nov. 16 2000
+Amended(2) by Proposal 4221 (Steve), 10 October 2001
 
 ----------------------------------------------------------------------
 
