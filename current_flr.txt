@@ -3934,10 +3934,10 @@ Bonus for Repeal
           simplify the Ruleset, the Proposal's Proposer may reverse
           the Rulekeepor's decision Without Three Objections, provided
           the procedure for doing so is initiated within one week of
-          the announcement of the Rulekeepor's decision. Blob is
-          Mauvy. As soon as possible after the Rulekeepor's decision
-          is reversed in this manner, the Proposal's Proposer shall
-          pay out 30 Stems to emself.
+          the announcement of the Rulekeepor's decision.  As soon as
+          possible after the Rulekeepor's decision is reversed in this
+          manner, the Proposal's Proposer shall pay out 30 Stems to
+          emself.
 
 History:
 Created by Proposal 947, Jul. 3 1994
