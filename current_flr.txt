@@ -28,7 +28,7 @@ There are currently 317 Rules:
 
 Lowest current Rule Number:           101
 Highest current Rule Number:         2003
-Highest Rule Number assigned so far: 2003
+Highest Rule Number assigned so far: 2006
 
 ======================================================================
 Table of Contents:
@@ -1001,13 +1001,13 @@ Amended(9) by Proposal 4155 (harvel), 18 May 2001
 
 ----------------------------------------------------------------------
 
-Rule 1976/1 (Power=1)
+Rule 1976/2 (Power=1)
 Mentor's Bonus
 
       In the four weeks immediately after eir Grace Period ends, a
       Player can award a Mentor's Bonus to any other player e deems to
       have been most helpful to em as a new Player. E can only make
-      one such award. A Zombie may not make such an award.
+      one such award.
 
       The award is made by public announcement. Upon such an
       announcement the Bank shall incur a debt in Stems to the named
@@ -1016,6 +1016,7 @@ Mentor's Bonus
 History:
 Created by Proposal 4143 (Blob), Apr. 22 2001
 Amended(1) by Proposal 4172 (root), 26 June 2001
+Amended(2) by Proposal 4211 (harvel), 10 September 2001
 
 ----------------------------------------------------------------------
 
@@ -1130,32 +1131,39 @@ Amended(5) by Proposal 4011 (Wes), Jun. 1 2000
 
 ----------------------------------------------------------------------
 
-Rule 1042/15 (Power=1)
-Zombification Due to Silence
+Rule 1042/16 (Power=1)
+Deregistration Due to Silence
 
-      Each Player is always Noisy, Quiet, or Silent, but never more
-      than one of these.  Whenever a Player posts to a Public Forum,
-      or a new Player registers, that Player is Noisy.
+      Each player is always Noisy, Quiet, or Silent, but never more
+      than one of these.  Whenever a player registers or posts to a
+      public forum, that player is Noisy.
 
-      Any Player who has not caused another Player to become Quiet
-      within the last 24 hours can cause another Active Noisy Player
-      to become Quiet by stating that e is doing so, and clearly
-      identifying that Player, in a Public Forum.  If a Player has
-      been Quiet continuously for two weeks, e becomes Silent.  If a
-      Player has been Inactive continuously for two months, e becomes
-      Silent.
+      A player who has not within the most recent 24 hours caused
+      another player to become Quiet may cause another Active Noisy
+      player to become Quiet by sending a message to a public forum in
+      which e identifies the player and states that e causes that
+      player to become Quiet.  Whenever a player has been Quiet
+      continuously for two weeks or has been Inactive continuously for
+      two months, e becomes Silent.
 
-      Any Player can make a Silent Player a Zombie by publicly
-      alleging that the Silent Player has abandoned the game.  A
-      Player has abandoned the game if and only if e is Silent.  As
-      soon as possible after a public allegation that a Player has
-      abandoned the game, the Registrar shall publicly confirm or deny
-      that the Player is a Zombie.
+      Any player may publicly allege that some other player has
+      abandoned the game.  A player has abandoned the game if and only
+      if e is Silent.  As soon as possible after a public allegation
+      that a player has abandoned the game, the Registrar shall
+      publicly confirm or deny the allegation.
 
-      If a Speaker has abandoned the game, e commits the Class 15
-      Crime of Speaker Abandonment, to be detected and reported by any
-      Player.  E ceases to be Speaker, and the Speaker-Elect becomes
-      Speaker.  The previous Speaker then becomes a Zombie.
+      If the allegation is confirmed, then the following events shall
+      occur in order:
+
+       (i) if the Silent player is the Speaker, e commits the Class 15
+           Crime of Speaker Abandonment and ceases to be Speaker, and
+           the Speaker-Elect becomes Speaker;
+
+      (ii) the Silent player is deregistered.
+
+      The Silent player shall be deemed to have been deregistered as
+      of the timestamp of the message from the Registrar confirming
+      the allegation.
 
 History:
 Created by Proposal 460 (Jim Shea), Sep. 15 1994
@@ -1182,103 +1190,7 @@ Amended(12) by Proposal 3990, "Harsher Blot Penalties", (Elysion),
 Amended(13) by Proposal 4133 (Tim), Apr. 5 2001
 Amended(14) by Proposal 4147 (Wes), 13 May 2001
 Amended(15) by Proposal 4154 (harvel), 18 May 2001
-
-----------------------------------------------------------------------
-
-Rule 1884/4 (Power=1)
-Zombie Masters
-
-      Zombies are Property.  The owner of a Zombie is called eir
-      Master.  Whenever a Player becomes a Zombie, eir Master is the
-      Bank.
-
-      Whenever the Master of a Zombie is a Player, e has Power of
-      Attorney for that Zombie, unless the Rules withdraw it from
-      em.
-
-      The Registrar is the Recordkeepor of each Zombie.
-
-History:
-Created by Proposal 3853 (Blob), Apr. 19 1999
-Amended(1) by Proposal 4002 (harvel), May 8 2000
-Amended(2) by Proposal 4018 (Kelly), Jun. 21 2000
-Amended(3) by Proposal 4118 (Goethe), Mar. 6 2001
-Amended(4) by Proposal 4132 (harvel), Apr. 5 2001
-
-----------------------------------------------------------------------
-
-Rule 1885/3 (Power=1)
-Zombie Auctions
-
-      Whenever the Bank possesses a Zombie which is neither currently
-      being Auctioned nor for which an Auction has been completed but
-      the debt arising therefore not yet paid, the Registrar shall
-      initiate an Auction for the sale of that Zombie.
-
-      All Auctions of Bank-owned Zombies shall be conducted as
-      follows:
-      (1) The Auctioneer shall be the Registrar.
-      (2) The Auction Currency shall be Indulgences.
-      (3) The Starting Price shall be number of Blots of the Zombie
-          being Auctioned; or, if the Zombie has no Blots, one
-          Indulgence.
-
-      As soon as possible after the end of a Zombie Auction, the
-      Registrar shall expunge any Blots the Zombie has, notifying the
-      Herald of this action.
-
-      If there are no winning bids for a Zombie during a Zombie
-      Auction, that Zombie is deregistered.
-
-      The Registrar is a Limited Executor of the Bank, with the
-      authority to satisfy debts of Zombies owed by the Bank to its
-      creditors.
-
-History:
-Created by Proposal 3853 (Blob), Apr. 19 1999
-Amended(1) by Proposal 3901 (Schneidster), Sep. 6 1999
-Amended(2) by Proposal 4018 (Kelly), Jun. 21 2000
-Amended(3) by Proposal 4118 (Goethe), Mar. 6 2001
-
-----------------------------------------------------------------------
-
-Rule 1948/3 (Power=1)
-Zombie Transfer Tax
-
-      As soon as possible after a Zombie is transferred from a Player
-      to another entity, the Registrar shall bill that Zombie's former
-      Master prorated Maintenance on that Zombie.
-
-      The amount of prorated Maintenance on a Zombie shall be equal
-      to 0.1 Indulgence for each three days (or part thereof) elapsed
-      between the time that Player most recently took possession
-      of that Zombie, and the time that the transfer occurred, with a
-      maximum of 1 Indulgence.
-
-History:
-Created by Proposal 4018 (Kelly), Jun. 21 2000
-Amended(1) by Proposal 4078 (Peekee), Oct. 10 2000
-Amended(2) by Proposal 4099 (Murphy), Jan. 15 2001
-Amended(3) by Proposal 4132 (Elysion), Apr. 5 2001
-
-----------------------------------------------------------------------
-
-Rule 1886/2 (Power=1)
-Vivification Due to Noise
-
-      If a Zombie becomes Noisy, eir Master ceases to own em, and
-      e ceases to be a Zombie.
-
-      Unless the Zombie was owned by the Bank when e became Noisy,
-      then, as soon as possible, the Registrar shall pay out to the
-      Zombie's most recent Master a number of Indulgences equal
-      to the starting price in that Zombie's most recent Auction,
-      halved for each new calendar month since the end of the Auction.
-
-History:
-Created by Proposal 3853 (Blob), Apr. 19 1999
-Amended(1) by Propoal 3958 (Murphy), Dec. 28 1999
-Amended(2) by Proposal 4134 (harvel) Apr. 5 2001
+Amended(16) by Proposal 4211 (harvel), 10 September 2001
 
 ----------------------------------------------------------------------
 
@@ -1311,21 +1223,22 @@ Amended(2) by Proposal 4147 (Wes), 13 May 2001
 
 ----------------------------------------------------------------------
 
-Rule 1755/5 (Power=1)
+Rule 1755/6 (Power=1)
 No Non-Player Responsibilities
 
-      When a player becomes deregistered or a Zombie, e ceases to be
-      a candidate, officer, judge, or in general to occupy any role or
-      position to which a Rule assigns any duties or powers.  No one
-      who is not registered, or who is a Zombie, may occupy such a
-      role or position.  This rule takes precedence over rules which
-      would prevent em from ceasing to occupy such a role or position.
+      Whenever a player is deregistered, e ceases to be a candidate,
+      officer, judge, or in general to occupy any role or position to
+      which the rules assign any duties or powers.  No one who is not
+      registered may occupy such a role or position, unless at least
+      one of the rules defining the role or position explicitly
+      indicate it may be occupied by a nonplayer.
 
-      The foregoing paragraph shall not apply to the Bearing of Patent
-      Titles, or any position which a Rule specifically says may be
-      held by a non-Player or Zombie, nor shall it act to prevent a
-      non-Player or Zombie from registering, calling CFJs, or doing
-      things that non-Players and Zombies are generally able to do.
+      Bearing a Patent Title shall not be deemed to be occupying a
+      role or position.
+
+      This rule shall not act to prevent a nonplayer from registering,
+      calling for judgement, or otherwise doing things that nonplayers
+      are generally able to do.
 
 History:
 Created by Proposal 3622 (elJefe), Dec. 9 1997
@@ -1334,10 +1247,11 @@ Amended(2) by Proposal 3896 (Elysion), Aug. 27 1999
 Amended(3) by Proposal 4048 (Peekee), Aug. 15 2000
 Amended(4) by Proposal 4099 (Murphy), Jan. 15 2001
 Amended(5) by Proposal 4110 (Ziggy), Feb. 13 2001
+Amended(6) by Proposal 4211 (harvel), 10 September 2001
 
 ----------------------------------------------------------------------
 
-Rule 1841/3 (Power=1)
+Rule 1841/4 (Power=1)
 Granting Power of Attorney
 
       (a) A Player (the Grantor) who has been continuously registered
@@ -1378,14 +1292,15 @@ Granting Power of Attorney
           Rules from granting and withdrawing PoA by other means.
 
       (f) Other Rules to the contrary notwithstanding, no Player who
-          has granted PoA to another Player as described in this Rule
-          shall become a Zombie while the grant of PoA is in effect.
+          has granted PoA to another Player as described in this rule
+          shall be deregistered while the grant of PoA is in effect.
 
 History:
 Created by Proposal 3739 (Swann), May 3 1998
 Amended(1) by Proposal 4011 (Wes), Jun. 1 2000
 Amended(2) by Proposal 4147 (Wes), 13 May 2001
 Amended(3) by Proposal 4190 (Steve), 18 July 2001
+Amended(4) by Proposal 4211 (harvel), 10 September 2001
 
 ----------------------------------------------------------------------
 
@@ -1458,34 +1373,33 @@ Created by Proposal 4174 (Kelly), 7 July 2001
 
 ----------------------------------------------------------------------
 
-Rule 1992/1 (Power=1)
+Rule 1992/2 (Power=1)
 Monks
 
       A player is Sanctimonious if e satisfies all of the following
-      conditiions:
+      conditions:
 
-      1. E is not a Zombie.
-      2. E is not a Zombie Master.
-      3. E possesses less than four times the Basic Officer Salary of
+      1. E possesses less than four times the Basic Officer Salary of
          Stems.
-      4. E does not possess any Voting Entitlements.
-      5. E is a Senator.
-      6. E is not the Executor or Limited Executor of any entity other
+      2. E does not possess any Voting Entitlement.s
+      3. E is a Senator.
+      4. E is not the Executor or Limited Executor of any entity other
          than emself, the Bank, or Monastery which possesses Voting
-         Entitlements, Zombies, or Stems.
-      7. E is Immaculate.
+         Entitlements or Stems.
+      5. E is Immaculate.
 
-      A Sanctimonious player becomes a Monk by notifying the Registrar
-      that e becomes a Monk, provided that e has been Sanctimonious
-      for at least one week. The condition of being a Monk is revoked
-      upon the beginning of a Nomic Week after the dissatisfaction of
-      any of the aforementioned conditions for at least 48 hours, if
-      and only if a player reports this dissatisfaction to the
-      Registrar before the beginning of the week.
+      A player who has been Sanctimonious continuously for the most
+      recent week becomes a Monk by notifying the Registrar that e
+      becomes a Monk.  Whenever a Monk has not satisfied all
+      conditions for Sanctimony for at least 48 hours, any player may
+      report this to the Registrar.  On the Registrar's public
+      confirmation of this report, the Monk ceases to be a Monk.
 
 History:
 Created by Proposal 4195 (Syllepsis), 26 July 2001
 Amended(1) by Proposal 4202 (neil), 28 August 2001
+Amended(2) by Proposal 4211 (harvel), 10 September 2001
+
 
 ----------------------------------------------------------------------
 
@@ -1797,7 +1711,7 @@ Amended(1) by Proposal 3980 (Steve), Mar. 1 2000
 
 ----------------------------------------------------------------------
 
-Rule 1555/6 (Power=1)
+Rule 1555/7 (Power=1)
 Electees and Removal from Office
 
       A Player who wins an Election for an Office, or is installed
@@ -1819,8 +1733,8 @@ Electees and Removal from Office
       the Office. If there is no Electee, the Office is held by the
       Speaker.
 
-      If a Player goes On Hold, deregisters, is deregistered, or
-      becomes a Zombie, e is removed from all Offices e holds.
+      If a Player goes On Hold, deregisters, or is deregistered, e is
+      removed from all Offices e holds.
 
 History:
 Created by Proposal 2442, Feb. 6 1996
@@ -1829,7 +1743,8 @@ Amended(2) by Proposal 2781 (Steve), Jan. 15 1997, substantial
 Amended(3) by Proposal 3742 (Harlequin), May 8 1998
 Amended(4) by Proposal 3853 (Blob), Apr. 19 1999
 Amended(5) by Proposal 3898 (Wes), Aug. 27 1999
-Amended(6) by Proposla 4071 (Steve), Sep. 14 2000
+Amended(6) by Proposal 4071 (Steve), Sep. 14 2000
+Amended(7) by Proposal 4211 (harvel), 10 September 2001
 
 ----------------------------------------------------------------------
 
@@ -6313,41 +6228,38 @@ The Registrar
   This Category includes Rules concerning the Office of Registrar.
 ----------------------------------------------------------------------
 
-Rule 559/16 (Power=1)
+Rule 559/17 (Power=1)
 The Registrar
 
       There exists the Office of Registrar, whose responsibility it is
-      to maintain a list of Players.
+      to maintain a list of players.
 
       The Registrar's Report shall include all of the following
       information:
 
-         (i)  a list of all registered Players, with their nicknames,
-              if any, and preferred email addresses;
+         (i) a list of all registered players, with their nicknames,
+             if any, and preferred email addresses;
 
-        (ii)  a list of all Grace Periods in progress, including
-              the Player subject to the Grace Period, the time at
-              which it started, and the time at which it will end;
+        (ii) a list of all Grace Periods in progress, including the
+             player subject to the Grace period, the time at which
+             it started, and the time at which it will end;
 
-       (iii)  a list of all Unready Players;
+       (iii) a list of all Unready players;
 
-        (iv)  a list of Players who are Zombies, and who their Masters
-              are;
+        (iv) the most recent date on which each registered player
+             registered;
 
-         (v)  the most recent date on which each Player registered;
+         (v) each player's Active/Inactive status, and the most recent
+             date on which that player became Active or Inactive;
 
-        (vi)  each Player's Active/Inactive status, and the most recent
-              date on which that Player became Active or Inactive;
+        (vi) each player's Noisy/Quiet/Silent status, and the most
+             recent date on which that player became Noisy, Quiet,
+             or Silent;
 
-       (vii)  each Player's Noisy/Quiet/Silent status, and the most
-              recent date on which that Player became Noisy, Quiet, or
-              Silent; and
+       (vii) the identities of the Distributor and the Speaker (and
+             eir Term of Service); and
 
-      (viii)  the identities of the Distributor and the Speaker (and eir
-              Term of Service).
-
-      (viii)  A list of Players who are Monks.
-
+      (viii) a list of players who are Monks.
 
 History:
 Created by Proposal 559 (Wes), ca. Oct. 7 1993
@@ -6368,6 +6280,7 @@ Amended(13) by Proposal 4002 (harvel), May 8 2000
 Amended(14) by Proposal 4057 (harvel), Aug. 29 2000
 Amended(15) by Proposal 4155 (harvel), 18 May 2001
 Amended(16) by Proposal 4195 (Syllepsis), 26 July 2001
+Amended(17) by Proposal 4211 (harvel), 10 September 2001
 
 ----------------------------------------------------------------------
 
@@ -6912,40 +6825,42 @@ Amended(1) by Proposal 4190 (Steve), 18 July 2001
 
 ----------------------------------------------------------------------
 
-Rule 1908/3 (Power=1)
+Rule 1908/4 (Power=1)
 Abandoned Property
 
-      Property which is possessed by an entity which has no Executor,
-      is deemed "abandoned".
+      Property possessed by an entity (the Dissolute) without a Prime
+      Executor is deemed to be abandoned as long as it is possessed by
+      the Dissolute.
 
-      The Notary shall be a Limited Executor of any entity which
-      possesses abandoned Property, and on behalf of that entity e
-      may:
+      The Notary is a Limited Executor of each Dissolute, on behalf of
+      whom e may:
 
-      (1) transfer Property owned by that entity to any entity to
-          which the dissolute entity owes debts, for the purpose of
-          making partial or complete payment on those debts;
+      (1) transfer property owned by em to any creditor of any of eir
+          debts, for the purpose of making partial or complete payment
+          on those debts;
 
-      (2) forgive in part or in full any debts owed to it;
+      (2) forgive in part or in full any debts owed to em;
 
-      (3) Without Objection, transfer Property owned by it to the
-          Bank; or
+      (3) Without Objection, transfer property owned by em to the
+          Bank, unless the Dissolute was a player before eir property
+          was abandoned; or
 
-      (4) transfer Property to satisfy the Will, provided that all
-          debts for that type of Property that the entity had when it
-          lost its Executor have been satisfied.
+      (4) transfer property to satisfy the Dissolute's Will, provided
+          that the Dissolute was not Silent when e lost eir Prime
+          Executor and all debts for that type of property that the
+          Dissolute had when e lost eir Prime Executor have been
+          satisfied.
 
-      If an entity which possesses property of any sort dies,
-      dissolves, or otherwise ceases to exist, that entity is
-      nonetheless considered to continue to exist for the purpose of
-      those Rules pertaining to the possession and disposition of
-      Property, for as long as it continues to possess Property.
+      If any entity possessing property dies, dissolves, or otherwise
+      ceases to exist, that entity shall be deemed to exist for as
+      long as e possesses property.
 
 History:
 Created by Proposal 3896 (Elysion), Aug. 27 1999
 Amended(1) by Proposal 3930 (Murphy), Oct. 17 1999
 Amended(2) by Proposal 4018 (Kelly), Jun. 21 2000
 Amended(3) by Proposal 4082 (Peekee), Oct. 30 2000
+Amended(4) by Proposal 4211 (harvel), 10 September 2001
 
 ----------------------------------------------------------------------
 
@@ -6989,7 +6904,48 @@ Amended(1) by Proposal 4190 (Steve), 18 July 2001
 
 ----------------------------------------------------------------------
 
+Rule 2006/0 (Power=1)
+Looting Auctions
 
+      As soon as possible after a player becomes a Dissolute, the
+      Notary shall initiate an Auction for the privilege of Looting
+      the Corpse of the Dissolute.  Once a Looting Auction begins, the
+      Notary may not transfer property on behalf of the Dissolute
+      until either the Auction ends without any winning bids or the
+      winning bidder defaults on eir bid or loses eir privilege to
+      Loot the Corpse of that Dissolute.
+
+      Looting Auctions shall follow the default procedure for Auctions
+      with the following modifications:
+
+      (1) The Auctioneer shall be the Notary.
+      (2) The Auction Currency shall be Indulgences.
+      (3) The Starting Price shall be the number of Blots the
+          Dissolute had when e became a Dissolute, or one Indulgence
+          if the Dissolute was Immaculate.
+      (4) The Auction shall be for a temporary privilege, not for an
+          item, and so no debt of items to the winning Bidder when eir
+          bill is paid shall be incurred.
+
+      If there are no winning bids for the privilege of Looting the
+      Corpse of that Dissolute, the Notary must, as soon as possible
+      after the end of the Looting Auction, transfer all the
+      Dissolute's property to the Bank.
+
+      When the winning bidder pays eir bill from the Looting Auction,
+      e gains the privilege of Looting the Corpse of that Dissolute; e
+      becomes a Limited Executor of the Dissolute, with the authority
+      to transfer property from the Dissolute to emself.  One week
+      after e gains this privilege, e loses it, and ceases to be a
+      Limited Executor of the Dissolute.  If the Dissolute still has
+      property after the winning bidder loses this privilege, the
+      Notary must transfer the Dissolute's remaining property to the
+      Bank as soon as possible afterward.
+
+History:
+Created by Proposal 4211 (harvel), 10 September 2001
+
+----------------------------------------------------------------------
 
 ======================================================================
 Currencies
@@ -8100,26 +8056,31 @@ Amended(6) by Proposal 4085 (Blob), Nov. 16 2000
 
 ----------------------------------------------------------------------
 
-Rule 1910/3 (Power=1)
+Rule 1910/4 (Power=1)
 Stems
 
-      Stems are a Bank Currency. The MUQ of Stems is 1. The
+      Stems are a Bank Currency.  The MUQ of Stems is 1.  The
       Recordkeepor for Stems is the Payroll Clerk.
 
-      Transfers of Stems are permitted only if either the transferor
-      or the transferee is the Bank. All other transfers of Stems are
-      prohibited.
+      Transfers of Stems are permitted only if at least one of the
+      following is true:
 
-      However, in the case that an Organization somehow obtains Stems,
-      it shall nevertheless be allowed to transfer those to Players,
-      as long as this is done within seven days of when the Stems are
-      obtained.
+      (1) either the transferor or the transferee is the Bank;
+      (2) the Stems are to be transferred from a Dissolute to a player
+          who has the privilege of Looting the Corpse of that
+          Dissolute; or
+      (3) the transferor is an Organization, and the Stems to be
+          transferred had not been held continuously by the
+          Organization for one week.
+
+      All other transfers of Stems are prohibited.
 
 History:
 Created by Proposal 3897 (harvel), Aug. 27 1999
 Amended(1) by Proposal 3940 (Blob), Nov. 15 1999
 Amended(2) by Proposal 4018 (Kelly), Jun. 21 2000
 Amended(3) by Proposal 535[2001] (Elysion), Feb. 2 2001
+Amended(4) by Proposal 4211 (harvel), 10 September 2001
 
 ----------------------------------------------------------------------
 
@@ -8687,46 +8648,6 @@ Amended(4) by Proposal 3823 (Oerjan), Jan. 21 1999
 Amended(5) by Proposal 3901 (Schneidster), Sep. 6 1999
 
 ----------------------------------------------------------------------
-
-Rule 1924/3 (Power=1)
-Living Twice Shall Have Its Price
-
-      O Agorans! Please hear my claim:
-      A dark injustice mars our game.
-      Though politics should not be easy
-      For Zombie Masters life is breezy.
-      The ordinary Player's stressed,
-      The Zombie Master's triply bless'd
-      With extra votes, and extra Roles
-      And Stems enough to buy mink stoles.
-      With all these perks, it seems they oughtta
-      Pay more than one Indulgence per Quarter.
-
-      And so, henceforth, for justices' sake,
-      Let them this payment monthly make.
-      The Registrar, who keeps our lists,
-      For every Zombie that exists,
-      Shall, at the end of each month passed, a
-      Lone Indulgence bill the Master.
-      And should this Upkeep be not paid
-      Asap, the Master's disobeyed
-      This Rule, and makes a wretched journey,
-      Loses the Power of Attorney
-      O'er that Zombie. More disaster!
-      The Registrar shall bill the Master
-      For the Zombie - but forgive
-      The Upkeep debt, and thusly shrive
-      The Master. That's the heavy price
-      That must be paid for living twice.
-
-History:
-Created by Proposal 3936 (Elysion), Oct. 31 1999
-Amended(1) by Proposal 4039 (Elysion), Aug. 7 2000
-Amended(2) by Proposal 4099 (Murphy), Jan. 15 2001
-Amended(3) by Proposal 4118 (Goethe), Mar. 6 2001
-
-----------------------------------------------------------------------
-
 
 
 ======================================================================
@@ -10011,5 +9932,92 @@ Moving in Arcadia
 
 History:
 Created by Proposal 4207 (neil), 3 September 2001
+
+----------------------------------------------------------------------
+
+Rule 2004/0 (Power=1)
+Land Auctions
+
+      As soon as possible after the tenth day of each Month, the
+      Mapkeepor shall, if the number of units of Land held by players
+      is less than one half the total number of units of Land, auction
+      a number of units of Land not to exceed 10.  The units of Land
+      to be Auctioned are:
+        * if there exist at least 10 Units of non-Aether Land in the
+          possession of the Land Bureau: any 10 such Units of Land, to
+          be chosen by the Mapkeepor;
+        * if there exist fewer than 10 Units of non-Aether Land in the
+          possession of the Land Bureau: all such Units.
+
+      There shall be a separate Auction for each Unit of Land under
+      consideration.  These Auctions shall be conducted concurrently.
+      For each of these Auctions:
+        * The item to be Auctioned is the piece of Land in question.
+        * The Procedure to be used is the Vickrey Auction.
+        * The Auctioneer shall be the Mapkeepor.
+        * The Auction shall be conducted in Indulgences.
+
+History:
+Created by Proposal 4210 (neil), 10 September 2001
+
+----------------------------------------------------------------------
+
+Rule 2005/0 (Power=1)
+Tolls
+
+      A Player who owns Land may impose a Toll on any (currently
+      un-Tolled) piece of Land e owns.  To do so, e must pay a Fee of
+      0.2 Indulgences and clearly and unambiguously identify the Unit
+      of Land in question, as well as the amount of the Toll for that
+      Unit of Land.
+
+      A Toll is a number of VEs, Indulgences, or Papyri.  No Unit of
+      Land may have a Toll in other currencies, or in more than one of
+      these currencies.  No Toll shall be greater than 200 times the
+      MUQ of the currency in which it is denominated.  If a Player
+      (the Tollee) Moves into a Unit of Land which is at the time
+      owned by another Player (the Toller), and for which there is at
+      the time a Toll established, e (the Tollee) is said to be In
+      Toll to the Unit of Land in question, for the amount of the Toll
+      on that unit of land (at the time of the Move)
+
+      The owner (Toller) of a Unit of Land may notify the Mapkeepor
+      that e believes a Player has been In Toll to a Unit of Land
+      owned by em; to do so, e submits a Notification of Toll, which
+      must unambiguously describe the Unit of Land in question, the
+      amount of the Toll, and the Player (alleged Tollee) in question.
+      The alleged Move must have occurred within the past week.  A
+      Player may submit only one such Notification for a given Unit of
+      Land in a single week, and may not submit substantially the same
+      Notification two weeks in a row.  Any Notification of Toll
+      contrary to this Rule is invalid and shall be discarded.
+
+      If, in the Mapkeepor's determination, the alleged Tollee was in
+      fact, in the week before the Notification, In Toll to the
+      specified Unit of Land for the specified amount, the Mapkeepor
+      shall confirm the Toll by publicly informing the Tollee and the
+      Toller.  The Tollee then incurs to the Toller a debt equal to
+      the Toll specified in the Notification.  If, in the Mapkeepor's
+      determination, the alleged Tollee was not In Toll to the
+      specified Unit of Land for the specified amount, e shall deny
+      the Notification by informing the Toller of eir determination.
+
+      If the Mapkeepor fails to respond to a valid Notification of
+      Toll, e commits the Class 2 Crime of Looking the Other Way.  If
+      the Mapkeepor confirms a Notification of Toll when in fact the
+      alleged Tollee was not In Toll to the specified Unit of Land for
+      the specified amount, e (the Mapkeepor) commits the Class 3
+      Crime of Conspiracy to Commit Highway Robbery.  If the Mapkeeper
+      denies a Notification of Toll when in fact the alleged Tollee
+      was In Toll to the specified Unit of Land for the specified
+      amount, e (the Mapkeepor) commits the Class 3 Crime of Not
+      Feeding the Toll Under the Bridge.
+
+      A Player may remove a Toll from any Tolled Unit of Land e owns.
+      If a Player loses possession of a Unit of Land, all Tolls
+      imposed on that Unit by that Player are removed.
+
+History:
+Created by Proposal 4210 (neil), 10 September 2001
 
 ----------------------------------------------------------------------
