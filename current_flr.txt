@@ -21,13 +21,13 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 317 Rules:
+There are currently 315 Rules:
    19 with Power=3
    34 with Power=2
-  264 with Power=1
+  262 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2003
+Highest current Rule Number:         2006
 Highest Rule Number assigned so far: 2006
 
 ======================================================================
