@@ -2773,11 +2773,11 @@ Amended(6) by Proposal 3445 (General Chaos), Mar. 26 1997, substantial
 
 ----------------------------------------------------------------------
 
-Rule 594/6 (Power=3)
+Rule 594/7 (Power=3)
 Power and Proposals
 
       No Rule may have Power less than 1 or greater than 4.  Except as
-      described in this Rule, no entity can set the Power of another
+      described in this Rule, no entity can set the Power of any
       entity to exceed the Power of the entity causing the Power to be
       so set.  No entity may destroy or repeal an entity with Power
       greater than its own.
@@ -2811,6 +2811,7 @@ Amended(4) by Proposal 4327 (Goethe), 9 June 2002
 Amended(5) by Proposal 4328 (Goethe), 9 June 2002
 Power changed from 2 to 3 by Proposal 4329 (Goethe), 9 June 2002
 Amended(6) by Proposal 4329 (Goethe), 9 June 2002
+Amended(7) by Proposal 4349 (root), 20 July 2002
 
 ----------------------------------------------------------------------
 
