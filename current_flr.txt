@@ -29,7 +29,7 @@ There are currently 270 Rules:
 
 Lowest current Rule Number:           101
 Highest current Rule Number:         2080
-Highest Rule Number assigned so far: 2080
+Highest Rule Number assigned so far: 2081
 
 ======================================================================
 Table of Contents:
@@ -2447,7 +2447,7 @@ The Oligarchy
   Oligarchy.
 ----------------------------------------------------------------------
 
-Rule 1932/7 (Power=2)
+Rule 1932/8 (Power=2)
 Shareholders and the Corporation
 
       The following Elements for Cards are defined:
@@ -2459,13 +2459,13 @@ Shareholders and the Corporation
       The following Classes of Cards are defined:
 
       * Caption: One Share
-        Elements: Budgeted, Shares [1]
+        Elements: Budgeted, Shares [1], Handed [2]
 
       * Caption: Two Shares
-        Elements: Budgeted, Shares [2]
+        Elements: Budgeted, Shares [2], Handed [3]
 
       * Caption: Three Shares
-        Elements: Budgeted, Shares [3]
+        Elements: Budgeted, Shares [3], Handed [4]
 
       * Caption: Corporate Bankruptcy
         Quota: 1
@@ -2493,6 +2493,7 @@ Amended(4) by Proposal 4221 (Steve), 10 October 2001
 Amended(5) by Proposal 4555 (Elysion), 22 March 2004
 Amended(6) by Proposal 4576 (Murphy), 31 May 2004
 Amended(7) by Proposal 4614 (Goethe), 21 September 2004
+Amended(8) by Proposal 4638 (root), 19 February 2005
 
 ----------------------------------------------------------------------
 
@@ -3222,7 +3223,7 @@ Amended(1) by Proposal 3736 (Blob), May 3 1998
 
 ----------------------------------------------------------------------
 
-Rule 2034/0 (Power=3)
+Rule 2034/1 (Power=3)
 Votes are Protected
 
       Any Proposal that, as all or part of its effect, would change an
@@ -3238,8 +3239,14 @@ Votes are Protected
       construed as preventing the correction of errors in reporting
       the results of voting on Issues.
 
+      If the results of an issue are not challenged within seven days
+      after the Vote Collector announces them, then the announced
+      results are the true results of that issue, even if they would
+      otherwise be in error.
+
 History:
 Created by Proposal 4366 (Steve), 23 August 2002
+Amended(1) by Proposal 4637 (Murphy), 19 February 2005
 
 ----------------------------------------------------------------------
 
@@ -3964,7 +3971,7 @@ Referenda and Elections
   other than Proposals, particularly Referenda and Elections.
 ----------------------------------------------------------------------
 
-Rule 1434/11 (Power=1)
+Rule 1434/12 (Power=1)
 Default Procedure for Referendum Voting
 
       When a Referendum Vote is required and the procedure is not
@@ -4039,12 +4046,6 @@ Default Procedure for Referendum Voting
         Collector correctly announces that it passes.  The effect of a
         Referendum is defined by other Rules.
 
-      * Cutoff for Challenges: If the results of a Referendum are not
-        challenged within seven days after the Vote Collector
-        announces them, then the announced results are the true
-        results of that Referendum, even if they would otherwise be in
-        error.
-
 History:
 Created by Proposal 1456, Mar. 1 1995
 Amended(1) by Proposal 2543, Mar. 19 1996
@@ -4058,10 +4059,11 @@ Amended(8) by Proposal 4147 (Wes), 13 May 2001
 Amended(9) by Proposal 4257 (Murphy), 21 February 2002
 Amended(10) by Proposal 4258 (Murphy), 21 February 2002
 Amended(11) by Proposal 4629 (Murphy), 19 December 2004
+Amended(12) by Proposal 4637 (Murphy), 19 February 2005
 
 ----------------------------------------------------------------------
 
-Rule 1445/17 (Power=1)
+Rule 1445/18 (Power=1)
 Defaults for Elections
 
       When an Election is required and the procedure is not defined
@@ -4167,12 +4169,6 @@ Defaults for Elections
         Collector correctly announces the identity of its winner.  The
         effect of an Election is defined by other Rules.
 
-      * Cutoff for Challenges: If the results of an Election are not
-        challenged within seven days after the Vote Collector
-        announces them, then the announced results are the true
-        results of that Election, even if they would otherwise be in
-        error.
-
 History:
 Created by Proposal 1499 (Blob), Mar. 24 1995
 Amended(1) by Proposal 1763, Oct. 31 1995
@@ -4193,6 +4189,7 @@ Amended(14) by Proposal 4031 (Elysion), Jul. 24 2000
 Amended(15) by Proposal 4147 (Wes), 13 May 2001
 Amended(16) by Proposal 4257 (Murphy), 21 February 2002
 Amended(17) by Proposal 4480 (Steve), 23 April 2003
+Amended(18) by Proposal 4637 (Murphy), 19 February 2005
 
 ----------------------------------------------------------------------
 
