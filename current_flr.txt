@@ -21,15 +21,15 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 309 Rules:
+There are currently 310 Rules:
     1 with Power=4
-   22 with Power=3
+   23 with Power=3
    40 with Power=2
   246 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2044
-Highest Rule Number assigned so far: 2044
+Highest current Rule Number:         2045
+Highest Rule Number assigned so far: 2045
 
 ======================================================================
 Table of Contents:
@@ -1090,24 +1090,27 @@ Amended(10) by Proposal 4344 (Goethe), 11 July 2002
 
 ----------------------------------------------------------------------
 
-Rule 1976/3 (Power=1)
+Rule 1976/4 (Power=1)
 Mentors' Bonus
 
       In the four weeks immediately after eir Grace Period ends, a
-      Player can award a Mentor's Bonus to any other players e deems
-      to have been most helpful to em as a new Player.  E can only
-      make one such award, but may split it among any number of
-      players.
+      Player (hereafter, the 'Protege') may award a Mentor's Bonus to
+      each Player (hereafter, a 'Mentor') e deems to have been helpful
+      to em as a new Player.
 
-      The award is made by public announcement. Upon such an
-      announcement the Bank shall incur a debt in Stems to the named
-      Mentor equal to the New Player Award for Stems.
+      Each award is made by public announcement and must specify the
+      Mentor's name and a number of Stems. Upon such an announcement
+      the Bank shall incur a debt of that number of Stems to the named
+      Mentor.  The number of Stems a Protege may award in all of eir
+      Mentor's Bonuses shall not exceed the number of Stems in the New
+      Player Award.
 
 History:
 Created by Proposal 4143 (Blob), Apr. 22 2001
 Amended(1) by Proposal 4172 (root), 26 June 2001
 Amended(2) by Proposal 4211 (harvel), 10 September 2001
 Amended(3) by Proposal 4316 (Craig), 28 May 2002
+Amended(4) by Proposal 4468 (Sherlock), 17 March 2003
 
 ----------------------------------------------------------------------
 
@@ -2911,7 +2914,7 @@ Amended(6) by Proposal 3445 (General Chaos), Mar. 26 1997, substantial
 
 ----------------------------------------------------------------------
 
-Rule 594/7 (Power=3)
+Rule 594/8 (Power=3)
 Power and Proposals
 
       No Rule may have Power less than 1 or greater than 4.  Except as
@@ -2924,10 +2927,6 @@ Power and Proposals
       its Adoption Index, and the provisions contained in the text of
       the Proposal are implemented to the maximal extent permitted by
       the Rules.
-
-      The Adoption Index of a Proposal is the maximum of 1, the value
-      requested by its Proposer (if any), and the value required for
-      that Proposal by the Rules (if any).
 
       Provisions which are unclear, ambiguous, or inapplicable are
       ignored.  In a Proposal containing more than one provision, each
@@ -2950,6 +2949,40 @@ Amended(5) by Proposal 4328 (Goethe), 9 June 2002
 Power changed from 2 to 3 by Proposal 4329 (Goethe), 9 June 2002
 Amended(6) by Proposal 4329 (Goethe), 9 June 2002
 Amended(7) by Proposal 4349 (root), 20 July 2002
+Amended(8) by Proposal 4464 (root), 17 March 2003
+
+----------------------------------------------------------------------
+
+Rule 2045/0 (Power=3)
+Adoption Indices
+
+      1) The Default Adoption Index of a Proposal is the maximum of:
+
+         a) 1; and
+
+         b) any minimum values required for that Proposal by the
+            Rules.
+
+      2) The Proposer of a Proposal may, at the time when e submits
+         the Proposal or at any time while it is in the Pool, request
+         an Adoption Index for that Proposal by announcement,
+         specifying the requested value.
+
+      3) When a Proposal is distributed, its Adoption Index is set to
+         the maximum of:
+
+         a) its Default Adoption Index; and
+
+         b) any values requested by its Proposer as permitted in 2).
+
+
+      4) This is the only mechanism for setting or changing the
+         Adoption Index of a Proposal.  This Rule takes precedence
+         over Rules that would allow other mechanisms for setting or
+         changing the Adoption Index of a Proposal.
+
+History:
+Created by Proposal 4464 (root), 17 March 2003
 
 ----------------------------------------------------------------------
 
@@ -8428,7 +8461,7 @@ Amended(4) by Proposal 4453 (Sherlock), 22 February 2003
 
 ----------------------------------------------------------------------
 
-Rule 1929/5 (Power=1)
+Rule 1929/6 (Power=1)
 Points
 
       A Player's Score is a measure of that Player's unloserliness,
@@ -8448,7 +8481,7 @@ Points
          -- It must be sent within 7 days of the event
          -- It must unambiguously describe the event
          -- It must indicate the Rule allowing the Award or Penalty
-         -- It must be the first such notification for that specific
+         -- It must be the first valid notification for that specific
             event
 
 History:
@@ -8458,6 +8491,7 @@ Amended(2) by Proposal 4141 (Wes), Apr. 15 2001
 Amended(3) by Proposal 4141 (Wes), Apr. 15 2001
 Amended(4) by Proposal 4180 (Elysion), 7 July 2001
 Amended(5) by Proposal 4453 (Sherlock), 22 February 2003
+Amended(6) by Proposal 4467 (OscarMyer), 17 March 2003
 
 ----------------------------------------------------------------------
 
