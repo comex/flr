@@ -12,9 +12,9 @@ Title of Rule
 Annotation: as required by Rule 789.  Some include a list of
 Relevant Rules.
 
-[Note: annotations enclosed in brackets are my own and
- are entirely unofficial.  They have no legal force in and
- of themselves.]
+[Note: annotations enclosed in brackets are due to past and present
+ Rulekeepors, and are entirely unofficial.  They have no legal force
+ in and of themselves.]
 
 History: Some Rules include a complete or partial history.
 An ellipsis (...) indicates that the history is incomplete.
@@ -27,8 +27,8 @@ There are currently 300 Rules:
   251 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         1984
-Highest Rule Number assigned so far: 1984
+Highest current Rule Number:         1985
+Highest Rule Number assigned so far: 1985
 
 
 
@@ -959,50 +959,36 @@ Amended(9) by Proposal 4155 (harvel), 18 May 2001
 
 ----------------------------------------------------------------------
 
-Rule 1976/0 (Power=1)
+Rule 1976/1 (Power=1)
 Mentor's Bonus
 
       In the four weeks immediately after eir Grace Period ends, a
-      Player can award a Mentor's Bonus to any other player e deems
-      to have been most helpful to em as a new Player. E can only
-      make one such award. A Zombie may not make such an award.
+      Player can award a Mentor's Bonus to any other player e deems to
+      have been most helpful to em as a new Player. E can only make
+      one such award. A Zombie may not make such an award.
 
       The award is made by public announcement. Upon such an
-      announcement the Bank shall incur a debt to the named Mentor
-      equal to the New Player Award.
+      announcement the Bank shall incur a debt in Stems to the named
+      Mentor equal to the New Player Award for Stems.
 
 History:
 Created by Proposal 4143 (Blob), Apr. 22 2001
+Amended(1) by Proposal 4172 (root), 26 June 2001
 
 ----------------------------------------------------------------------
 
-Rule 1970/1 (Power=1)
+Rule 1970/2 (Power=1)
 The Usuror
 
       The Office of the Usuror is hereby established.
 
-      The Usuror shall have a Budget.  The Usuror's Budget shall
-      consist of the following items:
-
-        (i) The Basic Fee for issuing Bonds.  This Fee shall be
-            expressed as a multiple of the Basic Officer Salary and
-            shall be an integral multiple of 0.1, not less than 0, and
-            not greater than 4.
-
-       (ii) The purchase rates at which the Bank will buy Bonds in
-            Stems.  These rates are expressed as percentages, in the
-            range 0% to 100% inclusive. Each purchase rate applies
-            only to a single combination of face value and time to
-            maturity. Different rates may apply to different such
-            combinations. Any combination for which no rate is
-            specified has a purchase rate of 0%.
-
-      (iii) The Credit Limit, which is a multiple of the Basic
-            Officer Salary, between 0 and 10 inclusive.
+      The Usuror is a Limited Executor of the Bank, with the authority
+      to satisfy debts of Bonds owed by the Bank to its creditors.
 
 History:
 Created by Proposal 4126 (Kelly), Mar. 28 2001
 Amended(1) by Proposal 4144 (Blob), Apr. 22 2001
+Amended(2) by Proposal 4171 (Blob), 26 June 2001
 
 ----------------------------------------------------------------------
 
@@ -3491,6 +3477,9 @@ CFJ 1178, Judged TRUE Nov. 18 1999: "Rule 1729 permits voting on
 Insane Proposals by private message to the Assessor, even when the
 prevailing mode of voting on Proposals is Public."
 
+[CFJ 1078, Judged TRUE 8 January 1998: "Morendil violated Rule 1729 by
+ voting on Proposal 3640 in the Public Forum."]
+
 History:
 Created by Proposal 3527 (Oerjan), Jul. 8 1997 (unattributed)
 Amended(1) by Proposal 3833 (Vlad), Feb. 15 1999
@@ -4673,23 +4662,27 @@ Calling for Judgement
   This Category includes Rules regulating calling for Judgement.
 ----------------------------------------------------------------------
 
-Rule 991/3 (Power=2)
+Rule 991/4 (Power=2)
 Invoking Judgement
 
-      Any Player who seeks formal resolution of any dispute pertaining
-      to this Nomic shall be permitted to request such by submitting a
-      Call for Judgement to the Clerk of the Courts.  For the purpose
-      of this and other Rules, the submission of a Call for Judgement
+      Any person may seek formal resolution of any dispute pertaining
+      to this Nomic by submitting a Call for Judgement (CFJ) to the
+      Clerk of the Courts or Justiciar.  Any document submitted to the
+      Clerk of the Courts or Justiciar and which is clearly marked as
+      a Call for Judgement is a Call for Judgement.  (Although any CFJ
+      may be filed with the Justiciar, Players are encouraged to file
+      with the CotC unless there is a good reason not to.)
+
+      For the purpose of this and other Rules, the submission of a CFJ
       shall constitute proof of the existence of a dispute.
 
-      Any document submitted to the Clerk of the Courts and which is
-      clearly marked as a Call for Judgement is a Call for Judgement.
-
-      The Clerk shall distribute the text of a Call for Judgement,
-      along with any additional material submitted by the Caller
-      (including, but not limited to, Arguments and Evidence) not
-      later than the time e announces the identity of the first Judge
-      assigned to Judge it.
+      The Clerk shall distribute the text of a CFJ along with any
+      additional material submitted by the Caller (including, but not
+      limited to, Arguments and Evidence) not later than the time e
+      announces the identity of the first Judge assigned to Judge it.
+      However, if the CFJ is submitted to the Justiciar, e shall
+      perform all duties of the Clerk of the Courts with respect to
+      that CFJ.
 
 [CFJ 888: Non-Players may make Calls for Judgement.]
 
@@ -4702,19 +4695,7 @@ Infected and amended(1) by Rule 1454, Oct. 23 1995
 Amended(2) by Proposal 2042, Dec. 11 1995
 Amended(3) by Proposal 2457, Feb. 16 1996
 Mutated from MI=1 to MI=2 by Proposal 2669, Sep. 19 1996
-
-----------------------------------------------------------------------
-
-Rule 1831/0 (Power=1)
-Filing a CFJ with the Justiciar
-
-      A CFJ alleging that the Clerk of the Courts has failed to
-      perform a duty of eir Office may, at the Caller's option, be
-      filed with the Justiciar, who shall then perform all the duties
-      of the Clerk of the Courts with respect to that CFJ.
-
-History:
-Created by Proposal 3704 (General Chaos), Mar. 19 1998
+Amended(4) by Proposal 4170 (Elysion), 26 June 2001
 
 ----------------------------------------------------------------------
 
@@ -6569,19 +6550,21 @@ Amended(1) by Proposal 1922 (Goethe), Mar. 28 2001
 
 ----------------------------------------------------------------------
 
-Rule 651/1 (Power=1)
+Rule 651/2 (Power=1)
 Heroes
 
       Let there be the Patent Title known as Hero, which shall be
       awarded to those persons who gave outstanding service to Agora
-      Nomic or Nomics as a whole, but who are no longer Players or
-      who never were Players. No Player may Bear the Patent Title of
-      Hero.
+      Nomic or Nomics as a whole, but who are no longer Players or who
+      never were Players.  If a person Bearing the Patent Title of
+      Hero is registered as a Player, e shall cease to Bear that
+      Patent Title.
 
 History:
 Created by Proposal 651 (Wes), ca. Oct. 22 1993
 ...
 Amended(1) by Proposal 4110 (Ziggy), Feb. 13 2001
+Amended(2) by Proposal 4173 (Goethe), 26 June 2001
 
 ----------------------------------------------------------------------
 
@@ -7099,6 +7082,19 @@ Property Transfers
           transferee to incur a debt to the transferor for the
           Property transferred.
 
+[In CFJ 1302, judged TRUE on 26 June 2001, the Judge agreed with the
+ caller's argument that "a 'conditionally expressed Notice of
+ Transfer' (that is, a message which appears to be a Notice of
+ Transfer but with a condition attached), where a reasonable person
+ would conclude that the sender of the purported Notice of Transfer
+ did not possess, at the time e sent the purported Notice of Transfer,
+ immediate knowledge as to whether the condition was true, does not
+ express an 'intent to transfer one or more Properties' and as such is
+ not a Notice of Transfer.  Rather, such a message expresses an intent
+ to achieve a certain state of affairs which may or may not include a
+ transfer, and as such fails to set forth the requisite intent
+ required by Rule 1598."]
+
 History:
 Created by Proposal 2493, Feb. 16 1996
 Amended(1) by Proposal 2626, Jun. 29 1996
@@ -7587,6 +7583,37 @@ Bonds
   Usuror.
 ----------------------------------------------------------------------
 
+Rule 1985/0 (Power=1)
+The Usuror's Budget
+
+      The Usuror shall have a Budget.  The Usuror's Budget shall
+      consist of the following items:
+
+        (i) The Basic Fee for issuing Bonds.  This Fee shall be
+            expressed as a multiple of the Basic Officer Salary and
+            shall be an integral multiple of 0.1, not less than 0, and
+            not greater than 4.
+
+       (ii) The purchase rates at which the Bank will buy Bonds in
+            each Bank Currency. These rates are expressed as
+            percentages, in the range 0% to 100% inclusive. Each
+            purchase rate applies only to a single combination of face
+            value and time to maturity. Different rates may apply to
+            different such combinations. Any combination for which no
+            rate is specified has a purchase rate of 0%.
+
+      (iii) The Credit Limit for Stems which is a multiple of the
+            Basic Officer Salary, between 0 and 10 inclusive.
+
+       (iv) The Credit Limit for each Bank currency, other than Stems,
+            which is a multiple of the MUQ of that Currency between 0
+            and 10 inclusive.
+
+History:
+Created by Proposal 4171 (Blob), 26 June 2001
+
+----------------------------------------------------------------------
+
 Rule 1966/0 (Power=1)
 Bonds
 
@@ -7771,20 +7798,21 @@ Created by Proposal 4144 (Blob), Apr. 22 2001
 
 ----------------------------------------------------------------------
 
-Rule 1978/0 (Power=1)
+Rule 1978/1 (Power=1)
 Credit and Credit Limits
 
-      A Player's current credit is equal to the sum of the values of
-      all Bonds owned by the Bank issued by that Player with a face
-      value in Stems. Each Player's credit value shall be part of the
-      Usuror's Weekly Report.
+      A Player's current credit in a given currency is equal to the sum
+      of the values of all Bonds owned by the Bank issued by that Player
+      with a face value in that currency. Each Player's credit value in
+      each currency shall be part of the Usuror's Weekly Report.
 
       The sale of a Bond is permitted only if it would not cause that
-      Player's credit to exceed the Credit Limit set forth in the
-      Usuror's Budget.
+      Player's credit to exceed the Credit Limit in the currency in
+      question as set forth in the Usuror's Budget.
 
 History:
 Created by Proposal 4144 (Blob), Apr. 22 2001
+Amended(1) by Proposal 4171 (Blob), 26 June 2001
 
 ----------------------------------------------------------------------
 
