@@ -21,15 +21,15 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 306 Rules:
+There are currently 307 Rules:
     1 with Power=4
-   19 with Power=3
-   36 with Power=2
-  250 with Power=1
+   20 with Power=3
+   37 with Power=2
+  249 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2031
-Highest Rule Number assigned so far: 2031
+Highest current Rule Number:         2032
+Highest Rule Number assigned so far: 2032
 
 ======================================================================
 Table of Contents:
@@ -5051,17 +5051,41 @@ Amended(9) by Proposal 4298 (Murphy), 17 May 2002
 
 ----------------------------------------------------------------------
 
-Rule 1871/1 (Power=1)
+Rule 1871/2 (Power=1)
 Turns for All
 
-      Whenever a Player is selected as Trial Judge of a CFJ, e becomes
-      ineligible to be Trial Judge of any future CFJs.  Whenever there
-      are no Players eligible to be Trial Judge of a CFJ, all Players
-      ineligible solely because of this Rule become eligible again.
+      Whenever a Player is selected as Trial Judge of a CFJ, e begins
+      to Turn Around And Around.  Players who are Turning Around And
+      Around are ineligible to be Trial Judge of any future CFJs.
+
+      Whenever there are no Players eligible to be Trial Judge of a
+      CFJ, all Players who are Turning Around And Around cease Turning
+      Around And Around.
 
 History:
 Created by Proposal 3821 (Blob), Jan. 12 1999
 Amended(1) by Proposal 4298 (Murphy), 17 May 2002
+Amended(2) by Proposal 4342 (root), 8 July 2002
+
+----------------------------------------------------------------------
+
+Rule 2032/0 (Power=1)
+Errors in Judge Selection
+
+      If the Clerk of the Courts errs in good faith by selecting a
+      Player to Judge a CFJ or Appeal, who:
+
+      a) e believes at the time of selection to be eligible to judge
+         the CFJ or Appeal; and
+      b) is not eligible to judge the CFJ or Appeal at the time of
+         selection solely because e is Turning Around And Around;
+
+      then that selection shall stand and the selected Player shall
+      become a Judge of that CFJ or Appeal, as if e had been eligible
+      to judge it.
+
+History:
+Created by Proposal 4342 (root), 8 July 2002
 
 ----------------------------------------------------------------------
 
@@ -6153,17 +6177,23 @@ Amended(1) by Proposal 3768 (Chuck), Jul. 22 1998
 
 ----------------------------------------------------------------------
 
-Rule 1816/0 (Power=1)
+Rule 1816/1 (Power=3)
 No Double Jeopardy for Crimes
 
-      Any CFJ whose Statement alleges that an entity has, through
-      action or inaction, committed a Crime shall be dismissed if
-      there is a prior CFJ, the statement of which alleges that the
-      same entity has, through the same action or inaction, committed
-      the same Crime, and which was itself not dismissed.
+      (a) No Player may be penalized more than once for any single
+          act, or failure to act, that is in violation of one or more
+          Rules.
+
+      (b) Where a CFJ exists whose Statement alleges that a Player has
+          through action or inaction violated a Rule, and that CFJ has
+          not been dismissed, any further CFJ alleging that the same
+          Player has through the same action or inaction violated the
+          same Rule, lacks standing and shall be dismissed.
 
 History:
 Created by Proposal 3704 (General Chaos), Mar. 19 1998
+Amended(1) by Proposal 4341 (Steve), 8 July 2002
+Power changed from 1 to 3 by Proposal 4341 (Steve), 8 July 2002
 
 ----------------------------------------------------------------------
 
@@ -6561,13 +6591,13 @@ Amended(7) by Proposal 4110 (Ziggy), Feb. 13 2001
 
 ----------------------------------------------------------------------
 
-Rule 1923/8 (Power=1)
+Rule 1923/9 (Power=1)
 Defined Unique Patent Titles
 
       The following are Unique Patent Titles:
 
       (a)  Robespierre, which shall automatically be awarded to the
-           Player who called for a Revolt, it the Revolt succeeds.
+           Player who called for a Revolt, if the Revolt succeeds.
 
       (b)  Miscreant, which shall automatically be awarded to a Player
            who has at least ten Blots and has a greater number of
@@ -6588,6 +6618,7 @@ Amended(5) by Proposal 4124 (Elysion), Mar. 28 2001
 Amended(6) by Proposal 4141 (Wes), Apr. 15 2001
 Amended(7) by Proposal 4313 (Sir Toby), 28 May 2002
 Amended(8) by Proposal 4320 (t), 28 May 2002
+Amended(9) by Proposal 4339 (Sir Toby), 8 July 2002
 
 ----------------------------------------------------------------------
 
@@ -6843,7 +6874,7 @@ Amended(2) by Proposal 4250 (harvel), 19 February 2002
 
 ----------------------------------------------------------------------
 
-Rule 2030/0 (Power=1)
+Rule 2030/0 (Power=2)
 Property Protection
 
       Rules to the contrary nonwithstanding, a provision of an adopted
@@ -6855,6 +6886,7 @@ Property Protection
 
 History:
 Created by Proposal 4329 (Goethe), 9 June 2002
+Power changed from 1 to 2 by Proposal 4340 (root), 8 July 2002
 
 ----------------------------------------------------------------------
 
