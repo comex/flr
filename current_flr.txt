@@ -21,15 +21,15 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 308 Rules:
+There are currently 309 Rules:
     1 with Power=4
    22 with Power=3
    40 with Power=2
-  245 with Power=1
+  246 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2043
-Highest Rule Number assigned so far: 2043
+Highest current Rule Number:         2044
+Highest Rule Number assigned so far: 2044
 
 ======================================================================
 Table of Contents:
@@ -2215,14 +2215,15 @@ Amended(3) by Proposal 4406 (Murphy), 30 October 2002
 
 ----------------------------------------------------------------------
 
-Rule 1728/10 (Power=2)
+Rule 1728/11 (Power=2)
 Dependent Actions
 
       An action is dependent, or may be performed dependently, if and
       only if it is an Action Without N Objections or an Action With N
-      Supporters, where N is a positive integer.  The phrase "Without
-      Objection" is synonymous with "Without 1 Objection", and the
-      phrase "With Support" is synonymous with "With 1 Supporter".
+      Supporters, where N is a nonnegative integer.  The phrase
+      "Without Objection" is synonymous with "Without 1 Objection",
+      and the phrase "With Support" is synonymous with "With 1
+      Supporter".
 
       A player may publicly announce eir intent to perform an
       unambiguously described dependent action.  A player may perform
@@ -2299,6 +2300,7 @@ Amended(8) by Proposal 4011 (Wes), Jun. 1 2000
 Power changed from 1 to 2 by Proposal 4121 (Ziggy), Mar. 16 2001
 Amended(9) by Proposal 4121 (Ziggy), Mar. 16 2001
 Amended(10) by Proposal 4279 (harvel), 3 April 2002
+Amended(11) by Proposal 4461 (Maud), 17 March 2003
 
 ----------------------------------------------------------------------
 
@@ -6994,38 +6996,89 @@ Amended(2) by Proposal 4099 (Murphy), Jan. 15 2001
 
 ----------------------------------------------------------------------
 
-Rule 1370/12 (Power=1)
+Rule 1370/13 (Power=1)
 How to Get a Degree
 
-      A person becomes a Candidate for a Degree when e publishes a
-      Thesis, authored by emself, along with a statement explicitly
-      indicating that the Thesis is being submitted with the intent to
-      qualify for a particular Degree.
+     A person becomes a Candidate for a Degree when e publishes a
+     Thesis Draft, authored by emself, along with a statement
+     explicitly indicating that the Thesis Draft is being submitted
+     with the intent to qualify for a particular degree.
 
-      If the Candidate is a Player, e may choose the first member of
-      eir Thesis Committee, called eir Chair; for non-players, the
-      Speaker will serve as Chair.  The Chair's Opposite is defined as
-      the Player who most often voted in the opposite manner of the
-      Chair in the last quarter; the Opposite becomes the second
-      committee member.  The Chair and eir Opposite will select, as
-      soon as possible, and by mutual agreement, the third member of
-      the committee.
+     If the Candidate is a Player, e may choose another Player to be
+     the first member of eir Thesis Committee, called eir Chair, with
+     the Chair's consent.  For non-players, or if no other Player
+     consents to be the Chair within one month of draft submission,
+     the Speaker will serve as Chair.
 
-      The Chair of the Thesis Committee for a particular Candidate may
-      grant that Degree to the Candidate if and only if:
+     If the Speaker is neither the Chair nor the Candidate, the
+     Speaker shall appoint a Player who is neither the Chair nor the
+     Candidate to be the second Committee member.  Otherwise, the
+     Justiciar shall so appoint, unless the Chair or the Candidate is
+     the Justiciar, in which case the Clerk of the Courts shall so
+     appoint.  The two Committee members shall then select, by mutual
+     consent, a third person who is not the Candidate to be the third
+     Committee member.
+
+     The Committee shall examine the Candidate and eir Thesis to
+     determine eir qualifications for the Degree.  The Candidate may
+     publish a new Thesis Draft at any time, in response to Committee
+     requests or of eir own choosing, by indicating it is a new Thesis
+     Draft for the same Degree.
+
+     If the Committee is dissolved without granting a degree, the
+     Committee ceases to be a Committee, and the Candidate ceases to
+     be a Candidate, and any existant Thesis Draft must be republished
+     and subject to a new Committee selection to be eligible for a
+     Degree.
+
+     The Chair of a Thesis Committee may dissolve the Committee
+     without granting a degree, with the consent of at least one other
+     Committee member.  To so dissolve, the Chair must publish a
+     notice of intent to dissolve at least 14 days before dissolving.
+     The Candidate may so dissolve the Committee at any time by public
+     announcement.
+
+     The Chair of the Thesis Committee for a particular Candidate may
+     award that Degree to the Candidate if and only if:
 
       * the Candidate has satisfied all prerequisites in the rules for
         the award of that Degree;
-
       * a majority of members of the Thesis Committee agree that the
-        Thesis produced by the Candidate is worthy of the Degree to be
-        granted; and
+        most recent Thesis draft produced by the Candidate is worthy
+        of the Degree to be granted; and
+      * fewer than seven years have passed since that Committee was
+        formed.
 
-      * fewer than seven years have passed since the time the Thesis
-        Committee was formed.
+      Each Committee Member may have up to 14 days after a Degree is
+      awarded to publish a Commentary for the Thesis.  After that
+      time, the Chair shall publish the most recent Thesis Draft along
+      with all Commentary so published.  This combined publication
+      shall become the Final Thesis.  Upon publication of this Final
+      Thesis the Committee members cease to be Committee members for
+      that Thesis.
 
-      The Rulekeepor shall retain a copy of each Thesis approved by
-      its Thesis Committee.
+      The Rulekeepor shall retain a copy of each Final Thesis.
+
+History:
+Created by Proposal 1370, Jan. 5 1995
+Amended(1) by Proposal 1508, Mar. 24 1995
+Amended(2) by Proposal 1754, Oct. 21 1995
+Amended(3) by Proposal 2399, Jan. 20 1996
+Amended(4) by Proposal 2487, Feb. 16 1996
+Amended(5) by Proposal 2682, Sep. 26 1996
+Amended(6) by Proposal 2715, Oct. 12 1996
+Amended(7) by Proposal 3445 (General Chaos), Mar. 26 1997, substantial
+Amended(8) by Proposal 3475 (Murphy), May 11 1997, substantial
+Amended(9) by Proposal 3787 (Steve), Sep. 12 1998
+Amended(10) by Proposal 4099 (Murphy), Jan. 15 2001
+Amended(11) by Proposal 4147 (Wes), 13 May 2001
+Amended(12) by Proposal 4303 (OscarMeyr), 17 May 2002
+Amended(13) by Proposal 4462 (Goethe), 17 March 2003
+
+----------------------------------------------------------------------
+
+Rule 2044/0 (Power=1)
+Awardable Degrees
 
       The Degree of Associate of Nomic requires a Thesis of at least
       150 words.  A Candidate who already holds an AN Degree receives
@@ -7051,23 +7104,9 @@ How to Get a Degree
       is related to Agora or Nomic in general.
 
 History:
-Created by Proposal 1370, Jan. 5 1995
-Amended(1) by Proposal 1508, Mar. 24 1995
-Amended(2) by Proposal 1754, Oct. 21 1995
-Amended(3) by Proposal 2399, Jan. 20 1996
-Amended(4) by Proposal 2487, Feb. 16 1996
-Amended(5) by Proposal 2682, Sep. 26 1996
-Amended(6) by Proposal 2715, Oct. 12 1996
-Amended(7) by Proposal 3445 (General Chaos), Mar. 26 1997, substantial
-Amended(8) by Proposal 3475 (Murphy), May 11 1997, substantial
-Amended(9) by Proposal 3787 (Steve), Sep. 12 1998
-Amended(10) by Proposal 4099 (Murphy), Jan. 15 2001
-Amended(11) by Proposal 4147 (Wes), 13 May 2001
-Amended(12) by Proposal 4303 (OscarMeyr), 17 May 2002
+Created by Proposal 4462 (Goethe), 17 March 2003
 
 ----------------------------------------------------------------------
-
-
 
 ======================================================================
 Property
@@ -8603,7 +8642,7 @@ Amended(4) by Proposal 4453 (Sherlock), 22 February 2003
 
 ----------------------------------------------------------------------
 
-Rule 1712/18 (Power=1)
+Rule 1712/19 (Power=1)
 Distribution of Indulgences
 
       (a) The Ideal Indulgence Circulation Level (IICL) is equal to
@@ -8642,15 +8681,14 @@ Distribution of Indulgences
           transferred from the Bank to other entities during that same
           Nomic Month.
 
-      (f) If the Indulgence Surplus is zero or negative at the
-          beginning of the month, the Herald may still conduct an
-          Indulgence auction, but only if e initiates it within one
-          week after the beginning of the month. The items to be
-          auctioned are individual Indulgences; the number of items is
-          chosen by the Herald, with a minimum of 1 and a maximum of
-          half the MBIG, rounded down to the nearest integer. The
-          Auctioneer shall be the Herald, and the Auction shall be
-          conducted in Stems.
+      (f) If the Indulgence Surplus is less than one at the beginning
+          of the month, the Herald may still conduct an Indulgence
+          auction, but only if e initiates it within one week after
+          the beginning of the month. The items to be auctioned are
+          individual Indulgences; the number of items is chosen by the
+          Herald, with a minimum of 1 and a maximum of half the MBIG,
+          rounded down to the nearest integer. The Auctioneer shall be
+          the Herald, and the Auction shall be conducted in Stems.
 
 History:
 Created by Proposal 3476 (Oerjan), May 11 1997
@@ -8672,6 +8710,7 @@ Amended(15) by Proposal 4281 (Goethe), 16 April 2002
 Amended(16) by Proposal 4356 (Steve), 7 August 2002
 Amended(17) by Proposal 4398 (harvel), 23 October 2002
 Amended(18) by Proposal 4423 (Murphy), 16 December 2002
+Amended(19) by Proposal 4463 (Cecilius), 17 March 2003
 
 ----------------------------------------------------------------------
 
