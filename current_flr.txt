@@ -21,18 +21,19 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 309 Rules:
+There are currently 282 Rules:
     1 with Power=4
    23 with Power=3
-   40 with Power=2
-  245 with Power=1
+   39 with Power=2
+  219 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2046
-Highest Rule Number assigned so far: 2046
+Highest current Rule Number:         2052
+Highest Rule Number assigned so far: 2052
 
 ======================================================================
 Table of Contents:
+  The Game of Agora
   Definitions
   The Rules
   The Players
@@ -54,13 +55,11 @@ Table of Contents:
   The Distributor
   The Registrar
   The Rulekeepor
+  Kudos
   Patent Titles
   Degrees and Theses
   Property
   Currencies
-  The Bank
-  Stems
-  Voting Entitlements
   Winning a Game
   Points and the Scorekeepor
   Indulgences and Blots
@@ -388,7 +387,7 @@ Definitions
   fall into any other Category
 ----------------------------------------------------------------------
 
-Rule 1727/12 (Power=1)
+Rule 1727/13 (Power=1)
 Happy Birthday
 
       WHEREAS, in June 1993, the world's only MUD-based nomic, Nomic
@@ -429,21 +428,17 @@ Happy Birthday
       BE IT THEREFORE RESOLVED that Agora's Birthday is defined to be
       the entire day of June 30, GMT +1200, of each year;
 
-      BE IT FURTHER RESOLVED that, as soon as possible after the
-      beginning of Agora's Birthday, the Registrar shall pay out 10
-      Stems to each Player;
-
       BE IT FURTHER RESOLVED that, as soon as possible after the end
-      of Agora's Birthday, the Speaker shall pay out 5 Stems to each
-      Player who, during Agora's Birthday, publicly recognized Agora's
-      Birthday;
+      of Agora's Birthday, the Herald shall award the boon of
+      celebration to each Player who, during Agora's Birthday,
+      publicly recognized Agora's Birthday;
 
-      BE IT FURTHER RESOLVED that the Notary may select up to three
-      Contests, in existence on Agora's Birthday, which have as their
-      purpose encouraging the celebration of Agora's Birthday; and
-      which Contests, in the Notary's estimation, are worthy of
-      recognition for this effort; and shall pay out to the
-      Contestmaster of each such Contest 20 Stems;
+      BE IT FURTHER RESOLVED that the Herald may select one Contest,
+      in existence on Agora's Birthday, which has as its purpose
+      encouraging the celebration of Agora's Birthday.  Within the
+      month following Agora's Birthday, that Contest may award its
+      Members the Patent Title Nth Anniversary Ribbon, where N is the
+      number of years of Agora's existence;
 
       BE IT FURTHER RESOLVED that the Courts shall be closed on
       Agora's Birthday; that is, the Clerk of the Courts shall not
@@ -471,6 +466,7 @@ Amended(9) by Proposal 4147 (Wes), 13 May 2001
 Amended(10) by Proposal 4159 (Kelly), 5 June 2001
 Amended(11) by Proposal 4367 (Steve), 23 August 2002
 Amended(12) by Proposal 4376 (Steve), 6 September 2002
+Amended(13) by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
@@ -1062,17 +1058,13 @@ Amended(13) by Proposal 4451 (Cecilius), 22 February 2003
 
 ----------------------------------------------------------------------
 
-Rule 1677/10 (Power=1)
-Currency Awards for New Players
+Rule 1677/11 (Power=1)
+Honoring the New
 
       As soon as possible after the beginning of a Player's Grace
-      Period, the Registrar shall pay out the New Player Award for
-      each Bank Currency to the new Player.
-
-      Whenever the Rules indicate that the Bank incurs a debt to an
-      entity equal to the New Player Award, the Bank shall instead
-      incur for each Bank Currency a debt to that entity equal to the
-      New Player Award for that Currency.
+      Period, the Registrar shall announce eir Arrival.  This
+      Announcement shall have the effect of setting that Player's
+      kudos to twice the Tabla Rasa.
 
 History:
 Created by Proposal 2757 (Swann), Nov. 28 1996
@@ -1087,23 +1079,20 @@ Amended(7) by Proposal 3998 (harvel), Apr. 25 2000
 Amended(8) by Proposal 4050 (t), Aug. 15 2000
 Amended(9) by Proposal 4155 (harvel), 18 May 2001
 Amended(10) by Proposal 4344 (Goethe), 11 July 2002
+Amended(11) by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
-Rule 1976/4 (Power=1)
-Mentors' Bonus
+Rule 1976/5 (Power=1)
+Honoring the Old
 
       In the four weeks immediately after eir Grace Period ends, a
-      Player (hereafter, the 'Protege') may award a Mentor's Bonus to
-      each Player (hereafter, a 'Mentor') e deems to have been helpful
-      to em as a new Player.
+      Player (hereafter, the 'Protege') may post a single message of
+      Gratitude, naming up to four other Players (hereafter,
+      'Mentors') e deems to have been helpful to em as a new Player.
 
-      Each award is made by public announcement and must specify the
-      Mentor's name and a number of Stems. Upon such an announcement
-      the Bank shall incur a debt of that number of Stems to the named
-      Mentor.  The number of Stems a Protege may award in all of eir
-      Mentor's Bonuses shall not exceed the number of Stems in the New
-      Player Award.
+      The effect of such a message is to award each Mentor the Boon of
+      mentorship and award the Protege the Boon of politeness.
 
 History:
 Created by Proposal 4143 (Blob), Apr. 22 2001
@@ -1111,6 +1100,7 @@ Amended(1) by Proposal 4172 (root), 26 June 2001
 Amended(2) by Proposal 4211 (harvel), 10 September 2001
 Amended(3) by Proposal 4316 (Craig), 28 May 2002
 Amended(4) by Proposal 4468 (Sherlock), 17 March 2003
+Amended(5) by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
@@ -1459,7 +1449,7 @@ Amended(1) by Proposal 4190 (Steve), 18 July 2001
 
 ----------------------------------------------------------------------
 
-Rule 1960/1 (Power=1)
+Rule 1960/2 (Power=1)
 Roles
 
       Each player may have a Role, which is one of the following:
@@ -1478,10 +1468,10 @@ Roles
           1) e has no role or e has not changed eir role in the past 3
              months.
           2) e has not changed eir role in the past six weeks and e
-             has paid a Fee of 1 Indulgence for the purpose of making
-             this change
-          3) e has paid a Fee of 3 Indulgences for the purpose of
-             making this change.
+             has paid a Fee of 2 kudos for the purpose of making this
+             change
+          3) e has paid a Fee of 6 kudos for the purpose of making
+             this change.
 
       The Registrar shall keep track of each player's role, and
       include it in eir report.
@@ -1489,37 +1479,43 @@ Roles
 History:
 Created by Proposal 4085 (Blob), Nov. 16 2000
 Amended(1) by Proposal 4175 (Elysion), 7 July 2001
+Amended(2) by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
-Rule 1986/5 (Power=2)
+Rule 1986/6 (Power=2)
 Role-Based Powers
 
-      A Scribe may Rubberstamp a Proposal by paying a Fee in Papyri,
-      or receiving the Support of a number of other Scribes, equal to
-      the number of Proposals that the Scribe has previously
-      Rubberstamped in the current Agoran Week (minimum zero).  A
-      Rubberstamped Proposal becomes Distributable: this does not
-      change its Distribution Fee.
+      An action is a Progressive action if the rules so state.
 
-      An Acolyte may absolve (remove) 1 Blot from any Entity by paying
-      Fee in Indulgences, or receiving the Support of a number of
-      other Acolytes, equal to the number of such Absolutions the
-      Acolyte has previously performed in the current Agoran Week
-      (minimum zero).
+      If an action is progressive, a Player (the Actor) may perform
+      the action either:
 
-      An Acolyte may Exorcise a Dissolute Entity with the Support of
-      another Acolyte.  The effect of Exorcism is to instantly
-      transfer all of the Entity's Indulgences to the Bank.
+      (a) with the Support of a number Players equal to one plus the
+          number of times that actor has performed that action in the
+          current week;
+      (b) by paying a fee equal to the amount of Support required in
+          (a);
+      (c) if the number calculated in (a) is zero, by public
+          announcement.
 
-      An Acolyte with the Support of a Scribe, or a Scribe with the
-      Support of an Acolyte, may Bless an Undistributed Proposal.  A
-      moment after its Distribution, a Blessed Proposal becomes
-      Democratic if it is not already.
+      A progressive action may be associated with a role if the rules
+      so state.  If an energetic action is associated with a role,
+      only players who hold that role may perform, or support
+      performance of, that action.
 
-      A Politician, with the Support of another Politician, may
-      Unbless an Undistributed Blessed Proposal.  An Unblessed
-      Proposal is no longer Blessed.
+      Rubberstamping a Proposal is a progressive action for Scribes.
+      A Rubberstamped Proposal becomes Distributable.
+
+      Absolving an entity is a progressive action for Acolytes.
+      Absolving an entity expunges 1 Blot from that entity.
+
+      Debating an Undistributed Proposal is a progressive Action for
+      Politicians.  The effect of Debating a Proposal is to change its
+      Chamber to one named by the Politician, provided it is legal for
+      that Proposal to be in the named Chamber and the Proposal is not
+      Sane.
+
 
 History:
 Created by Proposal 4174 (Kelly), 7 July 2001
@@ -1528,36 +1524,7 @@ Amended(2) by Proposal 4281 (Goethe), 16 April 2002
 Amended(3) by Proposal 4282 (Goethe), 16 April 2002
 Amended(4) by Proposal 4398 (harvel), 23 October 2002
 Amended(5) by Proposal 4401 (Goddess Eris), 23 October 2002
-
-----------------------------------------------------------------------
-
-Rule 1992/2 (Power=1)
-Monks
-
-      A player is Sanctimonious if e satisfies all of the following
-      conditions:
-
-      1. E possesses less than four times the Basic Officer Salary of
-         Stems.
-      2. E does not possess any Voting Entitlement.s
-      3. E is a Senator.
-      4. E is not the Executor or Limited Executor of any entity other
-         than emself, the Bank, or Monastery which possesses Voting
-         Entitlements or Stems.
-      5. E is Immaculate.
-
-      A player who has been Sanctimonious continuously for the most
-      recent week becomes a Monk by notifying the Registrar that e
-      becomes a Monk.  Whenever a Monk has not satisfied all
-      conditions for Sanctimony for at least 48 hours, any player may
-      report this to the Registrar.  On the Registrar's public
-      confirmation of this report, the Monk ceases to be a Monk.
-
-History:
-Created by Proposal 4195 (Syllepsis), 26 July 2001
-Amended(1) by Proposal 4202 (neil), 28 August 2001
-Amended(2) by Proposal 4211 (harvel), 10 September 2001
-
+Amended(6) by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
@@ -2307,7 +2274,7 @@ Amended(11) by Proposal 4461 (Maud), 17 March 2003
 
 ----------------------------------------------------------------------
 
-Rule 1664/20 (Power=2)
+Rule 1664/21 (Power=2)
 Rebellion
 
       A Rebellious player may Call for a Revolt at any time by
@@ -2330,16 +2297,13 @@ Rebellion
 
          - The Registrar shall expunge the Blots of each Rebellious
            player
-         - The Registrar shall pay out 8 Stems to each Rebellious
-           player
+         - The Registrar shall grant the emphemeral Patent Title Rebel
+           Hero to each Rebellious player.
          - The GWotO shall remove all Abiding Oligarchs from the
            Oligarchy
          - Each Abiding player that is the Electee to an Office is
            retired from that Office.
          - All Rebellious players become Abiding again
-         - The Registrar shall levy a 75% Indulgence tax.  For this
-           levy, the Bearor of the Patent Title "Robespierre" is
-           tax-exempt.
          - A Speaker Transition occurs
          - Any Indulgence Auction in progress is cancelled
 
@@ -2349,8 +2313,7 @@ Rebellion
          - The player who Called for Revolt gains 2 (additional) Blots
 
       The effects of a Call for Revolt shall be based on the Political
-      Status, Oligarchy membership, and Indulgence holdings of players
-      at the time of the Call.
+      Status, Oligarchy membership of players at the time of the Call.
 
       The Registrar shall notify the Herald of all Blots gained or
       expunged as a result of this Rule.
@@ -2378,6 +2341,7 @@ Amended(17) by Proposal 4110 (Ziggy), Feb. 13 2001
 Amended(18) by Proposal 4128 (Murphy), Mar. 28 2001
 Amended(19) by Proposal 4221 (Steve), 10 October 2001
 Amended(20) by Proposal 4367 (Steve), 23 August 2002
+Amended(21) by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
@@ -2443,22 +2407,21 @@ Amended(3) by Proposal 4096 (Elysion), Jan. 15 2001
 
 ----------------------------------------------------------------------
 
-Rule 1955/7 (Power=1)
+Rule 1955/8 (Power=1)
 The Grand Warden of the Oligarchy
 
       (a) The Grand Warden of the Oligarchy (GWotO) is an office; its
-          holder is recordkeepor of Oligarchs and is responsible for
-          conducting auctions for positions in the Oligarchy.
+          holder is recordkeepor of Oligarchs.
 
       (b) The GWotO's Weekly Report shall include a list of all
-          Oligarchs, the identity of the Speaker, and the date of the
-          next quarterly Speaker transition.
+          Oligarchs, when their terms as Oligarchs expire, the
+          identity of the Speaker, and the date of the next quarterly
+          Speaker transition.
 
-      (c) The GWotO shall have a budget containing:
-          (1) the Oligarchy Auction Rate, which is a positive integer
-              less than 5;
-          (2) the Base Seating Fee, which is a number of Voting
-              Entitlements between 0.1 and 0.5 inclusive.
+      (c) The GWotO shall have a budget containing the Oligarchy
+          Charge Requirement, which is a positive integer less
+          than 10, and the Oligarchic Term, which is a number of
+          days between 30 and 90.
 
       (d) The GWotO may Without 2 Objections from Oligarchs replace
           the budget with a proto-budget e publishes when e announces
@@ -2473,6 +2436,7 @@ Amended(4) by Proposal 4221 (Steve), 10 October 2001
 Amended(5) by Proposal 4250 (harvel), 19 February 2002
 Amended(6) by Proposal 4259 (root), 22 March 2002
 Amended(7) by Proposal 4307 (Steve), 28 May 2002
+Amended(8) by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
@@ -2506,107 +2470,25 @@ Amended(3) by Proposal 4267 (root), 22 March 2002
 
 ----------------------------------------------------------------------
 
-Rule 1892/6 (Power=1)
-The Treasuror
-
-      The Treasuror is an office; its holder is recordkeepor of
-      generic information, excluding holdings, of currencies, and is
-      responsible for setting the values of compensations.
-
-      The Treasuror's Monthly Report shall include, for each currency,
-      its name, mintor, recordkeepor, and Minimum Unit Quantity.
-
-History:
-Created by Proposal 3871 (Peekee), Jun. 2 1999
-Amended(1) by Proposal 3888 (Blob), Jul. 30 1999
-Amended(2) by Proposal 3935 (Murphy), Oct. 24 1999
-Amended(3) by Proposal 4002 (harvel), May 8 2000
-Amended(4) by Proposal 4054 (Oerjan), Aug. 21 2000
-Amended(5) by Proposal 4085 (Blob), Nov. 16 2000
-Amended(6) by Proposal 4250 (harvel), 19 February 2002
-
-----------------------------------------------------------------------
-
-Rule 1893/14 (Power=1)
-The Treasuror's Budget
-
-      The Treasuror's Budget shall contain the Basic Officer Salary
-      (BOS), an amount between 0 and 40 Stems inclusive.
-      Additionally, the Budget shall contain the values all of the
-      following compensations:
-
-        (i)  the Minimum Income;
-       (ii)  the Judicial Salary;
-      (iii)  the Distributor's Gratuity;
-       (iv)  the Speaker's Gratuity; and
-        (v)  for each wage-earning Office, the Salary of that Office.
-
-      A compensation shall be not less than 0 nor more than 4, and
-      must be an integral multiple of 0.1.  The arithmetic mean of all
-      compensations shall be no greater than 2.
-
-      Whenever the Rules indicate that one of the above compensations
-      is to be paid out, the amount to be paid out shall be the
-      product of the value of the compensation and the value of the
-      BOS (as set in the latest Budget).
-
-      The Treasuror's Budget shall also contain a schedule that, for
-      each Bank Currency, shall indicate the amount of the New Player
-      Award for that Currency.  The amount of the New Player Award for
-      a Bank Currency shall not be less than the Minimum Unit Quantity
-      of that Currency.
-
-      The Treasuror's Budget shall also contain the Foul Weather
-      Factor and the Weather Intensity Factor. Both are numbers
-      between 0 and 10 inclusive that are evenly divisible by 0.1.
-
-      While holding the Office as Electee, the Treasuror may amend eir
-      Budget, With Support.
-
-History:
-Created by Proposal 3871 (Peekee), Jun. 2 1999
-Amended(1) by Proposal 3897 (harvel), Aug. 27 1999
-Amended(2) by Proposal 3924 (Wes), Oct. 10 1999
-Amended(3) by Proposal 3944 (harvel), Nov. 20 1999
-Amended(4) by Proposal 3955 (Blob), Dec. 13 1999
-Amended(5) by Proposal 3982 (Sherlock), Mar. 1 2000
-Amended(6) by Proposal 3996 (lee), Apr. 25 2000
-Amended(7) by Proposal 3998 (harvel), May 2 2000
-Amended(8) by Proposal 4054 (Oerjan), Aug. 21 2000
-Amended(9) by Proposal 4081 (Elysion), Oct. 30 2000
-Amended(10) by Proposal 4140 (Wes), Apr. 15 2001
-Amended(11) by Proposal 4155 (harvel), 18 May 2001
-Amended(12) by Proposal 4367 (Steve), 23 August 2002
-Amended(13) by Proposal 4383 (Sir Toby), 11 September 2002
-Amended(14) by Proposal 4453 (Sherlock), 22 February 2003
-
-----------------------------------------------------------------------
-
-Rule 1940/6 (Power=1)
+Rule 1940/7 (Power=1)
 Periodic Compensations
 
-      (a) The Rules may designate certain compensations to be periodic
-          compensations.  At the beginning of each month, each
-          periodic compensation required to be paid out shall be paid
-          out by the Officer required to do so.
+      The boon of Public Service exists for the purpose of awarding
+      Officers for serving.
 
-      (b) The Minimum Income, the Distributor's Gratuity, the
-          Speaker's Gratuity, and the Salary for each Office are
-          periodic compensations.
+      As soon as possible after the beginning of each month, the
+      Assistant Director of Personnel shall award:
 
-      (c) The Payroll Clerk shall pay out the Minimum Income to each
-          active Player, and shall further pay out to each Player the
-          designated Salary for each Office that Player held for at
+      (A) 1 Public Service Boon for each Office, to the Player (if
+          any) who held that Office for 16 or more days in the
+          previous month;
+
+      (B) 1 Public Service Boon to the Player (if any) who was Speaker
+          for at least 16 days of the previous month.
+
+      (C) 1 Public Service Boon to the Distributor if the Distributor
+          is a Player and was both the Distributor and a Player for at
           least 16 days of the previous month.
-
-      (d) The Payroll Clerk shall pay out the Distributor's Gratuity
-          to the Distributor if the Distributor is a Player and was
-          both the Distributor and a Player for at least 16 days of
-          the previous month.
-
-      (e) The Registrar shall pay out the Speaker's Gratuity to a
-          Player if that Player was Speaker for at least 16 days of
-          the previous month.
 
 History:
 Created by Proposal 3998 (harvel), May 2 2000
@@ -2616,6 +2498,7 @@ Amended(3) by Proposal 4179 (Taral), 7 July 2001
 Amended(4) by Proposal 4260 (Goethe), 21 February 2002
 Amended(5) by Proposal 4361 (Steve), 16 August 2002
 Amended(6) by Proposal 4385 (Steve), 17 September 2002
+Amended(7) by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
@@ -2645,7 +2528,7 @@ Amended(4) by Proposal 4221 (Steve), 10 October 2001
 
 ----------------------------------------------------------------------
 
-Rule 1963/4 (Power=2)
+Rule 1963/5 (Power=2)
 Eligible Oligarchs
 
       (a) A Player is ineligible to be an Oligarch if and only if any
@@ -2656,8 +2539,6 @@ Eligible Oligarchs
           (3) e is the Speaker;
           (4) e is the Electee to the Office of Speaker-Elect;
           (5) e is the Grand Warden of the Oligarchy; or
-          (6) e is an Oligarch, and e has defaulted on payment of eir
-              Oligarchy Upkeep since last becoming an Oligarch.
 
       (b) If an Oligarch becomes ineligible to be an Oligarch, the
           GWotO shall remove that Player from the Oligarchy as soon as
@@ -2675,36 +2556,33 @@ Amended(1) by Proposal 4221 (Steve), 10 October 2001
 Amended(2) by Proposal 4262 (Steve), 4 March 2002
 Amended(3) by Proposal 4278 (harvel), 3 April 2002
 Amended(4) by Proposal 4458 (Steve), 3 March 2003
+Amended(5) by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
-Rule 1936/9 (Power=2)
-Auctioning Positions in the Oligarchy
+Rule 1936/10 (Power=2)
+Oligarchic Service
 
-      (a) As soon as possible after the beginning of each month, the
-          GWotO shall auction off a number of Oligarchy positions
-          equal to the Oligarchy Auction Rate. The GWotO shall conduct
-          the Auction according to one of the Rules-defined Auction
-          Procedures, with the following modifications:
+      (a) Any Player eligible to do so may become an Oligarch at any
+          time, by announcing that they do so.  The fee associated
+          with this action is the Oligarchy Charge Requirement if the
+          Player is not a Politician, and half the Oligarchy Charge
+          Requirement if the Player is a Politician.
 
-          (1) Auction Currency: the Auction Currency is Stems.
+      (b) By default, a Player remains an Oligarch for a period of
+          time equal to the Oligarchic Term.  The Grand Warden of the
+          Oligarchy shall remove a Player from the Oligarchy by public
+          announcement, as soon as possible after eir term expires.
+          Other rules may cause Players to cease to be Oligarchs.
 
-          (2) Bidders: Only non-Oligarchy Active Players who are
-              eligible to be Oligarchs may bid.
+      (c) An Oligarch may extend their term of service by a length of
+          time equal to the Oligarchic Term at any time by
+          announcement.  The Fee associated with this action is the
+          same as the fee for becoming an Oligarch.
 
-          (3) If a bidder becomes an Oligarch or becomes ineligible to
-              be an Oligarch, then all eir bids in the Auction are
-              cancelled.
-
-          (4) Winning bids: when the Auctions ends, the winning bids
-              are the N largest valid uncancelled bids made by
-              different Players who are not Oligarchs, where N is the
-              number of positions being Auctioned.
-
-      (b) A winning bidder becomes an Oligarch upon paying the bill
-          for eir winning bid if e is a Politician, or upon paying
-          both the bill for eir winning bid and the Base Seating Fee
-          if e is not a Politician.
+      (d) The Grand Warden of the Oligarchy is reponsible for tracking
+          membership of the Oligarchy, and individual Oligarchs' terms
+          of service.
 
 History:
 Created by Proposal 3980 (Steve), Mar. 1 2000
@@ -2717,55 +2595,24 @@ Amended(6) by Proposal 535[2001] (Elysion), Feb. 2 2001
 Amended(7) by Proposal 4221 (Steve), 10 October 2001
 Amended(8) by Proposal 4307 (Steve), 28 May 2002
 Amended(9) by Proposal 4371 (Steve), 6 September 2002
+Amended(10) by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
-Rule 2010/3 (Power=2)
-Oligarchy Upkeep
-
-      (a) At the beginning of each month, the GWotO shall bill each
-          Oligarch who has occupied eir position in the Oligarchy for
-          at least the previous 21 days as follows:
-          (1) for an Oligarch who is a Politician, the Base Seating
-              Fee;
-          (2) for an Oligarch who is not a Politician, twice the Base
-              Seating Fee.
-
-      (b) If an Oligarch does not pay eir Oligarchy Upkeep within a
-          week of the GWotO's announcement of the debt, then the GWotO
-          shall remove the Oligarch from the Oligarchy, and Order the
-          Bank to forgive the Upkeep debt.
-
-History:
-Created by Proposal 4221 (Steve), 10 October 2001
-Amended(1) by Proposal 4268 (Steve), 22 March 2002
-Amended(2) by Proposal 4307 (Steve), 28 May 2002
-Amended(3) by Proposal 4371 (Steve), 6 September 2002
-
-----------------------------------------------------------------------
-
-Rule 2027/1 (Power=2)
+Rule 2027/2 (Power=2)
 Vacant Oligarchy
 
       At any time at which the number of Oligarchs is less than Quorum
       for an Ordinary Proposal, the Grand Warden of the Oligarchy may
-      do either of the following:
-
-      (a) conduct an Auction for positions in the Oligarchy sufficient
-          (but no more than this) to bring the number of Oligarchs up
-          to Quorum for an Ordinary Proposal;
-
-      (b) appoint any eligible Player to be an Oligarch, with the
-          Support of the appointed Player and Without 3
-          Objections. The appointed Player becomes an Oligarch upon
-          payment of the Base Seating Fee if e is a Politician, or
-          twice the Base Seating Fee if e is not a Politician,
-          provided that payment is made within a week of the
-          appointment.
+      appoint any eligible Player to be an Oligarch, with the Support
+      of the appointed Player and Without 3 Objections. The appointed
+      Player becomes an Oligarch with a term of service equal to half
+      of the Oligarchic Term.
 
 History:
 Created by Proposal 4307 (Steve), 28 May 2002
 Amended(1) by Proposal 4354 (RedKnight), 7 August 2002
+Amended(2) by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
@@ -3126,11 +2973,11 @@ Amended(1) by Proposal 4398 (harvel), 23 October 2002
 
 ----------------------------------------------------------------------
 
-Rule 1607/10 (Power=1)
+Rule 1607/11 (Power=1)
 The Promotor
 
-      The Promotor is an office; its holder is recordkeepor of Papyri
-      and is responsible for receiving and distributing proposals.
+      The Promotor is an office; its holder is responsible for
+      receiving and distributing proposals.
 
       The Promotor's Weekly Report shall include a list of the titles
       and submission dates of all proposals in the proposal pool.
@@ -3147,54 +2994,18 @@ Amended(7) by Proposal 4002 (harvel), May 8 2000
 Amended(8) by Proposal 4050 (t), Aug. 15 2000
 Amended(9) by Proposal 4085 (Blob), Nov. 16 2000
 Amended(10) by Proposal 4250 (harvel), 19 February 2002
+Amended(11) by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
-Rule 1951/2 (Power=1)
-Papyri
-
-      Papyri (singular Papyrus) are a Bank Currency. The MUQ of
-      Papyri is 0.001. The Recordkeepor for Papyri is the Promotor.
-
-History:
-Created by Proposal 4050 (t), Aug. 15 2000
-Amended(1) by Proposal 4085 (Blob), Nov. 16 2000
-Amended(2) by Proposal 4203 (neil), 28 August 2001
-
-----------------------------------------------------------------------
-
-Rule 1954/6 (Power=1)
-Distribution of Papyri
-
-      As soon as possible after the fifteenth day of each month, the
-      Promotor shall Auction a number of Papyri. The Promotor must
-      always auction at least one Papyrus. Otherwise, the Promotor may
-      auction as many Papyri as e wishes.
-
-      The items to be auctioned are individual Papyri, and thus the
-      number of items is equal to the number of Papyri to be
-      Auctioned.  The Auction shall be conducted in Stems.
-
-History:
-Created by Proposal 4050 (t), Aug. 15 2000
-Amended(1) by Proposal 4056 (t), Aug. 21 2000
-Amended(2) by Proposal 4085 (Blob), Nov. 16 2000
-Amended(3) by Proposal 4167 (root), 11 June 2001
-Amended(4) by Proposal 4203 (neil), 28 August 2001
-Amended(5) by Proposal 4249 (Murphy), 19 February 2002
-Amended(6) by Proposal 4281 (Goethe), 16 April 2002
-
-----------------------------------------------------------------------
-
-Rule 1036/14 (Power=1)
+Rule 1036/15 (Power=1)
 The Proposal Pool
 
       As soon as possible after the Promotor receives a new Proposal,
       e shall place this Proposal in the Proposal Pool.
 
-      A Proposal's Distribution Cost is an integer multiple of the MUQ
-      of Papyri. The base Distribution Cost of a Proposal is 1, but
-      this may be altered by other Rules.
+      The base Distribution Cost of a Proposal is 1, but this may be
+      altered by other Rules as long as it remains a positive integer.
 
 [CFJ 10: A Proposal remains a Proposal even if the Promotor changes
  before the Proposal is distributed.]
@@ -3218,6 +3029,7 @@ Amended(11) by Proposal 3897 (harvel), Aug. 27 1999
 Amended(12) by Proposal 3902 (Murphy), Sep. 6 1999
 Amended(13) by Proposal 3945 (Peekee), Nov. 20 1999
 Amended(14) by Proposal 4050 (t), Aug. 15 2000
+Amended(15) by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
@@ -3226,27 +3038,22 @@ Making Proposals Distributable
 
       Each Proposal is either Distributable or Undistributable.
       Initially, each Proposal is Undistributable. When a Proposal
-      becomes Disinterested, it immediately becomes Distributable
-      and may not become Undistributable by any means as long as
-      it remains Disinterested.
+      becomes Disinterested, it immediately becomes Distributable and
+      may not become Undistributable by any means as long as it
+      remains Disinterested.  The Rules may define other mechanisms
+      through which a Proposal becomes Distributable or
+      Undistributable.
 
       Any Player may make any Undistributable Proposal in the Proposal
       Pool Distributable by publicly announcing that e is doing so and
-      Paying a Fee of a number of Papyri equal to the amount of the
-      Distribution Cost of the Proposal. Any Player may make any
-      Interested Distributable Proposal in the Proposal Pool
-      Undistributable by publicly announcing that e is doing so and
-      Paying a Fee of a number of Papyri double the amount of the
-      Distribution Cost of the Proposal.
-
-      Any Monk may make any Undistributable Proposal in the Proposal
-      Pool Distributable by publicly announcing that e is doing so and
-      Paying a Fee of a number of Papyri equal to half the amount of
-      the Distribution Cost of the Proposal, rounded up.
+      paying a fee equal to the Distribution Cost.  Any Player may
+      make an Undistributed Distributable Proposal Undistributable by
+      paying a fee equal to twice the Distribution Cost.
 
 History:
 Created by Proposal 4050 (t), Aug. 15 2000
 Amended(1) by Proposal 4195 (Syllepsis), 26 July 2001
+Amended(2) by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
@@ -3392,20 +3199,21 @@ Voting on Proposals
   other actions which take place during the Voting Period.
 ----------------------------------------------------------------------
 
-Rule 1449/15 (Power=1)
+Rule 1449/16 (Power=1)
 The Assessor
 
-      The Assessor is an office; its holder is recordkeepor of Voting
-      Entitlements and is responsible for receiving and announcing the
-      results of votes on proposals.
+      The Assessor is an office; its holder is responsible for
+      receiving and announcing the results of votes on proposals.
 
-      The Assessor's Weekly Report shall include a list of the
-      identity and voting power for Proposals in each Chamber, for all
-      entities with nonzero voting power in at least one Chamber.
+      The Assessor's Weekly Report shall include
 
-      (c) The Assessor's Budget shall consist of the Voting
-          Entitlements per Player (VEPP), a real multiple of 0.1
-          between 0.5 and 2.0 inclusive.
+      * a list of the identity and voting power for Proposals in each
+        Chamber, for all entities with nonzero voting power in at
+        least one Chamber.
+
+      * the Voting Potentials of every Player.
+
+      * the prevailing mode of voting on Proposals.
 
 History:
 Created by Proposal 1531, Mar. 24 1995
@@ -3424,6 +3232,28 @@ Amended(12) by Proposal 4221 (Steve), 10 October 2001
 Amended(13) by Proposal 4250 (harvel), 19 February 2002
 Amended(14) by Proposal 4255 (Steve), 21 February 2002
 Amended(15) by Proposal 4282 (Goethe), 16 April 2002
+Amended(16) by Proposal 4486 (Michael), 24 April 2003
+
+----------------------------------------------------------------------
+
+Rule 2052/0 (Power=2)
+Voting Potential
+
+      (a) Associated with every Player is a non-negative integral
+          number known as that Player's Voting Potential.  At the
+          beginning of each new month, every Player's Voting Potential
+          is set to zero.
+
+      (b) At any time, a Player may, by announcement, set their Voting
+          Potential to any positive integer N.  The Fee associated
+          with this action is the Oligarchy Charge Requirement
+          multiplied by N.
+
+      (c) The Assessor is responsible for tracking these
+          announcements, and recording Players' Voting Potentials.
+
+History:
+Created by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
@@ -3559,7 +3389,7 @@ Amended(4) by Proposal 4282 (Goethe), 16 April 2002
 
 ----------------------------------------------------------------------
 
-Rule 1950/5 (Power=2)
+Rule 1950/6 (Power=2)
 Voting Power
 
       (a) An entity's Voting Power on an Ordinary Proposal is as
@@ -3569,15 +3399,16 @@ Voting Power
 
       (b) An entity's Voting Power on a Democratic Proposal is as
           follows:
-            (1) A Player: one plus the number of Voting Entitlements e
-                possesses rounded down, minus one for every five Blots
-                e has, with a minimum of zero and a maximum of:
-                (a) for an Oligarch, two;
-                (b) for a non-Oligarch, five.
-            (2) The Bank: zero;
-            (3) Any other entity: as defined in the Rules, with a
-                default of zero if the Rules don't specify the Voting
-                power on a Democratic Proposal for that entity.
+
+            * A Player:
+                  (a) two plus that Player's Voting Potential if that
+                      Player is a non-Oligarch Politician;
+                  (b) one plus that Player's Voting Potential
+                      otherwise.
+
+            * Any other entity: as defined in the Rules, with a
+              default of zero if the Rules don't specify the Voting
+              power on a Democratic Proposal for that entity.
 
       (c) An entity's Voting Power on a Parliamentary Proposal is as
           follows:
@@ -3612,6 +3443,7 @@ Amended(2) by Proposal 4221 (Steve), 10 October 2001
 Amended(3) by Proposal 4282 (Goethe), 16 April 2002
 Amended(4) by Proposal 4352 (OscarMeyr), 7 August 2002
 Amended(5) by Proposal 4370 (OscarMeyr), 6 September 2002
+Amended(6) by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
@@ -3680,14 +3512,12 @@ Amended(2) by Proposal 4410 (Steve), 6 November 2002
 
 ----------------------------------------------------------------------
 
-Rule 2021/2 (Power=2)
+Rule 2021/3 (Power=2)
 Chamber Procedure
 
-      (a) The Chamber Fee for a Proposal is initially 0.1 Voting
-          Entitlements.  Any Politician may change the Chamber of a
-          Proposal that is not Sane to another Chamber of eir choice,
-          by publically paying this Fee, provided that it is legal for
-          the Proposal to be in the new Chamber.
+      (a) The Chamber Fee for a Proposal is a Fee for changing the
+          Chamber of a Proposal.  For any given Proposal, the Chamber
+          Fee is initially 1.
 
       (b) When a Proposal's Chamber is changed via this Rule:
           (1) the Chamber Fee for the Proposal is doubled; and
@@ -3707,6 +3537,7 @@ History:
 Created by Proposal 4282 (Goethe), 16 April 2002
 Amended(1) by Proposal 4329 (Goethe), 9 June 2002
 Amended(2) by Proposal 4355 (Steve), 7 August 2002
+Amended(3) by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
@@ -4129,25 +3960,17 @@ Amended(1) by Proposal 1502, Mar. 24 1995
 
 ----------------------------------------------------------------------
 
-Rule 947/18 (Power=1)
+Rule 947/19 (Power=1)
 Bonus for Repeal
 
-      (a) If there are 100 or more rules, and a proposal is adopted
-          containing a provision that one or more rules be repealed,
-          and if, in the Rulekeepor's estimation, the proposal
-          simplifies the ruleset, then the Rulekeepor shall pay out 6
-          Stems to its proposer.  If the Rulekeepor decides that the
-          proposal does not simplify the ruleset, e must announce this
-          decision.
+      If there are 100 or more rules, and a proposal is adopted
+      containing a provision that one or more rules be repealed, and
+      if, in the Rulekeepor's estimation, the proposal simplifies the
+      ruleset, then the Rulekeepor shall award the Proposer the Boon
+      of Tapecutter.
 
-      (b) When the Rulekeepor decides that such a Proposal does not
-          simplify the Ruleset, the Proposal's Proposer may reverse
-          the Rulekeepor's decision Without Three Objections, provided
-          the procedure for doing so is initiated within one week of
-          the announcement of the Rulekeepor's decision.  As soon as
-          possible after the Rulekeepor's decision is reversed in this
-          manner, the Proposal's Proposer shall pay out 6 Stems to
-          emself.
+      If the Rulekeepor decides that the proposal does not simplify
+      the ruleset, e must announce this decision.
 
 History:
 Created by Proposal 947, Jul. 3 1994
@@ -4170,17 +3993,16 @@ Amended(15) by Proposal 3947 (harvel), Nov. 20 1999
 Amended(16) by Proposal 4190 (Steve), 18 July 2001
 Amended(17) by Proposal 4305 (harvel), 28 May 2002
 Amended(18) by Proposal 4367 (Steve), 23 August 2002
+Amended(19) by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
-Rule 1678/6 (Power=1)
+Rule 1678/7 (Power=1)
 Encourage Proposals by New Players
 
       If a Proposal passes, and that Proposal was submitted by a
       Player within that Player's Grace Period, then the Assessor
-      shall pay out to that Player an award of one Papyrus if the
-      Proposal was Interested, or 0.2 Papyri if the Proposal was
-      Disinterested.
+      shall award the Proposor the Boon of Prodigy.
 
 History:
 Created by Proposal 2758 (Swann), Nov. 28 1996
@@ -4190,6 +4012,7 @@ Amended(3) by Proposal 3533 (General Chaos), Jul. 15 1997, substantial
 Amended(4) by Proposal 3897 (harvel), Aug. 27 1999
 Amended(5) by Proposal 4050 (t), Aug. 15 2000
 Amended(6) by Proposal 4365 (Steve), 23 August 2002
+Amended(7) by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
@@ -5339,15 +5162,15 @@ Amended(10) by Proposal 4298 (Murphy), 17 May 2002
 
 ----------------------------------------------------------------------
 
-Rule 1568/6 (Power=1)
+Rule 1568/7 (Power=1)
 Non-active Judges
 
       A player who ceases to be active while selected as the judge of
       one or more calls for judgement (CFJs) commits the infraction of
       Judge Inactivity.  This infraction is to be reported by the
-      Clerk of the Courts, and has a penalty of 0.1 Indulgences for
-      each CFJs for which the player was selected as judge when e
-      ceased to be active.
+      Clerk of the Courts, and has a Class of 0.1 times the number of
+      CFJs for which the player was selected as judge when e ceased to
+      be active.
 
 History:
 Created by Proposal 2457, Feb. 16 1996
@@ -5358,6 +5181,7 @@ Amended(3) by Proposal 2830 (Murphy), Mar. 7 1997, cosmetic
 Amended(4) by Proposal 3463 (Harlequin), Apr. 17 1997, substantial
 Amended(5) by Proposal 3897 (harvel), Aug. 27 1999
 Amended(6) by Proposal 4278 (harvel), 3 April 2002
+Amended(7) by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
@@ -5608,16 +5432,16 @@ Amended(10) by Proposal 4298 (Murphy), 17 May 2002
 
 ----------------------------------------------------------------------
 
-Rule 502/8 (Power=1)
+Rule 502/9 (Power=1)
 Salary for Judges
 
       As soon as possible after a Judgement is delivered during the
-      Deliberation Period, the Clerk of the Courts shall pay out the
-      Judicial Salary to the Judge.
+      Deliberation Period, the Clerk of the Courts shall award the
+      Judge the Boon of Wisdom.
 
       As soon as possible after a Judgement is overturned on appeal,
-      the Clerk of the Courts shall bill the Judge for the Judicial
-      Salary (if any) that was paid out to em for that Judgement.
+      the Clerk of the Courts shall award the Judge the Albatross of
+      Foolishness.
 
 History:
 Created by Proposal 430 (Alexx), ca. Sep. 13 1993
@@ -5630,6 +5454,7 @@ Amended(5) by Proposal 3635 (General Chaos), Dec. 29 1997
 Amended(6) by Proposal 3823 (Oerjan), Jan. 21 1999
 Amended(7) by Proposal 4018 (Kelly), Jun. 21 2000
 Amended(8) by Proposal 4298 (Murphy), 17 May 2002
+Amended(9) by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
@@ -6784,6 +6609,48 @@ Amended(4) by Proposal 3884 (harvel), Jul. 26 1999
 
 ----------------------------------------------------------------------
 
+======================================================================
+Kudos
+  This Category includes Rules regulating the Kudos system.
+----------------------------------------------------------------------
+
+Rule 2047/0 (Power=2)
+Kudos
+
+      Kudos (singular Kudo) are an integral measure of a Player's
+      Kismet and noteworthiness within the game of Agora.
+
+      The Herald is the recordkeepor of Kudos.  The kudos of a Player
+      may only be changed as specified by the rules or by an
+      instrument of Power 2 or greater.
+
+      Agora, as a whole, also has a defined number of Kudos.  No other
+      non-Player entity has a defined number of Kudos.
+
+History:
+Created by Proposal 4486 (Michael), 24 April 2003
+
+----------------------------------------------------------------------
+
+Rule 2048/0 (Power=1)
+Englightenment
+
+      A Player (the Sensei) may, by public announcement, enlighten
+      Agora by choosing two Players to be the Yin and the Yang
+      respectively.  Such enlightenment has the effect of decreasing
+      the Yin's kudos by one and increasing the Yang's kudos by one,
+      provided:
+      (i)   the Sensei has at least one kudo;
+      (ii)  the Sensei has not previously enlightened Agora in the
+            current week;
+      (iii) the Sensei is not the Yang;
+      (iv)  the Sensei gives eir reasons for choosing both the Yin and
+            Yang for a lesson.
+
+History:
+Created by Proposal 4486 (Michael), 24 April 2003
+
+----------------------------------------------------------------------
 
 
 ======================================================================
@@ -6955,7 +6822,46 @@ Amended(2) by Proposal 4173 (Goethe), 26 June 2001
 
 ----------------------------------------------------------------------
 
+Rule 2049/0 (Power=1)
+Ephemera
 
+      A Patent Title is Ephemeral if the rules state that the Patent
+      Title is ephemeral.  Karma is a stuck switch for ephemeral
+      patent titles with states Boon and Albatross.  Defining
+      something to be a 'boon' or an 'albatross' is equivalent to
+      defining it to be an ephemeral Patent Title with its Karma set
+      as defined.
+
+      Players may be permitted or required by the Rules to award or
+      revoke Boons or Albatrosses.  If so, these awards are performed
+      by public announcement by the specified Players.
+
+      A Player may hold multiple instances of a given type of
+      ephemeral Patent title; if so, The Herald need only note the
+      number of instances of these Patent Titles that each player
+      holds.
+
+History:
+Created by Proposal 4486 (Michael), 24 April 2003
+
+----------------------------------------------------------------------
+
+Rule 2050/0 (Power=2)
+The Garden
+
+      A Daffodil is a Boon that may be awarded as the Rules specify or
+      by an Instrument of Power 2 or greater.
+
+      A Weed is an Albatross that may be awarded as the Rules specify
+      or by an Instrument of Power 2 or greater.
+
+      If there are no Players that hold at least one Weed or Daffodil,
+      the Herald may repeal this Rule without Objection.
+
+History:
+Created by by Proposal 4486 (Michael), 24 April 2003
+
+----------------------------------------------------------------------
 
 ======================================================================
 Degrees and Theses
@@ -7148,7 +7054,7 @@ Property
   This Category includes Rules concerning Property in general.
 ----------------------------------------------------------------------
 
-Rule 1942/2 (Power=1)
+Rule 1942/3 (Power=1)
 Property
 
       A property is an entity which the rules permit to be possessed
@@ -7160,7 +7066,7 @@ Property
 
       Each property shall have a recordkeepor, which is a player
       required to maintain a record of who owns that property.  The
-      Treasuror is the recordkeepor for each property that would
+      Notary is the recordkeepor for each property that would
       otherwise have no recordkeepor.
 
       If one of the official duties of an officer is to be the
@@ -7172,6 +7078,7 @@ History:
 Created by Proposal 4018 (Kelly), Jun. 21 2000
 Amended(1) by Proposal 4110 (Ziggy), Feb. 13 2001
 Amended(2) by Proposal 4250 (harvel), 19 February 2002
+Amended(3) by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
@@ -7243,93 +7150,6 @@ Amended(1) by Proposal 3930 (Murphy), Oct. 17 1999
 Amended(2) by Proposal 4018 (Kelly), Jun. 21 2000
 Amended(3) by Proposal 4082 (Peekee), Oct. 30 2000
 Amended(4) by Proposal 4211 (harvel), 10 September 2001
-
-----------------------------------------------------------------------
-
-Rule 1981/3 (Power=1)
-Embezzlement and Receiving Stolen Property
-
-      (a) A transfer of Property from one entity to another entity
-          which is made without being explicitly required or permitted
-          by the Rules is unauthorized.
-
-      (b) Unless otherwise specified, Players and Organizations are
-          always permitted to transfer their own Property.
-
-      (c) A Player who intentionally makes a valid but unauthorized
-          transfer of Property from any entity to another entity
-          commits the Class 10 Crime of Embezzlement.
-
-      (d) An entity which receives Property as the result of a valid
-          but unauthorized transfer incurs a debt to the Payor of that
-          transfer for all Property thus received.
-
-      (e) A Player who has been informed that e, or an entity of which
-          e is the Prime Executor, has incurred a debt of the type
-          decribed in (c) and who does not act to satisfy that debt
-          within in a week of being informed of it commits the Class
-          10 Crime of Receiving Stolen Property.
-
-      (f) For the the purposes of this Rule, a valid but unauthorized
-          transfer is considered to have been made intentionally if
-          and only if, at the time of the transfer, the Player making
-          it:
-          (1) knew that the transfer was valid;
-          (2) knew that the transfer was unauthorized; and
-          (3) realized that e was making the transfer.
-
-      (g) In particular, a Player who makes a valid but unauthorized
-          transfer of Property as the result of an accident or mistake
-          does not commit Embezzlement.
-
-History:
-Created by Proposal 4156 (Ian), 18 May 2001
-Amended(1) by Proposal 4190 (Steve), 18 July 2001
-Amended(2) by Proposal 4256 (Murphy), 21 February 2002
-Amended(3) by Proposal 4312 (root), 28 May 2002
-
-----------------------------------------------------------------------
-
-Rule 2006/1 (Power=1)
-Looting Auctions
-
-      As soon as possible after a player becomes a Dissolute, the
-      Notary shall initiate an Auction for the privilege of Looting
-      the Corpse of the Dissolute.  Once a Looting Auction begins, the
-      Notary may not transfer property on behalf of the Dissolute
-      until either the Auction ends without any winning bids or the
-      winning bidder defaults on eir bid or loses eir privilege to
-      Loot the Corpse of that Dissolute.
-
-      Looting Auctions shall follow the default procedure for Auctions
-      with the following modifications:
-
-      (1) The Auction Currency shall be Indulgences.
-      (2) The Starting Price shall be the number of Blots the
-          Dissolute had when e became a Dissolute, or one Indulgence
-          if the Dissolute was Immaculate.
-      (3) The Auction shall be for a temporary privilege, not for an
-          item, and so no debt of items to the winning Bidder when eir
-          bill is paid shall be incurred.
-
-      If there are no winning bids for the privilege of Looting the
-      Corpse of that Dissolute, the Notary must, as soon as possible
-      after the end of the Looting Auction, transfer all the
-      Dissolute's property to the Bank.
-
-      When the winning bidder pays eir bill from the Looting Auction,
-      e gains the privilege of Looting the Corpse of that Dissolute; e
-      becomes a Limited Executor of the Dissolute, with the authority
-      to transfer property from the Dissolute to emself.  One week
-      after e gains this privilege, e loses it, and ceases to be a
-      Limited Executor of the Dissolute.  If the Dissolute still has
-      property after the winning bidder loses this privilege, the
-      Notary must transfer the Dissolute's remaining property to the
-      Bank as soon as possible afterward.
-
-History:
-Created by Proposal 4211 (harvel), 10 September 2001
-Amended(1) by Proposal 4249 (Murphy), 19 February 2002
 
 ----------------------------------------------------------------------
 
@@ -7432,30 +7252,6 @@ Amended(2) by Proposal 4147 (Wes), 13 May 2001
 
 ----------------------------------------------------------------------
 
-Rule 1974/1 (Power=1)
-Restriction on Minting of Bank Currencies by the Bank
-
-      The Bank, by the Treasuror, may Mint new units of a Bank
-      Currency only as follows:
-
-      (a) At any time, Without Objection, unless the Currency to be
-          Minted is Stems.
-
-      (b) In the event that the Voting Entitlement Surplus exceeds the
-          Bank's holdings of VEs, a number of VEs not to exceed the
-          difference between the Voting Entitlement Surplus and the
-          Bank's Holdings of VEs, with Two Supporters.
-
-      The Bank may not otherwise Mint new units of a Bank Currency
-      except through the mechanism set forth in this Rule.
-
-
-History:
-Created by Proposal 4126 (Kelly), Mar. 28 2001
-Amended(1) by Proposal 4234 (Goethe), 22 November 2001
-
-----------------------------------------------------------------------
-
 Rule 1471/2 (Power=1)
 Creation and Destruction of Units of Currency
 
@@ -7480,24 +7276,48 @@ Amended(2) by Proposal 3533 (General Chaos), Jul. 15 1997, substantial
 
 ----------------------------------------------------------------------
 
-Rule 1941/0 (Power=1)
+Rule 1941/1 (Power=1)
 Fees
 
-      A Fee is a specific quantity of some particular Currency
-      explicitly designated as such by the Rules. To Pay a Fee is
-      to transfer the specified quantity of that particular Currency
-      to the Bank if and only if that transfer is made solely for
-      the purpose of Paying that particular instance of that Fee.
+      If the Rules associate a non-negative cost, price, charge, or
+      fee with an action, that action is a fee-based action.  If the
+      specified cost is not an integer, the actual fee is the next
+      highest integer.
 
-      If the Rules specify that a particular action is associated
-      with a Fee, or that a Fee is required for a particular action,
-      then the entity performing the action shall Pay the Fee either
-      before performing said action (but not more than 72 hours
-      beforehand) or in the same email as the action is performed,
-      else the action shall not occur.
+      To perform a fee-based action, a Player (the Actor) who is
+      otherwise permitted to perform the action must announce that e
+      is performing the action and announce that there is a fee for
+      that action.
+
+      If the Actor has kudos equal to or greater than the fee, the
+      action is performed, the Actor's kudos are decreased by the fee,
+      and Agora's kudos are increased by the fee.
+
+      Any Player (hereafter the challenger) may announce that the
+      Actor possessed insufficient Honor (kudos) to perform the
+      action, provided e issues eir challenge within 7 days of the
+      attempted action.
+
+      As soon as possible after such a challenge, the Herald shall
+      confirm or deny whether the Actor possessed kudos equal to or
+      greater than the fee at the time e attempted the action.
+
+      If the Actor in fact possessed insufficient honor, the action
+      shall be deemed to have not occurred and the kudos of the Actor
+      shall be deemed to have not changed.  Otherwise the action shall
+      be deemed to have occurred (and the change in kudos shall be
+      recorded).
+
+      If a Player issues a challenge as above, but more than 7 days
+      have passed since the attempted action, then the action shall be
+      permitted to stand.  As soon as possible after a late challenge
+      is issued, the Herald shall confirm or deny its correctness.
+      But in this case the Fee shall be recorded even if the Actor is
+      left with negative kudos.
 
 History:
 Created by Proposal 4011 (Wes), Jun. 1 2000
+Amended(1) by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
@@ -7662,71 +7482,64 @@ Amended(9) by Proposal 4346 (Steve), 11 July 2002
 
 ----------------------------------------------------------------------
 
-Rule 1853/9 (Power=1)
+Rule 1853/10 (Power=1)
 Levying Taxes
 
-      (a) Taxes may be levied only by a person explicitly empowered by
-          the rules to do so; each currency Recordkeepor is empowered
-          to levy a tax on that currency, and is herein referred to as
-          "the taxing authority".
+      The Recordkeepor of a Currency ("the taxing authority") may levy
+      a tax on that Currency only as follows:
 
-      (b) The procedure for levying a tax may be summarized as
-          follows: first, the taxing authority publically issues an
+      (A) First, the taxing authority publically issues an
           announcement of intent to levy a tax; second, at a later
-          point, the taxing authority publically issues a tax notice.
+          point, the taxing authority publically issues a tax notice
+          (the levy).
 
-      (c) To be valid, both the notice of intent to levy a tax, and
+      (B) To be valid, both the notice of intent to levy a tax, and
           the tax notice itself, must specify the elements of the tax,
           viz., the currency being taxed, the tax rate expressed as a
-          percentage of holdings (which may not exceed 50% unless the
-          Rule authorizing the tax explicitly permits it), and any
+          percentage of holdings (which may not exceed 50%), and any
           exemptions.
 
-      (d) An exemption is specified as a percentage of the holdings of
-          a taxable entity. It may be set at the discretion of the
-          taxing authority, provided that:
+      (C) The tax notice must be published between seven and fourteen
+          days after the time of the announcement of the intent to
+          issue the levy, and must be at least 30 days after the last
+          valid tax notice published for that Currency.  The
+          announcement of intent to issue the levy may not take place
+          while another attempt to levy a tax on that Currency is
+          pending under the authority of this Rule.
 
-          (1) all players are exempt identical amounts,
-          (2) all non-players are exempt identical amounts, and
-          (3) the non-players' exemption is less than or equal to the
-              players' exemption.
+      (D) The tax may include exemptions on a fixed amount of the
+          holdings of every taxable entity, provided that:
+           (i) All Players are exempt identical amounts,
+          (ii) All Non-players are exempt identical amounts,
+         (iii) The Non-players' exemption is less than or equal to
+               the Players' exemption.
 
-      (e) A notice of intent to levy a tax may not validly be issued
-          while another attempt to levy a tax in that currency is
-          proceeding in accordance with this rule.
+      (E) The tax debt for each taxable entity is calculated on the
+          basis of the entity's holdings at the time of the
+          publication of the notice of intent. Any holdings exempt
+          from the tax are exempted, and the tax is applied to the
+          remainder at the specified tax rate.
 
-      (f) A tax notice may only validly be issued between seven and
-          fourteen days after the publication of a valid notice of
-          intent to levy a tax, and at least 30 days after the
-          publication of the last valid tax notice (if there has been
-          one).
-
-      (g) A tax notice must also indicate the currency holdings of
+      (F) A tax notice must also indicate the currency holdings of
           each taxable entity at the time of the publication of the
           notice of intent to levy a tax, and the tax debt incurred by
-          each such entity.
+          each such entity.  Any error in the calculation of holdings
+          or tax debts does not invalidate the tax notice with respect
+          to the other taxable entities mentioned in it.
 
-      (h) The tax debt for each taxable entity is calculated on the
-          basis of the entity's holdings at the time of the
-          publication of the notice of intent to levy a tax. Any
-          holdings exempt from the tax are exempted, and the tax is
-          applied to the remainder at the specified tax rate.
+      (G) Upon the publication of a valid tax notice, each taxable
+          entity incurs a debt to the Mintor of the Currency equal to
+          eir tax debt.
 
-      (i) Any error in the calculation of holdings or tax debts for a
-          taxable entity does not invalidate the tax notice with
-          respect to the other taxable entities mentioned in it.
-
-      (j) Upon the publication of a valid tax notice, each taxable
-          entity incurs a debt to the Bank equal to the tax debt for
-          that entity.
-
-      (k) All entities are taxable, except for:
-          (1) the Bank,
-          (2) rebellious players who were rebellious at the time the
+      (H) All entities are taxable, except for:
+          (i) rebellious players who were rebellious at the time the
               intent to levy was published, and
-          (3) entities explicitly specified by the rule authorizing
+         (ii) entities explicitly specified by the rule authorizing
               the levy as non-taxable for that levy.
 
+      Other Rules may specify conditions under which an entity other
+      than the recordkeepor of a currency may be a taxing authority
+      for the purposes of this Rule.
 
 History:
 Created by Proposal 3747 (Steve), May 22 1998
@@ -7739,24 +7552,18 @@ Amended(6) by Proposal 4018 (Kelly), Jun. 21 2000
 Amended(7) by Proposal 4127 (Murphy), Mar. 28 2001
 Amended(8) by Proposal 4193 (Taral), 18 July 2001
 Amended(9) by Proposal 4470 (Steve), 26 March 2003
+Amended(10) by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
-Rule 1661/9 (Power=1)
+Rule 1661/10 (Power=1)
 The Right of Patronage
 
       A Speaker who is not Tainted has the Right of Patronage. This
-      Right is the authority to, once a week, order the award of
-      Stems from the Bank to specific Players, only as specified in
-      this Rule.
-
-      The Speaker exercises this right by paying out Stems to one or
-      more Players, with a total of not more than one-half the Basic
-      Officer Salary.  The Players to receive the award must not have
-      received a Patronage award within the preceding four weeks, and
-      the Speaker must provide a reason along with the Notice of
-      Transfer. All such Patronage Awards in a single Week must be
-      posted in a single message.
+      Right is the authority to, once a week, award the Boon Gold Star
+      to a single Player who has not received this award within the
+      preceding four weeks.  The Speaker must provide a reason along
+      with the Notice of Award.
 
       Such awards are only permitted to recognize acts the Speaker
       believes to be of benefit to the Agora community, acts that the
@@ -7775,10 +7582,11 @@ Amended(6) by Proposal 3897 (harvel), Aug. 27 1999
 Amended(7) by Proposal 4018 (Kelly), Jun. 21 2000
 Amended(8) by Proposal 4033 (Chuck), Aug. 2 2000
 Amended(9) by Proposal 4151 (Kelly), 13 May 2001
+Amended(10) by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
-Rule 1887/18 (Power=1)
+Rule 1887/19 (Power=1)
 Auctions and the Default Auction Procedure
 
       When an Auction is to be held and the procedure is not
@@ -7881,8 +7689,8 @@ Auctions and the Default Auction Procedure
           the Auctioned item by paying the debt arising from that
           bid. As soon as possible after a winning bidder defaults on
           a bid, the Auctioneer shall Order the owner of the items
-          being Auctioned (normally the Bank) to forgive the
-          unsatisfied debt arising from the bid.
+          being Auctioned to forgive the unsatisfied debt arising from
+          the bid.
 
       (o) Unless specified otherwise, the owner of the Auctioned items
           shall incur a debt of one Auctioned lot of items to the
@@ -7908,477 +7716,9 @@ Amended(15) by Proposal 4249 (Murphy), 19 February 2001
 Amended(16) by Proposal 4278 (harvel), 3 April 2002
 Amended(17) by Proposal 4356 (Steve), 7 August 2002
 Amended(18) by Proposal 4385 (Steve), 17 September 2002
+Amended(19) by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
-
-Rule 1888/2 (Power=1)
-Private Auctions
-
-      The Auction Procedure for a Private Auction is the same as the
-      Default Auction Procedure with the following modifications:
-
-      (a) Bidders: any Player with the same Executor as the Auctioneer
-          may bid only in the first 72 hours of the Auction.
-
-      (b) Bidding: if a bidder has the same Executor as the
-          Auctioneer, then eir bids must be made publicly. Otherwise,
-          bidders must send eir bids privately to the Auctioneer.
-
-      (c) Canceling Bids: if a Bidder has the same Executor as the
-          Auctioneer, then eir Bids must be canceled publicly.
-          Otherwise, bidders must cancel eir bids privately to the
-          Auctioneer.
-
-History:
-Created by Proposal 3853 (Blob), Apr. 19 1999
-Amended(1) by Proposal 4167 (root), 11 June 2001
-Amended(2) by Proposal 4403 (OscarMeyr), 23 October 2002
-
-----------------------------------------------------------------------
-
-Rule 1983/5 (Power=1)
-Vickrey Auctions
-
-      The Auction Procedure for a Vickrey Auction is the same as the
-      Default Auction Procedure with the following modifications:
-
-      (a) Bidders: any Player with the same Executor as the Auctioneer
-          may bid only in the first 72 hours of the Auction.
-
-      (b) Bidding: if a bidder has the same Executor as the
-          Auctioneer, then eir bids must be made
-          publically. Otherwise, bidders may bid either publically, or
-          privately to the Auctioneer.
-
-      (c) Canceling Bids: if a Bidder has the same Executor as the
-          Auctioneer, then eir Bids must be canceled publically.
-          Otherwise, bidders may cancel bids either publically, or
-          privately to the Auctioneer.
-
-      (d) End of Auction: the Auction shall end one week after it
-          begins.
-
-      (e) The Final Auction Price is either:
-          (1) The amount of the largest nonwinning uncancelled valid
-              bid, if there were more than N valid uncancelled bids in
-              the Auction; or
-          (2) the Starting Bid, if there were N or fewer valid
-              uncancelled bids.
-          For the purpose of this Rule, N is equal to the number of
-          items being Auctioned.
-
-      The Auctioneer and eir Executor must treat all bids made in a
-      Vickrey Auction as secret while the Auction is in
-      progress. Other players, however, are free to reveal as much
-      about their bidding as they wish.
-
-History:
-Created by Proposal 4167 (root), 11 June 2001
-Amended(1) by Proposal 4176 (root), 7 July 2001
-Amended(2) by Proposal 4278 (harvel), 3 April 2002
-Amended(3) by Proposal 4356 (Steve), 7 August 2002
-Amended(4) by Proposal 4358 (Sir Toby), 16 August 2002
-Amended(5) by Proposal 4372 (Sir Toby), 6 September 2002
-
-----------------------------------------------------------------------
-
-Rule 1984/6 (Power=1)
-Raffles
-
-      There is a type of Auction called a Raffle. The Auction
-      Procedure for a Raffle is the same as the Default Auction
-      Procedure, with the following modifications:
-
-      (a) Auctioneer: the Auctioneer is known as the Riff-Raff.
-
-      (b) Start of Raffle: the Raffle begins when the first
-          announcement that a Raffle has begun is made by a Player
-          authorized to initiate the Raffle. The announcement must
-          contain:
-          (1) the identity of the Riff-Raff;
-          (2) the Raffle Currency;
-          (3) the number of items, N, being Raffled; and
-          (4) the Ticket Price, a multiple of the MUQ of the Raffle
-              Currency.
-
-      (c) Ticket Price: all tickets shall have the same Ticket Price.
-          If not otherwise specified, the Ticket Price shall be equal
-          to the MUQ of the Raffle Currency.
-
-      (d) Buying tickets: each active Player may buy tickets in the
-          Raffle; non-active Players may not buy tickets. An entrant
-          buys a ticket by paying a Fee equal to the Ticket Price to
-          the Bank, provided that the purchase is not made before the
-          start of the Raffle, or after its end.  Each entrant may buy
-          as many tickets as e likes during the Raffle.
-
-      (e) End of Raffle: the Raffle ends if any of the following
-          occur:
-          (1) one week has passed from the start of the Raffle, and no
-              tickets have been purchased; or
-          (2) a ticket has been purchased in the Raffle, and 72 hours
-              have passed without another ticket being purchased in
-              the
-              Raffle;
-          (3) 14 days have passed since the Raffle began.
-
-      (f) Winning tickets: When the Raffle ends, the Riff-Raff shall
-          randomly determine N valid Raffle tickets to be winning
-          tickets. Each Raffle ticket has one chance to win, and
-          multiple Raffle tickets bought by the same entrant may win.
-          If there were less than N valid Raffle tickets, then all
-          valid Raffle tickets are winning tickets.
-
-      (g) Announcing winners: as soon as possible after the end of the
-          Raffle, the Riff-Raff shall announce the winning tickets.
-          Upon this announcement, the owner of the Auctioned items
-          shall incur a debt of one Auctioned lot of items to each
-          winning entrant for each of eir winning tickets.
-
-      (h) Riff-Raff's Gratuity: within a week after the end of the
-          Raffle, the Riff-Raff may pay out to emself the Ticket Price
-          in the Raffle Currency if:
-          (1) the Raffle had at least three separate winning entrants,
-              not including the Riff-Raff; and
-          (2) the Riff-Raff has not already done so for that Raffle.
-
-History:
-Created by Proposal 4167 (root), 11 June 2001
-Amended(1) by Proposal 4176 (root), 7 July 2001
-Amended(2) by Proposal 4177 (Elysion), 7 July 2001
-Amended(3) by Proposal 4265 (Steve), 17 March 2002
-Amended(4) by Proposal 4278 (harvel), 3 April 2002
-Amended(5) by Proposal 4356 (Steve), 7 August 2002
-Amended(6) by Proposal 4385 (Steve), 17 September 2002
-
-----------------------------------------------------------------------
-
-Rule 2012/2 (Power=1)
-Single-Bid Auctions
-
-      There is a type of auction called a single-bid auction. The
-      procedure for conducting a single-bid auction is the same as
-      that used in the default auction procedure, with the following
-      additions and exceptions:
-
-      (a) Bid inflation factor: As part of any correct and legal
-          announcement that a single-bid auction is commencing, the
-          Auctioneer must announce the value of the bid inflation
-          factor for the auction, a real number between 0 and 1
-          inclusive.
-
-      (b) Making bids: each player eligible to bid in the auction is
-          permitted to make only one bid, called the initial bid.  Any
-          bids made by a player after eir initial bid in the auction
-          are invalid.  A player who cancels eir bid is ineligible to
-          make further bids in the auction.  All bids must be made
-          publically.
-
-      (c) Value of bids: at each midnight GMT during the auction, the
-          value of each valid, uncancelled bid remaining in the
-          auction is increased by an amount equal to the bid inflation
-          factor multiplied by the initial bid.
-
-      (d) End of auction: the auction ends if any of the following
-          occur:
-
-          (1) one week has passed from the start of the auction, and
-              no bids have been made; or
-
-          (2) a bid has been made in the auction, and there has been
-              no change in the N highest initial bids for 72 hours; or
-
-          (3) fourteen days have passed since the Auction began.
-
-      (e) Final auction price: for the purposes of determining the
-          winner(s) of the auction, the value of each bid as
-          calculated in (c) above is used. However, the debt incurred
-          by a winner of the auction is equal to the Nth highest
-          winning initial bid, where N is the number of items being
-          auctioned, or to the starting bid, if there were fewer than
-          N bids.
-
-History:
-Created by Proposal 4251 (Steve), 19 February 2002
-Amended(1) by Proposal 4321 (Steve), 31 May 2002
-Amended(2) by Proposal 4446 (Steve), 22 February 2003
-
-----------------------------------------------------------------------
-
-
-======================================================================
-The Bank
-  This Category includes Rules concerning the Bank.
-----------------------------------------------------------------------
-
-Rule 1470/7 (Power=2)
-The Bank
-
-      (a) There is an entity known as the Bank.  The Bank has Mint
-          Authority.  The Bank is the Mintor of each Bank Currency.
-          The Bank may transfer Property in its possession to other
-          entities only to satisfy its debts.
-
-      (b) The Treasuror is the Executor of the Bank.  Each
-          Recordkeepor of each Bank Currency is a Limited Executor of
-          the Bank, and is empowered to make transfers of that
-          Currency from the Bank.
-
-      (c) Each Recordkeepor of each Bank Currency is the Prime
-          Executor of the Bank with respect to debts denominated in
-          that Currency. The Treasuror is the Prime Executor of the
-          Bank with respect to all other actions that the Bank is
-          required to perform.
-
-      (d) As soon as possible after the Bank incurs a debt to any
-          other entity, the Bank shall either satisfy that debt by
-          transferring appropriate Properties to the creditor, or
-          dispute the debt by whatever means are appropriate in the
-          situation.
-
-      (e) The Bank is permitted to forgive debts owed to it, in whole
-          or in part:
-          (1) pursuant to a properly-issued Order; or
-          (2) Without Objection, at the Treasuror's discretion.
-
-[CFJ 1437: Where the Bank has been properly ordered to forgive a debt
- denominated in a Bank Currency, only the Treasuror is both permitted
- and required to act on the Bank's behalf to forgive the debt.]
-
-History:
-Created by Proposal 1601, Jun. 19 1995
-Amended(1) by Proposal 2470, Feb. 16 1996
-Amended(2) by Proposal 3533 (General Chaos), Jul. 15 1997, substantial
-Amended(3) by Proposal 3940 (Blob), Nov. 15 1999
-Amended(4) by Proposal 4018 (Kelly), Jun. 21 2000
-Amended(5) by Proposal 4156 (Ian), 18 May 2001
-Amended(6) by Proposal 4190 (Steve), 18 July 2001
-Amended(7) by Proposal 4322 (t), 31 May 2002
-Power changed from 1 to 2 by Proposal 4322 (t), 31 May 2002
-
-----------------------------------------------------------------------
-
-Rule 1479/6 (Power=1)
-Definition of "Pay Out" and "Bill"
-
-      (a) Whenever a Rule requires a Player to pay out one or more
-          Properties to some entity, the Bank shall incur a debt to
-          that entity for those Properties, and the named Player
-          shall, as soon as possible, post a public notice of the
-          debt. The Player is relieved of this obligation if the debt
-          is satisfied before the public notice is posted.
-
-      (b) If a Rule explicitly permits a Player to pay out one or more
-          Properties to some entity, but does not require em to do so,
-          then the Bank shall incur a debt to that entity for those
-          Properties when the Player posts a public notice of the
-          debt.
-
-      (c) Whenever a Rule requires a Player to bill an entity for one
-          or more Properties, that entity shall incur a debt to the
-          Bank for those Properties, and the named Player shall, as
-          soon as possible, post a public notice of the debt. The
-          Player is relieved of this obligation if the bill is paid
-          before the public notice is posted.
-
-CFJ 1301 (Judged TRUE, 13 June 2001): "Rule 1479 should be interpreted
- such that an Order, which requires a Player to pay out one or more
- Properties to some entity, and which is valid and proper under the
- Rules, causes the Bank to incur one or more debts to the named
- entity."
-
-History:
-Created by Proposal 1601, Jun. 19 1995
-Amended(1) by Proposal 2476, Feb. 16 1996
-Amended(2) by Proposal 3533 (General Chaos), Jul. 15 1997
-Amended(3) by Proposal 4018 (Kelly), Jun. 21 2000
-Amended(4) by Proposal 4353 (Steve), 7 August 2002
-Amended(5) by Proposal 4364 (Steve), 16 August 2002
-Amended(6) by Proposal 4402 (Steve), 23 October 2002
-
-----------------------------------------------------------------------
-
-======================================================================
-Stems
-  This Category includes Rules concerning the Currency of Stems and
-  the Office of the Payroll Clerk.
-----------------------------------------------------------------------
-
-Rule 1909/7 (Power=1)
-The Payroll Clerk
-
-      The Payroll Clerk is an office; its holder is recordkeepor of
-      Stems and is responsible for paying out salaries and other
-      compensations.
-
-History:
-Created by Proposal 3897 (harvel), Aug. 27 1999
-Amended(1) by Proposal 3935 (Murphy), Oct. 24 1999
-Amended(2) by Proposal 3940 (Blob), Nov. 15 1999
-Amended(3) by Proposal 3980 (Steve), Mar. 1 2000
-Amended(4) by Proposal 4002 (harvel), May 8 2000
-Amended(5) by Proposal 4053 (harvel), Aug. 21 2000
-Amended(6) by Proposal 4085 (Blob), Nov. 16 2000
-Amended(7) by Proposal 4250 (harvel), 19 February 2002
-
-----------------------------------------------------------------------
-
-Rule 1910/7 (Power=1)
-Stems
-
-      Stems are a Bank Currency.  The MUQ of Stems is 1.  The
-      Recordkeepor for Stems is the Payroll Clerk.
-
-      Transfers of Stems are permitted only if at least one of the
-      following is true:
-
-      (1) either the transferor or the transferee is the Bank;
-      (2) the Stems are to be transferred from a Dissolute to a player
-          who has the privilege of Looting the Corpse of that
-          Dissolute;
-      (3) either the transferor or the transferee is a Money Grubbing
-          Contest, and the regulations of the Contest(s) involved in
-          the transfer specifically permit the transfer.
-
-      All other transfers of Stems are prohibited.
-
-History:
-Created by Proposal 3897 (harvel), Aug. 27 1999
-Amended(1) by Proposal 3940 (Blob), Nov. 15 1999
-Amended(2) by Proposal 4018 (Kelly), Jun. 21 2000
-Amended(3) by Proposal 535[2001] (Elysion), Feb. 2 2001
-Amended(4) by Proposal 4211 (harvel), 10 September 2001
-Amended(5) by Proposal 4337 (Sir Toby), 30 June 2002
-Amended(6) by Proposal 4386 (Peekee), 25 September 2002
-Amended(7) by Proposal 4453 (Sherlock), 22 February 2003
-
-----------------------------------------------------------------------
-
-Rule 2011/1 (Power=1)
-Stems Weather
-
-      As soon as possible after the beginning of each month, the
-      Treasuror shall randomly Determine the Weather for the month.
-      The Weather can be one of either Foul, Fair, or Plenty, and
-      shall be determined as follows:
-
-        - Let FOUL be the number of Stems owned by the Bank,
-          multiplied by the Foul Weather Factor as set in the
-          Treasuror's Budget, and then rounded up to the nearest
-          integer.
-        - Let PLENTY be the number of Stems owned by all Entities,
-          excluding the Bank.
-        - Let SAME and FAIR both be the sum of FOUL and PLENTY,
-          divided by 4, rounding up to the nearest integer.
-        - Let TOTAL by the sum of FOUL, PLENTY, SAME, and FAIR.
-        - The weather shall be determined using the following
-          probabilities:
-                (FOUL   / TOTAL)  Foul.
-                (FAIR   / TOTAL)  Fair.
-                (PLENTY / TOTAL)  Plenty.
-                (SAME   / TOTAL)  Same as the previous month.
-
-      When the Treasuror posts eir Determination of the Weather for a
-      month, the following events shall occur in the listed sequence
-      immediately after the Weather is Determined:
-
-           (a) A number of Stems in the Bank's possession, equal to
-               the number of Players in the game multiplied by the
-               Minimum Income, multiplied by the Weather Intensity
-               Factor as set in the Treasuror's Budget, and then
-               rounded up to the nearest integer, shall be
-               Destroyed. If this value is greater than the number of
-               Stems in the Possession of the Bank, all the Stems in
-               the Possession of the Bank shall be Destroyed instead.
-           (b) A number of Stems shall be Created in the Bank's
-               Possession, equal to the number Destroyed in (a) above
-               multiplied by:
-                    0.50 if the Weather is Foul;
-                    1.00 if the Weather is Fair;
-                    1.50 if the Weather is Plenty.
-
-      The Treasuror shall announce the number of Stems Created and
-      Destroyed by this Rule in the message in which e announces the
-      Weather.
-
-History:
-Created by Proposal 4234 (Goethe), 29 November 2001
-Amended by Proposal 4383 (Sir Toby), 11 September 2002
-
-----------------------------------------------------------------------
-
-
-======================================================================
-Voting Entitlements
-  This Category includes Rules concerning the Currency of Voting
-  Entitlements
-----------------------------------------------------------------------
-
-Rule 1945/2 (Power=1)
-Voting Entitlements
-
-      Voting Entitlements are a Bank Currency. The Recordkeepor of
-      Voting Entitlements is the Assessor. The MUQ of Voting
-      Entitlements is 0.001.
-
-History:
-Created by Proposal 4018 (Kelly), Jun. 21 2000
-Amended(1) by Proposal 4085 (Blob), Nov. 16 2000
-Amended(2) by Proposal 4203 (neil), 28 August 2001
-
-----------------------------------------------------------------------
-
-Rule 1946/9 (Power=1)
-Distribution of Voting Entitlements
-
-      (a) The Ideal Voting Entitlement Circulation Level (IVECL) is
-          equal to the number of registered Players multiplied by the
-          Voting Entitlements per Player as set in the Assessor's
-          Budget.
-
-      (b) The Actual Voting Entitlement Circulation Level (AVECL) is
-          the total number of Voting Entitlements owned by entities
-          other than the Bank, augmented by the total number of Voting
-          Entitlements owned by the Bank which either:
-          (1) are already being Auctioned by the Bank in prior Voting
-              Entitlement Auctions that have not yet concluded; or
-          (2) have been auctioned in prior Voting Entitlement Auctions
-              that have concluded, but where the debts arising from
-              Winning Bids have neither been paid nor defaulted upon;
-              or
-          (3) have been Auctioned in prior Voting Entitlement Auctions
-              that have concluded, and the debts arising from the
-              Winning Bids have been paid, but the Voting Entitlements
-              have not been transferred to the Winning Bidders.
-
-      (c) The Voting Entitlement Surplus is the difference between the
-          IVECL and the AVECL; if the AVECL is greater than the IVECL,
-          the Voting Entitlement Surplus is zero.
-
-      (d) If the Voting Entitlement Surplus is positive at the
-          beginning of the month, the Assessor shall as soon as
-          possible auction off the surplus Voting Entitlements. The
-          items to be auctioned are lots of 0.1 VEs; the number of
-          items is equal to the Voting Entitlement Surplus multiplied
-          by 10, rounded down to the nearest integer.  The Auctioneer
-          shall be the Assessor, and the Auction shall be conducted in
-          Stems.
-
-History:
-Created by Proposal 4018 (Kelly), Jun. 21 2000
-Amended(1) by Proposal 4058 (Peekee), Aug. 29 2000
-Amended(2) by Proposal 4085 (Blob), Nov. 16 2000
-Amended(3) by Proposal 4117 (Blob), Mar. 6 2001
-Amended(4) by Proposal 4203 (neil), 28 August 2001
-Amended(5) by Proposal 4247 (Murphy), 19 February 2002
-Amended(6) by Proposal 4249 (Murphy), 19 February 2002
-Amended(7) by Proposal 4255 (Steve), 21 February 2002
-Amended(8) by Proposal 4281 (Goethe), 16 April 2002
-Amended(9) by Proposal 4359 (Steve), 16 August 2002
-
-----------------------------------------------------------------------
-
-
 
 ======================================================================
 Winning a Game
@@ -8546,11 +7886,11 @@ Indulgences and Blots
   This Category includes Rules concerning Indulgences and Blots.
 ----------------------------------------------------------------------
 
-Rule 1377/16 (Power=1)
+Rule 1377/17 (Power=1)
 The Herald
 
-      The Herald is an office; its holder is recordkeepor of
-      Indulgences and is responsible for keeping track of Blots.
+      The Herald is an office; its holder is responsible for keeping
+      track of Blots.
 
       The Herald's Report shall include the following:
 
@@ -8581,34 +7921,33 @@ Amended(13) by Proposal 4110 (Ziggy), Feb. 13 2001
 Amended(14) by Proposal 4124 (Elysion), Mar. 28 2001
 Amended(15) by Proposal 4250 (harvel), 19 February 2002
 Amended(16) by Proposal 4272 (Murphy), 22 March 2002
+Amended(17) by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
-Rule 1435/16 (Power=1)
-Indulgences
+Rule 2051/0 (Power=2)
+Tabla Rasa
 
-      Indulgences are a Bank Currency. The Minimum Unit Quantity (MUQ)
-      of Indulgences is 0.001.  The Recordkeepor for Indulgences is
-      the Herald.
+      The Herald's Budget shall consist of a positive integer between
+      5 and 25, known as the Tabla Rasa.
+
+      As soon as possible after the beginning of each quarter, the
+      Herald shall announce the Turning of a New Parchment.
+
+      The effect of such an announcement is to:
+      (A) set each Player's kudos equal to:
+          (i)    the Tabla Rasa;
+          (ii)   plus the number of boons e holds;
+          (iii)  minus the number of albatrosses e holds;
+          (iv)   minus one for every 3 Blots e has.
+
+      (B) set Agora's kudos equal to the Tabla Rasa times
+          the current number of Players;
+
+      (C) revoke all ephemeral Patent Titles.
 
 History:
-Created by Proposal 1457, Mar. 1 1995
-Amended(1) by Proposal 3476 (Oerjan), May 11 1997, substantial
-Amended(2) by Proposal 3533 (General Chaos), Jul. 15 1997, substantial
-Amended(3) by Proposal 3543 (Harlequin), Aug. 17 1997, substantial
-Amended(4) by Proposal 3569 (Zefram), Oct. 30 1997, substantial
-Amended(5) by Proposal 3833 (Vlad), Feb. 15 1999
-Amended(6) by Proposal 3897 (harvel), Aug. 27 1999
-Amended(7) by Proposal 3901 (Schneidster), Sep. 6 1999
-Amended(8) by Proposal 3926 (Crito), Oct. 10 1999
-Amended(9) by Proposal 3940 (Blob), Nov. 15 1999
-Amended(10) by Proposal 4003 (t), May 8 2000
-Amended(11) by Proposal 4011 (Wes), Jun. 1 2000
-Amended(12) by Proposal 4018 (Kelly), Jun. 21 2000
-Amended(13) by Proposal 4102 (Murphy), Jan. 15 2001
-Amended(14) by Proposal 4155 (harvel), 18 May 2001
-Amended(15) by Proposal 4203 (neil), 28 August 2001
-Amended(16) by Proposal 4272 (Murhpy), 22 March 2002
+Created by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
@@ -8637,21 +7976,16 @@ Created by Proposal 4272 (Murphy), 22 March 2002
 
 ----------------------------------------------------------------------
 
-Rule 2018/0 (Power=1)
+Rule 2018/1 (Power=1)
 Expunging Blots with Indulgences
 
-      When an entity transfers an amount of Indulgences to the Bank,
-      and specifies in the Notice of Transfer that the transfer is for
-      the purpose of expunging the Blots of a specified entity, then
-      an equal amount of the entity's Blots are expunged.  (If the
-      amount of the transfer exceeds the entity's Stain at the time of
-      the transfer, then all of the entity's Blots are expunged, and
-      the Bank incurs an Indulgence debt to the transferor equal to
-      the amount of the original transfer minus the entity's previous
-      Stain.)
+      A non-Immaculate entity may expunge a number of eir Blots, up to
+      eir total Stain, by announcing the number of eir Blots e
+      expunges; this has a Fee of 2 Kudos per expunged Blot.
 
 History:
 Created by Proposal 4272 (Murphy), 22 March 2002
+Amended(1) by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
@@ -8666,78 +8000,6 @@ Amended(1) by Proposal 4110 (Ziggy), Feb. 13 2001
 Amended(2) by Proposal 4272 (Murphy), 22 March 2002
 Amended(3) by Proposal 4375 (RedKnight), 6 September 2002
 Amended(4) by Proposal 4453 (Sherlock), 22 February 2003
-
-----------------------------------------------------------------------
-
-Rule 1712/19 (Power=1)
-Distribution of Indulgences
-
-      (a) The Ideal Indulgence Circulation Level (IICL) is equal to
-          the number of Players plus the total Stain of all Players.
-
-      (b) The Actual Indulgence Circulation Level (AICL) is the total
-          number of Indulgences owned by entities other than the Bank,
-          augmented by the total number of Indulgences owned by the
-          Bank which either:
-
-          (1) are already being Auctioned by the Bank in prior
-              Indulgence Auctions that have not yet concluded; or
-          (2) have been auctioned in prior Indulgence Auctions that
-              have concluded, but where the debts arising from Winning
-              Bids have neither been paid nor defaulted upon; or
-          (3) have been Auctioned in prior Indulgence Auctions that
-              have concluded, and the debts arising from the Winning
-              Bids have been paid, but the Indulgences have not been
-              transferred to the Winning Bidders.
-
-      (c) The Indulgence Surplus is the difference between the IICL
-          and the AICL; if the AICL is greater than the IICL, the
-          Indulgence Surplus is zero.
-
-      (d) If the Indulgence Surplus is positive at the beginning of
-          the month, the Herald shall as soon as possible auction off
-          the surplus Indulgences. The items to be auctioned are
-          individual Indulgences; the number of items is equal to the
-          Indulgence Surplus, rounded down to the nearest integer.
-          The Auctioneer shall be the Herald, and the Auction shall be
-          conducted in Stems.
-
-      (e) The Monthly Bank Indulgence Gain (MBIG) is the number of
-          Indulgences transferred from other entities to the Bank
-          during a given Nomic Month, less the number of Indulgences
-          transferred from the Bank to other entities during that same
-          Nomic Month.
-
-      (f) If the Indulgence Surplus is less than one at the beginning
-          of the month, the Herald may still conduct an Indulgence
-          auction, but only if e initiates it within one week after
-          the beginning of the month. The items to be auctioned are
-          individual Indulgences; the number of items is chosen by the
-          Herald, with a minimum of 1 and a maximum of half the MBIG,
-          rounded down to the nearest integer. The Auctioneer shall be
-          the Herald, and the Auction shall be conducted in Stems.
-
-History:
-Created by Proposal 3476 (Oerjan), May 11 1997
-Amended(1) by Proposal 3533 (General Chaos), Jul. 15 1997, substantial
-Amended(2) by Proposal 3543 (Harlequin), Aug. 17 1997, substantial
-Amended(3) by Proposal 3618 (General Chaos), Dec. 9 1997, substantial
-Amended(4) by Proposal 3714 (Crito), Mar. 19 1998
-Amended(5) by Proposal 3897 (harvel), Aug. 27 1999
-Amended(6) by Proposal 3938 (Murphy), Nov. 7 1999
-Amended(7) by Proposal 4018 (Kelly), Jun. 21 2000
-Amended(8) by Proposal 4074 (Elysion), Sep. 26 2000
-Amended(9) by Proposal 4085 (Blob), Nov. 16 2000
-Amended(10) by Proposal 4162 (Elysion), 11 June 2001
-Amended(11) by Proposal 4188 (Goethe), 18 July 2001
-Amended(12) by Proposal 4203 (neil), 28 August 2001
-Amended(13) by Proposal 4249 (Murphy), 19 February 2002
-Amended(14) by Proposal 4272 (Murphy), 22 March 2002
-Amended(15) by Proposal 4281 (Goethe), 16 April 2002
-Amended(16) by Proposal 4356 (Steve), 7 August 2002
-Amended(17) by Proposal 4398 (harvel), 23 October 2002
-Amended(18) by Proposal 4423 (Murphy), 16 December 2002
-Amended(19) by Proposal 4463 (Cecilius), 17 March 2003
 
 ----------------------------------------------------------------------
 
@@ -8785,7 +8047,7 @@ Amended(8) by Proposal 4272 (Murphy), 22 March 2002
 
 ----------------------------------------------------------------------
 
-Rule 1747/6 (Power=1)
+Rule 1747/7 (Power=1)
 Pardoning Lawlessness
 
       The Clerk of the Courts has the power to Pardon Fugitives from
@@ -8810,9 +8072,8 @@ Pardoning Lawlessness
             ten Prescribed Words in eir Pardon.
 
         iv) For three months after being Pardoned, the Pardoned Player
-            may only use Indulgences to expunge Blots from eir record
-            and may not transfer any Indulgences for any other
-            purpose.
+            may not perform any Progressive Actions except expunging
+            Blots from eir record, unless e is Immaculate.
 
       This Rule takes precedence over any Rule governing Lawlessness,
       or when a deregistered Player may reregister.
@@ -8825,16 +8086,17 @@ Amended(3) by Proposal 4038 (Oerjan), Aug. 7 2000
 Amended(4) by Proposal 4147 (Wes), 13 May 2001
 Amended(5) by Proposal 4272 (Murphy), 22 March 2002
 Amended(6) by Proposal 4398 (harvel), 23 October 2002
+Amended(7) by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
-Rule 1439/9 (Power=1)
+Rule 1439/10 (Power=1)
 Default Penalty for Violating a Rule
 
       Violating a Rule is the Class N Crime of Disobedience, unless
       other Rules define or prohibit a penalty for the violation.  N
       is the Power of the violated Rule (rounded down to the nearest
-      multiple of the MUQ of Indulgences), but shall not exceed 4.
+      integer), or 4, whichever is less.
 
 History:
 Created by Proposal 1460, Mar. 1 1995
@@ -8849,6 +8111,7 @@ Amended(6) by Proposal 3823, (Oerjan), Jan. 21 1999
 Amended(7) by Proposal 3901 (Schneidster), Sep. 6 1999
 Amended(8) by Proposal 3950 (harvel), Dec. 8 1999
 Amended(9) by Proposal 4406 (Murphy), 30 October 2002
+Amended(10) by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
@@ -9494,25 +8757,29 @@ The Notary
   This Category includes Rules concerning the Office of Notary.
 ----------------------------------------------------------------------
 
-Rule 1458/11 (Power=1)
+Rule 1458/12 (Power=1)
 The Notary
 
       The Notary is an office; its holder is responsible for
-      maintaining a record of organizations and their jurisdictions.
+      maintaining a record of organizations and their jurisdictions,
+      and generic information, excluding holdings, of currencies.
 
-      The Notary's Report shall include the following information
-      for each Organization:
+      The Notary's Report shall include the following information:
 
-        (i)  its name;
-       (ii)  its Administrator;
-      (iii)  its Executor;
-       (iv)  its SLC's Maintainer; and
-        (v)  its Jurisdiction's Players.
+      (A) For each organization:
+            (i)  its name;
+           (ii)  its Administrator;
+          (iii)  its Executor;
+           (iv)  its SLC's Maintainer; and
+            (v)  its Jurisdiction's Players.
 
-      Also, as soon as possible after the creation or dissolution
-      of any Organization, the Notary shall announce that fact.  If
-      an Organization is created, the Notary shall announce the
-      above information for that Organization.
+      (B) For each currency, its name, mintor, recordkeepor, and
+          Minimum Unit Quantity.
+
+      Also, as soon as possible after the creation or dissolution of
+      any Organization, the Notary shall announce that fact.  If an
+      Organization is created, the Notary shall announce the above
+      information for that Organization.
 
 History:
 Created by Proposal 1575, Apr. 28 1995
@@ -9529,6 +8796,7 @@ Amended(8) by Proposal 3902 (Murphy), Sep. 6 1999
 Amended(9) by Proposal 4002 (harvel), May 8 2000
 Amended(10) by Propoal 01-002 (Blob), Feb. 2 2001
 Amended(11) by Proposal 4250 (harvel), 19 February 2002
+Amended(12) by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
@@ -9699,21 +8967,22 @@ Created by Proposal 4453 (Sherlock), 22 February 2003
 
 ----------------------------------------------------------------------
 
-Rule 2042/0 (Power=1)
+Rule 2042/1 (Power=1)
 Team Wins
 
       A Team achieves a Team Win when its Team Score reaches 400.
 
       The Scorekeepor shall make a public announcement of the Team Win
       as soon as possible after the Team Win is achieved.  The
-      Scorekeepor shall then pay out 25 Stems to each Player in the
-      winning Team.
+      Scorekeepor shall then award each team member the Boon Team
+      Ribbon.
 
       Upon the Scorekeepor's announcement, all Players' Scores are set
       to zero.
 
 History:
 Created by Proposal 4453 (Sherlock), 22 February 2003
+Amended(1) by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
@@ -9738,167 +9007,6 @@ The Land of Arcadia
   This Category includes Rules about the virtual Land of Arcadia
 ----------------------------------------------------------------------
 
-Rule 1993/1 (Power=2)
-The Land of Arcadia
-
-      Arcadia is a land entirely defined by the Arcadian Map (the
-      Map).  The Map is a record kept by the Office of the Mapkeepor.
-
-      The Map divides Arcadia into a finite, discrete number of Units
-      of Land, or simply Land.  Each Unit of Land is a unique instance
-      of nonfungible Property specified by a pair of integers known as
-      its Latitude and Longitude.
-
-      Every unique pair of integers within the limits defined in the
-      Rules for Latitude and Longitude signifies an existent Unit of
-      Land.  No other Units of Land may exist.  Units of Land may only
-      be created or destroyed by changing the limits of Latitude and
-      Longitude defined in the Rules.
-
-      All values for Latitude must lie between -9 and +9, inclusive.
-      All values for Longitude must lie between -9 and +9, inclusive.
-
-      The Total Land Area of Arcadia is the number of existent Units
-      of Land defined by permissible Latitude and Longitude pairs.
-
-History:
-Created by Proposal 4197 (Goethe), 8 August 2001
-Amended(1) by Proposal 4283 (Goethe), 16 April 2002
-
-----------------------------------------------------------------------
-
-Rule 1994/0 (Power=2)
-Ownership of Land
-
-      Any existent Land for which ownership has not been explicitly
-      changed belongs to an entity known as the Land Bureau (the
-      Bureau).
-
-      Land belonging to the Bureau is called Unclaimed Land.  Land
-      belonging to the Bank is called Public Land.  Land belonging to
-      any other entity is called Private Land.  A Unit of Land for
-      which a debt exists is considered to be In Escrow.
-
-      The Mapkeepor is the Executor of the Land Bureau.  The Mapkeepor
-      is also a Limited Executor of the Bank, with the authority to
-      satisfy debts of Land owed by the Bank to its creditors, and the
-      authority to demand the payment of Land owed to the Bank by its
-      debtors.
-
-      The transfer of Unclaimed or Public Land to any entity must be
-      specifically permitted by the Rules, or be performed by the
-      explicit action of an instrument of Power 2 or greater, to be an
-      authorized Transfer.
-
-      Private Land may be transferred from its owner to any other
-      entity by the owner's Executor.  Any other transfer of Private
-      Land must be performed by the explicit Action of an instrument
-      of Power 2 or greater to be an authorized transfer.
-
-History:
-Created by Proposal 4197 (Goethe), 8 August 2001
-
-----------------------------------------------------------------------
-
-Rule 1995/0 (Power=2)
-Land Types
-
-      Each Unit of Land shall have a single Land Type.  Each Unit of
-      Land that has a Land Type shall have either zero or one Land
-      Subtypes.  The Land Type or Subtype of a Unit may only be
-      changed as specifically permitted by the Rules, or by an
-      instrument of Power 2 or greater.
-
-      The phrase "Units of X", where X is a Land Type (or Subtype)
-      defined by the Rules, shall be considered a synonym for "Units
-      of Land that have Land Type (or Subtype) X".
-
-      When existent Land has not had its Type changed as explicitly
-      permitted by the Rules, or has a Type that is not currently
-      defined by the Rules, it shall be considered to have the Land
-      Type of Aether.  Rules to the contrary nonwithstanding, Units of
-      Aether may not be transferred from the Bureau, or owned by any
-      entity other than the Bureau.  If Private or Public Land becomes
-      Aether it shall be transferred to the Bureau as soon as
-      possible.
-
-      When existent Land has not had its Subtype changed as explicitly
-      permitted by the Rules, or has a Subtype that is not currently
-      defined by the Rules as permissible for its Land Type, it shall
-      be considered to have no Subtype.
-
-History:
-Created by Proposal 4197 (Goethe), 8 August 2001
-
-----------------------------------------------------------------------
-
-Rule 1996/3 (Power=1)
-The Mapkeepor
-
-      The Mapkeepor is an office; its holder is recordkeepor for the
-      Land of Arcadia.
-
-      The Mapkeepor's Weekly Report shall include:
-
-        (i) the ownership and land type of all existing land;
-       (ii) all changes in the ownership and land type of existing
-            land since the most recent report; and
-      (iii) the location for the previous week and the current week of
-            each entity or instrument with a defined non-secret
-            location.
-       (iv) The number of action units available to each entity for
-            the current week.
-
-History:
-Created by Proposal 4197 (Goethe), 8 August 2001
-Amended(1) by Proposal 4250 (harvel), 19 February 2002
-Amended(2) by Proposal 4280 (OscarMeyr), 3 April 2002
-Amended(3) by Proposal 4425 (SirToby), 2 January 2003
-
-----------------------------------------------------------------------
-
-Rule 1997/2 (Power=1)
-Defined Land Types and Subtypes
-
-      In addition to Aether, the following Land Types are defined:
-        (a) Black;
-        (b) White;
-        (c) Purple.
-
-History:
-Created by Proposal 4197 (Goethe), 8 August 2001
-Amended(1) by Proposal 4283 (Goethe), 16 April 2002
-Amended(2) by Proposal 4471 (OscarMyer), 26 March 2003
-
-----------------------------------------------------------------------
-
-Rule 1998/2 (Power=1)
-Land Topology
-
-      Two Units of Land are Adjacent if and only if:
-         (i) They have the same Latitude, and their Longitudes differ
-             by exactly one; or
-        (ii) They have the same Longitude, and their Latitudes differ
-             by exactly one.
-
-      The Penguin Distance between two given Units of Land is the
-      minimum number of Single Waddles required to Travel from one of
-      the given Units to the other given Unit, where one Single Waddle
-      is the Penguin Distance required to Travel from one Unit of Land
-      to an Adjacent Unit of Land.
-
-      Two Units of Land are said to be Connected by a specific Type or
-      Subtype of Land if it is possible to travel from the first Unit
-      to the second by Waddling only over Land of that specific Type
-      or Subtype.
-
-History:
-Created by Proposal 4197 (Goethe), 8 August 2001
-Amended(1) by Proposal 4217 (Syllepsis), 29 September 2001
-Amended(2) by Proposal 4283 (Goethe), 16 April 2002
-
-----------------------------------------------------------------------
-
 Rule 1999/0 (Power=1)
 Entity Location
 
@@ -9918,273 +9026,6 @@ Entity Location
 
 History:
 Created by Proposal 4197 (Goethe), 8 August 2001
-
-----------------------------------------------------------------------
-
-Rule 2003/11 (Power=1)
-Actions in Arcadia
-
-      Every week, the number of Actions Units an entity may expend to
-      perform actions in the Land of Arcadia is as follows,
-
-      - If the entity is a Player, 10, minus 1 for every 5 Blots in
-        the Player's Stain as recorded in the most recent Herald's
-        report before the week started, plus 1 for every unit of Land
-        with Gote owned by the Player at the start of the week.
-
-      - All other entities zero.
-
-      Action Units are not transferable, and do not persist from one
-      week to the next.
-
-      An entity may expend Action Units to carry out an action in
-      Arcadia by notifying the Mapkeepor of the specifics of the act.
-      So long as e does not spend more than eir allotted number of
-      Action Units, e may make as many actions e wishes in a single
-      week.
-
-      When an act specifies an alternating Land Type, the Land Type
-      chosen will be based upon the Land Type used as the previous
-      alternating Land Type, so that consecutive alternating Land
-      Types alternate between Black and White. As soon as possible
-      after a Player notifies the Mapkeepor of an act that specifies
-      an alternating Land Type, the Mapkeepor must announce which Land
-      Type was used for that act.
-
-      Players may expend:
-
-      * 2 Action Units to move from one Land Unit to an adjacent Unit
-        if their Land Types are the same and the destination is not
-        Aether.
-
-      * 5 Action Units to move from one Land Unit to an adjacent Unit
-        if their Land Types differ and the destination is not Aether;
-
-      Any entity may expend:
-
-      * 5 Action Units to set Land Type of a Land Unit which e owns to
-        any Land Type other than Aether, whether or not e is located
-        at that Land Unit.
-
-      * 5 Action Units to set the Land Type of a random Land Unit that
-        is adjacent to the Entity's current location, is of type
-        Aether, and is owned by the Land Bureau, to an alternating
-        Land Type.  The Mapkeepor will make the random determination.
-        This action has no effect if there are no qualifying Land
-        Units.  As soon as possible after a Player notifies the
-        Mapkeepor of this move, the Mapkeepor must announce which Land
-        Unit, if any, is changed by this action.  The change occurs at
-        the time of the first legal announcement from the Mapkeepor
-        declaring which Land Unit's Land Type has changed.
-
-      * 10 Action Units to set the Land Type of the Entity's current
-        location to any Land Type of eir choice other than Aether, if
-        and only if the Unit is owned by the Land Bureau.
-
-      * 10 Action Units to set the Land Type of any Land Unit that is
-        of type Aether to an alternating Land Type.
-
-      Unless explicitly permitted by other Rules, all other actions
-      and moves in Arcadia are invalid.
-
-History:
-Created by Proposal 4207 (neil), 3 September 2001
-Amended(1) by Proposal 4215 (neil), 29 September 2001
-Amended(2) by Proposal 4229 (Goethe), 22 November 2001
-Amended(3) by Proposal 4280 (OscarMeyr), 3 April 2002
-Amended(4) by Proposal 4283 (Goethe), 16 April 2002
-Amended(5) by Proposal 4293 (Sir Toby), 10 May 2002
-Amended(6) by Proposal 4373 (Sir Toby), 6 September 2002
-Amended(7) by Proposal 4405 (Peekee), 23 October 2002
-Amended(8) by Proposal 4425 (SirToby), 2 January 2003
-Amended(9) by Proposal 4431 (Peekee), 16 January 2003
-Amended(10) by Proposal 4434 (SirToby), 28 January 2003
-Amended(11) by Proposal 4453 (Sherlock), 22 February 2003
-
-----------------------------------------------------------------------
-
-Rule 2004/3 (Power=1)
-Land Auctions
-
-      As soon as possible after the tenth day of each Month, the
-      Mapkeepor shall, if the number of units of Private Land is less
-      than one half the total number of units of Land, auction a
-      number of units of Land not to exceed 10.  The units of Land to
-      be Auctioned are:
-        * if there exist at least 10 Units of non-Aether Land in the
-          possession of the Land Bureau: any 10 such Units of Land, to
-          be chosen by the Mapkeepor;
-        * if there exist fewer than 10 Units of non-Aether Land in the
-          possession of the Land Bureau: all such Units.
-
-      There shall be a separate Auction for each Unit of Land under
-      consideration.  These Auctions shall be conducted concurrently.
-      For each of these Auctions:
-        * The item to be Auctioned is the piece of Land in question.
-        * The Procedure to be used is the Vickrey Auction.
-        * The Default Auction Currency shall be Indulgences; however,
-          the Auctioneer may select a different Bank Currency with 2
-          Supporters.
-
-History:
-Created by Proposal 4210 (neil), 10 September 2001
-Amended(1) by Proposal 4234 (Goethe), 29 November 2001
-Amended(2) by Proposal 4249 (Murphy), 19 February 2002
-Amended(3) by Proposal 4386 (Peekee), 25 September 2002
-
-----------------------------------------------------------------------
-
-Rule 2005/2 (Power=1)
-Tolls
-
-      An Entity who owns Land may impose a Toll on any (currently
-      un-Tolled) piece of Land e owns.  To do so, e must pay a Fee of
-      0.2 Indulgences and publicly announce that e is imposing a
-      Toll, clearly and unambiguously identifying the Unit of Land in
-      question, as well as the amount of the Toll for that Unit of
-      Land.
-
-      A Toll is a number of VEs, Indulgences, or Papyri.  No Unit of
-      Land may have a Toll in other currencies, or in more than one of
-      these currencies.  No Toll shall be greater than 200 times the
-      MUQ of the currency in which it is denominated.  If an entity
-      (the Tollee) Moves into a Unit of Land which is at the time
-      owned by another Entity (the Toller), and for which there is at
-      the time a Toll established, e (the Tollee) is said to be In
-      Toll to the Unit of Land in question, for the amount of the Toll
-      on that unit of land (at the time of the Move)
-
-      The owner (Toller) of a Unit of Land may notify the Mapkeepor
-      that e believes an entity has been In Toll to a Unit of Land
-      owned by em; to do so, e submits a Notification of Toll, which
-      must unambiguously describe the Unit of Land in question, the
-      amount of the Toll, and the Entity (alleged Tollee) in question.
-      The alleged Move must have occurred within the past week.  A
-      Entity may submit only one such Notification for a given Unit of
-      Land in a single week, and may not submit substantially the same
-      Notification two weeks in a row.  Any Notification of Toll
-      contrary to this Rule is invalid and shall be discarded.
-
-      If, in the Mapkeepor's determination, the alleged Tollee was in
-      fact, in the week before the Notification, In Toll to the
-      specified Unit of Land for the specified amount, the Mapkeepor
-      shall confirm the Toll by publicly informing the Tollee and the
-      Toller.  The Tollee then incurs to the Toller a debt equal to
-      the Toll specified in the Notification.  If, in the Mapkeepor's
-      determination, the alleged Tollee was not In Toll to the
-      specified Unit of Land for the specified amount, e shall deny
-      the Notification by informing the Toller of eir determination.
-
-      If the Mapkeepor fails to respond to a valid Notification of
-      Toll, e commits the Class 2 Crime of Looking the Other Way.  If
-      the Mapkeepor confirms a Notification of Toll when in fact the
-      alleged Tollee was not In Toll to the specified Unit of Land for
-      the specified amount, e (the Mapkeepor) commits the Class 3
-      Crime of Conspiracy to Commit Highway Robbery.  If the Mapkeeper
-      denies a Notification of Toll when in fact the alleged Tollee
-      was In Toll to the specified Unit of Land for the specified
-      amount, e (the Mapkeepor) commits the Class 3 Crime of Not
-      Feeding the Toll Under the Bridge.
-
-      An Entity may remove a Toll from any Tolled Unit of Land e owns
-      by publicly announcing that e does so.  If an entity loses
-      possession of a Unit of Land, all Tolls imposed on that Unit by
-      that Entity are removed.
-
-History:
-Created by Proposal 4210 (neil), 10 September 2001
-Amended(1) by Proposal 4228 (root), 22 November 2001
-Amended(2) by Proposal 4405 (Peekee), 23 October 2002
-
-----------------------------------------------------------------------
-
-Rule 2022/5 (Power=1)
-Sente and Gote
-
-      On the fifteenth of each Agoran Month, the following actions
-      occur in sequence, and these changes must be reported by the
-      Mapkeepor as soon as possible after they occur:
-
-         (i) Every Land Unit, excluding (0, 0), that is not directly
-             connected to a unit of Aether, and is not connected by
-             its own type to a unit of Aether, shall be transformed to
-             Aether.
-
-        (ii) Any entities whose locations are on land units so
-             transformed shall have their locations set to 0,0.
-
-       (iii) If any land unit so transformed is not property of the
-             Land Bureau, it becomes property of the Land Bureau.
-
-        (iv) If there are more Land Units of a single defined Land
-             Type, Aether excepted, then there are of all other Land
-             Types combined (other than Aether), then all Land Units
-             of that majority Type are said to have Sente.  Land Units
-             of all other defined Types are said to have Gote.
-
-         (v) the Mapkeepor shall Pay Out:
-             (a) an amount of Stems equal to the Minimum Income times
-                 the Basic Officer's Salary to all Players whose
-                 location has Sente;
-             (b) to the owner of any Land Unit that has Sente and is
-                 not owned by the Bank or the Land Bureau:
-                     * if the Weather is Plenty, 3 Stems for each 5
-                       Land Units with Sente that e owns;
-                     * if the Weather is Fair, 2 Stems for each 5
-                       Land Units with Sente that e owns;
-                     * if the Weather is Foul, 1 Stem for each 5
-                       Land Units with Sente that e owns;
-
-      Sente and Gote shall only be changed as defined by this Rule, on
-      the fifteenth of each Agoran Month.
-
-History:
-Created by Proposal 4283 (Goethe), 16 April 2002
-Amended(1) by Proposal 4308 (Sir Toby), 28 May 2002
-Amended(2) by Proposal 4367 (Steve), 23 August 2002
-Amended(3) by Proposal 4386 (Peekee), 25 September 2002
-Amended(4) by Proposal 4398 (harvel), 23 October 2002
-Amended(5) by Proposal 4453 (Sherlock), 22 February 2003
-
-----------------------------------------------------------------------
-
-Rule 2046/0 (Power=1)
-Q*Bert (tm)
-
-      Q*Bert (tm) is an entity in Arcadia.  Q*Bert moves one space per
-      week, according to the following procedure:
-
-      Q*Bert moves one space in a random direction, but not to the
-      space it last moved from.  Q*Bert is permitted to move to an
-      undefined destination or to Aether.  If Q*Bert moves to an
-      undefined destination, its location becomes undefined, and the
-      next week it will move to (0,0).
-
-      Normally, Q*Bert moves in a diagonal direction.  If Q*Bert ends
-      its diagonal movement at a location that another entity ends eir
-      movement at for that week, then in the following week Q*Bert
-      will say "@!#?@!" and move in a random orthogonal direction.
-
-      Q*Bert has a color, which is a defined Land Type other than
-      Aether and that does not have Sente.  When Q*Bert moves to a
-      space, it changes the Land Type of that space.  If the current
-      Type is not the same as Q*Bert's color, Q*Bert changes that
-      space's type to its color.  Otherwise, Q*Bert changes that
-      space's type to the Land Type that currently has Sente.
-
-      The Mapkeepor is a Limited Executor of Q*Bert, and its Prime
-      Executor for its movement in Arcadia.  The Mapkeepor is to make
-      the random determination of Q*Bert's movement direction and
-      publish Q*Bert's movement and its effect as soon as possible
-      after the start of the Agoran week.
-
-      Upon the Mapkeepor's report that Q*Bert's color has Sente,
-      Q*Bert's color becomes a random Land Type other than Aether or
-      the old color.  The Mapkeepor will make this random
-      determination.
-
-History:
-Created by Proposal 4471 (OscarMyer), 26 March 2003
 
 ----------------------------------------------------------------------
 
