@@ -21,14 +21,14 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 318 Rules:
+There are currently 304 Rules:
    19 with Power=3
-   35 with Power=2
-  264 with Power=1
+   37 with Power=2
+  248 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2026
-Highest Rule Number assigned so far: 2026
+Highest current Rule Number:         2027
+Highest Rule Number assigned so far: 2027
 
 ======================================================================
 Table of Contents:
@@ -58,7 +58,6 @@ Table of Contents:
   Property
   Currencies
   The Bank
-  Bonds
   Stems
   Voting Entitlements
   Winning a Game
@@ -1017,13 +1016,14 @@ Amended(9) by Proposal 4155 (harvel), 18 May 2001
 
 ----------------------------------------------------------------------
 
-Rule 1976/2 (Power=1)
-Mentor's Bonus
+Rule 1976/3 (Power=1)
+Mentors' Bonus
 
       In the four weeks immediately after eir Grace Period ends, a
-      Player can award a Mentor's Bonus to any other player e deems to
-      have been most helpful to em as a new Player. E can only make
-      one such award.
+      Player can award a Mentor's Bonus to any other players e deems
+      to have been most helpful to em as a new Player.  E can only
+      make one such award, but may split it among any number of
+      players.
 
       The award is made by public announcement. Upon such an
       announcement the Bank shall incur a debt in Stems to the named
@@ -1033,6 +1033,7 @@ History:
 Created by Proposal 4143 (Blob), Apr. 22 2001
 Amended(1) by Proposal 4172 (root), 26 June 2001
 Amended(2) by Proposal 4211 (harvel), 10 September 2001
+Amended(3) by Proposal 4316 (Craig), 28 May 2002
 
 ----------------------------------------------------------------------
 
@@ -2326,21 +2327,26 @@ Amended(3) by Proposal 4096 (Elysion), Jan. 15 2001
 
 ----------------------------------------------------------------------
 
-Rule 1955/6 (Power=1)
+Rule 1955/7 (Power=1)
 The Grand Warden of the Oligarchy
 
-      The Grand Warden of the Oligarchy (GWotO) is an office; its
-      holder is recordkeepor of oligarchs and is responsible for
-      conducting auctions for positions in the Oligarchy.
+      (a) The Grand Warden of the Oligarchy (GWotO) is an office; its
+          holder is recordkeepor of Oligarchs and is responsible for
+          conducting auctions for positions in the Oligarchy.
 
-      The GWotO's Weekly Report shall include a list of all oligarchs,
-      the identity of the Speaker, and the date of the next quarterly
-      Speaker transition.
+      (b) The GWotO's Weekly Report shall include a list of all
+          Oligarchs, the identity of the Speaker, and the date of the
+          next quarterly Speaker transition.
 
-      The GWotO shall have a budget containing the Oligarchy Auction
-      Rate, which is a positive integer less than 5.  The GWotO may
-      Without 2 Objections from oligarchs replace the budget with a
-      proto-budget e publishes when e announces eir intent to do so.
+      (c) The GWotO shall have a budget containing:
+          (1) the Oligarchy Auction Rate, which is a positive integer
+              less than 5;
+          (2) the Base Seating Fee, which is a number of Voting
+              Entitlements between 0.1 and 0.5 inclusive.
+
+      (d) The GWotO may Without 2 Objections from Oligarchs replace
+          the budget with a proto-budget e publishes when e announces
+          eir intent to do so.
 
 History:
 Created by Proposal 4053 (harvel), Aug. 21 2000
@@ -2350,6 +2356,7 @@ Amended(3) by Proposal 4142 (Murphy), Apr. 15 2001
 Amended(4) by Proposal 4221 (Steve), 10 October 2001
 Amended(5) by Proposal 4250 (harvel), 19 February 2002
 Amended(6) by Proposal 4259 (root), 22 March 2002
+Amended(7) by Proposal 4307 (Steve), 28 May 2002
 
 ----------------------------------------------------------------------
 
@@ -2543,7 +2550,7 @@ Amended(3) by Proposal 4278 (harvel), 3 April 2002
 
 ----------------------------------------------------------------------
 
-Rule 1936/7 (Power=2)
+Rule 1936/8 (Power=2)
 Auctioning Positions in the Oligarchy
 
       (a) As soon as possible after the beginning of each month, the
@@ -2554,8 +2561,8 @@ Auctioning Positions in the Oligarchy
 
           (1) Auction Currency: the Auction Currency is Stems.
 
-          (2) Bidders: Only non-Oligarchy Politicians who are eligible
-              to be Oligarchs may bid.
+          (2) Bidders: Only non-Oligarchy Active Players who are
+              eligible to be Oligarchs may bid.
 
           (3) If a bidder becomes an Oligarch or becomes ineligible to
               be an Oligarch, then all eir bids in the Auction are
@@ -2574,8 +2581,10 @@ Auctioning Positions in the Oligarchy
               Auctioneer shall forgive the debt and penalise the
               defaulting bidder 2 Blots.
 
-      (b) When a winning bidder pays the bill for eir winning bid in
-          the Auction, e becomes an Oligarch.
+      (b) A winning bidder becomes an Oligarch upon paying the bill
+          for eir winning bid if e is a Politician, or upon paying
+          both the bill for eir winning bid and the Base Seating Fee
+          if e is not a Politician.
 
 History:
 Created by Proposal 3980 (Steve), Mar. 1 2000
@@ -2586,14 +2595,20 @@ Amended(4) by Proposal 4085 (Blob), Nov. 16 2000
 Amended(5) by Proposal 01-005 (Steve), Feb. 2 2001
 Amended(6) by Proposal 535[2001] (Elysion), Feb. 2 2001
 Amended(7) by Proposal 4221 (Steve), 10 October 2001
+Amended(8) by Proposal 4307 (Steve), 28 May 2002
 
 ----------------------------------------------------------------------
 
-Rule 2010/1 (Power=2)
+Rule 2010/2 (Power=2)
 Oligarchy Upkeep
 
-      (a) As soon as possible after the beginning of each month, the
-          GWotO shall bill each non-Elder Oligarch 0.1 VEs.
+      (a) At the beginning of each month, the GWotO shall bill each
+          Oligarch who has occupied eir position in the Oligarchy for
+          at least the previous 21 days as follows:
+          (1) for an Oligarch who is a Politician, the Base Seating
+              Fee;
+          (2) for an Oligarch who is not a Politician, twice the Base
+              Seating Fee.
 
       (b) If an Oligarch does not pay eir Oligarchy Upkeep within a
           week of the GWotO's announcement of the debt, then the GWotO
@@ -2603,6 +2618,31 @@ Oligarchy Upkeep
 History:
 Created by Proposal 4221 (Steve), 10 October 2001
 Amended(1) by Proposal 4268 (Steve), 22 March 2002
+Amended(2) by Proposal 4307 (Steve), 28 May 2002
+
+----------------------------------------------------------------------
+
+Rule 2027/0 (Power=2)
+Vacant Oligarchy
+
+      At any time at which the number of Oligarchs is less than Quorum
+      for an Ordinary Proposal, the Grand Warden of the Oligarchy may
+      do either of the following:
+
+      (a) conduct an Auction for positions in the Oligarchy sufficient
+          (but no more than this) to bring the number of Oligarchs up
+          to Quorum for an Ordinary Proposal;
+
+      (b) appoint any eligible Player to be an Oligarch, with the
+          Support of the appointed Player and Without 3
+          Objections. The appointed Player becomes an Oligarch upon
+          payment of the Base Seating Fee if e is a Politician, or
+          twice the Base Seating Fee if he is not a Politician,
+          provided that payment is made within a week of the
+          appointment.
+
+History:
+Created by Proposal 4307 (Steve), 28 May 2002
 
 ----------------------------------------------------------------------
 
@@ -3156,30 +3196,31 @@ Mutated from MI=1 to MI=2 by Proposal 2665, Sep. 12 1996
 
 ----------------------------------------------------------------------
 
-Rule 1991/0 (Power=1)
+Rule 1991/1 (Power=1)
 Opposite Proposals
 
       Each time the Promotor distributes Proposals, e shall first
       select at random a single distributable Proposal, to be known as
-      the Target.  E may then distribute with these Proposals an
-      Opposite Proposal for the Target.  If e does so, e may, Without
-      2 Objections, pay out 0.1 Papyri to eirself.
+      the Target. E may then distribute with these Proposals an
+      Opposite Proposal for the Target. If e does so, e may, Without 2
+      Objections, pay out 0.1 Papyri to emself.
 
       An Opposite Proposal should be clearly marked as such.  It
       should be substantially the opposite, in spirit or effect, of
-      its Target.  An Opposite Proposal shall have the same status as
-      its Target, including AI, Sanity, Insanity, Urgentness,
-      Disinterestedness, and Democraticity; except that, if the Target
-      does not have an AI of at least 2, the Opposite Proposal shall
-      be neither Democratic nor Sane.
+      its Target. An Opposite Proposal shall have the same status as
+      its Target, including AI, Sanity, Urgentness, Disinterestedness,
+      and Democraticity; except that, if the Target does not have an
+      AI of at least 2, the Opposite Proposal shall be neither
+      Democratic nor Sane.
 
       The Promotor shall be considered to be the proposer of the
       Opposite Proposal, but shall incur no penalties as a result of
-      being its proposer.  This Rule takes precedence over all Rules
+      being its proposer. This Rule takes precedence over all Rules
       which would impose such penalties.
 
 History:
 Created by Proposal 4194 (neil), 18 July 2001
+Amended by Proposal 4320 (t), 28 May 2002
 
 ----------------------------------------------------------------------
 
@@ -3586,56 +3627,6 @@ Amended(12) by Proposal 4142 (Murphy), Apr. 15 2001
 
 ----------------------------------------------------------------------
 
-Rule 1729/4 (Power=1)
-Insanity
-
-      An Interested Proposal is Insane, if it contains no minuscule
-         letter.
-      (That is the opposite of CAPITAL, for those who know not
-         better.)
-
-      For such a Proposal, until the Voting Period has ended:
-      there shall be no discussing Votes, or this Rule has been
-         bended.
-      Nor shall a Player Vote in public, only to Assessor.
-      The Votes shall be unknown to others, even employer and
-         professor.
-
-      And should a Player split eir votes 'tween FOR and
-          AGAINST like crazy,
-      E will annoy Assessors (who are known for being lazy)
-      So should eir votes cast differ from each other, this Rule's
-          broke,
-      With the breaker being the voting Player, as sure as if e'd
-          spoke.
-
-      And should such a Proposal's Voting Period begin,
-      but no one Votes FOR it, the Proposer shall Win.
-
-CFJ 1178, Judged TRUE Nov. 18 1999: "Rule 1729 permits voting on
-Insane Proposals by private message to the Assessor, even when the
-prevailing mode of voting on Proposals is Public."
-
-[CFJ 1078, Judged TRUE 8 January 1998: "Morendil violated Rule 1729 by
- voting on Proposal 3640 in the Public Forum."]
-
-[In CFJ 1354 (6 May 2002), Judge root found that Winning wasn't
- sufficient reward to make an Insane Proposal coercive in the sense of
- Rule 1003.  This judgement depended on root's assessment of the
- current rewards for Winning, not on Winning's intrinsic appeal.
- Thus, "I do not find that the possibility of awarding one Player a
- Patent Title and 100 Stems is a sufficient 'punishment' alone to
- coerce anyone into voting FOR the Proposal."]
-
-History:
-Created by Proposal 3527 (Oerjan), Jul. 8 1997 (unattributed)
-Amended(1) by Proposal 3833 (Vlad), Feb. 15 1999
-Amended(2) by Proposal 3880 (harvel), Jul. 21 1999
-Amended(3) by Proposal 4138 (Murphy), Apr. 15 2001
-Amended(4) by Proposal 4277 (OscarMeyr), 3 April 2002
-
-----------------------------------------------------------------------
-
 Rule 1717/6 (Power=1)
 The Senate
 
@@ -3670,11 +3661,11 @@ The End of the Voting Period
   the Voting Period or upon the announcement of Proposal results.
 ----------------------------------------------------------------------
 
-Rule 879/17 (Power=2)
+Rule 879/18 (Power=2)
 Quorum
 
       An ordinary proposal achieves quorum if at least three oligarchs
-      cast votes on it.
+      cast votes on it, and the Speaker did not veto it.
 
       A democratic proposal achieves quorum if:
       (1) at least one third of all active noisy players, or
@@ -3713,6 +3704,7 @@ Amended(14) by Proposal 4239 (Murphy), 29 January 2002
 Amended(15) by Proposal 4276 (Steve), 28 March 2002
 Amended(16) by Proposal 4278 (harvel), 3 April 2002
 Amended(17) by Proposal 4282 (Goethe), 16 April 2002
+Amended(18) by Proposal 4311 (root), 28 May 2002
 
 ----------------------------------------------------------------------
 
@@ -3960,16 +3952,16 @@ Amended(1) by Proposal 1502, Mar. 24 1995
 
 ----------------------------------------------------------------------
 
-Rule 947/16 (Power=1)
+Rule 947/17 (Power=1)
 Bonus for Repeal
 
-      (a) If there are 100 or more Rules, and a Proposal is adopted
-          which, as part of all of its effect, repeals one or more
-          Rules, and if, in the Rulekeepor's estimation, the Proposal
-          simplifies the Ruleset, then the Rulekeepor shall pay out 30
-          Stems to the Proposer of that Proposal. If the Rulekeepor
-          decides that the Proposal does not simplify the Ruleset, e
-          must announce this decision.
+      (a) If there are 100 or more rules, and a proposal is adopted
+          containing a provision that one or more rules be repealed,
+          and if, in the Rulekeepor's estimation, the proposal
+          simplifies the ruleset, then the Rulekeepor shall pay out 30
+          Stems to its proposer.  If the Rulekeepor decides that the
+          proposal does not simplify the ruleset, e must announce this
+          decision.
 
       (b) When the Rulekeepor decides that such a Proposal does not
           simplify the Ruleset, the Proposal's Proposer may reverse
@@ -3999,6 +3991,7 @@ Amended(13) by Proposal 3848 (Chuck), Mar. 26 1999
 Amended(14) by Proposal 3897 (harvel), Aug. 27 1999
 Amended(15) by Proposal 3947 (harvel), Nov. 20 1999
 Amended(16) by Proposal 4190 (Steve), 18 July 2001
+Amended(17) by Proposal 4305 (harvel), 28 May 2002
 
 ----------------------------------------------------------------------
 
@@ -6573,24 +6566,21 @@ Amended(7) by Proposal 4110 (Ziggy), Feb. 13 2001
 
 ----------------------------------------------------------------------
 
-Rule 1923/6 (Power=1)
+Rule 1923/8 (Power=1)
 Defined Unique Patent Titles
 
       The following are Unique Patent Titles:
 
-      (b)  Robespierre, which shall automatically be awarded to the
+      (a)  Robespierre, which shall automatically be awarded to the
            Player who called for a Revolt, it the Revolt succeeds.
 
-      (c)  Miscreant, which shall automatically be awarded to a Player
+      (b)  Miscreant, which shall automatically be awarded to a Player
            who has at least ten Blots and has a greater number of
            Blots than any other Player, if there is such a Player.  It
            shall automatically be revoked if either condition becomes
            false.
 
-      (d)  Maniac, which shall automatically be awarded to a Player
-           submitting an Insane Proposal on which no one votes FOR.
-
-      (e)  Pugachev, which shall automatically be awarded to the
+      (c)  Pugachev, which shall automatically be awarded to the
            player who called for a Revolt, if the Revolt fails.
 
 History:
@@ -6601,6 +6591,8 @@ Amended(3) by Proposal 4091 (Elysion), Dec. 18 2000
 Amended(4) by Proposal 4110 (Ziggy), Feb. 13 2001
 Amended(5) by Proposal 4124 (Elysion), Mar. 28 2001
 Amended(6) by Proposal 4141 (Wes), Apr. 15 2001
+Amended(7) by Proposal 4313 (Sir Toby), 28 May 2002
+Amended(8) by Proposal 4320 (t), 28 May 2002
 
 ----------------------------------------------------------------------
 
@@ -6911,28 +6903,31 @@ Amended(4) by Proposal 4211 (harvel), 10 September 2001
 
 ----------------------------------------------------------------------
 
-Rule 1981/2 (Power=1)
+Rule 1981/3 (Power=1)
 Embezzlement and Receiving Stolen Property
 
       (a) A transfer of Property from one entity to another entity
           which is made without being explicitly required or permitted
           by the Rules is unauthorized.
 
-      (b) A Player who intentionally makes a valid but unauthorized
+      (b) Unless otherwise specified, Players and Organizations are
+          always permitted to transfer their own Property.
+
+      (c) A Player who intentionally makes a valid but unauthorized
           transfer of Property from any entity to another entity
           commits the Class 10 Crime of Embezzlement.
 
-      (c) An entity which receives Property as the result of a valid
+      (d) An entity which receives Property as the result of a valid
           but unauthorized transfer incurs a debt to the Payor of that
           transfer for all Property thus received.
 
-      (d) A Player who has been informed that e, or an entity of which
+      (e) A Player who has been informed that e, or an entity of which
           e is the Prime Executor, has incurred a debt of the type
           decribed in (c) and who does not act to satisfy that debt
           within in a week of being informed of it commits the Class
           10 Crime of Receiving Stolen Property.
 
-      (e) For the the purposes of this Rule, a valid but unauthorized
+      (f) For the the purposes of this Rule, a valid but unauthorized
           transfer is considered to have been made intentionally if
           and only if, at the time of the transfer, the Player making
           it:
@@ -6940,7 +6935,7 @@ Embezzlement and Receiving Stolen Property
           (2) knew that the transfer was unauthorized; and
           (3) realized that e was making the transfer.
 
-      (f) In particular, a Player who makes a valid but unauthorized
+      (g) In particular, a Player who makes a valid but unauthorized
           transfer of Property as the result of an accident or mistake
           does not commit Embezzlement.
 
@@ -6948,6 +6943,7 @@ History:
 Created by Proposal 4156 (Ian), 18 May 2001
 Amended(1) by Proposal 4190 (Steve), 18 July 2001
 Amended(2) by Proposal 4256 (Murphy), 21 February 2002
+Amended(3) by Proposal 4312 (root), 28 May 2002
 
 ----------------------------------------------------------------------
 
@@ -7114,20 +7110,6 @@ Restriction on Minting of Bank Currencies by the Bank
 History:
 Created by Proposal 4126 (Kelly), Mar. 28 2001
 Amended(1) by Proposal 4234 (Goethe), 22 November 2001
-
-----------------------------------------------------------------------
-
-Rule 1973/0 (Power=1)
-Destruction of Currencies in Bond
-
-      No Currency may be destroyed if there exist an unredeemed Bond
-      whose face value is denominated in that Currency.
-
-      This Rule takes precedence over any other Rule which permits the
-      destruction of Currencies.
-
-History:
-Created by Proposal 4126 (Kelly), Mar. 28 2001
 
 ----------------------------------------------------------------------
 
@@ -7702,7 +7684,7 @@ Amended(4) by Proposal 4278 (harvel), 3 April 2002
 
 ----------------------------------------------------------------------
 
-Rule 2012/0 (Power=1)
+Rule 2012/1 (Power=1)
 Single-Bid Auctions
 
       (a) There is a type of Auction called a Single-Bid Auction. The
@@ -7730,12 +7712,15 @@ Single-Bid Auctions
 
           (4) Final Auction Price: for the purposes of determining the
               Winner(s) of the Auction, the value of each Bid as
-              calculated in (3) above is used. However, the debt
-              incurred by a Winner of the Auction is equal to eir
-              initial Bid.
+              calculated in (3) above is used.  However, the debt
+              incurred by a Winner of the Auction is equal to the Nth
+              highest Winning Initial Bid, where N is the number of
+              items being Auctioned, or to the Starting Bid, if there
+              were fewer than N bids.
 
 History:
 Created by Proposal 4251 (Steve), 19 February 2002
+Amended(1) by Proposal 4321 (Steve), 31 May 2002
 
 ----------------------------------------------------------------------
 
@@ -7745,18 +7730,18 @@ The Bank
   This Category includes Rules concerning the Bank.
 ----------------------------------------------------------------------
 
-Rule 1470/6 (Power=1)
+Rule 1470/7 (Power=2)
 The Bank
 
-      (a) There is an entity known as the Bank. The Bank has Mint
-          Authority.  The Bank is the Mintor of each Bank
-          Currency. The Bank is permitted to transfer Property in its
-          possession to other entities.
+      (a) There is an entity known as the Bank.  The Bank has Mint
+          Authority.  The Bank is the Mintor of each Bank Currency.
+          The Bank may transfer Property in its possession to other
+          entities only to satisfy its debts.
 
-      (b) The Treasuror is the Executor of the Bank. Each Recordkeepor
-          of each Bank Currency is a Limited Executor of the Bank, and
-          is empowered to make transfers of that Currency from the
-          Bank.
+      (b) The Treasuror is the Executor of the Bank.  Each
+          Recordkeepor of each Bank Currency is a Limited Executor of
+          the Bank, and is empowered to make transfers of that
+          Currency from the Bank.
 
       (c) Each Recordkeepor of each Bank Currency is the Prime
           Executor of the Bank with respect to debts denominated in
@@ -7783,6 +7768,8 @@ Amended(3) by Proposal 3940 (Blob), Nov. 15 1999
 Amended(4) by Proposal 4018 (Kelly), Jun. 21 2000
 Amended(5) by Proposal 4156 (Ian), 18 May 2001
 Amended(6) by Proposal 4190 (Steve), 18 July 2001
+Amended(7) by Proposal 4322 (t), 31 May 2002
+Mutated from Power=1 to Power=2 by Proposal 4322 (t), 31 May 2002
 
 ----------------------------------------------------------------------
 
@@ -7810,325 +7797,6 @@ Created by Proposal 1601, Jun. 19 1995
 Amended(1) by Proposal 2476, Feb. 16 1996
 Amended(2) by Proposal 3533 (General Chaos), Jul. 15 1997
 Amended(3) by Proposal 4018 (Kelly), Jun. 21 2000
-
-----------------------------------------------------------------------
-
-======================================================================
-Bonds
-  This Category includes Rules concerning Bonds and the Office of
-  Usuror.
-----------------------------------------------------------------------
-
-Rule 1970/3 (Power=1)
-The Usuror
-
-      The Usuror is an office; its holder is recordkeepor for Bonds
-      and is partially responsible for the woes of revolving credit.
-
-      The Usuror is a Limited Executor of the Bank, with the authority
-      to satisfy debts of Bonds owed by the Bank to its creditors.
-
-History:
-Created by Proposal 4126 (Kelly), Mar. 28 2001
-Amended(1) by Proposal 4144 (Blob), Apr. 22 2001
-Amended(2) by Proposal 4171 (Blob), 26 June 2001
-Amended(3) by Proposal 4250 (harvel), 19 February 2002
-
-----------------------------------------------------------------------
-
-Rule 1985/2 (Power=1)
-The Usuror's Budget
-
-      The Usuror shall have a Budget.  The Usuror's Budget shall
-      consist of the following items:
-
-        (i) The Basic Fee for issuing Bonds.  This Fee shall be
-            expressed as a multiple of the Basic Officer Salary and
-            shall be an integral multiple of 0.1, not less than 0, and
-            not greater than 4.
-
-       (ii) The purchase rates at which the Bank will buy Bonds in
-            each Bank Currency. These rates are expressed as
-            percentages, in the range 0% to 100% inclusive. Each
-            purchase rate applies only to a single combination of face
-            value and time to maturity. Different rates may apply to
-            different such combinations. Any combination for which no
-            rate is specified has a purchase rate of 0%.
-
-      (iii) The Player Credit Limit for Stems, which is a multiple of
-            the Basic Officer Salary, between 0 and 10 inclusive.
-
-       (iv) The Non-Player Entity Credit Limit for Stems, which is a
-            multiple of the Basic Officer Salary, between 0 and 10
-            inclusive.
-
-        (v) The Player Credit Limit for each Bank currency, other than
-            Stems, which is a multiple of the MUQ of that Currency
-            between 0 and 2000 inclusive.
-
-       (vi) The Non-Player Credit Limit for each Bank currency, other
-            than Stems, which is a multiple of the MUQ of that
-            Currency between 0 and 2000 inclusive.
-
-History:
-Created by Proposal 4171 (Blob), 26 June 2001
-Amended(1) by Proposal 4196 (neil), 26 July 2001
-Amended(2) by Proposal 4203 (neil), 28 August 2001
-
-----------------------------------------------------------------------
-
-Rule 1966/0 (Power=1)
-Bonds
-
-      Bonds are Property.  Each Bond, in addition to being a Property,
-      has the following characteristics:
-      (a) an issuer (which must be a Player or an entity with an
-          Executor);
-      (b) a face value, expressed as the positive multiple of the MUQ
-          of some Currency; and
-      (c) a maturity date.
-
-      A species of Bond consists of all Bonds with the same issuer,
-      face value and maturity date.  All Bonds of a given species are
-      fungible.  In any transaction involving Bonds, it is sufficient
-      to identify the Bonds involved by species.
-
-      The Recordkeeper of Bonds shall be the Usuror.
-
-      A Bond is mature on and after its maturity date, and is immature
-      prior to that date.  If the maturity date of a Bond is specified
-      only as a date, it shall be presumed to mature at midnight UTC
-      of that day (the beginning of that day).
-
-History:
-Created by Proposal 4126 (Kelly), Mar. 28 2001
-
-----------------------------------------------------------------------
-
-Rule 1967/0 (Power=1)
-Creation of Bonds
-
-      New Bonds are created when an entity with Bond Issuance
-      Authority sends a message to the Usuror stating that e is
-      creating one or more new Bonds, provided that that message sets
-      forth the face value and maturity date of each Bond to be
-      created, and by paying the applicable Fee (if any) for creating
-      those Bonds.  The newly created Bonds are possessed by the
-      entity sending the message.  The issuer of the newly created
-      Bonds is the entity sending the message.
-
-      The Fee for creating Bonds shall be equal to the Basic Fee for
-      issuing Bonds.  However, the Fee shall only be required for the
-      first Bond of a given species created in the same message; there
-      is no additional fee for additional Bonds of the same species
-      created in the same message.  Furthermore, the Bank need never
-      pay a Fee to create Bonds.
-
-      This Rule defers to any Rule which imposes further restrictions
-      on the ability of an entity to create new Bonds.
-
-      The Bank, each Player, each Contest, and each Group all have
-      Bond Issuance Authority.
-
-History:
-Created by Proposal 4124 (Kelly), Mar. 28 2001
-
-----------------------------------------------------------------------
-
-Rule 1968/0 (Power=1)
-Destruction of Bonds
-
-      Any entity which possesses a Bond may destroy that Bond by
-      sending a message to the Usuror identifying the Bonds to be
-      destroyed.
-
-History:
-Created by Proposal 4126 (Kelly), Mar. 28 2001
-
-----------------------------------------------------------------------
-
-Rule 1969/0 (Power=1)
-Redemption of Bonds
-
-      Any entity which possesses an unredeemed, mature Bond may redeem
-      it by transferring the Bond to its Issuer, expressing in eir
-      Notice of Transfer the purpose of redeeming the Bond.
-
-      When the issuer of a Bond receives an unredeemed, mature Bond
-      from another entity where the transfer was executed for the
-      purpose of redemption, the Bond in question is thereby redeemed,
-      and the issuer incurs a debt to the transferor of that Bond for
-      the face value of the bond.
-
-      If the issuer of a Bond receives an unredeemed, immature Bond
-      from another entity where the transfer was executed for the
-      purpose of redemption, the issuer incurs a debt to the
-      transferor for that Bond; but if the Bond in question matures
-      while still in the possession of the issuer, this debt is
-      cancelled and the issuer incurs a debt to the transferor of that
-      Bond for the face value of the Bond, as if the transfer had been
-      made at the time the Bond matured.
-
-      Once redeemed, a Bond may not be further transferred.
-
-History:
-Created by Proposal 4126 (Kelly), Mar. 28 2001
-
-----------------------------------------------------------------------
-
-Rule 1971/1 (Power=1)
-Bank Issuance of Bonds
-
-      The Bank, by the Treasuror, may issue Bonds with two Supporters.
-      The number and species of Bonds to be issued must be set forth
-      at the time the Treasuror seeks Support for the action.  The
-      Bank may not otherwise issue Bonds except through the mechanism
-      set forth in this paragraph.
-
-      The Bank, by the Treasuror, may Auction Bonds Without Three
-      Objections.  Each Auction of Bank Bonds shall consist of some
-      number of a single species of Bond.  The species of Bond, the
-      number of Bonds of that species, the Auction Currency, and the
-      Minimum Bid of each Auction shall be determined by the Treasuror
-      as part of the message indicating eir intent to hold a Bank Bond
-      Auction.
-
-      The Bank is not required to actually possess the Bonds it
-      intends to Auction at the time the intent to conduct an Auction
-      is announced or at the time the Auction begins.  However, if the
-      Bank, by virtue of not having sufficient quantity of some
-      species of Bond, is unable to satisfy a debt arising from a Bond
-      Auction within seven days of when the Auction ends, the Player
-      who was Treasuror at the time the Auction began commits the
-      offense of Selling the Blue Sky, a Class 6 Crime.
-
-History:
-Created by Proposal 4126 (Kelly), Mar. 28 2001
-Amended(1) by Proposal 4249 (Murphy), 19 February 2002
-
-----------------------------------------------------------------------
-
-Rule 1972/0 (Power=1)
-Acceleration of Bonds
-
-      Whenever an entity which is the issuer of one or more
-      nonredeemed Bonds ceases to have an Executor, all unredeemed
-      Bonds issued by that entity are accelerated as described by this
-      Rule.
-
-      When a Bond is accelerated, the Bond immediately becomes mature
-      and is deemed to have been redeemed.  The issuer becomes liable
-      for a debt to the current owner of the Bond for the face value
-      of the Bond.
-
-History:
-Created by Proposal 4126 (Kelly), Mar. 28 2001
-
-----------------------------------------------------------------------
-
-Rule 1982/0 (Power=1)
-Calling Bonds
-
-      At any time, the issuer of a Bond may call that Bond by
-      publishing a notice stating that e is calling it.  When the
-      issuer of a Bond calls the bond, it is immediately accelerated,
-      as described elsewhere.
-
-History:
-Created by Proposal 4163 (Kelly), 11 June 2001
-
-----------------------------------------------------------------------
-
-Rule 1977/0 (Power=1)
-Selling Bonds to the Bank
-
-      A Player may sell a Bond by paying a Fee equal to that Bond,
-      and informing the Usuror that e is selling the Bond.
-
-      If the rules permit this sale, then Usuror shall then pay out to
-      that player an amount equal to the face value of the Bond
-      multiplied by the applicable purchase rate set in the Usuror's
-      Budget. The value of the purchase rate shall be determined as at
-      the time the Bond was transferred.
-
-      If the rules do not permit the sale, then the Bank incurs a debt
-      to the transferor for that Bond.
-
-      The Bank, by the Treasuror, may redeem any mature Bonds it owns.
-
-History:
-Created by Proposal 4144 (Blob), Apr. 22 2001
-
-----------------------------------------------------------------------
-
-Rule 1978/2 (Power=1)
-Credit and Credit Limits
-
-      The credit in a given currency of an entity with Bond Issuance
-      Authority is equal to the sum of the values of all Bonds owned
-      by the Bank issued by that entity with a face value in that
-      currency. The Usuror's Weekly Report shall list the credit in
-      each currency of each non-Bank entity with Bond Issuance
-      Authority, if that credit is greater than zero.
-
-      The sale of a Bond is permitted only if one of the following is
-      the case:
-         * it is issued by the Bank.
-         * it is issued by a player and would not cause the issuer's
-           credit to exceed the Player Credit Limit in the currency in
-           question as set forth in the Usuror's Budget.
-         * it is issued by a non-Player entity other than the Bank and
-           would not cause the issuer's credit to exceed the
-           Non-Player Credit Limit in the currency in question as set
-           forth in the Usuror's Budget.
-
-      The Credit Limit for non-Bank currencies is 0.
-
-History:
-Created by Proposal 4144 (Blob), Apr. 22 2001
-Amended(1) by Proposal 4171 (Blob), 26 June 2001
-Amended(2) by Proposal 4196 (neil), 26 July 2001
-
-----------------------------------------------------------------------
-
-Rule 1979/1 (Power=1)
-Treasuror's Moratorium on Bond Purchases
-
-      The Treasuror may, with Support, place or remove a moratorium on
-      bond purchases in any specific Bank currency.  Once a moratorium
-      has been placed, the Bank may not purchase any Bonds with a face
-      value in that currency, until that moratorium is removed.
-
-      The Treasuror must report any moratoria currently in place in
-      eir Monthly Report.
-
-History:
-Created by Proposal 4144 (Blob), Apr. 22 2001
-Amended(1) by Proposal 4206 (neil), 3 September 2001
-
-----------------------------------------------------------------------
-
-Rule 2002/0 (Power=1)
-Bond Fraud
-
-      A Player who sells to the Bank a Bond issued by an entity:
-       * of which e is an Executor, which e is in collusion with, or
-         an Executor of which e is in collusion with, and
-       * that e believes will not, at the date of maturity, or does
-         not, if the Bond is already mature, have funds to cover
-         redemption of said Bond,
-      commits the Class 5 Crime of Bond Fraud.  If it is judged that a
-      player has committed Bond Fraud, the Judge shall order that all
-      unlawful gains from said instance of Bond Fraud be disgorged.
-
-      If the Executor of the issuer of a Bond used to commit Bond
-      Fraud is not the Player who was charged with Bond Fraud, and
-      said Executor knew that the Bond in question would be used for
-      such a purpose, e commits the Class 4 Crime of Conspiracy to
-      Commit Bond Fraud.
-
-History:
-Created by Proposal 4206 (neil), 3 September 2001
 
 ----------------------------------------------------------------------
 
@@ -8492,7 +8160,7 @@ Amended(4) by Proposal 4180 (Elysion), 7 July 2001
 
 ----------------------------------------------------------------------
 
-Rule 1930/2 (Power=1)
+Rule 1930/3 (Power=1)
 Scoring
 
       If a Player is found Guilty of a Crime, e may be Penalized
@@ -8516,10 +8184,6 @@ Scoring
       Awarded a number of Points equal to twice the number of
       AGAINST Votes cast on that Proposal.
 
-      If a Player submits an Insane Proposal which is Adopted,
-      e may be Awarded 5 Points, in addition to any other Awards
-      for that particular Proposal.
-
       If a Player is the only Player to Vote either FOR or AGAINST
       a particular Proposal that e did not write or Propose, e may
       be Awarded 2 Points.
@@ -8540,6 +8204,7 @@ History:
 Created by Proposal 3977 (Wes), Feb. 23 2000
 Amended(1) by Proposal 4113 (Elysion), Mar. 2 2001
 Amended(2) by Proposal 4141 (Wes), Apr. 15 2001
+Amended(3) by Proposal 4320 (t), 28 May 2002
 
 ----------------------------------------------------------------------
 
@@ -10153,15 +9818,17 @@ Amended(1) by Proposal 4228 (root), 22 November 2001
 
 ----------------------------------------------------------------------
 
-Rule 2022/0 (Power=1)
+Rule 2022/1 (Power=1)
 Sente and Gote
 
       On the fifteenth of each Nomic Month, the following actions
       occur in sequence, and these changes must be reported by the
       Mapkeepor as soon as possible after they occur:
 
-         (i) Every Land Unit that is not connected by its own type to
-             a unit of Aether shall be transformed to Aether;
+         (i) Every Land Unit, excluding (0, 0), that is not directly
+             connected to a unit of Aether, and is not connected by
+             its own type to a unit of Aether, shall be transformed to
+             Aether.
 
         (ii) Any entities whose locations are on land units so
              transformed shall have their locations set to 0,0.
@@ -10190,5 +9857,6 @@ Sente and Gote
 
 History:
 Created by Proposal 4283 (Goethe), 16 April 2002
+Amended by Proposal 4308 (Sir Toby), 28 May 2002
 
 ----------------------------------------------------------------------
