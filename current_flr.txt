@@ -2439,23 +2439,6 @@ Amended(4) by Proposal 4221 (Steve), 10 October 2001
 
 ----------------------------------------------------------------------
 
-Rule 2009/0 (Power=2)
-Elder Oligarchs
-
-      (a) Upon the creation of this Rule, all Players who were Low,
-          Middle, or High Oligarchs when the Proposal creating this
-          Rule was adopted become Oligarchs. Each of these Players is
-          an Elder Oligarch until e ceases to be an Oligarch or until
-          e has been an Elder Oligarch for 3 months.
-
-      (b) The Rulekeepor may repeal this Rule Without Objection if
-          there are no Elder Oligarchs.
-
-History:
-Created by Proposal 4221 (Steve), 10 October 2001
-
-----------------------------------------------------------------------
-
 Rule 1963/1 (Power=2)
 Eligible Oligarchs
 
@@ -3507,19 +3490,19 @@ The End of the Voting Period
   the Voting Period or upon the announcement of Proposal results.
 ----------------------------------------------------------------------
 
-Rule 879/13 (Power=2)
+Rule 879/14 (Power=2)
 Quorum
 
       An Ordinary Proposal achieves Quorum if at least three
       Oligarchs cast votes on it.
 
       A Democratic Proposal achieves Quorum if:
-      (1) at least one-third of all Active Players, or
+      (1) at least one-third of all Active Noisy Players, or
       (2) at least one-fifth of all Players
       cast votes on it. Quorum for a Democratic Proposal shall be
-      determined from the number of Players and number of Active
-      Players at the time that the Proposal was distributed, or at
-      the time it was made a Democratic Proposal, whichever is later.
+      determined from the number of Players and number of Active Noisy
+      Players at the time that the Proposal was distributed, or at the
+      time it was made a Democratic Proposal, whichever is later.
 
 History:
 Initial Mutable Rule 201, Jun. 30 1993
@@ -3540,6 +3523,7 @@ Amended(11) by Proposal 3972 (Peekee), Feb. 14 2000
 Power changed from 1 to 2 by Proposal 3980 (Steve), Mar. 1 2000
 Amended(12) by Proposal 3980 (Steve), Mar. 1 2000
 Amended(13) by Proposal 4018 (Kelly), Jun. 21 2000
+Amended(14) by Proposal 4239 (Murphy), 29 January 2002
 
 ----------------------------------------------------------------------
 
