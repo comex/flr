@@ -2310,7 +2310,7 @@ Amended(11) by Proposal 4461 (Maud), 17 March 2003
 
 ----------------------------------------------------------------------
 
-Rule 1664/22 (Power=2)
+Rule 1664/23 (Power=2)
 Rebellion
 
       A Rebellious player may Call for a Revolt at any time by
@@ -2341,7 +2341,6 @@ Rebellion
            retired from that Office.
          - All Rebellious players become Abiding again
          - A Speaker Transition occurs
-         - Any Indulgence Auction in progress is cancelled
 
       If a Revolt does not succeed, then:
 
@@ -2379,6 +2378,7 @@ Amended(19) by Proposal 4221 (Steve), 10 October 2001
 Amended(20) by Proposal 4367 (Steve), 23 August 2002
 Amended(21) by Proposal 4486 (Michael), 24 April 2003
 Amended(22) by Proposal 4516 (Murphy), 18 July 2003
+Amended(23) by Proposal 4554 (Elysion), 27 February 2004
 
 ----------------------------------------------------------------------
 
@@ -8265,7 +8265,7 @@ Groups and Contests
   This Category includes Rules regulating Groups and Contests.
 ----------------------------------------------------------------------
 
-Rule 1446/14 (Power=1)
+Rule 1446/15 (Power=1)
 Contests
 
       Each Contest is an Organization associated with an SLC
@@ -8280,8 +8280,6 @@ Contests
       Foundor, who becomes the Contest's initial Contestmaster.
 
       The ACO to create a Contest must be published to have effect.
-
-      Each Contest has Mint Authority.
 
 [CFJ 760: If the Regulations specify that the position of
  Contestmaster is to be vacated, that is without effect.
@@ -8304,6 +8302,7 @@ Amended(11) by Proposal 3502 (General Chaos), Jun. 8 1997, substantial
 Amended(12) by Proposal 3968 (harvel), Feb. 4 2000
 Amended(13) by Proposal 4099 (Murphy), Jan. 15 2001
 Amended(14) by Proposal 4147 (Wes), 13 May 2001
+Amended(15) by Proposal 4554 (Elysion), 27 February 2004
 
 ----------------------------------------------------------------------
 
