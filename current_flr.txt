@@ -1013,7 +1013,7 @@ The Players
   This Category includes Rules defining and classifying Players.
 ----------------------------------------------------------------------
 
-Rule 869/13 (Power=1)
+Rule 869/14 (Power=1)
 Registered Players
 
       Any person who is not registered as a Player may do so by
@@ -1023,9 +1023,10 @@ Registered Players
       Rules otherwise prohibit the person from registering, e
       immediately becomes a registered Player.
 
-      Each Player is always either Ready or Unready, but not both.  A
-      Player is Ready unless the Rules state otherwise.  If a Player
-      is Unready, e may become Ready by announcing that e does so.
+      Readiness is a stuck player switch with values ready and
+      unready.
+
+      An unready player may flip eir readiness to ready.
 
       Whenever a person registers as a Player in Agora, and that
       person has not been registered as a Player in Agora at any time
@@ -1083,16 +1084,22 @@ Amended(10) by Proposal 4147 (Wes), 13 May 2001
 Amended(11) by Proposal 4155 (harvel), 18 May 2001
 Amended(12) by Proposal 4430 (Cecilius), 16 January 2003
 Amended(13) by Proposal 4451 (Cecilius), 22 February 2003
+Amended(14) by Proposal 4518 (Murphy), 30 July 2003
 
 ----------------------------------------------------------------------
 
-Rule 1677/11 (Power=1)
+Rule 1677/12 (Power=1)
 Honoring the New
 
       As soon as possible after the beginning of a Player's Grace
       Period, the Registrar shall announce eir Arrival.  This
       Announcement shall have the effect of setting that Player's
       kudos to twice the Tabla Rasa.
+
+      If a Player joins the game, but is neither subject to a Grace
+      Period nor been a Player at any time since the last Turning of a
+      New Parchment, then the Herald shall set eir Kudos to half the
+      Tabla Rasa (rounded up).
 
 History:
 Created by Proposal 2757 (Swann), Nov. 28 1996
@@ -1108,6 +1115,7 @@ Amended(8) by Proposal 4050 (t), Aug. 15 2000
 Amended(9) by Proposal 4155 (harvel), 18 May 2001
 Amended(10) by Proposal 4344 (Goethe), 11 July 2002
 Amended(11) by Proposal 4486 (Michael), 24 April 2003
+Amended(12) by Proposal 4520 (Goethe), 30 July 2003
 
 ----------------------------------------------------------------------
 
@@ -1237,25 +1245,26 @@ Amended(5) by Proposal 4011 (Wes), Jun. 1 2000
 
 ----------------------------------------------------------------------
 
-Rule 1042/19 (Power=1)
+Rule 1042/20 (Power=1)
 Deregistration Due to Silence
 
-      (a) Each player is always noisy, quiet, or silent, but never
-          more than one of these. Whenever a player registers or posts
-          to a public forum, that player is noisy.
+      Noisiness is a stuck player switch with values noisy, quiet, and
+      silent.
 
-      (b) A player who has not quietened another active, noisy player
-          in the past 24 hours may cause another active, noisy player
-          to become quiet by publically identifying the player and
-          stating that e causes that player to become quiet.
+      A non-noisy player becomes noisy whenever e posts to a public
+      forum.
 
-      (c) If a player has been quiet continuously for one month, or
-          inactive continuously for three months, e becomes silent.
+      A player may flip another player's noisiness from noisy to
+      quiet, unless e has done so for another player within the past
+      24 hours.
 
-      (d) Any player may publish a Notice of Abandonment, identifying
-          another player and alleging that that player has abandoned
-          the game. A Notice of Abandonment is or becomes invalid if
-          the player identified in it is not, or ceases to be, silent.
+      If a player has been quiet continuously for one month, or
+      inactive continuously for three months, e becomes silent.
+
+      Any player may publish a Notice of Abandonment, identifying
+      another player and alleging that that player has abandoned the
+      game. A Notice of Abandonment is or becomes invalid if the
+      player identified in it is not, or ceases to be, silent.
 
 History:
 Created by Proposal 460 (Jim Shea), Sep. 15 1994
@@ -1285,7 +1294,8 @@ Amended(15) by Proposal 4154 (harvel), 18 May 2001
 Amended(16) by Proposal 4211 (harvel), 10 September 2001
 Amended(17) by Proposal 4278 (harvel), 3 April 2002
 Amended(18) by Proposal 4407 (Steve), 30 October 2002
-Amneded(19) by Proposal 4424 (Steve), 16 December 2002
+Amended(19) by Proposal 4424 (Steve), 16 December 2002
+Amended(20) by Proposal 4518 (Murphy), 30 July 2003
 
 ----------------------------------------------------------------------
 
@@ -1477,37 +1487,29 @@ Amended(1) by Proposal 4190 (Steve), 18 July 2001
 
 ----------------------------------------------------------------------
 
-Rule 1960/2 (Power=1)
+Rule 1960/3 (Power=1)
 Roles
 
-      Each player may have a Role, which is one of the following:
+      Role is a stuck player switch with values null, politician,
+      scribe, and acolyte.
 
-      (a) Politician,
-      (b) Scribe,
-      (c) Acolyte.
+      A player may flip eir role if one of the following is true:
 
-      A Player may have only one of these roles at a time. If a
-      Player gains a new role, then e ceases to hold any previous
-      roles. Initially players do not have any role.
+      a) Eir role is null.
 
-      A Player changes eir Role by publicly announcing which Role e is
-      changing to, provided one of the following is true:
+      b) E has not changed eir role in the past three months.
 
-          1) e has no role or e has not changed eir role in the past 3
-             months.
-          2) e has not changed eir role in the past six weeks and e
-             has paid a Fee of 2 kudos for the purpose of making this
-             change
-          3) e has paid a Fee of 6 kudos for the purpose of making
-             this change.
+      c) E has not changed eir role in the past six weeks, and e pays
+         a fee of 2 kudos for the purpose of making this change.
 
-      The Registrar shall keep track of each player's role, and
-      include it in eir report.
+      d) E pays a fee of 6 kudos for the purpose of making this
+         change.
 
 History:
 Created by Proposal 4085 (Blob), Nov. 16 2000
 Amended(1) by Proposal 4175 (Elysion), 7 July 2001
 Amended(2) by Proposal 4486 (Michael), 24 April 2003
+Amended(3) by Proposal 4518 (Murphy), 30 July 2003
 
 ----------------------------------------------------------------------
 
@@ -2868,13 +2870,18 @@ Amended(2) by Proposal 2832 (Steve), Mar. 11 1997, substantial
 
 ----------------------------------------------------------------------
 
-Rule 1623/11 (Power=1)
+Rule 1623/12 (Power=1)
 Disinterested Proposals
 
-      A Proposal may be Interested or Disinterested. Each Proposal is
-      Interested when made. The Proposer of a Proposal may cause it to
-      become Disinterested, without objection, but only if the
-      Proposal has not yet been distributed.
+      Interest is a stuck proposal switch with values interested and
+      disinterested.
+
+      A player may flip an undistributed proposal's interest to
+      disinterested, without objection.
+
+      When a proposal becomes disinterested, it becomes distributable,
+      and its depth may not be flipped to undistributable while it
+      remains disinterested.
 
 History:
 Created by Proposal 2581, Apr. 21 1996
@@ -2890,6 +2897,7 @@ Amended(8) by Proposal 3537 (Steve), Jul. 24 1997, substantial
 Amended(9) by Proposal 3684 (Blob), Feb. 12 1998
 Amended(10) by Proposal 3867 (Blob), May 24 1999
 Amended(11) by Proposal 3968 (harvel), Feb. 4 2000
+Amended(12) by Proposal 4518 (Murphy), 30 July 2003
 
 ----------------------------------------------------------------------
 
@@ -3055,27 +3063,21 @@ Amended(15) by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
-Rule 1952/1 (Power=1)
+Rule 1952/3 (Power=1)
 Making Proposals Distributable
 
-      Each Proposal is either Distributable or Undistributable.
-      Initially, each Proposal is Undistributable. When a Proposal
-      becomes Disinterested, it immediately becomes Distributable and
-      may not become Undistributable by any means as long as it
-      remains Disinterested.  The Rules may define other mechanisms
-      through which a Proposal becomes Distributable or
-      Undistributable.
+      Depth is a stuck proposal switch with values undistributable and
+      distributable.
 
-      Any Player may make any Undistributable Proposal in the Proposal
-      Pool Distributable by publicly announcing that e is doing so and
-      paying a fee equal to the Distribution Cost.  Any Player may
-      make an Undistributed Distributable Proposal Undistributable by
-      paying a fee equal to twice the Distribution Cost.
+      A player may flip a proposal's depth to distributable by paying
+      a fee equal to its Distribution Cost, or to undistributable by
+      paying a fee equal to twice its Distribution Cost.
 
 History:
 Created by Proposal 4050 (t), Aug. 15 2000
 Amended(1) by Proposal 4195 (Syllepsis), 26 July 2001
 Amended(2) by Proposal 4486 (Michael), 24 April 2003
+Amended(3) by Proposal 4518 (Murphy), 30 July 2003
 
 ----------------------------------------------------------------------
 
@@ -4441,15 +4443,16 @@ Amended(5) by Proposal 4147 (Wes), 13 May 2001
 
 ----------------------------------------------------------------------
 
-Rule 2057/0 (Power=1)
+Rule 2057/1 (Power=1)
 A Duty to Vote
 
       When an election fails quorum, each eligible voter who did not
-      vote commits the Class 1 Infraction of Apathy, to be reported by
-      the vote collector.
+      vote or declare emself present commits the Class 1 Infraction of
+      Apathy, to be reported by the vote collector.
 
 History:
 Created by Proposal 4514 (Murphy), 10 July 2003
+Amended(1) by Proposal 4519 (root), 30 July 2003
 
 ----------------------------------------------------------------------
 
@@ -5122,21 +5125,25 @@ Amended(11) by Proposal 4424 (Steve), 16 December 2002
 
 ----------------------------------------------------------------------
 
-Rule 1871/2 (Power=1)
+Rule 1871/3 (Power=1)
 Turns for All
 
-      Whenever a Player is selected as Trial Judge of a CFJ, e begins
-      to Turn Around And Around.  Players who are Turning Around And
-      Around are ineligible to be Trial Judge of any future CFJs.
+      Orientation is a stuck player switch with values unturned and
+      turned.  The Clerk of the Courts shall maintain and report
+      records for this switch.
 
-      Whenever there are no Players eligible to be Trial Judge of a
-      CFJ, all Players who are Turning Around And Around cease Turning
-      Around And Around.
+      Whenever a player is selected as Trial Judge of a CFJ, e becomes
+      turned.  Turned players are ineligible to be Trial Judge of any
+      future CFJs.
+
+      Whenever there are no players eligible to be Trial Judge of a
+      CFJ, all turned players become unturned.
 
 History:
 Created by Proposal 3821 (Blob), Jan. 12 1999
 Amended(1) by Proposal 4298 (Murphy), 17 May 2002
 Amended(2) by Proposal 4342 (root), 8 July 2002
+Amended(3) by Proposal 4518 (Murphy), 30 July 2003
 
 ----------------------------------------------------------------------
 
@@ -5152,7 +5159,7 @@ Created by Proposal 4397 (RedKnight), 17 October 2002
 
 ----------------------------------------------------------------------
 
-Rule 2032/0 (Power=1)
+Rule 2032/1 (Power=1)
 Errors in Judge Selection
 
       If the Clerk of the Courts errs in good faith by selecting a
@@ -5161,7 +5168,7 @@ Errors in Judge Selection
       a) e believes at the time of selection to be eligible to judge
          the CFJ or Appeal; and
       b) is not eligible to judge the CFJ or Appeal at the time of
-         selection solely because e is Turning Around And Around;
+         selection solely because e is turned;
 
       then that selection shall stand and the selected Player shall
       become a Judge of that CFJ or Appeal, as if e had been eligible
@@ -5169,6 +5176,7 @@ Errors in Judge Selection
 
 History:
 Created by Proposal 4342 (root), 8 July 2002
+Amended(1) by Proposal 4518 (Murphy), 30 July 2003
 
 ----------------------------------------------------------------------
 
@@ -6664,7 +6672,7 @@ Kudos
   This Category includes Rules regulating the Kudos system.
 ----------------------------------------------------------------------
 
-Rule 2047/0 (Power=2)
+Rule 2047/1 (Power=2)
 Kudos
 
       Kudos (singular Kudo) are an integral measure of a Player's
@@ -6677,8 +6685,12 @@ Kudos
       Agora, as a whole, also has a defined number of Kudos.  No other
       non-Player entity has a defined number of Kudos.
 
+      If an entity has a defined number of Kudos, but the number has
+      not been set by the Rules, then the entity has 1 Kudo.
+
 History:
 Created by Proposal 4486 (Michael), 24 April 2003
+Amended(1) by Proposal 4520 (Goethe), 30 July 2003
 
 ----------------------------------------------------------------------
 
