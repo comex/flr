@@ -21,15 +21,15 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 309 Rules:
+There are currently 311 Rules:
     1 with Power=4
    21 with Power=3
    38 with Power=2
-  249 with Power=1
+  251 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2036
-Highest Rule Number assigned so far: 2036
+Highest current Rule Number:         2038
+Highest Rule Number assigned so far: 2038
 
 ======================================================================
 Table of Contents:
@@ -6406,7 +6406,7 @@ The Registrar
   This Category includes Rules concerning the Office of Registrar.
 ----------------------------------------------------------------------
 
-Rule 559/20 (Power=1)
+Rule 559/21 (Power=1)
 The Registrar
 
       The Registrar is an office; its holder is responsible for
@@ -6416,7 +6416,7 @@ The Registrar
       information:
 
          (i) a list of all registered players, with their nicknames,
-             if any, and preferred email addresses;
+             if any, and listed email addresses;
 
         (ii) a list of all Grace Periods in progress, including the
              player subject to the Grace period, the time at which
@@ -6461,25 +6461,46 @@ Amended(17) by Proposal 4211 (harvel), 10 September 2001
 Amended(18) by Proposal 4250 (harvel), 19 February 2002
 Amended(19) by Proposal 4259 (root), 21 February 2002
 Amended(20) by Proposal 4278 (harvel), 3 April 2002
+Amended(21) by Proposal 4435 (Murphy), 28 January 2003
 
 ----------------------------------------------------------------------
 
-Rule 514/1 (Power=1)
+Rule 514/2 (Power=1)
 Keep the Registrar Informed of Your Address
 
-      All Players shall notify the Registrar of their preferred email
-      address(es). Should this address change, that Player shall
-      notify the Registrar of this change. If a Player fails to
-      notify the Registrar of a change of address, the Registrar shall
-      not be responsible for any mail which did not reach that Player.
+      Each Player may list or unlist an e-mail address by informing
+      the Registrar that e is doing so.  When a Player registers, the
+      address used to send eir registration becomes listed.
+
+      A listing is only valid if the Player sends a public message
+      from the listed address within one week of the listing.  (This
+      message may be the listing itself.)  An unlisting is only valid
+      if the Player keeps at least one address listed.
+
+      If a Player fails to notify the Registrar of a change of
+      address, then the Registrar is not responsible for any e-mail
+      that fails to reach that Player.
 
 History:
 Created by Proposal 514 (Wes), Oct. 5 1993
 Amended(1) by Proposal 2739 (Swann), Nov. 5 1996, substantial
+Amended(2) by Proposal 4435 (Murphy), 28 January 2003
 
 ----------------------------------------------------------------------
 
+Rule 2037/0 (Power=1)
+Orange Alert
 
+      If a Player has no listed e-mail address, then the address used
+      to send eir next public message becomes listed.
+
+      If each Player has at least one listed address, then the
+      Registrar may repeal this Rule by announcing that e does so.
+
+History:
+Created by Proposal 4435 (Murphy), 28 January 2003
+
+----------------------------------------------------------------------
 
 ======================================================================
 The Rulekeepor
@@ -9260,16 +9281,18 @@ Amended(7) by Proposal 4181 (Murphy), 9 July 2001
 
 ----------------------------------------------------------------------
 
-Rule 1987/0 (Power=1)
+Rule 1987/1 (Power=1)
 Classes of Organizations
 
       The following Classes of Organizations exist:
 
         a) Groups.
         b) Contests.
+        c) Monasteries
 
 History:
 Created by Proposal 4181 (Murphy), 9 July 2001
+Amended(1) by Proposal 4436 (RedKnight), 28 January 2003
 
 ----------------------------------------------------------------------
 
@@ -9387,6 +9410,21 @@ Amended(4) by Proposal 2525, Mar. 10 1996
 Amended(5) by Proposal 2725, Oct. 23 1996
 Amended(6) by Proposal 4002 (harvel), May 8 2000
 Amended(7) by Proposal 4181 (Murphy), 9 July 2001
+
+----------------------------------------------------------------------
+
+Rule 2038/0 (Power=1)
+Joining a Monastery
+
+      A Player shall be added to the Membership of a Monastery only
+      when the Player to be added has sent the Administrator of the
+      Monastery in question a message requesting the be added to the
+      membership of that Monastery and the addition of that Player to
+      that Monastery's membership is otherwise permitted by that
+      Monastery's SLC.
+
+History:
+Created by Proposal 4436 (RedKnight), 28 January 2003
 
 ----------------------------------------------------------------------
 
@@ -9912,7 +9950,7 @@ Created by Proposal 4197 (Goethe), 8 August 2001
 
 ----------------------------------------------------------------------
 
-Rule 2003/9 (Power=1)
+Rule 2003/10 (Power=1)
 Actions in Arcadia
 
       Every week, the number of Actions Units an entity may expend to
@@ -9921,12 +9959,12 @@ Actions in Arcadia
       - If the entity is a Player, 10, minus 1 for every 5 Blots in
         the Player's Stain as recorded in the most recent Herald's
         report before the week started, plus 1 for every unit of Land
-        with Gote owned by the Player.
+        with Gote owned by the Player at the start of the week.
 
       - If the entity is a Group, 1, plus 3 for every Member of the
         Group located on or adjacent to the location of the Group at
         the start of the week, plus 1 for every unit of Land with Gote
-        owned by the Group.
+        owned by the Group at the start of the week.
 
       - All other entities zero.
 
@@ -9999,6 +10037,7 @@ Amended(6) by Proposal 4373 (Sir Toby), 6 September 2002
 Amended(7) by Proposal 4405 (Peekee), 23 October 2002
 Amended(8) by Proposal 4425 (SirToby), 2 January 2003
 Amended(9) by Proposal 4431 (Peekee), 16 January 2003
+Amended(10) by Proposal 4434 (SirToby), 28 January 2003
 
 ----------------------------------------------------------------------
 
