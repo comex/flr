@@ -21,14 +21,14 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 302 Rules:
+There are currently 304 Rules:
    19 with Power=3
    31 with Power=2
-  252 with Power=1
+  254 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         1988
-Highest Rule Number assigned so far: 1988
+Highest current Rule Number:         1991
+Highest Rule Number assigned so far: 1991
 
 
 
@@ -282,25 +282,36 @@ Amended(1) by Proposal 4099 (Murphy), Jan. 15 2001
 
 ----------------------------------------------------------------------
 
-Rule 1478/4 (Power=1)
-Executors
+Rule 1478/5 (Power=1)
+Executors and Limited Executors
 
-      The Executor of an entity is a Player who is empowered by the
-      Rules to act on behalf of that entity, as if e were that entity.
+      (a) An Executor of an entity is a Player who is empowered by the
+          Rules to act on behalf of that entity, who is called the
+          Executee. There may be more than one such Player. An
+          Executor of an Executee may perform on behalf of the
+          Executee all such actions as the Rules permit the Executee
+          to perform.
 
-      Except when the Rules stipulate otherwise, a Player is eir own
-      Executor.  Any other entity has an Executor only when the Rules
-      specify either a Player or a means to designate a Player to be
-      the Executor of that entity.
+      (b) A Limited Executor of an entity is a Player who is empowered
+          by the Rules to perform on behalf of that entity a subset of
+          the actions which the Rules permit the entity to perform. A
+          Limited Executor is permitted to perform on behalf of an
+          Executee only such actions as are explicitly permitted by
+          the Rules.
 
-      Whenever a Player is acting on behalf of some entity of which e
-      is the Executor other than emself, e must make it clear that e
-      is doing so.  If such a Player fails to clearly indicate that e
-      is acting as the Executor of some other entity, it shall be
-      presumed that e is acting on eir own behalf.
+      (c) A Player is always eir own Executor. Other entities have
+          Executors (or Limited Executors) only as and when the Rules
+          provide.
 
-      Only a person or an entity with a Player Executor may perform
-      actions.
+      (d) A Player acting on behalf of an entity other than emself
+          must clearly indicate on whose behalf e is acting. A Player
+          who does not clearly indicate that e is acting on behalf of
+          some entity other than emself is presumed to be acting on
+          eir own behalf.
+
+      (e) Only persons may perform actions. Non-persons perform
+          actions only via the agency of persons, as specified by the
+          Rules.
 
 History:
 Created by Proposal 1601, Jun. 19 1995
@@ -308,6 +319,38 @@ Amended(1) by Proposal 2514, Mar. 3 1996
 Amended(2) by Proposal 3516 (General Chaos), Jun. 16 1997, substantial
 Amended(3) by Proposal 3968 (harvel), Feb. 4 2000
 Amended(4) by Proposal 3999 (harvel), May 2 2000
+Amended(5) by Proposal 4190 (Steve), 18 July 2001
+
+----------------------------------------------------------------------
+
+Rule 1989/0 (Power-1)
+Prime Executors
+
+      (a) The Prime Executor of an entity with respect to a certain
+          action is the Player who is responsible for performing that
+          action. For each action that an entity is required to
+          perform, there shall be at most one Prime Executor of that
+          entity with respect to that action. Any penalty incurred due
+          to an entity's failure to perform as required by the Rules
+          is incurred by the Prime Executor of that entity.
+
+      (b) Any other Rule to the contrary notwithstanding, the Prime
+          Executor of an entity with respect to a certain action must
+          be an Executor of that entity, or a Limited Executor of that
+          entity who is permitted to perform that action on behalf of
+          that entity.
+
+      (c) If the Rules designate a Player to be the Prime Executor of
+          an entity, without specifying particular actions that the
+          Prime Executor is responsible for performing, then that
+          Player is the Prime Executor of that entity with respect to
+          all actions that the entity is required to perform.
+
+      (d) Unless otherwise specified by the Rules, each Player is eir
+          own Prime Executor.
+
+History:
+Created by Proposal 4190 (Steve), 18 July 2001
 
 ----------------------------------------------------------------------
 
@@ -1295,60 +1338,77 @@ Amended(5) by Proposal 4110 (Ziggy), Feb. 13 2001
 
 ----------------------------------------------------------------------
 
-Rule 1841/2 (Power=1)
+Rule 1841/3 (Power=1)
 Granting Power of Attorney
 
-      Any Player who has been continuously registered for two or more
-      months is empowered to give another willing Player eir Power of
-      Attorney for a specified period of time.  The giving Player
-      shall be known, for this Rule, as the Grantor.  The receiving
-      Player shall be known, for this Rule, as the Holder.
+      (a) A Player (the Grantor) who has been continuously registered
+          for more than two months is empowered to give eir Power of
+          Attorney (PoA) to another Player (the Holder), as specified
+          in this Rule.
 
-      Power of Attorney is given by the Grantor publicly announcing
-      such, naming the Holder e is giving the Power of Attorney to and
-      the time period for which the Power of Attorney is given.  To be
-      effective, this post must name a time that begins within the
-      week following the posting. The Power of Attorney shall not be
-      granted unless the Holder is an active Player and consents
-      publicly before the beginning of the specified period of time.
+      (b) The Holder holds the Grantor's PoA if all of the following
+          conditions are met:
+          (1) the Grantor has announced that e grants eir PoA to the
+              Holder;
+          (2) the Holder has, in the week immediately preceding or
+              immediately following the Grantor's announcement,
+              publically consented to hold the Grantor's PoA;
+          (3) the Holder is Active; and
+          (4) the grant of PoA has not been withdrawn for any of the
+              reasons listed in (d).
 
-      If the grant is effective, the Holder shall then have the Power
-      of Attorney beginning at the specified time.  This grant shall
-      end when one of the following occurs;
+      (c) The grant of PoA commences at the time the Grantor grants
+          eir PoA to the Holder, or at the time the Holder consents to
+          the grant, or at the time specified by the Grantor,
+          whichever is latest. If the Grantor specifies a time at
+          which the grant of PoA is to commence, it must be a time no
+          more than seven says from the Grantor's announcement. Later
+          specifications are without effect for the purposes of this
+          Rule.
 
-        i) The period specified expires.
-       ii) The Grantor posts publicly that e is withdrawing eir Power
-           of Attorney.
-      iii) The Grantor is deregistered, or goes On Hold.
-       iv) The Holder is deregistered, or goes On Hold
-        v) It has been over three months since the Grantor gave eir
-           Power of Attorney to the Holder.
+      (d) The grant of PoA is withdrawn if:
+          (1) the period of the grant specified by the Grantor
+              expires;
+          (2) the Grantor publically withdraws the grant;
+          (3) the Grantor is deregistered;
+          (4) the Assessor is mischevious;
+          (5) the Holder is deregistered or goes On Hold; or
+          (6) the Holder has held the PoA continuously for three
+              months.
+
+      (e) Nothing in this Rule shall be construed as preventing other
+          Rules from granting and withdrawing PoA by other means.
+
+      (f) Other Rules to the contrary notwithstanding, no Player who
+          has granted PoA to another Player as described in this Rule
+          shall become a Zombie while the grant of PoA is in effect.
 
 History:
 Created by Proposal 3739 (Swann), May 3 1998
 Amended(1) by Proposal 4011 (Wes), Jun. 1 2000
 Amended(2) by Proposal 4147 (Wes), 13 May 2001
+Amended(3) by Proposal 4190 (Steve), 18 July 2001
 
 ----------------------------------------------------------------------
 
-Rule 1842/0 (Power=1)
+Rule 1842/1 (Power=1)
 Power of Attorney
 
-      In certain specified circumstances the Rules may grant one
-      Player, hereafter called the Holder, Power of Attorney for
-      another Player, hereafter called the Grantor.  Such a grant
-      shall only occur when specified by the Rules, and shall last
-      only as long as the Rules permit.
+      (a) The Rules may grant a Player, called the Holder, Power of
+          Attorney for another Player, called the Grantor. Power of
+          Attorney is granted only as specified by the Rules, and
+          shall last only as long as the Rules specify.
 
-      When the Holder is granted Power of Attorney for the Grantor,
-      that means that the Holder becomes the sole Executor for the
-      Grantor for as long as e has that Power of Attorney.
+      (b) While the Holder is granted Power of Attorney for the
+          Grantor, the Holder is an Executor of the Grantor, and the
+          Prime Executor of the Grantor.
 
-      No Player is permitted to have Power of Attorney for more than
-      two other Players.
+      (c) No Player is permitted to have Power of Attorney for more
+          than two other Players.
 
 History:
 Created by Proposal 3739 (Swann), May 3 1998
+Amended(1) by Proposal 4190 (Steve), 18 July 2001
 
 ----------------------------------------------------------------------
 
@@ -2539,7 +2599,7 @@ Distributing Positions in the Oligarchy
       publish a list of the Oligarchs and their ranks, identifying
       those Players who are required to make the selection, and the
       set of Players from whom the selection is to be made. Failure to
-      do so is the Class 2 Infraction of Oligardiness, which may be
+      do so is the Class 1 Infraction of Oligardiness, which may be
       reported by any Player. However, if the Oligarchy selection
       occurs before the GWoTO publishes the list, the GWoTO is
       relieved of eir obligation to publish it.
@@ -2593,7 +2653,7 @@ Distributing Positions in the Oligarchy
       requirements on Players arising from it are cancelled.
 
       Any Player required to make a recommendation by this Rule who
-      fails to do so within the allotted time commits the Class 2
+      fails to do so within the allotted time commits the Class 1
       Infraction of Oligardiness; this Infraction may be reported by
       any Player.
 
@@ -2604,6 +2664,7 @@ Amended(2) by Proposal 4053 (harvel), Aug. 21 2000
 Amended(3) by Proposal 4073c (Elysion), Sep. 26 2000
 Amended(4) by Proposal 4084 (Steve), Nov. 9 2000
 Amended(5) by Proposal 4098 (Murphy), Jan. 15 2001
+Amended(6) by Proposal 4185 (Ziggy), 18 July 2001
 
 ----------------------------------------------------------------------
 
@@ -3132,7 +3193,32 @@ Mutated from MI=1 to MI=2 by Proposal 2665, Sep. 12 1996
 
 ----------------------------------------------------------------------
 
+Rule 1991/0 (Power=1)
+Opposite Proposals
 
+      Each time the Promotor distributes Proposals, e shall first
+      select at random a single distributable Proposal, to be known as
+      the Target.  E may then distribute with these Proposals an
+      Opposite Proposal for the Target.  If e does so, e may, Without
+      2 Objections, pay out 0.1 Papyri to eirself.
+
+      An Opposite Proposal should be clearly marked as such.  It
+      should be substantially the opposite, in spirit or effect, of
+      its Target.  An Opposite Proposal shall have the same status as
+      its Target, including AI, Sanity, Insanity, Urgentness,
+      Disinterestedness, and Democraticity; except that, if the Target
+      does not have an AI of at least 2, the Opposite Proposal shall
+      be neither Democratic nor Sane.
+
+      The Promotor shall be considered to be the proposer of the
+      Opposite Proposal, but shall incur no penalties as a result of
+      being its proposer.  This Rule takes precedence over all Rules
+      which would impose such penalties.
+
+History:
+Created by Proposal 4194 (neil), 18 July 2001
+
+----------------------------------------------------------------------
 
 ======================================================================
 Voting on Proposals
@@ -3263,58 +3349,59 @@ Amended(3) by Proposal 4111 (Elysion), Feb. 20 2001
 
 ----------------------------------------------------------------------
 
-Rule 1934/3 (Power=2)
+Rule 1934/4 (Power=2)
 The Speaker, Sanity, and Buying Democracy
 
-      An Untainted Speaker may declare an Interested Proposal, which
-      would otherwise be an Ordinary Proposal, for which the Voting
-      Period has not yet concluded, and which has never been
-      Contested, a Sane Proposal, With 3 Supporters.  This declaration
-      may occur before the Voting Period commences; if it does, then
-      this supported declaration turns the Proposal into a Democratic
-      Proposal, and makes it Sane, requiring its Distribution Cost to
-      be modified as required by other Rules.  If this supported
-      declaration occurs during the Voting Period for the Proposal,
-      then the Proposal is not modified unless at least one Papyrus is
-      transferred to the Bank for this stated purpose by any Player.
-      If this transfer occurs, then the Proposal becomes Democratic
-      and Sane, all Votes already cast on the Proposal prior to the
-      change are cancelled and its Voting Period is extended to end
-      seven days after it became a Sane Proposal.
+      An Untainted Speaker may, with 3 Supporters, Sanitise an Interested
+      Proposal which would otherwise be an Ordinary Proposal, for
+      which the Voting Period has not yet concluded, and which has
+      never been the subject of an Attempt to Democratise.
 
-      Any Player may Contest an Interested Proposal, which would
-      otherwise be an Ordinary Proposal and for which the Voting
-      Period has not yet concluded, by sending a message to the Public
-      Forum stating e is doing so.  If this Player is an Untainted
-      Speaker, then the Proposal becomes Contested when e receives
-      three Supporters.  If this Player is not an Untainted Speaker,
-      then the Proposal becomes Contested if and only if e receives
-      three Supporters and e publicly transfers 0.1VE to the Bank for
-      the Contest.
+      If a Proposal is Sanitised before its Voting Period commences,
+      said Proposal becomes a Democratic Proposal, becomes a Sane Proposal,
+      and has its Distribution Cost modified as required by other Rules.
 
-      If a Proposal is Contested, any Player may publicly transfer any
-      number of VEs to the Bank with a clear. unambiguous statement
-      that this transfer is made either for or against the Contest.
-      At the end of the Voting Period, the Contest is Succesful if
-      strictly more VEs have been publicly transferred to the Bank for
-      the Contest than have been publicly transferred to the Bank
-      against the Contest.  If equal numbers of VEs have been publicly
-      transferred to the Bank both for and against the Contest, then
-      the Contest is Succesful only if the Proposal was Contested by
-      an Untainted Speaker.
+      If a Proposal is Sanitised during its Voting Period, said
+      Proposal is not modified until at least one Papyrus is publicly
+      transferred to the Bank solely for this stated purpose by any
+      Player during the Proposal's Voting Period.  If this happens,
+      the Proposal becomes a Democratic Proposal, the Proposal becomes
+      a Sane Proposal, and all votes thus far cast on the Proposal are
+      cancelled.  The Assessor shall announce that the Proposal ha
+      been successfully Sanitised; the Voting Period of the Proposal
+      is extended to end seven days after this announcement.
 
-      If the Contest is not Succesful, the Voting Period is considered
-      to have ended, and the Proposal is considered an ordinary
-      Ordinary Proposal for any further actions.
+      Any Player may, With Support, make an Attempt to Democratise an
+      Interested Proposal which would otherwise be an Ordinary
+      Proposal, and for which the Voting Period has not yet concluded.
+      There is a Fee of 0.1 VEs for a Player other than an Untainted
+      Speaker to make an Attempt to Democratise.  This Fee must be
+      paid publicly.
 
-      If the Contest is Succesful, then all Votes cast on the Proposal
-      are cancelled.  The Proposal becomes a Democratic Proposal.  The
-      Voting Period is considered not to have ended, and is extended a
-      further seven days.
+      Once an Attempt to Democratise a Proposal has been made, until
+      the end of the Proposal's Voting Period, any Player may publicly
+      transfer any number of VEs to the Bank with a clear, unambiguous
+      statement that this transfer is made solely for the purpose of
+      Democratising the Proposal, or solely for the purpose of keeping
+      the Proposal Ordinary.
 
-      The Assessor shall be required to determine whether or not the
-      Contest is Succesful, and shall report any results of this
-      determination as soon as possible.
+      At the end of the Voting Period, Democratisation succeeds if at
+      least as many VEs have been publicly transferred to the Bank for
+      Democratisating the Proposal as for keeping the Proposal
+      Ordinary.  The Assessor shall announce as soon as possible after
+      the end of the Voting Period whether or not Democratisation of
+      that Proposal has succeeded.
+
+      If Democratisation does not succeed, the Voting Period is
+      considered to have ended as usual.  The Attempt does not in any
+      way modify the Proposal in question.
+
+      If Democratisation succeeds, the Proposal becomes a Democratic
+      Proposal, and all Votes thus far cast on the Proposal are
+      cancelled.  The Voting Period for that Proposal is considered
+      not to have ended (except for the purposes of this Attempt to
+      Democratise), and is extended to end seven days after the
+      Assessor's announcement that Democratisation has succeeded.
 
 History:
 Created by Proposal 3980 (Steve), Mar. 1 2000
@@ -3322,6 +3409,7 @@ Amended(1) by Proposal 3990, "Agora Abhors a Vacuum", (Murphy),
   Mar. 26 2000
 Amended(2) by Proposal 4049 (Elysion), Aug. 15 2000
 Amended(3) by Proposal 4145 (Ian), Apr. 22 2001
+Amended(4) by Proposal 4187 (neil), 18 July 2001
 
 ----------------------------------------------------------------------
 
@@ -3370,7 +3458,7 @@ Amended(1) by Proposal 4085 (Blob), Nov. 16 2000
 
 ----------------------------------------------------------------------
 
-Rule 683/9 (Power=1)
+Rule 683/10 (Power=1)
 Voting on Proposals
 
       A Voter authorised to cast votes on a particular Proposal may do
@@ -3382,9 +3470,6 @@ Voting on Proposals
       A vote upon a Proposal must be one of FOR, AGAINST, or ABSTAIN
       (or an obvious synonym of one of these).  Something which is not
       one of these is not a vote upon a Proposal.
-
-      A vote cast by an entity which does not have an Executor
-      is cast at a time and in a manner specified in other Rules.
 
 History:
 Initial Mutable Rule 207, Jun. 30 1993
@@ -3398,6 +3483,7 @@ Amended(6) by Proposal 3718 (Steve), Apr. 3 1998
 Amended(7) by Proposal 3937 (Wes), Oct. 31 1999
 Amended(8) by Proposal 3968 (harvel), Feb. 4 2000
 Amended(9) by Proposal 3972 (Peekee), Feb. 14 2000
+Amended(10) by Proposal 4180 (Steve), 18 July 2001
 
 ----------------------------------------------------------------------
 
@@ -3833,26 +3919,25 @@ Amended(1) by Proposal 1502, Mar. 24 1995
 
 ----------------------------------------------------------------------
 
-Rule 947/15 (Power=1)
+Rule 947/16 (Power=1)
 Bonus for Repeal
 
-      If a Proposal is adopted which, as part of all of its effect,
-      repeals one or more Rules, and immediately prior to the
-      adoption of this Proposal there were more than 100 Rules, the
-      Rulekeepor shall pay out 30 Stems to the Proposer of that
-      Proposal, if, in the Rulekeepor's estimation, the Proposal
-      simplifies the Ruleset.  If the Rulekeepor decides that the
-      Proposal does not simplify the Ruleset, e must announce this
-      decision.
+      (a) If there are 100 or more Rules, and a Proposal is adopted
+          which, as part of all of its effect, repeals one or more
+          Rules, and if, in the Rulekeepor's estimation, the Proposal
+          simplifies the Ruleset, then the Rulekeepor shall pay out 30
+          Stems to the Proposer of that Proposal. If the Rulekeepor
+          decides that the Proposal does not simplify the Ruleset, e
+          must announce this decision.
 
-      When the Rulekeepor decides that such a Proposal does not
-      simplify the Ruleset, the Executor of the Proposal's Proposer
-      may reverse the Rulekeepor's decision Without Three Objections,
-      provided the procedure for doing so is initiated within one
-      week of the announcement of the Rulekeepor's decision.  When
-      the Rulekeepor's decision is reversed in this manner, the
-      Executor of the Proposal's Proposer shall pay out 30 Stems
-      to the Proposal's Proposer.
+      (b) When the Rulekeepor decides that such a Proposal does not
+          simplify the Ruleset, the Proposal's Proposer may reverse
+          the Rulekeepor's decision Without Three Objections, provided
+          the procedure for doing so is initiated within one week of
+          the announcement of the Rulekeepor's decision. Blob is
+          Mauvy. As soon as possible after the Rulekeepor's decision
+          is reversed in this manner, the Proposal's Proposer shall
+          pay out 30 Stems to emself.
 
 History:
 Created by Proposal 947, Jul. 3 1994
@@ -3872,6 +3957,7 @@ Amended(12) by Proposal 3823 (Oerjan), Jan. 21 1999
 Amended(13) by Proposal 3848 (Chuck), Mar. 26 1999
 Amended(14) by Proposal 3897 (harvel), Aug. 27 1999
 Amended(15) by Proposal 3947 (harvel), Nov. 20 1999
+Amended(16) by Proposal 4180 (Steve), 18 July 2001
 
 ----------------------------------------------------------------------
 
@@ -6769,16 +6855,19 @@ Amended(1) by Proposal 4110 (Ziggy), Feb. 13 2001
 
 ----------------------------------------------------------------------
 
-Rule 1959/0 (Power=1)
+Rule 1959/1 (Power=1)
 Wills
 
-      The Executor of a given entity may announce a Will for that
-      entity, this becomes that entity's Will.  A Will must describe
-      how to distribute the entity's Property should the entity cease
-      to have an Executor.  The Notary shall keep track of all Wills.
+      (a) An entity's Will is a description of how the entity's
+          Property should be distributed in the event that the entity
+          ceases to have an Executor. The Notary shall keep a record
+          of all Wills.
+
+      (b) An entity creates a Will for itself by publishing it.
 
 History:
 Created by Proposal 4082 (Peekee), Oct. 30 2000
+Amended(1) by Proposal 4180 (Steve), 18 July 2001
 
 ----------------------------------------------------------------------
 
@@ -6819,24 +6908,29 @@ Amended(3) by Proposal 4082 (Peekee), Oct. 30 2000
 
 ----------------------------------------------------------------------
 
-Rule 1981/0 (Power=1)
+Rule 1981/1 (Power=1)
 Embezzlement and Receiving Stolen Property
 
-      (a) A Player who intentionally makes a valid but unauthorized
+      (a) A transfer of Property from one entity to another entity
+          which is made without being explicitly required or permitted
+          by the Rules is unauthorized.
+
+      (b) A Player who intentionally makes a valid but unauthorized
           transfer of Property from any entity to another entity
           commits the Class 10 Crime of Embezzlement.
 
-      (b) An entity which receives Property from any entity as the
+      (c) An entity which receives Property from any entity as the
           result of an intentional, valid and unauthorized transfer
-          incurs a debt to the Bank for all such Property.
+          incurs a debt to the transferor for all such Property.
 
-      (c) A Player who has been informed that e, or an entity of which
-          e is an Executor, has incurred a debt of the type decribed
-          in (b) and who does not act to satisfy that debt within in a
-          week of being informed of it commits the Class 10 Crime of
-          Receiving Stolen Property.
+      (d) A Player who has been informed that e, or an entity of which
+          e is the Prime Executor, has incurred a debt of the type
+          decribed in
+          (c) and who does not act to satisfy that debt within in a week of
+          being informed of it commits the Class 10 Crime of Receiving
+          Stolen Property.
 
-      (d) For the the purposes of this Rule, a valid but unauthorized
+      (e) For the the purposes of this Rule, a valid but unauthorized
           transfer is considered to have been made intentionally if
           and only if, at the time of the transfer, the Player making
           it:
@@ -6844,12 +6938,13 @@ Embezzlement and Receiving Stolen Property
           (2) knew that the transfer was unauthorized; and
           (3) realized that e was making the transfer.
 
-      (e) In particular, a Player who makes a valid but unauthorized
-          transfer of Property from the Bank as the result of an
-          accident or mistake does not commit Embezzlement.
+      (f) In particular, a Player who makes a valid but unauthorized
+          transfer of Property as the result of an accident or mistake
+          does not commit Embezzlement.
 
 History:
 Created by Proposal 4156 (Ian), 18 May 2001
+Amended(1) by Proposal 4180 (Steve), 18 July 2001
 
 ----------------------------------------------------------------------
 
@@ -7078,7 +7173,7 @@ Created by Proposal 4011 (Wes), Jun. 1 2000
 
 ----------------------------------------------------------------------
 
-Rule 1598/10 (Power=1)
+Rule 1598/12 (Power=1)
 Property Transfers
 
       (a) A Notice of Transfer is a message which sets forth the
@@ -7111,10 +7206,9 @@ Property Transfers
           the purpose of satisfying a debt, or of paying the Fee
           associated with performing an action, but the debt does not
           exist, or the action is not successfully performed, then the
-          transferor's Executor may publicly demand the return of the
-          Property. The effect of such a demand is to cause the
-          transferee to incur a debt to the transferor for the
-          Property transferred.
+          transferor may publicly demand the return of the Property.
+          The effect of such a demand is to cause the transferee to
+          incur a debt to the transferor for the Property transferred.
 
 [In CFJ 1302, judged TRUE on 26 June 2001, the Judge agreed with the
  caller's argument that "a 'conditionally expressed Notice of
@@ -7143,6 +7237,7 @@ Amended(8) by Proposal 3901 (Schneidster), Sep. 6 1999
 Amended(9) by Proposal 4018 (Kelly), Jun. 21 2000
 Amended(10) by Proposal 4099 (Murphy), Jan. 15 2001
 Amended(11) by Proposal 4156 (Ian), 18 May 2001
+Amended(12) by Proposal 4180 (Steve), 18 July 2001
 
 ----------------------------------------------------------------------
 
@@ -7231,7 +7326,7 @@ Amended(7) by Proposal 4165 (Kelly), 11 June 2001
 
 ----------------------------------------------------------------------
 
-Rule 1853/7 (Power=1)
+Rule 1853/8 (Power=1)
 Levying Taxes
 
       Taxes may be levied only by an Officer explicitly permitted by
@@ -7256,7 +7351,8 @@ Levying Taxes
       All entities are taxable, except for:
 
         (a) the Bank
-        (b) all Rebellious Players
+        (b) all Rebellious Players who were Rebellious at the time the
+            intent to levy was published
         (c) entities explicitly specified by the Rule authorizing the
             levy as tax-exempt for that levy
 
@@ -7276,6 +7372,7 @@ Amended(4) by Proposal 3897 (harvel), Aug. 27 1999
 Amended(5) by Proposal 3951 (Elysion), Dec. 8 1999
 Amended(6) by Proposal 4018 (Kelly), Jun. 21 2000
 Amended(7) by Proposal 4127 (Murphy), Mar. 28 2001
+Amended(8) by Proposal 4193 (Taral), 18 July 2001
 
 ----------------------------------------------------------------------
 
@@ -7554,32 +7651,33 @@ The Bank
   This Category includes Rules concerning the Bank.
 ----------------------------------------------------------------------
 
-Rule 1470/5 (Power=1)
+Rule 1470/6 (Power=1)
 The Bank
 
       (a) There is an entity known as the Bank. The Bank has Mint
-          Authority. The Bank is the Mintor of each Bank Currency.
+          Authority.  The Bank is the Mintor of each Bank
+          Currency. The Bank is permitted to transfer Property in its
+          possession to other entities.
 
-      (b) The Executor of the Bank is the Treasuror. Each Recordkeepor
-          of each Bank Currency is a Limited Executor of the Bank.
+      (b) The Treasuror is the Executor of the Bank. Each Recordkeepor
+          of each Bank Currency is a Limited Executor of the Bank, and
+          is empowered to make transfers of that Currency from the
+          Bank.
 
-      (c) The Executor of the Bank, and each Limited Executor, is
-          authorized to transfer Property from the Bank as and when
-          the Rules explicitly require or permit it. Transfers of
-          Property from the Bank which are made without being
-          explicitly required or permitted by the Rules are
-          unauthorized.
+      (c) Each Recordkeepor of each Bank Currency is the Prime
+          Executor of the Bank with respect to debts denominated in
+          that Currency. The Treasuror is the Prime Executor of the
+          Bank with respect to all other actions that the Bank is
+          required to perform.
 
-      (d) Whenever the Bank incurs a debt to any other entity, the
-          Bank shall, as soon as possible and by its Executor or by
-          one of its Limited Executors, either satisfy that debt by
+      (d) As soon as possible after the Bank incurs a debt to any
+          other entity, the Bank shall either satisfy that debt by
           transferring appropriate Properties to the creditor, or
           dispute the debt by whatever means are appropriate in the
           situation.
 
-      (e) The Treasuror has sole authority to forgive debts owed to
-          the Bank, in whole or in part. This power may only be
-          exercised:
+      (e) The Bank is permitted to forgive debts owed to it, in whole
+          or in part:
           (1) pursuant to a properly-issued Order; or
           (2) Without Objection, at the Treasuror's discretion.
 
@@ -7590,6 +7688,7 @@ Amended(2) by Proposal 3533 (General Chaos), Jul. 15 1997, substantial
 Amended(3) by Proposal 3940 (Blob), Nov. 15 1999
 Amended(4) by Proposal 4018 (Kelly), Jun. 21 2000
 Amended(5) by Proposal 4156 (Ian), 18 May 2001
+Amended(6) by Proposal 4190 (Steve), 18 July 2001
 
 ----------------------------------------------------------------------
 
@@ -8297,7 +8396,7 @@ Amended(1) by Proposal 4110 (Ziggy), Feb. 13 2001
 
 ----------------------------------------------------------------------
 
-Rule 1712/10 (Power=1)
+Rule 1712/11 (Power=1)
 Distribution of Indulgences
 
       The Ideal Indulgence Circulation Level (IICL) is the number of
@@ -8308,7 +8407,11 @@ Distribution of Indulgences
       number of Indulgences owned by entities other than the Bank,
       augmented by the total number of Indulgences owned by the Bank
       which have been auctioned off to Winning Bidders in prior
-      Indulgence Auctions but not yet paid for.
+      Indulgence Auctions but not yet paid for.  The Monthly Bank
+      Indulgence Gain (MBIG) is the number of Indulgences transferred
+      from other entities to the Bank during a given Nomic Month, less
+      the number of Indulgences transferred from the Bank to other
+      entities during that same Nomic Month.
 
       As soon as possible after the start of each month, the Herald
       shall calculate the Indulgence Differential, which is equal to
@@ -8325,7 +8428,9 @@ Distribution of Indulgences
       Herald shall, as soon as possible after the start of that month,
       auction a number of Indulgences equal to the Indulgence
       Differential; if the Indulgence Differential is not greater than
-      zero, the Herald shall not auction any Indulgences that month.
+      zero, the Herald shall auction a whole number of Indulgences
+      equal to or less than one half the MBIG for the preceeding
+      month, with a minimum of 0 Indulgences.
 
       In an Indulgence Auction held in accordance with this rule, the
       items to be auctioned are individual Indulgences, and thus the
@@ -8350,6 +8455,7 @@ Amended(7) by Proposal 4018 (Kelly), Jun. 21 2000
 Amended(8) by Proposal 4074 (Elysion), Sep. 26 2000
 Amended(9) by Proposal 4085 (Blob), Nov. 16 2000
 Amended(10) by Proposal 4162 (Elysion), 11 June 2001
+Amended(11) by Proposal 4188 (Goethe), 18 July 2001
 
 ----------------------------------------------------------------------
 
@@ -9449,3 +9555,43 @@ Amended(2) by Proposal 4147 (Wes), 13 May 2001
 
 ----------------------------------------------------------------------
 
+Rule 1990/0 (Power=1)
+Points Contests
+
+      A Contest may be a Points Contest if its ACO specifically states
+      that it is a Points Contest.  A Player may not be the
+      Contestsmaster of more than one Points Contest in a single Nomic
+      month.
+
+      PWIN is the number of points required for a Player to achieve a
+      win condition, as defined elsewhere in the Rules.  PPP (Points
+      Per Player) is PWIN divided by twenty.
+
+      Once during each month that starts while the Contest exists, a
+      Points Contest's Contestmaster may post a single valid Notice of
+      Award to the Public Forum, listing any number of the Contest's
+      Contestants, and a listing a positive number of Points to be
+      awarded to each Contestant on the list.  Different Contestants
+      may be awarded different numbers of points in the same listing.
+      The posting must obey all regulations for such posting contained
+      in the Contest's SLC to be valid.
+
+      The total Points listed to be awarded to all Contestants in each
+      such monthly Notice may not exceed PPP times the number of
+      Players who were Contestants of the Contest at any time in the
+      14 days prior to the Notice.  If more points than this are
+      listed the Notice is invalid.
+
+      The total number of Points that a single Player may receive from
+      all Points Contests in a single month may not exceed PWIN
+      divided by five.  If a Points Contest Notice would bring a
+      Player's total to more points than this than the Notice is
+      invalid for that Player only.
+
+      The posting of such a Notice of Award, if valid, is an event
+      Awarding the listed Points to the listed Players.
+
+History:
+Created by Proposal 4191 (Goethe), 18 July 2001
+
+----------------------------------------------------------------------
