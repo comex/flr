@@ -21,14 +21,14 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 319 Rules:
+There are currently 321 Rules:
    19 with Power=3
    34 with Power=2
-  266 with Power=1
+  268 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2016
-Highest Rule Number assigned so far: 2016
+Highest current Rule Number:         2018
+Highest Rule Number assigned so far: 2018
 
 ======================================================================
 Table of Contents:
@@ -217,7 +217,7 @@ Amended(4) by Proposal 3915 (harvel), Sep. 27 1999
 
 ----------------------------------------------------------------------
 
-Rule 1497/7 (Power=1)
+Rule 1497/8 (Power=1)
 Truth in Advertising
 
       Any Player who willfully makes a false statement of fact as part
@@ -235,18 +235,20 @@ Truth in Advertising
       For the purposes of this Rule, the Speaker shall be considered
       an Officer.
 
-      For the purposes of this Rule, a false statement of fact is made
-      "willfully" when the Player making it, at the time the statement
-      was made, has the intention to make a false statement of fact
-      and knowledge that the statement actually made was false.
-      Particularly, a Player who makes a false statement of fact
-      through excusable negligence, reasonable error, or reasonable
-      reliance on the representations of another, shall not be
-      considered to have willfully made a false statement of fact.
+      For the purpose of this Rule, for a Player to "willfully make a
+      false statement of fact", all of the following conditions must
+      be true at the time the Player makes the statement.
 
-      A conclusion as to the interpretation of the Rules or their
-      application to a particular situation is not a "statement of
-      fact".
+        a) The Player must present the statement as if it were true.
+
+        b) The Player must know that the statement is false.  In
+           particular, the following things are not willful: excusable
+           negligence, reasonable error, or reasonable reliance on the
+           representations of another.
+
+        c) The statement is not a conclusion as to the interpretation
+           of the Rules, or as to their application to a particular
+           situation.
 
 [CFJ 827: If it is not clear that information is *not* presented
  as correct, it is.  Attempting an illegal move can, if the Player
@@ -262,6 +264,7 @@ Amended(4) by Proposal 2614, Jun. 1 1996
 Amended(5) by Proposal 3897 (harvel), Aug. 27 1999
 Amended(6) by Proposal 4147 (Wes), 13 May 2001
 Amended(7) by Proposal 4148 (Kelly), 13 May 2001
+Amended(8) by Proposal 4273 (Murphy), 22 March 2002
 
 ----------------------------------------------------------------------
 
@@ -1838,29 +1841,23 @@ Amended(6) by Proposal 4142 (Murphy), Apr. 15 2001
 
 ----------------------------------------------------------------------
 
-Rule 880/7 (Power=1)
+Rule 880/8 (Power=1)
 Resignation
 
-      An oligarch or the holder of an office may resign from eir
-      position at any time by announcing that e does so.
+      The holder of an Office may resign from it by announcing that e
+      does so.
 
-      The electee to an office may appoint another player as a
-      successor when e resigns.  If so, the resigning player is
-      retired from that office, and if within one week from the
-      appointment the named succcessor publicly agrees to be successor
-      to the office, that player becomes holder of the office.
+      If the holder of an Office is its Electee, and appoints a
+      successor when e resigns, then:
 
-      An oligarch may appoint another player as a successor when e
-      resigns.  If so, the resigning player is removed from the
-      Oligarchy, and if within one week from the appointment the named
-      successsor publicly agrees to be successor to the seat in the
-      Oligarchy and pays a fee of 1 Voting Entitlement, that player
-      becomes an Oligarch.
+        (a) The resigning Player is retired from that Office.
+        (b) If the successor consents within a week, then e becomes
+            holder of that Office.
+        (c) If the successor does not consent within a week, then the
+            resigning Player is removed from that Office.
 
-      A non-electee who resigns or an electee who does not name a
-      successor is immediately removed from office.  An oligarch who
-      does not name a successor is immediately removed from the
-      Oligarchy.
+      Otherwise, the resigning Player is immediately removed from that
+      Office.
 
 History:
 Created by Proposal 405 (Alexx), Sep. 3 1993
@@ -1873,62 +1870,47 @@ Amended(4) by Proposal 2781 (Steve), Jan. 15 1997, substantial
 Amended(5) by Proposal 3742 (Harlequin), May 8 1998
 Amended(6) by Proposal 4011 (Wes), Jun. 1 2000
 Amended(7) by Proposal 4250 (harvel), 19 February 2002
+Amended(8) by Proposal 4271 (Murphy), 22 March 2002
 
 ----------------------------------------------------------------------
 
-Rule 1645/8 (Power=1)
+Rule 1645/9 (Power=1)
 Temporary Delegation of Office
 
-      The Electee to an Office or the Speaker, if e holds that Office,
-      is permitted to appoint another Player to perform the duties of
-      that Office. This is called Delegation. The Player doing the
-      appointing is herein referred to as the Delegating Player and
-      the Player so appointed is herein referred to as the Delegated
-      Player.
+      An Office is Delegated when all of these conditions are met:
 
-      An Office is legally Delegated if and only if the following
-      conditions are met:
+        (a) The holder (hereafter known as the Delegating Player)
+            publishes a Notice of Delegation, naming the Office,
+            another Player (hereafter known as the Delegated Player),
+            and a Period of Delegation no longer than three weeks.
 
-      (a) the Delegating Player has published a Notice of Delegation,
-          naming the Office being Delegated and the Delegated Player;
+        (b) The Delegating Player is Electee to the Office, or is the
+            Speaker.  This condition must hold when e publishes the
+            Notice of Delegation, and must also hold at the beginning
+            of the Period of Delegation.
 
-      (b) the Delegated Player is permitted by the Rules to hold the
-          Office at the commencement of the Period of Delegation;
+        (c) The Delegated Player is permitted by the Rules to hold the
+            Office at the beginning of the Period of Delegation.
 
-      (c) the Delegated Player has published a Notice of Consent to
-          Delegation for that Office during the seven days immediately
-          preceding or immediately following the publishing of the
-          Notice of Delegation.
+        (d) The Delegated Player consents to the Delegation within
+            seven days of the publication of the Notice of Delegation.
 
-      (d) the Delegating Player is still permitted to Delegate the
-          Office at the commencement of the Period of Delegation;
+        (e) The Period of Delegation has begun and not yet ended.
 
-      (e) the Period of Delegation has commenced and not yet
-          concluded.
+      The Period of Delegation begins when the Notice of Delegation is
+      published, or when consent is given, or at the time (if any)
+      specified in the Notice of Delegation, whichever is latest.
 
-      The Period of Delegation commences at the time the Notice of
-      Delegation is posted, or at the time the Notice of Consent to
-      Delegation is posted, or at the time (if any) specified by the
-      Delegating Player, whichever is latest. The Period of Delegation
-      concludes when any of the following occur:
+      The Period of Delegation ends after the duration specified in
+      the Notice of Delegation has elapsed, or when a Player other
+      than the Delegating Player becomes Electee to the Office.
 
-      (a) a Player other than the Delegating Player becomes the
-          Electee to the Office;
-      (b) the time (if any) specified by the Delegating Player as the
-          end of the Period of Delegation is reached; or
-      (c) the Delegated Office has been continuously Delegated for
-          three weeks.
+      During the Period of Delegation, the Delegated Player holds the
+      Office, and earns its Salary as specified by other Rules.
 
-      During the Period of Delegation, the Delegating Player ceases to
-      hold the Delegated Office; the Delegated Player holds the
-      Office, and earns the Salary for that Office as described in
-      other Rules.
-
-      At the end of the Period of Delegation, the Delegated Player
-      ceases to hold the Delegated Office, and the Electee to the
-      Office commences holding the Office, if the Office has an
-      Electee. If the Office has no Electee, then the Delegated Player
-      continues to hold the Office.
+      At the end of the Period of Delegation, if the Office has an
+      Electee, then the Electee holds the Office; otherwise, the
+      Delegated Player continues to hold the Office.
 
 History:
 Created by Proposal 2639 (Steve), Jul. 12 1996
@@ -1941,6 +1923,7 @@ Amended(5) by Proposal 4011 (Wes), Jun. 1 2000
 Amended(6) by Proposal 4022 (Taral), Jun. 25 2000
 Amended(7) by Proposal 4071 (Steve), Sep. 14 2000
 Amended(8) by Proposal 4147 (Wes), 13 May 2001
+Amended(9) by Proposal 4271 (Murphy), 22 March 2002
 
 ----------------------------------------------------------------------
 
@@ -2300,15 +2283,16 @@ Amended(3) by Proposal 4096 (Elysion), Jan. 15 2001
 
 ----------------------------------------------------------------------
 
-Rule 1955/5 (Power=1)
+Rule 1955/6 (Power=1)
 The Grand Warden of the Oligarchy
 
       The Grand Warden of the Oligarchy (GWotO) is an office; its
       holder is recordkeepor of oligarchs and is responsible for
       conducting auctions for positions in the Oligarchy.
 
-      The GWotO's Weekly Report shall include a list of all oligarchs
-      identifying which, if any, are elder oligarchs.
+      The GWotO's Weekly Report shall include a list of all oligarchs,
+      the identity of the Speaker, and the date of the next quarterly
+      Speaker transition.
 
       The GWotO shall have a budget containing the Oligarchy Auction
       Rate, which is a positive integer less than 5.  The GWotO may
@@ -2322,10 +2306,11 @@ Amended(2) by Proposal 01-005 (Steve), Feb. 2 2001
 Amended(3) by Proposal 4142 (Murphy), Apr. 15 2001
 Amended(4) by Proposal 4221 (Steve), 10 October 2001
 Amended(5) by Proposal 4250 (harvel), 19 February 2002
+Amended(6) by Proposal 4259 (root), 22 March 2002
 
 ----------------------------------------------------------------------
 
-Rule 1975/2 (Power=1)
+Rule 1975/3 (Power=1)
 The Assistant Director of Personnel
 
       The Assistant Director of Personnel (ADoP) is an office; its
@@ -2345,12 +2330,13 @@ The Assistant Director of Personnel
 
       (d) for each office, the date on which the term of service for
           that office ends, or an indication that the office is held
-          in perpetuity; and
+          in perpetuity.
 
 History:
 Created by Proposal 4142 (Murphy), Apr. 15 2001
 Amended(1) by Proposal 4250 (harvel), 19 February 2002
 Amended(2) by Proposal 4259 (root), 21 February 2002
+Amended(3) by Proposal 4267 (root), 22 March 2002
 
 ----------------------------------------------------------------------
 
@@ -2493,7 +2479,7 @@ Eligible Oligarchs
           (1) e is On Hold;
           (2) e has three or more Blots;
           (3) e is the Speaker;
-	  (4) e is the Electee to the Office of Speaker-Elect; or
+          (4) e is the Electee to the Office of Speaker-Elect; or
           (5) e is the Grand Warden of the Oligarchy.
 
       (b) If an Oligarch becomes ineligible to be an Oligarch, the
@@ -2559,17 +2545,20 @@ Amended(7) by Proposal 4221 (Steve), 10 October 2001
 
 ----------------------------------------------------------------------
 
-Rule 2010/0 (Power=2)
+Rule 2010/1 (Power=2)
 Oligarchy Upkeep
 
-      As soon as possible after the beginning of each month, the GWotO
-      shall bill each non-Elder Oligarch 0.1 VEs. The GWotO shall
-      remove from the Oligarchy any Oligarch who does not pay a debt
-      resulting from this Rule within 7 days of the announcement of
-      such a debt.
+      (a) As soon as possible after the beginning of each month, the
+          GWotO shall bill each non-Elder Oligarch 0.1 VEs.
+
+      (b) If an Oligarch does not pay eir Oligarchy Upkeep within a
+          week of the GWotO's announcement of the debt, then the GWotO
+          shall forgive the Upkeep debt, and remove the Oligarch from
+          the Oligarchy.
 
 History:
 Created by Proposal 4221 (Steve), 10 October 2001
+Amended(1) by Proposal 4268 (Steve), 22 March 2002
 
 ----------------------------------------------------------------------
 
@@ -2857,9 +2846,9 @@ Contested Proposals
           other changes to the game state.
 
       (b) Any Player may make a null Proposal Distributable without
-	  payment of the usual Fee, provided that no other null
-	  Proposal in the current Nomic Month has been made
-	  Distributable under this provision.
+          payment of the usual Fee, provided that no other null
+          Proposal in the current Nomic Month has been made
+          Distributable under this provision.
 
       (c) The first null Proposal to be distributed in each Nomic
           Month is a Contested Proposal.
@@ -2867,15 +2856,15 @@ Contested Proposals
       (d) A Contested Proposal is Democratic.
 
       (e) Notwithstanding the prevailing Mode of Voting on Proposals,
-	  voting on a Contested Proposal is always Unrestricted. This
-	  Rule takes precedence over Rules that determine the
-	  permissible methods for casting votes on Proposals.
+          voting on a Contested Proposal is always Unrestricted. This
+          Rule takes precedence over Rules that determine the
+          permissible methods for casting votes on Proposals.
 
       (f) If a Contested Proposal fails Quorum, no Points are Awarded.
 
       (g) If a Contested Proposal achieves Quorum, but fails, each
-	  Player who voted against the Proposal and did not vote for
-	  it may be Awarded 10 Points.
+          Player who voted against the Proposal and did not vote for
+          it may be Awarded 10 Points.
 
       (h) If a Contested Proposal is adopted, each Player who voted
           for the Proposal and did not vote against it may be Awarded
@@ -3576,23 +3565,23 @@ Rule 955/6 (Power=3)
 Votes Required to Adopt a Proposal
 
       (a) When the Voting Period for a Proposal has ended, the
-	  uncancelled votes which have been legally cast shall be
-	  counted by the Assessor. The Proposal shall then be assigned
-	  a Voting Index, as follows: if the Proposal received no
-	  votes against, and at least one vote for, the Voting Index
-	  shall be Unanimity; if there are no votes for, the Voting
-	  Index shall be zero; in all other cases, the Voting Index
-	  shall be the number of votes for divided by the number of
-	  votes against.
+          uncancelled votes which have been legally cast shall be
+          counted by the Assessor. The Proposal shall then be assigned
+          a Voting Index, as follows: if the Proposal received no
+          votes against, and at least one vote for, the Voting Index
+          shall be Unanimity; if there are no votes for, the Voting
+          Index shall be zero; in all other cases, the Voting Index
+          shall be the number of votes for divided by the number of
+          votes against.
 
       (b) If the Voting Index is greater than the Adoption Index for
-	  the Proposal (or if both equal Unanimity), and if Quorum for
-	  the Proposal is achieved, then that Proposal is adopted.
-	  Otherwise, it fails.
+          the Proposal (or if both equal Unanimity), and if Quorum for
+          the Proposal is achieved, then that Proposal is adopted.
+          Otherwise, it fails.
 
       (c) A Proposal may not have its Voting Index set except as
-	  described in this Rule.  A Proposal cannot be adopted except
-	  as described in this Rule.
+          described in this Rule.  A Proposal cannot be adopted except
+          as described in this Rule.
 
 History:
 Initial Mutable Rule 209, Jun. 30 1993
@@ -7617,33 +7606,33 @@ Rule 2012/0 (Power=1)
 Single-Bid Auctions
 
       (a) There is a type of Auction called a Single-Bid Auction. The
-	  procedure for conducting a Single-Bid Auction is the same as
-	  that used in the Default Auction Procedure, with the following
-	  additions and exceptions:
+          procedure for conducting a Single-Bid Auction is the same as
+          that used in the Default Auction Procedure, with the
+          following additions and exceptions:
 
-	  (1) Bid Inflation Factor: As part of any correct and legal
-	      announcement that a Single-Bid Auction is commencing,
-	      the Auctioneer must announce the value of the Bid
-	      Inflation Factor for the Auction, a real number between
-	      0 and 1 inclusive.
+          (1) Bid Inflation Factor: As part of any correct and legal
+              announcement that a Single-Bid Auction is commencing,
+              the Auctioneer must announce the value of the Bid
+              Inflation Factor for the Auction, a real number between
+              0 and 1 inclusive.
 
-	  (2) Making Bids: Each Player eligible to bid in the Auction
-	      is permitted to make only one bid, called the initial
-	      Bid.  Any bids made by a Player after eir initial Bid in
-	      the Auction are invalid. A Player who cancels eir bid is
-	      ineligible to make further bids in the Auction. All Bids
-	      must be made publically.
+          (2) Making Bids: Each Player eligible to bid in the Auction
+              is permitted to make only one bid, called the initial
+              Bid.  Any bids made by a Player after eir initial Bid in
+              the Auction are invalid. A Player who cancels eir bid is
+              ineligible to make further bids in the Auction. All Bids
+              must be made publically.
 
-	  (3) Value of Bids: at each midnight GMT during the Auction,
-	      the value of each valid, uncancelled Bid remaining in
-	      the Auction is increased by an amount equal to the Bid
-	      Inflation Factor multiplied by the initial Bid.
+          (3) Value of Bids: at each midnight GMT during the Auction,
+              the value of each valid, uncancelled Bid remaining in
+              the Auction is increased by an amount equal to the Bid
+              Inflation Factor multiplied by the initial Bid.
 
-	  (4) Final Auction Price: for the purposes of determining the
-	      Winner(s) of the Auction, the value of each Bid as
-	      calculated in (3) above is used. However, the debt
-	      incurred by a Winner of the Auction is equal to eir
-	      initial Bid.
+          (4) Final Auction Price: for the purposes of determining the
+              Winner(s) of the Auction, the value of each Bid as
+              calculated in (3) above is used. However, the debt
+              incurred by a Winner of the Auction is equal to eir
+              initial Bid.
 
 History:
 Created by Proposal 4251 (Steve), 19 February 2002
@@ -8460,7 +8449,7 @@ Indulgences and Blots
   This Category includes Rules concerning Indulgences and Blots.
 ----------------------------------------------------------------------
 
-Rule 1377/15 (Power=1)
+Rule 1377/16 (Power=1)
 The Herald
 
       The Herald is an office; its holder is recordkeepor of
@@ -8468,8 +8457,7 @@ The Herald
 
       The Herald's Report shall include the following:
 
-        (i)  The number of Blots staining the records of each Player
-             and Fugitive from Justice.
+        (i)  The Stain of each Player and Fugitive from Justice.
 
        (ii)  A list of each Patent Title with Historical Significance
              that at least one person Bears and that is not a Degree,
@@ -8495,44 +8483,16 @@ Amended(12) by Proposal 4002 (harvel), May 8 2000
 Amended(13) by Proposal 4110 (Ziggy), Feb. 13 2001
 Amended(14) by Proposal 4124 (Elysion), Mar. 28 2001
 Amended(15) by Proposal 4250 (harvel), 19 February 2002
+Amended(16) by Proposal 4272 (Murphy), 22 March 2002
 
 ----------------------------------------------------------------------
 
-Rule 1435/15 (Power=1)
-Definition of Indulgences, Blots and Immaculate
+Rule 1435/16 (Power=1)
+Indulgences
 
       Indulgences are a Bank Currency. The Minimum Unit Quantity (MUQ)
       of Indulgences is 0.001.  The Recordkeepor for Indulgences is
       the Herald.
-
-      A Blot is a stain on a Player's record, recorded by the Herald.
-
-      Whenever the Rules state that a Player gains or is assessed some
-      number of Blots, and specify a method of reporting that gain or
-      assessment to the Herald, then, as soon as possible after
-      receiving such a notification, the Herald shall record an
-      increase of that amount (or, if the affected Player is Unready,
-      of one half (rounded to the nearest integer) of that amount) in
-      the number of Blots staining the affected Player.
-
-      Blots are expunged from a Player's record when:
-      (1) an entity transfers to the Bank some number of Indulgences,
-          specifying in the Notice of Transfer that the transfer is
-          for the purpose of expunging the Blots of some Player; a
-          number of Blots equal to the number of Indulgences
-          transferred are expunged from the Player specified, or all
-          of that Player's Blots if more Indulgences are transferred
-          than that Player has (and the excess indulgences returned
-          to the transferor); or
-      (2) the Rules otherwise establish some method by which Blots
-          are to be expunged, provided that such method must include
-          a requirement of notice to the Herald of the expungement
-          and such notice is actually sent to the Herald.
-
-      A player with zero Blots staining eir record is said to be
-      Immaculate.
-
-      Not being Immaculate is a Win-Preventing Condition.
 
 History:
 Created by Proposal 1457, Mar. 1 1995
@@ -8551,29 +8511,77 @@ Amended(12) by Proposal 4018 (Kelly), Jun. 21 2000
 Amended(13) by Proposal 4102 (Murphy), Jan. 15 2001
 Amended(14) by Proposal 4155 (harvel), 18 May 2001
 Amended(15) by Proposal 4203 (neil), 28 August 2001
+Amended(16) by Proposal 4272 (Murhpy), 22 March 2002
 
 ----------------------------------------------------------------------
 
-Rule 1962/1 (Power=1)
-Win by Blots
+Rule 2017/0 (Power=1)
+Blots
+
+      A entity's Stain is a measure of that entity's cleanliness,
+      measured in Blots.  The Stain of each entity is at all times a
+      non-negative number.
+
+      If the Rules state that an entity gains, is assessed, or is
+      penalised some number of Blots, then, as soon as possible after
+      the Herald is informed of the change, e shall record an increase
+      of that amount in the entity's Stain.  (If the entity was an
+      Unready Player at the time of the change, then the Herald shall
+      instead record an increase of half that amount.)
+
+      If the Rules state that some number of a entity's Blots are
+      expunged, then, as soon as possible after the Herald is informed
+      of the change, e shall record a decrease of that amount in the
+      entity's Stain.  (If this would result in a negative Stain, then
+      it instead results in a Stain of zero.)
+
+History:
+Created by Proposal 4272 (Murphy), 22 March 2002
+
+----------------------------------------------------------------------
+
+Rule 2018/0 (Power=1)
+Expunging Blots with Indulgences
+
+      When an entity transfers an amount of Indulgences to the Bank,
+      and specifies in the Notice of Transfer that the transfer is for
+      the purpose of expunging the Blots of a specified entity, then
+      an equal amount of the entity's Blots are expunged.  (If the
+      amount of the transfer exceeds the entity's Stain at the time of
+      the transfer, then all of the entity's Blots are expunged, and
+      the Bank incurs an Indulgence debt to the transferor equal to
+      the amount of the original transfer minus the entity's previous
+      Stain.)
+
+History:
+Created by Proposal 4272 (Murphy), 22 March 2002
+
+----------------------------------------------------------------------
+
+Rule 1962/2 (Power=1)
+Immaculate Players
+
+      An Immaculate Player is a Player whose Stain is zero.
+
+      Not being Immaculate is a Win-Preventing Condition.
 
       Being the only Immaculate Player is a Win Condition.  Upon the
       report of such a Win, the Herald shall expunge N Blots per
-      Player, where N is the number of Blots on the
-      Player(s) with the least nonzero number of Blots.
+      Player, where N is the Stain of the Player(s) with the lowest
+      non-zero Stain.
 
 History:
 Created by Proposal 4102 (Murphy), Jan. 15 2001
 Amended(1) by Proposal 4110 (Ziggy), Feb. 13 2001
+Amended(2) by Proposal 4272 (Murphy), 22 March 2002
 
 ----------------------------------------------------------------------
 
-Rule 1712/13 (Power=1)
+Rule 1712/14 (Power=1)
 Distribution of Indulgences
 
       The Ideal Indulgence Circulation Level (IICL) is the number of
-      registered Players, plus the total number of Blots held by
-      Players.
+      registered Players, plus the total Stain of all Players.
 
       The Actual Indulgence Circulation Level (AICL) is the total
       number of Indulgences owned by entities other than the Bank,
@@ -8625,13 +8633,14 @@ Amended(10) by Proposal 4162 (Elysion), 11 June 2001
 Amended(11) by Proposal 4188 (Goethe), 18 July 2001
 Amended(12) by Proposal 4203 (neil), 28 August 2001
 Amended(13) by Proposal 4249 (Murphy), 19 February 2002
+Amended(14) by Proposal 4272 (Murphy), 22 March 2002
 
 ----------------------------------------------------------------------
 
-Rule 1714/7 (Power=1)
+Rule 1714/8 (Power=1)
 Lawlessness
 
-      A Player is Lawless if more than 20 Blots stain eir record.
+      A Lawless Player is a Player with more than 20 Blots.
 
       Any Player may at any time publicly allege that another Player
       is Lawless.  If the allegation is incorrect, the Player who made
@@ -8668,10 +8677,11 @@ Amended(5) by Proposal 3901 (Schneidster), Sep. 6 1999
 Amended(6) by Proposal 3990, "Harsher Blot Penalties", (Elysion),
   Mar. 30 2000
 Amended(7) by Proposal 4136 (harvel), Apr. 5 2001
+Amended(8) by Proposal 4272 (Murphy), 22 March 2002
 
 ----------------------------------------------------------------------
 
-Rule 1747/4 (Power=1)
+Rule 1747/5 (Power=1)
 Pardoning Lawlessness
 
       The Clerk of the Courts has the power to Pardon Fugitives from
@@ -8683,10 +8693,10 @@ Pardoning Lawlessness
       publicly announcing e is doing so. Then the following events
       shall occur:
 
-         i) The Clerk of the Courts shall expunge as many of the Blots
-            staining the Fugitive's record as required to reduce the
-            number of Blots to one less than the threshold for
-            Lawlessness and notify the Herald of this action.
+         i) The Clerk of the Courts shall expunge as many of the
+            Fugitive's Blots as required to reduce eir Stain to one
+            less than the threshold for Lawlessness, and notify the
+            Herald of this action.
 
         ii) After the above step has been completed, the Fugitive may
             reregister as a Player.
@@ -8709,6 +8719,7 @@ Amended(1) by Proposal 3823 (Oerjan), Jan. 21 1999
 Amended(2) by Proposal 3931 (Crito), Oct. 17 1999
 Amended(3) by Proposal 4038 (Oerjan), Aug. 7 2000
 Amended(4) by Proposal 4147 (Wes), 13 May 2001
+Amended(5) by Proposal 4272 (Murphy), 22 March 2002
 
 ----------------------------------------------------------------------
 
@@ -8747,22 +8758,17 @@ Amended(8) by Proposal 3950 (harvel), Dec. 8 1999
 
 ----------------------------------------------------------------------
 
-Rule 1437/5 (Power=1)
+Rule 1437/6 (Power=1)
 Fugitives from Justice
 
-      When a Player is deregistered from the game while not
-      Immaculate, e becomes a Fugitive from Justice.  The Herald
-      shall continue to keep a record of the number Blots staining
-      each Fugitive from Justice.
+      When a Player deregisters or is deregistered, e keeps eir Stain
+      (though it may be modified by other Rules).  A non-Player with a
+      non-zero Stain is known as a Fugitive from Justice.
 
-      At the beginning of each month, the Herald shall halve the
-      number of Blots staining each Fugitive of Justice, rounding
-      down; but no Fugitive from Justice shall have eir number of
-      Blots reduced to less than one by this method.
-
-      When a Fugitive from Justice reregisters, e ceases to be a
-      Fugitive from Justice.  The act of reregistration causes
-      no change in eir number of Blots.
+      At the beginning of the month, the Herald shall expunge half the
+      Blots of each Fugitive from Justice; however, no Fugitive from
+      Justice shall have eir Stain reduced to less than one by this
+      method.
 
 History:
 Created by Proposal 1458, Mar. 1 1995
@@ -8771,6 +8777,7 @@ Amended(2) by Proposal 3476 (Oerjan), May 11 1997, substantial
 Amended(3) by Proposal 3533 (General Chaos), Jul. 15 1997, substantial
 Amended(4) by Proposal 3823 (Oerjan), Jan. 21 1999
 Amended(5) by Proposal 3901 (Schneidster), Sep. 6 1999
+Amended(6) by Proposal 4272 (Murphy), 22 March 2002
 
 ----------------------------------------------------------------------
 
