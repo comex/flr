@@ -21,15 +21,15 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 305 Rules:
+There are currently 306 Rules:
     1 with Power=4
    19 with Power=3
    36 with Power=2
-  249 with Power=1
+  250 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2030
-Highest Rule Number assigned so far: 2030
+Highest current Rule Number:         2031
+Highest Rule Number assigned so far: 2031
 
 ======================================================================
 Table of Contents:
@@ -7835,7 +7835,7 @@ Amended(7) by Proposal 4250 (harvel), 19 February 2002
 
 ----------------------------------------------------------------------
 
-Rule 1910/4 (Power=1)
+Rule 1910/5 (Power=1)
 Stems
 
       Stems are a Bank Currency.  The MUQ of Stems is 1.  The
@@ -7850,7 +7850,10 @@ Stems
           Dissolute; or
       (3) the transferor is an Organization, and the Stems to be
           transferred had not been held continuously by the
-          Organization for one week.
+          Organization for one week;
+      (4) either the transferor or the transferee is a Money Grubbing
+          Contest, and the regulations of the Contest(s) involved in
+          the transfer specifically permit the transfer.
 
       All other transfers of Stems are prohibited.
 
@@ -7860,6 +7863,7 @@ Amended(1) by Proposal 3940 (Blob), Nov. 15 1999
 Amended(2) by Proposal 4018 (Kelly), Jun. 21 2000
 Amended(3) by Proposal 535[2001] (Elysion), Feb. 2 2001
 Amended(4) by Proposal 4211 (harvel), 10 September 2001
+Amended(5) by Proposal 4337 (Sir Toby), 30 June 2002
 
 ----------------------------------------------------------------------
 
@@ -9501,6 +9505,20 @@ History:
 Created by Proposal 4191 (Goethe), 18 July 2001
 
 ----------------------------------------------------------------------
+
+Rule 2031/0 (Power=1)
+Money Grubbing Contests
+
+      A Contest may be a Money Grubbing Contest if its ACO
+      specifically states that it is a Money Grubbing Contest. A
+      Player may not be the Contestsmaster of more than one Money
+      Grubbing Contest in a single Nomic month.
+
+History:
+Created by Proposal 4337 (Sir Toby), 30 June 2002
+
+----------------------------------------------------------------------
+
 
 ======================================================================
 The Land of Arcadia
