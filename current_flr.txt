@@ -1138,15 +1138,16 @@ Amended(5) by Proposal 4011 (Wes), Jun. 1 2000
 
 ----------------------------------------------------------------------
 
-Rule 1042/18 (Power=1)
+Rule 1042/19 (Power=1)
 Deregistration Due to Silence
 
       (a) Each player is always noisy, quiet, or silent, but never
           more than one of these. Whenever a player registers or posts
           to a public forum, that player is noisy.
 
-      (b) A player who has not quietened another player in the past 24
-          hours may do so by publically identifying the player and
+      (b) A player who has not quietened another active, noisy player
+          in the past 24 hours may cause another active, noisy player
+          to become quiet by publically identifying the player and
           stating that e causes that player to become quiet.
 
       (c) If a player has been quiet continuously for one month, or
@@ -1185,6 +1186,7 @@ Amended(15) by Proposal 4154 (harvel), 18 May 2001
 Amended(16) by Proposal 4211 (harvel), 10 September 2001
 Amended(17) by Proposal 4278 (harvel), 3 April 2002
 Amended(18) by Proposal 4407 (Steve), 30 October 2002
+Amneded(19) by Proposal 4424 (Steve), 16 December 2002
 
 ----------------------------------------------------------------------
 
@@ -5082,39 +5084,28 @@ Amended(3) by Proposal 4298 (Murphy), 17 May 2002
 
 ----------------------------------------------------------------------
 
-Rule 698/10 (Power=1)
+Rule 698/11 (Power=1)
 Always an Eligible Judge
 
-      Each Active Player is eligible to Judge a given CFJ, unless a
-      Rule specifically makes em ineligible.  Non-active Players are
-      ineligible to Judge CFJs.
+      (a) Each active player is eligible to judge a given CFJ, unless
+          a rule specifically makes em ineligible. Inactive players
+          are ineligible to judge CFJs.
 
-      If the Clerk of the Courts is required to select a Judge, but -
-      after taking all other Rules affecting eligibility into account
-      - no Player is eligible to Judge that CFJ, then:
+      (b) If the Clerk of the Courts is required to select a Judge,
+          but after taking all other rules affecting eligibility into
+          account, no player is eligible to judge that CFJ, then:
 
-        a) All Active non-Barred Players become eligible to Judge that
-           CFJ.
+          (1) All active non-barred players become eligible to judge
+              that CFJ.
+          (2) If there is still no player eligible to judge, then all
+              active barred players, other than the caller emself,
+              become eligible to judge that CFJ.
+          (3) If there is still no eligible Judge, then the game is in
+              serious trouble. My usual advice in such situations is
+              to panic, and run screaming for the hills.
 
-        b) If there is still no eligible Judge, then all non-frozen
-           non-Barred Players become eligible to Judge that CFJ.
-
-        c) If there is still no eligible Judge, then all non-frozen
-           Players Barred by the Caller become eligible to Judge that
-           CFJ.
-
-        d) If there is still no eligible Judge, then all non-frozen
-           Barred Players, other than the Caller emself, become
-           eligible to Judge that CFJ.
-
-        e) If there is still no eligible Judge, then the Caller has
-           happened upon a generational ship whose members are in
-           suspended animation.  The Rules suggest that the Caller try
-           calling when we arrive at our destination and thaw out.
-
-      This Rule can require Inactive Players to perform actions.
-
-      This Rule takes precedence over all other Rules.
+      (c) This Rule takes precedence over other Rules concerning who
+          is and is not eligible to judge CFJs.
 
 History:
 Created by Proposal 482 (Alexx), Sep. 30 1993
@@ -5129,6 +5120,7 @@ Amended(7) by Proposal 4178 (root), 7 July 2001
 Amended(8) by Proposal 4278 (harvel), 3 April 2002
 Amended(9) by Proposal 4298 (Murphy), 17 May 2002
 Amended(10) by Proposal 4385 (Steve), 17 September 2002
+Amended(11) by Proposal 4424 (Steve), 16 December 2002
 
 ----------------------------------------------------------------------
 
@@ -8577,43 +8569,54 @@ Amended(3) by Proposal 4375 (RedKnight), 6 September 2002
 
 ----------------------------------------------------------------------
 
-Rule 1712/17 (Power=1)
+Rule 1712/18 (Power=1)
 Distribution of Indulgences
 
-      The Ideal Indulgence Circulation Level (IICL) is the number of
-      registered Players, plus the total Stain of all Players.
+      (a) The Ideal Indulgence Circulation Level (IICL) is equal to
+          the number of Players plus the total Stain of all Players.
 
-      The Actual Indulgence Circulation Level (AICL) is the total
-      number of Indulgences owned by entities other than the Bank,
-      augmented by the total number of Indulgences owned by the Bank
-      which have been auctioned off to Winning Bidders in prior
-      Indulgence Auctions but not yet paid for.  The Monthly Bank
-      Indulgence Gain (MBIG) is the number of Indulgences transferred
-      from other entities to the Bank during a given Agoran Month,
-      less the number of Indulgences transferred from the Bank to
-      other entities during that same Agoran Month.
+      (b) The Actual Indulgence Circulation Level (AICL) is the total
+          number of Indulgences owned by entities other than the Bank,
+          augmented by the total number of Indulgences owned by the
+          Bank which either:
 
-      As soon as possible after the start of each month, the Herald
-      shall calculate the Indulgence Differential, which is equal to
-      the IICL minus the AICL, rounded down to the nearest integer.
-      To calculate the Indulgence Differential, the Herald shall
-      determine the number of Blots and the number of Indulgences
-      owned as published in the most recent Herald's Report; other
-      values in the formula shall be determined as of the time of the
-      calculation.
+          (1) are already being Auctioned by the Bank in prior
+              Indulgence Auctions that have not yet concluded; or
+          (2) have been auctioned in prior Indulgence Auctions that
+              have concluded, but where the debts arising from Winning
+              Bids have neither been paid nor defaulted upon; or
+          (3) have been Auctioned in prior Indulgence Auctions that
+              have concluded, and the debts arising from the Winning
+              Bids have been paid, but the Indulgences have not been
+              transferred to the Winning Bidders.
 
-      If the Indulgence Differential is greater than zero, then the
-      Herald shall, as soon as possible after the start of that month,
-      auction a number of Indulgences equal to the Indulgence
-      Differential; if the Indulgence Differential is not greater than
-      zero, the Herald shall auction a whole number of Indulgences
-      equal to or less than one half the MBIG for the preceeding
-      month, with a minimum of 0 Indulgences.
+      (c) The Indulgence Surplus is the difference between the IICL
+          and the AICL; if the AICL is greater than the IICL, the
+          Indulgence Surplus is zero.
 
-      In an Indulgence Auction held in accordance with this rule, the
-      items to be auctioned are individual Indulgences, and thus the
-      number of items is equal to the number of Indulgences to be
-      Auctioned.  The Auction shall be conducted in Stems.
+      (d) If the Indulgence Surplus is positive at the beginning of
+          the month, the Herald shall as soon as possible auction off
+          the surplus Indulgences. The items to be auctioned are
+          individual Indulgences; the number of items is equal to the
+          Indulgence Surplus, rounded down to the nearest integer.
+          The Auctioneer shall be the Herald, and the Auction shall be
+          conducted in Stems.
+
+      (e) The Monthly Bank Indulgence Gain (MBIG) is the number of
+          Indulgences transferred from other entities to the Bank
+          during a given Nomic Month, less the number of Indulgences
+          transferred from the Bank to other entities during that same
+          Nomic Month.
+
+      (f) If the Indulgence Surplus is zero or negative at the
+          beginning of the month, the Herald may still conduct an
+          Indulgence auction, but only if e initiates it within one
+          week after the beginning of the month. The items to be
+          auctioned are individual Indulgences; the number of items is
+          chosen by the Herald, with a minimum of 1 and a maximum of
+          half the MBIG, rounded down to the nearest integer. The
+          Auctioneer shall be the Herald, and the Auction shall be
+          conducted in Stems.
 
 History:
 Created by Proposal 3476 (Oerjan), May 11 1997
@@ -8634,6 +8637,7 @@ Amended(14) by Proposal 4272 (Murphy), 22 March 2002
 Amended(15) by Proposal 4281 (Goethe), 16 April 2002
 Amended(16) by Proposal 4356 (Steve), 7 August 2002
 Amended(17) by Proposal 4398 (harvel), 23 October 2002
+Amended(18) by Proposal 4423 (Murphy), 16 December 2002
 
 ----------------------------------------------------------------------
 
