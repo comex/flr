@@ -684,27 +684,33 @@ Amended(15) by Proposal 4278 (harvel), 3 April 2002
 
 ----------------------------------------------------------------------
 
-Rule 1079/2 (Power=1)
+Rule 1079/3 (Power=1)
 Definition of "Random"
 
-      When a rule requires a random choice, that choice shall be made
-      among all the possible choices with equal probability.
+      (a) When a Rule requires a random choice to be made, then the
+          choice shall be made using whatever probability distribution
+          among the possible outcomes the Rules provide for making
+          that choice. If the Rules do not specify a probability
+          distribution, then a uniform probability distribution shall
+          be used.
 
-      Because of the impossibility of finding a truly random test,
-      "equal", for the purposes of the above statement, shall mean
-      "reasonably close to equal".  It is up to common sense to
-      determine what is reasonably close to equal; however, the burden
-      of proof of a method's randomness lies with the Player who used
-      the method.
+      (b) Where the Rules do not indicate who is required to make a
+          particular random choice, it shall be made by the Speaker.
 
-      The probability of a Platonic solid or coin, which is not
-      specially weighted, falling on any given face is, for the
-      purposes of this Rule, close enough to equal to satisfy the
-      above requirement.
+      (c) When making a random choice as required by the Rules, a
+          Player may rely on any physical or computational process
+          whose probability distribution among the possible outcomes
+          is reasonably close to that required by the Rules.
 
-      The Speaker shall make all random determinations required by the
-      Rules except when the Rules specify another party to make the
-      determination.
+      (d) For the purposes of this Rule, tossing a platonic solid or
+          coin that is not specially weighted has a probability
+          distribution among the possible outcomes that is reasonably
+          close to uniform.
+
+      (e) For other methods, the Courts are the final arbiter of
+          whether a method's probability distribution among the
+          possible outcomes is reasonably close to that required by
+          the Rules.
 
 [CFJ 790 contains a detailed discussion on what does and does not
  qualify as a random choice.]
@@ -712,8 +718,8 @@ Definition of "Random"
 History:
 Created by Proposal 1079, ca. Oct. 11 1994
 Amended(1) by Proposal 1648, Aug. 6 1995
-Amended(2) by Proposal 2806, Feb. 8 1997, substantial
-  (unattributed)
+Amended(2) by Proposal 2806, Feb. 8 1997, substantial (unattributed)
+Amended(3) by Proposal 4368 (Steve), 29 August 2002
 
 ----------------------------------------------------------------------
 
@@ -6178,7 +6184,7 @@ Amended(6) by Proposal 3704 (General Chaos), Mar. 19 1998
 
 ----------------------------------------------------------------------
 
-Rule 1812/4 (Power=1)
+Rule 1812/5 (Power=1)
 Notices of Infraction
 
       If an entity (hereafter the Defendant) commits an Infraction,
@@ -6190,7 +6196,7 @@ Notices of Infraction
         b) The identity of the Defendant.
         c) The Rule(s) defining that action or inaction as an
            Infraction.
-        d) The action of inaction by which the Defendant committed the
+        d) The action or inaction by which the Defendant committed the
            Infraction.
         e) Whatever Orders are sufficient to impose the penalty for
            the Infraction.
@@ -6206,6 +6212,7 @@ Amended(1) by Proposal 3934 (Wes), Oct. 24 1999
 Amended(2) by Proposal 4099 (Murphy), Jan. 15 2001
 Amended(3) by Proposal 4147 (Wes), 13 May 2001
 Amended(4) by Proposal 4152 (Murphy), 13 May 2001
+Amended(5) by Proposal 4369 (RedKnight), 29 August 2002
 
 ----------------------------------------------------------------------
 
