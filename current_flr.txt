@@ -29,7 +29,7 @@ There are currently 272 Rules:
 
 Lowest current Rule Number:           101
 Highest current Rule Number:         2071
-Highest Rule Number assigned so far: 2071
+Highest Rule Number assigned so far: 2072
 
 ======================================================================
 Table of Contents:
@@ -4903,7 +4903,7 @@ Amended(7) by Proposal 4398 (harvel), 23 October 2002
 
 ----------------------------------------------------------------------
 
-Rule 2024/0 (Power=1)
+Rule 2024/1 (Power=1)
 Linked Statements
 
       Linked CFJs are multiple Calls for Judgement submitted in a
@@ -4931,8 +4931,15 @@ Linked Statements
       case, those CFJs are no longer Linked to any of the non-remanded
       CFJs.
 
+      If a Trial Judge is recused from a Linked CFJ, then it ceases to
+      be Linked to any other CFJ.  If a Trial Judge is recused from
+      two or more Linked CFJs in a single message, then those CFJs
+      continue to be Linked to each other, but not to any other CFJs
+      to which the Judge is still assigned.
+
 History:
 Created by Proposal 4298 (Murphy), 17 May 2002
+Amended(1) by Proposal 4579 (Murphy), 15 June 2004
 
 ----------------------------------------------------------------------
 
@@ -5035,14 +5042,19 @@ Amended(4) by Proposal 4563 (OscarMeyr), 6 April 2004
 
 ----------------------------------------------------------------------
 
-Rule 2035/1 (Power=2)
-The Unready are Ineligible
+Rule 2035/2 (Power=2)
+The Unready and Unnoisy are Ineligible
 
-      Whenever an unready player is unturned, e becomes turned.
+      While a player is unready, e is ineligible to be Judge of any
+      CFJ.
+
+      While a player is not noisy, e is ineligible to become Judge of
+      any CFJ.
 
 History:
 Created by Proposal 4397 (RedKnight), 17 October 2002
 Amended(1) by Proposal 4527 (Murphy), 16 September 2003
+Amended(2) by Proposal 4579 (Murphy), 15 June 2004
 
 ----------------------------------------------------------------------
 
@@ -5058,7 +5070,7 @@ Created by Proposal 4564 (OscarMeyr), 6 April 2004
 
 ----------------------------------------------------------------------
 
-Rule 2032/1 (Power=1)
+Rule 2032/2 (Power=1)
 Errors in Judge Selection
 
       If the Clerk of the Courts errs in good faith by selecting a
@@ -5071,11 +5083,14 @@ Errors in Judge Selection
 
       then that selection shall stand and the selected Player shall
       become a Judge of that CFJ or Appeal, as if e had been eligible
-      to judge it.
+      to judge it; unless the Clerk of the Courts points out eir error
+      and makes a new selection before the selected Player returns
+      Judgement.
 
 History:
 Created by Proposal 4342 (root), 8 July 2002
 Amended(1) by Proposal 4523 (Murphy), 28 August 2003
+Amended(2) by Proposal 4579 (Murphy), 15 June 2004
 
 ----------------------------------------------------------------------
 
@@ -5733,7 +5748,7 @@ Overturning Judgement
   Judgements, Appellate Orders, and the office of Justiciar.
 ----------------------------------------------------------------------
 
-Rule 911/11 (Power=1)
+Rule 911/12 (Power=1)
 The Board of Appeals
 
       When an Appeal is initiated, a Board of Appeals shall be
@@ -5749,7 +5764,7 @@ The Board of Appeals
         a) The Speaker is selected, if eligible.
         b) The Clerk of the Courts is selected, if eligible.
         c) The Justiciar is selected, if eligible.
-        d) Any remaining positions are filled by random selection by
+        d) Any remaining positions are filled by selection by
            the Clerk of the Courts from all remaining eligible
            Players.
 
@@ -5791,6 +5806,7 @@ Amended(8) by Proposal 3559 (Murphy), Oct. 24 1997, susbtantial
 Amended(9) by Proposal 4213 (Taral), 29 September 2001
 Amended(10) by Proposal 4278 (harvel), 3 April 2002
 Amended(11) by Proposal 4298 (Murphy), 17 May 2002
+Amended(12) by Proposal 4579 (Murphy), 15 June 2004
 
 ----------------------------------------------------------------------
 
