@@ -21,15 +21,15 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 272 Rules:
+There are currently 273 Rules:
     1 with Power=4
    23 with Power=3
    41 with Power=2
-  207 with Power=1
+  208 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2064
-Highest Rule Number assigned so far: 2064
+Highest current Rule Number:         2065
+Highest Rule Number assigned so far: 2065
 
 ======================================================================
 Table of Contents:
@@ -1495,11 +1495,11 @@ Amended(1) by Proposal 4190 (Steve), 18 July 2001
 
 ----------------------------------------------------------------------
 
-Rule 1960/3 (Power=1)
+Rule 1960/4 (Power=1)
 Roles
 
-      Role is a stuck player switch with values null, politician,
-      scribe, and acolyte.
+      Role is a stuck player switch with values null, Acolyte, Patron,
+      Politician, and Scribe.
 
       A player may flip eir role if one of the following is true:
 
@@ -1518,6 +1518,7 @@ Created by Proposal 4085 (Blob), Nov. 16 2000
 Amended(1) by Proposal 4175 (Elysion), 7 July 2001
 Amended(2) by Proposal 4486 (Michael), 24 April 2003
 Amended(3) by Proposal 4523 (Murphy), 28 August 2003
+Amended(4) by Proposal 4561 (Sherlock), 22 March 2004
 
 ----------------------------------------------------------------------
 
@@ -1564,6 +1565,30 @@ Amended(4) by Proposal 4398 (harvel), 23 October 2002
 Amended(5) by Proposal 4401 (Goddess Eris), 23 October 2002
 Amended(6) by Proposal 4486 (Michael), 24 April 2003
 Amended(7) by Proposal 4493 (Steve), 13 May 2003
+
+----------------------------------------------------------------------
+
+Rule 2065/0 (Power=1)
+Role-Based Powers
+
+      For Acolytes, Absolving an entity is a progressive action.
+      Absolving an entity expunges 1 Blot from that entity.
+
+      For Patrons, Donating to a Team is a progressive Action.  The
+      effect of Donating to a Team is to increase that Team's Team
+      Points by 5.
+
+      For Politicians, Debating an Undistributed Proposal is a
+      progressive Action.  The effect of Debating a Proposal is to
+      change its Chamber to one named by the Politician, provided it
+      is legal for that Proposal to be in the named Chamber and the
+      Proposal is not Sane.
+
+      For Scribes, Rubberstamping a Proposal is a progressive action.
+      A Rubberstamped Proposal becomes Distributable.
+
+History:
+Created by Proposal 4561 (Sherlock), 22 March 2004
 
 ----------------------------------------------------------------------
 
@@ -3030,17 +3055,19 @@ Amended(1) by Proposal 4398 (harvel), 23 October 2002
 
 ----------------------------------------------------------------------
 
-Rule 2059/0 (Power=2)
+Rule 2059/1 (Power=2)
 Legality of Bonus Clauses
 
       Advertising is a stuck proposal switch with values none,
       positive, negative.
 
-      A player may pay 2 kudos to flip a proposal's advertising switch
-      from none to another value, or from another value to none.
+      A player may pay 2 kudos to flip the advertising switch of any
+      proposal in the pool from none to another value, or from another
+      value to none.
 
 History:
 Created by Proposal 4537 (Murphy), 16 November 2003
+Amended(1) by Proposal 4562 (root), 22 March 2004
 
 ----------------------------------------------------------------------
 
