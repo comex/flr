@@ -7067,24 +7067,33 @@ Amended(2) by Proposal 3533 (General Chaos), Jul. 15 1997, substantial
 
 ----------------------------------------------------------------------
 
-Rule 1941/0 (Power=1)
+Rule 1941/1 (Power=1)
 Fees
 
       A Fee is a specific quantity of some particular Currency
-      explicitly designated as such by the Rules. To Pay a Fee is
-      to transfer the specified quantity of that particular Currency
-      to the Bank if and only if that transfer is made solely for
-      the purpose of Paying that particular instance of that Fee.
+      explicitly designated as such by the Rules. To Pay a Fee is to
+      transfer the specified quantity of that particular Currency to
+      the Bank if and only if that transfer is made solely for the
+      purpose of Paying that particular instance of that Fee.
 
-      If the Rules specify that a particular action is associated
-      with a Fee, or that a Fee is required for a particular action,
-      then the entity performing the action shall Pay the Fee either
-      before performing said action (but not more than 72 hours
-      beforehand) or in the same email as the action is performed,
-      else the action shall not occur.
+      If the Rules specify that a particular action is associated with
+      a Fee, or that a Fee is required for a particular action, then
+      the entity performing the action shall Pay the Fee either before
+      performing said action (but not more than 72 hours beforehand)
+      or in the same email as the action is performed, else the action
+      shall not occur.
+
+      If, however, at the time of performing the given action, the
+      Location of the entity performing the action is the same as the
+      Location of the Rule which associates or requires a Fee for the
+      given action, and the Player announces this overlap of Location
+      in the same communication in which the action is performed, the
+      action shall occur as permitted by other Rules whether or not
+      the associated Fee is Paid.
 
 History:
 Created by Proposal 4011 (Wes), Jun. 1 2000
+Amended(1) by Proposal 4243 (Goethe), 8 February 2002
 
 ----------------------------------------------------------------------
 
