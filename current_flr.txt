@@ -7950,7 +7950,7 @@ Amended(7) by Proposal 4250 (harvel), 19 February 2002
 
 ----------------------------------------------------------------------
 
-Rule 1910/5 (Power=1)
+Rule 1910/6 (Power=1)
 Stems
 
       Stems are a Bank Currency.  The MUQ of Stems is 1.  The
@@ -7963,9 +7963,7 @@ Stems
       (2) the Stems are to be transferred from a Dissolute to a player
           who has the privilege of Looting the Corpse of that
           Dissolute; or
-      (3) the transferor is an Organization, and the Stems to be
-          transferred had not been held continuously by the
-          Organization for one week;
+      (3) the transferee is a Group;
       (4) either the transferor or the transferee is a Money Grubbing
           Contest, and the regulations of the Contest(s) involved in
           the transfer specifically permit the transfer.
@@ -7979,6 +7977,7 @@ Amended(2) by Proposal 4018 (Kelly), Jun. 21 2000
 Amended(3) by Proposal 535[2001] (Elysion), Feb. 2 2001
 Amended(4) by Proposal 4211 (harvel), 10 September 2001
 Amended(5) by Proposal 4337 (Sir Toby), 30 June 2002
+Amended(6) by Proposal 4386 (Peekee), 25 September 2002
 
 ----------------------------------------------------------------------
 
@@ -9899,14 +9898,14 @@ Amended(6) by Proposal 4373 (Sir Toby), 6 September 2002
 
 ----------------------------------------------------------------------
 
-Rule 2004/2 (Power=1)
+Rule 2004/3 (Power=1)
 Land Auctions
 
       As soon as possible after the tenth day of each Month, the
-      Mapkeepor shall, if the number of units of Land held by players
-      is less than one half the total number of units of Land, auction
-      a number of units of Land not to exceed 10.  The units of Land
-      to be Auctioned are:
+      Mapkeepor shall, if the number of units of Private Land is less
+      than one half the total number of units of Land, auction a
+      number of units of Land not to exceed 10.  The units of Land to
+      be Auctioned are:
         * if there exist at least 10 Units of non-Aether Land in the
           possession of the Land Bureau: any 10 such Units of Land, to
           be chosen by the Mapkeepor;
@@ -9926,6 +9925,7 @@ History:
 Created by Proposal 4210 (neil), 10 September 2001
 Amended(1) by Proposal 4234 (Goethe), 29 November 2001
 Amended(2) by Proposal 4249 (Murphy), 19 February 2002
+Amended(3) by Proposal 4386 (Peekee), 25 September 2002
 
 ----------------------------------------------------------------------
 
@@ -9992,7 +9992,7 @@ Amended(1) by Proposal 4228 (root), 22 November 2001
 
 ----------------------------------------------------------------------
 
-Rule 2022/2 (Power=1)
+Rule 2022/3 (Power=1)
 Sente and Gote
 
       On the fifteenth of each Nomic Month, the following actions
@@ -10018,8 +10018,8 @@ Sente and Gote
 
          (v) the Mapkeepor shall Pay Out:
              (a) an amount of Stems equal to the Minimum Income times
-                 the Basic Officer's Salary to all Players whose
-                 location has Sente;
+                 the Basic Officer's Salary to all Players and Groups
+                 whose location has Sente;
              (b) to the owner of any Land Unit that has Sente and is
                  not owned by the Bank or the Land Bureau:
                      * if the Weather is Plenty, 3 Stems for each 5
@@ -10036,6 +10036,7 @@ History:
 Created by Proposal 4283 (Goethe), 16 April 2002
 Amended(1) by Proposal 4308 (Sir Toby), 28 May 2002
 Amended(2) by Proposal 4367 (Steve), 23 August 2002
+Amended(3) by Proposal 4386 (Peekee), 25 September 2002
 
 ----------------------------------------------------------------------
 
