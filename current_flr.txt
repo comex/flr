@@ -21,15 +21,15 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 270 Rules:
+There are currently 271 Rules:
     1 with Power=4
    23 with Power=3
-   39 with Power=2
-  207 with Power=1
+   41 with Power=2
+  206 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2058
-Highest Rule Number assigned so far: 2058
+Highest current Rule Number:         2060
+Highest Rule Number assigned so far: 2060
 
 ======================================================================
 Table of Contents:
@@ -3025,6 +3025,35 @@ Amended(1) by Proposal 4398 (harvel), 23 October 2002
 
 ----------------------------------------------------------------------
 
+Rule 2059/0 (Power=2)
+Legality of Bonus Clauses
+
+      Advertising is a stuck proposal switch with values none,
+      positive, negative.
+
+      A player may pay 2 kudos to flip a proposal's advertising switch
+      from none to another value, or from another value to none.
+
+History:
+Created by Proposal 4537 (Murphy), 16 November 2003
+
+----------------------------------------------------------------------
+
+Rule 2060/0 (Power=2)
+Guy Fawkes Day
+
+      Any Proposal submitted on the Fifth of November shall become
+      upon delivery Distributable, Democratic, Urgent, and Sane, rules
+      to the contrary nonwithstanding.
+
+      If a Proposal so submitted is subsequently adopted, the Assessor
+      shall award the Proposer the Boon of A Penny.
+
+History:
+Created by Proposal 4539 (Goethe), 16 November 2003
+
+----------------------------------------------------------------------
+
 Rule 1607/11 (Power=1)
 The Promotor
 
@@ -3408,14 +3437,11 @@ Amended(1) by Proposal 4159 (Kelly), 5 June 2001
 
 ----------------------------------------------------------------------
 
-Rule 1933/4 (Power=2)
+Rule 1933/5 (Power=2)
 A Proposal's Chamber
 
-      Every Proposal shall be in (or have) exactly one defined Chamber
-      out of the following possibile Chambers:
-          (A) Ordinary;
-          (B) Democratic;
-          (C) Parliamentary.
+      Chamber is a stuck switch for Proposals with values Ordinary and
+      Democratic.
 
       Rules to the nonwithstanding, a Proposal can never be Ordinary
       if its Adoption Index is two (2) or greater.
@@ -3433,6 +3459,7 @@ Amended(1) by Proposal 3990, "Agora Abhors a Vacuum", (Murphy),
 Amended(2) by Proposal 4018 (Kelly), Jun. 21 2000
 Amended(3) by Proposal 4111 (Elysion), Feb. 20 2001
 Amended(4) by Proposal 4282 (Goethe), 16 April 2002
+Amended(5) by Proposal 4539 (Goethe), 16 November 2003
 
 ----------------------------------------------------------------------
 
@@ -3457,31 +3484,19 @@ Voting Power
               default of zero if the Rules don't specify the Voting
               power on a Democratic Proposal for that entity.
 
-      (c) An entity's Voting Power on a Parliamentary Proposal is as
-          follows:
-            (1) One, if the entity is one of the following:
-                (a)   The First Estate;
-                (b)   The Second Estate;
-                (c)   The Third Estate.
-            (2) Any other entity, zero.
-
-      (d) The value of an entity's Voting Power for any given Chamber
+      (c) The value of an entity's Voting Power for any given Chamber
           at the beginning of each Week shall be in effect for all
           Proposals distributed during that Week. However, if a
           Proposal's Chamber is changed after it has been distributed,
           the Voting Power of each entity for that Proposal is
           redetermined at the time the Chamber is changed.
 
-      (e) An entity may cast as many votes as e wishes on a Proposal,
+      (d) An entity may cast as many votes as e wishes on a Proposal,
           in any combination, up to the limit determined by that
           entity's Voting Power on that Proposal, with the exceptions
           that:
               (1) no Player may vote on an Ordinary Proposal unless e
                   is an Oligarch at the time e casts eir vote.
-              (2) Votes on Parliamentary Proposals shall only be cast
-                  through specific mechanisms indicated by the Rules
-                  for each specific entity with Voting Power on
-                  Parliamentary Proposals.
 
 History:
 Created by Proposal 4032 (t), Jul. 24 2000
@@ -3491,6 +3506,7 @@ Amended(3) by Proposal 4282 (Goethe), 16 April 2002
 Amended(4) by Proposal 4352 (OscarMeyr), 7 August 2002
 Amended(5) by Proposal 4370 (OscarMeyr), 6 September 2002
 Amended(6) by Proposal 4486 (Michael), 24 April 2003
+Amended(7) by Proposal 4539 (Goethe), 16 November 2003
 
 ----------------------------------------------------------------------
 
@@ -3520,42 +3536,6 @@ Amended(7) by Proposal 3937 (Wes), Oct. 31 1999
 Amended(8) by Proposal 3968 (harvel), Feb. 4 2000
 Amended(9) by Proposal 3972 (Peekee), Feb. 14 2000
 Amended(10) by Proposal 4190 (Steve), 18 July 2001
-
-----------------------------------------------------------------------
-
-Rule 2020/2 (Power=1)
-Parliamentary Votes
-
-      (a) The First Estate consists of all Players who are Acolytes,
-          the Second Estate of all Players who are Politicians, and
-          the Third Estate of all Players who are Scribes.
-
-      (b) To count the votes on a parliamentary proposal, the Assessor
-          shall first count as preliminary votes all communications
-          from Players and their Executors that would have been legal
-          votes on the proposal if it had been sane.
-
-      (c) For each Estate, the Assessor shall then use the preliminary
-          votes of the Players in that Estate to determine a voting
-          index for the Estate on the Proposal. If the voting index is
-          greater than or equal to the adoption index of the proposal,
-          then the Estate is deemed to have cast 1 vote FOR the
-          proposal; otherwise, the Estate is deemed to have cast one
-          vote AGAINST the proposal. The Estates are deemed to have
-          cast their votes a moment before the end of the voting
-          period.
-
-      (d) Quorum for parliamentary proposals is determined using
-          preliminary votes, and is calculated as it would be for a
-          democratic proposal.
-
-      (e) Votes cannot be cast on parliamentary proposals except as
-          described in this Rule.
-
-History:
-Created by Proposal 4282 (Goethe), 16 April 2002
-Amended(1) by Proposal 4352 (OscarMeyr), 7 August 2002
-Amended(2) by Proposal 4410 (Steve), 6 November 2002
 
 ----------------------------------------------------------------------
 
