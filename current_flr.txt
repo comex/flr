@@ -2638,7 +2638,7 @@ Amended(5) by Proposal 4555 (Elysion), 22 March 2004
 
 ----------------------------------------------------------------------
 
-Rule 1963/7 (Power=2)
+Rule 1963/8 (Power=2)
 Eligible Oligarchs
 
       (a) A Player is ineligible to be an Oligarch if and only if any
@@ -2647,8 +2647,8 @@ Eligible Oligarchs
           (1) e is not active;
           (2) e has three or more Blots;
           (3) e is the Speaker;
-          (4) e is the Electee to the Office of Speaker-Elect;
-          (5) e is the Grand Warden of the Oligarchy; or
+          (4) e is the Electee to the Office of Speaker-Elect; or
+          (5) e is the Grand Warden of the Oligarchy.
           (6) eir Potency is less than the Potency Threshold and has
               been continuously so for at least five days;
 
@@ -2667,6 +2667,7 @@ Amended(4) by Proposal 4458 (Steve), 3 March 2003
 Amended(5) by Proposal 4486 (Michael), 24 April 2003
 Amended(6) by Proposal 4534 (OscarMeyr), 8 November 2003
 Amended(7) by Proposal 4555 (Elysion), 22 March 2004
+Amended(8) by Proposal 4568 (Maud), 27 April 2004
 
 ----------------------------------------------------------------------
 
