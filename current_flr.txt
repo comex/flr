@@ -3224,7 +3224,7 @@ Amended(1) by Proposal 3736 (Blob), May 3 1998
 ----------------------------------------------------------------------
 
 Rule 2034/1 (Power=3)
-Votes are Protected
+Vote Protection and Cutoff for Challenges
 
       Any Proposal that, as all or part of its effect, would change an
       entity's vote on an Issue for which the voting period has begun
