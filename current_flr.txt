@@ -1564,7 +1564,7 @@ Amended(9) by Proposal 4250 (harvel), 19 February 2002
 
 ----------------------------------------------------------------------
 
-Rule 1686/10 (Power=1)
+Rule 1686/11 (Power=1)
 Official Reports
 
       The Rules may designate certain information to be part of an
@@ -1573,12 +1573,12 @@ Official Reports
       Report.  All information that is part of an Office's Official
       Report shall be maintained by the corresponding officer.
 
-      The rules may specify conditions under which a player is marvy;
-      that player is not marvy unless the rules explicitly state at
+      The rules may specify conditions under which a player is mauve;
+      that player is not mauve unless the rules explicitly state at
       least one such condition and all such conditions are satisfied.
-      As soon as possible after a player becomes marvy, the Speaker
-      shall announce this fact.  The only condition for marviness is
-      membership in the Outer Cabinet.
+      As soon as possible after a player becomes mauve, the Speaker
+      shall announce this fact.  The only condition for mauveness is
+      being nicknamed Blob.
 
       Each officer with a Weekly Report must publish it weekly; each
       officer with a Monthly Report must publish it monthly.  Failure
@@ -1586,9 +1586,9 @@ Official Reports
       officer fails to do so for at least three consecutive reporting
       periods, e may be cited for either Failure to Report or the
       Class 10 Infraction of Dereliction of Duty but not both.  Any
-      officer cited for Derelicition of Duty is immediately retired.
-      The Assistant Director of Personnel and the Speaker may report
-      these Infractions.
+      officer cited for Dereliction of Duty is immediately removed
+      from that office. The Assistant Director of Personnel and the
+      Speaker may report these Infractions.
 
 History:
 Created by Proposal 2839 (Zefram), Mar. 11 1997
@@ -1602,6 +1602,7 @@ Amended(7) by Proposal 4142 (Murphy), Apr. 15 2001
 Amended(8) by Proposal 4147 (Wes), 13 May 2001
 Amended(9) by Proposal 4164 (Murphy), 11 June 2001
 Amended(10) by Proposal 4250 (harvel), 19 February 2002
+Amended(11) by Proposal 4489 (root), 6 May 2003
 
 ----------------------------------------------------------------------
 
@@ -7730,33 +7731,6 @@ Winning a Game
   This Category includes Rules specifying the winner of the Game.
 ----------------------------------------------------------------------
 
-Rule 112/4 (Power=3)
-Ways to Win and Preclusions Thereof
-
-      A Player is eligible to Win the Game while e meets at least one
-      Win Condition, and does not meet any Win-Preventing Conditions.
-
-      Any Player may publish a Notice of Victory that lists all
-      Players eligible to Win the Game, and (for each listed Player)
-      identifies at least one Win Condition met by that Player.  If
-      this information is accurate, then the listed Players Win the
-      Game.
-
-      This is the only way to Win the Game.  If a Player would
-      otherwise Win the Game due to other Rules, then e instead meets
-      a Win Condition for one week (and may Win the Game as described
-      above).
-
-History:
-Initial Immutable Rule 112, Jun. 30 1993
-Mutated from MI=Unanimity to MI=3 by Proposal 1268, Oct. 19 1994
-Amended(1) by Proposal 1451, Mar. 1 1995
-Amended(2) by Proposal 1735, Oct. 15 1995
-Amended(3) by Proposal 3829 (Steve), Feb. 8 1999
-Amended(4) by Proposal 4377 (Murphy), 11 September 2002
-
-----------------------------------------------------------------------
-
 Rule 2013/0 (Power=1)
 Champion's Contests
 
@@ -8890,7 +8864,7 @@ Amended(3) by Proposal 4484 (OscarMeyr), 23 April 2003
 
 ----------------------------------------------------------------------
 
-Rule 1990/2 (Power=1)
+Rule 1990/3 (Power=1)
 Points Contests
 
       A Contest may be a Points Contest if its ACO specifically states
@@ -8898,9 +8872,7 @@ Points Contests
       Contestmaster of more than one Points Contest in a single Agoran
       month.
 
-      PWIN is the number of points required for a Player to achieve a
-      win condition, as defined elsewhere in the Rules.  PPP (Points
-      Per Player) is PWIN divided by twenty.
+      PWIN is 100.  PPP (Points Per Player) is PWIN divided by twenty.
 
       Once during each month that starts while the Contest exists, a
       Points Contest's Contestmaster may post a single valid Notice of
@@ -8930,6 +8902,7 @@ History:
 Created by Proposal 4191 (Goethe), 18 July 2001
 Amended(1) by Proposal 4357 (Sir Toby), 16 August 2002
 Amended(2) by Proposal 4398 (harvel), 23 October 2002
+Amended(3) by Proposal 4492 (Peekee), 6 May 2003
 
 ----------------------------------------------------------------------
 
@@ -8972,15 +8945,33 @@ Created by Proposal 4453 (Sherlock), 22 February 2003
 
 ----------------------------------------------------------------------
 
-Rule 2042/1 (Power=1)
+Rule 2042/2 (Power=1)
 Team Wins
 
       A Team achieves a Team Win when its Team Score reaches 400.
 
       The Scorekeepor shall make a public announcement of the Team Win
-      as soon as possible after the Team Win is achieved.  The
-      Scorekeepor shall then award each team member the Boon Team
-      Ribbon.
+      as soon as possible after the Team Win is achieved.  In the
+      announcement the Scorekeepor shall payout 25 Stems to each
+      Player in the winning Team.
+
+      Later in the same announcement the Scorekeepor shall reassign
+      the grouping of Players into Teams as follows;
+
+      1) The Player with the highest Score in the Team with the
+         highest Team Score is assigned to the Team with the lowest
+         Team Score.
+
+      2) The Player who has the lowest Score in the Team with the
+         lowest Team Score is assigned as to distribute the players as
+         evenly as possible among the Teams.
+
+      3) All other Players remain assigned to the same Teams.
+
+      If in any of the above there is a choice of more than one Player
+      or Team, the Scorekeepor shall choose between the applicable
+      Players or Teams as e sees fit. The Scorekeepor shall include
+      the details of the reassignments in eir announcement.
 
       Upon the Scorekeepor's announcement, all Players' Scores are set
       to zero.
@@ -8988,6 +8979,7 @@ Team Wins
 History:
 Created by Proposal 4453 (Sherlock), 22 February 2003
 Amended(1) by Proposal 4486 (Michael), 24 April 2003
+Amended(2) by Proposal 4491 (Peekee), 6 May 2003
 
 ----------------------------------------------------------------------
 
