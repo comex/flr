@@ -21,14 +21,14 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 315 Rules:
+There are currently 317 Rules:
    19 with Power=3
    34 with Power=2
-  262 with Power=1
+  264 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2006
-Highest Rule Number assigned so far: 2006
+Highest current Rule Number:         2008
+Highest Rule Number assigned so far: 2008
 
 ======================================================================
 Table of Contents:
@@ -5622,7 +5622,7 @@ Overturning Judgement
   Judgements, Appellate Orders, and the office of Justiciar.
 ----------------------------------------------------------------------
 
-Rule 911/8 (Power=1)
+Rule 911/9 (Power=1)
 The Board of Appeals
 
       When an appeal is initiated, a Board of Appeals shall be
@@ -5643,10 +5643,10 @@ The Board of Appeals
         i) E has already been selected to serve on that Board.
        ii) E has been dismissed as Justice from that Board.
       iii) E has been Judge in the matter the Board is to consider.
-       iv) E was not eligible to Judge the CFJ that resulted in the
-           matter under consideration when it was called, and this
-           restriction does not prevent three eligible Players from
-           being selected by the CotC for the Board.
+       iv) E is not eligible to Judge the CFJ that resulted in the
+           matter under consideration, and this restriction does not
+           prevent three eligible Players from being selected by the
+           CotC for the Board.
         v) E is on Hold, and this restriction does not prevent three
            eligible Players from being selected by the CotC for the
            Board.
@@ -5670,6 +5670,7 @@ Amended(6) by Proposal 2685, Oct. 3 1996
 Amended(7) by Proposal 3532 (General Chaos), Jul. 15 1997, cosmetic
   (unattributed)
 Amended(8) by Proposal 3559 (Murphy), Oct. 24 1997, susbtantial
+Amended(9) by Proposal 4213 (Taral), 29 September 2001
 
 ----------------------------------------------------------------------
 
@@ -9744,7 +9745,7 @@ Created by Proposal 4197 (Goethe), 8 August 2001
 
 ----------------------------------------------------------------------
 
-Rule 1998/0 (Power=1)
+Rule 1998/1 (Power=1)
 Land Topology
 
       Two Units of Land are Adjacent if neither their Latitudes nor
@@ -9766,8 +9767,15 @@ Land Topology
          (4) the Land Unit with the same Latitude and a Longitude less
              by 1 is its Western Neighbor.
 
+      Two Units of Land are said to be Connected by a specific Type or
+      Subtype of Land if it is possible to travel from the first Unit
+      to the second by Waddling only over Land of that specific Type
+      or Subtype.
+
+
 History:
 Created by Proposal 4197 (Goethe), 8 August 2001
+Amended(1) by Proposal 4217 (Syllepsis), 29 September 2001
 
 ----------------------------------------------------------------------
 
@@ -9876,7 +9884,7 @@ This Landscape, This Ruleset
 
 ----------------------------------------------------------------------
 
-Rule 2003/0 (Power=1)
+Rule 2003/1 (Power=1)
 Moving in Arcadia
 
       Every week, each Player may expend up to 10 Movement Units to
@@ -9914,10 +9922,10 @@ Moving in Arcadia
       all units of Aether within a Penguin Distance of 2 from the
       Player's current location are assigned a new Land Type and
       possibly Subtype.  For each unit of Aether affected, there is a:
-       * 0.10 probability it becomes Winderness/Mountains;
-       * 0.20 probability it becomes Winderness/Hills;
-       * 0.20 probability it becomes Winderness/Forest;
-       * 0.10 probability it becomes Winderness/Desert;
+       * 0.10 probability it becomes Wilderness/Mountains;
+       * 0.20 probability it becomes Wilderness/Hills;
+       * 0.20 probability it becomes Wilderness/Forest;
+       * 0.10 probability it becomes Wilderness/Desert;
        * 0.10 probability it becomes Farmland, no subtype;
        * 0.30 probability it becomes Water, no subtype.
 
@@ -9932,6 +9940,7 @@ Moving in Arcadia
 
 History:
 Created by Proposal 4207 (neil), 3 September 2001
+Amended(1) by Proposal 4215 (neil), 29 September 2001
 
 ----------------------------------------------------------------------
 
@@ -10021,3 +10030,75 @@ History:
 Created by Proposal 4210 (neil), 10 September 2001
 
 ----------------------------------------------------------------------
+
+Rule 2007/0 (Power=1)
+Developing Land
+
+      A Player who owns a Unit of Land and is Located at that Unit of
+      Land may change the Land Type and/or Subtype in the following
+      manner:
+
+      a) If the Unit of Land is of Type Wilderness, e may change that
+         Unit of Land to Type Farmland by expending 5 Movement Points
+         and paying a Fee of:
+
+           i)   0.1 BOS in Stems, rounded up, if the Unit is of
+                Subtype Forest;
+
+           ii)  0.25 BOS in Stems, rounded up, if the Unit is of
+                Subtype Desert; or
+
+           iii) 1 BOS in Stems, rounded up, if the Unit is of
+                Subtype Mountain.
+
+      b) If the Unit of Land is of Type Farmland, e may change that
+         Unit of Land to Type Urbana by expending 5 Movement Points
+         and paying a Fee of:
+
+           i)   0.1 BOS in Stems, rounded up, in which case the Unit
+                will have Subtype Road;
+
+           ii)  0.25 BOS in Stems, rounded up, in which case the Unit
+                will have Subtype Aqueduct; or
+
+           iii) if there are no Units of subtype City within a Penguin
+                Distance of 3 from the Unit, The Unit is Connected to
+                a Unit of Water by Aqueduct, and there are at least 8
+                Units of Farmland within a Penguin Distance of 2 from
+                the Unit, 1 BOS in Stems, in which case the Unit will
+                have Subtype City. In this case the Player is required
+                to give a unique name to the City.
+
+      Units affected by this Rule take on the new Land Type at the
+      beginning of the next week, and all such changes shall be
+      indicated in the Mapkeepor's Report for that week.
+
+History:
+Created by Proposal 4217 (Syllepsis), 29 September 2001
+
+----------------------------------------------------------------------
+
+Rule 2008/0 (Power=1)
+Arcadian Cities
+
+      A Unit of Land of Subtype City may be referred to as just a
+      City, Arcadian City, or by its unique name, if any.
+
+      The Unit of Land at (0,0) shall always remain a City. This city
+      shall be named Tripolis, the Capital of Arcadia, and shall
+      always be Public Land, owned by the Bank. This takes precedence
+      over any Rule to the contrary.
+
+      Any City other than Tripolis ceases to be a City and becomes a
+      Unit of Land of Subtype Road whenever:
+
+      a) It is not Connected to Water by Aqueduct; or
+
+      b) There are less than 8 Units of Farmland within a Penguin
+         Distance of 2 from the City.
+
+History:
+Created by Proposal 4217 (Syllepsis), 29 September 2001
+
+----------------------------------------------------------------------
+
