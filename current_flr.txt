@@ -21,14 +21,14 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 321 Rules:
+There are currently 322 Rules:
    19 with Power=3
-   34 with Power=2
+   35 with Power=2
   268 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2018
-Highest Rule Number assigned so far: 2018
+Highest current Rule Number:         2019
+Highest Rule Number assigned so far: 2019
 
 ======================================================================
 Table of Contents:
@@ -1749,7 +1749,7 @@ Installing Officers through Proposal
 
 History:
 Created by Proposal 3898 (Wes), Aug. 27 1999
-Power changed from 1 to 2 by Propsoal 3980 (Steve), Mar. 1 2000
+Power changed from 1 to 2 by Proposal 3980 (Steve), Mar. 1 2000
 Amended(1) by Proposal 3980 (Steve), Mar. 1 2000
 
 ----------------------------------------------------------------------
@@ -3375,6 +3375,18 @@ Amended(6) by Proposal 3980 (Steve), Mar. 1 2000
 
 ----------------------------------------------------------------------
 
+Rule 2019/0 (Power=2)
+The Speaker's Veto
+
+      At any time during the Voting Period of an Ordinary Proposal,
+      the Speaker may Veto that Proposal with the Support of one-third
+      of all Oligarchs, rounded down.
+
+History:
+Created by Proposal 4276 (Steve), 28 March 2002
+
+----------------------------------------------------------------------
+
 Rule 1764/12 (Power=1)
 Modes of Voting
 
@@ -3507,11 +3519,11 @@ The End of the Voting Period
   the Voting Period or upon the announcement of Proposal results.
 ----------------------------------------------------------------------
 
-Rule 879/14 (Power=2)
+Rule 879/15 (Power=2)
 Quorum
 
-      An Ordinary Proposal achieves Quorum if at least three
-      Oligarchs cast votes on it.
+      An Ordinary Proposal achieves Quorum if at least three Oligarchs
+      cast votes on it, and the Speaker did not Veto it.
 
       A Democratic Proposal achieves Quorum if:
       (1) at least one-third of all Active Noisy Players, or
@@ -3541,6 +3553,7 @@ Power changed from 1 to 2 by Proposal 3980 (Steve), Mar. 1 2000
 Amended(12) by Proposal 3980 (Steve), Mar. 1 2000
 Amended(13) by Proposal 4018 (Kelly), Jun. 21 2000
 Amended(14) by Proposal 4239 (Murphy), 29 January 2002
+Amended(15) by Proposal 4276 (Steve), 28 March 2002
 
 ----------------------------------------------------------------------
 
