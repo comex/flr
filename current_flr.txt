@@ -21,9 +21,9 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 322 Rules:
+There are currently 321 Rules:
    19 with Power=3
-   35 with Power=2
+   34 with Power=2
   268 with Power=1
 
 Lowest current Rule Number:           101
@@ -654,7 +654,7 @@ Amended(1) by Proposal 3915 (harvel), Sep. 27 1999
 
 ----------------------------------------------------------------------
 
-Rule 1023/14 (Power=2)
+Rule 1023/15 (Power=2)
 Definition of "As Soon As Possible"
 
       Whenever a Player is required to perform an action "as soon
@@ -672,7 +672,7 @@ Definition of "As Soon As Possible"
       incurring a penalty.
 
       Other Rules may grant extensions of the penalty-free period to
-      Inactive Players without conflicting with this Rule.
+      non-active Players without conflicting with this Rule.
 
 [CFJ 1075: Rule 1023 should be interpreted such that no Rule with
  lower precedence than it can succeed in prohibiting activity of a
@@ -699,6 +699,7 @@ Amended(11) by Proposal 3823 (Oerjan), Jan. 21 1999
 Amended(12) by Proposal 3897 (harvel), Aug. 27 1999
 Amended(13) by Proposal 3950 (harvel), Dec. 8 1999
 Amended(14) by Proposal 4004 (Steve), May 8 2000
+Amended(15) by Proposal 4278 (harvel), 3 April 2002
 
 ----------------------------------------------------------------------
 
@@ -1060,24 +1061,48 @@ Mutated from MI=Unanimity to MI=3 by Proposal 1482, Mar. 15 1995
 
 ----------------------------------------------------------------------
 
-Rule 1016/11 (Power=2)
-Putting Oneself On Hold
+Rule 1016/12 (Power=2)
+Activity Levels
 
-      At any time, each Player shall either be On Hold or Off Hold.
-      This status shall not be changed except as specified in the
-      Rules.
+      Each player has an activity level, which is always exactly one
+      of active, inactive, and frozen.  A player's activity level may
+      not be modified except by methods described explicitly in the
+      rules.
 
-      When a Player registers (or reregisters), e is Off Hold.
+      This rule takes precedence over each rule that regulates
+      activity levels and the powers or duties that a player may have
+      because of eir activity level.
 
-      An Off Hold Player becomes On Hold when e announces in the
-      Public Forum that e goes On Hold.
+      An activity level of active is higher than any other activity
+      level.  An activity level of inactive is higher than an activity
+      level of frozen.
 
-      An On Hold Player becomes Off Hold when e announces in the
-      Public Forum that e comes Off Hold.  E may not do so until at
-      least 96 hours after e last went On Hold.
+      Whenever a player registers or reregisters, e becomes active.
 
-      "Active" and "Inactive" are unambiguous synonyms for "Off Hold"
-      and "On Hold", respectively.
+      A player may lower eir activity level by announcing that e does
+      so and indicating eir new activity level, unless the rules do
+      not permit that player to change to that activity level.  If the
+      player becomes inactive in this way, e may not become active
+      until at least 96 hours after e last become inactive.
+
+      An inactive player may become active by announcing that e does
+      so, unless the rules do not permit that player to become active.
+
+      A frozen player who has been frozen for at least 90 days may
+      increase eir activity level by announcing that e does so and
+      indicating eir new activity level, unless the rules do not
+      permit that player to change to that activity level.
+
+      "Off hold" and "on hold" are unambiguous synonyms for "active"
+      and "inactive", respectively.  "put in cold storage" is an
+      unambiguous synonym for "frozen".
+
+      Only active players may vote, make proposals, or hold office.
+      Inactive players may not be required by the rules to perform any
+      duty or action unless the rules explicitly state that they can
+      require inactive players to perform that duty or action.  Frozen
+      players may not be required by the rules to perform any duty or
+      action.
 
 [CFJ 718: Because of Rule 1011, a Player may not be placed On Hold
  except as specified in the Rules.]
@@ -1101,21 +1126,7 @@ Amended(8) by Proposal 2479, Feb. 16 1996
 Amended(9) by Proposal 3475 (Murphy), May 11 1997, substantial
 Amended(10) by Proposal 3665 (General Chaos), Jan. 22 1998
 Amended(11) by Proposal 3740 (Repeal-O-Matic), May 8 1998
-
-----------------------------------------------------------------------
-
-Rule 1584/0 (Power=2)
-Absolvement of Duty for On Hold Players
-
-      An On Hold Player is not permitted to Vote on Proposals, make
-      Proposals, or hold Office, and cannot be required by the Rules
-      to perform any duty or action, unless that Rule specifically
-      states that it can require On Hold Players to perform actions.
-
-      This Rule takes precedence over every other Rule.
-
-History:
-Created by Proposal 2479, Feb. 16 1996
+Amended(12) by Proposal 4278 (harvel), 3 April 2002
 
 ----------------------------------------------------------------------
 
@@ -1146,7 +1157,7 @@ Amended(5) by Proposal 4011 (Wes), Jun. 1 2000
 
 ----------------------------------------------------------------------
 
-Rule 1042/16 (Power=1)
+Rule 1042/17 (Power=1)
 Deregistration Due to Silence
 
       Each player is always Noisy, Quiet, or Silent, but never more
@@ -1158,8 +1169,8 @@ Deregistration Due to Silence
       player to become Quiet by sending a message to a public forum in
       which e identifies the player and states that e causes that
       player to become Quiet.  Whenever a player has been Quiet
-      continuously for two weeks or has been Inactive continuously for
-      two months, e becomes Silent.
+      continuously for two weeks, Inactive continuously for two
+      months, or Frozen continuously for two years, e becomes Silent.
 
       Any player may publicly allege that some other player has
       abandoned the game.  A player has abandoned the game if and only
@@ -1206,6 +1217,7 @@ Amended(13) by Proposal 4133 (Tim), Apr. 5 2001
 Amended(14) by Proposal 4147 (Wes), 13 May 2001
 Amended(15) by Proposal 4154 (harvel), 18 May 2001
 Amended(16) by Proposal 4211 (harvel), 10 September 2001
+Amended(17) by Proposal 4278 (harvel), 3 April 2002
 
 ----------------------------------------------------------------------
 
@@ -1266,7 +1278,7 @@ Amended(6) by Proposal 4211 (harvel), 10 September 2001
 
 ----------------------------------------------------------------------
 
-Rule 1841/4 (Power=1)
+Rule 1841/5 (Power=1)
 Granting Power of Attorney
 
       (a) A Player (the Grantor) who has been continuously registered
@@ -1299,7 +1311,7 @@ Granting Power of Attorney
               expires;
           (2) the Grantor publically withdraws the grant;
           (3) the Grantor is deregistered;
-          (4) the Holder is deregistered or goes On Hold; or
+          (4) the Holder ceases to be active or is deregistered; or
           (5) the Holder has held the PoA continuously for three
               months.
 
@@ -1316,6 +1328,7 @@ Amended(1) by Proposal 4011 (Wes), Jun. 1 2000
 Amended(2) by Proposal 4147 (Wes), 13 May 2001
 Amended(3) by Proposal 4190 (Steve), 18 July 2001
 Amended(4) by Proposal 4211 (harvel), 10 September 2001
+Amended(5) by Proposal 4278 (harvel), 3 April 2002
 
 ----------------------------------------------------------------------
 
@@ -1754,7 +1767,7 @@ Amended(1) by Proposal 3980 (Steve), Mar. 1 2000
 
 ----------------------------------------------------------------------
 
-Rule 1555/7 (Power=1)
+Rule 1555/8 (Power=1)
 Electees and Removal from Office
 
       A Player who wins an Election for an Office, or is installed
@@ -1776,8 +1789,8 @@ Electees and Removal from Office
       the Office. If there is no Electee, the Office is held by the
       Speaker.
 
-      If a Player goes On Hold, deregisters, or is deregistered, e is
-      removed from all Offices e holds.
+      Whenever a player deregisters, is deregistered, or ceases to be
+      active, e is removed from all Offices e holds.
 
 History:
 Created by Proposal 2442, Feb. 6 1996
@@ -1788,6 +1801,7 @@ Amended(4) by Proposal 3853 (Blob), Apr. 19 1999
 Amended(5) by Proposal 3898 (Wes), Aug. 27 1999
 Amended(6) by Proposal 4071 (Steve), Sep. 14 2000
 Amended(7) by Proposal 4211 (harvel), 10 September 2001
+Amended(8) by Proposal 4278 (harvel), 3 April 2002
 
 ----------------------------------------------------------------------
 
@@ -2084,53 +2098,75 @@ Amended(2) by Proposal 3897 (harvel), Aug. 27 1999
 
 ----------------------------------------------------------------------
 
-Rule 1728/9 (Power=2)
+Rule 1728/10 (Power=2)
 Dependent Actions
 
-      An action is Dependent (or may be performed Dependently) if
-      and only if it is an Action With N Objections or an Action
-      With N Supporters, where N is a positive integer not greater
-      than five.  The phrase `Without Objection' is synonymous with
-      `Without 1 Objection', and the phrase `With Support' is
-      synonymous with `With 1 Supporter'.  The Rules may name
-      specific actions as Dependent Actions.
+      An action is dependent, or may be performed dependently, if and
+      only if it is an Action Without N Objections or an Action With N
+      Supporters, where N is a positive integer.  The phrase "Without
+      Objection" is synonymous with "Without 1 Objection", and the
+      phrase "With Support" is synonymous with "With 1 Supporter".
 
-      A Player may, in a Public Forum, unambiguously describe a
-      particular Dependent Action which e is authorised by the
-      Rules to perform Dependently, and announce eir intent to
-      perform it.  That Player may perform that action if and only if:
+      A player may publicly announce eir intent to perform an
+      unambiguously described dependent action.  A player may perform
+      a previously unambiguously described dependent action if and
+      only if:
 
-      (a)  e announced eir intent at most fourteen days before
-            attempting to perform it, and, in the case of Actions
-            Without N Objections, at least four days before attempting
-            to perform it;
+      (a)  no more than fourteen days have passed since the
+           announcement of intent to perform the action;
 
-      (b)  the authorising Rule explicitly indicates who may perform
-           the action Dependently;
+      (b)  if the action to be performed is an Action Without N
+           Objections, at least four days have passed since the
+           announcement made under (a) of this rule;
 
-      (c)  during the time between the announcement made under
-           (a) of this Rule and the attempt to perform the action,
+      (c)  either the player who attempts to perform the action is the
+           player who made the announcement under (a) of this rule, or
 
-           (1)  fewer than N Players have publicly posted Objections
-                to the performance of the action, if the action is to
-                be performed Without N Objections; or
+           (1)  the player who made the announcement under (a) of this
+                rule did so by a privilege or duty granted em by
+                virtue of holding a rules-defined position; and
 
-           (2)  at least N Players other than the Player attempting to
-                make the action have publicly posted Support for
-                the performance of the action, if the action is to be
-                performed With N Supporters; and
+           (2)  the player who attempts to perform the action is the
+                holder of that position when e attempts to perform the
+                action;
 
-      (d)  e publicly announces that e performs the described action.
+      (d)  the rules explicitly authorise the player to perform the
+           action dependently;
 
-      Properties which would be changed by a Dependent Action
-      do not occur until announced as in (d).
+      (e)  during the time between the announcement made under (a) of
+           this rule and the attempt to perform the action,
 
-      The specification in the Rules that an action may be
-      performed Dependently in no way prohibits performing that
-      same action if doing so would otherwise be permissible.
+           (1)  if the action is to be performed Without N Objections,
+                fewer than N players have publicly posted objections
+                to the performance of the action; or
 
-      Rules calling for Dependent Actions may restrict the eligibility
-      of Players to Support or Object to that specific Action.
+           (2)  if the action is to be performed With N Supporters, at
+                least N players other than the player who made the
+                announcement under (a) of this rule have publicly
+                posted support for the performance of the action;
+
+      (f)  the announcement made under (a) of this rule specifies
+           whether the action is to be performed Without N Objections
+           or With N Supporters, unless the rules either do not permit
+           the action to be performed Without N Objections or do not
+           permit the action to be performed With N Supporters; and
+
+      (g)  e announces that e performs the described action.
+
+      A dependent action is not performed until announced as in (g).
+
+      A player who posts an objection to the performance of an action
+      may publicly retract eir objection.  If e does so, e shall be
+      deemed not have posted an objection to the performance of that
+      action for the purposes of (e)(1) of this rule.
+
+      The specification in the rules that an action may be performed
+      dependently does not prohibit performing that action
+      independently if doing so would otherwise be permissible.
+
+      A rule authorising the performance of a dependent action may
+      restrict the eligibility of players to support or object to that
+      specific action.
 
 History:
 Created by Proposal 3521 (Chuck), Jun. 23 1997
@@ -2145,6 +2181,7 @@ Amended(7) by Proposal 3991 (Steve), Mar. 30 2000
 Amended(8) by Proposal 4011 (Wes), Jun. 1 2000
 Power changed from 1 to 2 by Proposal 4121 (Ziggy), Mar. 16 2001
 Amended(9) by Proposal 4121 (Ziggy), Mar. 16 2001
+Amended(10) by Proposal 4279 (harvel), 3 April 2002
 
 ----------------------------------------------------------------------
 
@@ -2470,13 +2507,13 @@ Amended(4) by Proposal 4221 (Steve), 10 October 2001
 
 ----------------------------------------------------------------------
 
-Rule 1963/2 (Power=2)
+Rule 1963/3 (Power=2)
 Eligible Oligarchs
 
       (a) A Player is ineligible to be an Oligarch if and only if any
           of the following are true:
 
-          (1) e is On Hold;
+          (1) e is not active;
           (2) e has three or more Blots;
           (3) e is the Speaker;
           (4) e is the Electee to the Office of Speaker-Elect; or
@@ -2496,6 +2533,7 @@ History:
 Created by Proposal 01-005 (Steve), Feb. 2 2001
 Amended(1) by Proposal 4221 (Steve), 10 October 2001
 Amended(2) by Proposal 4262 (Steve), 4 March 2002
+Amended(3) by Proposal 4278 (harvel), 3 April 2002
 
 ----------------------------------------------------------------------
 
@@ -3452,7 +3490,7 @@ Amended(12) by Proposal 4142 (Murphy), Apr. 15 2001
 
 ----------------------------------------------------------------------
 
-Rule 1729/3 (Power=1)
+Rule 1729/4 (Power=1)
 Insanity
 
       An Interested Proposal is Insane, if it contains no minuscule
@@ -3466,6 +3504,14 @@ Insanity
       Nor shall a Player Vote in public, only to Assessor.
       The Votes shall be unknown to others, even employer and
          professor.
+
+      And should a Player split eir votes 'tween FOR and
+          AGAINST like crazy,
+      E will annoy Assessors (who are known for being lazy)
+      So should eir votes cast differ from each other, this Rule's
+          broke,
+      With the breaker being the voting Player, as sure as if e'd
+          spoke.
 
       And should such a Proposal's Voting Period begin,
       but no one Votes FOR it, the Proposer shall Win.
@@ -3482,6 +3528,7 @@ Created by Proposal 3527 (Oerjan), Jul. 8 1997 (unattributed)
 Amended(1) by Proposal 3833 (Vlad), Feb. 15 1999
 Amended(2) by Proposal 3880 (harvel), Jul. 21 1999
 Amended(3) by Proposal 4138 (Murphy), Apr. 15 2001
+Amended(4) by Proposal 4277 (OscarMeyr), 3 April 2002
 
 ----------------------------------------------------------------------
 
@@ -3519,19 +3566,21 @@ The End of the Voting Period
   the Voting Period or upon the announcement of Proposal results.
 ----------------------------------------------------------------------
 
-Rule 879/15 (Power=2)
+Rule 879/16 (Power=2)
 Quorum
 
-      An Ordinary Proposal achieves Quorum if at least three Oligarchs
-      cast votes on it, and the Speaker did not Veto it.
+      An ordinary proposal achieves quorum if at least three oligarchs
+      cast votes on it.
 
-      A Democratic Proposal achieves Quorum if:
-      (1) at least one-third of all Active Noisy Players, or
-      (2) at least one-fifth of all Players
-      cast votes on it. Quorum for a Democratic Proposal shall be
-      determined from the number of Players and number of Active Noisy
-      Players at the time that the Proposal was distributed, or at the
-      time it was made a Democratic Proposal, whichever is later.
+      A democratic proposal achieves quorum if:
+      (1) at least one third of all active noisy players, or
+      (2) at least one fifth of all non-frozen players cast votes on
+          it.
+
+      Quorum for a democratic proposal shall be determined from the
+      number of non-frozen players and number of active noisy players
+      at the time that the proposal was distributed, or at the time it
+      was made a democratic proposal, whichever is later.
 
 History:
 Initial Mutable Rule 201, Jun. 30 1993
@@ -3554,6 +3603,7 @@ Amended(12) by Proposal 3980 (Steve), Mar. 1 2000
 Amended(13) by Proposal 4018 (Kelly), Jun. 21 2000
 Amended(14) by Proposal 4239 (Murphy), 29 January 2002
 Amended(15) by Proposal 4276 (Steve), 28 March 2002
+Amended(16) by Proposal 4278 (harvel), 3 April 2002
 
 ----------------------------------------------------------------------
 
@@ -4845,7 +4895,7 @@ Amended(2) by Proposal 4166 (Elysion), 11 June 2001
 
 ----------------------------------------------------------------------
 
-Rule 698/7 (Power=1)
+Rule 698/8 (Power=1)
 Always an Eligible Judge
 
       Every Active Player is eligible to judge a given Call for
@@ -4864,23 +4914,24 @@ Always an Eligible Judge
       the Caller, shall be eligible, any other Rule to the contrary
       notwithstanding.
 
-      If this still does not result in there being any Players
-      eligible to judge, then all Players (Active or not), excluding
-      the Caller and those Players Barred by the Caller, shall be
+      If this still does not result in there being any players
+      eligible to judge, then all non-frozen players, excluding the
+      Caller and those players barred by the Caller, shall be
       eligible.
 
-      If this still does not result in there being any Players
-      eligible to judge, then all Players, excluding the Caller, shall
-      be eligible.
+      If this still does not result in there being any players
+      eligible to judge, then all non-frozen players, excluding the
+      Caller, shall be eligible.
 
-      If this still does not result in there being any Players
-      eligible to judge, and the Caller is a Player, then the Caller
+      If this still does not result in there being any players
+      eligible to judge, and the Caller is a player, then the Caller
       shall be eligible.
 
-      If this still does not result in there being any Players
+      If this still does not result in there being any players
       eligible to judge, then the Caller has happened across an Agora
-      without any Players.  The Rules suggest that the Caller try
-      calling at a later date.
+      that is a generational ship whose members are in suspended
+      animation.  The Rules suggest that the Caller try calling when
+      we arrive at our destination and begin to thaw out.
 
       This Rule can require On Hold Players to perform actions.
 
@@ -4898,6 +4949,7 @@ Amended(4) by Proposal 3821 (Blob), Jan. 12 1999
 Amended(5) by Proposal 3823 (Oerjan), Jan. 21 1999
 Amended(6) by Proposal 4155 (harvel), 18 May 2001
 Amended(7) by Proposal 4178 (root), 7 July 2001
+Amended(8) by Proposal 4278 (harvel), 3 April 2002
 
 ----------------------------------------------------------------------
 
@@ -4947,14 +4999,15 @@ Amended(9) by Proposal 3962 (Wes), Jan. 20 2000
 
 ----------------------------------------------------------------------
 
-Rule 1568/5 (Power=1)
-Judges On Hold
+Rule 1568/6 (Power=1)
+Non-active Judges
 
-      Any Player who goes on Hold while selected as the Judge of one
-      or more CFJs commits the Infraction of Judge Inactivity.  This
-      Infraction is to be reported by the Clerk of the Courts, and has
-      a penalty of 0.1 Indulgences times the number of CFJs for which
-      the Player was selected as Judge when e went On Hold.
+      A player who ceases to be active while selected as the judge of
+      one or more calls for judgement (CFJs) commits the infraction of
+      Judge Inactivity.  This infraction is to be reported by the
+      Clerk of the Courts, and has a penalty of 0.1 Indulgences for
+      each CFJs for which the player was selected as judge when e
+      ceased to be active.
 
 History:
 Created by Proposal 2457, Feb. 16 1996
@@ -4964,6 +5017,7 @@ Amended(3) by Proposal 2830 (Murphy), Mar. 7 1997, cosmetic
   (unattributed)
 Amended(4) by Proposal 3463 (Harlequin), Apr. 17 1997, substantial
 Amended(5) by Proposal 3897 (harvel), Aug. 27 1999
+Amended(6) by Proposal 4278 (harvel), 3 April 2002
 
 ----------------------------------------------------------------------
 
@@ -5307,7 +5361,7 @@ Created by Proposal 3704 (General Chaos), Mar. 19 1998
 
 ----------------------------------------------------------------------
 
-Rule 1827/3 (Power=1)
+Rule 1827/4 (Power=1)
 Granting or Denying Motions
 
       A Judge must either grant or deny each Motion forwarded to em by
@@ -5334,14 +5388,15 @@ Granting or Denying Motions
       usual.
 
       If a Motion is made after a case is closed, and the original
-      Judge of that case is no longer a Player or is On Hold, then
-      a new Judge shall be assigned to the case as usual.
+      Judge of that case is not active or is not a player, then a new
+      Judge shall be assigned to the case as usual.
 
 History:
 Created by Proposal 3704 (General Chaos), Mar. 19 1998
 Amended(1) by Proposal 3823 (Oerjan), Jan. 21 1999
 Amended(2) by Proposal 3962 (Wes), Jan. 20 2000
 Amended(3) by Proposal 4160 (root), 5 June 2001
+Amended(4) by Proposal 4278 (harvel), 3 April 2002
 
 ----------------------------------------------------------------------
 
@@ -5581,7 +5636,7 @@ Overturning Judgement
   Judgements, Appellate Orders, and the office of Justiciar.
 ----------------------------------------------------------------------
 
-Rule 911/9 (Power=1)
+Rule 911/10 (Power=1)
 The Board of Appeals
 
       When an appeal is initiated, a Board of Appeals shall be
@@ -5609,6 +5664,7 @@ The Board of Appeals
         v) E is on Hold, and this restriction does not prevent three
            eligible Players from being selected by the CotC for the
            Board.
+       vi) E is frozen.
 
       A Justice is permitted to appoint another eligible Player to
       replace em as Justice on a given Board, provided the Player
@@ -5630,6 +5686,7 @@ Amended(7) by Proposal 3532 (General Chaos), Jul. 15 1997, cosmetic
   (unattributed)
 Amended(8) by Proposal 3559 (Murphy), Oct. 24 1997, susbtantial
 Amended(9) by Proposal 4213 (Taral), 29 September 2001
+Amended(10) by Proposal 4278 (harvel), 3 April 2002
 
 ----------------------------------------------------------------------
 
@@ -6187,7 +6244,7 @@ The Registrar
   This Category includes Rules concerning the Office of Registrar.
 ----------------------------------------------------------------------
 
-Rule 559/19 (Power=1)
+Rule 559/20 (Power=1)
 The Registrar
 
       The Registrar is an office; its holder is responsible for
@@ -6208,8 +6265,8 @@ The Registrar
         (iv) the most recent date on which each registered player
              registered;
 
-         (v) each player's Active/Inactive status, and the most recent
-             date on which that player became Active or Inactive;
+         (v) each player's activity level, and the most recent date on
+             which that player's activity level changed;
 
         (vi) each player's Noisy/Quiet/Silent status, and the most
              recent date on which that player became Noisy, Quiet,
@@ -6241,6 +6298,7 @@ Amended(16) by Proposal 4195 (Syllepsis), 26 July 2001
 Amended(17) by Proposal 4211 (harvel), 10 September 2001
 Amended(18) by Proposal 4250 (harvel), 19 February 2002
 Amended(19) by Proposal 4259 (root), 21 February 2002
+Amended(20) by Proposal 4278 (harvel), 3 April 2002
 
 ----------------------------------------------------------------------
 
@@ -7250,7 +7308,7 @@ Amended(8) by Proposal 4259 (Murphy), 21 February 2002
 
 ----------------------------------------------------------------------
 
-Rule 1599/7 (Power=1)
+Rule 1599/8 (Power=1)
 Overdue Debts
 
       The Executor of the creditor of any unsatisfied debt may, at any
@@ -7258,11 +7316,10 @@ Overdue Debts
       already done so.  E does so by sending a message to the debtor
       setting forth the demand.  The debtor shall have seven days to
       satisfy the debt from the time the demand is sent, except that
-      if the debtor's Executor is on Hold at the time the demand is
-      sent, the debtor shall instead have seven days from when the
-      debtor's Executor comes off Hold to satisfy the debt.  Time
-      during which a debt is disputed is not counted for any purpose
-      of this Rule.
+      if the debtor's Executor is not active at the time the demand is
+      sent, the debtor shall instead have seven days from the time eir
+      Executor becomes active to satisfy the debt.  Time during which
+      a debt is disputed is not counted for any purpose of this Rule.
 
       A debt not satisfied within the time allowed by this Rule
       becomes delinquent when that time elapses.  It ceases to be
@@ -7292,6 +7349,7 @@ Amended(4) by Proposal 3704 (General Chaos), Mar. 19 1998
 Amended(5) by Proposal 3851 (General Chaos), Apr. 12 1999
 Amended(6) by Proposal 4018 (Kelly), Jun. 21 2000
 Amended(7) by Proposal 4165 (Kelly), 11 June 2001
+Amended(8) by Proposal 4278 (harvel), 3 April 2002
 
 ----------------------------------------------------------------------
 
@@ -7381,7 +7439,7 @@ Amended(9) by Proposal 4151 (Kelly), 13 May 2001
 
 ----------------------------------------------------------------------
 
-Rule 1887/15 (Power=1)
+Rule 1887/16 (Power=1)
 Default Procedure for Auctions
 
       When an Auction is required and the procedure is not defined
@@ -7400,8 +7458,8 @@ Default Procedure for Auctions
           not specify which Player shall initiate it, then the Speaker
           shall initiate it.
 
-      (b) Bidders: Every Player not on Hold may Bid in an Auction. On
-          Hold status is measured at the time a Player sends eir Bid.
+      (b) Bidders: Every Player not on Hold may Bid in an Auction.
+          Activity is measured at the time a Player sends eir Bid.
 
       (c) Auction Currency: Each Auction is conducted in one
           particular currency. The Rule requiring a particular
@@ -7483,6 +7541,7 @@ Amended(12) by Proposal 4147 (Wes), 13 May 2001
 Amended(13) by Proposal 4167 (root), 11 June 2001
 Amended(14) by Proposal 4176 (root), 7 July 2001
 Amended(15) by Proposal 4249 (Murphy), 19 February 2001
+Amended(16) by Proposal 4278 (harvel), 3 April 2002
 
 ----------------------------------------------------------------------
 
@@ -7499,16 +7558,16 @@ Amended(1) by Proposal 4167 (root), 11 June 2001
 
 ----------------------------------------------------------------------
 
-Rule 1983/1 (Power=1)
+Rule 1983/2 (Power=1)
 Vickrey Auctions
 
       The Auction Procedure for a Vickrey Auction is the same as the
       Default Auction Procedure with the following modifications:
 
-      (a) Bidders: Every Player not on Hold may Bid in an Auction. On
-          Hold status is measured at the time a Player sends eir
-          Bid. Any Player with the same Executor as the Auctioneer may
-          bid only in the first 72 hours of the Auction.
+      (a) Bidders: Every Player not on Hold may Bid in an Auction.
+          Activity is measured at the time a Player sends eir Bid. Any
+          Player with the same Executor as the Auctioneer may bid only
+          in the first 72 hours of the Auction.
 
       (b) Making Bids: If the Bidder has the same Executor as the
           Auctioneer, then the Bids must be made in a message to a
@@ -7535,10 +7594,11 @@ Vickrey Auctions
 History:
 Created by Proposal 4167 (root), 11 June 2001
 Amended(1) by Proposal 4176 (root), 7 July 2001
+Amended(2) by Proposal 4278 (harvel), 3 April 2002
 
 ----------------------------------------------------------------------
 
-Rule 1984/3 (Power=1)
+Rule 1984/4 (Power=1)
 Raffles
 
       There is a type of Auction named a Raffle. The Auction Procedure
@@ -7547,8 +7607,8 @@ Raffles
       (a) Auctioneer: The Auctioneer is responsible for conducting the
           Raffle. The Auctioneer is herein known as the Riff-Raff.
 
-      (b) Entrants: Every Player not on Hold may enter the Raffle. On
-          Hold status is measured at the time a Player enters the
+      (b) Entrants: Every Player not on Hold may enter the Raffle.
+          Activity is measured at the time a Player enters the
           Raffle. However, if a rule prohibits a player from bidding
           in this Auction, then e is also prohibited from buying
           tickets.
@@ -7612,6 +7672,7 @@ Created by Proposal 4167 (root), 11 June 2001
 Amended(1) by Proposal 4176 (root), 7 July 2001
 Amended(2) by Proposal 4177 (Elysion), 7 July 2001
 Amended(3) by Proposal 4265 (Steve), 17 March 2002
+Amended(4) by Proposal 4278 (harvel), 3 April 2002
 
 ----------------------------------------------------------------------
 
@@ -8920,13 +8981,13 @@ Amended(11) by Proposal 4147 (Wes), 13 May 2001
 
 ----------------------------------------------------------------------
 
-Rule 1375/7 (Power=1)
+Rule 1375/8 (Power=1)
 Speaker Going On Hold
 
-      A Speaker who goes On Hold while e is still Speaker commits the
-      Class 10 Crime of Speaker Inactivity.
+      A Speaker who ceases to be active while e is still Speaker
+      commits the class 10 crime of Speaker Inactivity.
 
-      If the Speaker is On Hold, a Speaker Transition occurs.
+      Whenever the Speaker is not active, a Speaker Transition occurs.
 
 History:
 Created by Proposal 1375, Jan. 17 1995
@@ -8938,6 +8999,7 @@ Amended(5) by Proposal 2831 (Murphy), Mar. 7 1997, cosmetic
   (unattributed)
 Amended(6) by Proposal 3703 (Steve), Mar. 9 1998
 Amended(7) by Proposal 3897 (harvel), Aug. 27 1999
+Amended(8) by Proposal 4278 (harvel), 3 April 2002
 
 ----------------------------------------------------------------------
 
@@ -9837,7 +9899,7 @@ Created by Proposal 4197 (Goethe), 8 August 2001
 
 ----------------------------------------------------------------------
 
-Rule 1996/1 (Power=1)
+Rule 1996/2 (Power=1)
 The Mapkeepor
 
       The Mapkeepor is an office; its holder is recordkeepor for the
@@ -9848,12 +9910,14 @@ The Mapkeepor
         (i) the ownership and land type of all existing land;
        (ii) all changes in the ownership and land type of existing
             land since the most recent report; and
-      (iii) the location of each entity or instrument with a defined
-            non-secret location.
+      (iii) the location for the previous week and the current week of
+            each entity or instrument with a defined non-secret
+            location.
 
 History:
 Created by Proposal 4197 (Goethe), 8 August 2001
 Amended(1) by Proposal 4250 (harvel), 19 February 2002
+Amended(2) by Proposal 4280 (OscarMeyr), 3 April 2002
 
 ----------------------------------------------------------------------
 
@@ -10022,12 +10086,13 @@ This Landscape, This Ruleset
 
 ----------------------------------------------------------------------
 
-Rule 2003/2 (Power=1)
+Rule 2003/3 (Power=1)
 Moving in Arcadia
 
       Every week, each Player may expend up to 10 Movement Units to
-      move about in the Land of Arcadia.  Movement Units are not
-      transferrable, and do not persist from one week to the next.
+      move about in the Land of Arcadia, and each Organization may
+      expend up to 5 Movement Units.  Movement Units are not
+      transferable, and do not persist from one week to the next.
 
       A player makes a Move by notifying the Mapkeepor of the location
       (the Destination) into which e is attempting to move.  If the
@@ -10036,10 +10101,6 @@ Moving in Arcadia
       long as e does not spend more than eir allotted number of
       Movement Units, a Player may move as many times as e wishes in a
       single week.
-
-      The Mapkeepor's Report shall list, for each Player:
-        * the Player's location at the beginning of the last week
-        * the Player's location at the beginning of the current week
 
       Players may expend:
         * 10 Movement Units to move into an adjacent unit of Type
@@ -10082,6 +10143,7 @@ History:
 Created by Proposal 4207 (neil), 3 September 2001
 Amended(1) by Proposal 4215 (neil), 29 September 2001
 Amended(2) by Proposal 4229 (Goethe), 22 November 2001
+Amended(3) by Proposal 4280 (OscarMeyr), 3 April 2002
 
 ----------------------------------------------------------------------
 
