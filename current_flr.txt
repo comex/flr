@@ -970,12 +970,12 @@ Amended(11) by Proposal 4155 (harvel), 18 May 2001
 
 ----------------------------------------------------------------------
 
-Rule 1677/9 (Power=1)
+Rule 1677/10 (Power=1)
 Currency Awards for New Players
 
       As soon as possible after the beginning of a Player's Grace
-      Period, the Registrar shall Order the Treasuror to pay out the
-      New Player Award for each Bank Currency to the new Player.
+      Period, the Registrar shall pay out the New Player Award for
+      each Bank Currency to the new Player.
 
       Whenever the Rules indicate that the Bank incurs a debt to an
       entity equal to the New Player Award, the Bank shall instead
@@ -994,6 +994,7 @@ Amended(6) by Proposal 3897 (harvel), Aug. 27 1999
 Amended(7) by Proposal 3998 (harvel), Apr. 25 2000
 Amended(8) by Proposal 4050 (t), Aug. 15 2000
 Amended(9) by Proposal 4155 (harvel), 18 May 2001
+Amended(10) by Proposal 4344 (Goethe), 11 July 2002
 
 ----------------------------------------------------------------------
 
@@ -5147,28 +5148,32 @@ Delivering Judgement
   by the Judge, as well as Judicial Orders
 ----------------------------------------------------------------------
 
-Rule 2025/0 (Power=1)
+Rule 2025/1 (Power=1)
 Transfer of Jurisdiction
 
-      The Judge of a CFJ (the First Case) may transfer it to the Judge
-      of another CFJ (the Second Case), if all of the following are
-      true:
+      (a) A CFJ (the First Case) is transferred to the Judge of
+          another CFJ (the Second Case), if all of the following are
+          true:
 
-        a) The Second Judge is eligible to Judge the First Case (or is
-           ineligible solely due to the Rule "Turns for All").
-        b) The First Judge announces the transfer.
-        c) The Second Judge consents to the transfer within a week
-           after it is announced.
+          (1) the Second Judge is eligible to Judge the First Case (or
+              is ineligible solely due to the Rule "Turns for All");
+          (2) the First Judge announces the transfer; and
+          (3) the Second Judge consents to the transfer within a week
+              after it is announced.
 
-      The First CFJ becomes assigned to the Second Judge, and ceases
-      to be assigned to the First Judge.
+      (b) When the First Case is transferred in this way:
 
-      The First CFJ becomes Linked to the Second CFJ, and to any CFJs
-      to which the Second CFJ had been Linked.  It ceases to be Linked
-      to any other CFJs.
+          (1) the First Case is assigned to the Second Judge, and
+              ceases to be assigned to the First Judge;
+          (2) the First Judge becomes eligible to Judge CFJs for the
+              purposes of the Rule "Turns for All"; and
+          (3) the First CFJ becomes Linked to the Second CFJ, and to
+              any CFJs to which the Second CFJ had been Linked. It
+              ceases to be Linked to any other CFJs.
 
 History:
 Created by Proposal 4298 (Murphy), 17 May 2002
+Amended(1) by Proposal 4343 (Steve), 11 July 2002
 
 ----------------------------------------------------------------------
 
@@ -7358,36 +7363,31 @@ Amended(8) by Proposal 4259 (Murphy), 21 February 2002
 
 ----------------------------------------------------------------------
 
-Rule 1599/8 (Power=1)
+Rule 1599/9 (Power=1)
 Overdue Debts
 
-      The Executor of the creditor of any unsatisfied debt may, at any
-      time, demand the debtor to satisfy that debt, provided e has not
-      already done so.  E does so by sending a message to the debtor
-      setting forth the demand.  The debtor shall have seven days to
-      satisfy the debt from the time the demand is sent, except that
-      if the debtor's Executor is not active at the time the demand is
-      sent, the debtor shall instead have seven days from the time eir
-      Executor becomes active to satisfy the debt.  Time during which
-      a debt is disputed is not counted for any purpose of this Rule.
+      (a) Provided that e has not already done so, the Executor of the
+          creditor of any unsatisfied debt may demand that the debtor
+          satisfy that debt, by notifying the debtor of the demand.
 
-      A debt not satisfied within the time allowed by this Rule
-      becomes delinquent when that time elapses.  It ceases to be
-      delinquent when it is satisfied.
+      (b) The debtor shall have seven days from the time of the
+          notification to satisfy the debt, except that if the debtor
+          is not active at the time the demand is sent, the debtor
+          shall instead have seven days from the time e becomes active
+          to satisfy the debt. Time during which a debt is disputed is
+          not counted for the purposes of this Rule.
 
-      Any Player who is either:
-        (a) the Executor of an entity which owes a delinquent debt, or
-        (b) a Limited Executor of an entity which has no Executor and
-            which owes a delinquent debt, where:
-          (1) that Player has the authority to execute a transfer for
-              that entity which would satisfy the delinquent debt, and
-          (2) that entity possesses sufficient Property such that the
-              delinquent debt can be satisfied;
-      commits the Class 1 Infraction of Persistent Indebtedness when
-      that debt first becomes delinquent, and commits it again every
-      seven days thereafter for as long as the debt remains
-      delinquent.  This Infraction may be reported by the creditor of
-      the delinquent debt.
+      (c) A debt not satisfied within the time allowed by this Rule
+          becomes delinquent when that time elapses. It ceases to be
+          delinquent when it is satisfied.
+
+      (d) Any Player who is the Prime Executor of an entity with
+          respect to the satisfaction of a debt owed by that entity
+          commits the Class 1 Infraction of Persistent Indebtedness
+          when that debt first becomes delinquent, and commits it
+          again every seven days thereafter for as long as the debt
+          remains delinquent. This Infraction may be reported by the
+          creditor of the delinquent debt.
 
 History:
 Created by Proposal 2493, Feb. 16 1996
@@ -7400,6 +7400,7 @@ Amended(5) by Proposal 3851 (General Chaos), Apr. 12 1999
 Amended(6) by Proposal 4018 (Kelly), Jun. 21 2000
 Amended(7) by Proposal 4165 (Kelly), 11 June 2001
 Amended(8) by Proposal 4278 (harvel), 3 April 2002
+Amended(9) by Proposal 4346 (Steve), 11 July 2002
 
 ----------------------------------------------------------------------
 
