@@ -22,13 +22,14 @@ An ellipsis (...) indicates that the history is incomplete.
 ----------------------------------------------------------------------
 
 There are currently 305 Rules:
+    1 with Power=4
    19 with Power=3
-   38 with Power=2
-  248 with Power=1
+   36 with Power=2
+  249 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2028
-Highest Rule Number assigned so far: 2028
+Highest current Rule Number:         2030
+Highest Rule Number assigned so far: 2030
 
 ======================================================================
 Table of Contents:
@@ -630,27 +631,6 @@ Power
 History:
 Created by Proposal 3445 (General Chaos), Mar. 26 1997
 Amended(1) by Proposal 3994 (harvel), Apr. 20 2000
-
-----------------------------------------------------------------------
-
-Rule 1869/1 (Power=3)
-Restrictions on Setting Power
-
-      Except as described in this Rule, no entity can set the Power
-      of another entity to exceed the Power of the entity causing
-      the Power to be so set.  A Rule may set the Power of an adopted
-      Proposal, even exceeding the Power of the Rule, so long as the
-      Power of the adopted Proposal does not exceed the Voting Index
-      of that Proposal.
-
-      No entity may destroy or repeal an entity with Power greater
-      than its own.
-
-      No Rule may have Power less than 1 or greater than 4.
-
-History:
-Created by Proposal 3818 (Chuck), Dec. 21 1998
-Amended(1) by Proposal 3915 (harvel), Sep. 27 1999
 
 ----------------------------------------------------------------------
 
@@ -2792,16 +2772,23 @@ Amended(6) by Proposal 3445 (General Chaos), Mar. 26 1997, substantial
 
 ----------------------------------------------------------------------
 
-Rule 594/4 (Power=2)
-Proposals and Rule Changes
+Rule 594/6 (Power=3)
+Power and Proposals
 
-      When a Proposal takes effect:
-           (a) if the Proposer is a Member of The Cabal (as explicitly
-               defined by the Rules) when the Proposal takes effect,
-               the Proposal's Power is set equal to its Voting Index;
-           (b) otherwise, its power is set equal to 1;
-      and the provisions contained in the text of the Proposal are
-      implemented to the maximal extent permitted by the Rules.
+      No Rule may have Power less than 1 or greater than 4.  Except as
+      described in this Rule, no entity can set the Power of another
+      entity to exceed the Power of the entity causing the Power to be
+      so set.  No entity may destroy or repeal an entity with Power
+      greater than its own.
+
+      When a Proposal takes effect, its Power shall be set equal to
+      its Adoption Index, and the provisions contained in the text of
+      the Proposal are implemented to the maximal extent permitted by
+      the Rules.
+
+      The Adoption Index of a Proposal is the maximum of 1, the value
+      requested by its Proposer (if any), and the value required for
+      that Proposal by the Rules (if any).
 
       Provisions which are unclear, ambiguous, or inapplicable are
       ignored.  In a Proposal containing more than one provision, each
@@ -2810,10 +2797,6 @@ Proposals and Rule Changes
 
       For the purpose of the Rules, the application of an adopted
       Proposal is a legal procedure for changing Nomic Properties.
-
-      The Adoption Index of a Proposal is the maximum of 1, the value
-      requested by its Proposer (if any), and the value required for
-      that Proposal by the Rules (if any).
 
 [CFJ 778: It is legal for a Proposal to contain zero Rule Changes.]
 
@@ -2824,6 +2807,9 @@ Amended(2) by Proposal 2399, Jan. 20 1996
 Amended(3) by Proposal 3445 (General Chaos), Mar 26 1997, substantial
 Power changed from 1 to 2 by Proposal 4111 (Elysion), Feb. 20 2001
 Amended(4) by Proposal 4327 (Goethe), 9 June 2002
+Amended(5) by Proposal 4328 (Goethe), 9 June 2002
+Power changed from 2 to 3 by Proposal 4329 (Goethe), 9 June 2002
+Amended(6) by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
@@ -3510,7 +3496,7 @@ Created by Proposal 4282 (Goethe), 16 April 2002
 
 ----------------------------------------------------------------------
 
-Rule 2021/0 (Power=2)
+Rule 2021/1 (Power=2)
 Chamber Procedure
 
       The Chamber Fee for a Proposal is initially 0.1 Voting
@@ -3527,12 +3513,14 @@ Chamber Procedure
              intact.
 
       An Untainted Speaker, with 2 Supporters, may Sanitise a
-      Distributed Proposal for which the Voting Period has not ended.
-      If this happens, the Proposal is Aborted as described elsewhere,
-      but remains Distributable and becomes Democratic and Sane.
+      Distributed Proposal that is not already Sane and for which the
+      Voting Period has not ended. If this happens, the Proposal is
+      Aborted as described elsewhere, but remains Distributable and
+      becomes Democratic and Sane.
 
 History:
 Created by Proposal 4282 (Goethe), 16 April 2002
+Amended(1) by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
@@ -6855,6 +6843,21 @@ Amended(2) by Proposal 4250 (harvel), 19 February 2002
 
 ----------------------------------------------------------------------
 
+Rule 2030/0 (Power=1)
+Property Protection
+
+      Rules to the contrary nonwithstanding, a provision of an adopted
+      Proposal that attemps to change the ownership of Property or
+      create a debt by any means other than by changing the Ruleset
+      shall be considered without effect, unless (a) the Proposal is
+      Democratic; and (b) the Proposal has an Adoption Index of 2 or
+      greater.
+
+History:
+Created by Proposal 4329 (Goethe), 9 June 2002
+
+----------------------------------------------------------------------
+
 Rule 1959/1 (Power=1)
 Wills
 
@@ -7776,7 +7779,7 @@ Amended(4) by Proposal 4018 (Kelly), Jun. 21 2000
 Amended(5) by Proposal 4156 (Ian), 18 May 2001
 Amended(6) by Proposal 4190 (Steve), 18 July 2001
 Amended(7) by Proposal 4322 (t), 31 May 2002
-Mutated from Power=1 to Power=2 by Proposal 4322 (t), 31 May 2002
+Power changed from 1 to 2 by Proposal 4322 (t), 31 May 2002
 
 ----------------------------------------------------------------------
 
@@ -9873,13 +9876,23 @@ Winners' Hall of Ugly Fountains
   This category includes rules commemorating Player victories.
 ----------------------------------------------------------------------
 
-Rule 2028/0 (Power=2)
-The Cabal
+Rule 2029/0 (Power=4)
+Town Fountain
 
-      Steve, Goethe, Murphy, OscarMeyr and root are each a Member of
-      The Cabal.  There are no other Members of The Cabal.
+                      /\   /\
+                      / \ / \
+                         T
+                        his
+                      Power-4
+               Rule (the first ever)
+                was placed to honor
+           The Agoran  Spirit Of The Game
+           by Goethe, Steve, Murphy, root
+           and OscarMeyr, Scamsters. Look
+           on our works, ye Marvy, but do
+      always Dance a Powerful Dance.  Hail Eris!
 
 History:
-Created by Proposal 4327 (Goethe), 9 June 2002
+Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
