@@ -21,11 +21,11 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 273 Rules:
+There are currently 272 Rules:
     1 with Power=4
    23 with Power=3
    41 with Power=2
-  208 with Power=1
+  207 with Power=1
 
 Lowest current Rule Number:           101
 Highest current Rule Number:         2062
@@ -4083,7 +4083,7 @@ Boon of Zeitgeist
       Boon of Zeitgeist.
 
 History:
-Created by Proposal 4540, 23 November 2003
+Created by Proposal 4540 (Murphy), 23 November 2003
 
 ----------------------------------------------------------------------
 
@@ -7211,20 +7211,42 @@ Winning a Game
   This Category includes Rules specifying the winner of the Game.
 ----------------------------------------------------------------------
 
-Rule 2013/0 (Power=1)
+Rule 2013/1 (Power=1)
 Champion's Contests
 
-      A Contest may be a Champion's Contest if and only if:
-            (i) its Contestmaster bears the Patent Title Current
-                Champion;
-           (ii) no other Contest is a Champion's Contest;
-          (iii) the Contest's Regulations state that it is a
-                Champion's Contest.
-      If any of these criteria cease to be true, the Contest
-      immediately ceases being a Champion's Contest.
+      If no Champion's Contest exists, the Scorekeepor or the Speaker
+      may, with 2 Support, name an existing Contest to be a Champion's
+      Contest.  The namers are encouraged to select Contests that they
+      feel would give the maximum enjoyment to Agorans as a whole, and
+      give preference to Contests run by Players who were members of
+      the most recently winning team.
+
+      The Contestmaster of a Champion's Contest ceases to be a member
+      of any team, rules to the contrary nonwithstanding.  If e ceases
+      to be Contestmaster of a Champion's Contest, e shall be assigned
+      to a team as if e were a new Player.
+
+      Each Champion's Contest begins with zero awardable points, as
+      tracked by the Scorekeepor.  At the beginning of each month, the
+      Contest's awardable points are increased by the Champion's Grant
+      contained in the Scorekeepor's Budget.
+
+      A Champion's Contest Contestmaster may publish a Notice of
+      Award, listing a positive number of Points to be awarded to a
+      team or teams.  The posting must obey all regulations for such
+      posting contained in the Contest's SLC, and award no more than
+      the Contest's awardable points, to be valid.
+
+      The effect of a valid Notice of Award is to increase the named
+      teams' points as indicated, and decrease the Contest's awardable
+      points by the same amount.
+
+      When a Team Win occurs, any Champion's Contest ceases to be a
+      Champion's Contest and loses all awardable points.
 
 History:
 Created by Proposal 4253 (Goethe), 19 February 2002
+Amended(1) by Proposal 4550 (Goethe), 24 January 2004
 
 ----------------------------------------------------------------------
 
@@ -8322,51 +8344,6 @@ Amended(1) by Proposal 2725, Oct 23 1996
 Amended(2) by Proposal 4147 (Wes), 13 May 2001
 Amended(3) by Proposal 4484 (OscarMeyr), 23 April 2003
 Amended(4) by Proposal 4533 (Murphy), 26 October 2003
-
-----------------------------------------------------------------------
-
-Rule 1990/5 (Power=1)
-Points Contests
-
-      A Contest may be a Points Contest if its ACO specifically states
-      that it is a Points Contest.  A Player may not be the
-      Contestmaster of more than one Points Contest in a single Agoran
-      month.
-
-      The Players Points Limit and Points Per Player are as set in the
-      Scorekeepor's Budget.
-
-      Once during each month that starts while the Contest exists, a
-      Points Contest's Contestmaster may post a single valid Notice of
-      Award to the Public Forum, listing any number of the Contest's
-      Contestants, and a listing a positive number of Points to be
-      awarded to each Contestant on the list.  Different Contestants
-      may be awarded different numbers of points in the same
-      listing. The posting must obey all regulations for such posting
-      contained in the Contest's SLC to be valid.
-
-      The total Points listed to be awarded to all Contestants in each
-      such monthly Notice may not exceed Points Per Player times the
-      number of Players who were Contestants of the Contest at any
-      time in the 14 days prior to the Notice.  If more points than
-      this are listed the Notice is invalid.
-
-      The total number of Points that a single Player may receive from
-      all Points Contests in a single month may not exceed the Players
-      Points Limit.  If a Points Contest Notice would bring a Player's
-      total to more points than this than the Notice is invalid for
-      that Player only.
-
-      The posting of such a Notice of Award, if valid, is an event
-      Awarding the listed Points to the listed Players.
-
-History:
-Created by Proposal 4191 (Goethe), 18 July 2001
-Amended(1) by Proposal 4357 (Sir Toby), 16 August 2002
-Amended(2) by Proposal 4398 (harvel), 23 October 2002
-Amended(3) by Proposal 4492 (Peekee), 6 May 2003
-Amended(4) by Proposal 4502 (Peekee), 5 June 2003
-Amended(5) by Proposal 4542 (Murphy), 23 November 2003
 
 ----------------------------------------------------------------------
 
