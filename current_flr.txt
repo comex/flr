@@ -3527,34 +3527,39 @@ Amended(10) by Proposal 4190 (Steve), 18 July 2001
 
 ----------------------------------------------------------------------
 
-Rule 2020/1 (Power=1)
+Rule 2020/2 (Power=1)
 Parliamentary Votes
 
-      For a Parliamentary Proposal, the Assessor will count as
-      "Preliminary Votes" after the voting period has ended:
-        1.  For the First Estate, communications from Acolyte Players
-            or their executors that would have been legal votes if the
-            Proposal had been Sane.
-        2.  For the Second Estate, communications from Politician
-            Players or their executors that would have been legal
-            votes if the Proposal had been Sane.
-        3.  For the Third Estate, communications from Scribe Players
-            or their executors that would have been legal votes if the
-            Proposal had been Sane.
+      (a) The First Estate consists of all Players who are Acolytes,
+          the Second Estate of all Players who are Politicians, and
+          the Third Estate of all Players who are Scribes.
 
-      For each Estate, if the preliminary votes of Players in that
-      Estate (both voting index and quorum) would have passed the
-      Proposal were they deemed to be Democratic votes on a Sane
-      Proposal, then that Estate shall be deemed to have cast 1 vote
-      FOR the Proposal; otherwise, that Estate shall be deemed to have
-      cast 1 vote AGAINST the Proposal. The timing of all votes cast
-      on Parliamentary Proposals shall be deemed to be an instant
-      before the end of the Voting Period. There are no other specific
-      mechanisms for casting votes on Parliamentary Proposals.
+      (b) To count the votes on a parliamentary proposal, the Assessor
+          shall first count as preliminary votes all communications
+          from Players and their Executors that would have been legal
+          votes on the proposal if it had been sane.
+
+      (c) For each Estate, the Assessor shall then use the preliminary
+          votes of the Players in that Estate to determine a voting
+          index for the Estate on the Proposal. If the voting index is
+          greater than or equal to the adoption index of the proposal,
+          then the Estate is deemed to have cast 1 vote FOR the
+          proposal; otherwise, the Estate is deemed to have cast one
+          vote AGAINST the proposal. The Estates are deemed to have
+          cast their votes a moment before the end of the voting
+          period.
+
+      (d) Quorum for parliamentary proposals is determined using
+          preliminary votes, and is calculated as it would be for a
+          democratic proposal.
+
+      (e) Votes cannot be cast on parliamentary proposals except as
+          described in this Rule.
 
 History:
 Created by Proposal 4282 (Goethe), 16 April 2002
 Amended(1) by Proposal 4352 (OscarMeyr), 7 August 2002
+Amended(2) by Proposal 4410 (Steve), 6 November 2002
 
 ----------------------------------------------------------------------
 
@@ -3720,25 +3725,19 @@ The End of the Voting Period
   the Voting Period or upon the announcement of Proposal results.
 ----------------------------------------------------------------------
 
-Rule 879/18 (Power=2)
+Rule 879/19 (Power=2)
 Quorum
 
-      An ordinary proposal achieves quorum if at least three oligarchs
-      cast votes on it, and the Speaker did not veto it.
+      (a) An ordinary proposal achieves quorum if at least three
+          oligarchs cast votes on it, and the Speaker did not veto it.
 
-      A democratic proposal achieves quorum if:
-      (1) at least one third of all active noisy players, or
-      (2) at least one fifth of all non-frozen players cast votes on
-          it.
+      (b) A democratic proposal achieves quorum if at least one third
+          of all active noisy players cast votes on it.
 
-      Quorum for a democratic proposal shall be determined from the
-      number of non-frozen players and number of active noisy players
-      at the time that the proposal was distributed, or at the time it
-      was made a democratic proposal, whichever is later.
-
-      A Parliamentary Proposal acheives quorum if at least two of the
-      entities with Voting Power on the Proposal are deemed to have
-      cast votes either FOR or AGAINST it.
+      (c) Quorum for a democratic proposal shall be determined from
+          the number of active noisy players at the time that the
+          proposal was distributed, or at the time it was made a
+          democratic proposal, whichever is later.
 
 History:
 Initial Mutable Rule 201, Jun. 30 1993
@@ -3764,6 +3763,7 @@ Amended(15) by Proposal 4276 (Steve), 28 March 2002
 Amended(16) by Proposal 4278 (harvel), 3 April 2002
 Amended(17) by Proposal 4282 (Goethe), 16 April 2002
 Amended(18) by Proposal 4311 (root), 28 May 2002
+Amended(19) by Proposal 4410 (Steve), 6 November 2002
 
 ----------------------------------------------------------------------
 
@@ -3784,7 +3784,7 @@ Amended(2) by Proposal 1531, Mar. 24 1995
 
 ----------------------------------------------------------------------
 
-Rule 955/7 (Power=3)
+Rule 955/8 (Power=3)
 Votes Required to Adopt a Proposal
 
       (a) When the Voting Period for a Proposal has ended, the
@@ -3797,10 +3797,10 @@ Votes Required to Adopt a Proposal
           shall be the number of votes for divided by the number of
           votes against.
 
-      (b) If the Voting Index is greater than or equal to the Adoption
-          Index for the Proposal, and if Quorum for the Proposal is
-          achieved, then that Proposal is adopted.  Otherwise, it
-          fails.
+      (b) If the Voting Index is greater than one, and greater than or
+          equal to the Adoption Index for the Proposal, and if Quorum
+          for the Proposal is achieved, then that Proposal is adopted.
+          Otherwise, it fails.
 
       (c) A Proposal may not have its Voting Index set except as
           described in this Rule.  A Proposal cannot be adopted except
@@ -3822,6 +3822,7 @@ Amended(4) by Proposal 3721 (Steve), Apr. 16 1998
 Amended(5) by Proposal 3818 (Chuck), Dec. 21 1998
 Amended(6) by Proposal 4263 (Steve), 4 March 2002
 Amended(7) by Proposal 4302 (Murphy), 17 May 2002
+Amended(8) by Proposal 4412 (Steve), 6 November 2002
 
 ----------------------------------------------------------------------
 
