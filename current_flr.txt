@@ -326,7 +326,7 @@ Amended(5) by Proposal 4190 (Steve), 18 July 2001
 
 ----------------------------------------------------------------------
 
-Rule 1989/0 (Power=1)
+Rule 1989/1 (Power=1)
 Prime Executors
 
       (a) The Prime Executor of an entity with respect to a certain
@@ -352,8 +352,14 @@ Prime Executors
       (d) Unless otherwise specified by the Rules, each Player is eir
           own Prime Executor.
 
+      (e) If a Player is the sole Executor of an entity, then e is the
+          Prime Executor of that entity. This provision does not apply
+          to a Player who is the sole Limited Executor, but not the
+          Executor, of an entity.
+
 History:
 Created by Proposal 4190 (Steve), 18 July 2001
+Amended(1) by Proposal 4389 (Steve), 5 October 2002
 
 ----------------------------------------------------------------------
 
@@ -1051,7 +1057,7 @@ Mutated from MI=Unanimity to MI=3 by Proposal 1482, Mar. 15 1995
 
 ----------------------------------------------------------------------
 
-Rule 1016/13 (Power=2)
+Rule 1016/14 (Power=2)
 Activity Levels
 
       Each player has an activity level, which is always exactly one
@@ -1098,6 +1104,8 @@ Activity Levels
       perform, with the exception of changing eir activity level, and
       deregistering.
 
+      Not being Active is a Win-Preventing Condition.
+
 [CFJ 718: Because of Rule 1011, a Player may not be placed On Hold
  except as specified in the Rules.]
 
@@ -1122,6 +1130,7 @@ Amended(10) by Proposal 3665 (General Chaos), Jan. 22 1998
 Amended(11) by Proposal 3740 (Repeal-O-Matic), May 8 1998
 Amended(12) by Proposal 4278 (harvel), 3 April 2002
 Amended(13) by Proposal 4385 (Steve), 17 September 2002
+Amended(14) by Proposal 4388 (OscarMeyr), 5 October 2002
 
 ----------------------------------------------------------------------
 
