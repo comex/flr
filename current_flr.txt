@@ -8123,7 +8123,7 @@ Amended(1) by Proposal 4110 (Ziggy), Feb. 13 2001
 
 ----------------------------------------------------------------------
 
-Rule 1712/9 (Power=1)
+Rule 1712/10 (Power=1)
 Distribution of Indulgences
 
       The Ideal Indulgence Circulation Level (IICL) is the number of
@@ -8137,21 +8137,28 @@ Distribution of Indulgences
       Indulgence Auctions but not yet paid for.
 
       As soon as possible after the start of each month, the Herald
-      shall Auction a number of Indulgences equal to the difference
-      between the AICL and the IICL. If the AICL is equal to or
-      greater than the IICL, no auction shall be held. To calculate
-      the difference, the Herald shall determine the number of Blots
-      and the number of Indulgences owned as published in the most
-      recent Herald's Report; other values in the formula shall be
-      determined as of the time of the start of the auction.
-      However, if the Herald makes an error in determining the
+      shall calculate the Indulgence Differential, which is equal to
+      the IICL minus the AICL, rounded down to the nearest integer.
+      To calculate the Indulgence Differential, the Herald shall
+      determine the number of Blots and the number of Indulgences
+      owned as published in the most recent Herald's Report; other
+      values in the formula shall be determined as of the time of the
+      calculation. If the Herald makes an error in determining the
       number of Indulgences to be Auctioned, in good faith, that
       number shall be allowed to stand.
 
-      The items to be auctioned are individual Indulgences, and thus
-      the number of items is equal to the number of Indulgences to be
-      Auctioned. The Auctioneer shall be the Herald, and the Auction
-      shall be conducted in Stems. Only Acolytes may bid.
+      If the Indulgence Differential is greater than zero, then the
+      Herald shall, as soon as possible after the start of that month,
+      auction a number of Indulgences equal to the Indulgence
+      Differential; if the Indulgence Differential is not greater than
+      zero, the Herald shall not auction any Indulgences that month.
+
+      In an Indulgence Auction held in accordance with this rule, the
+      items to be auctioned are individual Indulgences, and thus the
+      number of items is equal to the number of Indulgences to be
+      Auctioned. In addition, the Auctioneer shall be the Herald, and
+      the Auction shall be conducted in Stems with only Acolytes being
+      allowed to bid.
 
       Upon the satisfaction of a debt arising from an Indulgence
       Auction, the Herald shall pay out one Indulgence to the debtor
@@ -8168,6 +8175,7 @@ Amended(6) by Proposal 3938 (Murphy), Nov. 7 1999
 Amended(7) by Proposal 4018 (Kelly), Jun. 21 2000
 Amended(8) by Proposal 4074 (Elysion), Sep. 26 2000
 Amended(9) by Proposal 4085 (Blob), Nov. 16 2000
+Amended(10) by Proposal 4162 (Elysion), 11 June 2001
 
 ----------------------------------------------------------------------
 
