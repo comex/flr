@@ -21,15 +21,15 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 272 Rules:
+There are currently 273 Rules:
     1 with Power=4
    23 with Power=3
    40 with Power=2
-  208 with Power=1
+  209 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2065
-Highest Rule Number assigned so far: 2065
+Highest current Rule Number:         2066
+Highest Rule Number assigned so far: 2066
 
 ======================================================================
 Table of Contents:
@@ -4896,12 +4896,15 @@ The Clerk of the Courts
   the Courts.
 ----------------------------------------------------------------------
 
-Rule 889/11 (Power=1)
+Rule 889/12 (Power=1)
 The Clerk of the Courts
 
       The Clerk of the Courts (CotC) is an office; its holder is
       responsible for receiving and distributing Calls for Judgement
       (CFJs) and Appeals.
+
+      The CotC's Weekly Report shall include the following:
+         (i) Each Player's Orientation.
 
       The CotC's Monthly Report shall include the Stare Decisis, which
       is a list of past CFJs.  The following information shall be
@@ -4932,6 +4935,7 @@ Amended(8) by Proposal 3902 (Murphy), Sep. 6 1999
 Amended(9) by Proposal 3978 (Blob), Feb. 23 2000
 Amended(10) by Proposal 4002 (harvel), May 8 2000
 Amended(11) by Proposal 4250 (harvel), 19 February 2002
+Amended(12) by Proposal 4563 (OscarMeyr), 6 April 2004
 
 ----------------------------------------------------------------------
 
@@ -5169,12 +5173,11 @@ Amended(11) by Proposal 4424 (Steve), 16 December 2002
 
 ----------------------------------------------------------------------
 
-Rule 1871/3 (Power=1)
+Rule 1871/4 (Power=1)
 Turns for All
 
       Orientation is a stuck player switch with values unturned and
-      turned.  The Clerk of the Courts shall maintain and report
-      records for this switch.
+      turned.
 
       Whenever a player is selected as Trial Judge of a CFJ, e becomes
       turned.  Turned players are ineligible to be Trial Judge of any
@@ -5188,6 +5191,7 @@ Created by Proposal 3821 (Blob), Jan. 12 1999
 Amended(1) by Proposal 4298 (Murphy), 17 May 2002
 Amended(2) by Proposal 4342 (root), 8 July 2002
 Amended(3) by Proposal 4523 (Murphy), 28 August 2003
+Amended(4) by Proposal 4563 (OscarMeyr), 6 April 2004
 
 ----------------------------------------------------------------------
 
@@ -5199,6 +5203,18 @@ The Unready are Ineligible
 History:
 Created by Proposal 4397 (RedKnight), 17 October 2002
 Amended(1) by Proposal 4527 (Murphy), 16 September 2003
+
+----------------------------------------------------------------------
+
+Rule 2066/0 (Power=1)
+The Silent are Ineligible
+
+      When a Player becomes Silent, e becomes turned.
+
+      Whenever a Silent Player becomes unturned, e becomes turned.
+
+History:
+Created by Proposal 4564 (OscarMeyr), 6 April 2004
 
 ----------------------------------------------------------------------
 
@@ -6449,13 +6465,13 @@ The Registrar
   This Category includes Rules concerning the Office of Registrar.
 ----------------------------------------------------------------------
 
-Rule 559/21 (Power=1)
+Rule 559/22 (Power=1)
 The Registrar
 
       The Registrar is an office; its holder is responsible for
       maintaining the register of players.
 
-      The Registrar's Report shall include all of the following
+      The Registrar's Weekly Report shall include all of the following
       information:
 
          (i) a list of all registered players, with their nicknames,
@@ -6505,6 +6521,7 @@ Amended(18) by Proposal 4250 (harvel), 19 February 2002
 Amended(19) by Proposal 4259 (root), 21 February 2002
 Amended(20) by Proposal 4278 (harvel), 3 April 2002
 Amended(21) by Proposal 4435 (Murphy), 28 January 2003
+Amended(22) by Proposal 4563 (OscarMeyr), 6 April 2004
 
 ----------------------------------------------------------------------
 
@@ -7280,15 +7297,14 @@ Amended(4) by Proposal 4453 (Sherlock), 22 February 2003
 
 ----------------------------------------------------------------------
 
-Rule 2055/1 (Power=1)
+Rule 2055/2 (Power=1)
 The Scorekeepor's Budget
 
       The Scorekeepor's Budget shall contain the following:
 
         a) The Team Points Goal, a positive integer.
-        b) The Player Points Limit, a positive integer.
-        c) Points Per Player, a positive integer.
-        d) One or more scoring events, each with the following
+        b) The Champion's Grant, a positive integer.
+        c) One or more scoring events, each with the following
            information:
                i) Whether it is an award or a penalty.
               ii) The amount of the award/penalty, a positive integer.
@@ -7303,6 +7319,7 @@ The Scorekeepor's Budget
 History:
 Created by Proposal 4502 (Peekee), 5 June 2003
 Amended(1) by Proposal 4542 (Murphy), 23 November 2003
+Amended(2) by Proposal 4565 (Goethe), 6 April 2004
 
 ----------------------------------------------------------------------
 
@@ -7357,13 +7374,13 @@ Indulgences and Blots
   This Category includes Rules concerning Indulgences and Blots.
 ----------------------------------------------------------------------
 
-Rule 1377/17 (Power=1)
+Rule 1377/18 (Power=1)
 The Herald
 
       The Herald is an office; its holder is responsible for keeping
       track of Blots.
 
-      The Herald's Report shall include the following:
+      The Herald's Weekly Report shall include the following:
 
         (i)  The Stain of each Player and Fugitive from Justice.
 
@@ -7393,6 +7410,7 @@ Amended(14) by Proposal 4124 (Elysion), Mar. 28 2001
 Amended(15) by Proposal 4250 (harvel), 19 February 2002
 Amended(16) by Proposal 4272 (Murphy), 22 March 2002
 Amended(17) by Proposal 4486 (Michael), 24 April 2003
+Amended(18) by Proposal 4563 (OscarMeyr), 6 April 2004
 
 ----------------------------------------------------------------------
 
