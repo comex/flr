@@ -24,11 +24,11 @@ An ellipsis (...) indicates that the history is incomplete.
 There are currently 316 Rules:
    19 with Power=3
    34 with Power=2
-  263 with Power=1
+  264 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2010
-Highest Rule Number assigned so far: 2010
+Highest current Rule Number:         2011
+Highest Rule Number assigned so far: 2011
 
 ======================================================================
 Table of Contents:
@@ -6966,29 +6966,27 @@ Amended(2) by Proposal 4147 (Wes), 13 May 2001
 
 ----------------------------------------------------------------------
 
-Rule 1974/0 (Power=1)
+Rule 1974/1 (Power=1)
 Restriction on Minting of Bank Currencies by the Bank
 
       The Bank, by the Treasuror, may Mint new units of a Bank
       Currency only as follows:
 
-      (a) Once during the thirty day period immediately following the
-          registration of a new Player, a number of Stems not to
-          exceed five times the Basic Officer Salary per such new
-          Player, with Two Supporters;
+      (a) At any time, Without Objection, unless the Currency to be
+          Minted is Stems.
 
       (b) In the event that the Voting Entitlement Surplus exceeds the
           Bank's holdings of VEs, a number of VEs not to exceed the
           difference between the Voting Entitlement Surplus and the
-          Bank's Holdings of VEs, with Two Supporters;
-
-      (c) At any time, Without Objection.
+          Bank's Holdings of VEs, with Two Supporters.
 
       The Bank may not otherwise Mint new units of a Bank Currency
       except through the mechanism set forth in this Rule.
 
+
 History:
 Created by Proposal 4126 (Kelly), Mar. 28 2001
+Amended(1) by Proposal 4234 (Goethe), 22 November 2001
 
 ----------------------------------------------------------------------
 
@@ -7158,7 +7156,7 @@ Amended(12) by Proposal 4190 (Steve), 18 July 2001
 
 ----------------------------------------------------------------------
 
-Rule 1596/6 (Power=1)
+Rule 1596/7 (Power=1)
 Debt
 
       (a) A "debt" is an obligation arising under the Rules for one
@@ -7187,6 +7185,14 @@ Debt
           unauthorized transfer incurs a debt for the transferred
           Property to the entity that made the transfer.
 
+      (f) If two entities are each others' debtor, and all or part of
+          their debts to each other are for the same quantity (equal
+          portions) of the same fungible Property, then a public
+          announcement of this mutual debt by either entity will have
+          the effect of satisfying the equal portions of the debts for
+          both debtors as in (c) above.
+
+
 History:
 Created by Proposal 2493, Feb. 16 1996
 Amended(1) by Proposal 2626, Jun. 29 1996
@@ -7195,6 +7201,7 @@ Amended(3) by Proposal 3704 (General Chaos), Mar. 19 1998
 Amended(4) by Proposal 4018 (Kelly), Jun. 21 2000
 Amended(5) by Proposal 4037 (Oerjan), Aug. 7 2000
 Amended(6) by Proposal 4156 (Ian), 18 May 2001
+Amended(7) by Proposal 4234 (Goethe), 29 November 2001
 
 ----------------------------------------------------------------------
 
@@ -8004,6 +8011,43 @@ Amended(4) by Proposal 4211 (harvel), 10 September 2001
 
 ----------------------------------------------------------------------
 
+Rule 2011/0 (Power=1)
+Stems Weather
+
+       As soon as possible after the beginning of each month, the
+       Treasuror shall randomly Determine the Weather for the month.
+       The Weather can be one of either Foul, Fair, or Plenty, and
+       shall be determined using the following probabilities:
+                      0.20  Foul.
+                      0.30  Fair.
+                      0.20  Plenty.
+                      0.30  Same as the previous month.
+
+       When the Treasuror posts eir Determination of the Weather for a
+       month, the following events shall occur in the listed sequence
+       immediately after the Weather is Determined:
+
+            (a) A number of Stems in the Bank's possession, equal to
+                the number of Players in the game multiplied by the
+                Minimum Income, shall be Destroyed.  If this value is
+                greater than the number of Stems in the Possession of
+                the Bank, all the Stems in the Possession of the Bank
+                shall be Destroyed instead.
+            (b) A number of Stems shall be Created in the Bank's
+                Possession, equal to the number Destroyed in (a) above
+                multiplied by:
+                     0.50 if the Weather is Foul;
+                     1.00 if the Weather is Fair;
+                     1.50 if the Weather is Plenty.
+
+       The Treasuror shall announce the number of Stems Created and
+       Destroyed by this Rule in the message in which e announces the
+       Weather.
+
+History:
+Created by Proposal 4234 (Goethe), 29 November 2001
+
+----------------------------------------------------------------------
 
 
 ======================================================================
@@ -9803,7 +9847,7 @@ This Landscape, This Ruleset
 
 ----------------------------------------------------------------------
 
-Rule 2003/1 (Power=1)
+Rule 2003/2 (Power=1)
 Moving in Arcadia
 
       Every week, each Player may expend up to 10 Movement Units to
@@ -9841,12 +9885,14 @@ Moving in Arcadia
       all units of Aether within a Penguin Distance of 2 from the
       Player's current location are assigned a new Land Type and
       possibly Subtype.  For each unit of Aether affected, there is a:
+       * 0.15 probability it becomes the same type and subtype
+              as the land at the location of the exploring Player;
        * 0.10 probability it becomes Wilderness/Mountains;
        * 0.20 probability it becomes Wilderness/Hills;
        * 0.20 probability it becomes Wilderness/Forest;
        * 0.10 probability it becomes Wilderness/Desert;
-       * 0.10 probability it becomes Farmland, no subtype;
-       * 0.30 probability it becomes Water, no subtype.
+       * 0.05 probability it becomes Farmland, no subtype;
+       * 0.20 probability it becomes Water, no subtype.
 
       The random choice of new Land Type and Subtype is to be made by
       the Mapkeepor.  Affected units take on the new Land Type at the
@@ -9860,10 +9906,11 @@ Moving in Arcadia
 History:
 Created by Proposal 4207 (neil), 3 September 2001
 Amended(1) by Proposal 4215 (neil), 29 September 2001
+Amended(2) by Proposal 4229 (Goethe), 22 November 2001
 
 ----------------------------------------------------------------------
 
-Rule 2004/0 (Power=1)
+Rule 2004/1 (Power=1)
 Land Auctions
 
       As soon as possible after the tenth day of each Month, the
@@ -9883,21 +9930,25 @@ Land Auctions
         * The item to be Auctioned is the piece of Land in question.
         * The Procedure to be used is the Vickrey Auction.
         * The Auctioneer shall be the Mapkeepor.
-        * The Auction shall be conducted in Indulgences.
+        * The Default Auction Currency shall be Indulgences; however,
+          the Auctioneer may select a different Bank Currency with 2
+          Supporters.
 
 History:
 Created by Proposal 4210 (neil), 10 September 2001
+Amended(1) by Proposal 4234 (Goethe), 29 November 2001
 
 ----------------------------------------------------------------------
 
-Rule 2005/0 (Power=1)
+Rule 2005/1 (Power=1)
 Tolls
 
       A Player who owns Land may impose a Toll on any (currently
       un-Tolled) piece of Land e owns.  To do so, e must pay a Fee of
-      0.2 Indulgences and clearly and unambiguously identify the Unit
-      of Land in question, as well as the amount of the Toll for that
-      Unit of Land.
+      0.2 Indulgences and publicly announce that e is imposing a
+      Toll, clearly and unambiguously identifying the Unit of Land in
+      question, as well as the amount of the Toll for that Unit of
+      Land.
 
       A Toll is a number of VEs, Indulgences, or Papyri.  No Unit of
       Land may have a Toll in other currencies, or in more than one of
@@ -9941,12 +9992,14 @@ Tolls
       amount, e (the Mapkeepor) commits the Class 3 Crime of Not
       Feeding the Toll Under the Bridge.
 
-      A Player may remove a Toll from any Tolled Unit of Land e owns.
-      If a Player loses possession of a Unit of Land, all Tolls
-      imposed on that Unit by that Player are removed.
+      A Player may remove a Toll from any Tolled Unit of Land e owns
+      by publicly announcing that e does so.  If a Player loses
+      possession of a Unit of Land, all Tolls imposed on that Unit by
+      that Player are removed.
 
 History:
 Created by Proposal 4210 (neil), 10 September 2001
+Amended(1) by Proposal 4228 (root), 22 November 2001
 
 ----------------------------------------------------------------------
 
