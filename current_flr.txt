@@ -21,11 +21,11 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 309 Rules:
+There are currently 307 Rules:
     1 with Power=4
    21 with Power=3
    37 with Power=2
-  250 with Power=1
+  248 with Power=1
 
 Lowest current Rule Number:           101
 Highest current Rule Number:         2034
@@ -1554,36 +1554,41 @@ Amended(9) by Proposal 4147 (Wes), 13 May 2001
 
 ----------------------------------------------------------------------
 
-Rule 1431/15 (Power=1)
+Rule 1431/16 (Power=1)
 Claims of Error
 
-      A Claim of Error is a public message to the effect that a
-      specific public communication misrepresents the actual Game
-      State, and documenting the nature of the error.
+      A Claim of Error is a public message claiming that a specific
+      public communication misrepresents the actual Game State, and
+      documenting the nature of the error.  The person who sent the
+      original communication is hereafter known as the Journalist, and
+      the portion of the communication claimed to be in error is
+      hereafter known as the Yellow Document.
 
-      A Response to a Claim of Error posting publicly either a denial
-      of the Claim or an admission of the Claim. If the Claim is
-      admitted, then the Player making the admission is required to
-      post a corrected version of the relevant portion of the message
-      which was in error, before one week passes from the time the
-      Claim of Error was made. A Player who admits a Claim but does
-      not publish a correction is deemed not to have Responded to that
-      Claim.
+      A Response to a Claim of Error is a public message from the
+      Journalist that either admits or denies the claim.  An admission
+      is not valid until the Journalist posts a corrected version of
+      the Yellow Document.
 
-      A Response must be provided by the Player who is required by the
-      Rules to publish the information subject to a Claim within one
-      week of the Claim being made, unless any of the following holds:
-       * a previous Claim was made concerning the same error
-       * the relevant message has been posted more than 21 days before
-       * another message by the same Player has corrected the error
-       * the Claim is in dispute
+      If the Journalist was required by the Rules to publish the
+      information in the Yellow Document, then e must publish a
+      Response as soon as possible, unless one of the following holds:
 
-      A Player who fails to post a Response within the allotted time
-      commits the Class 1 Infraction of Delayed COE Response, to be
-      reported by the Player who posted the Claim. A Player who
-      incorrectly issues a denial of a Claim commits the Crime of
-      Wrongful COE Denial, a Class 1 Crime, unless e then admits the
-      Claim within 72 hours after the incorrect denial.
+        a) E has already published a correction.
+        b) A previous Claim was made concerning the same error.
+        c) The Claim was posted more than three weeks after the Yellow
+           Document.
+        d) The Claim is in dispute.  If the Claim ceases to be in
+           dispute, then the Journalist must publish a Response as
+           soon as possible after it ceases to be in dispute.
+
+      If the Journalist was not required by the Rules to publish the
+      information in the Yellow Document, then e is encouraged (but
+      not required) to publish a Response in a timely fashion.
+
+      A Player who incorrectly denies a Claim commits the Class 1
+      Crime of Implausible Deniability.  However, if e admits the
+      Claim within three days after the incorrect denial, then e shall
+      not be convicted of this Crime.
 
 [CFJ 919: A PF message correcting an earlier PF message by the
  same player constitutes both a COE and the Response.]
@@ -1607,6 +1612,7 @@ Amended(12) by Proposal 4011 (Wes), Jun. 1 2000
 Amended(13) by Proposal 4047 (Taral), Aug. 15 2000
 Amended(14) by Proposal 4099 (Murphy), Jan. 15 2001
 Amended(15) by Proposal 4147 (Wes), 13 May 2001
+Amended(16) by Proposal 4380 (Steve), 11 September 2002
 
 ----------------------------------------------------------------------
 
@@ -2431,6 +2437,10 @@ The Treasuror's Budget
       a Bank Currency shall not be less than the Minimum Unit Quantity
       of that Currency.
 
+      The Treasuror's Budget shall also contain the Foul Weather
+      Factor and the Weather Intensity Factor. Both are numbers
+      between 0 and 10 inclusive that are evenly divisible by 0.1.
+
       While holding the Office as Electee, the Treasuror may amend eir
       Budget, With Support.
 
@@ -2448,6 +2458,7 @@ Amended(9) by Proposal 4081 (Elysion), Oct. 30 2000
 Amended(10) by Proposal 4140 (Wes), Apr. 15 2001
 Amended(11) by Proposal 4155 (harvel), 18 May 2001
 Amended(12) by Proposal 4367 (Steve), 23 August 2002
+Amended(13) by Proposal 4383 (Sir Toby), 11 September 2002
 
 ----------------------------------------------------------------------
 
@@ -3217,34 +3228,6 @@ Amended by Rule 750, ca. Aug. 25 1994
 Infected and Amended(1) by Rule 1454, Jun. 4 1995
 Amended(2) by Proposal 1623, Jul. 17 1995
 Mutated from MI=1 to MI=2 by Proposal 2665, Sep. 12 1996
-
-----------------------------------------------------------------------
-
-Rule 1991/1 (Power=1)
-Opposite Proposals
-
-      Each time the Promotor distributes Proposals, e shall first
-      select at random a single distributable Proposal, to be known as
-      the Target. E may then distribute with these Proposals an
-      Opposite Proposal for the Target. If e does so, e may, Without 2
-      Objections, pay out 0.1 Papyri to emself.
-
-      An Opposite Proposal should be clearly marked as such.  It
-      should be substantially the opposite, in spirit or effect, of
-      its Target. An Opposite Proposal shall have the same status as
-      its Target, including AI, Sanity, Urgentness, Disinterestedness,
-      and Democraticity; except that, if the Target does not have an
-      AI of at least 2, the Opposite Proposal shall be neither
-      Democratic nor Sane.
-
-      The Promotor shall be considered to be the proposer of the
-      Opposite Proposal, but shall incur no penalties as a result of
-      being its proposer. This Rule takes precedence over all Rules
-      which would impose such penalties.
-
-History:
-Created by Proposal 4194 (neil), 18 July 2001
-Amended by Proposal 4320 (t), 28 May 2002
 
 ----------------------------------------------------------------------
 
@@ -7978,17 +7961,29 @@ Amended(5) by Proposal 4337 (Sir Toby), 30 June 2002
 
 ----------------------------------------------------------------------
 
-Rule 2011/0 (Power=1)
+Rule 2011/1 (Power=1)
 Stems Weather
 
       As soon as possible after the beginning of each month, the
       Treasuror shall randomly Determine the Weather for the month.
       The Weather can be one of either Foul, Fair, or Plenty, and
-      shall be determined using the following probabilities:
-                     0.20  Foul.
-                     0.30  Fair.
-                     0.20  Plenty.
-                     0.30  Same as the previous month.
+      shall be determined as follows:
+
+        - Let FOUL be the number of Stems owned by the Bank,
+          multiplied by the Foul Weather Factor as set in the
+          Treasuror's Budget, and then rounded up to the nearest
+          integer.
+        - Let PLENTY be the number of Stems owned by all Entities,
+          excluding the Bank.
+        - Let SAME and FAIR both be the sum of FOUL and PLENTY,
+          divided by 4, rounding up to the nearest integer.
+        - Let TOTAL by the sum of FOUL, PLENTY, SAME, and FAIR.
+        - The weather shall be determined using the following
+          probabilities:
+                (FOUL   / TOTAL)  Foul.
+                (FAIR   / TOTAL)  Fair.
+                (PLENTY / TOTAL)  Plenty.
+                (SAME   / TOTAL)  Same as the previous month.
 
       When the Treasuror posts eir Determination of the Weather for a
       month, the following events shall occur in the listed sequence
@@ -7996,10 +7991,12 @@ Stems Weather
 
            (a) A number of Stems in the Bank's possession, equal to
                the number of Players in the game multiplied by the
-               Minimum Income, shall be Destroyed.  If this value is
-               greater than the number of Stems in the Possession of
-               the Bank, all the Stems in the Possession of the Bank
-               shall be Destroyed instead.
+               Minimum Income, multiplied by the Weather Intensity
+               Factor as set in the Treasuror's Budget, and then
+               rounded up to the nearest integer, shall be
+               Destroyed. If this value is greater than the number of
+               Stems in the Possession of the Bank, all the Stems in
+               the Possession of the Bank shall be Destroyed instead.
            (b) A number of Stems shall be Created in the Bank's
                Possession, equal to the number Destroyed in (a) above
                multiplied by:
@@ -8013,6 +8010,7 @@ Stems Weather
 
 History:
 Created by Proposal 4234 (Goethe), 29 November 2001
+Amended by Proposal 4383 (Sir Toby), 11 September 2002
 
 ----------------------------------------------------------------------
 
@@ -8094,15 +8092,22 @@ Winning a Game
   This Category includes Rules specifying the winner of the Game.
 ----------------------------------------------------------------------
 
-Rule 112/3 (Power=3)
+Rule 112/4 (Power=3)
 Ways to Win and Preclusions Thereof
 
-      Ways for a Player to Win a Game may be defined by other Rules.
-      Also, ways to prevent a Player from Winning a Game may be
-      defined by other Rules. A Player Wins whenever a Win condition
-      defined by one or more of those Rules occurs for that Player,
-      provided that no Win-Preventing conditions are also occurring at
-      that time for that Player.
+      A Player is eligible to Win the Game while e meets at least one
+      Win Condition, and does not meet any Win-Preventing Conditions.
+
+      Any Player may publish a Notice of Victory that lists all
+      Players eligible to Win the Game, and (for each listed Player)
+      identifies at least one Win Condition met by that Player.  If
+      this information is accurate, then the listed Players Win the
+      Game.
+
+      This is the only way to Win the Game.  If a Player would
+      otherwise Win the Game due to other Rules, then e instead meets
+      a Win Condition for one week (and may Win the Game as described
+      above).
 
 History:
 Initial Immutable Rule 112, Jun. 30 1993
@@ -8110,33 +8115,7 @@ Mutated from MI=Unanimity to MI=3 by Proposal 1268, Oct. 19 1994
 Amended(1) by Proposal 1451, Mar. 1 1995
 Amended(2) by Proposal 1735, Oct. 15 1995
 Amended(3) by Proposal 3829 (Steve), Feb. 8 1999
-
-----------------------------------------------------------------------
-
-Rule 1638/5 (Power=1)
-Announcing a Win
-
-      When one or more Win Conditions are true for a Player and no
-      Win-Preventing Conditions are, e is eligible to Win. Any Player
-      may then publish a Notice of Victory containing the following
-      information:
-
-        a) The fact that one or more Players are eligible to Win
-        b) The cause of the Win
-        c) The identity of every Player who is eligible to Win at
-           the time the message is sent
-
-      If and only if the information contained in the Notice of
-      Victory is accurate, the Player or Players who are identified
-      as being eligible to Win immediately Win the Game.
-
-History:
-Created by Proposal 2616, Jun. 1 1996
-Amended(1) by Proposal 2696, Oct. 10 1996
-Amended(2) by Proposal 3977 (Wes), Feb. 23 2000
-Amended(3) by Proposal 4019 (t), Jun. 21 2000
-Amended(4) by Proposal 4110 (Ziggy), Feb. 13 2001
-Amended(5) by Proposal 4147 (Wes), 13 May 2001
+Amended(4) by Proposal 4377 (Murphy), 11 September 2002
 
 ----------------------------------------------------------------------
 
