@@ -6959,7 +6959,7 @@ Power changed from 1 to 2 by Proposal 4626 (Goethe), 20 November 2004
 
 ----------------------------------------------------------------------
 
-Rule 2071/3 (Power=1)
+Rule 2071/4 (Power=1)
 Wacky Cards
 
       The following Classes of Cards are defined:
@@ -6990,7 +6990,7 @@ Wacky Cards
 
       * Caption: It's a Surprise!
         Quota: 1
-        Elements: Handed [2]
+        Elements: Handed [2], Delayed [3]
         Exploit: You may Draw two Cards without paying a Fee.
 
       * Caption: Discard and Draw
@@ -7015,6 +7015,7 @@ Created by Proposal 4574 (Wes), 14 May 2004
 Amended(1) by Proposal 4607 (Goethe), 8 August 2004
 Amended(2) by Proposal 4611 (OscarMeyr), 10 September 2004
 Amended(3) by Proposal 4614 (Goethe), 21 September 2004
+Amended(4) by Proposal 4627 (root), 4 December 2004
 
 ----------------------------------------------------------------------
 
