@@ -937,7 +937,7 @@ The Players
   This Category includes Rules defining and classifying Players.
 ----------------------------------------------------------------------
 
-Rule 869/11 (Power=1)
+Rule 869/12 (Power=1)
 Registered Players
 
       Any person who is not registered as a Player may do so by
@@ -953,12 +953,30 @@ Registered Players
 
       Whenever a person registers as a Player in Agora, and that
       person has not been registered as a Player in Agora at any time
-      within the 12 previous months, e becomes Unready and is subject
+      within the 365 previous days, e becomes Unready and is subject
       to a Grace Period that begins at the time of eir registration
-      and ends two months afterwards.  A Player is only subject to the
-      Grace Period resulting from eir own registration.
+      and ends sixty days afterwards, unless otherwise provided by
+      this Rule.  A Player is only subject to the Grace Period
+      resulting from eir own registration.
 
-      Whenever a Player's Grace Period ends, e becomes Ready.
+      Whenever:
+
+      (i) any Holiday occurs completely between the start of any
+          Player's Grace Period and its scheduled conclusion, or
+
+      (ii) any Player's Grace Period is scheduled to conclude during
+           any Holiday,
+
+      eir Grace Period shall be extended by a period of time equal in
+      length to that Holiday.
+
+      For the purposes of determining when a Player's Grace Period is
+      scheduled to conclude, where more than one Holiday falls fully
+      or partially within that Grace Period, the calculation shall be
+      made separately for each Holiday.
+
+      Whenever a Player's Grace Period concludes, e becomes Ready.
+
 
 [CFJ 805: "Person" here means a natural person, not a legal person
  (such as a corporation) or something named "person."
@@ -981,6 +999,7 @@ Amended(8) by Proposal 3923 (harvel), Oct. 10 1999
 Amended(9) by Proposal 4011 (Wes), Jun. 1 2000
 Amended(10) by Proposal 4147 (Wes), 13 May 2001
 Amended(11) by Proposal 4155 (harvel), 18 May 2001
+Amended(12) by Proposal 4430 (Cecilius), 16 January 2003
 
 ----------------------------------------------------------------------
 
@@ -8781,7 +8800,7 @@ Changing Speakers
   This Category includes Rules regulating changing the Speaker.
 ----------------------------------------------------------------------
 
-Rule 1647/9 (Power=1)
+Rule 1647/10 (Power=1)
 The Speaker-Elect
 
       The Speaker-Elect is an office; its holder is usually the
@@ -8794,8 +8813,8 @@ The Speaker-Elect
       the Office of Speaker-Elect, e is immediately removed from that
       Office.
 
-      The Clerk of the Courts and Justiciar cannot Nominate for the
-      Office of Speaker-Elect.
+      The Clerk of the Courts and Justiciar cannot be Nominated for
+      the Office of Speaker-Elect.
 
       When the Office of Speaker-Elect has no Electee, because of the
       Speaker-Elect becoming Speaker (or for any other reason), the
@@ -8817,6 +8836,7 @@ Amended(6) by Proposal 3902 (Murphy), Sep. 6 1999
 Amended(7) by Proposal 3974 (Elysion), Feb. 14 2000
 Amended(8) by Proposal 4246 (Steve), 19 February 2002
 Amended(9) by Proposal 4250 (harvel), 19 February 2002
+Amended(10) by Proposal 4429 (The Goddess Eris), 16 January 2003
 
 ----------------------------------------------------------------------
 
@@ -9892,7 +9912,7 @@ Created by Proposal 4197 (Goethe), 8 August 2001
 
 ----------------------------------------------------------------------
 
-Rule 2003/8 (Power=1)
+Rule 2003/9 (Power=1)
 Actions in Arcadia
 
       Every week, the number of Actions Units an entity may expend to
@@ -9947,23 +9967,23 @@ Actions in Arcadia
         any Land Type other than Aether, whether or not e is located
         at that Land Unit.
 
-      * 5 Movement Units to set the Land Type of a random Land Unit
-        that is adjacent to the Entity's current location, is of type
+      * 5 Action Units to set the Land Type of a random Land Unit that
+        is adjacent to the Entity's current location, is of type
         Aether, and is owned by the Land Bureau, to an alternating
         Land Type.  The Mapkeepor will make the random determination.
-        This movement has no effect if there are no qualifying Land
+        This action has no effect if there are no qualifying Land
         Units.  As soon as possible after a Player notifies the
         Mapkeepor of this move, the Mapkeepor must announce which Land
-        Unit, if any, is changed by this movement.  The change occurs
-        at the time of the first legal announcement from the Mapkeepor
+        Unit, if any, is changed by this action.  The change occurs at
+        the time of the first legal announcement from the Mapkeepor
         declaring which Land Unit's Land Type has changed.
 
-      * 10 Movement Units to set the Land Type of the Entity's current
+      * 10 Action Units to set the Land Type of the Entity's current
         location to any Land Type of eir choice other than Aether, if
         and only if the Unit is owned by the Land Bureau.
 
-      * 10 Movement Units to set the Land Type of any Land Unit that
-        is of type Aether to an alternating Land Type.
+      * 10 Action Units to set the Land Type of any Land Unit that is
+        of type Aether to an alternating Land Type.
 
       Unless explicitly permitted by other Rules, all other actions
       and moves in Arcadia are invalid.
@@ -9978,6 +9998,7 @@ Amended(5) by Proposal 4293 (Sir Toby), 10 May 2002
 Amended(6) by Proposal 4373 (Sir Toby), 6 September 2002
 Amended(7) by Proposal 4405 (Peekee), 23 October 2002
 Amended(8) by Proposal 4425 (SirToby), 2 January 2003
+Amended(9) by Proposal 4431 (Peekee), 16 January 2003
 
 ----------------------------------------------------------------------
 
