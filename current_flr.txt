@@ -3260,7 +3260,7 @@ Amended(16) by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
-Rule 2052/0 (Power=2)
+Rule 2052/1 (Power=2)
 Voting Potential
 
       (a) Associated with every Player is a non-negative integral
@@ -3268,16 +3268,17 @@ Voting Potential
           beginning of each new month, every Player's Voting Potential
           is set to zero.
 
-      (b) At any time, a Player may, by announcement, set their Voting
-          Potential to any positive integer N.  The Fee associated
-          with this action is the Oligarchy Charge Requirement
-          multiplied by N.
+      (b) At any time, a Player may, by announcement, increase their
+          Voting Potential by a positive integral amount, N. The Fee
+          associated with this action is the Oligarchy Charge
+          Requirement multiplied by N.
 
       (c) The Assessor is responsible for tracking these
           announcements, and recording Players' Voting Potentials.
 
 History:
 Created by Proposal 4486 (Michael), 24 April 2003
+Amended(1) by Proposal 4526 (Steve), 8 September 2003
 
 ----------------------------------------------------------------------
 
