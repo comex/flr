@@ -2557,7 +2557,7 @@ Amended(4) by Proposal 4221 (Steve), 10 October 2001
 
 ----------------------------------------------------------------------
 
-Rule 1963/5 (Power=2)
+Rule 1963/6 (Power=2)
 Eligible Oligarchs
 
       (a) A Player is ineligible to be an Oligarch if and only if any
@@ -2570,11 +2570,7 @@ Eligible Oligarchs
           (5) e is the Grand Warden of the Oligarchy; or
 
       (b) If an Oligarch becomes ineligible to be an Oligarch, the
-          GWotO shall remove that Player from the Oligarchy as soon as
-          possible.  The GWoTO removes a Player from the Oligarchy by
-          correctly announcing that at least one of the above
-          conditions is true for that Player.  The named Player ceases
-          to be an Oligarch as of the GWoTO's announcement.
+          GWotO shall remove that Player from the Oligarchy.
 
       (c) An Oligarch who ceases to be a Player ceases to be an
           Oligarch.
@@ -2586,10 +2582,11 @@ Amended(2) by Proposal 4262 (Steve), 4 March 2002
 Amended(3) by Proposal 4278 (harvel), 3 April 2002
 Amended(4) by Proposal 4458 (Steve), 3 March 2003
 Amended(5) by Proposal 4486 (Michael), 24 April 2003
+Amended(6) by Proposal 4534 (OscarMeyr), 8 November 2003
 
 ----------------------------------------------------------------------
 
-Rule 1936/10 (Power=2)
+Rule 1936/11 (Power=2)
 Oligarchic Service
 
       (a) Any Player eligible to do so may become an Oligarch at any
@@ -2598,11 +2595,8 @@ Oligarchic Service
           Player is not a Politician, and half the Oligarchy Charge
           Requirement if the Player is a Politician.
 
-      (b) By default, a Player remains an Oligarch for a period of
-          time equal to the Oligarchic Term.  The Grand Warden of the
-          Oligarchy shall remove a Player from the Oligarchy by public
-          announcement, as soon as possible after eir term expires.
-          Other rules may cause Players to cease to be Oligarchs.
+      (b) When a Player's Term of Service expires, the Grand Warden of
+          the Oligarchy shall remove that Player from the Oligarchy.
 
       (c) An Oligarch may extend their term of service by a length of
           time equal to the Oligarchic Term at any time by
@@ -2625,6 +2619,7 @@ Amended(7) by Proposal 4221 (Steve), 10 October 2001
 Amended(8) by Proposal 4307 (Steve), 28 May 2002
 Amended(9) by Proposal 4371 (Steve), 6 September 2002
 Amended(10) by Proposal 4486 (Michael), 24 April 2003
+Amended(11) by Proposal 4534 (OscarMeyr), 8 November 2003
 
 ----------------------------------------------------------------------
 
