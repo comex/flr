@@ -5579,7 +5579,7 @@ Amended(8) by Proposal 4298 (Murphy), 17 May 2002
 ----------------------------------------------------------------------
 
 Rule 1803/1 (Power=1)
-Judicial and Sentencying Orders
+Judicial and Sentencing Orders
 
       Judicial Orders and Sentencing Orders are executed by being sent
       to the Clerk of the Courts, but do not take effect until their
@@ -6331,6 +6331,9 @@ Notices of Infraction
       Players are encouraged to CFJ on the commission of Infractions
       only when a question of interpretation, rather than of fact,
       arises.
+
+[CFJ 1391: Only one valid Notice of Infraction may be announced for a
+ single given commission of an Infraction.]
 
 History:
 Created by Proposal 3704 (General Chaos), Mar. 19 1998
@@ -8073,6 +8076,10 @@ The Bank
           or in part:
           (1) pursuant to a properly-issued Order; or
           (2) Without Objection, at the Treasuror's discretion.
+
+[CFJ 1437: Where the Bank has been properly ordered to forgive a debt
+ denominated in a Bank Currency, only the Treasuror is both permitted
+ and required to act on the Bank's behalf to forgive the debt.]
 
 History:
 Created by Proposal 1601, Jun. 19 1995
