@@ -10100,7 +10100,7 @@ Created by Proposal 4197 (Goethe), 8 August 2001
 
 ----------------------------------------------------------------------
 
-Rule 2003/4 (Power=1)
+Rule 2003/5 (Power=1)
 Moving in Arcadia
 
       Every week, each Player may expend up to 10 Movement Units, and
@@ -10126,6 +10126,16 @@ Moving in Arcadia
         * 10 Movement Units to set the Land Type of the Entity's
           current location to any Land Type of eir choice other than
           Aether, if and only if the Unit is owned by the Land Bureau.
+        * 10 Movement Units to set the Land Type of a random Land Unit
+          that is adjacent to the Entity's current location, is of
+          type Aether, and is owned by the Land Bureau, to any Land
+          Type of eir choice other than Aether. The Mapkeepor will
+          make the random determination. This movement has no effect
+          if there are no qualifying Land Units. The Mapkeepor must
+          announce which Land Unit, if any, is changed by this
+          movement. The change occurs at the time of the first legal
+          announcement from the Mapkeepor declaring which Land Unit's
+          Land Type has changed.
 
       Unless explicity permitted by other Rules, all other Moves are
       invalid.
@@ -10136,6 +10146,7 @@ Amended(1) by Proposal 4215 (neil), 29 September 2001
 Amended(2) by Proposal 4229 (Goethe), 22 November 2001
 Amended(3) by Proposal 4280 (OscarMeyr), 3 April 2002
 Amended(4) by Proposal 4283 (Goethe), 16 April 2002
+Amended(5) by Proposal 4293 (Sir Toby), 10 May 2002
 
 ----------------------------------------------------------------------
 
