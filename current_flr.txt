@@ -977,21 +977,6 @@ Amended(1) by Proposal 4172 (root), 26 June 2001
 
 ----------------------------------------------------------------------
 
-Rule 1970/2 (Power=1)
-The Usuror
-
-      The Office of the Usuror is hereby established.
-
-      The Usuror is a Limited Executor of the Bank, with the authority
-      to satisfy debts of Bonds owed by the Bank to its creditors.
-
-History:
-Created by Proposal 4126 (Kelly), Mar. 28 2001
-Amended(1) by Proposal 4144 (Blob), Apr. 22 2001
-Amended(2) by Proposal 4171 (Blob), 26 June 2001
-
-----------------------------------------------------------------------
-
 Rule 103/1 (Power=3)
 The Speaker May Not Deregister
 
@@ -2040,7 +2025,7 @@ Amended(2) by Proposal 3897 (harvel), Aug. 27 1999
 
 ----------------------------------------------------------------------
 
-Rule 1728/10 (Power=2)
+Rule 1728/9 (Power=2)
 Dependent Actions
 
       An action is Dependent (or may be performed Dependently) if
@@ -2068,8 +2053,8 @@ Dependent Actions
            (a) of this Rule and the attempt to perform the action,
 
            (1)  fewer than N Players have publicly posted Objections
-                to the performance of the action, with reasons, if the
-                action is to be performed Without N Objections; or
+                to the performance of the action, if the action is to
+                be performed Without N Objections; or
 
            (2)  at least N Players other than the Player attempting to
                 make the action have publicly posted Support for
@@ -2101,7 +2086,6 @@ Amended(7) by Proposal 3991 (Steve), Mar. 30 2000
 Amended(8) by Proposal 4011 (Wes), Jun. 1 2000
 Power changed from 1 to 2 by Proposal 4121 (Ziggy), Mar. 16 2001
 Amended(9) by Proposal 4121 (Ziggy), Mar. 16 2001
-Amended(10) by Proposal 4123 (Lindrum), Mar. 21 2001
 
 ----------------------------------------------------------------------
 
@@ -7581,6 +7565,21 @@ Amended(3) by Proposal 4018 (Kelly), Jun. 21 2000
 Bonds
   This Category includes Rules concerning Bonds and the Office of
   Usuror.
+----------------------------------------------------------------------
+
+Rule 1970/2 (Power=1)
+The Usuror
+
+      The Office of the Usuror is hereby established.
+
+      The Usuror is a Limited Executor of the Bank, with the authority
+      to satisfy debts of Bonds owed by the Bank to its creditors.
+
+History:
+Created by Proposal 4126 (Kelly), Mar. 28 2001
+Amended(1) by Proposal 4144 (Blob), Apr. 22 2001
+Amended(2) by Proposal 4171 (Blob), 26 June 2001
+
 ----------------------------------------------------------------------
 
 Rule 1985/0 (Power=1)
