@@ -381,7 +381,7 @@ Definitions
   fall into any other Category
 ----------------------------------------------------------------------
 
-Rule 1727/11 (Power=1)
+Rule 1727/12 (Power=1)
 Happy Birthday
 
       WHEREAS, in June 1993, the world's only MUD-based nomic, Nomic
@@ -422,15 +422,14 @@ Happy Birthday
       BE IT THEREFORE RESOLVED that Agora's Birthday is defined to be
       the entire day of June 30, GMT +1200, of each year;
 
-      BE IT FURTHER RESOLVED that, as close as practical to Agora's
-      Birthday (June 30 at 00:04:30 GMT+1200), the Payroll Clerk
-      shall transfer 10 Stems from the Bank to each Player;
+      BE IT FURTHER RESOLVED that, as soon as possible after the
+      beginning of Agora's Birthday, the Registrar shall pay out 10
+      Stems to each Player;
 
-      BE IT FURTHER RESOLVED that the Payroll Clerk shall transfer
-      5 Stems from the Bank to each Player who, during Agora's
-      Birthday, publicly recognizes Agora's Birthday; but no Player
-      shall receive more than one such transfer during each year's
-      Birthday Celebration.
+      BE IT FURTHER RESOLVED that, as soon as possible after the end
+      of Agora's Birthday, the Speaker shall pay out 5 Stems to each
+      Player who, during Agora's Birthday, publicly recognized Agora's
+      Birthday;
 
       BE IT FURTHER RESOLVED that the Notary may select up to three
       Contests, in existence on Agora's Birthday, which have as their
@@ -464,6 +463,7 @@ Amended(8) by Proposal 4099 (Murphy), Jan. 15 2001
 Amended(9) by Proposal 4147 (Wes), 13 May 2001
 Amended(10) by Proposal 4159 (Kelly), 5 June 2001
 Amended(11) by Proposal 4367 (Steve), 23 August 2002
+Amended(12) by Proposal 4376 (Steve), 6 September 2002
 
 ----------------------------------------------------------------------
 
@@ -2543,7 +2543,7 @@ Amended(3) by Proposal 4278 (harvel), 3 April 2002
 
 ----------------------------------------------------------------------
 
-Rule 1936/8 (Power=2)
+Rule 1936/9 (Power=2)
 Auctioning Positions in the Oligarchy
 
       (a) As soon as possible after the beginning of each month, the
@@ -2566,14 +2566,6 @@ Auctioning Positions in the Oligarchy
               different Players who are not Oligarchs, where N is the
               number of positions being Auctioned.
 
-          (5) Defaulting: a winning bidder has one week from the time
-              e is billed by the Auctioneer for eir winning bid in
-              which to pay the bill. If the bill remains unpaid for
-              more than one week, then the winning bidder is
-              considered to have defaulted. In that case, the
-              Auctioneer shall forgive the debt and penalise the
-              defaulting bidder 2 Blots.
-
       (b) A winning bidder becomes an Oligarch upon paying the bill
           for eir winning bid if e is a Politician, or upon paying
           both the bill for eir winning bid and the Base Seating Fee
@@ -2589,10 +2581,11 @@ Amended(5) by Proposal 01-005 (Steve), Feb. 2 2001
 Amended(6) by Proposal 535[2001] (Elysion), Feb. 2 2001
 Amended(7) by Proposal 4221 (Steve), 10 October 2001
 Amended(8) by Proposal 4307 (Steve), 28 May 2002
+Amended(9) by Proposal 4371 (Steve), 6 September 2002
 
 ----------------------------------------------------------------------
 
-Rule 2010/2 (Power=2)
+Rule 2010/3 (Power=2)
 Oligarchy Upkeep
 
       (a) At the beginning of each month, the GWotO shall bill each
@@ -2605,13 +2598,14 @@ Oligarchy Upkeep
 
       (b) If an Oligarch does not pay eir Oligarchy Upkeep within a
           week of the GWotO's announcement of the debt, then the GWotO
-          shall forgive the Upkeep debt, and remove the Oligarch from
-          the Oligarchy.
+          shall remove the Oligarch from the Oligarchy, and Order the
+          Bank to forgive the Upkeep debt.
 
 History:
 Created by Proposal 4221 (Steve), 10 October 2001
 Amended(1) by Proposal 4268 (Steve), 22 March 2002
 Amended(2) by Proposal 4307 (Steve), 28 May 2002
+Amended(3) by Proposal 4371 (Steve), 6 September 2002
 
 ----------------------------------------------------------------------
 
@@ -3427,7 +3421,7 @@ Amended(4) by Proposal 4282 (Goethe), 16 April 2002
 
 ----------------------------------------------------------------------
 
-Rule 1950/4 (Power=2)
+Rule 1950/5 (Power=2)
 Voting Power
 
       (a) An entity's Voting Power on an Ordinary Proposal is as
@@ -3455,14 +3449,14 @@ Voting Power
                 (c)   The Third Estate.
             (2) Any other entity, zero.
 
-      (c) The value of an entity's Voting Power for any given Chamber
+      (d) The value of an entity's Voting Power for any given Chamber
           at the beginning of each Week shall be in effect for all
           Proposals distributed during that Week. However, if a
           Proposal's Chamber is changed after it has been distributed,
           the Voting Power of each entity for that Proposal is
           redetermined at the time the Chamber is changed.
 
-      (d) An entity may cast as many votes as e wishes on a Proposal,
+      (e) An entity may cast as many votes as e wishes on a Proposal,
           in any combination, up to the limit determined by that
           entity's Voting Power on that Proposal, with the exceptions
           that:
@@ -3479,6 +3473,7 @@ Amended(1) by Proposal 4085 (Blob), Nov. 16 2000
 Amended(2) by Proposal 4221 (Steve), 10 October 2001
 Amended(3) by Proposal 4282 (Goethe), 16 April 2002
 Amended(4) by Proposal 4352 (OscarMeyr), 7 August 2002
+Amended(5) by Proposal 4370 (OscarMeyr), 6 September 2002
 
 ----------------------------------------------------------------------
 
@@ -7686,7 +7681,7 @@ Amended(1) by Proposal 4167 (root), 11 June 2001
 
 ----------------------------------------------------------------------
 
-Rule 1983/4 (Power=1)
+Rule 1983/5 (Power=1)
 Vickrey Auctions
 
       The Auction Procedure for a Vickrey Auction is the same as the
@@ -7698,6 +7693,11 @@ Vickrey Auctions
       (b) Bidding: if a bidder has the same Executor as the
           Auctioneer, then eir bids must be made
           publically. Otherwise, bidders may bid either publically, or
+          privately to the Auctioneer.
+
+      (c) Canceling Bids: if a Bidder has the same Executor as the
+          Auctioneer, then eir Bids must be canceled publically.
+          Otherwise, bidders may cancel bids either publically, or
           privately to the Auctioneer.
 
       (d) End of Auction: the Auction shall end one week after it
@@ -7723,6 +7723,7 @@ Amended(1) by Proposal 4176 (root), 7 July 2001
 Amended(2) by Proposal 4278 (harvel), 3 April 2002
 Amended(3) by Proposal 4356 (Steve), 7 August 2002
 Amended(4) by Proposal 4358 (Sir Toby), 16 August 2002
+Amended(5) by Proposal 4372 (Sir Toby), 6 September 2002
 
 ----------------------------------------------------------------------
 
@@ -8462,22 +8463,23 @@ Created by Proposal 4272 (Murphy), 22 March 2002
 
 ----------------------------------------------------------------------
 
-Rule 1962/2 (Power=1)
+Rule 1962/3 (Power=1)
 Immaculate Players
 
       An Immaculate Player is a Player whose Stain is zero.
 
       Not being Immaculate is a Win-Preventing Condition.
 
-      Being the only Immaculate Player is a Win Condition.  Upon the
-      report of such a Win, the Herald shall expunge N Blots per
-      Player, where N is the Stain of the Player(s) with the lowest
-      non-zero Stain.
+      Being the only Active Immaculate Player is a Win Condition. Upon
+      the report of such a Win, the Herald shall expunge N Blots per
+      Player, where N is the Stain of the Active Player(s) with the
+      lowest non-zero Stain.
 
 History:
 Created by Proposal 4102 (Murphy), Jan. 15 2001
 Amended(1) by Proposal 4110 (Ziggy), Feb. 13 2001
 Amended(2) by Proposal 4272 (Murphy), 22 March 2002
+Amended(3) by Proposal 4375 (RedKnight), 6 September 2002
 
 ----------------------------------------------------------------------
 
@@ -9828,45 +9830,63 @@ Created by Proposal 4197 (Goethe), 8 August 2001
 
 ----------------------------------------------------------------------
 
-Rule 2003/5 (Power=1)
+Rule 2003/6 (Power=1)
 Moving in Arcadia
 
       Every week, each Player may expend up to 10 Movement Units, and
       an Organization may expend up to 5 Movement Units, to move about
-      in the Land of Arcadia.  Movement Units are not transferrable,
+      in the Land of Arcadia. Movement Units are not transferrable,
       and do not persist from one week to the next.
 
       A player makes a move by notifying the Mapkeepor of the
-      specifics of the move.  So long as e does not spend more than
-      eir allotted number of Movement Units, a Player may move as many
+      specifics of the move. So long as e does not spend more than eir
+      allotted number of Movement Units, a Player may move as many
       times as e wishes in a single week.
 
-      Entities may expend:
-        * 2 Movement Units to move from one Land Unit to an adjacent
-          Unit if their Land Types are the same and the destination is
-          not Aether.
-        * 5 Movement Units to move from one Land Unit to an adjacent
-          Unit if their Land Types differ and the destination is not
-          Aether;
-        * 5 Movement Units to set Land Type of a Land Unit which e
-          owns to any Land Type other than Aether, whether or not e is
-          located at that Land Unit.
-        * 10 Movement Units to set the Land Type of the Entity's
-          current location to any Land Type of eir choice other than
-          Aether, if and only if the Unit is owned by the Land Bureau.
-        * 10 Movement Units to set the Land Type of a random Land Unit
-          that is adjacent to the Entity's current location, is of
-          type Aether, and is owned by the Land Bureau, to any Land
-          Type of eir choice other than Aether. The Mapkeepor will
-          make the random determination. This movement has no effect
-          if there are no qualifying Land Units. The Mapkeepor must
-          announce which Land Unit, if any, is changed by this
-          movement. The change occurs at the time of the first legal
-          announcement from the Mapkeepor declaring which Land Unit's
-          Land Type has changed.
+      When a move specifies an alternating Land Type, the Land Type
+      chosen will be based upon the Land Type used as the previous
+      alternating Land Type. The next Land Type will be the one
+      non-Aether Land Type that is defined next in the Rules, after
+      the previous Land Type. If the previous Land Type is the last
+      Land Type defined in the Rules, or if no alternating Land Type
+      has ever been picked before, the next Land Type is the first
+      non-Aether Land Type defined in the Rules. As soon as possible
+      after a Player notifies the Mapkeepor of a move that specifies
+      an alternating Land Type, the Mapkeepor must announce which Land
+      Type was used for that move.
 
-      Unless explicity permitted by other Rules, all other Moves are
-      invalid.
+      Entities may expend:
+
+	* 2 Movement Units to move from one Land Unit to an adjacent
+	  Unit if their Land Types are the same and the destination is
+	  not Aether;
+
+	* 5 Movement Units to move from one Land Unit to an adjacent
+	  Unit if their Land Types differ and the destination is not
+	  Aether;
+
+	* 5 Movement Units to set Land Type of a Land Unit which e
+	  owns to any Land Type other than Aether, whether or not e is
+	  located at that Land Unit;
+
+	* 5 Movement Units to set the Land Type of a random Land Unit
+	  that is adjacent to the Entity's current location, is of
+	  type Aether, and is owned by the Land Bureau, to an
+	  alternating Land Type. The Mapkeepor will make the random
+	  determination.  This movement has no effect if there are no
+	  qualifying Land Units. As soon as possible after a Player
+	  notifies the Mapkeepor of this move, the Mapkeepor must
+	  announce which Land Unit, if any, is changed by this
+	  movement. The change occurs at the time of the first legal
+	  announcement from the Mapkeepor declaring which Land Unit's
+	  Land Type has changed.
+
+	* 10 Movement Units to set the Land Type of the Entity's
+	  current location to any Land Type of eir choice other than
+	  Aether, if and only if the Unit is owned by the Land Bureau.
+
+	* 10 Movement Units to set the Land Type of any Land Unit that
+	  is of type Aether to an alternating Land Type.
 
 History:
 Created by Proposal 4207 (neil), 3 September 2001
@@ -9875,6 +9895,7 @@ Amended(2) by Proposal 4229 (Goethe), 22 November 2001
 Amended(3) by Proposal 4280 (OscarMeyr), 3 April 2002
 Amended(4) by Proposal 4283 (Goethe), 16 April 2002
 Amended(5) by Proposal 4293 (Sir Toby), 10 May 2002
+Amended(6) by Proposal 4373 (Sir Toby), 6 September 2002
 
 ----------------------------------------------------------------------
 
