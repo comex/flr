@@ -1370,9 +1370,8 @@ Granting Power of Attorney
               expires;
           (2) the Grantor publically withdraws the grant;
           (3) the Grantor is deregistered;
-          (4) the Assessor is mischevious;
-          (5) the Holder is deregistered or goes On Hold; or
-          (6) the Holder has held the PoA continuously for three
+          (4) the Holder is deregistered or goes On Hold; or
+          (5) the Holder has held the PoA continuously for three
               months.
 
       (e) Nothing in this Rule shall be construed as preventing other
