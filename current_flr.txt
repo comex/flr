@@ -21,14 +21,14 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 315 Rules:
+There are currently 317 Rules:
    19 with Power=3
    34 with Power=2
-  262 with Power=1
+  264 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2001
-Highest Rule Number assigned so far: 2001
+Highest current Rule Number:         2003
+Highest Rule Number assigned so far: 2003
 
 ======================================================================
 Table of Contents:
@@ -8036,22 +8036,46 @@ Amended(2) by Proposal 4196 (neil), 26 July 2001
 
 ----------------------------------------------------------------------
 
-Rule 1979/0 (Power=1)
+Rule 1979/1 (Power=1)
 Treasuror's Moratorium on Bond Purchases
 
-      The Treasuror may place or remove a moratorium on all bond
-      purchases with Support. Once a moratorium has been placed the
-      Bank may not purchase any Bonds until the veto is removed.
+      The Treasuror may, with Support, place or remove a moratorium on
+      bond purchases in any specific Bank currency.  Once a moratorium
+      has been placed, the Bank may not purchase any Bonds with a face
+      value in that currency, until that moratorium is removed.
 
-      If a moratorium is in place, the Treasuror must report this in
+      The Treasuror must report any moratoria currently in place in
       eir Monthly Report.
 
 History:
 Created by Proposal 4144 (Blob), Apr. 22 2001
+Amended(1) by Proposal 4206 (neil), 3 September 2001
 
 ----------------------------------------------------------------------
 
+Rule 2002/0 (Power=1)
+Bond Fraud
 
+      A Player who sells to the Bank a Bond issued by an entity:
+       * of which e is an Executor, which e is in collusion with, or
+         an Executor of which e is in collusion with, and
+       * that e believes will not, at the date of maturity, or does
+         not, if the Bond is already mature, have funds to cover
+         redemption of said Bond,
+      commits the Class 5 Crime of Bond Fraud.  If it is judged that a
+      player has committed Bond Fraud, the Judge shall order that all
+      unlawful gains from said instance of Bond Fraud be disgorged.
+
+      If the Executor of the issuer of a Bond used to commit Bond
+      Fraud is not the Player who was charged with Bond Fraud, and
+      said Executor knew that the Bond in question would be used for
+      such a purpose, e commits the Class 4 Crime of Conspiracy to
+      Commit Bond Fraud.
+
+History:
+Created by Proposal 4206 (neil), 3 September 2001
+
+----------------------------------------------------------------------
 
 ======================================================================
 Stems
@@ -9928,5 +9952,64 @@ This Landscape, This Ruleset
       changes the Power of a Rule, the Land Type at the Rule's
       Location shall be changed as above.  Land Types may still be
       changed by other Rules.
+
+----------------------------------------------------------------------
+
+Rule 2003/0 (Power=1)
+Moving in Arcadia
+
+      Every week, each Player may expend up to 10 Movement Units to
+      move about in the Land of Arcadia.  Movement Units are not
+      transferrable, and do not persist from one week to the next.
+
+      A player makes a Move by notifying the Mapkeepor of the location
+      (the Destination) into which e is attempting to move.  If the
+      Player has enough Movement Units left this week, and the Move is
+      valid, the Player's Location is changed to the Destination.  So
+      long as e does not spend more than eir allotted number of
+      Movement Units, a Player may move as many times as e wishes in a
+      single week.
+
+      The Mapkeepor's Report shall list, for each Player:
+        * the Player's location at the beginning of the last week
+        * the Player's location at the beginning of the current week
+
+      Players may expend:
+        * 10 Movement Units to move into an adjacent unit of Type
+          Wilderness, Subtype Mountains.
+        *  5 Movement Units to move into an adjacent unit of Type
+          Wilderness, Subtype Hills.
+        *  3 Movement Units to move into an adjacent unit of Type
+          Wilderness, Subtype Forest or Desert.
+        *  3 Movement Units to move into an adjacent unit of Type
+          Wilderness with no Subtype.
+        *  2 Movement Units to move into an adjacent unit of Type
+          Farmland.
+        *  1 Movement Unit to move into an adjacent unit of Type
+           Urbana.
+
+      A player may also expend 10 Movement Units to Explore, by
+      notifying the Mapkeepor that e does so.  If a Player Explores,
+      all units of Aether within a Penguin Distance of 2 from the
+      Player's current location are assigned a new Land Type and
+      possibly Subtype.  For each unit of Aether affected, there is a:
+       * 0.10 probability it becomes Winderness/Mountains;
+       * 0.20 probability it becomes Winderness/Hills;
+       * 0.20 probability it becomes Winderness/Forest;
+       * 0.10 probability it becomes Winderness/Desert;
+       * 0.10 probability it becomes Farmland, no subtype;
+       * 0.30 probability it becomes Water, no subtype.
+
+      The random choice of new Land Type and Subtype is to be made by
+      the Mapkeepor.  Affected units take on the new Land Type at the
+      beginning of the next week, and all such changes shall be
+      indicated in the Mapkeepor's Report for that week.
+
+      Moves explicitly allowed by this Rule, including Exploring, are
+      valid, unless made invalid by other Rules.  Unless explicity
+      permitted by other Rules, all other Moves are invalid.
+
+History:
+Created by Proposal 4207 (neil), 3 September 2001
 
 ----------------------------------------------------------------------
