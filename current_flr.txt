@@ -21,14 +21,14 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 304 Rules:
+There are currently 305 Rules:
    19 with Power=3
-   37 with Power=2
+   38 with Power=2
   248 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2027
-Highest Rule Number assigned so far: 2027
+Highest current Rule Number:         2028
+Highest Rule Number assigned so far: 2028
 
 ======================================================================
 Table of Contents:
@@ -69,6 +69,7 @@ Table of Contents:
   The Notary
   Groups and Contests
   The Land of Arcadia
+  Winners' Hall of Ugly Fountains
 ----------------------------------------------------------------------
 
 
@@ -2791,15 +2792,20 @@ Amended(6) by Proposal 3445 (General Chaos), Mar. 26 1997, substantial
 
 ----------------------------------------------------------------------
 
-Rule 594/3 (Power=2)
+Rule 594/4 (Power=2)
 Proposals and Rule Changes
 
-      When a Proposal is adopted, its Power becomes equal to its
-      Adoption Index, and the provisions contained in the text of the
-      Proposal are implemented to the maximal extent permitted by the
-      Rules.  Provisions which are unclear, ambiguous, or inapplicable
-      are ignored.  In a Proposal containing more than one provision,
-      each provision is severable from the others, unless the Proposal
+      When a Proposal takes effect:
+           (a) if the Proposer is a Member of The Cabal (as explicitly
+               defined by the Rules) when the Proposal takes effect,
+               the Proposal's Power is set equal to its Voting Index;
+           (b) otherwise, its power is set equal to 1;
+      and the provisions contained in the text of the Proposal are
+      implemented to the maximal extent permitted by the Rules.
+
+      Provisions which are unclear, ambiguous, or inapplicable are
+      ignored.  In a Proposal containing more than one provision, each
+      provision is severable from the others, unless the Proposal
       states otherwise.
 
       For the purpose of the Rules, the application of an adopted
@@ -2817,6 +2823,7 @@ Amended(1) by Proposal 1323, Nov. 21 1994
 Amended(2) by Proposal 2399, Jan. 20 1996
 Amended(3) by Proposal 3445 (General Chaos), Mar 26 1997, substantial
 Power changed from 1 to 2 by Proposal 4111 (Elysion), Feb. 20 2001
+Amended(4) by Proposal 4327 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
@@ -9858,5 +9865,21 @@ Sente and Gote
 History:
 Created by Proposal 4283 (Goethe), 16 April 2002
 Amended by Proposal 4308 (Sir Toby), 28 May 2002
+
+----------------------------------------------------------------------
+
+======================================================================
+Winners' Hall of Ugly Fountains
+  This category includes rules commemorating Player victories.
+----------------------------------------------------------------------
+
+Rule 2028/0 (Power=2)
+The Cabal
+
+      Steve, Goethe, Murphy, OscarMeyr and root are each a Member of
+      The Cabal.  There are no other Members of The Cabal.
+
+History:
+Created by Proposal 4327 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
