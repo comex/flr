@@ -6731,6 +6731,77 @@ Created by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
+Rule 1941/2 (Power=1)
+Fees
+
+      If the Rules associate a non-negative cost, price, charge, or
+      fee with an action, that action is a fee-based action.  If the
+      specified cost is not an integer, the actual fee is the next
+      highest integer.
+
+      To perform a fee-based action, a Player (the Actor) who is
+      otherwise permitted to perform the action must announce that e
+      is performing the action and announce that there is a fee for
+      that action.  Upon said announcement, the action is performed,
+      the Actor's kudos are decreased by the fee, and Agora's kudos
+      are increased by the fee.
+
+      Any Player (hereafter the challenger) may announce that the
+      Actor possessed insufficient Honor (kudos) to perform the
+      action, provided e issues eir challenge within 7 days of the
+      attempted action.
+
+      As soon as possible after such a challenge, the Herald shall
+      confirm or deny whether the Actor possessed kudos equal to or
+      greater than the fee at the time e attempted the action.  If the
+      Actor in fact possessed insufficient honor, or the honor of the
+      Actor cannot be determined by reasonable effort, the action
+      shall be deemed to have not occurred and the kudos of the Actor
+      (and Agora) shall be deemed to have not been changed by the fee.
+
+      If a Player issues a challenge as above, but more than 7 days
+      have passed since the attempted action, then the action shall be
+      permitted to stand.  As soon as possible after a late challenge
+      is issued, the Herald shall confirm or deny its correctness.
+      But in this case the Fee shall be recorded even if the Actor is
+      left with negative kudos.
+
+History:
+Created by Proposal 4011 (Wes), Jun. 1 2000
+Amended(1) by Proposal 4486 (Michael), 24 April 2003
+Amended(2) by Proposal 4528 (Goethe), 2 October 2003
+
+----------------------------------------------------------------------
+
+Rule 1661/10 (Power=1)
+The Right of Patronage
+
+      A Speaker who is not Tainted has the Right of Patronage. This
+      Right is the authority to, once a week, award the Boon Gold Star
+      to a single Player who has not received this award within the
+      preceding four weeks.  The Speaker must provide a reason along
+      with the Notice of Award.
+
+      Such awards are only permitted to recognize acts the Speaker
+      believes to be of benefit to the Agora community, acts that the
+      Speaker believes to exceed the call of duty, or acts that the
+      Speaker believes to be of extreme sacrifice for the good of the
+      Game.
+
+History:
+Created by Proposal 2708, Oct. 12 1996
+Amended(1) by Proposal 3463 (Harlequin), Apr. 17 1997, substantial
+Amended(2) by Proposal 3533 (General Chaos), Jul. 15 1997, substantial
+Amended(3) by Proposal 3644 (General Chaos), Dec. 29 1997
+Amended(4) by Proposal 3660 (General Chaos), Jan. 17 1998
+Amended(5) by Proposal 3823 (Oerjan), Jan. 21 1999
+Amended(6) by Proposal 3897 (harvel), Aug. 27 1999
+Amended(7) by Proposal 4018 (Kelly), Jun. 21 2000
+Amended(8) by Proposal 4033 (Chuck), Aug. 2 2000
+Amended(9) by Proposal 4151 (Kelly), 13 May 2001
+Amended(10) by Proposal 4486 (Michael), 24 April 2003
+
+----------------------------------------------------------------------
 
 ======================================================================
 Patent Titles
@@ -7126,83 +7197,6 @@ Awardable Degrees
 
 History:
 Created by Proposal 4462 (Goethe), 17 March 2003
-
-----------------------------------------------------------------------
-
-======================================================================
-Currencies
-  This Category includes Rules concerning Currencies in general.
-----------------------------------------------------------------------
-
-Rule 1941/2 (Power=1)
-Fees
-
-      If the Rules associate a non-negative cost, price, charge, or
-      fee with an action, that action is a fee-based action.  If the
-      specified cost is not an integer, the actual fee is the next
-      highest integer.
-
-      To perform a fee-based action, a Player (the Actor) who is
-      otherwise permitted to perform the action must announce that e
-      is performing the action and announce that there is a fee for
-      that action.  Upon said announcement, the action is performed,
-      the Actor's kudos are decreased by the fee, and Agora's kudos
-      are increased by the fee.
-
-      Any Player (hereafter the challenger) may announce that the
-      Actor possessed insufficient Honor (kudos) to perform the
-      action, provided e issues eir challenge within 7 days of the
-      attempted action.
-
-      As soon as possible after such a challenge, the Herald shall
-      confirm or deny whether the Actor possessed kudos equal to or
-      greater than the fee at the time e attempted the action.  If the
-      Actor in fact possessed insufficient honor, or the honor of the
-      Actor cannot be determined by reasonable effort, the action
-      shall be deemed to have not occurred and the kudos of the Actor
-      (and Agora) shall be deemed to have not been changed by the fee.
-
-      If a Player issues a challenge as above, but more than 7 days
-      have passed since the attempted action, then the action shall be
-      permitted to stand.  As soon as possible after a late challenge
-      is issued, the Herald shall confirm or deny its correctness.
-      But in this case the Fee shall be recorded even if the Actor is
-      left with negative kudos.
-
-History:
-Created by Proposal 4011 (Wes), Jun. 1 2000
-Amended(1) by Proposal 4486 (Michael), 24 April 2003
-Amended(2) by Proposal 4528 (Goethe), 2 October 2003
-
-----------------------------------------------------------------------
-
-Rule 1661/10 (Power=1)
-The Right of Patronage
-
-      A Speaker who is not Tainted has the Right of Patronage. This
-      Right is the authority to, once a week, award the Boon Gold Star
-      to a single Player who has not received this award within the
-      preceding four weeks.  The Speaker must provide a reason along
-      with the Notice of Award.
-
-      Such awards are only permitted to recognize acts the Speaker
-      believes to be of benefit to the Agora community, acts that the
-      Speaker believes to exceed the call of duty, or acts that the
-      Speaker believes to be of extreme sacrifice for the good of the
-      Game.
-
-History:
-Created by Proposal 2708, Oct. 12 1996
-Amended(1) by Proposal 3463 (Harlequin), Apr. 17 1997, substantial
-Amended(2) by Proposal 3533 (General Chaos), Jul. 15 1997, substantial
-Amended(3) by Proposal 3644 (General Chaos), Dec. 29 1997
-Amended(4) by Proposal 3660 (General Chaos), Jan. 17 1998
-Amended(5) by Proposal 3823 (Oerjan), Jan. 21 1999
-Amended(6) by Proposal 3897 (harvel), Aug. 27 1999
-Amended(7) by Proposal 4018 (Kelly), Jun. 21 2000
-Amended(8) by Proposal 4033 (Chuck), Aug. 2 2000
-Amended(9) by Proposal 4151 (Kelly), 13 May 2001
-Amended(10) by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
