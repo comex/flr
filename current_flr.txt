@@ -21,14 +21,14 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 318 Rules:
+There are currently 319 Rules:
    19 with Power=3
-   33 with Power=2
+   34 with Power=2
   266 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2015
-Highest Rule Number assigned so far: 2015
+Highest current Rule Number:         2016
+Highest Rule Number assigned so far: 2016
 
 ======================================================================
 Table of Contents:
@@ -2484,23 +2484,24 @@ Amended(4) by Proposal 4221 (Steve), 10 October 2001
 
 ----------------------------------------------------------------------
 
-Rule 1963/1 (Power=2)
+Rule 1963/2 (Power=2)
 Eligible Oligarchs
 
       (a) A Player is ineligible to be an Oligarch if and only if any
           of the following are true:
 
-            (1) e is On Hold;
-            (2) e has three or more Blots;
-            (3) e is the Speaker or the Speaker-Elect; or
-            (4) e is the Grand Warden of the Oligarchy.
+          (1) e is On Hold;
+          (2) e has three or more Blots;
+          (3) e is the Speaker;
+	  (4) e is the Electee to the Office of Speaker-Elect; or
+          (5) e is the Grand Warden of the Oligarchy.
 
       (b) If an Oligarch becomes ineligible to be an Oligarch, the
           GWotO shall remove that Player from the Oligarchy as soon as
           possible.  The GWoTO removes a Player from the Oligarchy by
           correctly announcing that at least one of the above
-          conditions has arisen for that Player. The named Player
-          ceases to be an Oligarch as of the GWoTO's announcement.
+          conditions is true for that Player.  The named Player ceases
+          to be an Oligarch as of the GWoTO's announcement.
 
       (c) An Oligarch who ceases to be a Player ceases to be an
           Oligarch.
@@ -2508,6 +2509,7 @@ Eligible Oligarchs
 History:
 Created by Proposal 01-005 (Steve), Feb. 2 2001
 Amended(1) by Proposal 4221 (Steve), 10 October 2001
+Amended(2) by Proposal 4262 (Steve), 4 March 2002
 
 ----------------------------------------------------------------------
 
@@ -2844,6 +2846,43 @@ History:
 Created by Proposal 4050 (t), Aug. 15 2000
 Amended(1) by Proposal 4139 (Ziggy), Apr. 15 2001
 Amended(2) by Proposal 4145 (Ian), Apr. 22 2001
+
+----------------------------------------------------------------------
+
+Rule 2016/0 (Power=2)
+Contested Proposals
+
+      (a) A null Proposal is a Proposal containing no provisions,
+          i.e., one that does not propose any Rule Changes, or any
+          other changes to the game state.
+
+      (b) Any Player may make a null Proposal Distributable without
+	  payment of the usual Fee, provided that no other null
+	  Proposal in the current Nomic Month has been made
+	  Distributable under this provision.
+
+      (c) The first null Proposal to be distributed in each Nomic
+          Month is a Contested Proposal.
+
+      (d) A Contested Proposal is Democratic.
+
+      (e) Notwithstanding the prevailing Mode of Voting on Proposals,
+	  voting on a Contested Proposal is always Unrestricted. This
+	  Rule takes precedence over Rules that determine the
+	  permissible methods for casting votes on Proposals.
+
+      (f) If a Contested Proposal fails Quorum, no Points are Awarded.
+
+      (g) If a Contested Proposal achieves Quorum, but fails, each
+	  Player who voted against the Proposal and did not vote for
+	  it may be Awarded 10 Points.
+
+      (h) If a Contested Proposal is adopted, each Player who voted
+          for the Proposal and did not vote against it may be Awarded
+          10 Points.
+
+History:
+Created by Proposal 4264 (Steve), 4 March 2002
 
 ----------------------------------------------------------------------
 
@@ -3533,28 +3572,27 @@ Amended(2) by Proposal 1531, Mar. 24 1995
 
 ----------------------------------------------------------------------
 
-Rule 955/5 (Power=3)
+Rule 955/6 (Power=3)
 Votes Required to Adopt a Proposal
 
-      When the Voting Period for a Proposal has ended, the
-      uncancelled votes which have been legally cast shall be counted
-      by the Assessor. The Proposal shall then be assigned a Voting
-      Index, as follows: if the Proposal received no votes opposed,
-      and at least one vote in favor, the Voting Index shall be
-      Unanimity; if there are no votes in favor, the Voting Index
-      shall be zero; in all other cases, the Voting Index shall be
-      the number of votes in favor divided by the number of votes
-      opposed.
+      (a) When the Voting Period for a Proposal has ended, the
+	  uncancelled votes which have been legally cast shall be
+	  counted by the Assessor. The Proposal shall then be assigned
+	  a Voting Index, as follows: if the Proposal received no
+	  votes against, and at least one vote for, the Voting Index
+	  shall be Unanimity; if there are no votes for, the Voting
+	  Index shall be zero; in all other cases, the Voting Index
+	  shall be the number of votes for divided by the number of
+	  votes against.
 
-      If the Voting Index is greater than the Adoption Index for the
-      Proposal, or if both equal Unanimity, and there were at
-      least three votes in favor of the Proposal, then that Proposal
-      is adopted.  Otherwise, it fails.
+      (b) If the Voting Index is greater than the Adoption Index for
+	  the Proposal (or if both equal Unanimity), and if Quorum for
+	  the Proposal is achieved, then that Proposal is adopted.
+	  Otherwise, it fails.
 
-      A Proposal may not have its Voting Index set except
-      as described in this Rule.  A Proposal may not be adopted
-      (synonymous with the Proposal passing) except as described
-      in this Rule.
+      (c) A Proposal may not have its Voting Index set except as
+	  described in this Rule.  A Proposal cannot be adopted except
+	  as described in this Rule.
 
 History:
 Initial Mutable Rule 209, Jun. 30 1993
@@ -3570,6 +3608,7 @@ Amended(3) by Proposal 1723, Oct. 6 1995
 Mutated from MI=1 to MI=3 by Proposal 2398, Jan. 20 1996
 Amended(4) by Proposal 3721 (Steve), Apr. 16 1998
 Amended(5) by Proposal 3818 (Chuck), Dec. 21 1998
+Amended(6) by Proposal 4263 (Steve), 4 March 2002
 
 ----------------------------------------------------------------------
 
