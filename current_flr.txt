@@ -3363,7 +3363,7 @@ The Assessor
 
       The Assessor's Weekly Report shall include a list of the
       identity and voting power for Proposals in each Chamber, for all
-n      entities with nonzero voting power in at least one Chamber.
+      entities with nonzero voting power in at least one Chamber.
 
       (c) The Assessor's Budget shall consist of the Voting
           Entitlements per Player (VEPP), a real multiple of 0.1
