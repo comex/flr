@@ -21,15 +21,15 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 272 Rules:
+There are currently 273 Rules:
     1 with Power=4
    23 with Power=3
    37 with Power=2
-  211 with Power=1
+  212 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2071
-Highest Rule Number assigned so far: 2072
+Highest current Rule Number:         2073
+Highest Rule Number assigned so far: 2073
 
 ======================================================================
 Table of Contents:
@@ -1669,7 +1669,7 @@ Amended(16) by Proposal 4380 (Steve), 11 September 2002
 ----------------------------------------------------------------------
 
 Rule 1550/2 (Power=1)
-Ratification
+Ratification by Proposal
 
       Any Official Document (as specified in other Rules) may be
       ratified by the operation of an adopted Proposal (but no other
@@ -5034,7 +5034,7 @@ Amended(11) by Proposal 4424 (Steve), 16 December 2002
 
 ----------------------------------------------------------------------
 
-Rule 1871/4 (Power=1)
+Rule 1871/5 (Power=1)
 Turns for All
 
       Orientation is a stuck player switch with values unturned and
@@ -5044,8 +5044,11 @@ Turns for All
       turned.  Turned players are ineligible to be Trial Judge of any
       future CFJs.
 
-      Whenever there are no players eligible to be Trial Judge of a
-      CFJ, all turned players become unturned.
+      Whenever an open CFJ has no Trial Judge assigned to it, and
+      there are no players eligible to be assigned, the Clerk of the
+      Courts shall publish a Notice of Rotation, specifying at least
+      one such CFJ.  Upon such an announcement, all turned players
+      become unturned.
 
 History:
 Created by Proposal 3821 (Blob), Jan. 12 1999
@@ -5053,6 +5056,7 @@ Amended(1) by Proposal 4298 (Murphy), 17 May 2002
 Amended(2) by Proposal 4342 (root), 8 July 2002
 Amended(3) by Proposal 4523 (Murphy), 28 August 2003
 Amended(4) by Proposal 4563 (OscarMeyr), 6 April 2004
+Amended(5) by Proposal 4596 (Murphy), 4 July 2004
 
 ----------------------------------------------------------------------
 
@@ -6938,7 +6942,7 @@ Wacky Cards
         Quota: 1
         Elements: Persistent
         Exploit: Transfer this Card to another entity. If that entity
-          does not post to a Public Forum the phrase "Hot Potato" with
+          does not post to a Public Forum the phrase "Hot Potato" within
           48 hours, they are guilty of the Class 1 Infraction of
           Dropping the Potato which you are authorized to Report.
 
@@ -7772,7 +7776,7 @@ Changing Speakers
   This Category includes Rules regulating changing the Speaker.
 ----------------------------------------------------------------------
 
-Rule 1647/11 (Power=1)
+Rule 1647/12 (Power=1)
 The Speaker-Elect
 
       The Speaker-Elect is an office; its holder is usually the
@@ -7784,9 +7788,6 @@ The Speaker-Elect
       Speaker-Elect.  If the Speaker somehow becomes the Electee to
       the Office of Speaker-Elect, e is immediately removed from that
       Office.
-
-      The Clerk of the Courts, Justiciar and Assistant Director of
-      Personnel cannot be Nominated for the Office of Speaker-Elect.
 
       When the Office of Speaker-Elect has no Electee, because of the
       Speaker-Elect becoming Speaker (or for any other reason), the
@@ -7810,6 +7811,7 @@ Amended(8) by Proposal 4246 (Steve), 19 February 2002
 Amended(9) by Proposal 4250 (harvel), 19 February 2002
 Amended(10) by Proposal 4429 (The Goddess Eris), 16 January 2003
 Amended(11) by Proposal 4576 (Murphy), 31 May 2004
+Amended(12) by Proposal 4594 (Murphy), 4 July 2004
 
 ----------------------------------------------------------------------
 
@@ -8015,7 +8017,19 @@ Amended(3) by Proposal 3703, Mar. 9 1998
 
 ----------------------------------------------------------------------
 
+Rule 2073/0 (Power=1)
+Quis Custodiet Ipsos Custodes?
 
+      Whenever the Speaker is Electee to the Office of Assistant
+      Director of Personnel, e is retired from that Office.
+
+      The Assistant Director of Personnel cannot be Nominated for the
+      Office of Speaker-Elect.
+
+History:
+Created by Proposal 4594 (Murphy), 4 July 2004
+
+----------------------------------------------------------------------
 
 ======================================================================
 Subordinate Legal Codes
