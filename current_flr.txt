@@ -6307,14 +6307,28 @@ Amended(2) by Proposal 4406 (Murphy), 30 October 2002
 
 ----------------------------------------------------------------------
 
-Rule 1505/9 (Power=1)
+Rule 1505/10 (Power=1)
 Standard Classes of Crimes and Infractions
 
       A Class N Infraction (where N is replaced with a number) is an
-      Infraction for which the penalty is N Blots.
+      Infraction for which the penalty is N Blots.  Such a penalty is
+      assessed upon the execution of a Ticketing Order that Orders the
+      Herald to record the penalty.
 
       A Class N Crime (where N is replaced with a number) is a Crime
-      for which the penalty is N Blots and a loss of 2*N Points.
+      for which the penalty is N Blots and a loss of 2*N Points.  Such
+      a penalty is assessed upon the execution of a Sentencing Order
+      that Orders the Herald to record the penalty, and a Notice of
+      Award of the Points penalty.
+
+      If such a Sentencing or Ticketing Order is vacated after the
+      Herald has already recorded the penalty, then an equal number of
+      Blots are expunged from the penalized entity.  (If the entity
+      has less Blots than the amount of the penalty, then all eir
+      Blots are expunged.)  In the case of a vacated Sentencing Order,
+      the lost Points are to be Awarded back to the penalized entity,
+      provided that the game has not been Won between the execution of
+      the Sentencing Order and its vacation.
 
 History:
 Created by Proposal 1682, Aug. 22 1995
@@ -6328,6 +6342,7 @@ Amended(6) by Rule 1505, Jan. 6 1998
 Amended(7) by Proposal 3897 (harvel), Aug. 27 1999
 Amended(8) by Proposal 4406 (Murphy), 30 October 2002
 Amended(9) by Proposal 4408 (OscarMeyr), 30 October 2002
+Amended(10) by Proposal 4416 (OscarMeyr), 16 November 2002
 
 ----------------------------------------------------------------------
 
