@@ -21,15 +21,15 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 271 Rules:
+There are currently 272 Rules:
     1 with Power=4
    23 with Power=3
    41 with Power=2
-  206 with Power=1
+  207 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2060
-Highest Rule Number assigned so far: 2060
+Highest current Rule Number:         2061
+Highest Rule Number assigned so far: 2061
 
 ======================================================================
 Table of Contents:
@@ -4065,7 +4065,17 @@ Amended(2) by Proposal 3823 (Oerjan), Jan. 21 1999
 
 ----------------------------------------------------------------------
 
+Rule 2061/0 (Power=1)
+Boon of Zeitgeist
 
+      If an Interested Democratic Proposal passes, and no Votes were
+      cast AGAINST it, then the Assessor shall award the Proposor the
+      Boon of Zeitgeist.
+
+History:
+Created by Proposal 4540, 23 November 2003
+
+----------------------------------------------------------------------
 
 ======================================================================
 Referenda and Elections
@@ -7233,34 +7243,33 @@ Amended(4) by Proposal 4453 (Sherlock), 22 February 2003
 
 ----------------------------------------------------------------------
 
-Rule 2055/0 (Power=1)
-The Scorkeepor's Budget
+Rule 2055/1 (Power=1)
+The Scorekeepor's Budget
 
       The Scorekeepor's Budget shall contain the following:
 
-      (a) The Team Points Goal, which is a positive integer;
-      (b) The PLIMIT and PPP, which are both positive integers; and
-      (c) Various Scoring Events;
+        a) The Team Points Goal, a positive integer.
+        b) The Player Points Limit, a positive integer.
+        c) Points Per Player, a positive integer.
+        d) One or more scoring events, each with the following
+           information:
+               i) Whether it is an award or a penalty.
+              ii) The amount of the award/penalty, a positive integer.
+             iii) The conditions required for the event to occur.
+              iv) A description of which player/team receives the
+                  award/penalty.
 
-      Each Scoring Event must contain the following information:
-
-      (1) Whether it is an Award or a Penalty;
-      (2) The amount of the Award or Penalty, which is a positive
-          integer;
-      (3) The conditions required for the Event to occur;
-      (4) A description of which Player or Team is to receive the
-          Award or Penalty.
-
-      If the conditions for a Scoring Event are met then the given
-      Player or Team may be Awarded or Penalized an amount of Points
-      as in that Event's description in the Scorekeepor's Budget.
+      Each scoring event in the Scorekeepor's Budget may cause the
+      specified player/team to be awarded/penalized the specified
+      number of points, as defined by other rules.
 
 History:
 Created by Proposal 4502 (Peekee), 5 June 2003
+Amended(1) by Proposal 4542 (Murphy), 23 November 2003
 
 ----------------------------------------------------------------------
 
-Rule 1929/6 (Power=1)
+Rule 1929/7 (Power=1)
 Points
 
       A Player's Score is a measure of that Player's unloserliness,
@@ -7283,6 +7292,17 @@ Points
          -- It must be the first valid notification for that specific
             event
 
+      If the event did not actually occur, and the notification is
+      challenged within 7 days for this reason, then the notification
+      is invalid and points do not change.
+
+      If the event did not actually occur, and the notification is not
+      challenged within 7 days for this reason, then the notification
+      is valid and points change.  If the notification is challenged
+      later, then the player may be penalized/awarded a number of
+      points equal to the original award/penalty.
+
+
 History:
 Created by Proposal 3977 (Wes), Feb. 23 2000
 Amended(1) by Propsoal 3993 (t), Apr. 20 2000
@@ -7291,6 +7311,7 @@ Amended(3) by Proposal 4141 (Wes), Apr. 15 2001
 Amended(4) by Proposal 4180 (Elysion), 7 July 2001
 Amended(5) by Proposal 4453 (Sherlock), 22 February 2003
 Amended(6) by Proposal 4467 (OscarMyer), 17 March 2003
+Amended(7) by Proposal 4542 (Murphy), 23 November 2003
 
 ----------------------------------------------------------------------
 
@@ -8294,7 +8315,7 @@ Amended(4) by Proposal 4533 (Murphy), 26 October 2003
 
 ----------------------------------------------------------------------
 
-Rule 1990/4 (Power=1)
+Rule 1990/5 (Power=1)
 Points Contests
 
       A Contest may be a Points Contest if its ACO specifically states
@@ -8302,7 +8323,7 @@ Points Contests
       Contestmaster of more than one Points Contest in a single Agoran
       month.
 
-      The PLIMIT and PPP (Points Per Player) are as set in the
+      The Players Points Limit and Points Per Player are as set in the
       Scorekeepor's Budget.
 
       Once during each month that starts while the Contest exists, a
@@ -8315,16 +8336,16 @@ Points Contests
       contained in the Contest's SLC to be valid.
 
       The total Points listed to be awarded to all Contestants in each
-      such monthly Notice may not exceed PPP times the number of
-      Players who were Contestants of the Contest at any time in the
-      14 days prior to the Notice.  If more points than this are
-      listed the Notice is invalid.
+      such monthly Notice may not exceed Points Per Player times the
+      number of Players who were Contestants of the Contest at any
+      time in the 14 days prior to the Notice.  If more points than
+      this are listed the Notice is invalid.
 
       The total number of Points that a single Player may receive from
-      all Points Contests in a single month may not exceed the PLIMIT.
-      If a Points Contest Notice would bring a Player's total to more
-      points than this than the Notice is invalid for that Player
-      only.
+      all Points Contests in a single month may not exceed the Players
+      Points Limit.  If a Points Contest Notice would bring a Player's
+      total to more points than this than the Notice is invalid for
+      that Player only.
 
       The posting of such a Notice of Award, if valid, is an event
       Awarding the listed Points to the listed Players.
@@ -8335,6 +8356,7 @@ Amended(1) by Proposal 4357 (Sir Toby), 16 August 2002
 Amended(2) by Proposal 4398 (harvel), 23 October 2002
 Amended(3) by Proposal 4492 (Peekee), 6 May 2003
 Amended(4) by Proposal 4502 (Peekee), 5 June 2003
+Amended(5) by Proposal 4542 (Murphy), 23 November 2003
 
 ----------------------------------------------------------------------
 
@@ -8359,7 +8381,7 @@ Amended(1) by Proposal 4494 (Peekee), 13 May 2003
 
 ----------------------------------------------------------------------
 
-Rule 2053/0 (Power=1)
+Rule 2053/1 (Power=1)
 Team Points, Team Scores
 
       A Team Score is at all times an integer.  The Team Score of a
@@ -8383,8 +8405,20 @@ Team Points, Team Scores
       -- It must be the first valid notification for that specific
          event
 
+      If the event did not actually occur, and the notification is
+      challenged within 7 days for this reason, then the notification
+      is invalid and points do not change.
+
+      If the event did not actually occur, and the notification is not
+      challenged within 7 days for this reason, then the notification
+      is valid and points change.  If the notification is challenged
+      later, then the team may be penalized/awarded a number of points
+      equal to the original award/penalty.
+
+
 History:
-Created by by Proposal 4494 (Peekee), 13 May 2003
+Created by Proposal 4494 (Peekee), 13 May 2003
+Amended(1) by Proposal 4542 (Murphy), 23 November 2003
 
 ----------------------------------------------------------------------
 
