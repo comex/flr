@@ -7297,7 +7297,7 @@ Amended(4) by Proposal 4453 (Sherlock), 22 February 2003
 
 ----------------------------------------------------------------------
 
-Rule 2055/2 (Power=1)
+Rule 2055/3 (Power=1)
 The Scorekeepor's Budget
 
       The Scorekeepor's Budget shall contain the following:
@@ -7316,10 +7316,23 @@ The Scorekeepor's Budget
       specified player/team to be awarded/penalized the specified
       number of points, as defined by other rules.
 
+      If no Team Score is greater than half the Team Points Goal,
+      then:
+          (a) Any Player may amend the Scorekeepor's budget by adding
+              a valid scoring event, provided e does so both without
+              Objection from the Scorekeepor and with Support from a
+              member of a different team;
+
+          (b) The Scorekeepor may amend the budget by adding,
+              removing, or changing scoring events, provided e does so
+              both without 3 Objections and with Support from a member
+              of a different team.
+
 History:
 Created by Proposal 4502 (Peekee), 5 June 2003
 Amended(1) by Proposal 4542 (Murphy), 23 November 2003
 Amended(2) by Proposal 4565 (Goethe), 6 April 2004
+Amended(3) by Proposal 4566 (Goethe), 11 April 2004
 
 ----------------------------------------------------------------------
 
