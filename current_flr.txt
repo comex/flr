@@ -1051,7 +1051,7 @@ Mutated from MI=Unanimity to MI=3 by Proposal 1482, Mar. 15 1995
 
 ----------------------------------------------------------------------
 
-Rule 1016/12 (Power=2)
+Rule 1016/13 (Power=2)
 Activity Levels
 
       Each player has an activity level, which is always exactly one
@@ -1087,12 +1087,16 @@ Activity Levels
       and "inactive", respectively.  "put in cold storage" is an
       unambiguous synonym for "frozen".
 
-      Only active players may vote, make proposals, or hold office.
-      Inactive players may not be required by the rules to perform any
-      duty or action unless the rules explicitly state that they can
-      require inactive players to perform that duty or action.  Frozen
-      players may not be required by the rules to perform any duty or
-      action.
+      Only an active player may vote, make proposals, hold office, or
+      be a Judge of a CFJ.  An inactive player may not be required by
+      the rules to perform any duty or action unless the rules
+      explicitly state that they can require inactive players to
+      perform that duty or action.  A frozen player may not be
+      required by the rules to perform any duty or action, and is not
+      permitted to perform any of the actions defined by the Rules
+      that non-frozen Players are explicitly permitted by the Rules to
+      perform, with the exception of changing eir activity level, and
+      deregistering.
 
 [CFJ 718: Because of Rule 1011, a Player may not be placed On Hold
  except as specified in the Rules.]
@@ -1117,6 +1121,7 @@ Amended(9) by Proposal 3475 (Murphy), May 11 1997, substantial
 Amended(10) by Proposal 3665 (General Chaos), Jan. 22 1998
 Amended(11) by Proposal 3740 (Repeal-O-Matic), May 8 1998
 Amended(12) by Proposal 4278 (harvel), 3 April 2002
+Amended(13) by Proposal 4385 (Steve), 17 September 2002
 
 ----------------------------------------------------------------------
 
@@ -2462,7 +2467,7 @@ Amended(13) by Proposal 4383 (Sir Toby), 11 September 2002
 
 ----------------------------------------------------------------------
 
-Rule 1940/5 (Power=1)
+Rule 1940/6 (Power=1)
 Periodic Compensations
 
       (a) The Rules may designate certain compensations to be periodic
@@ -2475,7 +2480,7 @@ Periodic Compensations
           periodic compensations.
 
       (c) The Payroll Clerk shall pay out the Minimum Income to each
-          Player, and shall further pay out to each Player the
+          active Player, and shall further pay out to each Player the
           designated Salary for each Office that Player held for at
           least 16 days of the previous month.
 
@@ -2495,6 +2500,7 @@ Amended(2) by Proposal 4140 (Wes), Apr. 15 2001
 Amended(3) by Proposal 4179 (Taral), 7 July 2001
 Amended(4) by Proposal 4260 (Goethe), 21 February 2002
 Amended(5) by Proposal 4361 (Steve), 16 August 2002
+Amended(6) by Proposal 4385 (Steve), 17 September 2002
 
 ----------------------------------------------------------------------
 
@@ -5032,11 +5038,12 @@ Amended(3) by Proposal 4298 (Murphy), 17 May 2002
 
 ----------------------------------------------------------------------
 
-Rule 698/9 (Power=1)
+Rule 698/10 (Power=1)
 Always an Eligible Judge
 
       Each Active Player is eligible to Judge a given CFJ, unless a
-      Rule specifically makes em ineligible.
+      Rule specifically makes em ineligible.  Non-active Players are
+      ineligible to Judge CFJs.
 
       If the Clerk of the Courts is required to select a Judge, but -
       after taking all other Rules affecting eligibility into account
@@ -5077,6 +5084,7 @@ Amended(6) by Proposal 4155 (harvel), 18 May 2001
 Amended(7) by Proposal 4178 (root), 7 July 2001
 Amended(8) by Proposal 4278 (harvel), 3 April 2002
 Amended(9) by Proposal 4298 (Murphy), 17 May 2002
+Amended(10) by Proposal 4385 (Steve), 17 September 2002
 
 ----------------------------------------------------------------------
 
@@ -7520,7 +7528,7 @@ Amended(9) by Proposal 4151 (Kelly), 13 May 2001
 
 ----------------------------------------------------------------------
 
-Rule 1887/17 (Power=1)
+Rule 1887/18 (Power=1)
 Auctions and the Default Auction Procedure
 
       When an Auction is to be held and the procedure is not
@@ -7537,8 +7545,9 @@ Auctions and the Default Auction Procedure
           which Player shall initiate it, then the Speaker shall (or
           may) initiate it.
 
-      (b) Bidders: every Player not on Hold may bid in an Auction.
-          Activity is measured at the time a Player sends eir bid.
+      (b) Bidders: every active Player may bid in an Auction;
+          non-active Players may not bid. Activity is measured at the
+          time a Player sends eir bid.
 
       (c) Auction Currency: each Auction is conducted in one
           particular currency. The Rule providing for a particular
@@ -7648,6 +7657,7 @@ Amended(14) by Proposal 4176 (root), 7 July 2001
 Amended(15) by Proposal 4249 (Murphy), 19 February 2001
 Amended(16) by Proposal 4278 (harvel), 3 April 2002
 Amended(17) by Proposal 4356 (Steve), 7 August 2002
+Amended(18) by Proposal 4385 (Steve), 17 September 2002
 
 ----------------------------------------------------------------------
 
@@ -7710,7 +7720,7 @@ Amended(5) by Proposal 4372 (Sir Toby), 6 September 2002
 
 ----------------------------------------------------------------------
 
-Rule 1984/5 (Power=1)
+Rule 1984/6 (Power=1)
 Raffles
 
       There is a type of Auction called a Raffle. The Auction
@@ -7733,11 +7743,12 @@ Raffles
           If not otherwise specified, the Ticket Price shall be equal
           to the MUQ of the Raffle Currency.
 
-      (d) Buying tickets: an entrant buys a ticket by paying a Fee
-          equal to the Ticket Price to the Bank, provided that the
-          purchase is not made before the start of the Auction, or
-          after its end.  Each entrant may buy as many tickets as e
-          likes during the Auction.
+      (d) Buying tickets: each active Player may buy tickets in the
+          Raffle; non-active Players may not buy tickets. An entrant
+          buys a ticket by paying a Fee equal to the Ticket Price to
+          the Bank, provided that the purchase is not made before the
+          start of the Raffle, or after its end.  Each entrant may buy
+          as many tickets as e likes during the Raffle.
 
       (e) End of Raffle: the Raffle ends if any of the following
           occur:
@@ -7776,6 +7787,7 @@ Amended(2) by Proposal 4177 (Elysion), 7 July 2001
 Amended(3) by Proposal 4265 (Steve), 17 March 2002
 Amended(4) by Proposal 4278 (harvel), 3 April 2002
 Amended(5) by Proposal 4356 (Steve), 7 August 2002
+Amended(6) by Proposal 4385 (Steve), 17 September 2002
 
 ----------------------------------------------------------------------
 
