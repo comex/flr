@@ -3619,6 +3619,14 @@ prevailing mode of voting on Proposals is Public."
 [CFJ 1078, Judged TRUE 8 January 1998: "Morendil violated Rule 1729 by
  voting on Proposal 3640 in the Public Forum."]
 
+[In CFJ 1354 (6 May 2002), Judge root found that Winning wasn't
+ sufficient reward to make an Insane Proposal coercive in the sense of
+ Rule 1003.  This judgement depended on root's assessment of the
+ current rewards for Winning, not on Winning's intrinsic appeal.
+ Thus, "I do not find that the possibility of awarding one Player a
+ Patent Title and 100 Stems is a sufficient 'punishment' alone to
+ coerce anyone into voting FOR the Proposal."]
+
 History:
 Created by Proposal 3527 (Oerjan), Jul. 8 1997 (unattributed)
 Amended(1) by Proposal 3833 (Vlad), Feb. 15 1999
@@ -6701,7 +6709,7 @@ Amended(6) by Proposal 4141 (Wes), Apr. 15 2001
 
 ----------------------------------------------------------------------
 
-Rule 1922/2 (Power=1)
+Rule 1922/3 (Power=1)
 Defined Regular Patent Titles
 
       The following are Patent Titles:
@@ -6734,14 +6742,21 @@ Defined Regular Patent Titles
            But lest we ruin some poor minstrel's fun
            No bard will be dis-bard for eir bad pun.
 
-       (d) Filthy Bureaucrat, to be awarded to any player who at some
+      (d)  Filthy Bureaucrat, to be awarded to any player who at some
            point simultaneously holds and is Electee to three or more
            Offices.
+
+      (e)  Groovy, which may be awarded to any Player Winning the Game
+           at least once since the introduction of this Patent Title
+           and demonstrating eir total coolness by Winning the Game at
+           least once by each of at least three distinct win
+           conditions.
 
 History:
 Created by Proposal 3916 (harvel), Sep. 27 1999
 Amended(1) by Proposal 1922 (Goethe), Mar. 28 2001
 Amended(2) by Proposal 4204 (Syllepsis), 28 August 2001
+Amended(3) by Proposal 4288 (OscarMeyr), 5 May 2002
 
 ----------------------------------------------------------------------
 
