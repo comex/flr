@@ -2675,8 +2675,7 @@ Created by Proposal 4532 (OscarMeyr), 26 October 2003
 ======================================================================
 Making Proposals
   This rather large Category includes Rules regulating the
-  submission and distribution of Proposals, the Proposal Pool,
-  and the Currency of Papyri.
+  submission and distribution of Proposals, and the Proposal Pool.
 ----------------------------------------------------------------------
 
 Rule 1483/9 (Power=1)
