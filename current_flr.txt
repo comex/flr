@@ -21,15 +21,15 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 313 Rules:
+There are currently 308 Rules:
     1 with Power=4
    22 with Power=3
    40 with Power=2
-  250 with Power=1
+  245 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2040
-Highest Rule Number assigned so far: 2040
+Highest current Rule Number:         2043
+Highest Rule Number assigned so far: 2043
 
 ======================================================================
 Table of Contents:
@@ -69,6 +69,7 @@ Table of Contents:
   Organizations
   The Notary
   Groups and Contests
+  Teams
   The Land of Arcadia
   Winners' Hall of Ugly Fountains
 ----------------------------------------------------------------------
@@ -2521,7 +2522,7 @@ Amended(6) by Proposal 4250 (harvel), 19 February 2002
 
 ----------------------------------------------------------------------
 
-Rule 1893/12 (Power=1)
+Rule 1893/14 (Power=1)
 The Treasuror's Budget
 
       The Treasuror's Budget shall contain the Basic Officer Salary
@@ -2531,10 +2532,9 @@ The Treasuror's Budget
 
         (i)  the Minimum Income;
        (ii)  the Judicial Salary;
-      (iii)  the Winner's Stipend;
-       (iv)  the Distributor's Gratuity;
-        (v)  the Speaker's Gratuity; and
-       (vi)  for each wage-earning Office, the Salary of that Office.
+      (iii)  the Distributor's Gratuity;
+       (iv)  the Speaker's Gratuity; and
+        (v)  for each wage-earning Office, the Salary of that Office.
 
       A compensation shall be not less than 0 nor more than 4, and
       must be an integral multiple of 0.1.  The arithmetic mean of all
@@ -2573,6 +2573,7 @@ Amended(10) by Proposal 4140 (Wes), Apr. 15 2001
 Amended(11) by Proposal 4155 (harvel), 18 May 2001
 Amended(12) by Proposal 4367 (Steve), 23 August 2002
 Amended(13) by Proposal 4383 (Sir Toby), 11 September 2002
+Amended(14) by Proposal 4453 (Sherlock), 22 February 2003
 
 ----------------------------------------------------------------------
 
@@ -6851,7 +6852,7 @@ Amended(9) by Proposal 4339 (Sir Toby), 8 July 2002
 
 ----------------------------------------------------------------------
 
-Rule 1922/4 (Power=1)
+Rule 1922/5 (Power=1)
 Defined Regular Patent Titles
 
       The following are Patent Titles:
@@ -6889,18 +6890,13 @@ Defined Regular Patent Titles
            Offices. This Patent Title is revoked from a player who
            ceases to hold and be Electee to three or more Offices.
 
-      (e)  Groovy, which may be awarded to any Player Winning the Game
-           at least once since the introduction of this Patent Title
-           and demonstrating eir total coolness by Winning the Game at
-           least once by each of at least three distinct win
-           conditions.
-
 History:
 Created by Proposal 3916 (harvel), Sep. 27 1999
 Amended(1) by Proposal 1922 (Goethe), Mar. 28 2001
 Amended(2) by Proposal 4204 (Syllepsis), 28 August 2001
 Amended(3) by Proposal 4288 (OscarMeyr), 5 May 2002
 Amended(4) by Propsoal 4404 (Steve), 23 October 2002
+Amended(5) by Proposal 4453 (Sherlock), 22 February 2003
 
 ----------------------------------------------------------------------
 
@@ -8162,7 +8158,7 @@ Amended(7) by Proposal 4250 (harvel), 19 February 2002
 
 ----------------------------------------------------------------------
 
-Rule 1910/6 (Power=1)
+Rule 1910/7 (Power=1)
 Stems
 
       Stems are a Bank Currency.  The MUQ of Stems is 1.  The
@@ -8174,9 +8170,8 @@ Stems
       (1) either the transferor or the transferee is the Bank;
       (2) the Stems are to be transferred from a Dissolute to a player
           who has the privilege of Looting the Corpse of that
-          Dissolute; or
-      (3) the transferee is a Group;
-      (4) either the transferor or the transferee is a Money Grubbing
+          Dissolute;
+      (3) either the transferor or the transferee is a Money Grubbing
           Contest, and the regulations of the Contest(s) involved in
           the transfer specifically permit the transfer.
 
@@ -8190,6 +8185,7 @@ Amended(3) by Proposal 535[2001] (Elysion), Feb. 2 2001
 Amended(4) by Proposal 4211 (harvel), 10 September 2001
 Amended(5) by Proposal 4337 (Sir Toby), 30 June 2002
 Amended(6) by Proposal 4386 (Peekee), 25 September 2002
+Amended(7) by Proposal 4453 (Sherlock), 22 February 2003
 
 ----------------------------------------------------------------------
 
@@ -8351,29 +8347,6 @@ Amended(4) by Proposal 4377 (Murphy), 11 September 2002
 
 ----------------------------------------------------------------------
 
-Rule 1931/2 (Power=1)
-Winners' Stipend
-
-      When a Win occurs, all persons Bearing the Patent Title of
-      Current Champion shall have that Patent Title revoked but shall
-      have the Patent Title of Champion awarded to them instead.
-      Immediately afterwards, whichever Player Won the Game (or
-      Players, should multiple  Players have Won the Game
-      simultaneously) shall be awarded the Patent Title of Current
-      Champion.
-
-      At the beginning of each month, the Payroll Clerk shall pay
-      out the Winner's Stipend to each Player that has Borne the
-      Patent Title Current Champion for a total of at least 12
-      days in the preceding month.
-
-History:
-Created by Proposal 3977 (Wes), Feb. 23 2000
-Amended(1) by Proposal 4081 (Elysion), Oct. 30 2000
-Amended(2) by Proposal 4110 (Ziggy), Feb. 13 2001
-
-----------------------------------------------------------------------
-
 Rule 2013/0 (Power=1)
 Champion's Contests
 
@@ -8391,92 +8364,38 @@ Created by Proposal 4253 (Goethe), 19 February 2002
 
 ----------------------------------------------------------------------
 
-Rule 2014/0 (Power=1)
-SemiGenii
-
-      SemiGenius is a defined regular Patent Title.
-
-      Bearing the Patent Title SemiGenius is a Win Condition.  If at
-      any time a Player Wins the Game, the Patent Title SemiGenius is
-      revoked from all those who bear it.
-
-      The Patent Title SemiGenius may only be Awarded by an valid
-      Public Announcement of SemiGeniosity naming the Awardee.  Such
-      an Announcement may only be made by the Contestmaster of a
-      Champion's Contest.  To be valid, the Announcement must be made
-      only as explicitly permitted by the Regulations of the Contest.
-
-History:
-Created by Proposal 4253 (Goethe), 19 February 2002
-
-----------------------------------------------------------------------
-
-Rule 2015/1 (Power=1)
-A Champion's Retirement
-
-      Rules to the contrary nonwithstanding, the Winner's Stipend may
-      not be changed except as permitted by this Rule.
-
-      If a Player Wins the Game by Bearing the Patent Title
-      SemiGenius, The Winner's Stipend shall be set equal to
-      proportion, rounded to the nearest multiple of 0.1, of Active
-      Players (out of total number of Active Players at the time of
-      the Win) that were Contestants, at any time since the most
-      recent previous Win, in the Champion's Contest that Awarded that
-      Patent Title.
-
-      In this case, the Scorekeepor shall pay out the Champion's
-      Pension, equal to this new Winner's Stipend times the BOS, to
-      the Contestmaster who awarded the Patent Title.
-
-      If a Player Wins the Game by any other Win Condition, the
-      Winner's Stipend shall be set to 0.5, and no Champion's Pension
-      shall be awarded.
-
-      If a Player bears the Patent Title Current Champion at the
-      beginning of four consecutive Agoran months without a Win
-      occuring, then at the beginning each month thereafter, until a
-      Win occurs, the Scorekeepor shall Bill the Player an amount
-      equal to twice the current Winner's Stipend times the BOS.
-
-History:
-Created by Proposal 4253 (Goethe), 19 February 2002
-Amended(1) by Proposal 4398 (harvel), 23 October 2002
-
-----------------------------------------------------------------------
-
-
 ======================================================================
 Points and the Scorekeepor
   This Category includes Rules on Points and the Office of the
   Scorekeepor
 ----------------------------------------------------------------------
 
-Rule 1928/3 (Power=1)
+Rule 1928/4 (Power=1)
 The Scorekeepor
 
       The Scorekeepor is an office; its holder is responsible for
-      keeping track of scores.
+      keeping track of scores and Teams.
 
       The Scorekeepor's Weekly Report shall include the score of each
-      registered player, as well as any changes thereto since the last
-      posting of the Report.
+      registered Player and all Team Scores as well as any changes to
+      either since the last posting of the Report.
 
 History:
 Created by Proposal 3977 (Wes), Feb. 23 2000
 Amended(1) by Proposal 3993 (t), Apr. 20 2000
 Amended(2) by Proposal 4002 (harvel), May 8 2000
 Amended(3) by Proposal 4250 (harvel), 19 February 2002
+Amended(4) by Proposal 4453 (Sherlock), 22 February 2003
 
 ----------------------------------------------------------------------
 
-Rule 1929/4 (Power=1)
+Rule 1929/5 (Power=1)
 Points
 
       A Player's Score is a measure of that Player's unloserliness,
       measured in Points. The Score of each Player is at all times an
       integer. A Player who has not been Awarded or Penalized since
-      the last Win has a Score of zero Points.
+      the last Team Win has a Score of zero Points.
 
       The Rules may specify that certain events may cause a certain
       Player to be Awarded Points (causing eir Score to be increased)
@@ -8493,16 +8412,13 @@ Points
          -- It must be the first such notification for that specific
             event
 
-      Having a Score of 100 Points or more is a Win Condition. If at
-      any time a Player Wins the Game, all Player's Scores shall
-      instantly be set to zero.
-
 History:
 Created by Proposal 3977 (Wes), Feb. 23 2000
 Amended(1) by Propsoal 3993 (t), Apr. 20 2000
 Amended(2) by Proposal 4141 (Wes), Apr. 15 2001
 Amended(3) by Proposal 4141 (Wes), Apr. 15 2001
 Amended(4) by Proposal 4180 (Elysion), 7 July 2001
+Amended(5) by Proposal 4453 (Sherlock), 22 February 2003
 
 ----------------------------------------------------------------------
 
@@ -8673,23 +8589,17 @@ Created by Proposal 4272 (Murphy), 22 March 2002
 
 ----------------------------------------------------------------------
 
-Rule 1962/3 (Power=1)
+Rule 1962/4 (Power=1)
 Immaculate Players
 
       An Immaculate Player is a Player whose Stain is zero.
-
-      Not being Immaculate is a Win-Preventing Condition.
-
-      Being the only Active Immaculate Player is a Win Condition. Upon
-      the report of such a Win, the Herald shall expunge N Blots per
-      Player, where N is the Stain of the Active Player(s) with the
-      lowest non-zero Stain.
 
 History:
 Created by Proposal 4102 (Murphy), Jan. 15 2001
 Amended(1) by Proposal 4110 (Ziggy), Feb. 13 2001
 Amended(2) by Proposal 4272 (Murphy), 22 March 2002
 Amended(3) by Proposal 4375 (RedKnight), 6 September 2002
+Amended(4) by Proposal 4453 (Sherlock), 22 February 2003
 
 ----------------------------------------------------------------------
 
@@ -9365,18 +9275,18 @@ Amended(7) by Proposal 4181 (Murphy), 9 July 2001
 
 ----------------------------------------------------------------------
 
-Rule 1987/1 (Power=1)
+Rule 1987/2 (Power=1)
 Classes of Organizations
 
       The following Classes of Organizations exist:
 
-        a) Groups.
-        b) Contests.
-        c) Monasteries
+        a) Contests.
+        b) Monasteries
 
 History:
 Created by Proposal 4181 (Murphy), 9 July 2001
 Amended(1) by Proposal 4436 (RedKnight), 28 January 2003
+Amended(2) by Proposal 4453 (Sherlock), 22 February 2003
 
 ----------------------------------------------------------------------
 
@@ -9563,156 +9473,6 @@ Groups and Contests
   This Category includes Rules regulating Groups and Contests.
 ----------------------------------------------------------------------
 
-Rule 766/15 (Power=1)
-Groups
-
-      A Group is an Organization with an associated SLC called its
-      Ordinances. The Administrator for each Group is that Group's
-      Ordinancekeepor, the Executor is its Vizier, and the set of
-      Players within the Jurisdiction of its SLC is its Membership.
-
-      A Group's Membership may contain any Player who is not a Member
-      of any other Group. Initially, the Group's Membership must
-      contain at least three Foundors. The Ordinancekeepor and the
-      Vizier of a Group must, at all times, be Members of the Group;
-      if either ceases to be a Member of the Group, it dissolves.
-
-      Each Group has Mint Authority.
-
-      A Group's Voting Power on a Democratic Proposal is as follows:
-
-        (a) A Group containing fewer than three members: zero;
-        (b) A Group containing at least three members: the number of
-            Players divided by the number of Groups with at least
-            three members, rounded down.
-
-[CFJ 816: There may exist more than one Group.]
-
-History:
-Created by Proposal 766 (Waggie), ca. Dec. 8 1993
-...
-Amended(1) by Proposal 1415, Feb. 1 1995
-Amended(2) by Proposal 1601, Jun. 19 1995
-Amended(3) by Proposal 1760, Oct. 21 1995
-Amended(4) by Proposal 2035, Dec. 4 1995
-Amended(5) by Proposal 2470, Feb. 16 1996
-Amended(6) by Proposal 2563, Apr. 6 1996
-Amended(7) by Proposal 2725 (Swann), Oct. 23 1996
-Amended(8) by Proposal 3502 (General Chaos), Jun. 8 1997, substantial
-Amended(9) by Proposal 3606 (General Chaos), Dec. 9 1997, substantial
-Amended(10) by Proposal "A Separation of Powers" (Steve, Without
-  Objection), Apr. 20 1999
-Amended(11) by Proposal 3937 (Wes), Oct. 31 1999
-Amended(12) by Proposal 3968 (harvel), Feb. 4 2000
-Amended(13) by Proposal 4018 (Kelly), Jun. 21 2000
-Amended(14) by Proposal 4032 (t), Jul. 24 2000
-Amended(15) by Proposal 4153 (Michael), 13 May 2001
-
-----------------------------------------------------------------------
-
-Rule 716/7 (Power=1)
-How to Form a Group
-
-      An ACO that attempts to form a Group must contain, in addition
-      to any information required elsewhere, a specification of the
-      prospective initial Ordinancekeepor and Vizier of the Group to
-      be created.  Further, an Application to Create a Group is
-      invalid, and has no effect if submitted, if any of its
-      signatories is a Member of another Group at the time of its
-      submission.
-
-History:
-Created by Proposal 716 (Chuck), ca. Nov. 4 1993
-...
-Amended(1) by Proposal 1680, Aug. 22 1995
-Amended(2) by Proposal 1754, Oct. 21 1995
-Amended(3) by Proposal 1760, Oct. 21 1995
-Amended(4) by Proposal 2653, Apr. 6 1996
-Amended(5) by Proposal 2634, Jul. 4 1996
-Amended(6) by Proposal 2725, Oct. 23 1996
-Amended(7) by Proposal 4159, 5 June 2001
-
-----------------------------------------------------------------------
-
-Rule 719/2 (Power=1)
-Joining a Group
-
-      A Player shall be added to the Membership of a Group only when:
-
-      a) the Player to be added is not already a Member of another
-         Group;
-      b) the Player to be added has sent the Vizier of the Group in
-         question a message requesting to be added to the Membership
-         of that Group; and
-      c) the addition of that Player to that Group's Membership is
-         otherwise permitted by that Group's Ordinances and the Rules.
-
-History:
-Created by Proposal 719 (Chuck), ca. Nov. 4 1993
-...
-Amended(1) by Proposal 1760, Oct. 21 1995
-Amended(2) by Proposal 2563, Apr. 6 1996
-
-----------------------------------------------------------------------
-
-Rule 721/9 (Power=1)
-The Vizier and the Ordinancekeepor
-
-      The Vizier of a Group shall be whoever the Ordinances of that
-      Group specify. If the Ordinances are silent, the Vizier shall be
-      the Player who authored the ACO that created that Group, if e is
-      still a Member of that Group.  If the Group was not created by
-      the Execution of an ACO, the Vizier shall be whoever was the
-      Vizier of that Group when it was first created.
-
-      If the Vizier thus specified is not a Member of the Group, the
-      Group shall be dissolved.
-
-      Unless the Ordinances of a Group specify otherwise, the
-      Ordinancekeepor of a Group shall be its Vizier.
-
-History:
-Created by Proposal 721 (Chuck), ca. Nov. 4 1993
-...
-Amended(1) by Proposal 1641, Aug. 1 1995
-Amended(2) by Proposal 1760, Oct. 21 1995
-Amended(3) by Proposal 2563, Apr. 6 1996
-Amended(4) by Proposal 2633, Jul. 4 1996
-Amended(5) by Proposal 2725, Oct. 23 1996
-Infected and Amended(6) by Rule 1454, Jun. 8 1997, substantial
-  (unattributed)
-Amended(7) by Rule 721, Jun. 22 1997, substantial
-Amended(8) by Proposal 3608 (General Chaos), Dec. 9 1997, substantial
-Amended(9) by Proposal 3823 (Oerjan), Jan. 21 1999
-
-----------------------------------------------------------------------
-
-Rule 718/5 (Power=1)
-Resignation from a Group
-
-      A Player who is a Member of a Group shall be removed from the
-      Jurisdiction of that Group's Ordinances when that Player sends a
-      message to the Notary and the Vizier of that Group, indicating
-      that e is resigning from that Group.  The Ordinances of a Group
-      are not permitted to prohibit a Player from sending such a
-      message.
-
-      This Rule does not in any way prevent a Player from being
-      removed from the Jurisdiction of a Group's Ordinances by other
-      means specified by the Rules or the Ordinances of that Group.
-
-History:
-Created by Proposal 718 (Chuck), ca. Nov. 4 1993
-...
-Amended(1) by Proposal 1760, Oct. 21 1995
-Amended(2) by Proposal 2563, Apr. 6 1996
-Amended(3) by Proposal 2725, Oct. 23 1996
-Infected and Amended(4) by Rule 1454, Feb. 28 1997, substantial
-  (unattributed)
-Amended(5) by Proposal 3452 (Steve), Apr. 7 1997, substantial
-
-----------------------------------------------------------------------
-
 Rule 1446/14 (Power=1)
 Contests
 
@@ -9844,6 +9604,63 @@ History:
 Created by Proposal 4337 (Sir Toby), 30 June 2002
 Amended(1) by Proposal 4357 (Sir Toby), 16 August 2002
 Amended(2) by Proposal 4398 (harvel), 23 October 2002
+
+----------------------------------------------------------------------
+
+======================================================================
+Teams
+  This Category includes Rules about Player Teams
+----------------------------------------------------------------------
+
+Rule 2041/0 (Power=1)
+Teams
+
+      All Players are grouped into units known as Teams.  No Player
+      may belong to more than one Team at any time.
+
+      Each Team shall have a Team Name by which it is known.  A Player
+      in a Team may change that Team's Team Name with the Support of
+      two other Players in the same Team.
+
+      A Team Score is at all times an integer.  The Team Score of a
+      Team is the total sum of all Points of all Players grouped into
+      that Team.
+
+History:
+Created by Proposal 4453 (Sherlock), 22 February 2003
+
+----------------------------------------------------------------------
+
+Rule 2042/0 (Power=1)
+Team Wins
+
+      A Team achieves a Team Win when its Team Score reaches 400.
+
+      The Scorekeepor shall make a public announcement of the Team Win
+      as soon as possible after the Team Win is achieved.  The
+      Scorekeepor shall then pay out 25 Stems to each Player in the
+      winning Team.
+
+      Upon the Scorekeepor's announcement, all Players' Scores are set
+      to zero.
+
+History:
+Created by Proposal 4453 (Sherlock), 22 February 2003
+
+----------------------------------------------------------------------
+
+Rule 2043/0 (Power=1)
+New Player Team Assignment
+
+      As soon as possible after a Player registers, the Scorekeepor
+      shall assign em to a Team and publicly announce the assignment.
+      The Scorekeepor shall make the assignment so as to distribute
+      the players as evenly as possible among the teams. If more than
+      one assignment would achieve this, the Scorekeepor may choose
+      among them.
+
+History:
+Created by Proposal 4453 (Sherlock), 22 February 2003
 
 ----------------------------------------------------------------------
 
@@ -10034,7 +9851,7 @@ Created by Proposal 4197 (Goethe), 8 August 2001
 
 ----------------------------------------------------------------------
 
-Rule 2003/10 (Power=1)
+Rule 2003/11 (Power=1)
 Actions in Arcadia
 
       Every week, the number of Actions Units an entity may expend to
@@ -10044,11 +9861,6 @@ Actions in Arcadia
         the Player's Stain as recorded in the most recent Herald's
         report before the week started, plus 1 for every unit of Land
         with Gote owned by the Player at the start of the week.
-
-      - If the entity is a Group, 1, plus 3 for every Member of the
-        Group located on or adjacent to the location of the Group at
-        the start of the week, plus 1 for every unit of Land with Gote
-        owned by the Group at the start of the week.
 
       - All other entities zero.
 
@@ -10077,11 +9889,6 @@ Actions in Arcadia
 
       * 5 Action Units to move from one Land Unit to an adjacent Unit
         if their Land Types differ and the destination is not Aether;
-
-      Groups may expend:
-
-      * 5 Action Units to move from its current location to the
-        location of one of its Members.
 
       Any entity may expend:
 
@@ -10122,6 +9929,7 @@ Amended(7) by Proposal 4405 (Peekee), 23 October 2002
 Amended(8) by Proposal 4425 (SirToby), 2 January 2003
 Amended(9) by Proposal 4431 (Peekee), 16 January 2003
 Amended(10) by Proposal 4434 (SirToby), 28 January 2003
+Amended(11) by Proposal 4453 (Sherlock), 22 February 2003
 
 ----------------------------------------------------------------------
 
@@ -10220,7 +10028,7 @@ Amended(2) by Proposal 4405 (Peekee), 23 October 2002
 
 ----------------------------------------------------------------------
 
-Rule 2022/4 (Power=1)
+Rule 2022/5 (Power=1)
 Sente and Gote
 
       On the fifteenth of each Agoran Month, the following actions
@@ -10246,8 +10054,8 @@ Sente and Gote
 
          (v) the Mapkeepor shall Pay Out:
              (a) an amount of Stems equal to the Minimum Income times
-                 the Basic Officer's Salary to all Players and Groups
-                 whose location has Sente;
+                 the Basic Officer's Salary to all Players whose
+                 location has Sente;
              (b) to the owner of any Land Unit that has Sente and is
                  not owned by the Bank or the Land Bureau:
                      * if the Weather is Plenty, 3 Stems for each 5
@@ -10266,6 +10074,7 @@ Amended(1) by Proposal 4308 (Sir Toby), 28 May 2002
 Amended(2) by Proposal 4367 (Steve), 23 August 2002
 Amended(3) by Proposal 4386 (Peekee), 25 September 2002
 Amended(4) by Proposal 4398 (harvel), 23 October 2002
+Amended(5) by Proposal 4453 (Sherlock), 22 February 2003
 
 ----------------------------------------------------------------------
 
