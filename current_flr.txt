@@ -6591,20 +6591,6 @@ Amended(2) by Proposal 4435 (Murphy), 28 January 2003
 
 ----------------------------------------------------------------------
 
-Rule 2037/0 (Power=1)
-Orange Alert
-
-      If a Player has no listed e-mail address, then the address used
-      to send eir next public message becomes listed.
-
-      If each Player has at least one listed address, then the
-      Registrar may repeal this Rule by announcing that e does so.
-
-History:
-Created by Proposal 4435 (Murphy), 28 January 2003
-
-----------------------------------------------------------------------
-
 ======================================================================
 The Rulekeepor
   This Category includes Rules concerning the Office of Rulekeepor,
