@@ -7395,7 +7395,7 @@ Fees
 History:
 Created by Proposal 4011 (Wes), Jun. 1 2000
 Amended(1) by Proposal 4486 (Michael), 24 April 2003
-Amended(2) by Proposal 4528 (Goethe), 1 October 2003
+Amended(2) by Proposal 4528 (Goethe), 2 October 2003
 
 ----------------------------------------------------------------------
 
