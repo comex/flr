@@ -33,7 +33,6 @@ Highest Rule Number assigned so far: 2062
 
 ======================================================================
 Table of Contents:
-  The Game of Agora
   Definitions
   The Rules
   The Players
@@ -58,7 +57,6 @@ Table of Contents:
   Kudos
   Patent Titles
   Degrees and Theses
-  Currencies
   Winning a Game
   Points and the Scorekeepor
   Indulgences and Blots
