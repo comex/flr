@@ -21,14 +21,14 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 319 Rules:
+There are currently 318 Rules:
    19 with Power=3
-   34 with Power=2
-  266 with Power=1
+   35 with Power=2
+  264 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2022
-Highest Rule Number assigned so far: 2022
+Highest current Rule Number:         2026
+Highest Rule Number assigned so far: 2026
 
 ======================================================================
 Table of Contents:
@@ -3733,7 +3733,7 @@ Amended(2) by Proposal 1531, Mar. 24 1995
 
 ----------------------------------------------------------------------
 
-Rule 955/6 (Power=3)
+Rule 955/7 (Power=3)
 Votes Required to Adopt a Proposal
 
       (a) When the Voting Period for a Proposal has ended, the
@@ -3746,10 +3746,10 @@ Votes Required to Adopt a Proposal
           shall be the number of votes for divided by the number of
           votes against.
 
-      (b) If the Voting Index is greater than the Adoption Index for
-          the Proposal (or if both equal Unanimity), and if Quorum for
-          the Proposal is achieved, then that Proposal is adopted.
-          Otherwise, it fails.
+      (b) If the Voting Index is greater than or equal to the Adoption
+          Index for the Proposal, and if Quorum for the Proposal is
+          achieved, then that Proposal is adopted.  Otherwise, it
+          fails.
 
       (c) A Proposal may not have its Voting Index set except as
           described in this Rule.  A Proposal cannot be adopted except
@@ -3770,6 +3770,7 @@ Mutated from MI=1 to MI=3 by Proposal 2398, Jan. 20 1996
 Amended(4) by Proposal 3721 (Steve), Apr. 16 1998
 Amended(5) by Proposal 3818 (Chuck), Dec. 21 1998
 Amended(6) by Proposal 4263 (Steve), 4 March 2002
+Amended(7) by Proposal 4302 (Murphy), 17 May 2002
 
 ----------------------------------------------------------------------
 
@@ -4846,26 +4847,24 @@ Calling for Judgement
   This Category includes Rules regulating calling for Judgement.
 ----------------------------------------------------------------------
 
-Rule 991/4 (Power=2)
+Rule 991/5 (Power=2)
 Invoking Judgement
 
-      Any person may seek formal resolution of any dispute pertaining
+      Any person may request formal resolution of a dispute pertaining
       to this Nomic by submitting a Call for Judgement (CFJ) to the
-      Clerk of the Courts or Justiciar.  Any document submitted to the
-      Clerk of the Courts or Justiciar and which is clearly marked as
-      a Call for Judgement is a Call for Judgement.  (Although any CFJ
-      may be filed with the Justiciar, Players are encouraged to file
-      with the CotC unless there is a good reason not to.)
+      Clerk of the Courts.  The submission of a CFJ constitutes proof
+      of the existence of such a dispute.
 
-      For the purpose of this and other Rules, the submission of a CFJ
-      shall constitute proof of the existence of a dispute.
+      A CFJ should be a single clearly-labeled Statement whose truth
+      or falsity can be determined using logical reasoning, assuming
+      perfect knowledge.  A CFJ may be accompanied by Arguments,
+      Evidence, or other related material; the Judge is encouraged,
+      but not required, to take notice of these things.
 
-      The Clerk shall distribute the text of a CFJ along with any
-      additional material submitted by the Caller (including, but not
-      limited to, Arguments and Evidence) not later than the time e
-      announces the identity of the first Judge assigned to Judge it.
-      However, if the CFJ is submitted to the Justiciar, e shall
-      perform all duties of the Clerk of the Courts with respect to
+      The Clerk of the Courts shall publish the text of a CFJ, along
+      with any additional material submitted by the Caller (including
+      but not limited to Arguments and Evidence), no later than the
+      time e announces the identity of the first Judge assigned to
       that CFJ.
 
 [CFJ 888: Non-Players may make Calls for Judgement.]
@@ -4880,48 +4879,59 @@ Amended(2) by Proposal 2042, Dec. 11 1995
 Amended(3) by Proposal 2457, Feb. 16 1996
 Mutated from MI=1 to MI=2 by Proposal 2669, Sep. 19 1996
 Amended(4) by Proposal 4170 (Elysion), 26 June 2001
+Amended(5) by Proposal 4298 (Murphy), 17 May 2002
 
 ----------------------------------------------------------------------
 
-Rule 897/2 (Power=1)
+Rule 2023/0 (Power=1)
+Submitting a CFJ to the Justiciar
+
+      A CFJ may be submitted to the Justiciar.  For such a CFJ, the
+      Justiciar shall perform all duties and fulfill all roles that
+      would otherwise be assigned to the Clerk of the Courts.
+
+      All persons are encouraged to submit a CFJ to the Justiciar only
+      when there is a good reason not to submit it to the Clerk of the
+      Courts.
+
+History:
+Created by Proposal 4298 (Murphy), 17 May 2002
+
+----------------------------------------------------------------------
+
+Rule 897/3 (Power=1)
 Barring Players from Judgement
 
-      The Caller of a CFJ may Bar up to three Players from Judging
-      that CFJ.
-
-      Any Player whose Executor is the Caller of a CFJ is Barred from
-      Judging that CFJ.
-
-      Any Player Barred from Judging a CFJ is ineligible to Judge that
+      A Player Barred from Judging a CFJ is ineligible to Judge that
       CFJ.
 
-[CFJ 1117, Judged TRUE Feb. 6 1999: "Players may bar Players from
- Judgement in the sense of Rule 897 by specifying the Players to be
- barred at a time other than that of the submission of the CFJ."]
+      Any Player sharing an Executor with the Caller of a CFJ is
+      automatically Barred from Judging that CFJ.
+
+      When submitting a CFJ, the Caller may Bar up to three Players
+      from Judging that CFJ.
 
 History:
 Created by Proposal 897, ca. Apr. 13 1994
 Amended(1) by Proposal 2457, Feb. 16 1996
 Amended(2) by Proposal 3839 (Murphy), Mar. 8 1999
+Amended(3) by Proposal 4298 (Murphy), 17 May 2002
 
 ----------------------------------------------------------------------
 
-Rule 1562/5 (Power=1)
+Rule 1562/6 (Power=1)
 Excess CFJs
 
-      The Clerk of the Courts shall dismiss without prejudice any CFJ
-      made by a person who has previously made five or more CFJs
-      during that Nomic Week.  Such a CFJ is called an "excess CFJ".
-      A Player who submits an excess CFJ commits the Class 1
-      Infraction of Excess CFJing, to be reported by the Clerk of the
-      Courts.
+      A CFJ made by a person who has previously made five or more CFJs
+      during the same Nomic Week is an Excess CFJ.
 
-      If the Clerk of the Courts fails to dismiss an excess CFJ, and
-      instead assigns it to a Judge, then the CFJ shall not be
-      dismissed for being an excess CFJ and shall be Judged (or
-      dismissed) exactly as any other CFJ.  Failing to dismiss an
-      excess CFJ is the Class 2 Infraction of Allowing Excess CFJing,
-      to be reported by the Justiciar.
+      The Caller of an Excess CFJ commits the Class 1 Infraction of
+      Excess CFJing, to be reported by the Clerk of the Courts.
+
+      The Clerk of the Courts shall dismiss all Excess CFJs.  If e
+      instead assigns one to a Judge, then the Judge shall Judge it,
+      but the Clerk of the Courts commits the Class 2 Infraction of
+      Allowing Excess CFJing, to be reported by the Justiciar.
 
 History:
 Created by Proposal 2457, Feb. 16 1996
@@ -4931,36 +4941,42 @@ Amended(2) by Proposal 2830 (Murphy), Mar. 7 1997, cosmetic
 Amended(3) by Proposal 3463 (Harlequin), Apr. 17 1997, substantial
 Amended(4) by Proposal 3839 (Murphy), Mar. 8 1999
 Amended(5) by Proposal 3897 (harvel), Aug. 27 1999
+Amended(6) by Proposal 4298 (Murphy), 17 May 2002
 
 ----------------------------------------------------------------------
 
-Rule 1563/1 (Power=1)
-Statement of a CFJ
+Rule 2024/0 (Power=1)
+Linked Statements
 
-      In order to be Judged, a Call for Judgement must contain a
-      single clearly-labeled Statement which must be able to be
-      determined by the means of logical reasoning, with the
-      presumption of perfect knowledge, to be either TRUE or FALSE.
-      Statements which are inherently contradictory or which are
-      vacuous are not acceptable, and a CFJ containing such a
-      Statement shall not be Judged.
+      Linked CFJs are multiple Calls for Judgement submitted in a
+      single message and clearly labelled as Linked CFJs.
 
-      If a CFJ fails to meet the requirements of this or of other
-      rules it lacks standing and is to be dismissed.
+      The Clerk of the Courts shall assign a Judge to a set of Linked
+      CFJs, as if they were a single CFJ.  The Judge must be eligible
+      to Judge each of the Linked CFJs, and is simultaneously assigned
+      as Judge of each of the Linked CFJs.
 
-      It is permitted for a Call for Judgement to contain Arguments,
-      Evidence, or other material placed there at the Caller's
-      discretion.  However, the Judge is not required to take notice
-      of any part of the CFJ other than the Statement in formulating
-      eir Judgement.
+      The Judge of a set of Linked CFJs shall submit eir Judgement of
+      each of those CFJs in a single message.
+
+      If one or more Linked CFJs are Excess CFJs, then the Clerk of
+      the Courts shall either assign them all or dismiss them all, at
+      eir discretion.  If e assigns them all, then e does not commit
+      Allowing Excess CFJing by doing so, Rules to the contrary
+      notwithstanding.
+
+      If one or more Linked CFJs beyond the first are unrelated in
+      subject matter to the first, then a Trial Judge may remand those
+      CFJs to the Clerk of the Courts; e ceases to be Judge of those
+      CFJs.  The Clerk of the Courts shall either treat those CFJs as
+      Linked (to each other) or not Linked, as e sees fit.  In either
+      case, those CFJs are no longer Linked to any of the non-remanded
+      CFJs.
 
 History:
-Created by Proposal 2457, Feb. 16 1996
-Amended(1) by Proposal 3574 (Kolja A.) , Oct. 30 1997, substantial
+Created by Proposal 4298 (Murphy), 17 May 2002
 
 ----------------------------------------------------------------------
-
-
 
 ======================================================================
 Selecting a Judge
@@ -4968,24 +4984,18 @@ Selecting a Judge
   for a CFJ.
 ----------------------------------------------------------------------
 
-Rule 1868/2 (Power=1)
+Rule 1868/3 (Power=1)
 Selecting a Judge
 
-      Whenever there is an open Call for Judgement to which no Player
-      has been assigned as its Judge, the Clerk of the Court shall, as
-      soon as possible after being made aware of this condition,
-      select a Player to be assigned as its Judge and announce eir
-      selection.  This selection shall be made from amongst all
-      those Players eligible to serve as the Judge of that CFJ.
+      A CFJ is open if it has not been Judged, or if an outstanding
+      judicial motion pertaining to it has been neither granted nor
+      denied.  A CFJ is closed if it is not open.
 
-      Once selected as the Judge of a CFJ, that Player remains the
-      Judge of that CFJ until e is Recused from that CFJ or becomes
-      ineligible to Judge that particular CFJ.
-
-      A CFJ is "open" if it has neither been dismissed nor judged, or
-      if there is an outstanding judicial motion pertaining to that
-      CFJ which has been neither granted nor denied.  A CFJ which is
-      not open is closed.
+      As soon as possible after becoming aware that an open CFJ has no
+      Judge assigned to it, the Clerk of the Courts shall choose a
+      Player eligible to Judge it, and announce them as its Trial
+      Judge.  That Player remains the Trial Judge of that CFJ until e
+      is recused from it or becomes ineligible to Judge it.
 
 CFJ 1186, Judged TRUE Dec. 9 1999: "The Clerk of the Courts is
 required by Rule 1868 to select a Judge who is eligible at the time
@@ -5001,52 +5011,42 @@ History:
 Created by Proposal 3816 (Repeal-O-Matic), Dec. 21 1998
 Amended(1) by Proposal 3962 (Wes), Jan. 20 2000
 Amended(2) by Proposal 4166 (Elysion), 11 June 2001
+Amended(3) by Proposal 4298 (Murphy), 17 May 2002
 
 ----------------------------------------------------------------------
 
-Rule 698/8 (Power=1)
+Rule 698/9 (Power=1)
 Always an Eligible Judge
 
-      Every Active Player is eligible to judge a given Call for
-      Judgement (CFJ) unless specifically made ineligible by some
-      Rule.
+      Each Active Player is eligible to Judge a given CFJ, unless a
+      Rule specifically makes em ineligible.
 
-      Whenever a Player becomes subject to a Grace Period, e shall be
-      considered to have made emself ineligible to judge CFJs, as
-      described in other Rules.
+      If the Clerk of the Courts is required to select a Judge, but -
+      after taking all other Rules affecting eligibility into account
+      - no Player is eligible to Judge that CFJ, then:
 
-      The Caller of a given CFJ is never eligible to judge that CFJ.
+        a) All Active non-Barred Players become eligible to Judge that
+           CFJ.
 
-      If, after taking all other Rules affecting eligibility into
-      account, there are no Players eligible to judge a CFJ, then all
-      Active Players, excluding the Caller and those Players Barred by
-      the Caller, shall be eligible, any other Rule to the contrary
-      notwithstanding.
+        b) If there is still no eligible Judge, then all non-frozen
+           non-Barred Players become eligible to Judge that CFJ.
 
-      If this still does not result in there being any players
-      eligible to judge, then all non-frozen players, excluding the
-      Caller and those players barred by the Caller, shall be
-      eligible.
+        c) If there is still no eligible Judge, then all non-frozen
+           Players Barred by the Caller become eligible to Judge that
+           CFJ.
 
-      If this still does not result in there being any players
-      eligible to judge, then all non-frozen players, excluding the
-      Caller, shall be eligible.
+        d) If there is still no eligible Judge, then all non-frozen
+           Barred Players, other than the Caller emself, become
+           eligible to Judge that CFJ.
 
-      If this still does not result in there being any players
-      eligible to judge, and the Caller is a player, then the Caller
-      shall be eligible.
+        e) If there is still no eligible Judge, then the Caller has
+           happened upon a generational ship whose members are in
+           suspended animation.  The Rules suggest that the Caller try
+           calling when we arrive at our destination and thaw out.
 
-      If this still does not result in there being any players
-      eligible to judge, then the Caller has happened across an Agora
-      that is a generational ship whose members are in suspended
-      animation.  The Rules suggest that the Caller try calling when
-      we arrive at our destination and begin to thaw out.
+      This Rule can require Inactive Players to perform actions.
 
-      This Rule can require On Hold Players to perform actions.
-
-      This Rule takes precedence over any Rule or combination of Rules
-      which would result in there being no Players eligible to
-      Judge a given CFJs.
+      This Rule takes precedence over all other Rules.
 
 History:
 Created by Proposal 482 (Alexx), Sep. 30 1993
@@ -5059,40 +5059,37 @@ Amended(5) by Proposal 3823 (Oerjan), Jan. 21 1999
 Amended(6) by Proposal 4155 (harvel), 18 May 2001
 Amended(7) by Proposal 4178 (root), 7 July 2001
 Amended(8) by Proposal 4278 (harvel), 3 April 2002
+Amended(9) by Proposal 4298 (Murphy), 17 May 2002
 
 ----------------------------------------------------------------------
 
-Rule 1871/0 (Power=1)
+Rule 1871/1 (Power=1)
 Turns for All
 
-      Whenever a Player is selected to judge a CFJ, e becomes
-      ineligible to judge any future CFJs. If ever there are no
-      Players eligible to Judge a CFJ, then all Players made
-      ineligible by this rule become eligible again.
-
-      Being made ineligible to judge a CFJ by this rule does not cause
-      a Player to become ineligible to serve as a Justice on that CFJ.
-      This rule takes precedence over any rule which claims otherwise.
+      Whenever a Player is selected as Trial Judge of a CFJ, e becomes
+      ineligible to be Trial Judge of any future CFJs.  Whenever there
+      are no Players eligible to be Trial Judge of a CFJ, all Players
+      ineligible solely because of this Rule become eligible again.
 
 History:
 Created by Proposal 3821 (Blob), Jan. 12 1999
+Amended(1) by Proposal 4298 (Murphy), 17 May 2002
 
 ----------------------------------------------------------------------
 
-Rule 1567/9 (Power=1)
+Rule 1567/10 (Power=1)
 Making Oneself Ineligible to Judge a CFJ
 
       A Player makes emself ineligible to be the Judge of a specific
-      CFJ or type of CFJ by transmitting a notice to the Clerk of the
-      Courts, specifying the CFJ or type of CFJ for which e wishes to
-      be made ineligible.  Such a notice remains in effect until the
-      Player informs the Clerk of the Courts that it is no longer in
-      effect.
+      CFJ or type of CFJ by informing the Clerk of the Courts that e
+      does so.  Such a notice remains in effect for one month, or
+      until the Player informs the Clerk of the Courts that it is no
+      longer in effect, whichever is soonest.
 
       If a Player makes emself ineligible to be a Judge of a CFJ for
       which e has already been selected as Judge, e commits the Class
       0.1 Infraction of Shirking Judgeship, to be reported by the
-      CotC.
+      Clerk of the Courts.
 
 History:
 Created by Proposal 2457, Feb. 16 1996
@@ -5105,6 +5102,7 @@ Amended(6) by Proposal 3823 (Oerjan), Jan. 21 1999
 Amended(7) by Proposal 3839 (Murphy), Mar. 8 1999
 Amended(8) by Proposal 3897 (harvel), Aug. 27 1999
 Amended(9) by Proposal 3962 (Wes), Jan. 20 2000
+Amended(10) by Proposal 4298 (Murphy), 17 May 2002
 
 ----------------------------------------------------------------------
 
@@ -5130,24 +5128,6 @@ Amended(6) by Proposal 4278 (harvel), 3 April 2002
 
 ----------------------------------------------------------------------
 
-Rule 1756/3 (Power=1)
-Delinquent Judges
-
-      The Clerk of the Courts shall recuse from a CFJ any Judge who
-      is delinquent upon the public demand of any two Players.
-
-      A Judge recused for delinquency commits the Class 2 Infraction
-      of Judicial Delinquency, to be reported by the CotC.
-
-History:
-Created by Proposal 3629 (General Chaos), Dec. 29 1997
-Amended(1) by Proposal 3823 (Oerjan), Jan. 21 1999
-Amended(2) by Proposal 3897 (harvel), Aug. 27 1999
-Amended(3) by Proposal 4147 (Wes), 13 May 2001
-
-----------------------------------------------------------------------
-
-
 
 ======================================================================
 Delivering Judgement
@@ -5155,33 +5135,54 @@ Delivering Judgement
   by the Judge, as well as Judicial Orders
 ----------------------------------------------------------------------
 
-Rule 408/14 (Power=1)
+Rule 2025/0 (Power=1)
+Transfer of Jurisdiction
+
+      The Judge of a CFJ (the First Case) may transfer it to the Judge
+      of another CFJ (the Second Case), if all of the following are
+      true:
+
+        a) The Second Judge is eligible to Judge the First Case (or is
+           ineligible solely due to the Rule "Turns for All").
+        b) The First Judge announces the transfer.
+        c) The Second Judge consents to the transfer within a week
+           after it is announced.
+
+      The First CFJ becomes assigned to the Second Judge, and ceases
+      to be assigned to the First Judge.
+
+      The First CFJ becomes Linked to the Second CFJ, and to any CFJs
+      to which the Second CFJ had been Linked.  It ceases to be Linked
+      to any other CFJs.
+
+History:
+Created by Proposal 4298 (Murphy), 17 May 2002
+
+----------------------------------------------------------------------
+
+Rule 408/15 (Power=1)
 Late Judgement
 
-      The Deliberation Period for a CFJ begins when the Clerk of the
-      Courts announces the identity of the Judge, and ends seven days
-      later.
+      For each Judge assigned to a CFJ, eir Deliberation Period begins
+      when the Clerk of the Courts announces eir assignment, and lasts
+      seven days; eir Overtime Period begins when eir Deliberation
+      Period ends, and lasts seven days.
 
-      In the week following the end of the Deliberation Period, if the
-      Judge has not yet returned Judgement or Dismissed the CFJ, then
-      the Clerk of the Courts may recuse the Judge from the CFJ and
-      assign it to a new Judge, by posting an announcement to that
-      effect.
+      A Judge who Judges a CFJ during eir Overtime Period commits the
+      Class 0.5 Infraction of Judging a Bit Late, to be reported by
+      the Clerk of the Courts.
 
-      A Judge who Judges or Dismisses a CFJ after the end of the
-      Deliberation Period, but before being recused as a Judge,
-      commits the Class 0.5 Infraction of Judging a Bit Late, to be
-      detected and reported by the Clerk of the Courts.
+      During a Judge's Overtime Period, if e has not yet Judged the
+      CFJ, then the Clerk of the Courts may recuse the Judge by
+      announcing that e does so.  At the end of a Judge's Overtime
+      Period, if e has not yet Judged the CFJ, then e is automatically
+      recused.
 
-      A Judge who has neither Judged nor Dismissed a CFJ seven days
-      after the end of its Deliberation Period is automatically
-      recused from that CFJ.
-
-      A Judge who is recused from a CFJ in accordance with this Rule
-      commits the Class 3 Infraction of Failure to Judge (to be
-      detected and reported by the Clerk of the Courts), and becomes
-      ineligible to be a Judge until e publicly requests to be made
-      eligible again.
+      A Judge recused according to this Rule commits the Class 3
+      Infraction of Failure to Judge, to be reported by the Clerk of
+      the Courts.  E becomes ineligible to Judge any CFJ for one
+      month, or until e publicly requests to become eligible again,
+      whichever is soonest.
 
 History:
 Initial Mutable Rule 215, Jun. 30 1993
@@ -5202,27 +5203,23 @@ Amended(11) by Proposal 3897 (harvel), Aug. 27 1999
 Amended(12) by Proposl 3962 (Wes), Jan. 20 2000
 Amended(13) by Proposal 4011 (Wes), Jun. 1 2000
 Amended(14) by Proposal 4076b (Steve), Oct. 10 2000
+Amended(15) by Proposal 4298 (Murphy), 17 May 2002
 
 ----------------------------------------------------------------------
 
-Rule 591/17 (Power=1)
+Rule 591/18 (Power=1)
 Legal Judgements
 
-      A Judge judges a CFJ by sending eir Judgement to the Clerk of
-      the Courts.  The Judgement of a CFJ must be either TRUE or
-      FALSE.  Only the Judge assigned to a CFJ may Judge that CFJ.
+      The Judge of a CFJ Judges it by submitting eir Judgement to the
+      Clerk of the Courts.  "Decision", "Finding", and "Response" are
+      unambiguous synonyms for "Judgement".
 
-      As soon as possible after the receipt of a legal Judgement, the
-      Clerk shall publish the Judgement.
+      For a Trial Judge, a Judgement is exactly one of the following:
+      TRUE, FALSE, or DISMISSED.
 
-      If a Judge delivers Judgement on a CFJ before the end of
-      the assigned deliberation period, then the Clerk of the
-      Courts shall pay out to the Judge the Judicial Salary as
-      soon as possible after the publication of eir Judgement.
-
-[In the Judgement of CFJ 794, the CotC determined that a Judgement
- of the form "If X then TRUE else FALSE" is legal only if the truth-
- value of X itself is unambiguous.]
+      As soon as possible after receiving a Judgement, the Clerk of
+      the Courts shall publish it, along with any arguments, evidence,
+      or other material included with the Judgement.
 
 History:
 Initial Mutable Rule 216, Jun. 30 1993
@@ -5248,6 +5245,7 @@ Amended(14) by Proposal 3897 (harvel), Aug. 27 1999
 Amedned(15) by Proposal 3968 (harvel), Feb. 4 2000
 Amended(16) by Proposal 3998 (harvel), May 2 2000
 Amended(17) by Proposal 4147 (Wes), 13 May 2001
+Amended(18) by Proposal 4298 (Murphy), 17 May 2002
 
 ----------------------------------------------------------------------
 
@@ -5281,22 +5279,22 @@ Amended(3) by Proposal 2507, Mar. 3 1996
 
 ----------------------------------------------------------------------
 
-Rule 1575/4 (Power=1)
+Rule 1575/5 (Power=1)
 Standards of Proof
 
-      A CFJ alleging that a Player has violated a Rule or committed a
-      Crime shall not be judged TRUE unless the evidence is sufficient
-      to be certain of that Judgement beyond reasonable doubt.
+      Unless otherwise specified, all Judgements shall be consistent
+      with the preponderance of the evidence.
 
-      In all other CFJs, the Judgement shall be consistent with the
-      preponderance of the evidence at hand.
+      A Judge shall not find that a Player has failed to perform a
+      duty unless the preponderance of evidence provided by the Caller
+      supports the claim.
 
-      Furthermore, it is a defense to any accusation of a Crime that
-      the Player reasonably believed that eir actions were not a
-      Crime at the time e performed them, or that e reasonably did not
-      know that e was required to perform an action, when such
-      nonperformance is defined as a Crime.  A Player shall not be
-      convicted of a Crime if this defense applies.
+      A Judge shall not find that a Player has violated a Rule or
+      committed a Crime unless the evidence provided by the Caller
+      places its certainty beyond reasonable doubt.  Furthermore, a
+      Judge shall not find that a Player committed a Crime if that
+      Player reasonably believed that eir action or inaction was not a
+      Crime at the time it occurred.
 
 History:
 Created by Proposal 2469, Feb. 16 1996
@@ -5304,6 +5302,7 @@ Amended(1) by Proposal 3603 (General Chaos), Dec. 9 1997, substantial
 Amended(2) by Proposal 3653 (General Chaos), Jan. 1 1998
 Amended(3) by Proposal 3823 (Oerjan), Jan. 21 1999
 Amended(4) by Proposal 3968 (Harvel), Feb. 4 2000
+Amended(5) by Proposal 4298 (Murphy), 17 May 2002
 
 ----------------------------------------------------------------------
 
@@ -5338,44 +5337,23 @@ Amended(3) by Proposal 3452 (Steve), Apr. 7 1997, substantial
 
 ----------------------------------------------------------------------
 
-Rule 1565/9 (Power=1)
+Rule 1565/10 (Power=1)
 Dismissal of a CFJ
 
-      A Judge must dismiss a CFJ if one of the following is true of
-      it:
+      A Judgement of DISMISSED should be delivered if and only if one
+      or more of the following is true:
 
-        i) It contains no clearly-identifiable Statement.
-       ii) Its Statement can not logically admit to either being TRUE
-           or FALSE.
-      iii) Its Statement does not relate to a matter relevant to the
+        i) The CFJ does not contain a single clearly-identified
+           Statement.
+
+       ii) After a reasonable effort to obtain all relevant
+           information, the Judge can neither determine the Statement
+           to be true nor determine it to be false.
+
+      iii) The Statement does not relate to a matter relevant to the
            Rules.
-       iv) Its Statement fails to comply with the Rules.
-        v) It lacks standing, as defined elsewhere.
-       vi) After a reasonable effort by the Judge to obtain all
-           relevant information, no determination can be made of the
-           truth or falsity of its Statement.
 
-      The Judge does this by notifying the CotC of the CFJ's
-      dismissal, and the reasons e is doing so.  Dismissals are only
-      legal when made for the reasons listed in this Rule.  Dismissal
-      occurs when the CotC is notified of a legal dismissal.
-
-      As soon as possible after being notified of a legal dismissal,
-      the CotC must publicly post a notice of the dismissal and the
-      Judge's reasons for doing so.
-
-      If the dismissal, upon appeal, is subsequently set aside, then
-      that CFJ is no longer dismissed. It shall be considered again
-      and can not again be legally dismissed for the same reasons.
-
-      A Judge who dismisses a CFJ before the end of the assigned
-      deliberation period shall receive a Judicial Salary.
-
-[CFJ 909, Mar. 17 1997: The phrase 'considered again' in Rule 1565
- should be interpreted such that when a dismissal of a CFJ has been
- set aside, the Clerk of the Courts should assign the CFJ to a new
- Judge selected from among those eligible, who then has one week to
- deliver a Judgement.]
+       iv) The CFJ lacks standing, as defined elsewhere.
 
 History:
 Created by Proposal 2457, Feb. 16 1996
@@ -5389,20 +5367,20 @@ Amended(6) by Proposal 3645 (elJefe), Dec. 29 1997
 Amended(7) by Proposal 3897 (harvel), Aug. 27 1999
 Amended(8) by Proposal 4140 (Wes), Apr. 15 2001
 Amended(9) by Proposal 4147 (Wes), 13 May 2001
+Amended(10) by Proposal 4298 (Murphy), 17 May 2002
 
 ----------------------------------------------------------------------
 
-Rule 502/7 (Power=1)
+Rule 502/8 (Power=1)
 Salary for Judges
 
-      The Clerk of the Courts shall, within one week of the time a
-      Player earns a Judicial Salary, pay out that Judicial Salary to
-      that Player.
+      As soon as possible after a Judgement is delivered during the
+      Deliberation Period, the Clerk of the Courts shall pay out the
+      Judicial Salary to the Judge.
 
-      If a decision (or dismissal) which resulted in a Player earning
-      a Judicial Salary is subsequently appealed and overturned on
-      appeal, the Clerk of the Courts shall bill that Player for an
-      amount equal to the Judicial Salary paid to that Player.
+      As soon as possible after a Judgement is overturned on appeal,
+      the Clerk of the Courts shall bill the Judge for the Judicial
+      Salary (if any) that was paid out to em for that Judgement.
 
 History:
 Created by Proposal 430 (Alexx), ca. Sep. 13 1993
@@ -5414,6 +5392,7 @@ Amended(4) by Proposal 3533 (General Chaos), Jul. 15 1997, substantial
 Amended(5) by Proposal 3635 (General Chaos), Dec. 29 1997
 Amended(6) by Proposal 3823 (Oerjan), Jan. 21 1999
 Amended(7) by Proposal 4018 (Kelly), Jun. 21 2000
+Amended(8) by Proposal 4298 (Murphy), 17 May 2002
 
 ----------------------------------------------------------------------
 
@@ -5431,24 +5410,20 @@ Created by Proposal 3704 (General Chaos), Mar. 19 1998
 
 ----------------------------------------------------------------------
 
-Rule 1804/0 (Power=1)
+Rule 1804/1 (Power=1)
 Appeal of Judicial Orders
 
-      Judicial Orders are subject to appeal to a Board of Appeal by a
-      Call for Appeal.
+      As soon as possible after a Judicial Order is Appealed, the
+      Clerk of the Courts shall stay it.  If the Appeal is sustained,
+      then the Board of Appeals shall vacate this stay as soon as
+      possible.
 
-      The Board of Appeal shall, upon finding that a Judicial Order is
-      improperly or invalidly executed, order that that Order be
-      amended or vacated, as it deems appropriate.
-
-      When the Clerk of the Courts receives a properly executed Call
-      for Appeal of a Judicial Order, the Clerk of the Courts shall
-      stay the Order under appeal.  If the Board of Appeals affirms
-      the validity of the original Order, it shall then vacate this
-      stay.
+      In the Appeal of a Judicial Order, the Board of Appeals shall
+      consider whether the Order was properly and validly executed.
 
 History:
 Created by Proposal 3704 (General Chaos), Mar. 19 1998
+Amended(1) by Proposal 4298 (Murphy), 17 May 2002
 
 ----------------------------------------------------------------------
 
@@ -5566,17 +5541,20 @@ Amended(1) by Proposal 3768 (Chuck), Jul. 22 1998
 
 ----------------------------------------------------------------------
 
-Rule 1830/0 (Power=1)
+Rule 1830/1 (Power=1)
 No Compulsion of Judges
 
-      No valid Order to Compel may be directed to a Judge, or may
-      require the performance of any duty required of Player by the
-      virtue of that Player being a Judge.  Any such Order is invalid.
-      Any CFJ alleging that a Judge has failed to perform a duty of a
-      judicial nature shall be dismissed.
+      Any Order to Compel directed to a Judge, or requiring the
+      performance of a duty required of a Player because that Player
+      is a Judge, is invalid.
+
+      Any CFJ alleging that a Judgement is incorrect, or that a Judge
+      has failed to perform a judicial duty, lacks standing.  Such a
+      claim should instead be pursued via Appeal.
 
 History:
 Created by Proposal 3704 (General Chaos), Mar. 19 1998
+Amended(1) by Proposal 4298 (Murphy), 17 May 2002
 
 ----------------------------------------------------------------------
 
@@ -5687,42 +5665,40 @@ Amended(2) by Proposal 4018 (Kelly), Jun. 21 2000
 
 ----------------------------------------------------------------------
 
-Rule 1365/7 (Power=1)
+Rule 1365/8 (Power=1)
 Concurring and Dissenting Opinions
 
-      There shall exist a type of Application called an Application
-      to Submit an Opinion.  Such an Application, if effective, has
-      the effect of annotating a Judgement or Dismissal in a given
-      Call for Judgement.  In order for such an Application to have
-      effect upon submission, it must satisfy the following
-      requirements:
+      There shall exist a type of Application called an Application to
+      Submit an Opinion.  Such an Application, if effective, has the
+      effect of annotating a Judgement in a given Call for Judgement.
+      In order for such an Application to have effect upon submission,
+      it must satisfy the following requirements:
 
       * It must clearly indicate to which CFJ it applies.
       * It must be labeled as either a Concurring Opinion or
         a Dissenting Opinion.
-      * It must indicate whether the Judgement or Dismissal to
-        which it applies is that of the Judge or that of the
-        Appeals Court.
+      * It must indicate whether the Judgement to which it applies is
+        that of the Judge or that of the Appeals Court.
       * It must be accompanied by reasons and arguments, which
         may include, but are not necessarily limited to, citations
         of deciding Rules, past Judgements, and Game Custom.
       * It must bear the Signatures of at least two Players.
       * It must be submitted no earlier than the submission of the
-        Judgement or Dismissal to which it applies, and no later than
-        one week after the publication by the Clerk of the Courts of
-        that Judgement or Dismissal.
+        Judgement to which it applies, and no later than one week
+        after the publication by the Clerk of the Courts of that
+        Judgement.
 
       An Application to Submit an Opinion is submitted by submitting
-      it to the Clerk of the Courts.  Such an Application, having
-      been submitted and having met all the requirements for
-      effectiveness, is also called an Opinion.  It is also referred
-      to as a Concurring Opinion or a Dissenting Opinion, as
-      indicated in the Opinion.
+      it to the Clerk of the Courts.  Such an Application, having been
+      submitted and having met all the requirements for effectiveness,
+      is also called an Opinion.  It is also referred to as a
+      Concurring Opinion or a Dissenting Opinion, as indicated in the
+      Opinion.
 
       Once an Application to Submit an Opinion is submitted and takes
       effect, the Clerk of the Courts must distribute the Opinion to
       all Players as soon as possible.  Furthermore, the Opinion must
-      be appended to the Legal Judgement or Dismissal.
+      be appended to the Legal Judgement.
 
 History:
 Created by Proposal 1365, Jan. 5 1995
@@ -5734,6 +5710,7 @@ Amended(5) by Proposal 2750 (Chuck), Nov. 18 1996, substantial
 Amended(6) by Proposal 3531 (General Chaos), Jul. 15 1997, cosmetic
   (unattributed)
 Amended(7) by Proposal 4159 (Kelly), 5 June 2001
+Amended(8) by Proposal 4298 (Murphy), 17 May 2002
 
 ----------------------------------------------------------------------
 
@@ -5745,40 +5722,46 @@ Overturning Judgement
   Judgements, Appellate Orders, and the office of Justiciar.
 ----------------------------------------------------------------------
 
-Rule 911/10 (Power=1)
+Rule 911/11 (Power=1)
 The Board of Appeals
 
-      When an appeal is initiated, a Board of Appeals shall be
-      selected in order to reach a decision about the consideration
-      mandated by the appeal.
+      When an Appeal is initiated, a Board of Appeals shall be
+      selected to reach a decision about the subject of the Appeal.
 
-      A Board of Appeals consists of three distinct Players, called
-      Justices.  The Clerk of the Courts selects the Justices for each
-      Board, as follows, until three eligible Justices have been
-      selected;  The Speaker is selected, if eligible; The Justiciar
-      is selected, if eligible; The CotC is selected, if eligible; Any
-      remaining positions are then filled by random selection, by the
-      CotC, from all remaining eligible Players.
+      A Board of Appeals consists of three Appelate Judges.  Any Judge
+      assigned according to this Rule is an Appelate Judge.
+
+      A Board of Appeals is selected when the Clerk of the Courts
+      correctly announces the identity of all Appelate Judges,
+      determined as follows:
+
+        a) The Speaker is selected, if eligible.
+        b) The Clerk of the Courts is selected, if eligible.
+        c) The Justiciar is selected, if eligible.
+        d) Any remaining positions are filled by random selection by
+           the Clerk of the Courts from all remaining eligible
+           Players.
 
       A Player is ineligible for selection if any of the following is
       true:
 
-        i) E has already been selected to serve on that Board.
-       ii) E has been dismissed as Justice from that Board.
-      iii) E has been Judge in the matter the Board is to consider.
-       iv) E is not eligible to Judge the CFJ that resulted in the
-           matter under consideration, and this restriction does not
-           prevent three eligible Players from being selected by the
-           CotC for the Board.
-        v) E is on Hold, and this restriction does not prevent three
-           eligible Players from being selected by the CotC for the
-           Board.
-       vi) E is frozen.
+        i) E has already been selected for that Board.
+       ii) E has been dismissed from that Board.
+      iii) E has been Trial Judge of the subject of the Appeal.
+       iv) E is ineligible to Judge the CFJ at the time of selection.
+        v) E is not Active.
 
-      A Justice is permitted to appoint another eligible Player to
-      replace em as Justice on a given Board, provided the Player
-      consents. A Justice does this by notifying the Clerk of the
-      Courts of the appointment.
+      An Appelate Judge may appoint another eligible Player as eir
+      replacement by informing the Clerk of the Courts, provided the
+      Player consents.
+
+      As soon as possible after an Appelate Judge is recused, the
+      Clerk of the Courts shall randomly select an eligible Player to
+      replace em.
+
+      The last Appelate Judge selected is the Lead Judge for that
+      Board.  If the Lead Judge is replaced, then the replacement
+      becomes Lead Judge.
 
 History:
 Created by Proposal 384 (Alexx), Aug. 16 1993
@@ -5796,6 +5779,7 @@ Amended(7) by Proposal 3532 (General Chaos), Jul. 15 1997, cosmetic
 Amended(8) by Proposal 3559 (Murphy), Oct. 24 1997, susbtantial
 Amended(9) by Proposal 4213 (Taral), 29 September 2001
 Amended(10) by Proposal 4278 (harvel), 3 April 2002
+Amended(11) by Proposal 4298 (Murphy), 17 May 2002
 
 ----------------------------------------------------------------------
 
@@ -5824,59 +5808,39 @@ Amended(10) by Proposal 4250 (harvel), 19 February 2002
 
 ----------------------------------------------------------------------
 
-Rule 1833/0 (Power=1)
-Lead Justice
-
-      The Lead Justice of a Board of Appeals is the Justiciar, if e is
-      serving on that Board, or the Player who serves in the place of
-      the Justiciar otherwise.
-
-History:
-Created by Proposal 3704 (General Chaos), Mar. 19 1998
-
-----------------------------------------------------------------------
-
-Rule 1570/0 (Power=1)
+Rule 1570/1 (Power=1)
 Announcement of Appeal
 
-      The Clerk of the Courts shall make an announcement in the Public
-      Forum as soon as possible after an Appeal has been initiated,
-      including in eir announcement the matter of consideration of the
-      Appeal and the identity of the Justices selected to serve on the
-      Board of Appeals and which (if any) of these Players are
-      ineligible to fill the positions to which they have been
-      assigned.
+      As soon as possible after an Appeal is initiated, the Clerk of
+      the Courts shall announce the subject of the Appeal.
 
-      The Clerk shall also make an announcement to the Public Forum as
-      soon as possible after any change in the identity of the
-      Justices that takes place after the Board has been constituted.
+      As soon as possible after a Player becomes an Appelate Judge or
+      ceases to be an Appelate Judge, the Clerk of the Courts shall
+      announce the change.
 
 History:
 Created by Proposal 2457, Feb. 16 1996
+Amended(1) by Proposal 4298 (Murphy), 17 May 2002
 
 ----------------------------------------------------------------------
 
-Rule 1564/10 (Power=1)
+Rule 1564/11 (Power=1)
 Initiating Appeals
 
-      The Judgement entered in any CFJ by its Judge, the grant or
-      denial of any Motion, and the execution of any Judicial Order
-      are all subject to review on appeal to a Board of Appeal.  In
-      addition, a Board of Appeal shall review any claim that a Judge
-      has failed to perform any duty of a Judicial nature which e was
-      required to perform.
+      The following are subject to Appeal:
 
-      In all cases, the public insistence of any three Players is
-      sufficient to initiate the appeal of a particular matter.  In
-      the case of the appeal of a Judicial Order, the insistence of
-      any Player bound by the Order is sufficient.  In the case of a
-      Judgement which convicts a Player of a Crime, the insistence of
-      the convicted Player is sufficient.
+        a) The Judgement of a Trial Judge.
+        b) The grant or denial of a Motion.
+        c) The execution of a Judicial Order.
+        d) A claim that a Trial Judge has failed to perform a required
+           judicial duty.
 
-      In each cases before a Board of Appeal, it shall collectively
-      decide whether to affirm or to reverse the matter under appeal,
-      and shall execute whatever Appellate Orders are necessary to
-      enforce its determination.
+      A subject is Appealed when any of the following occurs:
+
+        i) Three Players Appeal it.
+       ii) A Player Appeals a Judicial Order binding em.
+      iii) A Player Appeals a Trial Judgement convicting em of a
+           Crime.
 
 History:
 Created by Proposal 2457, Feb. 16 1996
@@ -5892,41 +5856,16 @@ Amended(7) by Proposal 3489 (Zefram), May 19 1997, cosmetic
 Amended(8) by Proposal 3509 (Harlequin), Jun. 16 1997, substantial
 Amended(9) by Proposal 3704 (General Chaos), Mar. 19 1998
 Amended(10) by Proposal 4147 (Wes), 13 May 2001
+Amended(11) by Proposal 4298 (Murphy), 17 May 2002
 
 ----------------------------------------------------------------------
 
-Rule 1447/16 (Power=1)
+Rule 1447/17 (Power=1)
 Final Judgement upon Appeal
 
-      Once a Board of Appeals has been selected to decide a particular
-      appeal, the Justices shall, collectively, consider the question.
-
-      Each Justice has seven days, from the point e becomes Justice on
-      a particular Board, in which to reach a determination that
-      either sustains or overturns the matter being considered by that
-      Board and submit it to the CotC.
-
-      Failure to do so is the Class 3 Infraction of Failing to Judge
-      an Appeal, detected and reported by the Cotc. A Justice who does
-      not submit eir determination to the CotC within seven days is
-      immediately recused as a Justice from that Board. In this case
-      the CotC must randomly select an eligible Player to replace em.
-
-      After all three Justices have submitted their determinations to
-      the CotC, the CotC shall publish these determinations along with
-      any arguments, evidence, or other material included with those
-      determinations.
-
-      If a majority of the Justices agree to sustain the matter being
-      considered, it is sustained; otherwise, it is overturned.  The
-      specific results of overturning a matter upon appeal are
-      determined by the Rules permitting such appeals.
-
-      If a Justice submits eir determination to the Clerk of the
-      Courts before the end of the assigned deliberation period,
-      then the Clerk of the Courts shall pay out to that Justice
-      the Judicial Salary as soon as possible after the publication
-      of eir determination.
+      For an Appelate Judge, a Judgement is exactly one of the
+      following: SUSTAIN or OVERTURN.  Other Rules may modify this,
+      based on the subject of the Appeal.
 
 History:
 Created by Proposal 1511, Mar. 24 1995
@@ -5949,86 +5888,79 @@ Amended(13) by Proposal 3897 (harvel), Aug. 27 1999
 Amended(14) by Proposal 3998 (harvel), May 2 2000
 Amended(15) by Proposal 4109 (Steve), Feb. 13 2001
 Amended(16) by Proposal 4147 (Wes), 13 May 2001
+Amended(17) by Proposal 4298 (Murphy), 17 May 2002
 
 ----------------------------------------------------------------------
 
-Rule 1693/1 (Power=1)
+Rule 2026/0 (Power=1)
+Appelate Determinations
+
+      As soon as possible after all members of a Board of Appeals have
+      submitted eir Judgement, the Clerk of the Courts shall announce
+      that this has happened.
+
+      If a majority of the Appelate Judges Judge SUSTAIN, then the
+      subject of the Appeal is sustained.  Otherwise, it is
+      overturned.  The Board of Appeals shall execute whatever
+      Appelate Orders are necessary to enforce its determination.
+
+History:
+Created by Proposal 4298 (Murphy), 17 May 2002
+
+----------------------------------------------------------------------
+
+Rule 1693/2 (Power=1)
 Appeal of a Judgement
 
-      If the Judgement of a CFJ is Appealed, the Board of Appeals
-      shall consider the correctness of that Judgement. The Board may
-      rule that the original Judgement was either correct or
-      incorrect.
+      If a Judgement of TRUE or FALSE is Appealed, the Board of
+      Appeals shall consider the correctness of that Judgement.
 
-      If a majority of the Justices find that the original Judgement
-      was correct, then the Board's ruling is that the original
-      Judgement was correct. In that case, the original Judge of the
-      CFJ shall retain eir Judicial Salary and the original Judgement
-      has legal effect.
+      If a Judgement of DISMISSED is Appealed, the Board shall not
+      consider the truth or falsity of the original CFJ; they shall
+      only consider whether a Judgement of DISMISSED should have been
+      delivered.
 
-      If a majority of the Justices find that the original Judgement
-      was incorrect, then the Board's ruling is that the original
-      Judgement was incorrect. In that case, the original Judge
-      of the CFJ shall forfeit eir Judicial Salary. The Board may
-      then act in one of three ways, provided that a majority of
-      the Justices agree:
+      For an Appelate Judge assigned to the Appeal of a Judgement, a
+      Judgement is exactly one of the following: SUSTAIN, REVERSE,
+      REASSIGN, or REMAND.
 
-        i) Reversal of the Judgement. In this case, the CFJ shall
-           be treated as if it were Judged normally, with the
-           Judgement being that which a majority of the Justices
-           agree on.
-       ii) Dismissal of the CFJ. The CFJ shall be considered
-           dismissed.
-      iii) Re-assignment of the CFJ. In this case, the original
-           Judgement shall be ignored, and the CotC shall reassign
-           the CFJ to a new Judge in the same fashion as it was
-           originally assigned; the original Judge will be
-           considered Ineligible. The new Judge cannot make the
-           same Judgement as the original Judge for the same
-           reason.
+      When a Judgement is overturned:
 
-      If a majority of the Justices find that the original Judgement
-      was incorrect, but no majority of the Justices agree on what
-      action to take, then the CFJ shall be re-assigned as above.
+        a) If a majority of the Appelate Judges Judge REVERSE, then
+           the CFJ shall be treated as if it were Judged normally,
+           with the Judgement being that which a majority of the
+           Appelate Judges agree on.
+
+        b) If a majority of the Appelate Judges Judge REASSIGN, then
+           the original Judgement is ignored, the original Judge is
+           recused, and the Clerk of the Courts shall reassign the CFJ
+           to a new Judge in the same fashion as it was originally
+           assigned.  The new Judge cannot make the same Judgement as
+           the original Judge for the same reason.
+
+        c) If a majority of the Appelate Judges Judge REMAND, then the
+           original Judgement shall be ignored, and the Clerk of the
+           Courts shall reassign the CFJ to the original Judge as if
+           it were being originally assigned. The Judge may not make
+           the same Judgement for the same reason.
+
+        d) If none of the above is true, then the CFJ shall be
+           reassigned as described above.
 
 History:
 Created by Proposal 3454 (Harlequin), Apr. 7 1997
 Amended(1) by Proposal 3573 (Steve), Oct. 30 1997, substantial
+Amended(2) by Proposal 4298 (Murphy), 17 May 2002
 
 ----------------------------------------------------------------------
 
-Rule 1694/0 (Power=1)
-Appeal of a Dismissal
-
-      If the dismissal of a CFJ is Appealed, the Board shall not
-      consider the truth or falsity of the original CFJ; they
-      shall only consider whether the dismissal was properly
-      made. An illegal dismissal shall not be considered
-      "properly made."
-
-      If the Board finds the dismissal to have been properly
-      made, the original Judge of the CFJ shall retain eir
-      Judicial Salary, and the CFJ shall remain dismissed.
-
-      If the Board finds the dismissal to have been made
-      improperly, the original Judge of the CFJ shall have eir
-      Judicial Salary revoked. The CotC shall reassign the CFJ
-      to a new Judge in the same fashion as originally
-      assigned; the new Judge cannot dismiss it for the same
-      reasons as given by the original Judge.
-
-History:
-Created by Proposal 3454 (Harlequin), Apr. 7 1997
-
-----------------------------------------------------------------------
-
-Rule 1805/0 (Power=1)
+Rule 1805/1 (Power=1)
 Appellate Orders
 
       Appellate Orders are executed by being sent to the Clerk of the
-      Courts by the Lead Justice of a Board of Appeals, but do not
+      Courts by the Lead Judge of a Board of Appeals, but do not
       take effect until their publication by the Clerk of the Courts.
-      The Lead Justice shall certify in eir submission to the Clerk of
+      The Lead Judge shall certify in eir submission to the Clerk of
       the Courts that the Order is executed by the concurrence of the
       majority of the Justices comprising that Board of Appeals;
       failure to do so deprives the Order of effect.
@@ -6039,6 +5971,7 @@ Appellate Orders
 
 History:
 Created by Proposal 3704 (General Chaos), Mar. 19 1998
+Amended(1) by Proposal 4298 (Murphy), 17 May 2002
 
 ----------------------------------------------------------------------
 
@@ -6078,41 +6011,13 @@ Created by Proposal 3704 (General Chaos), Mar. 19 1998
 
 ----------------------------------------------------------------------
 
-Rule 1695/2 (Power=1)
-Appeals of Judicial Orders
-
-      In the appeal of a Judicial Order, the Board shall consider
-      whether the Order in question was both legally made and
-      appropriate for the situation.
-
-      If the Board finds that the Order was made legally, and was
-      appropriate for the situation, it shall affirm the Order.  If an
-      Order staying the execution of the appealed Order was entered,
-      it shall vacate this stay.
-
-      If the Board finds that the Order was made illegally, or that it
-      was inappropriate for the situation, it shall vacate the
-      original Order.  Should the Board further find that the Order
-      was made without reasonable justification or for a clearly
-      improper purpose, it shall (at its discretion) impose a penalty
-      of 2 Blots upon the Judge who made the original Order.
-
-History:
-Created by Proposal 3454 (Harlequin), Apr. 7 1997
-Amended(1) by Proposal 3509 (Harlequin), Jun. 16 1997, substantial
-Amended(2) by Proposal 3704 (General Chaos), Mar. 19 1998
-
-----------------------------------------------------------------------
-
-
-
 ======================================================================
 Rule Violations
   This Category includes Rules describing actions to be taken
   concerning violations of the Rules.
 ----------------------------------------------------------------------
 
-Rule 908/13 (Power=1)
+Rule 908/14 (Power=1)
 Formal Apologies
 
       If a Call for Judgement (CFJ) the Statement of which alleges
@@ -6135,6 +6040,10 @@ Formal Apologies
       the Judge elects to include Prescribed Words, all of the Words
       required must appear within the Formal Apology.
 
+      The failure to abide by an Order to Submit a Formal Apology is
+      the Class 3 Infraction of Failure to Apologize, to be reported
+      by the Judge who issued the original Order.
+
 History:
 Created by Proposal 781, ca. Dec. 20 1993
 Amended by Proposal 908, May 4 1994
@@ -6153,23 +6062,9 @@ Amended(10) by Rule 908, Nov. 25 1997, substantial
 Amended(11) by Proposal 3704 (General Chaos), Mar. 19 1998
 Amended(12) by Proposal 4147 (Wes), 13 May 2001
 Amended(13) by Proposal 4155 (harvel), 18 May 2001
+Amended(14) by Proposal 4298 (Murphy), 17 May 2002
 
 ----------------------------------------------------------------------
-
-Rule 1832/1 (Power=1)
-Failure to Apologize
-
-      The failure to abide by an Order to Submit a Formal Apology is
-      the Class 3 Infraction of Failure to Apologize, to be reported
-      by the Judge who issued the original Order.
-
-History:
-Created by Proposal 3704 (General Chaos), Mar. 19 1998
-Amended(1) by Proposal 3897 (harvel), Aug. 27 1999
-
-----------------------------------------------------------------------
-
-
 
 ======================================================================
 Crimes and Infractions
@@ -6854,47 +6749,61 @@ Amended(2) by Proposal 4099 (Murphy), Jan. 15 2001
 
 ----------------------------------------------------------------------
 
-Rule 1370/11 (Power=1)
+Rule 1370/12 (Power=1)
 How to Get a Degree
 
-      A Degree is Granted by the operation of an instrument of
-      sufficient Power specifying the Degree to be Granted, and its
-      recipient.  The sufficient Power required to Grant a Degree is
-      determined by the Degree to be Granted.  All conditions
-      established by this and other Rules for the Granting of the
-      named Degree must have been fulfilled before the Degree may be
-      Granted.
+      A person becomes a Candidate for a Degree when e publishes a
+      Thesis, authored by emself, along with a statement explicitly
+      indicating that the Thesis is being submitted with the intent to
+      qualify for a particular Degree.
 
-      No Degree may be Granted to any recipient unless the recipient
-      has published a Thesis authored by emself, along with a
-      statement explicitly indicating that the Thesis is being
-      submitted with the intent to qualify for a Degree.  The
-      Rulekeepor shall retain a copy of each Thesis posted in this
-      manner.
+      If the Candidate is a Player, e may choose the first member of
+      eir Thesis Committee, called eir Chair; for non-players, the
+      Speaker will serve as Chair.  The Chair's Opposite is defined as
+      the Player who most often voted in the opposite manner of the
+      Chair in the last quarter; the Opposite becomes the second
+      committee member.  The Chair and eir Opposite will select, as
+      soon as possible, and by mutual agreement, the third member of
+      the committee.
 
-      The Degree of Bachelor of Nomic shall not be Granted unless the
-      Thesis submitted for that Degree contains at least 500 words,
-      and unless the instrument Granting the Degree has Power of at
-      least 1.
+      The Chair of the Thesis Committee for a particular Candidate may
+      grant that Degree to the Candidate if and only if:
 
-      The Degree of Doctor of Nomic History shall not be Granted
-      unless the Thesis submitted for that Degree contains at least
-      500 words and contains a narrative covering significant events
-      which have occurred in Agora within at least the last eight
-      weeks, and unless the instrument Granting the Degree has Power
-      of at least 2.
+      * the Candidate has satisfied all prerequisites in the rules for
+        the award of that Degree;
 
-      The Degree of Master of Nomic shall not be Granted unless the
-      Thesis submitted for that Degree contains at least 500 words,
-      and unless the instrument Granting the Degree has Power of at
-      least 2.
+      * a majority of members of the Thesis Committee agree that the
+        Thesis produced by the Candidate is worthy of the Degree to be
+        granted; and
 
-      The Degree of Doctor of Nomic Philosophy shall not be Granted
-      unless the Thesis submitted for that Degree contains at least
-      500 words, unless the intended recipient has also published an
+      * fewer than seven years have passed since the time the Thesis
+        Committee was formed.
+
+      The Rulekeepor shall retain a copy of each Thesis approved by
+      its Thesis Committee.
+
+      The Degree of Associate of Nomic requires a Thesis of at least
+      150 words.  A Candidate who already holds an AN Degree receives
+      a credit of 100 words towards the Thesis requirement for any
+      higher Degree, unless the Candidate also holds a BN Degree.
+
+      The Degree of Bachelor of Nomic requires a Thesis of at least
+      500 words.  A Candidate who already holds an BN Degree receives
+      a credit of 250 words towards the Thesis requirement for any
+      higher Degree.
+
+      The Degree of Doctor of Nomic History requires a Thesis of at
+      least 750 words and containing a narrative covering significant
+      events which have occurred in Agora within the eight weeks prior
+      to the publication of the Thesis.
+
+      The Degree of Master of Nomic requires a Thesis of at least 750
+      words.
+
+      The Degree of Doctor of Nomic Philosophy requires a Thesis of at
+      least 1000 words, and that the candidate has also published an
       additional creative work authored by emself whose topic or theme
-      is related to Agora or Nomic in general, and unless the
-      instrument Granting the Degree has Power of at least 3.
+      is related to Agora or Nomic in general.
 
 History:
 Created by Proposal 1370, Jan. 5 1995
@@ -6909,6 +6818,7 @@ Amended(8) by Proposal 3475 (Murphy), May 11 1997, substantial
 Amended(9) by Proposal 3787 (Steve), Sep. 12 1998
 Amended(10) by Proposal 4099 (Murphy), Jan. 15 2001
 Amended(11) by Proposal 4147 (Wes), 13 May 2001
+Amended(12) by Proposal 4303 (OscarMeyr), 17 May 2002
 
 ----------------------------------------------------------------------
 
