@@ -1458,7 +1458,7 @@ Created by Proposal 4174 (Kelly), 7 July 2001
 
 ----------------------------------------------------------------------
 
-Rule 1992/0 (Power=1)
+Rule 1992/1 (Power=1)
 Monks
 
       A player is Sanctimonious if e satisfies all of the following
@@ -1471,7 +1471,7 @@ Monks
       4. E does not possess any Voting Entitlements.
       5. E is a Senator.
       6. E is not the Executor or Limited Executor of any entity other
-         than the Bank or Monastery which possesses Voting
+         than emself, the Bank, or Monastery which possesses Voting
          Entitlements, Zombies, or Stems.
       7. E is Immaculate.
 
@@ -1485,6 +1485,7 @@ Monks
 
 History:
 Created by Proposal 4195 (Syllepsis), 26 July 2001
+Amended(1) by Proposal 4202 (neil), 28 August 2001
 
 ----------------------------------------------------------------------
 
@@ -3013,19 +3014,20 @@ Amended(9) by Proposal 4085 (Blob), Nov. 16 2000
 
 ----------------------------------------------------------------------
 
-Rule 1951/1 (Power=1)
+Rule 1951/2 (Power=1)
 Papyri
 
       Papyri (singular Papyrus) are a Bank Currency. The MUQ of
-      Papyri is 0.1. The Recordkeepor for Papyri is the Promotor.
+      Papyri is 0.001. The Recordkeepor for Papyri is the Promotor.
 
 History:
 Created by Proposal 4050 (t), Aug. 15 2000
 Amended(1) by Proposal 4085 (Blob), Nov. 16 2000
+Amended(2) by Proposal 4203 (neil), 28 August 2001
 
 ----------------------------------------------------------------------
 
-Rule 1954/3 (Power=1)
+Rule 1954/4 (Power=1)
 Distribution of Papyri
 
       As soon as possible after the fifteenth day of each month, the
@@ -3038,15 +3040,12 @@ Distribution of Papyri
       Auctioned. The Auctioneer shall be the Promotor, and the Auction
       shall be conducted in Stems. Only Scribes may bid.
 
-      Upon the satisfaction of a debt arising from a Papyrus Auction,
-      the Promotor shall pay out one Papyrus to the debtor of the
-      satisfied debt.
-
 History:
 Created by Proposal 4050 (t), Aug. 15 2000
 Amended(1) by Proposal 4056 (t), Aug. 21 2000
 Amended(2) by Proposal 4085 (Blob), Nov. 16 2000
 Amended(3) by Proposal 4167 (root), 11 June 2001
+Amended(4) by Proposal 4203 (neil), 28 August 2001
 
 ----------------------------------------------------------------------
 
@@ -6668,7 +6667,7 @@ Amended(6) by Proposal 4141 (Wes), Apr. 15 2001
 
 ----------------------------------------------------------------------
 
-Rule 1922/1 (Power=1)
+Rule 1922/2 (Power=1)
 Defined Regular Patent Titles
 
       The following are Patent Titles:
@@ -6701,9 +6700,14 @@ Defined Regular Patent Titles
            But lest we ruin some poor minstrel's fun
            No bard will be dis-bard for eir bad pun.
 
+       (d) Filthy Bureaucrat, to be awarded to any player who at some
+           point simultaneously holds and is Electee to three or more
+           Offices.
+
 History:
 Created by Proposal 3916 (harvel), Sep. 27 1999
 Amended(1) by Proposal 1922 (Goethe), Mar. 28 2001
+Amended(2) by Proposal 4204 (Syllepsis), 28 August 2001
 
 ----------------------------------------------------------------------
 
@@ -7777,7 +7781,7 @@ Amended(2) by Proposal 4171 (Blob), 26 June 2001
 
 ----------------------------------------------------------------------
 
-Rule 1985/1 (Power=1)
+Rule 1985/2 (Power=1)
 The Usuror's Budget
 
       The Usuror shall have a Budget.  The Usuror's Budget shall
@@ -7805,15 +7809,16 @@ The Usuror's Budget
 
         (v) The Player Credit Limit for each Bank currency, other than
             Stems, which is a multiple of the MUQ of that Currency
-            between 0 and 20 inclusive.
+            between 0 and 2000 inclusive.
 
        (vi) The Non-Player Credit Limit for each Bank currency, other
             than Stems, which is a multiple of the MUQ of that
-            Currency between 0 and 20 inclusive.
+            Currency between 0 and 2000 inclusive.
 
 History:
 Created by Proposal 4171 (Blob), 26 June 2001
 Amended(1) by Proposal 4196 (neil), 26 July 2001
+Amended(2) by Proposal 4203 (neil), 28 August 2001
 
 ----------------------------------------------------------------------
 
@@ -8102,20 +8107,21 @@ Voting Entitlements
   Entitlements
 ----------------------------------------------------------------------
 
-Rule 1945/1 (Power=1)
+Rule 1945/2 (Power=1)
 Voting Entitlements
 
       Voting Entitlements are a Bank Currency. The Recordkeepor of
       Voting Entitlements is the Assessor. The MUQ of Voting
-      Entitlements is 0.1.
+      Entitlements is 0.001.
 
 History:
 Created by Proposal 4018 (Kelly), Jun. 21 2000
 Amended(1) by Proposal 4085 (Blob), Nov. 16 2000
+Amended(2) by Proposal 4203 (neil), 28 August 2001
 
 ----------------------------------------------------------------------
 
-Rule 1946/3 (Power=1)
+Rule 1946/4 (Power=1)
 Distribution of Voting Entitlements
 
       The Ideal Voting Entitlement Circulation Level (IVECL) is equal
@@ -8135,21 +8141,18 @@ Distribution of Voting Entitlements
       Whenever it occurs that the Voting Entitlement Surplus is
       positive and no Auction of Voting Entitlements is already in
       progress, the Assessor shall auction off the surplus Voting
-      Entitlements. The items to be auctioned are Minimum Unit
-      Quantities of of Voting Entitlements, and thus the number of
-      items is equal to the Voting Entitlement Surplus divided by the
-      MUQ of VEs.  The Auctioneer shall be the Assessor, and the
-      Auction shall be conducted in Stems. Only Politicians may bid.
-
-      Upon the satisfaction of a debt arising from an Voting
-      Entitlement Auction, the Assessor shall pay out one Voting
-      Entitlement to the debtor of the satisfied debt.
+      Entitlements. The items to be auctioned are lots of 0.1 VEs; the
+      number of items is equal to the Voting Entitlement Surplus
+      multiplied by 10, rounded down to the nearest integer.  The
+      Auctioneer shall be the Assessor, and the Auction shall be
+      conducted in Stems. Only Politicians may bid.
 
 History:
 Created by Proposal 4018 (Kelly), Jun. 21 2000
 Amended(1) by Proposal 4058 (Peekee), Aug. 29 2000
 Amended(2) by Proposal 4085 (Blob), Nov. 16 2000
-Amended(3() by Proposal 4117 (Blob), Mar. 6 2001
+Amended(3) by Proposal 4117 (Blob), Mar. 6 2001
+Amended(4) by Proposal 1946 (neil), 28 August 2001
 
 ----------------------------------------------------------------------
 
@@ -8385,12 +8388,12 @@ Amended(14) by Proposal 4124 (Elysion), Mar. 28 2001
 
 ----------------------------------------------------------------------
 
-Rule 1435/14 (Power=1)
+Rule 1435/15 (Power=1)
 Definition of Indulgences, Blots and Immaculate
 
       Indulgences are a Bank Currency. The Minimum Unit Quantity (MUQ)
-      of Indulgences is 0.1.  The Recordkeepor for Indulgences is the
-      Herald.
+      of Indulgences is 0.001.  The Recordkeepor for Indulgences is
+      the Herald.
 
       A Blot is a stain on a Player's record, recorded by the Herald.
 
@@ -8437,6 +8440,7 @@ Amended(11) by Proposal 4011 (Wes), Jun. 1 2000
 Amended(12) by Proposal 4018 (Kelly), Jun. 21 2000
 Amended(13) by Proposal 4102 (Murphy), Jan. 15 2001
 Amended(14) by Proposal 4155 (harvel), 18 May 2001
+Amended(15) by Proposal 4203 (neil), 28 August 2001
 
 ----------------------------------------------------------------------
 
@@ -8454,7 +8458,7 @@ Amended(1) by Proposal 4110 (Ziggy), Feb. 13 2001
 
 ----------------------------------------------------------------------
 
-Rule 1712/11 (Power=1)
+Rule 1712/12 (Power=1)
 Distribution of Indulgences
 
       The Ideal Indulgence Circulation Level (IICL) is the number of
@@ -8497,10 +8501,6 @@ Distribution of Indulgences
       the Auction shall be conducted in Stems with only Acolytes being
       allowed to bid.
 
-      Upon the satisfaction of a debt arising from an Indulgence
-      Auction, the Herald shall pay out one Indulgence to the debtor
-      of the satisfied debt.
-
 History:
 Created by Proposal 3476 (Oerjan), May 11 1997
 Amended(1) by Proposal 3533 (General Chaos), Jul. 15 1997, substantial
@@ -8514,6 +8514,7 @@ Amended(8) by Proposal 4074 (Elysion), Sep. 26 2000
 Amended(9) by Proposal 4085 (Blob), Nov. 16 2000
 Amended(10) by Proposal 4162 (Elysion), 11 June 2001
 Amended(11) by Proposal 4188 (Goethe), 18 July 2001
+Amended(12) by Proposal 4203 (neil), 28 August 2001
 
 ----------------------------------------------------------------------
 
