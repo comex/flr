@@ -7439,45 +7439,6 @@ Amended(1) by Proposal 4234 (Goethe), 22 November 2001
 
 ----------------------------------------------------------------------
 
-Rule 1917/3 (Power=1)
-General Currency Taxation
-
-      The Recordkeepor of a Currency may levy a tax on that Currency,
-      subject to the following restrictions:
-
-      a) All elements required to be specified in the announcement
-         of the levy must also be specified in the announcement of
-         intent to issue the levy.
-      b) The Effective Time of the levy must be between seven and
-         fourteen days after the time of the announcement of the
-         intent to issue the levy.
-      c) The Effective Time of a levy is at least one month after the
-         last Effective Time of a levy on that Currency issued under
-         the authority of this Rule.
-      d) The announcement of intent to issue the levy may not take
-         place while another attempt to levy a tax on that Currency
-         is pending under the authority of this Rule.
-      e) If the Currency is a Bank Currency, then either the
-         Recordkeepor is a member of the Cabinet at the time e
-         levies the tax, or eir action has the support of two current
-         Cabinet members.
-
-      The tax may include exemptions on a fixed amount of the holdings
-      of every taxable entity, provided that:
-
-         (i) All Players are exempt identical amounts,
-        (ii) All Non-players are exempt identical amounts,
-       (iii) The Non-players' exemption is less than or equal to the
-             Players' exemption.
-
-History:
-Created by Proposal 3897 (harvel), Aug. 27 1999
-Amended(1) by Proposal 3940 (Blob), Nov. 15 1999
-Amended(2) by Proposal 3953 (Blob), Dec. 13 1999
-Amended(3) by Proposal 4099 (Murphy), Jan. 15 2001
-
-----------------------------------------------------------------------
-
 Rule 1471/2 (Power=1)
 Creation and Destruction of Units of Currency
 
