@@ -1163,6 +1163,9 @@ First Speaker
 
       The Speaker for the first game shall be Michael Norrish.
 
+[CFJ 1534: This does not mean that Michael Norrish necessarily fills
+ the position of Speaker at the present time.]
+
 History:
 Initial Immutable Rule 104, Jun. 30 1993
 Mutated from MI=Unanimity to MI=3 by Proposal 1482, Mar. 15 1995
