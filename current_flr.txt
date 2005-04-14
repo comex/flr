@@ -8529,6 +8529,9 @@ Administrators of Organizations
       The Administrator is Maintainer of the Charter, unless otherwise
       specified by its Charter or by the Rules.
 
+      The Administrator is Executor of the Organization, unless
+      otherwise specified by its Charter or by the Rules.
+
       The Administrator shall inform the Notary of the following
       changes as soon as possible after they occur, and identify the
       nature of the change:
