@@ -6309,13 +6309,15 @@ Amended(2) by Proposal 4406 (Murphy), 30 October 2002
 
 ----------------------------------------------------------------------
 
-Rule 1505/11 (Power=1)
+Rule 1505/12 (Power=1)
 Standard Classes of Crimes and Infractions
 
       A Class N Infraction (where N is replaced with a number) is an
-      Infraction for which the penalty is N Blots.  Such a penalty is
-      assessed upon the execution of a Ticketing Order that Orders the
-      Herald to record the penalty.
+      Infraction for which the penalty is N Blots minus the number of
+      Shares owned by the penalized entity at the time of the
+      Infraction, with a minimum of 1. Such a penalty is assessed upon
+      the execution of a Ticketing Order that Orders the Herald to
+      record the penalty.
 
       A Class N Crime (where N is replaced with a number) is a Crime
       for which the penalty is N Blots.  Such a penalty is assessed
@@ -6342,6 +6344,7 @@ Amended(8) by Proposal 4406 (Murphy), 30 October 2002
 Amended(9) by Proposal 4408 (OscarMeyr), 30 October 2002
 Amended(10) by Proposal 4416 (OscarMeyr), 16 November 2002
 Amended(11) by Proposal 4614 (Goethe), 21 September 2004
+Amended(12) by Proposal 4672 (Manu), 9 April 2005
 
 ----------------------------------------------------------------------
 
@@ -7772,7 +7775,7 @@ Amended(13) by Proposal 4462 (Goethe), 17 March 2003
 
 ----------------------------------------------------------------------
 
-Rule 2044/0 (Power=1)
+Rule 2044/1 (Power=1)
 Awardable Degrees
 
       The Degree of Associate of Nomic requires a Thesis of at least
@@ -7786,9 +7789,8 @@ Awardable Degrees
       higher Degree.
 
       The Degree of Doctor of Nomic History requires a Thesis of at
-      least 750 words and containing a narrative covering significant
-      events which have occurred in Agora within the eight weeks prior
-      to the publication of the Thesis.
+      least 750 words and containing a narrative and analysis of past
+      events of specific significance to Agora.
 
       The Degree of Master of Nomic requires a Thesis of at least 750
       words.
@@ -7800,6 +7802,7 @@ Awardable Degrees
 
 History:
 Created by Proposal 4462 (Goethe), 17 March 2003
+Amended(1) by Proposal 4671 (Goethe), 9 April 2005
 
 ----------------------------------------------------------------------
 
