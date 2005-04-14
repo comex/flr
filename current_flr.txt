@@ -21,15 +21,15 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 277 Rules:
+There are currently 278 Rules:
     1 with Power=4
    23 with Power=3
    39 with Power=2
-  214 with Power=1
+  215 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2089
-Highest Rule Number assigned so far: 2090
+Highest current Rule Number:         2091
+Highest Rule Number assigned so far: 2091
 
 ======================================================================
 Table of Contents:
@@ -2460,7 +2460,7 @@ The Oligarchy
   Oligarchy.
 ----------------------------------------------------------------------
 
-Rule 1932/8 (Power=2)
+Rule 1932/9 (Power=2)
 Shareholders and the Corporation
 
       The following Elements for Cards are defined:
@@ -2497,6 +2497,15 @@ Shareholders and the Corporation
       Holdings. A Plebeian is a Player who is not a Shareholder. The
       Corporation is the set of all Shareholders.
 
+      * Caption: Divide or Conquer Your Stock
+        Quota: 8
+        Elements: Restricted [Shareholders]
+        Exploit:  Specify one or more Share cards in your hand, and
+          one or more Share cards in the deck, such that both sets
+          consist of the same total number of Shares.  The specified
+          cards in your hand are transferred to the deck, and the
+          specified cards in the deck are transferred to your hand.
+
 History:
 Created by Proposal 3980 (Steve), Mar. 1 2000
 Amended(1) by Proposal 4084 (Steve), Nov. 9 2000
@@ -2507,6 +2516,7 @@ Amended(5) by Proposal 4555 (Elysion), 22 March 2004
 Amended(6) by Proposal 4576 (root), 31 May 2004
 Amended(7) by Proposal 4614 (Goethe), 21 September 2004
 Amended(8) by Proposal 4638 (root), 19 February 2005
+Amended(9) by Proposal 4668 (Quazie, Murphy), 9 April 2005
 
 ----------------------------------------------------------------------
 
@@ -3381,13 +3391,16 @@ Amended(8) by Proposal 4599 (root), 11 July 2004
 
 ----------------------------------------------------------------------
 
-Rule 1950/9 (Power=2)
+Rule 1950/10 (Power=2)
 Voting Power
 
       (a) An entity's Voting Power on an Ordinary Proposal is as
           follows:
             (1) A Shareholder: eir Share Holdings;
-            (2) Any other entity: zero.
+            (2) the Deckmastor: the number of Share Cards in the Deck
+                or three, whichever is smaller; plus eir Share
+                Holdings (if e is a Shareholder);
+            (3) Any other entity: zero.
 
       (b) An entity's Voting Power on a Democratic Proposal is as
           follows:
@@ -3411,7 +3424,8 @@ Voting Power
           entity's Voting Power on that Proposal, with the exceptions
           that:
               (1) no Player may vote on an Ordinary Proposal unless e
-                  is a Shareholder at the time e casts eir vote.
+                  is a Shareholder or the Deckmastor at the time e
+                  casts eir vote.
 
 
 History:
@@ -3425,6 +3439,7 @@ Amended(6) by Proposal 4486 (Michael), 24 April 2003
 Amended(7) by Proposal 4539 (Goethe), 16 November 2003
 Amended(8) by Proposal 4576 (root), 31 May 2004
 Amended(9) by Proposal 4624 (Goethe), 20 November 2004
+Amended(10) by Proposal 4665 (Kolja), 9 April 2005
 
 ----------------------------------------------------------------------
 
@@ -3614,12 +3629,11 @@ The End of the Voting Period
   the Voting Period or upon the announcement of Proposal results.
 ----------------------------------------------------------------------
 
-Rule 879/20 (Power=2)
+Rule 879/21 (Power=2)
 Quorum
 
       (a) An ordinary proposal achieves quorum if at least three
-          shareholders cast votes on it, and the Speaker did not veto
-          it.
+          players cast votes on it, and the Speaker did not veto it.
 
       (b) A democratic proposal achieves quorum if at least one third
           of all active noisy players cast votes on it.
@@ -3655,6 +3669,7 @@ Amended(17) by Proposal 4282 (Goethe), 16 April 2002
 Amended(18) by Proposal 4311 (root), 28 May 2002
 Amended(19) by Proposal 4410 (Steve), 6 November 2002
 Amended(20) by Proposal 4576 (root), 31 May 2004
+Amended(21) by Proposal 4665 (Kolja), 9 April 2005
 
 ----------------------------------------------------------------------
 
@@ -5254,7 +5269,7 @@ Amended(1) by Proposal 4343 (Steve), 11 July 2002
 
 ----------------------------------------------------------------------
 
-Rule 408/15 (Power=1)
+Rule 408/16 (Power=1)
 Late Judgement
 
       For each Judge assigned to a CFJ, eir Deliberation Period begins
@@ -5272,11 +5287,13 @@ Late Judgement
       Period, if e has not yet Judged the CFJ, then e is automatically
       recused.
 
-      A Judge recused according to this Rule commits the Class 3
-      Infraction of Failure to Judge, to be reported by the Clerk of
-      the Courts.  E becomes ineligible to Judge any CFJ for one
-      month, or until e publicly requests to become eligible again,
-      whichever is soonest.
+      A Judge recused according to this Rule commits the Infraction of
+      Failure to Judge; the Class of this Infraction is Class 3 for an
+      unlinked CFJ, or for a single incident of Linked CFJs, Class 2
+      plus the number of Linked CFJs.  This Infraction is to be
+      reported by the Clerk of the Courts. The recused Judge becomes
+      ineligible to Judge any CFJ for one month, or until e publicly
+      requests to become eligible again, whichever is sooner.
 
 History:
 Initial Mutable Rule 215, Jun. 30 1993
@@ -5298,6 +5315,7 @@ Amended(12) by Proposl 3962 (Wes), Jan. 20 2000
 Amended(13) by Proposal 4011 (Wes), Jun. 1 2000
 Amended(14) by Proposal 4076b (Steve), Oct. 10 2000
 Amended(15) by Proposal 4298 (Murphy), 17 May 2002
+Amended(16) by Proposal 4670 (OscarMeyr), 9 April 2005
 
 ----------------------------------------------------------------------
 
@@ -6615,15 +6633,16 @@ Amended(8) by Proposal 3968 (harvel), Feb. 4 2000
 
 ----------------------------------------------------------------------
 
-Rule 1430/4 (Power=1)
+Rule 1430/5 (Power=1)
 Mandatory Rule Annotations
 
       Whenever a Rule is changed in any way, the Rulekeepor shall
       record a historical annotation to the Rule giving the type of
       change, the source of the Change (that is, a reference to the
-      Proposal and its Proposer, or Rule or other entity which
-      mandated the Change) , and the date upon which the change took
-      effect.  Other Rules may require additional information to
+      Proposal and its Proposer (along with any Players explicitly
+      named as co-authors in the Proposal), or Rule or other entity
+      which mandated the Change) , and the date upon which the change
+      took effect.  Other Rules may require additional information to
       appear in an annotation for certain types of Rule Change.
 
       Such an annotation does not in any way affect the Rule itself,
@@ -6642,6 +6661,7 @@ Amended(1) by Proposal 2738 (Swann), Nov. 7 1996, substantial
 Amended(2) by Proposal 2783 (Chuck), Jan. 15 1997, substantial
 Amended(3) by Proposal 3842 (Chuck), Mar. 15 1999
 Amended(4) by Proposal 3884 (harvel), Jul. 26 1999
+Amended(5) by Proposal 4664 (Sherlock), 9 April 2005
 
 ----------------------------------------------------------------------
 
@@ -7052,7 +7072,7 @@ Amended(2) by Proposal 4631 (root), 19 December 2004
 
 ----------------------------------------------------------------------
 
-Rule 2071/4 (Power=1)
+Rule 2071/5 (Power=1)
 Wacky Cards
 
       The following Classes of Cards are defined:
@@ -7102,6 +7122,12 @@ Wacky Cards
           on the Revolutionary Calendar).  Count the day this Card
           is played as day #1.
 
+      * Caption: Dud Development
+        Quota: 2
+        Elements: None
+        Exploit: You may discard X Dud Cards to draw X Cards for
+          free.
+
 
 History:
 Created by Proposal 4574 (Wes), 14 May 2004
@@ -7109,6 +7135,7 @@ Amended(1) by Proposal 4607 (Goethe), 8 August 2004
 Amended(2) by Proposal 4611 (OscarMeyr), 10 September 2004
 Amended(3) by Proposal 4614 (Goethe), 21 September 2004
 Amended(4) by Proposal 4627 (root), 4 December 2004
+Amended(5) by Proposal 4666 (Quazie), 9 April 2005
 
 ----------------------------------------------------------------------
 
@@ -7151,7 +7178,7 @@ Created by Proposal 4620 (Goethe), 20 November 2004
 
 ----------------------------------------------------------------------
 
-Rule 2077/0 (Power=1)
+Rule 2077/1 (Power=1)
 Democratic cards
 
       The following Classes of Cards are defined:
@@ -7163,11 +7190,13 @@ Democratic cards
                   yourself, or 2 times N for another Player.
 
       * Caption:  Patronage
-        Elements: Grafty, Budgeted
+        Elements: Grafty, Budgeted, Powered [2]
         Exploit:  You may increase or decrease the Political Charge by
                   N by paying a fee of 4 times N.  If undefined
                   elsewhere, the Political Charge is a positive
                   integer, tracked by the Assessor, which begins at 4.
+                  No fee required by the Powered [X] element need be
+                  paid to activate this exploit.
 
       * Caption:  Policy
         Elements: Budgeted
@@ -7181,6 +7210,7 @@ Democratic cards
 
 History:
 Created by Proposal 4623 (Goethe), 20 November 2004
+Amended(1) by Proposal 4663 (root), 9 April 2005
 
 ----------------------------------------------------------------------
 
@@ -7490,7 +7520,7 @@ The University of Agora
   Theses and that subset of Patent Titles known as Degrees.
 ----------------------------------------------------------------------
 
-Rule 2086/0 (Power=1)
+Rule 2086/1 (Power=1)
 The University of Agora
 
       The University is an Entity.
@@ -7500,13 +7530,37 @@ The University of Agora
       University except as explicitly permitted by the Rules.
 
       Education is a stuck Player switch with values Student and
-      Faculty Member.  The Herald shall flip the Education switch to
+      Faculty Member.  The SotU shall flip the Education switch to
       Faculty Member for a Player as soon as possible after that
-      Player is awarded a Degree.  The Herald is the recordkeepor of
+      Player is awarded a Degree.  The SotU is the recordkeepor of
       Education.
 
 History:
 Created by Proposal 4657 (Sherlock), 29 March 2005
+Amended(1) by Proposal 4669 (Quazie), 9 April 2005
+
+----------------------------------------------------------------------
+
+Rule 2091/0 (Power=1)
+The Office of Secretary of the University
+
+      The Secretary of the University (SotU) is an office; its holder
+      is recordkeepor for the University.
+
+      The SotU's Weekly Report shall include:
+
+      (a) A list of all active Research Grants;
+
+      (b) A list of all active Book club selections;
+
+      (c) Each players Education.
+
+      (d) A list of who has checked out cards from the library.
+
+      (e) The running history of all of the preceding.
+
+History:
+Created by Proposal 4669 (Quazie), 9 April 2005
 
 ----------------------------------------------------------------------
 
