@@ -6820,7 +6820,7 @@ Amended(1) by Proposal 4614 (Goethe), 21 September 2004
 
 ----------------------------------------------------------------------
 
-Rule 2069/2 (Power=1)
+Rule 2069/3 (Power=1)
 Card Definitions
 
       I. Possession
@@ -6899,12 +6899,12 @@ Card Definitions
           transfer the Deckmastor is required to make, but has not yet
           made.
 
-          A Gambler may Draw from The Deck for a Fee equal to the
-          number of times that Gambler has previously Drawn from the
-          Deck during the current month so long as the Gambler's Hand
-          Size is smaller than the Maximum Hand Size plus the number
-          of Offices e holds.  For the purposes of this Rule, the
-          Speakership is considered an office.
+          A Gambler whose Hand Size is smaller than the maximum Hand
+          Size, plus the number of Offices e holds, plus one if e is
+          Speaker, may draw a card from The Deck.  The fee for this
+          action is a number of Kudos equal to the number of times
+          during the current month e has previously drawn a card in
+          this manner.
 
           If the Deckmastor errs, in good faith, in selecting a
           particular card to deal, and that error does not greatly
@@ -6915,6 +6915,7 @@ History:
 Created by Proposal 4573 (Wes), 14 May 2004
 Amended(1) by Proposal 4625 (Goethe), 20 November 2004
 Amended(2) by Proposal 4633 (Goethe), 9 January 2005
+Amended(3) by Proposal 4674 (OscarMeyr), 13 April 2005
 
 ----------------------------------------------------------------------
 Rule 2074/1 (Power=2)
@@ -7181,7 +7182,7 @@ Created by Proposal 4620 (Goethe), 20 November 2004
 
 ----------------------------------------------------------------------
 
-Rule 2077/1 (Power=1)
+Rule 2077/1 (Power=2)
 Democratic cards
 
       The following Classes of Cards are defined:
@@ -7214,6 +7215,7 @@ Democratic cards
 History:
 Created by Proposal 4623 (Goethe), 20 November 2004
 Amended(1) by Proposal 4663 (root), 9 April 2005
+Power changed from 1 to 2 by Proposal 4675 (root), 13 April 2005
 
 ----------------------------------------------------------------------
 
