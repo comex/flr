@@ -21,15 +21,15 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 278 Rules:
+There are currently 280 Rules:
     1 with Power=4
-   23 with Power=3
-   39 with Power=2
+   24 with Power=3
+   40 with Power=2
   215 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2091
-Highest Rule Number assigned so far: 2091
+Highest current Rule Number:         2099
+Highest Rule Number assigned so far: 2099
 
 ======================================================================
 Table of Contents:
@@ -62,7 +62,6 @@ Table of Contents:
   Changing Speakers
   Subordinate Legal Codes
   Organizations
-  The Notary
   Groups and Contests
   Winners' Hall of Ugly Fountains
 ----------------------------------------------------------------------
@@ -508,7 +507,7 @@ Power changed from 1 to 2 by Proposal 3999 (harvel), May 2 2000
 
 ----------------------------------------------------------------------
 
-Rule 2040/1 (Power=2)
+Rule 2040/3 (Power=2)
 Switches
 
       A switch is a set of states associated with a class of entities.
@@ -531,11 +530,16 @@ Switches
       Whenever an entity joins a class of entities associated with a
       switch, the entity shall be in the default state of the switch.
 
-      A player who may flip a switch on an entity to some state may do
-      so by announcement.  In eir announcement, e must indicate the
-      entity, switch, and new state.  When a switch on an entity is
-      flipped to some state, the entity shall come to be in that state
-      and simultaneously cease to be in any other state of the switch.
+      Whenever an instrument indicates that a switch on an entity is
+      set or changed to some state, and the rules do not otherwise
+      forbid it, the entity shall come to be in that state and
+      simultaneously cease to be in any other state of the switch.
+
+      A player who may flip a switch on an entity to some state other
+      than the current state of the switch may do so by announcement.
+      In eir announcement, e must indicate the entity, switch, and new
+      state.  Upon this announcement, provided it is valid, the switch
+      is set to the named state.
 
       A switch is loose unless the rules define it as stuck.
 
@@ -551,17 +555,24 @@ Switches
       to be in that state; all other entities in the class shall be in
       the default state of the switch.
 
+      Whenever a state ceases to be a state of a switch, all entities
+      in the class that had previously been in that state shall be
+      flipped to the default state of the switch.
+
 History:
 Created by Proposal 4456 (Maud), 22 February 2003
 Amended(1) by Proposal 4527 (Murphy), 16 September 2003
+Amended(2) by Proposal 4685 (Quazie, Murphy), 18 April 2005
+Amended(3) by Proposal 4691 (root), 18 April 2005
 
 ----------------------------------------------------------------------
 
-Rule 478/13 (Power=1)
+Rule 478/14 (Power=3)
 Fora
 
       Publicity is a stuck forum switch with values null, Discussion,
-      and Public.
+      and Public.  A forum's Publicity may not be changed except as
+      described in this rule.
 
       The Registrar may, without objection, flip the publicity of a
       forum.  In addition to any other requirements the rules place on
@@ -623,6 +634,8 @@ Amended(10) by Proposal 3823 (oerjan), Jan. 21 1999
 Amended(11) by Proposal 4147 (Wes), 13 May 2001
 Amended(12) by Proposal 4248 (Murphy), 19 February 2002
 Amended(13) by Proposal 4456 (Maud), 22 February 2003
+Power changed from 1 to 3 by Proposal 4690 (root), 18 April 2005
+Amended(14) by Proposal 4690 (root), 18 April 2005
 
 ----------------------------------------------------------------------
 
@@ -747,7 +760,7 @@ Amended(16) by Proposal 4406 (Murphy), 30 October 2002
 
 ----------------------------------------------------------------------
 
-Rule 1079/3 (Power=1)
+Rule 1079/4 (Power=1)
 Definition of "Random"
 
       (a) When a Rule requires a random choice to be made, then the
@@ -765,10 +778,10 @@ Definition of "Random"
           whose probability distribution among the possible outcomes
           is reasonably close to that required by the Rules.
 
-      (d) For the purposes of this Rule, tossing a platonic solid or
-          coin that is not specially weighted has a probability
-          distribution among the possible outcomes that is reasonably
-          close to uniform.
+      (d) For the purposes of this Rule, tossing a platonic solid that
+          is not specially weighted has a probability distribution
+          among the possible outcomes that is reasonably close to
+          uniform.
 
       (e) For other methods, the Courts are the final arbiter of
           whether a method's probability distribution among the
@@ -783,6 +796,7 @@ Created by Proposal 1079, ca. Oct. 11 1994
 Amended(1) by Proposal 1648, Aug. 6 1995
 Amended(2) by Proposal 2806, Feb. 8 1997, substantial (unattributed)
 Amended(3) by Proposal 4368 (Steve), 29 August 2002
+Amended(4) by Proposal 4693 (Maud), 18 April 2005
 
 ----------------------------------------------------------------------
 
@@ -828,7 +842,7 @@ Amended(2) by Proposal 01-003 (Steve), Feb. 2 2001
 
 ----------------------------------------------------------------------
 
-Rule 1787/0 (Power=1)
+Rule 1787/1 (Power=1)
 April Fool's Day
 
       A break from all the stress and strife
@@ -841,8 +855,14 @@ April Fool's Day
       Let April Fool's Day, every year
          become a Holiday!
 
+      And should it one day be observed
+         by any wag who breaks a Rule,
+      the Speaker will one Boon award
+         to em who was the biggest Fool.
+
 History:
 Created by Proposal 3695 (Steve), Mar. 3 1998
+Amended(1) by Proposal 4677 (root), 18 April 2005
 
 ----------------------------------------------------------------------
 
@@ -1017,53 +1037,29 @@ The Players
   This Category includes Rules defining and classifying Players.
 ----------------------------------------------------------------------
 
-Rule 869/14 (Power=1)
+Rule 869/15 (Power=1)
 Registered Players
 
-      Any person who is not registered as a Player may do so by
-      sending a message to a Public Forum stating that e registers as
-      a Player.  Unless other Rules provide additional necessary
+      Any person who is not registered as a player may do so by
+      sending a message to a public forum announcing that e registers
+      as a player.  Unless other rules provide additional necessary
       conditions for registration that have not been fulfilled or the
-      Rules otherwise prohibit the person from registering, e
-      immediately becomes a registered Player.
+      rules otherwise prohibit the person from registering, e
+      immediately becomes a registered player.
 
       Readiness is a stuck player switch with values ready and
       unready.
 
       An unready player may flip eir readiness to ready.
 
-      Whenever a person registers as a Player in Agora, and that
-      person has not been registered as a Player in Agora at any time
-      within the 365 previous days, e becomes Unready and is subject
-      to a Grace Period that begins at the time of eir registration
-      and ends sixty days afterwards, unless otherwise provided by
-      this Rule.  A Player is only subject to the Grace Period
-      resulting from eir own registration.
-
-      Whenever:
-
-      (i) any Holiday occurs completely between the start of any
-          Player's Grace Period and its scheduled conclusion, or
-
-      (ii) any Player's Grace Period is scheduled to conclude during
-           any Holiday,
-
-      eir Grace Period shall be extended by a period of time equal in
-      length to that Holiday.
-
-      Whenever a Player registers during a Holiday, eir Grace Period
-      shall be extended by a period of time equal to the time which
-      elapses between eir registration and the conclusion of that
-      Holiday, provided that no other Rule extends eir Grace Period by
-      reason of that Holiday.
-
-      For the purposes of determining when a Player's Grace Period is
-      scheduled to conclude, where more than one Holiday falls fully
-      or partially within that Grace Period, the calculation shall be
-      made separately for each Holiday.
+      Whenever a player registers, and that player has not previously
+      been registered as a player in Agora at any time within the 365
+      previous days, e becomes unready and is subject to a Grace
+      Period that begins at the time of eir registration and lasts
+      sixty days, not including Holidays.  A player is only subject to
+      the Grace Period resulting from eir own registration.
 
       Whenever a Player's Grace Period concludes, e becomes Ready.
-
 
 [CFJ 805: "Person" here means a natural person, not a legal person
  (such as a corporation) or something named "person."
@@ -1089,6 +1085,23 @@ Amended(11) by Proposal 4155 (harvel), 18 May 2001
 Amended(12) by Proposal 4430 (Cecilius), 16 January 2003
 Amended(13) by Proposal 4451 (Cecilius), 22 February 2003
 Amended(14) by Proposal 4523 (Murphy), 28 August 2003
+Amended(15) by Proposal 4693 (Maud), 18 April 2005
+
+----------------------------------------------------------------------
+
+Rule 2094/0 (Power=1)
+Corporate Players
+
+      A collective of two or more persons (a Hive) none of whom is
+      currently registered as a player may jointly register as a
+      single player.  A Hive is subject to a Grace Period only if each
+      of its members would have been subject to a Grace Period had e
+      registered as an individual at the time the Hive registered.
+
+      This rule takes precedence over rule 869.
+
+History:
+Created by Proposal 4693 (Maud), 18 April 2005
 
 ----------------------------------------------------------------------
 
@@ -1531,7 +1544,22 @@ Amended(9) by Proposal 4250 (harvel), 19 February 2002
 
 ----------------------------------------------------------------------
 
-Rule 1686/12 (Power=1)
+Rule 2098/0 (Power=1)
+May Day
+
+      A Worker is any player who is not an Officer.
+
+      On the First of May, any worker may remove any officer from an
+      office by public declaration.  The declaring worker becomes the
+      holder although not electee of that office, providing e is
+      otherwise eligible to hold the Office.
+
+History:
+Created by Proposal 4701 (Goethe), 18 April 2005
+
+----------------------------------------------------------------------
+
+Rule 1686/13 (Power=1)
 Official Reports
 
       The Rules may designate certain information to be part of an
@@ -1551,12 +1579,13 @@ Official Reports
       the content of the report would substantially be the same as in
       the previously published report. In this case, a report must
       only be published within one week of the next substantial change
-      to the report's content. Each officer with a Monthly Report must
-      publish it monthly.  Failure to do so is the Class 2 Infraction
-      of Failure to Report.  If an officer fails to do so for at least
-      three consecutive reporting periods, e may be cited for either
-      Failure to Report or the Class 10 Infraction of Dereliction of
-      Duty but not both.  Any officer cited for Dereliction of Duty is
+      to the report's content, but must at least be published once per
+      month.  Each officer with a Monthly Report must publish it
+      monthly.  Failure to do so is the Class 2 Infraction of Failure
+      to Report.  If an officer fails to do so for at least three
+      consecutive reporting periods, e may be cited for either Failure
+      to Report or the Class 10 Infraction of Dereliction of Duty but
+      not both.  Any officer cited for Dereliction of Duty is
       immediately removed from that office. The Assistant Director of
       Personnel and the Speaker may report these Infractions.
 
@@ -1574,6 +1603,7 @@ Amended(9) by Proposal 4164 (Murphy), 11 June 2001
 Amended(10) by Proposal 4250 (harvel), 19 February 2002
 Amended(11) by Proposal 4489 (root), 6 May 2003
 Amended(12) by Proposal 4655 (Kolja), 29 March 2005
+Amended(13) by Proposal 4695 (Quazie), 18 April 2005
 
 ----------------------------------------------------------------------
 
@@ -2248,7 +2278,7 @@ Amended(11) by Proposal 4461 (Maud), 17 March 2003
 
 ----------------------------------------------------------------------
 
-Rule 1664/26 (Power=2)
+Rule 1664/28 (Power=2)
 Rebellion
 
       A Rebellious player may Call for a Revolt at any time by
@@ -2274,12 +2304,13 @@ Rebellion
          - The Registrar shall grant the ephemeral Patent Title Rebel
            Hero to each Rebellious player.
          - All Stock Cards in the possession of Abiding Players are
-           returned to the Deck, and all Abiding Players have their
-           initiative switched to Gote.
+           returned to the Deck, and the initiative of each Abiding
+           Player is set to Gote.
          - Each Abiding player that is the Electee to an Office is
            retired from that Office.
          - All Rebellious players become Abiding again
-         - A Speaker Transition occurs
+         - If the Speaker is not Rebellious, A Speaker Transition
+           occurs
 
       If a Revolt does not succeed, then:
 
@@ -2321,6 +2352,8 @@ Amended(23) by Proposal 4554 (Elysion), 27 February 2004
 Amended(24) by Proposal 4555 (Elysion), 22 March 2004
 Amended(25) by Proposal 4576 (root), 31 May 2004
 Amended(26) by Proposal 4624 (Goethe), 20 November 2004
+Amended(27) by Proposal 4686 (Quazie), 18 April 2005
+Amended(28) by Proposal 4691 (root), 18 April 2005
 
 ----------------------------------------------------------------------
 
@@ -2420,25 +2453,29 @@ Amended(4) by Proposal 4576 (root), 31 May 2004
 
 ----------------------------------------------------------------------
 
-Rule 1940/7 (Power=1)
+Rule 1940/8 (Power=1)
 Periodic Compensations
 
       The boon of Public Service exists for the purpose of awarding
       Officers for serving.
 
+      Paperwork is a stuck switch for Offices with states Low and
+      High.  The Assistant Director of Personnel is the recordkeepor
+      for paperwork.  For the purpose of this rule, the Speaker and
+      the Distributor are considered offices.  The Assistant Director
+      of Personnel or the Speaker may switch the paperwork of an
+      office with two supporters and without two objections.
+
       As soon as possible after the beginning of each month, the
-      Assistant Director of Personnel shall award:
+      Assistant Director of Personnel shall award 1 Public Service
+      Boon for each office to the player (if any) who held that office
+      for 16 or more days in the previous month; e shall award an
+      additional Public Service boon to that player if the office is a
+      high paperwork office.
 
-      (A) 1 Public Service Boon for each Office, to the Player (if
-          any) who held that Office for 16 or more days in the
-          previous month;
-
-      (B) 1 Public Service Boon to the Player (if any) who was Speaker
-          for at least 16 days of the previous month.
-
-      (C) 1 Public Service Boon to the Distributor if the Distributor
-          is a Player and was both the Distributor and a Player for at
-          least 16 days of the previous month.
+      Each office may make one Proposal distributable per month
+      without payment of a fee, by the electee of that office publicly
+      invoking that office's Civil Service Exemption.
 
 History:
 Created by Proposal 3998 (harvel), May 2 2000
@@ -2449,6 +2486,7 @@ Amended(4) by Proposal 4260 (Goethe), 21 February 2002
 Amended(5) by Proposal 4361 (Steve), 16 August 2002
 Amended(6) by Proposal 4385 (Steve), 17 September 2002
 Amended(7) by Proposal 4486 (Michael), 24 April 2003
+Amended(8) by Proposal 4697 (Goethe), 18 April 2005
 
 ----------------------------------------------------------------------
 
@@ -2962,21 +3000,28 @@ Amended(15) by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
-Rule 1952/3 (Power=1)
+Rule 1952/4 (Power=1)
 Making Proposals Distributable
 
       Depth is a stuck proposal switch with values undistributable and
       distributable.
 
-      A player may flip a proposal's depth to distributable by paying
-      a fee equal to its Distribution Cost, or to undistributable by
-      paying a fee equal to twice its Distribution Cost.
+      A player may flip the depth of a Proposal that e proposed to
+      distributable by paying a fee equal to its Distribution Cost.
+
+      A player may flip the depth of a Proposal that e did not propose
+      to distributable by paying a fee equal to its Distribution Cost
+      minus one (minimum zero).
+
+      A player may flip the depth of any Proposal to undistributable
+      by paying a fee equal to twice its Distribution Cost.
 
 History:
 Created by Proposal 4050 (t), Aug. 15 2000
 Amended(1) by Proposal 4195 (Syllepsis), 26 July 2001
 Amended(2) by Proposal 4486 (Michael), 24 April 2003
 Amended(3) by Proposal 4523 (Murphy), 28 August 2003
+Amended(4) by Proposal 4702 (Goethe), 18 April 2005
 
 ----------------------------------------------------------------------
 
@@ -3116,7 +3161,7 @@ Mutated from MI=1 to MI=2 by Proposal 2665, Sep. 12 1996
 
 ----------------------------------------------------------------------
 
-Rule 2078/0 (Power=2)
+Rule 2078/1 (Power=2)
 Takeover Proposals
 
       Initiative is a stuck player switch, tracked by the Assessor,
@@ -3135,16 +3180,17 @@ Takeover Proposals
       Rules to the Contrary nonwithstanding, a Takeover Proposal is
       both Democratic and Sane.
 
-      At the beginning of a Takeover Proposal's voting period, all
-      players have their initiative flipped to Gote.  At the end of a
-      Takeover Proposal's voting period, all players have their
-      initiative flipped as follows:
+      At the beginning of a Takeover Proposal's voting period, the
+      initiative of each player is set to Gote.  At the end of a
+      Takeover Proposal's voting period, the initiative of each player
+      is set as follows:
         (a) Adopted:  All Corporate Raiders gain Sente.
         (b) Rejected:  All other players gain Sente.
         (c) Failed quorum:  No one gains Sente.
 
 History:
 Created by Proposal 4624 (Goethe), 20 November 2004
+Amended(1) by Proposal 4691 (root), 18 April 2005
 
 ----------------------------------------------------------------------
 
@@ -3391,7 +3437,7 @@ Amended(8) by Proposal 4599 (root), 11 July 2004
 
 ----------------------------------------------------------------------
 
-Rule 1950/10 (Power=2)
+Rule 1950/11 (Power=2)
 Voting Power
 
       (a) An entity's Voting Power on an Ordinary Proposal is as
@@ -3427,6 +3473,8 @@ Voting Power
                   is a Shareholder or the Deckmastor at the time e
                   casts eir vote.
 
+      Other rules with Power of at least 2 may modify a player's
+      Voting Power.
 
 History:
 Created by Proposal 4032 (t), Jul. 24 2000
@@ -3440,17 +3488,17 @@ Amended(7) by Proposal 4539 (Goethe), 16 November 2003
 Amended(8) by Proposal 4576 (root), 31 May 2004
 Amended(9) by Proposal 4624 (Goethe), 20 November 2004
 Amended(10) by Proposal 4665 (Kolja), 9 April 2005
+Amended(11) by Proposal 4685 (Quazie, Murphy), 18 April 2005
 
 ----------------------------------------------------------------------
 
-Rule 683/10 (Power=1)
+Rule 683/11 (Power=1)
 Voting on Proposals
 
       A Voter authorised to cast votes on a particular Proposal may do
       so only by informing the Assessor of the vote or votes e is
-      casting on that Proposal. Once cast, a vote cannot be changed or
-      cancelled by the Voter which cast it, although it may be
-      cancelled as other Rules require.
+      casting on that Proposal. A Voter may change or cancel eir vote
+      or votes during the Voting Period by informing the Assessor.
 
       A vote upon a Proposal must be one of FOR, AGAINST, or ABSTAIN
       (or an obvious synonym of one of these).  Something which is not
@@ -3469,6 +3517,7 @@ Amended(7) by Proposal 3937 (Wes), Oct. 31 1999
 Amended(8) by Proposal 3968 (harvel), Feb. 4 2000
 Amended(9) by Proposal 3972 (Peekee), Feb. 14 2000
 Amended(10) by Proposal 4190 (Steve), 18 July 2001
+Amended(11) by Proposal 4699 (Sherlock), 18 April 2005
 
 ----------------------------------------------------------------------
 
@@ -3642,6 +3691,9 @@ Quorum
           the number of active noisy players at the time that the
           proposal was distributed, or at the time it was made a
           democratic proposal, whichever is later.
+
+CFJ 1562 (Judged TRUE, 6 May 2005): "A cancelled vote on a Proposal
+ does not count towards quorum."
 
 History:
 Initial Mutable Rule 201, Jun. 30 1993
@@ -3965,25 +4017,6 @@ Amended(19) by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
-Rule 1678/7 (Power=1)
-Encourage Proposals by New Players
-
-      If a Proposal passes, and that Proposal was submitted by a
-      Player within that Player's Grace Period, then the Assessor
-      shall award the Proposor the Boon of Prodigy.
-
-History:
-Created by Proposal 2758 (Swann), Nov. 28 1996
-Amended(1) by Proposal 2829 (Zefram), Mar. 7 1997, substantial
-Amended(2) by Proposal 3463 (Harlequin), Apr. 17 1997, substantial
-Amended(3) by Proposal 3533 (General Chaos), Jul. 15 1997, substantial
-Amended(4) by Proposal 3897 (harvel), Aug. 27 1999
-Amended(5) by Proposal 4050 (t), Aug. 15 2000
-Amended(6) by Proposal 4365 (Steve), 23 August 2002
-Amended(7) by Proposal 4486 (Michael), 24 April 2003
-
-----------------------------------------------------------------------
-
 Rule 1583/2 (Power=1)
 Proposal Penalties Halved for New Players
 
@@ -4001,15 +4034,22 @@ Amended(2) by Proposal 3823 (Oerjan), Jan. 21 1999
 
 ----------------------------------------------------------------------
 
-Rule 2061/0 (Power=1)
-Boon of Zeitgeist
+Rule 2095/0 (Power=1)
+The Assessor's Boon Duties
 
-      If an Interested Democratic Proposal passes, and no Votes were
-      cast AGAINST it, then the Assessor shall award the Proposor the
-      Boon of Zeitgeist.
+      * If a Proposal passes, and that Proposal was submitted by a
+        Player within that Player's Grace Period, then the Assessor
+        shall award the Proposor the Boon of Prodigy.
+
+      * If an Interested Democratic Proposal passes, and no Votes were
+        cast AGAINST it, then the Assessor shall award the Proposor
+        the Boon of Zeitgeist.
+
+      * If a proposal submitted on Guy Fawkes Day is adopted then the
+        Assessor shall award the proposer the boon of a penny.
 
 History:
-Created by Proposal 4540 (Murphy), 23 November 2003
+Created by Proposal 4696 (Quazie), 18 April 2005
 
 ----------------------------------------------------------------------
 
@@ -4019,7 +4059,7 @@ Referenda and Elections
   other than Proposals, particularly Referenda and Elections.
 ----------------------------------------------------------------------
 
-Rule 1434/12 (Power=1)
+Rule 1434/13 (Power=1)
 Default Procedure for Referendum Voting
 
       When a Referendum Vote is required and the procedure is not
@@ -4054,8 +4094,9 @@ Default Procedure for Referendum Voting
       * Vote Strength: Every Vote has equal strength.  No Voter may
         Vote more than once on any single Referendum.
 
-      * Retraction: A Vote, once sent to the Vote Collector, cannot be
-        changed.
+      * Retraction: During the Voting period a Voter may change or
+        cancel any Vote e has sent to the Vote Collector by notifying
+        the Vote Collector.
 
       * Start of Voting: The Voting Period begins at the time of the
         first correct and legal public announcement that a Referendum
@@ -4108,6 +4149,7 @@ Amended(9) by Proposal 4257 (Murphy), 21 February 2002
 Amended(10) by Proposal 4258 (Murphy), 21 February 2002
 Amended(11) by Proposal 4629 (Murphy), 19 December 2004
 Amended(12) by Proposal 4637 (Murphy), 19 February 2005
+Amended(13) by Proposal 4699 (Sherlock), 18 April 2005
 
 ----------------------------------------------------------------------
 
@@ -5041,11 +5083,11 @@ Selecting a Judge
       Judge.  That Player remains the Trial Judge of that CFJ until e
       is recused from it or becomes ineligible to Judge it.
 
-CFJ 1186, Judged TRUE Dec. 9 1999: "The Clerk of the Courts is
-required by Rule 1868 to select a Judge who is eligible at the time
-that the Judge is selected, regardless of whether that Player was
-eligible at the time that the CFJ was actually called for or when the
-identity of that Player is announced."
+CFJ 1186 (Judged TRUE, Dec. 9 1999): "The Clerk of the Courts is
+ required by Rule 1868 to select a Judge who is eligible at the time
+ that the Judge is selected, regardless of whether that Player was
+ eligible at the time that the CFJ was actually called for or when the
+ identity of that Player is announced."
 
 [CFJ 1187, Judged TRUE Dec. 8 1999: "A Judge is considered to be
  assigned to Judge a particular CFJ at the time that the Clerk of the
@@ -5099,7 +5141,20 @@ Amended(11) by Proposal 4424 (Steve), 16 December 2002
 
 ----------------------------------------------------------------------
 
-Rule 1871/6 (Power=1)
+Rule 2099/0 (Power=1)
+Spring Break
+
+      The Caller of any Call for Judgement made on March 21 is
+      eligible to judge that same CFJ, even if other Rules would make
+      em ineligible.  The Clerk of the Courts must choose the Caller
+      to be the Trial Judge of that CFJ.
+
+History:
+Created by Proposal 4701 (Goethe), 18 April 2005
+
+----------------------------------------------------------------------
+
+Rule 1871/7 (Power=1)
 Turns for All
 
       Orientation is a stuck player switch with values unturned and
@@ -5115,8 +5170,8 @@ Turns for All
       one such CFJ.  Upon such an announcement, all turned players
       become unturned.
 
-      The CotC may switch the Orientation of players e expects to
-      judge CFJs slowly or not at all to turned, without 2 objections.
+      The CotC may flip the Orientation of players e expects to judge
+      CFJs slowly or not at all to turned, without 2 objections.
 
 History:
 Created by Proposal 3821 (Blob), Jan. 12 1999
@@ -5126,6 +5181,7 @@ Amended(3) by Proposal 4523 (Murphy), 28 August 2003
 Amended(4) by Proposal 4563 (OscarMeyr), 6 April 2004
 Amended(5) by Proposal 4596 (Murphy), 4 July 2004
 Amended(6) by Proposal 4648 (Kolja), 22 March 2005
+Amended(7) by Proposal 4691 (root), 18 April 2005
 
 ----------------------------------------------------------------------
 
@@ -5900,11 +5956,26 @@ Amended(12) by Proposal 4579 (Murphy), 15 June 2004
 
 ----------------------------------------------------------------------
 
-Rule 910/11 (Power=1)
+Rule 910/12 (Power=1)
 The Justiciar
 
       The Justiciar is an office; its holder is responsible for
-      justice and for serving on a Board of Appeals when necessary.
+      justice, serving on a Board of Appeals when necessary, and for
+      maintaining a record of organizations and their jurisdictions.
+
+      The Justiciar's monthly report shall contain the following
+      information for each organization:
+
+        a) Its name.
+        b) Its administrator.
+        c) Its executor.
+        d) The maintainer of its charter.
+        e) A list of players within its jurisdiction.
+        f) The charter of each organization.
+
+      In addition, as soon as possible after the Justiciar is informed
+      of a change in any of the properties a-f above for an
+      organization, the Justiciar shall report the change.
 
 History:
 Created by Proposal 910, May 4 1994
@@ -5919,6 +5990,7 @@ Amended(8) by Proposal 3871 (Peekee), Jun. 2 1999
 Amended(9) by Proposal 3902 (Murphy), Sep. 6 1999
 Amended(10) by Proposal 4250 (harvel), 19 February 2002
 Amended(11) by Proposal 4592 (Murphy), 4 July 2004
+Amended(12) by Proposal 4698 (Goethe), 18 April 2005
 
 ----------------------------------------------------------------------
 
@@ -6790,7 +6862,7 @@ Cards
   This Category includes Rules regulating Cards.
 ----------------------------------------------------------------------
 
-Rule 2068/1 (Power=1)
+Rule 2068/2 (Power=1)
 The Deckmastor
 
       The Deckmastor is an office which acts as the recordkeepor for
@@ -6803,11 +6875,11 @@ The Deckmastor
       Maximum. In the absence of a budget, the Maximum Hand Size shall
       be 5 and the Minimum Hand Size shall be 2.
 
-      The Deck is a Gambler. The Deckmastor shall be the sole Executor
-      of The Deck, but may take no action on behalf of The Deck except
-      as explicitly permitted by the Rules. The Deck may not transfer
-      Cards to any other entity except as explicitly required by the
-      Rules.
+      The Deck and the Discard Pile are Gamblers. The Deckmastor shall
+      be the sole Executor of both entities, but may take no action on
+      behalf of them except as explicitly permitted by the Rules.  The
+      Deck and Discard Pile may not transfer cards to any other entity
+      except as explicitly required by the Rules.
 
       Only the Deckmastor may create or destroy Cards, and e may do if
       and only if the Rules require it by announcing the Card being
@@ -6817,10 +6889,11 @@ The Deckmastor
 History:
 Created by Proposal 4573 (Wes), 14 May 2004
 Amended(1) by Proposal 4614 (Goethe), 21 September 2004
+Amended(2) by Proposal 4694 (Goethe), 18 April 2005
 
 ----------------------------------------------------------------------
 
-Rule 2069/3 (Power=1)
+Rule 2069/4 (Power=1)
 Card Definitions
 
       I. Possession
@@ -6869,8 +6942,8 @@ Card Definitions
           pronoun in the text of an Exploit refers to the Holder of
           that Card. Taking an action described in an Exploit is known
           as Playing the Card. Unless a Rule says otherwise, a Card is
-          automatically transferred to The Deck immediately after
-          being Played.
+          automatically transferred to the Discard Pile immediately
+          after being Played.
 
       III. Actions
 
@@ -6886,8 +6959,11 @@ Card Definitions
           the Gambler it shall be transferred to. All such transfers
           take place at the time they are announced.
 
-          Discarding a Card is synonymous with transfering said Card
-          to The Deck.
+          If a Gambler transfers a card to the Deck, it is instead
+          transferred to the discard pile, unless the transfer is made
+          as part of the Deckmastor's required duties.  Discarding a
+          Card is synonymous with transfering said Card to the Discard
+          Pile.
 
       (b) Drawing a Card and Drawing from The Deck are synonymous.
 
@@ -6897,7 +6973,12 @@ Card Definitions
           as soon as possible. Until this transfer takes place, that
           Gambler is said to have one Pending Draw for each such
           transfer the Deckmastor is required to make, but has not yet
-          made.
+          made. If, at any time, the number of pending draws for all
+          gamblers is greater than the number of cards in the Deck,
+          then the Deckmastor shall transfer all of the cards in the
+          Discard Pile to the Deck before dealing any cards.  This
+          transfer is known as a Reshuffle and is performed as a
+          single action.
 
           A Gambler whose Hand Size is smaller than the maximum Hand
           Size, plus the number of Offices e holds, plus one if e is
@@ -6916,6 +6997,7 @@ Created by Proposal 4573 (Wes), 14 May 2004
 Amended(1) by Proposal 4625 (Goethe), 20 November 2004
 Amended(2) by Proposal 4633 (Goethe), 9 January 2005
 Amended(3) by Proposal 4674 (OscarMeyr), 13 April 2005
+Amended(4) by Proposal 4694 (Goethe), 18 April 2005
 
 ----------------------------------------------------------------------
 Rule 2074/1 (Power=2)
@@ -7007,7 +7089,7 @@ History:
 Created by Proposal 4644 (root), 12 March 2005
 
 ----------------------------------------------------------------------
-Rule 2070/3 (Power=1)
+Rule 2070/4 (Power=1)
 Card Powerz
 
       The following Elements for Cards are defined:
@@ -7034,6 +7116,9 @@ Card Powerz
       * Delayed[N]: You may not play this card if you have played a
         copy of this card in the past N times 24 hours.
 
+      * Asleep[N]: No one may play a copy of this card if anyone has
+        played a copy of this card in the past N times 24 hours.
+
       * Powered [X], where X is a positive integer: This Card has a
         Power of X.  To Activate any Exploit possessed by this Card, a
         Fee of X - 1 must be paid in addition to any other Fees
@@ -7045,10 +7130,11 @@ Created by Proposal 4573 (Wes), 14 May 2004
 Amended(1) by Proposal 4614 (Goethe), 21 September 2004
 Amended(2) by Proposal 4620 (Goethe), 20 November 2004
 Amended(3) by Proposal 4631 (root), 19 December 2004
+Amended(4) by Proposal 4678 (Goethe), 18 April 2005
 
 ----------------------------------------------------------------------
 
-Rule 2067/2 (Power=2)
+Rule 2067/4 (Power=2)
 Cards in Play
 
       The following Classes of Cards are defined:
@@ -7058,9 +7144,10 @@ Cards in Play
         Exploit: Cause any one Proposal to become Distributable.
 
       * Caption: Absolv-o-Matic
-        Elements: Budgeted,
-                  Limited [Immaculate Players] [1]
-        Exploit: Expunge one Blot from any one entity.
+        Elements: Budgeted
+        Exploit: If you are immaculate, you may expunge
+          N blots from an entity for a fee of N-1.  Otherwise, you may
+          expunge one blot from an entity for no fee.
 
       * Caption: Debate-o-Matic
         Elements: Budgeted, Powered [2]
@@ -7068,11 +7155,19 @@ Cards in Play
           the Chamber of your choice, provided it is legal for that
           Proposal to be in the named Chamber.
 
+      * Caption: Two for One
+        Elements: Budgeted
+        Exploit: For a fee of one Kudo make 2 undistributable
+          proposals, provided that each has a Distribution Cost of 1,
+          distributable.
+
 History:
 Created by Proposal 4569 (Wes), 2 May 2004
 Amended(1) by Proposal 4614 (Goethe), 21 September 2004
 Power changed from 1 to 2 by Proposal 4626 (Goethe), 20 November 2004
 Amended(2) by Proposal 4631 (root), 19 December 2004
+Amended(3) by Proposal 4682 (Goethe), 18 April 2005
+Amended(4) by Proposal 4687 (Quazie, Manu), 18 April 2005
 
 ----------------------------------------------------------------------
 
@@ -7143,7 +7238,7 @@ Amended(5) by Proposal 4666 (Quazie), 9 April 2005
 
 ----------------------------------------------------------------------
 
-Rule 2076/0 (Power=1)
+Rule 2076/2 (Power=1)
 Card cards
 
        Caption:  Your Turn
@@ -7156,8 +7251,9 @@ Card cards
        Elements: Budgeted, Delayed[4]
        Exploit:  If a copy of a card was played or discarded in the
                  past 72 hours, you may name it, and a copy of that
-                 card, if one is still in the deck, is automatically
-                 transferred from the Deck to your hand.
+                 card, if one is still in the discard pile, is
+                 automatically transferred from the discard pile to
+                 your hand.
 
        Caption:  Enforced Charity
        Elements: Budgeted, Delayed[3]
@@ -7177,8 +7273,24 @@ Card cards
                  choice, is automatically transferred to your hand,
                  provided that Gambler has a copy of that card.
 
+       Caption:  Not Your Turn
+       Elements: Budgeted, Delayed[2]
+       Exploit:  You may specify a card play that has occurred
+                 in the past 48 hours, and (1) that card shall be
+                 deemed to have not been played, and (2) the gambler
+                 who originally played that card may not play a copy
+                 of that card for the next 72 hours.
+
+       Caption:  Reshuffle
+       Quota:    3
+       Elements: Asleep[15]
+       Exploit: The Deckmastor must Reshuffle before dealing any
+                cards.
+
 History:
 Created by Proposal 4620 (Goethe), 20 November 2004
+Amended(1) by Proposal 4678 (Goethe), 18 April 2005
+Amended(2) by Proposal 4694 (Goethe), 18 April 2005
 
 ----------------------------------------------------------------------
 
@@ -7298,13 +7410,33 @@ Created by Proposal 4647 (Quazie), 22 March 2005
 
 ----------------------------------------------------------------------
 
+Rule 2093/0 (Power=1)
+The New Raffle
+
+      The following class of cards is defined:
+
+      * Caption: Raffle Ticket
+        Elements: Grafty
+
+      As soon as possible after the 13th day of the third month of
+      each quarter, the Deckmastor shall randomly select a copy of a
+      Raffle Ticket in the possession of a Player and announce eir
+      selection, unless no such copy exists.  Upon this announcement,
+      the Player in possession gains three instances of the ephemeral
+      Patent Title "Fortune's Fool", and each Raffle Ticket in the
+      possession of a Player is automatically discarded.
+
+History:
+Created by Proposal 4692 (root), 18 April 2005
+
+----------------------------------------------------------------------
 
 ======================================================================
 Patent Titles
   This Category includes Rules regulating Patent Titles.
 ----------------------------------------------------------------------
 
-Rule 649/15 (Power=1)
+Rule 649/16 (Power=1)
 Patent Titles
 
       A Patent Title is a legal item of recognition of a person's
@@ -7326,8 +7458,8 @@ Patent Titles
 
       Significance is a stuck switch for Patent Titles with states
       Historical, Hysterical, and Ephemeral.  The Herald may, Without
-      Objection, cause a Title be switched from Historical
-      Significance to Hysterical Significance.
+      Objection, flip a Title from Historical Significance to
+      Hysterical Significance.
 
 History:
 Created by Proposal 649 (Wes), ca. Oct. 22 1993
@@ -7350,6 +7482,7 @@ Amended(12) by Proposal 4002 (harvel), May 8 2000
 Amended(13) by Proposal 4110 (Ziggy), Feb. 13 2001
 Amended(14) by Proposal 4147 (Wes), 13 May 2001
 Amended(15) by Proposal 4497 (Steve), 13 May 2003
+Amended(16) by Proposal 4691 (root), 18 April 2005
 
 ----------------------------------------------------------------------
 
@@ -7478,7 +7611,7 @@ Amended(2) by Proposal 4173 (Goethe), 26 June 2001
 
 ----------------------------------------------------------------------
 
-Rule 2049/0 (Power=1)
+Rule 2049/1 (Power=1)
 Ephemera
 
       A Patent Title has Ephemeral significance if the rules state
@@ -7486,7 +7619,10 @@ Ephemera
       ephemeral patent titles with states Boon and Albatross.
       Defining something to be a 'boon' or an 'albatross' is
       equivalent to defining it to be an ephemeral Patent Title with
-      its Karma set as defined.
+      its Karma set as defined, and the Karma of a title defined in
+      this way is said to be Static.  A Static Karma switch may never
+      be changed except by modifying its definition.  A Karma switch
+      that is not Static is said to be Dynamic.
 
       Players may be permitted or required by the Rules to award or
       revoke Boons or Albatrosses.  If so, these awards are performed
@@ -7499,23 +7635,29 @@ Ephemera
 
 History:
 Created by Proposal 4486 (Michael), 24 April 2003
+Amended(1) by Proposal 4691 (root), 18 April 2005
 
 ----------------------------------------------------------------------
 
-Rule 2050/0 (Power=2)
-The Garden
+Rule 2096/0 (Power=1)
+Ephemeral Time Limits
 
-      A Daffodil is a Boon that may be awarded as the Rules specify or
-      by an Instrument of Power 2 or greater.
+      If an Ephemeral Patent Title is earned between one week before
+      the designated end of the last Quarter and one week before the
+      end of the current Quarter then it must be awarded before the
+      turning of a new parchment.  For every one of these Ephemeral
+      Patent Titles that has not been awarded by the end of the
+      turning whomever is responsible for awarding the Ephemeral
+      Patent Title commits the Class .1 Infraction of Ephemeral
+      Nondisclosure which in the case of Boons is reportable by
+      whomever did not receive eir Boon, or for Albatrosses any
+      player.
 
-      A Weed is an Albatross that may be awarded as the Rules specify
-      or by an Instrument of Power 2 or greater.
-
-      If there are no Players that hold at least one Weed or Daffodil,
-      the Herald may repeal this Rule without Objection.
+      The announcement that a proposal does not earn the proposer the
+      Boon of Tapecutter must also follow these time restrictions.
 
 History:
-Created by Proposal 4486 (Michael), 24 April 2003
+Created by Proposal 4696 (Quazie), 18 April 2005
 
 ----------------------------------------------------------------------
 
@@ -7678,6 +7820,30 @@ History:
 Created by Proposal 1368, Jan. 5 1995
 Amended(1) by Proposal 2682, Sep. 26 1996
 Amended(2) by Proposal 3823 (Oerjan), Jan. 21 1999
+
+----------------------------------------------------------------------
+
+Rule 2092/0 (Power=2)
+Honorary Degrees
+
+      A degree may be awarded by the operation of an adopted Proposal
+      whose Power is at least two to any person who is not registered
+      as a Player and who does not already bear that degree.  The
+      Proposal must specify both the recipient of the degree and the
+      degree to be awarded.  For a degree to be awarded in this
+      manner, the recipient need not complete a Thesis, but all other
+      requirements specific to the degree in question must be
+      satisfied.
+
+      Degrees awarded as described in this rule shall be marked as
+      honorary degrees in the Herald's report.  A person bearing an
+      honorary degree may still be awarded the same degree by other
+      rule-defined mechanisms.  When this occurs, the person shall
+      cease to bear the honorary degree and shall bear the new degree
+      in its place.
+
+History:
+Created by Proposal 4688 (root), 18 April 2005
 
 ----------------------------------------------------------------------
 
@@ -7853,7 +8019,7 @@ Amended(18) by Proposal 4563 (OscarMeyr), 6 April 2004
 
 ----------------------------------------------------------------------
 
-Rule 2051/1 (Power=2)
+Rule 2051/2 (Power=2)
 Tabla Rasa
 
       The Herald's Budget shall consist of a positive integer between
@@ -7871,9 +8037,12 @@ Tabla Rasa
 
       (B) revoke all ephemeral Patent Titles.
 
+      (C) set each Dynamic Karma switch to its original state.
+
 History:
 Created by Proposal 4486 (Michael), 24 April 2003
 Amended(1) by Proposal 4598 (Elysion), 11 July 2004
+Amended(2) by Proposal 4691 (root), 18 April 2005
 
 ----------------------------------------------------------------------
 
@@ -8578,7 +8747,7 @@ Amended(2) by Proposal 4181 (Murphy), 9 July 2001
 
 ----------------------------------------------------------------------
 
-Rule 1531/10 (Power=1)
+Rule 1531/11 (Power=1)
 Administrators of Organizations
 
       Each Organization shall have an Administrator, who must be a
@@ -8591,7 +8760,7 @@ Administrators of Organizations
       The Administrator is Executor of the Organization, unless
       otherwise specified by its Charter or by the Rules.
 
-      The Administrator shall inform the Notary of the following
+      The Administrator shall inform the Justiciar of the following
       changes as soon as possible after they occur, and identify the
       nature of the change:
 
@@ -8616,14 +8785,15 @@ Amended(7) by Proposal 3889 (harvel), Aug. 9 1999
 Amended(8) by Proposal 3950 (harvel), Dec. 8 1999
 Amended(9) by Proposal 4181 (Murphy), 9 July 2001
 Amended(10) by Proposal 4510 (Sherlock), 10 July 2003
+Amended(11) by Proposal 4698 (Goethe), 18 April 2005
 
 ----------------------------------------------------------------------
 
-Rule 1533/13 (Power=1)
+Rule 1533/14 (Power=1)
 Application to Create an Organization
 
       An Application to Create an Organization (ACO) shall be
-      submitted to the Notary.
+      submitted to the Justiciar.
 
       To be valid, an ACO must specify all properties that an
       Organization is required to have.  Other Rules may place further
@@ -8650,6 +8820,7 @@ Amended(10) by Proposal 3823 (Oerjan), Jan. 21 1999
 Amended(11) by Proposal 4147 (Wes), 13 May 2001
 Amended(12) by Proposal 4159 (Kelly), 5 June 2001
 Amended(13) by Proposal 4181 (Murphy), 9 July 2001
+Amended(14) by Proposal 4698 (Goethe), 18 April 2005
 
 ----------------------------------------------------------------------
 
@@ -8688,59 +8859,6 @@ History:
 Created by Proposal 4436 (RedKnight), 28 January 2003
 
 ----------------------------------------------------------------------
-
-
-======================================================================
-The Notary
-  This Category includes Rules concerning the Office of Notary.
-----------------------------------------------------------------------
-
-Rule 1458/15 (Power=1)
-The Notary
-
-      The Notary is an office; its holder is responsible for
-      maintaining a record of organizations and their jurisdictions.
-
-      The Notary's weekly report shall include the following
-      information for each organization:
-
-        a) Its name.
-        b) Its administrator.
-        c) Its executor.
-        d) The maintainer of its charter.
-        e) A list of players within its jurisdiction.
-
-      The Notary's monthly report shall include the charter of each
-      organization.
-
-      As soon as possible after the creation or dissolution of an
-      organization, the Notary shall announce that fact.  If an
-      organization is created, the Notary shall announce the above
-      information for that organization.
-
-History:
-Created by Proposal 1575, Apr. 28 1995
-Amended(1) by Proposal 1760, Oct. 21 1995
-Amended(2) by Proposal 2451, Feb. 6 1996
-Amended(3) by Proposal 2725, Oct. 23 1996
-Amended(4) by Proposal 2810 (Blob), Feb. 8 1997, cosmetic
-  (unattributed)
-Infected and Amended(5) by Rule 1454, Oct. 12 1997, substantial
-  (unattributed)
-Amended(6) by Rule 1458, Oct. 26 1997, substantial
-Amended(7) by Proposal 3871 (Peekee), Jun. 2 1999
-Amended(8) by Proposal 3902 (Murphy), Sep. 6 1999
-Amended(9) by Proposal 4002 (harvel), May 8 2000
-Amended(10) by Propoal 01-002 (Blob), Feb. 2 2001
-Amended(11) by Proposal 4250 (harvel), 19 February 2002
-Amended(12) by Proposal 4486 (Michael), 24 April 2003
-Amended(13) by Proposal 4510 (Sherlock), 10 July 2003
-Amended(14) by Proposal 4525 (Murphy), 28 August 2003
-Amended(15) by Proposal 4533 (Murphy), 26 October 2003
-
-----------------------------------------------------------------------
-
-
 
 ======================================================================
 Groups and Contests
@@ -8816,6 +8934,31 @@ Amended(1) by Proposal 2725, Oct 23 1996
 Amended(2) by Proposal 4147 (Wes), 13 May 2001
 Amended(3) by Proposal 4484 (OscarMeyr), 23 April 2003
 Amended(4) by Proposal 4533 (Murphy), 26 October 2003
+
+----------------------------------------------------------------------
+
+Rule 2097/0 (Power=1)
+Card-Carrying Contests
+
+      A contest may be made into a Card-Carrying Contest by its
+      contestmaster acting with two support and without two
+      objections.  A player may only be contestmaster of one
+      card-carrying contest at a time.
+
+      A Card-Carrying Contest is a gambler, and may perform the
+      following actions only as explicitly permitted by its
+      regulations:
+        1.  As long as the contest has at least three members and its
+            hand size is less than the maximum hand size, it may draw
+            a number of cards each month equal to its number of
+            members at the beginning of the month divided by two and
+            rounded up.
+        2.  Transfer or discard cards.
+
+      A Card-Carrying Contest may not play cards.
+
+History:
+Created by Proposal 4700 (Goethe), 18 April 2005
 
 ----------------------------------------------------------------------
 
