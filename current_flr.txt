@@ -7419,7 +7419,8 @@ Cash Cards
           Thief.
 
       * Caption: Instant Gratification
-        Elements: Restricted [Players with at least one Boon], Budgeted
+        Elements: Restricted [Players with at least one Boon],
+                  Budgeted
         Exploit: Indicate one of your own Boons.  You instantly lose
           that Boon and gain 1 Kudo.
 
