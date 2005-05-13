@@ -21,15 +21,15 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 283 Rules:
+There are currently 285 Rules:
     1 with Power=4
    24 with Power=3
-   40 with Power=2
-  218 with Power=1
+   41 with Power=2
+  219 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2101
-Highest Rule Number assigned so far: 2101
+Highest current Rule Number:         2103
+Highest Rule Number assigned so far: 2103
 
 ======================================================================
 Table of Contents:
@@ -2889,6 +2889,38 @@ Amended(2) by Proposal 4145 (Ian), Apr. 22 2001
 
 ----------------------------------------------------------------------
 
+Rule 2103/0 (Power=2)
+Sanitizing Proposals
+
+      When a non-Sane Proposal in the Pool is Sanitized, it becomes
+      Democratic and Sane.
+
+      When a non-Sane Proposal whose Voting Period has begun but has
+      not yet ended is Sanitized, it is Aborted as described
+      elsewhere, and the copy resulting from the Abortion remains
+      Distributable but becomes Democratic and Sane.
+
+      A Proposal may only be Sanitized by the operation of an
+      Instrument whose Power is at least 2.
+
+History:
+Created by Proposal 4725 (root), 25 April 2005
+
+----------------------------------------------------------------------
+
+Rule 2102/0 (Power=1)
+Extraordinary Proposals
+
+      When an ordinary proposal becomes extraordinary, it is
+      immediately aborted, and the copy of it that is added to the
+      proposal pool due to the abortion becomes democratic and
+      distributable.
+
+History:
+Created by Proposal 4717 (Murphy), 25 April 2005
+
+----------------------------------------------------------------------
+
 Rule 2059/2 (Power=2)
 Legality of Bonus Clauses
 
@@ -3520,7 +3552,7 @@ Amended(11) by Proposal 4699 (Sherlock), 18 April 2005
 
 ----------------------------------------------------------------------
 
-Rule 2021/4 (Power=2)
+Rule 2021/5 (Power=2)
 Chamber Procedure
 
       (a) The Chamber Fee for a Proposal is a Fee for changing the
@@ -3528,12 +3560,9 @@ Chamber Procedure
           Fee is initially 1.  When a Proposal's Chamber is changed
           via this Rule, the Chamber Fee for the Proposal is doubled.
 
-      (b) An Untainted Speaker, with 2 Supporters, may Sanitise a
+      (b) An Untainted Speaker, with 2 Supporters, may Sanitize a
           Distributed Proposal that is not already Sane and for which
-          the Voting Period has not ended. If the Speaker Sanitises a
-          Proposal, the Proposal is Aborted as described elsewhere;
-          the Proposal remains Distributable, but becomes Democratic
-          and Sane.
+          the Voting Period has not ended.
 
 History:
 Created by Proposal 4282 (Goethe), 16 April 2002
@@ -3541,6 +3570,7 @@ Amended(1) by Proposal 4329 (Goethe), 9 June 2002
 Amended(2) by Proposal 4355 (Steve), 7 August 2002
 Amended(3) by Proposal 4486 (Michael), 24 April 2003
 Amended(4) by Proposal 4599 (root), 11 July 2004
+Amended(5) by Proposal 4725 (root), 25 April 2005
 
 ----------------------------------------------------------------------
 
@@ -3565,16 +3595,18 @@ Amended(6) by Proposal 3980 (Steve), Mar. 1 2000
 
 ----------------------------------------------------------------------
 
-Rule 2019/1 (Power=2)
+Rule 2019/2 (Power=2)
 The Speaker's Veto
 
-      At any time during the Voting Period of an Ordinary Proposal,
-      the Speaker may Veto that Proposal with the Support of one-third
-      of all Shareholders, rounded down.
+      At any time during the voting period of an ordinary proposal,
+      the Speaker may veto that proposal with the support of one-third
+      of all shareholders, rounded down.  When e does so, the proposal
+      becomes extraordinary.
 
 History:
 Created by Proposal 4276 (Steve), 28 March 2002
 Amended(1) by Proposal 4576 (root), 31 May 2004
+Amended(2) by Proposal 4717 (Murphy), 25 April 2005
 
 ----------------------------------------------------------------------
 
@@ -3783,7 +3815,7 @@ Amended(8) by Proposal 4412 (Steve), 6 November 2002
 
 ----------------------------------------------------------------------
 
-Rule 1965/3 (Power=2)
+Rule 1965/4 (Power=2)
 Complacent Corporation
 
       As soon as possible after an ordinary proposal fails quorum, the
@@ -3794,10 +3826,8 @@ Complacent Corporation
       Assessor may immediately publish a Notice of Complacency without
       waiting for the proposal's voting period to end.
 
-      Upon publication by the Assessor of a Notice of Complacency for
-      a proposal, the proposal is immediately aborted.  In addition,
-      the copy of the proposal that is added to the proposal pool as a
-      result of the abortion becomes democratic and distributable.
+      When the Assessor publishes a Notice of Complacency for a
+      proposal, it becomes extraordinary.
 
       Publication by the Assessor of a Notice of Complacency not
       strictly authorized or required by this rule is the Class 2
@@ -3808,6 +3838,7 @@ Created by Proposal 4111 (Elysion), Feb. 20 2001
 Amended(1) by Proposal 4161 (Steve), 5 June 2001
 Amended(2) by Proposal 4487 (root), 28 April 2003
 Amended(3) by Proposal 4576 (root), 31 May 2004
+Amended(4) by Proposal 4717 (Murphy), 25 April 2005
 
 ----------------------------------------------------------------------
 
@@ -7170,7 +7201,7 @@ Amended(4) by Proposal 4687 (Quazie, Manu), 18 April 2005
 
 ----------------------------------------------------------------------
 
-Rule 2071/6 (Power=1)
+Rule 2071/7 (Power=1)
 Wacky Cards
 
       The following Classes of Cards are defined:
@@ -7234,6 +7265,11 @@ Wacky Cards
           Rebellious Players by 1 for seven days.  Count the day this
           Card is played as day #1.
 
+      * Caption: Loot the Dead
+        Quota: 1
+        Exploit: You may indicate one silent player.  All of eir cards
+          are immediately discarded from their hand.
+
 History:
 Created by Proposal 4574 (Wes), 14 May 2004
 Amended(1) by Proposal 4607 (Goethe), 8 August 2004
@@ -7242,6 +7278,7 @@ Amended(3) by Proposal 4614 (Goethe), 21 September 2004
 Amended(4) by Proposal 4627 (root), 4 December 2004
 Amended(5) by Proposal 4666 (Quazie), 9 April 2005
 Amended(6) by Proposal 4709 (Manu), 18 April 2005
+Amended(7) by Proposal 4722 (Quazie), 25 April 2005
 
 ----------------------------------------------------------------------
 
@@ -7304,7 +7341,7 @@ Amended(3) by Proposal 4714 (Quazie), 18 April 2005
 
 ----------------------------------------------------------------------
 
-Rule 2077/1 (Power=2)
+Rule 2077/2 (Power=2)
 Democratic cards
 
       The following Classes of Cards are defined:
@@ -7325,7 +7362,7 @@ Democratic cards
                   paid to activate this exploit.
 
       * Caption:  Policy
-        Elements: Budgeted
+        Elements: Budgeted, Powered [2]
         Exploit:  You may sanitize a Proposal, as described elsewhere
                   in the Rules.
 
@@ -7338,13 +7375,14 @@ History:
 Created by Proposal 4623 (Goethe), 20 November 2004
 Amended(1) by Proposal 4663 (root), 9 April 2005
 Power changed from 1 to 2 by Proposal 4675 (root), 13 April 2005
+Amended(2) by Proposal 4725 (root), 25 April 2005
 
 ----------------------------------------------------------------------
 
-Rule 2079/1 (Power=1)
+Rule 2079/2 (Power=1)
 Discord
 
-      The following card is defined:
+      The following classes of cards are defined:
 
       Caption: Chaos Apple
       Quota:   1
@@ -7364,9 +7402,20 @@ Discord
                encouraged use Heisenberg's Law in dealing hands from
                Fate.
 
+      Caption: Chaos Reborn
+      Quota:   1
+      Elements: Handed[2], Kallisti!
+      Exploit: If Chaos Apple has been Played in the current
+               quarter, then, you may play Chaos Apple within five
+               minutes of playing this card as if Chaos Apple did not
+               have the words "If this card has not been Played in the
+               current quarter" in its exploit.
+
+
 History:
 Created by Proposal 4630 (Goethe), 19 December 2004
 Amended(1) by Proposal 4703 (Quazie), 18 April 2005
+Amended(2) by Proposal 4729 (Quazie), 25 April 2005
 
 ----------------------------------------------------------------------
 
@@ -7720,14 +7769,13 @@ The University of Agora
   Theses and that subset of Patent Titles known as Degrees.
 ----------------------------------------------------------------------
 
-Rule 2086/1 (Power=1)
+Rule 2086/2 (Power=1)
 The University of Agora
 
       The University is an Entity.
 
-      As President of the University, the Speaker is the sole Executor
-      of the University, but may take no action on behalf of The
-      University except as explicitly permitted by the Rules.
+      The Speaker is President and Limited Executor of the
+      University.
 
       Education is a stuck Player switch with values Student and
       Faculty Member.  The SotU shall flip the Education switch to
@@ -7738,6 +7786,7 @@ The University of Agora
 History:
 Created by Proposal 4657 (Sherlock), 29 March 2005
 Amended(1) by Proposal 4669 (Quazie), 9 April 2005
+Amended(2) by Proposal 4728 (Murphy), 25 April 2005
 
 ----------------------------------------------------------------------
 
@@ -7800,13 +7849,14 @@ Created by Proposal 4657 (Sherlock), 29 March 2005
 
 ----------------------------------------------------------------------
 
-Rule 2089/1 (Power=1)
+Rule 2089/4 (Power=1)
 Gardner Library
 
-      The University (hereafter the Library) is a Gambler.  Whenever
-      the Library has fewer than five Cards, the Deckmastor shall as
-      soon as possible deal randomly chosen Cards to the Library until
-      it has five cards.
+      "The Library" is a synonym for "The University".
+
+      The Library is a Gambler. Whenever the Library has fewer than
+      five Cards, the Deckmastor shall as soon as possible deal
+      randomly chosen Cards to the Library until it has five cards.
 
       A Player (hereafter the Borrower) may check out a specified Card
       from the Library by paying a Fee for the Library's upkeep.  The
@@ -7817,9 +7867,15 @@ Gardner Library
       Immediately after a Card is checked out from the Library it is
       transfered from the Library to the Borrower.
 
+      The President of the University may discard any card in the
+      possession of the Library without two objections.
+
 History:
 Created by Proposal 4657 (Sherlock), 29 March 2005
 Amended(1) by Proposal 4706 (Quazie), 18 April 2005
+Amended(2) by Proposal 4715 (Goethe), 25 April 2005
+Amended(3) by Proposal 4726 (root), 25 April 2005
+Amended(4) by Proposal 4728 (Murphy), 25 April 2005
 
 ----------------------------------------------------------------------
 
