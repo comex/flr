@@ -7675,11 +7675,11 @@ Defined Regular Patent Titles
            Offices. This Patent Title is revoked from a player who
            ceases to hold and be Electee to three or more Offices.
 
-      (d) Three Months Long Service, Six Months Long Service, Nine
-          Months Long Service, Twelve Months Long Service, to be
-          awarded to any player who has held a particular Office
-          continuously for the specified duration.  Each of these
-          titles shall be awarded only once per player.
+      (d)  Three Months Long Service, Six Months Long Service, Nine
+           Months Long Service, Twelve Months Long Service, to be
+           awarded to any player who has held a particular Office
+           continuously for the specified duration.  Each of these
+           titles shall be awarded only once per player.
 
 History:
 Created by Proposal 3916 (harvel), Sep. 27 1999
