@@ -21,18 +21,19 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 285 Rules:
+There are currently 272 Rules:
     1 with Power=4
    24 with Power=3
    41 with Power=2
-  219 with Power=1
+  206 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2103
-Highest Rule Number assigned so far: 2103
+Highest current Rule Number:         2109
+Highest Rule Number assigned so far: 2109
 
 ======================================================================
 Table of Contents:
+  The Game of Agora
   Definitions
   The Rules
   The Players
@@ -60,8 +61,7 @@ Table of Contents:
   The University of Agora
   Indulgences and Blots
   Changing Speakers
-  Subordinate Legal Codes
-  Organizations
+  Contracts
   Groups and Contests
   Winners' Hall of Ugly Fountains
 ----------------------------------------------------------------------
@@ -82,6 +82,50 @@ Transmuted from MI=1 to MI=Unanimity by Proposal 1020, Sep. 4 1994
 Mutated from MI=Unanimity to MI=3 by Proposal 1484, Mar. 15 1995
 
 ----------------------------------------------------------------------
+
+Rule 2105/0 (Power=1)
+The Map of Agora
+
+                               ____  _        /|
+                    DARWIN ->  \_  |/ |      / \
+                              __/    /      |  |
+            <- DSV          /      /        |  \
+                        _   \      \_       |   \
+                  MORNINGTON CRESCENT ->    /    |      <- GREAT BARRIER REEF
+                 _ _/       |         \_/\_/     \
+                / \\ <- SHARK BAY      |         |
+               /            |          |          \ <- TOWNSVILLE
+            ___/            |          |           \_
+         __/                |          |             |
+        /                   |          |             \
+       /           O <- L. DISAPPOINTMENT            |/\
+      |                     |          |               |_
+      |                     |          |  EMERALD ->     \
+      \                     |__________=_____,             \
+       /                    |                |             | <- BRISBANE
+       \      O <- LT. ANNE MOORE            |        __  _\
+        \                   |                |_______/  \/ |
+         |                __/\      <- TARCOOLA           /   LORD HOWE ->
+         \             __/    \_             /           /
+PERTH -> |      _  __/         |   /| IVANHOE ->       | <- WOLLONGONG
+          /    _/ \/             \ / /       |         /
+         |_   /     <- ESPERANTO  v /__     |_        / <- CANBERRA
+           \_/                         \    | \_    _|
+                                       |    |   \__/
+                                        \___=_  ___|
+                                 MELBOURNE -> \/
+
+                                            /\__
+                                            |   |
+                                             |  /
+                                             \_/ <- HOBART
+
+History:
+Created by Proposal 4735 (Maud), 5 May 2005
+
+----------------------------------------------------------------------
+
+
 
 Rule 101/1 (Power=3)
 Obey the Rules
@@ -401,7 +445,7 @@ Definitions
   fall into any other Category
 ----------------------------------------------------------------------
 
-Rule 1727/13 (Power=1)
+Rule 1727/14 (Power=1)
 Happy Birthday
 
       WHEREAS, in June 1993, the world's only MUD-based nomic, Nomic
@@ -447,10 +491,10 @@ Happy Birthday
       celebration to each Player who, during Agora's Birthday,
       publicly recognized Agora's Birthday;
 
-      BE IT FURTHER RESOLVED that the Herald may select one Contest,
+      BE IT FURTHER RESOLVED that the Herald may select one Contract,
       in existence on Agora's Birthday, which has as its purpose
       encouraging the celebration of Agora's Birthday.  Within the
-      month following Agora's Birthday, that Contest may award its
+      month following Agora's Birthday, that Contract may award its
       Members the Patent Title Nth Anniversary Ribbon, where N is the
       number of years of Agora's existence;
 
@@ -481,6 +525,7 @@ Amended(10) by Proposal 4159 (Kelly), 5 June 2001
 Amended(11) by Proposal 4367 (Steve), 23 August 2002
 Amended(12) by Proposal 4376 (Steve), 6 September 2002
 Amended(13) by Proposal 4486 (Michael), 24 April 2003
+Amended(14) by Proposal 4743 (Manu), 5 May 2005
 
 ----------------------------------------------------------------------
 
@@ -2794,46 +2839,11 @@ Amended(2) by Proposal 2832 (Steve), Mar. 11 1997, substantial
 
 ----------------------------------------------------------------------
 
-Rule 1623/12 (Power=1)
-Disinterested Proposals
-
-      Interest is a stuck proposal switch with values interested and
-      disinterested.
-
-      A player may flip an undistributed proposal's interest to
-      disinterested, without objection.
-
-      When a proposal becomes disinterested, it becomes distributable,
-      and its depth may not be flipped to undistributable while it
-      remains disinterested.
-
-History:
-Created by Proposal 2581, Apr. 21 1996
-Amended(1) by Proposal 2597, May 11 1996
-Amended(2) by Proposal 2636, Jul. 12 1996
-Amended(3) by Proposal 2738 (Swann), Nov. 7 1996, cosmetic
-  (unattributed)
-Amended(4) by Proposal 2815 (Zefram), Feb. 15 1997, substantial
-Amended(5) by Proposal 2829 (Zefram), Mar. 7 1997, substantial
-Amended(6) by Proposal 3474 (Swann), May 2 1997, substantial
-Amended(7) by Proposal 3487 (Zefram), May 19 1997, substantial
-Amended(8) by Proposal 3537 (Steve), Jul. 24 1997, substantial
-Amended(9) by Proposal 3684 (Blob), Feb. 12 1998
-Amended(10) by Proposal 3867 (Blob), May 24 1999
-Amended(11) by Proposal 3968 (harvel), Feb. 4 2000
-Amended(12) by Proposal 4523 (Murphy), 28 August 2003
-
-----------------------------------------------------------------------
-
-Rule 1724/8 (Power=1)
+Rule 1724/9 (Power=1)
 Urgent Proposals
 
-      A Proposal is Urgent if all the following conditions are met:
-
-         i) the text of the message wherein it is submitted
-            explicitly states that it is an Urgent Proposal,
-
-        ii) The Proposal is Interested.
+      A Proposal is Urgent if the text of the message wherein it is
+      submitted explicitly states that it is an Urgent Proposal.
 
       An Urgent Proposal has its Distribution Cost increased by 1.
 
@@ -2855,10 +2865,11 @@ Amended(5) by Proposal 3945 (Peekee), Nov. 20 1999
 Amended(6) by Proposal 4050 (t), Aug. 15 2000
 Amended(7) by Proposal 4072 (Steve), Sep. 20 2000
 Amended(8) by Proposal 4406 (Murphy), 30 October 2002
+Amended(9) by Proposal 4753 (Sherlock), 5 May 2005
 
 ----------------------------------------------------------------------
 
-Rule 1953/2 (Power=2)
+Rule 1953/3 (Power=2)
 Sane Proposals
 
       A Proposal is Sane if all the following conditions are met:
@@ -2868,9 +2879,7 @@ Sane Proposals
             been declared a Sane Proposal by other methods explicitly
             stated in the Rules,
 
-        ii) The Proposal is Interested.
-
-       iii) The Proposal is Democratic.
+        ii) The Proposal is Democratic.
 
       A Sane Proposal has its Distribution Cost increased by 1.
 
@@ -2886,6 +2895,7 @@ History:
 Created by Proposal 4050 (t), Aug. 15 2000
 Amended(1) by Proposal 4139 (Ziggy), Apr. 15 2001
 Amended(2) by Proposal 4145 (Ian), Apr. 22 2001
+Amended(3) by Proposal 4753 (Sherlock), 5 May 2005
 
 ----------------------------------------------------------------------
 
@@ -3191,7 +3201,7 @@ Mutated from MI=1 to MI=2 by Proposal 2665, Sep. 12 1996
 
 ----------------------------------------------------------------------
 
-Rule 2078/1 (Power=2)
+Rule 2078/2 (Power=2)
 Takeover Proposals
 
       Initiative is a stuck player switch, tracked by the Assessor,
@@ -3210,10 +3220,14 @@ Takeover Proposals
       Rules to the Contrary nonwithstanding, a Takeover Proposal is
       both Democratic and Sane.
 
+      Upon submission of a Takeover Proposal, all other Takeover
+      Proposals become Undistributable and are removed from the Pool.
+
       At the beginning of a Takeover Proposal's voting period, the
       initiative of each player is set to Gote.  At the end of a
       Takeover Proposal's voting period, the initiative of each player
       is set as follows:
+
         (a) Adopted:  All Corporate Raiders gain Sente.
         (b) Rejected:  All other players gain Sente.
         (c) Failed quorum:  No one gains Sente.
@@ -3221,6 +3235,7 @@ Takeover Proposals
 History:
 Created by Proposal 4624 (Goethe), 20 November 2004
 Amended(1) by Proposal 4691 (root), 18 April 2005
+Amended(2) by Proposal 4751 (The Goddess Eris), 5 May 2005
 
 ----------------------------------------------------------------------
 
@@ -5986,26 +6001,11 @@ Amended(12) by Proposal 4579 (Murphy), 15 June 2004
 
 ----------------------------------------------------------------------
 
-Rule 910/12 (Power=1)
+Rule 910/13 (Power=1)
 The Justiciar
 
       The Justiciar is an office; its holder is responsible for
-      justice, serving on a Board of Appeals when necessary, and for
-      maintaining a record of organizations and their jurisdictions.
-
-      The Justiciar's monthly report shall contain the following
-      information for each organization:
-
-        a) Its name.
-        b) Its administrator.
-        c) Its executor.
-        d) The maintainer of its charter.
-        e) A list of players within its jurisdiction.
-        f) The charter of each organization.
-
-      In addition, as soon as possible after the Justiciar is informed
-      of a change in any of the properties a-f above for an
-      organization, the Justiciar shall report the change.
+      justice, serving on a Board of Appeals when necessary.
 
 History:
 Created by Proposal 910, May 4 1994
@@ -6021,6 +6021,7 @@ Amended(9) by Proposal 3902 (Murphy), Sep. 6 1999
 Amended(10) by Proposal 4250 (harvel), 19 February 2002
 Amended(11) by Proposal 4592 (Murphy), 4 July 2004
 Amended(12) by Proposal 4698 (Goethe), 18 April 2005
+Amended(13) by Proposal 4743 (Manu), 5 May 2005
 
 ----------------------------------------------------------------------
 
@@ -6892,7 +6893,7 @@ Cards
   This Category includes Rules regulating Cards.
 ----------------------------------------------------------------------
 
-Rule 2068/2 (Power=1)
+Rule 2068/3 (Power=1)
 The Deckmastor
 
       The Deckmastor is an office which acts as the recordkeepor for
@@ -6911,19 +6912,21 @@ The Deckmastor
       Deck and Discard Pile may not transfer cards to any other entity
       except as explicitly required by the Rules.
 
-      Only the Deckmastor may create or destroy Cards, and e may do if
-      and only if the Rules require it by announcing the Card being
-      created or destroyed and the entity who either possesses it now
-      or possessed it at the time of destruction as appropriate.
+      Only the Deckmastor may create or destroy Cards not in eir Trial
+      Run, and e may do if and only if the Rules require it by
+      announcing the Card being created or destroyed and the entity
+      who either possesses it now or possessed it at the time of
+      destruction as appropriate.
 
 History:
 Created by Proposal 4573 (Wes), 14 May 2004
 Amended(1) by Proposal 4614 (Goethe), 21 September 2004
 Amended(2) by Proposal 4694 (Goethe), 18 April 2005
+Amended(3) by Proposal 4734 (Sherlock), 5 May 2005
 
 ----------------------------------------------------------------------
 
-Rule 2069/4 (Power=1)
+Rule 2069/6 (Power=1)
 Card Definitions
 
       I. Possession
@@ -6967,7 +6970,8 @@ Card Definitions
 
       (d) An Exploit is an action that the Holder of that Card (and
           only the Holder of that Card) may take if and only if e
-          meets the requirements and/or pays the costs outlined in
+          clearly indicates the card whose Exploit e is performing and
+          e meets the requirements and/or pays the costs outlined in
           that Exploit. Any reference to "you," "your" or a similar
           pronoun in the text of an Exploit refers to the Holder of
           that Card. Taking an action described in an Exploit is known
@@ -7003,12 +7007,13 @@ Card Definitions
           as soon as possible. Until this transfer takes place, that
           Gambler is said to have one Pending Draw for each such
           transfer the Deckmastor is required to make, but has not yet
-          made. If, at any time, the number of pending draws for all
-          gamblers is greater than the number of cards in the Deck,
-          then the Deckmastor shall transfer all of the cards in the
-          Discard Pile to the Deck before dealing any cards.  This
-          transfer is known as a Reshuffle and is performed as a
-          single action.
+          made.  Whenever a player makes a true announcement that the
+          number of pending draws for all gamblers is greater than the
+          number of cards in the Deck, or that there are no cards in
+          the Deck, then the Deckmastor shall transfer all of the
+          cards in the Discard Pile to the Deck before dealing any
+          cards.  This transfer is known as a Reshuffle and is
+          performed as a single action.
 
           A Gambler whose Hand Size is smaller than the maximum Hand
           Size, plus the number of Offices e holds, plus one if e is
@@ -7028,8 +7033,28 @@ Amended(1) by Proposal 4625 (Goethe), 20 November 2004
 Amended(2) by Proposal 4633 (Goethe), 9 January 2005
 Amended(3) by Proposal 4674 (OscarMeyr), 13 April 2005
 Amended(4) by Proposal 4694 (Goethe), 18 April 2005
+Amended(5) by Proposal 4733 (root), 5 May 2005
+Amended(6) by Proposal 4739 (root), 5 May 2005
 
 ----------------------------------------------------------------------
+
+Rule 2106/0 (Power=1)
+Card Fees
+
+      All fees associated with Card Actions, Elements and Exploits
+      must be paid as soon as possible by the Gambler incurring the
+      fee. For every Kudo not paid on time, the Gambler commits the
+      Class 1 Infraction of Debt Overdue, which may be reported by any
+      Player.
+
+      This rule takes precedence over all rules pertaining to Cards
+      fees.
+
+History:
+Created by Proposal 4738 (Manu), 5 May 2005
+
+----------------------------------------------------------------------
+
 Rule 2074/1 (Power=2)
 Hand Flux
 
@@ -7048,10 +7073,11 @@ Created by Proposal 4614 (Goethe), 21 September 2004
 Amended(1) by Proposal 4660 (root), 29 March 2005
 
 ----------------------------------------------------------------------
-Rule 2075/2 (Power=1)
+
+Rule 2075/3 (Power=1)
 Winning Hands
 
-      The Deckmastor's Budget shall contain between one and three
+      The Deckmastor's Budget shall contain between one and five
       Winning Hands, each of which is a list of cards with a hand size
       at least two greater than the Maximum Hand Size.
 
@@ -7079,6 +7105,7 @@ History:
 Created by Proposal 4614 (Goethe), 21 September 2004
 Amended(1) by Proposal 4626 (Goethe), 20 November 2004
 Amended(2) by Proposal 4644 (root), 12 March 2005
+Amended(3) by Proposal 4740 (Quazie), 5 May 2005
 
 ----------------------------------------------------------------------
 
@@ -7119,6 +7146,7 @@ History:
 Created by Proposal 4644 (root), 12 March 2005
 
 ----------------------------------------------------------------------
+
 Rule 2070/4 (Power=1)
 Card Powerz
 
@@ -7330,14 +7358,14 @@ Card cards
       Caption:  Reshuffle
       Quota:    3
       Elements: Asleep[15]
-      Exploit: The Deckmastor must Reshuffle before dealing any
-               cards.
+      Exploit:  You may perform a Reshuffle.
 
 History:
 Created by Proposal 4620 (Goethe), 20 November 2004
 Amended(1) by Proposal 4678 (Goethe), 18 April 2005
 Amended(2) by Proposal 4694 (Goethe), 18 April 2005
 Amended(3) by Proposal 4714 (Quazie), 18 April 2005
+Amended(4) by Proposal 4744 (Quazie, root), 5 May 2005
 
 ----------------------------------------------------------------------
 
@@ -7379,7 +7407,7 @@ Amended(2) by Proposal 4725 (root), 25 April 2005
 
 ----------------------------------------------------------------------
 
-Rule 2079/2 (Power=1)
+Rule 2079/3 (Power=1)
 Discord
 
       The following classes of cards are defined:
@@ -7387,20 +7415,20 @@ Discord
       Caption: Chaos Apple
       Quota:   1
       Elements: Handed[5], Delayed[7], Kallisti!
-      Exploit: If this card has not been Played in the current
-               quarter, then, as soon as possible after this card is
-               played, the Deckmastor shall simultaneously transfer
-               all cards from non-Deck hands to a temporary Gambler
-               known as Fate.  E shall then deal cards at random from
-               Fate to each Gambler until each Gambler has the same
-               number of cards as e had immediately before Fate took a
-               hand.  If, between the time this card is Played and the
-               time Fate's cards are dealt, exactly a single Player
-               publicly claims to be The Prettiest One, the Deckmastor
-               shall transfer this card to em as soon as possible
-               after Fate's cards are dealt.  The Deckmastor is
-               encouraged use Heisenberg's Law in dealing hands from
-               Fate.
+      Exploit: If this card has not been played in the current
+               quarter, then you may simultaneously transfer all cards
+               that are not in the Deck or Discard Pile to a temporary
+               Gambler known as Fate.  As soon as possible after this
+               card is played, the Deckmastor shall then deal cards at
+               random from Fate to each Gambler until each Gambler has
+               the same number of cards as e had immediately before
+               Fate took a hand.  If, between the time this card is
+               Played and the time Fate's cards are dealt, exactly a
+               single Player publicly claims to be The Prettiest One,
+               the Deckmastor shall transfer this card to em as soon
+               as possible after Fate's cards are dealt.  The
+               Deckmastor is encouraged use Heisenberg's Law in
+               dealing hands from Fate.
 
       Caption: Chaos Reborn
       Quota:   1
@@ -7416,28 +7444,22 @@ History:
 Created by Proposal 4630 (Goethe), 19 December 2004
 Amended(1) by Proposal 4703 (Quazie), 18 April 2005
 Amended(2) by Proposal 4729 (Quazie), 25 April 2005
+Amended(3) by Proposal 4744 (Quazie, root), 5 May 2005
 
 ----------------------------------------------------------------------
 
-Rule 2080/1 (Power=1)
+Rule 2080/2 (Power=1)
 Cards for Proposals
 
-      If an Interested Proposal is adopted, the Proposer may draw from
-      the deck by announcing the Proposal number while drawing,
-      provided that e does so within a week after the proposal's
-      adoption and that e has not already done so for the same
-      proposal.
-
-      If a Disinterested Proposal is adopted, the Proposer may draw
-      from the deck by announcing the Proposal number while drawing;
-      so long as the Proposer's Hand Size is smaller than the Maximum
-      Hand Size plus the number of Offices e holds, the Proposer
-      performs the draw within a week after the proposal's adoption,
-      and the Proposer has not already done so for the same proposal.
+      If a Proposal is adopted, the Proposer may draw from the deck by
+      announcing the Proposal number while drawing, provided that e
+      does so within a week after the proposal's adoption and that e
+      has not already done so for the same proposal.
 
 History:
 Created by Proposal 4635 (OscarMeyr), 23 January 2005
 Amended(1) by Proposal 4644 (root), 12 March 2005
+Amended(2) by Proposal 4753 (Sherlock), 5 May 2005
 
 ----------------------------------------------------------------------
 
@@ -7513,27 +7535,28 @@ Created by Proposal 4692 (root), 18 April 2005
 
 ----------------------------------------------------------------------
 
-Rule 2101/1 (Power=1)
+Rule 2101/2 (Power=1)
 Library Cards
 
       The following classes of cards are defined:
 
-      * Caption: Library Renewal
+      * Caption:  Library Renewal
         Elements: Budgeted
-        Exploit: Upon playing this card you may indicate a number
-                 1 through 5.  ASAP after you do this the speaker must
-                 randomly discard that many cards from the Library's
-                 hand that are not reserved.  If the Speaker has
-                 discarded all non reserved cards then e does not need
-                 to discard any more.
+        Exploit:  You may indicate a number 1 through 5.  As soon as
+                  possible after you do this the Speaker must randomly
+                  discard that many cards from the Library's hand.  If
+                  there are fewer cards in the Library's hand then the
+                  number you indicate the Speaker must discard them
+                  all.
 
-      * Caption: Library Card
+      * Caption:  Library Card
         Elements: Budgeted, Limited [Faculty Members][1]
-        Exploit: Check a card out from the Library for no fee.
+        Exploit:  Check a card out from the Library for no fee.
 
 History:
 Created by Proposal 4712 (Quazie), 18 April 2005
 Amended(1) by Proposal 4714 (Quazie), 18 April 2005
+Amended(2) by Proposal 4744 (Quazie, root), 5 May 2005
 
 ----------------------------------------------------------------------
 
@@ -7642,7 +7665,7 @@ Amended(9) by Proposal 4339 (Sir Toby), 8 July 2002
 
 ----------------------------------------------------------------------
 
-Rule 1922/9 (Power=1)
+Rule 1922/10 (Power=1)
 Defined Regular Patent Titles
 
       The following are Patent Titles:
@@ -7681,6 +7704,9 @@ Defined Regular Patent Titles
            continuously for the specified duration.  Each of these
            titles shall be awarded only once per player.
 
+      (e)  Hyperactive, to be awarded to any player who has more than
+           10 proposals pass in one week.
+
 History:
 Created by Proposal 3916 (harvel), Sep. 27 1999
 Amended(1) by Proposal 1922 (Goethe), Mar. 28 2001
@@ -7692,6 +7718,7 @@ Amended(6) by Proposal 4556 (Goethe), 22 March 2004
 Amended(7) by Proposal 4614 (Goethe), 21 September 2004
 Amended(8) by Proposal 4642 (Murphy), 12 March 2005
 Amended(9) by Proposal 4708 (OscarMeyr), 18 April 2005
+Amended(10) by Proposal 4736 (Quazie), 5 May 2005
 
 ----------------------------------------------------------------------
 
@@ -7741,25 +7768,30 @@ Amended(1) by Proposal 4691 (root), 18 April 2005
 
 ----------------------------------------------------------------------
 
-Rule 2096/0 (Power=1)
-Ephemeral Time Limits
+Rule 2096/1 (Power=1)
+Card-Carrying Contracts
 
-      If an Ephemeral Patent Title is earned between one week before
-      the designated end of the last Quarter and one week before the
-      end of the current Quarter then it must be awarded before the
-      turning of a new parchment.  For every one of these Ephemeral
-      Patent Titles that has not been awarded by the end of the
-      turning whomever is responsible for awarding the Ephemeral
-      Patent Title commits the Class .1 Infraction of Ephemeral
-      Nondisclosure which in the case of Boons is reportable by
-      whomever did not receive eir Boon, or for Albatrosses any
-      player.
+      A Contract may be made into a Card-Carrying Contract by its
+      Notary acting with two support and without two objections.  A
+      player may only be Notary of one Card-Carrying Contract at a
+      time.
 
-      The announcement that a proposal does not earn the proposer the
-      Boon of Tapecutter must also follow these time restrictions.
+      A Card-Carrying Contract is a gambler, and may perform the
+      following actions only as explicitly permitted by its
+      regulations:
+
+      1.  As long as the Contract has at least three Members and its
+          hand size is less than the maximum hand size, it may draw a
+          number of cards each month equal to its number of Members at
+          the beginning of the month divided by two and rounded up.
+
+      2.  Transfer or discard cards.
+
+      A Card-Carrying Contract may not play cards.
 
 History:
 Created by Proposal 4696 (Quazie), 18 April 2005
+Amended(1) by Proposal 4743 (Manu), 5 May 2005
 
 ----------------------------------------------------------------------
 
@@ -8080,6 +8112,32 @@ Awardable Degrees
 History:
 Created by Proposal 4462 (Goethe), 17 March 2003
 Amended(1) by Proposal 4671 (Goethe), 9 April 2005
+
+----------------------------------------------------------------------
+
+Rule 2104/0 (Power=1)
+Contreras Card Labs
+
+      The University encourages Card experimentation.
+
+      A Player may publish a piece of text and note that it is a Card
+      Blueprint.  If this text contains a Caption, a copy of that Card
+      is created in the possession of the Library.  The Card Blueprint
+      may also specify Elements and Exploits, as defined by other
+      rules, and these are included on the Card in the same way they
+      would be if they were included on a rules-defined Card.
+
+      Cards created by this method have a Quota of 1 and are
+      considered to be in eir Trial Run.  A Card in its Trial Run may
+      not be checked out of the Library until seven days have passed
+      since its creation.  Any player may destroy a Card in its Trial
+      Run by announcing e does so.
+
+      A Card in its Trial Run is transferred to the Library after it
+      is played.
+
+History:
+Created by Proposal 4734 (Sherlock), 5 May 2005
 
 ----------------------------------------------------------------------
 
@@ -8602,448 +8660,100 @@ Amended(1) by Proposal 4613 (Murphy), 10 September 2004
 ----------------------------------------------------------------------
 
 ======================================================================
-Subordinate Legal Codes
-  This Category includes general Rules regulating Subordinate
-  Legal Codes
+Contracts
+  This Category includes general Rules regulating Contracts between
+  Players.
 ----------------------------------------------------------------------
 
-Rule 1588/0 (Power=1)
-Subordinate Legal Codes
+Rule 2107/0 (Power=1)
+Contracts
 
-      A Subordinate Legal Code (SLC) is a body of law organized under
-      the Rules.  A body of law is a SLC only if it is granted that
-      status by the Rules and it meets all other requirements in the
-      Rules for being a SLC.
+      There exists a type of agreement known as a Contract.  A
+      Contract is an Entity.  The content of a Contract is called its
+      Regulations.  The first Player to announce the creation of a
+      Contract is its Executor and is known as the Notary of that
+      Contract.  Any other Player may decide to become part of a
+      Contract by notifying that Contract's Notary.  Players party to
+      a Contract, including the Notary, are the Members of this
+      Contract.  A Member may leave a Contract at any time by
+      notifying the Notary.
 
-History:
-Created by Proposal 2490, Feb. 16 1996
-
-----------------------------------------------------------------------
-
-Rule 1595/0 (Power=1)
-Precedence of SLCs
-
-      Unless otherwise specified by the Rules, older SLCs take
-      precedence over younger ones.  This ordering is based on the
-      time the SLC is first created.
-
-      This Rule does not in any way establish an order of precedence
-      for the components, if any, within a given SLC.
-
-History:
-Created by Proposal 2490, Feb. 16 1996
-
-----------------------------------------------------------------------
-
-Rule 1591/0 (Power=1)
-Jurisdiction of SLCs
-
-      A SLC has the power to constrain the actions of Players in
-      the same manner as the Rules.  However, a SLC has power over
-      only those Players within its Jurisdiction, as defined in the
-      Rules authorizing that SLC.
-
-      The Jurisdiction of a SLC must be specified by the Rules,
-      either directly or indirectly.  If the Jurisdiction of a SLC
-      might vary over the course of the existence of the SLC, the
-      Rules must specify a Player who is required to maintain a record
-      of which Players are within the Jurisdiction of that SLC.
-
-History:
-Created by Proposal 2490, Feb. 16 1996
-
-----------------------------------------------------------------------
-
-Rule 1594/2 (Power=1)
-Violation of SLCs
-
-      While a Player remains within the Jurisdiction of a SLC, e is
-      required to abide by it, unless doing so would violate either
-      the Rules or another SLC with higher precedence.  Violation of
-      this requirement is the Class 1 Crime of Insubordination.
-
-History:
-Created by Proposal 2490, Feb. 16 1996
-Amended(1) by Proposal 3897 (harvel), Aug. 27 1999
-Amended(2) by Proposal 4406 (Murphy), 30 October 2002
-
-----------------------------------------------------------------------
-
-Rule 1457/12 (Power=1)
-Judicial Procedure for Violations of an SLC
-
-      Only Players within the Jurisdiction of a SLC may CFJ that a
-      Player has violated that SLC.
-
-      All Players within the Jurisdiction of a SLC are automatically
-      ineligible to Judge a CFJ that a Player has violated that SLC.
-
-History:
-Created by Proposal 1575, Apr. 28 1995
-Amended(1) by Proposal 1697, Sep. 1 1995
-Amended(2) by Proposal 1760, Oct. 21 1995
-Amended(3) by Proposal 2604, May 26 1996
-Infected and Amended(4) by Rule 1454, Jul. 4 1996
-Amended(5) by Proposal 2725, Oct. 23 1996
-Amended(6) by Proposal 2745 (Swann), Nov. 18 1996, cosmetic
-  (unattributed)
-Amended(7) by Proposal 2830 (Murphy), Mar. 7 1997, cosmetic
-  (unattributed)
-Amended(8) by Proposal 3473 (Harlequin), May 2 1997, substantial
-  (unattributed)
-Amended(9) by Proposal 3532 (General Chaos), Jul. 15 1997, cosmetic
-  (unattributed)
-Amended(10) by Proposal 3533 (General Chaos), Jul. 15 1997,
-  substantial
-Amended(11) by Proposal 3823 (Oerjan), Jan. 21 1999
-Amended(12) by Proposal 4406 (Murphy), 30 October 2002
-
-----------------------------------------------------------------------
-
-Rule 1590/2 (Power=1)
-Maintainer of SLCs
-
-      For a SLC to be legally authorized, the Rules must specify a
-      Player who is required to maintain a record of the content of
-      that SLC; this Player is known as the Maintainer of that SLC.
-
-      The Maintainer of a given SLC must provide a copy of it to any
-      other Player who requests it, as soon as possible after the
-      request is made.  If the SLC has changed between the time of the
-      request and the time the Maintainer fulfills the request, the
-      Maintainer must provide the SLC as it existed at the time of the
-      request and must additionally document every change made to the
-      SLC between the time of the request and the time of its
-      fulfillment.
-
-      The Maintainer of an SLC must also provide an updated copy of
-      the SLC to all Players within its Jurisdiction as soon as
-      possible after the SLC changes for any reason.
-
-[CFJ 860: It is sufficient for the Rules to name an Officer as
- Maintainer of an SLC.]
-
-History:
-Created by Proposal 2490, Feb. 16 1996
-Amended(1) by Proposal 2575, Apr. 21 1996
-Amended(2) by Proposal 3823 (Oerjan), Jan. 21 1999
-
-----------------------------------------------------------------------
-
-Rule 1589/2 (Power=1)
-Modification of SLCs
-
-      A SLC shall not be changed except in accordance with the Rules.
-      Notwithstanding any other method which may be defined, a SLC may
-      always be changed by the operation of an instrument of Power 1
-      or greater.
-
-      A SLC is permitted to define its own mechanisms for changing its
-      own content, and any change to a SLC adopted in accordance with
-      its own mechanisms is legal.
-
-History:
-Created by Proposal 2490, Feb. 16 1996
-Amended(1) by Proposal 2807 (Andre), Feb. 8 1997, cosmetic
-  (unattributed)
-Amended(2) by Proposal 3445 (General Chaos), Mar. 26 1997, substantial
-
-----------------------------------------------------------------------
-
-Rule 1592/0 (Power=1)
-Authority of SLCs to Change Properties
-
-      A SLC has the power to define the manner in which certain
-      properties of entities are changed.  This power shall be limited
-      to any property solely defined by that SLC and to any other
-      property to which the Rules grant that SLC this authority.
-
-History:
-Created by Proposal 2490, Feb. 16 1996
-
-----------------------------------------------------------------------
-
-
-
-======================================================================
-Organizations
-  This Category includes Rules regarding Organizations
-  in general.
-----------------------------------------------------------------------
-
-Rule 1528/7 (Power=1)
-Organizations
-
-      An Organization is an entity designated as such by the Rules.
-
-      Each Organization shall have the following properties:
-
-        a) A Name.
-        b) A Class.
-        c) A Charter.
-        d) An Administrator.
-        e) One or more Members.
-
-      Any of these properties may be changed by unanimous agreement of
-      all Members, except for Class which may never change.
-
-History:
-Created by Proposal 1760, Oct. 21 1995
-Amended(1) by Proposal 2421, Jan. 30 1996
-Amended(2) by Proposal 2525, Mar. 10 1996
-Amended(3) by Proposal 2725, Oct. 23 1996
-Amended(4) by Proposal 3533 (General Chaos), Jul. 15 1997, substantial
-Amended(5) by Proposal 3889 (harvel), Aug. 9 1999
-Amended(6) by Proposal 3889 (harvel), Aug. 9 1999
-Amended(7) by Proposal 4181 (Murphy), 9 July 2001
-
-----------------------------------------------------------------------
-
-Rule 1614/7 (Power=1)
-Names of Organizations
-
-      Each Organization has a unique Name.  The Name of an
-      Organization may only change as specified by its Charter or by
-      the Rules.
-
-History:
-Created by Proposal 2525, Mar. 10 1996
-Amended(1) by Proposal 2725, Oct. 23 1996
-Amended(2) by Proposal 3823 (Oerjan), Jan. 21 1999
-Amended(3) by Proposal 3889 (harvel), Aug. 9 1999
-Amended(4) by Proposal 3950 (harvel), Dec. 8 1999
-Amended(5) by Proposal 3968 (harvel), Feb. 4 2000
-Amended(6) by Proposal 3999 (harvel), May 2 2000
-Amended(7) by Proposal 4181 (Murphy), 9 July 2001
-
-----------------------------------------------------------------------
-
-Rule 1987/2 (Power=1)
-Classes of Organizations
-
-      The following Classes of Organizations exist:
-
-        a) Contests.
-        b) Monasteries.
-
-History:
-Created by Proposal 4181 (Murphy), 9 July 2001
-Amended(1) by Proposal 4436 (RedKnight), 28 January 2003
-Amended(2) by Proposal 4453 (Sherlock), 22 February 2003
-
-----------------------------------------------------------------------
-
-Rule 1612/2 (Power=1)
-Charters of Organizations
-
-      Each Organization has an associated SLC, known as its Charter.
-      The Charter of an Organization may only change as specified by
-      its Charter or by the Rules.
-
-      A Member of an Organization is a Player within the jurisdiction
-      of its Charter.
+      A Contract may contain any number of Regulations.  Regulations
+      have the power to constrain the actions of Players in the same
+      manner as the Rules.  However, Regulations have power over only
+      those Players that are Members of that Contract.  All Members
+      are required to abide by the Regulations, unless doing so would
+      violate the Rules.  Violation of this requirement is the Class 1
+      Crime of Insubordination.  A Contract may include in its
+      Regulations ways for Players to leave the Contract.
 
       Rules to the contrary notwithstanding, no Player shall ever
-      involuntarily become a Member of an Organization.
+      involuntarily become a Member of a Contract.
 
-      When an Organization ceases to exist, its Charter ceases to
-      exist.
+      If the Notary of a Contract becomes Silent, all Members of this
+      Contract cease to be Members of this Contract and the Contract
+      ceases to exist.
+
+      Only Members of a Contract may CFJ that a Member has violated
+      that Contract.  All Members of a Contract are automatically
+      ineligible to Judge a CFJ that a Member has violated that
+      Contract.
+
+      All Rules regulating agreements that are inconsistent with this
+      Rule are superseded to the extent of such inconsistency.
 
 History:
-Created by Proposal 2525, Mar. 10 1996
-Amended(1) by Proposal 2725, Oct. 23 1996
-Amended(2) by Proposal 4181 (Murphy), 9 July 2001
+Created by Proposal 4743 (Manu), 5 May 2005
 
 ----------------------------------------------------------------------
 
-Rule 1531/11 (Power=1)
-Administrators of Organizations
+Rule 2108/0 (Power=1)
+Contract Maintenance
 
-      Each Organization shall have an Administrator, who must be a
-      Member.  The Administrator of an Organization may only change as
-      specified by its Charter or by the Rules.
+      The Notary of a given Contract must provide a copy of its
+      Regulations to any other Player who requests it, as soon as
+      possible after the request is made.  The Notary of a Contract
+      must also provide an updated copy of the Regulations to all
+      Members as soon as possible after the Regulations change for any
+      reason.  Regulations can not be changed except in accordance
+      with the Rules.  Regulations are permitted to define their own
+      mechanisms for changing their own content, and any change to
+      Regulations adopted in accordance with their own mechanisms is
+      legal.
 
-      The Administrator is Maintainer of the Charter, unless otherwise
-      specified by its Charter or by the Rules.
-
-      The Administrator is Executor of the Organization, unless
-      otherwise specified by its Charter or by the Rules.
-
-      The Administrator shall inform the Justiciar of the following
-      changes as soon as possible after they occur, and identify the
-      nature of the change:
-
-       a) The Name changes.
-       b) The Administrator changes.
-       c) The Executor changes.
-       d) The Maintainer of the Charter changes.
-       e) The jurisdiction of the Charter changes.
-       f) The Organization voluntarily dissolves.
-       g) The Charter changes.
+      The Notary may, without objection, change the Regulations
+      provided e sends a copy of the new Regulations to all Members as
+      soon as possible.
 
 History:
-Created by Proposal 1760, Oct. 21 1995
-Amended(1) by Proposal 2525, Mar. 10 1996
-Amended(2) by Proposal 2725, Oct. 23 1996
-Infected and Amended(3) by Rule 1454, Jul. 20 1997, substantial
-  (unattributed)
-Amended(4) by Rule 1531, Aug. 3 1997, substantial
-Amended(5) by Proposal 3823 (Oerjan), Jan. 21 1999
-Amended(6) by Proposal 3823 (Oerjan), Jan. 21 1999
-Amended(7) by Proposal 3889 (harvel), Aug. 9 1999
-Amended(8) by Proposal 3950 (harvel), Dec. 8 1999
-Amended(9) by Proposal 4181 (Murphy), 9 July 2001
-Amended(10) by Proposal 4510 (Sherlock), 10 July 2003
-Amended(11) by Proposal 4698 (Goethe), 18 April 2005
+Created by Proposal 4743 (Manu), 5 May 2005
 
 ----------------------------------------------------------------------
 
-Rule 1533/14 (Power=1)
-Application to Create an Organization
+Rule 2109/0 (Power=1)
+Agoran Contracts
 
-      An Application to Create an Organization (ACO) shall be
-      submitted to the Justiciar.
+      There exists a type of Contract known as Agoran Contract. An
+      Agoran Contract is a Contract between any two entities. An
+      Agoran Contract may only be created or amended by a Proposal and
+      becomes effective when the Proposal takes effect. Unless
+      otherwise specified in the Rules or Regulations, All Players are
+      automatically Members of Agoran Contracts and no Player may
+      leave an Agoran Contract.
 
-      To be valid, an ACO must specify all properties that an
-      Organization is required to have.  Other Rules may place further
-      conditions on the validity of ACOs for a specific Class of
-      Organization.
+      All Rules regulating Contracts that are inconsistent with this
+      Rule are superseded to the extent of such inconsistency.
 
-      The effect of submitting a valid ACO is to create the
-      prospective Organization, with the Sponsor and signatories as
-      Foundors and initial Members.
-
-History:
-Created by Proposal 1760, Oct. 21 1995
-Amended(1) by Proposal 2035, Dec. 4 1995
-Amended(2) by Proposal 2421, Jan. 30 1996
-Amended(3) by Proposal 2506, Mar. 3 1996
-Amended(4) by Proposal 2525, Mar. 10 1996
-Infected and Amended(5) by Rule 1454, May 23 1996
-Amended(6) by Proposal 2633, Jul. 4 1996
-Amended(7) by Proposal 2725, Oct. 23 1996
-Infected and Amended(8) by Rule 1454, Aug. 24 1997, substantial
-  (unattributed)
-Amended(9) by Rule 1533, Sep. 7 1997, substantial
-Amended(10) by Proposal 3823 (Oerjan), Jan. 21 1999
-Amended(11) by Proposal 4147 (Wes), 13 May 2001
-Amended(12) by Proposal 4159 (Kelly), 5 June 2001
-Amended(13) by Proposal 4181 (Murphy), 9 July 2001
-Amended(14) by Proposal 4698 (Goethe), 18 April 2005
-
-----------------------------------------------------------------------
-
-Rule 1397/7 (Power=1)
-Dissolution of Organizations
-
-      A Organization shall cease to exist only as specified by its
-      Charter or by the Rules.
-
-      An Organization shall cease to exist if it would otherwise lack
-      a property that Organizations are required to have.
+      The ADoP is required to keep track of all Agoran Contracts.
 
 History:
-Created by Proposal 1397, Jan. 29 1995
-Amended(1) by Proposal 1687, Sep. 1 1995
-Amended(2) by Proposal 1760, Oct. 21 1995
-Amended(3) by Proposal 2421, Jan. 30 1996
-Amended(4) by Proposal 2525, Mar. 10 1996
-Amended(5) by Proposal 2725, Oct. 23 1996
-Amended(6) by Proposal 4002 (harvel), May 8 2000
-Amended(7) by Proposal 4181 (Murphy), 9 July 2001
-
-----------------------------------------------------------------------
-
-Rule 2038/0 (Power=1)
-Joining a Monastery
-
-      A Player shall be added to the Membership of a Monastery only
-      when the Player to be added has sent the Administrator of the
-      Monastery in question a message requesting the be added to the
-      membership of that Monastery and the addition of that Player to
-      that Monastery's membership is otherwise permitted by that
-      Monastery's SLC.
-
-History:
-Created by Proposal 4436 (RedKnight), 28 January 2003
+Created by Proposal 4755 (Manu), 5 May 2005
 
 ----------------------------------------------------------------------
 
 ======================================================================
 Groups and Contests
   This Category includes Rules regulating Groups and Contests.
-----------------------------------------------------------------------
-
-Rule 1446/15 (Power=1)
-Contests
-
-      Each Contest is an Organization associated with an SLC
-      called its Regulations.  The Administrator for each Contest
-      is that Contest's Contestmaster, and the Players within
-      the Jurisdiction of its SLC, other than the Contestmaster,
-      are its Contestants.
-
-      Any Player is permitted to be a Contestant or a Contestmaster of
-      any Contest, unless that would conflict with that Contest's
-      Regulations, or the Rules. A Contest must have exactly one
-      Foundor, who becomes the Contest's initial Contestmaster.
-
-      The ACO to create a Contest must be published to have effect.
-
-[CFJ 760: If the Regulations specify that the position of
- Contestmaster is to be vacated, that is without effect.
- CFJ 800: A Contest need not be a game in the strict sense of the
- word.]
-
-History:
-Created by Proposal 1509, Mar. 24 1995
-Amended(1) by Proposal 1574, Apr. 28 1995
-Amended(2) by Proposal 1601, Jun. 19 1995
-Amended(3) by Proposal 1644, Aug. 1 1995
-Amended(4) by Proposal 1670, Aug. 18 1995
-Amended(5) by Proposal 1760, Oct. 21 1995
-Null-Amended(6) by Proposal 1763, Oct. 31 1995
-Amended(7) by Proposal 2401, Jan. 20 1996
-Amended(8) by Proposal 2562, Apr. 6 1996
-Amended(9) by Proposal 2584, May 1 1996
-Amended(10) by Proposal 2725, Oct. 23 1996
-Amended(11) by Proposal 3502 (General Chaos), Jun. 8 1997, substantial
-Amended(12) by Proposal 3968 (harvel), Feb. 4 2000
-Amended(13) by Proposal 4099 (Murphy), Jan. 15 2001
-Amended(14) by Proposal 4147 (Wes), 13 May 2001
-Amended(15) by Proposal 4554 (Elysion), 27 February 2004
-
-----------------------------------------------------------------------
-
-Rule 1539/4 (Power=1)
-Regulations and Membership of Contests
-
-      The regulations of a contest may specify the following:
-
-        a) How a contestmaster is replaced.  No person may become
-           contestmaster without eir consent.  If left unspecified,
-           the contestmaster cannot change while the contest exists.
-
-        b) Restrictions on players to become contestants.
-
-        c) Conditions under which contestants cease to be contestants.
-
-      No player is bound to obey any regulation or combination of
-      regulations that conflict with the Rules.
-
-      A player becomes a contestant, or ceases to be a contestant, by
-      notifying the contestmaster.
-
-      A contestmaster may publicly resign at any time, at which time e
-      ceases to be contestmaster.
-
-History:
-Created by Proposal 1760, Oct. 21 1995
-Amended(1) by Proposal 2725, Oct 23 1996
-Amended(2) by Proposal 4147 (Wes), 13 May 2001
-Amended(3) by Proposal 4484 (OscarMeyr), 23 April 2003
-Amended(4) by Proposal 4533 (Murphy), 26 October 2003
-
 ----------------------------------------------------------------------
 
 Rule 2097/0 (Power=1)
