@@ -7663,7 +7663,7 @@ Amended(9) by Proposal 4339 (Sir Toby), 8 July 2002
 
 ----------------------------------------------------------------------
 
-Rule 1922/10 (Power=1)
+Rule 1922/9 (Power=1)
 Defined Regular Patent Titles
 
       The following are Patent Titles:
@@ -7702,9 +7702,6 @@ Defined Regular Patent Titles
            continuously for the specified duration.  Each of these
            titles shall be awarded only once per player.
 
-      (e)  Hyperactive, to be awarded to any player who has more than
-           10 proposals pass in one week.
-
 History:
 Created by Proposal 3916 (harvel), Sep. 27 1999
 Amended(1) by Proposal 1922 (Goethe), Mar. 28 2001
@@ -7716,7 +7713,6 @@ Amended(6) by Proposal 4556 (Goethe), 22 March 2004
 Amended(7) by Proposal 4614 (Goethe), 21 September 2004
 Amended(8) by Proposal 4642 (Murphy), 12 March 2005
 Amended(9) by Proposal 4708 (OscarMeyr), 18 April 2005
-Amended(10) by Proposal 4736 (Quazie), 5 May 2005
 
 ----------------------------------------------------------------------
 
