@@ -107,7 +107,7 @@ The Map of Agora
         \                   |                |_______/  \/ |
          |                __/\      <- TARCOOLA           /   LORD HOWE ->
          \             __/    \_             /           /
-PERTH -> |      _  __/         |   /| IVANHOE ->       | <- WOLLONGONG
+ PERTH -> |      _  __/         |   /| IVANHOE ->       | <- WOLLONGONG
           /    _/ \/             \ / /       |         /
          |_   /     <- ESPERANTO  v /__     |_        / <- CANBERRA
            \_/                         \    | \_    _|
