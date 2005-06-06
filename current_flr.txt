@@ -21,15 +21,15 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 264 Rules:
+There are currently 265 Rules:
     1 with Power=4
-   24 with Power=3
+   25 with Power=3
    41 with Power=2
   198 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2109
-Highest Rule Number assigned so far: 2109
+Highest current Rule Number:         2110
+Highest Rule Number assigned so far: 2110
 
 ======================================================================
 Table of Contents:
@@ -159,6 +159,21 @@ History:
 Initial Immutable Rule 101, Jun. 30 1993
 Mutated from MI=Unanimity to MI=3 by Proposal 1480, Mar. 15 1995
 Amended(1) by Proposal 3915 (harvel), Sep. 27 1999
+
+----------------------------------------------------------------------
+
+Rule 2110/0 (Power=3)
+Win by Paradox
+
+      If the legality of an action cannot be determined with finality,
+      or if by a Judge's best reasoning, not appealed within a week of
+      eir Judgement, an action appears equally legal and illegal, then
+      the Speaker shall award the Patent Title of Champion to the
+      first Player to publicly note that condition.  The Herald shall
+      record that this Title was achieved "by paradox" in eir report.
+
+History:
+Created by Proposal 4781 (Sherlock), 3 June 2005
 
 ----------------------------------------------------------------------
 
