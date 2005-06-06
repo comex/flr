@@ -3935,12 +3935,13 @@ Amended(2) by Proposal 3823 (Oerjan), Jan. 21 1999
 
 ----------------------------------------------------------------------
 
-Rule 2095/0 (Power=1)
+Rule 2095/1 (Power=1)
 The Assessor's Boon Duties
 
       * If a Proposal passes, and that Proposal was submitted by a
         Player within that Player's Grace Period, then the Assessor
-        shall award the Proposor the Boon of Prodigy.
+        shall award the Proposor the Boon of Prodigy, unless the
+        Proposor has already received five or more such awards.
 
       * If an Interested Democratic Proposal passes, and no Votes were
         cast AGAINST it, then the Assessor shall award the Proposor
@@ -3951,6 +3952,7 @@ The Assessor's Boon Duties
 
 History:
 Created by Proposal 4696 (Quazie), 18 April 2005
+Amended(1) by Proposal 4761 (root), 15 May 2005
 
 ----------------------------------------------------------------------
 
@@ -7292,18 +7294,21 @@ Amended(3) by Proposal 4744 (Quazie, root), 5 May 2005
 
 ----------------------------------------------------------------------
 
-Rule 2080/2 (Power=1)
+Rule 2080/3 (Power=1)
 Cards for Proposals
 
       If a Proposal is adopted, the Proposer may draw from the deck by
-      announcing the Proposal number while drawing, provided that e
-      does so within a week after the proposal's adoption and that e
+      announcing the Proposal number while drawing; so long as the
+      Proposer's Hand Size is smaller than the Maximum Hand Size plus
+      the number of Offices e holds, the Proposer performs the draw
+      within a week after the proposal's adoption, and the Proposer
       has not already done so for the same proposal.
 
 History:
 Created by Proposal 4635 (OscarMeyr), 23 January 2005
 Amended(1) by Proposal 4644 (root), 12 March 2005
 Amended(2) by Proposal 4753 (Sherlock), 5 May 2005
+Amended(3) by Proposal 4761 (root), 15 May 2005
 
 ----------------------------------------------------------------------
 
