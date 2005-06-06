@@ -1569,33 +1569,28 @@ Created by Proposal 4701 (Goethe), 18 April 2005
 
 ----------------------------------------------------------------------
 
-Rule 1686/13 (Power=1)
+Rule 1686/15 (Power=1)
 Official Reports
 
       The Rules may designate certain information to be part of an
-      Office's Weekly Report or Monthly Report.  An Office's Weekly
-      Reports and Monthly Reports constitute the Office's Official
-      Report.  All information that is part of an Office's Official
-      Report shall be maintained by the corresponding officer.
-
-      The rules may specify conditions under which a player is mauve;
-      that player is not mauve unless the rules explicitly state at
-      least one such condition and all such conditions are satisfied.
-      As soon as possible after a player becomes mauve, the Speaker
-      shall announce this fact.  The only condition for mauveness is
-      being nicknamed Blob.
+      Office's Weekly Report, Bi-Weekly Report or Monthly Report.  An
+      Office's Weekly Reports, Bi-Weekly Reports and Monthly Reports
+      constitute the Office's Official Report.  All information that
+      is part of an Office's Official Report shall be maintained by
+      the corresponding officer.
 
       Each officer with a Weekly Report must publish it weekly unless
       the content of the report would substantially be the same as in
       the previously published report. In this case, a report must
       only be published within one week of the next substantial change
       to the report's content, but must at least be published once per
-      month.  Each officer with a Monthly Report must publish it
-      monthly.  Failure to do so is the Class 2 Infraction of Failure
-      to Report.  If an officer fails to do so for at least three
-      consecutive reporting periods, e may be cited for either Failure
-      to Report or the Class 10 Infraction of Dereliction of Duty but
-      not both.  Any officer cited for Dereliction of Duty is
+      month.  Each officer with a Bi-Weekly Report must publish it
+      once every two weeks and each officer with a Monthly Report must
+      publish it monthly.  Failure to do so is the Class 2 Infraction
+      of Failure to Report.  If an officer fails to do so for at least
+      three consecutive reporting periods, e may be cited for either
+      Failure to Report or the Class 10 Infraction of Dereliction of
+      Duty but not both.  Any officer cited for Dereliction of Duty is
       immediately removed from that office. The Assistant Director of
       Personnel and the Speaker may report these Infractions.
 
@@ -1614,6 +1609,8 @@ Amended(10) by Proposal 4250 (harvel), 19 February 2002
 Amended(11) by Proposal 4489 (root), 6 May 2003
 Amended(12) by Proposal 4655 (Kolja), 29 March 2005
 Amended(13) by Proposal 4695 (Quazie), 18 April 2005
+Amended(14) by Proposal 4768 (root), 25 May 2005
+Amended(15) by Proposal 4769 (Sherlock), 25 May 2005
 
 ----------------------------------------------------------------------
 
@@ -1869,11 +1866,11 @@ Amended(3) by Proposal 4103 (Murphy), Jan. 15 2001
 
 ----------------------------------------------------------------------
 
-Rule 1758/6 (Power=1)
+Rule 1758/7 (Power=1)
 Holding an Office in Perpetuity
 
       If a Player is the Electee to an Office which e currently holds,
-      then the Assistant Director of Personnel may declare, Without
+      then the Associate Director of Personnel may declare, Without
       Objection, that that Player holds that Office in perpetuity.
       The Player then holds the Office in perpetuity.
 
@@ -1896,6 +1893,7 @@ Amended(3) by Proposal 3940 (Blob), Nov. 15 1999
 Amended(4) by Proposal 4053 (harvel), Aug. 21 2000
 Amended(5) by Proposal 4071 (Steve), Aug. 14 2000
 Amended(6) by Proposal 4142 (Murphy), Apr. 15 2001
+Amended(7) by Proposal 4768 (root), 25 May 2005
 
 ----------------------------------------------------------------------
 
@@ -1985,7 +1983,7 @@ Amended(9) by Proposal 4271 (Murphy), 22 March 2002
 
 ----------------------------------------------------------------------
 
-Rule 790/12 (Power=1)
+Rule 790/13 (Power=1)
 Filling Vacant Offices
 
       As soon as possible after
@@ -1998,9 +1996,9 @@ Filling Vacant Offices
       Election for that Office, as described by other Rules.  This
       requirement is cancelled if the Office comes to have an Electee.
 
-      The designated conductor of Office Elections is the Assistant
+      The designated conductor of Office Elections is the Associate
       Director of Personnel, unless the Office in question is
-      that of Assistant Director of Personnel; in that case, the
+      that of Associate Director of Personnel; in that case, the
       designated conductor is the Speaker.
 
 History:
@@ -2018,6 +2016,7 @@ Amended(9) by Proposal 4053 (harvel), Aug. 21 2000
 Amended(10) by Proposal 4103 (Murphy), Jan. 15 2001
 Amended(11) by Proposal 4142 (Murphy), Apr. 15 2001
 Amended(12) by Proposal 4650 (Murphy), 22 March 2005
+Amended(13) by Proposal 4768 (root), 25 May 2005
 
 ----------------------------------------------------------------------
 
@@ -2364,14 +2363,14 @@ Amended(4) by Proposal 4527 (Murphy), 16 September 2003
 
 ----------------------------------------------------------------------
 
-Rule 1975/4 (Power=1)
-The Assistant Director of Personnel
+Rule 1975/6 (Power=1)
+The Associate Director of Personnel
 
-      The Assistant Director of Personnel (ADoP) is an office; its
+      The Associate Director of Personnel (ADoP) is an office; its
       holder is recordkeepor for offices and the Speaker and is
       responsible for holding elections for offices.
 
-      The ADoP's Weekly Report shall include:
+      The ADoP's Bi-Weekly Report shall include:
 
       (a) a list of all offices;
 
@@ -2395,24 +2394,26 @@ Amended(1) by Proposal 4250 (harvel), 19 February 2002
 Amended(2) by Proposal 4259 (root), 21 February 2002
 Amended(3) by Proposal 4267 (root), 22 March 2002
 Amended(4) by Proposal 4576 (root), 31 May 2004
+Amended(5) by Proposal 4768 (root), 25 May 2005
+Amended(6) by Proposal 4769 (Sherlock), 25 May 2005
 
 ----------------------------------------------------------------------
 
-Rule 1940/8 (Power=1)
+Rule 1940/9 (Power=1)
 Periodic Compensations
 
       The boon of Public Service exists for the purpose of awarding
       Officers for serving.
 
       Paperwork is a stuck switch for Offices with states Low and
-      High.  The Assistant Director of Personnel is the recordkeepor
+      High.  The Associate Director of Personnel is the recordkeepor
       for paperwork.  For the purpose of this rule, the Speaker and
-      the Distributor are considered offices.  The Assistant Director
+      the Distributor are considered offices.  The Associate Director
       of Personnel or the Speaker may switch the paperwork of an
       office with two supporters and without two objections.
 
       As soon as possible after the beginning of each month, the
-      Assistant Director of Personnel shall award 1 Public Service
+      Associate Director of Personnel shall award 1 Public Service
       Boon for each office to the player (if any) who held that office
       for 16 or more days in the previous month; e shall award an
       additional Public Service boon to that player if the office is a
@@ -2432,6 +2433,7 @@ Amended(5) by Proposal 4361 (Steve), 16 August 2002
 Amended(6) by Proposal 4385 (Steve), 17 September 2002
 Amended(7) by Proposal 4486 (Michael), 24 April 2003
 Amended(8) by Proposal 4697 (Goethe), 18 April 2005
+Amended(9) by Proposal 4768 (root), 25 May 2005
 
 ----------------------------------------------------------------------
 
@@ -3504,7 +3506,7 @@ Amended(2) by Proposal 4717 (Murphy), 25 April 2005
 
 ----------------------------------------------------------------------
 
-Rule 1764/13 (Power=1)
+Rule 1764/14 (Power=1)
 Modes of Voting
 
       There are three classes of Issues: Proposals, Elections, and
@@ -3517,7 +3519,7 @@ Modes of Voting
       (b)  (1) The Assessor may change the prevailing mode of voting
                for Proposals, with Support.
 
-           (2) The Assistant Director of Personnel may change the
+           (2) The Associate Director of Personnel may change the
                prevailing mode of voting for Elections, with Support.
 
            (3) The prevailing mode of Referenda is always Public.
@@ -3570,6 +3572,7 @@ Amended(10) by Proposal 4053 (harvel), Aug. 21 2000
 Amended(11) by Proposal 4099 (Murphy), Jan. 15 2001
 Amended(12) by Proposal 4142 (Murphy), Apr. 15 2001
 Amended(13) by Proposal 4759 (Manu, Sherlock), 15 May 2005
+Amended(14) by Proposal 4768 (root), 25 May 2005
 
 ----------------------------------------------------------------------
 
@@ -4186,16 +4189,16 @@ Amended(18) by Proposal 4637 (Murphy), 19 February 2005
 
 ----------------------------------------------------------------------
 
-Rule 1558/7 (Power=1)
+Rule 1558/8 (Power=1)
 Defaults for Elections for Offices
 
       When the Rules require that an Election be conducted to fill
       an Office, that Election shall be conducted in accordance with
       the usual Rules for Elections, with the following exceptions:
 
-      * The Vote Collector is the Assistant Director of Personnel at
+      * The Vote Collector is the Associate Director of Personnel at
         the time the Election begins, unless the Election seeks to
-        fill the Office of Assistant Director of Personnel, in which
+        fill the Office of Associate Director of Personnel, in which
         case the Vote Collector is the Speaker at the time the
         Election begins.
 
@@ -4218,6 +4221,7 @@ Amended(4) by Proposal 4053 (harvel), Aug. 21 2000
 Amended(5) by Proposal 4142 (Murphy), Apr. 15 2001
 Amended(6) by Proposal 4509 (Murphy), 10 July 2003
 Amended(7) by Proposal 4650 (Murphy), 22 March 2005
+Amended(8) by Proposal 4768 (root), 25 May 2005
 
 ----------------------------------------------------------------------
 
@@ -4744,14 +4748,14 @@ The Clerk of the Courts
   the Courts.
 ----------------------------------------------------------------------
 
-Rule 889/12 (Power=1)
+Rule 889/13 (Power=1)
 The Clerk of the Courts
 
       The Clerk of the Courts (CotC) is an office; its holder is
       responsible for receiving and distributing Calls for Judgement
       (CFJs) and Appeals.
 
-      The CotC's Weekly Report shall include the following:
+      The CotC's Bi-Weekly Report shall include the following:
          (i) Each Player's Orientation.
 
       The CotC's Monthly Report shall include the Stare Decisis, which
@@ -4784,6 +4788,7 @@ Amended(9) by Proposal 3978 (Blob), Feb. 23 2000
 Amended(10) by Proposal 4002 (harvel), May 8 2000
 Amended(11) by Proposal 4250 (harvel), 19 February 2002
 Amended(12) by Proposal 4563 (OscarMeyr), 6 April 2004
+Amended(13) by Proposal 4769 (Sherlock), 25 May 2005
 
 ----------------------------------------------------------------------
 
@@ -6357,14 +6362,14 @@ The Registrar
   This Category includes Rules concerning the Office of Registrar.
 ----------------------------------------------------------------------
 
-Rule 559/23 (Power=1)
+Rule 559/24 (Power=1)
 The Registrar
 
       The Registrar is an office; its holder is responsible for
       maintaining the register of players.
 
-      The Registrar's Weekly Report shall include all of the following
-      information:
+      The Registrar's Bi-Weekly Report shall include all of the
+      following information:
 
          (i) a list of all registered players, with their nicknames,
              if any, and listed email addresses;
@@ -6413,6 +6418,7 @@ Amended(20) by Proposal 4278 (harvel), 3 April 2002
 Amended(21) by Proposal 4435 (Murphy), 28 January 2003
 Amended(22) by Proposal 4563 (OscarMeyr), 6 April 2004
 Amended(23) by Proposal 4616 (OscarMeyr), 1 October 2004
+Amended(24) by Proposal 4769 (Sherlock), 25 May 2005
 
 ----------------------------------------------------------------------
 
@@ -6920,7 +6926,7 @@ Amended(1) by Proposal 4660 (root), 29 March 2005
 
 ----------------------------------------------------------------------
 
-Rule 2075/3 (Power=1)
+Rule 2075/4 (Power=1)
 Winning Hands
 
       The Deckmastor's Budget shall contain between one and five
@@ -6942,16 +6948,17 @@ Winning Hands
       Exactly one week after a true announcement, the Flux of all
       Gamblers except the Deck shall become frozen.
 
-      If no one has won the game in the last six months, then any
-      Gambler may announce a Skunk, which shall trigger the effects of
-      a true announcement of a win above, except that no boon shall be
-      awarded.
+      If no true announcement of a winning hand or a Skunk has been
+      made in the last six months, then any Gambler may announce a
+      Skunk, which shall trigger the effects of a true announcement of
+      a win above, except that no boon shall be awarded.
 
 History:
 Created by Proposal 4614 (Goethe), 21 September 2004
 Amended(1) by Proposal 4626 (Goethe), 20 November 2004
 Amended(2) by Proposal 4644 (root), 12 March 2005
 Amended(3) by Proposal 4740 (Quazie), 5 May 2005
+Amended(4) by Proposal 4764 (root), 25 May 2005
 
 ----------------------------------------------------------------------
 
@@ -8420,28 +8427,29 @@ Amended(13) by Proposal 4155 (harvel), 18 May 2001
 
 ----------------------------------------------------------------------
 
-Rule 402/10 (Power=1)
+Rule 402/11 (Power=1)
 Speaker Transition
 
-      Speaker Transition is a process which commences at the time
-      the Rules call for a Speaker Transition to occur, and which
-      proceeds as follows:
+      Speaker Transition is a process which commences at the time the
+      Rules call for a Speaker Transition to occur, and which proceeds
+      as follows:
 
-      (i) when the Speaker Transition commences, the Speaker loses
-      all special rights and privileges that accrue to em as a result
-      of being Speaker;
+      (i)   when the Speaker Transition commences, the Speaker loses
+            all special rights and privileges that accrue to em as a
+            result of being Speaker;
 
-      (ii) as soon as possible after the Speaker Transition commences,
-      the Assistant Director of Personnel shall publish a Notice of
-      Speaker Transition, identifying the reason for the Transition
-      and the Player who held the Office of Speaker-Elect at the time
-      the Transition commenced;
+      (ii)  as soon as possible after the Speaker Transition
+            commences, the Associate Director of Personnel shall
+            publish a Notice of Speaker Transition, identifying the
+            reason for the Transition and the Player who held the
+            Office of Speaker-Elect at the time the Transition
+            commenced;
 
       (iii) provided that the Notice of Speaker Transition is
-      correct in its particulars, the posting of the Notice
-      causes the Player identified in it to cease being the
-      Speaker-Elect and to become the Speaker. This concludes
-      the process of Speaker Transition.
+            correct in its particulars, the posting of the Notice
+            causes the Player identified in it to cease being the
+            Speaker-Elect and to become the Speaker. This concludes
+            the process of Speaker Transition.
 
 History:
 Created by Proposal 402 (Alexx), ca. Sep. 3 1993
@@ -8457,6 +8465,7 @@ Amended(7) by Proposal 3974 (Elysion), Feb. 14 2000
 Amended(8) by Proposal 4053 (harvel), Aug. 21 2000
 Amended(9) by Proposal 4147 (Wes), 13 May 2001
 Amended(10) by Proposal 4576 (root), 31 May 2004
+Amended(11) by Proposal 4768 (root), 25 May 2005
 
 ----------------------------------------------------------------------
 
@@ -8474,15 +8483,16 @@ Amended(3) by Proposal 3703, Mar. 9 1998
 
 ----------------------------------------------------------------------
 
-Rule 2073/1 (Power=1)
+Rule 2073/2 (Power=1)
 Quis Custodiet Ipsos Custodes?
 
-      Whenever the Speaker is Electee to the Office of Assistant
+      Whenever the Speaker is Electee to the Office of Associate
       Director of Personnel, e is retired from that Office.
 
 History:
 Created by Proposal 4594 (Murphy), 4 July 2004
 Amended(1) by Proposal 4613 (Murphy), 10 September 2004
+Amended(2) by Proposal 4768 (root), 25 May 2005
 
 ----------------------------------------------------------------------
 
