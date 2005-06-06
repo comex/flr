@@ -21,11 +21,11 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 272 Rules:
+There are currently 264 Rules:
     1 with Power=4
    24 with Power=3
    41 with Power=2
-  206 with Power=1
+  198 with Power=1
 
 Lowest current Rule Number:           101
 Highest current Rule Number:         2109
@@ -325,22 +325,6 @@ Amended(8) by Proposal 4273 (Murphy), 22 March 2002
 
 ----------------------------------------------------------------------
 
-Rule 1926/1 (Power=1)
-The Official Secrets Act
-
-      The Rules may designate certain pieces of information to
-      be secret. Any player who knowingly reveals secret information
-      to another player, except as explicitly permitted or required
-      by the rules, commits the Crime of Unlawful Disclosure, a Class
-      5 Crime. All secret information is deemed private, with respect
-      to the Freedom of Information Act.
-
-History:
-Created by Proposal 3952 (Blob), Dec. 13 1999
-Amended(1) by Proposal 4099 (Murphy), Jan. 15 2001
-
-----------------------------------------------------------------------
-
 Rule 1478/5 (Power=1)
 Executors and Limited Executors
 
@@ -418,24 +402,6 @@ Created by Proposal 4190 (Steve), 18 July 2001
 Amended(1) by Proposal 4389 (Steve), 5 October 2002
 
 ----------------------------------------------------------------------
-
-Rule 1630/3 (Power=1)
-Impersonation
-
-      Any Player who knowingly attempts to act as, or purports to be,
-      the Executor of an Entity, of which e is not the Executor,
-      commits the Class 4 Crime of Impersonation.
-
-History:
-Created by Proposal 2606, May 26 1996
-Infected and Amended(1) by Rule 1454, Oct. 12 1997, substantial
-  (unattributed)
-Amended(2) by Rule 1630, Oct. 26 1997, substantial
-Amended(3) by Proposal 3897 (harvel), Aug. 27 1999
-
-----------------------------------------------------------------------
-
-
 
 ======================================================================
 Definitions
@@ -1308,7 +1274,7 @@ Amended(5) by Proposal 4011 (Wes), Jun. 1 2000
 
 ----------------------------------------------------------------------
 
-Rule 1042/20 (Power=1)
+Rule 1042/21 (Power=1)
 Deregistration Due to Silence
 
       Noisiness is a stuck player switch with values noisy, quiet, and
@@ -1317,9 +1283,9 @@ Deregistration Due to Silence
       A non-noisy player becomes noisy whenever e posts to a public
       forum.
 
-      A player may flip another player's noisiness from noisy to
-      quiet, unless e has done so for another player within the past
-      24 hours.
+      An active player may flip another active player's noisiness from
+      noisy to quiet, unless e has done so for another player within
+      the past 24 hours.
 
       If a player has been quiet continuously for one month, or
       inactive continuously for three months, e becomes silent.
@@ -1359,6 +1325,7 @@ Amended(17) by Proposal 4278 (harvel), 3 April 2002
 Amended(18) by Proposal 4407 (Steve), 30 October 2002
 Amended(19) by Proposal 4424 (Steve), 16 December 2002
 Amended(20) by Proposal 4523 (Murphy), 28 August 2003
+Amended(21) by Proposal 4758 (Quazie), 15 May 2005
 
 ----------------------------------------------------------------------
 
@@ -1650,40 +1617,6 @@ Amended(13) by Proposal 4695 (Quazie), 18 April 2005
 
 ----------------------------------------------------------------------
 
-Rule 1064/9 (Power=1)
-Freedom of Information Act
-
-      If a Player is mandated by the Rules to maintain a set of
-      records, these records must be available for perusal, unless
-      such records are designated by the Rules as private.  A Player
-      who maintains such records must provide a copy of these Records
-      to any other Player upon request within one week.  If e fails to
-      so provide a copy of the requested records within one week, e
-      commits Unlawful Nondisclosure, a Class 2 Crime, unless the
-      Records are unavailable for reasons beyond eir control and e
-      reports this fact, with explanation, within one week.
-
-      For the purpose of this Rule, all records pertaining to Votes
-      currently in progress, excluding the text of the Proposals under
-      consideration, are designated as private until the end of the
-      Voting Period.
-
-History:
-Created by Proposal 488 (Alexx), Sep. 29 1993
-Amended by Proposal 1064, ca. Oct. 11 1994
-Amended by Rule 750, ca. Oct. 11 1994
-Amended(1) by Proposal 1344, Nov. 29 1994
-Amended(2) by Proposal 1672, Aug. 22 1995
-Amended(3) by Proposal 1682, Aug. 22 1995
-Amended(4) by Proposal 2042, Dec. 11 1995
-Amended(5) by Proposal 2631, Jul. 4 1996
-Infected and Amended(6) by Rule 1454, Sep. 7 1996
-Amended(7) by Proposal 3452 (Steve), Apr. 7 1997, substantial
-Amended(8) by Proposal 3897 (harvel), Aug. 27 1999
-Amended(9) by Proposal 4147 (Wes), 13 May 2001
-
-----------------------------------------------------------------------
-
 Rule 1431/16 (Power=1)
 Claims of Error
 
@@ -1743,23 +1676,6 @@ Amended(13) by Proposal 4047 (Taral), Aug. 15 2000
 Amended(14) by Proposal 4099 (Murphy), Jan. 15 2001
 Amended(15) by Proposal 4147 (Wes), 13 May 2001
 Amended(16) by Proposal 4380 (Steve), 11 September 2002
-
-----------------------------------------------------------------------
-
-Rule 1550/2 (Power=1)
-Ratification by Proposal
-
-      Any Official Document (as specified in other Rules) may be
-      ratified by the operation of an adopted Proposal (but no other
-      sort of instrument).  The instrument must specify an Official
-      Document (as specified in other Rules) which is subject to
-      ratification.
-
-History:
-Created by Proposal 2425, Jan. 30 1996
-Amended(1) by Proposal 2807 (Andre), Feb. 8 1997, cosmetic
-  (unattributed)
-Amended(2) by Proposal 3445 (General Chaos), Mar. 26 1997, substantial
 
 ----------------------------------------------------------------------
 
@@ -3409,41 +3325,6 @@ Power changed from 1 to 2 by Proposal 4040 (Oerjan), Aug. 7 2000
 
 ----------------------------------------------------------------------
 
-Rule 1726/1 (Power=1)
-The Guillotine
-
-      There is a type of Application known as a Guillotine
-      Application.  Such an Application is submitted by submitting it
-      to the Assessor.  A Guillotine Application may specify when it
-      is to take effect; if it does not do so, or specifies a time
-      prior to its submission, it takes effect when submitted.  For a
-      Guillotine Application to take effect:
-
-      * it must state that it is a Guillotine Application;
-
-      * it must clearly identify exactly one Proposal to which it
-        applies;
-
-      * that Proposal's Voting Period must be in progress;
-
-      * the ratio of the number of Active Senators whose signatures it
-        bears to the number of Active Senators whose signatures it
-        does not bear must exceed the Adoption Index of the Proposal;
-        and
-
-      * it must bear the signatures of at least two Senators.
-
-      When a Guillotine Application takes effect, the Voting Period
-      of the Proposal to which it applies immediately ends.  This Rule
-      takes precedence over all other Rules governing the Voting
-      Period of Proposals.
-
-History:
-Created by Proposal 3512 (Zefram), Jun. 16 1997
-Amended(1) by Proposal 4159 (Kelly), 5 June 2001
-
-----------------------------------------------------------------------
-
 Rule 1933/8 (Power=2)
 A Proposal's Chamber
 
@@ -3623,7 +3504,7 @@ Amended(2) by Proposal 4717 (Murphy), 25 April 2005
 
 ----------------------------------------------------------------------
 
-Rule 1764/12 (Power=1)
+Rule 1764/13 (Power=1)
 Modes of Voting
 
       There are three classes of Issues: Proposals, Elections, and
@@ -3664,8 +3545,11 @@ Modes of Voting
                either publicly or privately.
 
       (e) If the mode of voting is Private or Unrestricted, then the
-          status of any votes cast privately is secret until the
-          end of the voting period.
+          status of any votes cast privately is secret until the end
+          of the voting period.  Any player who knowingly reveals the
+          status of any vote to any player besides the Assessor
+          commits the Crime of Unlawful Vote Disclosure, a Class 5
+          Crime.
 
 [CFJ 1124, Judged TRUE Apr. 26 1999: "Votes sent to the
  agora-discussion mailing list are neither 'sent publically' nor 'sent
@@ -3685,35 +3569,9 @@ Amended(9) by Proposal 3972 (Peekee), Feb. 14 2000
 Amended(10) by Proposal 4053 (harvel), Aug. 21 2000
 Amended(11) by Proposal 4099 (Murphy), Jan. 15 2001
 Amended(12) by Proposal 4142 (Murphy), Apr. 15 2001
+Amended(13) by Proposal 4759 (Manu, Sherlock), 15 May 2005
 
 ----------------------------------------------------------------------
-
-Rule 1717/6 (Power=1)
-The Senate
-
-      A Senator is any Player who has been registered continuously for
-      the immediately preceding two months.
-
-      At any time during the Voting Period of an Issue which is not an
-      Ordinary Proposal, the Speaker may make it a Senate Vote, by
-      publicly stating so. An Issue is not a Senate Vote otherwise.
-
-      Only Senators can Vote on Senate Votes.  When an Issue becomes a
-      Senate Vote, all Votes cast on that Issue by non-Senators are
-      cancelled.
-
-History:
-Created by Proposal 3490 (Zefram), May 19 1997
-Amended(1) by Proposal 3693 (Steve), Feb. 26 1998
-Amended(2) by Proposal 3884 (harvel), Jul. 26 1999
-Amended(3) by Proposal 3891 (Blob), Aug. 9 1999
-Amended(4) by Proposal 3956 (harvel), Dec. 28 1999
-Amended(5) by Proposal 3980 (Steve), Mar. 1 2000
-Amended(6) by Proposal 4011 (Wes), Jun. 1 2000
-
-----------------------------------------------------------------------
-
-
 
 ======================================================================
 The End of the Voting Period
@@ -6449,18 +6307,6 @@ Amended(12) by Proposal 4672 (Manu), 9 April 2005
 
 ----------------------------------------------------------------------
 
-Rule 2056/0 (Power=1)
-Invisibilitating
-
-      Each player is authorised to report the Infraction of
-      Invisibilitating.
-
-History:
-Created by Proposal 4513 (Steve), 10 July 2003
-
-----------------------------------------------------------------------
-
-
 ======================================================================
 The Distributor
   This Category includes Rules concerning the Patent Title of
@@ -7713,24 +7559,6 @@ Amended(6) by Proposal 4556 (Goethe), 22 March 2004
 Amended(7) by Proposal 4614 (Goethe), 21 September 2004
 Amended(8) by Proposal 4642 (Murphy), 12 March 2005
 Amended(9) by Proposal 4708 (OscarMeyr), 18 April 2005
-
-----------------------------------------------------------------------
-
-Rule 651/2 (Power=1)
-Heroes
-
-      Let there be the Patent Title known as Hero, which shall be
-      awarded to those persons who gave outstanding service to Agora
-      Nomic or Nomics as a whole, but who are no longer Players or who
-      never were Players.  If a person Bearing the Patent Title of
-      Hero is registered as a Player, e shall cease to Bear that
-      Patent Title.
-
-History:
-Created by Proposal 651 (Wes), ca. Oct. 22 1993
-...
-Amended(1) by Proposal 4110 (Ziggy), Feb. 13 2001
-Amended(2) by Proposal 4173 (Goethe), 26 June 2001
 
 ----------------------------------------------------------------------
 
