@@ -21,15 +21,15 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 245 Rules:
+There are currently 242 Rules:
     1 with Power=4
    25 with Power=3
-   38 with Power=2
-  181 with Power=1
+   37 with Power=2
+  179 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2111
-Highest Rule Number assigned so far: 2111
+Highest current Rule Number:         2116
+Highest Rule Number assigned so far: 2116
 
 ======================================================================
 Table of Contents:
@@ -91,14 +91,14 @@ The Map of Agora
                               __/    /      |  |
             <- DSV          /      /        |  \
                         _   \      \_       |   \
-                  MORNINGTON CRESCENT ->    /    |      <- GREAT BARRIER REEF
+                  MORNINGTON CRESCENT ->    /    |  <- GOETHE BARRIER REEF
                  _ _/       |         \_/\_/     \
                 / \\ <- SHARK BAY      |         |
                /            |          |          \ <- TOWNSVILLE
             ___/            |          |           \_
          __/                |          |             |
         /                   |          |             \
-       /           O <- L. DISAPPOINTMENT            |/\
+       /           O <- SHERLOCK NESS  |             |/\
       |                     |          |               |_
       |                     |          |  EMERALD ->     \
       \                     |__________=_____,             \
@@ -111,17 +111,21 @@ The Map of Agora
           /    _/ \/             \ / /       |         /
          |_   /     <- ESPERANTO  v /__     |_        / <- CANBERRA
            \_/                         \    | \_    _|
-                                       |    |   \__/
-                                        \___=_  ___|
-                                 MELBOURNE -> \/
-
-                                            /\__
-                                            |   |
-                                             |  /
-                                             \_/ <- HOBART
+               __   __                 |    |   \__/
+              __ \ / __                 \___=_  ___|
+             /  \ | /  \        MANUBOURNE -> \/
+                 \|/
+            _,.---v---._                    /\__
+   /\__/\  /            \                   |   |
+   \_  _/ /              \                   |  /
+     \ \_|           @ __|                   \_/ <- HOBART
+      \                \_
+       \     ,__/       /
+     ~~~`~~~~~~~~~~~~~~/~~~~
 
 History:
 Created by Proposal 4735 (Maud), 5 May 2005
+Amended(1) by Proposal 4807 (Sherlock), 15 June 2005
 
 ----------------------------------------------------------------------
 
@@ -2301,31 +2305,8 @@ The Oligarchy
   Oligarchy.
 ----------------------------------------------------------------------
 
-Rule 1932/9 (Power=2)
+Rule 1932/10 (Power=2)
 Shareholders and the Corporation
-
-      The following Elements for Cards are defined:
-
-      * Shares [X], where X is a positive integer. The Holder is
-        considered to possess X shares (cumulative with any other
-        Cards).
-
-      The following Classes of Cards are defined:
-
-      * Caption: One Share
-        Elements: Budgeted, Shares [1], Handed [2]
-
-      * Caption: Two Shares
-        Elements: Budgeted, Shares [2], Handed [3]
-
-      * Caption: Three Shares
-        Elements: Budgeted, Shares [3], Handed [4]
-
-      * Caption: Corporate Bankruptcy
-        Quota: 1
-        Elements: Limited [Shareholders] [3]
-        Exploit: For a fee of 3 kudos, all Stock Cards are returned
-          to the Deck.
 
       All cards with the Element "Shares [X]" are cumulatively known
       as the Stock Cards.
@@ -2338,15 +2319,6 @@ Shareholders and the Corporation
       Holdings. A Plebeian is a Player who is not a Shareholder. The
       Corporation is the set of all Shareholders.
 
-      * Caption: Divide or Conquer Your Stock
-        Quota: 8
-        Elements: Restricted [Shareholders]
-        Exploit:  Specify one or more Share cards in your hand, and
-          one or more Share cards in the deck, such that both sets
-          consist of the same total number of Shares.  The specified
-          cards in your hand are transferred to the deck, and the
-          specified cards in the deck are transferred to your hand.
-
 History:
 Created by Proposal 3980 (Steve), Mar. 1 2000
 Amended(1) by Proposal 4084 (Steve), Nov. 9 2000
@@ -2358,6 +2330,7 @@ Amended(6) by Proposal 4576 (root), 31 May 2004
 Amended(7) by Proposal 4614 (Goethe), 21 September 2004
 Amended(8) by Proposal 4638 (root), 19 February 2005
 Amended(9) by Proposal 4668 (Quazie, Murphy), 9 April 2005
+Amended(10) by Proposal 4805 (Goethe, Manu), 20 June 2005
 
 ----------------------------------------------------------------------
 
@@ -4995,7 +4968,7 @@ Amended(1) by Proposal 4343 (Steve), 11 July 2002
 
 ----------------------------------------------------------------------
 
-Rule 408/16 (Power=1)
+Rule 408/17 (Power=1)
 Late Judgement
 
       For each Judge assigned to a CFJ, eir Deliberation Period begins
@@ -5008,10 +4981,11 @@ Late Judgement
       the Clerk of the Courts.
 
       During a Judge's Overtime Period, if e has not yet Judged the
-      CFJ, then the Clerk of the Courts may recuse the Judge by
-      announcing that e does so.  At the end of a Judge's Overtime
-      Period, if e has not yet Judged the CFJ, then e is automatically
-      recused.
+      CFJ, then the Clerk of the Courts may recuse em by announcement.
+
+      Upon the end of a Judge's Overtime Period, if e has not yet
+      Judged the CFJ, then the Clerk of the Courts shall recuse em by
+      announcement as soon as possible.
 
       A Judge recused according to this Rule commits the Infraction of
       Failure to Judge; the Class of this Infraction is Class 3 for an
@@ -5042,6 +5016,7 @@ Amended(13) by Proposal 4011 (Wes), Jun. 1 2000
 Amended(14) by Proposal 4076b (Steve), Oct. 10 2000
 Amended(15) by Proposal 4298 (Murphy), 17 May 2002
 Amended(16) by Proposal 4670 (OscarMeyr), 9 April 2005
+Amended(17) by Proposal 4808 (Murphy), 15 June 2005
 
 ----------------------------------------------------------------------
 
@@ -6458,41 +6433,195 @@ Cards
   This Category includes Rules regulating Cards.
 ----------------------------------------------------------------------
 
-Rule 2068/3 (Power=1)
+Rule 2068/4 (Power=1)
 The Deckmastor
 
-      The Deckmastor is an office which acts as the recordkeepor for
-      Cards. The Deckmastor's Weekly Report shall contain a record of
-      all Cards in existence and what entity possesses each Card.
+      The Deckmastor is an office whose responsibilities include
+      shuffling, dealing, and other random actions concerning cards,
+      and who acts as the recordkeepor for Cards.  The Deckmastor's
+      Weekly Report shall contain a record of all Cards in existence,
+      recent card actions, and what entity possesses each Card.
 
-      The Deckmastor shall have a budget containing the Maximum Hand
-      Size and the Minimum Hand Size, each of which is a positive
-      integer between 2 and 10, with the Minimum being less than the
-      Maximum. In the absence of a budget, the Maximum Hand Size shall
-      be 5 and the Minimum Hand Size shall be 2.
+      The Deck and the Discard Pile are Gamblers.  The Deckmastor
+      shall be the sole Executor of both entities, but may take no
+      action on behalf of them except as explicitly permitted by the
+      Rules.  The Deck and Discard Pile may not transfer cards to any
+      other entity except as explicitly required by the Rules.
 
-      The Deck and the Discard Pile are Gamblers. The Deckmastor shall
-      be the sole Executor of both entities, but may take no action on
-      behalf of them except as explicitly permitted by the Rules.  The
-      Deck and Discard Pile may not transfer cards to any other entity
-      except as explicitly required by the Rules.
+      Only the Deckmastor may create or destroy Cards, and e only may
+      do so when the rules require it.  The Deckmastor creates or
+      destroys a card by announcement, specifying as appropriate the
+      entity who now possesses it or previously possessed it.
 
-      Only the Deckmastor may create or destroy Cards not in eir Trial
-      Run, and e may do if and only if the Rules require it by
-      announcing the Card being created or destroyed and the entity
-      who either possesses it now or possessed it at the time of
-      destruction as appropriate.
+      If at any time fewer Copies of a defined Class of Cards exist
+      than its Quota, then the Deckmastor shall create a Copy of that
+      Card in the possession of The Deck, unless otherwise specified.
+      If at any time more Copies of a Class of Cards exist than its
+      Quota, then the Deckmastor shall destroy a Copy of that Card in
+      the possession of The Deck, unless no such Copies exist, in
+      which case the Deckmastor shall destroy a random Copy.
 
 History:
 Created by Proposal 4573 (Wes), 14 May 2004
 Amended(1) by Proposal 4614 (Goethe), 21 September 2004
 Amended(2) by Proposal 4694 (Goethe), 18 April 2005
 Amended(3) by Proposal 4734 (Sherlock), 5 May 2005
+Amended(4) by Proposal 4805 (Goethe, Manu), 20 June 2005
+
+----------------------------------------------------------------------
+
+Rule 2112/0 (Power=1)
+Deckmastor's Budget
+
+      The Deckmastor shall have a budget containing values for each of
+      the following:
+
+      (a) the Maximum Hand Size and the Minimum Hand Size, each of
+          which is a positive integer between 2 and 10, with the
+          Minimum being less than the Maximum. In the absence of a
+          budget, the Maximum Hand Size shall be 5 and the Minimum
+          Hand Size shall be 2.
+
+      (b) the Maximum Deck Size, which shall be no less than the
+          number of players in the game times the maximum hand size.
+
+      (c) the Maximum Deck Diversity, which shall be no less than
+          twice the number of players in the game.
+
+      If the Budget does not specify values for (a-c) above, or
+      specifies a value violating these limits, the value shall be the
+      smallest value that does not violate these limits.
+
+      The Deckmastor's Budget shall also contain a Quota, which is a
+      non-negative integer, for each defined class of Card.  If the
+      quota for a particular class of card is not specified in the
+      Budget, that card shall have a quota of 0.
+
+History:
+Created by Proposal 4805 (Goethe, Manu), 20 June 2005
+
+----------------------------------------------------------------------
+
+Rule 2113/0 (Power=1)
+Card Constraints
+
+      The following maxima exist for card frequencies:
+          (a) For a card with a unique frequency, one.
+          (b) For card with a rare frequency, the number of active
+              players.
+
+      If the current quota for a card class exceeds the maximum for
+      its defined frequency, then any Player may, with 2 support,
+      amend the Deckmastor's budget to set the card's quota to its
+      maximum.  When a card's frequency is defined or changed, and the
+      mechanism changing it does not specify a new quota, its quota is
+      set to the maximum for that frequency.
+
+      If at any time the sum of all quotas for all cards is greater
+      than the Maximum Deck Size, the Deckmastor may, with 2 support,
+      amend the budget by reducing quotas so that the resulting sum is
+      equal to this maximum.
+
+      If at any time the number of card classes with positive quotas
+      is greater than the Maximum Deck Diversity, the Deckmastor may,
+      with 2 support, amend the budget by setting quotas to 0 so that
+      the resulting number of card classes with positive quotas is
+      equal to this maximum.
+
+History:
+Created by Proposal 4805 (Goethe, Manu), 20 June 2005
+
+----------------------------------------------------------------------
+
+Rule 2114/0 (Power=1)
+Card Definitions
+
+      A Cardbook is a document, maintained by the Deckmastor, that is
+      specifically defined in the Rules as being a Cardbook.  The
+      Deckmastor must publish each cardbook as soon as possible after
+      its contents change, and at least once a month.  The contents of
+      a cardbook may only be changed as explicitly permitted by the
+      Rules.
+
+      The Deckmastor may change non-substantial properties of any
+      Cardbook, specifically layout, whitespace, and the order of
+      definitions, as e sees fit.
+
+      A class of card is considered defined if and only if a valid
+      definition for that card class exists in a cardbook.  A valid
+      card definition defines a Class of Card by specifying a Caption,
+      a Frequency, zero or more Elements, and zero or more Exploits.
+
+      (a) The Caption shall be the name of a particular Class of
+          Cards. No two Classes of Cards shall have the same Caption.
+
+      (b) The Frequency, which may have one of the following values:
+          Common, Rare, Unique.  If any other value is specified, the
+          frequency shall be considered to be Unique.
+
+      (c) A cardbook may define Elements for Cards. Each Element shall
+          have a name and a description. Any Card possessing the
+          Element of that name shall behave according to the
+          description associated with that Element. An Element not
+          defined in a cardbook has no effect.
+
+      (d) An Exploit is an action that the Holder of that Card (and
+          only the Holder of that Card) may take if and only if e
+          clearly indicates the card whose Exploit e is performing and
+          e meets the requirements and/or pays the costs outlined in
+          that Exploit. Any reference to "you," "your" or a similar
+          pronoun in the text of an Exploit refers to the Holder of
+          that Card. Taking an action described in an Exploit is known
+          as Playing the Card. Unless a Rule or card definition says
+          otherwise, a Card is automatically transferred to the
+          Discard Pile immediately after being Played.
+
+      All Cards of the same Class shall be identical and fungible.
+      Each individual instance of a Card shall be considered to be a
+      Copy of that Class of Card.
+
+      If there are conflicts between a card or element definition in a
+      cardbook and the Rules, then the conflict shall be resolved as
+      if the definition were contained in the text of the Rule that
+      defines the particular cardbook.
+
+      This Rule has precedence over any Rule describing the definition
+      or interpretation of card classes and card elements.
+
+History:
+Created by Proposal 4805 (Goethe, Manu), 20 June 2005
+
+----------------------------------------------------------------------
+
+Rule 2115/0 (Power=2)
+Cards of Power
+
+      There is a cardbook called the Twopower Cardbook, which may only
+      be changed by a Proposal with a power of 2 or greater.
+
+      If the definitions contained within the Twopower Cardbook would
+      set, under certain conditions, the power of a copy of a card
+      defined in it, then this Rule is considered to be the entity
+      that sets the power of that card copy.
+
+History:
+Created by Proposal 4805 (Goethe, Manu), 20 June 2005
+
+----------------------------------------------------------------------
+
+Rule 2116/0 (Power=1)
+Onepower Cardbook
+
+      There is a cardbook called the Onepower Cardbook, which may only
+      be changed by Proposal.
+
+History:
+Created by Proposal 4805 (Goethe, Manu), 20 June 2005
 
 ----------------------------------------------------------------------
 
 Rule 2069/6 (Power=1)
-Card Definitions
+Card Actions
 
       I. Possession
 
@@ -6507,44 +6636,7 @@ Card Definitions
       Hand Size is the number of Cards in eir Hand plus one for each
       Pending Draw for that Gambler.
 
-      II. Definitions
-
-      The Rules may define a Class of Card by specifying a Caption, a
-      Quota, zero or more Elements, and zero or more Exploits. All
-      Cards of the same Class shall be identical and fungible. Each
-      individual instance of a Card shall be considered to be a Copy
-      of that Class of Card.
-
-      (a) The Caption shall be the name of a particular Class of
-          Cards. No two Classes of Cards shall have the same Caption.
-
-      (b) The Quota shall be a non-negative integer. If at any time
-          fewer Copies of a Class of Cards exist than its Quota, then
-          the Deckmastor shall create a Copy of that Card in the
-          possession of The Deck. If at any time more Copies of a
-          Class of Cards exist than its Quota, then the Deckmastor
-          shall destroy a Copy of that Card in the possession of The
-          Deck, unless no such Copies exist, in which case the
-          Deckmastor shall destroy a random Copy.
-
-      (c) The Rules may define Elements for Cards. Each Element shall
-          have a name and a description. Any Card possessing the
-          Element of that name shall behave according to the
-          description associated with that Element. An Element not
-          defined in the Rules has no effect.
-
-      (d) An Exploit is an action that the Holder of that Card (and
-          only the Holder of that Card) may take if and only if e
-          clearly indicates the card whose Exploit e is performing and
-          e meets the requirements and/or pays the costs outlined in
-          that Exploit. Any reference to "you," "your" or a similar
-          pronoun in the text of an Exploit refers to the Holder of
-          that Card. Taking an action described in an Exploit is known
-          as Playing the Card. Unless a Rule says otherwise, a Card is
-          automatically transferred to the Discard Pile immediately
-          after being Played.
-
-      III. Actions
+      II. Actions
 
       No action involving Cards may be simultaneous with any other
       action. No such action may be performed more than once
@@ -6713,300 +6805,6 @@ Created by Proposal 4644 (root), 12 March 2005
 
 ----------------------------------------------------------------------
 
-Rule 2070/4 (Power=1)
-Card Powerz
-
-      The following Elements for Cards are defined:
-
-      * Budgeted: The Quota for this Card is determined in the
-        Deckmastor's budget. If the budget is undefined, or does not
-        set the Quota for this Card, then the Quota shall be 3.
-
-      * Handed [X], where X is a non-negative integer: When
-        calculating Hand Size, this Card counts as X Cards.
-
-      * Restricted [X], where X is a type of entity: Only entities
-        considered to be an X may Activate any Exploit possessed by
-        the Card.
-
-      * Limited [X] [Y], where X is a type of entity and Y is a
-        positive integer: For an entity not considered to be an X to
-        Activate any Exploit possessed by the Card requires em to pay
-        a Fee of Y.
-
-      * Persistent: Playing this Card does not result in its being
-        transferred to The Deck.
-
-      * Delayed[N]: You may not play this card if you have played a
-        copy of this card in the past N times 24 hours.
-
-      * Asleep[N]: No one may play a copy of this card if anyone has
-        played a copy of this card in the past N times 24 hours.
-
-      * Powered [X], where X is a positive integer: This Card has a
-        Power of X.  To Activate any Exploit possessed by this Card, a
-        Fee of X - 1 must be paid in addition to any other Fees
-        required to Activate that Exploit, unless that Exploit
-        explicitly specifies otherwise.
-
-History:
-Created by Proposal 4573 (Wes), 14 May 2004
-Amended(1) by Proposal 4614 (Goethe), 21 September 2004
-Amended(2) by Proposal 4620 (Goethe), 20 November 2004
-Amended(3) by Proposal 4631 (root), 19 December 2004
-Amended(4) by Proposal 4678 (Goethe), 18 April 2005
-
-----------------------------------------------------------------------
-
-Rule 2067/4 (Power=2)
-Cards in Play
-
-      The following Classes of Cards are defined:
-
-      * Caption: Distrib-u-Matic
-        Elements: Budgeted
-        Exploit: Cause any one Proposal to become Distributable.
-
-      * Caption: Absolv-o-Matic
-        Elements: Budgeted
-        Exploit: If you are immaculate, you may expunge
-          N blots from an entity for a fee of N-1.  Otherwise, you may
-          expunge one blot from an entity for no fee.
-
-      * Caption: Debate-o-Matic
-        Elements: Budgeted, Powered [2]
-        Exploit: Change the Chamber of any one non-Sane Proposal to
-          the Chamber of your choice, provided it is legal for that
-          Proposal to be in the named Chamber.
-
-      * Caption: Two for One
-        Elements: Budgeted
-        Exploit: For a fee of one Kudo make 2 undistributable
-          proposals, provided that each has a Distribution Cost of 1,
-          distributable.
-
-History:
-Created by Proposal 4569 (Wes), 2 May 2004
-Amended(1) by Proposal 4614 (Goethe), 21 September 2004
-Power changed from 1 to 2 by Proposal 4626 (Goethe), 20 November 2004
-Amended(2) by Proposal 4631 (root), 19 December 2004
-Amended(3) by Proposal 4682 (Goethe), 18 April 2005
-Amended(4) by Proposal 4687 (Quazie, Manu), 18 April 2005
-
-----------------------------------------------------------------------
-
-Rule 2071/7 (Power=1)
-Wacky Cards
-
-      The following Classes of Cards are defined:
-
-      * Caption: Albatross Flies Away
-        Quota: 1
-        Elements: Limited [Immaculate Players] [3]
-        Exploit: You may revoke one of your own Albatrosses.
-
-      * Caption: Dud
-        Elements: Budgeted, Persistent
-        Exploit: You may wish in your own mind that you had a
-          luckier Draw.
-
-      * Caption: Player Stasis
-        Quota: 1
-        Elements: None
-        Exploit: A Player of your choice is unable to Play a Card for
-          the next 88 hours.
-
-      * Caption: Hot Potato
-        Quota: 1
-        Elements: Persistent
-        Exploit: Transfer this Card to another entity. If that entity
-          does not post to a Public Forum the phrase "Hot Potato"
-          within 48 hours, they are guilty of the Class 1 Infraction
-          of Dropping the Potato which you are authorized to Report.
-
-      * Caption: It's a Surprise!
-        Quota: 1
-        Elements: Handed [2], Delayed [3]
-        Exploit: You may Draw two Cards without paying a Fee.
-
-      * Caption: Discard and Draw
-        Quota: 1
-        Elements: None
-        Exploit: Discard X cards from your hand.  For a fee of
-          X Kudos, draw X cards.  Do not include this card as
-          one of the discarded cards.
-
-      * Caption: Rebel Rabble
-        Elements: Budgeted,
-                  Restricted [Rebellious]
-        Exploit: For a fee of N Kudos, where N is the current number
-          of Rebellious Players, increase the effective number of
-          Rebellious Players by 1 for 10 days (which is one week
-          on the Revolutionary Calendar).  Count the day this Card
-          is played as day #1.
-
-      * Caption: Dud Development
-        Quota: 2
-        Elements: None
-        Exploit: You may discard X Dud Cards to draw X Cards for
-          free.
-
-      * Caption: Police State
-        Elements: Budgeted,
-                  Restricted [Abiding]
-        Exploit: For a fee of N Kudos, where N is the current number
-          of Rebellious Players, decrease the effective number of
-          Rebellious Players by 1 for seven days.  Count the day this
-          Card is played as day #1.
-
-      * Caption: Loot the Dead
-        Quota: 1
-        Exploit: You may indicate one silent player.  All of eir cards
-          are immediately discarded from their hand.
-
-History:
-Created by Proposal 4574 (Wes), 14 May 2004
-Amended(1) by Proposal 4607 (Goethe), 8 August 2004
-Amended(2) by Proposal 4611 (OscarMeyr), 10 September 2004
-Amended(3) by Proposal 4614 (Goethe), 21 September 2004
-Amended(4) by Proposal 4627 (root), 4 December 2004
-Amended(5) by Proposal 4666 (Quazie), 9 April 2005
-Amended(6) by Proposal 4709 (Manu), 18 April 2005
-Amended(7) by Proposal 4722 (Quazie), 25 April 2005
-
-----------------------------------------------------------------------
-
-Rule 2076/5 (Power=1)
-Card cards
-
-      The following classes of cards are defined:
-
-      Caption:  Your Turn
-      Elements: Budgeted
-      Exploit:  A Player you name must play or discard a card in the
-                next 72 hours, or commit the Class-1 Infraction of
-                Delay of Game, reportable by you.
-
-      Caption:  Discard Picking
-      Elements: Budgeted, Delayed[4]
-      Exploit:  If a copy of a card was played or discarded in the
-                past 72 hours, you may name it, and a copy of that
-                card, if one is still in the discard pile, is
-                automatically transferred from the discard pile to
-                your hand.
-
-      Caption:  Enforced Charity
-      Elements: Budgeted, Delayed[3]
-      Exploit:  A Player you name must transfer a card of eir choice
-                to you in the next 72 hours, or commit the Class-2
-                Infraction of Greed, reportable by you.
-
-      Caption:  Drop your Weapon
-      Elements: Budgeted
-      Exploit:  A card of your choice, from the Gambler of your
-                choice, is automatically Discarded, provided that
-                Gambler has a copy of that card.
-
-      Caption:  Presto!
-      Elements: Budgeted, Delayed[7]
-      Exploit:  A card of your choice, from the Gambler of your
-                choice, is automatically transferred to your hand,
-                provided that Gambler has a copy of that card.
-
-      Caption:  Reshuffle
-      Quota:    3
-      Elements: Asleep[15]
-      Exploit:  You may perform a Reshuffle.
-
-History:
-Created by Proposal 4620 (Goethe), 20 November 2004
-Amended(1) by Proposal 4678 (Goethe), 18 April 2005
-Amended(2) by Proposal 4694 (Goethe), 18 April 2005
-Amended(3) by Proposal 4714 (Quazie), 18 April 2005
-Amended(4) by Proposal 4744 (Quazie, root), 5 May 2005
-Amended(5) by Proposal 4799 (root), 15 June 2005
-
-----------------------------------------------------------------------
-
-Rule 2077/2 (Power=2)
-Democratic cards
-
-      The following Classes of Cards are defined:
-
-      * Caption:  Coalition
-        Elements: Grafty, Budgeted
-        Exploit:  You may increase or decrease the Voting Potential of
-                  an indicated Player by N by paying a fee of N for
-                  yourself, or 2 times N for another Player.
-
-      * Caption:  Patronage
-        Elements: Grafty, Budgeted, Powered [2]
-        Exploit:  You may increase or decrease the Political Charge by
-                  N by paying a fee of 4 times N.  If undefined
-                  elsewhere, the Political Charge is a positive
-                  integer, tracked by the Assessor, which begins at 4.
-                  No fee required by the Powered [X] element need be
-                  paid to activate this exploit.
-
-      * Caption:  Policy
-        Elements: Budgeted, Powered [2]
-        Exploit:  You may sanitize a Proposal, as described elsewhere
-                  in the Rules.
-
-      * Caption:  Procedure
-        Elements: Budgeted
-        Exploit:  You may abort and make undistributable any non-sane
-                  Proposal.
-
-History:
-Created by Proposal 4623 (Goethe), 20 November 2004
-Amended(1) by Proposal 4663 (root), 9 April 2005
-Power changed from 1 to 2 by Proposal 4675 (root), 13 April 2005
-Amended(2) by Proposal 4725 (root), 25 April 2005
-
-----------------------------------------------------------------------
-
-Rule 2079/3 (Power=1)
-Discord
-
-      The following classes of cards are defined:
-
-      Caption: Chaos Apple
-      Quota:   1
-      Elements: Handed[5], Delayed[7], Kallisti!
-      Exploit: If this card has not been played in the current
-               quarter, then you may simultaneously transfer all cards
-               that are not in the Deck or Discard Pile to a temporary
-               Gambler known as Fate.  As soon as possible after this
-               card is played, the Deckmastor shall then deal cards at
-               random from Fate to each Gambler until each Gambler has
-               the same number of cards as e had immediately before
-               Fate took a hand.  If, between the time this card is
-               Played and the time Fate's cards are dealt, exactly a
-               single Player publicly claims to be The Prettiest One,
-               the Deckmastor shall transfer this card to em as soon
-               as possible after Fate's cards are dealt.  The
-               Deckmastor is encouraged use Heisenberg's Law in
-               dealing hands from Fate.
-
-      Caption: Chaos Reborn
-      Quota:   1
-      Elements: Handed[2], Kallisti!
-      Exploit: If Chaos Apple has been Played in the current
-               quarter, then, you may play Chaos Apple within five
-               minutes of playing this card as if Chaos Apple did not
-               have the words "If this card has not been Played in the
-               current quarter" in its exploit.
-
-
-History:
-Created by Proposal 4630 (Goethe), 19 December 2004
-Amended(1) by Proposal 4703 (Quazie), 18 April 2005
-Amended(2) by Proposal 4729 (Quazie), 25 April 2005
-Amended(3) by Proposal 4744 (Quazie, root), 5 May 2005
-
-----------------------------------------------------------------------
-
 Rule 2080/3 (Power=1)
 Cards for Proposals
 
@@ -7022,57 +6820,6 @@ Created by Proposal 4635 (OscarMeyr), 23 January 2005
 Amended(1) by Proposal 4644 (root), 12 March 2005
 Amended(2) by Proposal 4753 (Sherlock), 5 May 2005
 Amended(3) by Proposal 4761 (root), 15 May 2005
-
-----------------------------------------------------------------------
-
-Rule 2084/3 (Power=1)
-Cash Cards
-
-      The following classes of cards are defined:
-
-      * Caption: Greedy Bastard
-        Elements: Budgeted
-        Exploit:  Gain one Kudo, but also gain the Albatross of Greed.
-
-      * Caption: Charity Brings Happiness
-        Elements: Budgeted
-        Exploit: For a fee of one Kudo you may indicate any other
-          player to gain one Kudo, as long as they have fewer Kudos
-          than you do and is not yourself.  Upon doing this you gain
-          the boon of Charity.
-
-      * Caption: Thieves in the Night
-        Element: Grafty, Delayed[5]
-        Exploit: Provided that fewer than half of all Players have a
-          Thieves in the Night card in their hand, and the player you
-          indicate does not have a Thieves in the Night card in their
-          hand, that player losses one Kudo and you gain one Kudo.
-          For each of the aforementioned stipulations that is false
-          upon the playing of this card, you gain the Albatross of
-          Thief.
-
-      * Caption: Instant Gratification
-        Elements: Restricted [Players with at least one Boon],
-                  Budgeted
-        Exploit: Indicate one of your own Boons.  You instantly lose
-          that Boon and gain 1 Kudo.
-
-      * Caption: Instant Punishment
-        Elements: Restricted [Players with at least one Albatross],
-                  Budgeted
-        Exploit: Indicate one of your own Albatrosses.  You instantly
-          lose that Albatross and Lose 1 Kudo.
-
-      * Caption: Instant Millionaire
-        Quota: 1
-        Exploit: Lose all of your Boons, but gain twice that number of
-          Kudos.
-
-History:
-Created by Proposal 4647 (Quazie), 22 March 2005
-Amended(1) by Proposal 4705 (Sherlock), 18 April 2005
-Amended(2) by Proposal 4711 (Quazie), 18 April 2005
-Amended(3) by Proposal 4714 (Quazie), 18 April 2005
 
 ----------------------------------------------------------------------
 
@@ -7094,31 +6841,6 @@ The New Raffle
 
 History:
 Created by Proposal 4692 (root), 18 April 2005
-
-----------------------------------------------------------------------
-
-Rule 2101/2 (Power=1)
-Library Cards
-
-      The following classes of cards are defined:
-
-      * Caption:  Library Renewal
-        Elements: Budgeted
-        Exploit:  You may indicate a number 1 through 5.  As soon as
-                  possible after you do this the Speaker must randomly
-                  discard that many cards from the Library's hand.  If
-                  there are fewer cards in the Library's hand then the
-                  number you indicate the Speaker must discard them
-                  all.
-
-      * Caption:  Library Card
-        Elements: Budgeted, Limited [Faculty Members][1]
-        Exploit:  Check a card out from the Library for no fee.
-
-History:
-Created by Proposal 4712 (Quazie), 18 April 2005
-Amended(1) by Proposal 4714 (Quazie), 18 April 2005
-Amended(2) by Proposal 4744 (Quazie, root), 5 May 2005
 
 ----------------------------------------------------------------------
 
@@ -7308,30 +7030,21 @@ Amended(1) by Proposal 4691 (root), 18 April 2005
 
 ----------------------------------------------------------------------
 
-Rule 2096/1 (Power=1)
-Card-Carrying Contracts
+Rule 2096/2 (Power=1)
+Ephemeral Time Limits
 
-      A Contract may be made into a Card-Carrying Contract by its
-      Notary acting with two support and without two objections.  A
-      player may only be Notary of one Card-Carrying Contract at a
-      time.
+      If an ephemeral patent title is earned between one week before
+      the end of the previous quarter and one week before the end of
+      the current quarter, then it must be awarded before the turning
+      of a new parchment.
 
-      A Card-Carrying Contract is a gambler, and may perform the
-      following actions only as explicitly permitted by its
-      regulations:
-
-      1.  As long as the Contract has at least three Members and its
-          hand size is less than the maximum hand size, it may draw a
-          number of cards each month equal to its number of Members at
-          the beginning of the month divided by two and rounded up.
-
-      2.  Transfer or discard cards.
-
-      A Card-Carrying Contract may not play cards.
+      The announcement that a proposal does not earn the proposer the
+      boon of tapecutter must also follow these time restrictions.
 
 History:
 Created by Proposal 4696 (Quazie), 18 April 2005
 Amended(1) by Proposal 4743 (Manu), 5 May 2005
+Amended(2) by Proposal 4805 (Goethe, Manu), 20 June 2005
 
 ----------------------------------------------------------------------
 
@@ -7656,29 +7369,35 @@ Amended(1) by Proposal 4671 (Goethe), 9 April 2005
 
 ----------------------------------------------------------------------
 
-Rule 2104/0 (Power=1)
+Rule 2104/1 (Power=1)
 Contreras Card Labs
 
       The University encourages Card experimentation.
 
-      A Player may publish a piece of text and note that it is a Card
-      Blueprint.  If this text contains a Caption, a copy of that Card
-      is created in the possession of the Library.  The Card Blueprint
-      may also specify Elements and Exploits, as defined by other
-      rules, and these are included on the Card in the same way they
-      would be if they were included on a rules-defined Card.
+      There is a cardbook called the Blueprints Cardbook, which may be
+      changed by Proposal, or as specified in this Rule.
 
-      Cards created by this method have a Quota of 1 and are
-      considered to be in eir Trial Run.  A Card in its Trial Run may
-      not be checked out of the Library until seven days have passed
-      since its creation.  Any player may destroy a Card in its Trial
-      Run by announcing e does so.
+      Any Player may, with support, add a Blueprint to the Blueprints
+      cardbook.  A Blueprint must be a valid card definition.
 
-      A Card in its Trial Run is transferred to the Library after it
-      is played.
+      Any card added in this manner shall have a quota of 0.
+
+      Any Player may, with support, remove a Blueprint with a quota of
+      0 from the Blueprints cardbook.
+
+      If a Blueprint has been in the Blueprints Cardbook for over four
+      days, any Player may change the quota of that Blueprint from 0
+      to 1 (if the card is unique) or from 0 to a number not greater
+      than the number of active Players (if the card is rare or
+      common), without three Objections.
+
+      If the quota of a card is changed in this manner, the Deckmastor
+      shall create one of the copies of that card in The Library
+      rather than in the Deck.
 
 History:
 Created by Proposal 4734 (Sherlock), 5 May 2005
+Amended(1) by Proposal 4805 (Goethe, Manu), 20 June 2005
 
 ----------------------------------------------------------------------
 
@@ -8193,28 +7912,30 @@ Groups and Contests
   This Category includes Rules regulating Groups and Contests.
 ----------------------------------------------------------------------
 
-Rule 2097/0 (Power=1)
-Card-Carrying Contests
+Rule 2097/1 (Power=1)
+Card-Carrying Contracts
 
-      A contest may be made into a Card-Carrying Contest by its
-      contestmaster acting with two support and without two
-      objections.  A player may only be contestmaster of one
-      card-carrying contest at a time.
+      A Contract may be made into a Card-Carrying Contract by its
+      Notary acting with two support and without two objections.  A
+      player may only be Notary of one Card-Carrying Contract at a
+      time.
 
-      A Card-Carrying Contest is a gambler, and may perform the
+      A Card-Carrying Contract is a gambler, and may perform the
       following actions only as explicitly permitted by its
       regulations:
-        1.  As long as the contest has at least three members and its
-            hand size is less than the maximum hand size, it may draw
-            a number of cards each month equal to its number of
-            members at the beginning of the month divided by two and
-            rounded up.
-        2.  Transfer or discard cards.
 
-      A Card-Carrying Contest may not play cards.
+      1.  As long as the Contract has at least three Members and its
+          hand size is less than the maximum hand size, it may draw a
+          number of cards each month equal to its number of Members at
+          the beginning of the month divided by two and rounded up.
+
+      2.  Transfer or discard cards.
+
+      A Card-Carrying Contract may not play cards.
 
 History:
 Created by Proposal 4700 (Goethe), 18 April 2005
+Amended(1) by Proposal 4805 (Goethe, Manu), 20 June 2005
 
 ----------------------------------------------------------------------
 
