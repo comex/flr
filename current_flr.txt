@@ -7964,3 +7964,5 @@ History:
 Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
+
+      [Last proposal with recorded effect on this ruleset: 4808]
