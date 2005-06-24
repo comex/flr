@@ -21,11 +21,11 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 246 Rules:
+There are currently 245 Rules:
     1 with Power=4
    25 with Power=3
    38 with Power=2
-  182 with Power=1
+  181 with Power=1
 
 Lowest current Rule Number:           101
 Highest current Rule Number:         2111
@@ -1010,29 +1010,13 @@ The Players
   This Category includes Rules defining and classifying Players.
 ----------------------------------------------------------------------
 
-Rule 869/15 (Power=1)
-Registered Players
+Rule 869/16 (Power=1)
+How to Join Agora
 
-      Any person who is not registered as a player may do so by
-      sending a message to a public forum announcing that e registers
-      as a player.  Unless other rules provide additional necessary
-      conditions for registration that have not been fulfilled or the
-      rules otherwise prohibit the person from registering, e
-      immediately becomes a registered player.
-
-      Readiness is a stuck player switch with values ready and
-      unready.
-
-      An unready player may flip eir readiness to ready.
-
-      Whenever a player registers, and that player has not previously
-      been registered as a player in Agora at any time within the 365
-      previous days, e becomes unready and is subject to a Grace
-      Period that begins at the time of eir registration and lasts
-      sixty days, not including Holidays.  A player is only subject to
-      the Grace Period resulting from eir own registration.
-
-      Whenever a Player's Grace Period concludes, e becomes Ready.
+      A person who is not currently registered as a player and is not
+      prohibited from registering may become a registered player by
+      sending a message to a public forum which sets forth eir intent
+      to register.
 
 [CFJ 805: "Person" here means a natural person, not a legal person
  (such as a corporation) or something named "person."
@@ -1059,37 +1043,31 @@ Amended(12) by Proposal 4430 (Cecilius), 16 January 2003
 Amended(13) by Proposal 4451 (Cecilius), 22 February 2003
 Amended(14) by Proposal 4523 (Murphy), 28 August 2003
 Amended(15) by Proposal 4693 (Maud), 18 April 2005
+Amended(16) by Proposal 4802 (Maud), 15 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 2094/0 (Power=1)
-Corporate Players
-
-      A collective of two or more persons (a Hive) none of whom is
-      currently registered as a player may jointly register as a
-      single player.  A Hive is subject to a Grace Period only if each
-      of its members would have been subject to a Grace Period had e
-      registered as an individual at the time the Hive registered.
-
-      This rule takes precedence over rule 869.
-
-History:
-Created by Proposal 4693 (Maud), 18 April 2005
-
-----------------------------------------------------------------------
-
-Rule 1677/12 (Power=1)
+Rule 1677/13 (Power=1)
 Honoring the New
 
-      As soon as possible after the beginning of a Player's Grace
-      Period, the Registrar shall announce eir Arrival.  This
-      Announcement shall have the effect of setting that Player's
+      Readiness is a stuck player switch with values unready and
+      ready.  A player may flip eir readiness to ready.
+
+      Whenever a player registers who has not been registered within
+      the previous year, e becomes unready and is subject to a Grace
+      Period beginning immediately and lasting for sixty days, not
+      including Holidays.  At the end of eir Grace Period, e becomes
+      ready.
+
+      As soon as possible after the beginning of a player's Grace
+      Period, the Registrar shall announce eir arrival.  This
+      announcement shall have the effect of setting that player's
       kudos to twice the Tabla Rasa.
 
-      If a Player joins the game, but is neither subject to a Grace
-      Period nor been a Player at any time since the last Turning of a
-      New Parchment, then the Herald shall set eir Kudos to half the
-      Tabla Rasa (rounded up).
+      If a player joins the game, but is neither subject to a Grace
+      Period nor has been a player at any time since the last Turning
+      of a New Parchment, then the Herald shall set eir kudos to half
+      the Tabla Rasa (rounded up).
 
 History:
 Created by Proposal 2757 (Swann), Nov. 28 1996
@@ -1106,6 +1084,7 @@ Amended(9) by Proposal 4155 (harvel), 18 May 2001
 Amended(10) by Proposal 4344 (Goethe), 11 July 2002
 Amended(11) by Proposal 4486 (Michael), 24 April 2003
 Amended(12) by Proposal 4520 (Goethe), 30 July 2003
+Amended(13) by Proposal 4802 (Maud), 15 June 2005
 
 ----------------------------------------------------------------------
 
@@ -2382,10 +2361,10 @@ Amended(9) by Proposal 4668 (Quazie, Murphy), 9 April 2005
 
 ----------------------------------------------------------------------
 
-Rule 1963/11 (Power=2)
+Rule 1963/12 (Power=2)
 Eligible Shareholders
 
-      A player is an eligible shareholder unless is not active, has
+      A player is an eligible shareholder unless e is not active, has
       three or more blots, or is the Speaker.
 
 History:
@@ -2401,6 +2380,7 @@ Amended(8) by Proposal 4568 (Maud), 27 April 2004
 Amended(9) by Proposal 4576 (root), 31 May 2004
 Amended(10) by Proposal 4614 (Goethe), 21 September 2004
 Amended(11) by Proposal 4798 (Maud, Goethe), 6 June 2005
+Amended(12) by Proposal 4804 (Maud), 15 June 2005
 
 ----------------------------------------------------------------------
 
@@ -6896,7 +6876,7 @@ Amended(7) by Proposal 4722 (Quazie), 25 April 2005
 
 ----------------------------------------------------------------------
 
-Rule 2076/3 (Power=1)
+Rule 2076/5 (Power=1)
 Card cards
 
       The following classes of cards are defined:
@@ -6933,14 +6913,6 @@ Card cards
                 choice, is automatically transferred to your hand,
                 provided that Gambler has a copy of that card.
 
-      Caption:  Not Your Turn
-      Elements: Budgeted, Delayed[2]
-      Exploit:  You may specify a card play that has occurred
-                in the past 48 hours, and (1) that card shall be
-                deemed to have not been played, and (2) the gambler
-                who originally played that card may not play a copy
-                of that card for the next 72 hours.
-
       Caption:  Reshuffle
       Quota:    3
       Elements: Asleep[15]
@@ -6952,6 +6924,7 @@ Amended(1) by Proposal 4678 (Goethe), 18 April 2005
 Amended(2) by Proposal 4694 (Goethe), 18 April 2005
 Amended(3) by Proposal 4714 (Quazie), 18 April 2005
 Amended(4) by Proposal 4744 (Quazie, root), 5 May 2005
+Amended(5) by Proposal 4799 (root), 15 June 2005
 
 ----------------------------------------------------------------------
 
@@ -7924,10 +7897,10 @@ Amended(13) by Proposal 4798 (Maud, Goethe), 6 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 1658/5 (Power=1)
+Rule 1658/6 (Power=1)
 The Speaker we do Taint
 
-      The person holding the position of Speaker is untained as long
+      The person holding the position of Speaker is untainted as long
       as e holds that position lawfully.
 
 History:
@@ -7937,6 +7910,7 @@ Amended(2) by Proposal 3823 (Oerjan), Jan. 21 1999
 Amended(3) by Proposal 3972 (Peekee), Feb. 14 2000
 Amended(4) by Proposal 4147 (Wes), 13 May 2001
 Amended(5) by Proposal 4798 (Maud, Goethe), 6 June 2005
+Amended(6) by Proposal 4804 (Maud), 15 June 2005
 
 ----------------------------------------------------------------------
 
