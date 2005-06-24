@@ -21,15 +21,15 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 265 Rules:
+There are currently 246 Rules:
     1 with Power=4
    25 with Power=3
-   41 with Power=2
-  198 with Power=1
+   38 with Power=2
+  182 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2110
-Highest Rule Number assigned so far: 2110
+Highest current Rule Number:         2111
+Highest Rule Number assigned so far: 2111
 
 ======================================================================
 Table of Contents:
@@ -286,57 +286,6 @@ Amended(3) by Proposal 3452 (Steve), Apr. 7 1997, substantial
 Amended(4) by Proposal 3915 (harvel), Sep. 27 1999
 Power changed from 1 to 3 by Proposal 4507 (Murphy), 20 June 2003
 Amended(5) by Proposal 4507 (Murphy), 20 June 2003
-
-----------------------------------------------------------------------
-
-Rule 1497/8 (Power=1)
-Truth in Advertising
-
-      Any Player who willfully makes a false statement of fact as part
-      of evidence submitted in support of a Claim of Error, Call for
-      Judgement, or Judgement, or in response to a Judicial or
-      Appellate Order requiring that Player to disclose information
-      known to that Player, commits the Class 10 Crime of Perjury.
-
-      Any Player who willfully makes a false statement of fact as part
-      of a public message, as any part of a response to a request for
-      information where that Player was required to respond, or as
-      part of a message to an Officer upon which that Officer is then
-      required to act, commits the Class 4 Crime of Misrepresentation.
-
-      For the purposes of this Rule, the Speaker shall be considered
-      an Officer.
-
-      For the purpose of this Rule, for a Player to "willfully make a
-      false statement of fact", all of the following conditions must
-      be true at the time the Player makes the statement.
-
-        a) The Player must present the statement as if it were true.
-
-        b) The Player must know that the statement is false.  In
-           particular, the following things are not willful: excusable
-           negligence, reasonable error, or reasonable reliance on the
-           representations of another.
-
-        c) The statement is not a conclusion as to the interpretation
-           of the Rules, or as to their application to a particular
-           situation.
-
-[CFJ 827: If it is not clear that information is *not* presented
- as correct, it is.  Attempting an illegal move can, if the Player
- reports the move and knows it to be illegal, be a violation of this
- Rule.]
-
-History:
-Created by Proposal 1667, Aug. 18 1995
-Infected and Amended(1) by Rule 1454, Dec. 10 1995
-Amended(2) by Proposal 2043, Dec. 11 1995
-Amended(3) by Proposal 2548, Mar. 22 1996
-Amended(4) by Proposal 2614, Jun. 1 1996
-Amended(5) by Proposal 3897 (harvel), Aug. 27 1999
-Amended(6) by Proposal 4147 (Wes), 13 May 2001
-Amended(7) by Proposal 4148 (Kelly), 13 May 2001
-Amended(8) by Proposal 4273 (Murphy), 22 March 2002
 
 ----------------------------------------------------------------------
 
@@ -1289,11 +1238,14 @@ Amended(5) by Proposal 4011 (Wes), Jun. 1 2000
 
 ----------------------------------------------------------------------
 
-Rule 1042/21 (Power=1)
+Rule 1042/22 (Power=1)
 Deregistration Due to Silence
 
       Noisiness is a stuck player switch with values noisy, quiet, and
       silent.
+
+      The noisiness of an active player may not be changed if e has
+      posted to a public forum in the past 120 hours.
 
       A non-noisy player becomes noisy whenever e posts to a public
       forum.
@@ -1341,10 +1293,11 @@ Amended(18) by Proposal 4407 (Steve), 30 October 2002
 Amended(19) by Proposal 4424 (Steve), 16 December 2002
 Amended(20) by Proposal 4523 (Murphy), 28 August 2003
 Amended(21) by Proposal 4758 (Quazie), 15 May 2005
+Amended(22) by Proposal 4791 (Quazie), 6 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 2036/1 (Power=1)
+Rule 2036/2 (Power=1)
 The Silent Treatment
 
       (a) The publication of a Notice of Abandonment commences the
@@ -1352,15 +1305,15 @@ The Silent Treatment
 
       (b) The requirement to perform the actions described in this
           Rule is subject to the Notice of Abandonment remaining
-          valid. If at any time during the Silent Treatment the Notice
-          of Abandonment is invalid, then the Treatment is terminated,
+          valid. If at any time during the Silent Treatment the of
+          Abandonment is invalid, then the Treatment is terminated,
           and the Registrar is relieved of all powers and
           responsibilities regarding it.
 
       (c) As soon as possible after the commencement of the Silent
           Treatment, the Registrar shall:
 
-          (1) publically confirm whether the Notice of Abandonment was
+          (1) publicly confirm whether the Notice of Abandonment was
               valid at the commencement of the Silent Treatment, and
               whether it remains valid;
 
@@ -1376,8 +1329,9 @@ The Silent Treatment
           Registrar shall, as soon as possible, publish in all
           designated Public Fora, and send to each listed e-mail
           address of the player, a Notice of Deregistration,
-          identifying the player being deregistered (the same as in
-          the Notice of Abandonment). A Notice of Deregistration is
+          identifying the player being deregistered (as in the Notice
+          of Abandonment). The only player so far to have returned to
+          the game after becoming a zombie is Oerjan. The Notice is
           valid if and only if it is published by the Registrar,
           following the procedures described in this Rule.
 
@@ -1385,9 +1339,7 @@ The Silent Treatment
           following events occur in order:
 
           (1) if the player identified in the Notice of Deregistration
-              is the Speaker, e commits the Class 15 Crime of Speaker
-              Abandonment; e ceases to be Speaker, and the
-              Speaker-Elect becomes Speaker;
+              is the Speaker, e ceases to be Speaker;
 
           (2) the player identified in the Notice of Deregistration is
               deregistered;
@@ -1397,6 +1349,7 @@ The Silent Treatment
 History:
 Created by Proposal 4407 (Steve), 30 October 2002
 Amended(1) by Proposal 4511 (Murphy), 10 July 2003
+Amended(2) by Proposal 4798 (Maud, Goethe), 6 June 2005
 
 ----------------------------------------------------------------------
 
@@ -1426,110 +1379,6 @@ History:
 Created by Proposal 3705 (Crito), Mar. 9 1998
 Amended(1) by Proposal 4099 (Murphy), Jan. 15 2001
 Amended(2) by Proposal 4147 (Wes), 13 May 2001
-
-----------------------------------------------------------------------
-
-Rule 1755/6 (Power=1)
-No Non-Player Responsibilities
-
-      Whenever a player is deregistered, e ceases to be a candidate,
-      officer, judge, or in general to occupy any role or position to
-      which the rules assign any duties or powers.  No one who is not
-      registered may occupy such a role or position, unless at least
-      one of the rules defining the role or position explicitly
-      indicate it may be occupied by a nonplayer.
-
-      Bearing a Patent Title shall not be deemed to be occupying a
-      role or position.
-
-      This rule shall not act to prevent a nonplayer from registering,
-      calling for judgement, or otherwise doing things that nonplayers
-      are generally able to do.
-
-History:
-Created by Proposal 3622 (elJefe), Dec. 9 1997
-Amended(1) by Proposl 3853 (Blob), Apr. 19 1999
-Amended(2) by Proposal 3896 (Elysion), Aug. 27 1999
-Amended(3) by Proposal 4048 (Peekee), Aug. 15 2000
-Amended(4) by Proposal 4099 (Murphy), Jan. 15 2001
-Amended(5) by Proposal 4110 (Ziggy), Feb. 13 2001
-Amended(6) by Proposal 4211 (harvel), 10 September 2001
-
-----------------------------------------------------------------------
-
-Rule 1841/6 (Power=1)
-Granting Power of Attorney
-
-      (a) A Player (the Grantor) who has been continuously registered
-          for more than two months is empowered to give eir Power of
-          Attorney (PoA) to another Player (the Holder), as specified
-          in this Rule.
-
-      (b) The Holder holds the Grantor's PoA if all of the following
-          conditions are met:
-          (1) the Grantor has announced that e grants eir PoA to the
-              Holder;
-          (2) the Holder has, in the week immediately preceding or
-              immediately following the Grantor's announcement,
-              publically consented to hold the Grantor's PoA;
-          (3) the Holder is Active; and
-          (4) the grant of PoA has not been withdrawn for any of the
-              reasons listed in (d).
-
-      (c) The grant of PoA commences at the time the Grantor grants
-          eir PoA to the Holder, or at the time the Holder consents to
-          the grant, or at the time specified by the Grantor,
-          whichever is latest. If the Grantor specifies a time at
-          which the grant of PoA is to commence, it must be a time no
-          more than seven days from the Grantor's announcement. Later
-          specifications are without effect for the purposes of this
-          Rule.
-
-      (d) The grant of PoA is withdrawn if:
-          (1) the period of the grant specified by the Grantor
-              expires;
-          (2) the Grantor publically withdraws the grant;
-          (3) the Grantor is deregistered;
-          (4) the Holder ceases to be active or is deregistered; or
-          (5) the Holder has held the PoA continuously for three
-              months.
-
-      (e) Nothing in this Rule shall be construed as preventing other
-          Rules from granting and withdrawing PoA by other means.
-
-      (f) Other Rules to the contrary notwithstanding, no Player who
-          has granted PoA to another Player as described in this rule
-          shall be deregistered while the grant of PoA is in effect.
-
-History:
-Created by Proposal 3739 (Swann), May 3 1998
-Amended(1) by Proposal 4011 (Wes), Jun. 1 2000
-Amended(2) by Proposal 4147 (Wes), 13 May 2001
-Amended(3) by Proposal 4190 (Steve), 18 July 2001
-Amended(4) by Proposal 4211 (harvel), 10 September 2001
-Amended(5) by Proposal 4278 (harvel), 3 April 2002
-Amended(6) by Proposal 4656 (Quazie), 29 March 2005
-
-----------------------------------------------------------------------
-
-Rule 1842/1 (Power=1)
-Power of Attorney
-
-      (a) The Rules may grant a Player, called the Holder, Power of
-          Attorney for another Player, called the Grantor. Power of
-          Attorney is granted only as specified by the Rules, and
-          shall last only as long as the Rules specify.
-
-      (b) While the Holder is granted Power of Attorney for the
-          Grantor, the Holder is an Executor of the Grantor, and the
-          Prime Executor of the Grantor.
-
-      (c) No Player is permitted to have Power of Attorney for more
-          than two other Players.
-
-History:
-Created by Proposal 3739 (Swann), May 3 1998
-Amended(1) by Proposal 4190 (Steve), 18 July 2001
 
 ----------------------------------------------------------------------
 
@@ -2237,50 +2086,62 @@ Amended(11) by Proposal 4461 (Maud), 17 March 2003
 
 ----------------------------------------------------------------------
 
-Rule 1664/28 (Power=2)
+Rule 1664/29 (Power=2)
 Rebellion
 
-      A Rebellious player may Call for a Revolt at any time by
-      publicly announcing e does so. A Call for Revolt is only
-      effective if no other Call for Revolt has been made that week
-      and no successful Revolt has occurred for a month or more.
+      A Call for Revolt is a notice submitted by a player (the
+      Agitator) which alleges, roughly, that the current government is
+      corrupt, oppressive and self-serving, that rather than watching
+      over the people it is watching the people, that action must be
+      taken, and furthermore asserts that we do not need a key,
+      because we can break in.  The Call is valid only if:
 
-      As soon as possible after an effective Call for Revolt has been
-      posted, the Registrar must determine whether the Revolt
-      succeeds, as outlined below, and publicly announce the result.
+      (a) the Agitator was rebellious when e submitted the Call;
 
-      The Registrar shall select a random integer from 1 to the number
-      of players (plus 1 if Miscreant is Borne). If this number is
-      less than or equal to the number of Rebellious players (plus
-      1 if Miscreant is Borne by a Rebellious player), then the
-      Revolt succeeds; otherwise it fails. All numbers used in this
-      calculation are determined at the time of the Call for Revolt.
+      (b) no other Call has been made during the same week; and
 
-      If a Revolt succeeds, then the following events occur in order:
+      (c) no Revolt has been successful for the previous thirty days.
 
-         - The Registrar shall expunge the Blots of each Rebellious
-           player
-         - The Registrar shall grant the ephemeral Patent Title Rebel
-           Hero to each Rebellious player.
-         - All Stock Cards in the possession of Abiding Players are
-           returned to the Deck, and the initiative of each Abiding
-           Player is set to Gote.
-         - Each Abiding player that is the Electee to an Office is
-           retired from that Office.
-         - All Rebellious players become Abiding again
-         - If the Speaker is not Rebellious, A Speaker Transition
-           occurs
+      As soon as possible after a valid Call for Revolt has been
+      submitted, the Registrar shall perform the following events in
+      order:
 
-      If a Revolt does not succeed, then:
+      (a) select a random integer from 1 to the number of players
+          (plus 1 if a player bears Miscreant);
 
-         - All Rebellious players gain 2 Blots.
-         - The player who Called for Revolt gains 2 (additional) Blots
+      (b) if the selected number is less than or equal to the number
+          of rebellious players (plus 1 if a rebellious player bears
+          Miscreant), then:
 
-      The effects of a Call for Revolt shall be based on the Political
-      Status of players at the time of the Call.
+          (1) announce that the Revolt succeeds;
 
-      The Registrar shall notify the Herald of all Blots gained or
-      expunged as a result of this Rule.
+          (2) expunge the blots of each rebellious player;
+
+          (3) grant the ephemeral patent title Rebel Hero to each
+              rebellious player;
+
+          (4) set the initiative of each abiding player to Goethe, and
+              return all stock cards held by abiding players to the
+              Deck;
+
+          (5) retire each abiding electee from office; and
+
+          (6) flip each rebellious player's orthodoxy to abiding;
+
+          otherwise:
+
+          (1) announce that the Call for Revolt has failed;
+
+          (2) assess each rebellious player 2 blots; and
+
+          (3) assess the Agitator an additional 2 blots.
+
+      The effects of a Call for Revolt shall be based on the orthodoxy
+      of players at the time the Call was submitted.
+
+      The Registrar shall notify the Herald of all blots gained or
+      expunged as a result of this rule, and is empowered to perform
+      the actions this rule would require em to perform.
 
 History:
 Created by Proposal 2717, Oct 23 1996
@@ -2313,6 +2174,7 @@ Amended(25) by Proposal 4576 (root), 31 May 2004
 Amended(26) by Proposal 4624 (Goethe), 20 November 2004
 Amended(27) by Proposal 4686 (Quazie), 18 April 2005
 Amended(28) by Proposal 4691 (root), 18 April 2005
+Amended(29) by Proposal 4798 (Maud, Goethe), 6 June 2005
 
 ----------------------------------------------------------------------
 
@@ -2378,14 +2240,14 @@ Amended(4) by Proposal 4527 (Murphy), 16 September 2003
 
 ----------------------------------------------------------------------
 
-Rule 1975/6 (Power=1)
+Rule 1975/7 (Power=1)
 The Associate Director of Personnel
 
       The Associate Director of Personnel (ADoP) is an office; its
       holder is recordkeepor for offices and the Speaker and is
       responsible for holding elections for offices.
 
-      The ADoP's Bi-Weekly Report shall include:
+      The ADoP's Weekly Report shall include:
 
       (a) a list of all offices;
 
@@ -2400,8 +2262,7 @@ The Associate Director of Personnel
           that office ends, or an indication that the office is held
           in perpetuity;
 
-      (e) the identity of the Speaker, and the date of the next
-          quarterly Speaker transition.
+      (e) the identity of the Speaker.
 
 History:
 Created by Proposal 4142 (Murphy), Apr. 15 2001
@@ -2411,6 +2272,7 @@ Amended(3) by Proposal 4267 (root), 22 March 2002
 Amended(4) by Proposal 4576 (root), 31 May 2004
 Amended(5) by Proposal 4768 (root), 25 May 2005
 Amended(6) by Proposal 4769 (Sherlock), 25 May 2005
+Amended(7) by Proposal 4798 (Maud, Goethe), 6 June 2005
 
 ----------------------------------------------------------------------
 
@@ -2520,15 +2382,11 @@ Amended(9) by Proposal 4668 (Quazie, Murphy), 9 April 2005
 
 ----------------------------------------------------------------------
 
-Rule 1963/10 (Power=2)
+Rule 1963/11 (Power=2)
 Eligible Shareholders
 
-      A Player is an Eligible Shareholder unless:
-
-      (1) e is not active;
-      (2) e has three or more Blots;
-      (3) e is the Speaker; or
-      (4) e is the Speaker-Elect.
+      A player is an eligible shareholder unless is not active, has
+      three or more blots, or is the Speaker.
 
 History:
 Created by Proposal 01-005 (Steve), Feb. 2 2001
@@ -2542,6 +2400,7 @@ Amended(7) by Proposal 4555 (Elysion), 22 March 2004
 Amended(8) by Proposal 4568 (Maud), 27 April 2004
 Amended(9) by Proposal 4576 (root), 31 May 2004
 Amended(10) by Proposal 4614 (Goethe), 21 September 2004
+Amended(11) by Proposal 4798 (Maud, Goethe), 6 June 2005
 
 ----------------------------------------------------------------------
 
@@ -2753,20 +2612,6 @@ Adoption Indices
 
 History:
 Created by Proposal 4464 (root), 17 March 2003
-
-----------------------------------------------------------------------
-
-Rule 404/2 (Power=2)
-Legality of Proposals
-
-      No Rule shall have any effect which seeks to make the legality
-      of making a Proposal conditional upon its content.
-
-History:
-Created by Proposal 404 (Alexx), Sep. 3 1993
-Mutated from MI=1 to MI=2 by Proposal 2664, Sep. 12 1996
-Amended(1) by Proposal 2689, Oct. 3 1996
-Amended(2) by Proposal 2832 (Steve), Mar. 11 1997, substantial
 
 ----------------------------------------------------------------------
 
@@ -2984,18 +2829,6 @@ Amended(4) by Proposal 4702 (Goethe), 18 April 2005
 
 ----------------------------------------------------------------------
 
-Rule 2100/0 (Power=1)
-Promotor's Ex-Lax
-
-      The Promotor may make all proposals in the Proposal Pool
-      distributable without 4 objections and then paying a fee of
-      three Kudos.
-
-History:
-Created by Proposal 4710 (Quazie), 18 April 2005
-
-----------------------------------------------------------------------
-
 Rule 1770/16 (Power=1)
 Distributing Proposals
 
@@ -3170,7 +3003,7 @@ Amended(2) by Proposal 4751 (The Goddess Eris), 5 May 2005
 
 ----------------------------------------------------------------------
 
-Rule 2085/1 (Power=1)
+Rule 2085/2 (Power=1)
 Mute Exemption
 
       A Legislator who is Mute may, with two support, submit a body of
@@ -3181,12 +3014,13 @@ Mute Exemption
       As soon as possible after a Proposal with Mute Exemption passes,
       the Assessor shall expunge a number of Blots from the Proposer
       equal to the Adoption Index of the Proposal.  The Proposer shall
-      receive no Boons that may have awarded by other rules for the
-      passing of the Proposal.
+      receive no Boons that may have been awarded by other rules for
+      the passing of the Proposal.
 
 History:
 Created by Proposal 4649 (Quazie), 22 March 2005
 Amended(1) by Proposal 4704 (Quazie), 18 April 2005
+Amended(2) by Proposal 4797 (Maud), 6 June 2005
 
 ----------------------------------------------------------------------
 
@@ -3821,24 +3655,6 @@ Created by Proposal 3869 (General Chaos), May 24 1999
 
 ----------------------------------------------------------------------
 
-Rule 1561/2 (Power=2)
-Illegality of Bonus Clauses
-
-      Any Proposal which offers a bribe to a Player or Players to
-      vote either FOR or AGAINST a Proposal (either itself or another
-      Proposal) shall be completely without effect, even if it is
-      adopted, any Rule to the contrary notwithstanding.
-
-      Proposing a card with an element of Grafty is not considered
-      bribery.
-
-History:
-Created by Proposal 2449, Feb. 6 1996
-Amended(1) by Proposal 2627, Jul. 4 1996
-Amended(2) by Proposal 4640 (Quazie), 6 March 2005
-
-----------------------------------------------------------------------
-
 Rule 1690/0 (Power=1)
 Power of New Rules
 
@@ -3936,24 +3752,7 @@ Amended(19) by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
-Rule 1583/2 (Power=1)
-Proposal Penalties Halved for New Players
-
-      All penalties that are a direct result of voting on Proposals
-      are halved if the penalties are being applied to a Player during
-      that Player's Grace Period.
-
-      This Rule takes precedence over all other Rules pertaining to
-      penalties that are a direct result of voting.
-
-History:
-Created by Proposal 2477, Feb. 16 1996
-Amended(1) by Proposal 2755 (Swann), Nov. 28 1996, substantial
-Amended(2) by Proposal 3823 (Oerjan), Jan. 21 1999
-
-----------------------------------------------------------------------
-
-Rule 2095/1 (Power=1)
+Rule 2095/2 (Power=1)
 The Assessor's Boon Duties
 
       * If a Proposal passes, and that Proposal was submitted by a
@@ -3961,9 +3760,9 @@ The Assessor's Boon Duties
         shall award the Proposor the Boon of Prodigy, unless the
         Proposor has already received five or more such awards.
 
-      * If an Interested Democratic Proposal passes, and no Votes were
-        cast AGAINST it, then the Assessor shall award the Proposor
-        the Boon of Zeitgeist.
+      * If a Democratic Proposal passes, and no Votes were cast
+        AGAINST it, then the Assessor shall award the Proposor the
+        Boon of Zeitgeist.
 
       * If a proposal submitted on Guy Fawkes Day is adopted then the
         Assessor shall award the proposer the boon of a penny.
@@ -3971,6 +3770,20 @@ The Assessor's Boon Duties
 History:
 Created by Proposal 4696 (Quazie), 18 April 2005
 Amended(1) by Proposal 4761 (root), 15 May 2005
+Amended(2) by Proposal 4787 (Sherlock), 6 June 2005
+
+----------------------------------------------------------------------
+
+Rule 2111/0 (Power=1)
+Hard Ruleset Limits
+
+      If there are 300 or more Rules, and a Proposal is adopted that
+      would increase the total number of Rules, the Proposer commits
+      the Class 2 Infraction of Improper Rules Fattening, reportable
+      by anyone.
+
+History:
+Created by Proposal 4795 (Sherlock), 6 June 2005
 
 ----------------------------------------------------------------------
 
@@ -4355,20 +4168,6 @@ Amended(4) by Proposal 4071 (Steve), Sep. 14 2000
 Amended(5) by Proposal 4147 (Wes), 13 May 2001
 
 ----------------------------------------------------------------------
-
-Rule 2057/1 (Power=1)
-A Duty to Vote
-
-      When an election fails quorum, each eligible voter who did not
-      vote or declare emself present commits the Class 1 Infraction of
-      Apathy, to be reported by the vote collector.
-
-History:
-Created by Proposal 4514 (Murphy), 10 July 2003
-Amended(1) by Proposal 4524 (root), 28 August 2003
-
-----------------------------------------------------------------------
-
 
 ======================================================================
 Applications
@@ -5024,27 +4823,35 @@ Amended(3) by Proposal 4298 (Murphy), 17 May 2002
 
 ----------------------------------------------------------------------
 
-Rule 698/11 (Power=1)
+Rule 698/12 (Power=1)
 Always an Eligible Judge
 
-      (a) Each active player is eligible to judge a given CFJ, unless
-          a rule specifically makes em ineligible. Inactive players
-          are ineligible to judge CFJs.
+      (a) Each active player is eligible to judge a given Call for
+          Judgement (CFJ), unless a rule specifically makes em
+          ineligible.  A player who is inactive, unready, or silent is
+          ineligible to judge CFJs.
 
       (b) If the Clerk of the Courts is required to select a Judge,
           but after taking all other rules affecting eligibility into
           account, no player is eligible to judge that CFJ, then:
 
-          (1) All active non-barred players become eligible to judge
-              that CFJ.
-          (2) If there is still no player eligible to judge, then all
-              active barred players, other than the caller emself,
-              become eligible to judge that CFJ.
-          (3) If there is still no eligible Judge, then the game is in
-              serious trouble. My usual advice in such situations is
-              to panic, and run screaming for the hills.
+          (1) all ready, active, non-barred, non-silent players become
+              eligible to judge that CFJ; then
 
-      (c) This Rule takes precedence over other Rules concerning who
+          (2) if there is still no player eligible to judge, then all
+              ready, active, barred, non-silent players, other than
+              the caller emself, become eligible to judge that CFJ;
+
+          (3) if there is still no player eligible to judge, then all
+              active, non-silent players, other than the caller
+              emself, become eligible to judge that increasingly
+              annoying CFJ;
+
+          (4) if there is still no player eligible to judge, then
+              don't panic.  Somebody's bound to register someday; let
+              em deal with it.
+
+      (c) This rule takes precedence over other rules concerning who
           is and is not eligible to judge CFJs.
 
 History:
@@ -5061,19 +4868,7 @@ Amended(8) by Proposal 4278 (harvel), 3 April 2002
 Amended(9) by Proposal 4298 (Murphy), 17 May 2002
 Amended(10) by Proposal 4385 (Steve), 17 September 2002
 Amended(11) by Proposal 4424 (Steve), 16 December 2002
-
-----------------------------------------------------------------------
-
-Rule 2099/0 (Power=1)
-Spring Break
-
-      The Caller of any Call for Judgement made on March 21 is
-      eligible to judge that same CFJ, even if other Rules would make
-      em ineligible.  The Clerk of the Courts must choose the Caller
-      to be the Trial Judge of that CFJ.
-
-History:
-Created by Proposal 4701 (Goethe), 18 April 2005
+Amended(12) by Proposal 4798 (Maud, Goethe), 6 June 2005
 
 ----------------------------------------------------------------------
 
@@ -5105,34 +4900,6 @@ Amended(4) by Proposal 4563 (OscarMeyr), 6 April 2004
 Amended(5) by Proposal 4596 (Murphy), 4 July 2004
 Amended(6) by Proposal 4648 (Kolja), 22 March 2005
 Amended(7) by Proposal 4691 (root), 18 April 2005
-
-----------------------------------------------------------------------
-
-Rule 2035/2 (Power=2)
-The Unready and Unnoisy are Ineligible
-
-      While a player is unready, e is ineligible to be Judge of any
-      CFJ.
-
-      While a player is not noisy, e is ineligible to become Judge of
-      any CFJ.
-
-History:
-Created by Proposal 4397 (RedKnight), 17 October 2002
-Amended(1) by Proposal 4527 (Murphy), 16 September 2003
-Amended(2) by Proposal 4579 (Murphy), 15 June 2004
-
-----------------------------------------------------------------------
-
-Rule 2066/0 (Power=1)
-The Silent are Ineligible
-
-      When a Player becomes Silent, e becomes turned.
-
-      Whenever a Silent Player becomes unturned, e becomes turned.
-
-History:
-Created by Proposal 4564 (OscarMeyr), 6 April 2004
 
 ----------------------------------------------------------------------
 
@@ -5625,20 +5392,6 @@ Amended(3) by Proposal 3704 (General Chaos), Mar. 19 1998
 
 ----------------------------------------------------------------------
 
-Rule 1829/1 (Power=1)
-Refusal of Duty by the Speaker
-
-      If the Speaker is convicted of the Crime of Contempt by
-      Inaction, relating to a validly issued Order to Compel which was
-      directed at the position of Speaker, the Speaker becomes
-      Tainted.
-
-History:
-Created by Proposal 3704 (General Chaos), Mar. 19 1998
-Amended(1) by Proposal 3768 (Chuck), Jul. 22 1998
-
-----------------------------------------------------------------------
-
 Rule 1830/1 (Power=1)
 No Compulsion of Judges
 
@@ -5690,41 +5443,6 @@ Amended(2) by Proposal 2457, Feb. 16 1996
 Amended(3) by Proposal 2684, Oct. 3 1996
 Amended(4) by Proposal 3704 (General Chaos), Mar. 19 1998
 Amended(5) by Proposal 3768 (Chuck), Jul. 22 1998
-
-----------------------------------------------------------------------
-
-Rule 1500/6 (Power=1)
-Orders to Annotate SLCs
-
-      The Judge of any CFJ, the Statement of which alleges that an SLC
-      should be interpreted in a certain way, which is judged TRUE,
-      may, at eir discretion, issue an Order requiring the Maintainer
-      of that SLC to annotate the SLC in question with the Statement
-      of that CFJ.  Such an annotation, while it exists, shall guide
-      application of that SLC.
-
-      The Maintainer of that SLC may remove such an annotation only
-      if the SLC ceases to exist; if required to do so by a valid
-      Order; or if the original Order to Annotate is amended, stayed,
-      or vacated.  The Maintainer of an SLC may vacate an Order to
-      annotate that SLC Without Objection.  Annotations to an SLC may
-      not be modified in any way except as specified in this Rule.
-
-      If a Player believes that an annotation is no longer pertinent,
-      e may file, in the original CFJ from which the Order of
-      Annotation arises, a Motion to Vacate the Order of Annotation.
-      If such a Motion is granted, the Judge granting it shall Order
-      the original Order Vacated and shall Order the Maintainer of
-      that SLC to remove the annotation in question.
-
-History:
-Created by Proposal 1677, Aug. 22 1995
-Amended(1) by Proposal 1760, Oct. 21 1995
-Amended(2) by Proposal 2457, Feb. 16 1996
-Amended(3) by Proposal 2576, Apr. 21 1996
-Amended(4) by Proposal 2684, Oct. 3 1996
-Amended(5) by Proposal 3704 (General Chaos), Mar. 19 1998
-Amended(6) by Proposal 3768 (Chuck), Jul. 22 1998
 
 ----------------------------------------------------------------------
 
@@ -7671,7 +7389,7 @@ Amended(2) by Proposal 4728 (Murphy), 25 April 2005
 
 ----------------------------------------------------------------------
 
-Rule 2091/0 (Power=1)
+Rule 2091/1 (Power=1)
 The Office of Secretary of the University
 
       The Secretary of the University (SotU) is an office; its holder
@@ -7683,7 +7401,7 @@ The Office of Secretary of the University
 
       (b) A list of all active Book club selections;
 
-      (c) Each players Education.
+      (c) Each player's Education.
 
       (d) A list of who has checked out cards from the library.
 
@@ -7691,6 +7409,7 @@ The Office of Secretary of the University
 
 History:
 Created by Proposal 4669 (Quazie), 9 April 2005
+Amended(1) by Proposal 4796 (Maud), 6 June 2005
 
 ----------------------------------------------------------------------
 
@@ -8062,28 +7781,29 @@ Amended(2) by Proposal 4691 (root), 18 April 2005
 
 ----------------------------------------------------------------------
 
-Rule 2017/0 (Power=1)
+Rule 2017/1 (Power=1)
 Blots
 
-      A entity's Stain is a measure of that entity's cleanliness,
-      measured in Blots.  The Stain of each entity is at all times a
-      non-negative number.
+      The stain of an entity is an index measuring how unclean that
+      entity is.  An entity is immaculate, or squeaky clean, if its
+      stain is zero.
 
-      If the Rules state that an entity gains, is assessed, or is
-      penalised some number of Blots, then, as soon as possible after
-      the Herald is informed of the change, e shall record an increase
-      of that amount in the entity's Stain.  (If the entity was an
-      Unready Player at the time of the change, then the Herald shall
-      instead record an increase of half that amount.)
+      If an entity gains, is assessed, or is penalised a given number
+      of Blots, then as soon as possible after the Herald is informed,
+      either by emself or by others, of the change, e shall record an
+      increase in that entity's stain of that amount (or half that
+      amount if the entity is an unready player at the time of the
+      change).
 
-      If the Rules state that some number of a entity's Blots are
-      expunged, then, as soon as possible after the Herald is informed
-      of the change, e shall record a decrease of that amount in the
-      entity's Stain.  (If this would result in a negative Stain, then
-      it instead results in a Stain of zero.)
+      If some number of an entity's Blots are expunged, then as soon
+      as possible after the Herald is informed of the change, e shall
+      record a decrease of that amount in the entity's stain.  If this
+      would result in a negative stain, then it instead results in a
+      stain of zero.
 
 History:
 Created by Proposal 4272 (Murphy), 22 March 2002
+Amended(1) by Proposal 4798 (Maud, Goethe), 6 June 2005
 
 ----------------------------------------------------------------------
 
@@ -8100,45 +7820,34 @@ Amended(1) by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
-Rule 1962/4 (Power=1)
-Immaculate Players
-
-      An Immaculate Player is a Player whose Stain is zero.
-
-History:
-Created by Proposal 4102 (Murphy), Jan. 15 2001
-Amended(1) by Proposal 4110 (Ziggy), Feb. 13 2001
-Amended(2) by Proposal 4272 (Murphy), 22 March 2002
-Amended(3) by Proposal 4375 (RedKnight), 6 September 2002
-Amended(4) by Proposal 4453 (Sherlock), 22 February 2003
-
-----------------------------------------------------------------------
-
-Rule 1714/8 (Power=1)
+Rule 1714/9 (Power=1)
 Lawlessness
 
-      A Lawless Player is a Player with more than 20 Blots.
+      A player is lawless while e has more than 20 blots.
 
-      Any Player may at any time publicly allege that another Player
-      is Lawless.  If the allegation is incorrect, the Player who made
-      the allegation commits the Class 15 Crime of Persecution.
-      Otherwise, the following events occur in order:
+      A notice of lawlessness is an allegation by one player (the
+      Inquisitor) that a specified player (the Scofflaw) is lawless.
+      As soon as possible after the publication of such a notice, the
+      Herald shall publicly confirm or deny the allegation.
 
-        (i)  if the Lawless Player is the Speaker, the Speaker-Elect
-             immediately becomes Speaker, and the Lawless Player
-             ceases to be Speaker;
+      If the Herald confirms the allegation, then the following events
+      occur in order:
 
-       (ii)  the Lawless Player is removed from any Offices e holds;
-             and
+      (a) if the Scofflaw is the Speaker, e ceases to be Speaker;
 
-      (iii)  the Lawless Player is deregistered.
+      (b) the Scofflaw is removed from any offices e holds; and
 
-      If a Player is deregistered according to the provisions of this
-      Rule, e may not register again until a month has passed from eir
+      (c) the Scofflaw is deregistered.
+
+      If the Herald denies the allegation, then the Inquisitor should
+      be punished.  You know what to do.
+
+      If a player is deregistered according to the provisions of this
+      rule, e may not register again until a month has passed from eir
       deregistration.
 
-      This Rule takes precedence over any Rule that would prohibit a
-      Lawless Player from being deregistered.
+      This rule takes precedence over any Rule that would prohibit a
+      lawless player from being deregistered.
 
 [CFJ 1059: Rule 1714 should be interpreted such that an allegation of
  Lawlessness sent to the PF must contain an explicit declaration that
@@ -8155,74 +7864,7 @@ Amended(6) by Proposal 3990, "Harsher Blot Penalties", (Elysion),
   Mar. 30 2000
 Amended(7) by Proposal 4136 (harvel), Apr. 5 2001
 Amended(8) by Proposal 4272 (Murphy), 22 March 2002
-
-----------------------------------------------------------------------
-
-Rule 1747/7 (Power=1)
-Pardoning Lawlessness
-
-      The Clerk of the Courts has the power to Pardon Fugitives from
-      Justice that have been deregistered for Lawlessness.  The Clerk
-      may not exercise this power more than once per Agoran month, and
-      may not Pardon the same person twice in a given term of Office
-      (although, if re-elected later, e may again Pardon that person).
-      The Clerk of the Courts Pardons a Fugitive from Justice by
-      publicly announcing e is doing so. Then the following events
-      shall occur:
-
-         i) The Clerk of the Courts shall expunge as many of the
-            Fugitive's Blots as required to reduce eir Stain to one
-            less than the threshold for Lawlessness, and notify the
-            Herald of this action.
-
-        ii) After the above step has been completed, the Fugitive may
-            reregister as a Player.
-
-       iii) The Pardoned Player shall then publish a Formal Apology
-            for eir Lawlessness. The CotC may include a list of up to
-            ten Prescribed Words in eir Pardon.
-
-        iv) For three months after being Pardoned, the Pardoned Player
-            may not perform any Progressive Actions except expunging
-            Blots from eir record, unless e is Immaculate.
-
-      This Rule takes precedence over any Rule governing Lawlessness,
-      or when a deregistered Player may reregister.
-
-History:
-Created by Proposal 3586 (Vlad), Nov. 14 1997
-Amended(1) by Proposal 3823 (Oerjan), Jan. 21 1999
-Amended(2) by Proposal 3931 (Crito), Oct. 17 1999
-Amended(3) by Proposal 4038 (Oerjan), Aug. 7 2000
-Amended(4) by Proposal 4147 (Wes), 13 May 2001
-Amended(5) by Proposal 4272 (Murphy), 22 March 2002
-Amended(6) by Proposal 4398 (harvel), 23 October 2002
-Amended(7) by Proposal 4486 (Michael), 24 April 2003
-
-----------------------------------------------------------------------
-
-Rule 1439/10 (Power=1)
-Default Penalty for Violating a Rule
-
-      Violating a Rule is the Class N Crime of Disobedience, unless
-      other Rules define or prohibit a penalty for the violation.  N
-      is the Power of the violated Rule (rounded down to the nearest
-      integer), or 4, whichever is less.
-
-History:
-Created by Proposal 1460, Mar. 1 1995
-Amended(1) by Proposal 1674, Aug. 22 1995
-Amended(2) by Proposal 2879 (favor), Jan. 25 1997, substantial
-Amended(3) by Proposal 3476 (Oerjan), May 11 1997, substantial
-Amended(4) by Proposal 3489 (Zefram), May 19 1997, cosmetic,
-  (unattributed)
-Amended(5) by Proposal 3500 (Crito), Jun. 3 1997, substantial
-  (unattributed)
-Amended(6) by Proposal 3823, (Oerjan), Jan. 21 1999
-Amended(7) by Proposal 3901 (Schneidster), Sep. 6 1999
-Amended(8) by Proposal 3950 (harvel), Dec. 8 1999
-Amended(9) by Proposal 4406 (Murphy), 30 October 2002
-Amended(10) by Proposal 4486 (Michael), 24 April 2003
+Amended(9) by Proposal 4798 (Maud, Goethe), 6 June 2005
 
 ----------------------------------------------------------------------
 
@@ -8255,26 +7897,13 @@ Changing Speakers
   This Category includes Rules regulating changing the Speaker.
 ----------------------------------------------------------------------
 
-Rule 1647/12 (Power=1)
-The Speaker-Elect
+Rule 1647/13 (Power=1)
+The Asenion Solution
 
-      The Speaker-Elect is an office; its holder is usually the
-      Speaker's successor.
-
-      Whenever the Speaker-Elect becomes Speaker, e ceases to be
-      Speaker-Elect.  The Speaker can never hold the Office of
-      Speaker-Elect, nor be the Electee to the Office of
-      Speaker-Elect.  If the Speaker somehow becomes the Electee to
-      the Office of Speaker-Elect, e is immediately removed from that
-      Office.
-
-      When the Office of Speaker-Elect has no Electee, because of the
-      Speaker-Elect becoming Speaker (or for any other reason), the
-      Office is filled according to the Order of Succession, as
-      defined by other Rules.
-
-      This rule takes precedence over all other Rules defining the
-      characteristics of the Office of Speaker-Elect.
+      For seven days after a cardinal wins the game with no other
+      players simultaneously winning, that cardinal may announce that
+      e becomes a pope.  Upon this announcement, that player becomes a
+      pope, so please treat em right good forever.
 
 History:
 Created by Proposal 2661, Sep. 7 1996
@@ -8291,48 +7920,15 @@ Amended(9) by Proposal 4250 (harvel), 19 February 2002
 Amended(10) by Proposal 4429 (The Goddess Eris), 16 January 2003
 Amended(11) by Proposal 4576 (root), 31 May 2004
 Amended(12) by Proposal 4594 (Murphy), 4 July 2004
+Amended(13) by Proposal 4798 (Maud, Goethe), 6 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 1648/4 (Power=1)
-When the Speaker Is Tainted
+Rule 1658/5 (Power=1)
+The Speaker we do Taint
 
-      If the Rules require that a Speaker Transition occur, and there
-      is no Electee to the Office of Speaker-Elect, then the
-      Transition proceeds as set out in other Rules, but the new
-      Speaker is Tainted.
-
-      A Tainted Speaker remains Speaker only until there is an Electee
-      to the Office of Speaker-Elect, at which point, a Speaker
-      Transition occurs.
-
-History:
-Created by Proposal 2661, Sep. 7 1996
-Infected and Amended(1) by Rule 1454, Sep. 22 1996
-Amended(2) by Proposal 3452 (Steve), Apr. 7 1997, substantial
-Amended(3) by Proposal 3703 (Steve), Mar. 9 1998
-Amended(4) by Proposal 4071 (Steve), Sep. 14 2000
-
-----------------------------------------------------------------------
-
-Rule 1658/4 (Power=1)
-Tainting the Speaker
-
-      A Speaker shall become Tainted when a Referendum calling for the
-      Tainting of the Speaker passes. Any Active Player is authorized
-      to call such a Referendum at any time, by publicly requesting
-      such.
-
-      This Referendum must name the offending Speaker, and if that
-      Player is Speaker upon passage of this Referendum, that Speaker
-      is Tainted.
-
-      For this Referendum the default procedure for Referenda is
-      modified as follows:
-
-      * The Vote Collector is the Registrar
-      * Voters do not include the Speaker.
-      * The Adoption Index is 2.
+      The person holding the position of Speaker is untained as long
+      as e holds that position lawfully.
 
 History:
 Created by Proposal 2699, Oct. 10 1996
@@ -8340,22 +7936,43 @@ Amended(1) by Proposal 3746 (Blob), May 15 1998
 Amended(2) by Proposal 3823 (Oerjan), Jan. 21 1999
 Amended(3) by Proposal 3972 (Peekee), Feb. 14 2000
 Amended(4) by Proposal 4147 (Wes), 13 May 2001
+Amended(5) by Proposal 4798 (Maud, Goethe), 6 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 681/11 (Power=1)
-Giving Up Speakership
+Rule 681/12 (Power=1)
+Conditions for Conclavity
 
-      If the Speaker publicly announces that e is giving up the
-      Speakership voluntarily, e commits the Class 0.2 Infraction of
-      Resigning the Speakership, and a Speaker Transition occurs.
-      This Infraction is to be reported by the new Speaker once the
-      Transition is complete.
+      A conclave must be convened whenever any of the following events
+      occur:
 
-      When a Speaker voluntarily gives up the Speakership in this
-      manner, e is prevented from nominating emself for the Office of
-      Speaker-Elect for a period lasting two weeks, or until the
-      start of the next quarter, whichever is longest.
+      (a) the Speaker resigns the Speakership;
+
+      (b) the Speaker becomes inactive;
+
+      (c) the Herald confirms an allegation that the Speaker is
+          lawless;
+
+      (d) a valid notice of deregistration naming the Speaker is
+          published;
+
+      (e) the success of a Call for Revolt is announced, and the
+          Speaker was abiding at the time of the Call for Revolt, in
+          which case the rebellious cardinals are the only qualified
+          cardinals for the conclave;
+
+      (f) two or more cardinals simultaneously win the game, in which
+          case these cardinals are the only qualified cardinals for
+          the conclave;
+
+      (g) no pope has become Speaker in the past six months;
+
+      (h) a pope ceases to be pope without becoming Speaker; or
+
+      (i) a conclave has concluded with an inconclusive result.
+
+      So there's always hope
+      that you can be pope.
 
 History:
 Created by Proposal 681 (KoJen), ca. Oct. 29 1993
@@ -8372,56 +7989,68 @@ Amended(8) by Proposal 3532 (General Chaos), Jul. 15 1997, cosmetic
 Amended(9) by Proposal 3703 (Steve), Mar. 9 1998
 Amended(10) by Proposal 3897 (harvel), Aug. 27 1999
 Amended(11) by Proposal 4147 (Wes), 13 May 2001
+Amended(12) by Proposal 4798 (Maud, Goethe), 6 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 1375/8 (Power=1)
-Speaker Going On Hold
+Rule 786/14 (Power=1)
+Default Procedure for Conclaves
 
-      A Speaker who ceases to be active while e is still Speaker
-      commits the class 10 crime of Speaker Inactivity.
+      When the rules require that a conclave be convened, and no
+      competing conclave is currently convened, then as soon as
+      possible, the Associate Director of Personnel (ADoP) shall
+      announce that e convenes a conclave, specifying a collection of
+      cardinals and indicating that those cardinals are to convene a
+      conclave.  Provided that:
 
-      Whenever the Speaker is not active, a Speaker Transition occurs.
+      (a) the rules require that the conclave be convened;
 
-History:
-Created by Proposal 1375, Jan. 17 1995
-Amended(1) by Proposal 1428, Feb. 5 1995
-Amended(2) by Proposal 1682, Aug. 22 1995
-Amended(3) by Proposal 2442, Feb. 6 1996
-Amended(4) by Proposal 2661, Sep. 7 1996
-Amended(5) by Proposal 2831 (Murphy), Mar. 7 1997, cosmetic
-  (unattributed)
-Amended(6) by Proposal 3703 (Steve), Mar. 9 1998
-Amended(7) by Proposal 3897 (harvel), Aug. 27 1999
-Amended(8) by Proposal 4278 (harvel), 3 April 2002
+      (b) no competing conclave is currently convened; and
 
-----------------------------------------------------------------------
+      (c) the collection consists of qualified cardinals,
 
-Rule 786/13 (Power=1)
-Order of Succession for Speaker-Elect
+      then as of such an announcement, a conclave consisting of the
+      qualified cardinals is convened.  A cardinal is qualified for a
+      conclave unless the rules specify otherwise.
 
-      When the Office of Speaker-Elect is to be filled according to
-      the Order of Succession, that order is defined to be:
+      The first seven days following the convening of a conclave
+      constitute the posturing period.  During the posturing period, a
+      qualified cardinal may announce eir intent to become a pope.
+      Any other player may publicly support or revoke support for a
+      cardinal's claim until the posturing period ends.
 
-      the Promotor
-      the Registrar
-      the Rulekeepor
-      the Assessor
-      the Justiciar
-      the Clerk of the Courts
-      all Officers in order of most recent registration
-      all Active Players in order of most recent registration
+      As soon as possible after the posturing period ends, the ADoP
+      shall perform the following actions in order:
 
-      except that neither the Speaker nor any Unready Player appears
-      in the Order.  The Order of Succession is determined at the time
-      the Office is to be filled.
+      (a) E shall determine the cardinal club, which is the collection
+          of qualified cardinals with positive support from the
+          populace and at least as much unwithdrawn support as any
+          other qualified cardinal.
 
-      If there is ever no Electee for the Office of Speaker-Elect, the
-      Office shall be held by the Active Player highest in the order
-      of succession who has not publicly declined since there was last
-      an Electee to the Office of Speaker-Elect. If there is only one
-      Active Player in the order of succession who has not declined,
-      that Player may not decline.
+      (b) If the cardinal club has no members, e shall announce this
+          fact, and announce the conclave was inconclusive.
+
+      (c) If the cardinal club has at least one member, e shall select
+          one of its members to be pope, then publish the list of
+          members of the cardinal club, indicating which member is to
+          become a pope.  That member becomes a pope as of this
+          announcement.
+
+      The ADoP's announcement in (b) or (c) concludes the conclave.
+      If the conclave was inconclusive, eir announcement of this fact
+      shall constitute a valid call to conclave.  If the conclave has
+      not concluded within a fortnight from the time it was convened,
+      any player may announce that it is inconclusive; upon such an
+      announcement, the conclave shall conclude with an inconclusive
+      result, and a conclave must be convened.
+
+      If the office of ADoP is ever vacant, or the identity of its
+      holder cannot be determined with reasonable certainty, then the
+      first player who announces that e convenes a conclave, with eir
+      announcement adhering to the conditions for the ADoP's
+      announcement, shall then be permitted and required to perform
+      the actions that would have been required of the ADoP for that
+      conclave.
 
 History:
 Created by Proposal 786 (Chuck), ca. Dec. 20 1993
@@ -8439,32 +8068,27 @@ Amended(10) by Proposal 4049 (Elysion), Aug. 15 2000
 Amended(11) by Proposal 4071 (Steve), Sep. 14 2000
 Amended(12) by Proposal 4147 (Wes), 13 May 2001
 Amended(13) by Proposal 4155 (harvel), 18 May 2001
+Amended(14) by Proposal 4798 (Maud, Goethe), 6 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 402/11 (Power=1)
-Speaker Transition
+Rule 402/12 (Power=1)
+Church and State
 
-      Speaker Transition is a process which commences at the time the
-      Rules call for a Speaker Transition to occur, and which proceeds
-      as follows:
+      A cardinal is an active, ready player who is neither the current
+      Speaker nor the Associate Director of Personnel.
 
-      (i)   when the Speaker Transition commences, the Speaker loses
-            all special rights and privileges that accrue to em as a
-            result of being Speaker;
+      While there is a pope, no other player may become a pope.
+      Whenever a pope is not a cardinal, e ceases being a pope.
 
-      (ii)  as soon as possible after the Speaker Transition
-            commences, the Associate Director of Personnel shall
-            publish a Notice of Speaker Transition, identifying the
-            reason for the Transition and the Player who held the
-            Office of Speaker-Elect at the time the Transition
-            commenced;
+      A notice of papal succession declares that a specified player is
+      a pope.  The notice is valid only if it is published by the
+      Associate Director of Personnel and the specified player is
+      indeed a pope.
 
-      (iii) provided that the Notice of Speaker Transition is
-            correct in its particulars, the posting of the Notice
-            causes the Player identified in it to cease being the
-            Speaker-Elect and to become the Speaker. This concludes
-            the process of Speaker Transition.
+      Upon publication of a valid notice of papal succession, the
+      current Speaker ceases to be Speaker, the pope becomes the new
+      Speaker, and the pope ceases to be a pope.
 
 History:
 Created by Proposal 402 (Alexx), ca. Sep. 3 1993
@@ -8481,20 +8105,7 @@ Amended(8) by Proposal 4053 (harvel), Aug. 21 2000
 Amended(9) by Proposal 4147 (Wes), 13 May 2001
 Amended(10) by Proposal 4576 (root), 31 May 2004
 Amended(11) by Proposal 4768 (root), 25 May 2005
-
-----------------------------------------------------------------------
-
-Rule 1581/3 (Power=1)
-Quarterly Speaker Change
-
-      A Speaker Transition occurs upon the commencement of each
-      new quarter.
-
-History:
-Created by Proposal 2471, Feb. 16 1996
-Amended(1) by Proposal 2661, Sep. 7 1996
-Amended(2) by Proposal 2697, Oct. 10 1996
-Amended(3) by Proposal 3703, Mar. 9 1998
+Amended(12) by Proposal 4798 (Maud, Goethe), 6 June 2005
 
 ----------------------------------------------------------------------
 
