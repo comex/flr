@@ -21,11 +21,11 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 242 Rules:
+There are currently 232 Rules:
     1 with Power=4
    25 with Power=3
    37 with Power=2
-  179 with Power=1
+  169 with Power=1
 
 Lowest current Rule Number:           101
 Highest current Rule Number:         2116
@@ -4185,54 +4185,40 @@ Orders
   This Category includes Rules concerning Orders generally.
 ----------------------------------------------------------------------
 
-Rule 1793/0 (Power=1)
+Rule 1793/1 (Power=1)
 Orders
 
-      An Order is a command, executed by a Player and directed to some
+      An Order is a command, executed by a player and directed to some
       entity requiring that entity to perform exactly one action, or
       to refrain from performing one or more actions.
 
-      An Order may be directed to the holder of an Office or other
-      official position in eir capacity as that Office or other
-      official position, and in this case if the Office or position
+      An Order may be directed to the holder of an official position
+      in eir capacity in that official position, and if the position
       changes hands before the Order is satisfied, the duty to abide
       by the Order automatically attaches to the new holder of that
-      Office or position.
+      position.
 
-      Notwithstanding the foregoing, an Order, the purpose of which is
-      to affect the operation of a prior Order, is as valid as any
-      other Order, and is said to be directed at the prior Order it
-      affects.
+      An Order may also be directed at a prior order so as to affect
+      the prior order's operation, as the Rules permit.
 
-History:
-Created by Proposal 3704 (General Chaos), Mar. 19 1998
-
-----------------------------------------------------------------------
-
-Rule 1798/1 (Power=1)
-I Was Only Obeying Orders
-
-      A Player who performs as required by an Order which is later
-      found to be invalid shall not be convicted of a Crime, nor
-      penalized by being billed, being removed from or retired
-      from Office, becoming Tainted, or being deregistered,
-      solely as a result of performing as required by the Order.
-      This Rule takes precedence over any Rule which would cause
-      the Player to be convicted of a Crime or penalized, as
-      described, for said action.
+      All Orders executed in the manner prescribed by the Rules for
+      their class are presumed valid and enforceable until proven
+      otherwise by CFJ.  No Order may act to prevent or hinder its own
+      appeal in any way.  Knowingly and willfully executing invalid
+      Orders constitutes the Class 10 Crime of Abuse of Authority.
 
 History:
 Created by Proposal 3704 (General Chaos), Mar. 19 1998
-Amended(1) by Proposal 3768 (Chuck), Jul. 22 1998
+Amended(1) by Proposal 4810 (Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 1794/6 (Power=1)
+Rule 1794/7 (Power=1)
 Classes of Orders
 
       Each Order is of exactly one of the following classes.  If an
-      Order could be of more than one of these classes, then it is
-      of the first class that matches.
+      Order could be of more than one of these classes, then it is of
+      the first class that matches.
 
         (a) A Legislative Order is an Order executed as part of the
             effect of the adoption of a Proposal.
@@ -4249,12 +4235,16 @@ Classes of Orders
         (e) A Judicial Order is an Order executed by a Judge in the
             course of performing eir duties or privileges as Judge.
 
-        (f) An Administrative Order is an Order executed by an Officer
-            in the course of performing the duties or privileges of
-            that Office.  For the purpose of this Rule, the Speaker is
-            deemed to be an Office.
+        (f) A Timing Order is an Order which may be executed by any
+            person and directed at any entity.  A timing order is
+            valid if and only if it orders the entity to perform, as
+            soon as possible, a duty specifically required of em by
+            the Rules that does not otherwise have a specified timing
+            requirement, or for which the otherwise specified timing
+            requirement will have been exceeded as soon as possible
+            after the Order is executed.
 
-        (g) Any other Order is a Private Order.
+      No other types of Orders are valid.
 
 History:
 Created by Proposal 3704 (General Chaos), Mar. 19 1998
@@ -4264,130 +4254,46 @@ Amended(3) by Proposal 4048 (Peekee), Aug. 15 2000
 Amended(4) by Proposal 4137 (harvel), Apr. 5 2001
 Amended(5) by Proposal 4406 (Murphy), 30 October 2002
 Amended(6) by Proposal 4533 (Murphy), 26 October 2003
+Amended(7) by Proposal 4810 (Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 1795/3 (Power=1)
-Timing Requirements of Orders
+Rule 1795/4 (Power=1)
+Order Timing
 
-      An Order which commands the performance of an action may specify
-      when that action is to be performed; if no specification is
-      given, or the specification given would require the
-      performance of the action at a time when the Order is without
-      effect, or if the specification given would allow less than
-      72 hours from the time when the Order takes effect to perform
-      the action, then the Order shall be taken to require the
-      performance of the action as soon as possible after the Order
-      takes effect.
+      An Order may specify the time limit for the performance of an
+      ordered action.  If a time limit is less than 72 hours after the
+      Order takes effect, the time limit shall be 72 hours.  If no
+      time limit is specified, time limit shall be as soon as possible
+      after the Order takes effect.
 
       If an Order which commands the performance of an action is
       directed to an Office or other position of authority, and the
       holder of that position of authority changes after the Order
-      takes effect, but before the Order is satisfied, and the
-      specification would require the performance of the action at a
-      time before the current holder of the position came to hold
-      that position, or would allow less than 72 hours from the time
-      the current holder of the position came to hold that position,
-      then the Order shall be taken to require the performance of the
-      action as soon as possible after the current holder of the
-      position came to hold that position.  However, this shall
-      not be taken to absolve the previous holder of the position
-      of any penalties e might otherwise incur.
+      takes effect, but before the Order is satisfied, and the time
+      limit is before, or less than 72 hours after, the current holder
+      of the position came to hold that position, then the current
+      holder shall have as soon as possible to satisfy that order.
 
-      Other Rules may establish other times by which Orders must be
-      performed.  The noncompliance of an Order with this Rule does
-      not deprive that Order of all effect, but instead modifies the
-      effect of that Order with respect to the time at which or by
-      which the actions it requires must be performed.
+      Other Rules may establish other times by which orders must be
+      performed.  The noncompliance of an order with this Rule does
+      not deprive that order of all effect, but instead modifies the
+      timing requirements of the order.
 
 History:
 Created by Proposal 3704 (General Chaos), Mar. 19 1998
 Amended(1) by Proposal 3768 (Chuck), Jul. 22 1998
 Amended(2) by Proposal 3823 (Oerjan), Jan. 21 1999
 Amended(3) by Proposal 3950 (harvel), Dec. 8 1999
+Amended(4) by Proposal 4810 (Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 1796/0 (Power=1)
-Validity of Orders
+Rule 1799/3 (Power=1)
+Stay and Vacation of Orders
 
-      All Orders executed in the manner prescribed by the Rules for
-      their class and type are presumed valid and enforceable until
-      proven otherwise by CFJ.
-
-      In order to be proven valid by CFJ, the Rules must permit the
-      Player who executed the Order in question to execute such an
-      Order, that the execution of the Order must have been required
-      by or permitted in the circumstances which existed at the time
-      it was executed, and that the Order has not been rendered
-      invalid by the operation of any other Rule.
-
-      Furthermore, no Order may act to prevent or hinder its own
-      appeal in any way, and any portion of an Order which has this
-      effect is void and without force.
-
-History:
-Created by Proposal 3704 (General Chaos), Mar. 19 1998
-
-----------------------------------------------------------------------
-
-Rule 1797/1 (Power=1)
-Abuse of Authority
-
-      Knowingly and willfully executing invalid Orders constitutes the
-      Class 10 Crime of Abuse of Authority.
-
-History:
-Created by Proposal 3704 (General Chaos), Mar. 19 1998
-Amended() by Proposal 3897 (harvel), Aug. 27 1999
-
-----------------------------------------------------------------------
-
-Rule 1799/2 (Power=1)
-Amendment, Stay, and Vacation of Orders
-
-      Any Order may always be amended, stayed, or vacated by the
-      Player (or, in the case of Appellate Orders, Board of Appeal)
-      who executed it. Certain classes of Orders may be amended,
-      stayed, or vacated in other circumstances as well, when the
-      Rules so allow. In all cases, this is done by an Order to
-      Amend, Stay, or Vacate, respectively, the original Order.
-
-      Otherwise, an Order shall not be amended, stayed, vacated, or
-      otherwise changed once executed.
-
-History:
-Created by Proposal 3704 (General Chaos), Mar. 19 1998
-Amended(1) by Proposal 3755 (Crito), Jun. 12 1998
-Amended(2) by Proposal 4018 (Kelly), Jun. 21 2000
-
-----------------------------------------------------------------------
-
-Rule 1800/0 (Power=1)
-Amendment of Orders
-
-      The effect of amending an Order is to cause it to be effective
-      in its amended form.  The prior form of the Order ceases to have
-      effect upon the amendment, and the new form has effect as if it
-      had been originally executed in that form at the moment the
-      amendment becomes effective.
-
-      Vacating an Order to Amend has the same effect as would an Order
-      to Amend reinstating the previous form of the Order.
-
-      Amending a stayed or vacated Order does not grant the stayed or
-      vacated Order effect it would otherwise not have.
-
-History:
-Created by Proposal 3704 (General Chaos), Mar. 19 1998
-
-----------------------------------------------------------------------
-
-Rule 1801/0 (Power=1)
-Stay of Orders
-
-      The effect of staying an Order is to temporarily deny the stayed
-      Order from having any effect.
+      The effect of staying an Order is to temporarily prevent the
+      stayed Order from having any effect.
 
       A stay may be ordered for a fixed time, in which case the stay
       expires at the time specified; or for an indefinite time, in
@@ -4401,95 +4307,39 @@ Stay of Orders
       the stayed Order has been vacated or is subject to another
       staying Order, it does not regain effect.
 
-History:
-Created by Proposal 3704 (General Chaos), Mar. 19 1998
-
-----------------------------------------------------------------------
-
-Rule 1802/0 (Power=1)
-Vacation of Orders
-
       The effect of vacating an Order is to permanently deny the
       vacated Order from having any effect.  Vacating an Order to
       Vacate reinstates the ability of the vacated Order to have
       effect, as of the moment the Order to Vacate is itself vacated.
 
-History:
-Created by Proposal 3704 (General Chaos), Mar. 19 1998
-
-----------------------------------------------------------------------
-
-Rule 1808/2 (Power=1)
-Administrative and Private Orders
-
-      Administrative Orders are executed by being published and take
-      effect upon publication.
-
-      Private Orders are executed by submitting them to the Player to
-      be commanded, and take effect upon submission.
+      Any Order may always be stayed or vacated by the Player (or, in
+      the case of Appellate Orders, Board of Appeal) who executed it.
+      Certain classes of Orders may be stayed or vacated in other
+      circumstances as well, but only as the Rules allow.
 
 History:
 Created by Proposal 3704 (General Chaos), Mar. 19 1998
-Amended(1) by Proposal 3793 (Steve), Oct. 6 1998
-Amended(2) by Proposal 4147 (Wes), 13 May 2001
+Amended(1) by Proposal 3755 (Crito), Jun. 12 1998
+Amended(2) by Proposal 4018 (Kelly), Jun. 21 2000
+Amended(3) by Proposal 4810 (Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 1809/0 (Power=1)
-Appeal of Administrative and Private Orders
-
-      Both Administrative and Private Orders are subject to appeal by
-      a CFJ, the statement of which Statement alleges that the Order
-      is improperly or invalidly executed.
-
-      Upon a judicial finding that an Administrative or Private Order
-      was improperly or invalidly executed, the Judge so finding shall
-      vacate that Order.
-
-      When the Clerk of the Courts receives a properly executed Call
-      for Judgement, the statement of which alleges that an
-      Administrative or Private Order was improperly or invalidly
-      executed, the Clerk of the Courts shall stay the Order in
-      dispute.  If the Judge affirms the validity of the original
-      Order, e shall then vacate this stay.
-
-History:
-Created by Proposal 3704 (General Chaos), Mar. 19 1998
-
-----------------------------------------------------------------------
-
-Rule 1810/3 (Power=1)
-Noncompliance with Orders
+Rule 1810/4 (Power=1)
+Satisfying Orders
 
       An Order requiring an entity to perform an action is satisfied
       when that entity performs that action.  Other Rules may define
-      other ways for Orders to be satisfied.
+      other ways for Orders to be satisfied.  Except when otherwise
+      specified, a single action can result in the satisfaction of at
+      most one Order.  If an action would satisfy more than one Order,
+      and no other specification is made, the Action satisfies the
+      oldest Order which it would satisfy.
 
       If an Order requires an entity to perform an action prior to a
       specified time, and the Order is not satisfied prior to that
       time specified in the Order commits the Class 4 Crime of
       Contempt by Inaction.
-
-      Except when otherwise specified, a single action can result in
-      the satisfaction of at most one Order.  If an action would
-      satisfy more than one Order, and no other specification is made,
-      the Action satisfies the oldest Order which it would satisfy.
-
-      This Rule shall have no application with respect to any Order
-      which has been adjudicated to be invalid, and the invalidity of
-      the Order is a complete defense to a Criminal accusation made
-      under this Rule.
-
-History:
-Created by Proposal 3704 (General Chaos), Mar. 19 1998
-Amended(1) by Proposal 3897 (harvel), Aug. 27 1999
-Amended(2) by Proposal 3954 (Elysion), Dec. 13 1999
-Amended(3) by Proposal 4099 (Murphy), Jan. 15 2001
-
-----------------------------------------------------------------------
-
-Rule 1811/1 (Power=1)
-Contempt by Action
 
       Any entity who, while required by an Order to refrain from
       performing an action, performs the proscribed action while the
@@ -4497,16 +4347,16 @@ Contempt by Action
       Action.
 
       This Rule shall have no application with respect to any Order
-      which has been adjudicated to be invalid, and the invalidity of
-      the Order is a complete defense to a Criminal accusation made
-      under this Rule.
+      which has been adjudicated to be invalid.
 
 History:
 Created by Proposal 3704 (General Chaos), Mar. 19 1998
 Amended(1) by Proposal 3897 (harvel), Aug. 27 1999
+Amended(2) by Proposal 3954 (Elysion), Dec. 13 1999
+Amended(3) by Proposal 4099 (Murphy), Jan. 15 2001
+Amended(4) by Proposal 4810 (Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
-
 
 
 ======================================================================
@@ -5210,7 +5060,7 @@ Amended(9) by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
-Rule 1803/1 (Power=1)
+Rule 1803/2 (Power=1)
 Judicial and Sentencing Orders
 
       Judicial Orders and Sentencing Orders are executed by being sent
@@ -5219,9 +5069,14 @@ Judicial and Sentencing Orders
       shall publish each Judicial Order and Sentencing Order as soon
       as possible after receiving it from the Judge who executed it.
 
+      Any Player may formally request a Judge issue any Judicial Order
+      by filing a motion requesting that Order.  If granted, the Judge
+      shall issue the Order requested.
+
 History:
 Created by Proposal 3704 (General Chaos), Mar. 19 1998
 Amended(1) by Proposal 4406 (Murphy), 30 October 2002
+Amended(2) by Proposal 4810 (Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
 
@@ -5304,27 +5159,13 @@ Amended(5) by Proposal 4406 (Murphy), 30 October 2002
 
 ----------------------------------------------------------------------
 
-Rule 1828/1 (Power=1)
-Motions Requesting Judicial Orders
-
-      Any Player may formally request a Judge issue any Judicial Order
-      by filing a motion requesting that Order.  If granted, the Judge
-      shall issue the Order requested.
-
-History:
-Created by Proposal 3704 (General Chaos), Mar. 19 1998
-Amended(1) by Proposal 3823 (Oerjan), Jan. 21 1999
-
-----------------------------------------------------------------------
-
-Rule 1509/3 (Power=1)
+Rule 1509/4 (Power=1)
 Orders to Compel
 
       Upon a judicial finding that a Player has failed to perform a
       duty required of em by the Rules, the Judge so finding shall
       execute an Order, requiring that Player to perform that duty as
-      soon as possible.  Such an Order is known as an Order to
-      Compel.
+      soon as possible.  Such an Order is known as an Order to Compel.
 
       If the duty in question arises because the Player in question
       holds a specific Office or other position of official
@@ -5333,26 +5174,22 @@ Orders to Compel
       the duty in question as ordered, the Judge shall Order that that
       Player be removed from Office or position.
 
-      If the duty in question arises for a reason not related to the
-      Player in question holding a specific Office or official
-      position, and that Player fails to perform the duty as ordered,
-      the Judge shall amend the Order to require the Speaker to
-      perform that duty instead.
-
 History:
 Created by Proposal 1690, Sep. 1 1995
 Amended(1) by Proposal 1738, Oct. 15 1995
 Amended(2) by Proposal 1754, Oct. 21 1995
 Amended(3) by Proposal 3704 (General Chaos), Mar. 19 1998
+Amended(4) by Proposal 4810 (Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 1830/1 (Power=1)
+Rule 1830/2 (Power=1)
 No Compulsion of Judges
 
       Any Order to Compel directed to a Judge, or requiring the
       performance of a duty required of a Player because that Player
-      is a Judge, is invalid.
+      is a Judge, is invalid, unless that Order is a valid Appellate
+      Order.
 
       Any CFJ alleging that a Judgement is incorrect, or that a Judge
       has failed to perform a judicial duty, lacks standing.  Such a
@@ -5361,6 +5198,7 @@ No Compulsion of Judges
 History:
 Created by Proposal 3704 (General Chaos), Mar. 19 1998
 Amended(1) by Proposal 4298 (Murphy), 17 May 2002
+Amended(2) by Proposal 4810 (Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
 
@@ -7965,4 +7803,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4808]
+      [Last proposal with recorded effect on this ruleset: 4810]
