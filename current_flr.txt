@@ -21,15 +21,15 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 232 Rules:
+There are currently 219 Rules:
     1 with Power=4
-   25 with Power=3
-   37 with Power=2
-  169 with Power=1
+   28 with Power=3
+   31 with Power=2
+  159 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2116
-Highest Rule Number assigned so far: 2116
+Highest current Rule Number:         2119
+Highest Rule Number assigned so far: 2119
 
 ======================================================================
 Table of Contents:
@@ -658,35 +658,17 @@ Amended(5) by Proposal 4505 (Murphy), 20 June 2003
 
 ----------------------------------------------------------------------
 
-Rule 1274/2 (Power=3)
-Definition of Indices
-
-      An Index (plural: Indices) is a Nomic Property.  The value of an
-      Index shall be either a non-negative real number or the special
-      value Unanimity.
-
-      An Index of Unanimity is greater than any other Index.  When
-      comparing other Indices, the Index which is numerically greater
-      is the greater Index.
-
-History:
-Created by Proposal 1274, Oct. 24 1994
-Amended(1) by Proposal 2053, Dec. 19 1995
-Mutated from MI=1 to MI=3 by Proposal 2713, Oct. 12 1996
-Amended(2) by Proposal 3927 (harvel), Oct. 10 1999
-
-----------------------------------------------------------------------
-
-Rule 1688/1 (Power=3)
+Rule 1688/2 (Power=3)
 Power
 
-      Power is an Index.  An Instrument is an entity with nonzero
-      Power.  The Power of a given entity is zero unless otherwise
-      defined by the Rules.
+      The power of an entity is a natural number, which is zero unless
+      otherwise defined or modified according to procedures defined by
+      the rules.  An instrument is an entity with positive power.
 
 History:
 Created by Proposal 3445 (General Chaos), Mar. 26 1997
 Amended(1) by Proposal 3994 (harvel), Apr. 20 2000
+Amended(2) by Proposal 4811 (Maud, Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
 
@@ -1830,23 +1812,27 @@ Amended(9) by Proposal 4271 (Murphy), 22 March 2002
 
 ----------------------------------------------------------------------
 
-Rule 790/13 (Power=1)
+Rule 790/14 (Power=1)
 Filling Vacant Offices
 
-      As soon as possible after
+      An election to fill an office must be held whenever:
 
-        a) an Office ceases to have an Electee;
-        b) an Office is created without installing an Electee; or
-        c) an Election for an Office without an Electee becomes Stale;
+      (a) the office ceases to have an electee;
 
-      the designated conductor of Office Elections shall initiate an
-      Election for that Office, as described by other Rules.  This
-      requirement is cancelled if the Office comes to have an Electee.
+      (b) the office is created without installing an electee; or
 
-      The designated conductor of Office Elections is the Associate
-      Director of Personnel, unless the Office in question is
-      that of Associate Director of Personnel; in that case, the
-      designated conductor is the Speaker.
+      (c) an election to fill that office fails, and no election for
+          that office is in progress.
+
+      As long as an election to fill an office is in progress, no
+      other election to fill that office may be initiated.  An
+      election is in progress from the time it is initiated until it
+      is resolved.
+
+      If a player required to initiate an election fails to do so as
+      soon as possible, then any player may announce that the election
+      has failed.  Provided that this assertion is indeed correct,
+      then upon this announcement the election fails.
 
 History:
 Created by Proposal 790, ca. Dec. 20 1993
@@ -1864,27 +1850,31 @@ Amended(10) by Proposal 4103 (Murphy), Jan. 15 2001
 Amended(11) by Proposal 4142 (Murphy), Apr. 15 2001
 Amended(12) by Proposal 4650 (Murphy), 22 March 2005
 Amended(13) by Proposal 4768 (root), 25 May 2005
+Amended(14) by Proposal 4811 (Maud, Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
 
 Rule 1486/6 (Power=1)
-Procedure to Impeach an Officer
+Procedure for an Orderly Witch Hunt
 
-      Any Active Player is permitted to call a Referendum to
-      Impeach an Officer at any time, by publicly requesting such.
-      The Officer is Impeached when such a Referendum is passed.
+      An active player (the Witch Hunter) may hold a referendum to
+      remove an officer from office.  For this referendum:
 
-      The Referendum must list both the Office and the current
-      Electee to that Office by name. If upon passage of the
-      Referendum the named Player is the current Electee of
-      that Office, then the Player is immediately removed
-      from Office.
+      (a) The set of eligible voters is the set of active players
+          besides the Witch Hunter and the named officer.
 
-      For this Referendum the default procedure for referenda is
-      modified as follows: Vote Collector is the Player who called for
-      the Impeachment Referendum. Voters do not include the Officer
-      under consideration for Impeachment. Adoption Ratio must be
-      greater than or equal to 2 for the Referendum to pass.
+      (b) The adoption index is 2.
+
+      (c) "BURN THE WITCH" is a synonym for "FOR".
+
+      (d) "LET THE WITCH LIVE" is a synonym for "AGAINST".
+
+      (e) "OF COURSE THE WITCH IS GUILTY, BUT I WANT TO SEE WHAT OTHER
+          PEOPLE THINK" is a synonym for "PRESENT".
+
+      If the referendum is adopted, it shall have the effect of
+      removing the named player from the named office if e is electee
+      to that office.
 
 History:
 Created by Proposal 1638, Jul. 25 1995
@@ -2305,19 +2295,22 @@ The Oligarchy
   Oligarchy.
 ----------------------------------------------------------------------
 
-Rule 1932/10 (Power=2)
+Rule 1932/11 (Power=2)
 Shareholders and the Corporation
 
       All cards with the Element "Shares [X]" are cumulatively known
       as the Stock Cards.
 
       An entity's Share Holdings is equal to the number of Shares
-      possessed. The Number of Shares is the sum of the Share Holdings
-      of all entities.
+      possessed by that entity. The Number of Shares is the sum of the
+      Share Holdings of all entities.
 
-      A Shareholder is an Eligible Shareholder with positive Share
-      Holdings. A Plebeian is a Player who is not a Shareholder. The
-      Corporation is the set of all Shareholders.
+      A Shareholder is an entity with positive Share Holdings.  A
+      Plebeian is a player who is not an eligible Shareholder.  The
+      Corporation is the set of all eligible Shareholders.
+
+      To be valid, a ballot on an ordinary proposal must be submitted
+      by an eligible Shareholder.
 
 History:
 Created by Proposal 3980 (Steve), Mar. 1 2000
@@ -2331,6 +2324,7 @@ Amended(7) by Proposal 4614 (Goethe), 21 September 2004
 Amended(8) by Proposal 4638 (root), 19 February 2005
 Amended(9) by Proposal 4668 (Quazie, Murphy), 9 April 2005
 Amended(10) by Proposal 4805 (Goethe, Manu), 20 June 2005
+Amended(11) by Proposal 4811 (Maud, Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
 
@@ -2363,21 +2357,24 @@ Making Proposals
   submission and distribution of Proposals, and the Proposal Pool.
 ----------------------------------------------------------------------
 
-Rule 1483/10 (Power=1)
+Rule 1483/11 (Power=1)
 Definition of Proposals
 
-      A Proposal is created when a Legislator who is not Mute
-      publishes a body of text with the clear indication that it is
-      intended to become a Proposal.  The collection of text becomes a
-      Proposal and the entity delivering that text becomes the
-      Proposer of that Proposal. This process is known as Proposing or
-      submitting a Proposal.
+      A proposal is a document outlining changes to be made to Agora,
+      including enacting, repealing, or amending rules, or making
+      other explicit changes to the gamestate.
 
-      The publishing of the Proposal Pool never creates new
-      Proposals.
+      A legislator submits a proposal by publishing it with a clear
+      indication that it is intended to become a proposal.  As soon as
+      possible afterward, the Promotor shall add this proposal to the
+      Proposal Pool.
 
-      All Players are Legislators.  A Player is Mute while e has more
-      than 5 Blots.
+      While a proposal is in the Proposal Pool, its proposer may
+      modify its adoption index by announcement, specifying the
+      proposal and its new adoption index.  The default adoption index
+      of a proposal is one.
+
+      All players are legislators.
 
 [CFJ 762: Anything contained in a Proposal is part of that Proposal,
  unless the Rules or Game Custom specifically says otherwise.]
@@ -2395,6 +2392,7 @@ Amended(7) by Proposal 3990, "Harsher Blot Penalties", (Elysion),
 Amended(8) by Proposal 4050 (t), Aug. 15 2000
 Amended(9) by Proposal 4147 (Wes), 13 May 2001
 Amended(10) by Proposal 4658 (root), 29 March 2005
+Amended(11) by Proposal 4811 (Maud, Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
 
@@ -2439,85 +2437,59 @@ Amended(1) by Proposal 3445 (General Chaos), Mar. 26 1997, substantial
 
 ----------------------------------------------------------------------
 
-Rule 115/0 (Power=3)
-Self-Referential Rules Allowed
+Rule 107/2 (Power=3)
+Initiating Agoran Decisions
 
-      Rule Changes that affect Rules needed to allow or apply Rule
-      Changes are as permissible as other Rule Changes.  Even Rule
-      Changes that amend or repeal their own authority are
-      permissible.  No Rule Change or type of move is impermissible
-      solely on account of the self-reference or self-application of a
-      Rule.
+      An Agoran decision is initiated when a person authorized to
+      initiate it publishes a valid notice which sets forth the intent
+      to initiate the decision.  To be valid, this notice must contain
+      the following information:
 
-[CFJ 700: Self-amending and self-repealing Rules are allowed.]
+      (a) The matter to be decided (for example, "the election for
+          Scorekeepor" or "the adoption of proposal 4781").
 
-History:
-Initial Immutable Rule 115, Jun. 30 1993
-Mutated from MI=Unanimity to MI=3 by Proposal 1392, Jan. 24 1995
+      (b) A description of the class of eligible voters sufficient to
+          enable public agreement on which persons are eligible.  In
+          particular, an explicit list of the eligible voters is
+          always sufficient for this purpose.
 
-----------------------------------------------------------------------
+      (c) The identity of the vote collector.
 
-Rule 107/1 (Power=3)
-Rule Changes Must Be Written Down
+      (d) Any additional information required by the rules for this
+          announcement.
 
-      Any proposed Rule Change must be written down (or otherwise
-      communicated in valid media) before it is voted on. If adopted,
-      it must guide play in the form in which it was voted on.  For
-      the purposes of this rule, print and electronic media, including
-      mailing lists, are valid media.
+      The publication of such a valid notice initiates the voting
+      period for the decision.  By default, the voting period lasts
+      for seven days.  This rule takes precedence over any rule which
+      would require a voting period for some decision to be shorter
+      than seven days.
 
 History:
 Initial Immutable Rule 107, Jun. 30 1993
 Mutated from MI=Unanimity to MI=3 by Proposal 1391, Jan. 24 1995
 Amended(1) by Proposal 3889 (harvel), Aug. 9 1999
+Amended(2) by Proposal 4811 (Maud, Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 1339/6 (Power=3)
-Precision in Rule Changes
+Rule 594/9 (Power=3)
+Enactment of Rules
 
-      Exact precision is required in the specification of Rule
-      Changes; any ambiguity or irregularity in the specification of a
-      Rule Change causes it to be void and without effect.
+      A proposal can, as part of its effect, enact a rule, specifying
+      its content and optionally specifying its power and title.  If
+      the proposal does not specify the power, the rule shall have
+      power equal to one.  If the proposal specifies the power, then
+      the rule shall have power equal to the minimum of four, the
+      power of the proposal, and the power specified by the proposal.
+      If the title is not specified, the Rulekeepor may select any
+      title e sees fit.
 
-      Variations in whitespace or capitalization in the quotation of
-      text in an existing Rule to be removed or replaced does not
-      create an irregularity or ambiguity, for the purpose of this
-      Rule.  Any other variation, however, does.
+      When a rule is enacted, the Rulekeepor shall assign it a number,
+      which must be greater than any number previously assigned, and
+      shall assign it a revision number of zero.
 
-History:
-Created by Proposal 1339, Nov. 29 1994
-Amended(1) by Proposal 1414, Feb. 1 1995
-Amended(2) by Proposal 1440, Feb. 21 1995
-Mutated from MI=1 to MI=3 by Proposal 1532, Mar. 24 1995
-Amended(3) by Proposal 1754, Oct. 21 1995
-Amended(4) by Proposal 2671, Sep. 26 1996
-Amended(5) by Proposal 2741 (Zefram), Nov. 7 1996, substantial
-Amended(6) by Proposal 3445 (General Chaos), Mar. 26 1997, substantial
-
-----------------------------------------------------------------------
-
-Rule 594/8 (Power=3)
-Power and Proposals
-
-      No Rule may have Power less than 1 or greater than 4.  Except as
-      described in this Rule, no entity can set the Power of any
-      entity to exceed the Power of the entity causing the Power to be
-      so set.  No entity may destroy or repeal an entity with Power
-      greater than its own.
-
-      When a Proposal takes effect, its Power shall be set equal to
-      its Adoption Index, and the provisions contained in the text of
-      the Proposal are implemented to the maximal extent permitted by
-      the Rules.
-
-      Provisions which are unclear, ambiguous, or inapplicable are
-      ignored.  In a Proposal containing more than one provision, each
-      provision is severable from the others, unless the Proposal
-      states otherwise.
-
-      For the purpose of the Rules, the application of an adopted
-      Proposal is a legal procedure for changing Nomic Properties.
+      This rule provides the only mechanism by which rules can be
+      enacted.
 
 [CFJ 778: It is legal for a Proposal to contain zero Rule Changes.]
 
@@ -2533,68 +2505,35 @@ Power changed from 2 to 3 by Proposal 4329 (Goethe), 9 June 2002
 Amended(6) by Proposal 4329 (Goethe), 9 June 2002
 Amended(7) by Proposal 4349 (root), 20 July 2002
 Amended(8) by Proposal 4464 (root), 17 March 2003
+Amended(9) by Proposal 4811 (Maud, Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 2045/0 (Power=3)
+Rule 2119/0 (Power=3)
+Repeal of Rules
+
+      A proposal can, as part of its effect, repeal a rule with power
+      no greater than its own.  When a rule is repealed, it ceases to
+      be a rule, and the Rulekeepor need no longer maintain a record
+      of it.
+
+      This rule provides the only mechanism by which rules can be
+      repealed.
+
+----------------------------------------------------------------------
+
+Rule 2045/1 (Power=3)
 Adoption Indices
 
-      1) The Default Adoption Index of a Proposal is the maximum of:
-
-         a) 1; and
-
-         b) any minimum values required for that Proposal by the
-            Rules.
-
-      2) The Proposer of a Proposal may, at the time when e submits
-         the Proposal or at any time while it is in the Pool, request
-         an Adoption Index for that Proposal by announcement,
-         specifying the requested value.
-
-      3) When a Proposal is distributed, its Adoption Index is set to
-         the maximum of:
-
-         a) its Default Adoption Index; and
-
-         b) any values requested by its Proposer as permitted in 2).
-
-      4) This is the only mechanism for setting or changing the
-         Adoption Index of a Proposal.  This Rule takes precedence
-         over Rules that would allow other mechanisms for setting or
-         changing the Adoption Index of a Proposal.
+      When a decision on whether to adopt a proposal or referendum is
+      initiated, it shall be assigned an adoption index, which shall
+      be one unless otherwise specified.  Once the voting period for a
+      decision has begun, the adoption index of that decision can only
+      be changed by the Speaker's veto.
 
 History:
 Created by Proposal 4464 (root), 17 March 2003
-
-----------------------------------------------------------------------
-
-Rule 1724/9 (Power=1)
-Urgent Proposals
-
-      A Proposal is Urgent if the text of the message wherein it is
-      submitted explicitly states that it is an Urgent Proposal.
-
-      An Urgent Proposal has its Distribution Cost increased by 1.
-
-      The Promotor may distribute an Urgent Proposal as soon as it
-      becomes Distributable, and e is required to do so within five
-      days. Failure to do so is the Class 1 Infraction of Lack of
-      Urgency, which may be reported by any Player.
-
-      The Voting Period of an Urgent Proposal is five days from the
-      time the Proposal is distributed.
-
-History:
-Created by Proposal 3508 (Harlequin), Jun. 16 1997
-Amended(1) by Proposal 3684 (Blob), Feb. 12 1998
-Amended(2) by Proposal 3897 (harvel), Aug. 27 1999
-Amended(3) by Proposal 3921 (Wes), Oct. 3 1999
-Amended(4) by Proposal 3922 (Wes), Oct. 3 1999
-Amended(5) by Proposal 3945 (Peekee), Nov. 20 1999
-Amended(6) by Proposal 4050 (t), Aug. 15 2000
-Amended(7) by Proposal 4072 (Steve), Sep. 20 2000
-Amended(8) by Proposal 4406 (Murphy), 30 October 2002
-Amended(9) by Proposal 4753 (Sherlock), 5 May 2005
+Amended(1) by Proposal 4811 (Maud, Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
 
@@ -2625,38 +2564,6 @@ Created by Proposal 4050 (t), Aug. 15 2000
 Amended(1) by Proposal 4139 (Ziggy), Apr. 15 2001
 Amended(2) by Proposal 4145 (Ian), Apr. 22 2001
 Amended(3) by Proposal 4753 (Sherlock), 5 May 2005
-
-----------------------------------------------------------------------
-
-Rule 2103/0 (Power=2)
-Sanitizing Proposals
-
-      When a non-Sane Proposal in the Pool is Sanitized, it becomes
-      Democratic and Sane.
-
-      When a non-Sane Proposal whose Voting Period has begun but has
-      not yet ended is Sanitized, it is Aborted as described
-      elsewhere, and the copy resulting from the Abortion remains
-      Distributable but becomes Democratic and Sane.
-
-      A Proposal may only be Sanitized by the operation of an
-      Instrument whose Power is at least 2.
-
-History:
-Created by Proposal 4725 (root), 25 April 2005
-
-----------------------------------------------------------------------
-
-Rule 2102/0 (Power=1)
-Extraordinary Proposals
-
-      When an ordinary proposal becomes extraordinary, it is
-      immediately aborted, and the copy of it that is added to the
-      proposal pool due to the abortion becomes democratic and
-      distributable.
-
-History:
-Created by Proposal 4717 (Murphy), 25 April 2005
 
 ----------------------------------------------------------------------
 
@@ -2722,56 +2629,20 @@ Amended(11) by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
-Rule 1036/15 (Power=1)
-The Proposal Pool
-
-      As soon as possible after the Promotor receives a new Proposal,
-      e shall place this Proposal in the Proposal Pool.
-
-      The base Distribution Cost of a Proposal is 1, but this may be
-      altered by other Rules as long as it remains a positive integer.
-
-[CFJ 10: A Proposal remains a Proposal even if the Promotor changes
- before the Proposal is distributed.]
-
-History:
-Initial Mutable Rule 204, Jun. 30 1993
-Amended by Proposal 415 (KoJen), Sep. 3 1993
-Amended by Proposal 1036, Sep. 21 1994
-Amended by Rule 750, Sep. 21 1994
-Amended(1) by Proposal 1530, Mar. 24 1995
-Amended(2) by Proposal 1546, Apr. 14 1995
-Amended(3) by Proposal 2056, Dec. 19 1995
-Amended(4) by Proposal 2451, Feb. 6 1996
-Amended(5) by Proposal 2522, Mar. 10 1996
-Amended(6) by Proposal 2829 (Zefram), Mar. 7 1997, substantial
-Amended(7) by Proposal 3684 (Blob), Feb. 12 1998
-Amended(8) by Proposal 3706 (Harlequin), Mar. 9 1998
-Amended(9) by Proposal 3841 (Blob), Mar. 15 1999
-Amended(10) by Proposal 3842 (Chuck), Mar. 15 1999
-Amended(11) by Proposal 3897 (harvel), Aug. 27 1999
-Amended(12) by Proposal 3902 (Murphy), Sep. 6 1999
-Amended(13) by Proposal 3945 (Peekee), Nov. 20 1999
-Amended(14) by Proposal 4050 (t), Aug. 15 2000
-Amended(15) by Proposal 4486 (Michael), 24 April 2003
-
-----------------------------------------------------------------------
-
-Rule 1952/4 (Power=1)
+Rule 1952/5 (Power=1)
 Making Proposals Distributable
+
+      The Promotor shall have a budget containing the per-player
+      proposal limit, which shall be a positive integer defaulting to
+      four.
 
       Depth is a stuck proposal switch with values undistributable and
       distributable.
 
-      A player may flip the depth of a Proposal that e proposed to
-      distributable by paying a fee equal to its Distribution Cost.
-
-      A player may flip the depth of a Proposal that e did not propose
-      to distributable by paying a fee equal to its Distribution Cost
-      minus one (minimum zero).
-
-      A player may flip the depth of any Proposal to undistributable
-      by paying a fee equal to twice its Distribution Cost.
+      A player may flip the depth of one of eir proposals in the
+      Proposal Pool to distributable by announcement as long as the
+      number of eir distributable proposals in the Pool is less than
+      the per-player proposal limit.
 
 History:
 Created by Proposal 4050 (t), Aug. 15 2000
@@ -2779,57 +2650,37 @@ Amended(1) by Proposal 4195 (Syllepsis), 26 July 2001
 Amended(2) by Proposal 4486 (Michael), 24 April 2003
 Amended(3) by Proposal 4523 (Murphy), 28 August 2003
 Amended(4) by Proposal 4702 (Goethe), 18 April 2005
+Amended(5) by Proposal 4811 (Maud, Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 1770/16 (Power=1)
+Rule 1770/17 (Power=1)
 Distributing Proposals
 
-      (a) The Promotor is permitted to distribute a Distributable
-          Proposal at any time.
+      (a) The Promotor is permitted to distribute a distributable
+          proposal in the Proposal Pool at any time.
 
-      (b) During each Week, the Promotor is required to distribute
-          every Proposal that was Distributable at the beginning of
-          that Week, unless the Proposal has since ceased to be
-          Distributable.
+      (b) During each week, the Promotor must distribute each proposal
+          which was distributable at the beginning of the week and
+          which remains distributable.
 
-      (c) If there were no Distributable Proposals at the beginning of
-          the Week, then the Promotor is required publically to note
-          this fact at some time during the Week.
+      (c) If there were no proposals in the Proposal Pool at the
+          beginning of a week, then the Promotor must announce this
+          fact at some time during that week.
 
-      (d) Failure by the Promotor to either distribute Proposals as
-          required in (b), or to make an announcement as required in
-          (c), is the Class 1 Infraction of Promotor Tardiness, which
-          any Player may report.
+      (d) The Promotor legally distributes a proposal by publishing it
+          accompanied by an explicit indication that it is being
+          distributed.  When a proposal is distributed, it is removed
+          from the Proposal Pool.  The distribution of a proposal
+          initiates the Agoran decision of whether to adopt the
+          proposal, as described elsewhere.
 
       (e) The Promotor shall include with the distribution of each
-          Proposal the identity of its Proposing Entity, its Adoption
-          Index, and an indication of the Proposal's Chamber. However,
-          the failure of the Promotor to include any of these
-          accompaniments with a Proposal does not deprive the
-          distribution of the Proposal of any legal effect.
-
-      (f) A Proposal is legally distributed only if it is accompanied
-          by an explicit indication that it is being distributed. When
-          a Proposal is distributed, it is removed from the Proposal
-          Pool.
-
-      (g) The Promotor shall not distribute any Proposal which is not
-          Distributable, and must abort any Proposal so distributed.
-          If the Promotor aborts a Proposal which e knows was
-          Distributable at the time it was distributed, e commits the
-          Class 2 Crime of Illegal Abortion.
-
-      (h) The Promotor aborts a Proposal by publishing an announcement
-          to that effect, clearly identifying the Proposal which has
-          been aborted.
-
-      (i) The distribution of an Undistributable Proposal, when the
-          Promotor knows that the Proposal is Undistributable, is the
-          Class 2 Crime of Promotor Misrepresentation.  The
-          distribution of a text purporting to be a Proposal, when the
-          Promotor knows that the text is not a Proposal, is the Class
-          5 Crime of Promotor Fraud.
+          proposal the identity of its proposer, the proposal's
+          coauthors, if any, its chamber, and its adoption index.
+          However, the failure of the Promotor to include any of these
+          with a proposal does not deprive the distribution of the
+          proposal of any legal effect.
 
 [In upholding the Judgement of CFJ 1089, the Board of Appeals held
  that in order for a Proposal to have been legally distributed, it is
@@ -2854,43 +2705,26 @@ Amended(13) by Proposal 4050 (t), Aug. 15 2000
 Amended(14) by Proposal 4072 (Steve), Sep. 20 2000
 Amended(15) by Proposal 4282 (Goethe), 16 April 2002
 Amended(16) by Proposal 4355 (Steve), 7 August 2002
+Amended(17) by Proposal 4811 (Maud, Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 2033/0 (Power=1)
-Aborting a Proposal
-
-      (a) When a Proposal is aborted:
-          (1)  the Voting Period for the Proposal immediately ends, if
-               it has not ended already;
-          (2)  all Votes cast on the Proposal are cancelled, and the
-               Proposal fails;
-          (3)  the Assessor is relieved of any duty to report on Votes
-               cast on the Proposal; and
-          (4)  a copy of the Proposal is added to the Proposal Pool.
-
-History:
-Created by Proposal 4355 (Steve), 7 August 2002
-
-----------------------------------------------------------------------
-
-Rule 1774/3 (Power=1)
+Rule 1774/4 (Power=1)
 Discarding Proposals from the Pool
 
-      If, at any time, there is an Undistributable Proposal
-      in the Proposal Pool which has been in the Pool for more than
-      two weeks, the Promotor may, at eir discretion, remove this
-      Proposal from the Pool, and discard it.
+      If a proposal in the Proposal Pool has been undistributable and
+      in the Pool for more than two weeks continuously, then the
+      Promotor may remove that proposal from the Pool by announcement.
 
-      Also, the Proposer of a Proposal in the Pool may remove that
-      Proposal from the Pool, by notifying the Promotor that e
-      does so.
+      The proposer of a proposal may remove it from the Pool by
+      announcement.
 
 History:
 Created by Proposal 3684 (Blob), Feb. 12 1998
 Amended(1) by Proposal 3806 (Kolja A.), Nov. 30 1998
 Amended(2) by Proposal 3943 (Wes), Nov. 20 1999
 Amended(3) by Proposal 4050 (t), Aug. 15 2000
+Amended(4) by Proposal 4811 (Maud, Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
 
@@ -2918,87 +2752,21 @@ Mutated from MI=1 to MI=2 by Proposal 2665, Sep. 12 1996
 
 ----------------------------------------------------------------------
 
-Rule 2078/2 (Power=2)
-Takeover Proposals
-
-      Initiative is a stuck player switch, tracked by the Assessor,
-      with values Gote and Sente.
-
-      A Takeover Proposal is a proposal meeting these requirements:
-
-        (a) It is labelled as a Takeover Proposal.
-        (b) No Takeover Proposal has been submitted earlier in the
-            same month.
-        (c) It specifies a set of players (hereafter the Corporate
-            Raiders) that is no larger than P/2 or smaller than P/3,
-            where P is the number of active noisy players at the time
-            of submission.
-
-      Rules to the Contrary nonwithstanding, a Takeover Proposal is
-      both Democratic and Sane.
-
-      Upon submission of a Takeover Proposal, all other Takeover
-      Proposals become Undistributable and are removed from the Pool.
-
-      At the beginning of a Takeover Proposal's voting period, the
-      initiative of each player is set to Gote.  At the end of a
-      Takeover Proposal's voting period, the initiative of each player
-      is set as follows:
-
-        (a) Adopted:  All Corporate Raiders gain Sente.
-        (b) Rejected:  All other players gain Sente.
-        (c) Failed quorum:  No one gains Sente.
-
-History:
-Created by Proposal 4624 (Goethe), 20 November 2004
-Amended(1) by Proposal 4691 (root), 18 April 2005
-Amended(2) by Proposal 4751 (The Goddess Eris), 5 May 2005
-
-----------------------------------------------------------------------
-
-Rule 2085/2 (Power=1)
-Mute Exemption
-
-      A Legislator who is Mute may, with two support, submit a body of
-      text with Mute Exemption.  This text becomes a Proposal if it
-      meets all rule requirements for a Proposal other than the
-      Proposer not being Mute.
-
-      As soon as possible after a Proposal with Mute Exemption passes,
-      the Assessor shall expunge a number of Blots from the Proposer
-      equal to the Adoption Index of the Proposal.  The Proposer shall
-      receive no Boons that may have been awarded by other rules for
-      the passing of the Proposal.
-
-History:
-Created by Proposal 4649 (Quazie), 22 March 2005
-Amended(1) by Proposal 4704 (Quazie), 18 April 2005
-Amended(2) by Proposal 4797 (Maud), 6 June 2005
-
-----------------------------------------------------------------------
-
-
 ======================================================================
 Voting on Proposals
   This Category includes Rules regulating Voting on Proposals and
   other actions which take place during the Voting Period.
 ----------------------------------------------------------------------
 
-Rule 1449/16 (Power=1)
+Rule 1449/17 (Power=1)
 The Assessor
 
       The Assessor is an office; its holder is responsible for
       receiving and announcing the results of votes on proposals.
 
-      The Assessor's Weekly Report shall include
-
-      * a list of the identity and voting power for Proposals in each
-        Chamber, for all entities with nonzero voting power in at
-        least one Chamber.
-
-      * the Voting Potentials of every Player.
-
-      * the prevailing mode of voting on Proposals.
+      The Assessor's weekly report shall include a list of the
+      identity and voting limit for proposals in each chamber for each
+      entity with nonzero voting power in at least one chamber.
 
 History:
 Created by Proposal 1531, Mar. 24 1995
@@ -3018,49 +2786,25 @@ Amended(13) by Proposal 4250 (harvel), 19 February 2002
 Amended(14) by Proposal 4255 (Steve), 21 February 2002
 Amended(15) by Proposal 4282 (Goethe), 16 April 2002
 Amended(16) by Proposal 4486 (Michael), 24 April 2003
+Amended(17) by Proposal 4811 (Maud, Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 2052/4 (Power=2)
-Voting Potential
-
-      (a) Associated with every Player is a non-negative integral
-          number known as that Player's Voting Potential.  At the
-          beginning of each new month, every Player's Voting Potential
-          is divided by two and rounded down.
-
-      (b) At any time, a Player may, by announcement, increase their
-          Voting Potential by a positive integral amount, N. The Fee
-          associated with this action is the Political Charge
-          multiplied by N.
-
-      (c) The Assessor is responsible for tracking these
-          announcements, and recording Players' Voting Potentials.
-
-      (d) the Political Charge is a positive integer that is initially
-          4, and may be changed only as defined by instruments of a
-          power of 2 or greater.  Rules to the contrary
-          nonwithstanding, if the current value of the Political
-          Charge cannot be determined by reasonable effort, it shall
-          be considered to be reset to 4.  The Assessor is responsible
-          for tracking the current Political Charge.
-
-History:
-Created by Proposal 4486 (Michael), 24 April 2003
-Amended(1) by Proposal 4526 (Steve), 8 September 2003
-Amended(2) by Proposal 4555 (Elysion), 22 March 2004
-Amended(3) by Proposal 4621 (Goethe), 20 November 2004
-Amended(4) by Proposal 4626 (Goethe), 20 November 2004
-
-----------------------------------------------------------------------
-
-Rule 106/1 (Power=3)
+Rule 106/2 (Power=3)
 Adopting Proposals
 
-      All Proposals made and distributed in the proper way shall
-      be voted upon.  A Proposal shall be adopted if and only if
-      it receives the required number of votes and if Quorum is
-      achieved.
+      Determining whether to adopt a proposal is an Agoran decision.
+      For this decision, the available options are FOR, AGAINST, and
+      PRESENT, and by default, the eligible voters are the active
+      players, the adoption index is the adoption index of the
+      proposal, and the vote collector is the Assessor.
+
+      If the option selected by Agora on this decision is ADOPTED,
+      then the proposal is adopted, and unless other rules prevent it
+      from taking effect, its power is set to the minimum of four and
+      its adoption index, and then it takes effect.  It does not
+      otherwise take effect.  This rule takes precedence over any rule
+      which would permit a proposal to take effect.
 
 History:
 Initial Immutable Rule 106, Jun. 30 1993
@@ -3069,51 +2813,59 @@ Amended by Proposal 1278, Oct. 24 1994
 Renumbered from 1073 to 106 by Rule 1295, Nov. 1 1994
 Infected, but not amended, by Rule 1454, May 7 1995
 Amended(1) by Proposal 3736 (Blob), May 3 1998
+Amended(2) by Proposal 4811 (Maud, Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 2034/1 (Power=3)
+Rule 2034/2 (Power=3)
 Vote Protection and Cutoff for Challenges
 
-      Any Proposal that, as all or part of its effect, would change an
-      entity's vote on an Issue for which the voting period has begun
-      but for which no official voting report has been published at
-      the time of the Proposal's adoption shall be wholly without
-      effect, any Rule to the contrary notwithstanding.
+      Any proposal that, as all or part of its effect, would change
+      the validity of one or more of a voter's ballots on an Agoran
+      decision whose voting period has begun but which has not yet
+      been resolved shall be wholly without effect, any rule to the
+      contrary notwithstanding.
 
-      Once an official voting report has been published for that
-      Issue, no votes on that Issue may be changed or cancelled, and
-      the outcome of the Issue may not be changed in any way, any Rule
-      to the contrary notwithstanding. Nothing in this Rule shall be
+      Once an Agoran decision has been resolved, no ballots on that
+      decision may be validly submitted or retracted, and the outcome
+      of the decision may not be changed in any way, any rule to the
+      contrary notwithstanding.  Nothing in this rule shall be
       construed as preventing the correction of errors in reporting
-      the results of voting on Issues.
+      the resolution of an Agoran decision.
 
-      If the results of an issue are not challenged within seven days
-      after the Vote Collector announces them, then the announced
-      results are the true results of that issue, even if they would
-      otherwise be in error.
+      If the success of the resolution of an Agoran decision is not
+      challenged within one week from the time the vote collector
+      announces it, then the announced result is the true result of
+      that decision, even if it would otherwise be in error.
 
 History:
 Created by Proposal 4366 (Steve), 23 August 2002
 Amended(1) by Proposal 4637 (Murphy), 19 February 2005
+Amended(2) by Proposal 4811 (Maud, Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 693/6 (Power=2)
+Rule 693/7 (Power=3)
 Prescribed Voting Period
 
-      The Voting Period for a Proposal is seven days, beginning when
-      the Proposal is distributed.  Other Rules may specify other
-      lengths of Voting Periods for particular classes of Proposals.
+      When the rules calls for an Agoran decision to be made, the
+      decisionmaking process takes place in the following three
+      stages:
 
-[CFJ 1110 (Judged Dec. 11 1998; Appeal completed Dec. 22 1998) &
- CFJ 1111 (Judged Dec. 22 1998): When the voting period of a proposal
- whose voting period is in progress is changed via amendment of this
- Rule, an attempted vote is effective if (in addition to satsifying
- any other requirements imposed by the Rules) it was made after the
- start of the voting period and prior to its end, those times being
- determined by the text of this Rule at the time the vote is
- attempted.]
+      (a) Initiation of the decision: The decisionmaking process
+          begins when a person authorized to initiate the decision
+          announces the matter to be decided, including any additional
+          information the rules require to be in that announcement.
+
+      (b) Voting of the people: Immediately thereafter, the voting
+          period for the decision begins.  During the voting period,
+          eligible voters may vote on the matter, as described
+          elsewhere.
+
+      (c) Resolution of the decision: After the voting period for the
+          decision ends, any person authorized by the rules to resolve
+          the decision may announce that the matter has been decided,
+          specifying the option selected by Agora.
 
 History:
 Initial Mutable Rule 205, Jun. 30 1993
@@ -3126,31 +2878,52 @@ Amended(4) by Proposal 3809 (General Chaos), Dec. 7 1998
 Amended(5) by Proposal 3921 (Wes), Oct. 3 1999
 Amended(6) by Proposal 3968 (harvel), Feb. 4 2000
 Power changed from 1 to 2 by Proposal 4040 (Oerjan), Aug. 7 2000
+Power changed from 2 to 3 by Proposal 4811 (Maud,Goethe), 20 June 2005
+Amended(7) by Proposal 4811 (Maud, Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 1933/8 (Power=2)
+Rule 2117/0 (Power=3)
+Replacing the Vote Collector
+
+      If the rules indicate that an office is to be responsible for
+      collecting votes on a particular Agoran decision, then the
+      holder of that office is the default vote collector for that
+      decision.
+
+      The vote collector for a particular Agoran decision is tardy if
+      and only if the voting collector has continuously held that role
+      for at least seven days following the end of the voting period
+      and the decision has not yet been resolved.  If a vote collector
+      is tardy, then the first player to announce that e takes up the
+      role of vote collector becomes the vote collector for that
+      decision.
+
+      This rule takes precedence over any rule that would allow the
+      vote collector for an Agoran decision to be changed.
+
+History:
+Created by Proposal 4811 (Maud, Goethe), 20 June 2005
+
+----------------------------------------------------------------------
+
+Rule 1933/9 (Power=2)
 A Proposal's Chamber
 
-      Chamber is a stuck switch for Proposals with values Ordinary and
-      Democratic.
+      Chamber is a stuck proposal switch with values democratic and
+      ordinary.
 
-      An Ordinary Proposal with Adoption Index of two (2) or greater
-      is a Stalled Proposal.  Rules to the contrary notwithstanding, a
-      Proposal is Undistributable while it is Stalled. If a proposal
-      is distributed that was Stalled at the time of distribution, the
-      Promotor shall abort it as soon as possible.
+      An ordinary proposal with adoption index of two or greater is
+      stalled.  Rules to the contrary notwithstanding, a proposal is
+      undistributable while it is stalled.  If a proposal is
+      distributed that was stalled at the time of distribution, its
+      chamber shall immediately and automatically be flipped to
+      democratic.
 
-      Every Proposal is initially Democratic, unless its Adoption
-      Index is less than two (2), in which case it is initially
-      Ordinary.  The Chamber of a Proposal may only be changed as
-      specified by an instrument with Power greater than or equal to
-      two (2).
-
-      Whenever a Proposal's Chamber is changed while the Proposal is
-      in its Voting Period, it is Aborted as described elsewhere and
-      returned to the Proposal Pool with its Distributability and
-      other characteristics intact.
+      While a proposal is in the Proposal Pool, its proposer may flip
+      its chamber by announcement.  This rule takes precedence over
+      any rule that would permit the chamber of a proposal to be
+      changed.
 
 History:
 Created by Proposal 3980 (Steve), Mar. 1 2000
@@ -3163,47 +2936,35 @@ Amended(5) by Proposal 4539 (Goethe), 16 November 2003
 Amended(6) by Proposal 4570 (Elysion), 2 May 2004
 Amended(7) by Proposal 4590 (Elysion), 4 July 2004
 Amended(8) by Proposal 4599 (root), 11 July 2004
+Amended(9) by Proposal 4811 (Maud, Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 1950/11 (Power=2)
-Voting Power
+Rule 1950/12 (Power=3)
+Voting Limits
 
-      (a) An entity's Voting Power on an Ordinary Proposal is as
-          follows:
-            (1) A Shareholder: eir Share Holdings;
-            (2) the Deckmastor: the number of Share Cards in the Deck
-                or three, whichever is smaller; plus eir Share
-                Holdings (if e is a Shareholder);
-            (3) Any other entity: zero.
+      The voting limit of an eligible voter on a referendum or an
+      election is always one and cannot be changed.
 
-      (b) An entity's Voting Power on a Democratic Proposal is as
-          follows:
-          (1) A Player:
-                  (i)  that Player's Voting Potential if that Player
-                       has Sente.
-                  (ii) one otherwise.
-          (2) Any other entity: as defined in the Rules, with a
-              default of zero if the Rules don't specify the Voting
-              power on a Democratic Proposal for that entity.
+      The voting limit of an eligible voter on a non-ordinary proposal
+      is one.
 
-      (c) The value of an entity's Voting Power for any given Chamber
-          at the beginning of each Week shall be in effect for all
-          Proposals distributed during that Week. However, if a
-          Proposal's Chamber is changed after it has been distributed,
-          the Voting Power of each entity for that Proposal is
-          redetermined at the time the Chamber is changed.
+      The voting limit of an eligible voter on an ordinary proposal is
+      the sum of:
 
-      (d) An entity may cast as many votes as e wishes on a Proposal,
-          in any combination, up to the limit determined by that
-          entity's Voting Power on that Proposal, with the exceptions
-          that:
-              (1) no Player may vote on an Ordinary Proposal unless e
-                  is a Shareholder or the Deckmastor at the time e
-                  casts eir vote.
+      (a) one;
 
-      Other rules with Power of at least 2 may modify a player's
-      Voting Power.
+      (b) eir Share Holdings; and
+
+      (c) the minimum of three and the number of Share cards in the
+          Deck, if e is the Deckmastor.
+
+      After the voting period for an Agoran decision has ended, the
+      vote collector shall permit the first valid ballots submitted by
+      an eligible voter to remain valid, up to a number equal to that
+      person's voting limit on that decision as determined when the
+      voting period for that decision began, and shall invalidate all
+      subsequent ballots submitted by that voter on that decision.
 
 History:
 Created by Proposal 4032 (t), Jul. 24 2000
@@ -3218,20 +2979,36 @@ Amended(8) by Proposal 4576 (root), 31 May 2004
 Amended(9) by Proposal 4624 (Goethe), 20 November 2004
 Amended(10) by Proposal 4665 (Kolja), 9 April 2005
 Amended(11) by Proposal 4685 (Quazie, Murphy), 18 April 2005
+Power changed from 2 to 3 by Proposal 4811 (Maud,Goethe), 20 June 2005
+Amended(12) by Proposal 4811 (Maud, Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 683/11 (Power=1)
-Voting on Proposals
+Rule 683/12 (Power=3)
+Voting on Agoran Decisions
 
-      A Voter authorised to cast votes on a particular Proposal may do
-      so only by informing the Assessor of the vote or votes e is
-      casting on that Proposal. A Voter may change or cancel eir vote
-      or votes during the Voting Period by informing the Assessor.
+      An eligible voter on a particular Agoran decision submits a
+      ballot to the vote collector by publishing a valid notice
+      indicating which one of the available options e selects.  To be
+      valid, the ballot must satisfy the following conditions:
 
-      A vote upon a Proposal must be one of FOR, AGAINST, or ABSTAIN
-      (or an obvious synonym of one of these).  Something which is not
-      one of these is not a vote upon a Proposal.
+      (a) The ballot is submitted by an eligible voter during the
+          voting period for the decision.
+
+      (b) The ballot clearly identifies the matter to be decided.
+
+      (c) The ballot clearly identifies the option selected by the
+          voter.
+
+      (d) The voter has not publicly retracted the ballot during the
+          voting period.
+
+      The strength of an option is the number of valid ballots
+      selecting that option.
+
+      Other rules may place further constraints on the validity of
+      ballots.  This rule takes precedence over any rule that would
+      loosen the constraints specified by this rule.
 
 History:
 Initial Mutable Rule 207, Jun. 30 1993
@@ -3247,6 +3024,8 @@ Amended(8) by Proposal 3968 (harvel), Feb. 4 2000
 Amended(9) by Proposal 3972 (Peekee), Feb. 14 2000
 Amended(10) by Proposal 4190 (Steve), 18 July 2001
 Amended(11) by Proposal 4699 (Sherlock), 18 April 2005
+Power changed from 1 to 3 by Proposal 4811 (Maud,Goethe), 20 June 2005
+Amended(12) by Proposal 4811 (Maud, Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
 
@@ -3272,92 +3051,37 @@ Amended(5) by Proposal 4725 (root), 25 April 2005
 
 ----------------------------------------------------------------------
 
-Rule 1715/6 (Power=1)
-Announcing One's Presence
-
-      A Player may declare that e is PRESENT on an Issue which is not
-      an Ordinary Proposal by sending a message to that effect to the
-      Issue's Vote Collector. Solely for the purpose of determining
-      Quorum, this Player is considered to have voted on that Issue.
-      If e also casts a Vote on that Issue, e is counted only once
-      toward Quorum.
-
-History:
-Created by Proposal 3481 (General Chaos), May 11 1997
-Amended(1) by Proposal 3519 (Steve), Jun. 23 1997
-Amended(2) by Proposal 3596 (Kolja A.), Nov. 14 1997, substantial
-Amended(3) by Proposal 3756 (Steve), Jun. 12 1998
-Amended(4) by Rule 1715, Aug. 12 1998
-Amended(5) by Proposal 3946 (harvel), Dec. 28 1999
-Amended(6) by Proposal 3980 (Steve), Mar. 1 2000
-
-----------------------------------------------------------------------
-
-Rule 2019/2 (Power=2)
+Rule 2019/3 (Power=2)
 The Speaker's Veto
 
-      At any time during the voting period of an ordinary proposal,
-      the Speaker may veto that proposal with the support of one-third
-      of all shareholders, rounded down.  When e does so, the proposal
-      becomes extraordinary.
+      During the voting period of a non-democratic proposal, the
+      Speaker may veto it, with two support.  When e does so, the
+      adoption index of that proposal is increased by one.
 
 History:
 Created by Proposal 4276 (Steve), 28 March 2002
 Amended(1) by Proposal 4576 (root), 31 May 2004
 Amended(2) by Proposal 4717 (Murphy), 25 April 2005
+Amended(3) by Proposal 4811 (Maud, Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 1764/14 (Power=1)
-Modes of Voting
+Rule 1764/15 (Power=1)
+Modes of Nomination
 
-      There are three classes of Issues: Proposals, Elections, and
-      Referenda.
+      There are three modes of nomination for elections: selfless,
+      selfish, and open.  If the player who initiated the election
+      does not specify the mode of nomination for an election, it is
+      selfish.
 
-      (a) There are three possible modes of voting on Issues: Public,
-          Private and Unrestricted.  If not otherwise defined, the
-          prevailing mode for each class of Issue is Public.
+      (1) In a selfless election, any nominator may nominate any
+          prospective besides emself.
 
-      (b)  (1) The Assessor may change the prevailing mode of voting
-               for Proposals, with Support.
+      (2) In a selfish election, any nominator who is a prospective
+          may nominate emself.
 
-           (2) The Associate Director of Personnel may change the
-               prevailing mode of voting for Elections, with Support.
-
-           (3) The prevailing mode of Referenda is always Public.
-
-      (c) When the Voting Period on an Issue begins, the mode of
-          voting for that particular Issue is permanently set to the
-          prevailing mode for that class of Issue.
-
-      (d)  (1) If the mode of voting is Public, then any other Rule to
-               the contrary notwithstanding, the casting of any votes,
-               or the declaration of Presence, by Voters on that
-               Issue, may only be achieved by sending a message to the
-               Public Forum.
-
-           (2) If the mode of voting is Private, then any other Rule
-               to the contrary notwithstanding, the casting of any
-               votes, or the declaration of Presence, by Voters
-               on that Issue, may only be achieved by sending a
-               message privately to the Vote Collector.
-
-           (3) If the mode of voting is Unrestricted, then any other
-               Rule to the contrary notwithstanding, the casting of
-               any votes, or the declaration of Presence, by Voters
-               on that Issue, may be achieved by sending a message
-               either publicly or privately.
-
-      (e) If the mode of voting is Private or Unrestricted, then the
-          status of any votes cast privately is secret until the end
-          of the voting period.  Any player who knowingly reveals the
-          status of any vote to any player besides the Assessor
-          commits the Crime of Unlawful Vote Disclosure, a Class 5
-          Crime.
-
-[CFJ 1124, Judged TRUE Apr. 26 1999: "Votes sent to the
- agora-discussion mailing list are neither 'sent publically' nor 'sent
- privately', and so are not valid when voting is Unrestricted."]
+      (3) In an open election, any nominator may nominate any
+          prospective.
 
 History:
 Created by Proposal 3658 (Steve), Jan. 8 1998
@@ -3375,6 +3099,7 @@ Amended(11) by Proposal 4099 (Murphy), Jan. 15 2001
 Amended(12) by Proposal 4142 (Murphy), Apr. 15 2001
 Amended(13) by Proposal 4759 (Manu, Sherlock), 15 May 2005
 Amended(14) by Proposal 4768 (root), 25 May 2005
+Amended(15) by Proposal 4811 (Maud, Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
 
@@ -3385,19 +3110,13 @@ The End of the Voting Period
   the Voting Period or upon the announcement of Proposal results.
 ----------------------------------------------------------------------
 
-Rule 879/21 (Power=2)
+Rule 879/22 (Power=2)
 Quorum
 
-      (a) An ordinary proposal achieves quorum if at least three
-          players cast votes on it, and the Speaker did not veto it.
-
-      (b) A democratic proposal achieves quorum if at least one third
-          of all active noisy players cast votes on it.
-
-      (c) Quorum for a democratic proposal shall be determined from
-          the number of active noisy players at the time that the
-          proposal was distributed, or at the time it was made a
-          democratic proposal, whichever is later.
+      The quorum for an Agoran decision is one third the number of
+      eligible voters, rounded up, with a minimum of five (unless
+      there are fewer than five eligible voters, in which case the
+      quorum level is the number of eligible voters).
 
 CFJ 1562 (Judged TRUE, 6 May 2005): "A cancelled vote on a Proposal
  does not count towards quorum."
@@ -3429,15 +3148,36 @@ Amended(18) by Proposal 4311 (root), 28 May 2002
 Amended(19) by Proposal 4410 (Steve), 6 November 2002
 Amended(20) by Proposal 4576 (root), 31 May 2004
 Amended(21) by Proposal 4665 (Kolja), 9 April 2005
+Amended(22) by Proposal 4811 (Maud, Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 208/2 (Power=1)
-End of the Voting Period
+Rule 208/3 (Power=3)
+Resolving Agoran decisions
 
-      As soon as possible after the end of the Voting Period on a
-      given Proposal, the Assessor shall publish all the Votes cast
-      upon that Proposal.
+      The vote collector for a particular Agoran decision is
+      authorized to resolve that decision, and does so by publishing a
+      valid notice which states that the matter has been resolved,
+      indicating the option selected by Agora.  To be valid, this
+      notice must satisfy the following conditions:
+
+      (a) It is published after the voting period has ended.
+
+      (b) It clearly identifies the matter to be resolved.
+
+      (c) It clearly identifies the options available.
+
+      (d) It specifies which option was selected by Agora, as
+          described elsewhere, and provides a tally of the voters'
+          valid ballots on the various options.
+
+      Each Agoran decision shall have at most one vote collector at a
+      time.  The identity of the vote collector is set by the message
+      initiating the decision, and can only be changed as specified by
+      other rules with power at least as great as that of this rule.
+
+      This rule takes precedence over any rule that would provide
+      another mechanism by which an Agoran decision may be resolved.
 
 [CFJ 707: A Player may not change eir Vote after the end of the Voting
  Period.]
@@ -3446,30 +3186,47 @@ History:
 Initial Mutable Rule 208, Jun. 30 1993
 Amended(1) by Proposal 1401, Jan. 29 1995
 Amended(2) by Proposal 1531, Mar. 24 1995
+Amended(3) by Proposal 4811 (Maud, Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 955/8 (Power=3)
-Votes Required to Adopt a Proposal
+Rule 955/9 (Power=3)
+Determining the Will of Agora
 
-      (a) When the Voting Period for a Proposal has ended, the
-          uncancelled votes which have been legally cast shall be
-          counted by the Assessor. The Proposal shall then be assigned
-          a Voting Index, as follows: if the Proposal received no
-          votes against, and at least one vote for, the Voting Index
-          shall be Unanimity; if there are no votes for, the Voting
-          Index shall be zero; in all other cases, the Voting Index
-          shall be the number of votes for divided by the number of
-          votes against.
+      To determine which option on a particular Agoran decision was
+      selected by Agora, the vote collector shall perform the
+      following steps in order after the voting period has ended.
 
-      (b) If the Voting Index is greater than one, and greater than or
-          equal to the Adoption Index for the Proposal, and if Quorum
-          for the Proposal is achieved, then that Proposal is adopted.
-          Otherwise, it fails.
+      (a) E shall invalidate any ballots which the rules require em to
+          invalidate, and no others.
 
-      (c) A Proposal may not have its Voting Index set except as
-          described in this Rule.  A Proposal cannot be adopted except
-          as described in this Rule.
+      (b) E shall count the number of distinct voters who submitted
+          ballots which remain valid.  If this number is less than the
+          quorum and there is more than one available option, then the
+          option selected by Agora is FAILED QUORUM.  Otherwise, the
+          decision achieved quorum.
+
+      (c) If the decision is whether to adopt a proposal or
+          referendum, e shall determine the voting index as follows:
+
+          (1) if the strength of FOR is positive and the strength of
+              AGAINST is zero, then the voting index is Unanimity; but
+
+          (2) if the strength of FOR is zero, then the voting index is
+              zero; otherwise,
+
+          (3) the voting index is the ratio of the strength of FOR to
+              the strength of AGAINST.
+
+          If the voting index exceeds one and meets or exceeds the
+          adoption index of the decision, and if further quorum was
+          achieved, then the option selected by Agora is ADOPTED.
+          Otherwise, the option selected by Agora is REJECTED.
+
+      (d) If the decision is an election, then as long as quorum is
+          achieved, the vote collector has the privilege to choose any
+          option the strength of which meets or exceeds that of any
+          other option to be the option selected by Agora.
 
 History:
 Initial Mutable Rule 209, Jun. 30 1993
@@ -3488,6 +3245,7 @@ Amended(5) by Proposal 3818 (Chuck), Dec. 21 1998
 Amended(6) by Proposal 4263 (Steve), 4 March 2002
 Amended(7) by Proposal 4302 (Murphy), 17 May 2002
 Amended(8) by Proposal 4412 (Steve), 6 November 2002
+Amended(9) by Proposal 4811 (Maud, Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
 
@@ -3518,13 +3276,25 @@ Amended(4) by Proposal 4717 (Murphy), 25 April 2005
 
 ----------------------------------------------------------------------
 
-Rule 1322/3 (Power=3)
-Effectiveness of Rule Changes
+Rule 1322/4 (Power=3)
+Modification of Rules
 
-      A given Rule Change shall not take effect unless the Power of
-      the instrument which specified it is at least as great as the
-      greater of the current Power of the Rule to be Changed (if any)
-      and the Power the Rule would have after the Change (if any).
+      A proposal can generally, as part of its effect, modify the
+      power, title, or text of a rule with power no greater than its
+      own.  However, a proposal cannot cause a rule to have power
+      greater than its own.  Any ambiguity in a modification specified
+      by a proposal causes that modification to be void and without
+      effect.  A variation in whitespace or capitalization in the
+      quotation of an existing rule does not constitute ambiguity for
+      the purposes of this rule, but any other variation does.
+
+      When a rule is modified, the Rulekeepor shall generally record
+      an increase by one in its revision number.  If a single proposal
+      modifies a regulation several times, the Rulekeepor shall only
+      record a single increase of its revision number.
+
+      This rule provides the only mechanism by which rules can be
+      modified.
 
 History:
 Created by Proposal 1322, Nov. 21 1994
@@ -3533,6 +3303,7 @@ Amended(2) by Proposal 2398, Jan. 20 1996
 Mutated from MI=1 to MI=3 by Proposal 2398, Jan. 20 1996
 Infected, but not Amended, by Rule 1454, Nov. 27 1996
 Amended(3) by Proposal 3445 (General Chaos), Mar. 26 1997, substantial
+Amended(4) by Proposal 4811 (Maud, Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
 
@@ -3554,30 +3325,6 @@ Initial Immutable Rule 108, Jun. 30 1993
 Amended by Proposal 1276, Oct. 24 1994
 Renumbered from 1074 to 108 by Rule 1295, Nov. 1 1994
 Amended(1) by Proposal 3572 (Steve), Oct. 30 1997, substantial
-
-----------------------------------------------------------------------
-
-Rule 376/4 (Power=2)
-When Proposals Take Effect
-
-      A Proposal which is Adopted takes effect at the time date-
-      stamped on the first message sent by the Assessor to reach
-      the Public Forum announcing the results of the voting on that
-      Proposal.
-
-      If the message sent by the Assessor announcing the results of
-      the voting on a Proposal also contains the results of voting
-      upon other Proposals, all such Proposals shall take effect at
-      the same time, but in the order in which they were distributed.
-
-History:
-Created by Proposal 376 (Ronald Kunne), ca. Aug. 16 1993
-...
-Amended(1) by Proposal 1271, Oct. 24 1994
-Amended(2) by Proposal 1490, Mar. 15 1995
-Amended(3) by Proposal 1531, Mar. 24 1995
-Amended(4) by Proposal 3842 (Chuck), Mar. 15 1999
-Power changed from 1 to 2 by Proposal 4040 (Oerjan), Aug. 7 2000
 
 ----------------------------------------------------------------------
 
@@ -3620,54 +3367,6 @@ Created by Proposal 3445 (General Chaos), Mar 26. 1997
 
 ----------------------------------------------------------------------
 
-Rule 1349/0 (Power=2)
-Rule Numbering
-
-      The Rulekeepor shall give each newly-enacted Rule a Number for
-      reference when it is created.  The Number of a Rule shall be the
-      least integer greater than all other Numbers previously given to
-      a Rule (including numbers assigned to Rules later determined to
-      have been incorrectly enacted), or 301, whichever is greater.
-
-      Once a Rule has been given a Rule Number, it shall not be
-      changed except as specified in the Rules.
-
-History:
-Created by Proposal 1349, Nov. 29 1994
-Mutated from MI=1 to MI=2 by Proposal 2663, Sep. 12 1996
-
-----------------------------------------------------------------------
-
-Rule 1069/1 (Power=1)
-Amendment Numbers
-
-      A Rule's Amendment Number is equal to the number of times a
-      Rule having that Rule Number has been amended. The default
-      Amendment Number is zero; this is the value of a Rule's
-      Amendment Number when the Rule is Created, and it is the value
-      of the Amendment Number of every Rule unless it is specified by
-      the Rules to be otherwise.
-
-      A Rule's Amendment Number shall be displayed in Official copies
-      of the Ruleset, appended to the Rule Number, and separated by a
-      forward slash.  Responsibility is given to the Rulekeepor to
-      accurately update Amendment Numbers.
-
-      Amendment Numbers may be used for Official purposes and in
-      Official documents to distinguish between old versions of a
-      Rule and the Rule's current text.
-
-[CFJ 738: If no Amendment Number is present in a communication, it
- is assumed to mean the current version of a Rule.]
-
-History:
-Created by Proposal 750 (Waggie), Dec. 1 1993
-Amended by Proposal 1069 (Steve), Oct. 4 1994
-Amended by Rule 750, Oct. 4 1994
-Amended(1) by Proposal 1502, Mar. 24 1995
-
-----------------------------------------------------------------------
-
 Rule 947/19 (Power=1)
 Bonus for Repeal
 
@@ -3705,38 +3404,41 @@ Amended(19) by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
-Rule 2095/2 (Power=1)
+Rule 2095/3 (Power=1)
 The Assessor's Boon Duties
 
-      * If a Proposal passes, and that Proposal was submitted by a
-        Player within that Player's Grace Period, then the Assessor
-        shall award the Proposor the Boon of Prodigy, unless the
-        Proposor has already received five or more such awards.
+      If a proposal is submitted and adopted during that player's
+      Grace Period, then the Assessor shall award that player the boon
+      of Prodigy.
 
-      * If a Democratic Proposal passes, and no Votes were cast
-        AGAINST it, then the Assessor shall award the Proposor the
-        Boon of Zeitgeist.
+      If a proposal is adopted, and nobody voted AGAINST it, then the
+      Assessor shall award its proposer the boon of Zeitgeist.
 
-      * If a proposal submitted on Guy Fawkes Day is adopted then the
-        Assessor shall award the proposer the boon of a penny.
+      If a proposal submitted on Guy Fawkes Day is adopted, then the
+      Assessor shall award its proposer the boon of A Penny.
 
 History:
 Created by Proposal 4696 (Quazie), 18 April 2005
 Amended(1) by Proposal 4761 (root), 15 May 2005
 Amended(2) by Proposal 4787 (Sherlock), 6 June 2005
+Amended(3) by Proposal 4811 (Maud, Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 2111/0 (Power=1)
+Rule 2111/1 (Power=1)
 Hard Ruleset Limits
 
-      If there are 300 or more Rules, and a Proposal is adopted that
+      If there are 200 or more Rules, and a Proposal is adopted that
       would increase the total number of Rules, the Proposer commits
       the Class 2 Infraction of Improper Rules Fattening, reportable
       by anyone.
 
 History:
 Created by Proposal 4795 (Sherlock), 6 June 2005
+Amended(1) by Proposal 4812 (Sherlock), 20 June 2005
+Amended(2) by Proposal 4813 (Sherlock), 20 June 2005
+Amended(3) by Proposal 4814 (Sherlock), 20 June 2005
+Amended(4) by Proposal 4815 (Sherlock), 20 June 2005
 
 ----------------------------------------------------------------------
 
@@ -3746,81 +3448,18 @@ Referenda and Elections
   other than Proposals, particularly Referenda and Elections.
 ----------------------------------------------------------------------
 
-Rule 1434/13 (Power=1)
+Rule 1434/14 (Power=2)
 Default Procedure for Referendum Voting
 
-      When a Referendum Vote is required and the procedure is not
-      defined elsewhere, the following Standard Referendum Voting
-      Procedure shall be used.  Details specified herein are defaults
-      which may be modified by other Rules for specific situations.
+      Determining whether to adopt a referendum is an Agoran decision.
+      For this decision, the available options are FOR, AGAINST, and
+      PRESENT, and the eligible voters are the players.
 
-      This procedure shall under no circumstances be used for Voting
-      on Proposals, unless specifically required by the Rules
-      governing specific types of Proposals.
-
-      * Vote Collector: The Vote Collector is responsible for
-        collecting and tallying the Votes, and announcing the results.
-        The Vote Collector is the Speaker at the time the Referendum
-        begins.
-
-      * Disappearance of Vote Collector: If the Vote Collector
-        deregisters or is deregistered before announcing the results
-        of the Referendum, then the Referendum fails.
-
-      * Voters:  For the purpose of this Rule, a Voter is an entity
-        permitted to Vote on a Referendum.  Only Active Players are
-        Voters.  Activity is measured at the time a Vote is sent.
-
-      * Voting: A Voter Votes by sending eir Vote to the Vote
-        Collector during the Voting Period, indicating what Referendum
-        e is Voting on, and what eir Vote is.
-
-      * Vote Values: A Vote is FOR, AGAINST, or ABSTAIN.  Words which
-        are effectively synonymous with these are also permissible.
-
-      * Vote Strength: Every Vote has equal strength.  No Voter may
-        Vote more than once on any single Referendum.
-
-      * Retraction: During the Voting period a Voter may change or
-        cancel any Vote e has sent to the Vote Collector by notifying
-        the Vote Collector.
-
-      * Start of Voting: The Voting Period begins at the time of the
-        first correct and legal public announcement that a Referendum
-        has begun, as defined in other Rules.  Such an announcement
-        must include the identity of the Vote Collector.
-
-      * Duration of Voting: The Voting Period lasts for one Week.  All
-        Votes received by the Vote Collector outside of the Voting
-        Period have no effect.
-
-      * Secrecy During Voting: At any time, the Vote Collector may
-        publish a list of Voters who have Voted.  However, the Vote
-        Collector shall not reveal the value of any Voter's Vote to
-        anyone but that Voter, unless e has the Voter's permission to
-        do so.
-
-      * Announcement of Results: As soon as possible after the end of
-        the Voting Period, the Vote Collector shall announce the
-        number of Votes of each kind, as well as the name and Vote of
-        each Entity that Voted. If e does not do this as soon as
-        possible, then the Referendum fails.
-
-      * Quorum: Quorum is one third of the eligible Voters at the
-        beginning of the Voting Period.  If fewer Voters Vote, then
-        the Referendum fails.
-
-      * Adoption Index:  The Adoption Index of a Referendum is 1.
-
-      * Adoption Ratio: The Adoption Ratio of a Referendum is the
-        ratio of FOR Votes to AGAINST Votes.  If the Adoption Ratio is
-        greater than the Adoption Index (or if both are Unanimity),
-        and if the Referendum does not fail for some other reason,
-        then it passes; otherwise, it fails.
-
-      * Effectiveness: A Referendum takes effect when the Vote
-        Collector correctly announces that it passes.  The effect of a
-        Referendum is defined by other Rules.
+      If the option selected by Agora on this decision is ADOPTED,
+      then the referendum is adopted, and unless other rules prevent
+      it from taking effect, it takes effect.  It does not otherwise
+      take effect.  This rule takes precedence over any rule which
+      would permit a referendum to take effect.
 
 History:
 Created by Proposal 1456, Mar. 1 1995
@@ -3837,114 +3476,66 @@ Amended(10) by Proposal 4258 (Murphy), 21 February 2002
 Amended(11) by Proposal 4629 (Murphy), 19 December 2004
 Amended(12) by Proposal 4637 (Murphy), 19 February 2005
 Amended(13) by Proposal 4699 (Sherlock), 18 April 2005
+Power changed from 1 to 2 by Proposal 4811 (Maud,Goethe), 20 June 2005
+Amended(14) by Proposal 4811 (Maud, Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 1445/18 (Power=1)
+Rule 2118/0 (Power=1)
+Nominations for Election
+
+      A person is a nominator and a prospective in an election only if
+      e is an active player.  The rules may further restrict validity
+      of nominators and prospectives.
+
+      A nominator nominates a prospective in a specified election by
+      announcement.  That nominator may publicly retract eir
+      nomination of that prospective.
+
+      A prospective may publicly decline eir nomination; if e does so,
+      e may not be further nominated in that election.
+
+      A nominee in an election is a prospective who has been nominated
+      and whose nomination has not been retracted or declined.
+
+History:
+Created by Proposal 4811 (Maud, Goethe), 20 June 2005
+
+----------------------------------------------------------------------
+
+Rule 1445/19 (Power=1)
 Defaults for Elections
 
-      When an Election is required and the procedure is not defined
-      elsewhere, the following Standard Election Procedure shall be
-      used.  Details specified herein are defaults which may be
-      modified by other Rules for specific situations.
+      When the rules require a player to hold an election, e shall
+      perform the following actions in order, beginning as soon as
+      possible:
 
-      * Vote Collector: The Vote Collector is responsible for taking
-        nominations, collecting and tallying the Votes, and announcing
-        the results.  The Vote Collector is the Speaker at the time
-        the Election begins.
+      (a) E shall publish a call for nominees, optionally specifying
+          the mode of nominations for the upcoming election.  One week
+          later, if there are no nominees, e shall repeat this step in
+          its entirety.
 
-      * Disappearance of Vote Collector: If the Vote Collector
-        deregisters or is deregistered before announcing the winner of
-        the Election, then the Election has no winner.
+      (b) E shall initiate an election, which is an Agoran decision.
+          For this decision:
 
-      * Nominator: A Nominator is an entity permitted to Nominate a
-        Candidate in an Election.  Only Active Players are Nominators.
-        Activity is measured at the time a Nomination is sent.
+          (1) The available options are the nominees.  Eir
+              announcement initiating the election must indicate the
+              available options.
 
-      * Prospective: A Prospective is an entity permitted to be
-        Nominated as a Candidate in an Election.  Only Active Players
-        are Prospectives.  Activity is measured at the time a
-        Nomination is sent.
+          (2) The eligible voters are the active players.
 
-      * Nominating: A Nominator Nominates a Prospective by sending a
-        message to the Vote Collector during the Nominating Period,
-        indicating the Election and the Prospective.  If the
-        Prospective is not explicitly identified, then it is the same
-        as the Nominator.
+          (3) E is the vote collector.
 
-      * Candidates: A Candidate for an Election is a Prospective who
-        has been Nominated in that Election.
+          (4) If the vote collector has not yet resolved the election,
+              then any nominee may stand down by announcement.  When a
+              nominee stands down, e is removed from the list of
+              options for the election.
 
-      * Retraction: A Nominator may retract eir Nomination by sending
-        a message to the Vote Collector during the Nominating Period,
-        indicating the Election and the Prospective.  If the
-        Prospective is not explicitly identified, then it is the same
-        as the Nominator.
-
-      * Declination: A Prospective may decline eir Nomination by
-        sending a message to the Vote Collector during the Nominating
-        Period, indicating the Election.  Upon doing so, e may not be
-        re-Nominated in that Election by anyone but emself.
-
-      * Mode of Nominations: There are three Modes of Nominations:
-        Selfish, Selfless, or Open.  The Vote Collector may specify a
-        Mode of Nominations when e announces the start of the
-        Election; if e does not, then the Mode is Selfish.
-
-        (a) In a Selfish Election, a Nominator may Nominate only
-            emself.
-        (b) In a Selfless Election, a Nominator may not Nominate
-            emself.
-        (c) In an Open Election, a Nominator may Nominate any
-            Prospective.
-
-      * Start of Nominations: The Nominating Period begins at the time
-        of the first correct and legal announcement that an Election
-        has begun, as defined in other Rules.  Such an announcement
-        must include the identity of the Vote Collector.
-
-      * Duration of Nominations: The Nominating Period lasts for one
-        Week.  All Nominations received by the Vote Collector outside
-        of the Nominating Period have no effect.
-
-      * Secrecy:  Nominations need not be kept secret.
-
-      * End of Nominations: As soon as possible after the end of the
-        Nominating Period, the Vote Collector shall publish a list of
-        all Candidates.  If e does not do this as soon as possible,
-        then the Election has no winner.
-
-      If there are no Candidates, then the Election has no winner.
-
-      If there is exactly one Candidate, then e is the winner of that
-      Election.
-
-      If there are two or more Candidates, then a Referendum begins
-      when the Vote Collector publishes the list of Candidates.  This
-      is a standard Referendum, with the following exceptions:
-
-      * Vote Collector: The Vote Collector for the Referendum is the
-        same as the Vote Collector for the Election.
-
-      * Vote Values: A Vote is the name of exactly one Candidate for
-        the given Election.  Words which are effectively synonymous
-        with these are also permissible.
-
-      * Failure of Referendum: If the Referendum fails for any reason
-        (e.g. Quorum is not achieved), then the Election has no
-        winner.
-
-      * Adoption: The winner of the Election is the Candidate for whom
-        the most Votes were cast.  If two or more Candidates are tied
-        for most Votes, then the Speaker shall choose one of those
-        Candidates, who becomes the winner when the Speaker announces
-        eir choice.  The Speaker shall announce eir choice as soon as
-        possible after the Vote Collector announces the results of
-        Voting.
-
-      * Effectiveness: An Election takes effect when the Vote
-        Collector correctly announces the identity of its winner.  The
-        effect of an Election is defined by other Rules.
+      (c) The vote collector for an election is required to resolve
+          the election as soon as possible after the end of its voting
+          period.  If the option selected by Agora is a nominee, that
+          nominee is the winner of the election.  Otherwise, the
+          election has no winner.
 
 History:
 Created by Proposal 1499 (Blob), Mar. 24 1995
@@ -3967,31 +3558,24 @@ Amended(15) by Proposal 4147 (Wes), 13 May 2001
 Amended(16) by Proposal 4257 (Murphy), 21 February 2002
 Amended(17) by Proposal 4480 (Steve), 23 April 2003
 Amended(18) by Proposal 4637 (Murphy), 19 February 2005
+Amended(19) by Proposal 4811 (Maud, Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
 
 Rule 1558/8 (Power=1)
 Defaults for Elections for Offices
 
-      When the Rules require that an Election be conducted to fill
-      an Office, that Election shall be conducted in accordance with
-      the usual Rules for Elections, with the following exceptions:
+      When the rules require that an election be held to fill an
+      office, that election shall be conducted in accordance with the
+      usual rules for elections, with the following exceptions:
 
-      * The Vote Collector is the Associate Director of Personnel at
-        the time the Election begins, unless the Election seeks to
-        fill the Office of Associate Director of Personnel, in which
-        case the Vote Collector is the Speaker at the time the
-        Election begins.
+      (a) If the election would be held to fill the office of
+          Associate Director of Personnel, then the election shall be
+          initiated by the Speaker; otherwise, it shall be initiated
+          by the Associate Director of Personnel.
 
-      * No Player may be Nominated who, at the time of attempted
-        Nomination, would not be permitted to hold the Office which
-        the Election is seeking to fill.
-
-      * If the Vote Collector fails to meet an ASAP requirement to
-        publish a list of Candidates, or the identity of the winning
-        Candidate, then the Election/Referendum does not fail, but
-        becomes Stale.  If a new Election for the same Office is
-        initiated, then the stale Election/Referendum fails.
+      (b) A player who is not eligible to hold the office for which
+          the election is being held is not a prospective.
 
 History:
 Created by Proposal 2442, Feb. 6 1996
@@ -4003,6 +3587,7 @@ Amended(5) by Proposal 4142 (Murphy), Apr. 15 2001
 Amended(6) by Proposal 4509 (Murphy), 10 July 2003
 Amended(7) by Proposal 4650 (Murphy), 22 March 2005
 Amended(8) by Proposal 4768 (root), 25 May 2005
+Amended(9) by Proposal 4811 (Maud, Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
 
@@ -4070,47 +3655,15 @@ Amended(2) by Proposal 4589 (Murphy), 4 July 2004
 
 ----------------------------------------------------------------------
 
-Rule 1835/4 (Power=1)
-Standing Down
-
-      During the Voting Period of an Election, any Candidate for that
-      Election may stand down, by posting a public message to that
-      effect. The player is then no longer to be considered a
-      Candidate for that Election. Any further votes cast in eir
-      favour are invalid, and e cannot win the Election.
-
-      Any votes cast for a Player who stands down are cancelled, and
-      any Player who cast such a vote is considered to have declared
-      eir Presence in that Election.  Additionally, any Player who
-      cast such a vote may vote again, unless e has already cast
-      another vote which remains uncancelled, and this Rule takes
-      precedence over any Rule which would prevent such a vote.
-
-      If, at any time during the Voting Period of an Election, there
-      remains only a single Candidate, the Voting Period ends
-      immediately, with the sole remaining Candidate as the winner of
-      that Election.
-
-History:
-Created by Proposal 3715 (Blob), Mar. 19 1998
-Amended(1) by Proposal 4035 (Chuck), Aug. 2 2000
-Amended(2) by Proposal 4147 (Wes), 13 May 2001
-Amended(3) by Proposal 4363 (OscarMeyr), 16 August 2002
-Amended(4) by Proposal 4614 (Goethe), 21 September 2004
-
-----------------------------------------------------------------------
-
-Rule 1659/5 (Power=1)
+Rule 1659/6 (Power=1)
 The Right to Call Elections
 
-      A Speaker who is not Tainted has the right to call Elections.
-      This right is exercised by posting a public announcement that
-      lists a number of Offices, and declares that the Speaker is
-      exercising eir right to call Elections for these Offices.  If
-      the Speaker posts such a message, is not Tainted at the time of
-      posting, and has not exercised this right since e last became
-      Speaker, the Electee of each Office on the list (assuming that
-      the Office has an Electee) is retired from Office.
+      The Speaker has the right to call elections, and e exercises
+      this right by a publishing a notice listing a number of offices
+      and declaring that e is exercising eir right to call elections
+      for these offices.  If e has not exercised this right since e
+      last became Speaker, then upon the publication of this notice,
+      the electee of each listed office is retired from office.
 
 History:
 Created by Proposal 2706, Oct. 12 1996
@@ -4119,6 +3672,7 @@ Amended(2) by Proposal 3452 (Steve), Apr. 7 1997, substantial
 Amended(3) by Proposal 3742 (Harlequin), May 8 1998
 Amended(4) by Proposal 4071 (Steve), Sep. 14 2000
 Amended(5) by Proposal 4147 (Wes), 13 May 2001
+Amended(6) by Proposal 4811 (Maud, Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
 
@@ -6010,39 +5564,33 @@ Amended(17) by Proposal 4250 (harvel), 19 February 2002
 
 ----------------------------------------------------------------------
 
-Rule 1681/5 (Power=1)
+Rule 1681/6 (Power=1)
 The Logical Rulesets
 
-      There is a format of the Ruleset known as the Short Logical
-      Ruleset (SLR).  In this format, each Rule is assigned to a Rule
-      Category, and the Rules are grouped according to their Category.
-      Within a Category, the ordering of Rules is decided by the
-      Rulekeepor.  All existing Rule Categories must be listed, even
-      if no Rules are currently assigned to the Category.
+      There is a format of the ruleset known as the Short Logical
+      Ruleset (SLR).  In this format, each rule is assigned to a
+      category, and the rules are grouped according to their category.
+      Within a category, the ordering of rules is decided by the
+      Rulekeepor.  All existing categories must be listed, even if no
+      rules are currently assigned to the category.
 
-      The listing of each Rule in the SLR must include:
-        * The Rule Number
-        * The Rule's Amendment Number
-        * The Rule's Power
-        * The Rule's Title
-        * The Rule's text
-        * Any annotations to the Rule required by Order
+      The listing of each rule in the SLR must include the rule's
+      number, revision number, power, title, and text, and must also
+      include any annotations to the rule required by order.
 
       The Rulekeepor is strongly encouraged not to include any
       additional information in the SLR, except that which increases
       the readability of the SLR.
 
-      There is a format of the Ruleset known as the Full Logical
-      Ruleset (FLR).  In this format, Rules are assigned to the
-      same Category and presented in the same order as in the
-      SLR.  The FLR must contain all the information required
-      to be in the SLR, as well as:
-        * A brief description of each Category
-        * Any historical annotations which the Rulekeepor is
-          required to record.
+      There is a format of the ruleset known as the Full Logical
+      Ruleset (FLR).  In this format, rules are assigned to the same
+      category and presented in the same order as in the SLR.  The FLR
+      must contain all the information required to be in the SLR, as
+      well as a brief description of each category and any historical
+      annotations which the Rulekeepor is required to record.
 
       The Rulekeepor is also free to include any other information
-      which e feels may be helpful in the use of the Ruleset in the
+      which e feels may be helpful in the use of the ruleset in the
       FLR.
 
 History:
@@ -6053,6 +5601,7 @@ Amended(2) by Proposal 3624 (Chuck), Dec. 29 1997
 Amended(3) by Proposal 3704 (General Chaos), Mar. 19 1998
 Amended(4) by Proposal 3902 (Murphy), Sep. 6 1999
 Amended(5) by Proposal 4002 (harvel), May 8 2000
+Amended(6) by Proposal 4811 (Maud, Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
 
