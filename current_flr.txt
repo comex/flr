@@ -83,7 +83,7 @@ Mutated from MI=Unanimity to MI=3 by Proposal 1484, Mar. 15 1995
 
 ----------------------------------------------------------------------
 
-Rule 2105/0 (Power=1)
+Rule 2105/1 (Power=1)
 The Map of Agora
 
                                ____  _        /|
