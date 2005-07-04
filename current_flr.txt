@@ -21,10 +21,10 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 219 Rules:
+There are currently 218 Rules:
     1 with Power=4
    28 with Power=3
-   31 with Power=2
+   30 with Power=2
   159 with Power=1
 
 Lowest current Rule Number:           101
@@ -2586,21 +2586,6 @@ History:
 Created by Proposal 4537 (Murphy), 16 November 2003
 Amended(1) by Proposal 4562 (root), 22 March 2004
 Amended(2) by Proposal 4622 (Goethe), 20 November 2004
-
-----------------------------------------------------------------------
-
-Rule 2060/0 (Power=2)
-Guy Fawkes Day
-
-      Any Proposal submitted on the Fifth of November shall become
-      upon delivery Distributable, Democratic, Urgent, and Sane, rules
-      to the contrary nonwithstanding.
-
-      If a Proposal so submitted is subsequently adopted, the Assessor
-      shall award the Proposer the Boon of A Penny.
-
-History:
-Created by Proposal 4539 (Goethe), 16 November 2003
 
 ----------------------------------------------------------------------
 
