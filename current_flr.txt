@@ -21,11 +21,11 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 218 Rules:
+There are currently 215 Rules:
     1 with Power=4
    28 with Power=3
-   30 with Power=2
-  159 with Power=1
+   29 with Power=2
+  157 with Power=1
 
 Lowest current Rule Number:           101
 Highest current Rule Number:         2119
@@ -1123,7 +1123,7 @@ Mutated from MI=Unanimity to MI=3 by Proposal 1482, Mar. 15 1995
 
 ----------------------------------------------------------------------
 
-Rule 1016/17 (Power=2)
+Rule 1016/18 (Power=2)
 Activity Levels
 
       Activity is a stuck player switch with values active and
@@ -1134,6 +1134,12 @@ Activity Levels
 
       A player may flip eir activity, unless e has done so within the
       past week.
+
+      A player may, with Support and without 2 Objections, flip the
+      activity of another player to inactive, if that other player has
+      not made a public post in the last 30 days.  A player made
+      inactive by this method becomes active immediately upon eir next
+      public post.
 
       Inactive players may not vote, make proposals, hold office, or
       be a judge of a CFJ.  An inactive player may not be required by
@@ -1173,6 +1179,7 @@ Amended(14) by Proposal 4388 (OscarMeyr), 5 October 2002
 Amended(15) by Proposal 4400 (Pakaran), 23 October 2002
 Amended(16) by Proposal 4407 (Steve), 30 October 2002
 Amended(17) by Proposal 4527 (Murphy), 16 September 2003
+Amended(18) by Proposal 4820 (Goethe), 10 July 2005
 
 ----------------------------------------------------------------------
 
@@ -1203,118 +1210,49 @@ Amended(5) by Proposal 4011 (Wes), Jun. 1 2000
 
 ----------------------------------------------------------------------
 
-Rule 1042/22 (Power=1)
-Deregistration Due to Silence
-
-      Noisiness is a stuck player switch with values noisy, quiet, and
-      silent.
-
-      The noisiness of an active player may not be changed if e has
-      posted to a public forum in the past 120 hours.
-
-      A non-noisy player becomes noisy whenever e posts to a public
-      forum.
-
-      An active player may flip another active player's noisiness from
-      noisy to quiet, unless e has done so for another player within
-      the past 24 hours.
-
-      If a player has been quiet continuously for one month, or
-      inactive continuously for three months, e becomes silent.
-
-      Any player may publish a Notice of Abandonment, identifying
-      another player and alleging that that player has abandoned the
-      game. A Notice of Abandonment is or becomes invalid if the
-      player identified in it is not, or ceases to be, silent.
-
-History:
-Created by Proposal 460 (Jim Shea), Sep. 15 1994
-Amended by Proposal 1004, ca. Aug. 25 1994
-Amended by Rule 750, ca. Aug. 25 1994
-Amended by Proposal 1012, Sep. 4 1994
-Amended by Rule 750, Sep. 4 1994
-Amended by Proposal 1042, Sep. 21 1994
-Amended by Rule 750, Sep. 21 1994
-Amended(1) by Proposal 1338, Nov. 24 1994
-Amended(2) by Proposal 1466, Mar. 1 1995
-Amended(3) by Proposal 1597, Jun. 2 1995
-Amended(4) by Proposal 2506, Mar. 3 1996
-Amended(5) by Proposal 2568, Apr. 12 1996
-Amended(6) by Proposal 3522 (Zefram), Jun. 23 1997, substantial
-Amended(7) by Proposal 3578 (Steve), Nov. 6 1997, substantial
-Infected and Amended(8) by Rule 1454, Dec. 23 1997, substantial
-  (unattributed)
-Amended(9) by Rule 1042, Jan. 6 1998
-Amended(10) by Proposal 3853 (Blob), Apr. 19 1999
-Amended(11) by Proposal 3897 (harvel), Aug. 27 1999
-Amended(12) by Proposal 3990, "Harsher Blot Penalties", (Elysion),
-  Mar. 30 2000
-Amended(13) by Proposal 4133 (Tim), Apr. 5 2001
-Amended(14) by Proposal 4147 (Wes), 13 May 2001
-Amended(15) by Proposal 4154 (harvel), 18 May 2001
-Amended(16) by Proposal 4211 (harvel), 10 September 2001
-Amended(17) by Proposal 4278 (harvel), 3 April 2002
-Amended(18) by Proposal 4407 (Steve), 30 October 2002
-Amended(19) by Proposal 4424 (Steve), 16 December 2002
-Amended(20) by Proposal 4523 (Murphy), 28 August 2003
-Amended(21) by Proposal 4758 (Quazie), 15 May 2005
-Amended(22) by Proposal 4791 (Quazie), 6 June 2005
-
-----------------------------------------------------------------------
-
-Rule 2036/2 (Power=1)
+Rule 2036/3 (Power=1)
 The Silent Treatment
 
-      (a) The publication of a Notice of Abandonment commences the
-          Silent Treatment for the player identified in it.
+      If a player (hereafter the Silent One) has been inactive
+      continuously for three months, then any player may publish a
+      Notice of Abandonment, identifying the silent one and alleging
+      that e has abandoned the game.
 
-      (b) The requirement to perform the actions described in this
-          Rule is subject to the Notice of Abandonment remaining
-          valid. If at any time during the Silent Treatment the of
-          Abandonment is invalid, then the Treatment is terminated,
-          and the Registrar is relieved of all powers and
-          responsibilities regarding it.
+      The publication of a Notice of Abandonment commences the Silent
+      Treatment for the silent one.  If at any time during the silent
+      treatment the silent one is not, or ceases to be, inactive, then
+      the treatment is terminated, and the Registrar is relieved of
+      all powers and responsibilities regarding it.
 
-      (c) As soon as possible after the commencement of the Silent
-          Treatment, the Registrar shall:
+      As soon as possible after the commencement of the silent
+      treatment, the Registrar shall publish in all designated Public
+      Fora, and send to each listed e-mail address of the silent one,
+      a Notice of Intent to Deregister, announcing the Registrar's
+      intent to deregister the silent one after one month has passed.
 
-          (1) publicly confirm whether the Notice of Abandonment was
-              valid at the commencement of the Silent Treatment, and
-              whether it remains valid;
+      If the silent treatement has not terminated a month after the
+      publication of the Notice of Intent to Deregister, then the
+      Registrar shall, as soon as possible, publish in all designated
+      Public Fora, and send to each listed e-mail address of the
+      silent one, a Notice of Deregistration identifying the silent
+      one.  A Notice of Deregistration is valid if and only if it is
+      published by the Registrar, following the procedures described
+      in this Rule.
 
-          (2) publish in all designated Public Fora, and send to each
-              listed e-mail address of the player, a Notice of Intent
-              to Deregister, identifying the player to be deregistered
-              (the same as in the Notice of Abandonment), and
-              announcing the Registrar's intent to deregister that
-              player after one month has passed.
+      Upon publication of a valid Notice of Deregistration, the
+      following events occur in order:
 
-      (d) If the Notice of Abandonment remains valid a month after the
-          publication of the Notice of Intent to Deregister, then the
-          Registrar shall, as soon as possible, publish in all
-          designated Public Fora, and send to each listed e-mail
-          address of the player, a Notice of Deregistration,
-          identifying the player being deregistered (as in the Notice
-          of Abandonment). The only player so far to have returned to
-          the game after becoming a zombie is Oerjan. The Notice is
-          valid if and only if it is published by the Registrar,
-          following the procedures described in this Rule.
+      (1) if the silent one is the Speaker, e ceases to be Speaker;
 
-      (e) Upon publication of a valid Notice of Deregistration, the
-          following events occur in order:
+      (2) the silent one is deregistered;
 
-          (1) if the player identified in the Notice of Deregistration
-              is the Speaker, e ceases to be Speaker;
-
-          (2) the player identified in the Notice of Deregistration is
-              deregistered;
-
-          (3) the Silent Treatment for that player concludes.
+      (3) the silent treatment for that player concludes.
 
 History:
 Created by Proposal 4407 (Steve), 30 October 2002
 Amended(1) by Proposal 4511 (Murphy), 10 July 2003
 Amended(2) by Proposal 4798 (Maud, Goethe), 6 June 2005
+Amended(3) by Proposal 4820 (Goethe), 10 July 2005
 
 ----------------------------------------------------------------------
 
@@ -2249,29 +2187,29 @@ Amended(7) by Proposal 4798 (Maud, Goethe), 6 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 1940/9 (Power=1)
+Rule 1940/10 (Power=1)
 Periodic Compensations
 
       The boon of Public Service exists for the purpose of awarding
-      Officers for serving.
+      officers for serving.
 
-      Paperwork is a stuck switch for Offices with states Low and
-      High.  The Associate Director of Personnel is the recordkeepor
-      for paperwork.  For the purpose of this rule, the Speaker and
-      the Distributor are considered offices.  The Associate Director
-      of Personnel or the Speaker may switch the paperwork of an
-      office with two supporters and without two objections.
+      Paperwork is a stuck switch for offices with states low and
+      high.  The Associate Director of Personnel (ADoP) is the
+      recordkeepor for paperwork.  For the purpose of this rule, the
+      Speaker and the Distributor are considered offices.  The ADoP or
+      the Speaker may flip the paperwork of an office with two
+      supporters and without two objections.
 
-      As soon as possible after the beginning of each month, the
-      Associate Director of Personnel shall award 1 Public Service
-      Boon for each office to the player (if any) who held that office
-      for 16 or more days in the previous month; e shall award an
-      additional Public Service boon to that player if the office is a
-      high paperwork office.
+      As soon as possible after the beginning of each month, the ADoP
+      shall award 1 Public Service Boon for each office to the player
+      (if any) who held that office for 16 or more days in the
+      previous month; e shall award an additional Public Service boon
+      to that player if the office is a high paperwork office.
 
-      Each office may make one Proposal distributable per month
-      without payment of a fee, by the electee of that office publicly
-      invoking that office's Civil Service Exemption.
+      While a player is electee to an office, e may make one proposal
+      distributable per month by publicly invoking that office's Civil
+      Service Exemption, even if this would cause em to exceed eir
+      per-player proposal limit.
 
 History:
 Created by Proposal 3998 (harvel), May 2 2000
@@ -2284,6 +2222,7 @@ Amended(6) by Proposal 4385 (Steve), 17 September 2002
 Amended(7) by Proposal 4486 (Michael), 24 April 2003
 Amended(8) by Proposal 4697 (Goethe), 18 April 2005
 Amended(9) by Proposal 4768 (root), 25 May 2005
+Amended(10) by Proposal 4819 (root, Maud), 10 July 2005
 
 ----------------------------------------------------------------------
 
@@ -3234,33 +3173,6 @@ Amended(9) by Proposal 4811 (Maud, Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 1965/4 (Power=2)
-Complacent Corporation
-
-      As soon as possible after an ordinary proposal fails quorum, the
-      Assessor shall publish a Notice of Complacency to that effect.
-      In addition, at any time during the voting period of an ordinary
-      proposal for which the number of entities eligible to vote on
-      the proposal is less than the quorum of the proposal, the
-      Assessor may immediately publish a Notice of Complacency without
-      waiting for the proposal's voting period to end.
-
-      When the Assessor publishes a Notice of Complacency for a
-      proposal, it becomes extraordinary.
-
-      Publication by the Assessor of a Notice of Complacency not
-      strictly authorized or required by this rule is the Class 2
-      Crime of Sending It Back Where It Don't Belong.
-
-History:
-Created by Proposal 4111 (Elysion), Feb. 20 2001
-Amended(1) by Proposal 4161 (Steve), 5 June 2001
-Amended(2) by Proposal 4487 (root), 28 April 2003
-Amended(3) by Proposal 4576 (root), 31 May 2004
-Amended(4) by Proposal 4717 (Murphy), 25 April 2005
-
-----------------------------------------------------------------------
-
 Rule 1322/4 (Power=3)
 Modification of Rules
 
@@ -4165,27 +4077,27 @@ Amended(3) by Proposal 4298 (Murphy), 17 May 2002
 
 ----------------------------------------------------------------------
 
-Rule 698/12 (Power=1)
+Rule 698/13 (Power=1)
 Always an Eligible Judge
 
       (a) Each active player is eligible to judge a given Call for
           Judgement (CFJ), unless a rule specifically makes em
-          ineligible.  A player who is inactive, unready, or silent is
+          ineligible.  A player who is inactive, unready, or is
           ineligible to judge CFJs.
 
       (b) If the Clerk of the Courts is required to select a Judge,
           but after taking all other rules affecting eligibility into
           account, no player is eligible to judge that CFJ, then:
 
-          (1) all ready, active, non-barred, non-silent players become
+          (1) all ready, active, non-barred, players become
               eligible to judge that CFJ; then
 
           (2) if there is still no player eligible to judge, then all
-              ready, active, barred, non-silent players, other than
+              ready, active, barred, players, other than
               the caller emself, become eligible to judge that CFJ;
 
           (3) if there is still no player eligible to judge, then all
-              active, non-silent players, other than the caller
+              active, players, other than the caller
               emself, become eligible to judge that increasingly
               annoying CFJ;
 
@@ -4211,6 +4123,7 @@ Amended(9) by Proposal 4298 (Murphy), 17 May 2002
 Amended(10) by Proposal 4385 (Steve), 17 September 2002
 Amended(11) by Proposal 4424 (Steve), 16 December 2002
 Amended(12) by Proposal 4798 (Maud, Goethe), 6 June 2005
+Amended(13) by Proposal 4820 (Goethe), 10 July 2005
 
 ----------------------------------------------------------------------
 
@@ -5427,7 +5340,7 @@ The Registrar
   This Category includes Rules concerning the Office of Registrar.
 ----------------------------------------------------------------------
 
-Rule 559/24 (Power=1)
+Rule 559/25 (Power=1)
 The Registrar
 
       The Registrar is an office; its holder is responsible for
@@ -5448,14 +5361,10 @@ The Registrar
         (iv) the most recent date on which each registered player
              registered;
 
-         (v) each player's activity level, and the most recent date on
-             which that player's activity level changed;
+         (v) each player's activity level, and the most recent date
+             and method by which that player's activity level changed;
 
-        (vi) each player's Noisy/Quiet/Silent status, and the most
-             recent date on which that player became Noisy, Quiet,
-             or Silent; and
-
-       (vii) the identity of the Distributor.
+        (vi) the identity of the Distributor.
 
 History:
 Created by Proposal 559 (Wes), ca. Oct. 7 1993
@@ -5484,6 +5393,7 @@ Amended(21) by Proposal 4435 (Murphy), 28 January 2003
 Amended(22) by Proposal 4563 (OscarMeyr), 6 April 2004
 Amended(23) by Proposal 4616 (OscarMeyr), 1 October 2004
 Amended(24) by Proposal 4769 (Sherlock), 25 May 2005
+Amended(25) by Proposal 4820 (Goethe), 10 July 2005
 
 ----------------------------------------------------------------------
 
@@ -5728,45 +5638,54 @@ Created by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
-Rule 1941/3 (Power=1)
+Rule 1941/4 (Power=1)
 Fees
 
-      If the Rules associate a non-negative cost, price, charge, or
-      fee with an action, that action is a fee-based action.  If the
-      specified cost is not an integer, the actual fee is the next
-      highest integer.
+      A fee-based action is an action with which the rules associate a
+      fee, which must be a natural number.  If the rules describe a
+      fee-based action but do not indicate the fee for that action,
+      then that fee is zero.
 
-      To perform a fee-based action, a Player (the Actor) who is
-      otherwise permitted to perform the action must announce that e
-      is performing the action and announce that there is a fee for
-      that action.  Upon said announcement, the action is performed,
-      the Actor's kudos are decreased by the fee.
+      A player (the Actor) attempts to perform a fee-based action by
+      announcing that e performs it; specifying the action to be
+      performed; and, if the fee is nonzero, noting that there is a
+      fee for the action.  The Actor has sufficient kudos to perform
+      the action if the number of eir kudos meets or exceeds the fee.
+      Upon eir announcement, the Actor's kudos are decreased by the
+      fee, and if e had sufficient kudos, e performs the action.
 
-      Any Player (hereafter the challenger) may announce that the
-      Actor possessed insufficient Honor (kudos) to perform the
-      action, provided e issues eir challenge within 7 days of the
-      attempted action.
+      If the success of the Actor's attempt to perform a fee-based
+      action is publicly challenged within a week of the time the
+      action was attempted, then the Herald shall, as soon as
+      possible, determine whether the Actor had sufficient kudos when
+      e attempted to perform the action, and announce eir
+      determination.
 
-      As soon as possible after such a challenge, the Herald shall
-      confirm or deny whether the Actor possessed kudos equal to or
-      greater than the fee at the time e attempted the action.  If the
-      Actor in fact possessed insufficient honor, or the honor of the
-      Actor cannot be determined by reasonable effort, the action
-      shall be deemed to have not occurred and the kudos of the Actor
-      shall be deemed to have not been changed by the fee.
+      If the Herald announces that the Actor did not have sufficient
+      kudos to perform a fee-based action at the time of eir attempt,
+      and eir announcement was published within a fortnight from the
+      time the action was attempted, then the action shall be deemed
+      not to have been performed.  If the Herald made this
+      announcement within a week of the attempt to perform the action,
+      or the success of the attempt was publicly challenged within a
+      week of the attempt, then the Herald shall refund the Actor eir
+      kudos.
 
-      If a Player issues a challenge as above, but more than 7 days
-      have passed since the attempted action, then the action shall be
-      permitted to stand.  As soon as possible after a late challenge
-      is issued, the Herald shall confirm or deny its correctness.
-      But in this case the Fee shall be recorded even if the Actor is
-      left with negative kudos.
+      If the success of an Actor's attempt to perform a fee-based
+      challenge is not publicly challenged within a week of the time
+      the action was attempted, then the action shall be deemed to
+      have been performed.
+
+      Nothing in this rule shall act to prevent a person from
+      performing a fee-based action by another mechanism for
+      performing that action provided by the rules.
 
 History:
 Created by Proposal 4011 (Wes), Jun. 1 2000
 Amended(1) by Proposal 4486 (Michael), 24 April 2003
 Amended(2) by Proposal 4528 (Goethe), 2 October 2003
 Amended(3) by Proposal 4598 (Elysion), 11 July 2004
+Amended(4) by Proposal 4819 (root, Maud), 10 July 2005
 
 ----------------------------------------------------------------------
 
@@ -6192,27 +6111,6 @@ Created by Proposal 4635 (OscarMeyr), 23 January 2005
 Amended(1) by Proposal 4644 (root), 12 March 2005
 Amended(2) by Proposal 4753 (Sherlock), 5 May 2005
 Amended(3) by Proposal 4761 (root), 15 May 2005
-
-----------------------------------------------------------------------
-
-Rule 2093/0 (Power=1)
-The New Raffle
-
-      The following class of cards is defined:
-
-      * Caption: Raffle Ticket
-        Elements: Grafty
-
-      As soon as possible after the 13th day of the third month of
-      each quarter, the Deckmastor shall randomly select a copy of a
-      Raffle Ticket in the possession of a Player and announce eir
-      selection, unless no such copy exists.  Upon this announcement,
-      the Player in possession gains three instances of the ephemeral
-      Patent Title "Fortune's Fool", and each Raffle Ticket in the
-      possession of a Player is automatically discarded.
-
-History:
-Created by Proposal 4692 (root), 18 April 2005
 
 ----------------------------------------------------------------------
 
@@ -7193,7 +7091,7 @@ Contracts
   Players.
 ----------------------------------------------------------------------
 
-Rule 2107/0 (Power=1)
+Rule 2107/1 (Power=1)
 Contracts
 
       There exists a type of agreement known as a Contract.  A
@@ -7218,7 +7116,7 @@ Contracts
       Rules to the contrary notwithstanding, no Player shall ever
       involuntarily become a Member of a Contract.
 
-      If the Notary of a Contract becomes Silent, all Members of this
+      If the Notary of a Contract is deregistered, all Members of this
       Contract cease to be Members of this Contract and the Contract
       ceases to exist.
 
@@ -7232,6 +7130,7 @@ Contracts
 
 History:
 Created by Proposal 4743 (Manu), 5 May 2005
+Amended(1) by Proposal 4820 (Goethe), 10 July 2005
 
 ----------------------------------------------------------------------
 
