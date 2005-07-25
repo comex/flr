@@ -2509,29 +2509,6 @@ Amended(3) by Proposal 4753 (Sherlock), 5 May 2005
 
 ----------------------------------------------------------------------
 
-Rule 2059/3 (Power=2)
-Legality of Bonus Clauses
-
-      The following Element is defined for cards:
-
-        Grafty: If a card is Grafty, then it is Budgeted, with its
-        initial quota set equal to one plus the number of Players who
-        voted FOR the Proposal that first defined that class of card
-        as Grafty.  When the Deckmastor initially creates cards to
-        fulfil this quota, e shall, Rules to the contrary
-        notwithstanding, first destroy all existing copies of the
-        card, then create one copy in the possession of the Deck, and
-        finally create one copy in the possession of each Player who
-        voted FOR said proposal.
-
-History:
-Created by Proposal 4537 (Murphy), 16 November 2003
-Amended(1) by Proposal 4562 (root), 22 March 2004
-Amended(2) by Proposal 4622 (Goethe), 20 November 2004
-Amended(3) by Proposal 4825 (Maud), 17 July 2005
-
-----------------------------------------------------------------------
-
 Rule 1607/11 (Power=1)
 The Promotor
 
@@ -7235,4 +7212,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4824]
+      [Last proposal with recorded effect on this ruleset: 4826]
