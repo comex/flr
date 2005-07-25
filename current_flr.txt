@@ -484,7 +484,7 @@ Power changed from 1 to 2 by Proposal 3999 (harvel), May 2 2000
 
 ----------------------------------------------------------------------
 
-Rule 2040/3 (Power=2)
+Rule 2040/4 (Power=2)
 Switches
 
       A switch is a set of states associated with a class of entities.
@@ -533,14 +533,15 @@ Switches
       the default state of the switch.
 
       Whenever a state ceases to be a state of a switch, all entities
-      in the class that had previously been in that state shall be
-      flipped to the default state of the switch.
+      in the class that had previously been in that state shall be in
+      the default state of the switch.
 
 History:
 Created by Proposal 4456 (Maud), 22 February 2003
 Amended(1) by Proposal 4527 (Murphy), 16 September 2003
 Amended(2) by Proposal 4685 (Quazie, Murphy), 18 April 2005
 Amended(3) by Proposal 4691 (root), 18 April 2005
+Amended(4) by Proposal 4823 (root), 17 July 2005
 
 ----------------------------------------------------------------------
 
@@ -1256,7 +1257,7 @@ Amended(3) by Proposal 4820 (Goethe), 10 July 2005
 
 ----------------------------------------------------------------------
 
-Rule 1789/2 (Power=1)
+Rule 1789/3 (Power=1)
 Cantus Cygneus
 
       Whenever a Player feels that e has been treated so egregiously
@@ -1267,7 +1268,7 @@ Cantus Cygneus
       badly.
 
       As soon as possible after receiving a Cantus Cygneus, the Clerk
-      of the Courts shall publish this document along with a Write of
+      of the Courts shall publish this document along with a Writ of
       Fugere Agorae Grandissima Exprobratione, commanding the Player
       to be deregistered and instructing the Registrar to note the
       method of deregistration for that Player in subsequent Registrar
@@ -1282,6 +1283,7 @@ History:
 Created by Proposal 3705 (Crito), Mar. 9 1998
 Amended(1) by Proposal 4099 (Murphy), Jan. 15 2001
 Amended(2) by Proposal 4147 (Wes), 13 May 2001
+Amended(3) by Proposal 4825 (Maud), 17 July 2005
 
 ----------------------------------------------------------------------
 
@@ -1336,7 +1338,7 @@ Created by Proposal 4701 (Goethe), 18 April 2005
 
 ----------------------------------------------------------------------
 
-Rule 1686/15 (Power=1)
+Rule 1686/16 (Power=1)
 Official Reports
 
       The Rules may designate certain information to be part of an
@@ -1358,7 +1360,7 @@ Official Reports
       three consecutive reporting periods, e may be cited for either
       Failure to Report or the Class 10 Infraction of Dereliction of
       Duty but not both.  Any officer cited for Dereliction of Duty is
-      immediately removed from that office. The Assistant Director of
+      immediately removed from that office. The Associate Director of
       Personnel and the Speaker may report these Infractions.
 
 History:
@@ -1378,6 +1380,7 @@ Amended(12) by Proposal 4655 (Kolja), 29 March 2005
 Amended(13) by Proposal 4695 (Quazie), 18 April 2005
 Amended(14) by Proposal 4768 (root), 25 May 2005
 Amended(15) by Proposal 4769 (Sherlock), 25 May 2005
+Amended(16) by Proposal 4822 (OscarMeyr), 17 July 2005
 
 ----------------------------------------------------------------------
 
@@ -2506,7 +2509,7 @@ Amended(3) by Proposal 4753 (Sherlock), 5 May 2005
 
 ----------------------------------------------------------------------
 
-Rule 2059/2 (Power=2)
+Rule 2059/3 (Power=2)
 Legality of Bonus Clauses
 
       The following Element is defined for cards:
@@ -2516,7 +2519,7 @@ Legality of Bonus Clauses
         voted FOR the Proposal that first defined that class of card
         as Grafty.  When the Deckmastor initially creates cards to
         fulfil this quota, e shall, Rules to the contrary
-        nonwithstanding, first destroy all existing copies of the
+        notwithstanding, first destroy all existing copies of the
         card, then create one copy in the possession of the Deck, and
         finally create one copy in the possession of each Player who
         voted FOR said proposal.
@@ -2525,6 +2528,7 @@ History:
 Created by Proposal 4537 (Murphy), 16 November 2003
 Amended(1) by Proposal 4562 (root), 22 March 2004
 Amended(2) by Proposal 4622 (Goethe), 20 November 2004
+Amended(3) by Proposal 4825 (Maud), 17 July 2005
 
 ----------------------------------------------------------------------
 
@@ -4364,14 +4368,14 @@ Amended(18) by Proposal 4298 (Murphy), 17 May 2002
 
 ----------------------------------------------------------------------
 
-Rule 217/3 (Power=1)
+Rule 217/4 (Power=1)
 Judgements Must Accord with the Rules
 
-      All Judgements must be in accordance with the Rules; however,
-      if the Rules are silent, inconsistent, or unclear on the
-      Statement to be Judged, then the Judge shall consider game
-      custom, commonsense, past Judgements, and the best interests of
-      the game before applying other standards.
+      All Judgements must be in accordance with the Rules; however, if
+      the Rules are silent, inconsistent, or unclear on the Statement
+      to be Judged, then the Judge shall consider game custom, common
+      sense, past Judgements, and the best interests of the game
+      before applying other standards.
 
 [CFJ 684: An Injunction on the interpretation of a Rule is part of
  Game Custom.
@@ -4391,6 +4395,7 @@ Initial Mutable Rule 217, Jun. 30 1993
 Amended(1) by Proposal 1635, Jul. 25 1995
 Infected and amended(2) by Rule 1454, Aug. 7 1995
 Amended(3) by Proposal 2507, Mar. 3 1996
+Amended(4) by Proposal 4825 (Maud), 17 July 2005
 
 ----------------------------------------------------------------------
 
@@ -4780,17 +4785,17 @@ Overturning Judgement
   Judgements, Appellate Orders, and the office of Justiciar.
 ----------------------------------------------------------------------
 
-Rule 911/12 (Power=1)
+Rule 911/13 (Power=1)
 The Board of Appeals
 
       When an Appeal is initiated, a Board of Appeals shall be
       selected to reach a decision about the subject of the Appeal.
 
-      A Board of Appeals consists of three Appelate Judges.  Any Judge
-      assigned according to this Rule is an Appelate Judge.
+      A Board of Appeals consists of three Appellate Judges.  Any
+      Judge assigned according to this Rule is an Appellate Judge.
 
       A Board of Appeals is selected when the Clerk of the Courts
-      correctly announces the identity of all Appelate Judges,
+      correctly announces the identity of all Appellate Judges,
       determined as follows:
 
         a) The Speaker is selected, if eligible.
@@ -4809,15 +4814,15 @@ The Board of Appeals
        iv) E is ineligible to Judge the CFJ at the time of selection.
         v) E is not Active.
 
-      An Appelate Judge may appoint another eligible Player as eir
+      An Appellate Judge may appoint another eligible Player as eir
       replacement by informing the Clerk of the Courts, provided the
       Player consents.
 
-      As soon as possible after an Appelate Judge is recused, the
+      As soon as possible after an Appellate Judge is recused, the
       Clerk of the Courts shall randomly select an eligible Player to
       replace em.
 
-      The last Appelate Judge selected is the Lead Judge for that
+      The last Appellate Judge selected is the Lead Judge for that
       Board.  If the Lead Judge is replaced, then the replacement
       becomes Lead Judge.
 
@@ -4839,6 +4844,7 @@ Amended(9) by Proposal 4213 (Taral), 29 September 2001
 Amended(10) by Proposal 4278 (harvel), 3 April 2002
 Amended(11) by Proposal 4298 (Murphy), 17 May 2002
 Amended(12) by Proposal 4579 (Murphy), 15 June 2004
+Amended(13) by Proposal 4825 (Maud), 17 July 2005
 
 ----------------------------------------------------------------------
 
@@ -4866,19 +4872,20 @@ Amended(13) by Proposal 4743 (Manu), 5 May 2005
 
 ----------------------------------------------------------------------
 
-Rule 1570/1 (Power=1)
+Rule 1570/2 (Power=1)
 Announcement of Appeal
 
       As soon as possible after an Appeal is initiated, the Clerk of
       the Courts shall announce the subject of the Appeal.
 
-      As soon as possible after a Player becomes an Appelate Judge or
-      ceases to be an Appelate Judge, the Clerk of the Courts shall
+      As soon as possible after a Player becomes an Appellate Judge or
+      ceases to be an Appellate Judge, the Clerk of the Courts shall
       announce the change.
 
 History:
 Created by Proposal 2457, Feb. 16 1996
 Amended(1) by Proposal 4298 (Murphy), 17 May 2002
+Amended(2) by Proposal 4825 (Maud), 17 July 2005
 
 ----------------------------------------------------------------------
 
@@ -4919,10 +4926,10 @@ Amended(12) by Proposal 4406 (Murphy), 30 October 2002
 
 ----------------------------------------------------------------------
 
-Rule 1447/17 (Power=1)
+Rule 1447/18 (Power=1)
 Final Judgement upon Appeal
 
-      For an Appelate Judge, a Judgement is exactly one of the
+      For an Appellate Judge, a Judgement is exactly one of the
       following: SUSTAIN or OVERTURN.  Other Rules may modify this,
       based on the subject of the Appeal.
 
@@ -4948,23 +4955,25 @@ Amended(14) by Proposal 3998 (harvel), May 2 2000
 Amended(15) by Proposal 4109 (Steve), Feb. 13 2001
 Amended(16) by Proposal 4147 (Wes), 13 May 2001
 Amended(17) by Proposal 4298 (Murphy), 17 May 2002
+Amended(18) by Proposal 4825 (Maud), 17 July 2005
 
 ----------------------------------------------------------------------
 
-Rule 2026/0 (Power=1)
-Appelate Determinations
+Rule 2026/1 (Power=1)
+Appellate Determinations
 
       As soon as possible after all members of a Board of Appeals have
       submitted eir Judgement, the Clerk of the Courts shall announce
       that this has happened.
 
-      If a majority of the Appelate Judges Judge SUSTAIN, then the
+      If a majority of the Appellate Judges Judge SUSTAIN, then the
       subject of the Appeal is sustained.  Otherwise, it is
       overturned.  The Board of Appeals shall execute whatever
       Appelate Orders are necessary to enforce its determination.
 
 History:
 Created by Proposal 4298 (Murphy), 17 May 2002
+Amended(1) by Proposal 4825 (Maud), 17 July 2005
 
 ----------------------------------------------------------------------
 
@@ -5298,11 +5307,11 @@ The Distributor
   Distributor.
 ----------------------------------------------------------------------
 
-Rule 1670/14 (Power=1)
+Rule 1670/15 (Power=1)
 The Distributor
 
-      The person who is most responsible for the maintainance of one
-      or more Public Fora, in the opinion of the Registrar, shall be
+      The person who is most responsible for the maintenance of one or
+      more Public Fora, in the opinion of the Registrar, shall be
       known as the Distributor. Any changes in the identity of the
       Distributor shall take effect when announced publicly by the
       Registrar.
@@ -5330,6 +5339,7 @@ Amended(11) by Proposal 3916 (harvel), Sep. 27 1999
 Amended(12) by Proposal 3998 (harvel), May 2 2000
 Amended(13) by Proposal 4141 (Wes), Apr. 15 2001
 Amended(14) by Proposal 4511 (Murphy), 10 July 2003
+Amended(15) by Proposal 4825 (Maud), 17 July 2005
 
 ----------------------------------------------------------------------
 
@@ -5911,7 +5921,7 @@ Created by Proposal 4805 (Goethe, Manu), 20 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 2069/6 (Power=1)
+Rule 2069/7 (Power=1)
 Card Actions
 
       I. Possession
@@ -5944,8 +5954,8 @@ Card Actions
           If a Gambler transfers a card to the Deck, it is instead
           transferred to the discard pile, unless the transfer is made
           as part of the Deckmastor's required duties.  Discarding a
-          Card is synonymous with transfering said Card to the Discard
-          Pile.
+          Card is synonymous with transferring said Card to the
+          Discard Pile.
 
       (b) Drawing a Card and Drawing from The Deck are synonymous.
 
@@ -5983,6 +5993,7 @@ Amended(3) by Proposal 4674 (OscarMeyr), 13 April 2005
 Amended(4) by Proposal 4694 (Goethe), 18 April 2005
 Amended(5) by Proposal 4733 (root), 5 May 2005
 Amended(6) by Proposal 4739 (root), 5 May 2005
+Amended(7) by Proposal 4825 (Maud), 17 July 2005
 
 ----------------------------------------------------------------------
 
@@ -6119,7 +6130,7 @@ Patent Titles
   This Category includes Rules regulating Patent Titles.
 ----------------------------------------------------------------------
 
-Rule 649/16 (Power=1)
+Rule 649/17 (Power=1)
 Patent Titles
 
       A Patent Title is a legal item of recognition of a person's
@@ -6133,11 +6144,9 @@ Patent Titles
       changed as explicitly set out in the Rules. Only persons may
       Bear Patent Titles.
 
-      As soon as possible after a Patent Title award or revocation
-      which occurs automatically occurs, the Herald shall publicly
-      announce that such an award or revocation has occurred, and
-      which Title has been awarded to or revoked from which person or
-      persons.
+      As soon as possible after the Rules state that a Patent title
+      shall be awarded or revoked, the Herald shall publicly award or
+      revoke that Patent Title.
 
       Significance is a stuck switch for Patent Titles with states
       Historical, Hysterical, and Ephemeral.  The Herald may, Without
@@ -6166,15 +6175,34 @@ Amended(13) by Proposal 4110 (Ziggy), Feb. 13 2001
 Amended(14) by Proposal 4147 (Wes), 13 May 2001
 Amended(15) by Proposal 4497 (Steve), 13 May 2003
 Amended(16) by Proposal 4691 (root), 18 April 2005
+Amended(17) by Proposal 4824 (Maud, Manu), 17 July 2005
 
 ----------------------------------------------------------------------
 
-Rule 1044/7 (Power=1)
+Rule 1044/8 (Power=1)
 Unique Patent Titles
 
-      Each Unique Patent Title is a Patent Title.  If a person is
-      awarded a Unique Patent Title, then it shall automatically be
-      revoked from any person already Bearing that Title.
+      A Patent Title is unique when the rules say it is.  If a person
+      is awarded a unique Patent Title, then the Herald shall revoke
+      it as soon as possible from any person already Bearing that
+      Title.
+
+      The following are Unique Patent Titles:
+
+      (a)  Robespierre, which shall be awarded to the Player who
+           called for a Revolt, if the Revolt succeeds.
+
+      (b)  Miscreant, which shall be awarded to a Player who has at
+           least ten Blots and has a greater number of Blots than any
+           other Player, if there is such a Player.  It shall
+           automatically be revoked if either condition becomes false.
+
+      (c)  Pugachev, which shall be awarded to the player who called
+           for a Revolt, if the Revolt fails.
+
+      (d)  Manouchian, which shall be awarded to the player who called
+           for a Revolt and deregistered before the Registrar
+           announced that the Revolt succeeded.
 
 History:
 ...
@@ -6185,37 +6213,7 @@ Amended(4) by Proposal 2532, Mar. 10 1996
 Amended(5) by Proposal 3445 (General Chaos), Mar. 26 1997, substantial
 Amended(6) by Proposal 3916 (harvel), Sep. 27 1999
 Amended(7) by Proposal 4110 (Ziggy), Feb. 13 2001
-
-----------------------------------------------------------------------
-
-Rule 1923/9 (Power=1)
-Defined Unique Patent Titles
-
-      The following are Unique Patent Titles:
-
-      (a)  Robespierre, which shall automatically be awarded to the
-           Player who called for a Revolt, if the Revolt succeeds.
-
-      (b)  Miscreant, which shall automatically be awarded to a Player
-           who has at least ten Blots and has a greater number of
-           Blots than any other Player, if there is such a Player.  It
-           shall automatically be revoked if either condition becomes
-           false.
-
-      (c)  Pugachev, which shall automatically be awarded to the
-           player who called for a Revolt, if the Revolt fails.
-
-History:
-Created by Proposal 3916 (harvel), Sep. 27 1999
-Amended(1) by Proposal 4027 (Elysion), Jul. 19 2000
-Amended(2) by Proposal 4079 (Elysion), Oct. 30 2000
-Amended(3) by Proposal 4091 (Elysion), Dec. 18 2000
-Amended(4) by Proposal 4110 (Ziggy), Feb. 13 2001
-Amended(5) by Proposal 4124 (Elysion), Mar. 28 2001
-Amended(6) by Proposal 4141 (Wes), Apr. 15 2001
-Amended(7) by Proposal 4313 (Sir Toby), 28 May 2002
-Amended(8) by Proposal 4320 (t), 28 May 2002
-Amended(9) by Proposal 4339 (Sir Toby), 8 July 2002
+Amended(8) by Proposal 4824 (Maud, Manu), 17 July 2005
 
 ----------------------------------------------------------------------
 
@@ -6527,7 +6525,7 @@ Amended(2) by Proposal 4099 (Murphy), Jan. 15 2001
 
 ----------------------------------------------------------------------
 
-Rule 1370/13 (Power=1)
+Rule 1370/14 (Power=1)
 How to Get a Degree
 
      A person becomes a Candidate for a Degree when e publishes a
@@ -6558,7 +6556,7 @@ How to Get a Degree
 
      If the Committee is dissolved without granting a degree, the
      Committee ceases to be a Committee, and the Candidate ceases to
-     be a Candidate, and any existant Thesis Draft must be republished
+     be a Candidate, and any existent Thesis Draft must be republished
      and subject to a new Committee selection to be eligible for a
      Degree.
 
@@ -6605,6 +6603,7 @@ Amended(10) by Proposal 4099 (Murphy), Jan. 15 2001
 Amended(11) by Proposal 4147 (Wes), 13 May 2001
 Amended(12) by Proposal 4303 (OscarMeyr), 17 May 2002
 Amended(13) by Proposal 4462 (Goethe), 17 March 2003
+Amended(14) by Proposal 4825 (Maud), 17 July 2005
 
 ----------------------------------------------------------------------
 
