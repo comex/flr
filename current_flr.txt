@@ -21,11 +21,11 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 210 Rules:
+There are currently 206 Rules:
     1 with Power=4
-   28 with Power=3
-   25 with Power=2
-  156 with Power=1
+   29 with Power=3
+   24 with Power=2
+  152 with Power=1
 
 Lowest current Rule Number:           101
 Highest current Rule Number:         2119
@@ -129,25 +129,30 @@ Amended(1) by Proposal 4807 (Sherlock), 15 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 101/1 (Power=3)
-Obey the Rules
+Rule 101/2 (Power=3)
+Agora May I?
 
-      All Players must always abide by all the Rules currently in
-      effect, in the form in which they are currently in effect.
-      However, a Player besides the Speaker may always deregister
-      rather than continue to play.
+      Any player is permitted to perform an action which is not
+      regulated.  An action is regulated if:
 
-      Whatever is not prohibited or regulated by the Rules is
-      permitted and unregulated, with the sole exception of changing
-      the Rules, which is permitted only when the Rules explicitly or
-      implicitly permit it.  Any change to the game state which would
-      make it impossible to make arbitrary modifications to the Rules
-      by any combination of actions by Players does not occur, any
-      Rule to the contrary notwithstanding.
+      (a) the action is prohibited;
 
-      The Rules in the Initial Set are in effect at the beginning of
-      the first game.  The Initial Set consists of Rules 101-116
-      (Immutable) and 201-219 (Mutable).
+      (b) the rules indicate that if certain conditions are satisfied,
+          then some player is permitted to perform the action;
+
+      (c) the action would, as part of its effect, modify information
+          for which some player is required to be a recordkeepor;
+
+      (d) the action would, as part of its effect, make it impossible
+          to make arbitrary modifications to the rules by any
+          combinations of actions by players; or
+
+      (e) the courts have held that the action is regulated, and this
+          finding has not been overturned.
+
+      A player besides the Speaker is always permitted to deregister
+      rather than continue to play.  Please treat Agora right good
+      forever.
 
 [CFJ ???: "abide by all the Rules" means the Rules as a whole, not
  necessarily each individual Rule.
@@ -163,6 +168,7 @@ History:
 Initial Immutable Rule 101, Jun. 30 1993
 Mutated from MI=Unanimity to MI=3 by Proposal 1480, Mar. 15 1995
 Amended(1) by Proposal 3915 (harvel), Sep. 27 1999
+Amended(2) by Proposal 4833 (Maud), 6 August 2005
 
 ----------------------------------------------------------------------
 
@@ -181,58 +187,29 @@ Created by Proposal 4781 (Sherlock), 3 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 1011/4 (Power=2)
-Definition of Nomic Property
+Rule 1527/4 (Power=1)
+Unsnarling Tangles
 
-      A Nomic Property is any property of any entity the value of
-      which is defined by the Rules.  Other Rules may define
-      procedures by which the value of a Nomic Property may be
-      changed.
+      Whenever a message contains more than one note on which the
+      rules place some legal significance, the notes shall be taken to
+      have been sent sequentially in the order they appear in the
+      message.
 
-[CFJ 700: Neither nicknames nor Players are "created by the Nomic
- Rules, and exist only within the context of Agora Nomic."
- CFJs 815 & 816: If an amendment is made which changes the properties
- of an Entity, the Entity changes to conform to the new Rule, rather
- than the destruction of the old Entities.  If the old Entity has
- the same name as the new Entity, that implies continuity of that
- Entity if at all possible.]
+      A tangle is any set of two or more notes in a message, none of
+      which can be determined to appear in the message before the
+      others.  If a message containing a tangle does not provide an
+      order for the notes in that tangle, then the notes in that
+      tangle shall be considered ambiguous and without effect if the
+      effects of those notes on the gamestate would depend on the
+      order in which they take effect, discounting the mere fact of
+      their taking effect in a different order.
 
-History:
-Created by Proposal 450 (Alexx), Sep. 10 1993
-Amended by Proposal 1011, Sep. 5 1994
-Amended by Rule 750, Sep. 5 1994
-Mutated from MI=1 to MI=2 by Proposal 1593, Jun. 2 1995
-Amended(1) by Proposal 2042, Dec. 11 1995
-Amended(2) by Proposal 2546, Mar. 22 1996
-Amended(3) by Proposal 2630, Jul. 4 1996
-Amended(4) by Proposal 3900 (Elysion), Sep. 6 1999
-
-----------------------------------------------------------------------
-
-Rule 1527/3 (Power=1)
-Timing of Multiple Events in One Message
-
-      Whenever a message contains more than one action -- such as a
-      notification, report, or other communication -- on which the
-      Rules place some legal significance, the actions in that message
-      shall be taken to have been sent sequentially in the order which
-      they appear in the message.
-
-      If a message attempts to perform multiple actions simultaneously
-      without explicitly stating a specific order for the actions,
-      then the attempt shall be considered ambiguous and without
-      effect if the gamestate would be substantively different for any
-      two orderings of the actions. For the purposes of this test, the
-      actual order the actions are performed in is not considered
-      substantive, but other differences may, at the discretion of a
-      judge, be considered substantive.
-
-History:
 Created by Proposal 1750, Oct. 21 1995
 Infected and Amended(1) by Rule 1454, Feb. 2 1997, substantial
   (unattributed)
 Amended(2) by Proposal 3452 (Steve), Apr. 7 1997, substantial
 Amended(3) by Proposal 4150 (Elysion), 13 May 2001
+Amended(4) by Proposal 4833 (Maud), 6 August 2005
 
 ----------------------------------------------------------------------
 
@@ -545,45 +522,40 @@ Amended(4) by Proposal 4823 (root), 17 July 2005
 
 ----------------------------------------------------------------------
 
-Rule 478/14 (Power=3)
+Rule 478/15 (Power=3)
 Fora
 
       Publicity is a stuck forum switch with values null, Discussion,
-      and Public.  A forum's Publicity may not be changed except as
+      and Public.  A forum's publicity may not be changed except as
       described in this rule.
 
-      The Registrar may, without objection, flip the publicity of a
-      forum.  In addition to any other requirements the rules place on
-      this action, the Registrar's announcement of intent must be sent
-      to that forum, and if the forum is being made Public, then the
-      announcement by which the Registrar performs the modification
-      must be sent to all existing Public fora.
+      The Registrar may flip the publicity of a forum without
+      objection as long as:
 
-      It is the responsibility of each active player to ensure that e
-      can receive messages via each Public forum.
+      (a) e sends eir announcement of intent to that forum; and
 
-      The Registrar shall include as part of eir Report all Public or
-      Discussion fora and sufficient data regarding each such forum to
-      allow players to receive messages via that medium.  The
-      Registrar need not keep track of fora with null state.
+      (b) if the forum is to be made public, the announcement by which
+          the Registrar makes that forum public is sent to all
+          existing public fora.
 
-      A message is not public unless some rule states that it is
-      public.  A message is public if it is sent via a Public forum,
-      or if it is sent to all players via a combination of fora and
-      contains a clear designation of intent to be public.
+      Each active player should ensure e can receive messages via each
+      public forum.
 
-      A player publishes information by publicly sending a message
-      containing that information, and announces something by
-      publishing it.
+      The Registrar's report shall include a list of all public or
+      discussion fora and sufficient data regarding each to allow
+      players to receive messages via that medium.  The Registrar need
+      not keep track of null fora.
 
-      If the rules state that a player may perform an action by
-      announcement, then that player may perform that action by
-      announcing that e performs it.  If the rules state that a player
-      may perform an action by private message to some player, then
-      that player may perform that action by sending a message
-      privately to the specified player indicating that e performs it.
-      In either case, such a message must unambiguously describe the
-      action to be performed.
+      A message is public if and only if it is sent via a public forum
+      or is sent to all players and contains a clear designation of
+      intent to be public.  A player "publishes" or "announces"
+      something by sending a public message.
+
+      A player performs an action "by announcement" by announcing that
+      e performs it.  A player performs an action "by private message"
+      to some player by sending an appropriate private message to the
+      specified player.  Any action performed by sending a message is
+      performed at the time date-stamped on that message.
 
 [CFJ 752: Something sent to a Player who is obligated to send it to
  all Players is sufficient for sending something to the PF.
@@ -614,6 +586,7 @@ Amended(12) by Proposal 4248 (Murphy), 19 February 2002
 Amended(13) by Proposal 4456 (Maud), 22 February 2003
 Power changed from 1 to 3 by Proposal 4690 (root), 18 April 2005
 Amended(14) by Proposal 4690 (root), 18 April 2005
+Amended(15) by Proposal 4833 (Maud), 6 August 2005
 
 ----------------------------------------------------------------------
 
@@ -978,16 +951,17 @@ Amended(4) by Proposal 3999 (harvel), May 2 2000
 
 ----------------------------------------------------------------------
 
-Rule 2039/0 (Power=3)
+Rule 2039/1 (Power=3)
 Ought implies can
 
-      Other Rules to the contrary notwithstanding, the failure to
-      perform an action required by the Rules, where the person
-      required to act was not empowered to do so, shall never
-      constitute the commission of a Crime or Infraction.
+      No player may be required to do anything e is not empowered to
+      do, and the failure of a player to do something e was not
+      empowered to do shall never constitute the commission of a crime
+      or infraction.
 
 History:
 Created by Proposal 4440 (Steve), 3 February 2003
+Amended(1) by Proposal 4833 (Maud), 6 August 2005
 
 ----------------------------------------------------------------------
 
@@ -997,13 +971,19 @@ The Players
   This Category includes Rules defining and classifying Players.
 ----------------------------------------------------------------------
 
-Rule 869/16 (Power=1)
-How to Join Agora
+Rule 869/17 (Power=1)
+How to Join and Leave Agora
 
       A person who is not currently registered as a player and is not
-      prohibited from registering may become a registered player by
-      sending a message to a public forum which sets forth eir intent
-      to register.
+      prohibited from registering is permitted to register.
+
+      A person registers or deregisters by announcement.
+
+      Whenever a person registers, e becomes a player.
+
+      Whenever a player deregisters or is deregistered, e ceases to be
+      a player and is prohibited from registering for the next thirty
+      days.
 
 [CFJ 805: "Person" here means a natural person, not a legal person
  (such as a corporation) or something named "person."
@@ -1031,6 +1011,7 @@ Amended(13) by Proposal 4451 (Cecilius), 22 February 2003
 Amended(14) by Proposal 4523 (Murphy), 28 August 2003
 Amended(15) by Proposal 4693 (Maud), 18 April 2005
 Amended(16) by Proposal 4802 (Maud), 15 June 2005
+Amended(17) by Proposal 4833 (Maud), 6 August 2005
 
 ----------------------------------------------------------------------
 
@@ -1181,33 +1162,6 @@ Amended(15) by Proposal 4400 (Pakaran), 23 October 2002
 Amended(16) by Proposal 4407 (Steve), 30 October 2002
 Amended(17) by Proposal 4527 (Murphy), 16 September 2003
 Amended(18) by Proposal 4820 (Goethe), 10 July 2005
-
-----------------------------------------------------------------------
-
-Rule 1043/5 (Power=1)
-Deregistration
-
-      A Player other than the Speaker may deregister from Agora by
-      sending a public message announcing eir deregistration. A Player
-      who deregisters in this fashion ceases to be a Player effective
-      at the time date-stamped on that message, and any attempts by em
-      to reregister before thirty days have passed are without effect.
-      This Rule takes precedence over Rules which would cause em to be
-      reregistered before thirty days have passed after eir
-      deregistration.
-
-[CFJ 810: If a Player deregisters as well as doing other things
- in the same message, Rule 1527 applies.]
-
-History:
-Created by Proposal 474 (Alexx), Sep. 17 1993
-Amended by Proposal 1043, Sep. 21 1994
-Amended by Rule 750, Sep. 21 1994
-Amended(1) by Proposal 1305, Nov. 4 1994
-Amended(2) by Proposal 2599, May 11 1996
-Amended(3) by Proposal 2697, Oct. 10 1996
-Amended(4) by Proposal 3829 (Steve), Feb. 8 1999
-Amended(5) by Proposal 4011 (Wes), Jun. 1 2000
 
 ----------------------------------------------------------------------
 
@@ -1446,72 +1400,43 @@ Amended(16) by Proposal 4380 (Steve), 11 September 2002
 
 ----------------------------------------------------------------------
 
-Rule 1791/0 (Power=1)
-Ratification Without Objection
+Rule 1551/6 (Power=3)
+Ratification
 
-      Any Officer who holds an Office in Normal Fashion can Ratify an
-      Official Report Without Objection, provided the following
-      conditions hold;
+      A document required to be maintained and published by a player
+      can be ratified if and only if:
 
-        i) The Report to be Ratified is one that is legally
-           permissible to Ratify.
-       ii) The Report to be Ratified was produced by the Player
-           holding the Office.
-      iii) The Report to be Ratified is one that is required to be
-           produced and maintained by the Officer.
+      (a) the correctness of the document is not under dispute;
 
-      A Speaker who is not Tainted is permitted to Ratify any Official
-      Report Without Objection provided that the Report is one legally
-      permissible to Ratify.
+      (b) the information within the document has not been superseded
+          by a subsequent document which contradicts it and whose
+          correctness is not under dispute; and
 
-      A COE on any Report undergoing this process shall be deemed by
-      the Rules to constitute an Objection.
+      (c) the document is not the ruleset.
 
-[CFJ 1207 (14 April 2000) found that this rule allows a report to be
- ratified by an Officer, even in the face of Rule 1550, which requires
- that the only instrument capable of ratifying a report be a
- Proposal.  In effect, Players are not instruments.]
+      If a player attempts to ratify a document, or a legislative
+      order executed by the adoption of a proposal would ratify a
+      document, then that document is not ratified unless it can be
+      ratified.
 
-History:
-Created by Proposal 3700 (Swann), Mar. 19 1998
+      The electee to an office is permitted to ratify, without
+      objection, an official report e produced and was required to
+      maintain by virtue of holding that office.  The Speaker is
+      permitted to ratify, without objection, any official report.  In
+      either case, a claim of error on such a report shall be deemed
+      to constitute an objection to ratification.
 
-----------------------------------------------------------------------
+      When a document is ratified, the gamestate is modified so that
+      the ratified document was completely true and accurate at the
+      time it was published.  Nevertheless, the ratification of a
+      document does not invalidate, reverse, alter, or cancel any
+      messages or actions, even if they were unrecorded or overlooked,
+      or change the legality of any attempted action.
 
-Rule 1551/5 (Power=1)
-Documents Subject to Ratification
-
-      The ratification of an Official Document conforms the Game State
-      to what it would be if the valid Official Document thus ratified
-      was completely true and accurate at the time the Document was
-      published.  In other words, the State of the Game, upon such
-      ratification, becomes that specified within the Document, plus
-      all subsequent legal changes between the time of its publication
-      and its ratification.
-
-      All Game State changes due to the ratification of an Official
-      Document occur at the time of such ratification; no retroactive
-      effect is expressed or implied.
-
-      A Document, once ratified, is for all legal purposes a true and
-      accurate report.  The Game State it references may not be
-      retroactively modified prior to the time it was published, even
-      to reflect a prior mistake, retracted or illegal move, or an
-      Order.  This Rule takes precedence over any Rule that would
-      allow such retroactive alterations or corrections to the Game
-      State.
-
-      In no way does the ratification of a Document invalidate,
-      reverse, alter or cancel any prior moves or transfers, even
-      unrecorded or overlooked ones.  Nor does the ratification of a
-      Document change the legality or illegality of any prior move.
-      Ratification only adjusts the actual Game State to conform to
-      that perceived by the Players and Officers in Official
-      Documentation.
-
-      After a Document has been ratified, the Player in charge of
-      maintaining that Document shall annotate all subsequent
-      publications of that Document with the date of publication of
-      the last such publication that was ratified.
+      After a document has been ratified, its maintainer shall
+      annotate all subsequent publications of that document with the
+      date of publication of the most recent issue of that published
+      that was ratified.
 
 History:
 Created by Proposal 2425, Jan. 30 1996
@@ -1521,45 +1446,8 @@ Amended(2) by Proposal 3445 (General Chaos), Mar. 26 1997, substantial
 Amended(3) by Proposal 3704 (General Chaos), Mar. 19 1998
 Amended(4) by Proposal 3889 (harvel), Aug. 9 1999
 Amended(5) by Proposal 4147 (Wes), 13 May 2001
-
-----------------------------------------------------------------------
-
-Rule 1552/4 (Power=1)
-Requirements for Ratification
-
-      An Official Document is legally permissible to Ratify if and
-      only if all of the following are true:
-
-      a) The Rules required some specific Player to produce and/or
-         maintain the document.
-
-      b) The Rules required it to be published.  (A requirement that
-         it be sent to all Players fulfills this criterion.)
-
-      c) It is not currently subject to a Claim of Error (COE).
-
-      d) It is not currently subject to a pending Call for Judgement
-         (CFJ), or a pending Appeal of a CFJ.
-
-      e) The information within the Document has not been superseded
-         by a subsequent Document that contradicts it.  (This does not
-         apply if a COE alleging the contradiction is in error is
-         admitted.)
-
-      f) The Document is not the Ruleset.  The Ruleset is specifically
-         excluded from Ratification.
-
-      Ratification by Proposal is effective only if the Document is
-      legally permissible to Ratify when the Proposal takes effect.
-
-
-History:
-Created by Proposal 2425, Jan. 30 1996
-Amended(1) by Proposal 3510 (Harlequin), Jun. 16 1997, substantial
-  (unattributed)
-Amended(2) by Proposal 3823 (Oerjan), Jan. 21 1999
-Amended(3) by Proposal 4147 (Wes), 13 May 2001
-Amended(4) by Proposal 4517 (Murphy), 18 July 2003
+Power changed from 1 to 3 by Proposal 4832 (Maud), 6 August 2005
+Amended(6) by Proposal 4832 (Maud), 6 August 2005
 
 ----------------------------------------------------------------------
 
@@ -5639,33 +5527,16 @@ Cards
   This Category includes Rules regulating Cards.
 ----------------------------------------------------------------------
 
-Rule 2068/4 (Power=1)
+Rule 2068/5 (Power=1)
 The Deckmastor
 
-      The Deckmastor is an office whose responsibilities include
-      shuffling, dealing, and other random actions concerning cards,
-      and who acts as the recordkeepor for Cards.  The Deckmastor's
-      Weekly Report shall contain a record of all Cards in existence,
-      recent card actions, and what entity possesses each Card.
+      The Deckmastor is an office; its holder is responsible for fair
+      play, shuffling, and dealing, and is the recordkeepor for cards.
 
-      The Deck and the Discard Pile are Gamblers.  The Deckmastor
-      shall be the sole Executor of both entities, but may take no
-      action on behalf of them except as explicitly permitted by the
-      Rules.  The Deck and Discard Pile may not transfer cards to any
-      other entity except as explicitly required by the Rules.
-
-      Only the Deckmastor may create or destroy Cards, and e only may
-      do so when the rules require it.  The Deckmastor creates or
-      destroys a card by announcement, specifying as appropriate the
-      entity who now possesses it or previously possessed it.
-
-      If at any time fewer Copies of a defined Class of Cards exist
-      than its Quota, then the Deckmastor shall create a Copy of that
-      Card in the possession of The Deck, unless otherwise specified.
-      If at any time more Copies of a Class of Cards exist than its
-      Quota, then the Deckmastor shall destroy a Copy of that Card in
-      the possession of The Deck, unless no such Copies exist, in
-      which case the Deckmastor shall destroy a random Copy.
+      The Deckmastor's weekly report shall contain a record of all
+      cards in existence, recent card actions, and what entity holds
+      each card.  The Deckmastor need not record or report transfers
+      of cards to the table.
 
 History:
 Created by Proposal 4573 (Wes), 14 May 2004
@@ -5673,6 +5544,7 @@ Amended(1) by Proposal 4614 (Goethe), 21 September 2004
 Amended(2) by Proposal 4694 (Goethe), 18 April 2005
 Amended(3) by Proposal 4734 (Sherlock), 5 May 2005
 Amended(4) by Proposal 4805 (Goethe, Manu), 20 June 2005
+Amended(5) by Proposal 4834 (Maud), 6 August 2005
 
 ----------------------------------------------------------------------
 
@@ -5739,63 +5611,73 @@ Created by Proposal 4805 (Goethe, Manu), 20 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 2114/0 (Power=1)
+Rule 2114/1 (Power=1)
 Card Definitions
 
-      A Cardbook is a document, maintained by the Deckmastor, that is
-      specifically defined in the Rules as being a Cardbook.  The
-      Deckmastor must publish each cardbook as soon as possible after
-      its contents change, and at least once a month.  The contents of
-      a cardbook may only be changed as explicitly permitted by the
-      Rules.
+      A document is a cardbook if so designated by the rules.  The
+      Deckmastor is the recordkeepor of cardbooks; eir monthly report
+      shall include each cardbook.  As soon as possible after a
+      cardbook changes, the Deckmastor shall publish that cardbook.  A
+      cardbook may only be changed as explicitly permitted by the
+      rules.
 
       The Deckmastor may change non-substantial properties of any
-      Cardbook, specifically layout, whitespace, and the order of
+      cardbook, specifically layout, whitespace, and the order of
       definitions, as e sees fit.
 
-      A class of card is considered defined if and only if a valid
-      definition for that card class exists in a cardbook.  A valid
-      card definition defines a Class of Card by specifying a Caption,
-      a Frequency, zero or more Elements, and zero or more Exploits.
+      A cardbook can define a class of cards by specifying its
+      Caption, Frequency, zero or one Exploits, and optionally its
+      Elements, and can define an Element by specifying its name and
+      description.  Neither classes of cards nor Elements may be
+      otherwise defined.
 
-      (a) The Caption shall be the name of a particular Class of
-          Cards. No two Classes of Cards shall have the same Caption.
+      (a) The Caption is a string of text, unique to a particular
+          class of cards.
 
-      (b) The Frequency, which may have one of the following values:
-          Common, Rare, Unique.  If any other value is specified, the
-          frequency shall be considered to be Unique.
+      (b) The Frequency of a card is exactly one of the values Unique,
+          Rare, or Common, defaulting to Unique if unspecified or
+          incorrectly specified.
 
-      (c) A cardbook may define Elements for Cards. Each Element shall
-          have a name and a description. Any Card possessing the
-          Element of that name shall behave according to the
-          description associated with that Element. An Element not
-          defined in a cardbook has no effect.
+      (c) A card with a particular Element behaves according to the
+          description of that Element.
 
-      (d) An Exploit is an action that the Holder of that Card (and
-          only the Holder of that Card) may take if and only if e
-          clearly indicates the card whose Exploit e is performing and
-          e meets the requirements and/or pays the costs outlined in
-          that Exploit. Any reference to "you," "your" or a similar
-          pronoun in the text of an Exploit refers to the Holder of
-          that Card. Taking an action described in an Exploit is known
-          as Playing the Card. Unless a Rule or card definition says
-          otherwise, a Card is automatically transferred to the
-          Discard Pile immediately after being Played.
+      (d) An Exploit of a card may contain one or more Indications,
+          Impositions, and Feats.
 
-      All Cards of the same Class shall be identical and fungible.
-      Each individual instance of a Card shall be considered to be a
-      Copy of that Class of Card.
+          (1) An Indication is a requirement for the gambler playing
+              the card to select some entity or value.
+
+          (2) An Imposition is a requirement the gambler may impose
+              upon another gambler by playing the card.
+
+          (3) A Feat is an action the gambler may perform by playing
+              the card.
+
+          (4) A Fuse is an Imposition or Feat that is not imposed or
+              performed immediately, but rather when a stated
+              condition occurs.
+
+      A reference to "you" or "your" in any text on a card refers to
+      the gambler holding the card unless it is on the table, and then
+      refers to the gambler who played the card.
+
+      The cards of a given class are fungible.  Each individual
+      instance of a card shall be considered to be a copy of that
+      class of card.
 
       If there are conflicts between a card or element definition in a
-      cardbook and the Rules, then the conflict shall be resolved as
-      if the definition were contained in the text of the Rule that
-      defines the particular cardbook.
+      cardbook and the rules, then the conflict shall be resolved as
+      if the definition were contained in the text of the rule that
+      defines the particular cardbook.  This rule takes precedence
+      over any rule that would require a different method of resolving
+      such conflicts.
 
-      This Rule has precedence over any Rule describing the definition
-      or interpretation of card classes and card elements.
+      This rule takes precedence over any rule describing the
+      definition or interpretation of card classes and card elements.
 
 History:
 Created by Proposal 4805 (Goethe, Manu), 20 June 2005
+Amended(1) by Proposal 4834 (Maud), 6 August 2005
 
 ----------------------------------------------------------------------
 
@@ -5826,69 +5708,79 @@ Created by Proposal 4805 (Goethe, Manu), 20 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 2069/7 (Power=1)
+Rule 2069/8 (Power=1)
 Card Actions
 
-      I. Possession
+      (a) A nonperson entity is a site if so designated by the rules
+          or a cardbook.  A site may have one or more Elements.
 
-      Cards may be possessed by Gamblers. All Players are Gamblers.
-      If at any time a Card is not possessed by a Gambler, it
-      immediately and automatically returns to the possession of The
-      Deck.
+      (b) A gambler is a player or a site.  All gamblers may hold
+          cards.  If a card is held by a nongambler, the Deckmastor
+          shall transfer that card to the Deck as soon as possible.
 
-      The Gambler that possesses a Card is that Card's Holder and
-      Holds that Card. All Cards possessed by a particular Gambler are
-      collectively referred to as that Gambler's Hand. A Gambler's
-      Hand Size is the number of Cards in eir Hand plus one for each
-      Pending Draw for that Gambler.
+          A gambler's hand is the collection of cards held by that
+          gambler.  A gambler's hand size is the size of this
+          collection, plus one for each pending draw for that gambler.
 
-      II. Actions
+      (c) When a card must be created or destroyed, the Deckmastor
+          shall be empowered to create or destroy that card, as
+          appropriate, and must do so as soon as possible.  The
+          Deckmastor creates or destroys a card by announcement,
+          specifying as appropriate its holder or its former holder.
+          Cards can be neither created nor destroyed otherwise.
 
-      No action involving Cards may be simultaneous with any other
-      action. No such action may be performed more than once
-      simultaneously. If any attempt is made to perform more than one
-      such action in such a way that the order of said actions is
-      unclear, all such actions fail.
+          Whenever the quota for a class of cards exceeds the number
+          of existing copies of that card, a copy of that card must be
+          created.  The copy must be created in the deck's hand unless
+          otherwise specified.
 
-      (a) Unless restricted from doing so by the rules, any Gambler
-          possessing a Card may transfer that Card to any other
-          Gambler by announcing which Card is to be transferred and
-          the Gambler it shall be transferred to. All such transfers
-          take place at the time they are announced.
+          Whenever the number of existing copies of a card exceeds the
+          quota for its class, if the deck holds a copy of that card,
+          a copy held by the deck must be destroyed, and if the deck
+          does not, then a random copy of the card must be destroyed.
 
-          If a Gambler transfers a card to the Deck, it is instead
-          transferred to the discard pile, unless the transfer is made
-          as part of the Deckmastor's required duties.  Discarding a
-          Card is synonymous with transferring said Card to the
-          Discard Pile.
+      (d) If a card would be transferred to the deck or the table, and
+          the transfer is not performed automatically, as part of the
+          Deckmastor's duties, or as the result of a card play, it is
+          discarded instead.
 
-      (b) Drawing a Card and Drawing from The Deck are synonymous.
+          When a card is otherwise transferred from one gambler to
+          another, the former gambler shall cease to hold the card and
+          the latter gambler shall simultaneously come to hold the
+          card.
 
-          When a Gambler Draws a Card, the Deckmastor shall be
-          required to randomly select one Card from among those
-          currently in The Deck's Hand and transfer it to that Gambler
-          as soon as possible. Until this transfer takes place, that
-          Gambler is said to have one Pending Draw for each such
-          transfer the Deckmastor is required to make, but has not yet
-          made.  Whenever a player makes a true announcement that the
-          number of pending draws for all gamblers is greater than the
-          number of cards in the Deck, or that there are no cards in
-          the Deck, then the Deckmastor shall transfer all of the
-          cards in the Discard Pile to the Deck before dealing any
-          cards.  This transfer is known as a Reshuffle and is
-          performed as a single action.
+          Discarding a card is synonymous with transferring it to the
+          discard pile.  Dealing a card to a gambler is synonymous
+          with selecting a random card from the deck and transferring
+          it from the deck to that gambler.
 
-          A Gambler whose Hand Size is smaller than the maximum Hand
-          Size, plus the number of Offices e holds, plus one if e is
-          Speaker, may draw a card from The Deck.  The fee for this
-          action is a number of Kudos equal to the number of times
-          during the current month e has previously drawn a card in
-          this manner.
+          A gambler may transfer a card e holds to another gambler by
+          announcement, specifying the card to transfer and, if not
+          discarding it, the gambler to receive the card.
+
+      (e) A nonsite gambler whose hand size is smaller than the
+          maximum hand size, plus the number of offices e holds, may
+          draw a card for a fee equal to the number of times during
+          the current month e has previously drawn a card in this
+          manner.
+
+      (f) When a gambler draws a card, e gains a pending draw.  As
+          soon as possible afterward, the Deckmastor shall deal a card
+          to that gambler.  When e does so, the draw is no longer
+          pending.
 
           If the Deckmastor errs, in good faith, in selecting a
           particular card to deal, and that error does not greatly
           change the probability of selecting that card, that deal
           shall be allowed to stand.
+
+          As soon as possible after a player correctly announces that
+          the sum of the number of pending draws for each gambler is
+          greater than the number of cards in the deck, or that there
+          are no cards in the deck, then the Deckmastor shall
+          reshuffle the deck.  Whenever the deck is reshuffled, all
+          cards in the discard pile are automatically transferred to
+          the deck.
 
 History:
 Created by Proposal 4573 (Wes), 14 May 2004
@@ -5899,23 +5791,41 @@ Amended(4) by Proposal 4694 (Goethe), 18 April 2005
 Amended(5) by Proposal 4733 (root), 5 May 2005
 Amended(6) by Proposal 4739 (root), 5 May 2005
 Amended(7) by Proposal 4825 (Maud), 17 July 2005
+Amended(8) by Proposal 4834 (Maud), 6 August 2005
 
 ----------------------------------------------------------------------
 
-Rule 2106/0 (Power=1)
-Card Fees
+Rule 2106/1 (Power=1)
+Playing Cards
 
-      All fees associated with Card Actions, Elements and Exploits
-      must be paid as soon as possible by the Gambler incurring the
-      fee. For every Kudo not paid on time, the Gambler commits the
-      Class 1 Infraction of Debt Overdue, which may be reported by any
-      Player.
+      A gambler plays a card with an Exploit by announcement,
+      specifying the card to be played, indicating any entities or
+      values mentioned in an Indication of the card's Exploit, and
+      noting any fees required to play the card.  A card without an
+      Exploit cannot be played.
 
-      This rule takes precedence over all rules pertaining to Cards
-      fees.
+      When a gambler plays a card, the following events automatically
+      occur in order:
+
+      (a) The card is transferred to the table.
+
+      (b) One at a time in the order listed on the card, the gambler
+          places any Impositions listed in the Exploit on the
+          appropriate gamblers and performs each Feat listed in the
+          Exploit.
+
+      (c) If the card is still on the table, it is discarded.
+
+      If the card has any Fuses, then the first time the stated
+      condition for a Fuse occurs, the gambler places the Imposition
+      or performs the Feat associated with that Fuse as appropriate.
+
+      The Elements or Exploit of a card may modify any of the above
+      events.
 
 History:
 Created by Proposal 4738 (Manu), 5 May 2005
+Amended(1) by Proposal 4834 (Maud), 6 August 2005
 
 ----------------------------------------------------------------------
 
@@ -6012,21 +5922,21 @@ Created by Proposal 4644 (root), 12 March 2005
 
 ----------------------------------------------------------------------
 
-Rule 2080/3 (Power=1)
+Rule 2080/4 (Power=1)
 Cards for Proposals
 
-      If a Proposal is adopted, the Proposer may draw from the deck by
-      announcing the Proposal number while drawing; so long as the
-      Proposer's Hand Size is smaller than the Maximum Hand Size plus
-      the number of Offices e holds, the Proposer performs the draw
-      within a week after the proposal's adoption, and the Proposer
-      has not already done so for the same proposal.
+      Within a week after a proposal's adoption, if its proposer would
+      be permitted to draw a card for a fee, then e may draw a card by
+      announcement, specifying in eir announcement that proposal's
+      number.  E can only perform this action once for the adoption of
+      that proposal.
 
 History:
 Created by Proposal 4635 (OscarMeyr), 23 January 2005
 Amended(1) by Proposal 4644 (root), 12 March 2005
 Amended(2) by Proposal 4753 (Sherlock), 5 May 2005
 Amended(3) by Proposal 4761 (root), 15 May 2005
+Amended(4) by Proposal 4834 (Maud), 6 August 2005
 
 ----------------------------------------------------------------------
 
@@ -6227,28 +6137,28 @@ The University of Agora
   Theses and that subset of Patent Titles known as Degrees.
 ----------------------------------------------------------------------
 
-Rule 2086/2 (Power=1)
+Rule 2086/3 (Power=1)
 The University of Agora
 
-      The University is an Entity.
-
-      The Speaker is President and Limited Executor of the
+      The University, also known as the Library, is a site.  The
+      Speaker is the president of and a limited executor of the
       University.
 
-      Education is a stuck Player switch with values Student and
-      Faculty Member.  The SotU shall flip the Education switch to
-      Faculty Member for a Player as soon as possible after that
-      Player is awarded a Degree.  The SotU is the recordkeepor of
-      Education.
+      Education is a stuck player switch with values Student and
+      Faculty Member.  The Secretary of the University (SotU) is the
+      recordkeepor of education.  As soon as possible after a player
+      is awarded a degree, the SotU shall flip the education of that
+      player to Faculty Member.
 
 History:
 Created by Proposal 4657 (Sherlock), 29 March 2005
 Amended(1) by Proposal 4669 (Quazie), 9 April 2005
 Amended(2) by Proposal 4728 (Murphy), 25 April 2005
+Amended(3) by Proposal 4834 (Maud), 6 August 2005
 
 ----------------------------------------------------------------------
 
-Rule 2091/1 (Power=1)
+Rule 2091/2 (Power=1)
 The Office of Secretary of the University
 
       The Secretary of the University (SotU) is an office; its holder
@@ -6256,19 +6166,18 @@ The Office of Secretary of the University
 
       The SotU's Weekly Report shall include:
 
-      (a) A list of all active Research Grants;
+      (a) A list of all active Research Grants.
 
-      (b) A list of all active Book club selections;
+      (b) A list of all active Book Club Selections.
 
       (c) Each player's Education.
 
       (d) A list of who has checked out cards from the library.
 
-      (e) The running history of all of the preceding.
-
 History:
 Created by Proposal 4669 (Quazie), 9 April 2005
 Amended(1) by Proposal 4796 (Maud), 6 June 2005
+Amended(2) by Proposal 4834 (Maud), 6 August 2005
 
 ----------------------------------------------------------------------
 
@@ -6308,23 +6217,20 @@ Created by Proposal 4657 (Sherlock), 29 March 2005
 
 ----------------------------------------------------------------------
 
-Rule 2089/4 (Power=1)
+Rule 2089/5 (Power=1)
 Gardner Library
 
-      "The Library" is a synonym for "The University".
+      Whenever the Library's hand size is less than five, it gains a
+      pending draw.
 
-      The Library is a Gambler. Whenever the Library has fewer than
-      five Cards, the Deckmastor shall as soon as possible deal
-      randomly chosen Cards to the Library until it has five cards.
-
-      A Player (hereafter the Borrower) may check out a specified Card
+      A player (hereafter the Borrower) may check out a specified card
       from the Library by paying a Fee for the Library's upkeep.  The
       fee is 2 Kudos for Students and 1 Kudo for Faculty Members.  The
-      Card is considered reserved and may not be checked out by any
-      Player until it is dealt to the Library again by the Deckmastor.
+      card is reserved and may not be checked out by any player until
+      it is dealt to the Library again by the Deckmastor.
 
-      Immediately after a Card is checked out from the Library it is
-      transfered from the Library to the Borrower.
+      Whenever a card is checked out from the Library, it is
+      transferred to the Borrower.
 
       The President of the University may discard any card in the
       possession of the Library without two objections.
@@ -6335,6 +6241,7 @@ Amended(1) by Proposal 4706 (Quazie), 18 April 2005
 Amended(2) by Proposal 4715 (Goethe), 25 April 2005
 Amended(3) by Proposal 4726 (root), 25 April 2005
 Amended(4) by Proposal 4728 (Murphy), 25 April 2005
+Amended(5) by Proposal 4834 (Maud), 6 August 2005
 
 ----------------------------------------------------------------------
 
