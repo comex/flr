@@ -21,15 +21,15 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 206 Rules:
+There are currently 198 Rules:
     1 with Power=4
    29 with Power=3
-   24 with Power=2
-  152 with Power=1
+   22 with Power=2
+  146 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2119
-Highest Rule Number assigned so far: 2119
+Highest current Rule Number:         2120
+Highest Rule Number assigned so far: 2120
 
 ======================================================================
 Table of Contents:
@@ -311,43 +311,6 @@ Amended(5) by Proposal 4190 (Steve), 18 July 2001
 
 ----------------------------------------------------------------------
 
-Rule 1989/1 (Power=1)
-Prime Executors
-
-      (a) The Prime Executor of an entity with respect to a certain
-          action is the Player who is responsible for performing that
-          action. For each action that an entity is required to
-          perform, there shall be at most one Prime Executor of that
-          entity with respect to that action. Any penalty incurred due
-          to an entity's failure to perform as required by the Rules
-          is incurred by the Prime Executor of that entity.
-
-      (b) Any other Rule to the contrary notwithstanding, the Prime
-          Executor of an entity with respect to a certain action must
-          be an Executor of that entity, or a Limited Executor of that
-          entity who is permitted to perform that action on behalf of
-          that entity.
-
-      (c) If the Rules designate a Player to be the Prime Executor of
-          an entity, without specifying particular actions that the
-          Prime Executor is responsible for performing, then that
-          Player is the Prime Executor of that entity with respect to
-          all actions that the entity is required to perform.
-
-      (d) Unless otherwise specified by the Rules, each Player is eir
-          own Prime Executor.
-
-      (e) If a Player is the sole Executor of an entity, then e is the
-          Prime Executor of that entity. This provision does not apply
-          to a Player who is the sole Limited Executor, but not the
-          Executor, of an entity.
-
-History:
-Created by Proposal 4190 (Steve), 18 July 2001
-Amended(1) by Proposal 4389 (Steve), 5 October 2002
-
-----------------------------------------------------------------------
-
 ======================================================================
 Definitions
   This Category includes definitions of terms which do not readily
@@ -393,31 +356,10 @@ Happy Birthday
       founding,
 
       BE IT THEREFORE RESOLVED that Agora's Birthday is defined to be
-      the entire day of June 30, GMT +1200, of each year;
-
-      BE IT FURTHER RESOLVED that, as soon as possible after the end
-      of Agora's Birthday, the Herald shall award the boon of
-      celebration to each Player who, during Agora's Birthday,
-      publicly recognized Agora's Birthday;
-
-      BE IT FURTHER RESOLVED that the Herald may select one Contract,
-      in existence on Agora's Birthday, which has as its purpose
-      encouraging the celebration of Agora's Birthday.  Within the
-      month following Agora's Birthday, that Contract may award its
-      Members the Patent Title Nth Anniversary Ribbon, where N is the
-      number of years of Agora's existence;
-
-      BE IT FURTHER RESOLVED that the Courts shall be closed on
-      Agora's Birthday; that is, the Clerk of the Courts shall not
-      publish any Calls For Judgement, Judgements, notices of
-      Appeals, Decisions of Appeals Boards, or Opinions, on Agora's
-      Birthday; nor shall any Player submit to the Clerk of the
-      Courts a Call For Judgement, notice of ineligibility to Judge,
-      Judgement, call for Appeal, or Appellate Decision, on Agora's
-      Birthday; nor shall any Player submit an Application to Submit
-      an Opinion on Agora's Birthday; however, if any of the above do
-      take place on Agora's Birthday, in violation of this Rule, this
-      Rule does not deprive them of their usual effects.
+      the entire day of June 30, GMT +1200, of each year, and as soon
+      as possible after the end of Agora's Birthday, the Herald shall
+      award the boon of celebration to each Player who, during Agora's
+      Birthday, publicly recognizes this Grand Event.
 
 History:
 Created by Proposal 3513 (Chuck), Jun. 16 1997
@@ -2646,23 +2588,18 @@ Created by Proposal 4811 (Maud, Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 1933/9 (Power=2)
+Rule 1933/10 (Power=2)
 A Proposal's Chamber
 
-      Chamber is a stuck proposal switch with values democratic and
-      ordinary.
+      Chamber is a stuck proposal switch with values ordinary and
+      democratic.  The default chamber for a proposal with an adoption
+      index of at least 2 is democratic.
 
-      An ordinary proposal with adoption index of two or greater is
-      stalled.  Rules to the contrary notwithstanding, a proposal is
-      undistributable while it is stalled.  If a proposal is
-      distributed that was stalled at the time of distribution, its
-      chamber shall immediately and automatically be flipped to
-      democratic.
-
-      While a proposal is in the Proposal Pool, its proposer may flip
-      its chamber by announcement.  This rule takes precedence over
-      any rule that would permit the chamber of a proposal to be
-      changed.
+      An ordinary proposal with an adoption index of two or greater is
+      stalled.  Rules to the contrary notwithstanding, a stalled
+      proposal is undistributable, and if a proposal is distributed
+      that was stalled at the time of distribution, its chamber shall
+      immediately and automatically be set to democratic.
 
 History:
 Created by Proposal 3980 (Steve), Mar. 1 2000
@@ -2676,6 +2613,7 @@ Amended(6) by Proposal 4570 (Elysion), 2 May 2004
 Amended(7) by Proposal 4590 (Elysion), 4 July 2004
 Amended(8) by Proposal 4599 (root), 11 July 2004
 Amended(9) by Proposal 4811 (Maud, Goethe), 20 June 2005
+Amended(10) by Proposal 4836 (Goethe, Maud), 2 October 2005
 
 ----------------------------------------------------------------------
 
@@ -2768,18 +2706,29 @@ Amended(12) by Proposal 4811 (Maud, Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 2019/3 (Power=2)
+Rule 2019/4 (Power=2)
 The Speaker's Veto
 
-      During the voting period of a non-democratic proposal, the
-      Speaker may veto it, with two support.  When e does so, the
-      adoption index of that proposal is increased by one.
+      The Speaker may veto an Ordinary Proposal in its voting period
+      by announcement.  Whenever a proposal is vetoed, its quorum is
+      set to the current number of eligible voters on that proposal
+      plus one, other rules governing quorum notwithstanding.
+
+      As soon as possible after a vetoed proposal fails quorum, the
+      Assessor shall a copy of that proposal to the Proposal Pool.
+      When e does so, that copy shall become distributable and
+      democratic, and its adoption index shall be increased by one.
+
+      The Speaker may Rubberstamp an Ordinary Proposal in its voting
+      period by announcement.  Quorum for a rubberstamped ordinary
+      proposal is three, other rules governing quorum nonwithstanding.
 
 History:
 Created by Proposal 4276 (Steve), 28 March 2002
 Amended(1) by Proposal 4576 (root), 31 May 2004
 Amended(2) by Proposal 4717 (Murphy), 25 April 2005
 Amended(3) by Proposal 4811 (Maud, Goethe), 20 June 2005
+Amended(4) by Proposal 4836 (Goethe, Maud), 2 October 2005
 
 ----------------------------------------------------------------------
 
@@ -3870,29 +3819,28 @@ Amended(3) by Proposal 4298 (Murphy), 17 May 2002
 
 ----------------------------------------------------------------------
 
-Rule 698/13 (Power=1)
+Rule 698/14 (Power=1)
 Always an Eligible Judge
 
       (a) Each active player is eligible to judge a given Call for
           Judgement (CFJ), unless a rule specifically makes em
-          ineligible.  A player who is inactive, unready, or is
+          ineligible.  A player who is inactive or unready is
           ineligible to judge CFJs.
 
       (b) If the Clerk of the Courts is required to select a Judge,
           but after taking all other rules affecting eligibility into
           account, no player is eligible to judge that CFJ, then:
 
-          (1) all ready, active, non-barred, players become
+          (1) all ready, active, non-barred players become
               eligible to judge that CFJ; then
 
           (2) if there is still no player eligible to judge, then all
-              ready, active, barred, players, other than
-              the caller emself, become eligible to judge that CFJ;
+              ready, active, barred players, other than the caller
+              emself, become eligible to judge that CFJ;
 
           (3) if there is still no player eligible to judge, then all
-              active, players, other than the caller
-              emself, become eligible to judge that increasingly
-              annoying CFJ;
+              active, players other than the caller emself, become
+              eligible to judge that increasingly annoying CFJ;
 
           (4) if there is still no player eligible to judge, then
               don't panic.  Somebody's bound to register someday; let
@@ -3917,6 +3865,7 @@ Amended(10) by Proposal 4385 (Steve), 17 September 2002
 Amended(11) by Proposal 4424 (Steve), 16 December 2002
 Amended(12) by Proposal 4798 (Maud, Goethe), 6 June 2005
 Amended(13) by Proposal 4820 (Goethe), 10 July 2005
+Amended(14) by Proposal 4835 (Goethe), 2 October 2005
 
 ----------------------------------------------------------------------
 
@@ -5401,105 +5350,14 @@ Kudos
   This Category includes Rules regulating the Kudos system.
 ----------------------------------------------------------------------
 
-Rule 2047/1 (Power=2)
-Kudos
-
-      Kudos (singular Kudo) are an integral measure of a Player's
-      Kismet and noteworthiness within the game of Agora.
-
-      The Herald is the recordkeepor of Kudos.  The kudos of a Player
-      may only be changed as specified by the rules or by an
-      instrument of Power 2 or greater.
-
-      If an entity has a defined number of Kudos, but the number has
-      not been set by the Rules, then the entity has 1 Kudo.
-
-History:
-Created by Proposal 4486 (Michael), 24 April 2003
-Amended(1) by Proposal 4520 (Goethe), 30 July 2003
-Amended(2) by Proposal 4598 (Elysion), 11 July 2004
-
-----------------------------------------------------------------------
-
-Rule 2048/0 (Power=1)
-Enlightenment
-
-      A Player (the Sensei) may, by public announcement, enlighten
-      Agora by choosing two Players to be the Yin and the Yang
-      respectively.  Such enlightenment has the effect of decreasing
-      the Yin's kudos by one and increasing the Yang's kudos by one,
-      provided:
-      (i)   the Sensei has at least one kudo;
-      (ii)  the Sensei has not previously enlightened Agora in the
-            current week;
-      (iii) the Sensei is not the Yang;
-      (iv)  the Sensei gives eir reasons for choosing both the Yin and
-            Yang for a lesson.
-
-History:
-Created by Proposal 4486 (Michael), 24 April 2003
-
-----------------------------------------------------------------------
-
-Rule 1941/4 (Power=1)
-Fees
-
-      A fee-based action is an action with which the rules associate a
-      fee, which must be a natural number.  If the rules describe a
-      fee-based action but do not indicate the fee for that action,
-      then that fee is zero.
-
-      A player (the Actor) attempts to perform a fee-based action by
-      announcing that e performs it; specifying the action to be
-      performed; and, if the fee is nonzero, noting that there is a
-      fee for the action.  The Actor has sufficient kudos to perform
-      the action if the number of eir kudos meets or exceeds the fee.
-      Upon eir announcement, the Actor's kudos are decreased by the
-      fee, and if e had sufficient kudos, e performs the action.
-
-      If the success of the Actor's attempt to perform a fee-based
-      action is publicly challenged within a week of the time the
-      action was attempted, then the Herald shall, as soon as
-      possible, determine whether the Actor had sufficient kudos when
-      e attempted to perform the action, and announce eir
-      determination.
-
-      If the Herald announces that the Actor did not have sufficient
-      kudos to perform a fee-based action at the time of eir attempt,
-      and eir announcement was published within a fortnight from the
-      time the action was attempted, then the action shall be deemed
-      not to have been performed.  If the Herald made this
-      announcement within a week of the attempt to perform the action,
-      or the success of the attempt was publicly challenged within a
-      week of the attempt, then the Herald shall refund the Actor eir
-      kudos.
-
-      If the success of an Actor's attempt to perform a fee-based
-      challenge is not publicly challenged within a week of the time
-      the action was attempted, then the action shall be deemed to
-      have been performed.
-
-      Nothing in this rule shall act to prevent a person from
-      performing a fee-based action by another mechanism for
-      performing that action provided by the rules.
-
-History:
-Created by Proposal 4011 (Wes), Jun. 1 2000
-Amended(1) by Proposal 4486 (Michael), 24 April 2003
-Amended(2) by Proposal 4528 (Goethe), 2 October 2003
-Amended(3) by Proposal 4598 (Elysion), 11 July 2004
-Amended(4) by Proposal 4819 (root, Maud), 10 July 2005
-
-----------------------------------------------------------------------
-
-Rule 1661/10 (Power=1)
+Rule 1661/11 (Power=1)
 The Right of Patronage
 
-      A Speaker who is not Tainted has the Right of Patronage. This
-      Right is the authority to, once a week, award the Boon Gold Star
-      to a single Player who has not received this award within the
-      preceding four weeks.  The Speaker must provide a reason along
-      with the Notice of Award.
+      A Speaker has the Right of Patronage.  This Right is the
+      authority to, once a week, award the Boon Gold Star to a single
+      Player who has not received this award within the preceding four
+      weeks.  The Speaker must provide a reason along with the Notice
+      of Award.
 
       Such awards are only permitted to recognize acts the Speaker
       believes to be of benefit to the Agora community, acts that the
@@ -5519,6 +5377,7 @@ Amended(7) by Proposal 4018 (Kelly), Jun. 21 2000
 Amended(8) by Proposal 4033 (Chuck), Aug. 2 2000
 Amended(9) by Proposal 4151 (Kelly), 13 May 2001
 Amended(10) by Proposal 4486 (Michael), 24 April 2003
+Amended(11) by Proposal 4836 (Goethe, Maud), 2 October 2005
 
 ----------------------------------------------------------------------
 
@@ -5611,7 +5470,7 @@ Created by Proposal 4805 (Goethe, Manu), 20 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 2114/1 (Power=1)
+Rule 2114/2 (Power=1)
 Card Definitions
 
       A document is a cardbook if so designated by the rules.  The
@@ -5627,9 +5486,9 @@ Card Definitions
 
       A cardbook can define a class of cards by specifying its
       Caption, Frequency, zero or one Exploits, and optionally its
-      Elements, and can define an Element by specifying its name and
-      description.  Neither classes of cards nor Elements may be
-      otherwise defined.
+      Elements, and can define an Element or Scoring Instruction by
+      specifying its name and description.  Neither classes of cards
+      Elements, nor Scoring Instructions may be otherwise defined.
 
       (a) The Caption is a string of text, unique to a particular
           class of cards.
@@ -5678,6 +5537,7 @@ Card Definitions
 History:
 Created by Proposal 4805 (Goethe, Manu), 20 June 2005
 Amended(1) by Proposal 4834 (Maud), 6 August 2005
+Amended(2) by Proposal 4838 (Goethe), 2 October 2005
 
 ----------------------------------------------------------------------
 
@@ -5708,7 +5568,7 @@ Created by Proposal 4805 (Goethe, Manu), 20 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 2069/8 (Power=1)
+Rule 2069/9 (Power=1)
 Card Actions
 
       (a) A nonperson entity is a site if so designated by the rules
@@ -5720,7 +5580,8 @@ Card Actions
 
           A gambler's hand is the collection of cards held by that
           gambler.  A gambler's hand size is the size of this
-          collection, plus one for each pending draw for that gambler.
+          collection, plus one for each free pending draw for that
+          gambler.
 
       (c) When a card must be created or destroyed, the Deckmastor
           shall be empowered to create or destroy that card, as
@@ -5758,17 +5619,6 @@ Card Actions
           announcement, specifying the card to transfer and, if not
           discarding it, the gambler to receive the card.
 
-      (e) A nonsite gambler whose hand size is smaller than the
-          maximum hand size, plus the number of offices e holds, may
-          draw a card for a fee equal to the number of times during
-          the current month e has previously drawn a card in this
-          manner.
-
-      (f) When a gambler draws a card, e gains a pending draw.  As
-          soon as possible afterward, the Deckmastor shall deal a card
-          to that gambler.  When e does so, the draw is no longer
-          pending.
-
           If the Deckmastor errs, in good faith, in selecting a
           particular card to deal, and that error does not greatly
           change the probability of selecting that card, that deal
@@ -5792,6 +5642,7 @@ Amended(5) by Proposal 4733 (root), 5 May 2005
 Amended(6) by Proposal 4739 (root), 5 May 2005
 Amended(7) by Proposal 4825 (Maud), 17 July 2005
 Amended(8) by Proposal 4834 (Maud), 6 August 2005
+Amended(9) by Proposal 4837 (Goethe), 2 October 2005
 
 ----------------------------------------------------------------------
 
@@ -5848,16 +5699,14 @@ Amended(1) by Proposal 4660 (root), 29 March 2005
 
 ----------------------------------------------------------------------
 
-Rule 2075/4 (Power=1)
+Rule 2075/6 (Power=1)
 Winning Hands
 
-      The Deckmastor's Budget shall contain between one and five
-      Winning Hands, each of which is a list of cards with a hand size
-      at least two greater than the Maximum Hand Size.
-
-      If a Gambler's Hand is identical to a winning hand at any
-      particular moment, any Gambler has 72 hours from that moment to
-      announce that a Gambler holds or has held a winning hand.
+      The Scoring Instructions contained in cardbooks, interpreted
+      collectively, may define a nonsite gambler as holding a winning
+      hand at a particular moment.  If so, any Gambler has 72 hours
+      from that moment to announce that a Gambler holds or has held a
+      winning hand.
 
       If the announcement is false, the Deckmastor shall, as soon as
       possible, transfer 1 card at random from the announcing
@@ -5868,7 +5717,8 @@ Winning Hands
       Patent Title Champion.
 
       Exactly one week after a true announcement, the Flux of all
-      Gamblers except the Deck shall become frozen.
+      Gamblers except the Deck shall become frozen, and all heavy
+      pending draws shall be deemed satisfied.
 
       If no true announcement of a winning hand or a Skunk has been
       made in the last six months, then any Gambler may announce a
@@ -5881,6 +5731,8 @@ Amended(1) by Proposal 4626 (Goethe), 20 November 2004
 Amended(2) by Proposal 4644 (root), 12 March 2005
 Amended(3) by Proposal 4740 (Quazie), 5 May 2005
 Amended(4) by Proposal 4764 (root), 25 May 2005
+Amended(5) by Proposal 4837 (Goethe), 2 October 2005
+Amended(6) by Proposal 4838 (Goethe), 2 October 2005
 
 ----------------------------------------------------------------------
 
@@ -5922,14 +5774,23 @@ Created by Proposal 4644 (root), 12 March 2005
 
 ----------------------------------------------------------------------
 
-Rule 2080/4 (Power=1)
-Cards for Proposals
+Rule 2080/5 (Power=1)
+Basic Draws
 
-      Within a week after a proposal's adoption, if its proposer would
-      be permitted to draw a card for a fee, then e may draw a card by
-      announcement, specifying in eir announcement that proposal's
-      number.  E can only perform this action once for the adoption of
-      that proposal.
+      The maximum hand size for a Player is defined as the maximum
+      hand size in the Deckmastor's Budget plus the number of Offices
+      (including the Speakership) that the Player holds.
+
+      Any Player may draw up to three heavy cards in a single month by
+      announcement.  If a Player draws a card without specifying the
+      explicit circumstances allowing the draw, it shall be considered
+      an attempt to draw one of these heavy cards.
+
+      Any Player may draw one free card in a single month, by noting
+      it is eir free draw for the month.
+
+      Any Player may draw one heavy card for each Proposal e proposes
+      that is adopted, by noting the Proposal's number.
 
 History:
 Created by Proposal 4635 (OscarMeyr), 23 January 2005
@@ -5937,6 +5798,43 @@ Amended(1) by Proposal 4644 (root), 12 March 2005
 Amended(2) by Proposal 4753 (Sherlock), 5 May 2005
 Amended(3) by Proposal 4761 (root), 15 May 2005
 Amended(4) by Proposal 4834 (Maud), 6 August 2005
+Amended(5) by Proposal 4837 (Goethe), 2 October 2005
+
+----------------------------------------------------------------------
+
+Rule 2120/0 (Power=1)
+Satisfying Draws
+
+      When a gambler draws a card as specified by the Rules, e gains a
+      Pending Draw.
+
+      Encumbrance is a stuck switch for pending draws, with values
+      Free and Heavy.  Drawing a [Encumbrance value] card is a synonym
+      for gaining a pending draw with the indicated encumbrance.
+
+      As soon as possible after a gambler draws a card, the Deckmastor
+      shall satisfy the draw by dealing a card to the gambler with the
+      pending draw, but only if the draw is Satisfiable.  A draw is
+      satisfiable unless defined otherwise.
+
+      A heavy pending draw is not satisfiable as long as the gambler
+      with the draw has a hand size equal to or greater than eir
+      defined maximum hand size.  If a gambler has both heavy and free
+      pending draws, the Deckmastor must satisfy all satisfiable heavy
+      draws before satisfying any free draws for that gambler.
+
+      If the Rules state that a gambler loses a pending draw, than
+      that draw is considered satisfied without the dealing of a card,
+      whether or not it is satisfiable.  E shall first lose all free
+      draws before losing any heavy draws.  If e has no draws, the
+      Deckmastor shall discard a random card from that gambler's hand.
+      If e has no cards, then the deckmastor shall satisfy the next
+      pending draw e gains without dealing a card.
+
+      A satisfied draw is no longer pending.
+
+History:
+Created by Proposal 4837 (Goethe), 2 October 2005
 
 ----------------------------------------------------------------------
 
@@ -6085,49 +5983,22 @@ Amended(9) by Proposal 4708 (OscarMeyr), 18 April 2005
 
 ----------------------------------------------------------------------
 
-Rule 2049/1 (Power=1)
+Rule 2049/2 (Power=1)
 Ephemera
 
-      A Patent Title has Ephemeral significance if the rules state
-      that the Patent Title is ephemeral.  Karma is a stuck switch for
-      ephemeral patent titles with states Boon and Albatross.
-      Defining something to be a 'boon' or an 'albatross' is
-      equivalent to defining it to be an ephemeral Patent Title with
-      its Karma set as defined, and the Karma of a title defined in
-      this way is said to be Static.  A Static Karma switch may never
-      be changed except by modifying its definition.  A Karma switch
-      that is not Static is said to be Dynamic.
+      Players may be permitted or required by the Rules to grant Boons
+      or Albatrosses to other Players.  If so, these awards are
+      performed by public announcement.  The Herald shall note the
+      granting of all such awards.
 
-      Players may be permitted or required by the Rules to award or
-      revoke Boons or Albatrosses.  If so, these awards are performed
-      by public announcement by the specified Players.
-
-      A Player may hold multiple instances of a given type of
-      ephemeral Patent title; if so, The Herald need only note the
-      number of instances of these Patent Titles that each player
-      holds.
+      A Player who gains a Boon is considered to have drawn a free
+      card for that boon.  A Player who gains an Albatross loses a
+      pending draw.
 
 History:
 Created by Proposal 4486 (Michael), 24 April 2003
 Amended(1) by Proposal 4691 (root), 18 April 2005
-
-----------------------------------------------------------------------
-
-Rule 2096/2 (Power=1)
-Ephemeral Time Limits
-
-      If an ephemeral patent title is earned between one week before
-      the end of the previous quarter and one week before the end of
-      the current quarter, then it must be awarded before the turning
-      of a new parchment.
-
-      The announcement that a proposal does not earn the proposer the
-      boon of tapecutter must also follow these time restrictions.
-
-History:
-Created by Proposal 4696 (Quazie), 18 April 2005
-Amended(1) by Proposal 4743 (Manu), 5 May 2005
-Amended(2) by Proposal 4805 (Goethe, Manu), 20 June 2005
+Amended(2) by Proposal 4837 (Goethe), 2 October 2005
 
 ----------------------------------------------------------------------
 
@@ -6217,17 +6088,19 @@ Created by Proposal 4657 (Sherlock), 29 March 2005
 
 ----------------------------------------------------------------------
 
-Rule 2089/5 (Power=1)
+Rule 2089/6 (Power=1)
 Gardner Library
 
       Whenever the Library's hand size is less than five, it gains a
       pending draw.
 
       A player (hereafter the Borrower) may check out a specified card
-      from the Library by paying a Fee for the Library's upkeep.  The
-      fee is 2 Kudos for Students and 1 Kudo for Faculty Members.  The
-      card is reserved and may not be checked out by any player until
-      it is dealt to the Library again by the Deckmastor.
+      from the Library by announcement, which must satisfy a number of
+      satisfiable pending draws that e, in fact, possesses.  The
+      number is 2 pending draws for Students and 1 pending draw for
+      Faculty Members.  The card is reserved and may not be checked
+      out by any player until it is dealt to the Library again by the
+      Deckmastor.
 
       Whenever a card is checked out from the Library, it is
       transferred to the Borrower.
@@ -6242,6 +6115,7 @@ Amended(2) by Proposal 4715 (Goethe), 25 April 2005
 Amended(3) by Proposal 4726 (root), 25 April 2005
 Amended(4) by Proposal 4728 (Murphy), 25 April 2005
 Amended(5) by Proposal 4834 (Maud), 6 August 2005
+Amended(6) by Proposal 4837 (Goethe), 2 October 2005
 
 ----------------------------------------------------------------------
 
@@ -6450,7 +6324,7 @@ Amended(1) by Proposal 4671 (Goethe), 9 April 2005
 
 ----------------------------------------------------------------------
 
-Rule 2104/1 (Power=1)
+Rule 2104/2 (Power=1)
 Contreras Card Labs
 
       The University encourages Card experimentation.
@@ -6476,9 +6350,15 @@ Contreras Card Labs
       shall create one of the copies of that card in The Library
       rather than in the Deck.
 
+      Any Player may add, delete, or amend a Scoring Instruction in
+      the Blueprints Cardbook, with M support and without N
+      Objections, where M is greater than or equal to N at the time
+      the change is performed, and N is at least 1.
+
 History:
 Created by Proposal 4734 (Sherlock), 5 May 2005
 Amended(1) by Proposal 4805 (Goethe, Manu), 20 June 2005
+Amended(2) by Proposal 4838 (Goethe), 2 October 2005
 
 ----------------------------------------------------------------------
 
@@ -6527,33 +6407,6 @@ Amended(18) by Proposal 4563 (OscarMeyr), 6 April 2004
 
 ----------------------------------------------------------------------
 
-Rule 2051/2 (Power=2)
-Tabla Rasa
-
-      The Herald's Budget shall consist of a positive integer between
-      5 and 25, known as the Tabla Rasa.
-
-      As soon as possible after the beginning of each quarter, the
-      Herald shall announce the Turning of a New Parchment.
-
-      The effect of such an announcement is to:
-      (A) set each Player's kudos equal to:
-          (i)    the Tabla Rasa;
-          (ii)   plus the number of boons e holds;
-          (iii)  minus the number of albatrosses e holds;
-          (iv)   minus one for every 3 Blots e has.
-
-      (B) revoke all ephemeral Patent Titles.
-
-      (C) set each Dynamic Karma switch to its original state.
-
-History:
-Created by Proposal 4486 (Michael), 24 April 2003
-Amended(1) by Proposal 4598 (Elysion), 11 July 2004
-Amended(2) by Proposal 4691 (root), 18 April 2005
-
-----------------------------------------------------------------------
-
 Rule 2017/1 (Power=1)
 Blots
 
@@ -6577,19 +6430,6 @@ Blots
 History:
 Created by Proposal 4272 (Murphy), 22 March 2002
 Amended(1) by Proposal 4798 (Maud, Goethe), 6 June 2005
-
-----------------------------------------------------------------------
-
-Rule 2018/1 (Power=1)
-Expunging Blots
-
-      A non-Immaculate entity may expunge a number of eir Blots, up to
-      eir total Stain, by announcing the number of eir Blots e
-      expunges; this has a Fee of 2 Kudos per expunged Blot.
-
-History:
-Created by Proposal 4272 (Murphy), 22 March 2002
-Amended(1) by Proposal 4486 (Michael), 24 April 2003
 
 ----------------------------------------------------------------------
 
@@ -6670,50 +6510,6 @@ Changing Speakers
   This Category includes Rules regulating changing the Speaker.
 ----------------------------------------------------------------------
 
-Rule 1647/13 (Power=1)
-The Asenion Solution
-
-      For seven days after a cardinal wins the game with no other
-      players simultaneously winning, that cardinal may announce that
-      e becomes a pope.  Upon this announcement, that player becomes a
-      pope, so please treat em right good forever.
-
-History:
-Created by Proposal 2661, Sep. 7 1996
-Amended(1) by Proposal 2681, Sep. 26 1996
-Amended(2) by Proposal 3532 (General Chaos), Jul. 15 1997, cosmetic
-  (unattributed)
-Amended(3) by Proposal 3823 (Oerjan), Jan. 21 1999
-Amended(4) by Proposal 3871 (Peekee), Jun. 2 1999
-Amended(5) by Proposal 3887 (Blob), Jul. 30 1999
-Amended(6) by Proposal 3902 (Murphy), Sep. 6 1999
-Amended(7) by Proposal 3974 (Elysion), Feb. 14 2000
-Amended(8) by Proposal 4246 (Steve), 19 February 2002
-Amended(9) by Proposal 4250 (harvel), 19 February 2002
-Amended(10) by Proposal 4429 (The Goddess Eris), 16 January 2003
-Amended(11) by Proposal 4576 (root), 31 May 2004
-Amended(12) by Proposal 4594 (Murphy), 4 July 2004
-Amended(13) by Proposal 4798 (Maud, Goethe), 6 June 2005
-
-----------------------------------------------------------------------
-
-Rule 1658/6 (Power=1)
-The Speaker we do Taint
-
-      The person holding the position of Speaker is untainted as long
-      as e holds that position lawfully.
-
-History:
-Created by Proposal 2699, Oct. 10 1996
-Amended(1) by Proposal 3746 (Blob), May 15 1998
-Amended(2) by Proposal 3823 (Oerjan), Jan. 21 1999
-Amended(3) by Proposal 3972 (Peekee), Feb. 14 2000
-Amended(4) by Proposal 4147 (Wes), 13 May 2001
-Amended(5) by Proposal 4798 (Maud, Goethe), 6 June 2005
-Amended(6) by Proposal 4804 (Maud), 15 June 2005
-
-----------------------------------------------------------------------
-
 Rule 681/12 (Power=1)
 Conditions for Conclavity
 
@@ -6767,56 +6563,39 @@ Amended(12) by Proposal 4798 (Maud, Goethe), 6 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 786/14 (Power=1)
+Rule 786/15 (Power=1)
 Default Procedure for Conclaves
 
-      When the rules require that a conclave be convened, and no
+      When the rules require that a conclave be convened and no
       competing conclave is currently convened, then as soon as
       possible, the Associate Director of Personnel (ADoP) shall
-      announce that e convenes a conclave, specifying a collection of
-      cardinals and indicating that those cardinals are to convene a
-      conclave.  Provided that:
+      convene a conclave by announcement, specifying the collection of
+      qualified cardinals.  A cardinal is qualified for a conclave
+      unless the rules specify otherwise.
 
-      (a) the rules require that the conclave be convened;
+      The announcement is ineffective if the ADoP is not required to
+      convene a conclave or eir announcement does not list all and
+      only the cardinals qualified for that conclave.  However, if
+      errors are not announced until after 7 days after the conclave
+      concludes, the results shall stand.
 
-      (b) no competing conclave is currently convened; and
+      The convening of a conclave initiates an Agoran Decision to
+      determine the Pope, a decision in which quorum is zero, the
+      voting period is 7 days, all Players are eligible voters, all
+      qualified cardinals are valid options as long as they remain
+      qualified cardinals, and the ADoP has the privilege of resolving
+      ties as for elections.
 
-      (c) the collection consists of qualified cardinals,
+      The ADoP's announcement of the cardinal chosen by Agora makes
+      that cardinal the pope and concludes the conclave.
 
-      then as of such an announcement, a conclave consisting of the
-      qualified cardinals is convened.  A cardinal is qualified for a
-      conclave unless the rules specify otherwise.
-
-      The first seven days following the convening of a conclave
-      constitute the posturing period.  During the posturing period, a
-      qualified cardinal may announce eir intent to become a pope.
-      Any other player may publicly support or revoke support for a
-      cardinal's claim until the posturing period ends.
-
-      As soon as possible after the posturing period ends, the ADoP
-      shall perform the following actions in order:
-
-      (a) E shall determine the cardinal club, which is the collection
-          of qualified cardinals with positive support from the
-          populace and at least as much unwithdrawn support as any
-          other qualified cardinal.
-
-      (b) If the cardinal club has no members, e shall announce this
-          fact, and announce the conclave was inconclusive.
-
-      (c) If the cardinal club has at least one member, e shall select
-          one of its members to be pope, then publish the list of
-          members of the cardinal club, indicating which member is to
-          become a pope.  That member becomes a pope as of this
-          announcement.
-
-      The ADoP's announcement in (b) or (c) concludes the conclave.
-      If the conclave was inconclusive, eir announcement of this fact
-      shall constitute a valid call to conclave.  If the conclave has
-      not concluded within a fortnight from the time it was convened,
-      any player may announce that it is inconclusive; upon such an
-      announcement, the conclave shall conclude with an inconclusive
-      result, and a conclave must be convened.
+      If no cardinal may be legally chosen by Agora, the ADoP shall so
+      announce, and the conclave concludes as a cliffhanger.  If a
+      conclave has not concluded within a fortnight from the time it
+      was convened, any player may announce that it is inconclusive
+      and thus conclude it as a cliffhanger.  When an conclave
+      concludes as a cliffhanger, this canon calls for a consecutive
+      conclave to be convened to calculate the correct cardinal.
 
       If the office of ADoP is ever vacant, or the identity of its
       holder cannot be determined with reasonable certainty, then the
@@ -6843,26 +6622,31 @@ Amended(11) by Proposal 4071 (Steve), Sep. 14 2000
 Amended(12) by Proposal 4147 (Wes), 13 May 2001
 Amended(13) by Proposal 4155 (harvel), 18 May 2001
 Amended(14) by Proposal 4798 (Maud, Goethe), 6 June 2005
+Amended(15) by Proposal 4836 (Goethe, Maud), 2 October 2005
 
 ----------------------------------------------------------------------
 
-Rule 402/12 (Power=1)
+Rule 402/13 (Power=1)
 Church and State
 
       A cardinal is an active, ready player who is neither the current
       Speaker nor the Associate Director of Personnel.
 
-      While there is a pope, no other player may become a pope.
-      Whenever a pope is not a cardinal, e ceases being a pope.
+      When a cardinal becomes a pope, any previous pope immediately
+      ceases being a pope.  Whenever a pope is not a cardinal, e
+      immediately ceases being a pope.
 
-      A notice of papal succession declares that a specified player is
-      a pope.  The notice is valid only if it is published by the
-      Associate Director of Personnel and the specified player is
-      indeed a pope.
+      For seven days after a cardinal wins the game with no other
+      players simultaneously winning, that cardinal may announce that
+      e becomes a pope.  Upon this announcement, that player becomes a
+      pope, so please treat em right good forever.
 
-      Upon publication of a valid notice of papal succession, the
-      current Speaker ceases to be Speaker, the pope becomes the new
-      Speaker, and the pope ceases to be a pope.
+      A notice of papal succession is a notice published by the
+      Associate Director of Personnel, that declares that a specified
+      player is a pope, and is valid if the named player is indeed a
+      pope.  Upon publication of a valid notice of papal succession,
+      the current Speaker ceases to be Speaker, the pope becomes the
+      new Speaker, and the pope ceases to be a pope.
 
 History:
 Created by Proposal 402 (Alexx), ca. Sep. 3 1993
@@ -6880,6 +6664,7 @@ Amended(9) by Proposal 4147 (Wes), 13 May 2001
 Amended(10) by Proposal 4576 (root), 31 May 2004
 Amended(11) by Proposal 4768 (root), 25 May 2005
 Amended(12) by Proposal 4798 (Maud, Goethe), 6 June 2005
+Amended(13) by Proposal 4836 (Goethe, Maud), 2 October 2005
 
 ----------------------------------------------------------------------
 
@@ -7047,4 +6832,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4834]
+      [Last proposal with recorded effect on this ruleset: 4839]
