@@ -21,15 +21,15 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 197 Rules:
+There are currently 198 Rules:
     1 with Power=4
    29 with Power=3
    22 with Power=2
-  145 with Power=1
+  146 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2120
-Highest Rule Number assigned so far: 2120
+Highest current Rule Number:         2121
+Highest Rule Number assigned so far: 2121
 
 ======================================================================
 Table of Contents:
@@ -5806,6 +5806,18 @@ Satisfying Draws
 
 History:
 Created by Proposal 4837 (Goethe), 2 October 2005
+
+----------------------------------------------------------------------
+
+Rule 2121/0 (Power=1)
+Cards for Ex-Cards
+
+      When a class of cards ceases to exist, each non-site gambler
+      gains a pending draw for each instance of that class that e
+      possessed immediately before it ceased to exist.
+
+History:
+Created by Proposal 4843 (Murphy), 9 November 2005
 
 ----------------------------------------------------------------------
 
