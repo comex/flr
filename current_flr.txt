@@ -21,11 +21,11 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 198 Rules:
+There are currently 197 Rules:
     1 with Power=4
    29 with Power=3
    22 with Power=2
-  146 with Power=1
+  145 with Power=1
 
 Lowest current Rule Number:           101
 Highest current Rule Number:         2120
@@ -957,7 +957,7 @@ Amended(17) by Proposal 4833 (Maud), 6 August 2005
 
 ----------------------------------------------------------------------
 
-Rule 1677/13 (Power=1)
+Rule 1677/14 (Power=1)
 Honoring the New
 
       Readiness is a stuck player switch with values unready and
@@ -971,13 +971,8 @@ Honoring the New
 
       As soon as possible after the beginning of a player's Grace
       Period, the Registrar shall announce eir arrival.  This
-      announcement shall have the effect of setting that player's
-      kudos to twice the Tabla Rasa.
+      announcement grants the player three free pending draws.
 
-      If a player joins the game, but is neither subject to a Grace
-      Period nor has been a player at any time since the last Turning
-      of a New Parchment, then the Herald shall set eir kudos to half
-      the Tabla Rasa (rounded up).
 
 History:
 Created by Proposal 2757 (Swann), Nov. 28 1996
@@ -995,6 +990,7 @@ Amended(10) by Proposal 4344 (Goethe), 11 July 2002
 Amended(11) by Proposal 4486 (Michael), 24 April 2003
 Amended(12) by Proposal 4520 (Goethe), 30 July 2003
 Amended(13) by Proposal 4802 (Maud), 15 June 2005
+Amended(14) by Proposal 4840 (Goethe), 27 October 2005
 
 ----------------------------------------------------------------------
 
@@ -2706,7 +2702,7 @@ Amended(12) by Proposal 4811 (Maud, Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 2019/4 (Power=2)
+Rule 2019/5 (Power=2)
 The Speaker's Veto
 
       The Speaker may veto an Ordinary Proposal in its voting period
@@ -2715,8 +2711,8 @@ The Speaker's Veto
       plus one, other rules governing quorum notwithstanding.
 
       As soon as possible after a vetoed proposal fails quorum, the
-      Assessor shall a copy of that proposal to the Proposal Pool.
-      When e does so, that copy shall become distributable and
+      Assessor shall place a copy of that proposal to the Proposal
+      Pool.  When e does so, that copy shall become distributable and
       democratic, and its adoption index shall be increased by one.
 
       The Speaker may Rubberstamp an Ordinary Proposal in its voting
@@ -2729,6 +2725,7 @@ Amended(1) by Proposal 4576 (root), 31 May 2004
 Amended(2) by Proposal 4717 (Murphy), 25 April 2005
 Amended(3) by Proposal 4811 (Maud, Goethe), 20 June 2005
 Amended(4) by Proposal 4836 (Goethe, Maud), 2 October 2005
+Amended(5) by Proposal 4840 (Goethe), 27 October 2005
 
 ----------------------------------------------------------------------
 
@@ -5207,15 +5204,19 @@ Amended(17) by Proposal 4250 (harvel), 19 February 2002
 
 ----------------------------------------------------------------------
 
-Rule 1681/6 (Power=1)
+Rule 1681/7 (Power=1)
 The Logical Rulesets
 
       There is a format of the ruleset known as the Short Logical
       Ruleset (SLR).  In this format, each rule is assigned to a
       category, and the rules are grouped according to their category.
       Within a category, the ordering of rules is decided by the
-      Rulekeepor.  All existing categories must be listed, even if no
-      rules are currently assigned to the category.
+      Rulekeepor.
+
+      A new Rule is assigned to a category as the Rulekeepor sees fit.
+      The Rulekeepor may, without 2 objections, move Rules between
+      categories, change the name of a category, and add or remove
+      empty categories.
 
       The listing of each rule in the SLR must include the rule's
       number, revision number, power, title, and text, and must also
@@ -5245,37 +5246,7 @@ Amended(3) by Proposal 3704 (General Chaos), Mar. 19 1998
 Amended(4) by Proposal 3902 (Murphy), Sep. 6 1999
 Amended(5) by Proposal 4002 (harvel), May 8 2000
 Amended(6) by Proposal 4811 (Maud, Goethe), 20 June 2005
-
-----------------------------------------------------------------------
-
-Rule 1048/7 (Power=1)
-Rule Categories
-
-      A Rule Change that Creates a new Rule may specify an existing
-      Category to which the new Rule will be assigned.  If it does
-      not, the Rulekeepor shall choose the new Rule's Category.  When
-      doing so, the Rulekeepor may create a new Rule Category and
-      assign the Rule to this new Category.
-
-      The Rulekeepor may remove an empty Rule Category as e sees fit.
-
-      If the Rulekeepor creates or removes a Category, e must publicly
-      announce it no later than the first subsequent publication of
-      the Logical Ruleset.
-
-      The Rulekeepor is authorized to change the name of a Rule
-      Category or change the Category to which a Rule is assigned
-      Without Objection.
-
-History:
-...
-Amended(1) by Proposal 1561, Apr. 17 1995
-Amended(2) by Proposal 1754, Oct. 21 1995
-Amended(3) by Proposal 2538, Mar. 13 1996
-Amended(4) by Proposal 2741 (Zefram), Nov. 7 1996, substantial
-Amended(5) by Proposal 2783 (Chuck), Jan. 15 1997, substantial
-Amended(6) by Proposal 3521 (Chuck), Jun. 23 1997, substantial
-Amended(7) by Proposal 4147 (Wes), 13 May 2001
+Amended(7) by Proposal 4841 (Goethe), 27 October 2005
 
 ----------------------------------------------------------------------
 
