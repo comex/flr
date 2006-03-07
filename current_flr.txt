@@ -5539,7 +5539,7 @@ Created by Proposal 4805 (Goethe, Manu), 20 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 2069/9 (Power=1)
+Rule 2069/10 (Power=1)
 Card Actions
 
       (a) A nonperson entity is a site if so designated by the rules
@@ -5551,8 +5551,7 @@ Card Actions
 
           A gambler's hand is the collection of cards held by that
           gambler.  A gambler's hand size is the size of this
-          collection, plus one for each free pending draw for that
-          gambler.
+          collection.
 
       (c) When a card must be created or destroyed, the Deckmastor
           shall be empowered to create or destroy that card, as
@@ -5614,6 +5613,7 @@ Amended(6) by Proposal 4739 (root), 5 May 2005
 Amended(7) by Proposal 4825 (Maud), 17 July 2005
 Amended(8) by Proposal 4834 (Maud), 6 August 2005
 Amended(9) by Proposal 4837 (Goethe), 2 October 2005
+Amended(10) by Proposal 4846 (Goethe), 1 January 2006
 
 ----------------------------------------------------------------------
 
@@ -5670,7 +5670,7 @@ Amended(1) by Proposal 4660 (root), 29 March 2005
 
 ----------------------------------------------------------------------
 
-Rule 2075/6 (Power=1)
+Rule 2075/7 (Power=1)
 Winning Hands
 
       The Scoring Instructions contained in cardbooks, interpreted
@@ -5685,16 +5685,16 @@ Winning Hands
 
       If the announcement is true, the holding Gambler Wins the Game,
       and is awarded the boon of Pokerface and the defined regular
-      Patent Title Champion.
-
-      Exactly one week after a true announcement, the Flux of all
-      Gamblers except the Deck shall become frozen, and all heavy
-      pending draws shall be deemed satisfied.
+      Patent Title Champion.  All Players' hands become subject to a
+      Hand Reduction to the Minimum Hand Size.  After the winner's
+      hand is so reduced, e gains a number of pending draws equal to
+      the Maximum Hand Size.
 
       If no true announcement of a winning hand or a Skunk has been
       made in the last six months, then any Gambler may announce a
       Skunk, which shall trigger the effects of a true announcement of
-      a win above, except that no boon shall be awarded.
+      a win above, except that no boon shall be awarded nor extra
+      winner's cards dealt.
 
 History:
 Created by Proposal 4614 (Goethe), 21 September 2004
@@ -5704,64 +5704,72 @@ Amended(3) by Proposal 4740 (Quazie), 5 May 2005
 Amended(4) by Proposal 4764 (root), 25 May 2005
 Amended(5) by Proposal 4837 (Goethe), 2 October 2005
 Amended(6) by Proposal 4838 (Goethe), 2 October 2005
+Amended(7) by Proposal 4846 (Goethe), 1 January 2006
 
 ----------------------------------------------------------------------
 
-Rule 2083/0 (Power=1)
-Win Resolution
+Rule 2083/1 (Power=1)
+Hand Reductions
 
-      As soon as possible after any gambler's hand becomes frozen, the
-      Deckmastor shall perform the following actions in order:
+      The Rules may declare that a nonsite Gambler's hand is subject
+      to a Hand Reduction.  A particular hand reduction must have a
+      maximum hand size associated with it; if none is defined, the
+      Maximum Hand Size in the Deckmastor's budget is used.
 
-      1) Calculate and publicly announce the Card Tax for each frozen
-         gambler.  The Card Tax for a frozen gambler is equal to the
-         hand size of that gambler less the minimum hand size.  The
-         Card Tax shall be calculated as of the moment the gambler's
-         hand became frozen.
+      As soon as possible after a requirement for a reduction arises,
+      the Deckmastor shall:
 
-      2) From every frozen gambler in turn, transfer cards selected at
-         random from that gambler's hand to the Deck until eir hand
-         size has been reduced by an amount not less than eir Card Tax
-         or e has no cards remaining.
+        (i) Satisfy all satisfiable pending draws for that gambler and
+            announce a pending hand reduction;
 
-      3) If the hands were frozen because of a win, deal cards to the
-         winner until eir hand size has been increased by the maximum
-         hand size less the minimum hand size, calculated as of the
-         moment the winner's hand became frozen.
+       (ii) Wait at least four days, during which e may not satisfy
+            pending draws for that gambler;
 
-      4) Publicly announce that the table is open for business.
+      (iii) Discard cards at random from that Gambler's hand until eir
+            hand size is equal to or less than maximum associated with
+            the reduction.
 
-      Upon publication of an announcement as in 4), the Flux of every
-      gambler shall become free.  If the Deckmastor makes a public
-      announcement as in 4) when one or more gamblers are frozen but
-      steps 1), 2), and 3) have not been completed, then the
-      announcement is still valid, but the Deckmastor must complete
-      steps 1), 2), and 3) as soon as possible.  If the Deckmastor's
-      error is not made in good faith, then e commits the Class 4
-      Crime of Stacking the Deck.
+       (iv) If a gambler loses no cards during a reduction, and has
+            not played, transferred or discarded a card since the last
+            reduction, the Deckmastor shall discard one card at random
+            from the gambler's hand (if it has any cards).
+
+      If a dispute on the gambler's hand size or pending draws is
+      raised and not resolved prior to (iii), above, the Deckmastor
+      shall not perform (iii) for that hand until the dispute is
+      resolved.  If no dispute is raised prior to (iii) being
+      performed, then the reduction shall stand regardless of
+      subsequent disputes.  However, a Judge in such a dispute may
+      Order the Deckmastor to perform further card transfers to
+      resolve such disputes.
+
+      If the Deckmastor knowingly reduces a hand incorrectly, e
+      commits the Class 4 Crime of Card Thievery.
+
+      If more than one hand reduction is pending for the same hand,
+      then the Deckmastor need only perform the reduction for the
+      reduction with the lowest associated maximum; this shall satisfy
+      all pending reductions.
+
+      At the beginning of each month, each Player's hand becomes
+      subject to a Hand Reduction to the maximum hand size in the
+      Deckmastor's Budget plus the number of Offices (including the
+      Speakership) that e holds.
 
 History:
 Created by Proposal 4644 (root), 12 March 2005
+Amended(1) by Proposal 4846 (Goethe), 1 January 2006
 
 ----------------------------------------------------------------------
 
-Rule 2080/5 (Power=1)
+Rule 2080/6 (Power=1)
 Basic Draws
 
-      The maximum hand size for a Player is defined as the maximum
-      hand size in the Deckmastor's Budget plus the number of Offices
-      (including the Speakership) that the Player holds.
+      Any Player may draw up to three cards in a single month by
+      announcement.
 
-      Any Player may draw up to three heavy cards in a single month by
-      announcement.  If a Player draws a card without specifying the
-      explicit circumstances allowing the draw, it shall be considered
-      an attempt to draw one of these heavy cards.
-
-      Any Player may draw one free card in a single month, by noting
-      it is eir free draw for the month.
-
-      Any Player may draw one heavy card for each Proposal e proposes
-      that is adopted, by noting the Proposal's number.
+      Any Player may draw one card for each Proposal e proposes that
+      is adopted, by noting the Proposal's number.
 
 History:
 Created by Proposal 4635 (OscarMeyr), 23 January 2005
@@ -5770,34 +5778,25 @@ Amended(2) by Proposal 4753 (Sherlock), 5 May 2005
 Amended(3) by Proposal 4761 (root), 15 May 2005
 Amended(4) by Proposal 4834 (Maud), 6 August 2005
 Amended(5) by Proposal 4837 (Goethe), 2 October 2005
+Amended(6) by Proposal 4846 (Goethe), 1 January 2006
+
 
 ----------------------------------------------------------------------
 
-Rule 2120/0 (Power=1)
+Rule 2120/1 (Power=1)
 Satisfying Draws
 
       When a gambler draws a card as specified by the Rules, e gains a
       Pending Draw.
-
-      Encumbrance is a stuck switch for pending draws, with values
-      Free and Heavy.  Drawing a [Encumbrance value] card is a synonym
-      for gaining a pending draw with the indicated encumbrance.
 
       As soon as possible after a gambler draws a card, the Deckmastor
       shall satisfy the draw by dealing a card to the gambler with the
       pending draw, but only if the draw is Satisfiable.  A draw is
       satisfiable unless defined otherwise.
 
-      A heavy pending draw is not satisfiable as long as the gambler
-      with the draw has a hand size equal to or greater than eir
-      defined maximum hand size.  If a gambler has both heavy and free
-      pending draws, the Deckmastor must satisfy all satisfiable heavy
-      draws before satisfying any free draws for that gambler.
-
       If the Rules state that a gambler loses a pending draw, than
       that draw is considered satisfied without the dealing of a card,
-      whether or not it is satisfiable.  E shall first lose all free
-      draws before losing any heavy draws.  If e has no draws, the
+      whether or not it is satisfiable.  If e has no draws, the
       Deckmastor shall discard a random card from that gambler's hand.
       If e has no cards, then the deckmastor shall satisfy the next
       pending draw e gains without dealing a card.
@@ -5806,6 +5805,7 @@ Satisfying Draws
 
 History:
 Created by Proposal 4837 (Goethe), 2 October 2005
+Amended(1) by Proposal 4846 (Goethe), 1 January 2006
 
 ----------------------------------------------------------------------
 
@@ -6815,4 +6815,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4843]
+      [Last proposal with recorded effect on this ruleset: 4846]
