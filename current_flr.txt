@@ -21,15 +21,15 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 198 Rules:
+There are currently 197 Rules:
     1 with Power=4
    29 with Power=3
    22 with Power=2
-  146 with Power=1
+  145 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2121
-Highest Rule Number assigned so far: 2121
+Highest current Rule Number:         2124
+Highest Rule Number assigned so far: 2124
 
 ======================================================================
 Table of Contents:
@@ -1823,6 +1823,19 @@ Power changed from 1 to 2 by Proposal 4121 (Ziggy), Mar. 16 2001
 Amended(9) by Proposal 4121 (Ziggy), Mar. 16 2001
 Amended(10) by Proposal 4279 (harvel), 3 April 2002
 Amended(11) by Proposal 4461 (Maud), 17 March 2003
+
+----------------------------------------------------------------------
+
+Rule 2124/0 (Power=1)
+Agoran Consent
+
+      If the Rules specify that an entity may perform an action with
+      Agoran Consent, then the entity may perform the action with M
+      supporters and without N objections, as long as M is greater
+      than N.
+
+History:
+Created by Proposal 4853 (Goethe), 18 March 2006
 
 ----------------------------------------------------------------------
 
@@ -5357,16 +5370,17 @@ Cards
   This Category includes Rules regulating Cards.
 ----------------------------------------------------------------------
 
-Rule 2068/5 (Power=1)
+Rule 2068/6 (Power=1)
 The Deckmastor
 
       The Deckmastor is an office; its holder is responsible for fair
-      play, shuffling, and dealing, and is the recordkeepor for cards.
+      play, shuffling, and dealing, and is the recordkeepor for cards
+      and chips.
 
       The Deckmastor's weekly report shall contain a record of all
-      cards in existence, recent card actions, and what entity holds
-      each card.  The Deckmastor need not record or report transfers
-      of cards to the table.
+      cards and chips in existence, recent card and chip actions, and
+      what entity holds each card and chip.  The Deckmastor need not
+      record or report transfers of cards to the table.
 
 History:
 Created by Proposal 4573 (Wes), 14 May 2004
@@ -5375,6 +5389,7 @@ Amended(2) by Proposal 4694 (Goethe), 18 April 2005
 Amended(3) by Proposal 4734 (Sherlock), 5 May 2005
 Amended(4) by Proposal 4805 (Goethe, Manu), 20 June 2005
 Amended(5) by Proposal 4834 (Maud), 6 August 2005
+Amended(6) by Proposal 4851 (Murphy), 18 March 2006
 
 ----------------------------------------------------------------------
 
@@ -5539,7 +5554,7 @@ Created by Proposal 4805 (Goethe, Manu), 20 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 2069/10 (Power=1)
+Rule 2069/11 (Power=1)
 Card Actions
 
       (a) A nonperson entity is a site if so designated by the rules
@@ -5595,9 +5610,7 @@ Card Actions
           shall be allowed to stand.
 
           As soon as possible after a player correctly announces that
-          the sum of the number of pending draws for each gambler is
-          greater than the number of cards in the deck, or that there
-          are no cards in the deck, then the Deckmastor shall
+          there are no cards in the deck, then the Deckmastor shall
           reshuffle the deck.  Whenever the deck is reshuffled, all
           cards in the discard pile are automatically transferred to
           the deck.
@@ -5614,6 +5627,7 @@ Amended(7) by Proposal 4825 (Maud), 17 July 2005
 Amended(8) by Proposal 4834 (Maud), 6 August 2005
 Amended(9) by Proposal 4837 (Goethe), 2 October 2005
 Amended(10) by Proposal 4846 (Goethe), 1 January 2006
+Amended(11) by Proposal 4851 (Murphy), 18 March 2006
 
 ----------------------------------------------------------------------
 
@@ -5670,7 +5684,7 @@ Amended(1) by Proposal 4660 (root), 29 March 2005
 
 ----------------------------------------------------------------------
 
-Rule 2075/7 (Power=1)
+Rule 2075/8 (Power=1)
 Winning Hands
 
       The Scoring Instructions contained in cardbooks, interpreted
@@ -5684,11 +5698,13 @@ Winning Hands
       Gambler's Hand to the Deck.
 
       If the announcement is true, the holding Gambler Wins the Game,
-      and is awarded the boon of Pokerface and the defined regular
-      Patent Title Champion.  All Players' hands become subject to a
-      Hand Reduction to the Minimum Hand Size.  After the winner's
-      hand is so reduced, e gains a number of pending draws equal to
-      the Maximum Hand Size.
+      and is awarded the boon of Pokerface, the defined regular Patent
+      Title Champion, and a blue chip (non-transferrable) marked with
+      the number of red and white chips in the Pot (after which the
+      Pot is emptied). All Players' hands become subject to a Hand
+      Reduction to the Minimum Hand Size.  After the winner's hand is
+      so reduced, e gains a number of pending draws equal to the
+      Maximum Hand Size.
 
       If no true announcement of a winning hand or a Skunk has been
       made in the last six months, then any Gambler may announce a
@@ -5705,10 +5721,11 @@ Amended(4) by Proposal 4764 (root), 25 May 2005
 Amended(5) by Proposal 4837 (Goethe), 2 October 2005
 Amended(6) by Proposal 4838 (Goethe), 2 October 2005
 Amended(7) by Proposal 4846 (Goethe), 1 January 2006
+Amended(8) by Proposal 4851 (Murphy), 18 March 2006
 
 ----------------------------------------------------------------------
 
-Rule 2083/1 (Power=1)
+Rule 2083/2 (Power=1)
 Hand Reductions
 
       The Rules may declare that a nonsite Gambler's hand is subject
@@ -5719,11 +5736,11 @@ Hand Reductions
       As soon as possible after a requirement for a reduction arises,
       the Deckmastor shall:
 
-        (i) Satisfy all satisfiable pending draws for that gambler and
-            announce a pending hand reduction;
+        (i) Satisfy all requirements to deal cards to that gambler for
+            cashed-in chips and announce a pending hand reduction;
 
-       (ii) Wait at least four days, during which e may not satisfy
-            pending draws for that gambler;
+       (ii) Wait at least four days, during which the gambler may not
+            cash in any chips;
 
       (iii) Discard cards at random from that Gambler's hand until eir
             hand size is equal to or less than maximum associated with
@@ -5759,17 +5776,21 @@ Hand Reductions
 History:
 Created by Proposal 4644 (root), 12 March 2005
 Amended(1) by Proposal 4846 (Goethe), 1 January 2006
+Amended(2) by Proposal 4851 (Murphy), 18 March 2006
 
 ----------------------------------------------------------------------
 
-Rule 2080/6 (Power=1)
-Basic Draws
+Rule 2080/7 (Power=1)
+Chip Sources
 
-      Any Player may draw up to three cards in a single month by
-      announcement.
+      At the beginning of each month, each player gains three white
+      chips and one red chip.
 
-      Any Player may draw one card for each Proposal e proposes that
-      is adopted, by noting the Proposal's number.
+      Upon the adoption of a proposal, the author gains one white
+      chip.
+
+      A player who gains a Boon gains a red chip.  A player who gains
+      an Albatross loses a chip.
 
 History:
 Created by Proposal 4635 (OscarMeyr), 23 January 2005
@@ -5779,33 +5800,24 @@ Amended(3) by Proposal 4761 (root), 15 May 2005
 Amended(4) by Proposal 4834 (Maud), 6 August 2005
 Amended(5) by Proposal 4837 (Goethe), 2 October 2005
 Amended(6) by Proposal 4846 (Goethe), 1 January 2006
+Amended(7) by Proposal 4851 (Murphy), 18 March 2006
 
 
 ----------------------------------------------------------------------
 
-Rule 2120/1 (Power=1)
-Satisfying Draws
+Rule 2120/2 (Power=1)
+Cashing in One's Chips
 
-      When a gambler draws a card as specified by the Rules, e gains a
-      Pending Draw.
+      The Pot is a site.
 
-      As soon as possible after a gambler draws a card, the Deckmastor
-      shall satisfy the draw by dealing a card to the gambler with the
-      pending draw, but only if the draw is Satisfiable.  A draw is
-      satisfiable unless defined otherwise.
-
-      If the Rules state that a gambler loses a pending draw, than
-      that draw is considered satisfied without the dealing of a card,
-      whether or not it is satisfiable.  If e has no draws, the
-      Deckmastor shall discard a random card from that gambler's hand.
-      If e has no cards, then the deckmastor shall satisfy the next
-      pending draw e gains without dealing a card.
-
-      A satisfied draw is no longer pending.
+      A player may cash in one or more of eir chips by transferring
+      them to the Pot.  As soon as possible after e does so, the
+      Deckmastor shall deal em a card for each non-forfeited chip.
 
 History:
 Created by Proposal 4837 (Goethe), 2 October 2005
 Amended(1) by Proposal 4846 (Goethe), 1 January 2006
+Amended(2) by Proposal 4851 (Murphy), 18 March 2006
 
 ----------------------------------------------------------------------
 
@@ -5818,6 +5830,45 @@ Cards for Ex-Cards
 
 History:
 Created by Proposal 4843 (Murphy), 9 November 2005
+
+----------------------------------------------------------------------
+
+Rule 2122/0 (Power=1)
+Gaining and Losing Chips
+
+      If the rules say that a player gains a chip, it is created in
+      eir possession.  Rumor and superstition have it that these chips
+      come from a mystical place referred to in legend as The House,
+      which is to be greatly feared by all gamblers.
+
+      If the rules say that a player loses a chip, without specifying
+      which chip e loses:
+
+        (a) If e has at least one red chip, then one of eir red chips
+            is forfeited to the Pot.
+
+        (b) Otherwise, if e has at least one white chip, then one of
+            eir white chips is forfeited to the Pot.
+
+        (c) Otherwise, if e has at least one card, then the Deckmastor
+            shall discard one of that player's cards at random.
+
+        (d) Otherwise, the next chip e gains is immediately forfeited
+            to the Pot.
+
+History:
+Created by Proposal 4851 (Murphy), 18 March 2006
+
+----------------------------------------------------------------------
+
+Rule 2123/0 (Power=1)
+Fees
+
+      A player plays a fee of X by cashing in X chips.  These chips
+      are forfeited.
+
+History:
+Created by Proposal 4851 (Murphy), 18 March 2006
 
 ----------------------------------------------------------------------
 
@@ -5966,7 +6017,7 @@ Amended(9) by Proposal 4708 (OscarMeyr), 18 April 2005
 
 ----------------------------------------------------------------------
 
-Rule 2049/2 (Power=1)
+Rule 2049/3 (Power=1)
 Ephemera
 
       Players may be permitted or required by the Rules to grant Boons
@@ -5974,14 +6025,11 @@ Ephemera
       performed by public announcement.  The Herald shall note the
       granting of all such awards.
 
-      A Player who gains a Boon is considered to have drawn a free
-      card for that boon.  A Player who gains an Albatross loses a
-      pending draw.
-
 History:
 Created by Proposal 4486 (Michael), 24 April 2003
 Amended(1) by Proposal 4691 (root), 18 April 2005
 Amended(2) by Proposal 4837 (Goethe), 2 October 2005
+Amended(3) by Proposal 4851 (Murphy), 18 March 2006
 
 ----------------------------------------------------------------------
 
@@ -5991,105 +6039,40 @@ The University of Agora
   Theses and that subset of Patent Titles known as Degrees.
 ----------------------------------------------------------------------
 
-Rule 2086/3 (Power=1)
-The University of Agora
-
-      The University, also known as the Library, is a site.  The
-      Speaker is the president of and a limited executor of the
-      University.
+Rule 2086/4 (Power=1)
+Education
 
       Education is a stuck player switch with values Student and
-      Faculty Member.  The Secretary of the University (SotU) is the
-      recordkeepor of education.  As soon as possible after a player
-      is awarded a degree, the SotU shall flip the education of that
-      player to Faculty Member.
+      Faculty Member.  The Herald is the recordkeepor of education.
+      As soon as possible after a player is awarded a degree, the
+      Herald shall flip the education of that player to Faculty
+      Member.
 
 History:
 Created by Proposal 4657 (Sherlock), 29 March 2005
 Amended(1) by Proposal 4669 (Quazie), 9 April 2005
 Amended(2) by Proposal 4728 (Murphy), 25 April 2005
 Amended(3) by Proposal 4834 (Maud), 6 August 2005
+Amended(4) by Proposal 4852 (root), 18 March 2006
 
 ----------------------------------------------------------------------
 
-Rule 2091/2 (Power=1)
-The Office of Secretary of the University
-
-      The Secretary of the University (SotU) is an office; its holder
-      is recordkeepor for the University.
-
-      The SotU's Weekly Report shall include:
-
-      (a) A list of all active Research Grants.
-
-      (b) A list of all active Book Club Selections.
-
-      (c) Each player's Education.
-
-      (d) A list of who has checked out cards from the library.
-
-History:
-Created by Proposal 4669 (Quazie), 9 April 2005
-Amended(1) by Proposal 4796 (Maud), 6 June 2005
-Amended(2) by Proposal 4834 (Maud), 6 August 2005
-
-----------------------------------------------------------------------
-
-Rule 2087/0 (Power=1)
-Research Grants
-
-      The University offers Research Grants for projects that improve
-      the intellectual, cultural and social life of Agora.  The
-      Speaker may announce a Research Grant by publicly describing a
-      task to be performed and stating a number between one and five.
-
-      If another Player completes this task to the Speaker's
-      satisfaction within the next month, the Speaker shall award to
-      that Player an equal number of Boons of Achievement, without two
-      objections.  No more than one Player may receive this award.  If
-      more than one Player undertakes the task, the Speaker shall
-      choose only one Player to receive the award.
-
-History:
-Created by Proposal 4657 (Sherlock), 29 March 2005
-
-----------------------------------------------------------------------
-
-Rule 2088/0 (Power=1)
-The University Book Club
-
-      The University sponsors a monthly Book Club.  During the first
-      week of each month the first Player who publically specifies a
-      rule as that month's Book Club Selection becomes the Moderator
-      for the University Book Club.  The Assessor shall award one Boon
-      of Refinement apiece to the Moderator and Proposer for the first
-      passed proposal within the next thirty days that either amends
-      or repeals this Selection.
-
-History:
-Created by Proposal 4657 (Sherlock), 29 March 2005
-
-----------------------------------------------------------------------
-
-Rule 2089/6 (Power=1)
+Rule 2089/8 (Power=1)
 Gardner Library
 
-      Whenever the Library's hand size is less than five, it gains a
-      pending draw.
+      The Library is a site.  The Deckmastor is a limited executor of
+      the Library.
+
+      As soon as possible after the beginning of each quarter, the
+      Deckmastor shall discard all cards in the possession of the
+      Library.  The Library then gains five pending draws.
 
       A player (hereafter the Borrower) may check out a specified card
-      from the Library by announcement, which must satisfy a number of
-      satisfiable pending draws that e, in fact, possesses.  The
-      number is 2 pending draws for Students and 1 pending draw for
-      Faculty Members.  The card is reserved and may not be checked
-      out by any player until it is dealt to the Library again by the
-      Deckmastor.
+      from the Library by paying a fee.  The amount of the fee is 2
+      for Students and 1 for Faculty Members.
 
       Whenever a card is checked out from the Library, it is
       transferred to the Borrower.
-
-      The President of the University may discard any card in the
-      possession of the Library without two objections.
 
 History:
 Created by Proposal 4657 (Sherlock), 29 March 2005
@@ -6099,6 +6082,8 @@ Amended(3) by Proposal 4726 (root), 25 April 2005
 Amended(4) by Proposal 4728 (Murphy), 25 April 2005
 Amended(5) by Proposal 4834 (Maud), 6 August 2005
 Amended(6) by Proposal 4837 (Goethe), 2 October 2005
+Amended(7) by Proposal 4851 (Murphy), 18 March 2006
+Amended(8) by Proposal 4852 (root), 18 March 2006
 
 ----------------------------------------------------------------------
 
@@ -6307,10 +6292,8 @@ Amended(1) by Proposal 4671 (Goethe), 9 April 2005
 
 ----------------------------------------------------------------------
 
-Rule 2104/2 (Power=1)
+Rule 2104/4 (Power=1)
 Contreras Card Labs
-
-      The University encourages Card experimentation.
 
       There is a cardbook called the Blueprints Cardbook, which may be
       changed by Proposal, or as specified in this Rule.
@@ -6334,14 +6317,14 @@ Contreras Card Labs
       rather than in the Deck.
 
       Any Player may add, delete, or amend a Scoring Instruction in
-      the Blueprints Cardbook, with M support and without N
-      Objections, where M is greater than or equal to N at the time
-      the change is performed, and N is at least 1.
+      the Blueprints Cardbook, with Agoran Consent.
 
 History:
 Created by Proposal 4734 (Sherlock), 5 May 2005
 Amended(1) by Proposal 4805 (Goethe, Manu), 20 June 2005
 Amended(2) by Proposal 4838 (Goethe), 2 October 2005
+Amended(3) by Proposal 4852 (root), 18 March 2006
+Amended(4) by Proposal 4853 (Goethe), 18 March 2006
 
 ----------------------------------------------------------------------
 
@@ -6350,7 +6333,7 @@ Indulgences and Blots
   This Category includes Rules concerning Indulgences and Blots.
 ----------------------------------------------------------------------
 
-Rule 1377/18 (Power=1)
+Rule 1377/19 (Power=1)
 The Herald
 
       The Herald is an office; its holder is responsible for keeping
@@ -6366,6 +6349,8 @@ The Herald
 
       (iii)  A list of Degrees which have been granted, and which
              persons Bear them.
+
+       (iv)  Each player's Education.
 
 History:
 Created by Proposal 1377, Jan. 17 1995
@@ -6387,6 +6372,7 @@ Amended(15) by Proposal 4250 (harvel), 19 February 2002
 Amended(16) by Proposal 4272 (Murphy), 22 March 2002
 Amended(17) by Proposal 4486 (Michael), 24 April 2003
 Amended(18) by Proposal 4563 (OscarMeyr), 6 April 2004
+Amended(19) by Proposal 4852 (root), 18 March 2006
 
 ----------------------------------------------------------------------
 
@@ -6493,36 +6479,44 @@ Changing Speakers
   This Category includes Rules regulating changing the Speaker.
 ----------------------------------------------------------------------
 
-Rule 681/12 (Power=1)
-Conditions for Conclavity
+Rule 681/13 (Power=1)
+Conclaves
 
-      A conclave must be convened whenever any of the following events
-      occur:
+      Agora exits from Conclave whenever a player becomes a pope.
 
-      (a) the Speaker resigns the Speakership;
+      Agora enters into Conclave whenever there is no pope and one of
+      the following triggering events occurs:
 
-      (b) the Speaker becomes inactive;
+      (a) the Speaker resigns the Speakership, becomes inactive, or
+          otherwise ceases to be Speaker without another player being
+          installed as Speaker;
 
-      (c) the Herald confirms an allegation that the Speaker is
-          lawless;
-
-      (d) a valid notice of deregistration naming the Speaker is
-          published;
-
-      (e) the success of a Call for Revolt is announced, and the
+      (b) the success of a Call for Revolt is announced, and the
           Speaker was abiding at the time of the Call for Revolt, in
           which case the rebellious cardinals are the only qualified
-          cardinals for the conclave;
+          cardinals;
 
-      (f) two or more cardinals simultaneously win the game, in which
-          case these cardinals are the only qualified cardinals for
-          the conclave;
+      (c) two or more cardinals simultaneously win the game, in which
+          case these cardinals are the only qualified cardinals;
 
-      (g) no pope has become Speaker in the past six months;
+      (d) no pope has become Speaker for the past six months; or
 
-      (h) a pope ceases to be pope without becoming Speaker; or
+      (e) a pope ceases to be pope without becoming Speaker.
 
-      (i) a conclave has concluded with an inconclusive result.
+      As soon as possible after Agora enters into conclave, the
+      Associate Director of Personnel must announce the fact and
+      publish a list of qualified cardinals.  All cardinals are
+      considered qualified unless specifically restricted by the
+      particular triggering event.  If Agora is already in conclave
+      when a triggering event occurs, Agora remains in conclave, but
+      the qualification of each cardinal is modified to reflect the
+      more recent event.
+
+      While Agora is in conclave, any player may make a qualified
+      Cardinal into a pope, with Agoran consent.  If the legality of
+      this action is not challenged within seven days of it being
+      attempted, then it shall be allowed to stand, even if is
+      subsequently found to be illegal.
 
       So there's always hope
       that you can be pope.
@@ -6543,93 +6537,41 @@ Amended(9) by Proposal 3703 (Steve), Mar. 9 1998
 Amended(10) by Proposal 3897 (harvel), Aug. 27 1999
 Amended(11) by Proposal 4147 (Wes), 13 May 2001
 Amended(12) by Proposal 4798 (Maud, Goethe), 6 June 2005
+Amended(13) by Proposal 4853 (Goethe), 18 March 2006
 
 ----------------------------------------------------------------------
 
-Rule 786/15 (Power=1)
-Default Procedure for Conclaves
-
-      When the rules require that a conclave be convened and no
-      competing conclave is currently convened, then as soon as
-      possible, the Associate Director of Personnel (ADoP) shall
-      convene a conclave by announcement, specifying the collection of
-      qualified cardinals.  A cardinal is qualified for a conclave
-      unless the rules specify otherwise.
-
-      The announcement is ineffective if the ADoP is not required to
-      convene a conclave or eir announcement does not list all and
-      only the cardinals qualified for that conclave.  However, if
-      errors are not announced until after 7 days after the conclave
-      concludes, the results shall stand.
-
-      The convening of a conclave initiates an Agoran Decision to
-      determine the Pope, a decision in which quorum is zero, the
-      voting period is 7 days, all Players are eligible voters, all
-      qualified cardinals are valid options as long as they remain
-      qualified cardinals, and the ADoP has the privilege of resolving
-      ties as for elections.
-
-      The ADoP's announcement of the cardinal chosen by Agora makes
-      that cardinal the pope and concludes the conclave.
-
-      If no cardinal may be legally chosen by Agora, the ADoP shall so
-      announce, and the conclave concludes as a cliffhanger.  If a
-      conclave has not concluded within a fortnight from the time it
-      was convened, any player may announce that it is inconclusive
-      and thus conclude it as a cliffhanger.  When an conclave
-      concludes as a cliffhanger, this canon calls for a consecutive
-      conclave to be convened to calculate the correct cardinal.
-
-      If the office of ADoP is ever vacant, or the identity of its
-      holder cannot be determined with reasonable certainty, then the
-      first player who announces that e convenes a conclave, with eir
-      announcement adhering to the conditions for the ADoP's
-      announcement, shall then be permitted and required to perform
-      the actions that would have been required of the ADoP for that
-      conclave.
-
-History:
-Created by Proposal 786 (Chuck), ca. Dec. 20 1993
-...
-Amended(1) by Proposal 1426, Feb. 7 1995
-Amended(2) by Proposal 1539, Apr. 4 1995
-Amended(3) by Proposal 2500, Mar. 3 1996
-Amended(4) by Proposal 2661, Sep. 7 1996
-Amended(5) by Proposal 2662, Sep. 12 1996
-Amended(6) by Proposal 2828 (Zefram), Mar. 7 1997, substantial
-Amended(7) by Proposal 3787 (Steve), Sep. 8 1998
-Amended(8) by Proposal 3823 (Oerjan), Jan. 21 1999
-Amended(9) by Proposal 3974 (Elysion), Feb. 14 2000
-Amended(10) by Proposal 4049 (Elysion), Aug. 15 2000
-Amended(11) by Proposal 4071 (Steve), Sep. 14 2000
-Amended(12) by Proposal 4147 (Wes), 13 May 2001
-Amended(13) by Proposal 4155 (harvel), 18 May 2001
-Amended(14) by Proposal 4798 (Maud, Goethe), 6 June 2005
-Amended(15) by Proposal 4836 (Goethe, Maud), 2 October 2005
-
-----------------------------------------------------------------------
-
-Rule 402/13 (Power=1)
+Rule 402/14 (Power=1)
 Church and State
 
       A cardinal is an active, ready player who is neither the current
       Speaker nor the Associate Director of Personnel.
-
-      When a cardinal becomes a pope, any previous pope immediately
-      ceases being a pope.  Whenever a pope is not a cardinal, e
-      immediately ceases being a pope.
 
       For seven days after a cardinal wins the game with no other
       players simultaneously winning, that cardinal may announce that
       e becomes a pope.  Upon this announcement, that player becomes a
       pope, so please treat em right good forever.
 
-      A notice of papal succession is a notice published by the
-      Associate Director of Personnel, that declares that a specified
-      player is a pope, and is valid if the named player is indeed a
-      pope.  Upon publication of a valid notice of papal succession,
-      the current Speaker ceases to be Speaker, the pope becomes the
-      new Speaker, and the pope ceases to be a pope.
+      When a cardinal becomes a pope, any previous pope immediately
+      ceases being a pope.  Whenever a pope is not a cardinal, e
+      immediately ceases being a pope.
+
+      As soon as possible after a cardinal becomes a pope, the
+      Associate Director of Personnel shall install that pope as
+      Speaker, by announcement.  Upon this announcement, if the player
+      is still a pope, then the current Speaker ceases to be Speaker,
+      and the pope is installed as the new Speaker and ceases to be a
+      pope.
+
+      This installation cannot be performed if there are unresolved
+      challenges regarding the pope-ness of the player.  If the
+      legality of an installation is not challenged within seven days
+      of it being attempted, then it shall be allowed to stand, even
+      if is subsequently found to be illegal.
+
+      If the office of ADoP is ever vacant, or the identity of its
+      holder cannot be determined with reasonable certainty, then
+      installation may be performed by any player by announcement.
 
 History:
 Created by Proposal 402 (Alexx), ca. Sep. 3 1993
@@ -6648,6 +6590,7 @@ Amended(10) by Proposal 4576 (root), 31 May 2004
 Amended(11) by Proposal 4768 (root), 25 May 2005
 Amended(12) by Proposal 4798 (Maud, Goethe), 6 June 2005
 Amended(13) by Proposal 4836 (Goethe, Maud), 2 October 2005
+Amended(14) by Proposal 4853 (Goethe), 18 March 2006
 
 ----------------------------------------------------------------------
 
