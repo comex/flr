@@ -5554,7 +5554,7 @@ Created by Proposal 4805 (Goethe, Manu), 20 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 2069/11 (Power=1)
+Rule 2069/12 (Power=1)
 Card Actions
 
       (a) A nonperson entity is a site if so designated by the rules
@@ -5590,10 +5590,10 @@ Card Actions
           Deckmastor's duties, or as the result of a card play, it is
           discarded instead.
 
-          When a card is otherwise transferred from one gambler to
-          another, the former gambler shall cease to hold the card and
-          the latter gambler shall simultaneously come to hold the
-          card.
+          When a card or chip is otherwise transferred from one
+          gambler to another, the former gambler shall cease to hold
+          it and the latter gambler shall simultaneously come to hold
+          it.
 
           Discarding a card is synonymous with transferring it to the
           discard pile.  Dealing a card to a gambler is synonymous
@@ -5628,6 +5628,7 @@ Amended(8) by Proposal 4834 (Maud), 6 August 2005
 Amended(9) by Proposal 4837 (Goethe), 2 October 2005
 Amended(10) by Proposal 4846 (Goethe), 1 January 2006
 Amended(11) by Proposal 4851 (Murphy), 18 March 2006
+Amended(12) by Proposal 4859 (root), 22 May 2006
 
 ----------------------------------------------------------------------
 
@@ -5684,33 +5685,39 @@ Amended(1) by Proposal 4660 (root), 29 March 2005
 
 ----------------------------------------------------------------------
 
-Rule 2075/8 (Power=1)
+Rule 2075/9 (Power=1)
 Winning Hands
 
       The Scoring Instructions contained in cardbooks, interpreted
       collectively, may define a nonsite gambler as holding a winning
-      hand at a particular moment.  If so, any Gambler has 72 hours
-      from that moment to announce that a Gambler holds or has held a
-      winning hand.
+      hand.  Any Player may allege that a nonsite gambler holds a
+      winning hand.  The allegation is considered true if any nonsite
+      gambler holds a winning hand at the time of the allegation.
 
-      If the announcement is false, the Deckmastor shall, as soon as
-      possible, transfer 1 card at random from the announcing
-      Gambler's Hand to the Deck.
+      If the allegation is true, the following events occur in order,
+      immediately upon the allegation being made:
 
-      If the announcement is true, the holding Gambler Wins the Game,
-      and is awarded the boon of Pokerface, the defined regular Patent
-      Title Champion, and a blue chip (non-transferrable) marked with
-      the number of red and white chips in the Pot (after which the
-      Pot is emptied). All Players' hands become subject to a Hand
-      Reduction to the Minimum Hand Size.  After the winner's hand is
-      so reduced, e gains a number of pending draws equal to the
-      Maximum Hand Size.
+        (i) All nonsite gamblers holding winning hands are deemed to
+            win the game simultaneously, and are awarded the defined
+            regular Patent Title Champion, five white chips, and a
+            blue chip (non-transferrable) marked with the number of
+            red and white chips in the Pot.
 
-      If no true announcement of a winning hand or a Skunk has been
-      made in the last six months, then any Gambler may announce a
-      Skunk, which shall trigger the effects of a true announcement of
-      a win above, except that no boon shall be awarded nor extra
-      winner's cards dealt.
+       (ii) The pot is emptied.
+
+      (iii) All Scoring Instructions in the Blueprints Cardbook are
+            repealed.
+
+       (iv) All Players' hands become subject to a Hand Reduction to
+            the Minimum Hand Size.
+
+      If the allegation is false, the Deckmastor shall, as soon as
+      possible, discard 1 card at random from the hand of the Gambler
+      who made the allegation.
+
+      If no true allegation of a winning hand or a Skunk has been made
+      in the last six months, then any Gambler may allege a Skunk,
+      which, if true, triggers the effects of (iii) and (iv) above.
 
 History:
 Created by Proposal 4614 (Goethe), 21 September 2004
@@ -5722,10 +5729,11 @@ Amended(5) by Proposal 4837 (Goethe), 2 October 2005
 Amended(6) by Proposal 4838 (Goethe), 2 October 2005
 Amended(7) by Proposal 4846 (Goethe), 1 January 2006
 Amended(8) by Proposal 4851 (Murphy), 18 March 2006
+Amended(9) by Proposal 4856 (Goethe), 22 May 2006
 
 ----------------------------------------------------------------------
 
-Rule 2083/2 (Power=1)
+Rule 2083/3 (Power=1)
 Hand Reductions
 
       The Rules may declare that a nonsite Gambler's hand is subject
@@ -5736,18 +5744,16 @@ Hand Reductions
       As soon as possible after a requirement for a reduction arises,
       the Deckmastor shall:
 
-        (i) Satisfy all requirements to deal cards to that gambler for
-            cashed-in chips and announce a pending hand reduction;
+        (i) Announce the pending hand reduction;
 
-       (ii) Wait at least four days, during which the gambler may not
-            cash in any chips;
+       (ii) Wait at least four days after the announcement;
 
       (iii) Discard cards at random from that Gambler's hand until eir
             hand size is equal to or less than maximum associated with
             the reduction.
 
        (iv) If a gambler loses no cards during a reduction, and has
-            not played, transferred or discarded a card since the last
+            neither played nor transferred a card since the last
             reduction, the Deckmastor shall discard one card at random
             from the gambler's hand (if it has any cards).
 
@@ -5768,15 +5774,19 @@ Hand Reductions
       reduction with the lowest associated maximum; this shall satisfy
       all pending reductions.
 
-      At the beginning of each month, each Player's hand becomes
-      subject to a Hand Reduction to the maximum hand size in the
+      At the beginning of each Quarter, every Player's hand becomes
+      subject to a hand reduction to the maximum hand size in the
       Deckmastor's Budget plus the number of Offices (including the
-      Speakership) that e holds.
+      Speakership) that e holds.  If at any time there are more
+      unsatisfied pending draws then cards in the Deck and Discard
+      Pile put together, the Deckmastor may announce a Shortage, with
+      subjects every Player's hand to such a hand reduction.
 
 History:
 Created by Proposal 4644 (root), 12 March 2005
 Amended(1) by Proposal 4846 (Goethe), 1 January 2006
 Amended(2) by Proposal 4851 (Murphy), 18 March 2006
+Amended(3) by Proposal 4858 (Goethe), 22 May 2006
 
 ----------------------------------------------------------------------
 
@@ -5805,19 +5815,22 @@ Amended(7) by Proposal 4851 (Murphy), 18 March 2006
 
 ----------------------------------------------------------------------
 
-Rule 2120/2 (Power=1)
+Rule 2120/3 (Power=1)
 Cashing in One's Chips
 
       The Pot is a site.
 
-      A player may cash in one or more of eir chips by transferring
-      them to the Pot.  As soon as possible after e does so, the
-      Deckmastor shall deal em a card for each non-forfeited chip.
+      Cashing in one or more chips is synonymous with transferring
+      them to the Pot.  A player may cash in one or more of eir chips
+      by announcement.  As soon as possible after e does so, the
+      Deckmastor shall deal em a card for each non-forfeited chip
+      cashed in.
 
 History:
 Created by Proposal 4837 (Goethe), 2 October 2005
 Amended(1) by Proposal 4846 (Goethe), 1 January 2006
 Amended(2) by Proposal 4851 (Murphy), 18 March 2006
+Amended(3) by Proposal 4859 (root), 22 May 2006
 
 ----------------------------------------------------------------------
 
@@ -5861,14 +5874,15 @@ Created by Proposal 4851 (Murphy), 18 March 2006
 
 ----------------------------------------------------------------------
 
-Rule 2123/0 (Power=1)
+Rule 2123/1 (Power=1)
 Fees
 
-      A player plays a fee of X by cashing in X chips.  These chips
-      are forfeited.
+      A player plays a fee of X by cashing in X chips and indicating
+      the fee to be paid.  These chips are forfeited.
 
 History:
 Created by Proposal 4851 (Murphy), 18 March 2006
+Amended(1) by Proposal 4859 (root), 22 May 2006
 
 ----------------------------------------------------------------------
 
@@ -6758,4 +6772,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4853]
+      [Last proposal with recorded effect on this ruleset: 4859]
