@@ -2597,18 +2597,23 @@ Created by Proposal 4811 (Maud, Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 1933/10 (Power=2)
+Rule 1933/11 (Power=2)
 A Proposal's Chamber
 
       Chamber is a stuck proposal switch with values ordinary and
-      democratic.  The default chamber for a proposal with an adoption
-      index of at least 2 is democratic.
+      democratic.
 
       An ordinary proposal with an adoption index of two or greater is
       stalled.  Rules to the contrary notwithstanding, a stalled
       proposal is undistributable, and if a proposal is distributed
       that was stalled at the time of distribution, its chamber shall
-      immediately and automatically be set to democratic.
+      immediately and automatically be set to democratic.  If the
+      Promotor knowingly distributes a stalled proposal, e commits the
+      class 4 crime of Improper Debate.
+
+      Any player can flip the Chamber of a stalled proposal to
+      democratic without objection.  The Speaker can flip the Chamber
+      of a stalled proposal to democratic with support.
 
 History:
 Created by Proposal 3980 (Steve), Mar. 1 2000
@@ -2623,6 +2628,7 @@ Amended(7) by Proposal 4590 (Elysion), 4 July 2004
 Amended(8) by Proposal 4599 (root), 11 July 2004
 Amended(9) by Proposal 4811 (Maud, Goethe), 20 June 2005
 Amended(10) by Proposal 4836 (Goethe, Maud), 2 October 2005
+Amended(11) by Proposal 4863 (Goethe), 30 May 2006
 
 ----------------------------------------------------------------------
 
@@ -6555,11 +6561,11 @@ Amended(13) by Proposal 4853 (Goethe), 18 March 2006
 
 ----------------------------------------------------------------------
 
-Rule 402/14 (Power=1)
+Rule 402/15 (Power=1)
 Church and State
 
-      A cardinal is an active, ready player who is neither the current
-      Speaker nor the Associate Director of Personnel.
+      A cardinal is an active, ready player who is not the current
+      Speaker.
 
       For seven days after a cardinal wins the game with no other
       players simultaneously winning, that cardinal may announce that
@@ -6570,9 +6576,8 @@ Church and State
       ceases being a pope.  Whenever a pope is not a cardinal, e
       immediately ceases being a pope.
 
-      As soon as possible after a cardinal becomes a pope, the
-      Associate Director of Personnel shall install that pope as
-      Speaker, by announcement.  Upon this announcement, if the player
+      Any Player who is not a pope may install the pope as Speaker, by
+      announcement.  Upon this announcement, if the announced player
       is still a pope, then the current Speaker ceases to be Speaker,
       and the pope is installed as the new Speaker and ceases to be a
       pope.
@@ -6582,10 +6587,6 @@ Church and State
       legality of an installation is not challenged within seven days
       of it being attempted, then it shall be allowed to stand, even
       if is subsequently found to be illegal.
-
-      If the office of ADoP is ever vacant, or the identity of its
-      holder cannot be determined with reasonable certainty, then
-      installation may be performed by any player by announcement.
 
 History:
 Created by Proposal 402 (Alexx), ca. Sep. 3 1993
@@ -6605,6 +6606,7 @@ Amended(11) by Proposal 4768 (root), 25 May 2005
 Amended(12) by Proposal 4798 (Maud, Goethe), 6 June 2005
 Amended(13) by Proposal 4836 (Goethe, Maud), 2 October 2005
 Amended(14) by Proposal 4853 (Goethe), 18 March 2006
+Amended(15) by Proposal 4861 (Goethe), 30 May 2006
 
 ----------------------------------------------------------------------
 
@@ -6772,4 +6774,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4859]
+      [Last proposal with recorded effect on this ruleset: 4863]
