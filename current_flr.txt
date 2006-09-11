@@ -21,11 +21,11 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 197 Rules:
+There are currently 190 Rules:
     1 with Power=4
    29 with Power=3
    22 with Power=2
-  145 with Power=1
+  138 with Power=1
 
 Lowest current Rule Number:           101
 Highest current Rule Number:         2124
@@ -57,6 +57,7 @@ Table of Contents:
   The Rulekeepor
   Kudos
   Cards
+  Patent Titles and Degrees
   Patent Titles
   The University of Agora
   Indulgences and Blots
@@ -5893,32 +5894,25 @@ Amended(1) by Proposal 4859 (root), 22 May 2006
 ----------------------------------------------------------------------
 
 ======================================================================
-Patent Titles
-  This Category includes Rules regulating Patent Titles.
+Patent Titles and Degrees
+  This Category includes Rules regulating Patent Titles and Degrees.
 ----------------------------------------------------------------------
 
-Rule 649/17 (Power=1)
+Rule 649/18 (Power=1)
 Patent Titles
 
       A Patent Title is a legal item of recognition of a person's
       distinction.
 
-      When a Patent Title is awarded to a person, that person
-      is said to Bear that Patent Title; the Patent Title is Borne
-      by the person, and the person is its Bearor.  When a Patent
-      Title is revoked from a person, that person ceases to Bear that
-      Patent Title.  The status of Bearing a Patent Title can only be
-      changed as explicitly set out in the Rules. Only persons may
-      Bear Patent Titles.
+      When a Patent Title is awarded to a person, that person is said
+      to Bear that Patent Title.  When a Patent Title is revoked from
+      a person, that person ceases to Bear that Patent Title.  The
+      status of Bearing a Patent Title can only be changed as
+      explicitly set out in the Rules.
 
       As soon as possible after the Rules state that a Patent title
       shall be awarded or revoked, the Herald shall publicly award or
       revoke that Patent Title.
-
-      Significance is a stuck switch for Patent Titles with states
-      Historical, Hysterical, and Ephemeral.  The Herald may, Without
-      Objection, flip a Title from Historical Significance to
-      Hysterical Significance.
 
 History:
 Created by Proposal 649 (Wes), ca. Oct. 22 1993
@@ -5943,48 +5937,11 @@ Amended(14) by Proposal 4147 (Wes), 13 May 2001
 Amended(15) by Proposal 4497 (Steve), 13 May 2003
 Amended(16) by Proposal 4691 (root), 18 April 2005
 Amended(17) by Proposal 4824 (Maud, Manu), 17 July 2005
+Amended(18) by Proposal 4865 (Goethe), 27 August 2006
 
 ----------------------------------------------------------------------
 
-Rule 1044/8 (Power=1)
-Unique Patent Titles
-
-      A Patent Title is unique when the rules say it is.  If a person
-      is awarded a unique Patent Title, then the Herald shall revoke
-      it as soon as possible from any person already Bearing that
-      Title.
-
-      The following are Unique Patent Titles:
-
-      (a)  Robespierre, which shall be awarded to the Player who
-           called for a Revolt, if the Revolt succeeds.
-
-      (b)  Miscreant, which shall be awarded to a Player who has at
-           least ten Blots and has a greater number of Blots than any
-           other Player, if there is such a Player.  It shall
-           automatically be revoked if either condition becomes false.
-
-      (c)  Pugachev, which shall be awarded to the player who called
-           for a Revolt, if the Revolt fails.
-
-      (d)  Manouchian, which shall be awarded to the player who called
-           for a Revolt and deregistered before the Registrar
-           announced that the Revolt succeeded.
-
-History:
-...
-Amended(1) by Proposal 1335, Nov. 22 1994
-Amended(2) by Proposal 1681, Aug. 22 1995
-Amended(3) by Proposal 2399, Jan. 20 1996
-Amended(4) by Proposal 2532, Mar. 10 1996
-Amended(5) by Proposal 3445 (General Chaos), Mar. 26 1997, substantial
-Amended(6) by Proposal 3916 (harvel), Sep. 27 1999
-Amended(7) by Proposal 4110 (Ziggy), Feb. 13 2001
-Amended(8) by Proposal 4824 (Maud, Manu), 17 July 2005
-
-----------------------------------------------------------------------
-
-Rule 1922/9 (Power=1)
+Rule 1922/10 (Power=1)
 Defined Regular Patent Titles
 
       The following are Patent Titles:
@@ -5996,28 +5953,23 @@ Defined Regular Patent Titles
 
       (b)  A Patent Title (non-unique) now will
            Be known as "Bard", and granted those with wit.
-           In order for one Title to be filled,
+           In order for the Title to be filled,
            A level of Support must call for it.
 
            Three players to a fourth may grant this name
-           If these three write as 1, with 2 Support.
+           If these three write as one, with two Support.
            A current Bard may also grant the same,
            Provided that a second Bard's a sport.
 
            And so we don't the name of Bard debase,
-           A Player with 3 Supporters can conspire
+           A Player with three Supporters can conspire
            To (from a Bard), this Title to erase:
-           Or Bard (plus 2 Bards) make a Bard retire.
+           Or Bard (plus two Bards) make a Bard retire.
 
            But lest we ruin some poor minstrel's fun
            No bard will be dis-bard for eir bad pun.
 
-      (c)  Filthy Bureaucrat, to be awarded to any player who at some
-           point simultaneously holds and is Electee to three or more
-           Offices. This Patent Title is revoked from a player who
-           ceases to hold and be Electee to three or more Offices.
-
-      (d)  Three Months Long Service, Six Months Long Service, Nine
+      (c)  Three Months Long Service, Six Months Long Service, Nine
            Months Long Service, Twelve Months Long Service, to be
            awarded to any player who has held a particular Office
            continuously for the specified duration.  Each of these
@@ -6034,97 +5986,32 @@ Amended(6) by Proposal 4556 (Goethe), 22 March 2004
 Amended(7) by Proposal 4614 (Goethe), 21 September 2004
 Amended(8) by Proposal 4642 (Murphy), 12 March 2005
 Amended(9) by Proposal 4708 (OscarMeyr), 18 April 2005
+Amended(10) by Proposal 4865 (Goethe), 27 August 2006
 
 ----------------------------------------------------------------------
 
-Rule 2049/3 (Power=1)
-Ephemera
-
-      Players may be permitted or required by the Rules to grant Boons
-      or Albatrosses to other Players.  If so, these awards are
-      performed by public announcement.  The Herald shall note the
-      granting of all such awards.
-
-History:
-Created by Proposal 4486 (Michael), 24 April 2003
-Amended(1) by Proposal 4691 (root), 18 April 2005
-Amended(2) by Proposal 4837 (Goethe), 2 October 2005
-Amended(3) by Proposal 4851 (Murphy), 18 March 2006
-
-----------------------------------------------------------------------
-
-======================================================================
-The University of Agora
-  This Category includes Rules concerning the University of Agora,
-  Theses and that subset of Patent Titles known as Degrees.
-----------------------------------------------------------------------
-
-Rule 2086/4 (Power=1)
-Education
-
-      Education is a stuck player switch with values Student and
-      Faculty Member.  The Herald is the recordkeepor of education.
-      As soon as possible after a player is awarded a degree, the
-      Herald shall flip the education of that player to Faculty
-      Member.
-
-History:
-Created by Proposal 4657 (Sherlock), 29 March 2005
-Amended(1) by Proposal 4669 (Quazie), 9 April 2005
-Amended(2) by Proposal 4728 (Murphy), 25 April 2005
-Amended(3) by Proposal 4834 (Maud), 6 August 2005
-Amended(4) by Proposal 4852 (root), 18 March 2006
-
-----------------------------------------------------------------------
-
-Rule 2089/8 (Power=1)
-Gardner Library
-
-      The Library is a site.  The Deckmastor is a limited executor of
-      the Library.
-
-      As soon as possible after the beginning of each quarter, the
-      Deckmastor shall discard all cards in the possession of the
-      Library.  The Library then gains five pending draws.
-
-      A player (hereafter the Borrower) may check out a specified card
-      from the Library by paying a fee.  The amount of the fee is 2
-      for Students and 1 for Faculty Members.
-
-      Whenever a card is checked out from the Library, it is
-      transferred to the Borrower.
-
-History:
-Created by Proposal 4657 (Sherlock), 29 March 2005
-Amended(1) by Proposal 4706 (Quazie), 18 April 2005
-Amended(2) by Proposal 4715 (Goethe), 25 April 2005
-Amended(3) by Proposal 4726 (root), 25 April 2005
-Amended(4) by Proposal 4728 (Murphy), 25 April 2005
-Amended(5) by Proposal 4834 (Maud), 6 August 2005
-Amended(6) by Proposal 4837 (Goethe), 2 October 2005
-Amended(7) by Proposal 4851 (Murphy), 18 March 2006
-Amended(8) by Proposal 4852 (root), 18 March 2006
-
-----------------------------------------------------------------------
-
-Rule 1367/6 (Power=1)
+Rule 1367/7 (Power=1)
 Degrees
 
-      There shall exist a subset of the Patent Titles known as
-      Degrees. A Patent Title is only a Degree if it is specifically
-      made such by a Rule.  A person may use a Degree with eir name
-      for any official or unofficial business if and only if e
-      currently Bears that Degree.
-
-      Persons may come to Bear Degrees only as specified in the
-      Rules. Once a person Bears a Degree, e shall keep that
+      A Patent Title is only a Degree if it is specifically made such
+      by a Rule.  Persons may come to Bear Degrees only as specified
+      in the Rules. Once a person Bears a Degree, e shall keep that
       Degree forever.
 
       This Rule takes precedence over any Rule specifying default
       properties of Patent Titles.
 
-      "Granting a Degree" and "awarding a Degree" are synonymous.  A
-      Player who has been awarded a Degree Bears that Degree.
+      The following Degrees are hereby made legal:
+
+         - Associate of Nomic                 (A.N.)
+         - Bachelor of Nomic                  (B.N.)
+         - Master of Nomic                    (M.N.)
+         - Doctor of Nomic History            (D.N. Hist)
+         - Doctor of Nomic Science            (D.N. Sci)
+         - Doctor of Nomic Philosophy         (D.N.Phil)
+
+      Degrees shall be ranked in the order they appear in this Rule,
+      with Degrees listed latest in the Rule being ranked higher.
 
 History:
 Created by Proposal 1367, Jan. 5 1995
@@ -6134,30 +6021,79 @@ Amended(3) by Proposal 3741 (Murphy), May 8 1998
 Amended(4) by Proposal 3889 (harvel), Aug. 9 1999
 Amended(5) by Proposal 4002 (harvel), May 8 2000
 Amended(6) by Proposal 4110 (Ziggy), Feb. 13 2001
+Amended(7) by Proposal 4865 (Goethe), 27 August 2006
 
 ----------------------------------------------------------------------
 
-Rule 1368/2 (Power=1)
-The Legal Degrees
+Rule 1370/15 (Power=1)
+How to Get a Degree
 
-      The following Degrees are hereby made legal:
+      A person becomes a Candidate for a Degree when e publishes a
+      Thesis along with a statement explicitly indicating that the
+      Thesis is being submitted with the intent to qualify for a
+      particular degree.  A Thesis (plural: Theses) is an essay whose
+      topic is any facet of Agora Nomic, or Nomic in general.
 
-         - Associate of Nomic                 (A.N.)
-         - Bachelor of Nomic                  (B.N.)
-         - Doctor of Nomic History            (D.N. Hist)
-         - Master of Nomic                    (M.N.)
-         - Doctor of Nomic Philosophy         (D.N.Phil)
+      The Candidate shall choose a Player other tham emself to be the
+      first member of eir Thesis Committee, called eir Chair, with the
+      Chair's consent.
 
-      Degrees shall be ranked in the order they appear in this Rule,
-      with Degrees listed latest in the Rule being ranked higher than
-      Degrees listed earlier. The abbreviations in parentheses are not
-      part of the actual Degree.
+      If the Speaker is neither the Chair nor the Candidate, the
+      Speaker shall appoint a Player who is neither the Chair nor the
+      Candidate to be the second Committee member.  Otherwise, the the
+      Clerk of the Courts shall so appoint.  The two Committee members
+      shall then select, by mutual consent, a third person who is not
+      the Candidate to be the third Committee member.
+
+      The Committee shall examine the Candidate and eir Thesis to
+      determine eir qualifications for the Degree.  The Chair of the
+      Thesis Committee may award that Degree to the Candidate if and
+      only if:
+
+      * the Candidate has satisfied all prerequisites in the Rules for
+        the award of that Degree;
+      * a majority of members of the Thesis Committee agree that the
+        Thesis is worthy of the Degree to be granted.  Attention
+        should be paid to the originality and strength of the work, as
+        well as the extent of the work with regard to the expectations
+        of the particular degree.  The committee may award a lesser
+        degree if appropriate; and
+      * fewer than seven years have passed since that Committee was
+        formed.
+
+      Each Committee Member may publish a Commentary for the Thesis.
+      The Rulekeepor shall retain a copy of each Thesis that has
+      resulted in a degree, along with all such Commentaries.
 
 History:
-Created by Proposal 1368, Jan. 5 1995
-Amended(1) by Proposal 2682, Sep. 26 1996
-Amended(2) by Proposal 3823 (Oerjan), Jan. 21 1999
+Created by Proposal 1370, Jan. 5 1995
+Amended(1) by Proposal 1508, Mar. 24 1995
+Amended(2) by Proposal 1754, Oct. 21 1995
+Amended(3) by Proposal 2399, Jan. 20 1996
+Amended(4) by Proposal 2487, Feb. 16 1996
+Amended(5) by Proposal 2682, Sep. 26 1996
+Amended(6) by Proposal 2715, Oct. 12 1996
+Amended(7) by Proposal 3445 (General Chaos), Mar. 26 1997, substantial
+Amended(8) by Proposal 3475 (Murphy), May 11 1997, substantial
+Amended(9) by Proposal 3787 (Steve), Sep. 12 1998
+Amended(10) by Proposal 4099 (Murphy), Jan. 15 2001
+Amended(11) by Proposal 4147 (Wes), 13 May 2001
+Amended(12) by Proposal 4303 (OscarMeyr), 17 May 2002
+Amended(13) by Proposal 4462 (Goethe), 17 March 2003
+Amended(14) by Proposal 4825 (Maud), 17 July 2005
+Amended(15) by Proposal 4865 (Goethe), 27 August 2006
 
+----------------------------------------------------------------------
+
+======================================================================
+Patent Titles
+  This Category includes Rules regulating Patent Titles.
+----------------------------------------------------------------------
+
+======================================================================
+The University of Agora
+  This Category includes Rules concerning the University of Agora,
+  Theses and that subset of Patent Titles known as Degrees.
 ----------------------------------------------------------------------
 
 Rule 2092/0 (Power=2)
@@ -6181,134 +6117,6 @@ Honorary Degrees
 
 History:
 Created by Proposal 4688 (root), 18 April 2005
-
-----------------------------------------------------------------------
-
-Rule 1369/2 (Power=1)
-Theses
-
-      A Thesis (plural: Theses) shall be an essay whose topic is any
-      facet of Agora Nomic, or Nomic in general. The topic should be
-      substantially different from all other Theses previously
-      approved, but this is not a requirement.
-
-History:
-Created by Proposal 1369, Jan. 5 1995
-Amended(1) by Proposal 3884 (harvel), Jul. 26 1999
-Amended(2) by Proposal 4099 (Murphy), Jan. 15 2001
-
-----------------------------------------------------------------------
-
-Rule 1370/14 (Power=1)
-How to Get a Degree
-
-     A person becomes a Candidate for a Degree when e publishes a
-     Thesis Draft, authored by emself, along with a statement
-     explicitly indicating that the Thesis Draft is being submitted
-     with the intent to qualify for a particular degree.
-
-     If the Candidate is a Player, e may choose another Player to be
-     the first member of eir Thesis Committee, called eir Chair, with
-     the Chair's consent.  For non-players, or if no other Player
-     consents to be the Chair within one month of draft submission,
-     the Speaker will serve as Chair.
-
-     If the Speaker is neither the Chair nor the Candidate, the
-     Speaker shall appoint a Player who is neither the Chair nor the
-     Candidate to be the second Committee member.  Otherwise, the
-     Justiciar shall so appoint, unless the Chair or the Candidate is
-     the Justiciar, in which case the Clerk of the Courts shall so
-     appoint.  The two Committee members shall then select, by mutual
-     consent, a third person who is not the Candidate to be the third
-     Committee member.
-
-     The Committee shall examine the Candidate and eir Thesis to
-     determine eir qualifications for the Degree.  The Candidate may
-     publish a new Thesis Draft at any time, in response to Committee
-     requests or of eir own choosing, by indicating it is a new Thesis
-     Draft for the same Degree.
-
-     If the Committee is dissolved without granting a degree, the
-     Committee ceases to be a Committee, and the Candidate ceases to
-     be a Candidate, and any existent Thesis Draft must be republished
-     and subject to a new Committee selection to be eligible for a
-     Degree.
-
-     The Chair of a Thesis Committee may dissolve the Committee
-     without granting a degree, with the consent of at least one other
-     Committee member.  To so dissolve, the Chair must publish a
-     notice of intent to dissolve at least 14 days before dissolving.
-     The Candidate may so dissolve the Committee at any time by public
-     announcement.
-
-     The Chair of the Thesis Committee for a particular Candidate may
-     award that Degree to the Candidate if and only if:
-
-      * the Candidate has satisfied all prerequisites in the rules for
-        the award of that Degree;
-      * a majority of members of the Thesis Committee agree that the
-        most recent Thesis draft produced by the Candidate is worthy
-        of the Degree to be granted; and
-      * fewer than seven years have passed since that Committee was
-        formed.
-
-      Each Committee Member may have up to 14 days after a Degree is
-      awarded to publish a Commentary for the Thesis.  After that
-      time, the Chair shall publish the most recent Thesis Draft along
-      with all Commentary so published.  This combined publication
-      shall become the Final Thesis.  Upon publication of this Final
-      Thesis the Committee members cease to be Committee members for
-      that Thesis.
-
-      The Rulekeepor shall retain a copy of each Final Thesis.
-
-History:
-Created by Proposal 1370, Jan. 5 1995
-Amended(1) by Proposal 1508, Mar. 24 1995
-Amended(2) by Proposal 1754, Oct. 21 1995
-Amended(3) by Proposal 2399, Jan. 20 1996
-Amended(4) by Proposal 2487, Feb. 16 1996
-Amended(5) by Proposal 2682, Sep. 26 1996
-Amended(6) by Proposal 2715, Oct. 12 1996
-Amended(7) by Proposal 3445 (General Chaos), Mar. 26 1997, substantial
-Amended(8) by Proposal 3475 (Murphy), May 11 1997, substantial
-Amended(9) by Proposal 3787 (Steve), Sep. 12 1998
-Amended(10) by Proposal 4099 (Murphy), Jan. 15 2001
-Amended(11) by Proposal 4147 (Wes), 13 May 2001
-Amended(12) by Proposal 4303 (OscarMeyr), 17 May 2002
-Amended(13) by Proposal 4462 (Goethe), 17 March 2003
-Amended(14) by Proposal 4825 (Maud), 17 July 2005
-
-----------------------------------------------------------------------
-
-Rule 2044/1 (Power=1)
-Awardable Degrees
-
-      The Degree of Associate of Nomic requires a Thesis of at least
-      150 words.  A Candidate who already holds an AN Degree receives
-      a credit of 100 words towards the Thesis requirement for any
-      higher Degree, unless the Candidate also holds a BN Degree.
-
-      The Degree of Bachelor of Nomic requires a Thesis of at least
-      500 words.  A Candidate who already holds an BN Degree receives
-      a credit of 250 words towards the Thesis requirement for any
-      higher Degree.
-
-      The Degree of Doctor of Nomic History requires a Thesis of at
-      least 750 words and containing a narrative and analysis of past
-      events of specific significance to Agora.
-
-      The Degree of Master of Nomic requires a Thesis of at least 750
-      words.
-
-      The Degree of Doctor of Nomic Philosophy requires a Thesis of at
-      least 1000 words, and that the candidate has also published an
-      additional creative work authored by emself whose topic or theme
-      is related to Agora or Nomic in general.
-
-History:
-Created by Proposal 4462 (Goethe), 17 March 2003
-Amended(1) by Proposal 4671 (Goethe), 9 April 2005
 
 ----------------------------------------------------------------------
 
@@ -6774,4 +6582,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4863]
+      [Last proposal with recorded effect on this ruleset: 4865]
