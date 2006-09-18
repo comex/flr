@@ -58,7 +58,6 @@ Table of Contents:
   Kudos
   Cards
   Patent Titles and Degrees
-  Patent Titles
   The University of Agora
   Indulgences and Blots
   Changing Speakers
@@ -6083,11 +6082,6 @@ Amended(13) by Proposal 4462 (Goethe), 17 March 2003
 Amended(14) by Proposal 4825 (Maud), 17 July 2005
 Amended(15) by Proposal 4865 (Goethe), 27 August 2006
 
-----------------------------------------------------------------------
-
-======================================================================
-Patent Titles
-  This Category includes Rules regulating Patent Titles.
 ----------------------------------------------------------------------
 
 ======================================================================
