@@ -21,19 +21,20 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 190 Rules:
+There are currently 159 Rules:
     1 with Power=4
-   29 with Power=3
-   22 with Power=2
-  138 with Power=1
+   28 with Power=3
+   18 with Power=2
+  112 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2124
-Highest Rule Number assigned so far: 2124
+Highest current Rule Number:         2125
+Highest Rule Number assigned so far: 2125
 
 ======================================================================
 Table of Contents:
   The Game of Agora
+  Players and Entities
   Definitions
   The Rules
   The Players
@@ -71,88 +72,91 @@ The Game of Agora
   This Category includes Rules applying to all aspects of this Nomic.
 ----------------------------------------------------------------------
 
-Rule 1020/0 (Power=3)
-Name Is Agora
-
-      The Official Name of this Nomic shall be Agora.
-
-History:
-Created by Proposal 913, ca. May 4 1994
-Transmuted from MI=1 to MI=Unanimity by Proposal 1020, Sep. 4 1994
-Mutated from MI=Unanimity to MI=3 by Proposal 1484, Mar. 15 1995
-
-----------------------------------------------------------------------
-
 Rule 2105/1 (Power=1)
 The Map of Agora
 
-                               ____  _        /|
-                    DARWIN ->  \_  |/ |      / \
-                              __/    /      |  |
-            <- DSV          /      /        |  \
-                        _   \      \_       |   \
-                  MORNINGTON CRESCENT ->    /    |  <- GOETHE BARRIER REEF
-                 _ _/       |         \_/\_/     \
-                / \\ <- SHARK BAY      |         |
-               /            |          |          \ <- TOWNSVILLE
-            ___/            |          |           \_
-         __/                |          |             |
-        /                   |          |             \
-       /           O <- SHERLOCK NESS  |             |/\
-      |                     |          |               |_
-      |                     |          |  EMERALD ->     \
-      \                     |__________=_____,             \
-       /                    |                |             | <- BRISBANE
-       \      O <- LT. ANNE MOORE            |        __  _\
-        \                   |                |_______/  \/ |
-         |                __/\      <- TARCOOLA           /   LORD HOWE ->
-         \             __/    \_             /           /
- PERTH -> |      _  __/         |   /| IVANHOE ->       | <- WOLLONGONG
-          /    _/ \/             \ / /       |         /
-         |_   /     <- ESPERANTO  v /__     |_        / <- CANBERRA
-           \_/                         \    | \_    _|
-               __   __                 |    |   \__/
-              __ \ / __                 \___=_  ___|
-             /  \ | /  \        MANUBOURNE -> \/
-                 \|/
-            _,.---v---._                    /\__
-   /\__/\  /            \                   |   |
-   \_  _/ /              \                   |  /
-     \ \_|           @ __|                   \_/ <- HOBART
-      \                \_
-       \     ,__/       /
-     ~~~`~~~~~~~~~~~~~~/~~~~
+                                ____  _        /|
+                     DARWIN ->  \_  |/ |      / \
+                               __/    /      |  |
+             <- DSV          /      /        |  \
+                         _   \      \_       |   \
+                   MORNINGTON CRESCENT ->    /    |  <- GOETHE BARRIER REEF
+                  _ _/       |         \_/\_/     \
+                 / \\ <- SHARK BAY      |         |
+                /            |          |          \ <- TOWNSVILLE
+             ___/            |          |           \_
+          __/                |          |  .___o  )   |
+         /                   |          | ~~vv ===~~~ <-OSCAR'S MIRE
+        /           O <- SHERLOCK NESS  |             |/\
+       |                     |          |               |_
+       |                     |          |  EMERALD ->     \
+       \                     |__________=_____,             \
+        /                    |                |             | <- BRISBANE
+        \      O <- LT. ANNE MOORE            |        __  _\
+         \                   |                |_______/  \/ |
+          |                __/\      <- TARCOOLA           /   LORD HOWE ->
+          \             __/    \_             /           /
+  PERTH -> |      _  __/         |   /| IVANHOE ->       | <- WOLLONGONG
+           /    _/ \/             \ / /       |         /
+          |_   /     <- ESPERANTO  v /__     |_        / <- CANBERRA
+            \_/                         \    | \_    _|
+                __   __                 |    |   \__/
+               __ \ / __                 \___=_  ___|
+              /  \ | /  \        MANUBOURNE -> \/
+                  \|/
+             _,.---v---._                    /\__
+    /\__/\  /            \                   |   |
+    \_  _/ /              \                   |  /
+      \ \_|           @ __|                   \_/ <- HOBART
+       \                \_
+        \     ,__/       /
+      ~~~`~~~~~~~~~~~~~~/~~~~
 
 History:
 Created by Proposal 4735 (Maud), 5 May 2005
 Amended(1) by Proposal 4807 (Sherlock), 15 June 2005
+Amended(2) by Proposal 4866 (Goethe), 27 August 2006
 
 ----------------------------------------------------------------------
 
-Rule 101/2 (Power=3)
-Agora May I?
+Rule 101/3 (Power=3)
+Agoran Rights and Privileges
 
-      Any player is permitted to perform an action which is not
-      regulated.  An action is regulated if:
+      The rules may define persons as possessing specific rights or
+      privileges.  Be it hereby proclaimed that no binding agreement
+      or interpretation of Agoran law may abridge, reduce, limit, or
+      remove a person's defined rights.  A person's defined privileges
+      are assumed to exist in the absense of an explicit, binding
+      agreement to the contrary.  This rule takes precedence over any
+      rule which would allow restrictions of a person's rights or
+      privileges.
 
-      (a) the action is prohibited;
+         i. Every person has the privilege of doing what e wilt.
 
-      (b) the rules indicate that if certain conditions are satisfied,
-          then some player is permitted to perform the action;
+        ii. Every player has the right to perform an action which is
+            not regulated.
 
-      (c) the action would, as part of its effect, modify information
-          for which some player is required to be a recordkeepor;
+       iii. Every person has the right to invoke judgement, appeal a
+            judgement, and to initiate an appeal on a sentencing or
+            judicial order binding em.
 
-      (d) the action would, as part of its effect, make it impossible
-          to make arbitrary modifications to the rules by any
-          combinations of actions by players; or
+        iv. Every person has the right to refuse to become party to
+            a binding agreement.  The absense of a person's explicit,
+            willful consent shall be considered a refusal.
 
-      (e) the courts have held that the action is regulated, and this
-          finding has not been overturned.
+         v. Every person has the right to not be considered bound by
+            an agreement, or an amendment to an agreement, which e has
+            not had the reasonable opportunity to view.
 
-      A player besides the Speaker is always permitted to deregister
-      rather than continue to play.  Please treat Agora right good
-      forever.
+        vi. Every player has the right of participation in the fora.
+
+       vii. Every person has the right to not be penalized more than
+            once for any single action or inaction.
+
+      viii. Every player besides the Speaker has the right to
+            deregister rather than continue to play.
+
+      Please treat Agora right good forever.
 
 [CFJ ???: "abide by all the Rules" means the Rules as a whole, not
  necessarily each individual Rule.
@@ -169,408 +173,32 @@ Initial Immutable Rule 101, Jun. 30 1993
 Mutated from MI=Unanimity to MI=3 by Proposal 1480, Mar. 15 1995
 Amended(1) by Proposal 3915 (harvel), Sep. 27 1999
 Amended(2) by Proposal 4833 (Maud), 6 August 2005
+Amended(3) by Proposal 4866 (Goethe), 27 August 2006
 
 ----------------------------------------------------------------------
 
-Rule 2110/0 (Power=3)
-Win by Paradox
+Rule 2125/0 (Power=3)
+Regulation Regulations
 
-      If the legality of an action cannot be determined with finality,
-      or if by a Judge's best reasoning, not appealed within a week of
-      eir Judgement, an action appears equally legal and illegal, then
-      the Speaker shall award the Patent Title of Champion to the
-      first Player to publicly note that condition.  The Herald shall
-      record that this Title was achieved "by paradox" in eir report.
+      An action is regulated if:
+
+      (a) the action is prohibited;
+
+      (b) the rules indicate that if certain conditions are satisfied,
+          then some player is permitted to perform the action;
+
+      (c) the action would, as part of its effect, modify information
+          for which some player is required to be a recordkeepor;
+
+      (d) the action would, as part of its effect, make it impossible
+          to make arbitrary modifications to the rules by any
+          combinations of actions by players; or
+
+      (e) the courts have held that the action is regulated, and this
+          finding has not been overturned.
 
 History:
-Created by Proposal 4781 (Sherlock), 3 June 2005
-
-----------------------------------------------------------------------
-
-Rule 1527/4 (Power=1)
-Unsnarling Tangles
-
-      Whenever a message contains more than one note on which the
-      rules place some legal significance, the notes shall be taken to
-      have been sent sequentially in the order they appear in the
-      message.
-
-      A tangle is any set of two or more notes in a message, none of
-      which can be determined to appear in the message before the
-      others.  If a message containing a tangle does not provide an
-      order for the notes in that tangle, then the notes in that
-      tangle shall be considered ambiguous and without effect if the
-      effects of those notes on the gamestate would depend on the
-      order in which they take effect, discounting the mere fact of
-      their taking effect in a different order.
-
-Created by Proposal 1750, Oct. 21 1995
-Infected and Amended(1) by Rule 1454, Feb. 2 1997, substantial
-  (unattributed)
-Amended(2) by Proposal 3452 (Steve), Apr. 7 1997, substantial
-Amended(3) by Proposal 4150 (Elysion), 13 May 2001
-Amended(4) by Proposal 4833 (Maud), 6 August 2005
-
-----------------------------------------------------------------------
-
-Rule 754/5 (Power=3)
-Freedom of Communication
-
-      Freedom of speech being essential for the healthy functioning of
-      any non-Imperial nomic, it is hereby resolved:
-
-      (1) No Player shall be prohibited from participating in the
-          Fora.
-
-      (2) No Player shall be punished for accurately quoting a Rule,
-          Proposal, Statement, Judgement, another Player, or another
-          reference.
-
-      Regularity of communication being essential for the healthy
-      function of any nomic, it is hereby resolved:
-
-      (3) A difference in spelling, grammar, or dialect, or the use of
-          a synonym or abbreviation in place of a word or phrase, is
-          inconsequential in all forms of communication, as long as
-          the difference does not create an ambiguity in meaning.
-
-      (4) A term explicitly defined by the Rules shall be interpreted
-          as having that meaning, as shall its ordinary-language
-          synonyms not explicitly defined by the rules.  In
-          particular, the term "number" shall be interpreted as "real
-          number".
-
-      (5) Any term primarily used in mathematical or legal contexts,
-          and not addressed by previous provisions of this Rule, shall
-          be interpreted as having the meaning it has in those
-          contexts.
-
-      (6) Any term not addressed by previous provisions of this Rule
-          shall be interpreted as having its ordinary-language
-          meaning.
-
-      This rule takes precedence over any other rules which dictate
-      terminology or grammar.
-
-[CFJ 712: This includes referring to a Player by a method other than
- eir name or nickname, as long as it is unambiguous.
- CFJ 744: In the context of Rule Changes, text in an existing Rule
- must be quoted exactly in order to be unambiguous.]
-
-History:
-Created by Proposal 435 (Alexx), Aug. 30 1993
-Amended by Proposal 754 (KoJen), Dec. 1 1993
-Amended by Rule 750, Dec. 1 1993
-Amended(1) by Proposal 2042, Dec. 11 1995
-Infected and Amended(2) by Rule 1454, Dec. 17 1995
-Amended(3) by Proposal 3452 (Steve), Apr. 7 1997, substantial
-Amended(4) by Proposal 3915 (harvel), Sep. 27 1999
-Power changed from 1 to 3 by Proposal 4507 (Murphy), 20 June 2003
-Amended(5) by Proposal 4507 (Murphy), 20 June 2003
-
-----------------------------------------------------------------------
-
-Rule 1478/5 (Power=1)
-Executors and Limited Executors
-
-      (a) An Executor of an entity is a Player who is empowered by the
-          Rules to act on behalf of that entity, who is called the
-          Executee. There may be more than one such Player. An
-          Executor of an Executee may perform on behalf of the
-          Executee all such actions as the Rules permit the Executee
-          to perform.
-
-      (b) A Limited Executor of an entity is a Player who is empowered
-          by the Rules to perform on behalf of that entity a subset of
-          the actions which the Rules permit the entity to perform. A
-          Limited Executor is permitted to perform on behalf of an
-          Executee only such actions as are explicitly permitted by
-          the Rules.
-
-      (c) A Player is always eir own Executor. Other entities have
-          Executors (or Limited Executors) only as and when the Rules
-          provide.
-
-      (d) A Player acting on behalf of an entity other than emself
-          must clearly indicate on whose behalf e is acting. A Player
-          who does not clearly indicate that e is acting on behalf of
-          some entity other than emself is presumed to be acting on
-          eir own behalf.
-
-      (e) Only persons may perform actions. Non-persons perform
-          actions only via the agency of persons, as specified by the
-          Rules.
-
-History:
-Created by Proposal 1601, Jun. 19 1995
-Amended(1) by Proposal 2514, Mar. 3 1996
-Amended(2) by Proposal 3516 (General Chaos), Jun. 16 1997, substantial
-Amended(3) by Proposal 3968 (harvel), Feb. 4 2000
-Amended(4) by Proposal 3999 (harvel), May 2 2000
-Amended(5) by Proposal 4190 (Steve), 18 July 2001
-
-----------------------------------------------------------------------
-
-======================================================================
-Definitions
-  This Category includes definitions of terms which do not readily
-  fall into any other Category
-----------------------------------------------------------------------
-
-Rule 1727/14 (Power=1)
-Happy Birthday
-
-      WHEREAS, in June 1993, the world's only MUD-based nomic, Nomic
-      World, had recently collapsed; yet, many of its players enjoyed
-      nomic and did not wish to forego such a noble pursuit;
-
-      And WHEREAS, Originator Chuck Carroll therefore composed an
-      Initial Ruleset for an email nomic, based on the Initial
-      Rulesets of Peter Suber, inventor of Nomic, and on the Rulesets
-      of Nomic World and other nomics,
-
-      And WHEREAS, a nomic thus rose like a phoenix from the ashes of
-      Nomic World, played on the mailing list originally set up for
-      discussion of Nomic World, and coming into existence at June
-      30, 1993, 00:04:30 GMT +1200, with a message sent by First
-      Speaker Michael Norrish, which read, in part,
-
-          "I see no reason to let this get bogged down; there are no
-          precedents or rules that cover this situation, so I think
-          we may as well begin directly.... Proposals for new rules
-          are invited. In accordance with the rules, these will be
-          published, numbered and distributed by me at my earliest
-          convenience."
-
-      And WHEREAS, this nomic began as a humble and nameless nomic,
-      known unofficially as yoyo, after the mailing list it was
-      played on, until its Players, much later, gave it its official
-      name of Agora,
-
-      And WHEREAS, Agora has now become the wisest, noblest, eldest,
-      and most interesting of all active email nomics, due to the
-      hard work and diligence of Agorans as well as the frequent
-      advice of Agoraphobes,
-
-      And WHEREAS, Agorans desire to joyously commemorate Agora's
-      founding,
-
-      BE IT THEREFORE RESOLVED that Agora's Birthday is defined to be
-      the entire day of June 30, GMT +1200, of each year, and as soon
-      as possible after the end of Agora's Birthday, the Herald shall
-      award the boon of celebration to each Player who, during Agora's
-      Birthday, publicly recognizes this Grand Event.
-
-History:
-Created by Proposal 3513 (Chuck), Jun. 16 1997
-Amended(1) by Proposal 3530 (Chuck), Jun. 30 1997, substantial
-Amended(2) by Proposal 3533 (General Chaos), Jul. 15 1997, substantial
-Amended(3) by Proposal 3543 (Harlequin), Aug. 17 1997, substantial
-Amended(4) by Proposal 3897 (harvel), Aug. 27 1999
-Amended(5) by Proposal 3915 (harvel), Sep. 27 1999
-Amended(6) by Proposal 3940 (Blob), Nov. 15 1999
-Amended(7) by Proposal 4018 (Kelly), Jun. 21 2000
-Amended(8) by Proposal 4099 (Murphy), Jan. 15 2001
-Amended(9) by Proposal 4147 (Wes), 13 May 2001
-Amended(10) by Proposal 4159 (Kelly), 5 June 2001
-Amended(11) by Proposal 4367 (Steve), 23 August 2002
-Amended(12) by Proposal 4376 (Steve), 6 September 2002
-Amended(13) by Proposal 4486 (Michael), 24 April 2003
-Amended(14) by Proposal 4743 (Manu), 5 May 2005
-
-----------------------------------------------------------------------
-
-Rule 1586/2 (Power=2)
-Definition and Continuity of Entities
-
-      No two Rule-defined entities shall have the same name or
-      nickname.
-
-      If the Rules defining some entity are repealed or amended
-      such that they no longer define that entity, then that
-      entity along with all its properties shall cease to exist.
-
-      If the Rules defining an entity are amended such that they
-      still define that entity but with different properties,
-      that entity and its properties shall continue to exist to
-      whatever extent is possible under the new definitions.
-
-History:
-Created by Proposal 2481, Feb. 16 1996
-Amended(1) by Proposal 2795 (Andre), Jan. 30 1997, substantial
-Amended(2) by Proposal 3999 (harvel), May 2 2000
-Power changed from 1 to 2 by Proposal 3999 (harvel), May 2 2000
-
-----------------------------------------------------------------------
-
-Rule 2040/4 (Power=2)
-Switches
-
-      A switch is a set of states associated with a class of entities.
-      Each switch shall have a default state, which if not otherwise
-      specified shall be the first state mentioned in the rule
-      defining the switch.
-
-      The recordkeepor for a class of entities shall also maintain
-      records of any switches associated with that class, as well as
-      the current state of the switch for each entity of the class.
-      If the recordkeepor is required to publish a report, that report
-      shall include records of these switches.  The rules may require
-      a different player to maintain and report these records.
-
-      Whenever an entity is created in a class of entities associated
-      with a switch, it shall be in the state of the switch specified
-      by the order or provision creating it; if no state is specified,
-      it shall be in the default state of the switch.
-
-      Whenever an entity joins a class of entities associated with a
-      switch, the entity shall be in the default state of the switch.
-
-      Whenever an instrument indicates that a switch on an entity is
-      set or changed to some state, and the rules do not otherwise
-      forbid it, the entity shall come to be in that state and
-      simultaneously cease to be in any other state of the switch.
-
-      A player who may flip a switch on an entity to some state other
-      than the current state of the switch may do so by announcement.
-      In eir announcement, e must indicate the entity, switch, and new
-      state.  Upon this announcement, provided it is valid, the switch
-      is set to the named state.
-
-      A switch is loose unless the rules define it as stuck.
-
-      An executor of an entity may flip any of the loose switches on
-      that entity, unless the rules otherwise prohibit doing so.
-
-      The stuck switches on an entity can be flipped only when the
-      rules so indicate.
-
-      Whenever a switch is created, or becomes associated with a class
-      of entities, then each entity in the class that had previously
-      been in a state that is now a state of the switch shall continue
-      to be in that state; all other entities in the class shall be in
-      the default state of the switch.
-
-      Whenever a state ceases to be a state of a switch, all entities
-      in the class that had previously been in that state shall be in
-      the default state of the switch.
-
-History:
-Created by Proposal 4456 (Maud), 22 February 2003
-Amended(1) by Proposal 4527 (Murphy), 16 September 2003
-Amended(2) by Proposal 4685 (Quazie, Murphy), 18 April 2005
-Amended(3) by Proposal 4691 (root), 18 April 2005
-Amended(4) by Proposal 4823 (root), 17 July 2005
-
-----------------------------------------------------------------------
-
-Rule 478/15 (Power=3)
-Fora
-
-      Publicity is a stuck forum switch with values null, Discussion,
-      and Public.  A forum's publicity may not be changed except as
-      described in this rule.
-
-      The Registrar may flip the publicity of a forum without
-      objection as long as:
-
-      (a) e sends eir announcement of intent to that forum; and
-
-      (b) if the forum is to be made public, the announcement by which
-          the Registrar makes that forum public is sent to all
-          existing public fora.
-
-      Each active player should ensure e can receive messages via each
-      public forum.
-
-      The Registrar's report shall include a list of all public or
-      discussion fora and sufficient data regarding each to allow
-      players to receive messages via that medium.  The Registrar need
-      not keep track of null fora.
-
-      A message is public if and only if it is sent via a public forum
-      or is sent to all players and contains a clear designation of
-      intent to be public.  A player "publishes" or "announces"
-      something by sending a public message.
-
-      A player performs an action "by announcement" by announcing that
-      e performs it.  A player performs an action "by private message"
-      to some player by sending an appropriate private message to the
-      specified player.  Any action performed by sending a message is
-      performed at the time date-stamped on that message.
-
-[CFJ 752: Something sent to a Player who is obligated to send it to
- all Players is sufficient for sending something to the PF.
- CFJ 813: A Player need not prove that e can receive the PF.
- CFJ 831: The Date: header of a message is not necessarily the time
- at which the message takes effect.
- CFJ 1112, Judged TRUE Jan. 21 1999: "In order to submit a Proposal,
- in the sense of R1865 and elsewhere, it is not sufficient that a
- collection of text 'with the clear indication that that text is
- intended to become a Proposal' (R1483) merely be sent to the Public
- Forum by a Proposing Entity; the collection of text must also be
- received in the Public Forum."]
-
-History:
-Created by Proposal 478 (Jim Shea), Sep. 20 1993
-Amended(1) by Proposal 1477, Mar. 8 1995
-Amended(2) by Proposal 1576, Apr. 28 1995
-Amended(3) by Proposal 1610, Jul. 10 1995
-Amended(4) by Proposal 1700, Sep. 1 1995
-Amended(5) by Proposal 2052, Dec. 19 1995
-Amended(6) by Proposal 2400, Jan. 20 1996
-Amended(7) by Proposal 2739 (Swann), Nov. 7 1996, substantial
-Amended(8) by Proposal 2791 (Andre), Jan. 30 1997, substantial
-Amended(9) by Proposal 3521 (Chuck), Jun. 23 1997, substantial
-Amended(10) by Proposal 3823 (oerjan), Jan. 21 1999
-Amended(11) by Proposal 4147 (Wes), 13 May 2001
-Amended(12) by Proposal 4248 (Murphy), 19 February 2002
-Amended(13) by Proposal 4456 (Maud), 22 February 2003
-Power changed from 1 to 3 by Proposal 4690 (root), 18 April 2005
-Amended(14) by Proposal 4690 (root), 18 April 2005
-Amended(15) by Proposal 4833 (Maud), 6 August 2005
-
-----------------------------------------------------------------------
-
-Rule 459/5 (Power=1)
-Agoran Epochs
-
-      Days, weeks, months, quarters, and years are epochs.  The
-      corresponding Agoran epochs are Agoran days, Agoran weeks,
-      Agoran months, Agoran quarters, and Agoran years, respectively.
-
-      Agoran days begin at midnight GMT.  Agoran weeks begin at
-      midnight GMT on Monday.  Agoran months begin at midnight GMT on
-      the first day of each Gregorian month.  Agoran quarters begin
-      when the Agoran months of January, April, July, and October
-      begin.  Agoran years begin when the Agoran month of January
-      begins.  An Agoran epoch lasts until the next Agoran epoch of
-      the same type begins.
-
-      Except in this Rule, when the Rules refer to an epoch as an
-      independent entity (e.g. "each month"), they shall be
-      interpreted as referring to the corresponding Agoran epoch.
-      However, when the Rules refer to an epoch as a relative duration
-      (e.g. "one month after", "within one month", "for one month"),
-      they shall be interpreted as referring to the ordinary-language
-      meaning of that duration.
-
-      Automatic events that happen daily, weekly, monthly, quarterly,
-      or yearly happen at the beginning of the corresponding Agoran
-      epoch.  Any activity that must be performed daily, weekly,
-      monthly, quarterly, or yearly must be performed at least once
-      during each corresponding Agoran epoch.
-
-      Other Rules may explicitly define alternate schedules for events
-      or classes of events.
-
-History:
-Created by Proposal 459 (Jim Shea), Sep. 15 1993
-Amended(1) by Proposal 2697, Oct. 10 1996
-Amended(2) by Proposal 3950 (harvel), Dec. 8 1999
-Amended(3) by Proposal 4114 (Elysion), Mar. 2 2001
-Amended(4) by Proposal 4250 (harvel), 19 February 2002
-Amended(5) by Proposal 4505 (Murphy), 20 June 2003
+Created by Proposal 4866 (Goethe), 27 August 2006
 
 ----------------------------------------------------------------------
 
@@ -586,206 +214,6 @@ Created by Proposal 3445 (General Chaos), Mar. 26 1997
 Amended(1) by Proposal 3994 (harvel), Apr. 20 2000
 Amended(2) by Proposal 4811 (Maud, Goethe), 20 June 2005
 
-----------------------------------------------------------------------
-
-Rule 1023/16 (Power=2)
-Definition of "As Soon As Possible"
-
-      A requirement to perform an action "as soon as possible" is a
-      requirement to perform the action within a week.
-
-      If a Player fails to observe such a requirement, and no other
-      Rule defines a penalty for the failure, then the Player commits
-      the Class 1 Infraction of Tardiness, which may be reported by
-      any Player.
-
-      This Rule does not prevent late actions from taking effect, but
-      merely penalizes the Player for being late.
-
-      Other Rules may grant extensions of the penalty-free period to
-      non-active Players without conflicting with this Rule.
-
-[CFJ 1075: Rule 1023 should be interpreted such that no Rule with
- lower precedence than it can succeed in prohibiting activity of a
- purely discussionary nature.]
-
-History:
-Created by Proposal 805, ca. Jan. or Feb. 1994
-Amended by Proposal 907, ca. Apr. or May 1994
-Amended by Rule 750, ca. Apr. or May 1994
-Amended by Proposal 1023, Sep. 5 1994
-Amended by Rule 750, Sep. 5 1994
-Amended(1) by Proposal 1413, Feb. 1 1995
-Amended(2) by Proposal 1434, Feb. 14 1995
-Amended(3) by Proposal 1682, Aug. 22 1995
-Amended(4) by Proposal 1727, Oct. 6 1995
-Amended(5) by Proposal 2042, Dec. 11 1995
-Amended(6) by Proposal 2489, Feb. 16 1996
-Amended(7) by Proposal 2567, Apr. 12 1996
-Mutated from MI=1 to MI=2 by Proposal 2602, May 26 1996
-Amended(8) by Proposal 2629, Jul. 4 1996
-Amended(9) by Proposal 2770 (Steve), Dec. 19 1996
-Amended(10) by Proposal 3823 (Oerjan), Jan. 21 1999
-Amended(11) by Proposal 3823 (Oerjan), Jan. 21 1999
-Amended(12) by Proposal 3897 (harvel), Aug. 27 1999
-Amended(13) by Proposal 3950 (harvel), Dec. 8 1999
-Amended(14) by Proposal 4004 (Steve), May 8 2000
-Amended(15) by Proposal 4278 (harvel), 3 April 2002
-Amended(16) by Proposal 4406 (Murphy), 30 October 2002
-
-----------------------------------------------------------------------
-
-Rule 1079/4 (Power=1)
-Definition of "Random"
-
-      (a) When a Rule requires a random choice to be made, then the
-          choice shall be made using whatever probability distribution
-          among the possible outcomes the Rules provide for making
-          that choice. If the Rules do not specify a probability
-          distribution, then a uniform probability distribution shall
-          be used.
-
-      (b) Where the Rules do not indicate who is required to make a
-          particular random choice, it shall be made by the Speaker.
-
-      (c) When making a random choice as required by the Rules, a
-          Player may rely on any physical or computational process
-          whose probability distribution among the possible outcomes
-          is reasonably close to that required by the Rules.
-
-      (d) For the purposes of this Rule, tossing a platonic solid that
-          is not specially weighted has a probability distribution
-          among the possible outcomes that is reasonably close to
-          uniform.
-
-      (e) For other methods, the Courts are the final arbiter of
-          whether a method's probability distribution among the
-          possible outcomes is reasonably close to that required by
-          the Rules.
-
-[CFJ 790 contains a detailed discussion on what does and does not
- qualify as a random choice.]
-
-History:
-Created by Proposal 1079, ca. Oct. 11 1994
-Amended(1) by Proposal 1648, Aug. 6 1995
-Amended(2) by Proposal 2806, Feb. 8 1997, substantial (unattributed)
-Amended(3) by Proposal 4368 (Steve), 29 August 2002
-Amended(4) by Proposal 4693 (Maud), 18 April 2005
-
-----------------------------------------------------------------------
-
-Rule 1769/2 (Power=2)
-Holidays
-
-      A Holiday is a period of time, not to exceed 17 days in length,
-      designated as such by the Rules.  If one Holiday begins within
-      72 hours of the end of another Holiday, the two Holidays and the
-      time between them are taken as a single Holiday, unless this
-      would cause the combined Holiday to exceed 17 days in length, in
-      which case the first Holiday is extended to 17 days and the
-      second Holiday does not occur.
-
-      During a Holiday, no Proposal may be distributed by the
-      Promotor, nor may any Call for Judgement, Judgement, notice of
-      Appeal, Decision of Appeals Boards, or Opinion be published by
-      the Clerk of the Courts; however, if any of the above do take
-      place during the Holiday in violation of this Rule, this Rule
-      does not deprive them of their usual effects.
-
-      If some Rule requires that an action be done prior to a given
-      time, and that given time falls during a Holiday, or within the
-      72-hour period immediately following that Holiday, then that
-      action need not be done until 72 hours after that Holiday ends.
-
-      If some Rule bases the time of a future event upon the time of
-      another event, or requires that a Player perform some action
-      within some time of another event, and that other event occurs
-      during a Holiday, the time at which the Holiday ends shall be
-      used instead for the purpose of determining the time of the
-      future event or of the time by which the Player must perform the
-      specified action.
-
-      This Rule takes precedence over all Rules pertaining to the
-      timing of events, and over all Rules which require Players to
-      perform events before a specified time.
-
-History:
-Created by Proposal 3679 (General Chaos), Jan. 30 1998
-Amended(1) by Proposal 4036 (Oerjan), Aug. 7 2000
-Amended(2) by Proposal 01-003 (Steve), Feb. 2 2001
-
-----------------------------------------------------------------------
-
-Rule 1787/1 (Power=1)
-April Fool's Day
-
-      A break from all the stress and strife
-         and matters of much gravity,
-      is what this Nomic sorely needs:
-         a dithyramb to levity!
-
-      In order that, just once a year,
-         our hearts be light and gay,
-      Let April Fool's Day, every year
-         become a Holiday!
-
-      And should it one day be observed
-         by any wag who breaks a Rule,
-      the Speaker will one Boon award
-         to em who was the biggest Fool.
-
-History:
-Created by Proposal 3695 (Steve), Mar. 3 1998
-Amended(1) by Proposal 4677 (root), 18 April 2005
-
-----------------------------------------------------------------------
-
-Rule 1870/3 (Power=1)
-Merry Christmas, Agora, And A Happy New Year!
-
-      The period each year from midnight GMT on the morning of 24
-      December to the beginning of the first Agoran week to begin
-      after 2 January is a Holiday.
-
-      There exists a Boon known as Shiny New Toy, and an Albatross
-      known as Lump of Coal.  For the purposes of this rule, Players
-      with a Stain of at least one Blot are known as Naughty, and
-      Players with a Stain of less than one Blot are known as Nice.
-
-      As soon as possible after the conclusion of the Holiday
-      described above, the Herald shall award a Shiny New Toy to each
-      Nice Player, and a Lump of Coal to each Naughty player.
-
-History:
-Created by Proposal 3819 (Steve), Dec. 28 1998
-Amended(1) by Proposal 01-003 (Steve), Feb. 2 2001
-Amended(2) by Proposal 4398 (harvel), 23 October 2002
-Amended(3) by Proposal 4548 (Magu), 13 January 2004
-
-----------------------------------------------------------------------
-
-Rule 1750/1 (Power=1)
-Read the Ruleset Week
-
-      The first Agoran week each year which falls entirely in February
-      is Read the Ruleset Week.  Agorans are encouraged to read the
-      ruleset during Read the Ruleset Week.
-
-History:
-Created by Proposal 3601 (Chuck), Dec. 9 1997
-Amended(1) by Proposal 4398 (harvel), 23 October 2002
-
-----------------------------------------------------------------------
-
-
-======================================================================
-The Rules
-  This Category includes Rules about the Rules.  (See also
-  "Making Proposals" which includes some Rules concerning Rule
-  Changes, even in the absence of Proposals;  See also "The
-  Rulekeepor" which includes Rules regulating the Logical Rulesets
-  and Rule Titles.)
 ----------------------------------------------------------------------
 
 Rule 1482/1 (Power=3)
@@ -861,56 +289,124 @@ Amended(4) by Proposal 3445 (General Chaos), Mar. 26 1997, cosmetic
 
 ----------------------------------------------------------------------
 
-Rule 1513/4 (Power=1)
-Authority of Non-Rule Entities
+Rule 2110/0 (Power=3)
+Win by Paradox
 
-      The Rules may grant to certain entities the power to require
-      Players to perform (or refrain from performing) actions.  Such
-      Entities shall have whatever power is granted to them by the
-      Rules.  In the event that the requirements of such an Entity
-      conflicts with the Rules, the Rules shall always take
-      precedence.
-
-      If two or more such Entities conflict with one another, then the
-      relative precedence of the respective Rules which grant coercive
-      Power to the Entities in conflict shall determine which
-      requirements take precedence.  If two or more Entities
-      authorized by the same Rule conflict, then the Entity mentioned
-      first in that Rule takes precedence over the others.
-
-      No entity (including any body of text) may require a Player to
-      perform or refrain from performing any action unless that
-      Player has previously been provided with the information of
-      which actions may be required of or prohibited em by that
-      entity.
+      If the legality of an action cannot be determined with finality,
+      or if by a Judge's best reasoning, not appealed within a week of
+      eir Judgement, an action appears equally legal and illegal, then
+      the Speaker shall award the Patent Title of Champion to the
+      first Player to publicly note that condition.  The Herald shall
+      record that this Title was achieved "by paradox" in eir report.
 
 History:
-Created by Proposal 1704, Sep. 1 1995
-Amended(1) by Proposal 2805 (Andre), Feb. 8 1997, substantial
-Amended(2) by Proposal 3884 (harvel), Jul. 26 1999
-Amended(3) by Proposal 3999 (harvel), May 2 2000
-Amended(4) by Proposal 3999 (harvel), May 2 2000
+Created by Proposal 4781 (Sherlock), 3 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 2039/1 (Power=3)
-Ought implies can
+Rule 1727/14 (Power=1)
+Happy Birthday
 
-      No player may be required to do anything e is not empowered to
-      do, and the failure of a player to do something e was not
-      empowered to do shall never constitute the commission of a crime
-      or infraction.
+      WHEREAS, in June 1993, the world's only MUD-based nomic, Nomic
+      World, had recently collapsed; yet, many of its players enjoyed
+      nomic and did not wish to forego such a noble pursuit;
+
+      And WHEREAS, Originator Chuck Carroll therefore composed an
+      Initial Ruleset for an email nomic, based on the Initial
+      Rulesets of Peter Suber, inventor of Nomic, and on the Rulesets
+      of Nomic World and other nomics,
+
+      And WHEREAS, a nomic thus rose like a phoenix from the ashes of
+      Nomic World, played on the mailing list originally set up for
+      discussion of Nomic World, and coming into existence at June 30,
+      1993, 00:04:30 GMT +1200, with a message sent by FIRST SPEAKER
+      Michael Norrish, which read, in part,
+
+          "I see no reason to let this get bogged down; there are no
+          precedents or rules that cover this situation, so I think we
+          may as well begin directly.... Proposals for new rules are
+          invited. In accordance with the rules, these will be
+          published, numbered and distributed by me at my earliest
+          convenience."
+
+      And WHEREAS, this nomic began as a humble and nameless nomic,
+      known unofficially as yoyo, after the mailing list it was played
+      on, until its Players, much later, gave it its OFFICAL NAME of
+      Agora,
+
+      And WHEREAS, Agora has now become the wisest, noblest, eldest,
+      and most interesting of all active email nomics, due to the hard
+      work and diligence of Agorans as well as the frequent advice of
+      Agoraphobes,
+
+      And WHEREAS, Agorans desire to joyously commemorate Agora's
+      founding,
+
+      BE IT THEREFORE RESOLVED that Agora's Birthday is defined to be
+      the entire day of June 30, GMT +1200, of each year, and as soon
+      as possible after the end of Agora's Birthday, the Herald shall
+      award the boon of celebration to each Player who, during Agora's
+      Birthday, publicly recognizes this Grand Event.
 
 History:
-Created by Proposal 4440 (Steve), 3 February 2003
-Amended(1) by Proposal 4833 (Maud), 6 August 2005
+Created by Proposal 3513 (Chuck), Jun. 16 1997
+Amended(1) by Proposal 3530 (Chuck), Jun. 30 1997, substantial
+Amended(2) by Proposal 3533 (General Chaos), Jul. 15 1997, substantial
+Amended(3) by Proposal 3543 (Harlequin), Aug. 17 1997, substantial
+Amended(4) by Proposal 3897 (harvel), Aug. 27 1999
+Amended(5) by Proposal 3915 (harvel), Sep. 27 1999
+Amended(6) by Proposal 3940 (Blob), Nov. 15 1999
+Amended(7) by Proposal 4018 (Kelly), Jun. 21 2000
+Amended(8) by Proposal 4099 (Murphy), Jan. 15 2001
+Amended(9) by Proposal 4147 (Wes), 13 May 2001
+Amended(10) by Proposal 4159 (Kelly), 5 June 2001
+Amended(11) by Proposal 4367 (Steve), 23 August 2002
+Amended(12) by Proposal 4376 (Steve), 6 September 2002
+Amended(13) by Proposal 4486 (Michael), 24 April 2003
+Amended(14) by Proposal 4743 (Manu), 5 May 2005
 
 ----------------------------------------------------------------------
 
+Rule 104/0 (Power=3)
+First Speaker
+
+      The Speaker for the first game shall be Michael Norrish.
+
+[CFJ 1534: This does not mean that Michael Norrish necessarily fills
+ the position of Speaker at the present time.]
+
+History:
+Initial Immutable Rule 104, Jun. 30 1993
+Mutated from MI=Unanimity to MI=3 by Proposal 1482, Mar. 15 1995
+
+----------------------------------------------------------------------
 
 ======================================================================
-The Players
-  This Category includes Rules defining and classifying Players.
+Players and Entities
+  This is an eponymous category
+----------------------------------------------------------------------
+
+Rule 1586/2 (Power=2)
+Definition and Continuity of Entities
+
+      No two Rule-defined entities shall have the same name or
+      nickname.
+
+      If the Rules defining some entity are repealed or amended
+      such that they no longer define that entity, then that
+      entity along with all its properties shall cease to exist.
+
+      If the Rules defining an entity are amended such that they
+      still define that entity but with different properties,
+      that entity and its properties shall continue to exist to
+      whatever extent is possible under the new definitions.
+
+History:
+Created by Proposal 2481, Feb. 16 1996
+Amended(1) by Proposal 2795 (Andre), Jan. 30 1997, substantial
+Amended(2) by Proposal 3999 (harvel), May 2 2000
+Power changed from 1 to 2 by Proposal 3999 (harvel), May 2 2000
+
 ----------------------------------------------------------------------
 
 Rule 869/17 (Power=1)
@@ -957,198 +453,6 @@ Amended(17) by Proposal 4833 (Maud), 6 August 2005
 
 ----------------------------------------------------------------------
 
-Rule 1677/14 (Power=1)
-Honoring the New
-
-      Readiness is a stuck player switch with values unready and
-      ready.  A player may flip eir readiness to ready.
-
-      Whenever a player registers who has not been registered within
-      the previous year, e becomes unready and is subject to a Grace
-      Period beginning immediately and lasting for sixty days, not
-      including Holidays.  At the end of eir Grace Period, e becomes
-      ready.
-
-      As soon as possible after the beginning of a player's Grace
-      Period, the Registrar shall announce eir arrival.  This
-      announcement grants the player three free pending draws.
-
-
-History:
-Created by Proposal 2757 (Swann), Nov. 28 1996
-Amended(1) by Proposal 3463 (Harlequin), Apr. 17 1997, substantial
-Amended(2) by Propoal 3520 (Harlequin), Jun. 23 1997, substantial
-  (unattributed)
-Amended(3) by Proposal 3533 (General Chaos), Jul. 15 1997, substantial
-Amended(4) by Proposal 3741 (Murphy), May 8 1998
-Amended(5) by Proposal 3804 (General Chaos), Nov. 19 1998
-Amended(6) by Proposal 3897 (harvel), Aug. 27 1999
-Amended(7) by Proposal 3998 (harvel), Apr. 25 2000
-Amended(8) by Proposal 4050 (t), Aug. 15 2000
-Amended(9) by Proposal 4155 (harvel), 18 May 2001
-Amended(10) by Proposal 4344 (Goethe), 11 July 2002
-Amended(11) by Proposal 4486 (Michael), 24 April 2003
-Amended(12) by Proposal 4520 (Goethe), 30 July 2003
-Amended(13) by Proposal 4802 (Maud), 15 June 2005
-Amended(14) by Proposal 4840 (Goethe), 27 October 2005
-
-----------------------------------------------------------------------
-
-Rule 1976/5 (Power=1)
-Honoring the Old
-
-      In the four weeks immediately after eir Grace Period ends, a
-      Player (hereafter, the 'Protege') may post a single message of
-      Gratitude, naming up to four other Players (hereafter,
-      'Mentors') e deems to have been helpful to em as a new Player.
-
-      The effect of such a message is to award each Mentor the Boon of
-      mentorship and award the Protege the Boon of politeness.
-
-History:
-Created by Proposal 4143 (Blob), Apr. 22 2001
-Amended(1) by Proposal 4172 (root), 26 June 2001
-Amended(2) by Proposal 4211 (harvel), 10 September 2001
-Amended(3) by Proposal 4316 (Craig), 28 May 2002
-Amended(4) by Proposal 4468 (Sherlock), 17 March 2003
-Amended(5) by Proposal 4486 (Michael), 24 April 2003
-
-----------------------------------------------------------------------
-
-Rule 103/1 (Power=3)
-The Speaker May Not Deregister
-
-      At any time, there is exactly one Player who is the Speaker. The
-      Speaker may not deregister or be deregistered for any reason,
-      any other Rule to the contrary notwithstanding.
-
-History:
-Initial Immutable Rule 103, Jun. 30 1993
-Mutated from MI=Unanimity to MI=3 by Proposal 1481, Mar. 15 1995
-Amended(1) by Proposal 3829 (Steve), Feb. 8 1999
-
-----------------------------------------------------------------------
-
-Rule 104/0 (Power=3)
-First Speaker
-
-      The Speaker for the first game shall be Michael Norrish.
-
-[CFJ 1534: This does not mean that Michael Norrish necessarily fills
- the position of Speaker at the present time.]
-
-History:
-Initial Immutable Rule 104, Jun. 30 1993
-Mutated from MI=Unanimity to MI=3 by Proposal 1482, Mar. 15 1995
-
-----------------------------------------------------------------------
-
-Rule 1016/18 (Power=2)
-Activity Levels
-
-      Activity is a stuck player switch with values active and
-      inactive.
-
-      "Off hold" and "on hold" are unambiguous synonyms for "active"
-      and "inactive", respectively.
-
-      A player may flip eir activity, unless e has done so within the
-      past week.
-
-      A player may, with Support and without 2 Objections, flip the
-      activity of another player to inactive, if that other player has
-      not made a public post in the last 30 days.  A player made
-      inactive by this method becomes active immediately upon eir next
-      public post.
-
-      Inactive players may not vote, make proposals, hold office, or
-      be a judge of a CFJ.  An inactive player may not be required by
-      the rules to perform any duty or action, unless the rules
-      explicitly state that they can require inactive players to
-      perform that duty or action.
-
-      This rule takes precedence over all other rules that regulate
-      activity, or the powers or duties that a player may have because
-      of eir activity.
-
-[CFJ 718: Because of Rule 1011, a Player may not be placed On Hold
- except as specified in the Rules.]
-
-History:
-Created by Proposal 366 (KoJen), Aug. 10 1993
-Amended by Proposal 464 (Wes), Sep. 20 1993
-Amended by Proposal 870, ca. Apr. 7 1994
-Amended by Rule 750, ca. Apr. 7 1994
-Amended by Proposal 1016, Sep. 4 1994
-Amended by Rule 750, Sep. 4 1994
-Amended(1) by Proposal 1337, Nov. 22 1994
-Amended(2) by Proposal 1374, Jan. 17 1995
-Mutated from MI=1 to MI=2 by Proposal 1407, Jan. 29 1995
-Amended(3) by Proposal 1618, Jul. 10 1995
-Amended(4) by Proposal 1700, Sep. 1 1995
-Amended(5) by Proposal 1735, Oct. 15 1995
-Amended(6) by Proposal 2042, Dec. 11 1995
-Amended(7) by Proposal 2464, Feb. 16 1996
-Amended(8) by Proposal 2479, Feb. 16 1996
-Amended(9) by Proposal 3475 (Murphy), May 11 1997, substantial
-Amended(10) by Proposal 3665 (General Chaos), Jan. 22 1998
-Amended(11) by Proposal 3740 (Repeal-O-Matic), May 8 1998
-Amended(12) by Proposal 4278 (harvel), 3 April 2002
-Amended(13) by Proposal 4385 (Steve), 17 September 2002
-Amended(14) by Proposal 4388 (OscarMeyr), 5 October 2002
-Amended(15) by Proposal 4400 (Pakaran), 23 October 2002
-Amended(16) by Proposal 4407 (Steve), 30 October 2002
-Amended(17) by Proposal 4527 (Murphy), 16 September 2003
-Amended(18) by Proposal 4820 (Goethe), 10 July 2005
-
-----------------------------------------------------------------------
-
-Rule 2036/3 (Power=1)
-The Silent Treatment
-
-      If a player (hereafter the Silent One) has been inactive
-      continuously for three months, then any player may publish a
-      Notice of Abandonment, identifying the silent one and alleging
-      that e has abandoned the game.
-
-      The publication of a Notice of Abandonment commences the Silent
-      Treatment for the silent one.  If at any time during the silent
-      treatment the silent one is not, or ceases to be, inactive, then
-      the treatment is terminated, and the Registrar is relieved of
-      all powers and responsibilities regarding it.
-
-      As soon as possible after the commencement of the silent
-      treatment, the Registrar shall publish in all designated Public
-      Fora, and send to each listed e-mail address of the silent one,
-      a Notice of Intent to Deregister, announcing the Registrar's
-      intent to deregister the silent one after one month has passed.
-
-      If the silent treatement has not terminated a month after the
-      publication of the Notice of Intent to Deregister, then the
-      Registrar shall, as soon as possible, publish in all designated
-      Public Fora, and send to each listed e-mail address of the
-      silent one, a Notice of Deregistration identifying the silent
-      one.  A Notice of Deregistration is valid if and only if it is
-      published by the Registrar, following the procedures described
-      in this Rule.
-
-      Upon publication of a valid Notice of Deregistration, the
-      following events occur in order:
-
-      (1) if the silent one is the Speaker, e ceases to be Speaker;
-
-      (2) the silent one is deregistered;
-
-      (3) the silent treatment for that player concludes.
-
-History:
-Created by Proposal 4407 (Steve), 30 October 2002
-Amended(1) by Proposal 4511 (Murphy), 10 July 2003
-Amended(2) by Proposal 4798 (Maud, Goethe), 6 June 2005
-Amended(3) by Proposal 4820 (Goethe), 10 July 2005
-
-----------------------------------------------------------------------
-
 Rule 1789/3 (Power=1)
 Cantus Cygneus
 
@@ -1176,6 +480,382 @@ Created by Proposal 3705 (Crito), Mar. 9 1998
 Amended(1) by Proposal 4099 (Murphy), Jan. 15 2001
 Amended(2) by Proposal 4147 (Wes), 13 May 2001
 Amended(3) by Proposal 4825 (Maud), 17 July 2005
+
+----------------------------------------------------------------------
+
+======================================================================
+Definitions
+  This Category includes definitions of terms which do not readily
+  fall into any other Category
+----------------------------------------------------------------------
+
+Rule 478/16 (Power=3)
+Fora
+
+      Freedom of speech being essential for the healthy functioning of
+      any non-Imperial nomic, it is hereby resolved that No Player
+      shall be prohibited from participating in the Fora.
+
+      A Forum's Publicity may be either null, Discussion, or Public
+      (default null).  A forum's publicity may not be changed except
+      as described in this rule.
+
+      The Herald may change the publicity of a forum without objection
+      as long as:
+
+      (a) e sends eir announcement of intent to that forum; and
+
+      (b) if the forum is to be made public, the announcement by which
+          the Herald makes that forum public is sent to all existing
+          public fora.
+
+      Each active player should ensure e can receive messages via each
+      public forum.
+
+      The Herald's report shall include a list of all public or
+      discussion fora and sufficient data regarding each to allow
+      players to receive messages via that medium.  The Herald need
+      not keep track of null fora.
+
+      A message is public if and only if it is sent via a public forum
+      or is sent to all players and contains a clear designation of
+      intent to be public.  A player "publishes" or "announces"
+      something by sending a public message.
+
+      A player performs an action "by announcement" by announcing that
+      e performs it.  A player performs an action "by private message"
+      to some player by sending an appropriate private message to the
+      specified player.  Any action performed by sending a message is
+      performed at the time date-stamped on that message.
+
+[CFJ 752: Something sent to a Player who is obligated to send it to
+ all Players is sufficient for sending something to the PF.
+ CFJ 813: A Player need not prove that e can receive the PF.
+ CFJ 831: The Date: header of a message is not necessarily the time
+ at which the message takes effect.
+ CFJ 1112, Judged TRUE Jan. 21 1999: "In order to submit a Proposal,
+ in the sense of R1865 and elsewhere, it is not sufficient that a
+ collection of text 'with the clear indication that that text is
+ intended to become a Proposal' (R1483) merely be sent to the Public
+ Forum by a Proposing Entity; the collection of text must also be
+ received in the Public Forum."]
+
+History:
+Created by Proposal 478 (Jim Shea), Sep. 20 1993
+Amended(1) by Proposal 1477, Mar. 8 1995
+Amended(2) by Proposal 1576, Apr. 28 1995
+Amended(3) by Proposal 1610, Jul. 10 1995
+Amended(4) by Proposal 1700, Sep. 1 1995
+Amended(5) by Proposal 2052, Dec. 19 1995
+Amended(6) by Proposal 2400, Jan. 20 1996
+Amended(7) by Proposal 2739 (Swann), Nov. 7 1996, substantial
+Amended(8) by Proposal 2791 (Andre), Jan. 30 1997, substantial
+Amended(9) by Proposal 3521 (Chuck), Jun. 23 1997, substantial
+Amended(10) by Proposal 3823 (oerjan), Jan. 21 1999
+Amended(11) by Proposal 4147 (Wes), 13 May 2001
+Amended(12) by Proposal 4248 (Murphy), 19 February 2002
+Amended(13) by Proposal 4456 (Maud), 22 February 2003
+Power changed from 1 to 3 by Proposal 4690 (root), 18 April 2005
+Amended(14) by Proposal 4690 (root), 18 April 2005
+Amended(15) by Proposal 4833 (Maud), 6 August 2005
+Amended(16) by Proposal 4866 (Goethe), 27 August 2006
+
+----------------------------------------------------------------------
+
+Rule 754/6 (Power=3)
+Definition Definitions
+
+      Regularity of communication being essential for the healthy
+      function of any nomic, it is hereby resolved:
+
+      (1) A difference in spelling, grammar, or dialect, or the use of
+          a synonym or abbreviation in place of a word or phrase, is
+          inconsequential in all forms of communication, as long as
+          the difference does not create an ambiguity in meaning.
+
+      (2) A term explicitly defined by the Rules shall be interpreted
+          as having that meaning, as shall its ordinary-language
+          synonyms not explicitly defined by the rules.
+
+      (3) Any term primarily used in mathematical or legal contexts,
+          and not addressed by previous provisions of this Rule, shall
+          be interpreted as having the meaning it has in those
+          contexts.
+
+      (4) Any term not addressed by previous provisions of this Rule
+          shall be interpreted as having its ordinary-language
+          meaning.
+
+      This rule takes precedence over any other rules which dictate
+      terminology or grammar.
+
+[CFJ 712: This includes referring to a Player by a method other than
+ eir name or nickname, as long as it is unambiguous.
+ CFJ 744: In the context of Rule Changes, text in an existing Rule
+ must be quoted exactly in order to be unambiguous.]
+
+History:
+Created by Proposal 435 (Alexx), Aug. 30 1993
+Amended by Proposal 754 (KoJen), Dec. 1 1993
+Amended by Rule 750, Dec. 1 1993
+Amended(1) by Proposal 2042, Dec. 11 1995
+Infected and Amended(2) by Rule 1454, Dec. 17 1995
+Amended(3) by Proposal 3452 (Steve), Apr. 7 1997, substantial
+Amended(4) by Proposal 3915 (harvel), Sep. 27 1999
+Power changed from 1 to 3 by Proposal 4507 (Murphy), 20 June 2003
+Amended(5) by Proposal 4507 (Murphy), 20 June 2003
+Amended(6) by Proposal 4866 (Goethe), 27 August 2006
+
+----------------------------------------------------------------------
+
+Rule 1023/17 (Power=2)
+Common Definitions
+
+      The following terms are defined:
+
+      - Agoran days begin at midnight GMT.  Agoran weeks begin at
+        midnight GMT on Monday.  Agoran months begin at midnight GMT
+        on the first day of each Gregorian month.  Agoran quarters
+        begin when the Agoran months of January, April, July, and
+        October begin.  Agoran years begin when the Agoran month of
+        January begins.
+
+      - A requirement to perform an action "as soon as possible" is a
+        requirement to perform the action within seven days.
+
+      - The term "number" shall be interpreted as "real number".
+
+      - The term "random" shall mean a choice drawn with a process
+        whose probability distribution among the possible outcomes is
+        reasonably close to that required by the Rules, using a
+        uniform distribution if not otherwise specified.
+
+[CFJ 1075: Rule 1023 should be interpreted such that no Rule with
+ lower precedence than it can succeed in prohibiting activity of a
+ purely discussionary nature.]
+
+History:
+Created by Proposal 805, ca. Jan. or Feb. 1994
+Amended by Proposal 907, ca. Apr. or May 1994
+Amended by Rule 750, ca. Apr. or May 1994
+Amended by Proposal 1023, Sep. 5 1994
+Amended by Rule 750, Sep. 5 1994
+Amended(1) by Proposal 1413, Feb. 1 1995
+Amended(2) by Proposal 1434, Feb. 14 1995
+Amended(3) by Proposal 1682, Aug. 22 1995
+Amended(4) by Proposal 1727, Oct. 6 1995
+Amended(5) by Proposal 2042, Dec. 11 1995
+Amended(6) by Proposal 2489, Feb. 16 1996
+Amended(7) by Proposal 2567, Apr. 12 1996
+Mutated from MI=1 to MI=2 by Proposal 2602, May 26 1996
+Amended(8) by Proposal 2629, Jul. 4 1996
+Amended(9) by Proposal 2770 (Steve), Dec. 19 1996
+Amended(10) by Proposal 3823 (Oerjan), Jan. 21 1999
+Amended(11) by Proposal 3823 (Oerjan), Jan. 21 1999
+Amended(12) by Proposal 3897 (harvel), Aug. 27 1999
+Amended(13) by Proposal 3950 (harvel), Dec. 8 1999
+Amended(14) by Proposal 4004 (Steve), May 8 2000
+Amended(15) by Proposal 4278 (harvel), 3 April 2002
+Amended(16) by Proposal 4406 (Murphy), 30 October 2002
+Amended(17) by Proposal 4866 (Goethe), 27 August 2006
+
+----------------------------------------------------------------------
+
+Rule 1728/11 (Power=2)
+Dependent Actions
+
+      An action is dependent, or may be performed dependently, if and
+      only if it is an Action Without N Objections or an Action With N
+      Supporters, where N is a nonnegative integer.  The phrase
+      "Without Objection" is synonymous with "Without 1 Objection",
+      and the phrase "With Support" is synonymous with "With 1
+      Supporter".
+
+      A player may publicly announce eir intent to perform an
+      unambiguously described dependent action.  A player may perform
+      a previously unambiguously described dependent action if and
+      only if:
+
+      (a)  no more than fourteen days have passed since the
+           announcement of intent to perform the action;
+
+      (b)  if the action to be performed is an Action Without N
+           Objections, at least four days have passed since the
+           announcement made under (a) of this rule;
+
+      (c)  either the player who attempts to perform the action is the
+           player who made the announcement under (a) of this rule, or
+
+           (1)  the player who made the announcement under (a) of this
+                rule did so by a privilege or duty granted em by
+                virtue of holding a rules-defined position; and
+
+           (2)  the player who attempts to perform the action is the
+                holder of that position when e attempts to perform the
+                action;
+
+      (d)  the rules explicitly authorise the player to perform the
+           action dependently;
+
+      (e)  during the time between the announcement made under (a) of
+           this rule and the attempt to perform the action,
+
+           (1)  if the action is to be performed Without N Objections,
+                fewer than N players have publicly posted objections
+                to the performance of the action; or
+
+           (2)  if the action is to be performed With N Supporters, at
+                least N players other than the player who made the
+                announcement under (a) of this rule have publicly
+                posted support for the performance of the action;
+
+      (f)  the announcement made under (a) of this rule specifies
+           whether the action is to be performed Without N Objections
+           or With N Supporters, unless the rules either do not permit
+           the action to be performed Without N Objections or do not
+           permit the action to be performed With N Supporters; and
+
+      (g)  e announces that e performs the described action.
+
+      A dependent action is not performed until announced as in (g).
+
+      A player who posts an objection to the performance of an action
+      may publicly retract eir objection.  If e does so, e shall be
+      deemed not have posted an objection to the performance of that
+      action for the purposes of (e)(1) of this rule.
+
+      The specification in the rules that an action may be performed
+      dependently does not prohibit performing that action
+      independently if doing so would otherwise be permissible.
+
+      A rule authorising the performance of a dependent action may
+      restrict the eligibility of players to support or object to that
+      specific action.
+
+History:
+Created by Proposal 3521 (Chuck), Jun. 23 1997
+Infected and Amended(1) by Rule 1454, Nov. 2 1997, substantial
+  (unattributed)
+Amended(2) by Rule 1728, Nov. 16 1997, substantial
+Amended(3) by Proposal 3812 (Steve), Dec. 21 1998
+Amended(4) by Proposal 3836 (General Chaos), Mar. 2 1999
+Amended(5) by Proposal 3950 (harvel), Dec. 8 1999
+Amended(6) by Proposal 3973 (harvel), Feb. 14 2000
+Amended(7) by Proposal 3991 (Steve), Mar. 30 2000
+Amended(8) by Proposal 4011 (Wes), Jun. 1 2000
+Power changed from 1 to 2 by Proposal 4121 (Ziggy), Mar. 16 2001
+Amended(9) by Proposal 4121 (Ziggy), Mar. 16 2001
+Amended(10) by Proposal 4279 (harvel), 3 April 2002
+Amended(11) by Proposal 4461 (Maud), 17 March 2003
+
+----------------------------------------------------------------------
+
+Rule 2124/0 (Power=1)
+Agoran Consent
+
+      If the Rules specify that an entity may perform an action with
+      Agoran Consent, then the entity may perform the action by
+      announcement if all of the following are true:
+
+      (a) e has published eir intent to perform the action,
+          unambiguously describing the action to be performed, at
+          least four days and no more than fourteen days before
+          attempting to perform the action;
+
+      (b) at least one other player has announced (and not withdrawn)
+          support for the intended action since intent was published;
+          and
+
+      (c) more players have announced (and not withdrawn) support than
+          have announced (and not withdrawn) objections to the action
+          since the intent was published.
+
+History:
+Created by Proposal 4853 (Goethe), 18 March 2006
+Amended(1) by Proposal 4866 (Goethe), 27 August 2006
+
+----------------------------------------------------------------------
+
+Rule 1769/3 (Power=2)
+Holidays
+
+      A Holiday is a period of time designated as such by the Rules.
+
+      During a Holiday, no Proposal may be distributed by the
+      Promotor, nor may any Call for Judgement, Judgement, notice of
+      Appeal, Decision of Appeals Boards, or Opinion be published by
+      the Clerk of the Courts; however, if any of the above do take
+      place during the Holiday in violation of this Rule, this Rule
+      does not deprive them of their usual effects.
+
+      If some Rule requires that an action be done prior to a given
+      time, and that given time falls during a Holiday, or within the
+      72-hour period immediately following that Holiday, then that
+      action need not be done until 72 hours after that Holiday ends.
+
+      If some Rule bases the time of a future event upon the time of
+      another event, or requires that a Player perform some action
+      within some time of another event, and that other event occurs
+      during a Holiday, the time at which the Holiday ends shall be
+      used instead for the purpose of determining the time of the
+      future event or of the time by which the Player must perform the
+      specified action.
+
+      This Rule takes precedence over all Rules pertaining to the
+      timing of events, and over all Rules which require Players to
+      perform events before a specified time.
+
+      The period each year from midnight GMT on the morning of 24
+      December to the beginning of the first Agoran week to begin
+      after 2 January is a Holiday.
+
+History:
+Created by Proposal 3679 (General Chaos), Jan. 30 1998
+Amended(1) by Proposal 4036 (Oerjan), Aug. 7 2000
+Amended(2) by Proposal 01-003 (Steve), Feb. 2 2001
+Amended(3) by Proposal 4866 (Goethe), 27 August 2006
+
+----------------------------------------------------------------------
+
+Rule 1750/1 (Power=1)
+Read the Ruleset Week
+
+      The first Agoran week each year which falls entirely in February
+      is Read the Ruleset Week.  Agorans are encouraged to read the
+      ruleset during Read the Ruleset Week.
+
+History:
+Created by Proposal 3601 (Chuck), Dec. 9 1997
+Amended(1) by Proposal 4398 (harvel), 23 October 2002
+
+----------------------------------------------------------------------
+
+
+======================================================================
+The Rules
+  This Category includes Rules about the Rules.  (See also
+  "Making Proposals" which includes some Rules concerning Rule
+  Changes, even in the absence of Proposals;  See also "The
+  Rulekeepor" which includes Rules regulating the Logical Rulesets
+  and Rule Titles.)
+----------------------------------------------------------------------
+
+======================================================================
+The Players
+  This Category includes Rules defining and classifying Players.
+----------------------------------------------------------------------
+
+Rule 103/1 (Power=3)
+The Speaker May Not Deregister
+
+      At any time, there is exactly one Player who is the Speaker. The
+      Speaker may not deregister or be deregistered for any reason,
+      any other Rule to the contrary notwithstanding.
+
+History:
+Initial Immutable Rule 103, Jun. 30 1993
+Mutated from MI=Unanimity to MI=3 by Proposal 1481, Mar. 15 1995
+Amended(1) by Proposal 3829 (Steve), Feb. 8 1999
 
 ----------------------------------------------------------------------
 
@@ -1734,108 +1414,6 @@ Amended(1) by Proposal 2831 (Murphy), Mar. 7 1997, cosmetic
   (unattributed)
 Amended(2) by Proposal 3897 (harvel), Aug. 27 1999
 Amended(3) by Proposal 4406 (Murphy), 30 October 2002
-
-----------------------------------------------------------------------
-
-Rule 1728/11 (Power=2)
-Dependent Actions
-
-      An action is dependent, or may be performed dependently, if and
-      only if it is an Action Without N Objections or an Action With N
-      Supporters, where N is a nonnegative integer.  The phrase
-      "Without Objection" is synonymous with "Without 1 Objection",
-      and the phrase "With Support" is synonymous with "With 1
-      Supporter".
-
-      A player may publicly announce eir intent to perform an
-      unambiguously described dependent action.  A player may perform
-      a previously unambiguously described dependent action if and
-      only if:
-
-      (a)  no more than fourteen days have passed since the
-           announcement of intent to perform the action;
-
-      (b)  if the action to be performed is an Action Without N
-           Objections, at least four days have passed since the
-           announcement made under (a) of this rule;
-
-      (c)  either the player who attempts to perform the action is the
-           player who made the announcement under (a) of this rule, or
-
-           (1)  the player who made the announcement under (a) of this
-                rule did so by a privilege or duty granted em by
-                virtue of holding a rules-defined position; and
-
-           (2)  the player who attempts to perform the action is the
-                holder of that position when e attempts to perform the
-                action;
-
-      (d)  the rules explicitly authorise the player to perform the
-           action dependently;
-
-      (e)  during the time between the announcement made under (a) of
-           this rule and the attempt to perform the action,
-
-           (1)  if the action is to be performed Without N Objections,
-                fewer than N players have publicly posted objections
-                to the performance of the action; or
-
-           (2)  if the action is to be performed With N Supporters, at
-                least N players other than the player who made the
-                announcement under (a) of this rule have publicly
-                posted support for the performance of the action;
-
-      (f)  the announcement made under (a) of this rule specifies
-           whether the action is to be performed Without N Objections
-           or With N Supporters, unless the rules either do not permit
-           the action to be performed Without N Objections or do not
-           permit the action to be performed With N Supporters; and
-
-      (g)  e announces that e performs the described action.
-
-      A dependent action is not performed until announced as in (g).
-
-      A player who posts an objection to the performance of an action
-      may publicly retract eir objection.  If e does so, e shall be
-      deemed not have posted an objection to the performance of that
-      action for the purposes of (e)(1) of this rule.
-
-      The specification in the rules that an action may be performed
-      dependently does not prohibit performing that action
-      independently if doing so would otherwise be permissible.
-
-      A rule authorising the performance of a dependent action may
-      restrict the eligibility of players to support or object to that
-      specific action.
-
-History:
-Created by Proposal 3521 (Chuck), Jun. 23 1997
-Infected and Amended(1) by Rule 1454, Nov. 2 1997, substantial
-  (unattributed)
-Amended(2) by Rule 1728, Nov. 16 1997, substantial
-Amended(3) by Proposal 3812 (Steve), Dec. 21 1998
-Amended(4) by Proposal 3836 (General Chaos), Mar. 2 1999
-Amended(5) by Proposal 3950 (harvel), Dec. 8 1999
-Amended(6) by Proposal 3973 (harvel), Feb. 14 2000
-Amended(7) by Proposal 3991 (Steve), Mar. 30 2000
-Amended(8) by Proposal 4011 (Wes), Jun. 1 2000
-Power changed from 1 to 2 by Proposal 4121 (Ziggy), Mar. 16 2001
-Amended(9) by Proposal 4121 (Ziggy), Mar. 16 2001
-Amended(10) by Proposal 4279 (harvel), 3 April 2002
-Amended(11) by Proposal 4461 (Maud), 17 March 2003
-
-----------------------------------------------------------------------
-
-Rule 2124/0 (Power=1)
-Agoran Consent
-
-      If the Rules specify that an entity may perform an action with
-      Agoran Consent, then the entity may perform the action with M
-      supporters and without N objections, as long as M is greater
-      than N.
-
-History:
-Created by Proposal 4853 (Goethe), 18 March 2006
 
 ----------------------------------------------------------------------
 
@@ -5340,556 +4918,9 @@ Kudos
   This Category includes Rules regulating the Kudos system.
 ----------------------------------------------------------------------
 
-Rule 1661/11 (Power=1)
-The Right of Patronage
-
-      A Speaker has the Right of Patronage.  This Right is the
-      authority to, once a week, award the Boon Gold Star to a single
-      Player who has not received this award within the preceding four
-      weeks.  The Speaker must provide a reason along with the Notice
-      of Award.
-
-      Such awards are only permitted to recognize acts the Speaker
-      believes to be of benefit to the Agora community, acts that the
-      Speaker believes to exceed the call of duty, or acts that the
-      Speaker believes to be of extreme sacrifice for the good of the
-      Game.
-
-History:
-Created by Proposal 2708, Oct. 12 1996
-Amended(1) by Proposal 3463 (Harlequin), Apr. 17 1997, substantial
-Amended(2) by Proposal 3533 (General Chaos), Jul. 15 1997, substantial
-Amended(3) by Proposal 3644 (General Chaos), Dec. 29 1997
-Amended(4) by Proposal 3660 (General Chaos), Jan. 17 1998
-Amended(5) by Proposal 3823 (Oerjan), Jan. 21 1999
-Amended(6) by Proposal 3897 (harvel), Aug. 27 1999
-Amended(7) by Proposal 4018 (Kelly), Jun. 21 2000
-Amended(8) by Proposal 4033 (Chuck), Aug. 2 2000
-Amended(9) by Proposal 4151 (Kelly), 13 May 2001
-Amended(10) by Proposal 4486 (Michael), 24 April 2003
-Amended(11) by Proposal 4836 (Goethe, Maud), 2 October 2005
-
-----------------------------------------------------------------------
-
 ======================================================================
 Cards
   This Category includes Rules regulating Cards.
-----------------------------------------------------------------------
-
-Rule 2068/6 (Power=1)
-The Deckmastor
-
-      The Deckmastor is an office; its holder is responsible for fair
-      play, shuffling, and dealing, and is the recordkeepor for cards
-      and chips.
-
-      The Deckmastor's weekly report shall contain a record of all
-      cards and chips in existence, recent card and chip actions, and
-      what entity holds each card and chip.  The Deckmastor need not
-      record or report transfers of cards to the table.
-
-History:
-Created by Proposal 4573 (Wes), 14 May 2004
-Amended(1) by Proposal 4614 (Goethe), 21 September 2004
-Amended(2) by Proposal 4694 (Goethe), 18 April 2005
-Amended(3) by Proposal 4734 (Sherlock), 5 May 2005
-Amended(4) by Proposal 4805 (Goethe, Manu), 20 June 2005
-Amended(5) by Proposal 4834 (Maud), 6 August 2005
-Amended(6) by Proposal 4851 (Murphy), 18 March 2006
-
-----------------------------------------------------------------------
-
-Rule 2112/0 (Power=1)
-Deckmastor's Budget
-
-      The Deckmastor shall have a budget containing values for each of
-      the following:
-
-      (a) the Maximum Hand Size and the Minimum Hand Size, each of
-          which is a positive integer between 2 and 10, with the
-          Minimum being less than the Maximum. In the absence of a
-          budget, the Maximum Hand Size shall be 5 and the Minimum
-          Hand Size shall be 2.
-
-      (b) the Maximum Deck Size, which shall be no less than the
-          number of players in the game times the maximum hand size.
-
-      (c) the Maximum Deck Diversity, which shall be no less than
-          twice the number of players in the game.
-
-      If the Budget does not specify values for (a-c) above, or
-      specifies a value violating these limits, the value shall be the
-      smallest value that does not violate these limits.
-
-      The Deckmastor's Budget shall also contain a Quota, which is a
-      non-negative integer, for each defined class of Card.  If the
-      quota for a particular class of card is not specified in the
-      Budget, that card shall have a quota of 0.
-
-History:
-Created by Proposal 4805 (Goethe, Manu), 20 June 2005
-
-----------------------------------------------------------------------
-
-Rule 2113/0 (Power=1)
-Card Constraints
-
-      The following maxima exist for card frequencies:
-          (a) For a card with a unique frequency, one.
-          (b) For card with a rare frequency, the number of active
-              players.
-
-      If the current quota for a card class exceeds the maximum for
-      its defined frequency, then any Player may, with 2 support,
-      amend the Deckmastor's budget to set the card's quota to its
-      maximum.  When a card's frequency is defined or changed, and the
-      mechanism changing it does not specify a new quota, its quota is
-      set to the maximum for that frequency.
-
-      If at any time the sum of all quotas for all cards is greater
-      than the Maximum Deck Size, the Deckmastor may, with 2 support,
-      amend the budget by reducing quotas so that the resulting sum is
-      equal to this maximum.
-
-      If at any time the number of card classes with positive quotas
-      is greater than the Maximum Deck Diversity, the Deckmastor may,
-      with 2 support, amend the budget by setting quotas to 0 so that
-      the resulting number of card classes with positive quotas is
-      equal to this maximum.
-
-History:
-Created by Proposal 4805 (Goethe, Manu), 20 June 2005
-
-----------------------------------------------------------------------
-
-Rule 2114/2 (Power=1)
-Card Definitions
-
-      A document is a cardbook if so designated by the rules.  The
-      Deckmastor is the recordkeepor of cardbooks; eir monthly report
-      shall include each cardbook.  As soon as possible after a
-      cardbook changes, the Deckmastor shall publish that cardbook.  A
-      cardbook may only be changed as explicitly permitted by the
-      rules.
-
-      The Deckmastor may change non-substantial properties of any
-      cardbook, specifically layout, whitespace, and the order of
-      definitions, as e sees fit.
-
-      A cardbook can define a class of cards by specifying its
-      Caption, Frequency, zero or one Exploits, and optionally its
-      Elements, and can define an Element or Scoring Instruction by
-      specifying its name and description.  Neither classes of cards
-      Elements, nor Scoring Instructions may be otherwise defined.
-
-      (a) The Caption is a string of text, unique to a particular
-          class of cards.
-
-      (b) The Frequency of a card is exactly one of the values Unique,
-          Rare, or Common, defaulting to Unique if unspecified or
-          incorrectly specified.
-
-      (c) A card with a particular Element behaves according to the
-          description of that Element.
-
-      (d) An Exploit of a card may contain one or more Indications,
-          Impositions, and Feats.
-
-          (1) An Indication is a requirement for the gambler playing
-              the card to select some entity or value.
-
-          (2) An Imposition is a requirement the gambler may impose
-              upon another gambler by playing the card.
-
-          (3) A Feat is an action the gambler may perform by playing
-              the card.
-
-          (4) A Fuse is an Imposition or Feat that is not imposed or
-              performed immediately, but rather when a stated
-              condition occurs.
-
-      A reference to "you" or "your" in any text on a card refers to
-      the gambler holding the card unless it is on the table, and then
-      refers to the gambler who played the card.
-
-      The cards of a given class are fungible.  Each individual
-      instance of a card shall be considered to be a copy of that
-      class of card.
-
-      If there are conflicts between a card or element definition in a
-      cardbook and the rules, then the conflict shall be resolved as
-      if the definition were contained in the text of the rule that
-      defines the particular cardbook.  This rule takes precedence
-      over any rule that would require a different method of resolving
-      such conflicts.
-
-      This rule takes precedence over any rule describing the
-      definition or interpretation of card classes and card elements.
-
-History:
-Created by Proposal 4805 (Goethe, Manu), 20 June 2005
-Amended(1) by Proposal 4834 (Maud), 6 August 2005
-Amended(2) by Proposal 4838 (Goethe), 2 October 2005
-
-----------------------------------------------------------------------
-
-Rule 2115/0 (Power=2)
-Cards of Power
-
-      There is a cardbook called the Twopower Cardbook, which may only
-      be changed by a Proposal with a power of 2 or greater.
-
-      If the definitions contained within the Twopower Cardbook would
-      set, under certain conditions, the power of a copy of a card
-      defined in it, then this Rule is considered to be the entity
-      that sets the power of that card copy.
-
-History:
-Created by Proposal 4805 (Goethe, Manu), 20 June 2005
-
-----------------------------------------------------------------------
-
-Rule 2116/0 (Power=1)
-Onepower Cardbook
-
-      There is a cardbook called the Onepower Cardbook, which may only
-      be changed by Proposal.
-
-History:
-Created by Proposal 4805 (Goethe, Manu), 20 June 2005
-
-----------------------------------------------------------------------
-
-Rule 2069/12 (Power=1)
-Card Actions
-
-      (a) A nonperson entity is a site if so designated by the rules
-          or a cardbook.  A site may have one or more Elements.
-
-      (b) A gambler is a player or a site.  All gamblers may hold
-          cards.  If a card is held by a nongambler, the Deckmastor
-          shall transfer that card to the Deck as soon as possible.
-
-          A gambler's hand is the collection of cards held by that
-          gambler.  A gambler's hand size is the size of this
-          collection.
-
-      (c) When a card must be created or destroyed, the Deckmastor
-          shall be empowered to create or destroy that card, as
-          appropriate, and must do so as soon as possible.  The
-          Deckmastor creates or destroys a card by announcement,
-          specifying as appropriate its holder or its former holder.
-          Cards can be neither created nor destroyed otherwise.
-
-          Whenever the quota for a class of cards exceeds the number
-          of existing copies of that card, a copy of that card must be
-          created.  The copy must be created in the deck's hand unless
-          otherwise specified.
-
-          Whenever the number of existing copies of a card exceeds the
-          quota for its class, if the deck holds a copy of that card,
-          a copy held by the deck must be destroyed, and if the deck
-          does not, then a random copy of the card must be destroyed.
-
-      (d) If a card would be transferred to the deck or the table, and
-          the transfer is not performed automatically, as part of the
-          Deckmastor's duties, or as the result of a card play, it is
-          discarded instead.
-
-          When a card or chip is otherwise transferred from one
-          gambler to another, the former gambler shall cease to hold
-          it and the latter gambler shall simultaneously come to hold
-          it.
-
-          Discarding a card is synonymous with transferring it to the
-          discard pile.  Dealing a card to a gambler is synonymous
-          with selecting a random card from the deck and transferring
-          it from the deck to that gambler.
-
-          A gambler may transfer a card e holds to another gambler by
-          announcement, specifying the card to transfer and, if not
-          discarding it, the gambler to receive the card.
-
-          If the Deckmastor errs, in good faith, in selecting a
-          particular card to deal, and that error does not greatly
-          change the probability of selecting that card, that deal
-          shall be allowed to stand.
-
-          As soon as possible after a player correctly announces that
-          there are no cards in the deck, then the Deckmastor shall
-          reshuffle the deck.  Whenever the deck is reshuffled, all
-          cards in the discard pile are automatically transferred to
-          the deck.
-
-History:
-Created by Proposal 4573 (Wes), 14 May 2004
-Amended(1) by Proposal 4625 (Goethe), 20 November 2004
-Amended(2) by Proposal 4633 (Goethe), 9 January 2005
-Amended(3) by Proposal 4674 (OscarMeyr), 13 April 2005
-Amended(4) by Proposal 4694 (Goethe), 18 April 2005
-Amended(5) by Proposal 4733 (root), 5 May 2005
-Amended(6) by Proposal 4739 (root), 5 May 2005
-Amended(7) by Proposal 4825 (Maud), 17 July 2005
-Amended(8) by Proposal 4834 (Maud), 6 August 2005
-Amended(9) by Proposal 4837 (Goethe), 2 October 2005
-Amended(10) by Proposal 4846 (Goethe), 1 January 2006
-Amended(11) by Proposal 4851 (Murphy), 18 March 2006
-Amended(12) by Proposal 4859 (root), 22 May 2006
-
-----------------------------------------------------------------------
-
-Rule 2106/1 (Power=1)
-Playing Cards
-
-      A gambler plays a card with an Exploit by announcement,
-      specifying the card to be played, indicating any entities or
-      values mentioned in an Indication of the card's Exploit, and
-      noting any fees required to play the card.  A card without an
-      Exploit cannot be played.
-
-      When a gambler plays a card, the following events automatically
-      occur in order:
-
-      (a) The card is transferred to the table.
-
-      (b) One at a time in the order listed on the card, the gambler
-          places any Impositions listed in the Exploit on the
-          appropriate gamblers and performs each Feat listed in the
-          Exploit.
-
-      (c) If the card is still on the table, it is discarded.
-
-      If the card has any Fuses, then the first time the stated
-      condition for a Fuse occurs, the gambler places the Imposition
-      or performs the Feat associated with that Fuse as appropriate.
-
-      The Elements or Exploit of a card may modify any of the above
-      events.
-
-History:
-Created by Proposal 4738 (Manu), 5 May 2005
-Amended(1) by Proposal 4834 (Maud), 6 August 2005
-
-----------------------------------------------------------------------
-
-Rule 2074/1 (Power=2)
-Hand Flux
-
-      Flux is a stuck switch for Gamblers with states Free and Frozen.
-      Rules to the contrary notwithstanding, a Gambler with frozen
-      flux may not play, discard, or transfer cards from eir hand, nor
-      may the Deckmastor satisfy pending draws for that hand. However,
-      the Deckmastor may by public announcement discard cards from any
-      Frozen Gambler as required by the Rules.
-
-      The Deck's flux shall always be free, rules to the contrary
-      notwithstanding.
-
-History:
-Created by Proposal 4614 (Goethe), 21 September 2004
-Amended(1) by Proposal 4660 (root), 29 March 2005
-
-----------------------------------------------------------------------
-
-Rule 2075/9 (Power=1)
-Winning Hands
-
-      The Scoring Instructions contained in cardbooks, interpreted
-      collectively, may define a nonsite gambler as holding a winning
-      hand.  Any Player may allege that a nonsite gambler holds a
-      winning hand.  The allegation is considered true if any nonsite
-      gambler holds a winning hand at the time of the allegation.
-
-      If the allegation is true, the following events occur in order,
-      immediately upon the allegation being made:
-
-        (i) All nonsite gamblers holding winning hands are deemed to
-            win the game simultaneously, and are awarded the defined
-            regular Patent Title Champion, five white chips, and a
-            blue chip (non-transferrable) marked with the number of
-            red and white chips in the Pot.
-
-       (ii) The pot is emptied.
-
-      (iii) All Scoring Instructions in the Blueprints Cardbook are
-            repealed.
-
-       (iv) All Players' hands become subject to a Hand Reduction to
-            the Minimum Hand Size.
-
-      If the allegation is false, the Deckmastor shall, as soon as
-      possible, discard 1 card at random from the hand of the Gambler
-      who made the allegation.
-
-      If no true allegation of a winning hand or a Skunk has been made
-      in the last six months, then any Gambler may allege a Skunk,
-      which, if true, triggers the effects of (iii) and (iv) above.
-
-History:
-Created by Proposal 4614 (Goethe), 21 September 2004
-Amended(1) by Proposal 4626 (Goethe), 20 November 2004
-Amended(2) by Proposal 4644 (root), 12 March 2005
-Amended(3) by Proposal 4740 (Quazie), 5 May 2005
-Amended(4) by Proposal 4764 (root), 25 May 2005
-Amended(5) by Proposal 4837 (Goethe), 2 October 2005
-Amended(6) by Proposal 4838 (Goethe), 2 October 2005
-Amended(7) by Proposal 4846 (Goethe), 1 January 2006
-Amended(8) by Proposal 4851 (Murphy), 18 March 2006
-Amended(9) by Proposal 4856 (Goethe), 22 May 2006
-
-----------------------------------------------------------------------
-
-Rule 2083/3 (Power=1)
-Hand Reductions
-
-      The Rules may declare that a nonsite Gambler's hand is subject
-      to a Hand Reduction.  A particular hand reduction must have a
-      maximum hand size associated with it; if none is defined, the
-      Maximum Hand Size in the Deckmastor's budget is used.
-
-      As soon as possible after a requirement for a reduction arises,
-      the Deckmastor shall:
-
-        (i) Announce the pending hand reduction;
-
-       (ii) Wait at least four days after the announcement;
-
-      (iii) Discard cards at random from that Gambler's hand until eir
-            hand size is equal to or less than maximum associated with
-            the reduction.
-
-       (iv) If a gambler loses no cards during a reduction, and has
-            neither played nor transferred a card since the last
-            reduction, the Deckmastor shall discard one card at random
-            from the gambler's hand (if it has any cards).
-
-      If a dispute on the gambler's hand size or pending draws is
-      raised and not resolved prior to (iii), above, the Deckmastor
-      shall not perform (iii) for that hand until the dispute is
-      resolved.  If no dispute is raised prior to (iii) being
-      performed, then the reduction shall stand regardless of
-      subsequent disputes.  However, a Judge in such a dispute may
-      Order the Deckmastor to perform further card transfers to
-      resolve such disputes.
-
-      If the Deckmastor knowingly reduces a hand incorrectly, e
-      commits the Class 4 Crime of Card Thievery.
-
-      If more than one hand reduction is pending for the same hand,
-      then the Deckmastor need only perform the reduction for the
-      reduction with the lowest associated maximum; this shall satisfy
-      all pending reductions.
-
-      At the beginning of each Quarter, every Player's hand becomes
-      subject to a hand reduction to the maximum hand size in the
-      Deckmastor's Budget plus the number of Offices (including the
-      Speakership) that e holds.  If at any time there are more
-      unsatisfied pending draws then cards in the Deck and Discard
-      Pile put together, the Deckmastor may announce a Shortage, with
-      subjects every Player's hand to such a hand reduction.
-
-History:
-Created by Proposal 4644 (root), 12 March 2005
-Amended(1) by Proposal 4846 (Goethe), 1 January 2006
-Amended(2) by Proposal 4851 (Murphy), 18 March 2006
-Amended(3) by Proposal 4858 (Goethe), 22 May 2006
-
-----------------------------------------------------------------------
-
-Rule 2080/7 (Power=1)
-Chip Sources
-
-      At the beginning of each month, each player gains three white
-      chips and one red chip.
-
-      Upon the adoption of a proposal, the author gains one white
-      chip.
-
-      A player who gains a Boon gains a red chip.  A player who gains
-      an Albatross loses a chip.
-
-History:
-Created by Proposal 4635 (OscarMeyr), 23 January 2005
-Amended(1) by Proposal 4644 (root), 12 March 2005
-Amended(2) by Proposal 4753 (Sherlock), 5 May 2005
-Amended(3) by Proposal 4761 (root), 15 May 2005
-Amended(4) by Proposal 4834 (Maud), 6 August 2005
-Amended(5) by Proposal 4837 (Goethe), 2 October 2005
-Amended(6) by Proposal 4846 (Goethe), 1 January 2006
-Amended(7) by Proposal 4851 (Murphy), 18 March 2006
-
-
-----------------------------------------------------------------------
-
-Rule 2120/3 (Power=1)
-Cashing in One's Chips
-
-      The Pot is a site.
-
-      Cashing in one or more chips is synonymous with transferring
-      them to the Pot.  A player may cash in one or more of eir chips
-      by announcement.  As soon as possible after e does so, the
-      Deckmastor shall deal em a card for each non-forfeited chip
-      cashed in.
-
-History:
-Created by Proposal 4837 (Goethe), 2 October 2005
-Amended(1) by Proposal 4846 (Goethe), 1 January 2006
-Amended(2) by Proposal 4851 (Murphy), 18 March 2006
-Amended(3) by Proposal 4859 (root), 22 May 2006
-
-----------------------------------------------------------------------
-
-Rule 2121/0 (Power=1)
-Cards for Ex-Cards
-
-      When a class of cards ceases to exist, each non-site gambler
-      gains a pending draw for each instance of that class that e
-      possessed immediately before it ceased to exist.
-
-History:
-Created by Proposal 4843 (Murphy), 9 November 2005
-
-----------------------------------------------------------------------
-
-Rule 2122/0 (Power=1)
-Gaining and Losing Chips
-
-      If the rules say that a player gains a chip, it is created in
-      eir possession.  Rumor and superstition have it that these chips
-      come from a mystical place referred to in legend as The House,
-      which is to be greatly feared by all gamblers.
-
-      If the rules say that a player loses a chip, without specifying
-      which chip e loses:
-
-        (a) If e has at least one red chip, then one of eir red chips
-            is forfeited to the Pot.
-
-        (b) Otherwise, if e has at least one white chip, then one of
-            eir white chips is forfeited to the Pot.
-
-        (c) Otherwise, if e has at least one card, then the Deckmastor
-            shall discard one of that player's cards at random.
-
-        (d) Otherwise, the next chip e gains is immediately forfeited
-            to the Pot.
-
-History:
-Created by Proposal 4851 (Murphy), 18 March 2006
-
-----------------------------------------------------------------------
-
-Rule 2123/1 (Power=1)
-Fees
-
-      A player plays a fee of X by cashing in X chips and indicating
-      the fee to be paid.  These chips are forfeited.
-
-History:
-Created by Proposal 4851 (Murphy), 18 March 2006
-Amended(1) by Proposal 4859 (root), 22 May 2006
-
 ----------------------------------------------------------------------
 
 ======================================================================
@@ -6111,42 +5142,6 @@ Honorary Degrees
 
 History:
 Created by Proposal 4688 (root), 18 April 2005
-
-----------------------------------------------------------------------
-
-Rule 2104/4 (Power=1)
-Contreras Card Labs
-
-      There is a cardbook called the Blueprints Cardbook, which may be
-      changed by Proposal, or as specified in this Rule.
-
-      Any Player may, with support, add a Blueprint to the Blueprints
-      cardbook.  A Blueprint must be a valid card definition.
-
-      Any card added in this manner shall have a quota of 0.
-
-      Any Player may, with support, remove a Blueprint with a quota of
-      0 from the Blueprints cardbook.
-
-      If a Blueprint has been in the Blueprints Cardbook for over four
-      days, any Player may change the quota of that Blueprint from 0
-      to 1 (if the card is unique) or from 0 to a number not greater
-      than the number of active Players (if the card is rare or
-      common), without three Objections.
-
-      If the quota of a card is changed in this manner, the Deckmastor
-      shall create one of the copies of that card in The Library
-      rather than in the Deck.
-
-      Any Player may add, delete, or amend a Scoring Instruction in
-      the Blueprints Cardbook, with Agoran Consent.
-
-History:
-Created by Proposal 4734 (Sherlock), 5 May 2005
-Amended(1) by Proposal 4805 (Goethe, Manu), 20 June 2005
-Amended(2) by Proposal 4838 (Goethe), 2 October 2005
-Amended(3) by Proposal 4852 (root), 18 March 2006
-Amended(4) by Proposal 4853 (Goethe), 18 March 2006
 
 ----------------------------------------------------------------------
 
@@ -6576,4 +5571,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4865]
+      [Last proposal with recorded effect on this ruleset: 4866]
