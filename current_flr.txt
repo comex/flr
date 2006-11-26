@@ -4964,18 +4964,20 @@ Amended(6) by Proposal 4867 (Goethe), 27 August 2006
 Rule 2109/1 (Power=2)
 Agoran Contracts
 
-      There exists a type of Contract known as Agoran Contract. An
-      Agoran Contract is a Contract between any two entities. An
-      Agoran Contract may only be created or amended by a Proposal and
-      becomes effective when the Proposal takes effect. Unless
-      otherwise specified in the Rules or Regulations, All Players are
-      automatically Members of Agoran Contracts and no Player may
-      leave an Agoran Contract.
+      There exists a type of binding agreement known as Agoran
+      Contract.  An Agoran Contract may only be created or amended by
+      a Proposal and becomes effective when the Proposal takes effect.
+
+      Unless otherwise specified in the Rules, all Players are bound
+      by Agoran Contracts and no Player may leave an Agoran Contract
+      while remaining a Player.  The Proposal process shall, prima
+      facie, be considered to be protective of a Player's rights and
+      privileges with respect to agreements.
 
       All Rules regulating Contracts that are inconsistent with this
       Rule are superseded to the extent of such inconsistency.
 
-      The ADoP is required to keep track of all Agoran Contracts.
+      The CotC is required to keep track of all Agoran Contracts.
 
 History:
 Created by Proposal 4755 (Manu), 5 May 2005
@@ -5075,4 +5077,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4866]
+      [Last proposal with recorded effect on this ruleset: 4867]
