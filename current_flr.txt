@@ -21,15 +21,15 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 84 Rules:
+There are currently 85 Rules:
     1 with Power=4
-   24 with Power=3
+   25 with Power=3
     9 with Power=2
    50 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2126
-Highest Rule Number assigned so far: 2126
+Highest current Rule Number:         2127
+Highest Rule Number assigned so far: 2127
 
 ======================================================================
 Table of Contents:
@@ -1320,7 +1320,7 @@ Amended(12) by Proposal 4811 (Maud, Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 2126/0 (Power=1)
+Rule 2127/0 (Power=1)
 Conditional Votes
 
       A ballot option (vote) on an Agoran decision may be submitted
@@ -1560,6 +1560,49 @@ Amended(1) by Proposal 4637 (Murphy), 19 February 2005
 Amended(2) by Proposal 4811 (Maud, Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
+
+Rule 2126/0 (Power=3)
+Voting Credits
+
+      Voting Credits (VCs) are a measure of each player's ability to
+      affect voting limits on ordinary proposals.  A player's VC is at
+      all times a non-negative integer.  The Promotor is the
+      recordkeepor of VCs.  VCs are not any form of property and
+      cannot be traded.  VCs can be affected only as described in this
+      rule.
+
+      When one or more players win the game, all players' voting
+      limits on ordinary proposals are reset to one, subject to
+      modification by other rules.
+
+      When a player joins Agora, eir VCs are set to zero.
+
+      When a proposal is adopted, its proposer gains VCs equal to the
+      integer portion of the proposal's adoption index, and each
+      co-author of the proposal gains one VC.
+
+      A player may expend two VCs to increase eir own voting limit on
+      ordinary proposals by one.
+
+      A player may expend one VC to increase any other player's voting
+      limit on ordinary proposals by one.
+
+      A player may expend two VCs to decrease any other player's
+      voting limit on ordinary proposals by one, down to a minimum
+      voting limit of zero.  Attempts to decrease a player's voting
+      limit on ordinary proposals below this minimum fail.
+
+      If a player attempts to expend more VCs than e currently has,
+      the action fails, and the VCs are not expended.
+
+      The Promotor may accept reasonable synonyms for "expend" (such
+      as "pay" or "use") as valid actions under this rule.
+
+History:
+Created by Proposal 4872 (OscarMeyr), 26 October 2006
+
+----------------------------------------------------------------------
+
 
 ======================================================================
 Proposals
@@ -3253,4 +3296,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4868]
+      [Last proposal with recorded effect on this ruleset: 4875]
