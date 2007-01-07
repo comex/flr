@@ -1186,7 +1186,7 @@ Amended(12) by Proposal 4868 (Goethe), 27 August 2006
 
 ----------------------------------------------------------------------
 
-Rule 1450/5 (Power=1)
+Rule 1450/5 (Power=2)
 Separation of Powers
 
       The Speaker, Clerk of the Courts, and Promotor are mutually
