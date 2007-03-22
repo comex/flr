@@ -2046,11 +2046,15 @@ Amended(5) by Proposal 4887 (Murphy), 22 January 2007
 
 ----------------------------------------------------------------------
 
-Rule 2024/4 (Power=1)
+Rule 2024/5 (Power=1)
 Linked Statements
 
       Linked CFJs are multiple Calls for Judgement that are submitted
       in a single message and clearly labeled as Linked CFJs.
+
+      When submitting Linked CFJs, the players (if any) barred by the
+      caller from judging the first CFJ are the only players e may bar
+      from judging any of the other CFJs.
 
       The Clerk of the Courts shall assign a Judge to a set of Linked
       CFJs, as if they were a single CFJ.  The Judge must be eligible
@@ -2089,6 +2093,7 @@ Amended(1) by Proposal 4579 (Murphy), 15 June 2004
 Amended(2) by Proposal 4659 (root), 29 March 2005
 Amended(3) by Proposal 4867 (Goethe), 27 August 2006
 Amended(4) by Proposal 4887 (Murphy), 22 January 2007
+Amended(5) by Proposal 4895 (Murphy), 12 February 2007
 
 ----------------------------------------------------------------------
 
@@ -3385,4 +3390,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4894]
+      [Last proposal with recorded effect on this ruleset: 4895]
