@@ -21,15 +21,15 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 85 Rules:
+There are currently 86 Rules:
     1 with Power=4
    25 with Power=3
     9 with Power=2
-   50 with Power=1
+   51 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2127
-Highest Rule Number assigned so far: 2127
+Highest current Rule Number:         2128
+Highest Rule Number assigned so far: 2128
 
 ======================================================================
 Table of Contents:
@@ -287,6 +287,21 @@ Win by Paradox
 
 History:
 Created by Proposal 4781 (Sherlock), 3 June 2005
+
+----------------------------------------------------------------------
+
+Rule 2128/0 (Power=1)
+Winning
+
+      The current Speaker may, with two supporters, invite players to
+      enter into a specified agreement (hereafter a Contest) to determine
+      who wins the game.  The contest must be open to all players.
+      Winners determined by the procedures of the contest do in fact
+      win the game.  When the initiating Speaker ceases to be Speaker,
+      the contest loses the legal authority to determine winners.
+
+History:
+Created by Proposal 4878 (Goethe), 22 January 2007
 
 ----------------------------------------------------------------------
 
@@ -837,7 +852,7 @@ Amended(1) by Proposal 3829 (Steve), Feb. 8 1999
 
 ----------------------------------------------------------------------
 
-Rule 402/16 (Power=1)
+Rule 402/17 (Power=1)
 Church and State
 
       A cardinal is an active, ready player who is not the current
@@ -859,6 +874,13 @@ Church and State
       Speaker via this method, e may not be removed from the
       Speakership for 90 days without eir own consent.
 
+      If no cardinal has become a pope in the past six months, or a judge
+      finds that the current Speaker has been inactive, inattentive,
+      unwilling, or unable to perform eir Agoran duties, then a cardinal
+      may be named a pope (and therefore Speaker as above) by Agoran
+      Consent.  This is not considered winning.
+
+
 History:
 Created by Proposal 402 (Alexx), ca. Sep. 3 1993
 ...
@@ -879,6 +901,7 @@ Amended(13) by Proposal 4836 (Goethe, Maud), 2 October 2005
 Amended(14) by Proposal 4853 (Goethe), 18 March 2006
 Amended(15) by Proposal 4861 (Goethe), 30 May 2006
 Amended(16) by Proposal 4868 (Goethe), 27 August 2006
+Amended(17) by Proposal 4878 (Goethe), 22 January 2007
 
 ----------------------------------------------------------------------
 
@@ -2925,7 +2948,7 @@ Amended(18) by Proposal 4865 (Goethe), 27 August 2006
 
 ----------------------------------------------------------------------
 
-Rule 1922/10 (Power=1)
+Rule 1922/11 (Power=1)
 Defined Regular Patent Titles
 
       The following are Patent Titles:
@@ -2959,6 +2982,8 @@ Defined Regular Patent Titles
            continuously for the specified duration.  Each of these
            titles shall be awarded only once per player.
 
+      (d)  Champion, to be awarded to players who win the game.
+
 History:
 Created by Proposal 3916 (harvel), Sep. 27 1999
 Amended(1) by Proposal 1922 (Goethe), Mar. 28 2001
@@ -2971,6 +2996,7 @@ Amended(7) by Proposal 4614 (Goethe), 21 September 2004
 Amended(8) by Proposal 4642 (Murphy), 12 March 2005
 Amended(9) by Proposal 4708 (OscarMeyr), 18 April 2005
 Amended(10) by Proposal 4865 (Goethe), 27 August 2006
+Amended(11) by Proposal 4878 (Goethe), 22 January 2007
 
 ----------------------------------------------------------------------
 
@@ -3296,4 +3322,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4875]
+      [Last proposal with recorded effect on this ruleset: 4878]
