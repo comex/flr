@@ -305,7 +305,7 @@ Created by Proposal 4878 (Goethe), 22 January 2007
 
 ----------------------------------------------------------------------
 
-Rule 1727/14 (Power=1)
+Rule 1727/15 (Power=1)
 Happy Birthday
 
       WHEREAS, in June 1993, the world's only MUD-based nomic, Nomic
@@ -344,10 +344,7 @@ Happy Birthday
       founding,
 
       BE IT THEREFORE RESOLVED that Agora's Birthday is defined to be
-      the entire day of June 30, GMT +1200, of each year, and as soon
-      as possible after the end of Agora's Birthday, the Herald shall
-      award the boon of celebration to each Player who, during Agora's
-      Birthday, publicly recognizes this Grand Event.
+      the entire day of June 30, GMT +1200, of each year.
 
 History:
 Created by Proposal 3513 (Chuck), Jun. 16 1997
@@ -365,6 +362,7 @@ Amended(11) by Proposal 4367 (Steve), 23 August 2002
 Amended(12) by Proposal 4376 (Steve), 6 September 2002
 Amended(13) by Proposal 4486 (Michael), 24 April 2003
 Amended(14) by Proposal 4743 (Manu), 5 May 2005
+Amended(15) by Proposal 4880 (Murphy), 22 January 2007
 
 ----------------------------------------------------------------------
 
@@ -3354,4 +3352,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4879]
+      [Last proposal with recorded effect on this ruleset: 4880]
