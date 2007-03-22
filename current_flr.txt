@@ -1693,7 +1693,7 @@ Created by Proposal 3465 (Steve), Apr. 26 1997
 
 ----------------------------------------------------------------------
 
-Rule 105/2 (Power=3)
+Rule 105/3 (Power=3)
 Rule Changes
 
       A proposal generally can, as part of its effect:
@@ -1711,10 +1711,12 @@ Rule Changes
       modify the power, title, or text of a rule with power no greater
       than its own.  However, a proposal cannot cause a rule to have
       power greater than its own.  Any ambiguity in a modification
-      specified by a proposal causes that modification to be void and
-      without effect.  A variation in whitespace or capitalization in
-      the quotation of an existing rule does not constitute ambiguity
-      for the purposes of this rule, but any other variation does.
+      specified by a proposal causes that modification to be void
+      and without effect.  A variation in whitespace, capitalization,
+      or substitution of section labels with the same ordinal position
+      (e.g. 1 / a / i, 2 / b / ii, etc.) in the quotation of an existing
+      rule does not constitute ambiguity for the purposes of this rule,
+      but any other variation does.
 
       (c) Repeal a rule.  When a proposal repeals a rule, it ceases to
       be a rule, and the Rulekeepor need no longer maintain a record
@@ -1733,6 +1735,7 @@ Amended by Proposal 1275, Oct. 24 1994
 Renumbered from 1072 to 105 by Rule 1295, Nov. 1 1994
 Amended(1) by Proposal 3445 (General Chaos), Mar. 26 1997, substantial
 Amended(2) by Proposal 4868 (Goethe), 27 August 2006
+Amended(3) by Proposal 4886 (Murphy), 22 January 2007
 
 ----------------------------------------------------------------------
 
@@ -3362,4 +3365,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4885]
+      [Last proposal with recorded effect on this ruleset: 4886]
