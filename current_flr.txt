@@ -104,14 +104,14 @@ Amended(2) by Proposal 4866 (Goethe), 27 August 2006
 
 ----------------------------------------------------------------------
 
-Rule 101/4 (Power=3)
+Rule 101/5 (Power=3)
 Agoran Rights and Privileges
 
       The rules may define persons as possessing specific rights or
       privileges.  Be it hereby proclaimed that no binding agreement
       or interpretation of Agoran law may abridge, reduce, limit, or
       remove a person's defined rights.  A person's defined privileges
-      are assumed to exist in the absense of an explicit, binding
+      are assumed to exist in the absence of an explicit, binding
       agreement to the contrary.  This rule takes precedence over any
       rule which would allow restrictions of a person's rights or
       privileges.
@@ -126,7 +126,7 @@ Agoran Rights and Privileges
             judicial order binding em.
 
         iv. Every person has the right to refuse to become party to
-            a binding agreement.  The absense of a person's explicit,
+            a binding agreement.  The absence of a person's explicit,
             willful consent shall be considered a refusal.
 
          v. Every person has the right to not be considered bound by
@@ -160,6 +160,7 @@ Amended(1) by Proposal 3915 (harvel), Sep. 27 1999
 Amended(2) by Proposal 4833 (Maud), 6 August 2005
 Amended(3) by Proposal 4866 (Goethe), 27 August 2006
 Amended(4) by Proposal 4867 (Goethe), 27 August 2006
+Amended(5) by Proposal 4887 (Murphy), 22 January 2007
 
 ----------------------------------------------------------------------
 
@@ -228,7 +229,7 @@ Amended(1) by Proposal 3445 (General Chaos), Mar. 26 1997, cosmetic
 
 ----------------------------------------------------------------------
 
-Rule 1030/4 (Power=3)
+Rule 1030/5 (Power=3)
 Precedence between Rules with Equal Power
 
       If two or more Rules with the same Power conflict with one
@@ -243,7 +244,7 @@ Precedence between Rules with Equal Power
       If all of the Rules in conflict explicitly say that their
       precedence relations are determined by some other Rule for
       determining precedence relations, then the determinations of
-      the precedence determining Rule shall supercede the numerical
+      the precedence-determining Rule shall supercede the numerical
       method for determining precedence.
 
       If two or more Rules claim to take precedence over one another
@@ -272,6 +273,7 @@ Amended(3) by Proposal 2520, Mar. 10 1996
 Mutated from MI=1 to MI=3 by Proposal 2763 (Steve), Nov. 30 1996
 Amended(4) by Proposal 3445 (General Chaos), Mar. 26 1997, cosmetic
   (unattributed)
+Amended(5) by Proposal 4887 (Murphy), 22 January 2007
 
 ----------------------------------------------------------------------
 
@@ -305,7 +307,7 @@ Created by Proposal 4878 (Goethe), 22 January 2007
 
 ----------------------------------------------------------------------
 
-Rule 1727/15 (Power=1)
+Rule 1727/16 (Power=1)
 Happy Birthday
 
       WHEREAS, in June 1993, the world's only MUD-based nomic, Nomic
@@ -330,10 +332,9 @@ Happy Birthday
           published, numbered and distributed by me at my earliest
           convenience."
 
-      And WHEREAS, this nomic began as a humble and nameless nomic,
-      known unofficially as yoyo, after the mailing list it was played
-      on, until its Players, much later, gave it its OFFICAL NAME of
-      Agora,
+      And WHEREAS, this nomic began as a humble and nameless nomic, known
+      unofficially as yoyo, after the mailing list it was played on,
+      until its Players, much later, gave it its OFFICIAL NAME of Agora,
 
       And WHEREAS, Agora has now become the wisest, noblest, eldest,
       and most interesting of all active email nomics, due to the hard
@@ -363,6 +364,7 @@ Amended(12) by Proposal 4376 (Steve), 6 September 2002
 Amended(13) by Proposal 4486 (Michael), 24 April 2003
 Amended(14) by Proposal 4743 (Manu), 5 May 2005
 Amended(15) by Proposal 4880 (Murphy), 22 January 2007
+Amended(16) by Proposal 4887 (Murphy), 22 January 2007
 
 ----------------------------------------------------------------------
 
@@ -850,7 +852,7 @@ Amended(1) by Proposal 3829 (Steve), Feb. 8 1999
 
 ----------------------------------------------------------------------
 
-Rule 402/17 (Power=1)
+Rule 402/18 (Power=1)
 Church and State
 
       A cardinal is an active, ready player who is not the current
@@ -868,7 +870,7 @@ Church and State
       seven days of it being attempted, then it shall be allowed to
       stand, even if is subsequently found to be illegal.
 
-      Rules to the contrary nonwithstanding, if a Player becomes
+      Rules to the contrary notwithstanding, if a Player becomes
       Speaker via this method, e may not be removed from the
       Speakership for 90 days without eir own consent.
 
@@ -900,10 +902,11 @@ Amended(14) by Proposal 4853 (Goethe), 18 March 2006
 Amended(15) by Proposal 4861 (Goethe), 30 May 2006
 Amended(16) by Proposal 4868 (Goethe), 27 August 2006
 Amended(17) by Proposal 4878 (Goethe), 22 January 2007
+Amended(18) by Proposal 4887 (Murphy), 22 January 2007
 
 ----------------------------------------------------------------------
 
-Rule 1006/10 (Power=1)
+Rule 1006/11 (Power=1)
 Offices
 
       The Rules may designate positions to be offices.  No office may
@@ -924,11 +927,11 @@ Offices
       (b) the potential officer consents to hold the office after the
           announcement of intent is made.
 
-      If no attempt to acheive Agoran Consent for changing the holder
+      If no attempt to achieve Agoran Consent for changing the holder
       of particular office is announced in a given quarter, then the
       Speaker shall make at least one such attempt to change the
       officeholder in the following quarter, and make the change if
-      consent is acheived.
+      consent is achieved.
 
       If the duty of an office is to maintain certain information,
       than the officer shall publish that information once a month, or
@@ -938,7 +941,7 @@ Offices
       these last two requirements.
 
       If an Officer or the Speaker fails to satisfy a Timing Order to
-      perform a certain offical duty, than the player who executed the
+      perform a certain official duty, than the player who executed the
       order may perform the duty as if e were the officer.
 
 History:
@@ -958,6 +961,7 @@ Amended(7) by Proposal 3902 (Murphy), Sep. 6 1999
 Amended(8) by Proposal 4002 (harvel), May 8 2000
 Amended(9) by Proposal 4250 (harvel), 19 February 2002
 Amended(10) by Proposal 4868 (Goethe), 27 August 2006
+Amended(11) by Proposal 4887 (Murphy), 22 January 2007
 
 ----------------------------------------------------------------------
 
@@ -1070,7 +1074,7 @@ Amended(17) by Proposal 4250 (harvel), 19 February 2002
 
 ----------------------------------------------------------------------
 
-Rule 1681/8 (Power=1)
+Rule 1681/9 (Power=1)
 The Logical Rulesets
 
       There is a format of the ruleset known as the Short Logical
@@ -1100,7 +1104,7 @@ The Logical Rulesets
       which e feels may be helpful in the use of the ruleset in the
       FLR.
 
-      Whenever a rule is changed in any way, the Rulekeeper shall
+      Whenever a rule is changed in any way, the Rulekeepor shall
       record a historical annotation to the rule indicating the type
       of change, the date on which the change took effect, the
       mechanism which specified the change, and if the rule was
@@ -1118,6 +1122,7 @@ Amended(5) by Proposal 4002 (harvel), May 8 2000
 Amended(6) by Proposal 4811 (Maud, Goethe), 20 June 2005
 Amended(7) by Proposal 4841 (Goethe), 27 October 2005
 Amended(8) by Proposal 4868 (Goethe), 27 August 2006
+Amended(9) by Proposal 4887 (Murphy), 22 January 2007
 
 ----------------------------------------------------------------------
 
@@ -1232,11 +1237,11 @@ Agoran Decisions
   This Category's rules describe how Agora makes its decisions
 ----------------------------------------------------------------------
 
-Rule 693/8 (Power=3)
+Rule 693/9 (Power=3)
 Agoran Decisions
 
       When the rules calls for an Agoran decision to be made, the
-      decisionmaking process takes place in the following three
+      decision-making process takes place in the following three
       stages, each described elsewhere:
 
           (a) Initiation of the decision.
@@ -1257,6 +1262,7 @@ Power changed from 1 to 2 by Proposal 4040 (Oerjan), Aug. 7 2000
 Power changed from 2 to 3 by Proposal 4811 (Maud,Goethe), 20 June 2005
 Amended(7) by Proposal 4811 (Maud, Goethe), 20 June 2005
 Amended(8) by Proposal 4868 (Goethe), 27 August 2006
+Amended(9) by Proposal 4887 (Murphy), 22 January 2007
 
 ----------------------------------------------------------------------
 
@@ -1766,7 +1772,7 @@ Created by Proposal 3869 (General Chaos), May 24 1999
 
 ----------------------------------------------------------------------
 
-Rule 2019/6 (Power=2)
+Rule 2019/7 (Power=2)
 The Speaker's Veto
 
       The Speaker may veto an Ordinary Proposal in its voting period
@@ -1781,7 +1787,7 @@ The Speaker's Veto
 
       The Speaker may Rubberstamp an Ordinary Proposal in its voting
       period by announcement.  Quorum for a rubberstamped ordinary
-      proposal is three, other rules governing quorum nonwithstanding.
+      proposal is three, other rules governing quorum notwithstanding.
 
 History:
 Created by Proposal 4276 (Steve), 28 March 2002
@@ -1791,6 +1797,7 @@ Amended(3) by Proposal 4811 (Maud, Goethe), 20 June 2005
 Amended(4) by Proposal 4836 (Goethe, Maud), 2 October 2005
 Amended(5) by Proposal 4840 (Goethe), 27 October 2005
 Amended(6) by Proposal 4885 (Murphy), 22 January 2007
+Amended(7) by Proposal 4887 (Murphy), 22 January 2007
 
 ----------------------------------------------------------------------
 
@@ -1993,7 +2000,7 @@ Amended(6) by Proposal 4867 (Goethe), 27 August 2006
 
 ----------------------------------------------------------------------
 
-Rule 897/4 (Power=1)
+Rule 897/5 (Power=1)
 Court Procedure
 
       The Clerk of the Courts shall publish the text of a CFJ, along
@@ -2020,10 +2027,10 @@ Court Procedure
       When submitting a general CFJ, the Caller may Bar up to three
       Players from Judging that CFJ.
 
-      The defendant of a Civil CFJ is automatically barred from
-      judging it. The Plantiff may bar one other Player when e submits
-      the CFJ.  The Defendant may bar one other Player from judging
-      any time before the CFJ is assigned to a judge.
+      The defendant of a Civil CFJ is automatically barred from judging
+      it. The Plaintiff may bar one other Player when e submits the CFJ.
+      The Defendant may bar one other Player from judging any time before
+      the CFJ is assigned to a judge.
 
 History:
 Created by Proposal 897, ca. Apr. 13 1994
@@ -2031,14 +2038,15 @@ Amended(1) by Proposal 2457, Feb. 16 1996
 Amended(2) by Proposal 3839 (Murphy), Mar. 8 1999
 Amended(3) by Proposal 4298 (Murphy), 17 May 2002
 Amended(4) by Proposal 4867 (Goethe), 27 August 2006
+Amended(5) by Proposal 4887 (Murphy), 22 January 2007
 
 ----------------------------------------------------------------------
 
-Rule 2024/3 (Power=1)
+Rule 2024/4 (Power=1)
 Linked Statements
 
       Linked CFJs are multiple Calls for Judgement that are submitted
-      in a single message and clearly labelled as Linked CFJs.
+      in a single message and clearly labeled as Linked CFJs.
 
       The Clerk of the Courts shall assign a Judge to a set of Linked
       CFJs, as if they were a single CFJ.  The Judge must be eligible
@@ -2076,6 +2084,7 @@ Created by Proposal 4298 (Murphy), 17 May 2002
 Amended(1) by Proposal 4579 (Murphy), 15 June 2004
 Amended(2) by Proposal 4659 (root), 29 March 2005
 Amended(3) by Proposal 4867 (Goethe), 27 August 2006
+Amended(4) by Proposal 4887 (Murphy), 22 January 2007
 
 ----------------------------------------------------------------------
 
@@ -2531,16 +2540,16 @@ Amended(6) by Proposal 4867 (Goethe), 27 August 2006
 
 ----------------------------------------------------------------------
 
-Rule 1365/9 (Power=1)
+Rule 1365/10 (Power=1)
 Concurring and Dissenting Opinions
 
       Two or more players may submit a Concurring or Dissenting
       Opinion for a given CFJ trial or appeals decision, via a single
-      application to the Clerk of the Courts signed by all submittors.
+      application to the Clerk of the Courts signed by all submitters.
 
       The opinion must include reference to the CFJ and the particular
       judgement or appeals decision to which it applies and be
-      accompanied by reasons or arugments for the opinion.
+      accompanied by reasons or arguments for the opinion.
 
       The Clerk of the Courts shall publish any properly submitted
       Opinion and append it to the text of the legal judgement.
@@ -2557,6 +2566,7 @@ Amended(6) by Proposal 3531 (General Chaos), Jul. 15 1997, cosmetic
 Amended(7) by Proposal 4159 (Kelly), 5 June 2001
 Amended(8) by Proposal 4298 (Murphy), 17 May 2002
 Amended(9) by Proposal 4867 (Goethe), 27 August 2006
+Amended(10) by Proposal 4887 (Murphy), 22 January 2007
 
 ----------------------------------------------------------------------
 
@@ -2673,14 +2683,14 @@ Amended(14) by Proposal 4867 (Goethe), 27 August 2006
 
 ----------------------------------------------------------------------
 
-Rule 1447/19 (Power=1)
+Rule 1447/20 (Power=1)
 Final Judgement upon Appeal
 
-      For an Appelate Judge assigned to the Appeal of a Judgement, a
-      Judgement is exactly one of the following: SUSTAIN, REVERSE,
-      REASSIGN, or REMAND.  For the appeal of other matters, a
-      Judgement is exactly one of the following: SUSTAIN or OVERTURN.
-      Other Rules may modify this based on the subject of the Appeal.
+      For an Appellate Judge assigned to the Appeal of a Judgement,
+      a Judgement is exactly one of the following: SUSTAIN, REVERSE,
+      REASSIGN, or REMAND.  For the appeal of other matters, a Judgement
+      is exactly one of the following: SUSTAIN or OVERTURN.  Other Rules
+      may modify this based on the subject of the Appeal.
 
       If a Judgement of TRUE or FALSE is Appealed, the Board of
       Appeals shall consider the correctness of that Judgement.  If a
@@ -2690,28 +2700,28 @@ Final Judgement upon Appeal
       delivered.
 
       If a majority of the Appellate Judges Judge SUSTAIN, then the
-      subject of the Appeal is sustained.  Otherwise, it is
-      overturned.  The Board of Appeals shall execute whatever
-      Appelate Orders are necessary to enforce its determination.
+      subject of the Appeal is sustained.  Otherwise, it is overturned.
+      The Board of Appeals shall execute whatever Appellate Orders are
+      necessary to enforce its determination.
 
       When a Judgement is overturned:
 
-        a) If a majority of the Appelate Judges Judge REVERSE, then
-           the CFJ shall be treated as if it were Judged normally,
-           with the Judgement being that which a majority of the
-           Appelate Judges agree on.
+        a) If a majority of the Appellate Judges Judge REVERSE, then the
+           CFJ shall be treated as if it were Judged normally, with the
+           Judgement being that which a majority of the Appellate Judges
+           agree on.
 
-        b) If a majority of the Appelate Judges Judge REASSIGN, then
-           the original Judgement is ignored, the original Judge is
-           recused, and the Clerk of the Courts shall reassign the CFJ
-           to a new Judge in the same fashion as it was originally
-           assigned.  The new Judge cannot make the same Judgement as
-           the original Judge for the same reason.
+        b) If a majority of the Appellate Judges Judge REASSIGN, then the
+           original Judgement is ignored, the original Judge is recused,
+           and the Clerk of the Courts shall reassign the CFJ to a new
+           Judge in the same fashion as it was originally assigned.
+           The new Judge cannot make the same Judgement as the original
+           Judge for the same reason.
 
-        c) If a majority of the Appelate Judges Judge REMAND, then the
-           original Judgement shall be ignored, and the Clerk of the
-           Courts shall reassign the CFJ to the original Judge as if
-           it were being originally assigned. The Judge may not make
+        c) If a majority of the Appellate Judges Judge REMAND, then
+           the original Judgement shall be ignored, and the Clerk of
+           the Courts shall reassign the CFJ to the original Judge as
+           if it were being originally assigned. The Judge may not make
            the same Judgement for the same reason.
 
         d) If none of the above is true, then the CFJ shall be
@@ -2745,6 +2755,7 @@ Amended(16) by Proposal 4147 (Wes), 13 May 2001
 Amended(17) by Proposal 4298 (Murphy), 17 May 2002
 Amended(18) by Proposal 4825 (Maud), 17 July 2005
 Amended(19) by Proposal 4867 (Goethe), 27 August 2006
+Amended(20) by Proposal 4887 (Murphy), 22 January 2007
 
 ----------------------------------------------------------------------
 
@@ -2817,7 +2828,7 @@ Rule Violations
   concerning violations of the Rules.
 ----------------------------------------------------------------------
 
-Rule 1504/8 (Power=1)
+Rule 1504/9 (Power=1)
 Sentencing Orders
 
       Upon a finding in a Civil CFJ that the defendant has broken one
@@ -2828,19 +2839,17 @@ Sentencing Orders
           to make a formal apology;
 
       (2) Without 2 Objections and with 2 Supporters, an order for the
-          defendant to perform a specified service for the benefit of
-          the Agoran community proportinate to the seriousness of the
-          breach;
+          defendant to perform a specified service for the benefit of the
+          Agoran community proportionate to the seriousness of the breach;
 
       (3) An order for the Herald to place the defendant in the Chokey
           for a number of months equal to the power of the highest
           powered Rule that was broken;
 
-      (4) If and only if the trial judge finds the defendant to to
-          have acted willfully in breaking the rules, an order for the
-          Herald to place the defendant in the Chokey for twice number
-          of months equal to the power of the highest-powered Rule
-          that was broken;
+      (4) If and only if the trial judge finds the defendant to have
+          acted willfully in breaking the rules, an order for the Herald
+          to place the defendant in the Chokey for twice number of months
+          equal to the power of the highest-powered Rule that was broken;
 
       (5) If and only if the judge finds the defendant to have acted
           egregiously, maliciously, or with a consistent pattern of
@@ -2869,6 +2878,7 @@ Amended(5) by Proposal 3533 (General Chaos), Jul. 15 1997, substantial
 Amended(6) by Proposal 3704 (General Chaos), Mar. 19 1998
 Amended(7) by Proposal 4406 (Murphy), 30 October 2002
 Amended(8) by Proposal 4867 (Goethe), 27 August 2006
+Amended(9) by Proposal 4887 (Murphy), 22 January 2007
 
 ----------------------------------------------------------------------
 
@@ -3046,7 +3056,7 @@ Amended(7) by Proposal 4865 (Goethe), 27 August 2006
 
 ----------------------------------------------------------------------
 
-Rule 1370/15 (Power=1)
+Rule 1370/16 (Power=1)
 How to Get a Degree
 
       A person becomes a Candidate for a Degree when e publishes a
@@ -3055,16 +3065,16 @@ How to Get a Degree
       particular degree.  A Thesis (plural: Theses) is an essay whose
       topic is any facet of Agora Nomic, or Nomic in general.
 
-      The Candidate shall choose a Player other tham emself to be the
+      The Candidate shall choose a Player other than emself to be the
       first member of eir Thesis Committee, called eir Chair, with the
       Chair's consent.
 
-      If the Speaker is neither the Chair nor the Candidate, the
-      Speaker shall appoint a Player who is neither the Chair nor the
-      Candidate to be the second Committee member.  Otherwise, the the
-      Clerk of the Courts shall so appoint.  The two Committee members
-      shall then select, by mutual consent, a third person who is not
-      the Candidate to be the third Committee member.
+      If the Speaker is neither the Chair nor the Candidate, the Speaker
+      shall appoint a Player who is neither the Chair nor the Candidate to
+      be the second Committee member.  Otherwise, the Clerk of the Courts
+      shall so appoint.  The two Committee members shall then select,
+      by mutual consent, a third person who is not the Candidate to be
+      the third Committee member.
 
       The Committee shall examine the Candidate and eir Thesis to
       determine eir qualifications for the Degree.  The Chair of the
@@ -3103,6 +3113,7 @@ Amended(12) by Proposal 4303 (OscarMeyr), 17 May 2002
 Amended(13) by Proposal 4462 (Goethe), 17 March 2003
 Amended(14) by Proposal 4825 (Maud), 17 July 2005
 Amended(15) by Proposal 4865 (Goethe), 27 August 2006
+Amended(16) by Proposal 4887 (Murphy), 22 January 2007
 
 ----------------------------------------------------------------------
 
@@ -3306,12 +3317,12 @@ Amended(1) by Proposal 4867 (Goethe), 27 August 2006
 
 ----------------------------------------------------------------------
 
-Rule 1626/5 (Power=1)
+Rule 1626/6 (Power=1)
 Applications
 
       An Application is any document, which has been submitted as an
       Application by some person, to a Player designed by the Rules to
-      receive Applications of that particular type.  The submittor is
+      receive Applications of that particular type.  The submitter is
       known as the Application's Sponsor.
 
       The Sponsor of an Application may attach the signatures of other
@@ -3336,6 +3347,7 @@ Amended(2) by Proposal 3823 (Oerjan), Jan. 21 1999
 Amended(3) by Proposal 3897 (harvel), Aug. 27 1999
 Amended(4) by Proposal 4159 (Kelly), 5 June 2001
 Amended(5) by Proposal 4867 (Goethe), 27 August 2006
+Amended(6) by Proposal 4887 (Murphy), 22 January 2007
 
 ----------------------------------------------------------------------
 
