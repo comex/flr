@@ -750,12 +750,11 @@ Amended(11) by Proposal 4461 (Maud), 17 March 2003
 
 ----------------------------------------------------------------------
 
-Rule 2124/1 (Power=1)
+Rule 2124/2 (Power=1)
 Agoran Consent
 
-      If the Rules specify that an entity may perform an action with
-      Agoran Consent, then the entity may perform the action by
-      announcement if all of the following are true:
+      An entity that may perform an action with Agoran Consent can do
+      so by announcement if all of the following are true:
 
       (a) e has published eir intent to perform the action,
           unambiguously describing the action to be performed, at
@@ -773,6 +772,7 @@ Agoran Consent
 History:
 Created by Proposal 4853 (Goethe), 18 March 2006
 Amended(1) by Proposal 4866 (Goethe), 27 August 2006
+Amended(2) by Proposal 4868 (Goethe), 27 August 2006
 
 ----------------------------------------------------------------------
 
