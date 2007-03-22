@@ -1600,7 +1600,7 @@ Amended(2) by Proposal 4811 (Maud, Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 2126/1 (Power=3)
+Rule 2126/3 (Power=3)
 Voting Credits
 
       Voting Credits (VCs) are a measure of each player's ability to
@@ -1642,12 +1642,14 @@ Voting Credits
       If a player attempts to expend more VCs than e currently has,
       the action fails, and the VCs are not expended.
 
-      The Promotor may accept reasonable synonyms for "expend" (such
-      as "pay" or "use") as valid actions under this rule.
+      Changes to voting limits under this rule take effect at the
+      beginning of the next week.
 
 History:
 Created by Proposal 4872 (OscarMeyr), 26 October 2006
 Amended(1) by Proposal 4884 (Murphy), 22 January 2007
+Amended(2) by Proposal 4914 (OscarMeyr), 21 March 2007
+Amended(3) by Proposal 4914 (OscarMeyr), 21 March 2007
 
 ----------------------------------------------------------------------
 
@@ -3409,4 +3411,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4912]
+      [Last proposal with recorded effect on this ruleset: 4914]
