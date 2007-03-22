@@ -423,9 +423,7 @@ How to Join and Leave Agora
       a player and is prohibited from registering for the next thirty
       days.
 
-[CFJ 805: "Person" here means a natural person, not a legal person
- (such as a corporation) or something named "person."
- CFJ 1263: Any message expressing a clear desire or intent to register
+[CFJ 1263: Any message expressing a clear desire or intent to register
  as a Player counts as a request for registration, whether or not it
  is explicitly phrased as a request.]
 
