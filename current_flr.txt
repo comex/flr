@@ -423,6 +423,11 @@ How to Join and Leave Agora
       a player and is prohibited from registering for the next thirty
       days.
 
+[CFJ 1622: "person" in the rules means "legal person", which includes
+ partnerships that exist under the rules.]
+
+[CFJ 1614: Being any type of foodstuff has no relation to personhood.]
+
 [CFJ 1263: Any message expressing a clear desire or intent to register
  as a Player counts as a request for registration, whether or not it
  is explicitly phrased as a request.]
