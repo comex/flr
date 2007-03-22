@@ -845,8 +845,6 @@ Amended(1) by Proposal 4398 (harvel), 23 October 2002
 
 ----------------------------------------------------------------------
 
-
-
 ======================================================================
 Offices
   This Category is all about Offices (duh)
@@ -893,7 +891,6 @@ Church and State
       unwilling, or unable to perform eir Agoran duties, then a cardinal
       may be named a pope (and therefore Speaker as above) by Agoran
       Consent.  This is not considered winning.
-
 
 History:
 Created by Proposal 402 (Alexx), ca. Sep. 3 1993
@@ -1664,7 +1661,6 @@ Amended(3) by Proposal 4914 (OscarMeyr), 21 March 2007
 
 ----------------------------------------------------------------------
 
-
 ======================================================================
 Proposals
   This descriptive tag line intentionally left uninformative
@@ -1979,7 +1975,6 @@ Amended(4) by Proposal 4810 (Goethe), 20 June 2005
 Amended(5) by Proposal 4867 (Goethe), 27 August 2006
 
 ----------------------------------------------------------------------
-
 
 ======================================================================
 Calling for Judgement
@@ -2627,8 +2622,6 @@ Amended(10) by Proposal 4887 (Murphy), 22 January 2007
 
 ----------------------------------------------------------------------
 
-
-
 ======================================================================
 Overturning Judgement
   This Category Includes Rules regulating the overturning of
@@ -2877,7 +2870,6 @@ Amended(1) by Proposal 4298 (Murphy), 17 May 2002
 Amended(2) by Proposal 4867 (Goethe), 27 August 2006
 
 ----------------------------------------------------------------------
-
 
 ======================================================================
 Rule Violations
@@ -3267,7 +3259,6 @@ Amended(5) by Proposal 3901 (Schneidster), Sep. 6 1999
 Amended(6) by Proposal 4272 (Murphy), 22 March 2002
 
 ----------------------------------------------------------------------
-
 
 ======================================================================
 Contract Law
