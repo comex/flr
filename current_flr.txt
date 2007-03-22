@@ -4,7 +4,7 @@ Rules are listed as follows, where NNNN represents the Rule Number.
 
 ----------------------------------------------------------------------
 
-Rule NNNN (Power=N)
+Rule NNNN/A (Power=N)
 Title of Rule
 
       Rule Text
