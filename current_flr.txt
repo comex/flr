@@ -21,15 +21,15 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 86 Rules:
+There are currently 87 Rules:
     1 with Power=4
    25 with Power=3
     9 with Power=2
-   51 with Power=1
+   52 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2128
-Highest Rule Number assigned so far: 2128
+Highest current Rule Number:         2129
+Highest Rule Number assigned so far: 2129
 
 ======================================================================
 Table of Contents:
@@ -3095,6 +3095,38 @@ Amended(15) by Proposal 4865 (Goethe), 27 August 2006
 
 ----------------------------------------------------------------------
 
+Rule 2129/0 (Power=1)
+Dishonor Rolls
+
+       When the Herald is ordered to place someone in the Chokey, e
+       shall publically award em the patent title "In the Chokey".
+
+       This title shall be automatically revoked after a length of time
+       indicated by the sentencing order, and the Herald shall announce
+       the revokation.  If a sentencing order is executed against a
+       defendant who already holds this title, the length of time of
+       the new sentencing order shall be added to the time left on any
+       previous ones.
+
+       A person is considered to be In Disgrace while in the Chokey,
+       between the execution and satisfaction of any sentencing orders
+       binding em, or if deregistered for lawlessness.  A person who
+       leaves the game in disgrace shall be awarded the Patent Title
+       Fugitive by the Herald.  A Player may revoke the title Fugitive
+       from emself as long as e is no longer in Disgrace.  A non-player
+       may have this title revoked by Agoran Consent.
+
+       The rules may further specify actions prohibited to persons in
+       particular types of disgrace.
+
+       The Herald is encouraged to publish lists of those in disgrace
+       separate from patent titles of honor, to indicate the disgrace.
+
+History:
+Created by Proposal 4879 (Murphy), 22 January 2007
+
+----------------------------------------------------------------------
+
 ======================================================================
 The University of Agora
   This Category includes Rules concerning the University of Agora,
@@ -3322,4 +3354,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4878]
+      [Last proposal with recorded effect on this ruleset: 4879]
