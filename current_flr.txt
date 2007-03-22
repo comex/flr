@@ -1233,6 +1233,10 @@ Separation of Powers
       are no other Players in the game eligible.  This Rule takes
       precedence over any other Rule that governs offices.
 
+[CFJ 1599: Because R1006 does not designate the Speaker as an office,
+ the restriction of R1450 does not apply to prevent the CotC or Promotor
+ from becoming Speaker.]
+
 History:
 Created by Proposal 1547, Apr. 14 1995
 Amended(1) by Proposal 2442, Feb. 6 1996
@@ -1339,6 +1343,9 @@ Voting on Agoran Decisions
       Other rules may place further constraints on the validity of
       ballots.  This rule takes precedence over any rule that would
       loosen the constraints specified by this rule.
+
+[CFJ 1609: To "clearly identif[y] the matter to be decided" does not
+ necessarily require specifying it in detail.]
 
 History:
 Initial Mutable Rule 207, Jun. 30 1993
@@ -1507,6 +1514,7 @@ Determining the Will of Agora
           achieved, then the option selected by Agora is ADOPTED.
           Otherwise, the option selected by Agora is REJECTED.
 
+[CFJ 1605: Unanimity exceeds finite numerical adoption indices.]
 
 History:
 Initial Mutable Rule 209, Jun. 30 1993
@@ -2082,6 +2090,14 @@ Linked Statements
       judge all of them.  The transferred CFJs become linked to the
       second judge's CFJ (and any others to which it is already linked).
 
+[CFJ 1602: A set of Linked CFJs is an entity distinct from the individual
+ CFJs from which it is composed.]
+
+[CFJ 1601: When a Judge is to be assigned to a set of Linked CFJs as
+ required by Rule 2024, references in Rule 698 to "that CFJ" or "that
+ increasingly annoying CFJ" refer to individual CFJs, not to the set
+ of CFJs.]
+
 History:
 Created by Proposal 4298 (Murphy), 17 May 2002
 Amended(1) by Proposal 4579 (Murphy), 15 June 2004
@@ -2171,6 +2187,14 @@ Always an Eligible Judge
 
       (c) This rule takes precedence over other rules concerning who
           is and is not eligible to judge CFJs.
+
+[CFJ 1600: In Rule 698 the phrase "all barred players" means all Players
+ that are Barred from Judging the increasingly annoying CFJ.]
+
+[CFJ 1601: When a Judge is to be assigned to a set of Linked CFJs as
+ required by Rule 2024, references in Rule 698 to "that CFJ" or "that
+ increasingly annoying CFJ" refer to individual CFJs, not to the set
+ of CFJs.]
 
 History:
 Created by Proposal 482 (Alexx), Sep. 30 1993
