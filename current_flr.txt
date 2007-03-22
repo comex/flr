@@ -906,7 +906,7 @@ Amended(18) by Proposal 4887 (Murphy), 22 January 2007
 
 ----------------------------------------------------------------------
 
-Rule 1006/11 (Power=1)
+Rule 1006/12 (Power=1)
 Offices
 
       The Rules may designate positions to be offices.  No office may
@@ -916,8 +916,8 @@ Offices
       office.
 
       The holder of an office may be referred to by the name of the
-      office.  The Herald shall list the holder of each office, and
-      the date upon which each holder last came to hold that office.
+      office.  The Herald's Report shall list the holder of each office,
+      and the date upon which each holder last came to hold that office.
 
       Any Player may make an active Player the holder of an office,
       thus removing any previous holder from the office, with Agoran
@@ -933,12 +933,12 @@ Offices
       officeholder in the following quarter, and make the change if
       consent is achieved.
 
-      If the duty of an office is to maintain certain information,
-      than the officer shall publish that information once a month, or
-      as soon as possible after a substantial change occurs in the
-      information or the officer receives a request for the
-      information.  A weekly report shall be sufficient to satisfy
-      these last two requirements.
+      If the duty of an office is to maintain certain information, then
+      the officer shall publish that information at least once a month,
+      or as soon as possible after a substantial change occurs in the
+      information or the officer receives a request for the information.
+      A weekly report shall be sufficient to satisfy these last two
+      requirements.
 
       If an Officer or the Speaker fails to satisfy a Timing Order to
       perform a certain official duty, than the player who executed the
@@ -962,6 +962,7 @@ Amended(8) by Proposal 4002 (harvel), May 8 2000
 Amended(9) by Proposal 4250 (harvel), 19 February 2002
 Amended(10) by Proposal 4868 (Goethe), 27 August 2006
 Amended(11) by Proposal 4887 (Murphy), 22 January 2007
+Amended(12) by Proposal 4889 (Murphy), 22 January 2007
 
 ----------------------------------------------------------------------
 
@@ -1873,25 +1874,19 @@ Amended(8) by Proposal 4867 (Goethe), 27 August 2006
 
 ----------------------------------------------------------------------
 
-Rule 1795/5 (Power=1)
+Rule 1795/6 (Power=1)
 Order Timing
 
-      An Order may specify the time limit for the performance of an
-      ordered action.  If a time limit is less than 72 hours after the
-      Order takes effect, the time limit shall be 72 hours.  If no
-      time limit is specified, time limit shall be as soon as possible
-      after the Order takes effect.
+      Orders to perform an action shall be satisfied as soon as
+      possible, unless the Order specifies a different time limit.  The
+      minimum time limit is 72 hours after the Order takes effect; any
+      time limit that would be shorter is extended to the minimum.
 
-      If an Order which commands the performance of an action is
-      directed to an Office or other position of authority, and the
-      holder of that position of authority changes after the Order
-      takes effect, but before the Order is satisfied, then the
-      current holder shall have as soon as possible to satisfy that
-      order.
-
-      The noncompliance of an order with this Rule does not deprive
-      that order of all effect, but instead modifies the timing
-      requirements of the order.
+      If an Order to perform an action is directed to an Office or other
+      position of authority, and the holder of that position changes
+      after the Order takes effect, but before the Order is satisfied,
+      then the time limit is extended (if needed) to one week after the
+      change.
 
 History:
 Created by Proposal 3704 (General Chaos), Mar. 19 1998
@@ -1900,6 +1895,7 @@ Amended(2) by Proposal 3823 (Oerjan), Jan. 21 1999
 Amended(3) by Proposal 3950 (harvel), Dec. 8 1999
 Amended(4) by Proposal 4810 (Goethe), 20 June 2005
 Amended(5) by Proposal 4867 (Goethe), 27 August 2006
+Amended(6) by Proposal 4889 (Murphy), 22 January 2007
 
 ----------------------------------------------------------------------
 
@@ -3377,4 +3373,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4886]
+      [Last proposal with recorded effect on this ruleset: 4889]
