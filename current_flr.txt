@@ -1763,7 +1763,7 @@ Created by Proposal 3869 (General Chaos), May 24 1999
 
 ----------------------------------------------------------------------
 
-Rule 2019/5 (Power=2)
+Rule 2019/6 (Power=2)
 The Speaker's Veto
 
       The Speaker may veto an Ordinary Proposal in its voting period
@@ -1772,9 +1772,9 @@ The Speaker's Veto
       plus one, other rules governing quorum notwithstanding.
 
       As soon as possible after a vetoed proposal fails quorum, the
-      Assessor shall place a copy of that proposal to the Proposal
-      Pool.  When e does so, that copy shall become distributable and
-      democratic, and its adoption index shall be increased by one.
+      Promotor shall add a copy of that proposal to the Proposal Pool.
+      When e does so, that copy shall become distributable and democratic,
+      and its adoption index shall be increased by one.
 
       The Speaker may Rubberstamp an Ordinary Proposal in its voting
       period by announcement.  Quorum for a rubberstamped ordinary
@@ -1787,6 +1787,7 @@ Amended(2) by Proposal 4717 (Murphy), 25 April 2005
 Amended(3) by Proposal 4811 (Maud, Goethe), 20 June 2005
 Amended(4) by Proposal 4836 (Goethe, Maud), 2 October 2005
 Amended(5) by Proposal 4840 (Goethe), 27 October 2005
+Amended(6) by Proposal 4885 (Murphy), 22 January 2007
 
 ----------------------------------------------------------------------
 
@@ -3361,4 +3362,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4884]
+      [Last proposal with recorded effect on this ruleset: 4885]
