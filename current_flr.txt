@@ -21,15 +21,15 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 88 Rules:
+There are currently 90 Rules:
     1 with Power=4
    25 with Power=3
     9 with Power=2
-   53 with Power=1
+   55 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2130
-Highest Rule Number assigned so far: 2131
+Highest current Rule Number:         2133
+Highest Rule Number assigned so far: 2133
 
 ======================================================================
 Table of Contents:
@@ -2046,46 +2046,39 @@ Amended(5) by Proposal 4887 (Murphy), 22 January 2007
 
 ----------------------------------------------------------------------
 
-Rule 2024/5 (Power=1)
+Rule 2024/6 (Power=1)
 Linked Statements
 
-      Linked CFJs are multiple Calls for Judgement that are submitted
-      in a single message and clearly labeled as Linked CFJs.
+      Linked CFJs are multiple Calls for Judgement deemed to be
+      sufficiently similar that they should have a single judge.
 
-      When submitting Linked CFJs, the players (if any) barred by the
-      caller from judging the first CFJ are the only players e may bar
-      from judging any of the other CFJs.
+      Linkage is transitive.  When a set of one or more linked CFJs
+      change jurisdiction, they remain linked to each other, but
+      become unlinked from any other CFJs; they may become linked
+      to one or more CFJs within the new jurisdiction.
 
-      The Clerk of the Courts shall assign a Judge to a set of Linked
-      CFJs, as if they were a single CFJ.  The Judge must be eligible
-      to Judge each of the Linked CFJs, and is simultaneously assigned
-      as Judge of each of the Linked CFJs.
+      Multiple CFJs, submitted in a single message and clearly
+      labelled as Linked CFJs, become linked.  The players (if any)
+      barred by the caller from judging the first CFJ are the only
+      players e may bar from judging the others.
 
-      A Judge (the first judge) may transfer a CFJ to a second judge
-      by announcement, thus linking the first and second CFJs and
-      unlinking the first CFJ with any it was previously linked to,
-      with the second judge's consent and provided the second judge
-      has not been barred or recused from the first CFJ.
+      The Clerk of the Courts shall not assign judges directly to the
+      members of a set of Linked CFJs, but shall assign a judge to the
+      set, as if it was a single CFJ.  The judge must be eligible to
+      judge each member of the set, and is simultaneously assigned
+      as judge of each member of the set.
 
-      The Judge of a set of Linked CFJs shall submit eir Judgement of
+      The judge of a set of Linked CFJs shall submit eir judgement of
       each of those CFJs in a single message.
 
-      If one or more Linked CFJs beyond the first are unrelated in
-      subject matter to the first, then a Trial Judge may remand those
-      CFJs to the Clerk of the Courts; e ceases to be Judge of those
-      CFJs.
+      A trial judge may remand one or more linked CFJs to the Clerk of
+      the Courts by announcement.  E ceases to be their judge.
 
-      If a Trial Judge is recused from a Linked CFJ, then it ceases to
-      be Linked to any other CFJ.  If a Trial Judge is recused from
-      two or more Linked CFJs in a single message, or if a Trial Judge
-      is simultaneously and automatically recused from two or more
-      Linked CFJs, then those CFJs continue to be Linked to each
-      other, but not to any other CFJs to which the Judge is still
-      assigned.
-
-      A CFJ made by a person who has previously made five or more CFJs
-      during the same Agoran Week is an Excess CFJ.  The Clerk of the
-      Courts may dismiss any Excess CFJ.
+      A trial judge may transfer one or more of eir CFJs to a second
+      trial judge by announcement (identifying one of the second judge's
+      CFJs), provided that the second judge consents, and is eligible to
+      judge all of them.  The transferred CFJs become linked to the
+      second judge's CFJ (and any others to which it is already linked).
 
 History:
 Created by Proposal 4298 (Murphy), 17 May 2002
@@ -2094,6 +2087,19 @@ Amended(2) by Proposal 4659 (root), 29 March 2005
 Amended(3) by Proposal 4867 (Goethe), 27 August 2006
 Amended(4) by Proposal 4887 (Murphy), 22 January 2007
 Amended(5) by Proposal 4895 (Murphy), 12 February 2007
+Amended(6) by Proposal 4912 (Murphy), 21 March 2007
+
+----------------------------------------------------------------------
+
+Rule 2132/0 (Power=1)
+Excess CFJs
+
+      A CFJ made by a person who has previously made five or more CFJs
+      during the same Agoran Week as that CFJ is an Excess CFJ.  The
+      Clerk of the Courts may dismiss an Excess CFJ by announcement.
+
+History:
+Created by Proposal 4912 (Murphy), 21 March 2007
 
 ----------------------------------------------------------------------
 
@@ -2185,28 +2191,27 @@ Amended(15) by Proposal 4867 (Goethe), 27 August 2006
 
 ----------------------------------------------------------------------
 
-Rule 1871/8 (Power=1)
+Rule 1871/9 (Power=1)
 Turns for All
 
-      Whenever a player is selected as Trial Judge of a CFJ, e becomes
-      turned.  Turned players are ineligible to be Trial Judge of any
-      future CFJs.  When a player registers, e is considered turned.
+      When a player is selected as Trial Judge of a CFJ, e becomes
+      turned.  A player is ineligible to be Trial Judge of a CFJ if
+      e was turned when it was called.
 
-      Whenever an open CFJ has no Trial Judge assigned to it, and
-      there are no players eligible to be assigned, the Clerk of the
-      Courts shall publish a Notice of Rotation, specifying at least
-      one such CFJ.  Upon such an announcement, all turned players
-      become unturned.
+      When a player registers, e becomes turned.
 
-      The CotC may turn a player e expects to judge CFJs slowly or not
-      at all, without 2 objections.
+      The Clerk of the Courts may (without 2 objections) turn a
+      player.  E is encouraged to do this only if e expects the
+      player to judge CFJs slowly or not at all.
 
-      If the Clerk of the Courts errs in good faith by selecting a
-      Player to Judge a CFJ or Appeal who is not eligible to judge
-      that CFJ or Appeal solely because e is turned, then that
-      selection shall stand, unless the Clerk of the Courts points out
-      eir error and makes a new selection before the selected Player
-      returns Judgement.
+      When the Clerk of the Courts publishes a Notice of Rotation, all
+      players become unturned.  The Clerk of the Courts shall only do
+      so when all open CFJs without a Trial Judge have no players
+      eligible to be assigned, and at least one of them has at least
+      one player ineligible solely to being turned; e shall list all
+      CFJs in the first set, and at least one in the second.  However,
+      failing to meet these requirements does not deprive the Notice
+      of effect.
 
 History:
 Created by Proposal 3821 (Blob), Jan. 12 1999
@@ -2218,6 +2223,20 @@ Amended(5) by Proposal 4596 (Murphy), 4 July 2004
 Amended(6) by Proposal 4648 (Kolja), 22 March 2005
 Amended(7) by Proposal 4691 (root), 18 April 2005
 Amended(8) by Proposal 4867 (Goethe), 27 August 2006
+Amended(9) by Proposal 4912 (Murphy), 21 March 2007
+
+----------------------------------------------------------------------
+
+Rule 2133/0 (Power=1)
+Pragmatic Judicial Assignments
+
+      If the Clerk of the Courts errs in good faith by assigning an
+      ineligible judge, then the selection stands.  However, if the
+      player has not yet delivered judgement, then the Clerk of the
+      Courts may point out eir error and recuse the player.
+
+History:
+Created by Proposal 4912 (Murphy), 21 March 2007
 
 ----------------------------------------------------------------------
 
@@ -3390,4 +3409,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4895]
+      [Last proposal with recorded effect on this ruleset: 4912]
