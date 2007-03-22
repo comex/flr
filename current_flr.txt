@@ -21,15 +21,15 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 87 Rules:
+There are currently 88 Rules:
     1 with Power=4
    25 with Power=3
     9 with Power=2
-   52 with Power=1
+   53 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2129
-Highest Rule Number assigned so far: 2129
+Highest current Rule Number:         2130
+Highest Rule Number assigned so far: 2130
 
 ======================================================================
 Table of Contents:
@@ -480,6 +480,18 @@ Created by Proposal 3705 (Crito), Mar. 9 1998
 Amended(1) by Proposal 4099 (Murphy), Jan. 15 2001
 Amended(2) by Proposal 4147 (Wes), 13 May 2001
 Amended(3) by Proposal 4825 (Maud), 17 July 2005
+
+----------------------------------------------------------------------
+
+Rule 2130/0 (Power=1)
+Inactivity
+
+      A player may become active or inactive by announcement.
+
+      A player may, without objection, make another player inactive.
+
+History:
+Created by Proposal 4893 (Murphy), 12 February 2007
 
 ----------------------------------------------------------------------
 
@@ -3376,4 +3388,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4891]
+      [Last proposal with recorded effect on this ruleset: 4893]
