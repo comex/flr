@@ -143,12 +143,11 @@ Agoran Rights and Privileges
 
       Please treat Agora right good forever.
 
-[CFJ ???: "abide by all the Rules" means the Rules as a whole, not
- necessarily each individual Rule.
- CFJ 24: Players must obey the Rules even in out-of-game actions.
- CFJ 825: Players would have to obey the Rules even if 101 were
- repealed.
- CFJ 1132, Judged May 18, 1999: A Player failing to perform a duty
+[CFJ 24: Players must obey the Rules even in out-of-game actions.]
+
+[CFJ 825: Players must obey the Rules even if no Rule says so.]
+
+[CFJ 1132, Judged May 18, 1999: A Player failing to perform a duty
  required by the Rules within a reasonable time may be in violation
  of the Rules, even if the Rules do not provide a time limit for
  the performance of that duty.]
@@ -545,16 +544,19 @@ Fora
       performed at the time date-stamped on that message.
 
 [CFJ 752: Something sent to a Player who is obligated to send it to
- all Players is sufficient for sending something to the PF.
- CFJ 813: A Player need not prove that e can receive the PF.
- CFJ 831: The Date: header of a message is not necessarily the time
- at which the message takes effect.
- CFJ 1112, Judged TRUE Jan. 21 1999: "In order to submit a Proposal,
+ all Players is sufficient for sending something to the PF.]
+
+[CFJ 813: A Player need not prove that e can receive the PF.]
+
+[CFJ 831: The Date: header of a message is not necessarily the time
+ at which the message takes effect.]
+
+[CFJ 1112, Judged TRUE Jan. 21 1999: In order to submit a Proposal,
  in the sense of R1865 and elsewhere, it is not sufficient that a
  collection of text 'with the clear indication that that text is
  intended to become a Proposal' (R1483) merely be sent to the Public
  Forum by a Proposing Entity; the collection of text must also be
- received in the Public Forum."]
+ received in the Public Forum.]
 
 History:
 Created by Proposal 478 (Jim Shea), Sep. 20 1993
@@ -605,10 +607,8 @@ Definition Definitions
       This rule takes precedence over any other rules which dictate
       terminology or grammar.
 
-[CFJ 712: This includes referring to a Player by a method other than
- eir name or nickname, as long as it is unambiguous.
- CFJ 744: In the context of Rule Changes, text in an existing Rule
- must be quoted exactly in order to be unambiguous.]
+[CFJ 712: Referring to a Player by a method other than eir name or
+ nickname is acceptable, as long as it is unambiguous.]
 
 History:
 Created by Proposal 435 (Alexx), Aug. 30 1993
@@ -645,10 +645,6 @@ Common Definitions
         whose probability distribution among the possible outcomes is
         reasonably close to that required by the Rules, using a
         uniform distribution if not otherwise specified.
-
-[CFJ 1075: Rule 1023 should be interpreted such that no Rule with
- lower precedence than it can succeed in prohibiting activity of a
- purely discussionary nature.]
 
 History:
 Created by Proposal 805, ca. Jan. or Feb. 1994
@@ -1431,9 +1427,6 @@ Resolving Agoran decisions
       This rule takes precedence over any rule that would provide
       another mechanism by which an Agoran decision may be resolved.
 
-[CFJ 707: A Player may not change eir Vote after the end of the Voting
- Period.]
-
 History:
 Initial Mutable Rule 208, Jun. 30 1993
 Amended(1) by Proposal 1401, Jan. 29 1995
@@ -2152,9 +2145,9 @@ CFJ 1186 (Judged TRUE, Dec. 9 1999): "The Clerk of the Courts is
  eligible at the time that the CFJ was actually called for or when the
  identity of that Player is announced."
 
-[CFJ 1187, Judged TRUE Dec. 8 1999: "A Judge is considered to be
- assigned to Judge a particular CFJ at the time that the Clerk of the
- Courts announces the identity of the Judge, and no sooner."]
+[CFJ 1187, Dec. 8 1999: A Judge is considered to be assigned to Judge a
+ particular CFJ at the time that the Clerk of the Courts announces the
+ identity of the Judge, and no sooner.]
 
 History:
 Created by Proposal 3816 (Repeal-O-Matic), Dec. 21 1998
@@ -2371,15 +2364,15 @@ Judgements Must Accord with the Rules
       truth or falsity of the Statement at the time the CFJ was
       issued.
 
-[CFJ 684: An Injunction on the interpretation of a Rule is part of
- Game Custom.
- CFJ 897: The requirements in Rule 217 on Judgements apply to the
+[CFJ 897: The requirements in Rule 217 on Judgements apply to the
  determinations of the members of a Board of Appeal, as well as to
- the Judgements of Judges.
- CFJ 1139, Judged Jun. 20 1999: Judgements need not necessarily accord
+ the Judgements of Judges.]
+
+[CFJ 1139, Judged Jun. 20 1999: Judgements need not necessarily accord
  with the reasoning and arguments of Judges or Justices given in
- past CFJs.
- CFJ 1219, Judged May 23, 2000, Appeal decision published, Jun. 13
+ past CFJs.]
+
+[CFJ 1219, Judged May 23, 2000, Appeal decision published, Jun. 13
  2000: A mistaken Judgement (ie one that does not accord with the
  Rules) is still a Judgement, as long as the technical requirements on
  the delivery of the Judgement have been met.]
