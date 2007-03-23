@@ -34,7 +34,7 @@ Highest Rule Number assigned so far: 2133
 ======================================================================
 Table of Contents:
   The Game of Agora
-  Players and Entities
+  Players
   Definitions
   Offices
   Agoran Decisions
@@ -53,7 +53,8 @@ Table of Contents:
 
 ======================================================================
 The Game of Agora
-  This Category includes Rules applying to all aspects of this Nomic.
+  A category concerning this nomic generally, in matters of constitution,
+  history, and relationships between rules.
 ----------------------------------------------------------------------
 
 Rule 2105/1 (Power=1)
@@ -185,6 +186,29 @@ Regulation Regulations
 
 History:
 Created by Proposal 4866 (Goethe), 27 August 2006
+
+----------------------------------------------------------------------
+
+Rule 1586/2 (Power=2)
+Definition and Continuity of Entities
+
+      No two Rule-defined entities shall have the same name or
+      nickname.
+
+      If the Rules defining some entity are repealed or amended
+      such that they no longer define that entity, then that
+      entity along with all its properties shall cease to exist.
+
+      If the Rules defining an entity are amended such that they
+      still define that entity but with different properties,
+      that entity and its properties shall continue to exist to
+      whatever extent is possible under the new definitions.
+
+History:
+Created by Proposal 2481, Feb. 16 1996
+Amended(1) by Proposal 2795 (Andre), Jan. 30 1997, substantial
+Amended(2) by Proposal 3999 (harvel), May 2 2000
+Power changed from 1 to 2 by Proposal 3999 (harvel), May 2 2000
 
 ----------------------------------------------------------------------
 
@@ -381,31 +405,9 @@ Mutated from MI=Unanimity to MI=3 by Proposal 1482, Mar. 15 1995
 ----------------------------------------------------------------------
 
 ======================================================================
-Players and Entities
-  This is an eponymous category
-----------------------------------------------------------------------
-
-Rule 1586/2 (Power=2)
-Definition and Continuity of Entities
-
-      No two Rule-defined entities shall have the same name or
-      nickname.
-
-      If the Rules defining some entity are repealed or amended
-      such that they no longer define that entity, then that
-      entity along with all its properties shall cease to exist.
-
-      If the Rules defining an entity are amended such that they
-      still define that entity but with different properties,
-      that entity and its properties shall continue to exist to
-      whatever extent is possible under the new definitions.
-
-History:
-Created by Proposal 2481, Feb. 16 1996
-Amended(1) by Proposal 2795 (Andre), Jan. 30 1997, substantial
-Amended(2) by Proposal 3999 (harvel), May 2 2000
-Power changed from 1 to 2 by Proposal 3999 (harvel), May 2 2000
-
+Players
+  A category concerning players, including the processes of becoming
+  and ceasing to be players, and game-relevant aspects of players.
 ----------------------------------------------------------------------
 
 Rule 869/17 (Power=1)
@@ -499,8 +501,8 @@ Created by Proposal 4893 (Murphy), 12 February 2007
 
 ======================================================================
 Definitions
-  This Category includes definitions of terms which do not readily
-  fall into any other Category
+  A category of definitions of terms which do not readily fall into any
+  other category.
 ----------------------------------------------------------------------
 
 Rule 478/16 (Power=3)
@@ -846,7 +848,8 @@ Amended(1) by Proposal 4398 (harvel), 23 October 2002
 
 ======================================================================
 Offices
-  This Category is all about Offices (duh)
+  A category concerning official positions held by persons within
+  the game.
 ----------------------------------------------------------------------
 
 Rule 103/1 (Power=3)
@@ -1181,48 +1184,6 @@ Amended(13) by Proposal 4769 (Sherlock), 25 May 2005
 
 ----------------------------------------------------------------------
 
-Rule 1607/12 (Power=1)
-The Promotor
-
-      The Promotor is an office; its holder is responsible for
-      receiving and distributing proposals.
-
-      The Promotor is permitted to distribute a proposal in the
-      Proposal Pool at any time.  During each week, the Promotor must
-      distribute each proposal in the proposal pool which was in the
-      Proposal Pool at the beginning of the week.
-
-      The Promotor legally distributes a proposal by publishing it
-      accompanied by an explicit indication that it is being
-      distributed.  When a proposal is distributed, it is removed from
-      the Proposal Pool.  The distribution of a proposal initiates the
-      Agoran decision of whether to adopt the proposal, as described
-      elsewhere.
-
-      The Promotor shall include with the distribution of each
-      proposal the identity of its proposer, the proposal's coauthors,
-      if any, its chamber, and its adoption index.  However, the
-      failure of the Promotor to include any of these with a proposal
-      does not deprive the distribution of the proposal of any legal
-      effect.
-
-History:
-Created by Proposal 2522, Mar. 10 1996
-Amended(1) by Proposal 2662, Sep. 12 1996
-Amended(2) by Proposal 2696, Oct. 10 1996
-Null-Amended(3) by Proposal 2710, Oct. 12 1996
-Amended(4) by Proposal 3827 (Kolja A.), Feb. 4 1999
-Amended(5) by Proposal 3871 (Peekee), Jun. 2 1999
-Amended(6) by Proposal 3902 (Murphy), Sep. 6 1999
-Amended(7) by Proposal 4002 (harvel), May 8 2000
-Amended(8) by Proposal 4050 (t), Aug. 15 2000
-Amended(9) by Proposal 4085 (Blob), Nov. 16 2000
-Amended(10) by Proposal 4250 (harvel), 19 February 2002
-Amended(11) by Proposal 4486 (Michael), 24 April 2003
-Amended(12) by Proposal 4868 (Goethe), 27 August 2006
-
-----------------------------------------------------------------------
-
 Rule 1450/5 (Power=2)
 Separation of Powers
 
@@ -1249,7 +1210,8 @@ Power changed from 1 to 2 by Proposal 4868 (Goethe), 27 August 2006
 
 ======================================================================
 Agoran Decisions
-  This Category's rules describe how Agora makes its decisions
+  A category concerning the means by which this nomic makes collective
+  decisions.
 ----------------------------------------------------------------------
 
 Rule 693/9 (Power=3)
@@ -1607,6 +1569,108 @@ Amended(2) by Proposal 4811 (Maud, Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
 
+======================================================================
+Proposals
+  A category concerning instruments with general power to effect changes
+  to the game.
+----------------------------------------------------------------------
+
+Rule 106/2 (Power=3)
+Adopting Proposals
+
+      A proposal is a document outlining changes to be made to Agora,
+      including enacting, repealing, or amending rules, or making
+      other explicit changes to the gamestate.
+
+      A player submits a proposal by publishing it with a clear
+      indication that it is intended to become a proposal, which
+      places the proposal in the Proposal Pool.  The proposer of a
+      proposal may remove it from the Pool by announcement.
+
+      Determining whether to adopt a proposal is an Agoran decision.
+      For this decision, the available options are FOR, AGAINST, and
+      PRESENT, and by default, the eligible voters are the active
+      players, the adoption index is the adoption index of the
+      proposal, and the vote collector is the Speaker.
+
+      The default adoption index of a proposal is one.  Before the
+      Promotor distributes a proposal, its proposer may modify its
+      adoption index by announcement.  A Proposal with an Adoption
+      Index of 1 is Ordinary.  All other Proposals are Democratic.
+
+      If the option selected by Agora on this decision is ADOPTED,
+      then the proposal is adopted, and unless other rules prevent it
+      from taking effect, its power is set to the minimum of four and
+      its adoption index, and then it takes effect.  It does not
+      otherwise take effect.  This rule takes precedence over any rule
+      which would permit a proposal to take effect.
+
+History:
+Initial Immutable Rule 106, Jun. 30 1993
+Mutated from MI=Unanimity to MI=3 by Proposal 1073, Oct. 4 1994
+Amended by Proposal 1278, Oct. 24 1994
+Renumbered from 1073 to 106 by Rule 1295, Nov. 1 1994
+Infected, but not amended, by Rule 1454, May 7 1995
+Amended(1) by Proposal 3736 (Blob), May 3 1998
+Amended(2) by Proposal 4811 (Maud, Goethe), 20 June 2005
+
+----------------------------------------------------------------------
+
+Rule 1607/12 (Power=1)
+The Promotor
+
+      The Promotor is an office; its holder is responsible for
+      receiving and distributing proposals.
+
+      The Promotor is permitted to distribute a proposal in the
+      Proposal Pool at any time.  During each week, the Promotor must
+      distribute each proposal in the proposal pool which was in the
+      Proposal Pool at the beginning of the week.
+
+      The Promotor legally distributes a proposal by publishing it
+      accompanied by an explicit indication that it is being
+      distributed.  When a proposal is distributed, it is removed from
+      the Proposal Pool.  The distribution of a proposal initiates the
+      Agoran decision of whether to adopt the proposal, as described
+      elsewhere.
+
+      The Promotor shall include with the distribution of each
+      proposal the identity of its proposer, the proposal's coauthors,
+      if any, its chamber, and its adoption index.  However, the
+      failure of the Promotor to include any of these with a proposal
+      does not deprive the distribution of the proposal of any legal
+      effect.
+
+History:
+Created by Proposal 2522, Mar. 10 1996
+Amended(1) by Proposal 2662, Sep. 12 1996
+Amended(2) by Proposal 2696, Oct. 10 1996
+Null-Amended(3) by Proposal 2710, Oct. 12 1996
+Amended(4) by Proposal 3827 (Kolja A.), Feb. 4 1999
+Amended(5) by Proposal 3871 (Peekee), Jun. 2 1999
+Amended(6) by Proposal 3902 (Murphy), Sep. 6 1999
+Amended(7) by Proposal 4002 (harvel), May 8 2000
+Amended(8) by Proposal 4050 (t), Aug. 15 2000
+Amended(9) by Proposal 4085 (Blob), Nov. 16 2000
+Amended(10) by Proposal 4250 (harvel), 19 February 2002
+Amended(11) by Proposal 4486 (Michael), 24 April 2003
+Amended(12) by Proposal 4868 (Goethe), 27 August 2006
+
+----------------------------------------------------------------------
+
+Rule 1698/0 (Power=3)
+The Proposal System Is Protected
+
+      It must always be possible to adopt Proposals within a 4 week
+      period. Any change to the game state which would result in
+      this condition becoming false is cancelled and does not take
+      place, any Rule to the contrary notwithstanding.
+
+History:
+Created by Proposal 3465 (Steve), Apr. 26 1997
+
+----------------------------------------------------------------------
+
 Rule 2126/3 (Power=3)
 Voting Credits
 
@@ -1657,65 +1721,6 @@ Created by Proposal 4872 (OscarMeyr), 26 October 2006
 Amended(1) by Proposal 4884 (Murphy), 22 January 2007
 Amended(2) by Proposal 4914 (OscarMeyr), 21 March 2007
 Amended(3) by Proposal 4914 (OscarMeyr), 21 March 2007
-
-----------------------------------------------------------------------
-
-======================================================================
-Proposals
-  This descriptive tag line intentionally left uninformative
-----------------------------------------------------------------------
-
-Rule 106/2 (Power=3)
-Adopting Proposals
-
-      A proposal is a document outlining changes to be made to Agora,
-      including enacting, repealing, or amending rules, or making
-      other explicit changes to the gamestate.
-
-      A player submits a proposal by publishing it with a clear
-      indication that it is intended to become a proposal, which
-      places the proposal in the Proposal Pool.  The proposer of a
-      proposal may remove it from the Pool by announcement.
-
-      Determining whether to adopt a proposal is an Agoran decision.
-      For this decision, the available options are FOR, AGAINST, and
-      PRESENT, and by default, the eligible voters are the active
-      players, the adoption index is the adoption index of the
-      proposal, and the vote collector is the Speaker.
-
-      The default adoption index of a proposal is one.  Before the
-      Promotor distributes a proposal, its proposer may modify its
-      adoption index by announcement.  A Proposal with an Adoption
-      Index of 1 is Ordinary.  All other Proposals are Democratic.
-
-      If the option selected by Agora on this decision is ADOPTED,
-      then the proposal is adopted, and unless other rules prevent it
-      from taking effect, its power is set to the minimum of four and
-      its adoption index, and then it takes effect.  It does not
-      otherwise take effect.  This rule takes precedence over any rule
-      which would permit a proposal to take effect.
-
-History:
-Initial Immutable Rule 106, Jun. 30 1993
-Mutated from MI=Unanimity to MI=3 by Proposal 1073, Oct. 4 1994
-Amended by Proposal 1278, Oct. 24 1994
-Renumbered from 1073 to 106 by Rule 1295, Nov. 1 1994
-Infected, but not amended, by Rule 1454, May 7 1995
-Amended(1) by Proposal 3736 (Blob), May 3 1998
-Amended(2) by Proposal 4811 (Maud, Goethe), 20 June 2005
-
-----------------------------------------------------------------------
-
-Rule 1698/0 (Power=3)
-The Proposal System Is Protected
-
-      It must always be possible to adopt Proposals within a 4 week
-      period. Any change to the game state which would result in
-      this condition becoming false is cancelled and does not take
-      place, any Rule to the contrary notwithstanding.
-
-History:
-Created by Proposal 3465 (Steve), Apr. 26 1997
 
 ----------------------------------------------------------------------
 
@@ -1820,7 +1825,8 @@ Amended(7) by Proposal 4887 (Murphy), 22 January 2007
 
 ======================================================================
 Orders
-  This Category includes Rules concerning Orders generally.
+  A category concerning instruments with power to compel entities to
+  act in particular ways.
 ----------------------------------------------------------------------
 
 Rule 1793/2 (Power=1)
@@ -1977,7 +1983,7 @@ Amended(5) by Proposal 4867 (Goethe), 27 August 2006
 
 ======================================================================
 Calling for Judgement
-  This Category includes Rules regulating calling for Judgement.
+  A category concerning general aspects of the judicial system.
 ----------------------------------------------------------------------
 
 Rule 991/6 (Power=2)
@@ -2120,8 +2126,7 @@ Created by Proposal 4912 (Murphy), 21 March 2007
 
 ======================================================================
 Selecting a Judge
-  This Category includes Rules describing how a Judge is selected
-  for a CFJ.
+  A category concerning the assignment of judges to judicial cases.
 ----------------------------------------------------------------------
 
 Rule 1868/4 (Power=1)
@@ -2265,8 +2270,8 @@ Created by Proposal 4912 (Murphy), 21 March 2007
 
 ======================================================================
 Delivering Judgement
-  This Category includes Rules regulating the Judgement delivered
-  by the Judge, as well as Judicial Orders
+  A category concerning the making and delivery of judgement, other ways
+  to dispose of a judicial case, and other effects of a judgement.
 ----------------------------------------------------------------------
 
 Rule 591/18 (Power=1)
@@ -2623,8 +2628,8 @@ Amended(10) by Proposal 4887 (Murphy), 22 January 2007
 
 ======================================================================
 Overturning Judgement
-  This Category Includes Rules regulating the overturning of
-  Judgements, Appellate Orders, and the office of Justiciar.
+  A category concerning the appeal of judicial cases, overturning of
+  judgements, and other effects of appellate hearings.
 ----------------------------------------------------------------------
 
 Rule 1564/13 (Power=1)
@@ -2872,8 +2877,8 @@ Amended(2) by Proposal 4867 (Goethe), 27 August 2006
 
 ======================================================================
 Rule Violations
-  This Category includes Rules describing actions to be taken
-  concerning violations of the Rules.
+  A category concerning sentencing of persons found to have violated
+  the rules.
 ----------------------------------------------------------------------
 
 Rule 1504/9 (Power=1)
@@ -2971,7 +2976,7 @@ Amended(16) by Proposal 4867 (Goethe), 27 August 2006
 
 ======================================================================
 Patent Titles and Degrees
-  This Category includes Rules regulating Patent Titles and Degrees.
+  A category concerning titles of honor and dishonor.
 ----------------------------------------------------------------------
 
 Rule 649/18 (Power=1)
@@ -3227,7 +3232,8 @@ Created by Proposal 4879 (Murphy), 22 January 2007
 
 ======================================================================
 Indulgences and Blots
-  This Category includes Rules concerning Indulgences and Blots.
+  A category mostly eviscerated by repeal, concerning obsolete aspects
+  of abandoned entities.
 ----------------------------------------------------------------------
 
 Rule 1437/6 (Power=1)
@@ -3255,8 +3261,7 @@ Amended(6) by Proposal 4272 (Murphy), 22 March 2002
 
 ======================================================================
 Contract Law
-  This Category includes general Rules regulating Contracts between
-  Players.
+  A category concerning binding agreements between players.
 ----------------------------------------------------------------------
 
 Rule 1742/4 (Power=1)
@@ -3398,7 +3403,7 @@ Amended(6) by Proposal 4887 (Murphy), 22 January 2007
 
 ======================================================================
 Winners' Hall of Ugly Fountains
-  This category includes rules commemorating Player victories.
+  A category commemorating past scams.
 ----------------------------------------------------------------------
 
 Rule 2029/0 (Power=4)
