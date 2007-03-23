@@ -46,7 +46,6 @@ Table of Contents:
   Overturning Judgement
   Rule Violations
   Patent Titles and Degrees
-  The University of Agora
   Indulgences and Blots
   Contract Law
   Winners' Hall of Ugly Fountains
@@ -3170,6 +3169,30 @@ Amended(16) by Proposal 4887 (Murphy), 22 January 2007
 
 ----------------------------------------------------------------------
 
+Rule 2092/0 (Power=2)
+Honorary Degrees
+
+      A degree may be awarded by the operation of an adopted Proposal
+      whose Power is at least two to any person who is not registered
+      as a Player and who does not already bear that degree.  The
+      Proposal must specify both the recipient of the degree and the
+      degree to be awarded.  For a degree to be awarded in this
+      manner, the recipient need not complete a Thesis, but all other
+      requirements specific to the degree in question must be
+      satisfied.
+
+      Degrees awarded as described in this rule shall be marked as
+      honorary degrees in the Herald's report.  A person bearing an
+      honorary degree may still be awarded the same degree by other
+      rule-defined mechanisms.  When this occurs, the person shall
+      cease to bear the honorary degree and shall bear the new degree
+      in its place.
+
+History:
+Created by Proposal 4688 (root), 18 April 2005
+
+----------------------------------------------------------------------
+
 Rule 2129/0 (Power=1)
 Dishonor Rolls
 
@@ -3199,36 +3222,6 @@ Dishonor Rolls
 
 History:
 Created by Proposal 4879 (Murphy), 22 January 2007
-
-----------------------------------------------------------------------
-
-======================================================================
-The University of Agora
-  This Category includes Rules concerning the University of Agora,
-  Theses and that subset of Patent Titles known as Degrees.
-----------------------------------------------------------------------
-
-Rule 2092/0 (Power=2)
-Honorary Degrees
-
-      A degree may be awarded by the operation of an adopted Proposal
-      whose Power is at least two to any person who is not registered
-      as a Player and who does not already bear that degree.  The
-      Proposal must specify both the recipient of the degree and the
-      degree to be awarded.  For a degree to be awarded in this
-      manner, the recipient need not complete a Thesis, but all other
-      requirements specific to the degree in question must be
-      satisfied.
-
-      Degrees awarded as described in this rule shall be marked as
-      honorary degrees in the Herald's report.  A person bearing an
-      honorary degree may still be awarded the same degree by other
-      rule-defined mechanisms.  When this occurs, the person shall
-      cease to bear the honorary degree and shall bear the new degree
-      in its place.
-
-History:
-Created by Proposal 4688 (root), 18 April 2005
 
 ----------------------------------------------------------------------
 
