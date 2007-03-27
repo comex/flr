@@ -57,7 +57,7 @@ The Game of Agora
   history, and relationships between rules.
 ----------------------------------------------------------------------
 
-Rule 2105/1 (Power=1)
+Rule 2105/2 (Power=1)
 The Map of Agora
 
                                 ____  _        /|
