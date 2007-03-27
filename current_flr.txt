@@ -423,6 +423,9 @@ How to Join and Leave Agora
       a player and is prohibited from registering for the next thirty
       days.
 
+[CFJ 1275: An entity is a Player if the Rules cannot distinguish that
+ entity from a Player.]
+
 [CFJ 1622: "person" in the rules means "legal person", which includes
  partnerships that exist under the rules.]
 
@@ -550,6 +553,11 @@ Fora
 
 [CFJ 831: The Date: header of a message is not necessarily the time
  at which the message takes effect.]
+
+[CFJ 866: A message is "received" when the message enters the recipient's
+ normal technical domain of control, whether this be eir private machine
+ or eir private account on a shared machine (but not the shared machine
+ itself, if the recipient does not control it).]
 
 [CFJ 1112, Judged TRUE Jan. 21 1999: In order to submit a Proposal,
  in the sense of R1865 and elsewhere, it is not sufficient that a
@@ -2649,6 +2657,8 @@ Initiating Appeals
       As soon as possible after an Appeal is initiated, or a Player
       becomes or ceases to be an Appellate judge, the Clerk of the
       Courts shall announce the event.
+
+[CFJ 1273: dismissal of a CFJ is subject to Appeal.]
 
 History:
 Created by Proposal 2457, Feb. 16 1996
