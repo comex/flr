@@ -1576,7 +1576,7 @@ Proposals
   to the game.
 ----------------------------------------------------------------------
 
-Rule 106/2 (Power=3)
+Rule 106/3 (Power=3)
 Adopting Proposals
 
       A proposal is a document outlining changes to be made to Agora,
@@ -1614,6 +1614,7 @@ Renumbered from 1073 to 106 by Rule 1295, Nov. 1 1994
 Infected, but not amended, by Rule 1454, May 7 1995
 Amended(1) by Proposal 3736 (Blob), May 3 1998
 Amended(2) by Proposal 4811 (Maud, Goethe), 20 June 2005
+Amended(3) by Proposal 4868 (Goethe), 27 August 2006
 
 ----------------------------------------------------------------------
 
