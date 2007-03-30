@@ -286,7 +286,7 @@ CFJ 1104 (Judged TRUE, Sep. 9 1998): "The presence in a Rule of
  nullified in all cases.]
 
 History:
-Initial Mutable Rule 202, Jun. 30 1993
+Initial Mutable Rule 212, Jun. 30 1993
 Amended by Proposal 1030, Sep. 15 1994
 Amended by Rule 750, Sep. 15 1994
 Amended(1) by Proposal 1527, Mar. 24 1995
