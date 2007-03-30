@@ -426,8 +426,8 @@ How to Join and Leave Agora
 [CFJ 1275: An entity is a Player if the Rules cannot distinguish that
  entity from a Player.]
 
-[CFJ 1622: "person" in the rules means "legal person", which includes
- partnerships that exist under the rules.]
+[CFJ 1622, CFJ 1623: "person" in the rules means "legal person", which
+ includes partnerships that exist under the rules.]
 
 [CFJ 1614: Being any type of foodstuff has no relation to personhood.]
 
@@ -1476,7 +1476,7 @@ Determining the Will of Agora
           achieved, then the option selected by Agora is ADOPTED.
           Otherwise, the option selected by Agora is REJECTED.
 
-[CFJ 1605: Unanimity exceeds finite numerical adoption indices.]
+[CFJ 1605, CFJ 1608: Unanimity exceeds finite numerical adoption indices.]
 
 History:
 Initial Mutable Rule 209, Jun. 30 1993
