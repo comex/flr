@@ -21,11 +21,11 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 90 Rules:
+There are currently 89 Rules:
     1 with Power=4
    25 with Power=3
     9 with Power=2
-   55 with Power=1
+   54 with Power=1
 
 Lowest current Rule Number:           101
 Highest current Rule Number:         2133
@@ -46,7 +46,6 @@ Table of Contents:
   Overturning Judgement
   Rule Violations
   Patent Titles and Degrees
-  Indulgences and Blots
   Contract Law
   Winners' Hall of Ugly Fountains
 ----------------------------------------------------------------------
@@ -3237,35 +3236,6 @@ Created by Proposal 4879 (Murphy), 22 January 2007
 ----------------------------------------------------------------------
 
 ======================================================================
-Indulgences and Blots
-  A category mostly eviscerated by repeal, concerning obsolete aspects
-  of abandoned entities.
-----------------------------------------------------------------------
-
-Rule 1437/6 (Power=1)
-Fugitives from Justice
-
-      When a Player deregisters or is deregistered, e keeps eir Stain
-      (though it may be modified by other Rules).  A non-Player with a
-      non-zero Stain is known as a Fugitive from Justice.
-
-      At the beginning of the month, the Herald shall expunge half the
-      Blots of each Fugitive from Justice; however, no Fugitive from
-      Justice shall have eir Stain reduced to less than one by this
-      method.
-
-History:
-Created by Proposal 1458, Mar. 1 1995
-Amended(1) by Proposal 2789 (favor), Jan. 25 1997, substantial
-Amended(2) by Proposal 3476 (Oerjan), May 11 1997, substantial
-Amended(3) by Proposal 3533 (General Chaos), Jul. 15 1997, substantial
-Amended(4) by Proposal 3823 (Oerjan), Jan. 21 1999
-Amended(5) by Proposal 3901 (Schneidster), Sep. 6 1999
-Amended(6) by Proposal 4272 (Murphy), 22 March 2002
-
-----------------------------------------------------------------------
-
-======================================================================
 Contract Law
   A category concerning binding agreements between players.
 ----------------------------------------------------------------------
@@ -3433,4 +3403,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4919]
+      [Last proposal with recorded effect on this ruleset: 4921]
