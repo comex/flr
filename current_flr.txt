@@ -2559,15 +2559,17 @@ Amended(2) by Proposal 4810 (Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 789/6 (Power=1)
+Rule 789/7 (Power=1)
 Orders to Annotate Rules
 
       The Judge of any CFJ, the Statement of which alleges that a Rule
-      should be interpreted in a certain way, which is judged TRUE,
-      may, at eir discretion, issue an Order requiring the Rulekeepor
-      to annotate the Rule in question with the Statement of that CFJ.
-      Such an annotation, while it exists, shall guide application of
-      that Rule.
+      should be interpreted in a certain way, which is judged TRUE
+      or FALSE, may, at eir discretion, issue an Order requiring the
+      Rulekeepor to annotate the Rule in question accordingly.  If the
+      CFJ was judged TRUE then the annotation shall be the Statement
+      of the CFJ, and if the CFJ was judged FALSE then the annotation
+      shall be the contrary of the Statement of the CFJ.  Such an
+      annotation, while it exists, shall guide application of that Rule.
 
       The Rulekeepor may remove such an annotation only if that Rule
       is repealed; if required to do so by a valid Order; or if the
@@ -2594,6 +2596,7 @@ Amended(3) by Proposal 2684, Oct. 3 1996
 Amended(4) by Proposal 3704 (General Chaos), Mar. 19 1998
 Amended(5) by Proposal 3768 (Chuck), Jul. 22 1998
 Amended(6) by Proposal 4867 (Goethe), 27 August 2006
+Amended(7) by Proposal 4917 (Zefram), 2 April 2007
 
 ----------------------------------------------------------------------
 
@@ -3430,4 +3433,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4915]
+      [Last proposal with recorded effect on this ruleset: 4917]
