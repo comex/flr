@@ -683,7 +683,7 @@ Amended(17) by Proposal 4866 (Goethe), 27 August 2006
 
 ----------------------------------------------------------------------
 
-Rule 1728/11 (Power=2)
+Rule 1728/12 (Power=2)
 Dependent Actions
 
       An action is dependent, or may be performed dependently, if and
@@ -724,7 +724,8 @@ Dependent Actions
 
            (1)  if the action is to be performed Without N Objections,
                 fewer than N players have publicly posted objections
-                to the performance of the action; or
+                (and not publicly retracted eir objections) to the
+                performance of the action; or
 
            (2)  if the action is to be performed With N Supporters, at
                 least N players other than the player who made the
@@ -740,11 +741,6 @@ Dependent Actions
       (g)  e announces that e performs the described action.
 
       A dependent action is not performed until announced as in (g).
-
-      A player who posts an objection to the performance of an action
-      may publicly retract eir objection.  If e does so, e shall be
-      deemed not have posted an objection to the performance of that
-      action for the purposes of (e)(1) of this rule.
 
       The specification in the rules that an action may be performed
       dependently does not prohibit performing that action
@@ -769,6 +765,7 @@ Power changed from 1 to 2 by Proposal 4121 (Ziggy), Mar. 16 2001
 Amended(9) by Proposal 4121 (Ziggy), Mar. 16 2001
 Amended(10) by Proposal 4279 (harvel), 3 April 2002
 Amended(11) by Proposal 4461 (Maud), 17 March 2003
+Amended(12) by Proposal 4915 (Murphy), 2 April 2007
 
 ----------------------------------------------------------------------
 
@@ -1771,16 +1768,15 @@ Amended(1) by Proposal 4894 (Murphy), 12 February 2007
 
 ----------------------------------------------------------------------
 
-Rule 1891/0 (Power=1)
+Rule 1891/1 (Power=1)
 Legislative Orders
 
       (a) A Proposal may contain one or more Orders.
 
       (b) The effect of adopting a Proposal which contains Orders is
           to execute those Orders.  Such Orders are known as
-          Legislative Orders, are deemed to have been executed by that
-          Proposal, and are deemed to have been executed as of the
-          date of the proclamation of the Proposal's adoption.
+          Legislative Orders, and are executed by that Proposal as
+          of the date of the proclamation of the Proposal's adoption.
 
       (c) Legislative Orders may not be stayed, vacated, or amended
           except:
@@ -1795,6 +1791,7 @@ Legislative Orders
 
 History:
 Created by Proposal 3869 (General Chaos), May 24 1999
+Amended(1) by Proposal 4915 (Murphy), 2 April 2007
 
 ----------------------------------------------------------------------
 
@@ -3433,4 +3430,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4914]
+      [Last proposal with recorded effect on this ruleset: 4915]
