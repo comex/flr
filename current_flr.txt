@@ -1758,6 +1758,10 @@ Rule Changes
       This rule provides the only mechanism by which rules can be
       enacted, modified, or repealed.
 
+CFJ 1626: A rule cannot directly enact, modify, or repeal a rule
+(including itself), unless it takes precedence over the last paragraph
+of Rule 105.
+
 [CFJ 708: An Amendment of a non-existing Rule is not a legal Rule
  Change.]
 
