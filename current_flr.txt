@@ -1518,7 +1518,7 @@ Amended(1) by Proposal 1471, Mar. 8 1995
 Amended(2) by Proposal 1554, Apr. 17 1995
 Amended(3) by Proposal 1708, Sep. 4 1995
 Infected and Amended(4) by Rule 1454, Jul. 27 1996
-Amended(5) by Proposal 2786 (Steve), Jan. 15 1996, substantial
+Amended(5) by Proposal 2786 (Steve), Jan. 15 1997, substantial
 Amended(6) by Proposal 3643 (General Chaos), Dec. 29 1997
 Amended(7) by Proposal 3777 (Blob), Aug. 3 1998
 Amended(8) by Proposal "A Separation of Powers" (Steve, Without
