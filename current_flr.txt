@@ -21,11 +21,11 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 89 Rules:
+There are currently 91 Rules:
     1 with Power=4
    25 with Power=3
-    9 with Power=2
-   54 with Power=1
+   10 with Power=2
+   55 with Power=1
 
 Lowest current Rule Number:           101
 Highest current Rule Number:         2133
@@ -37,6 +37,7 @@ Table of Contents:
   Players
   Definitions
   Offices
+  The Oligarchy
   Agoran Decisions
   Proposals
   Orders
@@ -45,6 +46,7 @@ Table of Contents:
   Delivering Judgement
   Overturning Judgement
   Rule Violations
+  The Registrar
   Patent Titles and Degrees
   Contract Law
   Winners' Hall of Ugly Fountains
@@ -1208,6 +1210,31 @@ Amended(3) by Proposal 4576 (root), 31 May 2004
 Amended(4) by Proposal 4592 (Murphy), 4 July 2004
 Amended(5) by Proposal 4868 (Goethe), 27 August 2006
 Power changed from 1 to 2 by Proposal 4868 (Goethe), 27 August 2006
+
+----------------------------------------------------------------------
+
+======================================================================
+The Oligarchy
+  A category mostly eviscerated by repeal, containing only a spent
+  provision regarding obsolete entities.
+----------------------------------------------------------------------
+
+Rule 2009/0 (Power=2)
+Elder Oligarchs
+
+      (a) Upon the creation of this Rule, all Players who were Low,
+          Middle, or High Oligarchs when the Proposal creating this
+          Rule was adopted become Oligarchs. Each of these Players is
+          an Elder Oligarch until e ceases to be an Oligarch or until
+          e has been an Elder Oligarch for 3 months.
+
+      (b) The Rulekeepor may repeal this Rule Without Objection if
+          there are no Elder Oligarchs.
+
+[CFJ 1499, CFJ 1624: An officer cannot repeal a rule.]
+
+History:
+Created by Proposal 4221 (Steve), 10 October 2001
 
 ----------------------------------------------------------------------
 
@@ -2983,6 +3010,28 @@ Amended(13) by Proposal 4155 (harvel), 18 May 2001
 Amended(14) by Proposal 4298 (Murphy), 17 May 2002
 Amended(15) by Proposal 4406 (Murphy), 30 October 2002
 Amended(16) by Proposal 4867 (Goethe), 27 August 2006
+
+----------------------------------------------------------------------
+
+======================================================================
+The Registrar
+  A category no longer used, containing only a single rule affecting
+  now-repealed provisions of other rules.
+----------------------------------------------------------------------
+
+Rule 2037/0 (Power=1)
+Orange Alert
+
+      If a Player has no listed e-mail address, then the address used
+      to send eir next public message becomes listed.
+
+      If each Player has at least one listed address, then the
+      Registrar may repeal this Rule by announcing that e does so.
+
+[CFJ 1499, CFJ 1624: An officer cannot repeal a rule.]
+
+History:
+Created by Proposal 4435 (Murphy), 28 January 2003
 
 ----------------------------------------------------------------------
 
