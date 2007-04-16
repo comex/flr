@@ -1465,6 +1465,7 @@ History:
 Initial Mutable Rule 208, Jun. 30 1993
 Amended(1) by Proposal 1401, Jan. 29 1995
 Amended(2) by Proposal 1531, Mar. 24 1995
+Power changed from 1 to 3 by Proposal 4811 (Maud, Goethe), 20 June 2005
 Amended(3) by Proposal 4811 (Maud, Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
