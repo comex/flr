@@ -21,10 +21,10 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 91 Rules:
+There are currently 90 Rules:
     1 with Power=4
    25 with Power=3
-   10 with Power=2
+    9 with Power=2
    55 with Power=1
 
 Lowest current Rule Number:           101
@@ -37,7 +37,6 @@ Table of Contents:
   Players
   Definitions
   Offices
-  The Oligarchy
   Agoran Decisions
   Proposals
   Orders
@@ -1210,31 +1209,6 @@ Amended(3) by Proposal 4576 (root), 31 May 2004
 Amended(4) by Proposal 4592 (Murphy), 4 July 2004
 Amended(5) by Proposal 4868 (Goethe), 27 August 2006
 Power changed from 1 to 2 by Proposal 4868 (Goethe), 27 August 2006
-
-----------------------------------------------------------------------
-
-======================================================================
-The Oligarchy
-  A category mostly eviscerated by repeal, containing only a spent
-  provision regarding obsolete entities.
-----------------------------------------------------------------------
-
-Rule 2009/0 (Power=2)
-Elder Oligarchs
-
-      (a) Upon the creation of this Rule, all Players who were Low,
-          Middle, or High Oligarchs when the Proposal creating this
-          Rule was adopted become Oligarchs. Each of these Players is
-          an Elder Oligarch until e ceases to be an Oligarch or until
-          e has been an Elder Oligarch for 3 months.
-
-      (b) The Rulekeepor may repeal this Rule Without Objection if
-          there are no Elder Oligarchs.
-
-[CFJ 1499, CFJ 1624: An officer cannot repeal a rule.]
-
-History:
-Created by Proposal 4221 (Steve), 10 October 2001
 
 ----------------------------------------------------------------------
 
@@ -3460,4 +3434,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4921]
+      [Last proposal with recorded effect on this ruleset: 4928]
