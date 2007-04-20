@@ -1,22 +1,24 @@
 THE FULL LOGICAL RULESET
 
-Rules are listed as follows, where NNNN represents the Rule Number.
-
 ----------------------------------------------------------------------
 
-Rule NNNN/A (Power=N)
+[Rules are listed as follows.  "nnnn" is the rule's identifying number,
+assigned according to rule 105.  "r" is the revision number, which is not
+defined by the rules.  "p" is the rule's power, as defined by rule 1688.
+Rule titles are governed by rule 105.]
+
+Rule nnnn/r (Power=p)
 Title of Rule
 
-      Rule Text
+      Text of rule.
 
-Annotation: as required by Rule 789.  Some include a list of
-Relevant Rules.
+CFJ cccc: Annotation required by rule 789.
 
-[Note: annotations enclosed in brackets are due to past and present
- Rulekeepors, and are entirely unofficial.  They have no legal force
- in and of themselves.]
+[Annotations in square brackets are unofficial, added at the rulekeepor's
+ discretion.  These annotations have no legal force.]
 
-History: Some Rules include a complete or partial history.
+History:
+Historical annotations required by rule 1681.
 An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
