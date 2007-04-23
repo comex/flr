@@ -61,42 +61,42 @@ The Game of Agora
 Rule 2105/2 (Power=1)
 The Map of Agora
 
-                                ____  _        /|
-                     DARWIN ->  \_  |/ |      / \
-                               __/    /      |  |
-             <- DSV          /      /        |  \
-                         _   \      \_       |   \
-                   MORNINGTON CRESCENT ->    /    |  <- GOETHE BARRIER REEF
-                  _ _/       |         \_/\_/     \
-                 / \\ <- SHARK BAY      |         |
-                /            |          |          \ <- TOWNSVILLE
-             ___/            |          |           \_
-          __/                |          |  .___o  )   |
-         /                   |          | ~~vv ===~~~ <-OSCAR'S MIRE
-        /           O <- SHERLOCK NESS  |             |/\
-       |                     |          |               |_
-       |                     |          |  EMERALD ->     \
-       \                     |__________=_____,             \
-        /                    |                |             | <- BRISBANE
-        \      O <- LT. ANNE MOORE            |        __  _\
-         \                   |                |_______/  \/ |
-          |                __/\      <- TARCOOLA           /   LORD HOWE ->
-          \             __/    \_             /           /
-  PERTH -> |      _  __/         |   /| IVANHOE ->       | <- WOLLONGONG
-           /    _/ \/             \ / /       |         /
-          |_   /     <- ESPERANTO  v /__     |_        / <- CANBERRA
-            \_/                         \    | \_    _|
-                __   __                 |    |   \__/
-               __ \ / __                 \___=_  ___|
-              /  \ | /  \        MANUBOURNE -> \/
-                  \|/
-             _,.---v---._                    /\__
-    /\__/\  /            \                   |   |
-    \_  _/ /              \                   |  /
-      \ \_|           @ __|                   \_/ <- HOBART
-       \                \_
-        \     ,__/       /
-      ~~~`~~~~~~~~~~~~~~/~~~~
+                                    ____  _        /|
+                         DARWIN ->  \_  |/ |      / \
+                                   __/    /      |  |
+                 <- DSV          /      /        |  \
+                             _   \      \_       |   \
+                       MORNINGTON CRESCENT ->    /    |  <- GOETHE BARRIER REEF
+                      _ _/       |         \_/\_/     \
+                     / \\ <- SHARK BAY      |         |
+                    /            |          |          \ <- TOWNSVILLE
+                 ___/            |          |           \_
+              __/                |          |  .___o  )   |
+             /                   |          | ~~vv ===~~~ <-OSCAR'S MIRE
+            /           O <- SHERLOCK NESS  |             |/\
+           |                     |          |               |_
+           |                     |          |  EMERALD ->     \
+           \                     |__________=_____,             \
+            /                    |                |             | <- BRISBANE
+            \      O <- LT. ANNE MOORE            |        __  _\
+             \                   |                |_______/  \/ |
+              |                __/\      <- TARCOOLA           /   LORD HOWE ->
+              \             __/    \_             /           /
+      PERTH -> |      _  __/         |   /| IVANHOE ->       | <- WOLLONGONG
+               /    _/ \/             \ / /       |         /
+              |_   /     <- ESPERANTO  v /__     |_        / <- CANBERRA
+                \_/                         \    | \_    _|
+                    __   __                 |    |   \__/
+                   __ \ / __                 \___=_  ___|
+                  /  \ | /  \        MANUBOURNE -> \/
+                      \|/
+                 _,.---v---._                    /\__
+        /\__/\  /            \                   |   |
+        \_  _/ /              \                   |  /
+          \ \_|           @ __|                   \_/ <- HOBART
+           \                \_
+            \     ,__/       /
+          ~~~`~~~~~~~~~~~~~~/~~~~
 
 History:
 Created by Proposal 4735 (Maud), 5 May 2005
@@ -3216,29 +3216,29 @@ Created by Proposal 4688 (root), 18 April 2005
 Rule 2129/0 (Power=1)
 Dishonor Rolls
 
-       When the Herald is ordered to place someone in the Chokey, e
-       shall publically award em the patent title "In the Chokey".
+      When the Herald is ordered to place someone in the Chokey, e
+      shall publically award em the patent title "In the Chokey".
 
-       This title shall be automatically revoked after a length of time
-       indicated by the sentencing order, and the Herald shall announce
-       the revokation.  If a sentencing order is executed against a
-       defendant who already holds this title, the length of time of
-       the new sentencing order shall be added to the time left on any
-       previous ones.
+      This title shall be automatically revoked after a length of time
+      indicated by the sentencing order, and the Herald shall announce
+      the revokation.  If a sentencing order is executed against a
+      defendant who already holds this title, the length of time of
+      the new sentencing order shall be added to the time left on any
+      previous ones.
 
-       A person is considered to be In Disgrace while in the Chokey,
-       between the execution and satisfaction of any sentencing orders
-       binding em, or if deregistered for lawlessness.  A person who
-       leaves the game in disgrace shall be awarded the Patent Title
-       Fugitive by the Herald.  A Player may revoke the title Fugitive
-       from emself as long as e is no longer in Disgrace.  A non-player
-       may have this title revoked by Agoran Consent.
+      A person is considered to be In Disgrace while in the Chokey,
+      between the execution and satisfaction of any sentencing orders
+      binding em, or if deregistered for lawlessness.  A person who
+      leaves the game in disgrace shall be awarded the Patent Title
+      Fugitive by the Herald.  A Player may revoke the title Fugitive
+      from emself as long as e is no longer in Disgrace.  A non-player
+      may have this title revoked by Agoran Consent.
 
-       The rules may further specify actions prohibited to persons in
-       particular types of disgrace.
+      The rules may further specify actions prohibited to persons in
+      particular types of disgrace.
 
-       The Herald is encouraged to publish lists of those in disgrace
-       separate from patent titles of honor, to indicate the disgrace.
+      The Herald is encouraged to publish lists of those in disgrace
+      separate from patent titles of honor, to indicate the disgrace.
 
 History:
 Created by Proposal 4879 (Murphy), 22 January 2007
