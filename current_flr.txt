@@ -23,15 +23,15 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 92 Rules:
+There are currently 95 Rules:
     1 with Power=4
    25 with Power=3
     9 with Power=2
-   57 with Power=1
+   60 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2136
-Highest Rule Number assigned so far: 2136
+Highest current Rule Number:         2139
+Highest Rule Number assigned so far: 2139
 
 ======================================================================
 Table of Contents:
@@ -462,6 +462,25 @@ Amended(17) by Proposal 4833 (Maud), 6 August 2005
 
 ----------------------------------------------------------------------
 
+Rule 2139/0 (Power=1)
+The Registrar
+
+      The Registrar is an office; its holder is responsible for
+      keeping track of players.
+
+      The Registrar's report shall include the following:
+
+      a) Each player's nickname (if any) and listed e-mail address
+         (es).
+      b) The date on which each player most recently registered.
+      c) A list of all public or discussion fora, with sufficient data
+         regarding each forum to players to receive messages there.
+
+History:
+Created by Proposal 4939 (Murphy), 29 April 2007
+
+----------------------------------------------------------------------
+
 Rule 1789/3 (Power=1)
 Cantus Cygneus
 
@@ -513,7 +532,7 @@ Definitions
   other category.
 ----------------------------------------------------------------------
 
-Rule 478/16 (Power=3)
+Rule 478/17 (Power=3)
 Fora
 
       Freedom of speech being essential for the healthy functioning of
@@ -524,22 +543,17 @@ Fora
       (default null).  A forum's publicity may not be changed except
       as described in this rule.
 
-      The Herald may change the publicity of a forum without objection
-      as long as:
+      The Registrar may change the publicity of a forum without
+      objection as long as:
 
       (a) e sends eir announcement of intent to that forum; and
 
       (b) if the forum is to be made public, the announcement by which
-          the Herald makes that forum public is sent to all existing
-          public fora.
+          the Registrar makes that forum public is sent to all
+          existing public fora.
 
       Each active player should ensure e can receive messages via each
       public forum.
-
-      The Herald's report shall include a list of all public or
-      discussion fora and sufficient data regarding each to allow
-      players to receive messages via that medium.  The Herald need
-      not keep track of null fora.
 
       A message is public if and only if it is sent via a public forum
       or is sent to all players and contains a clear designation of
@@ -591,6 +605,7 @@ Power changed from 1 to 3 by Proposal 4690 (root), 18 April 2005
 Amended(14) by Proposal 4690 (root), 18 April 2005
 Amended(15) by Proposal 4833 (Maud), 6 August 2005
 Amended(16) by Proposal 4866 (Goethe), 27 August 2006
+Amended(17) by Proposal 4939 (Murphy), 29 April 2007
 
 ----------------------------------------------------------------------
 
@@ -1013,6 +1028,25 @@ Amended(12) by Proposal 4889 (Murphy), 22 January 2007
 
 ----------------------------------------------------------------------
 
+Rule 2138/0 (Power=1)
+The International Associate Director of Personnel
+
+      The International Associate Director of Personnel is an office;
+      its holder is responsible for keeping track of officers and
+      reports.
+
+      The Director of Personnel's report shall include the following:
+
+      a) The holder of each office.
+      b) The date on which each holder last came to hold that office.
+      c) The date of the most recent attempt to achieve Agoran Consent
+         for changing the holder of that office.
+
+History:
+Created by Proposal 4939 (Murphy), 29 April 2007
+
+----------------------------------------------------------------------
+
 Rule 1551/7 (Power=3)
 Ratification
 
@@ -1045,24 +1079,17 @@ Amended(7) by Proposal 4868 (Goethe), 27 August 2006
 
 ----------------------------------------------------------------------
 
-Rule 1377/20 (Power=1)
+Rule 1377/21 (Power=1)
 The Herald
 
       The Herald is an office; its holder is responsible for keeping
       track of the History of Agora and its players.
 
-      The Herald's Weekly Report shall include the following:
+      The Herald's report shall include the following:
 
-         (i) A list of each Patent Title and Degree that at least one
-             person Bears, with a list of which persons Bear it.
-
-        (ii) a list of all registered players, with their nicknames,
-             if any, and listed email addresses;
-
-       (iii) the most recent date on which each registered player
-             registered;
-
-        (iv) the current Officers and their dates of service.
+      a) A list of each Patent Title and Degree that at least one
+         person Bears, with a list of which persons Bear it.
+      b) A list of one or more Threats, including Bears.
 
 History:
 Created by Proposal 1377, Jan. 17 1995
@@ -1086,6 +1113,7 @@ Amended(17) by Proposal 4486 (Michael), 24 April 2003
 Amended(18) by Proposal 4563 (OscarMeyr), 6 April 2004
 Amended(19) by Proposal 4852 (root), 18 March 2006
 Amended(20) by Proposal 4868 (Goethe), 27 August 2006
+Amended(21) by Proposal 4939 (Murphy), 29 April 2007
 
 ----------------------------------------------------------------------
 
@@ -1233,18 +1261,20 @@ Amended(14) by Proposal 4919 (Zefram), 2 April 2007
 
 ----------------------------------------------------------------------
 
-Rule 1450/5 (Power=2)
+Rule 1450/6 (Power=2)
 Separation of Powers
 
-      The Speaker, Clerk of the Courts, and Promotor are mutually
-      exclusive offices.  A Player holding one of these offices may
-      not come to simultaneously hold another of them, unless there
-      are no other Players in the game eligible.  This Rule takes
-      precedence over any other Rule that governs offices.
+      The following sets of positions are mutually exclusive:
 
-[CFJ 1599: Because R1006 does not designate the Speaker as an office,
- the restriction of R1450 does not apply to prevent the CotC or Promotor
- from becoming Speaker.]
+      a) Promotor and Assessor
+      b) Speaker and Clerk of the Courts
+
+      A player holding two or more positions within one of these sets
+      is removed from all but one of them.  If one of them is the
+      Speakership, then e retains it; otherwise, e retains the
+      position e came to hold most recently.
+
+      This rule takes precedence over all rules governing offices.
 
 History:
 Created by Proposal 1547, Apr. 14 1995
@@ -1254,6 +1284,7 @@ Amended(3) by Proposal 4576 (root), 31 May 2004
 Amended(4) by Proposal 4592 (Murphy), 4 July 2004
 Amended(5) by Proposal 4868 (Goethe), 27 August 2006
 Power changed from 1 to 2 by Proposal 4868 (Goethe), 27 August 2006
+Amended(6) by Proposal 4939 (Murphy), 29 April 2007
 
 ----------------------------------------------------------------------
 
@@ -1325,6 +1356,25 @@ Mutated from MI=Unanimity to MI=3 by Proposal 1391, Jan. 24 1995
 Amended(1) by Proposal 3889 (harvel), Aug. 9 1999
 Amended(2) by Proposal 4811 (Maud, Goethe), 20 June 2005
 Amended(3) by Proposal 4868 (Goethe), 27 August 2006
+
+----------------------------------------------------------------------
+
+Rule 2137/0 (Power=1)
+The Assessor
+
+      The Assessor is an office; its holder is responsible for
+      collecting votes and keeping track of related properties.
+
+      The Assessor is the default vote collector for all Agoran
+      decisions that do not specify a different vote collector.
+
+      The Assessor's report shall include the following:
+
+      a) Each player's voting limit on ordinary proposals.
+      b) Each player's voting credits.
+
+History:
+Created by Proposal 4939 (Murphy), 29 April 2007
 
 ----------------------------------------------------------------------
 
@@ -1622,7 +1672,7 @@ Proposals
   to the game.
 ----------------------------------------------------------------------
 
-Rule 106/4 (Power=3)
+Rule 106/5 (Power=3)
 Adopting Proposals
 
       A proposal is a document outlining changes to be made to Agora,
@@ -1637,8 +1687,8 @@ Adopting Proposals
       Determining whether to adopt a proposal is an Agoran decision.
       For this decision, the available options are FOR, AGAINST, and
       PRESENT, and by default, the eligible voters are the active
-      players, the adoption index is the adoption index of the
-      proposal, and the vote collector is the Speaker.
+      players, and the adoption index is the adoption index of the
+      proposal.
 
       The adoption index of a proposal is an integral multiple of 0.1,
       with a default and minimum value of 1.0.  Before the Promotor
@@ -1663,6 +1713,7 @@ Amended(1) by Proposal 3736 (Blob), May 3 1998
 Amended(2) by Proposal 4811 (Maud, Goethe), 20 June 2005
 Amended(3) by Proposal 4868 (Goethe), 27 August 2006
 Amended(4) by Proposal 4918 (OscarMeyr), 2 April 2007
+Amended(5) by Proposal 4939 (Murphy), 29 April 2007
 
 ----------------------------------------------------------------------
 
@@ -3502,4 +3553,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4938]
+      [Last proposal with recorded effect on this ruleset: 4939]
