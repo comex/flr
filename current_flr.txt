@@ -2152,15 +2152,18 @@ Amended(6) by Proposal 4912 (Murphy), 21 March 2007
 
 ----------------------------------------------------------------------
 
-Rule 2132/0 (Power=1)
+Rule 2132/1 (Power=1)
 Excess CFJs
 
-      A CFJ made by a person who has previously made five or more CFJs
-      during the same Agoran Week as that CFJ is an Excess CFJ.  The
-      Clerk of the Courts may dismiss an Excess CFJ by announcement.
+      A CFJ submitted by a person who has previously submitted five
+      or more CFJs during the same Agoran Week as that CFJ is an
+      Excess CFJ.  The Clerk of the Courts can, by announcement,
+      Refuse an Excess CFJ that has not had any judge assigned to it.
+      Refusal of an Excess CFJ causes it to cease to be a CFJ.
 
 History:
 Created by Proposal 4912 (Murphy), 21 March 2007
+Amended(1) by Proposal 4933 (Zefram), 29 April 2007
 
 ----------------------------------------------------------------------
 
@@ -3443,4 +3446,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4931]
+      [Last proposal with recorded effect on this ruleset: 4933]
