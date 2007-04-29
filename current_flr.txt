@@ -23,15 +23,15 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 89 Rules:
+There are currently 90 Rules:
     1 with Power=4
    25 with Power=3
     9 with Power=2
-   54 with Power=1
+   55 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2133
-Highest Rule Number assigned so far: 2133
+Highest current Rule Number:         2134
+Highest Rule Number assigned so far: 2134
 
 ======================================================================
 Table of Contents:
@@ -1674,6 +1674,19 @@ The Proposal System Is Protected
 
 History:
 Created by Proposal 3465 (Steve), Apr. 26 1997
+
+----------------------------------------------------------------------
+
+Rule 2134/0 (Power=1)
+Win by Voting Power
+
+      If a single player has a voting power on ordinary proposals
+      equal to or greater than the total voting power on ordinary
+      proposals of all other players combined, that player wins the
+      game upon any player announcing the fact.
+
+History:
+Created by Proposal 4930 (Goethe), 29 April 2007
 
 ----------------------------------------------------------------------
 
@@ -3413,4 +3426,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4929]
+      [Last proposal with recorded effect on this ruleset: 4930]
