@@ -638,27 +638,53 @@ Amended(6) by Proposal 4866 (Goethe), 27 August 2006
 
 ----------------------------------------------------------------------
 
-Rule 1023/17 (Power=2)
+Rule 1023/18 (Power=2)
 Common Definitions
 
       The following terms are defined:
 
-      - Agoran days begin at midnight GMT.  Agoran weeks begin at
-        midnight GMT on Monday.  Agoran months begin at midnight GMT
-        on the first day of each Gregorian month.  Agoran quarters
-        begin when the Agoran months of January, April, July, and
-        October begin.  Agoran years begin when the Agoran month of
-        January begins.
+      (a) The term "number" shall mean "real number".
 
-      - A requirement to perform an action "as soon as possible" is a
-        requirement to perform the action within seven days.
+      (b) The phrase "as soon as possible" shall mean "within seven
+          days".
 
-      - The term "number" shall be interpreted as "real number".
+      (c) The term "random" shall mean a choice drawn with a process
+          whose probability distribution among the possible outcomes
+          is reasonably close to that required by the Rules, using a
+          uniform distribution if not otherwise specified.
 
-      - The term "random" shall mean a choice drawn with a process
-        whose probability distribution among the possible outcomes is
-        reasonably close to that required by the Rules, using a
-        uniform distribution if not otherwise specified.
+      (d) The term "paragraph" shall mean a subset of text determined
+          as follows:
+
+          (1) Each bulleted section is a unit of text.
+
+          (2) Any remaining text is divided into units at blank lines.
+
+          (3) Units are considered in a tree hierarchy, interpreting
+              the original body of text as a depth-first search.  The
+              root is empty, the unbulleted units are its children,
+              and the bulleted units following an unbulleted unit are
+              its descendants (with nested bullets corresponding to
+              nested levels of the tree).
+
+          (4) A "paragraph" identified by partial quotation is
+              determined by the minimum sub-tree containing the
+              entirety of that quotation.
+
+      (e) Agoran epochs:
+
+          (1) Agoran days begin at midnight UTC.
+
+          (2) Agoran weeks begin at midnight UTC on Monday.
+
+          (3) Agoran months begin at midnight UTC on the first day of
+              each Gregorian month.
+
+          (4) Agoran quarters begin when the Agoran months of January,
+              April, July, and October begin.
+
+          (5) Agoran years begin when the Agoran month of January
+              begins.
 
 History:
 Created by Proposal 805, ca. Jan. or Feb. 1994
@@ -684,6 +710,7 @@ Amended(14) by Proposal 4004 (Steve), May 8 2000
 Amended(15) by Proposal 4278 (harvel), 3 April 2002
 Amended(16) by Proposal 4406 (Murphy), 30 October 2002
 Amended(17) by Proposal 4866 (Goethe), 27 August 2006
+Amended(18) by Proposal 4938 (Murphy), 29 April 2007
 
 ----------------------------------------------------------------------
 
@@ -3475,4 +3502,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4937]
+      [Last proposal with recorded effect on this ruleset: 4938]
