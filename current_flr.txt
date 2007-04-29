@@ -2678,7 +2678,7 @@ Overturning Judgement
   judgements, and other effects of appellate hearings.
 ----------------------------------------------------------------------
 
-Rule 1564/13 (Power=1)
+Rule 1564/14 (Power=1)
 Initiating Appeals
 
       The following are subject to Appeal:
@@ -2703,6 +2703,10 @@ Initiating Appeals
       becomes or ceases to be an Appellate judge, the Clerk of the
       Courts shall announce the event.
 
+      An Appeal may be accompanied by Arguments, Evidence, or other
+      related material; the Board of Appeals is encouraged, but not
+      required, to take notice of these things.
+
 [CFJ 1273: dismissal of a CFJ is subject to Appeal.]
 
 History:
@@ -2722,6 +2726,7 @@ Amended(10) by Proposal 4147 (Wes), 13 May 2001
 Amended(11) by Proposal 4298 (Murphy), 17 May 2002
 Amended(12) by Proposal 4406 (Murphy), 30 October 2002
 Amended(13) by Proposal 4867 (Goethe), 27 August 2006
+Amended(14) by Proposal 4937 (Murphy), 29 April 2007
 
 ----------------------------------------------------------------------
 
@@ -3470,4 +3475,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4935]
+      [Last proposal with recorded effect on this ruleset: 4937]
