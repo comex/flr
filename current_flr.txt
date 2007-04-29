@@ -3,9 +3,9 @@ THE FULL LOGICAL RULESET
 ----------------------------------------------------------------------
 
 [Rules are listed as follows.  "nnnn" is the rule's identifying number,
-assigned according to rule 105.  "r" is the revision number, which is not
-defined by the rules.  "p" is the rule's power, as defined by rule 1688.
-Rule titles are governed by rule 105.]
+governed by rule 2141.  "r" is the revision number, which is not defined
+by the rules.  "p" is the rule's power, as defined by rule 1688 and
+governed by rule 2141.  Rule titles are governed by rule 2141.]
 
 Rule nnnn/r (Power=p)
 Title of Rule
@@ -23,15 +23,15 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 95 Rules:
+There are currently 97 Rules:
     1 with Power=4
-   25 with Power=3
+   27 with Power=3
     9 with Power=2
    60 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2139
-Highest Rule Number assigned so far: 2139
+Highest current Rule Number:         2141
+Highest Rule Number assigned so far: 2141
 
 ======================================================================
 Table of Contents:
@@ -212,17 +212,76 @@ Power changed from 1 to 2 by Proposal 3999 (harvel), May 2 2000
 
 ----------------------------------------------------------------------
 
-Rule 1688/2 (Power=3)
+Rule 1688/3 (Power=3)
 Power
 
-      The power of an entity is a natural number, which is zero unless
-      otherwise defined or modified according to procedures defined by
-      the rules.  An instrument is an entity with positive power.
+      The power of an entity is a non-negative rational number.
+      An instrument is an entity with positive power.
+
+      The power of an entity cannot be set or modified except as
+      stipulated by the rules.  All entities have power zero except
+      where specifically allowed by the rules.
 
 History:
 Created by Proposal 3445 (General Chaos), Mar. 26 1997
 Amended(1) by Proposal 3994 (harvel), Apr. 20 2000
 Amended(2) by Proposal 4811 (Maud, Goethe), 20 June 2005
+Amended(3) by Proposal 4940 (Zefram), 29 April 2007
+
+----------------------------------------------------------------------
+
+Rule 2140/0 (Power=3)
+Power Controls Mutability
+
+      No entity with power below the power of this rule can
+
+      (a) cause an entity to have power greater than its own.
+
+      (b) adjust the power of an instrument with power greater than
+          its own.
+
+      (c) modify any other substantive aspect of an instrument with
+          power greater than its own.  A "substantive" aspect of
+          an instrument is any aspect that affects the instrument's
+          operation.
+
+History:
+Created by Proposal 4940 (Zefram), 29 April 2007
+
+----------------------------------------------------------------------
+
+Rule 2141/0 (Power=3)
+Role and Attributes of Rules
+
+      A rule is a type of instrument with the capacity to govern
+      the game generally.  A rule's content takes the form of
+      a text, and is unlimited in scope.  In particular, a rule
+      may define in-game entities and regulate their behaviour,
+      make instantaneous changes to the state of in-game entities,
+      prescribe or proscribe certain player behaviour, modify the
+      rules or the application thereof, or do any of these things
+      in a conditional manner.
+
+      Every rule has power between one and four inclusive.  It is
+      not possible for a rule to have a power outside this range.
+
+      Every rule shall have a number for identification.  If a rule
+      ever does not have an identifying number, the Rulekeepor shall
+      assign a number to it by announcement as soon as possible.
+      The number assigned must be a natural number greater than any
+      number previously assigned to a rule.  Once properly assigned,
+      a rule's number cannot be changed.
+
+      Every rule shall have a title to aid in identification.  If a
+      rule ever does not have a title, the Rulekeepor shall assign
+      a title to it by announcement as soon as possible.
+
+      For the purposes of rules governing modification of instruments,
+      the text, power, number, and title of a rule are all substantive
+      aspects of the rule.
+
+History:
+Created by Proposal 4940 (Zefram), 29 April 2007
 
 ----------------------------------------------------------------------
 
@@ -1838,40 +1897,43 @@ Amended(3) by Proposal 4914 (OscarMeyr), 21 March 2007
 
 ----------------------------------------------------------------------
 
-Rule 105/1 (Power=3)
+Rule 105/2 (Power=3)
 Rule Changes
 
-      A proposal generally can, as part of its effect:
+      Where permitted by other rules, an instrument generally can,
+      as part of its effect,
 
-      (a) Enact a rule.  When a rule is enacted, the Rulekeepor shall
-      assign it a number, which must be greater than any number
-      previously assigned.  If the enacting proposal does not specify
-      the power, the rule shall have power equal to one.  If the
-      proposal specifies the power, then the rule shall have power
-      equal to the minimum of four, the power of the proposal, and the
-      power specified by the proposal.  If the title is not specified,
-      the Rulekeepor may select any title e sees fit.
+      (a) enact a rule.  The new rule has power equal to the minimum
+          of the power specified by the enacting instrument,
+          defaulting to one if the enacting instrument does not
+          specify, and the maximum power permitted by other rules.
+          The enacting instrument may specify a title for the new
+          rule, which if present shall prevail.  The number of the
+          new rule cannot be specified by the enacting instrument;
+          any attempt to so specify is null and void.
 
-      (b) Modify the power, title, or text of a rule.  A Proposal can
-      modify the power, title, or text of a rule with power no greater
-      than its own.  However, a proposal cannot cause a rule to have
-      power greater than its own.  Any ambiguity in a modification
-      specified by a proposal causes that modification to be void and
-      without effect.  A variation in whitespace or capitalization in
-      the quotation of an existing rule does not constitute ambiguity
-      for the purposes of this rule, but any other variation does.
+      (b) repeal a rule.  When a rule is repealed, it ceases to be a
+          rule, and the Rulekeepor need no longer maintain a record
+          of it.
 
-      (c) Repeal a rule.  A Proposal can repeal a rule with power no
-      greater than its own.  When a proposal repeals a rule, it ceases
-      to be a rule, and the Rulekeepor need no longer maintain a record
-      of it.
+      (c) amend the text of a rule.
+
+      (d) retitle a rule.
+
+      (e) change the power of a rule.
+
+      A rule change is any effect that falls into the above classes.
+      Rule changes always occur sequentially, never simultaneously.
+
+      Any ambiguity in the specification of a rule change causes
+      that change to be void and without effect.  A variation in
+      whitespace or capitalization in the quotation of an existing
+      rule does not constitute ambiguity for the purposes of this
+      rule, but any other variation does.
 
       This rule provides the only mechanism by which rules can be
-      enacted, modified, or repealed.
-
-CFJ 1626: A rule cannot directly enact, modify, or repeal a rule
-(including itself), unless it takes precedence over the last paragraph
-of Rule 105.
+      created, modified, or destroyed, or by which an entity can
+      become a rule or cease to be a rule.
 
 [CFJ 708: An Amendment of a non-existing Rule is not a legal Rule
  Change.]
@@ -1882,6 +1944,7 @@ Renumbered from 2131 to 105 by Proposal 4894 (Murphy), 12 February 2007
 Power changed from 1 to 3 by Proposal 4894 (Murphy), 12 February 2007
 Retitled by Proposal 4894 (Murphy), 12 February 2007
 Amended(1) by Proposal 4894 (Murphy), 12 February 2007
+Amended(2) by Proposal 4940 (Zefram), 29 April 2007
 
 ----------------------------------------------------------------------
 
@@ -3553,4 +3616,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4939]
+      [Last proposal with recorded effect on this ruleset: 4940]
