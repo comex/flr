@@ -23,15 +23,15 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 90 Rules:
+There are currently 91 Rules:
     1 with Power=4
    25 with Power=3
     9 with Power=2
-   55 with Power=1
+   56 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2134
-Highest Rule Number assigned so far: 2134
+Highest current Rule Number:         2135
+Highest Rule Number assigned so far: 2135
 
 ======================================================================
 Table of Contents:
@@ -1059,6 +1059,23 @@ Amended(17) by Proposal 4486 (Michael), 24 April 2003
 Amended(18) by Proposal 4563 (OscarMeyr), 6 April 2004
 Amended(19) by Proposal 4852 (root), 18 March 2006
 Amended(20) by Proposal 4868 (Goethe), 27 August 2006
+
+----------------------------------------------------------------------
+
+Rule 2135/0 (Power=1)
+Herald to Advertise
+
+      Every month the Herald shall update the page about Agora on the
+      NomicWiki at nomic.net, provided that that wiki is operational.
+      This page, when updated, is to include a list of the current
+      players.  In updating the page the Herald shall ensure that
+      information that is currently incorrect is either corrected or
+      removed, and that all links on the page point to extant pages
+      that are correctly described.  The Herald may add new correct
+      information to the page at eir discretion.
+
+History:
+Created by Proposal 4931 (Zefram), 29 April 2007
 
 ----------------------------------------------------------------------
 
@@ -3426,4 +3443,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4930]
+      [Last proposal with recorded effect on this ruleset: 4931]
