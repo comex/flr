@@ -23,15 +23,15 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 91 Rules:
+There are currently 92 Rules:
     1 with Power=4
    25 with Power=3
     9 with Power=2
-   56 with Power=1
+   57 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2135
-Highest Rule Number assigned so far: 2135
+Highest current Rule Number:         2136
+Highest Rule Number assigned so far: 2136
 
 ======================================================================
 Table of Contents:
@@ -3386,6 +3386,30 @@ Amended(1) by Proposal 4867 (Goethe), 27 August 2006
 
 ----------------------------------------------------------------------
 
+Rule 2136/0 (Power=1)
+Contests
+
+      A contest is a contract that identifies itself as such, and
+      identifies exactly one party as its contestmaster; all other
+      parties are its contestants.
+
+      Points are a measure of a player's contentiousness.  The number
+      of points possessed by a player is eir score.  When a player
+      registers, eir score is set to zero.
+
+      A contestmaster may award a total of up to 10 points per month
+      to one or more contestants, unless e was contestmaster of a
+      different contest for at least 15 days of the previous month.
+
+      A player with 100 or more points may win the game by announcing
+      this fact.  Upon such an announcement, each player's score is
+      set to zero.
+
+History:
+Created by Proposal 4935 (Murphy), 29 April 2007
+
+----------------------------------------------------------------------
+
 Rule 1626/6 (Power=1)
 Applications
 
@@ -3446,4 +3470,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4933]
+      [Last proposal with recorded effect on this ruleset: 4935]
