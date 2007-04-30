@@ -1762,6 +1762,12 @@ Adopting Proposals
       otherwise take effect.  This rule takes precedence over any rule
       which would permit a proposal to take effect.
 
+[CFJ 1639 (29 April 2007): Where a proposal attempts two separate
+amendments of the text of the same rule, if one of the attempted
+amendments is not possible and the other is then the possible amendment
+does in fact occur, unless the proposal explicitly requires a different
+resolution.]
+
 History:
 Initial Immutable Rule 106, Jun. 30 1993
 Mutated from MI=Unanimity to MI=3 by Proposal 1073, Oct. 4 1994
@@ -1937,6 +1943,30 @@ Rule Changes
 
 [CFJ 708: An Amendment of a non-existing Rule is not a legal Rule
  Change.]
+
+[CFJ 1644 (29 April 2007): Where a proposal contains the form of words
+"Change the power of rule NNNN to P and amend it by XXX.", where XXX
+specifies a text change, this constitutes two attempted rule changes.]
+
+[CFJ 1638 (29 April 2007): Where a proposal contains the form of words
+"Amend rule NNNN by XXX.  Amend rule NNNN by YYY.", this constitutes
+two separate attempts at rule changes, even though both attempt to amend
+the same rule.]
+
+[CFJ 1642 (29 April 2007): Where a proposal contains the form of words
+"Amend rule NNNN by XXX.  Further amend rule NNNN by YYY.", where both
+XXX and YYY specify text changes, this constitutes two separate attempts
+at rule changes.]
+
+[CFJ 1640 (29 April 2007): Where a proposal contains the form of words
+"Amend rule NNNN by XXX and YYY.", where both XXX and YYY specify text
+changes, this constitutes a single attempt at a rule change, even though
+it is specified in two parts.]
+
+[CFJ 1641 (29 April 2007): Where a proposal contains the form of words
+"Amend rule NNNN by XXX and by YYY.", where both XXX and YYY specify
+text changes, this constitutes a single attempt at a rule change, even
+though it is specified in two parts.]
 
 History:
 Created by Proposal 4894 (Murphy), 12 February 2007
