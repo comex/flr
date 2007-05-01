@@ -1027,7 +1027,7 @@ Amended(18) by Proposal 4887 (Murphy), 22 January 2007
 
 ----------------------------------------------------------------------
 
-Rule 1006/12 (Power=1)
+Rule 1006/13 (Power=1)
 Offices
 
       The Rules may designate positions to be offices.  No office may
@@ -1049,10 +1049,10 @@ Offices
           announcement of intent is made.
 
       If no attempt to achieve Agoran Consent for changing the holder
-      of particular office is announced in a given quarter, then the
-      Speaker shall make at least one such attempt to change the
-      officeholder in the following quarter, and make the change if
-      consent is achieved.
+      of a particular office is announced in a given quarter, then the
+      Director of Personnel shall make at least one such attempt to
+      change the officeholder in the following quarter, and make the
+      change if consent is acheived.
 
       If the duty of an office is to maintain certain information, then
       the officer shall publish that information at least once a month,
@@ -1084,6 +1084,7 @@ Amended(9) by Proposal 4250 (harvel), 19 February 2002
 Amended(10) by Proposal 4868 (Goethe), 27 August 2006
 Amended(11) by Proposal 4887 (Murphy), 22 January 2007
 Amended(12) by Proposal 4889 (Murphy), 22 January 2007
+Amended(13) by Proposal 4939 (Murphy), 29 April 2007
 
 ----------------------------------------------------------------------
 
