@@ -1968,6 +1968,10 @@ it is specified in two parts.]
 text changes, this constitutes a single attempt at a rule change, even
 though it is specified in two parts.]
 
+[CFJ 1643 (29 April 2007): Where a proposal specifies a single rule
+amendment in two parts, and one of the parts is not possible but the
+other is possible, the possible part is applied alone.]
+
 History:
 Created by Proposal 4894 (Murphy), 12 February 2007
 Renumbered from 2131 to 105 by Proposal 4894 (Murphy), 12 February 2007
