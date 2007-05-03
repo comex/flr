@@ -1859,7 +1859,7 @@ Created by Proposal 4930 (Goethe), 29 April 2007
 
 ----------------------------------------------------------------------
 
-Rule 2126/3 (Power=3)
+Rule 2126/4 (Power=3)
 Voting Credits
 
       Voting Credits (VCs) are a measure of each player's ability to
@@ -1879,13 +1879,15 @@ Voting Credits
       integer portion of the proposal's adoption index, and each
       co-author of the proposal gains one VC.
 
-      At the end of each quarter, for each office, the player (if
-      any) who held that office for the majority of that quarter
-      gains one VC.
+      At the end of each month, for each office, the player (if any)
+      who held that office for the majority of that month gains two
+      VCs, unless the Speaker publicly announces that the officer has
+      performed poorly in eir duties.
 
       A player who submits a judgement during eir Deliberation Period
-      gains one VC.  A player whose judgement is overturned loses one
-      VC, if e has any.
+      gains one VC.  A player whose judgement is overturned, or who
+      is recused for failing to judge within eir Deliberation Period,
+      loses one VC, if e has any.
 
       A player may expend two VCs to increase eir own voting limit on
       ordinary proposals by one.
@@ -1909,6 +1911,7 @@ Created by Proposal 4872 (OscarMeyr), 26 October 2006
 Amended(1) by Proposal 4884 (Murphy), 22 January 2007
 Amended(2) by Proposal 4914 (OscarMeyr), 21 March 2007
 Amended(3) by Proposal 4914 (OscarMeyr), 21 March 2007
+Amended(4) by Proposal 4943 (Goethe), 3 May 2007
 
 ----------------------------------------------------------------------
 
@@ -3659,4 +3662,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4942]
+      [Last proposal with recorded effect on this ruleset: 4943]
