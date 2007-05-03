@@ -285,12 +285,19 @@ Created by Proposal 4940 (Zefram), 29 April 2007
 
 ----------------------------------------------------------------------
 
-Rule 1482/1 (Power=3)
+Rule 1482/2 (Power=3)
 Precedence between Rules with Unequal Power
 
       In a conflict between Rules with different Power, the Rule with
       the higher Power takes precedence over the Rule with the lower
       Power.
+
+      No change to the Ruleset can occur that would cause a Rule
+      to stipulate any other means of determining precedence
+      between Rules of unequal Power.  This applies to changes by
+      the enactment or amendment of a Rule, or of any other form.
+      This Rule takes precedence over any Rule that would permit
+      such a change to the Ruleset.
 
 CFJ 1103 (Judged TRUE, Aug. 21 1998): "In the case of conflict
  between Rules of unequal Power, the higher Powered Rule cannot defer
@@ -308,6 +315,7 @@ Created by Proposal 1603, Jun. 19 1995
 Infected, but not Amended by Rule 1454, Dec. 2 1995
 Amended(1) by Proposal 3445 (General Chaos), Mar. 26 1997, cosmetic
   (unattributed)
+Amended(2) by Proposal 4942 (Zefram), 3 May 2007
 
 ----------------------------------------------------------------------
 
@@ -3651,4 +3659,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4940]
+      [Last proposal with recorded effect on this ruleset: 4942]
