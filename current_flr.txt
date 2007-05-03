@@ -105,7 +105,7 @@ Amended(2) by Proposal 4866 (Goethe), 27 August 2006
 
 ----------------------------------------------------------------------
 
-Rule 101/5 (Power=3)
+Rule 101/6 (Power=3)
 Agoran Rights and Privileges
 
       The rules may define persons as possessing specific rights or
@@ -139,8 +139,8 @@ Agoran Rights and Privileges
        vii. Every person has the right to not be penalized more than
             once for any single action or inaction.
 
-      viii. Every player besides the Speaker has the right to
-            deregister rather than continue to play.
+      viii. Every player has the right to deregister rather than
+            continue to play.
 
       Please treat Agora right good forever.
 
@@ -161,6 +161,7 @@ Amended(2) by Proposal 4833 (Maud), 6 August 2005
 Amended(3) by Proposal 4866 (Goethe), 27 August 2006
 Amended(4) by Proposal 4867 (Goethe), 27 August 2006
 Amended(5) by Proposal 4887 (Murphy), 22 January 2007
+Amended(6) by Proposal 4944 (Zefram), 3 May 2007
 
 ----------------------------------------------------------------------
 
@@ -968,17 +969,21 @@ Offices
   the game.
 ----------------------------------------------------------------------
 
-Rule 103/1 (Power=3)
-The Speaker May Not Deregister
+Rule 103/2 (Power=3)
+Always a Speaker
 
-      At any time, there is exactly one Player who is the Speaker. The
-      Speaker may not deregister or be deregistered for any reason,
-      any other Rule to the contrary notwithstanding.
+      There should always be exactly one player who is the Speaker.
+      No one other than a player can be Speaker, and there can never
+      be more than one Speaker.  If there is ever no Speaker then
+      the player whose most recent registration was earliest becomes
+      the Speaker.
 
 History:
 Initial Immutable Rule 103, Jun. 30 1993
 Mutated from MI=Unanimity to MI=3 by Proposal 1481, Mar. 15 1995
 Amended(1) by Proposal 3829 (Steve), Feb. 8 1999
+Retitled by Proposal 4944 (Zefram), 3 May 2007
+Amended(2) by Proposal 4944 (Zefram), 3 May 2007
 
 ----------------------------------------------------------------------
 
@@ -3662,4 +3667,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4943]
+      [Last proposal with recorded effect on this ruleset: 4944]
