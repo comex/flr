@@ -1042,7 +1042,7 @@ Amended(18) by Proposal 4887 (Murphy), 22 January 2007
 
 ----------------------------------------------------------------------
 
-Rule 1006/13 (Power=1)
+Rule 1006/14 (Power=1)
 Offices
 
       The Rules may designate positions to be offices.  No office may
@@ -1052,8 +1052,7 @@ Offices
       office.
 
       The holder of an office may be referred to by the name of the
-      office.  The Herald's Report shall list the holder of each office,
-      and the date upon which each holder last came to hold that office.
+      office.
 
       Any Player may make an active Player the holder of an office,
       thus removing any previous holder from the office, with Agoran
@@ -1100,17 +1099,18 @@ Amended(10) by Proposal 4868 (Goethe), 27 August 2006
 Amended(11) by Proposal 4887 (Murphy), 22 January 2007
 Amended(12) by Proposal 4889 (Murphy), 22 January 2007
 Amended(13) by Proposal 4939 (Murphy), 29 April 2007
+Amended(14) by Proposal 4956 (Murphy), 7 May 2007
 
 ----------------------------------------------------------------------
 
-Rule 2138/0 (Power=1)
+Rule 2138/1 (Power=1)
 The International Associate Director of Personnel
 
       The International Associate Director of Personnel is an office;
       its holder is responsible for keeping track of officers and
       reports.
 
-      The Director of Personnel's report shall include the following:
+      The IADoP's report shall include the following:
 
       a) The holder of each office.
       b) The date on which each holder last came to hold that office.
@@ -1119,6 +1119,7 @@ The International Associate Director of Personnel
 
 History:
 Created by Proposal 4939 (Murphy), 29 April 2007
+Amended(1) by Proposal 4956 (Murphy), 7 May 2007
 
 ----------------------------------------------------------------------
 
@@ -3682,4 +3683,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4955]
+      [Last proposal with recorded effect on this ruleset: 4956]
