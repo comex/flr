@@ -23,15 +23,16 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 97 Rules:
+There are currently 98 Rules:
     1 with Power=4
    27 with Power=3
     9 with Power=2
+    1 with Power=1.1
    60 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2141
-Highest Rule Number assigned so far: 2141
+Highest current Rule Number:         2142
+Highest Rule Number assigned so far: 2142
 
 ======================================================================
 Table of Contents:
@@ -2029,6 +2030,17 @@ Amended(1) by Proposal 4915 (Murphy), 2 April 2007
 
 ----------------------------------------------------------------------
 
+Rule 2142/0 (Power=1.1)
+Support Democracy
+
+      Any player may change an Ordinary proposal's Adoption Index to
+      1.1 during its voting period With 3 Supporters.
+
+History:
+Created by Proposal 4955 (Zefram), 7 May 2007
+
+----------------------------------------------------------------------
+
 Rule 2019/7 (Power=2)
 The Speaker's Veto
 
@@ -3670,4 +3682,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4950]
+      [Last proposal with recorded effect on this ruleset: 4955]
