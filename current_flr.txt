@@ -155,6 +155,10 @@ Agoran Rights and Privileges
  of the Rules, even if the Rules do not provide a time limit for
  the performance of that duty.]
 
+[CFJ 1627 (called 29 April 2007): The possibility of arbitrary refusal
+of CFJs, preventing them being judged, does not infringe the right to
+invoke judgement.]
+
 History:
 Initial Immutable Rule 101, Jun. 30 1993
 Mutated from MI=Unanimity to MI=3 by Proposal 1480, Mar. 15 1995
@@ -410,6 +414,11 @@ Rule Changes
 
 [CFJ 708: An Amendment of a non-existing Rule is not a legal Rule
  Change.]
+
+[CFJ 1625 (called 1 April 2007): Where a proposal specifies a rule to
+amend by both number and title, and the number and title given identify
+different rules, this constitutes ambiguity that nullifies the attempted
+rule change.]
 
 [CFJ 1644 (29 April 2007): Where a proposal contains the form of words
 "Change the power of rule NNNN to P and amend it by XXX.", where XXX
@@ -734,6 +743,9 @@ Fora
  intended to become a Proposal' (R1483) merely be sent to the Public
  Forum by a Proposing Entity; the collection of text must also be
  received in the Public Forum.]
+
+[CFJ 1631 (called 29 April 2007): Public announcements must be made in
+the message body; the subject line is insignificant.]
 
 History:
 Created by Proposal 478 (Jim Shea), Sep. 20 1993
@@ -1504,6 +1516,9 @@ Initiating Agoran Decisions
       for seven days.  This rule takes precedence over any rule which
       would require a voting period for some decision to be shorter
       than seven days.
+
+[CFJ 1650 (called 6 May 2007): The information required in the notice
+need not be explicit.]
 
 History:
 Initial Immutable Rule 107, Jun. 30 1993
