@@ -1520,6 +1520,9 @@ Initiating Agoran Decisions
 [CFJ 1650 (called 6 May 2007): The information required in the notice
 need not be explicit.]
 
+[CFJ 1652: The set of eligible voters on an Agoran decision can change
+during its voting period.]
+
 History:
 Initial Immutable Rule 107, Jun. 30 1993
 Mutated from MI=Unanimity to MI=3 by Proposal 1391, Jan. 24 1995
@@ -1576,6 +1579,14 @@ Voting on Agoran Decisions
 
 [CFJ 1609: To "clearly identif[y] the matter to be decided" does not
  necessarily require specifying it in detail.]
+
+[CFJ 1653: item (a) in rule 683 does not require that for a ballot to
+be valid its submitter must be an eligible voter at the time that the
+ballot is submitted.]
+
+[CFJ 1654: Item (a) in rule 683 requires that for a ballot to be valid
+its submitter must be an eligible voter at the time that that the ballot's
+validity is determined.]
 
 History:
 Initial Mutable Rule 207, Jun. 30 1993
