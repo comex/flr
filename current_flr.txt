@@ -594,7 +594,10 @@ How to Join and Leave Agora
 
 [CFJ 1263: Any message expressing a clear desire or intent to register
  as a Player counts as a request for registration, whether or not it
- is explicitly phrased as a request.]
+ is explicitly phrased in the manner stipulated by the rules.]
+
+[CFJ 1648 (called 1 May 2007): Requesting permission to register is to
+be interpreted as an announcement attempting to register.]
 
 History:
 Created by Proposal 498 (Alexx), Sep. 30 1993
