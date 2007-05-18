@@ -1523,6 +1523,13 @@ Initiating Agoran Decisions
 [CFJ 1650 (called 6 May 2007): The information required in the notice
 need not be explicit.]
 
+[CFJ 1651 (called 6 May 2007): If a R107 notice initiating an Agoran
+decision does not contain an explicit list of the eligible voters, and
+there is later a dispute (evidenced by submission of a CFJ) over which
+voters were eligible at that time, then the notice's description of the
+class of eligible voters was necessarily insufficient to enable public
+agreement on which persons are eligible.]
+
 [CFJ 1652: The set of eligible voters on an Agoran decision can change
 during its voting period.]
 
