@@ -750,6 +750,10 @@ Fora
 [CFJ 1631 (called 29 April 2007): Public announcements must be made in
 the message body; the subject line is insignificant.]
 
+[CFJ 1646 (called 30 April 2007): The act of "publishing" or "announcing"
+is accomplished when the message has left the sender's technical domain
+of control, indicated by one of the "Received:" headers.]
+
 History:
 Created by Proposal 478 (Jim Shea), Sep. 20 1993
 Amended(1) by Proposal 1477, Mar. 8 1995
