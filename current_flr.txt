@@ -3365,7 +3365,7 @@ Amended(18) by Proposal 4865 (Goethe), 27 August 2006
 
 ----------------------------------------------------------------------
 
-Rule 1922/12 (Power=1)
+Rule 1922/13 (Power=1)
 Defined Regular Patent Titles
 
       The following are Patent Titles:
@@ -3399,8 +3399,6 @@ Defined Regular Patent Titles
            continuously for the specified duration.  Each of these
            titles shall be awarded only once per player.
 
-      (d)  Champion, to be awarded to players who win the game.
-
       (d)  Champion, to be awarded to any player who wins the game.  The
            Herald's report shall record how the player won.
 
@@ -3418,6 +3416,7 @@ Amended(9) by Proposal 4708 (OscarMeyr), 18 April 2005
 Amended(10) by Proposal 4865 (Goethe), 27 August 2006
 Amended(11) by Proposal 4878 (Goethe), 22 January 2007
 Amended(12) by Proposal 4891 (Murphy), 22 January 2007
+Amended(13) by Proposal 4975 (OscarMeyr), 23 May 2007
 
 ----------------------------------------------------------------------
 
@@ -3765,4 +3764,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4972]
+      [Last proposal with recorded effect on this ruleset: 4975]
