@@ -1701,14 +1701,17 @@ Created by Proposal 4811 (Maud, Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 1950/13 (Power=3)
+Rule 1950/14 (Power=3)
 Voting Limits
 
       The voting limit of an eligible voter on a democratic proposal
-      is always one and cannot be changed.
+      is one and cannot be changed except by this rule.
 
       The voting limit of an eligible voter on an ordinary proposal is
-      one, if not explicitly modified by other rules.
+      one if not explicitly modified by other rules.
+
+      The voting limit of an eligible voter who is not a natural
+      person is always one less than it would otherwise be.
 
       After the voting period for an Agoran decision has ended, the
       vote collector shall permit the first valid ballots submitted by
@@ -1733,6 +1736,7 @@ Amended(11) by Proposal 4685 (Quazie, Murphy), 18 April 2005
 Power changed from 2 to 3 by Proposal 4811 (Maud,Goethe), 20 June 2005
 Amended(12) by Proposal 4811 (Maud, Goethe), 20 June 2005
 Amended(13) by Proposal 4868 (Goethe), 27 August 2006
+Amended(14) by Proposal 4972 (Goddess Eris), 23 May 2007
 
 ----------------------------------------------------------------------
 
@@ -3761,4 +3765,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4971]
+      [Last proposal with recorded effect on this ruleset: 4972]
