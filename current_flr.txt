@@ -23,16 +23,16 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 99 Rules:
+There are currently 100 Rules:
     1 with Power=4
    27 with Power=3
     9 with Power=2
     1 with Power=1.1
-   61 with Power=1
+   62 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2143
-Highest Rule Number assigned so far: 2143
+Highest current Rule Number:         2144
+Highest Rule Number assigned so far: 2144
 
 ======================================================================
 Table of Contents:
@@ -620,6 +620,21 @@ Amended(14) by Proposal 4523 (Murphy), 28 August 2003
 Amended(15) by Proposal 4693 (Maud), 18 April 2005
 Amended(16) by Proposal 4802 (Maud), 15 June 2005
 Amended(17) by Proposal 4833 (Maud), 6 August 2005
+
+----------------------------------------------------------------------
+
+Rule 2144/0 (Power=1)
+Limited Partnerships
+
+      If a partnership contains exactly the same members as another
+      registered partnership, then it is prohibited from registering.
+
+      If a registered partnership's membership changes such that it
+      contains exactly the same members as another registered
+      partnership, then it is deregistered.
+
+History:
+Created by Proposal 4971 (Human Point Two), 23 May 2007
 
 ----------------------------------------------------------------------
 
@@ -3746,4 +3761,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4970]
+      [Last proposal with recorded effect on this ruleset: 4971]
