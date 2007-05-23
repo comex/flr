@@ -23,16 +23,16 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 98 Rules:
+There are currently 99 Rules:
     1 with Power=4
    27 with Power=3
     9 with Power=2
     1 with Power=1.1
-   60 with Power=1
+   61 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2142
-Highest Rule Number assigned so far: 2142
+Highest current Rule Number:         2143
+Highest Rule Number assigned so far: 2143
 
 ======================================================================
 Table of Contents:
@@ -1218,6 +1218,29 @@ The International Associate Director of Personnel
 History:
 Created by Proposal 4939 (Murphy), 29 April 2007
 Amended(1) by Proposal 4956 (Murphy), 7 May 2007
+
+----------------------------------------------------------------------
+
+Rule 2143/0 (Power=1)
+Official Reports
+
+      For each office, the rules may designate certain information
+      to be part of the corresponding officer's weekly report or
+      monthly report.  Any information designated to be part of the
+      officer's report without specifying which report shall be part
+      of the weekly report.  If no information is designated to be
+      part of the weekly (or monthly) report, then that office has
+      no weekly (or, respectively, monthly) report.  Each officer's
+      report is an official report.
+
+      The holder of an office for which there is an officer's
+      report is obliged to maintain all information in the report.
+      E is obliged to publish the weekly report, if there is one, at
+      least once each week, and the monthly report, if there is one,
+      at least once each month.
+
+History:
+Created by Proposal 4970 (Zefram), 23 May 2007
 
 ----------------------------------------------------------------------
 
@@ -3723,4 +3746,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4956]
+      [Last proposal with recorded effect on this ruleset: 4970]
