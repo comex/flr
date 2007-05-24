@@ -1811,6 +1811,10 @@ Determining the Will of Agora
 
 [CFJ 1605, CFJ 1608: Unanimity exceeds finite numerical adoption indices.]
 
+[CFJs 1673-1675 (called 20 May 2007): Quorum for an Agoran decision
+is determined at the time the vote collector makes the calculations
+described in rule 955.]
+
 History:
 Initial Mutable Rule 209, Jun. 30 1993
 Amended by Proposal 396 (KoJen), Aug. 23 1993
@@ -1843,6 +1847,9 @@ Quorum
 
 CFJ 1562 (Judged TRUE, 6 May 2005): "A cancelled vote on a Proposal
  does not count towards quorum."
+
+[CFJs 1673-1675 (called 20 May 2007): Quorum for an Agoran decision
+changes as the set of eligible voters changes.]
 
 History:
 Initial Mutable Rule 201, Jun. 30 1993
@@ -3622,6 +3629,14 @@ Amended(1) by Proposal 3704 (General Chaos), Mar. 19 1998
 Amended(2) by Proposal 4018 (Kelly), Jun. 21 2000
 Amended(3) by Proposal 4533 (Murphy), 26 October 2003
 Amended(4) by Proposal 4867 (Goethe), 27 August 2006
+
+[CFJs 1666-1667 (called 14 May 2007): Where two binding agreements each
+construct a partnership, the partnerships have distinct identities even
+if the set of partners is the same.]
+
+[CFJ 1668 (called 14 May 2007): Where a binding agreement constructs a
+partnership and allows the set of partners to change, the identity of
+the partnership remains the same across changes of partners.]
 
 ----------------------------------------------------------------------
 
