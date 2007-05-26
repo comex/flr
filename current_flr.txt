@@ -590,6 +590,10 @@ How to Join and Leave Agora
 [CFJ 1622, CFJ 1623: "person" in the rules means "legal person", which
  includes partnerships that exist under the rules.]
 
+[CFJs 1678-1680: For a partnership to be a legal person, it must
+ultimately devolve its obligations onto a non-empty set of natural
+persons.]
+
 [CFJ 1614: Being any type of foodstuff has no relation to personhood.]
 
 [CFJ 1263: Any message expressing a clear desire or intent to register
@@ -3622,6 +3626,12 @@ Agreements between Players
       Nothing in this rule shall be construed so as to impair the
       enforcement of an agreement which requires a Player to violate
       another agreement.
+
+[CFJ 1682 (called 23 May 2007): A binding agreement under rule 1742
+cannot be made among a set of exactly one player.]
+
+[CFJ 1683 (called 23 May 2007): A binding agreement under rule 1742
+cannot be made among a set of exactly zero players (the empty set).]
 
 [CFJs 1666-1667 (called 14 May 2007): Where two binding agreements each
 construct a partnership, the partnerships have distinct identities even
