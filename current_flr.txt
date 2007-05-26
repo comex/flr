@@ -3623,13 +3623,6 @@ Agreements between Players
       enforcement of an agreement which requires a Player to violate
       another agreement.
 
-History:
-Created by Proposal 3558 (General Chaos), Oct. 24 1997
-Amended(1) by Proposal 3704 (General Chaos), Mar. 19 1998
-Amended(2) by Proposal 4018 (Kelly), Jun. 21 2000
-Amended(3) by Proposal 4533 (Murphy), 26 October 2003
-Amended(4) by Proposal 4867 (Goethe), 27 August 2006
-
 [CFJs 1666-1667 (called 14 May 2007): Where two binding agreements each
 construct a partnership, the partnerships have distinct identities even
 if the set of partners is the same.]
@@ -3637,6 +3630,13 @@ if the set of partners is the same.]
 [CFJ 1668 (called 14 May 2007): Where a binding agreement constructs a
 partnership and allows the set of partners to change, the identity of
 the partnership remains the same across changes of partners.]
+
+History:
+Created by Proposal 3558 (General Chaos), Oct. 24 1997
+Amended(1) by Proposal 3704 (General Chaos), Mar. 19 1998
+Amended(2) by Proposal 4018 (Kelly), Jun. 21 2000
+Amended(3) by Proposal 4533 (Murphy), 26 October 2003
+Amended(4) by Proposal 4867 (Goethe), 27 August 2006
 
 ----------------------------------------------------------------------
 
