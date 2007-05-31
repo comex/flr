@@ -2,10 +2,11 @@ THE FULL LOGICAL RULESET
 
 ----------------------------------------------------------------------
 
-[Rules are listed as follows.  "nnnn" is the rule's identifying number,
-governed by rule 2141.  "r" is the revision number, which is not defined
-by the rules.  "p" is the rule's power, as defined by rule 1688 and
-governed by rule 2141.  Rule titles are governed by rule 2141.]
+[Rules are listed as follows.  "nnnn" is the rule's identifying
+number, governed by rule 2141.  "r" is the revision number, which is
+not defined by the rules.  "p" is the rule's power, as defined by rule
+1688 and governed by rule 2141.  Rule titles are governed by rule
+2141.]
 
 Rule nnnn/r (Power=p)
 Title of Rule
@@ -14,8 +15,8 @@ Title of Rule
 
 CFJ cccc: Annotation required by rule 789.
 
-[Annotations in square brackets are unofficial, added at the rulekeepor's
- discretion.  These annotations have no legal force.]
+[Annotations in square brackets are unofficial, added at the
+rulekeepor's discretion.  These annotations have no legal force.]
 
 History:
 Historical annotations required by rule 1681.
@@ -150,10 +151,9 @@ Agoran Rights and Privileges
 
 [CFJ 825: Players must obey the Rules even if no Rule says so.]
 
-[CFJ 1132, Judged May 18, 1999: A Player failing to perform a duty
- required by the Rules within a reasonable time may be in violation
- of the Rules, even if the Rules do not provide a time limit for
- the performance of that duty.]
+[CFJ 1132: A Player failing to perform a duty required by the Rules
+within a reasonable time may be in violation of the Rules, even if the
+Rules do not provide a time limit for the performance of that duty.]
 
 [CFJ 1627 (called 29 April 2007): The possibility of arbitrary refusal
 of CFJs, preventing them being judged, does not infringe the right to
@@ -306,16 +306,16 @@ Precedence between Rules with Unequal Power
       This Rule takes precedence over any Rule that would permit
       such a change to the Ruleset.
 
-CFJ 1103 (Judged TRUE, Aug. 21 1998): "In the case of conflict
- between Rules of unequal Power, the higher Powered Rule cannot defer
- to the lower Powered Rule, unless the higher Powered Rule takes
- precedence over Rule 1482."
+CFJ 1103 (called 18 August 1998): In the case of conflict between
+Rules of unequal Power, the higher Powered Rule cannot defer to the
+lower Powered Rule, unless the higher Powered Rule takes precedence
+over Rule 1482.
 
-[CFJ 858: If a low-Power (low-MI at the time of Judgement of CFJ 858)
- Rule attempts to define a term used in a Rule of higher Power to
- mean something other than its ordinary English meaning, that
- may or may not constitute a conflict; whether it does must be
- decided on a case-by-case basis.]
+[CFJ 858: If a low-Power [low-MI at the time of Judgement of CFJ 858]
+Rule attempts to define a term used in a Rule of higher Power to mean
+something other than its ordinary English meaning, that may or may not
+constitute a conflict; whether it does must be decided on a
+case-by-case basis.]
 
 History:
 Created by Proposal 1603, Jun. 19 1995
@@ -348,17 +348,15 @@ Precedence between Rules with Equal Power
       or defer to one another, then the numerical method again
       governs.
 
-CFJ 1104 (Judged TRUE, Sep. 9 1998): "The presence in a Rule of
- deference clause, claiming that the Rule defers to another Rule, does
- not prevent a conflict with the other Rule arising, but shows only
- how the Rule says that conflict is to be resolved when it does
- arise."
+CFJ 1104 (called 20 August 1998): The presence in a Rule of deference
+clause, claiming that the Rule defers to another Rule, does not
+prevent a conflict with the other Rule arising, but shows only how the
+Rule says that conflict is to be resolved when it does arise.
 
-[CFJs 1114 and 1115 (both Judged Feb. 5 1999): This Rule is to be
- applied to resolve Rule conflicts on a case-by-case basis; just
- because a Rule is inapplicable in one situation due to conflict
- with a Rule of higher precedence does not mean that the Rule is
- nullified in all cases.]
+[CFJs 1114-1115 (called 27 January 1999): This Rule is to be applied
+to resolve Rule conflicts on a case-by-case basis; just because a Rule
+is inapplicable in one situation due to conflict with a Rule of higher
+precedence does not mean that the Rule is nullified in all cases.]
 
 History:
 Initial Mutable Rule 212, Jun. 30 1993
@@ -413,40 +411,41 @@ Rule Changes
       become a rule or cease to be a rule.
 
 [CFJ 708: An Amendment of a non-existing Rule is not a legal Rule
- Change.]
+Change.]
 
 [CFJ 1625 (called 1 April 2007): Where a proposal specifies a rule to
-amend by both number and title, and the number and title given identify
-different rules, this constitutes ambiguity that nullifies the attempted
-rule change.]
+amend by both number and title, and the number and title given
+identify different rules, this constitutes ambiguity that nullifies
+the attempted rule change.]
 
-[CFJ 1644 (29 April 2007): Where a proposal contains the form of words
-"Change the power of rule NNNN to P and amend it by XXX.", where XXX
-specifies a text change, this constitutes two attempted rule changes.]
+[CFJ 1644 (called 29 April 2007): Where a proposal contains the form
+of words "Change the power of rule NNNN to P and amend it by XXX.",
+where XXX specifies a text change, this constitutes two attempted rule
+changes.]
 
-[CFJ 1638 (29 April 2007): Where a proposal contains the form of words
-"Amend rule NNNN by XXX.  Amend rule NNNN by YYY.", this constitutes
-two separate attempts at rule changes, even though both attempt to amend
-the same rule.]
+[CFJ 1638 (called 29 April 2007): Where a proposal contains the form
+of words "Amend rule NNNN by XXX.  Amend rule NNNN by YYY.", this
+constitutes two separate attempts at rule changes, even though both
+attempt to amend the same rule.]
 
-[CFJ 1642 (29 April 2007): Where a proposal contains the form of words
-"Amend rule NNNN by XXX.  Further amend rule NNNN by YYY.", where both
-XXX and YYY specify text changes, this constitutes two separate attempts
-at rule changes.]
+[CFJ 1642 (called 29 April 2007): Where a proposal contains the form
+of words "Amend rule NNNN by XXX.  Further amend rule NNNN by YYY.",
+where both XXX and YYY specify text changes, this constitutes two
+separate attempts at rule changes.]
 
-[CFJ 1640 (29 April 2007): Where a proposal contains the form of words
-"Amend rule NNNN by XXX and YYY.", where both XXX and YYY specify text
-changes, this constitutes a single attempt at a rule change, even though
-it is specified in two parts.]
+[CFJ 1640 (called 29 April 2007): Where a proposal contains the form
+of words "Amend rule NNNN by XXX and YYY.", where both XXX and YYY
+specify text changes, this constitutes a single attempt at a rule
+change, even though it is specified in two parts.]
 
-[CFJ 1641 (29 April 2007): Where a proposal contains the form of words
-"Amend rule NNNN by XXX and by YYY.", where both XXX and YYY specify
-text changes, this constitutes a single attempt at a rule change, even
-though it is specified in two parts.]
+[CFJ 1641 (called 29 April 2007): Where a proposal contains the form
+of words "Amend rule NNNN by XXX and by YYY.", where both XXX and YYY
+specify text changes, this constitutes a single attempt at a rule
+change, even though it is specified in two parts.]
 
-[CFJ 1643 (29 April 2007): Where a proposal specifies a single rule
-amendment in two parts, and one of the parts is not possible but the
-other is possible, the possible part is applied alone.]
+[CFJ 1643 (called 29 April 2007): Where a proposal specifies a single
+rule amendment in two parts, and one of the parts is not possible but
+the other is possible, the possible part is applied alone.]
 
 History:
 Created by Proposal 4894 (Murphy), 12 February 2007
@@ -555,8 +554,9 @@ First Speaker
 
       The Speaker for the first game shall be Michael Norrish.
 
-[CFJ 1534: This does not mean that Michael Norrish necessarily fills
- the position of Speaker at the present time.]
+[CFJ 1534 (called 8 March 2005): This does not mean that Michael
+Norrish necessarily fills the position of Speaker at the present
+time.]
 
 History:
 Initial Immutable Rule 104, Jun. 30 1993
@@ -584,21 +584,24 @@ How to Join and Leave Agora
       a player and is prohibited from registering for the next thirty
       days.
 
-[CFJ 1275: An entity is a Player if the Rules cannot distinguish that
- entity from a Player.]
+[CFJ 1275 (called 19 February 2001): An entity is a Player if the
+Rules cannot distinguish that entity from a Player.]
 
-[CFJ 1622, CFJ 1623: "person" in the rules means "legal person", which
- includes partnerships that exist under the rules.]
+[CFJs 1622 (called 26 February 2007) and 1623 (called 27 February
+2007): "person" in the rules means "legal person", which includes
+partnerships that exist under the rules.]
 
-[CFJs 1678-1680: For a partnership to be a legal person, it must
-ultimately devolve its obligations onto a non-empty set of natural
-persons.]
+[CFJs 1678-1680 (called 22 May 2007): For a partnership to be a legal
+person, it must ultimately devolve its obligations onto a non-empty
+set of natural persons.]
 
-[CFJ 1614: Being any type of foodstuff has no relation to personhood.]
+[CFJ 1614 (called 2 February 2007): Being any type of foodstuff has no
+relation to personhood.]
 
-[CFJ 1263: Any message expressing a clear desire or intent to register
- as a Player counts as a request for registration, whether or not it
- is explicitly phrased in the manner stipulated by the rules.]
+[CFJ 1263 (called 5 February 2001): Any message expressing a clear
+desire or intent to register as a Player counts as a request for
+registration, whether or not it is explicitly phrased in the manner
+stipulated by the rules.]
 
 [CFJ 1648 (called 1 May 2007): Requesting permission to register is to
 be interpreted as an announcement attempting to register.]
@@ -683,8 +686,8 @@ Cantus Cygneus
       henceforth, all may know said Player deregistered in a Writ of
       FAGE.
 
-[CFJ 1594: Players can be deregistered due to this rule even if there
-is no Registrar.]
+[CFJ 1594 (called 16 December 2006): Players can be deregistered due
+to this rule even if there is no Registrar.]
 
 History:
 Created by Proposal 3705 (Crito), Mar. 9 1998
@@ -747,31 +750,31 @@ Fora
       performed at the time date-stamped on that message.
 
 [CFJ 752: Something sent to a Player who is obligated to send it to
- all Players is sufficient for sending something to the PF.]
+all Players is sufficient for sending something to the PF.]
 
 [CFJ 813: A Player need not prove that e can receive the PF.]
 
-[CFJ 831: The Date: header of a message is not necessarily the time
- at which the message takes effect.]
+[CFJ 831: The Date: header of a message is not necessarily the time at
+which the message takes effect.]
 
-[CFJ 866: A message is "received" when the message enters the recipient's
- normal technical domain of control, whether this be eir private machine
- or eir private account on a shared machine (but not the shared machine
- itself, if the recipient does not control it).]
+[CFJ 866: A message is "received" when the message enters the
+recipient's normal technical domain of control, whether this be eir
+private machine or eir private account on a shared machine (but not
+the shared machine itself, if the recipient does not control it).]
 
-[CFJ 1112, Judged TRUE Jan. 21 1999: In order to submit a Proposal,
- in the sense of R1865 and elsewhere, it is not sufficient that a
- collection of text 'with the clear indication that that text is
- intended to become a Proposal' (R1483) merely be sent to the Public
- Forum by a Proposing Entity; the collection of text must also be
- received in the Public Forum.]
+[CFJ 1112: In order to submit a Proposal, in the sense of R1865 and
+elsewhere, it is not sufficient that a collection of text 'with the
+clear indication that that text is intended to become a Proposal'
+(R1483) merely be sent to the Public Forum by a Proposing Entity; the
+collection of text must also be received in the Public Forum.]
 
 [CFJ 1631 (called 29 April 2007): Public announcements must be made in
 the message body; the subject line is insignificant.]
 
-[CFJ 1646 (called 30 April 2007): The act of "publishing" or "announcing"
-is accomplished when the message has left the sender's technical domain
-of control, indicated by one of the "Received:" headers.]
+[CFJ 1646 (called 30 April 2007): The act of "publishing" or
+"announcing" is accomplished when the message has left the sender's
+technical domain of control, indicated by one of the "Received:"
+headers.]
 
 History:
 Created by Proposal 478 (Jim Shea), Sep. 20 1993
@@ -824,7 +827,7 @@ Definition Definitions
       terminology or grammar.
 
 [CFJ 712: Referring to a Player by a method other than eir name or
- nickname is acceptable, as long as it is unambiguous.]
+nickname is acceptable, as long as it is unambiguous.]
 
 History:
 Created by Proposal 435 (Alexx), Aug. 30 1993
@@ -1591,12 +1594,12 @@ need not be explicit.]
 [CFJ 1651 (called 6 May 2007): If a R107 notice initiating an Agoran
 decision does not contain an explicit list of the eligible voters, and
 there is later a dispute (evidenced by submission of a CFJ) over which
-voters were eligible at that time, then the notice's description of the
-class of eligible voters was necessarily insufficient to enable public
-agreement on which persons are eligible.]
+voters were eligible at that time, then the notice's description of
+the class of eligible voters was necessarily insufficient to enable
+public agreement on which persons are eligible.]
 
-[CFJ 1652: The set of eligible voters on an Agoran decision can change
-during its voting period.]
+[CFJ 1652 (called 6 May 2007): The set of eligible voters on an Agoran
+decision can change during its voting period.]
 
 History:
 Initial Immutable Rule 107, Jun. 30 1993
@@ -1652,16 +1655,16 @@ Voting on Agoran Decisions
       ballots.  This rule takes precedence over any rule that would
       loosen the constraints specified by this rule.
 
-[CFJ 1609: To "clearly identif[y] the matter to be decided" does not
- necessarily require specifying it in detail.]
+[CFJ 1609 (called 13 January 2007): To "clearly identif[y] the matter
+to be decided" does not necessarily require specifying it in detail.]
 
-[CFJ 1653: item (a) in rule 683 does not require that for a ballot to
-be valid its submitter must be an eligible voter at the time that the
-ballot is submitted.]
+[CFJ 1653 (called 6 May 2007): item (a) in rule 683 does not require
+that for a ballot to be valid its submitter must be an eligible voter
+at the time that the ballot is submitted.]
 
-[CFJ 1654: Item (a) in rule 683 requires that for a ballot to be valid
-its submitter must be an eligible voter at the time that that the ballot's
-validity is determined.]
+[CFJ 1654 (called 6 May 2007): Item (a) in rule 683 requires that for
+a ballot to be valid its submitter must be an eligible voter at the
+time that that the ballot's validity is determined.]
 
 History:
 Initial Mutable Rule 207, Jun. 30 1993
@@ -1832,10 +1835,11 @@ Determining the Will of Agora
           achieved, then the option selected by Agora is ADOPTED.
           Otherwise, the option selected by Agora is REJECTED.
 
-[CFJ 1605, CFJ 1608: Unanimity exceeds finite numerical adoption indices.]
+[CFJs 1605 (called 11 January 2007) and 1608 (called 12 January 2007):
+Unanimity exceeds finite numerical adoption indices.]
 
-[CFJs 1673-1675 (called 20 May 2007): Quorum for an Agoran decision
-is determined at the time the vote collector makes the calculations
+[CFJs 1673-1675 (called 20 May 2007): Quorum for an Agoran decision is
+determined at the time the vote collector makes the calculations
 described in rule 955.]
 
 History:
@@ -1868,8 +1872,8 @@ Quorum
       there are fewer than five eligible voters, in which case the
       quorum level is the number of eligible voters).
 
-CFJ 1562 (Judged TRUE, 6 May 2005): "A cancelled vote on a Proposal
- does not count towards quorum."
+CFJ 1562 (called 3 May 2005): A cancelled vote on a Proposal does not
+count towards quorum.
 
 [CFJs 1673-1675 (called 20 May 2007): Quorum for an Agoran decision
 changes as the set of eligible voters changes.]
@@ -1970,11 +1974,11 @@ Adopting Proposals
       otherwise take effect.  This rule takes precedence over any rule
       which would permit a proposal to take effect.
 
-[CFJ 1639 (29 April 2007): Where a proposal attempts two separate
-amendments of the text of the same rule, if one of the attempted
-amendments is not possible and the other is then the possible amendment
-does in fact occur, unless the proposal explicitly requires a different
-resolution.]
+[CFJ 1639 (called 29 April 2007): Where a proposal attempts two
+separate amendments of the text of the same rule, if one of the
+attempted amendments is not possible and the other is then the
+possible amendment does in fact occur, unless the proposal explicitly
+requires a different resolution.]
 
 History:
 Initial Immutable Rule 106, Jun. 30 1993
@@ -2453,13 +2457,13 @@ Linked Statements
       judge all of them.  The transferred CFJs become linked to the
       second judge's CFJ (and any others to which it is already linked).
 
-[CFJ 1602: A set of Linked CFJs is an entity distinct from the individual
- CFJs from which it is composed.]
+[CFJ 1602 (called 10 January 2007): A set of Linked CFJs is an entity
+distinct from the individual CFJs from which it is composed.]
 
-[CFJ 1601: When a Judge is to be assigned to a set of Linked CFJs as
- required by Rule 2024, references in Rule 698 to "that CFJ" or "that
- increasingly annoying CFJ" refer to individual CFJs, not to the set
- of CFJs.]
+[CFJ 1601 (called 10 January 2007): When a Judge is to be assigned to
+a set of Linked CFJs as required by Rule 2024, references in Rule 698
+to "that CFJ" or "that increasingly annoying CFJ" refer to individual
+CFJs, not to the set of CFJs.]
 
 History:
 Created by Proposal 4298 (Murphy), 17 May 2002
@@ -2509,15 +2513,15 @@ Selecting a Judge
       making assignments, for example with respect to providing the
       Defendant with response time in a Civil CFJ.
 
-CFJ 1186 (Judged TRUE, Dec. 9 1999): "The Clerk of the Courts is
- required by Rule 1868 to select a Judge who is eligible at the time
- that the Judge is selected, regardless of whether that Player was
- eligible at the time that the CFJ was actually called for or when the
- identity of that Player is announced."
+CFJ 1186: The Clerk of the Courts is required by Rule 1868 to select a
+Judge who is eligible at the time that the Judge is selected,
+regardless of whether that Player was eligible at the time that the
+CFJ was actually called for or when the identity of that Player is
+announced.
 
-[CFJ 1187, Dec. 8 1999: A Judge is considered to be assigned to Judge a
- particular CFJ at the time that the Clerk of the Courts announces the
- identity of the Judge, and no sooner.]
+[CFJ 1187: A Judge is considered to be assigned to Judge a particular
+CFJ at the time that the Clerk of the Courts announces the identity of
+the Judge, and no sooner.]
 
 History:
 Created by Proposal 3816 (Repeal-O-Matic), Dec. 21 1998
@@ -2553,13 +2557,14 @@ Always an Eligible Judge
       (c) This rule takes precedence over other rules concerning who
           is and is not eligible to judge CFJs.
 
-[CFJ 1600: In Rule 698 the phrase "all barred players" means all Players
- that are Barred from Judging the increasingly annoying CFJ.]
+[CFJ 1600 (called 10 January 2007): In Rule 698 the phrase "all barred
+players" means all Players that are Barred from Judging the
+increasingly annoying CFJ.]
 
-[CFJ 1601: When a Judge is to be assigned to a set of Linked CFJs as
- required by Rule 2024, references in Rule 698 to "that CFJ" or "that
- increasingly annoying CFJ" refer to individual CFJs, not to the set
- of CFJs.]
+[CFJ 1601 (called 10 January 2007): When a Judge is to be assigned to
+a set of Linked CFJs as required by Rule 2024, references in Rule 698
+to "that CFJ" or "that increasingly annoying CFJ" refer to individual
+CFJs, not to the set of CFJs.]
 
 History:
 Created by Proposal 482 (Alexx), Sep. 30 1993
@@ -2735,17 +2740,15 @@ Judgements Must Accord with the Rules
       issued.
 
 [CFJ 897: The requirements in Rule 217 on Judgements apply to the
- determinations of the members of a Board of Appeal, as well as to
- the Judgements of Judges.]
+determinations of the members of a Board of Appeal, as well as to the
+Judgements of Judges.]
 
-[CFJ 1139, Judged Jun. 20 1999: Judgements need not necessarily accord
- with the reasoning and arguments of Judges or Justices given in
- past CFJs.]
+[CFJ 1139: Judgements need not necessarily accord with the reasoning
+and arguments of Judges or Justices given in past CFJs.]
 
-[CFJ 1219, Judged May 23, 2000, Appeal decision published, Jun. 13
- 2000: A mistaken Judgement (ie one that does not accord with the
- Rules) is still a Judgement, as long as the technical requirements on
- the delivery of the Judgement have been met.]
+[CFJ 1219: A mistaken Judgement (ie one that does not accord with the
+Rules) is still a Judgement, as long as the technical requirements on
+the delivery of the Judgement have been met.]
 
 History:
 Initial Mutable Rule 217, Jun. 30 1993
@@ -2947,8 +2950,8 @@ Orders to Annotate Rules
       the original Order Vacated and shall Order the Rulekeepor to
       remove the annotation in question.
 
-[CFJ 684: Such an Order applies not only during Judging, but
- also in the everyday interpretation of the Rule.]
+[CFJ 684: Such an Order applies not only during Judging, but also in
+the everyday interpretation of the Rule.]
 
 History:
 Created by Proposal 789 (Chuck), ca. Dec. 20 1993
@@ -3027,7 +3030,8 @@ Initiating Appeals
       related material; the Board of Appeals is encouraged, but not
       required, to take notice of these things.
 
-[CFJ 1273: dismissal of a CFJ is subject to Appeal.]
+[CFJ 1273 (called 13 February 2001): dismissal of a CFJ is subject to
+Appeal.]
 
 History:
 Created by Proposal 2457, Feb. 16 1996
@@ -3652,9 +3656,9 @@ cannot be made among a set of exactly one player.]
 [CFJ 1683 (called 23 May 2007): A binding agreement under rule 1742
 cannot be made among a set of exactly zero players (the empty set).]
 
-[CFJs 1666-1667 (called 14 May 2007): Where two binding agreements each
-construct a partnership, the partnerships have distinct identities even
-if the set of partners is the same.]
+[CFJs 1666-1667 (called 14 May 2007): Where two binding agreements
+each construct a partnership, the partnerships have distinct
+identities even if the set of partners is the same.]
 
 [CFJ 1668 (called 14 May 2007): Where a binding agreement constructs a
 partnership and allows the set of partners to change, the identity of
