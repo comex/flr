@@ -23,16 +23,16 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 101 Rules:
+There are currently 102 Rules:
     1 with Power=4
    27 with Power=3
-    9 with Power=2
+   10 with Power=2
     1 with Power=1.1
    63 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2145
-Highest Rule Number assigned so far: 2145
+Highest current Rule Number:         2146
+Highest Rule Number assigned so far: 2146
 
 ======================================================================
 Table of Contents:
@@ -913,6 +913,19 @@ Amended(15) by Proposal 4278 (harvel), 3 April 2002
 Amended(16) by Proposal 4406 (Murphy), 30 October 2002
 Amended(17) by Proposal 4866 (Goethe), 27 August 2006
 Amended(18) by Proposal 4938 (Murphy), 29 April 2007
+
+----------------------------------------------------------------------
+
+Rule 2146/0 (Power=2)
+Indices
+
+      Indices are elements of the extended real numbers, which is a
+      total order consisting of the real numbers plus a minimum
+      element, called negative infinity, and a maximum element, called
+      positive infinity or unanimity.
+
+History:
+Created by Proposal 4979 (Zefram, Maud), 31 May 2007
 
 ----------------------------------------------------------------------
 
@@ -3807,4 +3820,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4978]
+      [Last proposal with recorded effect on this ruleset: 4979]
