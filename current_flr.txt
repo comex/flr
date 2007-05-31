@@ -23,16 +23,16 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 100 Rules:
+There are currently 101 Rules:
     1 with Power=4
    27 with Power=3
     9 with Power=2
     1 with Power=1.1
-   62 with Power=1
+   63 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2144
-Highest Rule Number assigned so far: 2144
+Highest current Rule Number:         2145
+Highest Rule Number assigned so far: 2145
 
 ======================================================================
 Table of Contents:
@@ -3650,6 +3650,23 @@ Amended(4) by Proposal 4867 (Goethe), 27 August 2006
 
 ----------------------------------------------------------------------
 
+Rule 2145/0 (Power=1)
+Partnerships
+
+      A non-natural person that is created by an Agreement between two
+      or more persons is known as a Partnership. A Partnership comes
+      into existence with the initiation of the Agreement that creates
+      it, and it ceases to exist when that Agreement is terminated.
+      The persons who are party to the Agreement may change during the
+      course of that Agreement (if the Agreement allows for it)
+      without disrupting the existence of the Partnership as a person
+      as long as that Agreement remains in effect.
+
+History:
+Created by Proposal 4977 (BobTHJ), 31 May 2007
+
+----------------------------------------------------------------------
+
 Rule 1503/6 (Power=3)
 Rules Violations
 
@@ -3789,4 +3806,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4975]
+      [Last proposal with recorded effect on this ruleset: 4977]
