@@ -697,15 +697,19 @@ Amended(3) by Proposal 4825 (Maud), 17 July 2005
 
 ----------------------------------------------------------------------
 
-Rule 2130/0 (Power=1)
+Rule 2130/1 (Power=1)
 Inactivity
 
       A player may become active or inactive by announcement.
 
       A player may, without objection, make another player inactive.
 
+      Registration as a player causes the new player to become active.
+      All non-players are inactive.
+
 History:
 Created by Proposal 4893 (Murphy), 12 February 2007
+Amended(1) by Proposal 4966 (Zefram), 3 June 2007
 
 ----------------------------------------------------------------------
 
@@ -3829,5 +3833,5 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4964]
+      [Last proposal with recorded effect on this ruleset: 4966]
       [Highest-numbered proposal with recorded effect: 4981]
