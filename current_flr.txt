@@ -1561,13 +1561,14 @@ Amended(9) by Proposal 4887 (Murphy), 22 January 2007
 
 ----------------------------------------------------------------------
 
-Rule 107/3 (Power=3)
+Rule 107/4 (Power=3)
 Initiating Agoran Decisions
 
       An Agoran decision is initiated when a person authorized to
       initiate it publishes a valid notice which sets forth the intent
-      to initiate the decision.  To be valid, this notice must contain
-      the following information:
+      to initiate the decision.  This notice is invalid if it lacks
+      any of the following information, and the lack is correctly
+      identified within one week after the notice is published:
 
       (a) The matter to be decided (for example, "the adoption of
           proposal 4781").
@@ -1607,6 +1608,7 @@ Mutated from MI=Unanimity to MI=3 by Proposal 1391, Jan. 24 1995
 Amended(1) by Proposal 3889 (harvel), Aug. 9 1999
 Amended(2) by Proposal 4811 (Maud, Goethe), 20 June 2005
 Amended(3) by Proposal 4868 (Goethe), 27 August 2006
+Amended(4) by Proposal 4964 (Murphy), 3 June 2007
 
 ----------------------------------------------------------------------
 
@@ -1629,7 +1631,7 @@ Created by Proposal 4939 (Murphy), 29 April 2007
 
 ----------------------------------------------------------------------
 
-Rule 683/12 (Power=3)
+Rule 683/13 (Power=3)
 Voting on Agoran Decisions
 
       An eligible voter on a particular Agoran decision submits a
@@ -1637,8 +1639,9 @@ Voting on Agoran Decisions
       indicating which one of the available options e selects.  To be
       valid, the ballot must satisfy the following conditions:
 
-      (a) The ballot is submitted by an eligible voter during the
-          voting period for the decision.
+      (a) The ballot is submitted during the voting period for the
+          decision, and the submitter is an eligible voter at the
+          time of submission.
 
       (b) The ballot clearly identifies the matter to be decided.
 
@@ -1658,14 +1661,6 @@ Voting on Agoran Decisions
 [CFJ 1609 (called 13 January 2007): To "clearly identif[y] the matter
 to be decided" does not necessarily require specifying it in detail.]
 
-[CFJ 1653 (called 6 May 2007): item (a) in rule 683 does not require
-that for a ballot to be valid its submitter must be an eligible voter
-at the time that the ballot is submitted.]
-
-[CFJ 1654 (called 6 May 2007): Item (a) in rule 683 requires that for
-a ballot to be valid its submitter must be an eligible voter at the
-time that that the ballot's validity is determined.]
-
 History:
 Initial Mutable Rule 207, Jun. 30 1993
 Amended by Proposal 683 (Jeffrey S.), Nov. 10 1993
@@ -1682,6 +1677,7 @@ Amended(10) by Proposal 4190 (Steve), 18 July 2001
 Amended(11) by Proposal 4699 (Sherlock), 18 April 2005
 Power changed from 1 to 3 by Proposal 4811 (Maud,Goethe), 20 June 2005
 Amended(12) by Proposal 4811 (Maud, Goethe), 20 June 2005
+Amended(13) by Proposal 4964 (Murphy), 3 June 2007
 
 ----------------------------------------------------------------------
 
@@ -1727,21 +1723,21 @@ Created by Proposal 4811 (Maud, Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 1950/14 (Power=3)
+Rule 1950/15 (Power=3)
 Voting Limits
 
-      The voting limit of an eligible voter on a democratic proposal
-      is one and cannot be changed except by this rule.
+      The voting limit of an entity on a democratic proposal is one
+      and cannot be changed except by this rule.
 
-      The voting limit of an eligible voter on an ordinary proposal is
-      one if not explicitly modified by other rules.
+      The voting limit of an entity on an ordinary proposal is one if
+      not explicitly modified by other rules.
 
-      The voting limit of an eligible voter who is not a natural
-      person is always one less than it would otherwise be.
+      The voting limit of an entity who is not a natural person is
+      always one less than it would otherwise be.
 
       After the voting period for an Agoran decision has ended, the
       vote collector shall permit the first valid ballots submitted by
-      an eligible voter to remain valid, up to a number equal to that
+      each voter to remain valid, up to a number equal to that
       person's voting limit on that decision as determined when the
       voting period for that decision began, and shall invalidate all
       subsequent ballots submitted by that voter on that decision.
@@ -1763,6 +1759,7 @@ Power changed from 2 to 3 by Proposal 4811 (Maud,Goethe), 20 June 2005
 Amended(12) by Proposal 4811 (Maud, Goethe), 20 June 2005
 Amended(13) by Proposal 4868 (Goethe), 27 August 2006
 Amended(14) by Proposal 4972 (Goddess Eris), 23 May 2007
+Amended(15) by Proposal 4964 (Murphy), 3 June 2007
 
 ----------------------------------------------------------------------
 
@@ -1864,19 +1861,16 @@ Amended(10) by Proposal 4868 (Goethe), 27 August 2006
 
 ----------------------------------------------------------------------
 
-Rule 879/22 (Power=2)
+Rule 879/23 (Power=2)
 Quorum
 
-      The quorum for an Agoran decision is one third the number of
-      eligible voters, rounded up, with a minimum of five (unless
-      there are fewer than five eligible voters, in which case the
-      quorum level is the number of eligible voters).
+      Quorum for an Agoran decision is N/3 (where N is the number of
+      eligible voters at the start of the voting period), rounded up,
+      with a minimum of five (unless this is greater than N, in which
+      quorum is N).
 
 CFJ 1562 (called 3 May 2005): A cancelled vote on a Proposal does not
 count towards quorum.
-
-[CFJs 1673-1675 (called 20 May 2007): Quorum for an Agoran decision
-changes as the set of eligible voters changes.]
 
 History:
 Initial Mutable Rule 201, Jun. 30 1993
@@ -1906,6 +1900,7 @@ Amended(19) by Proposal 4410 (Steve), 6 November 2002
 Amended(20) by Proposal 4576 (root), 31 May 2004
 Amended(21) by Proposal 4665 (Kolja), 9 April 2005
 Amended(22) by Proposal 4811 (Maud, Goethe), 20 June 2005
+Amended(23) by Proposal 4964 (Murphy), 3 June 2007
 
 ----------------------------------------------------------------------
 
@@ -3834,5 +3829,5 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4961]
+      [Last proposal with recorded effect on this ruleset: 4964]
       [Highest-numbered proposal with recorded effect: 4981]
