@@ -2587,7 +2587,7 @@ Amended(15) by Proposal 4867 (Goethe), 27 August 2006
 
 ----------------------------------------------------------------------
 
-Rule 1871/9 (Power=1)
+Rule 1871/10 (Power=1)
 Turns for All
 
       When a player is selected as Trial Judge of a CFJ, e becomes
@@ -2605,9 +2605,9 @@ Turns for All
       so when all open CFJs without a Trial Judge have no players
       eligible to be assigned, and at least one of them has at least
       one player ineligible solely to being turned; e shall list all
-      CFJs in the first set, and at least one in the second.  However,
-      failing to meet these requirements does not deprive the Notice
-      of effect.
+      CFJs in the first set, and at least one (and at least one such
+      player for it) in the second.  However, failing to meet these
+      requirements does not deprive the Notice of effect.
 
 History:
 Created by Proposal 3821 (Blob), Jan. 12 1999
@@ -2620,6 +2620,7 @@ Amended(6) by Proposal 4648 (Kolja), 22 March 2005
 Amended(7) by Proposal 4691 (root), 18 April 2005
 Amended(8) by Proposal 4867 (Goethe), 27 August 2006
 Amended(9) by Proposal 4912 (Murphy), 21 March 2007
+Amended(10) by Proposal 4958 (Murphy), 3 June 2007
 
 ----------------------------------------------------------------------
 
@@ -3829,4 +3830,5 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4981]
+      [Last proposal with recorded effect on this ruleset: 4958]
+      [Highest-numbered proposal with recorded effect: 4981]
