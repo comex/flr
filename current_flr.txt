@@ -3746,7 +3746,7 @@ Amended(1) by Proposal 4867 (Goethe), 27 August 2006
 
 ----------------------------------------------------------------------
 
-Rule 2136/0 (Power=1)
+Rule 2136/1 (Power=1)
 Contests
 
       A contest is a contract that identifies itself as such, and
@@ -3761,12 +3761,15 @@ Contests
       to one or more contestants, unless e was contestmaster of a
       different contest for at least 15 days of the previous month.
 
-      A player with 100 or more points may win the game by announcing
-      this fact.  Upon such an announcement, each player's score is
-      set to zero.
+      A player with 100 or more points may announce this fact.  If
+      this announcement is correct, then the following events happen:
+
+      1.  The announcing player wins the game.
+      2.  Each player's score is set to zero.
 
 History:
 Created by Proposal 4935 (Murphy), 29 April 2007
+Amended(1) by Proposal 4960 (OscarMeyr), 3 June 2007
 
 ----------------------------------------------------------------------
 
@@ -3830,5 +3833,5 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4958]
+      [Last proposal with recorded effect on this ruleset: 4960]
       [Highest-numbered proposal with recorded effect: 4981]
