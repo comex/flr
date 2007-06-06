@@ -2622,27 +2622,33 @@ Amended(15) by Proposal 4867 (Goethe), 27 August 2006
 
 ----------------------------------------------------------------------
 
-Rule 1871/10 (Power=1)
-Turns for All
+Rule 1871/11 (Power=1)
+The Standing Court
 
-      When a player is selected as Trial Judge of a CFJ, e becomes
-      turned.  A player is ineligible to be Trial Judge of a CFJ if
-      e was turned when it was called.
+      Each player is either standing, sitting, or lying down.
 
-      When a player registers, e becomes turned.
+      A player may change emself from sitting to lying down, or vice
+      versa, by announcement.
 
-      The Clerk of the Courts may (without 2 objections) turn a
-      player.  E is encouraged to do this only if e expects the
-      player to judge CFJs slowly or not at all.
+      When a player is selected as Trial Judge of a CFJ, e changes to
+      sitting.  A player is ineligible to become Trial Judge of a CFJ
+      if e is not standing.
+
+      When a player registers, e is lying down.
+
+      The Clerk of the Courts may (without 2 objections) change a
+      player to lying down.  E is encouraged to do this only if e
+      expects the player to judge CFJs slowly or not at all.
 
       When the Clerk of the Courts publishes a Notice of Rotation, all
-      players become unturned.  The Clerk of the Courts shall only do
-      so when all open CFJs without a Trial Judge have no players
-      eligible to be assigned, and at least one of them has at least
-      one player ineligible solely to being turned; e shall list all
-      CFJs in the first set, and at least one (and at least one such
-      player for it) in the second.  However, failing to meet these
-      requirements does not deprive the Notice of effect.
+      sitting players change to standing.  The Clerk of the Courts
+      shall only do so when all open CFJs without a Trial Judge have
+      no players eligible to be assigned, and at least one of them has
+      at least one player ineligible solely to not standing; e shall
+      list all CFJs in the first set, and at least one in the second
+      (noting at least one of the relevant players).  However, failing
+      to meet these requirements does not deprive the Notice of
+      effect.
 
 History:
 Created by Proposal 3821 (Blob), Jan. 12 1999
@@ -2656,6 +2662,8 @@ Amended(7) by Proposal 4691 (root), 18 April 2005
 Amended(8) by Proposal 4867 (Goethe), 27 August 2006
 Amended(9) by Proposal 4912 (Murphy), 21 March 2007
 Amended(10) by Proposal 4958 (Murphy), 3 June 2007
+Retitled by Proposal 4991 (Murphy), 6 June 2007
+Amended(11) by Proposal 4991 (Murphy), 6 June 2007
 
 ----------------------------------------------------------------------
 
@@ -3929,4 +3937,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4990]
+      [Last proposal with recorded effect on this ruleset: 4991]
