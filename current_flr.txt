@@ -1900,13 +1900,16 @@ Amended(10) by Proposal 4868 (Goethe), 27 August 2006
 
 ----------------------------------------------------------------------
 
-Rule 879/23 (Power=2)
+Rule 879/24 (Power=2)
 Quorum
 
       Quorum for an Agoran decision is N/3 (where N is the number of
       eligible voters at the start of the voting period), rounded up,
       with a minimum of five (unless this is greater than N, in which
       quorum is N).
+
+      Voters whose voting limit is less than one are not considered
+      eligible for the purposes of this rule.
 
 CFJ 1562 (called 3 May 2005): A cancelled vote on a Proposal does not
 count towards quorum.
@@ -1940,6 +1943,7 @@ Amended(20) by Proposal 4576 (root), 31 May 2004
 Amended(21) by Proposal 4665 (Kolja), 9 April 2005
 Amended(22) by Proposal 4811 (Maud, Goethe), 20 June 2005
 Amended(23) by Proposal 4964 (Murphy), 3 June 2007
+Amended(24) by Proposal 4997 (Zefram, Goddess Eris), 6 June 2007
 
 ----------------------------------------------------------------------
 
@@ -3937,4 +3941,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4991]
+      [Last proposal with recorded effect on this ruleset: 4997]
