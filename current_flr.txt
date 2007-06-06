@@ -3626,10 +3626,10 @@ Contract Law
   A category concerning binding agreements between players.
 ----------------------------------------------------------------------
 
-Rule 1742/4 (Power=1)
-Agreements between Players
+Rule 1742/5 (Power=1)
+Agreements
 
-      Players may make agreements among themselves with the intention
+      Persons may make agreements among themselves with the intention
       that such agreements will be binding; i.e. that they become
       parties to the agreement and agree to be bound by the agreement.
 
@@ -3685,6 +3685,8 @@ Amended(1) by Proposal 3704 (General Chaos), Mar. 19 1998
 Amended(2) by Proposal 4018 (Kelly), Jun. 21 2000
 Amended(3) by Proposal 4533 (Murphy), 26 October 2003
 Amended(4) by Proposal 4867 (Goethe), 27 August 2006
+Retitled by Proposal 4987 (BobTHJ), 6 June 2007
+Amended(5) by Proposal 4987 (BobTHJ), 6 June 2007
 
 ----------------------------------------------------------------------
 
@@ -3847,4 +3849,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4986]
+      [Last proposal with recorded effect on this ruleset: 4987]
