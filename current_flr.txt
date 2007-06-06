@@ -24,16 +24,16 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 104 Rules:
+There are currently 105 Rules:
     1 with Power=4
    27 with Power=3
    12 with Power=2
     1 with Power=1.1
-   63 with Power=1
+   64 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2148
-Highest Rule Number assigned so far: 2148
+Highest current Rule Number:         2149
+Highest Rule Number assigned so far: 2149
 
 ======================================================================
 Table of Contents:
@@ -455,6 +455,22 @@ Power changed from 1 to 3 by Proposal 4894 (Murphy), 12 February 2007
 Retitled by Proposal 4894 (Murphy), 12 February 2007
 Amended(1) by Proposal 4894 (Murphy), 12 February 2007
 Amended(2) by Proposal 4940 (Zefram), 29 April 2007
+
+----------------------------------------------------------------------
+
+Rule 2149/0 (Power=1)
+Truthfulness
+
+      Players are prohibited from deliberately or recklessly making
+      false statements in any public message.  Merely quoting a false
+      statement does not constitute making it for the purposes of this
+      rule.  Any disclaimer, conditional clause, or other qualifier
+      attached to a statement constitutes part of the statement for
+      the purposes of this rule; the truth or falsity of the whole is
+      what is significant.
+
+History:
+Created by Proposal 4990 (Zefram), 6 June 2007
 
 ----------------------------------------------------------------------
 
@@ -3913,4 +3929,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4989]
+      [Last proposal with recorded effect on this ruleset: 4990]
