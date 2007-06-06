@@ -571,7 +571,7 @@ Players
   and ceasing to be players, and game-relevant aspects of players.
 ----------------------------------------------------------------------
 
-Rule 869/17 (Power=1)
+Rule 869/18 (Power=1)
 How to Join and Leave Agora
 
       A person who is not currently registered as a player and is not
@@ -584,6 +584,9 @@ How to Join and Leave Agora
       Whenever a player deregisters or is deregistered, e ceases to be
       a player and is prohibited from registering for the next thirty
       days.
+
+      A player who is not a person and has never been a natural person
+      can be deregistered by any player by announcement.
 
 [CFJ 1275 (called 19 February 2001): An entity is a Player if the
 Rules cannot distinguish that entity from a Player.]
@@ -628,6 +631,7 @@ Amended(14) by Proposal 4523 (Murphy), 28 August 2003
 Amended(15) by Proposal 4693 (Maud), 18 April 2005
 Amended(16) by Proposal 4802 (Maud), 15 June 2005
 Amended(17) by Proposal 4833 (Maud), 6 August 2005
+Amended(18) by Proposal 4989 (Zefram), 6 June 2007
 
 ----------------------------------------------------------------------
 
@@ -3909,4 +3913,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4988]
+      [Last proposal with recorded effect on this ruleset: 4989]
