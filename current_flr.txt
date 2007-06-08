@@ -2806,6 +2806,10 @@ and arguments of Judges or Justices given in past CFJs.]
 Rules) is still a Judgement, as long as the technical requirements on
 the delivery of the Judgement have been met.]
 
+[CFJ 1671 (called 17 May 2007): The truth or falsity of a statement
+can be determined as of the issuance of a CFJ even if public knowledge
+at the time of issuance was not sufficient to determine it.]
+
 History:
 Initial Mutable Rule 217, Jun. 30 1993
 Amended(1) by Proposal 1635, Jul. 25 1995
