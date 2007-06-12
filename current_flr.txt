@@ -1771,24 +1771,27 @@ Created by Proposal 4811 (Maud, Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 1950/15 (Power=3)
+Rule 1950/16 (Power=3)
 Voting Limits
 
-      The voting limit of an entity on a democratic proposal is one
-      and cannot be changed except by this rule.
+      An entity's voting limit on an Agoran decision is:
 
-      The voting limit of an entity on an ordinary proposal is one if
-      not explicitly modified by other rules.
+        (a) If the entity is not an eligible voter, then zero, not
+            subject to modification.
+
+        (b) Otherwise, if the decision is to resolve an ordinary
+            proposal, then one, subject to modification by the rules.
+
+        (c) Otherwise, one, subject to modification only by this rule.
 
       The voting limit of an entity who is not a natural person is
-      always one less than it would otherwise be.
+      reduced by one.
 
-      After the voting period for an Agoran decision has ended, the
-      vote collector shall permit the first valid ballots submitted by
-      each voter to remain valid, up to a number equal to that
-      person's voting limit on that decision as determined when the
-      voting period for that decision began, and shall invalidate all
-      subsequent ballots submitted by that voter on that decision.
+      At the end of the voting period of an Agoran decision, the first
+      N ballots submitted by each entity on that decision (where N is
+      the entity's voting limit on the decision at the start of the
+      voting period) remain valid; all other ballots submitted on that
+      decision are invalid.
 
 History:
 Created by Proposal 4032 (t), Jul. 24 2000
@@ -1808,6 +1811,7 @@ Amended(12) by Proposal 4811 (Maud, Goethe), 20 June 2005
 Amended(13) by Proposal 4868 (Goethe), 27 August 2006
 Amended(14) by Proposal 4972 (Goddess Eris), 23 May 2007
 Amended(15) by Proposal 4964 (Murphy), 3 June 2007
+Amended(16) by Proposal 5000 (Murphy), 12 June 2007
 
 ----------------------------------------------------------------------
 
@@ -1909,19 +1913,19 @@ Amended(10) by Proposal 4868 (Goethe), 27 August 2006
 
 ----------------------------------------------------------------------
 
-Rule 879/24 (Power=2)
+Rule 879/25 (Power=2)
 Quorum
 
       Quorum for an Agoran decision is N/3 (where N is the number of
-      eligible voters at the start of the voting period), rounded up,
-      with a minimum of five (unless this is greater than N, in which
-      quorum is N).
-
-      Voters whose voting limit is less than one are not considered
-      eligible for the purposes of this rule.
+      eligible voters with a positive voting limit on that decision),
+      rounded up, with a minimum of five (unless this is greater than
+      N, in which case quorum is N).
 
 CFJ 1562 (called 3 May 2005): A cancelled vote on a Proposal does not
 count towards quorum.
+
+[CFJs 1673-1675 (called 20 May 2007): Quorum for an Agoran decision
+changes as the set of eligible voters changes.]
 
 History:
 Initial Mutable Rule 201, Jun. 30 1993
@@ -1953,6 +1957,7 @@ Amended(21) by Proposal 4665 (Kolja), 9 April 2005
 Amended(22) by Proposal 4811 (Maud, Goethe), 20 June 2005
 Amended(23) by Proposal 4964 (Murphy), 3 June 2007
 Amended(24) by Proposal 4997 (Zefram, Goddess Eris), 6 June 2007
+Amended(25) by Proposal 5000 (Murphy), 12 June 2007
 
 ----------------------------------------------------------------------
 
@@ -3959,4 +3964,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 4997]
+      [Last proposal with recorded effect on this ruleset: 5000]
