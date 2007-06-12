@@ -976,7 +976,7 @@ Created by Proposal 4979 (Zefram, Maud), 31 May 2007
 
 ----------------------------------------------------------------------
 
-Rule 1728/13 (Power=2)
+Rule 1728/14 (Power=2)
 Dependent Actions
 
       An action is dependent, or may be performed dependently, if and
@@ -1018,7 +1018,7 @@ Dependent Actions
            (1)  if the action is to be performed Without N Objections,
                 fewer than N players who are natural persons have
                 publicly posted objections (and not publicly retracted
-                eir objections) to the performance of the action; or
+                eir objections) to the performance of the action; and
 
            (2)  if the action is to be performed With N Supporters, at
                 least N players who are natural persons other than the
@@ -1061,6 +1061,7 @@ Amended(10) by Proposal 4279 (harvel), 3 April 2002
 Amended(11) by Proposal 4461 (Maud), 17 March 2003
 Amended(12) by Proposal 4915 (Murphy), 2 April 2007
 Amended(13) by Proposal 4981 (Zefram), 31 May 2007
+Amended(14) by Proposal 4999 (Zefram), 12 June 2007
 
 ----------------------------------------------------------------------
 
