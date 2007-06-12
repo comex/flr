@@ -2439,7 +2439,7 @@ Amended(6) by Proposal 4867 (Goethe), 27 August 2006
 
 ----------------------------------------------------------------------
 
-Rule 897/5 (Power=1)
+Rule 897/6 (Power=1)
 Court Procedure
 
       The Clerk of the Courts shall publish the text of a CFJ, along
@@ -2460,8 +2460,9 @@ Court Procedure
       Defendant with the clear intent of being part of a defense, will
       become part of the material of that CFJ.
 
-      A Player Barred from Judging a CFJ is ineligible to Judge that
-      CFJ.
+      A player barred from judging a CFJ is ineligible to judge that
+      CFJ.  The caller of a CFJ is automatically barred from judging
+      it.
 
       When submitting a general CFJ, the Caller may Bar up to three
       Players from Judging that CFJ.
@@ -2478,6 +2479,7 @@ Amended(2) by Proposal 3839 (Murphy), Mar. 8 1999
 Amended(3) by Proposal 4298 (Murphy), 17 May 2002
 Amended(4) by Proposal 4867 (Goethe), 27 August 2006
 Amended(5) by Proposal 4887 (Murphy), 22 January 2007
+Amended(6) by Proposal 5001 (root, Quazie), 12 June 2007
 
 ----------------------------------------------------------------------
 
@@ -3964,4 +3966,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 5000]
+      [Last proposal with recorded effect on this ruleset: 5001]
