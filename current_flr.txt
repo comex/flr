@@ -723,19 +723,12 @@ Amended(3) by Proposal 4825 (Maud), 17 July 2005
 
 ----------------------------------------------------------------------
 
-Rule 2130/4 (Power=1)
+Rule 2130/5 (Power=1)
 Inactivity
 
       A player may become active or inactive by announcement.
 
       A player may, without objection, make another player inactive.
-
-      Registration as a player causes the new player to become active.
-      All non-players are inactive.
-
-      The Registrar's report shall indicate, for each player, whether
-      the player is active or inactive, and the date on which this
-      status last changed.
 
       Registration as a player causes the new player to become active.
       All non-players are inactive.
@@ -750,6 +743,7 @@ Amended(1) by Proposal 4966 (Zefram), 3 June 2007
 Amended(2) by Proposal 4967 (Zefram), 3 June 2007
 Amended(3) by Proposal 4985 (Zefram), 6 June 2007
 Amended(4) by Proposal 4986 (Zefram), 6 June 2007
+Amended(5) by Proposal 5004 (Zefram), 13 June 2007
 
 ----------------------------------------------------------------------
 
@@ -3966,4 +3960,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 5001]
+      [Last proposal with recorded effect on this ruleset: 5004]
