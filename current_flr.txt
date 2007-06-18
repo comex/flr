@@ -3690,7 +3690,7 @@ Contract Law
   A category concerning binding agreements between players.
 ----------------------------------------------------------------------
 
-Rule 1742/5 (Power=1)
+Rule 1742/6 (Power=1)
 Agreements
 
       Persons may make agreements among themselves with the intention
@@ -3719,9 +3719,7 @@ Agreements
              in question explicitly specifies punitive penalties for
              the type of breach.
 
-      If a Civil CFJ is called by anyone who is not party to that
-      agreement, then it lacks standing and shall be dismissed.  A
-      Civil CFJ that specifies multiple defendants, or multiple
+      A Civil CFJ that specifies multiple defendants, or multiple
       independent breaches of contract, is improperly made and shall
       be dismissed.
 
@@ -3754,6 +3752,7 @@ Amended(3) by Proposal 4533 (Murphy), 26 October 2003
 Amended(4) by Proposal 4867 (Goethe), 27 August 2006
 Retitled by Proposal 4987 (BobTHJ), 6 June 2007
 Amended(5) by Proposal 4987 (BobTHJ), 6 June 2007
+Amended(6) by Proposal 5009 (Zefram), 18 June 2007
 
 ----------------------------------------------------------------------
 
@@ -3975,4 +3974,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 5007]
+      [Last proposal with recorded effect on this ruleset: 5009]
