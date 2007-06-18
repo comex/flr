@@ -885,7 +885,7 @@ Amended(6) by Proposal 4866 (Goethe), 27 August 2006
 
 ----------------------------------------------------------------------
 
-Rule 1023/18 (Power=2)
+Rule 1023/19 (Power=2)
 Common Definitions
 
       The following terms are defined:
@@ -903,20 +903,39 @@ Common Definitions
       (d) The term "paragraph" shall mean a subset of text determined
           as follows:
 
-          (1) Each bulleted section is a unit of text.
+          (1) Each bulleted or enumerated (hereafter simply
+              "bulleted") section is a unit of text.
 
           (2) Any remaining text is divided into units at blank lines.
 
-          (3) Units are considered in a tree hierarchy, interpreting
-              the original body of text as a depth-first search.  The
-              root is empty, the unbulleted units are its children,
-              and the bulleted units following an unbulleted unit are
-              its descendants (with nested bullets corresponding to
-              nested levels of the tree).
+          (3) Each unit of a document has a level as follows.  All
+              unbulleted units have level 1.  Each bulleted unit has
+              level n+2, where n is the number of bulleted units it is
+              nested inside.
 
-          (4) A "paragraph" identified by partial quotation is
+          (4) A barrier between two units is a unit appearing between
+              those units which has level no greater than that of the
+              unit appearing first.
+
+          (5) The units of a document form an ordered tree, with the
+              hierarchy determined as follows.  The root is an empty
+              unit with level zero, which nominally appears at the
+              beginning of the document.  One unit is a descendant of
+              another unit if it appears after the latter, has
+              strictly greater level, and is not separated from the
+              latter by a barrier.  The tree's ordering follows the
+              order of the units in the document.
+
+          (6) A "paragraph" identified by partial quotation is
               determined by the minimum sub-tree containing the
               entirety of that quotation.
+
+          (7) A "paragraph" identified by an ordinal n is determined
+              by the nth unbulleted unit and its descendants.
+
+          (8) A "paragraph" identified by enumerated section labels is
+              determined by the sub-tree arrived at by traversal from
+              the root, using the specified series of labels.
 
       (e) Agoran epochs:
 
@@ -958,6 +977,7 @@ Amended(15) by Proposal 4278 (harvel), 3 April 2002
 Amended(16) by Proposal 4406 (Murphy), 30 October 2002
 Amended(17) by Proposal 4866 (Goethe), 27 August 2006
 Amended(18) by Proposal 4938 (Murphy), 29 April 2007
+Amended(19) by Proposal 5005 (root), 18 June 2007
 
 ----------------------------------------------------------------------
 
@@ -3983,4 +4003,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 5004]
+      [Last proposal with recorded effect on this ruleset: 5005]
