@@ -668,6 +668,15 @@ The Registrar
       c) A list of all public or discussion fora, with sufficient data
          regarding each forum to players to receive messages there.
 
+[Cross-references (18 June 2007): the Registrar's duties are:
+  * report players' nicknames and email addresses (rule 2139)
+  * report registration dates (rule 2139)
+  * report fora (rule 2139)
+  * report deregistration by Writ of FAGE (rule 1789)
+  * report activity (rule 2130)
+  * change the publicity of a forum (rule 478)
+  * deregister convict in disgrace (rule 1504)]
+
 History:
 Created by Proposal 4939 (Murphy), 29 April 2007
 
@@ -1191,6 +1200,21 @@ Always a Speaker
       the player whose most recent registration was earliest becomes
       the Speaker.
 
+[Cross-references (18 June 2007): the Speaker's duties are:
+  * initiate a contest to determine a winner (rule 2128)
+  * default officeholder (rule 1006)
+  * ratify any official report (rule 1551)
+  * veto VC salary (rule 2126)
+  * veto or rubberstamp an Ordinary Proposal (rule 2019)
+  * serve on board of appeals (rule 911)
+  * appoint a member to a Thesis Committee (rule 1370)
+The other provisions governing the Speakership are:
+  * initial Speaker (rule 104) (provision spent)
+  * filling Speakership if it becomes vacant (rule 103)
+  * normal Speaker transition (rule 402)
+  * overdue duties can be performed by another player (rule 1006)
+  * mutually exclusive with Clerk of the Courts (rule 1450)]
+
 History:
 Initial Immutable Rule 103, Jun. 30 1993
 Mutated from MI=Unanimity to MI=3 by Proposal 1481, Mar. 15 1995
@@ -1339,6 +1363,10 @@ The International Associate Director of Personnel
 [CFJ 1672 (called 18 May 2007): The International Associate Director
 of Personnel is the Director of Personnel.]
 
+[Cross-references (18 June 2007): the IADoP's duties are:
+  * attempt to change officeholders quarterly (rule 1006)
+  * report officeholding (rule 2138)]
+
 History:
 Created by Proposal 4939 (Murphy), 29 April 2007
 Amended(1) by Proposal 4956 (Murphy), 7 May 2007
@@ -1412,6 +1440,16 @@ The Herald
          person Bears, with a list of which persons Bear it.
       b) A list of one or more Threats, including Bears.
 
+[Cross-references (18 June 2007): the Herald's duties are:
+  * report Patent Titles (rule 1377)
+  * report Threats (rule 1377)
+  * advertise Agora on the NomicWiki (rule 2135)
+  * place convict in the Chokey (rule 1504)
+  * award and revoke Patent Titles (rule 649)
+  * report the manner of wins (rule 1922)
+  * report status of honorary degrees (rule 2092)
+  * manage and report titles of dishonor (rule 2129)]
+
 History:
 Created by Proposal 1377, Jan. 17 1995
 Infected and Amended(1) by Rule 1454, Jan. 29 1996
@@ -1464,6 +1502,15 @@ The Rulekeepor
       The Rulekeepor's Weekly Report shall include the Short Logical
       Ruleset.  The Rulekeepor's Monthly Report shall include the Full
       Logical Ruleset.
+
+[Cross-references (18 June 2007): the Rulekeepor's duties are:
+  * assign number to rule (rule 2141)
+  * assign title to rule (rule 2141)
+  * report ruleset in two formats (rule 1051)
+  * manage Logical Ruleset categories (rule 1681)
+  * annotate the Full Logical Ruleset (rule 1681)
+  * maintain historical rule annotations (rule 1681)
+  * archive Theses and Commentaries (rule 1370)]
 
 History:
 ...
@@ -1560,6 +1607,33 @@ The Clerk of the Courts
       may, at eir discretion, add earlier CFJs.  E may Without
       Objection remove any CFJ e deems no longer relevant from the
       list.
+
+[Cross-references (18 June 2007): the Clerk of the Courts' duties are:
+  * issue Writ of FAGE (rule 1789)
+  * not publish judicial material during holiday (rule 1769)
+  * manage and report Stare Decisis (rule 889)
+  * stay legislative order during dispute over validity (rule 1891)
+  * accept submission of CFJ (rule 991)
+  * publish CFJ (rule 897)
+  * notify defendant of a Civil CFJ (rule 897)
+  * refuse excess CFJ (rule 2132)
+  * assign Trial Judge to a CFJ (rule 1868)
+  * remove a player from the standing court (rule 1871)
+  * publish Notice of Rotation (rule 1871)
+  * accept and publish judgement (rule 591)
+  * recuse tardy judge (rule 408)
+  * accept and publish Judicial Order (rule 1803)
+  * accept Motion and forward to judge (rule 1826)
+  * accept and publish Opinion (rule 1365)
+  * announce change of Appellate judge (rule 1564)
+  * select board of appeals (rule 911)
+  * reassign CFJ when judgement is overturned (rule 1447)
+  * announce result of appeal (rule 1447)
+  * stay appealed Judicial Order (rule 1804)
+  * accept and publish Appellate Order (rule 1803)
+  * vacate falsely-certified Appellate Order (rule 1803)
+  * appoint a member to a Thesis Committee (rule 1370)
+  * track Agoran Contracts (rule 2109)]
 
 History:
 Created by Proposal 406 (Alexx), Sep. 3 1993
@@ -1708,6 +1782,11 @@ The Assessor
 
       a) Each player's voting limit on ordinary proposals.
       b) Each player's voting credits.
+
+[Cross-references (18 June 2007): the Assessor' duties are:
+  * default vote collector for Agoran decisions (rule 2137)
+  * report VLOP (rule 2137)
+  * report VCs (rule 2137)]
 
 History:
 Created by Proposal 4939 (Murphy), 29 April 2007
@@ -2122,6 +2201,14 @@ of either of the submitted proposals.]
 a proposal, but the distributed text does not match any proposal in
 the proposal pool, this constitutes the effective (albeit prohibited)
 distribution of a new proposal.]
+
+[Cross-references (18 June 2007): the Promotor's duties are:
+  * not distribute proposals during holiday (rule 1769)
+  * track Proposal Pool (rule 106)
+  * distribute proposals (rule 1607)
+  * nominal recordkeepor of VCs (rule 2126) (this probably doesn't
+    actually result in any obligations)
+  * put copy of vetoed proposal into Proposal Pool (rule 2019)]
 
 History:
 Created by Proposal 2522, Mar. 10 1996
