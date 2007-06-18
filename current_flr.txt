@@ -13,8 +13,6 @@ Title of Rule
 
       Text of rule.
 
-CFJ cccc: Annotation required by rule 789.
-
 [Annotations in square brackets are unofficial, added at the
 rulekeepor's discretion.  These annotations have no legal force.]
 
@@ -24,12 +22,12 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 105 Rules:
+There are currently 104 Rules:
     1 with Power=4
    27 with Power=3
    12 with Power=2
     1 with Power=1.1
-   64 with Power=1
+   63 with Power=1
 
 Lowest current Rule Number:           101
 Highest current Rule Number:         2149
@@ -307,10 +305,10 @@ Precedence between Rules with Unequal Power
       This Rule takes precedence over any Rule that would permit
       such a change to the Ruleset.
 
-CFJ 1103 (called 18 August 1998): In the case of conflict between
+[CFJ 1103 (called 18 August 1998): In the case of conflict between
 Rules of unequal Power, the higher Powered Rule cannot defer to the
 lower Powered Rule, unless the higher Powered Rule takes precedence
-over Rule 1482.
+over Rule 1482.]
 
 [CFJ 858: If a low-Power [low-MI at the time of Judgement of CFJ 858]
 Rule attempts to define a term used in a Rule of higher Power to mean
@@ -349,10 +347,10 @@ Precedence between Rules with Equal Power
       or defer to one another, then the numerical method again
       governs.
 
-CFJ 1104 (called 20 August 1998): The presence in a Rule of deference
+[CFJ 1104 (called 20 August 1998): The presence in a Rule of deference
 clause, claiming that the Rule defers to another Rule, does not
 prevent a conflict with the other Rule arising, but shows only how the
-Rule says that conflict is to be resolved when it does arise.
+Rule says that conflict is to be resolved when it does arise.]
 
 [CFJs 1114-1115 (called 27 January 1999): This Rule is to be applied
 to resolve Rule conflicts on a case-by-case basis; just because a Rule
@@ -1476,7 +1474,7 @@ Amended(17) by Proposal 4250 (harvel), 19 February 2002
 
 ----------------------------------------------------------------------
 
-Rule 1681/9 (Power=1)
+Rule 1681/10 (Power=1)
 The Logical Rulesets
 
       There is a format of the ruleset known as the Short Logical
@@ -1488,8 +1486,7 @@ The Logical Rulesets
       categories removed, as the Rulekeepor sees fit.
 
       The listing of each rule in the SLR must include the rule's
-      number, revision number, power, title, and text, and must also
-      include any annotations to the rule required by order.
+      number, revision number, power, title, and text.
 
       The Rulekeepor is strongly encouraged not to include any
       additional information in the SLR, except that which increases
@@ -1525,6 +1522,7 @@ Amended(6) by Proposal 4811 (Maud, Goethe), 20 June 2005
 Amended(7) by Proposal 4841 (Goethe), 27 October 2005
 Amended(8) by Proposal 4868 (Goethe), 27 August 2006
 Amended(9) by Proposal 4887 (Murphy), 22 January 2007
+Amended(10) by Proposal 5006 (Zefram), 18 June 2007
 
 ----------------------------------------------------------------------
 
@@ -1944,8 +1942,8 @@ Quorum
       rounded up, with a minimum of five (unless this is greater than
       N, in which case quorum is N).
 
-CFJ 1562 (called 3 May 2005): A cancelled vote on a Proposal does not
-count towards quorum.
+[CFJ 1562 (called 3 May 2005): A cancelled vote on a Proposal does not
+count towards quorum.]
 
 [CFJs 1673-1675 (called 20 May 2007): Quorum for an Agoran decision
 changes as the set of eligible voters changes.]
@@ -2607,11 +2605,11 @@ Selecting a Judge
       making assignments, for example with respect to providing the
       Defendant with response time in a Civil CFJ.
 
-CFJ 1186: The Clerk of the Courts is required by Rule 1868 to select a
-Judge who is eligible at the time that the Judge is selected,
+[CFJ 1186: The Clerk of the Courts is required by Rule 1868 to select
+a Judge who is eligible at the time that the Judge is selected,
 regardless of whether that Player was eligible at the time that the
 CFJ was actually called for or when the identity of that Player is
-announced.
+announced.]
 
 [CFJ 1187: A Judge is considered to be assigned to Judge a particular
 CFJ at the time that the Clerk of the Courts announces the identity of
@@ -3028,47 +3026,6 @@ History:
 Created by Proposal 3704 (General Chaos), Mar. 19 1998
 Amended(1) by Proposal 4298 (Murphy), 17 May 2002
 Amended(2) by Proposal 4810 (Goethe), 20 June 2005
-
-----------------------------------------------------------------------
-
-Rule 789/7 (Power=1)
-Orders to Annotate Rules
-
-      The Judge of any CFJ, the Statement of which alleges that a Rule
-      should be interpreted in a certain way, which is judged TRUE
-      or FALSE, may, at eir discretion, issue an Order requiring the
-      Rulekeepor to annotate the Rule in question accordingly.  If the
-      CFJ was judged TRUE then the annotation shall be the Statement
-      of the CFJ, and if the CFJ was judged FALSE then the annotation
-      shall be the contrary of the Statement of the CFJ.  Such an
-      annotation, while it exists, shall guide application of that Rule.
-
-      The Rulekeepor may remove such an annotation only if that Rule
-      is repealed; if required to do so by a valid Order; or if the
-      original Order to annotate is amended, stayed, or vacated.  The
-      Rulekeepor may vacate an Order to annotate a Rule Without
-      Objection.  Annotations to a Rule may not be modified in any way
-      except as specified in this Rule.
-
-      If a Player believes that an annotation is no longer pertinent,
-      e may file, in the original CFJ from which the Order of
-      Annotation arises, a Motion to Vacate the Order of Annotation.
-      If such a Motion is granted, the Judge granting it shall Order
-      the original Order Vacated and shall Order the Rulekeepor to
-      remove the annotation in question.
-
-[CFJ 684: Such an Order applies not only during Judging, but also in
-the everyday interpretation of the Rule.]
-
-History:
-Created by Proposal 789 (Chuck), ca. Dec. 20 1993
-Amended(1) by Proposal 1396, Jan. 29 1995
-Amended(2) by Proposal 2457, Feb. 16 1996
-Amended(3) by Proposal 2684, Oct. 3 1996
-Amended(4) by Proposal 3704 (General Chaos), Mar. 19 1998
-Amended(5) by Proposal 3768 (Chuck), Jul. 22 1998
-Amended(6) by Proposal 4867 (Goethe), 27 August 2006
-Amended(7) by Proposal 4917 (Zefram), 2 April 2007
 
 ----------------------------------------------------------------------
 
@@ -4003,4 +3960,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 5005]
+      [Last proposal with recorded effect on this ruleset: 5006]
