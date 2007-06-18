@@ -22,16 +22,16 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 104 Rules:
+There are currently 105 Rules:
     1 with Power=4
    27 with Power=3
-   12 with Power=2
+   13 with Power=2
     1 with Power=1.1
    63 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2149
-Highest Rule Number assigned so far: 2149
+Highest current Rule Number:         2150
+Highest Rule Number assigned so far: 2150
 
 ======================================================================
 Table of Contents:
@@ -585,7 +585,7 @@ Players
   and ceasing to be players, and game-relevant aspects of players.
 ----------------------------------------------------------------------
 
-Rule 869/18 (Power=1)
+Rule 869/19 (Power=1)
 How to Join and Leave Agora
 
       A person who is not currently registered as a player and is not
@@ -599,27 +599,11 @@ How to Join and Leave Agora
       a player and is prohibited from registering for the next thirty
       days.
 
-      A player who is not a person and has never been a natural person
-      can be deregistered by any player by announcement.
+      A player who is not a person and has never been a first-class
+      person can be deregistered by any player by announcement.
 
 [CFJ 1275 (called 19 February 2001): An entity is a Player if the
 Rules cannot distinguish that entity from a Player.]
-
-[CFJs 1622 (called 26 February 2007) and 1623 (called 27 February
-2007): "person" in the rules means "legal person", which includes
-partnerships that exist under the rules.]
-
-[CFJs 1678-1680 (called 22 May 2007): For a partnership to be a legal
-person, it must ultimately devolve its obligations onto a non-empty
-set of natural persons.]
-
-[CFJ 1614 (called 2 February 2007): Being any type of foodstuff has no
-relation to personhood.]
-
-[CFJ 1685 (called 31 May 2007): Being in a mindless job (e.g.,
-keyboard, stenographer, spokesman) may create a rebuttable presumption
-against personhood and against one havinng spoken on one's own
-behalf.]
 
 [CFJ 1263 (called 5 February 2001): Any message expressing a clear
 desire or intent to register as a Player counts as a request for
@@ -651,6 +635,7 @@ Amended(15) by Proposal 4693 (Maud), 18 April 2005
 Amended(16) by Proposal 4802 (Maud), 15 June 2005
 Amended(17) by Proposal 4833 (Maud), 6 August 2005
 Amended(18) by Proposal 4989 (Zefram), 6 June 2007
+Amended(19) by Proposal 5007 (Zefram), 18 June 2007
 
 ----------------------------------------------------------------------
 
@@ -992,7 +977,35 @@ Created by Proposal 4979 (Zefram, Maud), 31 May 2007
 
 ----------------------------------------------------------------------
 
-Rule 1728/14 (Power=2)
+Rule 2150/0 (Power=2)
+Personhood
+
+      "First-class person" means a person of a biological nature.
+
+      "First-class player" means a player who is a first-class person.
+
+[CFJs 1622 (called 26 February 2007) and 1623 (called 27 February
+2007): "person" in the rules means "legal person", which includes
+partnerships that exist under the rules.]
+
+[CFJs 1678-1680 (called 22 May 2007): For a partnership to be a legal
+person, it must ultimately devolve its obligations onto a non-empty
+set of natural persons.]
+
+[CFJ 1614 (called 2 February 2007): Being any type of foodstuff has no
+relation to personhood.]
+
+[CFJ 1685 (called 31 May 2007): Being in a mindless job (e.g.,
+keyboard, stenographer, spokesman) may create a rebuttable presumption
+against personhood and against one havinng spoken on one's own
+behalf.]
+
+History:
+Created by Proposal 5007 (Zefram), 18 June 2007
+
+----------------------------------------------------------------------
+
+Rule 1728/15 (Power=2)
 Dependent Actions
 
       An action is dependent, or may be performed dependently, if and
@@ -1032,15 +1045,15 @@ Dependent Actions
            this rule and the attempt to perform the action,
 
            (1)  if the action is to be performed Without N Objections,
-                fewer than N players who are natural persons have
-                publicly posted objections (and not publicly retracted
-                eir objections) to the performance of the action; and
+                fewer than N first-class players have publicly posted
+                objections (and not publicly retracted eir objections)
+                to the performance of the action; and
 
            (2)  if the action is to be performed With N Supporters, at
-                least N players who are natural persons other than the
-                player who made the announcement under (a) of this
-                rule have publicly posted support for the performance
-                of the action;
+                least N first-class players other than the player who
+                made the announcement under (a) of this rule have
+                publicly posted support for the performance of the
+                action;
 
       (f)  the announcement made under (a) of this rule specifies
            whether the action is to be performed Without N Objections
@@ -1078,6 +1091,7 @@ Amended(11) by Proposal 4461 (Maud), 17 March 2003
 Amended(12) by Proposal 4915 (Murphy), 2 April 2007
 Amended(13) by Proposal 4981 (Zefram), 31 May 2007
 Amended(14) by Proposal 4999 (Zefram), 12 June 2007
+Amended(15) by Proposal 5007 (Zefram), 18 June 2007
 
 ----------------------------------------------------------------------
 
@@ -1792,7 +1806,7 @@ Created by Proposal 4811 (Maud, Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 1950/16 (Power=3)
+Rule 1950/17 (Power=3)
 Voting Limits
 
       An entity's voting limit on an Agoran decision is:
@@ -1805,7 +1819,7 @@ Voting Limits
 
         (c) Otherwise, one, subject to modification only by this rule.
 
-      The voting limit of an entity who is not a natural person is
+      The voting limit of an entity who is not a first-class person is
       reduced by one.
 
       At the end of the voting period of an Agoran decision, the first
@@ -1833,6 +1847,7 @@ Amended(13) by Proposal 4868 (Goethe), 27 August 2006
 Amended(14) by Proposal 4972 (Goddess Eris), 23 May 2007
 Amended(15) by Proposal 4964 (Murphy), 3 June 2007
 Amended(16) by Proposal 5000 (Murphy), 12 June 2007
+Amended(17) by Proposal 5007 (Zefram), 18 June 2007
 
 ----------------------------------------------------------------------
 
@@ -3960,4 +3975,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 5006]
+      [Last proposal with recorded effect on this ruleset: 5007]
