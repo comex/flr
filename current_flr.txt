@@ -2418,7 +2418,7 @@ Amended(2) by Proposal 4867 (Goethe), 27 August 2006
 
 ----------------------------------------------------------------------
 
-Rule 1794/8 (Power=1)
+Rule 1794/9 (Power=1)
 Classes of Orders
 
       Each Order is of exactly one of the following classes.  If an
@@ -2435,13 +2435,13 @@ Classes of Orders
             course of performing eir duties or privileges as Judge.
 
         (d) A Timing Order is an Order which may be executed by any
-            person and directed at any entity.  A timing order is
-            valid if and only if it orders the entity to perform, as
-            soon as possible, a duty specifically required of em by
-            the Rules that does not otherwise have a specified timing
-            requirement, or for which the otherwise specified timing
-            requirement will have been exceeded as soon as possible
-            after the Order is executed.
+            person by announcement and directed at any entity.  A
+            timing order is valid if and only if it orders the entity
+            to perform, as soon as possible, a duty specifically
+            required of em by the Rules that does not otherwise have a
+            specified timing requirement, or for which the otherwise
+            specified timing requirement will have been exceeded as
+            soon as possible after the Order is executed.
 
       No other types of Orders are valid.
 
@@ -2455,6 +2455,7 @@ Amended(5) by Proposal 4406 (Murphy), 30 October 2002
 Amended(6) by Proposal 4533 (Murphy), 26 October 2003
 Amended(7) by Proposal 4810 (Goethe), 20 June 2005
 Amended(8) by Proposal 4867 (Goethe), 27 August 2006
+Amended(9) by Proposal 5012 (Zefram), 24 June 2007
 
 ----------------------------------------------------------------------
 
@@ -4067,4 +4068,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 5011]
+      [Last proposal with recorded effect on this ruleset: 5012]
