@@ -3849,7 +3849,7 @@ Amended(6) by Proposal 4867 (Goethe), 27 August 2006
 
 ----------------------------------------------------------------------
 
-Rule 2109/1 (Power=2)
+Rule 2109/2 (Power=2)
 Agoran Contracts
 
       There exists a type of binding agreement known as Agoran
@@ -3865,12 +3865,13 @@ Agoran Contracts
       All Rules regulating Contracts that are inconsistent with this
       Rule are superseded to the extent of such inconsistency.
 
-      The CotC is required to keep track of all Agoran Contracts.
+      The CotC's monthly report includes all Agoran Contracts.
 
 History:
 Created by Proposal 4755 (Manu), 5 May 2005
 Power changed from 1 to 2 by Proposal 4867 (Goethe), 27 August 2006
 Amended(1) by Proposal 4867 (Goethe), 27 August 2006
+Amended(2) by Proposal 5016 (Zefram), 24 June 2007
 
 ----------------------------------------------------------------------
 
@@ -4020,4 +4021,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 5015]
+      [Last proposal with recorded effect on this ruleset: 5016]
