@@ -22,12 +22,12 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 102 Rules:
+There are currently 101 Rules:
     1 with Power=4
    27 with Power=3
    13 with Power=2
     1 with Power=1.1
-   60 with Power=1
+   59 with Power=1
 
 Lowest current Rule Number:           101
 Highest current Rule Number:         2150
@@ -1616,7 +1616,6 @@ The Clerk of the Courts
   * issue Writ of FAGE (rule 1789)
   * not publish judicial material during holiday (rule 1769)
   * manage and report Stare Decisis (rule 889)
-  * stay legislative order during dispute over validity (rule 1891)
   * accept submission of CFJ (rule 991)
   * publish CFJ (rule 897)
   * notify defendant of a Civil CFJ (rule 897)
@@ -2313,33 +2312,6 @@ Amended(3) by Proposal 4914 (OscarMeyr), 21 March 2007
 Amended(4) by Proposal 4943 (Goethe), 3 May 2007
 Amended(5) by Proposal 4950 (Zefram), 7 May 2007
 Amended(6) by Proposal 4961 (Zefram), 3 June 2007
-
-----------------------------------------------------------------------
-
-Rule 1891/1 (Power=1)
-Legislative Orders
-
-      (a) A Proposal may contain one or more Orders.
-
-      (b) The effect of adopting a Proposal which contains Orders is
-          to execute those Orders.  Such Orders are known as
-          Legislative Orders, and are executed by that Proposal as
-          of the date of the proclamation of the Proposal's adoption.
-
-      (c) Legislative Orders may not be stayed, vacated, or amended
-          except:
-        (1) by a subsequent Legislative Order;
-        (2) by a Judicial Order issued only after a judicial finding
-            that the Proposal containing the Legislative Order was not
-            adopted, was barred from taking effect, or was invalid; or
-        (3) by the Clerk of the Courts, but only for the purpose of
-            staying such an Order during the pendency of a dispute
-            which might reasonably lead to a judicial finding of the
-            sort mentioned in subdivision (c)(2) of this Rule.
-
-History:
-Created by Proposal 3869 (General Chaos), May 24 1999
-Amended(1) by Proposal 4915 (Murphy), 2 April 2007
 
 ----------------------------------------------------------------------
 
@@ -4002,4 +3974,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 5017]
+      [Last proposal with recorded effect on this ruleset: 5018]
