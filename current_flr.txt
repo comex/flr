@@ -585,19 +585,23 @@ Players
   and ceasing to be players, and game-relevant aspects of players.
 ----------------------------------------------------------------------
 
-Rule 869/19 (Power=1)
+Rule 869/20 (Power=1)
 How to Join and Leave Agora
 
-      A person who is not currently registered as a player and is not
-      prohibited from registering is permitted to register.
+      Each entity at any time either is or is not a player.  The verb
+      "to be registered" means to become a player, and the verb "to be
+      deregistered" means to cease to be a player.  Where the verb "to
+      register" or "to deregister" is used without an explicit direct
+      object, the action is implicitly reflexive.  The adjective
+      "registered", or its fuller form "registered as a player",
+      describes those who are players.
 
-      A person registers or deregisters by announcement.
+      A person is permitted to register or deregister unless
+      specifically prohibited. A person registers or deregisters by
+      announcement.
 
-      Whenever a person registers, e becomes a player.
-
-      Whenever a player deregisters or is deregistered, e ceases to be
-      a player and is prohibited from registering for the next thirty
-      days.
+      Whenever a player is deregistered, e is prohibited from
+      registering for the next thirty days.
 
       A player who is not a person and has never been a first-class
       person can be deregistered by any player by announcement.
@@ -636,6 +640,7 @@ Amended(16) by Proposal 4802 (Maud), 15 June 2005
 Amended(17) by Proposal 4833 (Maud), 6 August 2005
 Amended(18) by Proposal 4989 (Zefram), 6 June 2007
 Amended(19) by Proposal 5007 (Zefram), 18 June 2007
+Amended(20) by Proposal 5011 (Zefram), 24 June 2007
 
 ----------------------------------------------------------------------
 
@@ -4062,4 +4067,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 5010]
+      [Last proposal with recorded effect on this ruleset: 5011]
