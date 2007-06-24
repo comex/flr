@@ -2110,7 +2110,7 @@ Proposals
   to the game.
 ----------------------------------------------------------------------
 
-Rule 106/5 (Power=3)
+Rule 106/6 (Power=3)
 Adopting Proposals
 
       A proposal is a document outlining changes to be made to Agora,
@@ -2131,8 +2131,8 @@ Adopting Proposals
       The adoption index of a proposal is an integral multiple of 0.1,
       with a default and minimum value of 1.0.  Before the Promotor
       distributes a proposal, its proposer may modify its adoption
-      index by announcement.  A Proposal with an Adoption Index of 1
-      is Ordinary.  All other Proposals are Democratic.
+      index by announcement.  A Proposal with an Adoption Index of
+      less than 2 is Ordinary.  All other Proposals are Democratic.
 
       If the option selected by Agora on this decision is ADOPTED,
       then the proposal is adopted, and unless other rules prevent it
@@ -2158,6 +2158,7 @@ Amended(2) by Proposal 4811 (Maud, Goethe), 20 June 2005
 Amended(3) by Proposal 4868 (Goethe), 27 August 2006
 Amended(4) by Proposal 4918 (OscarMeyr), 2 April 2007
 Amended(5) by Proposal 4939 (Murphy), 29 April 2007
+Amended(6) by Proposal 5010 (Levi), 24 June 2007
 
 ----------------------------------------------------------------------
 
@@ -4061,4 +4062,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 5009]
+      [Last proposal with recorded effect on this ruleset: 5010]
