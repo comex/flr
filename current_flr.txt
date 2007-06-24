@@ -22,12 +22,12 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 105 Rules:
+There are currently 103 Rules:
     1 with Power=4
    27 with Power=3
    13 with Power=2
     1 with Power=1.1
-   63 with Power=1
+   61 with Power=1
 
 Lowest current Rule Number:           101
 Highest current Rule Number:         2150
@@ -3095,49 +3095,6 @@ Amended(1) by Proposal 4867 (Goethe), 27 August 2006
 
 ----------------------------------------------------------------------
 
-Rule 1509/4 (Power=1)
-Orders to Compel
-
-      Upon a judicial finding that a Player has failed to perform a
-      duty required of em by the Rules, the Judge so finding shall
-      execute an Order, requiring that Player to perform that duty as
-      soon as possible.  Such an Order is known as an Order to Compel.
-
-      If the duty in question arises because the Player in question
-      holds a specific Office or other position of official
-      responsibility, the Order shall be directed to that Office or
-      position.  If the Player holding that Office fails to perform
-      the duty in question as ordered, the Judge shall Order that that
-      Player be removed from Office or position.
-
-History:
-Created by Proposal 1690, Sep. 1 1995
-Amended(1) by Proposal 1738, Oct. 15 1995
-Amended(2) by Proposal 1754, Oct. 21 1995
-Amended(3) by Proposal 3704 (General Chaos), Mar. 19 1998
-Amended(4) by Proposal 4810 (Goethe), 20 June 2005
-
-----------------------------------------------------------------------
-
-Rule 1830/2 (Power=1)
-No Compulsion of Judges
-
-      Any Order to Compel directed to a Judge, or requiring the
-      performance of a duty required of a Player because that Player
-      is a Judge, is invalid, unless that Order is a valid Appellate
-      Order.
-
-      Any CFJ alleging that a Judgement is incorrect, or that a Judge
-      has failed to perform a judicial duty, lacks standing.  Such a
-      claim should instead be pursued via Appeal.
-
-History:
-Created by Proposal 3704 (General Chaos), Mar. 19 1998
-Amended(1) by Proposal 4298 (Murphy), 17 May 2002
-Amended(2) by Proposal 4810 (Goethe), 20 June 2005
-
-----------------------------------------------------------------------
-
 Rule 1365/10 (Power=1)
 Concurring and Dissenting Opinions
 
@@ -4068,4 +4025,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 5012]
+      [Last proposal with recorded effect on this ruleset: 5013]
