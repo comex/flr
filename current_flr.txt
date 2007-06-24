@@ -22,12 +22,12 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 103 Rules:
+There are currently 102 Rules:
     1 with Power=4
    27 with Power=3
    13 with Power=2
     1 with Power=1.1
-   61 with Power=1
+   60 with Power=1
 
 Lowest current Rule Number:           101
 Highest current Rule Number:         2150
@@ -1612,7 +1612,7 @@ The Clerk of the Courts
       Objection remove any CFJ e deems no longer relevant from the
       list.
 
-[Cross-references (18 June 2007): the Clerk of the Courts' duties are:
+[Cross-references (24 June 2007): the Clerk of the Courts' duties are:
   * issue Writ of FAGE (rule 1789)
   * not publish judicial material during holiday (rule 1769)
   * manage and report Stare Decisis (rule 889)
@@ -1626,7 +1626,6 @@ The Clerk of the Courts
   * publish Notice of Rotation (rule 1871)
   * accept and publish judgement (rule 591)
   * recuse tardy judge (rule 408)
-  * accept and publish Judicial Order (rule 1803)
   * accept Motion and forward to judge (rule 1826)
   * accept and publish Opinion (rule 1365)
   * announce change of Appellate judge (rule 1564)
@@ -1634,8 +1633,8 @@ The Clerk of the Courts
   * reassign CFJ when judgement is overturned (rule 1447)
   * announce result of appeal (rule 1447)
   * stay appealed Judicial Order (rule 1804)
-  * accept and publish Appellate Order (rule 1803)
-  * vacate falsely-certified Appellate Order (rule 1803)
+  * accept and publish Appellate Order (rule 1805)
+  * vacate falsely-certified Appellate Order (rule 1805)
   * appoint a member to a Thesis Committee (rule 1370)
   * track Agoran Contracts (rule 2109)]
 
@@ -2417,7 +2416,7 @@ Amended(2) by Proposal 4867 (Goethe), 27 August 2006
 
 ----------------------------------------------------------------------
 
-Rule 1794/9 (Power=1)
+Rule 1794/10 (Power=1)
 Classes of Orders
 
       Each Order is of exactly one of the following classes.  If an
@@ -2431,7 +2430,8 @@ Classes of Orders
             Appeals.
 
         (c) A Judicial Order is an Order executed by a Judge in the
-            course of performing eir duties or privileges as Judge.
+            course of performing eir duties or privileges as Judge.  A
+            Judicial Oredr is executed by announcement.
 
         (d) A Timing Order is an Order which may be executed by any
             person by announcement and directed at any entity.  A
@@ -2455,6 +2455,7 @@ Amended(6) by Proposal 4533 (Murphy), 26 October 2003
 Amended(7) by Proposal 4810 (Goethe), 20 June 2005
 Amended(8) by Proposal 4867 (Goethe), 27 August 2006
 Amended(9) by Proposal 5012 (Zefram), 24 June 2007
+Amended(10) by Proposal 5017 (Zefram), 24 June 2007
 
 ----------------------------------------------------------------------
 
@@ -3031,26 +3032,6 @@ Amended(10) by Proposal 4298 (Murphy), 17 May 2002
 
 ----------------------------------------------------------------------
 
-Rule 1803/2 (Power=1)
-Judicial and Sentencing Orders
-
-      Judicial Orders and Sentencing Orders are executed by being sent
-      to the Clerk of the Courts, but do not take effect until their
-      publication by the Clerk of the Courts.  The Clerk of the Courts
-      shall publish each Judicial Order and Sentencing Order as soon
-      as possible after receiving it from the Judge who executed it.
-
-      Any Player may formally request a Judge issue any Judicial Order
-      by filing a motion requesting that Order.  If granted, the Judge
-      shall issue the Order requested.
-
-History:
-Created by Proposal 3704 (General Chaos), Mar. 19 1998
-Amended(1) by Proposal 4406 (Murphy), 30 October 2002
-Amended(2) by Proposal 4810 (Goethe), 20 June 2005
-
-----------------------------------------------------------------------
-
 Rule 1826/1 (Power=1)
 Motions
 
@@ -3126,21 +3107,21 @@ Overturning Judgement
   judgements, and other effects of appellate hearings.
 ----------------------------------------------------------------------
 
-Rule 1564/14 (Power=1)
+Rule 1564/15 (Power=1)
 Initiating Appeals
 
       The following are subject to Appeal:
 
         a) The Judgement of a Trial Judge.
         b) The grant or denial of a Motion.
-        c) The execution of a Judicial or Sentencing Order.
+        c) The execution of a Judicial Order.
         d) A claim that a Trial Judge has failed to perform a required
            judicial duty.
 
       A subject is Appealed when any of the following occurs:
 
         i) Three Players Appeal it.
-       ii) A Player Appeals a Judicial or Sentencing Order binding em.
+       ii) A Player Appeals a Judicial Order binding em.
       iii) A Player Appeals a Trial Judgement convicting em of a
            Crime.
 
@@ -3176,6 +3157,7 @@ Amended(11) by Proposal 4298 (Murphy), 17 May 2002
 Amended(12) by Proposal 4406 (Murphy), 30 October 2002
 Amended(13) by Proposal 4867 (Goethe), 27 August 2006
 Amended(14) by Proposal 4937 (Murphy), 29 April 2007
+Amended(15) by Proposal 5017 (Zefram), 24 June 2007
 
 ----------------------------------------------------------------------
 
@@ -3315,25 +3297,24 @@ Amended(20) by Proposal 4887 (Murphy), 22 January 2007
 
 ----------------------------------------------------------------------
 
-Rule 1804/3 (Power=1)
+Rule 1804/4 (Power=1)
 Appeal of Judicial and Sentencing Orders
 
-      As soon as possible after a Judicial Order or Sentencing Order
-      is Appealed, the Clerk of the Courts shall stay it.  If the
-      Appeal is sustained, then the Board of Appeals shall vacate this
-      stay as soon as possible.  If the Appeal is overturned, then the
-      Board of Appeals shall vacate the stayed Order as soon as
-      possible.
+      As soon as possible after a Judicial Order is Appealed, the
+      Clerk of the Courts shall stay it.  If the Appeal is sustained,
+      then the Board of Appeals shall vacate this stay as soon as
+      possible.  If the Appeal is overturned, then the Board of
+      Appeals shall vacate the stayed Order as soon as possible.
 
-      In the Appeal of a Judicial Order or Sentencing Order, the Board
-      of Appeals shall consider whether the Order was properly and
-      validly executed.
+      In the Appeal of a Judicial Order, the Board of Appeals shall
+      consider whether the Order was properly and validly executed.
 
 History:
 Created by Proposal 3704 (General Chaos), Mar. 19 1998
 Amended(1) by Proposal 4298 (Murphy), 17 May 2002
 Amended(2) by Proposal 4406 (Murphy), 30 October 2002
 Amended(3) by Proposal 4867 (Goethe), 27 August 2006
+Amended(4) by Proposal 5017 (Zefram), 24 June 2007
 
 ----------------------------------------------------------------------
 
@@ -4021,4 +4002,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 5016]
+      [Last proposal with recorded effect on this ruleset: 5017]
