@@ -750,7 +750,7 @@ Definitions
   other category.
 ----------------------------------------------------------------------
 
-Rule 478/17 (Power=3)
+Rule 478/18 (Power=3)
 Fora
 
       Freedom of speech being essential for the healthy functioning of
@@ -779,9 +779,7 @@ Fora
       something by sending a public message.
 
       A player performs an action "by announcement" by announcing that
-      e performs it.  A player performs an action "by private message"
-      to some player by sending an appropriate private message to the
-      specified player.  Any action performed by sending a message is
+      e performs it.  Any action performed by sending a message is
       performed at the time date-stamped on that message.
 
 [CFJ 752: Something sent to a Player who is obligated to send it to
@@ -831,6 +829,7 @@ Amended(14) by Proposal 4690 (root), 18 April 2005
 Amended(15) by Proposal 4833 (Maud), 6 August 2005
 Amended(16) by Proposal 4866 (Goethe), 27 August 2006
 Amended(17) by Proposal 4939 (Murphy), 29 April 2007
+Amended(18) by Proposal 5014 (Zefram), 24 June 2007
 
 ----------------------------------------------------------------------
 
@@ -4025,4 +4024,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 5013]
+      [Last proposal with recorded effect on this ruleset: 5014]
