@@ -644,18 +644,19 @@ Amended(20) by Proposal 5011 (Zefram), 24 June 2007
 
 ----------------------------------------------------------------------
 
-Rule 2144/0 (Power=1)
+Rule 2144/1 (Power=1)
 Limited Partnerships
 
-      If a partnership contains exactly the same members as another
-      registered partnership, then it is prohibited from registering.
+      A partnership's basis is the set containing its natural-person
+      members, plus each member of the basis of each of its
+      non-natural-person members.
 
-      If a registered partnership's membership changes such that it
-      contains exactly the same members as another registered
-      partnership, then it is deregistered.
+      A partnership is prohibited from registering if its basis is the
+      same as that of another registered partnership.
 
 History:
 Created by Proposal 4971 (Human Point Two), 23 May 2007
+Amended(1) by Proposal 5022 (Murphy), 25 June 2007
 
 ----------------------------------------------------------------------
 
@@ -3974,4 +3975,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 5018]
+      [Last proposal with recorded effect on this ruleset: 5022]
