@@ -22,12 +22,12 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 100 Rules:
+There are currently 99 Rules:
     1 with Power=4
    27 with Power=3
    12 with Power=2
     1 with Power=1.1
-   59 with Power=1
+   58 with Power=1
 
 Lowest current Rule Number:           101
 Highest current Rule Number:         2150
@@ -1627,7 +1627,7 @@ The Clerk of the Courts
   * accept and publish judgement (rule 591)
   * recuse tardy judge (rule 408)
   * accept Motion and forward to judge (rule 1826)
-  * accept and publish Opinion (rule 1365)
+  * archive opinion with CFJ (rule 1365)
   * announce change of Appellate judge (rule 1564)
   * select board of appeals (rule 911)
   * reassign CFJ when judgement is overturned (rule 1447)
@@ -3043,19 +3043,17 @@ Amended(1) by Proposal 4867 (Goethe), 27 August 2006
 
 ----------------------------------------------------------------------
 
-Rule 1365/10 (Power=1)
+Rule 1365/11 (Power=1)
 Concurring and Dissenting Opinions
 
-      Two or more players may submit a Concurring or Dissenting
-      Opinion for a given CFJ trial or appeals decision, via a single
-      application to the Clerk of the Courts signed by all submitters.
-
-      The opinion must include reference to the CFJ and the particular
-      judgement or appeals decision to which it applies and be
-      accompanied by reasons or arguments for the opinion.
-
-      The Clerk of the Courts shall publish any properly submitted
-      Opinion and append it to the text of the legal judgement.
+      A player may submit a Concurring or Dissenting opinion for a
+      given CFJ trial or appeals decision with 1 Support. The opinion
+      must reference the CFJ in question and clearly indicate that it
+      is an opinion to be appended to that CFJ. The opinion should be
+      accompanied by reasons or arguments. The Clerk of the Courts
+      shall append any properly submitted opinion to the CFJ in
+      question, along with a list of the Player who submitted  that
+      opinion and the player(s) who supported it.
 
 History:
 Created by Proposal 1365, Jan. 5 1995
@@ -3070,6 +3068,7 @@ Amended(7) by Proposal 4159 (Kelly), 5 June 2001
 Amended(8) by Proposal 4298 (Murphy), 17 May 2002
 Amended(9) by Proposal 4867 (Goethe), 27 August 2006
 Amended(10) by Proposal 4887 (Murphy), 22 January 2007
+Amended(11) by Proposal 5025 (BobTHJ), 25 June 2007
 
 ----------------------------------------------------------------------
 
@@ -3829,40 +3828,6 @@ Amended(1) by Proposal 4960 (OscarMeyr), 3 June 2007
 
 ----------------------------------------------------------------------
 
-Rule 1626/6 (Power=1)
-Applications
-
-      An Application is any document, which has been submitted as an
-      Application by some person, to a Player designed by the Rules to
-      receive Applications of that particular type.  The submitter is
-      known as the Application's Sponsor.
-
-      The Sponsor of an Application may attach the signatures of other
-      persons, or signatories, to the Application at the time e
-      submits it.  The Sponsor may not attach any signature to an
-      Application without first having obtained the explicit consent
-      of the signatory.  A signatory may revoke eir consent, once
-      granted, by informing the Sponsor before submission.
-
-      Signatures are presumed to have been attached with the consent
-      of the signatory.  This presumption shall be rebutted only by a
-      declaration from the alleged signatory, made within 60 days of
-      the submission of the Application, stating that the signatory
-      did not consent or that e consented and then subsequently
-      revoked eir consent.  The Sponsor bears the burden of proof to
-      show that such a declaration, once made, is false.
-
-History:
-Created by Proposal 2605, May 26 1996
-Amended(1) by Proposal 3565 (General Chaos), Oct. 24 1997, substantial
-Amended(2) by Proposal 3823 (Oerjan), Jan. 21 1999
-Amended(3) by Proposal 3897 (harvel), Aug. 27 1999
-Amended(4) by Proposal 4159 (Kelly), 5 June 2001
-Amended(5) by Proposal 4867 (Goethe), 27 August 2006
-Amended(6) by Proposal 4887 (Murphy), 22 January 2007
-
-----------------------------------------------------------------------
-
 ======================================================================
 Foreign Relations
   A category concerning interaction with other nomics.
@@ -3948,4 +3913,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 5024]
+      [Last proposal with recorded effect on this ruleset: 5025]
