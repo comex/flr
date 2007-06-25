@@ -22,10 +22,10 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 101 Rules:
+There are currently 100 Rules:
     1 with Power=4
    27 with Power=3
-   13 with Power=2
+   12 with Power=2
     1 with Power=1.1
    59 with Power=1
 
@@ -1613,7 +1613,7 @@ The Clerk of the Courts
       Objection remove any CFJ e deems no longer relevant from the
       list.
 
-[Cross-references (24 June 2007): the Clerk of the Courts' duties are:
+[Cross-references (25 June 2007): the Clerk of the Courts' duties are:
   * issue Writ of FAGE (rule 1789)
   * not publish judicial material during holiday (rule 1769)
   * manage and report Stare Decisis (rule 889)
@@ -1635,8 +1635,7 @@ The Clerk of the Courts
   * stay appealed Judicial Order (rule 1804)
   * accept and publish Appellate Order (rule 1805)
   * vacate falsely-certified Appellate Order (rule 1805)
-  * appoint a member to a Thesis Committee (rule 1370)
-  * track Agoran Contracts (rule 2109)]
+  * appoint a member to a Thesis Committee (rule 1370)]
 
 History:
 Created by Proposal 406 (Alexx), Sep. 3 1993
@@ -3803,32 +3802,6 @@ Amended(6) by Proposal 4867 (Goethe), 27 August 2006
 
 ----------------------------------------------------------------------
 
-Rule 2109/2 (Power=2)
-Agoran Contracts
-
-      There exists a type of binding agreement known as Agoran
-      Contract.  An Agoran Contract may only be created or amended by
-      a Proposal and becomes effective when the Proposal takes effect.
-
-      Unless otherwise specified in the Rules, all Players are bound
-      by Agoran Contracts and no Player may leave an Agoran Contract
-      while remaining a Player.  The Proposal process shall, prima
-      facie, be considered to be protective of a Player's rights and
-      privileges with respect to agreements.
-
-      All Rules regulating Contracts that are inconsistent with this
-      Rule are superseded to the extent of such inconsistency.
-
-      The CotC's monthly report includes all Agoran Contracts.
-
-History:
-Created by Proposal 4755 (Manu), 5 May 2005
-Power changed from 1 to 2 by Proposal 4867 (Goethe), 27 August 2006
-Amended(1) by Proposal 4867 (Goethe), 27 August 2006
-Amended(2) by Proposal 5016 (Zefram), 24 June 2007
-
-----------------------------------------------------------------------
-
 Rule 2136/1 (Power=1)
 Contests
 
@@ -3975,4 +3948,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 5022]
+      [Last proposal with recorded effect on this ruleset: 5024]
