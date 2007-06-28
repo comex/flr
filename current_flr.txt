@@ -2257,15 +2257,14 @@ Created by Proposal 4930 (Goethe), 29 April 2007
 
 ----------------------------------------------------------------------
 
-Rule 2126/6 (Power=3)
+Rule 2126/7 (Power=3)
 Voting Credits
 
       Voting Credits (VCs) are a measure of each player's ability to
       affect voting limits on ordinary proposals.  A player's VC is at
-      all times a non-negative integer.  The Promotor is the
-      recordkeepor of VCs.  VCs are not any form of property and
-      cannot be traded.  VCs can be affected only as described in this
-      rule.
+      all times a non-negative integer.  VCs are not any form of
+      property and cannot be traded.  VCs can be affected only as
+      described in this rule.
 
       When one or more players win the game, all players' voting
       limits on ordinary proposals are reset to one, subject to
@@ -2313,6 +2312,7 @@ Amended(3) by Proposal 4914 (OscarMeyr), 21 March 2007
 Amended(4) by Proposal 4943 (Goethe), 3 May 2007
 Amended(5) by Proposal 4950 (Zefram), 7 May 2007
 Amended(6) by Proposal 4961 (Zefram), 3 June 2007
+Amended(7) by Proposal 5031 (Zefram), 28 June 2007
 
 ----------------------------------------------------------------------
 
@@ -3917,4 +3917,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 5029]
+      [Last proposal with recorded effect on this ruleset: 5031]
