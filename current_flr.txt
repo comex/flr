@@ -1282,7 +1282,7 @@ Amended(18) by Proposal 4887 (Murphy), 22 January 2007
 
 ----------------------------------------------------------------------
 
-Rule 1006/15 (Power=1)
+Rule 1006/16 (Power=1)
 Offices
 
       The Rules may designate positions to be offices.  No office may
@@ -1318,7 +1318,7 @@ Offices
       requirements.
 
       If an Officer or the Speaker fails to satisfy a Timing Order to
-      perform a certain official duty, than the player who executed the
+      perform a certain official duty, then the player who executed the
       order may perform the duty as if e were the officer.
 
 [CFJ 1660 (called 13 May 2007): this rule does not define the meaning
@@ -1348,6 +1348,7 @@ Amended(12) by Proposal 4889 (Murphy), 22 January 2007
 Amended(13) by Proposal 4939 (Murphy), 29 April 2007
 Amended(14) by Proposal 4956 (Murphy), 7 May 2007
 Amended(15) by Proposal 4980 (Murphy), 31 May 2007
+Amended(16) by Proposal 5029 (Murphy), 28 June 2007
 
 ----------------------------------------------------------------------
 
@@ -2361,12 +2362,12 @@ Orders
   act in particular ways.
 ----------------------------------------------------------------------
 
-Rule 1793/2 (Power=1)
+Rule 1793/3 (Power=1)
 Orders
 
-      An Order is a command, executed by a player and directed to some
-      entity requiring that entity to perform exactly one action, or
-      to refrain from performing one or more actions.
+      An Order is a command, executed by an entity and directed to
+      some entity requiring that entity to perform exactly one action,
+      or to refrain from performing one or more actions.
 
       An Order may be directed to the holder of an official position
       in eir capacity in that official position, and if the position
@@ -2385,6 +2386,7 @@ History:
 Created by Proposal 3704 (General Chaos), Mar. 19 1998
 Amended(1) by Proposal 4810 (Goethe), 20 June 2005
 Amended(2) by Proposal 4867 (Goethe), 27 August 2006
+Amended(3) by Proposal 5029 (Murphy), 28 June 2007
 
 ----------------------------------------------------------------------
 
@@ -3915,4 +3917,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 5028]
+      [Last proposal with recorded effect on this ruleset: 5029]
