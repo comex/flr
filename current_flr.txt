@@ -22,16 +22,16 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 98 Rules:
+There are currently 99 Rules:
     1 with Power=4
    27 with Power=3
    11 with Power=2
     1 with Power=1.1
-   58 with Power=1
+   59 with Power=1
 
 Lowest current Rule Number:           101
-Highest current Rule Number:         2150
-Highest Rule Number assigned so far: 2150
+Highest current Rule Number:         2151
+Highest Rule Number assigned so far: 2151
 
 ======================================================================
 Table of Contents:
@@ -561,6 +561,22 @@ Amended(???) by Proposal 4839 (Goethe), 2 October 2005
 Amended(???) by Proposal 4866 (Goethe), 27 August 2006
 Amended(15) by Proposal 4880 (Murphy), 22 January 2007
 Amended(16) by Proposal 4887 (Murphy), 22 January 2007
+
+----------------------------------------------------------------------
+
+Rule 2151/0 (Power=1)
+Agoran Arms
+
+      The escutcheon of Agora is defined by the following blazon:
+      Tierced palewise sable, argent, and sable, charged with a quill
+      and an axe in saltire, proper, and in the chief a capital letter
+      A, gules.
+
+[Note (28 June 2007): A rendering of the escutcheon of Agora is at
+<http://greyfire.org/picture_library/agora.png>.]
+
+History:
+Created by Proposal 5037 (Zefram, GreyKnight), 28 June 2007
 
 ----------------------------------------------------------------------
 
@@ -3891,4 +3907,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 5036]
+      [Last proposal with recorded effect on this ruleset: 5037]
