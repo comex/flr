@@ -3757,7 +3757,7 @@ Amended(8) by Proposal 5040 (Zefram), 28 June 2007
 
 ----------------------------------------------------------------------
 
-Rule 2145/0 (Power=1)
+Rule 2145/1 (Power=1)
 Partnerships
 
       A non-natural person that is created by an Agreement between two
@@ -3769,8 +3769,13 @@ Partnerships
       without disrupting the existence of the Partnership as a person
       as long as that Agreement remains in effect.
 
+      Agora recognizes an agreement that implicitly or explicitly
+      assigns its rights, obligations, and responsibilities onto the
+      parties of that agreement to be a non-natural person.
+
 History:
 Created by Proposal 4977 (BobTHJ), 31 May 2007
+Amended(1) by Proposal 5041 (BobTHJ), 28 June 2007
 
 ----------------------------------------------------------------------
 
@@ -3916,4 +3921,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 5040]
+      [Last proposal with recorded effect on this ruleset: 5041]
