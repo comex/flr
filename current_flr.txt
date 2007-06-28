@@ -2206,12 +2206,10 @@ a proposal, but the distributed text does not match any proposal in
 the proposal pool, this constitutes the effective (albeit prohibited)
 distribution of a new proposal.]
 
-[Cross-references (18 June 2007): the Promotor's duties are:
+[Cross-references (28 June 2007): the Promotor's duties are:
   * not distribute proposals during holiday (rule 1769)
   * track Proposal Pool (rule 106)
   * distribute proposals (rule 1607)
-  * nominal recordkeepor of VCs (rule 2126) (this probably doesn't
-    actually result in any obligations)
   * put copy of vetoed proposal into Proposal Pool (rule 2019)]
 
 History:
