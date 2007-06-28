@@ -2550,6 +2550,11 @@ Invoking Judgement
 
 [CFJ 888: Non-Players may make Calls for Judgement.]
 
+[CFJs 1692-1693 (called 20 June 2007): A CFJ can be unambiguously
+referenced by using the customarily-assigned sequence numbers, even if
+the number was not assigned in the public forum, provided that those
+involved accept it as unambiguous at the time.]
+
 History:
 Initial Mutable Rule 213, Jun. 30 1993
 Amended by Proposal 407 (Alexx), Sep. 3 1993
