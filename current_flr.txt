@@ -1449,7 +1449,7 @@ The Herald
 [Cross-references (28 June 2007): the Herald's duties are:
   * report Patent Titles (rule 1377)
   * report Threats (rule 1377)
-  * advertise Agora on the NomicWiki (rule 2135)
+  * advertise Agora (rule 2135)
   * place convict in the Chokey (rule 1504)
   * award and revoke Patent Titles (rule 649)
   * report the manner of wins (rule 1922)
@@ -1481,7 +1481,7 @@ Amended(21) by Proposal 4939 (Murphy), 29 April 2007
 
 ----------------------------------------------------------------------
 
-Rule 2135/0 (Power=1)
+Rule 2135/1 (Power=1)
 Herald to Advertise
 
       Every month the Herald shall update the page about Agora on the
@@ -1493,8 +1493,12 @@ Herald to Advertise
       that are correctly described.  The Herald may add new correct
       information to the page at eir discretion.
 
+      The Herald is encouraged to also advertise Agora in other
+      suitable locations.
+
 History:
 Created by Proposal 4931 (Zefram), 29 April 2007
+Amended(1) by Proposal 5035 (Zefram), 28 June 2007
 
 ----------------------------------------------------------------------
 
@@ -3890,4 +3894,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 5033]
+      [Last proposal with recorded effect on this ruleset: 5035]
