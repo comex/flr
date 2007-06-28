@@ -3651,7 +3651,7 @@ Created by Proposal 4688 (root), 18 April 2005
 
 ----------------------------------------------------------------------
 
-Rule 2129/0 (Power=1)
+Rule 2129/1 (Power=1)
 Dishonor Rolls
 
       When the Herald is ordered to place someone in the Chokey, e
@@ -3659,7 +3659,7 @@ Dishonor Rolls
 
       This title shall be automatically revoked after a length of time
       indicated by the sentencing order, and the Herald shall announce
-      the revokation.  If a sentencing order is executed against a
+      the revocation.  If a sentencing order is executed against a
       defendant who already holds this title, the length of time of
       the new sentencing order shall be added to the time left on any
       previous ones.
@@ -3680,6 +3680,7 @@ Dishonor Rolls
 
 History:
 Created by Proposal 4879 (Murphy), 22 January 2007
+Amended(1) by Proposal 5027 (Zefram), 28 June 2007
 
 ----------------------------------------------------------------------
 
@@ -3913,4 +3914,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 5025]
+      [Last proposal with recorded effect on this ruleset: 5027]
