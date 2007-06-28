@@ -1434,23 +1434,16 @@ Amended(7) by Proposal 4868 (Goethe), 27 August 2006
 
 ----------------------------------------------------------------------
 
-Rule 1377/21 (Power=1)
+Rule 1377/22 (Power=1)
 The Herald
 
       The Herald is an office; its holder is responsible for keeping
-      track of the History of Agora and its players.
-
-      The Herald's report shall include the following:
-
-      a) A list of each Patent Title and Degree that at least one
-         person Bears, with a list of which persons Bear it.
-      b) A list of one or more Threats, including Bears.
+      track of marks of honour and shame relating to Agora.
 
 [Cross-references (28 June 2007): the Herald's duties are:
-  * report Patent Titles (rule 1377)
-  * report Threats (rule 1377)
   * advertise Agora (rule 2135)
   * place convict in the Chokey (rule 1504)
+  * report Patent Titles (rule 649)
   * award and revoke Patent Titles (rule 649)
   * report the manner of wins (rule 1922)
   * manage and report titles of dishonor (rule 2129)]
@@ -1478,6 +1471,7 @@ Amended(18) by Proposal 4563 (OscarMeyr), 6 April 2004
 Amended(19) by Proposal 4852 (root), 18 March 2006
 Amended(20) by Proposal 4868 (Goethe), 27 August 2006
 Amended(21) by Proposal 4939 (Murphy), 29 April 2007
+Amended(22) by Proposal 5036 (Zefram), 28 June 2007
 
 ----------------------------------------------------------------------
 
@@ -3436,7 +3430,7 @@ Patent Titles and Degrees
   A category concerning titles of honor and dishonor.
 ----------------------------------------------------------------------
 
-Rule 649/18 (Power=1)
+Rule 649/19 (Power=1)
 Patent Titles
 
       A Patent Title is a legal item of recognition of a person's
@@ -3446,7 +3440,9 @@ Patent Titles
       to Bear that Patent Title.  When a Patent Title is revoked from
       a person, that person ceases to Bear that Patent Title.  The
       status of Bearing a Patent Title can only be changed as
-      explicitly set out in the Rules.
+      explicitly set out in the Rules.  The Herald's report shall
+      include a list of each Patent Title that at least one person
+      Bears, with a list of which persons Bear it.
 
       As soon as possible after the Rules state that a Patent title
       shall be awarded or revoked, the Herald shall publicly award or
@@ -3476,6 +3472,7 @@ Amended(15) by Proposal 4497 (Steve), 13 May 2003
 Amended(16) by Proposal 4691 (root), 18 April 2005
 Amended(17) by Proposal 4824 (Maud, Manu), 17 July 2005
 Amended(18) by Proposal 4865 (Goethe), 27 August 2006
+Amended(19) by Proposal 5036 (Zefram), 28 June 2007
 
 ----------------------------------------------------------------------
 
@@ -3894,4 +3891,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 5035]
+      [Last proposal with recorded effect on this ruleset: 5036]
