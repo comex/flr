@@ -22,10 +22,10 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 99 Rules:
+There are currently 98 Rules:
     1 with Power=4
    27 with Power=3
-   12 with Power=2
+   11 with Power=2
     1 with Power=1.1
    58 with Power=1
 
@@ -1446,14 +1446,13 @@ The Herald
          person Bears, with a list of which persons Bear it.
       b) A list of one or more Threats, including Bears.
 
-[Cross-references (18 June 2007): the Herald's duties are:
+[Cross-references (28 June 2007): the Herald's duties are:
   * report Patent Titles (rule 1377)
   * report Threats (rule 1377)
   * advertise Agora on the NomicWiki (rule 2135)
   * place convict in the Chokey (rule 1504)
   * award and revoke Patent Titles (rule 649)
   * report the manner of wins (rule 1922)
-  * report status of honorary degrees (rule 2092)
   * manage and report titles of dishonor (rule 2129)]
 
 History:
@@ -3627,30 +3626,6 @@ Amended(16) by Proposal 4887 (Murphy), 22 January 2007
 
 ----------------------------------------------------------------------
 
-Rule 2092/0 (Power=2)
-Honorary Degrees
-
-      A degree may be awarded by the operation of an adopted Proposal
-      whose Power is at least two to any person who is not registered
-      as a Player and who does not already bear that degree.  The
-      Proposal must specify both the recipient of the degree and the
-      degree to be awarded.  For a degree to be awarded in this
-      manner, the recipient need not complete a Thesis, but all other
-      requirements specific to the degree in question must be
-      satisfied.
-
-      Degrees awarded as described in this rule shall be marked as
-      honorary degrees in the Herald's report.  A person bearing an
-      honorary degree may still be awarded the same degree by other
-      rule-defined mechanisms.  When this occurs, the person shall
-      cease to bear the honorary degree and shall bear the new degree
-      in its place.
-
-History:
-Created by Proposal 4688 (root), 18 April 2005
-
-----------------------------------------------------------------------
-
 Rule 2129/1 (Power=1)
 Dishonor Rolls
 
@@ -3915,4 +3890,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 5031]
+      [Last proposal with recorded effect on this ruleset: 5033]
