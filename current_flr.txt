@@ -2113,6 +2113,11 @@ Vote Protection and Cutoff for Challenges
       announces it, then the announced result is the true result of
       that decision, even if it would otherwise be in error.
 
+[CFJ 1690 (called 19 June 2007): A challenge to the resolution of an
+Agoran decision must explicitly identify the decision, either
+individually or as part of a set, and explicitly contest the accuracy
+of some aspect of the attempted resolution.]
+
 History:
 Created by Proposal 4366 (Steve), 23 August 2002
 Amended(1) by Proposal 4637 (Murphy), 19 February 2005
