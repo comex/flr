@@ -3731,6 +3731,9 @@ Agreements
       enforcement of an agreement which requires a person to violate
       another agreement.
 
+[CFJ 1658 (called 11 May 2007): The word "contract" is by default a
+synonym for "binding agreement".]
+
 [CFJ 1682 (called 23 May 2007): A binding agreement under rule 1742
 cannot be made among a set of exactly one player.]
 
