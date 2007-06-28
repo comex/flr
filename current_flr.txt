@@ -3689,7 +3689,7 @@ Contract Law
   A category concerning binding agreements between players.
 ----------------------------------------------------------------------
 
-Rule 1742/6 (Power=1)
+Rule 1742/7 (Power=1)
 Agreements
 
       Persons may make agreements among themselves with the intention
@@ -3723,7 +3723,7 @@ Agreements
       be dismissed.
 
       Nothing in this rule shall be construed so as to impair the
-      enforcement of an agreement which requires a Player to violate
+      enforcement of an agreement which requires a person to violate
       another agreement.
 
 [CFJ 1682 (called 23 May 2007): A binding agreement under rule 1742
@@ -3752,6 +3752,7 @@ Amended(4) by Proposal 4867 (Goethe), 27 August 2006
 Retitled by Proposal 4987 (BobTHJ), 6 June 2007
 Amended(5) by Proposal 4987 (BobTHJ), 6 June 2007
 Amended(6) by Proposal 5009 (Zefram), 18 June 2007
+Amended(7) by Proposal 5028 (Zefram), 28 June 2007
 
 ----------------------------------------------------------------------
 
@@ -3914,4 +3915,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 5027]
+      [Last proposal with recorded effect on this ruleset: 5028]
