@@ -1022,6 +1022,9 @@ partnerships that exist under the rules.]
 person, it must ultimately devolve its obligations onto a non-empty
 set of natural persons.]
 
+[CFJ 1687 (called 8 June 2007): A partnership constructed by a
+contract governed by the law of Colorado is not a person in Agora.]
+
 [CFJ 1614 (called 2 February 2007): Being any type of foodstuff has no
 relation to personhood.]
 
@@ -2161,6 +2164,11 @@ Adopting Proposals
       its adoption index, and then it takes effect.  It does not
       otherwise take effect.  This rule takes precedence over any rule
       which would permit a proposal to take effect.
+
+[CFJ 1647 (called 30 April 2007): Preceding a proposal-like text with
+the heading "Proposal:" and a title can be sufficient to clearly
+indicate that it is intended to become a proposal, but is not if it
+can be interpreted as quoting an existing proposal.]
 
 [CFJ 1639 (called 29 April 2007): Where a proposal attempts two
 separate amendments of the text of the same rule, if one of the
@@ -3785,6 +3793,11 @@ Partnerships
       Agora recognizes an agreement that implicitly or explicitly
       assigns its rights, obligations, and responsibilities onto the
       parties of that agreement to be a non-natural person.
+
+[CFJ 1691 (called 20 June 2007): The first paragraph of rule 2145
+implicitly accepts that agreements do in fact create non-natural
+persons, provided that those agreements are compatible with the
+rules.]
 
 History:
 Created by Proposal 4977 (BobTHJ), 31 May 2007
