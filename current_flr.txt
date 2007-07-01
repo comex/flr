@@ -1,5 +1,180 @@
 THE FULL LOGICAL RULESET
 
+Last proposal with recorded effect on this ruleset: 5049
+
+----------------------------------------------------------------------
+
+Statistics
+
+Current total number of rules: 99
+
+Power distribution:
+       1 with Power=4
+      27 with Power=3
+      12 with Power=2
+      59 with Power=1
+
+Rule numbers:
+       101 is the lowest of any current rule
+      2151 is the highest of any current rule
+      2151 is the highest assigned so far
+
+----------------------------------------------------------------------
+
+Index of Categories
+
+      * The Game of Agora
+      * Players
+      * Definitions
+      * Offices
+      * Agoran Decisions
+      * Proposals
+      * Orders
+      * Calling for Judgement
+      * Selecting a Judge
+      * Delivering Judgement
+      * Overturning Judgement
+      * Rule Violations
+      * Patent Titles and Degrees
+      * Contract Law
+      * Foreign Relations
+      * Trophies
+
+----------------------------------------------------------------------
+
+Index of Rules
+
+      * The Game of Agora
+      Rule  101: Agoran Rights and Privileges
+      Rule 2125: Regulation Regulations
+      Rule 1586: Definition and Continuity of Entities
+      Rule 1688: Power
+      Rule 2140: Power Controls Mutability
+      Rule 2141: Role and Attributes of Rules
+      Rule 1482: Precedence between Rules with Unequal Power
+      Rule 1030: Precedence between Rules with Equal Power
+      Rule  105: Rule Changes
+      Rule 2149: Truthfulness
+      Rule 2110: Win by Paradox
+      Rule 2128: Winning
+
+      * Players
+      Rule  869: How to Join and Leave Agora
+      Rule 2144: Limited Partnerships
+      Rule 2139: The Registrar
+      Rule 1789: Cantus Cygneus
+      Rule 2130: Inactivity
+
+      * Definitions
+      Rule  478: Fora
+      Rule  754: Definition Definitions
+      Rule 1023: Common Definitions
+      Rule 2146: Indices
+      Rule 2150: Personhood
+      Rule 1728: Dependent Actions
+      Rule 2124: Agoran Consent
+      Rule 1769: Holidays
+      Rule 1750: Read the Ruleset Week
+
+      * Offices
+      Rule  103: Always a Speaker
+      Rule  402: Church and State
+      Rule 1006: Offices
+      Rule 2138: The International Associate Director of Personnel
+      Rule 2143: Official Reports
+      Rule 1551: Ratification
+      Rule 1377: The Herald
+      Rule 1051: The Rulekeepor
+      Rule 1681: The Logical Rulesets
+      Rule 1450: Separation of Powers
+
+      * Agoran Decisions
+      Rule  693: Agoran Decisions
+      Rule  107: Initiating Agoran Decisions
+      Rule 2137: The Assessor
+      Rule  683: Voting on Agoran Decisions
+      Rule 2127: Conditional Votes
+      Rule 2117: Replacing the Vote Collector
+      Rule 1950: Voting Limits
+      Rule  208: Resolving Agoran decisions
+      Rule  955: Determining the Will of Agora
+      Rule  879: Quorum
+      Rule 2034: Vote Protection and Cutoff for Challenges
+
+      * Proposals
+      Rule  106: Adopting Proposals
+      Rule 1607: The Promotor
+      Rule 1698: The Proposal System Is Protected
+      Rule 2134: Win by Voting Power
+      Rule 2126: Voting Credits
+      Rule 2142: Support Democracy
+      Rule 2019: Speaker's Veto and Rubber Stamp
+
+      * Orders
+      Rule 1793: Orders
+      Rule 1794: Classes of Orders
+      Rule 1795: Order Timing
+      Rule 1799: Stay and Vacation of Orders
+      Rule 1810: Satisfying Orders
+
+      * Calling for Judgement
+      Rule  889: The Clerk of the Courts
+      Rule  991: Invoking Judgement
+      Rule  897: Barring Players from Judgement
+      Rule 2024: Linked Statements
+      Rule 2132: Excess CFJs
+
+      * Selecting a Judge
+      Rule 1868: Selecting a Judge
+      Rule  698: Always an Eligible Judge
+      Rule 1871: The Standing Court
+      Rule 2133: Pragmatic Judicial Assignments
+
+      * Delivering Judgement
+      Rule  591: Legal Judgements
+      Rule  408: Late Judgement
+      Rule  217: Judgements Must Accord with the Rules
+      Rule 1575: Standards of Proof
+      Rule 1565: Dismissal of a CFJ
+      Rule 1826: Motions
+      Rule 1365: Concurring and Dissenting Opinions
+
+      * Overturning Judgement
+      Rule 1564: Initiating Appeals
+      Rule  911: The Board of Appeals
+      Rule 1447: Final Judgement upon Appeal
+      Rule 1804: Appeal of Judicial and Sentencing Orders
+      Rule 1805: Appellate Orders
+
+      * Rule Violations
+      Rule 1503: Rules Violations
+      Rule 1504: Sentencing Orders
+      Rule  908: Formal Apologies
+
+      * Patent Titles and Degrees
+      Rule  649: Patent Titles
+      Rule 1922: Defined Regular Patent Titles
+      Rule 1367: Degrees
+      Rule 1370: How to Get a Degree
+      Rule 2129: Dishonor Rolls
+
+      * Contract Law
+      Rule 1742: Agreements
+      Rule 2145: Partnerships
+      Rule 2136: Contests
+
+      * Foreign Relations
+      Rule 2135: Herald to Advertise
+      Rule 2148: Ambassador
+      Rule 2147: Protectorates
+
+      * Trophies
+      Rule 2105: The Map of Agora
+      Rule 1727: Happy Birthday
+      Rule  104: First Speaker
+      Rule 2151: Agoran Arms
+      Rule 2029: Town Fountain
+
 ----------------------------------------------------------------------
 
 [Rules are listed as follows.  "nnnn" is the rule's identifying
@@ -22,40 +197,11 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ----------------------------------------------------------------------
 
-There are currently 99 Rules:
-    1 with Power=4
-   27 with Power=3
-   12 with Power=2
-   59 with Power=1
-
-Lowest current Rule Number:           101
-Highest current Rule Number:         2151
-Highest Rule Number assigned so far: 2151
-
-======================================================================
-Table of Contents:
-  The Game of Agora
-  Players
-  Definitions
-  Offices
-  Agoran Decisions
-  Proposals
-  Orders
-  Calling for Judgement
-  Selecting a Judge
-  Delivering Judgement
-  Overturning Judgement
-  Rule Violations
-  Patent Titles and Degrees
-  Contract Law
-  Foreign Relations
-  Trophies
-----------------------------------------------------------------------
-
 ======================================================================
 The Game of Agora
-  A category concerning this nomic generally, constitutional matters,
-  and relationships between the most fundamental nomic entities.
+      A category concerning this nomic generally, constitutional
+      matters, and relationships between the most fundamental nomic
+      entities.
 ----------------------------------------------------------------------
 
 Rule 101/6 (Power=3)
@@ -454,8 +600,9 @@ Created by Proposal 4878 (Goethe), 22 January 2007
 
 ======================================================================
 Players
-  A category concerning players, including the processes of becoming
-  and ceasing to be players, and game-relevant aspects of players.
+      A category concerning players, including the processes of
+      becoming and ceasing to be players, and game-relevant aspects of
+      players.
 ----------------------------------------------------------------------
 
 Rule 869/20 (Power=1)
@@ -627,8 +774,8 @@ Amended(5) by Proposal 5004 (Zefram), 13 June 2007
 
 ======================================================================
 Definitions
-  A category of definitions of terms and procedures that are widely
-  used and do not readily fall into any other category.
+      A category of definitions of terms and procedures that are
+      widely used and do not readily fall into any other category.
 ----------------------------------------------------------------------
 
 Rule 478/18 (Power=3)
@@ -1070,8 +1217,8 @@ Amended(1) by Proposal 4398 (harvel), 23 October 2002
 
 ======================================================================
 Offices
-  A category concerning administrative positions held by persons
-  within the game.
+      A category concerning administrative positions held by persons
+      within the game.
 ----------------------------------------------------------------------
 
 Rule 103/2 (Power=3)
@@ -1476,8 +1623,8 @@ Amended(6) by Proposal 4939 (Murphy), 29 April 2007
 
 ======================================================================
 Agoran Decisions
-  A category concerning the means by which this nomic makes collective
-  decisions.
+      A category concerning the means by which this nomic makes
+      collective decisions.
 ----------------------------------------------------------------------
 
 Rule 693/9 (Power=3)
@@ -1908,8 +2055,8 @@ Amended(2) by Proposal 4811 (Maud, Goethe), 20 June 2005
 
 ======================================================================
 Proposals
-  A category concerning the primary and plenipotent system by which
-  changes are made to the game.
+      A category concerning the primary and plenipotent system by
+      which changes are made to the game.
 ----------------------------------------------------------------------
 
 Rule 106/6 (Power=3)
@@ -2158,7 +2305,8 @@ Retitled by Proposal 5049 (Zefram), 1 July 2007
 
 ======================================================================
 Orders
-  A category concerning certain entities with powers of compulsion.
+      A category concerning certain entities with powers of
+      compulsion.
 ----------------------------------------------------------------------
 
 Rule 1793/3 (Power=1)
@@ -2319,7 +2467,7 @@ Amended(5) by Proposal 4867 (Goethe), 27 August 2006
 
 ======================================================================
 Calling for Judgement
-  A category concerning general aspects of the judicial system.
+      A category concerning general aspects of the judicial system.
 ----------------------------------------------------------------------
 
 Rule 889/14 (Power=1)
@@ -2519,7 +2667,8 @@ Amended(1) by Proposal 4933 (Zefram), 29 April 2007
 
 ======================================================================
 Selecting a Judge
-  A category concerning the assignment of judges to judicial cases.
+      A category concerning the assignment of judges to judicial
+      cases.
 ----------------------------------------------------------------------
 
 Rule 1868/5 (Power=1)
@@ -2670,9 +2819,9 @@ Created by Proposal 4912 (Murphy), 21 March 2007
 
 ======================================================================
 Delivering Judgement
-  A category concerning the making and delivery of judgement in
-  judicial cases, other ways to dispose of a judicial case, and other
-  effects of a judgement.
+      A category concerning the making and delivery of judgement in
+      judicial cases, other ways to dispose of a judicial case, and
+      other effects of a judgement.
 ----------------------------------------------------------------------
 
 Rule 591/18 (Power=1)
@@ -2929,8 +3078,8 @@ Amended(11) by Proposal 5025 (BobTHJ), 25 June 2007
 
 ======================================================================
 Overturning Judgement
-  A category concerning the appeal of judicial cases, overturning of
-  judgements, and other effects of appellate hearings.
+      A category concerning the appeal of judicial cases, overturning
+      of judgements, and other effects of appellate hearings.
 ----------------------------------------------------------------------
 
 Rule 1564/15 (Power=1)
@@ -3186,8 +3335,8 @@ Amended(2) by Proposal 4867 (Goethe), 27 August 2006
 
 ======================================================================
 Rule Violations
-  A category concerning sentencing of persons found to have violated
-  the rules.
+      A category concerning sentencing of persons found to have
+      violated the rules.
 ----------------------------------------------------------------------
 
 Rule 1503/6 (Power=3)
@@ -3315,7 +3464,7 @@ Amended(16) by Proposal 4867 (Goethe), 27 August 2006
 
 ======================================================================
 Patent Titles and Degrees
-  A category concerning titles of honor and dishonor.
+      A category concerning titles of honor and dishonor.
 ----------------------------------------------------------------------
 
 Rule 649/19 (Power=1)
@@ -3550,8 +3699,8 @@ Amended(1) by Proposal 5027 (Zefram), 28 June 2007
 
 ======================================================================
 Contract Law
-  A category concerning binding agreements that can be adjudicated
-  within this nomic.
+      A category concerning binding agreements that can be adjudicated
+      within this nomic.
 ----------------------------------------------------------------------
 
 Rule 1742/8 (Power=1)
@@ -3707,8 +3856,8 @@ Amended(1) by Proposal 4960 (OscarMeyr), 3 June 2007
 
 ======================================================================
 Foreign Relations
-  A category concerning interaction with outside forces, including
-  other nomics.
+      A category concerning interaction with outside forces, including
+      other nomics.
 ----------------------------------------------------------------------
 
 Rule 2135/1 (Power=1)
@@ -3788,7 +3937,7 @@ Created by Proposal 4988 (BobTHJ), 6 June 2007
 
 ======================================================================
 Trophies
-  A category concerning commemoration and symbolism.
+      A category concerning commemoration and symbolism.
 ----------------------------------------------------------------------
 
 Rule 2105/3 (Power=1)
@@ -3954,4 +4103,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 5049]
+END OF THE FULL LOGICAL RULESET
