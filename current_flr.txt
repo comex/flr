@@ -660,7 +660,7 @@ Amended(20) by Proposal 5011 (Zefram), 24 June 2007
 
 ----------------------------------------------------------------------
 
-Rule 2144/2 (Power=1)
+Rule 2144/4 (Power=1)
 Limited Partnerships
 
       A partnership's basis is the set containing its natural-person
@@ -671,13 +671,15 @@ Limited Partnerships
       same as that of another registered partnership.
 
       If a registered partnership has the same basis as another
-      registered partnership, it can be deregistered by any player by
-      announcement.
+      registered partnership, it can be deregistered by any player
+      with Agoran Consent.
 
 History:
 Created by Proposal 4971 (Human Point Two), 23 May 2007
 Amended(1) by Proposal 5022 (Murphy), 25 June 2007
 Amended(2) by Proposal 5039 (Zefram), 28 June 2007
+Amended(3) by Proposal 5045 (BobTHJ), 1 July 2007
+Amended(4) by Proposal 5045 (BobTHJ), 1 July 2007
 
 ----------------------------------------------------------------------
 
@@ -3950,4 +3952,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 5044]
+      [Last proposal with recorded effect on this ruleset: 5045]
