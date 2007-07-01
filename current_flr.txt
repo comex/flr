@@ -25,8 +25,7 @@ An ellipsis (...) indicates that the history is incomplete.
 There are currently 99 Rules:
     1 with Power=4
    27 with Power=3
-   11 with Power=2
-    1 with Power=1.1
+   12 with Power=2
    59 with Power=1
 
 Lowest current Rule Number:           101
