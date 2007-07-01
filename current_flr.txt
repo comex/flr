@@ -1905,7 +1905,7 @@ Created by Proposal 4811 (Maud, Goethe), 20 June 2005
 
 ----------------------------------------------------------------------
 
-Rule 1950/17 (Power=3)
+Rule 1950/18 (Power=3)
 Voting Limits
 
       An entity's voting limit on an Agoran decision is:
@@ -1923,9 +1923,14 @@ Voting Limits
 
       At the end of the voting period of an Agoran decision, the first
       N ballots submitted by each entity on that decision (where N is
-      the entity's voting limit on the decision at the start of the
-      voting period) remain valid; all other ballots submitted on that
-      decision are invalid.
+      the entity's voting limit at the decision's ballot allotment
+      time) remain valid; all other ballots submitted on that decision
+      are invalid.
+
+      The ballot allotment time of a proposal that becomes or ceases
+      to be ordinary during the proposal's voting period is the time
+      of the last such change.  The ballot allotment time of any other
+      decision is the start of the voting period.
 
 History:
 Created by Proposal 4032 (t), Jul. 24 2000
@@ -1947,6 +1952,7 @@ Amended(14) by Proposal 4972 (Goddess Eris), 23 May 2007
 Amended(15) by Proposal 4964 (Murphy), 3 June 2007
 Amended(16) by Proposal 5000 (Murphy), 12 June 2007
 Amended(17) by Proposal 5007 (Zefram), 18 June 2007
+Amended(18) by Proposal 5047 (root), 1 July 2007
 
 ----------------------------------------------------------------------
 
@@ -3951,4 +3957,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 5045]
+      [Last proposal with recorded effect on this ruleset: 5047]
