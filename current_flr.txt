@@ -2239,11 +2239,10 @@ a proposal, but the distributed text does not match any proposal in
 the proposal pool, this constitutes the effective (albeit prohibited)
 distribution of a new proposal.]
 
-[Cross-references (28 June 2007): the Promotor's duties are:
+[Cross-references (1 July 2007): the Promotor's duties are:
   * not distribute proposals during holiday (rule 1769)
   * track Proposal Pool (rule 106)
-  * distribute proposals (rule 1607)
-  * put copy of vetoed proposal into Proposal Pool (rule 2019)]
+  * distribute proposals (rule 1607)]
 
 History:
 Created by Proposal 2522, Mar. 10 1996
@@ -2361,22 +2360,16 @@ Amended(2) by Proposal 5044 (root), 1 July 2007
 
 ----------------------------------------------------------------------
 
-Rule 2019/7 (Power=2)
+Rule 2019/8 (Power=2)
 The Speaker's Veto
 
       The Speaker may veto an Ordinary Proposal in its voting period
-      by announcement.  Whenever a proposal is vetoed, its quorum is
-      set to the current number of eligible voters on that proposal
-      plus one, other rules governing quorum notwithstanding.
+      by announcement.  Quorum for a vetoed proposal is positive
+      infinity, other rules governing quorum notwithstanding.
 
-      As soon as possible after a vetoed proposal fails quorum, the
-      Promotor shall add a copy of that proposal to the Proposal Pool.
-      When e does so, that copy shall become distributable and democratic,
-      and its adoption index shall be increased by one.
-
-      The Speaker may Rubberstamp an Ordinary Proposal in its voting
-      period by announcement.  Quorum for a rubberstamped ordinary
-      proposal is three, other rules governing quorum notwithstanding.
+      The Speaker may rubberstamp an Ordinary Proposal in its voting
+      period by announcement.  Quorum for a rubberstamped proposal is
+      three, other rules governing quorum notwithstanding.
 
 History:
 Created by Proposal 4276 (Steve), 28 March 2002
@@ -2387,6 +2380,7 @@ Amended(4) by Proposal 4836 (Goethe, Maud), 2 October 2005
 Amended(5) by Proposal 4840 (Goethe), 27 October 2005
 Amended(6) by Proposal 4885 (Murphy), 22 January 2007
 Amended(7) by Proposal 4887 (Murphy), 22 January 2007
+Amended(8) by Proposal 5049 (Zefram), 1 July 2007
 
 ----------------------------------------------------------------------
 
@@ -3957,4 +3951,4 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-      [Last proposal with recorded effect on this ruleset: 5047]
+      [Last proposal with recorded effect on this ruleset: 5049]
