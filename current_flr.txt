@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5056
+Last proposal with recorded effect on this ruleset: 5057
 
 ----------------------------------------------------------------------
 
@@ -3256,7 +3256,7 @@ Amended(15) by Proposal 5051 (Zefram), 5 July 2007
 
 ----------------------------------------------------------------------
 
-Rule 1447/20 (Power=1)
+Rule 1447/21 (Power=1)
 Final Judgement upon Appeal
 
       For an Appellate Judge assigned to the Appeal of a Judgement,
@@ -3279,30 +3279,27 @@ Final Judgement upon Appeal
 
       When a Judgement is overturned:
 
-        a) If a majority of the Appellate Judges Judge REVERSE, then the
-           CFJ shall be treated as if it were Judged normally, with the
-           Judgement being that which a majority of the Appellate Judges
-           agree on.
+      a) If a majority of the Appellate Judges Judge REVERSE, then the
+         CFJ shall be treated as if it were Judged normally, with the
+         Judgement being that which a majority of the Appellate Judges
+         agree on.
 
-        b) If a majority of the Appellate Judges Judge REASSIGN, then the
-           original Judgement is ignored, the original Judge is recused,
-           and the Clerk of the Courts shall reassign the CFJ to a new
-           Judge in the same fashion as it was originally assigned.
-           The new Judge cannot make the same Judgement as the original
-           Judge for the same reason.
+      b) If a majority of the Appellate Judges Judge REMAND, then the
+         original Judgement shall be ignored, and the Clerk of the
+         Courts shall reassign the CFJ to the original Judge as if it
+         were being originally assigned. The Judge may not make the
+         same Judgement for the same reason.
 
-        c) If a majority of the Appellate Judges Judge REMAND, then
-           the original Judgement shall be ignored, and the Clerk of
-           the Courts shall reassign the CFJ to the original Judge as
-           if it were being originally assigned. The Judge may not make
-           the same Judgement for the same reason.
+      c) Otherwise, the original Judgement is ignored, the original
+         Judge is recused, and the Clerk of the Courts shall reassign
+         the CFJ to a new Judge in the same fashion as it was
+         originally assigned. The new Judge cannot make the same
+         Judgement as the original Judge for the same reason.
 
-        d) If none of the above is true, then the CFJ shall be
-           reassigned as described above.
-
-      As soon as possible after all members of a Board of Appeals have
-      submitted eir Judgement, the Clerk of the Courts shall announce
-      that this has happened.
+      A Board of Appeals is not considered to have returned a
+      Judgement until all of its members have submitted eir
+      Judgements.  As soon as possible after this happened, the Clerk
+      of the Courts shall announce the Board's decision.
 
 History:
 Created by Proposal 1511, Mar. 24 1995
@@ -3329,6 +3326,7 @@ Amended(17) by Proposal 4298 (Murphy), 17 May 2002
 Amended(18) by Proposal 4825 (Maud), 17 July 2005
 Amended(19) by Proposal 4867 (Goethe), 27 August 2006
 Amended(20) by Proposal 4887 (Murphy), 22 January 2007
+Amended(21) by Proposal 5057 (root), 5 July 2007
 
 ----------------------------------------------------------------------
 
