@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5057
+Last proposal with recorded effect on this ruleset: 5058
 
 ----------------------------------------------------------------------
 
@@ -2260,7 +2260,7 @@ Created by Proposal 4930 (Goethe), 29 April 2007
 
 ----------------------------------------------------------------------
 
-Rule 2126/9 (Power=3)
+Rule 2126/10 (Power=3)
 Voting Credits
 
       Voting Credits (VCs) are a measure of each player's ability to
@@ -2277,10 +2277,10 @@ Voting Credits
       voting limit on ordinary proposals is set to one.
 
       When an Ordinary Interested proposal is adopted and its proposer
-      is not the proposer of any Ordinary proposal previously adopted
-      in the same week, its proposer gains VCs equal to the integer
-      portion of twice the proposal's adoption index, and each
-      co-author of the proposal gains one VC.
+      is not the proposer of any Ordinary Interested proposal
+      previously adopted in the same week, its proposer gains VCs
+      equal to the integer portion of twice the proposal's adoption
+      index, and each co-author of the proposal gains one VC.
 
       At the end of each month, for each office, the player (if any)
       who held that office for the majority of that month gains two
@@ -2320,6 +2320,7 @@ Amended(6) by Proposal 4961 (Zefram), 3 June 2007
 Amended(7) by Proposal 5031 (Zefram), 28 June 2007
 Amended(8) by Proposal 5052 (Zefram), 5 July 2007
 Amended(9) by Proposal 5056 (Murphy), 5 July 2007
+Amended(10) by Proposal 5058 (Zefram), 5 July 2007
 
 ----------------------------------------------------------------------
 
