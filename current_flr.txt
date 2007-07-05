@@ -1,23 +1,23 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5054
+Last proposal with recorded effect on this ruleset: 5056
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 100
+Current total number of rules: 101
 
 Power distribution:
        1 with Power=4
       27 with Power=3
       13 with Power=2
-      59 with Power=1
+      60 with Power=1
 
 Rule numbers:
        101 is the lowest of any current rule
-      2152 is the highest of any current rule
-      2152 is the highest assigned so far
+      2153 is the highest of any current rule
+      2153 is the highest assigned so far
 
 ----------------------------------------------------------------------
 
@@ -104,6 +104,7 @@ Index of Rules
 
       * Proposals
       Rule  106: Adopting Proposals
+      Rule 2153: Disinterested Proposals
       Rule 1607: The Promotor
       Rule 1698: The Proposal System Is Protected
       Rule 2134: Win by Voting Power
@@ -2153,6 +2154,23 @@ Amended(6) by Proposal 5010 (Levi), 24 June 2007
 
 ----------------------------------------------------------------------
 
+Rule 2153/0 (Power=1)
+Disinterested Proposals
+
+      A proposal is disinterested if it is labeled as such by its
+      author at the time of submission.  A proposal should be
+      disinterested if and only if its effects are limited to
+      correcting errors and/or ambiguities.
+
+      The author and co-author(s) of a disinterested proposal do not
+      receive any rewards for its adoption, rules to the contrary
+      notwithstanding.
+
+History:
+Created by Proposal 5056 (Murphy), 5 July 2007
+
+----------------------------------------------------------------------
+
 Rule 1607/12 (Power=1)
 The Promotor
 
@@ -2242,7 +2260,7 @@ Created by Proposal 4930 (Goethe), 29 April 2007
 
 ----------------------------------------------------------------------
 
-Rule 2126/8 (Power=3)
+Rule 2126/9 (Power=3)
 Voting Credits
 
       Voting Credits (VCs) are a measure of each player's ability to
@@ -2258,11 +2276,11 @@ Voting Credits
       When a player joins Agora, eir VCs are set to zero and eir
       voting limit on ordinary proposals is set to one.
 
-      When an Ordinary proposal is adopted and its proposer is not the
-      proposer of any Ordinary proposal previously adopted in the same
-      week, its proposer gains VCs equal to the integer portion of
-      twice the proposal's adoption index, and each co-author of the
-      proposal gains one VC.
+      When an Ordinary Interested proposal is adopted and its proposer
+      is not the proposer of any Ordinary proposal previously adopted
+      in the same week, its proposer gains VCs equal to the integer
+      portion of twice the proposal's adoption index, and each
+      co-author of the proposal gains one VC.
 
       At the end of each month, for each office, the player (if any)
       who held that office for the majority of that month gains two
@@ -2301,6 +2319,7 @@ Amended(5) by Proposal 4950 (Zefram), 7 May 2007
 Amended(6) by Proposal 4961 (Zefram), 3 June 2007
 Amended(7) by Proposal 5031 (Zefram), 28 June 2007
 Amended(8) by Proposal 5052 (Zefram), 5 July 2007
+Amended(9) by Proposal 5056 (Murphy), 5 July 2007
 
 ----------------------------------------------------------------------
 
