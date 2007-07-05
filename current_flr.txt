@@ -1,23 +1,23 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5052
+Last proposal with recorded effect on this ruleset: 5053
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 99
+Current total number of rules: 100
 
 Power distribution:
        1 with Power=4
       27 with Power=3
       12 with Power=2
-      59 with Power=1
+      60 with Power=1
 
 Rule numbers:
        101 is the lowest of any current rule
-      2151 is the highest of any current rule
-      2151 is the highest assigned so far
+      2152 is the highest of any current rule
+      2152 is the highest assigned so far
 
 ----------------------------------------------------------------------
 
@@ -68,6 +68,7 @@ Index of Rules
       * Definitions
       Rule  478: Fora
       Rule  754: Definition Definitions
+      Rule 2152: Mother, May I?
       Rule 1023: Common Definitions
       Rule 2146: Indices
       Rule 2150: Personhood
@@ -901,6 +902,41 @@ Power changed from 1 to 3 by Proposal 4507 (Murphy), 20 June 2003
 Amended(5) by Proposal 4507 (Murphy), 20 June 2003
 Amended(6) by Proposal 4866 (Goethe), 27 August 2006
 Amended(7) by Proposal 5038 (Zefram), 28 June 2007
+
+----------------------------------------------------------------------
+
+Rule 2152/0 (Power=1)
+Mother, May I?
+
+      The following terms are defined.  These definitions are used
+      when a rule includes a term in all caps, and SHOULD be used when
+      a rule includes a term otherwise.  Earlier definitions take
+      precedence over later ones.  If a rule specifies one or more
+      players in connection with a term, then the term applies only to
+      the specified player(s).
+
+      1. CANNOT, IMPOSSIBLE, INEFFECTIVE, INVALID:  Attempts to
+         perform the described action are unsuccessful.
+
+      2. MUST NOT, MAY NOT, SHALL NOT, ILLEGAL, PROHIBITED: Performing
+         the described action violates the rule in question.
+
+      3. SHOULD NOT, DISCOURAGED, DEPRECATED:  Before performing the
+         described action, the full implications of performing it
+         should be understood and carefully weighed.
+
+      4. CAN X ONLY IF Y:  Equivalent to "CANNOT X unless Y".  Similar
+         for (MUST, MAY, SHALL, SHOULD) X ONLY IF Y.
+
+      5. MUST, SHALL, REQUIRED, MANDATORY:  Failing to perform the
+         described action violates the rule in question.
+
+      6. SHOULD, ENCOURAGED, RECOMMENDED:  Before failing to perform
+         the described action, the full implications of failing to
+         perform it should be understood and carefully weighed.
+
+History:
+Created by Proposal 5053 (Murphy), 5 July 2007
 
 ----------------------------------------------------------------------
 
