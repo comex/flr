@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5049
+Last proposal with recorded effect on this ruleset: 5051
 
 ----------------------------------------------------------------------
 
@@ -3136,7 +3136,7 @@ Amended(15) by Proposal 5017 (Zefram), 24 June 2007
 
 ----------------------------------------------------------------------
 
-Rule 911/14 (Power=1)
+Rule 911/15 (Power=1)
 The Board of Appeals
 
       When an Appeal is initiated, a Board of Appeals shall be
@@ -3166,8 +3166,8 @@ The Board of Appeals
       Player consents.
 
       As soon as possible after an Appellate Judge is recused, the
-      Clerk of the Courts shall randomly select an eligible Player to
-      replace em.
+      Clerk of the Courts shall select an eligible Player to replace
+      em.
 
       The last Appellate Judge selected is the Lead Judge for that
       Board.  If the Lead Judge is replaced, then the replacement
@@ -3193,6 +3193,7 @@ Amended(11) by Proposal 4298 (Murphy), 17 May 2002
 Amended(12) by Proposal 4579 (Murphy), 15 June 2004
 Amended(13) by Proposal 4825 (Maud), 17 July 2005
 Amended(14) by Proposal 4867 (Goethe), 27 August 2006
+Amended(15) by Proposal 5051 (Zefram), 5 July 2007
 
 ----------------------------------------------------------------------
 
