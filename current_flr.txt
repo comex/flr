@@ -1,18 +1,18 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5059
+Last proposal with recorded effect on this ruleset: 5060
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 102
+Current total number of rules: 101
 
 Power distribution:
        1 with Power=4
       27 with Power=3
       14 with Power=2
-      60 with Power=1
+      59 with Power=1
 
 Rule numbers:
        101 is the lowest of any current rule
@@ -56,7 +56,6 @@ Index of Rules
       Rule  105: Rule Changes
       Rule 2149: Truthfulness
       Rule 2110: Win by Paradox
-      Rule 2128: Winning
 
       * Players
       Rule  869: How to Join and Leave Agora
@@ -583,21 +582,6 @@ Win by Paradox
 History:
 Created by Proposal 4781 (Sherlock), 3 June 2005
 Amended(1) by Proposal 4891 (Murphy), 22 January 2007
-
-----------------------------------------------------------------------
-
-Rule 2128/0 (Power=1)
-Winning
-
-      The current Speaker may, with two supporters, invite players to
-      enter into a specified agreement (hereafter a Contest) to determine
-      who wins the game.  The contest must be open to all players.
-      Winners determined by the procedures of the contest do in fact
-      win the game.  When the initiating Speaker ceases to be Speaker,
-      the contest loses the legal authority to determine winners.
-
-History:
-Created by Proposal 4878 (Goethe), 22 January 2007
 
 ----------------------------------------------------------------------
 
@@ -1269,8 +1253,7 @@ Always a Speaker
       the player whose most recent registration was earliest becomes
       the Speaker.
 
-[Cross-references (18 June 2007): the Speaker's duties are:
-  * initiate a contest to determine a winner (rule 2128)
+[Cross-references (9 July 2007): the Speaker's duties are:
   * default officeholder (rule 1006)
   * ratify any official report (rule 1551)
   * veto VC salary (rule 2126)
