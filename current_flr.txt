@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5060
+Last proposal with recorded effect on this ruleset: 5061
 
 ----------------------------------------------------------------------
 
@@ -11,8 +11,8 @@ Current total number of rules: 101
 Power distribution:
        1 with Power=4
       27 with Power=3
-      14 with Power=2
-      59 with Power=1
+      15 with Power=2
+      58 with Power=1
 
 Rule numbers:
        101 is the lowest of any current rule
@@ -651,12 +651,8 @@ Amended(20) by Proposal 5011 (Zefram), 24 June 2007
 
 ----------------------------------------------------------------------
 
-Rule 2144/4 (Power=1)
+Rule 2144/5 (Power=1)
 Limited Partnerships
-
-      A partnership's basis is the set containing its natural-person
-      members, plus each member of the basis of each of its
-      non-natural-person members.
 
       A partnership is prohibited from registering if its basis is the
       same as that of another registered partnership.
@@ -671,6 +667,7 @@ Amended(1) by Proposal 5022 (Murphy), 25 June 2007
 Amended(2) by Proposal 5039 (Zefram), 28 June 2007
 Amended(3) by Proposal 5045 (BobTHJ), 1 July 2007
 Amended(4) by Proposal 5045 (BobTHJ), 1 July 2007
+Amended(5) by Proposal 5061 (Zefram), 9 July 2007
 
 ----------------------------------------------------------------------
 
@@ -1036,34 +1033,28 @@ Created by Proposal 4979 (Zefram, Maud), 31 May 2007
 
 ----------------------------------------------------------------------
 
-Rule 2150/0 (Power=2)
+Rule 2150/1 (Power=2)
 Personhood
+
+      A person is an entity that has the general capacity to be the
+      subject of rights and obligations under the rules.  An entity is
+      a person if and only if it is defined to be so by rules with
+      power 2 or greater.
+
+      Any biological organism that is capable of communicating by
+      email in English is a person.
 
       "First-class person" means a person of a biological nature.
 
       "First-class player" means a player who is a first-class person.
 
-[CFJs 1622 (called 26 February 2007) and 1623 (called 27 February
-2007): "person" in the rules means "legal person", which includes
-partnerships that exist under the rules.]
-
-[CFJs 1678-1680 (called 22 May 2007): For a partnership to be a legal
-person, it must ultimately devolve its obligations onto a non-empty
-set of natural persons.]
-
-[CFJ 1687 (called 8 June 2007): A partnership constructed by a
-contract governed by the law of Colorado is not a person in Agora.]
-
-[CFJ 1614 (called 2 February 2007): Being any type of foodstuff has no
-relation to personhood.]
-
 [CFJ 1685 (called 31 May 2007): Being in a mindless job (e.g.,
 keyboard, stenographer, spokesman) may create a rebuttable presumption
-against personhood and against one havinng spoken on one's own
-behalf.]
+against personhood and against one having spoken on one's own behalf.]
 
 History:
 Created by Proposal 5007 (Zefram), 18 June 2007
+Amended(1) by Proposal 5061 (Zefram), 9 July 2007
 
 ----------------------------------------------------------------------
 
@@ -3872,30 +3863,32 @@ Amended(8) by Proposal 5040 (Zefram), 28 June 2007
 
 ----------------------------------------------------------------------
 
-Rule 2145/1 (Power=1)
+Rule 2145/2 (Power=2)
 Partnerships
 
-      A non-natural person that is created by an Agreement between two
-      or more persons is known as a Partnership. A Partnership comes
-      into existence with the initiation of the Agreement that creates
-      it, and it ceases to exist when that Agreement is terminated.
-      The persons who are party to the Agreement may change during the
-      course of that Agreement (if the Agreement allows for it)
-      without disrupting the existence of the Partnership as a person
-      as long as that Agreement remains in effect.
+      A binding agreement governed by the rules which devolves its
+      legal obligations onto a subset of its parties, numbering at
+      least two, collectively, is a partnership.  The members of a
+      partnership are those parties onto whom the partnership's legal
+      obligations are collectively devolved.  A partnership's identity
+      and partnershiphood are not disrupted by changes to its
+      membership provided that it continues to meet the definition of
+      a partnership.
 
-      Agora recognizes an agreement that implicitly or explicitly
-      assigns its rights, obligations, and responsibilities onto the
-      parties of that agreement to be a non-natural person.
+      A partnership's basis is the set consisting of the union of the
+      set of its non-partnership members with the bases of each of its
+      partnership members.  Where circularity occurs in this
+      definition, it is resolved by using the minimum basis sets that
+      provide consistency.
 
-[CFJ 1691 (called 20 June 2007): The first paragraph of rule 2145
-implicitly accepts that agreements do in fact create non-natural
-persons, provided that those agreements are compatible with the
-rules.]
+      A partnership whose basis contains at least two persons is a
+      person.
 
 History:
 Created by Proposal 4977 (BobTHJ), 31 May 2007
 Amended(1) by Proposal 5041 (BobTHJ), 28 June 2007
+Power changed from 1 to 2 by Proposal 5061 (Zefram), 9 July 2007
+Amended(2) by Proposal 5061 (Zefram), 9 July 2007
 
 ----------------------------------------------------------------------
 
