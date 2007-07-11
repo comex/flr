@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5065
+Last proposal with recorded effect on this ruleset: 5066
 
 ----------------------------------------------------------------------
 
@@ -2534,31 +2534,16 @@ Calling for Judgement
       A category concerning general aspects of the judicial system.
 ----------------------------------------------------------------------
 
-Rule 889/14 (Power=1)
+Rule 889/15 (Power=1)
 The Clerk of the Courts
 
       The Clerk of the Courts (CotC) is an office; its holder is
       responsible for receiving and distributing Calls for Judgement
       (CFJs) and Appeals.
 
-      The CotC's Monthly Report shall include the Stare Decisis, which
-      is a list of past CFJs.  The following information shall be
-      included for each CFJ:
-
-        (i) its statement;
-       (ii) the date on which it was called;
-      (iii) its outcome (if any) on Judgement; and
-       (iv) its outcome (if any) on Appeal.
-
-      Whenever a CFJ is made, the CotC shall add it to the list.  E
-      may, at eir discretion, add earlier CFJs.  E may Without
-      Objection remove any CFJ e deems no longer relevant from the
-      list.
-
-[Cross-references (28 June 2007): the Clerk of the Courts' duties are:
+[Cross-references (11 July 2007): the Clerk of the Courts' duties are:
   * issue Writ of FAGE (rule 1789)
   * not publish judicial material during holiday (rule 1769)
-  * manage and report Stare Decisis (rule 889)
   * accept submission of CFJ (rule 991)
   * refuse excess CFJ (rule 2132)
   * assign Trial Judge to a CFJ (rule 1868)
@@ -2597,6 +2582,7 @@ Amended(11) by Proposal 4250 (harvel), 19 February 2002
 Amended(12) by Proposal 4563 (OscarMeyr), 6 April 2004
 Amended(13) by Proposal 4769 (Sherlock), 25 May 2005
 Amended(14) by Proposal 4919 (Zefram), 2 April 2007
+Amended(15) by Proposal 5066 (Zefram; disi.), 11 June 2007
 
 ----------------------------------------------------------------------
 
