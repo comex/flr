@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5066
+Last proposal with recorded effect on this ruleset: 5068
 
 ----------------------------------------------------------------------
 
@@ -2549,17 +2549,16 @@ The Clerk of the Courts
   * assign Trial Judge to a CFJ (rule 1868)
   * remove a player from the standing court (rule 1871)
   * publish Notice of Rotation (rule 1871)
-  * accept and publish judgement (rule 591)
-  * recuse tardy judge (rule 408)
-  * accept Motion and forward to judge (rule 1826)
+  * recuse judge who is tardy on judgement (rule 408)
+  * recuse judge who is tardy on motion (rule 1826)
   * archive opinion with CFJ (rule 1365)
   * announce change of Appellate judge (rule 1564)
   * select board of appeals (rule 911)
   * reassign CFJ when judgement is overturned (rule 1447)
   * announce result of appeal (rule 1447)
   * stay appealed Judicial Order (rule 1804)
-  * accept and publish Appellate Order (rule 1805)
   * vacate falsely-certified Appellate Order (rule 1805)
+  * publish Appellate Order (rule 1805)
   * appoint a member to a Thesis Committee (rule 1370)
   * inform defendant of a Civil CFJ (rule 1742)
   * delay assignment of Trial Judge to a Civil CFJ (rule 1742)]
@@ -2874,19 +2873,15 @@ Delivering Judgement
       other effects of a judgement.
 ----------------------------------------------------------------------
 
-Rule 591/18 (Power=1)
+Rule 591/19 (Power=1)
 Legal Judgements
 
-      The Judge of a CFJ Judges it by submitting eir Judgement to the
-      Clerk of the Courts.  "Decision", "Finding", and "Response" are
-      unambiguous synonyms for "Judgement".
+      The judge of a CFJ judges it by publishing eir judgement, along
+      with any arguments, evidence, or other material that e considers
+      relevant.
 
-      For a Trial Judge, a Judgement is exactly one of the following:
+      For a trial judge, a judgement is exactly one of the following:
       TRUE, FALSE, or DISMISSED.
-
-      As soon as possible after receiving a Judgement, the Clerk of
-      the Courts shall publish it, along with any arguments, evidence,
-      or other material included with the Judgement.
 
 History:
 Initial Mutable Rule 216, Jun. 30 1993
@@ -2913,6 +2908,7 @@ Amended(15) by Proposal 3968 (harvel), Feb. 4 2000
 Amended(16) by Proposal 3998 (harvel), May 2 2000
 Amended(17) by Proposal 4147 (Wes), 13 May 2001
 Amended(18) by Proposal 4298 (Murphy), 17 May 2002
+Amended(19) by Proposal 5068 (Zefram), 11 June 2007
 
 ----------------------------------------------------------------------
 
@@ -3058,42 +3054,33 @@ Amended(10) by Proposal 4298 (Murphy), 17 May 2002
 
 ----------------------------------------------------------------------
 
-Rule 1826/1 (Power=1)
+Rule 1826/2 (Power=1)
 Motions
 
-      A Motion is a formal request made by a Player to the Judge of a
-      CFJ.  A Motion is made by submitting it to the Clerk of the
-      Courts, clearly identifying the CFJ to which the Motion applies.
+      A motion is a formal request made by a player to the judge of a
+      CFJ.  A motion is made by announcement, which must clearly
+      identify the CFJ to which the motion applies.
 
-      The Clerk of the Courts shall forward each properly-filed Motion
-      to the Judge of the CFJ to which the Motion applies as soon as
-      possible after receiving it.  A Judge must either grant or deny
-      each Motion so forwarded within five days of receiving it.  A
-      Judge grants or denies a Motion by sending eir determination on
-      that Motion to the Clerk of the Courts, along with any reasons e
-      chooses to provide.
+      The judge of a CFJ must either grant or deny each motion that
+      applies to that CFJ within five days of it being made.  If a
+      judge fails to grant or deny an applicable motion within five
+      days of it being made, the Clerk of the Courts shall recuse the
+      judge and assign a new one.  If a motion is made after a case
+      has been judged, and the original judge of that case is not
+      active or is not a player, then the Clerk of the Courts shall
+      assign a new judge.
 
-      The effect of granting a Motion depends on its nature, but
-      generally amounts to requiring the Judge to perform as requested
-      by the Motion.
-
-      Upon receipt of a Judge's determination on a Motion, the Clerk
-      shall note the determination made and the reasons, if any, on
-      the record of the CFJ, and shall notify the Player who made the
-      Motion of that determination.
-
-      If a Judge fails to Grant or Deny a Motion within five days of
-      when it was forwarded to em by the Clerk of the Courts, the
-      Clerk of the Courts shall Recuse the Judge and assign a new one
-      as usual.
-
-      If a Motion is made after a case is closed, and the original
-      Judge of that case is not active or is not a player, then a new
-      Judge shall be assigned to the case as usual.
+      A judge grants or denies a motion by publishing eir
+      determination, along with any arguments, evidence, or other
+      material that e considers relevant.  The effect of granting a
+      motion depends on its nature, but generally amounts to requiring
+      the judge to perform as requested by the motion.  A denied
+      motion has no further effect.
 
 History:
 Created by Proposal 3704 (General Chaos), Mar. 19 1998
 Amended(1) by Proposal 4867 (Goethe), 27 August 2006
+Amended(2) by Proposal 5068 (Zefram), 11 June 2007
 
 ----------------------------------------------------------------------
 
@@ -3342,16 +3329,14 @@ Amended(4) by Proposal 5017 (Zefram), 24 June 2007
 
 ----------------------------------------------------------------------
 
-Rule 1805/2 (Power=1)
+Rule 1805/3 (Power=1)
 Appellate Orders
 
-      Appellate Orders are executed by being sent to the Clerk of the
-      Courts by the Lead Judge of a Board of Appeals, but do not take
-      effect until their publication by the Clerk of the Courts.  The
-      Lead Judge must certify in the execution that the order is
-      executed by the concurrence of the majority of the Justices
-      comprising that Board of Appeals; failure to do so deprives the
-      Order of effect.
+      Appellate Orders are executed by being published by the Lead
+      Judge of a Board of Appeals.  The Lead Judge must certify in the
+      execution that the order is executed by the concurrence of the
+      majority of the Justices comprising that Board of Appeals;
+      failure to do so deprives the Order of effect.
 
       Appellate Orders are not subject to appeal.  However, upon a
       judicial finding that the required certification was falsely
@@ -3379,6 +3364,7 @@ History:
 Created by Proposal 3704 (General Chaos), Mar. 19 1998
 Amended(1) by Proposal 4298 (Murphy), 17 May 2002
 Amended(2) by Proposal 4867 (Goethe), 27 August 2006
+Amended(3) by Proposal 5068 (Zefram), 11 June 2007
 
 ----------------------------------------------------------------------
 
