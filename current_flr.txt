@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5069
+Last proposal with recorded effect on this ruleset: 5070
 
 ----------------------------------------------------------------------
 
@@ -78,7 +78,7 @@ Index of Rules
 
       * Offices
       Rule  103: Always a Speaker
-      Rule  402: Church and State
+      Rule  402: Office of Speaker
       Rule 1006: Offices
       Rule 2154: Replacing Officers
       Rule 2138: The International Associate Director of Personnel
@@ -1242,20 +1242,6 @@ Always a Speaker
       the player whose most recent registration was earliest becomes
       the Speaker.
 
-[Cross-references (9 July 2007): the Speaker's duties are:
-  * default officeholder (rule 1006)
-  * ratify any official report (rule 1551)
-  * veto VC salary (rule 2126)
-  * veto or rubberstamp an Ordinary Proposal (rule 2019)
-  * serve on board of appeals (rule 911)
-  * appoint a member to a Thesis Committee (rule 1370)
-The other provisions governing the Speakership are:
-  * initial Speaker (rule 104) (provision spent)
-  * filling Speakership if it becomes vacant (rule 103)
-  * normal Speaker transition (rule 402)
-  * overdue duties can be performed by another player (rule 1006)
-  * mutually exclusive with Clerk of the Courts (rule 1450)]
-
 History:
 Initial Immutable Rule 103, Jun. 30 1993
 Mutated from MI=Unanimity to MI=3 by Proposal 1481, Mar. 15 1995
@@ -1265,33 +1251,36 @@ Amended(2) by Proposal 4944 (Zefram), 3 May 2007
 
 ----------------------------------------------------------------------
 
-Rule 402/18 (Power=1)
-Church and State
+Rule 402/19 (Power=1)
+Office of Speaker
 
-      A cardinal is an active, ready player who is not the current
-      Speaker.
+      The speaker is an office.
 
-      For seven days after a cardinal wins the game with no other
-      players simultaneously winning, then any player may announce
-      that the winning cardinal becomes a pope.  Upon this
-      announcement, that player becomes a pope, so please treat em
-      right good forever.  Also upon this announcement, the current
-      Speaker ceases to be Speaker, and the new pope is installed as
-      the new Speaker.
+      If an active player who is not the speaker has won the game
+      within the past week, e may become the speaker, thus removing
+      any previous speaker from the office, by announcement, unless
+      someone else has become speaker within the preceding 90 days.
+      If the legality of an attempted installation of this type is not
+      challenged within a week, then it is effective even if later
+      found to be illegal.
 
-      If the legality of an installation is not challenged within
-      seven days of it being attempted, then it shall be allowed to
-      stand, even if is subsequently found to be illegal.
+      A speaker who became speaker within the preceding 90 days cannot
+      be replaced by Agoran Consent if e is one of those whose
+      objections are counted in the Agoran Consent procedure.
 
-      Rules to the contrary notwithstanding, if a Player becomes
-      Speaker via this method, e may not be removed from the
-      Speakership for 90 days without eir own consent.
-
-      If no cardinal has become a pope in the past six months, or a judge
-      finds that the current Speaker has been inactive, inattentive,
-      unwilling, or unable to perform eir Agoran duties, then a cardinal
-      may be named a pope (and therefore Speaker as above) by Agoran
-      Consent.  This is not considered winning.
+[Cross-references (11 July 2007): the Speaker's duties are:
+  * default officeholder (rule 1006)
+  * ratify any official report (rule 1551)
+  * veto VC salary (rule 2126)
+  * veto or rubberstamp an Ordinary Proposal (rule 2019)
+  * serve on board of appeals (rule 911)
+  * appoint a member to a Thesis Committee (rule 1370)
+The other provisions governing the Speakership are:
+  * filling Speakership if it becomes vacant (rule 103)
+  * installation due to winning (rule 402)
+  * can't be replaced without consent (rule 402)
+  * mutually exclusive with Clerk of the Courts (rule 1450)
+  * initial Speaker (rule 104) (provision spent)]
 
 History:
 Created by Proposal 402 (Alexx), ca. Sep. 3 1993
@@ -1315,10 +1304,12 @@ Amended(15) by Proposal 4861 (Goethe), 30 May 2006
 Amended(16) by Proposal 4868 (Goethe), 27 August 2006
 Amended(17) by Proposal 4878 (Goethe), 22 January 2007
 Amended(18) by Proposal 4887 (Murphy), 22 January 2007
+Retitled by Proposal 5070 (Zefram), 11 July 2007
+Amended(19) by Proposal 5070 (Zefram), 11 July 2007
 
 ----------------------------------------------------------------------
 
-Rule 1006/17 (Power=1)
+Rule 1006/18 (Power=1)
 Offices
 
       The Rules may designate positions to be offices.  No office may
@@ -1337,9 +1328,9 @@ Offices
       information.  A weekly report shall be sufficient to satisfy
       these last two requirements.
 
-      If an Officer or the Speaker fails to satisfy a Timing Order to
-      perform a certain official duty, than the player who executed
-      the order may perform the duty as if e were the officer.
+      If an officer fails to satisfy a Timing Order to perform a
+      certain official duty, than the player who executed the order
+      may perform the duty as if e were the officer.
 
 [CFJ 1660 (called 13 May 2007): this rule does not define the meaning
 of the term "office", in the sense meant by rule 754, but rather
@@ -1370,6 +1361,7 @@ Amended(14) by Proposal 4956 (Murphy), 7 May 2007
 Amended(15) by Proposal 4980 (Murphy), 31 May 2007
 Amended(16) by Proposal 5029 (Murphy), 28 June 2007
 Amended(17) by Proposal 5059 (Zefram, Goethe), 9 July 2007
+Amended(18) by Proposal 5070 (Zefram), 11 July 2007
 
 ----------------------------------------------------------------------
 
