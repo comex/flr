@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5063
+Last proposal with recorded effect on this ruleset: 5064
 
 ----------------------------------------------------------------------
 
@@ -3892,7 +3892,7 @@ Amended(2) by Proposal 5061 (Zefram), 9 July 2007
 
 ----------------------------------------------------------------------
 
-Rule 2136/3 (Power=1)
+Rule 2136/4 (Power=1)
 Contests
 
       A contest is a contract that identifies itself as such, and
@@ -3900,10 +3900,10 @@ Contests
       parties are its contestants.
 
       Points are a measure of a player's contentiousness.  The number
-      of points possessed by a player is eir score, which is always an
-      algebraic real number, and scores are not categorically
-      prevented from being any particular algebraic real number.  When
-      a player registers, eir score is set to zero.
+      of points possessed by a player is eir score, which is always a
+      rational number, and scores are not categorically prevented from
+      being any particular rational number.  When a player registers,
+      eir score is set to zero.
 
       A contestmaster may award a total of up to 10 points per month
       to one or more contestants, unless e was contestmaster of a
@@ -3920,6 +3920,7 @@ Created by Proposal 4935 (Murphy), 29 April 2007
 Amended(1) by Proposal 4960 (OscarMeyr), 3 June 2007
 Amended(2) by Proposal 5062 (Zefram; disi.), 11 June 2007
 Amended(3) by Proposal 5063 (Zefram; disi.), 11 June 2007
+Amended(4) by Proposal 5064 (Zefram; disi.), 11 June 2007
 
 ----------------------------------------------------------------------
 
