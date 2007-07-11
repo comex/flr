@@ -1,18 +1,18 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5068
+Last proposal with recorded effect on this ruleset: 5069
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 101
+Current total number of rules: 99
 
 Power distribution:
        1 with Power=4
       27 with Power=3
       15 with Power=2
-      58 with Power=1
+      56 with Power=1
 
 Rule numbers:
        101 is the lowest of any current rule
@@ -128,9 +128,7 @@ Index of Rules
 
       * Selecting a Judge
       Rule 1868: Selecting a Judge
-      Rule  698: Always an Eligible Judge
       Rule 1871: The Standing Court
-      Rule 2133: Pragmatic Judicial Assignments
 
       * Delivering Judgement
       Rule  591: Legal Judgements
@@ -2683,11 +2681,6 @@ Linked Statements
 [CFJ 1602 (called 10 January 2007): A set of Linked CFJs is an entity
 distinct from the individual CFJs from which it is composed.]
 
-[CFJ 1601 (called 10 January 2007): When a Judge is to be assigned to
-a set of Linked CFJs as required by Rule 2024, references in Rule 698
-to "that CFJ" or "that increasingly annoying CFJ" refer to individual
-CFJs, not to the set of CFJs.]
-
 History:
 Created by Proposal 4298 (Murphy), 17 May 2002
 Amended(1) by Proposal 4579 (Murphy), 15 June 2004
@@ -2720,18 +2713,22 @@ Selecting a Judge
       cases.
 ----------------------------------------------------------------------
 
-Rule 1868/5 (Power=1)
+Rule 1868/6 (Power=1)
 Selecting a Judge
 
-      A CFJ is open if it has not been Judged, or if an outstanding
-      judicial motion pertaining to it has been neither granted nor
-      denied.  A CFJ is closed if it is not open.
+      Whenever a CFJ that has not been judged has no trial judge
+      assigned, the Clerk of the Courts shall as soon as possible
+      assign an eligible judge to it by announcement.  The assigned
+      judge remains its trial judge until recused.
 
-      As soon as possible after becoming aware that an open CFJ has no
-      Judge assigned to it, the Clerk of the Courts shall choose a
-      Player eligible to Judge it, and announce them as its Trial
-      Judge.  That Player remains the Trial Judge of that CFJ until e
-      is recused from it or becomes ineligible to Judge it.
+      Every active player is eligible to be assigned as a trial judge
+      unless made ineligible by the rules.  Entities other than active
+      players are always ineligible.
+
+      If the Clerk of the Courts errs in good faith by assigning an
+      ineligible judge then the assignment stands.  In this case, the
+      Clerk of the Courts may recuse the judge by announcement
+      accompanied by a description of eir error.
 
 [CFJ 1186: The Clerk of the Courts is required by Rule 1868 to select
 a Judge who is eligible at the time that the Judge is selected,
@@ -2750,65 +2747,11 @@ Amended(2) by Proposal 4166 (Elysion), 11 June 2001
 Amended(3) by Proposal 4298 (Murphy), 17 May 2002
 Amended(4) by Proposal 4867 (Goethe), 27 August 2006
 Amended(5) by Proposal 5040 (Zefram), 28 June 2007
+Amended(6) by Proposal 5069 (Zefram), 11 July 2007
 
 ----------------------------------------------------------------------
 
-Rule 698/15 (Power=1)
-Always an Eligible Judge
-
-      (a) Each active player is eligible to judge a given Call for
-          Judgement (CFJ), unless a rule specifically makes em
-          ineligible.
-
-      (b) If the Clerk of the Courts is required to select a Judge,
-          but after taking all other rules affecting eligibility into
-          account, no player is eligible to judge that CFJ, then:
-
-          (1) all non-barred players become eligible to judge that
-              CFJ; then
-
-          (2) if there is still no player eligible to judge, then all
-              barred players, other than the caller emself, become
-              eligible to judge that increasingly annoying CFJ; then
-
-          (3) if there is still no player eligible to judge, then
-              don't panic.  Somebody's bound to register someday; let
-              em deal with it.
-
-      (c) This rule takes precedence over other rules concerning who
-          is and is not eligible to judge CFJs.
-
-[CFJ 1600 (called 10 January 2007): In Rule 698 the phrase "all barred
-players" means all Players that are Barred from Judging the
-increasingly annoying CFJ.]
-
-[CFJ 1601 (called 10 January 2007): When a Judge is to be assigned to
-a set of Linked CFJs as required by Rule 2024, references in Rule 698
-to "that CFJ" or "that increasingly annoying CFJ" refer to individual
-CFJs, not to the set of CFJs.]
-
-History:
-Created by Proposal 482 (Alexx), Sep. 30 1993
-Amended by Proposal 698 (Wes), Nov. 12 1993
-Amended(1) by Proposal 1385, Jan. 17 1995
-Amended(2) by Proposal 1734, Oct. 15 1995
-Amended(3) by Proposal 2457, Feb. 26 1996
-Amended(4) by Proposal 3821 (Blob), Jan. 12 1999
-Amended(5) by Proposal 3823 (Oerjan), Jan. 21 1999
-Amended(6) by Proposal 4155 (harvel), 18 May 2001
-Amended(7) by Proposal 4178 (root), 7 July 2001
-Amended(8) by Proposal 4278 (harvel), 3 April 2002
-Amended(9) by Proposal 4298 (Murphy), 17 May 2002
-Amended(10) by Proposal 4385 (Steve), 17 September 2002
-Amended(11) by Proposal 4424 (Steve), 16 December 2002
-Amended(12) by Proposal 4798 (Maud, Goethe), 6 June 2005
-Amended(13) by Proposal 4820 (Goethe), 10 July 2005
-Amended(14) by Proposal 4835 (Goethe), 2 October 2005
-Amended(15) by Proposal 4867 (Goethe), 27 August 2006
-
-----------------------------------------------------------------------
-
-Rule 1871/11 (Power=1)
+Rule 1871/12 (Power=1)
 The Standing Court
 
       Each player is either standing, sitting, or lying down.
@@ -2828,13 +2771,13 @@ The Standing Court
 
       When the Clerk of the Courts publishes a Notice of Rotation, all
       sitting players change to standing.  The Clerk of the Courts
-      shall only do so when all open CFJs without a Trial Judge have
-      no players eligible to be assigned, and at least one of them has
-      at least one player ineligible solely to not standing; e shall
-      list all CFJs in the first set, and at least one in the second
-      (noting at least one of the relevant players).  However, failing
-      to meet these requirements does not deprive the Notice of
-      effect.
+      shall only do so when all CFJs awaiting trial judge assignment
+      have no players eligible to be assigned, and at least one of
+      them has at least one player ineligible solely to not standing;
+      e shall list all CFJs in the first set, and at least one in the
+      second (noting at least one of the relevant players).  However,
+      failing to meet these requirements does not deprive the Notice
+      of effect.
 
 History:
 Created by Proposal 3821 (Blob), Jan. 12 1999
@@ -2850,19 +2793,7 @@ Amended(9) by Proposal 4912 (Murphy), 21 March 2007
 Amended(10) by Proposal 4958 (Murphy), 3 June 2007
 Retitled by Proposal 4991 (Murphy), 6 June 2007
 Amended(11) by Proposal 4991 (Murphy), 6 June 2007
-
-----------------------------------------------------------------------
-
-Rule 2133/0 (Power=1)
-Pragmatic Judicial Assignments
-
-      If the Clerk of the Courts errs in good faith by assigning an
-      ineligible judge, then the selection stands.  However, if the
-      player has not yet delivered judgement, then the Clerk of the
-      Courts may point out eir error and recuse the player.
-
-History:
-Created by Proposal 4912 (Murphy), 21 March 2007
+Amended(12) by Proposal 5069 (Zefram), 11 July 2007
 
 ----------------------------------------------------------------------
 
