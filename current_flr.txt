@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5070
+Last proposal with recorded effect on this ruleset: 5075
 
 ----------------------------------------------------------------------
 
@@ -553,11 +553,11 @@ Amended(2) by Proposal 4940 (Zefram), 29 April 2007
 
 ----------------------------------------------------------------------
 
-Rule 2149/0 (Power=1)
+Rule 2149/1 (Power=1)
 Truthfulness
 
-      Players are prohibited from deliberately or recklessly making
-      false statements in any public message.  Merely quoting a false
+      Players SHALL NOT deliberately or recklessly make false
+      statements in any public message.  Merely quoting a false
       statement does not constitute making it for the purposes of this
       rule.  Any disclaimer, conditional clause, or other qualifier
       attached to a statement constitutes part of the statement for
@@ -566,6 +566,7 @@ Truthfulness
 
 History:
 Created by Proposal 4990 (Zefram), 6 June 2007
+Amended(1) by Proposal 5075 (Zefram), 18 July 2007
 
 ----------------------------------------------------------------------
 
