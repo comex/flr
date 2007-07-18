@@ -3928,6 +3928,11 @@ Ambassador
       that the Ambassador act or not act in a specified fashion in
       relation to a Protectorate.
 
+[Cross-references (18 July 2007): the Ambassador's duties are:
+  * report on Protectorates (rule 2148)
+  * check that Protectorate still meets requirements (rule 2148)
+  * act on behalf of Agora in Protectorate (rule 2148)]
+
 History:
 Created by Proposal 4988 (BobTHJ), 6 June 2007
 
