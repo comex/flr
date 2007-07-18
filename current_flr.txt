@@ -1,23 +1,23 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5075
+Last proposal with recorded effect on this ruleset: 5076
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 99
+Current total number of rules: 100
 
 Power distribution:
        1 with Power=4
-      27 with Power=3
-      15 with Power=2
-      56 with Power=1
+      26 with Power=3
+      16 with Power=2
+      57 with Power=1
 
 Rule numbers:
        101 is the lowest of any current rule
-      2154 is the highest of any current rule
-      2154 is the highest assigned so far
+      2155 is the highest of any current rule
+      2155 is the highest assigned so far
 
 ----------------------------------------------------------------------
 
@@ -109,6 +109,7 @@ Index of Rules
       Rule 1698: The Proposal System Is Protected
       Rule 2134: Win by Voting Power
       Rule 2126: Voting Credits
+      Rule 2155: Parties
       Rule 2142: Support Democracy
       Rule 2019: Speaker's Veto and Rubber Stamp
 
@@ -2255,54 +2256,72 @@ Created by Proposal 4930 (Goethe), 29 April 2007
 
 ----------------------------------------------------------------------
 
-Rule 2126/10 (Power=3)
+Rule 2126/11 (Power=2)
 Voting Credits
 
       Voting Credits (VCs) are a measure of each player's ability to
-      affect voting limits on ordinary proposals.  A player's VC is at
-      all times a non-negative integer.  VCs are not any form of
-      property and cannot be traded.  VCs can be affected only as
-      described in this rule.
+      affect voting limits on ordinary proposals.  VCs CANNOT be
+      affected except as described in this rule.
 
-      When one or more players win the game, all players' voting
-      limits on ordinary proposals are reset to one, subject to
-      modification by other rules.
+      When a player registers or deregisters, e loses all eir VCs.
 
-      When a player joins Agora, eir VCs are set to zero and eir
-      voting limit on ordinary proposals is set to one.
+      When one or more players win the game, each player's voting
+      limit on ordinary proposals is reset to its default value.
 
-      When an Ordinary Interested proposal is adopted and its proposer
-      is not the proposer of any Ordinary Interested proposal
-      previously adopted in the same week, its proposer gains VCs
-      equal to the integer portion of twice the proposal's adoption
-      index, and each co-author of the proposal gains one VC.
+      Each VC has a color (Gray if not otherwise specified).  If a
+      player loses a color of VC that e does not possess, then e loses
+      a VC of eir Party's color instead; if e has no VCs at all, then
+      the loss is waived (you can't get blood from a turnip).
 
-      At the end of each month, for each office, the player (if any)
-      who held that office for the majority of that month gains two
-      VCs, unless the Speaker publicly announces that the officer has
-      performed poorly in eir duties.
+      VCs may be gained as follows:
 
-      A player who submits a judgement during eir Deliberation Period
-      gains one VC.  A player whose judgement is overturned, or who
-      is recused for failing to judge within eir Deliberation Period,
-      loses one VC, if e has any.
+      a) When an ordinary interested proposal is adopted, its proposer
+         gains Red VCs equal to the integer portion of the proposal's
+         adoption index (unless e gained VCs in this way earlier in
+         the same week), and each co-author of the proposal gains one
+         Red VC (unless e gained VCs in this way earlier in the same
+         week).
 
-      A player may expend two VCs to increase eir own voting limit on
-      ordinary proposals by one.
+      b) At the end of each month, for each office, the player (if
+         any) who held that office for the majority of that month
+         gains two Green VCs, unless the Speaker publicly announces
+         within a week after the end of the month that the officer
+         performed eir duties poorly or not at all.
 
-      A player may expend one VC to increase any other player's voting
-      limit on ordinary proposals by one.
+      c) A player who submits a judgement during eir Deliberation
+         Period gains one Blue VC.
 
-      A player may expend two VCs to decrease any other player's
-      voting limit on ordinary proposals by one, down to a minimum
-      voting limit of zero.  Attempts to decrease a player's voting
-      limit on ordinary proposals below this minimum fail.
+      VCs may be lost as follows:
 
-      If a player attempts to expend more VCs than e currently has,
-      the action fails, and the VCs are not expended.
+      a) When a proposal's voting index is less than half its adoption
+         index, its proposer loses one Red VC.
 
-      Changes to voting limits under this rule take effect at the
-      beginning of the next week.
+      b) When an officer forfeits eir salary due to announcement by
+         the Speaker, e loses one Green VC.
+
+      c) A player whose judgement is overturned, or who is recused for
+         failing to judge within eir Deliberation Period, loses one
+         Blue VC.
+
+      VCs may be spent as follows, by announcement (INVALID unless the
+      color is specified).  All changes to voting limits are applied
+      at the end of the week, in the order the VCs were spent, after
+      which any fractional voting limits are rounded to the nearest
+      integer (nearest odd integer if the fractional part is 0.5).
+
+      a) A player may spend two VCs of different colors to increase
+         another player's voting limit on ordinary proposals by one.
+
+      b) A player may spend three VCs of different colors to increase
+         eir own voting limit on ordinary proposals by one.
+
+      c) A player may spend two VCs of different colors to decrease
+         another player's voting limit on ordinary proposals by one
+         (to a minimum of zero).
+
+      d) A player may spend three VCs of different colors to decrease
+         another player's voting limit on ordinary proposals by ten
+         percent.
 
 History:
 Created by Proposal 4872 (OscarMeyr), 26 October 2006
@@ -2316,6 +2335,20 @@ Amended(7) by Proposal 5031 (Zefram), 28 June 2007
 Amended(8) by Proposal 5052 (Zefram), 5 July 2007
 Amended(9) by Proposal 5056 (Murphy), 5 July 2007
 Amended(10) by Proposal 5058 (Zefram), 5 July 2007
+Power changed from 3 to 2 by Proposal 5076 (Murphy), 18 July 2007
+Amended(11) by Proposal 5076 (Murphy), 18 July 2007
+
+----------------------------------------------------------------------
+
+Rule 2155/0 (Power=1)
+Parties
+
+      Each player's Party is the color of VC that e possesses the most
+      of.  Ties are broken in favor of the color that comes first in
+      alphabetical order.
+
+History:
+Created by Proposal 5076 (Murphy), 18 July 2007
 
 ----------------------------------------------------------------------
 
@@ -3788,26 +3821,36 @@ Amended(2) by Proposal 5061 (Zefram), 9 July 2007
 
 ----------------------------------------------------------------------
 
-Rule 2136/5 (Power=1)
+Rule 2136/7 (Power=1)
 Contests
 
-      A contest is a contract that identifies itself as such, and
+      Points are a measure of a player's contentiousness.  The number
+      of points possessed by a player is eir score.
+
+      Each player's score is an integer.  Points can only be awarded
+      in integer amounts.
+
+      When a player registers or deregisters, eir score becomes zero.
+
+      A contest is an agreement that identifies itself as such, and
       identifies exactly one party as its contestmaster; all other
       parties are its contestants.
 
-      Points are a measure of a player's contentiousness.  The number
-      of points possessed by a player is eir score, which is always an
-      integer.  When a player registers, eir score is set to zero.
+      The Scorekeepor is an office; its holder is responsible for
+      keeping track of scores and contests.  The Scorekeepor's report
+      includes each player's score.
 
-      A contestmaster may award a total of up to 10 points per month
-      to one or more contestants, unless e was contestmaster of a
-      different contest for at least 15 days of the previous month.
+      A contestmaster may award a total of up to 10 points per week to
+      one or more contestants as permitted by the contest, unless e
+      was contestmaster of a different contest for at least 3 days of
+      the previous week.
 
-      A player with 100 or more points may announce this fact.  If
-      this announcement is correct, then the following events happen:
+      A player with 100 or more points may win the game by announcing
+      this fact.  Upon such an announcement, each player's score is
+      set to zero.
 
-      1.  The announcing player wins the game.
-      2.  Each player's score is set to zero.
+[Cross-references (18 July 2007): the Scorekeepor's duties are:
+  * report scores (rule 2136)]
 
 History:
 Created by Proposal 4935 (Murphy), 29 April 2007
@@ -3816,6 +3859,8 @@ Amended(2) by Proposal 5062 (Zefram; disi.), 11 July 2007
 Amended(3) by Proposal 5063 (Zefram; disi.), 11 July 2007
 Amended(4) by Proposal 5064 (Zefram; disi.), 11 July 2007
 Amended(5) by Proposal 5065 (Zefram; disi.), 11 July 2007
+Amended(6) by Proposal 5076 (Murphy), 18 July 2007
+Amended(7) by Proposal 5076 (Murphy), 18 July 2007
 
 ----------------------------------------------------------------------
 
