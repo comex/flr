@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5076
+Last proposal with recorded effect on this ruleset: 5077
 
 ----------------------------------------------------------------------
 
@@ -293,26 +293,26 @@ Created by Proposal 4866 (Goethe), 27 August 2006
 
 ----------------------------------------------------------------------
 
-Rule 1586/2 (Power=2)
+Rule 1586/3 (Power=2)
 Definition and Continuity of Entities
 
-      No two Rule-defined entities shall have the same name or
-      nickname.
+      Two Rule-defined entities CANNOT have the same name or nickname.
 
-      If the Rules defining some entity are repealed or amended
-      such that they no longer define that entity, then that
-      entity along with all its properties shall cease to exist.
+      If the Rules defining an entity are repealed or amended such
+      that they no longer define that entity, then that entity and its
+      properties cease to exist.
 
-      If the Rules defining an entity are amended such that they
-      still define that entity but with different properties,
-      that entity and its properties shall continue to exist to
-      whatever extent is possible under the new definitions.
+      If the Rules defining an entity are amended such that they still
+      define that entity but with different properties, then that
+      entity and its properties continue to exist to whatever extent
+      is possible under the new definitions.
 
 History:
 Created by Proposal 2481, Feb. 16 1996
 Amended(1) by Proposal 2795 (Andre), Jan. 30 1997, substantial
 Amended(2) by Proposal 3999 (harvel), May 2 2000
 Power changed from 1 to 2 by Proposal 3999 (harvel), May 2 2000
+Amended(3) by Proposal 5077 (Murphy), 18 July 2007
 
 ----------------------------------------------------------------------
 
@@ -924,23 +924,22 @@ Power changed from 1 to 2 by Proposal 5054 (Murphy), 5 July 2007
 
 ----------------------------------------------------------------------
 
-Rule 1023/19 (Power=2)
+Rule 1023/20 (Power=2)
 Common Definitions
 
       The following terms are defined:
 
-      (a) The term "number" shall mean "real number".
+      (a) The term "number" means "real number".
 
-      (b) The phrase "as soon as possible" shall mean "within seven
-          days".
+      (b) The phrase "as soon as possible" means "within seven days".
 
-      (c) The term "random" shall mean a choice drawn with a process
-          whose probability distribution among the possible outcomes
-          is reasonably close to that required by the Rules, using a
+      (c) The term "random" means a choice drawn with a process whose
+          probability distribution among the possible outcomes is
+          reasonably close to that required by the Rules, using a
           uniform distribution if not otherwise specified.
 
-      (d) The term "paragraph" shall mean a subset of text determined
-          as follows:
+      (d) The term "paragraph" means a subset of text determined as
+          follows:
 
           (1) Each bulleted or enumerated (hereafter simply
               "bulleted") section is a unit of text.
@@ -1017,6 +1016,7 @@ Amended(16) by Proposal 4406 (Murphy), 30 October 2002
 Amended(17) by Proposal 4866 (Goethe), 27 August 2006
 Amended(18) by Proposal 4938 (Murphy), 29 April 2007
 Amended(19) by Proposal 5005 (root), 18 June 2007
+Amended(20) by Proposal 5077 (Murphy), 18 July 2007
 
 ----------------------------------------------------------------------
 
@@ -1175,17 +1175,15 @@ Amended(3) by Proposal 4978 (Murphy), 31 May 2007
 
 ----------------------------------------------------------------------
 
-Rule 1769/3 (Power=2)
+Rule 1769/4 (Power=2)
 Holidays
 
       A Holiday is a period of time designated as such by the Rules.
 
-      During a Holiday, no Proposal may be distributed by the
-      Promotor, nor may any Call for Judgement, Judgement, notice of
-      Appeal, Decision of Appeals Boards, or Opinion be published by
-      the Clerk of the Courts; however, if any of the above do take
-      place during the Holiday in violation of this Rule, this Rule
-      does not deprive them of their usual effects.
+      During a Holiday, the Promotor SHALL NOT distribute any
+      proposals, and the Clerk of the Courts SHALL NOT publish any
+      Call for Judgement, Judgement, notice of Appeal, Decision of
+      Appeals Boards, or Opinion.
 
       If some Rule requires that an action be done prior to a given
       time, and that given time falls during a Holiday, or within the
@@ -1213,6 +1211,7 @@ Created by Proposal 3679 (General Chaos), Jan. 30 1998
 Amended(1) by Proposal 4036 (Oerjan), Aug. 7 2000
 Amended(2) by Proposal 01-003 (Steve), Feb. 2 2001
 Amended(3) by Proposal 4866 (Goethe), 27 August 2006
+Amended(4) by Proposal 5077 (Murphy), 18 July 2007
 
 ----------------------------------------------------------------------
 
@@ -2167,30 +2166,30 @@ Created by Proposal 5056 (Murphy), 5 July 2007
 
 ----------------------------------------------------------------------
 
-Rule 1607/12 (Power=1)
+Rule 1607/13 (Power=1)
 The Promotor
 
       The Promotor is an office; its holder is responsible for
       receiving and distributing proposals.
 
-      The Promotor is permitted to distribute a proposal in the
-      Proposal Pool at any time.  During each week, the Promotor must
-      distribute each proposal in the proposal pool which was in the
-      Proposal Pool at the beginning of the week.
+      The Promotor MAY distribute a proposal in the Proposal Pool at
+      any time.  During each week, the Promotor SHALL distribute each
+      proposal that has been in the Proposal Pool since the beginning
+      of that week.
 
-      The Promotor legally distributes a proposal by publishing it
-      accompanied by an explicit indication that it is being
-      distributed.  When a proposal is distributed, it is removed from
-      the Proposal Pool.  The distribution of a proposal initiates the
-      Agoran decision of whether to adopt the proposal, as described
-      elsewhere.
+      The Promotor distributes a proposal by publishing it with the
+      clear intent of distributing it.  When a proposal is
+      distributed, it is removed from the Proposal Pool.  The
+      distribution of a proposal initiates the Agoran decision of
+      whether to adopt the proposal, as described elsewhere.
 
-      The Promotor shall include with the distribution of each
-      proposal the identity of its proposer, the proposal's coauthors,
-      if any, its chamber, and its adoption index.  However, the
-      failure of the Promotor to include any of these with a proposal
-      does not deprive the distribution of the proposal of any legal
-      effect.
+      When distributing a proposal, the Promotor SHALL specify the
+      following:
+
+      a) Its author (and co-authors, if any).
+      b) Its adoption index.
+      c) Whether it is ordinary or democratic.
+      d) Whether it is interested or disinterested.
 
 [CFJ 1669 (called 16 May 2007): If a proposal is purportedly
 distributed with a text that differs from the submitted text, this
@@ -2227,6 +2226,7 @@ Amended(9) by Proposal 4085 (Blob), Nov. 16 2000
 Amended(10) by Proposal 4250 (harvel), 19 February 2002
 Amended(11) by Proposal 4486 (Michael), 24 April 2003
 Amended(12) by Proposal 4868 (Goethe), 27 August 2006
+Amended(13) by Proposal 5077 (Murphy), 18 July 2007
 
 ----------------------------------------------------------------------
 
@@ -2529,7 +2529,7 @@ Amended(4) by Proposal 4867 (Goethe), 27 August 2006
 
 ----------------------------------------------------------------------
 
-Rule 1810/5 (Power=1)
+Rule 1810/6 (Power=1)
 Satisfying Orders
 
       An Order requiring an entity to perform an action is satisfied
@@ -2540,8 +2540,8 @@ Satisfying Orders
       and no other specification is made, the Action satisfies the
       oldest Order which it would satisfy.
 
-      Willfully performing contrary to valid orders, either through
-      action or inaction, is a violation of this Rule.
+      A player SHALL NOT willfully perform contrary to a valid
+      unsatisfied order, either through action or inaction.
 
 History:
 Created by Proposal 3704 (General Chaos), Mar. 19 1998
@@ -2550,6 +2550,7 @@ Amended(2) by Proposal 3954 (Elysion), Dec. 13 1999
 Amended(3) by Proposal 4099 (Murphy), Jan. 15 2001
 Amended(4) by Proposal 4810 (Goethe), 20 June 2005
 Amended(5) by Proposal 4867 (Goethe), 27 August 2006
+Amended(6) by Proposal 5077 (Murphy), 18 July 2007
 
 ----------------------------------------------------------------------
 
