@@ -822,6 +822,11 @@ the message body; the subject line is insignificant.]
 technical domain of control, indicated by one of the "Received:"
 headers.]
 
+[CFJ 1695 (called 23 June 2007): A partnership, which by its nature
+can't directly send email, can participate in the fora by means of its
+members sending messages on its behalf, if its governing agreement
+says so.]
+
 History:
 Created by Proposal 478 (Jim Shea), Sep. 20 1993
 Amended(1) by Proposal 1477, Mar. 8 1995
