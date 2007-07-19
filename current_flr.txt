@@ -686,6 +686,10 @@ The Registrar
       c) A list of all public or discussion fora, with sufficient data
          regarding each forum to players to receive messages there.
 
+[CFJ 1703 (called 13 July 2007): A player cannot change eir nickname
+by announcement if the new nickname that e specifies is the current
+nickname of another player.]
+
 [Cross-references (18 June 2007): the Registrar's duties are:
   * report players' nicknames and email addresses (rule 2139)
   * report registration dates (rule 2139)
@@ -3969,6 +3973,12 @@ Protectorates
       does not prohibit changes made to a Protectorate nomic by one or
       more of its players (or closest equivalent) according to the
       rules of that Protectorate.
+
+[CFJ 1704 (called 17 July 2007): If a nomic is a binding agreement
+governed by the rules of Agora, then the possibility of direct
+modification of that agreement by an Agoran proposal satisfies the
+requirement for protectoratehood that it allow Agora unrestricted
+access to make changes to its ruleset.]
 
 History:
 Created by Proposal 4988 (BobTHJ), 6 June 2007
