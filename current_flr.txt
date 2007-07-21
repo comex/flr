@@ -3846,6 +3846,10 @@ Partnerships
       A partnership whose basis contains at least two persons is a
       person.
 
+[CFJ 1701 (called 11 July 2007): To qualify as a member of a
+partnership it is not necessary to be responsible for all of the
+partnership's obligations.]
+
 History:
 Created by Proposal 4977 (BobTHJ), 31 May 2007
 Amended(1) by Proposal 5041 (BobTHJ), 28 June 2007
