@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5081
+Last proposal with recorded effect on this ruleset: 5083
 
 ----------------------------------------------------------------------
 
@@ -2058,7 +2058,7 @@ Proposals
       which changes are made to the game.
 ----------------------------------------------------------------------
 
-Rule 106/7 (Power=3)
+Rule 106/8 (Power=3)
 Adopting Proposals
 
       A proposal is a document outlining changes to be made to Agora,
@@ -2076,10 +2076,10 @@ Adopting Proposals
       proposal.
 
       The adoption index of a proposal is an integral multiple of 0.1,
-      with a default and minimum value of 1.0.  Before the Promotor
-      distributes a proposal, its proposer may modify its adoption
-      index by announcement.  A Proposal with an Adoption Index of
-      less than 2 is Ordinary.  All other Proposals are Democratic.
+      with a minimum value of 1.0.  It may be set by the proposer at
+      the time of submission, or otherwise defaults to 1.0.  A
+      Proposal with an Adoption Index of less than 2 is Ordinary.  All
+      other Proposals are Democratic.
 
       If the option selected by Agora on this decision is ADOPTED,
       then the proposal is adopted, and unless other rules prevent it
@@ -2112,6 +2112,7 @@ Amended(4) by Proposal 4918 (OscarMeyr), 2 April 2007
 Amended(5) by Proposal 4939 (Murphy), 29 April 2007
 Amended(6) by Proposal 5010 (Levi), 24 June 2007
 Amended(7) by Proposal 5078 (Zefram), 18 July 2007
+Amended(8) by Proposal 5083 (Zefram), 23 July 2007
 
 ----------------------------------------------------------------------
 
