@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5078
+Last proposal with recorded effect on this ruleset: 5081
 
 ----------------------------------------------------------------------
 
@@ -934,21 +934,19 @@ Power changed from 1 to 2 by Proposal 5054 (Murphy), 5 July 2007
 
 ----------------------------------------------------------------------
 
-Rule 1023/20 (Power=2)
+Rule 1023/21 (Power=2)
 Common Definitions
 
       The following terms are defined:
 
-      (a) The term "number" means "real number".
+      (a) The phrase "as soon as possible" means "within seven days".
 
-      (b) The phrase "as soon as possible" means "within seven days".
-
-      (c) The term "random" means a choice drawn with a process whose
+      (b) The term "random" means a choice drawn with a process whose
           probability distribution among the possible outcomes is
           reasonably close to that required by the Rules, using a
           uniform distribution if not otherwise specified.
 
-      (d) The term "paragraph" means a subset of text determined as
+      (c) The term "paragraph" means a subset of text determined as
           follows:
 
           (1) Each bulleted or enumerated (hereafter simply
@@ -985,7 +983,7 @@ Common Definitions
               determined by the sub-tree arrived at by traversal from
               the root, using the specified series of labels.
 
-      (e) Agoran epochs:
+      (d) Agoran epochs:
 
           (1) Agoran days begin at midnight UTC.
 
@@ -1027,6 +1025,7 @@ Amended(17) by Proposal 4866 (Goethe), 27 August 2006
 Amended(18) by Proposal 4938 (Murphy), 29 April 2007
 Amended(19) by Proposal 5005 (root), 18 June 2007
 Amended(20) by Proposal 5077 (Murphy), 18 July 2007
+Amended(21) by Proposal 5081 (Zefram; disi.), 23 July 2007
 
 ----------------------------------------------------------------------
 
