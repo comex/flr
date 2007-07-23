@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5083
+Last proposal with recorded effect on this ruleset: 5084
 
 ----------------------------------------------------------------------
 
@@ -3493,7 +3493,7 @@ Patent Titles and Degrees
       A category concerning titles of honor and dishonor.
 ----------------------------------------------------------------------
 
-Rule 649/19 (Power=1)
+Rule 649/20 (Power=1)
 Patent Titles
 
       A Patent Title is a legal item of recognition of a person's
@@ -3507,9 +3507,8 @@ Patent Titles
       include a list of each Patent Title that at least one person
       Bears, with a list of which persons Bear it.
 
-      As soon as possible after the Rules state that a Patent title
-      shall be awarded or revoked, the Herald shall publicly award or
-      revoke that Patent Title.
+      As soon as possible after a patent title is awarded or revoked,
+      the herald SHALL announce the award or revocation.
 
 History:
 Created by Proposal 649 (Wes), ca. Oct. 22 1993
@@ -3536,6 +3535,7 @@ Amended(16) by Proposal 4691 (root), 18 April 2005
 Amended(17) by Proposal 4824 (Maud, Manu), 17 July 2005
 Amended(18) by Proposal 4865 (Goethe), 27 August 2006
 Amended(19) by Proposal 5036 (Zefram), 28 June 2007
+Amended(20) by Proposal 5084 (Zefram; disi.), 23 July 2007
 
 ----------------------------------------------------------------------
 
