@@ -3488,6 +3488,13 @@ modification of that agreement by an Agoran proposal satisfies the
 requirement for protectoratehood that it allow Agora unrestricted
 access to make changes to its ruleset.]
 
+[CFJ 1707 (called 20 July 2007): If a nomic's ruleset contains a
+statement similar to "This nomic allows Agora unrestricted access to
+make changes to its ruleset.", this can be interpreted as "This
+nomic's rules change whenever the rules of Agora say they do.", thus
+allowing the nomic's ruleset to be changed by means of an Agoran
+proposal with AI >= 2.]
+
 History:
 Created by Proposal 4988 (BobTHJ), 6 June 2007
 
