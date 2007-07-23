@@ -2243,13 +2243,13 @@ Amended(19) by Proposal 5078 (Zefram), 18 July 2007
 
 ----------------------------------------------------------------------
 
-Rule 2156/0 (Power=2)
+Rule 2156/1 (Power=2)
 Voting on Ordinary Proposals
 
       Each player has a parameter known as eir base voting limit on
       ordinary proposals (BVLOP).  The BVLOP of a first-class player
-      is one, and the BVLOP of any other player is zero.  BVLOP cannot
-      be modified.
+      is four, and the BVLOP of any other player is zero.  BVLOP
+      cannot be modified.
 
       Each player has a parameter known as eir volatile voting limit
       on ordinary proposals (VVLOP).  Whenever a player is registered,
@@ -2272,6 +2272,7 @@ Voting on Ordinary Proposals
 
 History:
 Created by Proposal 5078 (Zefram), 18 July 2007
+Amended(1) by Proposal 5082 (Zefram), 23 July 2007
 
 ----------------------------------------------------------------------
 
