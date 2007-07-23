@@ -1,24 +1,25 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5085
+Last proposal with recorded effect on this ruleset: 5086
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 100
+Current total number of rules: 87
 
 Power distribution:
        1 with Power=4
       26 with Power=3
-      17 with Power=2
-       1 with Power=1.5
-      55 with Power=1
+      19 with Power=2
+       4 with Power=1.7
+       3 with Power=1.5
+      34 with Power=1
 
 Rule numbers:
        101 is the lowest of any current rule
-      2156 is the highest of any current rule
-      2156 is the highest assigned so far
+      2158 is the highest of any current rule
+      2158 is the highest assigned so far
 
 ----------------------------------------------------------------------
 
@@ -31,11 +32,7 @@ Index of Categories
       * Agoran Decisions
       * Proposals
       * Orders
-      * Calling for Judgement
-      * Selecting a Judge
-      * Delivering Judgement
-      * Overturning Judgement
-      * Rule Violations
+      * Adjudication
       * Patent Titles and Degrees
       * Contract Law
       * Foreign Relations
@@ -122,46 +119,25 @@ Index of Rules
       Rule 1799: Stay and Vacation of Orders
       Rule 1810: Satisfying Orders
 
-      * Calling for Judgement
-      Rule  889: The Clerk of the Courts
-      Rule  991: Invoking Judgement
-      Rule  897: Barring Players from Judgement
-      Rule 2024: Linked Statements
-      Rule 2132: Excess CFJs
-
-      * Selecting a Judge
-      Rule 1868: Selecting a Judge
+      * Adjudication
+      Rule  991: Judicial Cases Generally
+      Rule 1868: Judge Assignment Generally
       Rule 1871: The Standing Court
-
-      * Delivering Judgement
-      Rule  591: Legal Judgements
-      Rule  408: Late Judgement
+      Rule 2157: Judicial Panels
+      Rule 2158: Judicial Questions
+      Rule  591: Inquiry Cases
+      Rule 1504: Criminal Cases
+      Rule  911: Appeal Cases
       Rule  217: Judgements Must Accord with the Rules
-      Rule 1575: Standards of Proof
-      Rule 1565: Dismissal of a CFJ
-      Rule 1826: Motions
-      Rule 1365: Concurring and Dissenting Opinions
-
-      * Overturning Judgement
-      Rule 1564: Initiating Appeals
-      Rule  911: The Board of Appeals
-      Rule 1447: Final Judgement upon Appeal
-      Rule 1804: Appeal of Judicial and Sentencing Orders
-      Rule 1805: Appellate Orders
-
-      * Rule Violations
       Rule 1503: Rules Violations
-      Rule 1504: Sentencing Orders
-      Rule  908: Formal Apologies
 
       * Patent Titles and Degrees
       Rule  649: Patent Titles
       Rule 1922: Defined Regular Patent Titles
       Rule 1367: Degrees
-      Rule 2129: Dishonor Rolls
 
       * Contract Law
-      Rule 1742: Agreements
+      Rule 1742: Contracts
       Rule 2145: Partnerships
       Rule 2136: Contests
 
@@ -593,7 +569,7 @@ Players
       players.
 ----------------------------------------------------------------------
 
-Rule 869/20 (Power=1)
+Rule 869/21 (Power=1)
 How to Join and Leave Agora
 
       Each entity at any time either is or is not a player.  The verb
@@ -608,8 +584,8 @@ How to Join and Leave Agora
       specifically prohibited. A person registers or deregisters by
       announcement.
 
-      Whenever a player is deregistered, e is prohibited from
-      registering for the next thirty days.
+      Whenever a player deregisters, e is prohibited from registering
+      for the next thirty days.
 
       A player who is not a person and has never been a first-class
       person can be deregistered by any player by announcement.
@@ -649,6 +625,7 @@ Amended(17) by Proposal 4833 (Maud), 6 August 2005
 Amended(18) by Proposal 4989 (Zefram), 6 June 2007
 Amended(19) by Proposal 5007 (Zefram), 18 June 2007
 Amended(20) by Proposal 5011 (Zefram), 24 June 2007
+Amended(21) by Proposal 5086 (Zefram), 23 July 2007
 
 ----------------------------------------------------------------------
 
@@ -690,14 +667,13 @@ The Registrar
 by announcement if the new nickname that e specifies is the current
 nickname of another player.]
 
-[Cross-references (18 June 2007): the Registrar's duties are:
+[Cross-references (23 July 2007): the Registrar's duties are:
   * report players' nicknames and email addresses (rule 2139)
   * report registration dates (rule 2139)
   * report fora (rule 2139)
   * report deregistration by Writ of FAGE (rule 1789)
   * report activity (rule 2130)
-  * change the publicity of a forum (rule 478)
-  * deregister convict in disgrace (rule 1504)]
+  * change the publicity of a forum (rule 478)]
 
 History:
 Created by Proposal 4939 (Murphy), 29 April 2007
@@ -1188,15 +1164,15 @@ Amended(3) by Proposal 4978 (Murphy), 31 May 2007
 
 ----------------------------------------------------------------------
 
-Rule 1769/4 (Power=2)
+Rule 1769/5 (Power=2)
 Holidays
 
       A Holiday is a period of time designated as such by the Rules.
 
       During a Holiday, the Promotor SHALL NOT distribute any
-      proposals, and the Clerk of the Courts SHALL NOT publish any
-      Call for Judgement, Judgement, notice of Appeal, Decision of
-      Appeals Boards, or Opinion.
+      proposals, and judges SHALL NOT be assigned to any judicial
+      case, and judges SHALL NOT assign judgement to any judicial
+      question.
 
       If some Rule requires that an action be done prior to a given
       time, and that given time falls during a Holiday, or within the
@@ -1225,6 +1201,7 @@ Amended(1) by Proposal 4036 (Oerjan), Aug. 7 2000
 Amended(2) by Proposal 01-003 (Steve), Feb. 2 2001
 Amended(3) by Proposal 4866 (Goethe), 27 August 2006
 Amended(4) by Proposal 5077 (Murphy), 18 July 2007
+Amended(5) by Proposal 5086 (Zefram), 23 July 2007
 
 ----------------------------------------------------------------------
 
@@ -1287,7 +1264,6 @@ Office of Speaker
   * ratify any official report (rule 1551)
   * veto VC salary (rule 2126)
   * veto or rubberstamp an Ordinary Proposal (rule 2019)
-  * serve on board of appeals (rule 911)
 The other provisions governing the Speakership are:
   * filling Speakership if it becomes vacant (rule 103)
   * installation due to winning (rule 402)
@@ -1510,13 +1486,11 @@ The Herald
       The Herald is an office; its holder is responsible for keeping
       track of marks of honour and shame relating to Agora.
 
-[Cross-references (28 June 2007): the Herald's duties are:
-  * advertise Agora (rule 2135)
-  * place convict in the Chokey (rule 1504)
+[Cross-references (23 July 2007): the Herald's duties are:
   * report Patent Titles (rule 649)
-  * award and revoke Patent Titles (rule 649)
+  * announce award or revocation of Patent Title (rule 649)
   * report the manner of wins (rule 1922)
-  * manage and report titles of dishonor (rule 2129)]
+  * advertise Agora (rule 2135)]
 
 History:
 Created by Proposal 1377, Jan. 17 1995
@@ -2288,7 +2262,7 @@ Created by Proposal 4930 (Goethe), 29 April 2007
 
 ----------------------------------------------------------------------
 
-Rule 2126/12 (Power=2)
+Rule 2126/13 (Power=2)
 Voting Credits
 
       Voting Credits (VCs) are a measure of each player's ability to
@@ -2323,8 +2297,9 @@ Voting Credits
          within a week after the end of the month that the officer
          performed eir duties poorly or not at all.
 
-      c) A player who submits a judgement during eir Deliberation
-         Period gains one Blue VC.
+      c) A player who assigns a judgement to a judicial question
+         within the time limit when first obliged to gains one Blue
+         VC.
 
       VCs may be lost as follows:
 
@@ -2334,9 +2309,11 @@ Voting Credits
       b) When an officer forfeits eir salary due to announcement by
          the Speaker, e loses one Green VC.
 
-      c) A player whose judgement is overturned, or who is recused for
-         failing to judge within eir Deliberation Period, loses one
-         Blue VC.
+      c) A player who is recused from a judicial case because a
+         judicial question has remained applicable, open, and unjudged
+         loses one Blue VC.  A player who is the prior judge in an
+         appeal case where a judgement other than AFFIRM is assigned
+         to the question on disposition loses one Blue VC.
 
       VCs may be spent as follows, by announcement (INVALID unless the
       color is specified):
@@ -2368,6 +2345,7 @@ Amended(10) by Proposal 5058 (Zefram), 5 July 2007
 Power changed from 3 to 2 by Proposal 5076 (Murphy), 18 July 2007
 Amended(11) by Proposal 5076 (Murphy), 18 July 2007
 Amended(12) by Proposal 5078 (Zefram), 18 July 2007
+Amended(13) by Proposal 5086 (Zefram), 23 July 2007
 
 ----------------------------------------------------------------------
 
@@ -2456,7 +2434,7 @@ Amended(3) by Proposal 5029 (Murphy), 28 June 2007
 
 ----------------------------------------------------------------------
 
-Rule 1794/10 (Power=1)
+Rule 1794/11 (Power=1)
 Classes of Orders
 
       Each Order is of exactly one of the following classes.  If an
@@ -2466,14 +2444,7 @@ Classes of Orders
         (a) A Legislative Order is an Order executed as part of the
             effect of the adoption of a Proposal.
 
-        (b) An Appellate Order is an Order executed by a Board of
-            Appeals.
-
-        (c) A Judicial Order is an Order executed by a Judge in the
-            course of performing eir duties or privileges as Judge.  A
-            Judicial Oredr is executed by announcement.
-
-        (d) A Timing Order is an Order which may be executed by any
+        (b) A Timing Order is an Order which may be executed by any
             person by announcement and directed at any entity.  A
             timing order is valid if and only if it orders the entity
             to perform, as soon as possible, a duty specifically
@@ -2496,6 +2467,7 @@ Amended(7) by Proposal 4810 (Goethe), 20 June 2005
 Amended(8) by Proposal 4867 (Goethe), 27 August 2006
 Amended(9) by Proposal 5012 (Zefram), 24 June 2007
 Amended(10) by Proposal 5017 (Zefram), 24 June 2007
+Amended(11) by Proposal 5086 (Zefram), 23 July 2007
 
 ----------------------------------------------------------------------
 
@@ -2586,80 +2558,40 @@ Amended(6) by Proposal 5077 (Murphy), 18 July 2007
 ----------------------------------------------------------------------
 
 ======================================================================
-Calling for Judgement
-      A category concerning general aspects of the judicial system.
+Adjudication
+      A category concerning the judicial system by which matters of
+      controversy are resolved.
 ----------------------------------------------------------------------
 
-Rule 889/15 (Power=1)
-The Clerk of the Courts
+Rule 991/8 (Power=2)
+Judicial Cases Generally
 
-      The Clerk of the Courts (CotC) is an office; its holder is
-      responsible for receiving and distributing Calls for Judgement
-      (CFJs) and Appeals.
+      A judicial case, also known as a call for judgement (CFJ), is a
+      procedure to settle a matter of controversy.  There are
+      subclasses of judicial case with particular features defined by
+      other rules.  Subclasses of judicial case exist only as defined
+      by the rules.
 
-[Cross-references (23 July 2007): the Clerk of the Courts' duties are:
-  * issue Writ of FAGE (rule 1789)
-  * not publish judicial material during holiday (rule 1769)
-  * accept submission of CFJ (rule 991)
-  * refuse excess CFJ (rule 2132)
-  * assign Trial Judge to a CFJ (rule 1868)
-  * remove a player from the standing court (rule 1871)
-  * publish Notice of Rotation (rule 1871)
-  * recuse judge who is tardy on judgement (rule 408)
-  * recuse judge who is tardy on motion (rule 1826)
-  * archive opinion with CFJ (rule 1365)
-  * announce change of Appellate judge (rule 1564)
-  * select board of appeals (rule 911)
-  * reassign CFJ when judgement is overturned (rule 1447)
-  * announce result of appeal (rule 1447)
-  * stay appealed Judicial Order (rule 1804)
-  * vacate falsely-certified Appellate Order (rule 1805)
-  * publish Appellate Order (rule 1805)
-  * inform defendant of a Civil CFJ (rule 1742)
-  * delay assignment of Trial Judge to a Civil CFJ (rule 1742)]
-
-History:
-Created by Proposal 406 (Alexx), Sep. 3 1993
-Amended by Proposal 889, Apr. 13 1994
-Amended by Rule 750, Apr. 13 1994
-Amended(1) by Proposal 1441, Feb. 21 1995
-Amended(2) by Proposal 2457, Feb. 16 1996
-Amended(3) by Proposal 2662, Sep. 12 1996
-Amended(4) by Proposal 2696, Oct. 10 1996
-Null-Amended(5) by Proposal 2710, Oct. 12 1996
-Amended(6) by Proposal 3827 (Kolja A.), Feb. 4 1999
-Amended(7) by Proposal 3871 (Peekee), Jun. 2 1999
-Amended(8) by Proposal 3902 (Murphy), Sep. 6 1999
-Amended(9) by Proposal 3978 (Blob), Feb. 23 2000
-Amended(10) by Proposal 4002 (harvel), May 8 2000
-Amended(11) by Proposal 4250 (harvel), 19 February 2002
-Amended(12) by Proposal 4563 (OscarMeyr), 6 April 2004
-Amended(13) by Proposal 4769 (Sherlock), 25 May 2005
-Amended(14) by Proposal 4919 (Zefram), 2 April 2007
-Amended(15) by Proposal 5066 (Zefram; disi.), 11 July 2007
-
-----------------------------------------------------------------------
-
-Rule 991/7 (Power=2)
-Invoking Judgement
-
-      Any person may request formal resolution of a dispute pertaining
-      to this Nomic by publishing a Call for Judgement (CFJ).  The
-      submission of a CFJ constitutes proof of the existence of such a
-      dispute.
-
-      A CFJ should be a single clearly-labeled Statement whose truth
-      or falsity can be determined using logical reasoning, assuming
-      perfect knowledge.  A CFJ may be accompanied by Arguments,
-      Evidence, or other related material; the Judge is encouraged,
-      but not required, to take notice of these things.
-
-[CFJ 888: Non-Players may make Calls for Judgement.]
+      The Clerk of the Courts (CotC) is an office, responsible for
+      managing judicial activity.  The CotC's report includes the
+      status of all judicial cases that either require a judge or have
+      at least one applicable judicial question that has no judgement.
 
 [CFJs 1692-1693 (called 20 June 2007): A CFJ can be unambiguously
 referenced by using the customarily-assigned sequence numbers, even if
 the number was not assigned in the public forum, provided that those
 involved accept it as unambiguous at the time.]
+
+[Cross-references (23 July 2007): the Clerk of the Courts' duties are:
+  * issue Writ of FAGE (rule 1789)
+  * not assign judges during holiday (rule 1769)
+  * report open judicial cases (rule 991)
+  * assign judge to judicial case (rule 1868)
+  * report posture (rule 1871)
+  * consider posture when assigning judges (rule 1871)
+  * change all sitting players to standing (rule 1871)
+  * recuse tardy judge (rule 2158)
+  * report active sentences (rule 1504)]
 
 History:
 Initial Mutable Rule 213, Jun. 30 1993
@@ -2674,128 +2606,41 @@ Amended(4) by Proposal 4170 (Elysion), 26 June 2001
 Amended(5) by Proposal 4298 (Murphy), 17 May 2002
 Amended(6) by Proposal 4867 (Goethe), 27 August 2006
 Amended(7) by Proposal 5015 (Zefram), 24 June 2007
+Retitled by Proposal 5086 (Zefram), 23 July 2007
+Amended(8) by Proposal 5086 (Zefram), 23 July 2007
 
 ----------------------------------------------------------------------
 
-Rule 897/8 (Power=1)
-Barring Players from Judgement
+Rule 1868/7 (Power=2)
+Judge Assignment Generally
 
-      A player barred from judging a CFJ is ineligible to judge that
-      CFJ.  The caller of a CFJ is automatically barred from judging
-      it.
+      At any time, a judicial case either has no judge assigned to it
+      (default) or has exactly one entity assigned to it as judge;
+      this is a persistent status that changes only according to the
+      rules.  To recuse a judge from a case means to deassign em as
+      judge.  To assign a judge to a case implicitly recuses any
+      existing judge.
 
-      When submitting a CFJ, the caller may bar up to three players
-      from judging that CFJ.
+      At any time, a judicial case either does not require a judge
+      (default) or requires a judge; this is not a persistent status,
+      but is evaluated instantaneously.
 
-History:
-Created by Proposal 897, ca. Apr. 13 1994
-Amended(1) by Proposal 2457, Feb. 16 1996
-Amended(2) by Proposal 3839 (Murphy), Mar. 8 1999
-Amended(3) by Proposal 4298 (Murphy), 17 May 2002
-Amended(4) by Proposal 4867 (Goethe), 27 August 2006
-Amended(5) by Proposal 4887 (Murphy), 22 January 2007
-Amended(6) by Proposal 5001 (root, Quazie), 12 June 2007
-Amended(7) by Proposal 5015 (Zefram), 24 June 2007
-Amended(8) by Proposal 5040 (Zefram), 28 June 2007
-Retitled by Proposal 5040 (Zefram), 28 June 2007
+      When a judicial case requires a judge and has no judge assigned,
+      the CotC CAN assign a qualified entity to be its judge by
+      announcement.  Whenever this situation arises the CotC SHALL
+      make such an assignment as soon as possible.
 
-----------------------------------------------------------------------
-
-Rule 2024/6 (Power=1)
-Linked Statements
-
-      Linked CFJs are multiple Calls for Judgement deemed to be
-      sufficiently similar that they should have a single judge.
-
-      Linkage is transitive.  When a set of one or more linked CFJs
-      change jurisdiction, they remain linked to each other, but
-      become unlinked from any other CFJs; they may become linked
-      to one or more CFJs within the new jurisdiction.
-
-      Multiple CFJs, submitted in a single message and clearly
-      labelled as Linked CFJs, become linked.  The players (if any)
-      barred by the caller from judging the first CFJ are the only
-      players e may bar from judging the others.
-
-      The Clerk of the Courts shall not assign judges directly to the
-      members of a set of Linked CFJs, but shall assign a judge to the
-      set, as if it was a single CFJ.  The judge must be eligible to
-      judge each member of the set, and is simultaneously assigned
-      as judge of each member of the set.
-
-      The judge of a set of Linked CFJs shall submit eir judgement of
-      each of those CFJs in a single message.
-
-      A trial judge may remand one or more linked CFJs to the Clerk of
-      the Courts by announcement.  E ceases to be their judge.
-
-      A trial judge may transfer one or more of eir CFJs to a second
-      trial judge by announcement (identifying one of the second judge's
-      CFJs), provided that the second judge consents, and is eligible to
-      judge all of them.  The transferred CFJs become linked to the
-      second judge's CFJ (and any others to which it is already linked).
-
-[CFJ 1602 (called 10 January 2007): A set of Linked CFJs is an entity
-distinct from the individual CFJs from which it is composed.]
-
-History:
-Created by Proposal 4298 (Murphy), 17 May 2002
-Amended(1) by Proposal 4579 (Murphy), 15 June 2004
-Amended(2) by Proposal 4659 (root), 29 March 2005
-Amended(3) by Proposal 4867 (Goethe), 27 August 2006
-Amended(4) by Proposal 4887 (Murphy), 22 January 2007
-Amended(5) by Proposal 4895 (Murphy), 12 February 2007
-Amended(6) by Proposal 4912 (Murphy), 21 March 2007
-
-----------------------------------------------------------------------
-
-Rule 2132/1 (Power=1)
-Excess CFJs
-
-      A CFJ submitted by a person who has previously submitted five
-      or more CFJs during the same Agoran Week as that CFJ is an
-      Excess CFJ.  The Clerk of the Courts can, by announcement,
-      Refuse an Excess CFJ that has not had any judge assigned to it.
-      Refusal of an Excess CFJ causes it to cease to be a CFJ.
-
-History:
-Created by Proposal 4912 (Murphy), 21 March 2007
-Amended(1) by Proposal 4933 (Zefram), 29 April 2007
-
-----------------------------------------------------------------------
-
-======================================================================
-Selecting a Judge
-      A category concerning the assignment of judges to judicial
-      cases.
-----------------------------------------------------------------------
-
-Rule 1868/6 (Power=1)
-Selecting a Judge
-
-      Whenever a CFJ that has not been judged has no trial judge
-      assigned, the Clerk of the Courts shall as soon as possible
-      assign an eligible judge to it by announcement.  The assigned
-      judge remains its trial judge until recused.
-
-      Every active player is eligible to be assigned as a trial judge
-      unless made ineligible by the rules.  Entities other than active
-      players are always ineligible.
-
-      If the Clerk of the Courts errs in good faith by assigning an
-      ineligible judge then the assignment stands.  In this case, the
-      Clerk of the Courts may recuse the judge by announcement
-      accompanied by a description of eir error.
+      Except where modified by other rules, the entities qualified to
+      be assigned as judge of a judicial case are the active
+      first-class players.  Being unqualified to be assigned as a
+      judge does not inherently prevent an entity from continuing to
+      be judge if already assigned.
 
 [CFJ 1186: The Clerk of the Courts is required by Rule 1868 to select
-a Judge who is eligible at the time that the Judge is selected,
-regardless of whether that Player was eligible at the time that the
-CFJ was actually called for or when the identity of that Player is
-announced.]
-
-[CFJ 1187: A Judge is considered to be assigned to Judge a particular
-CFJ at the time that the Clerk of the Courts announces the identity of
-the Judge, and no sooner.]
+a Judge who is qualified ["eligible" at the time of CFJ 1186] at the
+time that the Judge is selected, regardless of whether that Player was
+qualified at the time that the CFJ was actually called for or when the
+identity of that Player is announced.]
 
 History:
 Created by Proposal 3816 (Repeal-O-Matic), Dec. 21 1998
@@ -2805,36 +2650,44 @@ Amended(3) by Proposal 4298 (Murphy), 17 May 2002
 Amended(4) by Proposal 4867 (Goethe), 27 August 2006
 Amended(5) by Proposal 5040 (Zefram), 28 June 2007
 Amended(6) by Proposal 5069 (Zefram), 11 July 2007
+Retitled by Proposal 5086 (Zefram), 23 July 2007
+Power changed from 1 to 2 by Proposal 5086 (Zefram), 23 July 2007
+Amended(7) by Proposal 5086 (Zefram), 23 July 2007
 
 ----------------------------------------------------------------------
 
-Rule 1871/12 (Power=1)
+Rule 1871/13 (Power=1.5)
 The Standing Court
 
-      Each player is either standing, sitting, or lying down.
+      Each player is either standing, sitting, or supine; this status
+      is known as eir posture.  The CotC's report includes each
+      player's posture.  When an entity becomes a player, e is
+      initially supine.  A player CAN change emself from sitting to
+      supine, or from supine to sitting, by announcement.
 
-      A player may change emself from sitting to lying down, or vice
-      versa, by announcement.
+      A supine player is unqualified to be assigned as judge of any
+      judicial case.  The CotC SHALL NOT assign a sitting player to be
+      the judge of any judicial case.  If the CotC has assigned a
+      sitting player as judge, and that player is still the judge of
+      that case, the CotC CAN recuse that judge from that case by
+      announcement.
 
-      When a player is selected as Trial Judge of a CFJ, e changes to
-      sitting.  A player is ineligible to become Trial Judge of a CFJ
-      if e is not standing.
+      When the CotC assigns a standing player as judge of a judicial
+      case, the player becomes sitting, except in the situation
+      discussed in the next sentence.  If the CotC assigns a standing
+      player as judge of more than one judicial case consecutively in
+      the same announcement, and states in the announcement that these
+      are linked assignments, the player becomes sitting upon the last
+      of these assignments, but not any of the earlier ones.  The CotC
+      SHOULD NOT perform linked assignments unless the cases being
+      linked are closely related in their subject matter.
 
-      When a player registers, e is lying down.
-
-      The Clerk of the Courts may (without 2 objections) change a
-      player to lying down.  E is encouraged to do this only if e
-      expects the player to judge CFJs slowly or not at all.
-
-      When the Clerk of the Courts publishes a Notice of Rotation, all
-      sitting players change to standing.  The Clerk of the Courts
-      shall only do so when all CFJs awaiting trial judge assignment
-      have no players eligible to be assigned, and at least one of
-      them has at least one player ineligible solely to not standing;
-      e shall list all CFJs in the first set, and at least one in the
-      second (noting at least one of the relevant players).  However,
-      failing to meet these requirements does not deprive the Notice
-      of effect.
+      The CotC CAN change all sitting players to standing by
+      announcement.  The CotC SHALL NOT do this unless there is a
+      judicial case to which e is obliged to assign a judge, all
+      entities qualified to be so assigned are sitting players, and e
+      immediately afterwards (in the same announcement) assigns a
+      judge to that case.
 
 History:
 Created by Proposal 3821 (Blob), Jan. 12 1999
@@ -2851,25 +2704,117 @@ Amended(10) by Proposal 4958 (Murphy), 3 June 2007
 Retitled by Proposal 4991 (Murphy), 6 June 2007
 Amended(11) by Proposal 4991 (Murphy), 6 June 2007
 Amended(12) by Proposal 5069 (Zefram), 11 July 2007
+Power changed from 1 to 1.5 by Proposal 5086 (Zefram), 23 July 2007
+Amended(13) by Proposal 5086 (Zefram), 23 July 2007
 
 ----------------------------------------------------------------------
 
-======================================================================
-Delivering Judgement
-      A category concerning the making and delivery of judgement in
-      judicial cases, other ways to dispose of a judicial case, and
-      other effects of a judgement.
+Rule 2157/0 (Power=1.7)
+Judicial Panels
+
+      A judicial panel is a structure whereby a group of two or more
+      persons (its members) act together for the purpose of judging
+      judicial cases.  A judicial panel's membership cannot change,
+      and if two panels have the same membership then they are the
+      same panel.  Judicial panels exist implicitly, without any
+      specific act of formation.
+
+      A judicial panel CAN send messages by means of any of its
+      members sending a message identified as being from the panel,
+      with the unanimous agreement of the panel's members.  By this
+      mechanism a judicial panel can act, in situations where the
+      rules state that an action is performed by sending a message.  A
+      judicial panel can incur obligations.  The members of a panel
+      SHALL act collectively to ensure that the panel satisfies all of
+      its obligations.
+
+History:
+Created by Proposal 5086 (Zefram), 23 July 2007
+
 ----------------------------------------------------------------------
 
-Rule 591/19 (Power=1)
-Legal Judgements
+Rule 2158/0 (Power=2)
+Judicial Questions
 
-      The judge of a CFJ judges it by publishing eir judgement, along
-      with any arguments, evidence, or other material that e considers
-      relevant.
+      Within a judicial case, one or more judicial questions may
+      arise.  Each judicial question is either inapplicable (default)
+      or applicable; this is not a persistent status but is evaluated
+      instantaneously.  Each judicial question either is open
+      (default), suspended, or has a particular judgement; this is a
+      persistent status that changes only according to the rules.  The
+      possible types of judgement for a judicial question vary
+      according to the type of question.
 
-      For a trial judge, a judgement is exactly one of the following:
-      TRUE, FALSE, or DISMISSED.
+      When a judicial case has an applicable open judicial question,
+      it requires a judge, and its judge CAN assign a valid judgement
+      to that question by announcement.  Whenever there is a judge
+      assigned to a judicial case with an applicable open question,
+      the judge SHALL assign such a judgement to the question as soon
+      as possible.
+
+      Whenever a judicial case has a judicial question that has
+      remained applicable and open, while the same judge has been
+      assigned to the case, continuously for the past week, the CotC
+      CAN recuse that judge by announcement.  Whenever a judicial case
+      has a judicial question that has remained applicable and open,
+      while the same judge has been assigned to the case, continuously
+      for the past two weeks, the CotC SHALL so recuse the judge as
+      soon as possible.
+
+      Among the possible judgements of a judicial question, some
+      subset of them are appropriate.  Judgements are appropriate only
+      where so defined by the rules.  A judge SHALL NOT assign an
+      inappropriate judgement.  Where more than one appropriate
+      judgement is available, the choice between them is at the
+      judge's discretion.
+
+History:
+Created by Proposal 5086 (Zefram), 23 July 2007
+
+----------------------------------------------------------------------
+
+Rule 591/20 (Power=1.7)
+Inquiry Cases
+
+      There is a subclass of judicial case known as an inquiry case.
+      An inquiry case's purpose is to determine the veracity of a
+      particular statement.  An inquiry case CAN be initiated by any
+      person, by announcement which includes the statement to be
+      inquired into.
+
+      The initiator is unqualified to be assigned as judge of the
+      case, and in the initiating announcement e CAN disqualify one
+      person from assignment as judge of the case.
+
+      An inquiry case has a judicial question on veracity, which is
+      always applicable.  The valid judgements for this question are:
+
+      * FALSE, appropriate if the statement was factually and
+        logically false at the time the inquiry case was initiated
+
+      * TRUE, appropriate if the statement was factually and logically
+        true at the time the inquiry case was initiated
+
+      * UNDECIDABLE, appropriate if the statement was logically
+        undecidable, nonsensical, too vague, or otherwise not capable
+        of being accurately described as either false or true, at the
+        time the inquiry case was initiated
+
+      * IRRELEVANT, appropriate if the veracity of the statement at
+        the time the inquiry case was initiated is not relevant to the
+        game
+
+      * UNDETERMINED, appropriate if the information available to the
+        judge is insufficient to determine which of the FALSE, TRUE,
+        and UNDECIDABLE judgements is appropriate; however,
+        uncertainty as to how to interpret or apply the rules cannot
+        constitute insufficiency of information for this purpose
+
+      The judgement of the question in an inquiry case SHOULD guide
+      future play, including future judgements, but does not directly
+      affect the veracity of the statement.  The rulekeepor is
+      ENCOURAGED to annotate rules to draw attention to relevant
+      inquiry case judgements.
 
 History:
 Initial Mutable Rule 216, Jun. 30 1993
@@ -2897,47 +2842,220 @@ Amended(16) by Proposal 3998 (harvel), May 2 2000
 Amended(17) by Proposal 4147 (Wes), 13 May 2001
 Amended(18) by Proposal 4298 (Murphy), 17 May 2002
 Amended(19) by Proposal 5068 (Zefram), 11 July 2007
+Retitled by Proposal 5086 (Zefram), 23 July 2007
+Power changed from 1 to 1.7 by Proposal 5086 (Zefram), 23 July 2007
+Amended(20) by Proposal 5086 (Zefram), 23 July 2007
 
 ----------------------------------------------------------------------
 
-Rule 408/18 (Power=1)
-Late Judgement
+Rule 1504/10 (Power=1.7)
+Criminal Cases
 
-      For each Judge assigned to a CFJ, eir Deliberation Period begins
-      when the Clerk of the Courts announces eir assignment, and lasts
-      seven days; eir Overtime Period begins when eir Deliberation
-      Period ends, and lasts seven days.
+      There is a subclass of judicial case known as a criminal case.
+      A criminal case's purpose is to determine the culpability of a
+      particular person, known as the defendant, for an alleged breach
+      of the rules, and to punish the guilty.  A criminal case CAN be
+      initiated by any player, by announcement which clearly
+      identifies the defendant and specifies the action (which may be
+      a failure to perform another action) by which the defendant
+      allegedly breached the rules.
 
-      During a Judge's Overtime Period, if e has not yet Judged the
-      CFJ, then the Clerk of the Courts may recuse em by announcement.
+      The initiation of a criminal case begins its pre-trial phase.
+      During the pre-trial phase, the case requires a judge.  In the
+      pre-trial phase the judge SHALL as soon as possible inform the
+      defendant of the case and invite em to rebut the argument for
+      eir guilt.  The pre-trial phase ends one week after the
+      defendant has been so informed.
 
-      Upon the end of a Judge's Overtime Period, if e has not yet
-      Judged the CFJ, then the Clerk of the Courts shall recuse em by
-      announcement as soon as possible.
+      The initiator and defendant are each unqualified to be assigned
+      as judge of the case.  During the pre-trial phase, the defendant
+      CAN disqualify one person from assignment as judge of the case,
+      by announcement.  If e disqualifies the judge, then the judge is
+      recused.
+
+      A criminal case has a judicial question on culpability, which is
+      applicable at all times following the pre-trial phase.  The
+      valid judgements for this question are:
+
+      * ALREADY TRIED, appropriate if judgement has already been
+        reached in another criminal case with the same defendant and
+        substantially the same alleged act
+
+      * UNIMPUGNED, appropriate if the alleged act was not proscribed
+        by the rules at the time it allegedly occurred
+
+      * INNOCENT, appropriate if the defendant did not perform the
+        alleged act
+
+      * SLIPPERY, appropriate if the information available to the
+        judge is insufficient to determine beyond a reasonable doubt
+        whether or not the defendant performed the alleged act
+
+      * EXCUSED, appropriate if the defendant has good reason why e
+        could not avoid breaching the rules in a manner at least as
+        serious as alleged
+
+      * GUILTY, appropriate if none of the above judgements is
+        appropriate
+
+      A criminal case has a judicial question on sentencing, which is
+      applicable if the question on culpability is applicable and has
+      a judgement of GUILTY.  If a criminal case has an applicable
+      question on sentencing which has a judgement, the defendant is
+      hereafter known as the ninny, the judgement in the question on
+      sentencing is known as the sentence, and the sentence is in
+      effect.
+
+      Some types of sentence include a duration known as the tariff.
+      When a sentence with a tariff is in effect, the sentence is
+      thereafter either active or not.  The sentence is inactive for
+      the first week after it first takes effect.  Thereafter, the
+      sentence is active if and only if it is still in effect and
+      sentences of the same type on the same question on sentencing
+      have been active for a total duration less than the tariff.  The
+      CotC's report includes the status of all active judgements.
+
+      The valid sentences are:
+
+      * DISCHARGE, appropriate only in extraordinary circumstances, if
+        any available non-null punishment would be manifestly unjust.
+        Has no effect.
+
+      * APOLOGY with a set of up to ten words (the prescribed words),
+        appropriate for rule breaches of small consequence.  When in
+        effect, the ninny SHALL within 72 hours publish a formal
+        apology of at least 200 words, including all the prescribed
+        words, explaining eir error, shame, remorse, and ardent desire
+        for self-improvement.  The ninny is only obliged to publish
+        one apology per question on sentencing, even if sentences of
+        this type are assigned more than once or go into effect more
+        than once.
+
+      * CHOKEY with a duration (the tariff) up to 60 days multiplied
+        by the power of the highest-power rule allegedly broken,
+        appropriate if the severity of the rule breach is reasonably
+        correlated with the length of the tariff, the middle of the
+        tariff range being appropriate for rule breaches of
+        intermediate severity.  While a sentence of this type is
+        active, the ninny is in the chokey.  No entity is in the
+        chokey except as required by this rule.
+
+      * EXILE with a duration (the tariff) up to 60 days multiplied by
+        the power of the highest-power rule allegedly broken,
+        appropriate if the severity of the rule breach is reasonably
+        correlated with the length of the tariff, the middle of the
+        tariff range being appropriate for severe rule breaches
+        amounting to a breach of trust.  While a sentence of this type
+        is active, the ninny is exiled.  No entity is exiled except as
+        required by this rule.  If an exiled entity is ever a player,
+        e is deregistered.  An exiled entity CANNOT register.
+
+      An appeal concerning any assignment of judgement in a criminal
+      case within the past week, other than an assignment caused by a
+      judgement in an appeal case, CAN be initiated by the defendant
+      by announcement.
 
 History:
-Initial Mutable Rule 215, Jun. 30 1993
-Amended by Proposal 408 (Alexx), Sep. 3 1993
-Amended(1) by Proposal 1383, Jan. 17 1995
-Amended(2) by Proposal 1500, Mar. 24 1995
-Amended(3) by Proposal 2457, Feb. 16 1996
-Amended(4) by Proposal 2587, May 1 1996
-Amended(5) by Proposal 2830 (Murphy), Mar. 7 1997, cosmetic
+Created by Proposal 1682, Aug. 22 1995
+Amended(1) by Proposal 2570, Apr. 12 1996
+Amended(2) by Proposal 2677, Sep. 26 1996
+Infected and Amended(3) by Rule 1454, Jan. 8 1997, substantial
   (unattributed)
-Infected and Amended(6) by Rule 1454, Aug. 14 1997, susbstantial
+Amended(4) by Proposal 3452 (Steve), Apr. 7 1997, substantial
+Amended(5) by Proposal 3533 (General Chaos), Jul. 15 1997, substantial
+Amended(6) by Proposal 3704 (General Chaos), Mar. 19 1998
+Amended(7) by Proposal 4406 (Murphy), 30 October 2002
+Amended(8) by Proposal 4867 (Goethe), 27 August 2006
+Amended(9) by Proposal 4887 (Murphy), 22 January 2007
+Retitled by Proposal 5086 (Zefram), 23 July 2007
+Power changed from 1 to 1.7 by Proposal 5086 (Zefram), 23 July 2007
+Amended(10) by Proposal 5086 (Zefram), 23 July 2007
+
+----------------------------------------------------------------------
+
+Rule 911/16 (Power=1.7)
+Appeal Cases
+
+      There is a subclass of judicial case known as an appeal case.
+      An appeal case's purpose is to determine the appropriateness of
+      a judgement that has been assigned to a judicial question, and
+      make remedy if the judgement was poorly chosen.  The assignment
+      of judgement being questioned (appealed against, or appealed) is
+      referred to as the prior assignment; the word "prior" in this
+      rule is used to refer to the circumstances of the prior
+      assignment.
+
+      An appeal concerning any assignment of judgement in a non-appeal
+      case within the past two weeks, other than an assignment caused
+      by a judgement in an appeal case, CAN be initiated by any player
+      with 2 support.
+
+      The entities qualified to be assigned as judge of an appeal case
+      are the judicial panels consisting of three members, where each
+      of the members is qualified to be assigned as judge of the prior
+      case and none of the members is the prior judge.
+
+      An appeal case has a judicial question on disposition, which is
+      applicable if and only if the prior question is applicable.  The
+      valid judgements for the question on disposition are:
+
+      * AFFIRM, appropriate if the prior judgement was appropriate for
+        the prior question
+
+      * REMAND, appropriate if there is serious doubt about the
+        appropriateness of the prior judgement but the judge believes
+        that the judge of the prior case can make a better judgement
+        if given a new opportunity
+
+      * REASSIGN, appropriate if there is serious doubt about the
+        appropriateness of the of the prior judgement
+
+      * OVERRULE with a valid replacement judgement for the prior
+        question, appropriate if the prior judgement was inappropriate
+        in the prior question and the replacement judgement is
+        appropriate for the prior question
+
+      Initiation of an appeal case renders the prior question
+      suspended.  It remains suspended as long as the question on
+      disposition in the appeal case has no judgement.  When the
+      question on disposition has a judgement, things happen according
+      to that judgement:
+
+      * if AFFIRM, the prior judgement is assigned to the prior
+        question again
+
+      * if REMAND, the prior question is rendered open again
+
+      * if REASSIGN, the judge of the prior case (if any) is recused,
+        and the prior question is rendered open again
+
+      * if OVERRULE with a replacement judgement, the replacement
+        judgement is assigned to the prior question
+
+History:
+Created by Proposal 384 (Alexx), Aug. 16 1993
+Amended by Proposal 690 (Ronald Kunne), Nov. 11 1993
+Amended by Proposal 911, May 4 1994
+Amended by Rule 750, May 4 1994
+Amended(1) by Proposal 1345, Nov. 29 1994
+Amended(2) by Proposal 1487, Mar. 15 1995
+Amended(3) by Proposal 1511, Mar. 24 1995
+Amended(4) by Proposal 2457, Feb. 16 1996
+Amended(5) by Proposal 2553, Mar. 22 1996
+Amended(6) by Proposal 2685, Oct. 3 1996
+Amended(7) by Proposal 3532 (General Chaos), Jul. 15 1997, cosmetic
   (unattributed)
-Amended(7) by Rule 408, Aug. 28 1997, substantial
-Amended(8) by Proposal 3629 (General Chaos), Dec. 29 1997, substantial
-Amended(9) by Proposal 3645 (elJefe), Dec. 29 1997
-Amended(10) by Proposal 3823 (Oerjan), Jan. 21 1999
-Amended(11) by Proposal 3897 (harvel), Aug. 27 1999
-Amended(12) by Proposl 3962 (Wes), Jan. 20 2000
-Amended(13) by Proposal 4011 (Wes), Jun. 1 2000
-Amended(14) by Proposal 4076b (Steve), Oct. 10 2000
-Amended(15) by Proposal 4298 (Murphy), 17 May 2002
-Amended(16) by Proposal 4670 (OscarMeyr), 9 April 2005
-Amended(17) by Proposal 4808 (Murphy), 15 June 2005
-Amended(18) by Proposal 4867 (Goethe), 27 August 2006
+Amended(8) by Proposal 3559 (Murphy), Oct. 24 1997, susbtantial
+Amended(9) by Proposal 4213 (Taral), 29 September 2001
+Amended(10) by Proposal 4278 (harvel), 3 April 2002
+Amended(11) by Proposal 4298 (Murphy), 17 May 2002
+Amended(12) by Proposal 4579 (Murphy), 15 June 2004
+Amended(13) by Proposal 4825 (Maud), 17 July 2005
+Amended(14) by Proposal 4867 (Goethe), 27 August 2006
+Amended(15) by Proposal 5051 (Zefram), 5 July 2007
+Retitled by Proposal 5086 (Zefram), 23 July 2007
+Power changed from 1 to 1.7 by Proposal 5086 (Zefram), 23 July 2007
+Amended(16) by Proposal 5086 (Zefram), 23 July 2007
 
 ----------------------------------------------------------------------
 
@@ -2981,387 +3099,6 @@ Amended(5) by Proposal 4867 (Goethe), 27 August 2006
 
 ----------------------------------------------------------------------
 
-Rule 1575/6 (Power=1)
-Standards of Proof
-
-      Unless otherwise specified, all Judgements shall be consistent
-      with the preponderance of the evidence.
-
-      A defendant may not be assessed punitive damages for Rules
-      Violations any worse than a formal apology, unless a Judge finds
-      that evidence for the violation is beyond a reasonable doubt.
-
-      The published Report of an Officer constitutes prima facie
-      evidence of the truth of those matters reported therein which
-      that Officer is required by law to report.  This presumption may
-      be set aside only by clear and convincing evidence to the
-      contrary.
-
-History:
-Created by Proposal 2469, Feb. 16 1996
-Amended(1) by Proposal 3603 (General Chaos), Dec. 9 1997, substantial
-Amended(2) by Proposal 3653 (General Chaos), Jan. 1 1998
-Amended(3) by Proposal 3823 (Oerjan), Jan. 21 1999
-Amended(4) by Proposal 3968 (Harvel), Feb. 4 2000
-Amended(5) by Proposal 4298 (Murphy), 17 May 2002
-Amended(6) by Proposal 4867 (Goethe), 27 August 2006
-
-----------------------------------------------------------------------
-
-Rule 1565/10 (Power=1)
-Dismissal of a CFJ
-
-      A Judgement of DISMISSED should be delivered if and only if one
-      or more of the following is true:
-
-        i) The CFJ does not contain a single clearly-identified
-           Statement.
-
-       ii) After a reasonable effort to obtain all relevant
-           information, the Judge can neither determine the Statement
-           to be true nor determine it to be false.
-
-      iii) The Statement does not relate to a matter relevant to the
-           Rules.
-
-       iv) The CFJ lacks standing, as defined elsewhere.
-
-History:
-Created by Proposal 2457, Feb. 16 1996
-Amended(1) by Proposal 2662, Sep. 12 1996
-Amended(2) by Proposal 2683, Oct. 3 1996
-Amended(3) by Proposal 2710, Oct. 12 1996
-Amended(4) by Proposal 3563 (General Chaos), Oct. 24 1997, substantial
-Amended(5) by Proposal 3574 (Kolja A.), Oct. 30 1997, cosmetic
-  (unattributed)
-Amended(6) by Proposal 3645 (elJefe), Dec. 29 1997
-Amended(7) by Proposal 3897 (harvel), Aug. 27 1999
-Amended(8) by Proposal 4140 (Wes), Apr. 15 2001
-Amended(9) by Proposal 4147 (Wes), 13 May 2001
-Amended(10) by Proposal 4298 (Murphy), 17 May 2002
-
-----------------------------------------------------------------------
-
-Rule 1826/2 (Power=1)
-Motions
-
-      A motion is a formal request made by a player to the judge of a
-      CFJ.  A motion is made by announcement, which must clearly
-      identify the CFJ to which the motion applies.
-
-      The judge of a CFJ must either grant or deny each motion that
-      applies to that CFJ within five days of it being made.  If a
-      judge fails to grant or deny an applicable motion within five
-      days of it being made, the Clerk of the Courts shall recuse the
-      judge and assign a new one.  If a motion is made after a case
-      has been judged, and the original judge of that case is not
-      active or is not a player, then the Clerk of the Courts shall
-      assign a new judge.
-
-      A judge grants or denies a motion by publishing eir
-      determination, along with any arguments, evidence, or other
-      material that e considers relevant.  The effect of granting a
-      motion depends on its nature, but generally amounts to requiring
-      the judge to perform as requested by the motion.  A denied
-      motion has no further effect.
-
-History:
-Created by Proposal 3704 (General Chaos), Mar. 19 1998
-Amended(1) by Proposal 4867 (Goethe), 27 August 2006
-Amended(2) by Proposal 5068 (Zefram), 11 July 2007
-
-----------------------------------------------------------------------
-
-Rule 1365/11 (Power=1)
-Concurring and Dissenting Opinions
-
-      A player may submit a Concurring or Dissenting opinion for a
-      given CFJ trial or appeals decision with 1 Support. The opinion
-      must reference the CFJ in question and clearly indicate that it
-      is an opinion to be appended to that CFJ. The opinion should be
-      accompanied by reasons or arguments. The Clerk of the Courts
-      shall append any properly submitted opinion to the CFJ in
-      question, along with a list of the Player who submitted  that
-      opinion and the player(s) who supported it.
-
-History:
-Created by Proposal 1365, Jan. 5 1995
-Amended(1) by Proposal 1644, Aug. 1 1995
-Amended(2) by Proposal 1734, Oct. 15 1995
-Amended(3) by Proposal 1754, Oct. 21 1995
-Infected and Amended(4) by Rule 1454, Nov. 4 1996
-Amended(5) by Proposal 2750 (Chuck), Nov. 18 1996, substantial
-Amended(6) by Proposal 3531 (General Chaos), Jul. 15 1997, cosmetic
-  (unattributed)
-Amended(7) by Proposal 4159 (Kelly), 5 June 2001
-Amended(8) by Proposal 4298 (Murphy), 17 May 2002
-Amended(9) by Proposal 4867 (Goethe), 27 August 2006
-Amended(10) by Proposal 4887 (Murphy), 22 January 2007
-Amended(11) by Proposal 5025 (BobTHJ), 25 June 2007
-
-----------------------------------------------------------------------
-
-======================================================================
-Overturning Judgement
-      A category concerning the appeal of judicial cases, overturning
-      of judgements, and other effects of appellate hearings.
-----------------------------------------------------------------------
-
-Rule 1564/15 (Power=1)
-Initiating Appeals
-
-      The following are subject to Appeal:
-
-        a) The Judgement of a Trial Judge.
-        b) The grant or denial of a Motion.
-        c) The execution of a Judicial Order.
-        d) A claim that a Trial Judge has failed to perform a required
-           judicial duty.
-
-      A subject is Appealed when any of the following occurs:
-
-        i) Three Players Appeal it.
-       ii) A Player Appeals a Judicial Order binding em.
-      iii) A Player Appeals a Trial Judgement convicting em of a
-           Crime.
-
-      A single subject (e.g. a specific judgement, motion, or order)
-      may only be appealed once.
-
-      As soon as possible after an Appeal is initiated, or a Player
-      becomes or ceases to be an Appellate judge, the Clerk of the
-      Courts shall announce the event.
-
-      An Appeal may be accompanied by Arguments, Evidence, or other
-      related material; the Board of Appeals is encouraged, but not
-      required, to take notice of these things.
-
-[CFJ 1273 (called 13 February 2001): dismissal of a CFJ is subject to
-Appeal.]
-
-History:
-Created by Proposal 2457, Feb. 16 1996
-Infected and Amended(1) by Rule 1454, May 19 1996
-Amended(2) by Proposal 2685, Oct. 3 1996
-Amended(3) by Proposal 2830 (Murphy), Mar. 7 1997, cosmetic
-  (unattributed)
-Amended(4) by Proposal 3454 (Harlequin), Apr. 7 1997, substantial
-Amended(5) by Proposal 3455 (Andre), Apr. 7 1997, substantial
-Amended(6) by Proposal 3479 (Andre), May 11 1997, substantial
-Amended(7) by Proposal 3489 (Zefram), May 19 1997, cosmetic
-  (unattributed)
-Amended(8) by Proposal 3509 (Harlequin), Jun. 16 1997, substantial
-Amended(9) by Proposal 3704 (General Chaos), Mar. 19 1998
-Amended(10) by Proposal 4147 (Wes), 13 May 2001
-Amended(11) by Proposal 4298 (Murphy), 17 May 2002
-Amended(12) by Proposal 4406 (Murphy), 30 October 2002
-Amended(13) by Proposal 4867 (Goethe), 27 August 2006
-Amended(14) by Proposal 4937 (Murphy), 29 April 2007
-Amended(15) by Proposal 5017 (Zefram), 24 June 2007
-
-----------------------------------------------------------------------
-
-Rule 911/15 (Power=1)
-The Board of Appeals
-
-      When an Appeal is initiated, a Board of Appeals shall be
-      selected to reach a decision about the subject of the Appeal.  A
-      Board of Appeals consists of three Appellate Judges.  Any Judge
-      assigned according to this Rule is an Appellate Judge.
-
-      A Board of Appeals is selected when the Clerk of the Courts
-      correctly announces the identity of all Appellate Judges,
-      determined as follows:
-
-        a) The Speaker is selected, if eligible.
-        b) The Clerk of the Courts is selected, if eligible.
-        c) Any remaining positions are filled by selection by the
-           Clerk of the Courts from all remaining eligible Players.
-
-      A Player is ineligible for selection if any of the following is
-      true:
-
-        i) E has already been selected for that Board.
-       ii) E has been dismissed from that Board.
-      iii) E has been Trial Judge of the subject of the Appeal.
-       iv) E is ineligible to Judge the CFJ at the time of selection.
-
-      An Appellate Judge may appoint another eligible Player as eir
-      replacement by informing the Clerk of the Courts, provided the
-      Player consents.
-
-      As soon as possible after an Appellate Judge is recused, the
-      Clerk of the Courts shall select an eligible Player to replace
-      em.
-
-      The last Appellate Judge selected is the Lead Judge for that
-      Board.  If the Lead Judge is replaced, then the replacement
-      becomes Lead Judge.
-
-History:
-Created by Proposal 384 (Alexx), Aug. 16 1993
-Amended by Proposal 690 (Ronald Kunne), Nov. 11 1993
-Amended by Proposal 911, May 4 1994
-Amended by Rule 750, May 4 1994
-Amended(1) by Proposal 1345, Nov. 29 1994
-Amended(2) by Proposal 1487, Mar. 15 1995
-Amended(3) by Proposal 1511, Mar. 24 1995
-Amended(4) by Proposal 2457, Feb. 16 1996
-Amended(5) by Proposal 2553, Mar. 22 1996
-Amended(6) by Proposal 2685, Oct. 3 1996
-Amended(7) by Proposal 3532 (General Chaos), Jul. 15 1997, cosmetic
-  (unattributed)
-Amended(8) by Proposal 3559 (Murphy), Oct. 24 1997, susbtantial
-Amended(9) by Proposal 4213 (Taral), 29 September 2001
-Amended(10) by Proposal 4278 (harvel), 3 April 2002
-Amended(11) by Proposal 4298 (Murphy), 17 May 2002
-Amended(12) by Proposal 4579 (Murphy), 15 June 2004
-Amended(13) by Proposal 4825 (Maud), 17 July 2005
-Amended(14) by Proposal 4867 (Goethe), 27 August 2006
-Amended(15) by Proposal 5051 (Zefram), 5 July 2007
-
-----------------------------------------------------------------------
-
-Rule 1447/21 (Power=1)
-Final Judgement upon Appeal
-
-      For an Appellate Judge assigned to the Appeal of a Judgement,
-      a Judgement is exactly one of the following: SUSTAIN, REVERSE,
-      REASSIGN, or REMAND.  For the appeal of other matters, a Judgement
-      is exactly one of the following: SUSTAIN or OVERTURN.  Other Rules
-      may modify this based on the subject of the Appeal.
-
-      If a Judgement of TRUE or FALSE is Appealed, the Board of
-      Appeals shall consider the correctness of that Judgement.  If a
-      Judgement of DISMISSED is Appealed, the Board shall not consider
-      the truth or falsity of the original CFJ; they shall only
-      consider whether a Judgement of DISMISSED should have been
-      delivered.
-
-      If a majority of the Appellate Judges Judge SUSTAIN, then the
-      subject of the Appeal is sustained.  Otherwise, it is overturned.
-      The Board of Appeals shall execute whatever Appellate Orders are
-      necessary to enforce its determination.
-
-      When a Judgement is overturned:
-
-      a) If a majority of the Appellate Judges Judge REVERSE, then the
-         CFJ shall be treated as if it were Judged normally, with the
-         Judgement being that which a majority of the Appellate Judges
-         agree on.
-
-      b) If a majority of the Appellate Judges Judge REMAND, then the
-         original Judgement shall be ignored, and the Clerk of the
-         Courts shall reassign the CFJ to the original Judge as if it
-         were being originally assigned. The Judge may not make the
-         same Judgement for the same reason.
-
-      c) Otherwise, the original Judgement is ignored, the original
-         Judge is recused, and the Clerk of the Courts shall reassign
-         the CFJ to a new Judge in the same fashion as it was
-         originally assigned. The new Judge cannot make the same
-         Judgement as the original Judge for the same reason.
-
-      A Board of Appeals is not considered to have returned a
-      Judgement until all of its members have submitted eir
-      Judgements.  As soon as possible after this happened, the Clerk
-      of the Courts shall announce the Board's decision.
-
-History:
-Created by Proposal 1511, Mar. 24 1995
-Amended(1) by Proposal 1656, Aug. 14 1995
-Infected and Amended(2) by Rule 1454, Sep. 10 1995
-Amended(3) by Proposal 2457, Feb. 16 1996
-Amended(4) by Proposal 2553, Mar. 22 1996
-Amended(5) by Proposal 2662, Sep. 12 1996
-Amended(6) by Proposal 2685, Oct. 3 1996
-Amended(7) by Proposal 2710, Oct. 12 1996
-Amended(8) by Proposal 2830 (Murphy), Mar. 7 1997, cosmetic
-  (unattributed)
-Amended(9) by Proposal 3473 (Harlequin), May 2 1997, substantial
-  (unattributed)
-Amended(10) by Proposal 3532 (General Chaos), Jul. 15 1997, cosmetic
-  (unattributed)
-Amended(11) by Proposal 3645 (elJefe), Dec. 29 1997
-Amended(12) by Proposal 3823 (Oerjan), Jan. 21 1999
-Amended(13) by Proposal 3897 (harvel), Aug. 27 1999
-Amended(14) by Proposal 3998 (harvel), May 2 2000
-Amended(15) by Proposal 4109 (Steve), Feb. 13 2001
-Amended(16) by Proposal 4147 (Wes), 13 May 2001
-Amended(17) by Proposal 4298 (Murphy), 17 May 2002
-Amended(18) by Proposal 4825 (Maud), 17 July 2005
-Amended(19) by Proposal 4867 (Goethe), 27 August 2006
-Amended(20) by Proposal 4887 (Murphy), 22 January 2007
-Amended(21) by Proposal 5057 (root), 5 July 2007
-
-----------------------------------------------------------------------
-
-Rule 1804/4 (Power=1)
-Appeal of Judicial and Sentencing Orders
-
-      As soon as possible after a Judicial Order is Appealed, the
-      Clerk of the Courts shall stay it.  If the Appeal is sustained,
-      then the Board of Appeals shall vacate this stay as soon as
-      possible.  If the Appeal is overturned, then the Board of
-      Appeals shall vacate the stayed Order as soon as possible.
-
-      In the Appeal of a Judicial Order, the Board of Appeals shall
-      consider whether the Order was properly and validly executed.
-
-History:
-Created by Proposal 3704 (General Chaos), Mar. 19 1998
-Amended(1) by Proposal 4298 (Murphy), 17 May 2002
-Amended(2) by Proposal 4406 (Murphy), 30 October 2002
-Amended(3) by Proposal 4867 (Goethe), 27 August 2006
-Amended(4) by Proposal 5017 (Zefram), 24 June 2007
-
-----------------------------------------------------------------------
-
-Rule 1805/3 (Power=1)
-Appellate Orders
-
-      Appellate Orders are executed by being published by the Lead
-      Judge of a Board of Appeals.  The Lead Judge must certify in the
-      execution that the order is executed by the concurrence of the
-      majority of the Justices comprising that Board of Appeals;
-      failure to do so deprives the Order of effect.
-
-      Appellate Orders are not subject to appeal.  However, upon a
-      judicial finding that the required certification was falsely
-      provided, the Clerk of the Courts shall vacate the Order which
-      was accompanied by that false certification.
-
-      Appellate Orders are valid only if addressed to:
-        a) The Clerk of the Courts in eir Official capacity;
-        b) an Order issued by the Clerk of the Courts in eir Official
-           Capacity;
-        c) The Judge of the CFJ which that Board of Appeals was
-           convened to consider, or any Order issued by that Judge in
-           that particular CFJ; or
-        d) any combination of the above.
-      All other Appellate Orders are presumptively invalid.
-
-      The Clerk of the Courts shall publish each Appellate Order as
-      soon as possible after receiving it from the Board of Appeal
-      which executed it.
-
-      This Rule takes precedence over all Rules pertaining to the
-      validity of Appellate Orders.
-
-History:
-Created by Proposal 3704 (General Chaos), Mar. 19 1998
-Amended(1) by Proposal 4298 (Murphy), 17 May 2002
-Amended(2) by Proposal 4867 (Goethe), 27 August 2006
-Amended(3) by Proposal 5068 (Zefram), 11 July 2007
-
-----------------------------------------------------------------------
-
-======================================================================
-Rule Violations
-      A category concerning sentencing of persons found to have
-      violated the rules.
-----------------------------------------------------------------------
-
 Rule 1503/6 (Power=3)
 Rules Violations
 
@@ -3389,99 +3126,6 @@ Amended(4) by Proposal 3704 (General Chaos), Mar. 19 1998
 Amended(5) by Proposal 4152 (Murphy), 13 May 2001
 Power changed from 1 to 3 by Proposal 4867 (Goethe), 27 August 2006
 Amended(6) by Proposal 4867 (Goethe), 27 August 2006
-
-----------------------------------------------------------------------
-
-Rule 1504/9 (Power=1)
-Sentencing Orders
-
-      Upon a finding in a Civil CFJ that the defendant has broken one
-      or more Rules, the Trial Judge must execute exactly one of the
-      following types of sentencing orders as punitive damages:
-
-      (1) Without Objection and with 1 Support, an order the defendant
-          to make a formal apology;
-
-      (2) Without 2 Objections and with 2 Supporters, an order for the
-          defendant to perform a specified service for the benefit of the
-          Agoran community proportionate to the seriousness of the breach;
-
-      (3) An order for the Herald to place the defendant in the Chokey
-          for a number of months equal to the power of the highest
-          powered Rule that was broken;
-
-      (4) If and only if the trial judge finds the defendant to have
-          acted willfully in breaking the rules, an order for the Herald
-          to place the defendant in the Chokey for twice number of months
-          equal to the power of the highest-powered Rule that was broken;
-
-      (5) If and only if the judge finds the defendant to have acted
-          egregiously, maliciously, or with a consistent pattern of
-          abuse, with Agoran Consent, an order for the Registrar to
-          deregister the defendant in disgrace (make em lawless).  An
-          order to be made lawless is automatically appealed upon its
-          initial execution.
-
-      These punishments are considered ranked with "worse" punishments
-      being later in the list.
-
-      If an attempted sentencing order does not receive the proper
-      support or receives too many objections, the trial judge must
-      execute another type of sentencing order.
-
-      No other punitive damages may be assessed for Rules violations.
-
-History:
-Created by Proposal 1682, Aug. 22 1995
-Amended(1) by Proposal 2570, Apr. 12 1996
-Amended(2) by Proposal 2677, Sep. 26 1996
-Infected and Amended(3) by Rule 1454, Jan. 8 1997, substantial
-  (unattributed)
-Amended(4) by Proposal 3452 (Steve), Apr. 7 1997, substantial
-Amended(5) by Proposal 3533 (General Chaos), Jul. 15 1997, substantial
-Amended(6) by Proposal 3704 (General Chaos), Mar. 19 1998
-Amended(7) by Proposal 4406 (Murphy), 30 October 2002
-Amended(8) by Proposal 4867 (Goethe), 27 August 2006
-Amended(9) by Proposal 4887 (Murphy), 22 January 2007
-
-----------------------------------------------------------------------
-
-Rule 908/16 (Power=1)
-Formal Apologies
-
-      A sentencing order may require a defendant (hereafter the Ninny)
-      to publish a Formal Apology.
-
-      A Formal Apology must be at least 200 words, and must explain
-      the Ninny's error, shame, remorse, and ardent desire for
-      self-improvement.  Furthermore, the Order to Apologize may
-      include up to ten Prescribed Words of the Judge's choice, all of
-      which must appear in the Formal Apology.
-
-      A defendant must obey an Order to Apologize within 72 hours of
-      its execution.
-
-History:
-Created by Proposal 781, ca. Dec. 20 1993
-Amended by Proposal 908, May 4 1994
-Amended by Rule 750, May 4 1994
-Amended(1) by Proposal 1362, Dec. 13 1994
-Amended(2) by Proposal 1382, Jan. 17 1995
-Amended(3) by Proposal 1500, Mar. 24 1995
-Amended(4) by Proposal 1734, Oct. 15 1995
-Amended(5) by Proposal 2432, Jan. 30 1996
-Infected and Amended(6) by Rule 1454, Apr. 1 1996
-Amended(7) by Proposal 2789 (favor), Jan. 25 1997, substantial
-Amended(8) by Proposal 3452 (Steve), Apr. 7 1997, substantial
-Infected and Amended(9) by Rule 1454, Nov. 11 1997, substantial
-  (unattributed)
-Amended(10) by Rule 908, Nov. 25 1997, substantial
-Amended(11) by Proposal 3704 (General Chaos), Mar. 19 1998
-Amended(12) by Proposal 4147 (Wes), 13 May 2001
-Amended(13) by Proposal 4155 (harvel), 18 May 2001
-Amended(14) by Proposal 4298 (Murphy), 17 May 2002
-Amended(15) by Proposal 4406 (Murphy), 30 October 2002
-Amended(16) by Proposal 4867 (Goethe), 27 August 2006
 
 ----------------------------------------------------------------------
 
@@ -3633,127 +3277,31 @@ Power changed from 1 to 1.5 by Proposal 5085 (Zefram), 23 July 2007
 
 ----------------------------------------------------------------------
 
-Rule 2129/1 (Power=1)
-Dishonor Rolls
-
-      When the Herald is ordered to place someone in the Chokey, e
-      shall publically award em the patent title "In the Chokey".
-
-      This title shall be automatically revoked after a length of time
-      indicated by the sentencing order, and the Herald shall announce
-      the revocation.  If a sentencing order is executed against a
-      defendant who already holds this title, the length of time of
-      the new sentencing order shall be added to the time left on any
-      previous ones.
-
-      A person is considered to be In Disgrace while in the Chokey,
-      between the execution and satisfaction of any sentencing orders
-      binding em, or if deregistered for lawlessness.  A person who
-      leaves the game in disgrace shall be awarded the Patent Title
-      Fugitive by the Herald.  A Player may revoke the title Fugitive
-      from emself as long as e is no longer in Disgrace.  A non-player
-      may have this title revoked by Agoran Consent.
-
-      The rules may further specify actions prohibited to persons in
-      particular types of disgrace.
-
-      The Herald is encouraged to publish lists of those in disgrace
-      separate from patent titles of honor, to indicate the disgrace.
-
-History:
-Created by Proposal 4879 (Murphy), 22 January 2007
-Amended(1) by Proposal 5027 (Zefram), 28 June 2007
-
-----------------------------------------------------------------------
-
 ======================================================================
 Contract Law
       A category concerning binding agreements that can be adjudicated
       within this nomic.
 ----------------------------------------------------------------------
 
-Rule 1742/8 (Power=1)
-Agreements
+Rule 1742/9 (Power=1.5)
+Contracts
 
-      Persons may make agreements among themselves with the intention
-      that such agreements will be binding; i.e. that they become
-      parties to the agreement and agree to be bound by the agreement.
+      Any group of two or more persons may make an agreement among
+      themselves with the intention that it be binding upon them and
+      be governed by the rules.  Such an agreement is known as a
+      contract.  A contract may be modified, including changing the
+      set of parties, by agreement between all parties.  A contract
+      may also terminate by agreement between all parties.  A contract
+      automatically terminates if the number of parties to it falls
+      below two.
 
-      A CFJ that alleges that a specific person (the defendant) has
-      broken an agreement is a Civil CFJ, for which the caller is the
-      plaintiff.
-
-      The defendant of a Civil CFJ is automatically barred from
-      judging it.  The plaintiff may bar one other player when e
-      submits the CFJ, but is not otherwise at that time permitted or
-      able to bar any players from judging the CFJ, any rule to the
-      contrary notwithstanding.  The defendant may bar one other
-      player from judging, any time before the CFJ is assigned to a
-      judge.
-
-      Any evidence or arguments, published or submitted to the CotC by
-      the defendant of a Civil CFJ with the clear intent of being part
-      of a defense, any time before the CFJ is assigned to a judge,
-      will become part of the material of that CFJ.
-
-      When a Civil CFJ is submitted, the Clerk of the Courts shall as
-      soon as possible send a copy of the CFJ to the defendant and
-      inform the defendant that e has one week to publish a defense
-      and/or bar a Player from judging. The CotC is prohibited from
-      assigning a Trial Judge to a Civil CFJ until one week has passed
-      since e notified the defendant of this, and is not obliged to
-      assign a Trial Judge during this time, any rule to the contrary
-      notwithstanding.  Starting from one week after the CotC has
-      notified the defendant, the CotC is obliged to assign a Trial
-      Judge as soon as possible, and this assignment shall in all
-      other respects be governed by the usual rules for assignment of
-      judges.
-
-      If the judge of a Civil CFJ finds that the agreement was entered
-      into with the intention that the agreement be binding, and that
-      the agreement has in fact been broken, then e may do any or all
-      of the following:
-
-         (i) order the defendant to perform according to the agreement
-             or perform substitute acts that would fairly serve the
-             interests of the agreement;
-
-        (ii) order the other parties of the agreement to perform such
-             acts as may be necessary to preserve fairness and
-             justice;
-
-       (iii) order that additional ("punitive") penalties or actions
-             be applied to the defendant, if and only if the agreement
-             in question explicitly specifies punitive penalties for
-             the type of breach.
-
-      A Civil CFJ that specifies multiple defendants, or multiple
-      independent breaches of contract, is improperly made and shall
-      be dismissed.
-
-      Nothing in this rule shall be construed so as to impair the
-      enforcement of an agreement which requires a person to violate
-      another agreement.
-
-[CFJ 1658 (called 11 May 2007): The word "contract" is by default a
-synonym for "binding agreement".]
-
-[CFJ 1682 (called 23 May 2007): A binding agreement under rule 1742
-cannot be made among a set of exactly one player.]
-
-[CFJ 1683 (called 23 May 2007): A binding agreement under rule 1742
-cannot be made among a set of exactly zero players (the empty set).]
+      Parties to a contract governed by the rules SHALL act in
+      accordance with that contract.  This obligation is not impaired
+      by contradiction between the contract and any other contract, or
+      between the contract and the rules.
 
 [CFJ 1686 (called 7 June 2007): A person who is not a party to an
 agreement categorically cannot violate it.]
-
-[CFJs 1666-1667 (called 14 May 2007): Where two binding agreements
-each construct a partnership, the partnerships have distinct
-identities even if the set of partners is the same.]
-
-[CFJ 1668 (called 14 May 2007): Where a binding agreement constructs a
-partnership and allows the set of partners to change, the identity of
-the partnership remains the same across changes of partners.]
 
 History:
 Created by Proposal 3558 (General Chaos), Oct. 24 1997
@@ -3766,6 +3314,9 @@ Amended(5) by Proposal 4987 (BobTHJ), 6 June 2007
 Amended(6) by Proposal 5009 (Zefram), 18 June 2007
 Amended(7) by Proposal 5028 (Zefram), 28 June 2007
 Amended(8) by Proposal 5040 (Zefram), 28 June 2007
+Retitled by Proposal 5086 (Zefram), 23 July 2007
+Power changed from 1 to 1.5 by Proposal 5086 (Zefram), 23 July 2007
+Amended(9) by Proposal 5086 (Zefram), 23 July 2007
 
 ----------------------------------------------------------------------
 
