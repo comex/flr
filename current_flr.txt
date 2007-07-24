@@ -1632,6 +1632,12 @@ Separation of Powers
 
       This rule takes precedence over all rules governing offices.
 
+[CFJ 1705 (called 18 July 2007): It is possible for a person to hold
+two "mutually exclusive" positions simultaneously, albeit only for an
+infinitesemal period, because rule 1450 does not prevent this
+situation arising but removes the person from one of the positions
+when the situation has occurred.]
+
 History:
 Created by Proposal 1547, Apr. 14 1995
 Amended(1) by Proposal 2442, Feb. 6 1996
