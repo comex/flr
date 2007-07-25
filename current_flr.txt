@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5086
+Last proposal with recorded effect on this ruleset: 5088
 
 ----------------------------------------------------------------------
 
@@ -1303,7 +1303,7 @@ Amended(19) by Proposal 5070 (Zefram), 11 July 2007
 
 ----------------------------------------------------------------------
 
-Rule 1006/18 (Power=1)
+Rule 1006/19 (Power=1)
 Offices
 
       The Rules may designate positions to be offices.  No office may
@@ -1322,9 +1322,9 @@ Offices
       information.  A weekly report shall be sufficient to satisfy
       these last two requirements.
 
-      If an officer fails to satisfy a Timing Order to perform a
-      certain official duty, than the player who executed the order
-      may perform the duty as if e were the officer.
+      If a Timing Order directed at an office is not satisfied on
+      time, or if the office is vacant, then the player who executed
+      the order may perform the duty as if e held that office.
 
 [CFJ 1660 (called 13 May 2007): this rule does not define the meaning
 of the term "office", in the sense meant by rule 754, but rather
@@ -1356,6 +1356,7 @@ Amended(15) by Proposal 4980 (Murphy), 31 May 2007
 Amended(16) by Proposal 5029 (Murphy), 28 June 2007
 Amended(17) by Proposal 5059 (Zefram, Goethe), 9 July 2007
 Amended(18) by Proposal 5070 (Zefram), 11 July 2007
+Amended(19) by Proposal 5088 (Murphy), 25 July 2007
 
 ----------------------------------------------------------------------
 
