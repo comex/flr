@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5096
+Last proposal with recorded effect on this ruleset: 5097
 
 ----------------------------------------------------------------------
 
@@ -2276,7 +2276,7 @@ Created by Proposal 4930 (Goethe), 29 April 2007
 
 ----------------------------------------------------------------------
 
-Rule 2126/13 (Power=2)
+Rule 2126/14 (Power=2)
 Voting Credits
 
       Voting Credits (VCs) are a measure of each player's ability to
@@ -2344,6 +2344,9 @@ Voting Credits
       d) A player may spend three VCs of different colors to decrease
          another player's VVLOP by ten percent.
 
+      e) A player may spend two VCs of the same color to make another
+         player gain one VC of that color.
+
 History:
 Created by Proposal 4872 (OscarMeyr), 26 October 2006
 Amended(1) by Proposal 4884 (Murphy), 22 January 2007
@@ -2360,6 +2363,7 @@ Power changed from 3 to 2 by Proposal 5076 (Murphy), 18 July 2007
 Amended(11) by Proposal 5076 (Murphy), 18 July 2007
 Amended(12) by Proposal 5078 (Zefram), 18 July 2007
 Amended(13) by Proposal 5086 (Zefram), 23 July 2007
+Amended(14) by Proposal 5097 (Zefram), 25 July 2007
 
 ----------------------------------------------------------------------
 
