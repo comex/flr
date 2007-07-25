@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5088
+Last proposal with recorded effect on this ruleset: 5090
 
 ----------------------------------------------------------------------
 
@@ -182,7 +182,7 @@ The Game of Agora
       entities.
 ----------------------------------------------------------------------
 
-Rule 101/6 (Power=3)
+Rule 101/7 (Power=3)
 Agoran Rights and Privileges
 
       The rules may define persons as possessing specific rights or
@@ -199,9 +199,11 @@ Agoran Rights and Privileges
         ii. Every player has the right to perform an action which is
             not regulated.
 
-       iii. Every person has the right to invoke judgement, appeal a
-            judgement, and to initiate an appeal on a sentencing or
-            judicial order binding em.
+       iii. Every person has the right to initiate a formal process to
+            resolve matters of controversy, in the reasonable
+            expectation that the controversy will thereby be resolved.
+            Every person has the right to cause formal reconsideration
+            of any judicial determination that e should be punished.
 
         iv. Every person has the right to refuse to become party to
             a binding agreement.  The absence of a person's explicit,
@@ -229,10 +231,6 @@ Agoran Rights and Privileges
 within a reasonable time may be in violation of the Rules, even if the
 Rules do not provide a time limit for the performance of that duty.]
 
-[CFJ 1627 (called 29 April 2007): The possibility of arbitrary refusal
-of CFJs, preventing them being judged, does not infringe the right to
-invoke judgement.]
-
 History:
 Initial Immutable Rule 101, Jun. 30 1993
 Mutated from MI=Unanimity to MI=3 by Proposal 1480, Mar. 15 1995
@@ -242,6 +240,7 @@ Amended(3) by Proposal 4866 (Goethe), 27 August 2006
 Amended(4) by Proposal 4867 (Goethe), 27 August 2006
 Amended(5) by Proposal 4887 (Murphy), 22 January 2007
 Amended(6) by Proposal 4944 (Zefram), 3 May 2007
+Amended(7) by Proposal 5090 (Zefram), 25 July 2007
 
 ----------------------------------------------------------------------
 
