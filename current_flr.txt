@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5091
+Last proposal with recorded effect on this ruleset: 5096
 
 ----------------------------------------------------------------------
 
@@ -1360,7 +1360,7 @@ Amended(19) by Proposal 5088 (Murphy), 25 July 2007
 
 ----------------------------------------------------------------------
 
-Rule 2154/0 (Power=2)
+Rule 2154/1 (Power=2)
 Replacing Officers
 
       Any Player may make an active Player (hereafter the nominee) the
@@ -1383,12 +1383,13 @@ Replacing Officers
       office holder, meanwhile no further attempt to achieve Agoran
       Consent for the change shall be valid.  The valid options for
       the decision are the nominees, quorum is a minimum of three and
-      the number of active players, eligible voters are the active
-      players, and the vote collector is the IADoP.  In the notice
-      resolving the decision, the IADoP will select one nominee from
-      the set of nominees which each received the largest number of
-      votes; this chosen nominee becomes the officeholder upon the
-      posting of the valid notice.
+      the number of active players (rules to the contrary
+      notwithstanding), eligible voters are the active players, and
+      the vote collector is the IADoP.  In the notice resolving the
+      decision, the IADoP will select one nominee from the set of
+      nominees which each received the largest number of votes; this
+      chosen nominee becomes the officeholder upon the posting of the
+      valid notice.
 
       If no attempt to achieve Agoran Consent for changing the holder
       of a particular office is announced in a given quarter, then the
@@ -1400,6 +1401,7 @@ Replacing Officers
 
 History:
 Created by Proposal 5059 (Zefram, Goethe), 9 July 2007
+Amended(1) by Proposal 5096 (Murphy; disi.), 25 July 2007
 
 ----------------------------------------------------------------------
 
