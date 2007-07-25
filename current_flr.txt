@@ -1,25 +1,25 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5090
+Last proposal with recorded effect on this ruleset: 5091
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 87
+Current total number of rules: 88
 
 Power distribution:
        1 with Power=4
       26 with Power=3
-      19 with Power=2
+      20 with Power=2
        4 with Power=1.7
        3 with Power=1.5
       34 with Power=1
 
 Rule numbers:
        101 is the lowest of any current rule
-      2158 is the highest of any current rule
-      2158 is the highest assigned so far
+      2159 is the highest of any current rule
+      2159 is the highest assigned so far
 
 ----------------------------------------------------------------------
 
@@ -145,6 +145,7 @@ Index of Rules
       Rule 2135: Herald to Advertise
       Rule 2148: Ambassador
       Rule 2147: Protectorates
+      Rule 2159: Protective Decrees
 
       * Trophies
       Rule 2105: The Map of Agora
@@ -3434,34 +3435,34 @@ Amended(1) by Proposal 5035 (Zefram), 28 June 2007
 
 ----------------------------------------------------------------------
 
-Rule 2148/0 (Power=2)
+Rule 2148/1 (Power=2)
 Ambassador
 
-      The Ambassador is an office; Its holder is Agora's liaison to
-      its Protectorates. The Ambassador's report shall include a
-      listing of Protectorates as well as a list of recent events
-      related to those Protectorates. On a minimum of a monthly basis,
-      the Ambassador shall review each Protectorate to ensure it meets
-      the requirements of a Protectorate.
+      The ambassador is an office, responsible for relations with
+      foreign nomics.
 
-      The Ambassador may act on behalf of Agora for an action that is
-      permitted of Agora in the Protectorate's ruleset, with the
-      exception of direct changes to that Protectorate's ruleset as
-      described above. Any Player may, with Agoran consent, require
-      that the Ambassador act or not act in a specified fashion in
-      relation to a Protectorate.
+      A foreign nomic may grant certain powers and privileges to
+      Agora's ambassador.  If so, the ambassador shall generally
+      exercise such powers in such manner as e sees fit, subject to
+      other rules and orders.
 
-[Cross-references (18 July 2007): the Ambassador's duties are:
-  * report on Protectorates (rule 2148)
-  * check that Protectorate still meets requirements (rule 2148)
-  * act on behalf of Agora in Protectorate (rule 2148)]
+      All players are prohibited from falsely claiming, to any nomic,
+      to be the ambassador.
+
+[Cross-references (25 July 2007): the Ambassador's duties are:
+  * exercise diplomatic privileges in foreign nomics (rule 2148)
+  * make foreign nomic a protectorate (rule 2147)
+  * check that protectorates still meet the criteria (rule 2147)
+  * report on protectorates (rule 2147)
+  * proclaim protective decree to target nomic (rule 2159)]
 
 History:
 Created by Proposal 4988 (BobTHJ), 6 June 2007
+Amended(1) by Proposal 5091 (Zefram), 25 July 2007
 
 ----------------------------------------------------------------------
 
-Rule 2147/0 (Power=2)
+Rule 2147/1 (Power=2)
 Protectorates
 
       Whereas Agora, being the superpower of nomics, has an inherent
@@ -3469,40 +3470,82 @@ Protectorates
       desires to encourage growth and promotion of the nomic
       community, be it hereby known that Agora shall serve as
       benevolent protector to any nomic which requests such status
-      (hereafter referred to as the Protectorate).
+      (hereafter referred to as the protectorate).
 
-      In order to become a Protectorate, a nomic must specify in its
-      ruleset that it submits to Agora as its benevolent protector. It
-      also must allow Agora unrestricted access to make changes to its
-      ruleset. A player of said nomic may then cause that nomic to
-      become a Protectorate by announcement to the public forum. A
-      nomic that no longer meets these requirements ceases to be a
-      Protectorate.
+      In order to become a protectorate, a nomic must specify in its
+      ruleset that it submits to Agora as its benevolent protector.
+      It must also have rules or other gamestate arranged such that
+      any protective decree proclaimed by the ambassador will take
+      full effect upon proclamation.  For this purpose, the nomic may
+      specify the forum in which proclamation is to be made, provided
+      that it is reasonably possible for the ambassador to use the
+      specified forum.  Any restriction whatsoever on the content of a
+      protective decree disqualifies the nomic from being a
+      protectorate.
 
-      Agora shall treat a Protectorate in a benevolent fashion, making
-      changes to that nomic's ruleset only for the purpose of
-      assisting that nomic in its growth and enabling its longevity.
-      Agora may only make changes to a Protectorate's ruleset through
-      a Proposal with an Adoption Index of 2 or more, although this
-      does not prohibit changes made to a Protectorate nomic by one or
-      more of its players (or closest equivalent) according to the
-      rules of that Protectorate.
+      If the criteria specified in the preceding paragraph are met,
+      the ambassador may make the nomic a protectorate with Agoran
+      Consent.  If a protectorate ever does not meet these criteria,
+      it ceases to be a protectorate.  The ambassador shall check
+      every month whether each protectorate continues to meet the
+      criteria, and shall announce whenever a protectorate has ceased
+      to be a protectorate.
 
-[CFJ 1704 (called 17 July 2007): If a nomic is a binding agreement
-governed by the rules of Agora, then the possibility of direct
-modification of that agreement by an Agoran proposal satisfies the
-requirement for protectoratehood that it allow Agora unrestricted
-access to make changes to its ruleset.]
+      The ambassador's report shall include a list of all
+      protectorates, with contact details for each, and for each the
+      forum in which it is most appropriate to proclaim protective
+      decrees that target that protectorate.
+
+[Note (25 July 2007): Suggested wording for a protectorate's ruleset:
+"Any protective decree of Agora that targets this nomic takes effect
+as specified by the rules of Agora.".]
 
 [CFJ 1707 (called 20 July 2007): If a nomic's ruleset contains a
 statement similar to "This nomic allows Agora unrestricted access to
 make changes to its ruleset.", this can be interpreted as "This
 nomic's rules change whenever the rules of Agora say they do.", thus
-allowing the nomic's ruleset to be changed by means of an Agoran
-proposal with AI >= 2.]
+satisfying the requirement to make protective decrees effective [at
+the time of CFJ 1707, the vaguer requirement to allow Agora to change
+its ruleset].]
 
 History:
 Created by Proposal 4988 (BobTHJ), 6 June 2007
+Amended(1) by Proposal 5091 (Zefram), 25 July 2007
+
+----------------------------------------------------------------------
+
+Rule 2159/0 (Power=2)
+Protective Decrees
+
+      A protective decree is an act of Agora the intended effect of
+      which is to make explicit changes to the state of a protectorate
+      nomic.  The changes may include enacting, repealing, or amending
+      rules of the protectorate, changing the set of players of the
+      protectorate, or any other instantaneous changes to the
+      protectorate's gamestate.
+
+      Where permitted by other rules, an instrument with power 2 or
+      greater generally can, as part of its effect, initiate a
+      protective decree.  The initiating instrument must specify the
+      target protectorate and the changes to be made to it.  Any
+      ambiguity in the specification of a protective decree causes it
+      to be void and without effect.  This is the only mechanism by
+      which a protective decree can be initiated.
+
+      As soon as possible after a protective decree has been
+      initiated, the ambassador shall proclaim it to the target nomic,
+      in whatever forum is most suitable for this purpose.  The decree
+      takes effect upon this proclamation.
+
+      Protective decrees should be initiated only for the purpose of
+      assisting the protectorate in its growth and enabling its
+      longevity.  Protective decrees should always be benevolent.
+
+      All players are prohibited from falsely claiming, to any nomic,
+      that a document is a protective decree.
+
+History:
+Created by Proposal 5091 (Zefram), 25 July 2007
 
 ----------------------------------------------------------------------
 
