@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5104
+Last proposal with recorded effect on this ruleset: 5105
 
 ----------------------------------------------------------------------
 
@@ -48,6 +48,7 @@ Index of Rules
       Rule 1688: Power
       Rule 2140: Power Controls Mutability
       Rule 2141: Role and Attributes of Rules
+      Rule  217: Interpreting the Rules
       Rule 1482: Precedence between Rules with Unequal Power
       Rule 1030: Precedence between Rules with Equal Power
       Rule  105: Rule Changes
@@ -121,7 +122,6 @@ Index of Rules
       Rule  591: Inquiry Cases
       Rule 1504: Criminal Cases
       Rule  911: Appeal Cases
-      Rule  217: Judgements Must Accord with the Rules
 
       * Patent Titles and Degrees
       Rule  649: Patent Titles
@@ -355,6 +355,32 @@ Role and Attributes of Rules
 
 History:
 Created by Proposal 4940 (Zefram), 29 April 2007
+
+----------------------------------------------------------------------
+
+Rule 217/6 (Power=3)
+Interpreting the Rules
+
+      When interpreting and applying the rules, the text of the rules
+      takes precedence.  Where the text is silent, inconsistent, or
+      unclear, it is to be augmented by game custom, common sense,
+      past judgements, and consideration of the best interests of the
+      game.
+
+[CFJ 1139: Interpretations [judgements at the time of CFJ 1139] need
+not necessarily accord with the reasoning and arguments of Judges or
+Justices given in past CFJs.]
+
+History:
+Initial Mutable Rule 217, Jun. 30 1993
+Amended(1) by Proposal 1635, Jul. 25 1995
+Infected and amended(2) by Rule 1454, Aug. 7 1995
+Amended(3) by Proposal 2507, Mar. 3 1996
+Amended(4) by Proposal 4825 (Maud), 17 July 2005
+Power changed from 1 to 3 by Proposal 4867 (Goethe), 27 August 2006
+Amended(5) by Proposal 4867 (Goethe), 27 August 2006
+Retitled by Proposal 5105 (Zefram), 1 August 2007
+Amended(6) by Proposal 5105 (Zefram), 1 August 2007
 
 ----------------------------------------------------------------------
 
@@ -2687,6 +2713,11 @@ Inquiry Cases
       ENCOURAGED to annotate rules to draw attention to relevant
       inquiry case judgements.
 
+[CFJ 1671 (called 17 May 2007): The truth or falsity of a statement
+can be determined as of the initiation of a CFJ even if public
+knowledge at the time of initiation was not sufficient to determine
+it.]
+
 History:
 Initial Mutable Rule 216, Jun. 30 1993
 Amended by Proposal 409 (Alexx), Aug. 26 1993
@@ -2927,46 +2958,6 @@ Amended(15) by Proposal 5051 (Zefram), 5 July 2007
 Retitled by Proposal 5086 (Zefram), 23 July 2007
 Power changed from 1 to 1.7 by Proposal 5086 (Zefram), 23 July 2007
 Amended(16) by Proposal 5086 (Zefram), 23 July 2007
-
-----------------------------------------------------------------------
-
-Rule 217/5 (Power=3)
-Judgements Must Accord with the Rules
-
-      All Judgements must be in accordance with the Rules; however, if
-      the Rules are silent, inconsistent, or unclear on the Statement
-      to be Judged, then the Judge shall consider game custom, common
-      sense, past Judgements, and the best interests of the game
-      before applying other standards.
-
-      When a Judge is considering eir Judgement of a Statement
-      contained in a CFJ, e shall make eir evaluation based on the
-      truth or falsity of the Statement at the time the CFJ was
-      issued.
-
-[CFJ 897: The requirements in Rule 217 on Judgements apply to the
-determinations of the members of a Board of Appeal, as well as to the
-Judgements of Judges.]
-
-[CFJ 1139: Judgements need not necessarily accord with the reasoning
-and arguments of Judges or Justices given in past CFJs.]
-
-[CFJ 1219: A mistaken Judgement (ie one that does not accord with the
-Rules) is still a Judgement, as long as the technical requirements on
-the delivery of the Judgement have been met.]
-
-[CFJ 1671 (called 17 May 2007): The truth or falsity of a statement
-can be determined as of the issuance of a CFJ even if public knowledge
-at the time of issuance was not sufficient to determine it.]
-
-History:
-Initial Mutable Rule 217, Jun. 30 1993
-Amended(1) by Proposal 1635, Jul. 25 1995
-Infected and amended(2) by Rule 1454, Aug. 7 1995
-Amended(3) by Proposal 2507, Mar. 3 1996
-Amended(4) by Proposal 4825 (Maud), 17 July 2005
-Power changed from 1 to 3 by Proposal 4867 (Goethe), 27 August 2006
-Amended(5) by Proposal 4867 (Goethe), 27 August 2006
 
 ----------------------------------------------------------------------
 
