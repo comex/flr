@@ -1334,10 +1334,14 @@ Offices
       information.  A weekly report shall be sufficient to satisfy
       these last two requirements.
 
-[CFJ 1660 (called 13 May 2007): this rule does not define the meaning
+[CFJ 1660 (called 13 May 2007): This rule does not define the meaning
 of the term "office", in the sense meant by rule 754, but rather
 references the usual English definition of "office" and governs
 offices as thus defined.]
+
+[CFJ 1702 (called 12 July 2007): A requirement to submit something to
+an officer is satisfied by publishing it, even if that office is
+vacant at the time.]
 
 History:
 Created by Proposal 386 (Alexx), Aug. 16 1993
