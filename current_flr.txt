@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5105
+Last proposal with recorded effect on this ruleset: 5106
 
 ----------------------------------------------------------------------
 
@@ -1286,7 +1286,6 @@ The other provisions governing the Speakership are:
   * filling Speakership if it becomes vacant (rule 103)
   * installation due to winning (rule 402)
   * can't be replaced without consent (rule 402)
-  * mutually exclusive with Clerk of the Courts (rule 1450)
   * initial Speaker (rule 104) (provision spent)]
 
 History:
@@ -1656,26 +1655,13 @@ Amended(10) by Proposal 5006 (Zefram), 18 June 2007
 
 ----------------------------------------------------------------------
 
-Rule 1450/6 (Power=2)
+Rule 1450/7 (Power=2)
 Separation of Powers
 
-      The following sets of positions are mutually exclusive:
-
-      a) Promotor and Assessor
-      b) Speaker and Clerk of the Courts
-
-      A player holding two or more positions within one of these sets
-      is removed from all but one of them.  If one of them is the
-      Speakership, then e retains it; otherwise, e retains the
-      position e came to hold most recently.
-
-      This rule takes precedence over all rules governing offices.
-
-[CFJ 1705 (called 18 July 2007): It is possible for a person to hold
-two "mutually exclusive" positions simultaneously, albeit only for an
-infinitesemal period, because rule 1450 does not prevent this
-situation arising but removes the person from one of the positions
-when the situation has occurred.]
+      Any change in officeholdings that would result in a single
+      entity holding the offices of promotor and assessor
+      simultaneously is INVALID.  This rule takes precedence over all
+      other rules regarding offices.
 
 History:
 Created by Proposal 1547, Apr. 14 1995
@@ -1686,6 +1672,7 @@ Amended(4) by Proposal 4592 (Murphy), 4 July 2004
 Amended(5) by Proposal 4868 (Goethe), 27 August 2006
 Power changed from 1 to 2 by Proposal 4868 (Goethe), 27 August 2006
 Amended(6) by Proposal 4939 (Murphy), 29 April 2007
+Amended(7) by Proposal 5106 (Zefram), 1 August 2007
 
 ----------------------------------------------------------------------
 
