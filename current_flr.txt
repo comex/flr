@@ -1,16 +1,16 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5103
+Last proposal with recorded effect on this ruleset: 5104
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 84
+Current total number of rules: 83
 
 Power distribution:
        1 with Power=4
-      26 with Power=3
+      25 with Power=3
       20 with Power=2
        4 with Power=1.7
        3 with Power=1.5
@@ -122,7 +122,6 @@ Index of Rules
       Rule 1504: Criminal Cases
       Rule  911: Appeal Cases
       Rule  217: Judgements Must Accord with the Rules
-      Rule 1503: Rules Violations
 
       * Patent Titles and Degrees
       Rule  649: Patent Titles
@@ -2968,36 +2967,6 @@ Amended(3) by Proposal 2507, Mar. 3 1996
 Amended(4) by Proposal 4825 (Maud), 17 July 2005
 Power changed from 1 to 3 by Proposal 4867 (Goethe), 27 August 2006
 Amended(5) by Proposal 4867 (Goethe), 27 August 2006
-
-----------------------------------------------------------------------
-
-Rule 1503/6 (Power=3)
-Rules Violations
-
-      In general, the Rules shall be adjudicated as if the Rules were
-      a binding agreement between all Players, entered into by every
-      player as a part of becoming a Player.  An actual or alleged
-      Rule violation shall be treated as the violation of a binding
-      agreement to be bound by the Rule or Rules in question.
-
-      The proposal, fora, and registration processes shall, prima
-      facie, be considered to be protective of a Player's rights and
-      privileges with respect to making and changing the agreement to
-      be bound by the rules.
-
-      Other rules may further differentiate the treatment of rules
-      violations from the treatment of violations of other types of
-      agreements.
-
-History:
-Created by Proposal 1682, Aug. 22 1995
-Amended(1) by Proposal 2677, Sep. 26 1996
-Amended(2) by Proposal 2700, Oct. 10 1996
-Amended(3) by Proposal 2770 (Steve), Dec. 19 1996
-Amended(4) by Proposal 3704 (General Chaos), Mar. 19 1998
-Amended(5) by Proposal 4152 (Murphy), 13 May 2001
-Power changed from 1 to 3 by Proposal 4867 (Goethe), 27 August 2006
-Amended(6) by Proposal 4867 (Goethe), 27 August 2006
 
 ----------------------------------------------------------------------
 
