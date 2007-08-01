@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5097
+Last proposal with recorded effect on this ruleset: 5101
 
 ----------------------------------------------------------------------
 
@@ -1264,9 +1264,8 @@ Office of Speaker
       be replaced by Agoran Consent if e is one of those whose
       objections are counted in the Agoran Consent procedure.
 
-[Cross-references (23 July 2007): the Speaker's duties are:
+[Cross-references (1 August 2007): the Speaker's duties are:
   * default officeholder (rule 1006)
-  * ratify any official report (rule 1551)
   * veto VC salary (rule 2126)
   * veto or rubberstamp an Ordinary Proposal (rule 2019)
 The other provisions governing the Speakership are:
@@ -1456,13 +1455,11 @@ Created by Proposal 4970 (Zefram), 23 May 2007
 
 ----------------------------------------------------------------------
 
-Rule 1551/7 (Power=3)
+Rule 1551/8 (Power=3)
 Ratification
 
-      An officer is permitted to ratify, without objection, an
-      official report e produced and was required to maintain by
-      virtue of holding that office.  The Speaker is permitted to
-      ratify, without objection, any official report.
+      Any player CAN ratify any purported publication of all or part
+      of an official report, without objection.
 
       When a document is ratified, the gamestate is modified so that
       the ratified document was completely true and accurate at the
@@ -1471,8 +1468,9 @@ Ratification
       messages or actions, even if they were unrecorded or overlooked,
       or change the legality of any attempted action.
 
-      A document's maintainer shall annotate all publications of that
-      document with the date of its most recent ratification.
+      Where part of an official report has been the subject of a
+      ratification, the date of the most recent such ratification is
+      part of the same official report.
 
 History:
 Created by Proposal 2425, Jan. 30 1996
@@ -1485,6 +1483,7 @@ Amended(5) by Proposal 4147 (Wes), 13 May 2001
 Power changed from 1 to 3 by Proposal 4832 (Maud), 6 August 2005
 Amended(6) by Proposal 4832 (Maud), 6 August 2005
 Amended(7) by Proposal 4868 (Goethe), 27 August 2006
+Amended(8) by Proposal 5101 (Zefram), 1 August 2007
 
 ----------------------------------------------------------------------
 
