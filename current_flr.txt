@@ -1,21 +1,21 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5109
+Last proposal with recorded effect on this ruleset: 5111
 
 Rule ID numbers:
-      highest orderly: 2161
+      highest orderly: 2162
       disorderly: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 84
+Current total number of rules: 85
 
 Power distribution:
        1 with Power=4
       25 with Power=3
-      21 with Power=2
+      22 with Power=2
        4 with Power=1.7
        3 with Power=1.5
       30 with Power=1
@@ -59,7 +59,7 @@ Index of Rules
       Rule 2144: Limited Partnerships
       Rule 2139: The Registrar
       Rule 1789: Cantus Cygneus
-      Rule 2130: Inactivity
+      Rule 2130: Activity
 
       * Definitions
       Rule  478: Fora
@@ -68,6 +68,7 @@ Index of Rules
       Rule 1023: Common Definitions
       Rule 2161: ID Numbers
       Rule 2146: Indices
+      Rule 2162: Switches
       Rule 2150: Personhood
       Rule 1728: Dependent Actions
       Rule 2124: Agoran Consent
@@ -586,26 +587,22 @@ Players
       players.
 ----------------------------------------------------------------------
 
-Rule 869/21 (Power=1)
+Rule 869/22 (Power=1)
 How to Join and Leave Agora
 
-      Each entity at any time either is or is not a player.  The verb
-      "to be registered" means to become a player, and the verb "to be
-      deregistered" means to cease to be a player.  Where the verb "to
-      register" or "to deregister" is used without an explicit direct
-      object, the action is implicitly reflexive.  The adjective
-      "registered", or its fuller form "registered as a player",
-      describes those who are players.
+      Citizenship is an entity switch with values Null (default) and
+      Registered, tracked by the Registrar.  A player is an entity
+      whose citizenship is Registered.  "To register" and "to become a
+      player" are synonymous with "to flip one's citizenship to
+      Registered"; "to deregister" and "to be deregistered" are
+      synonymous with "to flip the subject's citizenship to Null".
 
-      A person is permitted to register or deregister unless
-      specifically prohibited. A person registers or deregisters by
-      announcement.
+      A person may register (unless prevented by the rules) by
+      announcing that e registers, wishes to register, requests
+      registration, or requests permission to register.
 
-      Whenever a player deregisters, e is prohibited from registering
-      for the next thirty days.
-
-      A player who is not a person and has never been a first-class
-      person can be deregistered by any player by announcement.
+      A player may deregister by announcement.  E CANNOT register
+      within thirty days after doing so.
 
 [CFJ 1275 (called 19 February 2001): An entity is a Player if the
 Rules cannot distinguish that entity from a Player.]
@@ -614,9 +611,6 @@ Rules cannot distinguish that entity from a Player.]
 desire or intent to register as a Player counts as a request for
 registration, whether or not it is explicitly phrased in the manner
 stipulated by the rules.]
-
-[CFJ 1648 (called 1 May 2007): Requesting permission to register is to
-be interpreted as an announcement attempting to register.]
 
 History:
 Created by Proposal 498 (Alexx), Sep. 30 1993
@@ -643,6 +637,7 @@ Amended(18) by Proposal 4989 (Zefram), 6 June 2007
 Amended(19) by Proposal 5007 (Zefram), 18 June 2007
 Amended(20) by Proposal 5011 (Zefram), 24 June 2007
 Amended(21) by Proposal 5086 (Zefram), 23 July 2007
+Amended(22) by Proposal 5111 (Murphy), 2 August 2007
 
 ----------------------------------------------------------------------
 
@@ -684,12 +679,14 @@ The Registrar
 by announcement if the new nickname that e specifies is the current
 nickname of another player.]
 
-[Cross-references (23 July 2007): the Registrar's duties are:
+[Cross-references (2 August 2007): the Registrar's duties are:
+  * track citizenship (rule 869)
   * report players' nicknames and email addresses (rule 2139)
   * report registration dates (rule 2139)
   * report fora (rule 2139)
   * report deregistration by Writ of FAGE (rule 1789)
-  * report activity (rule 2130)
+  * track player activity (rule 2130)
+  * track forum publicity (rule 478)
   * change the publicity of a forum (rule 478)]
 
 History:
@@ -730,19 +727,17 @@ Amended(3) by Proposal 4825 (Maud), 17 July 2005
 
 ----------------------------------------------------------------------
 
-Rule 2130/5 (Power=1)
-Inactivity
+Rule 2130/6 (Power=1)
+Activity
 
-      A player may become active or inactive by announcement.
+      Activity is a player switch with values Active (default) and
+      Inactive, tracked by the Registrar.
 
-      A player may, without objection, make another player inactive.
+      A player may flip eir activity by announcement.  "To go on hold"
+      is to become Inactive; "to come off hold" is to become Active.
 
-      Registration as a player causes the new player to become active.
-      All non-players are inactive.
-
-      The Registrar's report shall indicate, for each player, whether
-      the player is active or inactive, and the date on which this
-      status last changed.
+      A player may flip another player's activity to Inactive without
+      objection.
 
 History:
 Created by Proposal 4893 (Murphy), 12 February 2007
@@ -751,6 +746,8 @@ Amended(2) by Proposal 4967 (Zefram), 3 June 2007
 Amended(3) by Proposal 4985 (Zefram), 6 June 2007
 Amended(4) by Proposal 4986 (Zefram), 6 June 2007
 Amended(5) by Proposal 5004 (Zefram), 13 June 2007
+Retitled by Proposal 5111 (Murphy), 2 August 2007
+Amended(6) by Proposal 5111 (Murphy), 2 August 2007
 
 ----------------------------------------------------------------------
 
@@ -760,16 +757,15 @@ Definitions
       widely used and do not readily fall into any other category.
 ----------------------------------------------------------------------
 
-Rule 478/18 (Power=3)
+Rule 478/19 (Power=3)
 Fora
 
       Freedom of speech being essential for the healthy functioning of
       any non-Imperial nomic, it is hereby resolved that No Player
       shall be prohibited from participating in the Fora.
 
-      A Forum's Publicity may be either null, Discussion, or Public
-      (default null).  A forum's publicity may not be changed except
-      as described in this rule.
+      Publicity is a forum switch with values Public, Discussion, and
+      Null (default), tracked by the Registrar.
 
       The Registrar may change the publicity of a forum without
       objection as long as:
@@ -850,6 +846,7 @@ Amended(15) by Proposal 4833 (Maud), 6 August 2005
 Amended(16) by Proposal 4866 (Goethe), 27 August 2006
 Amended(17) by Proposal 4939 (Murphy), 29 April 2007
 Amended(18) by Proposal 5014 (Zefram), 24 June 2007
+Amended(19) by Proposal 5111 (Murphy), 2 August 2007
 
 ----------------------------------------------------------------------
 
@@ -1067,6 +1064,39 @@ Indices
 
 History:
 Created by Proposal 4979 (Zefram, Maud), 31 May 2007
+
+----------------------------------------------------------------------
+
+Rule 2162/0 (Power=2)
+Switches
+
+      A type of switch is a property that the rules define as a
+      switch, and specify the following:
+
+      a) The type(s) of entity possessing an instance of that switch.
+         No other entity possesses an instance of that switch.
+
+      b) One or more possible values for instances of that switch,
+         exactly one of which is designated as the default.  No other
+         values are possible for instances of that switch.
+
+      c) Exactly one officer who tracks instances of that switch.
+         That officer's report includes the value of each instance of
+         that switch whose value is not Null.
+
+      At any given time, each instance of a switch has exactly one
+      possible value for that type of switch.  If an instance of a
+      switch comes to have a value, it ceases to have any other value.
+      If an instance of a switch would otherwise fail to have a
+      possible value, it comes to have its default value.
+
+      "To flip an instance of a switch" is to make it come to have a
+      given value.  "To become X" (where X is a possible value of
+      exactly one of the subject's switches) is to flip that switch to
+      X.
+
+History:
+Created by Proposal 5111 (Murphy), 2 August 2007
 
 ----------------------------------------------------------------------
 
@@ -2524,7 +2554,7 @@ involved accept it as unambiguous at the time.]
   * report open judicial cases (rule 991)
   * manage ID numbers of non-appeal judicial cases (rule 991)
   * assign judge to judicial case (rule 1868)
-  * report posture (rule 1871)
+  * track player posture (rule 1871)
   * consider posture when assigning judges (rule 1871)
   * change all sitting players to standing (rule 1871)
   * recuse tardy judge (rule 2158)
@@ -2594,14 +2624,14 @@ Amended(7) by Proposal 5086 (Zefram), 23 July 2007
 
 ----------------------------------------------------------------------
 
-Rule 1871/13 (Power=1.5)
+Rule 1871/14 (Power=1.5)
 The Standing Court
 
-      Each player is either standing, sitting, or supine; this status
-      is known as eir posture.  The CotC's report includes each
-      player's posture.  When an entity becomes a player, e is
-      initially supine.  A player CAN change emself from sitting to
-      supine, or from supine to sitting, by announcement.
+      Posture is a player switch with values Standing, Sitting, and
+      Supine (default), tracked by the Clerk of the Courts.
+
+      A player may flip eir posture from Sitting to Supine, or vice
+      versa, by announcement.
 
       A supine player is unqualified to be assigned as judge of any
       judicial case.  The CotC SHALL NOT assign a sitting player to be
@@ -2644,6 +2674,7 @@ Amended(11) by Proposal 4991 (Murphy), 6 June 2007
 Amended(12) by Proposal 5069 (Zefram), 11 July 2007
 Power changed from 1 to 1.5 by Proposal 5086 (Zefram), 23 July 2007
 Amended(13) by Proposal 5086 (Zefram), 23 July 2007
+Amended(14) by Proposal 5111 (Murphy), 2 August 2007
 
 ----------------------------------------------------------------------
 
