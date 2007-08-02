@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5112
+Last proposal with recorded effect on this ruleset: 5113
 
 Rule ID numbers:
       highest orderly: 2162
@@ -10,11 +10,11 @@ Rule ID numbers:
 
 Statistics
 
-Current total number of rules: 85
+Current total number of rules: 84
 
 Power distribution:
        1 with Power=4
-      25 with Power=3
+      24 with Power=3
       22 with Power=2
        4 with Power=1.7
        3 with Power=1.5
@@ -71,7 +71,7 @@ Index of Rules
       Rule 2162: Switches
       Rule 2150: Personhood
       Rule 1728: Dependent Actions
-      Rule 2124: Agoran Consent
+      Rule 2124: Methods of Dependent Actions
       Rule 1769: Holidays
       Rule 1750: Read the Ruleset Week
 
@@ -95,7 +95,6 @@ Index of Rules
       Rule 2137: The Assessor
       Rule  683: Voting on Agoran Decisions
       Rule 2127: Conditional Votes
-      Rule 2117: Replacing the Vote Collector
       Rule  208: Resolving Agoran decisions
       Rule  955: Determining the Will of Agora
       Rule  879: Quorum
@@ -1054,7 +1053,7 @@ Created by Proposal 5110 (Murphy), 2 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 2146/0 (Power=2)
+Rule 2146/1 (Power=2)
 Indices
 
       Indices are elements of the extended real numbers, which is a
@@ -1062,8 +1061,13 @@ Indices
       element, called negative infinity, and a maximum element, called
       positive infinity or unanimity.
 
+      The ratio of a positive index to zero is positive infinity.  The
+      ratio of a negative index to zero is negative infinity.  The
+      ratio of zero to any index is zero.
+
 History:
 Created by Proposal 4979 (Zefram, Maud), 31 May 2007
+Amended(1) by Proposal 5113 (Murphy, Maud), 2 August 2007
 
 ----------------------------------------------------------------------
 
@@ -1129,73 +1133,39 @@ Amended(1) by Proposal 5061 (Zefram), 9 July 2007
 
 ----------------------------------------------------------------------
 
-Rule 1728/15 (Power=2)
+Rule 1728/16 (Power=2)
 Dependent Actions
 
-      An action is dependent, or may be performed dependently, if and
-      only if it is an Action Without N Objections or an Action With N
-      Supporters, where N is a nonnegative integer.  The phrase
-      "Without Objection" is synonymous with "Without 1 Objection",
-      and the phrase "With Support" is synonymous with "With 1
-      Supporter".
+      An announcement of intent to perform a dependent action,
+      unambiguously describing the action and method of dependent
+      action, initiates the Agoran decision of whether to approve the
+      action.  For this decision:
 
-      A player may publicly announce eir intent to perform an
-      unambiguously described dependent action.  A player may perform
-      a previously unambiguously described dependent action if and
-      only if:
+      (a) The vote collector is the announcer.
 
-      (a)  no more than fourteen days have passed since the
-           announcement of intent to perform the action;
+      (b) The available options are SUPPORT and OBJECT.
 
-      (b)  if the action to be performed is an Action Without N
-           Objections, at least four days have passed since the
-           announcement made under (a) of this rule;
+      (c) The voting period ends after fourteen days or immediately
+          before it is resolved, whichever comes first.
 
-      (c)  either the player who attempts to perform the action is the
-           player who made the announcement under (a) of this rule, or
+      (d) The eligible voters are those entities that were active
+          first-class players at the start of the voting period,
+          except for the vote collector, and any entities disqualified
+          by the rule specifying that the action can be performed
+          dependently.
 
-           (1)  the player who made the announcement under (a) of this
-                rule did so by a privilege or duty granted em by
-                virtue of holding a rules-defined position; and
+      (e) The voting limit of each eligible voter is one.
 
-           (2)  the player who attempts to perform the action is the
-                holder of that position when e attempts to perform the
-                action;
+      (f) The vote collector of such a decision CANNOT resolve it if
+          it was initiated more than fourteen days ago, or (if it has
+          an objection and/or majority index) less than four days ago.
 
-      (d)  the rules explicitly authorise the player to perform the
-           action dependently;
+      (g) If the outcome is APPROVED, then the vote collector performs
+          the action upon resolving the decision.
 
-      (e)  during the time between the announcement made under (a) of
-           this rule and the attempt to perform the action,
-
-           (1)  if the action is to be performed Without N Objections,
-                fewer than N first-class players have publicly posted
-                objections (and not publicly retracted eir objections)
-                to the performance of the action; and
-
-           (2)  if the action is to be performed With N Supporters, at
-                least N first-class players other than the player who
-                made the announcement under (a) of this rule have
-                publicly posted support for the performance of the
-                action;
-
-      (f)  the announcement made under (a) of this rule specifies
-           whether the action is to be performed Without N Objections
-           or With N Supporters, unless the rules either do not permit
-           the action to be performed Without N Objections or do not
-           permit the action to be performed With N Supporters; and
-
-      (g)  e announces that e performs the described action.
-
-      A dependent action is not performed until announced as in (g).
-
-      The specification in the rules that an action may be performed
+      The specification in the rules that an action can be performed
       dependently does not prohibit performing that action
       independently if doing so would otherwise be permissible.
-
-      A rule authorising the performance of a dependent action may
-      restrict the eligibility of players to support or object to that
-      specific action.
 
 History:
 Created by Proposal 3521 (Chuck), Jun. 23 1997
@@ -1216,33 +1186,33 @@ Amended(12) by Proposal 4915 (Murphy), 2 April 2007
 Amended(13) by Proposal 4981 (Zefram), 31 May 2007
 Amended(14) by Proposal 4999 (Zefram), 12 June 2007
 Amended(15) by Proposal 5007 (Zefram), 18 June 2007
+Amended(16) by Proposal 5113 (Murphy, Maud), 2 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 2124/3 (Power=1)
-Agoran Consent
+Rule 2124/4 (Power=1)
+Methods of Dependent Actions
 
-      An entity that may perform an action with Agoran Consent can do
-      so by announcement if all of the following are true:
+      The following methods of dependent actions are defined:
 
-      (a) e has published eir intent to perform the action,
-          unambiguously describing the action to be performed, at
-          least four days and no more than fourteen days before
-          attempting to perform the action;
+      (a) With N Supporters.  For this method, the support index is N.
+          "With Support" is synonymous with "With 1 Supporter".
 
-      (b) at least one other player has announced (and not withdrawn)
-          support for the intended action since intent was published;
-          and
+      (b) Without N Objections.  For this method, the objection index
+          is N.  "Without Objection" is synonymous with "Without 1
+          Objection".
 
-      (c) more other players have announced (and not withdrawn)
-          support than have announced (and not withdrawn) objections
-          to the action since the intent was published.
+      (c) With N Agoran Consent.  For this method, the majority index
+          is N.  "With Agoran Consent" is synonymous with "With 1/2
+          Agoran Consent".
 
 History:
 Created by Proposal 4853 (Goethe), 18 March 2006
 Amended(1) by Proposal 4866 (Goethe), 27 August 2006
 Amended(2) by Proposal 4868 (Goethe), 27 August 2006
 Amended(3) by Proposal 4978 (Murphy), 31 May 2007
+Retitled by Proposal 5113 (Murphy, Maud), 2 August 2007
+Amended(4) by Proposal 5113 (Murphy, Maud), 2 August 2007
 
 ----------------------------------------------------------------------
 
@@ -1785,7 +1755,7 @@ Amended(9) by Proposal 4887 (Murphy), 22 January 2007
 
 ----------------------------------------------------------------------
 
-Rule 107/4 (Power=3)
+Rule 107/5 (Power=3)
 Initiating Agoran Decisions
 
       An Agoran decision is initiated when a person authorized to
@@ -1811,7 +1781,8 @@ Initiating Agoran Decisions
       period for the decision.  By default, the voting period lasts
       for seven days.  This rule takes precedence over any rule which
       would require a voting period for some decision to be shorter
-      than seven days.
+      than seven days, unless the decision is whether to approve a
+      dependent action.
 
 [CFJ 1650 (called 6 May 2007): The information required in the notice
 need not be explicit.]
@@ -1833,6 +1804,7 @@ Amended(1) by Proposal 3889 (harvel), Aug. 9 1999
 Amended(2) by Proposal 4811 (Maud, Goethe), 20 June 2005
 Amended(3) by Proposal 4868 (Goethe), 27 August 2006
 Amended(4) by Proposal 4964 (Murphy), 3 June 2007
+Amended(5) by Proposal 5113 (Murphy, Maud), 2 August 2007
 
 ----------------------------------------------------------------------
 
@@ -1932,38 +1904,14 @@ Created by Proposal 4875 (Goethe), 1 December 2006
 
 ----------------------------------------------------------------------
 
-Rule 2117/0 (Power=3)
-Replacing the Vote Collector
-
-      If the rules indicate that an office is to be responsible for
-      collecting votes on a particular Agoran decision, then the
-      holder of that office is the default vote collector for that
-      decision.
-
-      The vote collector for a particular Agoran decision is tardy if
-      and only if the voting collector has continuously held that role
-      for at least seven days following the end of the voting period
-      and the decision has not yet been resolved.  If a vote collector
-      is tardy, then the first player to announce that e takes up the
-      role of vote collector becomes the vote collector for that
-      decision.
-
-      This rule takes precedence over any rule that would allow the
-      vote collector for an Agoran decision to be changed.
-
-History:
-Created by Proposal 4811 (Maud, Goethe), 20 June 2005
-
-----------------------------------------------------------------------
-
-Rule 208/3 (Power=3)
+Rule 208/4 (Power=3)
 Resolving Agoran decisions
 
-      The vote collector for a particular Agoran decision is
-      authorized to resolve that decision, and does so by publishing a
-      valid notice which states that the matter has been resolved,
-      indicating the option selected by Agora.  To be valid, this
-      notice must satisfy the following conditions:
+      The vote collector for an unresolved Agoran decision may resolve
+      it by announcement, indicating the option selected by Agora.  E
+      SHALL do so as soon as possible after the end of the voting
+      period.  To be valid, this announcement must satisfy the
+      following conditions:
 
       (a) It is published after the voting period has ended.
 
@@ -1975,10 +1923,7 @@ Resolving Agoran decisions
           described elsewhere, and provides a tally of the voters'
           valid ballots on the various options.
 
-      Each Agoran decision shall have at most one vote collector at a
-      time.  The identity of the vote collector is set by the message
-      initiating the decision, and can only be changed as specified by
-      other rules with power at least as great as that of this rule.
+      Each Agoran decision has exactly one vote collector.
 
       This rule takes precedence over any rule that would provide
       another mechanism by which an Agoran decision may be resolved.
@@ -1989,44 +1934,43 @@ Amended(1) by Proposal 1401, Jan. 29 1995
 Amended(2) by Proposal 1531, Mar. 24 1995
 Power changed from 1 to 3 by Proposal 4811 (Maud, Goethe), 20 June 2005
 Amended(3) by Proposal 4811 (Maud, Goethe), 20 June 2005
+Amended(4) by Proposal 5113 (Murphy, Maud), 2 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 955/10 (Power=3)
+Rule 955/11 (Power=3)
 Determining the Will of Agora
 
-      To determine which option on a particular Agoran decision was
-      selected by Agora, the vote collector shall perform the
-      following steps in order after the voting period has ended.
+      The outcome of an Agoran decision is determined as follows.
 
-      (a) E shall invalidate any ballots which the rules require em to
-          invalidate, and no others.
+      (a) If there is more than one available option, and the number
+          of distinct voters who submitted valid ballots is less than
+          quorum, then the outcome is FAILED QUORUM, regardless of the
+          remainder of this rule.  Otherwise, the decision achieved
+          quorum.
 
-      (b) E shall count the number of distinct voters who submitted
-          ballots which remain valid.  If this number is less than the
-          quorum and there is more than one available option, then the
-          option selected by Agora is FAILED QUORUM.  Otherwise, the
-          decision achieved quorum.
+      (b) If the decision is whether to adopt a proposal, then the
+          voting index is the ratio of the strength of FOR to the
+          strength of AGAINST.  If the voting index is greater than 1,
+          and greater than or equal to the decision's adoption index,
+          then the outcome is ADOPTED; otherwise, the outcome is
+          REJECTED.
 
-      (c) If the decision is whether to adopt a proposal, e shall
-          determine the voting index as follows:
+      (d) If the decision is whether to approve a dependent action:
 
-          (1) if the strength of FOR is positive and the strength of
-              AGAINST is zero, then the voting index is Unanimity; but
+          (1) If the strength of OBJECT is greater than or equal to
+              the objection index (if any), then the outcome is
+              REJECTED.
 
-          (2) if the strength of FOR is zero, then the voting index is
-              zero; otherwise,
+          (2) If the strength of SUPPORT is less than the support
+              index (if any), then the outcome is REJECTED.
 
-          (3) the voting index is the ratio of the strength of FOR to
-              the strength of AGAINST.
+          (3) If the ratio of the strength of SUPPORT to the combined
+              strength of SUPPORT and OBJECT is less than or equal to
+              the majority index (if any), then the outcome is
+              REJECTED.
 
-          If the voting index exceeds one and meets or exceeds the
-          adoption index of the decision, and if further quorum was
-          achieved, then the option selected by Agora is ADOPTED.
-          Otherwise, the option selected by Agora is REJECTED.
-
-[CFJs 1605 (called 11 January 2007) and 1608 (called 12 January 2007):
-Unanimity exceeds finite numerical adoption indices.]
+          (4) Otherwise, the outcome is APPROVED.
 
 [CFJs 1673-1675 (called 20 May 2007): Quorum for an Agoran decision is
 determined at the time the vote collector makes the calculations
@@ -2051,16 +1995,18 @@ Amended(7) by Proposal 4302 (Murphy), 17 May 2002
 Amended(8) by Proposal 4412 (Steve), 6 November 2002
 Amended(9) by Proposal 4811 (Maud, Goethe), 20 June 2005
 Amended(10) by Proposal 4868 (Goethe), 27 August 2006
+Amended(11) by Proposal 5113 (Murphy, Maud), 2 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 879/25 (Power=2)
+Rule 879/26 (Power=2)
 Quorum
 
       Quorum for an Agoran decision is N/3 (where N is the number of
       eligible voters with a positive voting limit on that decision),
       rounded up, with a minimum of five (unless this is greater than
-      N, in which case quorum is N).
+      N, in which case quorum is N, or the decision is whether to
+      approve a dependent action, in which case quorum is zero).
 
 [CFJ 1562 (called 3 May 2005): A cancelled vote on a Proposal does not
 count towards quorum.]
@@ -2099,6 +2045,7 @@ Amended(22) by Proposal 4811 (Maud, Goethe), 20 June 2005
 Amended(23) by Proposal 4964 (Murphy), 3 June 2007
 Amended(24) by Proposal 4997 (Zefram, Goddess Eris), 6 June 2007
 Amended(25) by Proposal 5000 (Murphy), 12 June 2007
+Amended(26) by Proposal 5113 (Murphy, Maud), 2 August 2007
 
 ----------------------------------------------------------------------
 
