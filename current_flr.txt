@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5108
+Last proposal with recorded effect on this ruleset: 5109
 
 ----------------------------------------------------------------------
 
@@ -2746,7 +2746,7 @@ Amended(20) by Proposal 5086 (Zefram), 23 July 2007
 
 ----------------------------------------------------------------------
 
-Rule 1504/10 (Power=1.7)
+Rule 1504/11 (Power=1.7)
 Criminal Cases
 
       There is a subclass of judicial case known as a criminal case.
@@ -2811,7 +2811,7 @@ Criminal Cases
       sentence is active if and only if it is still in effect and
       sentences of the same type on the same question on sentencing
       have been active for a total duration less than the tariff.  The
-      CotC's report includes the status of all active judgements.
+      CotC's report includes the status of all active sentences.
 
       The valid sentences are:
 
@@ -2868,6 +2868,7 @@ Amended(9) by Proposal 4887 (Murphy), 22 January 2007
 Retitled by Proposal 5086 (Zefram), 23 July 2007
 Power changed from 1 to 1.7 by Proposal 5086 (Zefram), 23 July 2007
 Amended(10) by Proposal 5086 (Zefram), 23 July 2007
+Amended(11) by Proposal 5109 (Zefram; disi.), 2 August 2007
 
 ----------------------------------------------------------------------
 
