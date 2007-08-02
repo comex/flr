@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5111
+Last proposal with recorded effect on this ruleset: 5112
 
 Rule ID numbers:
       highest orderly: 2162
@@ -136,7 +136,7 @@ Index of Rules
 
       * Foreign Relations
       Rule 2135: Herald to Advertise
-      Rule 2148: Ambassador
+      Rule 2148: The Ambassador
       Rule 2147: Protectorates
       Rule 2159: Protective Decrees
 
@@ -2216,7 +2216,7 @@ Created by Proposal 5056 (Murphy), 5 July 2007
 
 ----------------------------------------------------------------------
 
-Rule 1607/14 (Power=1)
+Rule 1607/15 (Power=1)
 The Promotor
 
       The Promotor is an office; its holder is responsible for
@@ -2244,6 +2244,9 @@ The Promotor
       Distributed proposals have ID numbers, to be assigned by the
       Promotor.
 
+      The Promotor's report includes a list of all proposals in the
+      Proposal Pool.
+
 [CFJ 1669 (called 16 May 2007): If a proposal is purportedly
 distributed with a text that differs from the submitted text, this
 constitutes a legal distribution of the submitted proposal if and only
@@ -2262,9 +2265,9 @@ distribution of a new proposal.]
 
 [Cross-references (2 August 2007): the Promotor's duties are:
   * not distribute proposals during holiday (rule 1769)
-  * track Proposal Pool (rule 106)
   * distribute proposals (rule 1607)
-  * manage ID numbers of distributed proposals (rule 1607)]
+  * manage ID numbers of distributed proposals (rule 1607)
+  * report proposal pool (rule 1607)]
 
 History:
 Created by Proposal 2522, Mar. 10 1996
@@ -2282,6 +2285,7 @@ Amended(11) by Proposal 4486 (Michael), 24 April 2003
 Amended(12) by Proposal 4868 (Goethe), 27 August 2006
 Amended(13) by Proposal 5077 (Murphy), 18 July 2007
 Amended(14) by Proposal 5110 (Murphy), 2 August 2007
+Amended(15) by Proposal 5112 (Murphy), 2 August 2007
 
 ----------------------------------------------------------------------
 
@@ -2378,7 +2382,7 @@ Created by Proposal 4930 (Goethe), 29 April 2007
 
 ----------------------------------------------------------------------
 
-Rule 2126/14 (Power=2)
+Rule 2126/15 (Power=2)
 Voting Credits
 
       Voting Credits (VCs) are a measure of each player's ability to
@@ -2407,11 +2411,13 @@ Voting Credits
          Red VC (unless e gained VCs in this way earlier in the same
          week).
 
-      b) At the end of each month, for each office, the player (if
-         any) who held that office for the majority of that month
-         gains two Green VCs, unless the Speaker publicly announces
-         within a week after the end of the month that the officer
-         performed eir duties poorly or not at all.
+      b) At the end of each month, for each office with a report, the
+         player (if any) who held that office for the majority of that
+         month gains two Green VCs (if the office has a weekly report)
+         or one Green VC (if it has only a monthly report), unless the
+         Speaker announces within a week after the end of that month
+         that that player performed that office's duties poorly or not
+         at all.
 
       c) A player who assigns a judgement to a judicial question
          within the time limit when first obliged to gains one Blue
@@ -2466,6 +2472,7 @@ Amended(11) by Proposal 5076 (Murphy), 18 July 2007
 Amended(12) by Proposal 5078 (Zefram), 18 July 2007
 Amended(13) by Proposal 5086 (Zefram), 23 July 2007
 Amended(14) by Proposal 5097 (Zefram), 25 July 2007
+Amended(15) by Proposal 5112 (Murphy), 2 August 2007
 
 ----------------------------------------------------------------------
 
@@ -3039,7 +3046,7 @@ Patent Titles and Degrees
       A category concerning titles of honor and dishonor.
 ----------------------------------------------------------------------
 
-Rule 649/20 (Power=1)
+Rule 649/21 (Power=1)
 Patent Titles
 
       A Patent Title is a legal item of recognition of a person's
@@ -3049,9 +3056,9 @@ Patent Titles
       to Bear that Patent Title.  When a Patent Title is revoked from
       a person, that person ceases to Bear that Patent Title.  The
       status of Bearing a Patent Title can only be changed as
-      explicitly set out in the Rules.  The Herald's report shall
-      include a list of each Patent Title that at least one person
-      Bears, with a list of which persons Bear it.
+      explicitly set out in the Rules.  The Herald's monthly report
+      shall include a list of each Patent Title that at least one
+      person Bears, with a list of which persons Bear it.
 
       As soon as possible after a patent title is awarded or revoked,
       the herald SHALL announce the award or revocation.
@@ -3082,10 +3089,11 @@ Amended(17) by Proposal 4824 (Maud, Manu), 17 July 2005
 Amended(18) by Proposal 4865 (Goethe), 27 August 2006
 Amended(19) by Proposal 5036 (Zefram), 28 June 2007
 Amended(20) by Proposal 5084 (Zefram; disi.), 23 July 2007
+Amended(21) by Proposal 5112 (Murphy), 2 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 1922/13 (Power=1)
+Rule 1922/14 (Power=1)
 Defined Regular Patent Titles
 
       The following are Patent Titles:
@@ -3119,8 +3127,9 @@ Defined Regular Patent Titles
            continuously for the specified duration.  Each of these
            titles shall be awarded only once per player.
 
-      (d)  Champion, to be awarded to any player who wins the game.  The
-           Herald's report shall record how the player won.
+      (d)  Champion, to be awarded to any player who wins the game.
+           The Herald's monthly report shall record how the player
+           won.
 
 History:
 Created by Proposal 3916 (harvel), Sep. 27 1999
@@ -3137,6 +3146,7 @@ Amended(10) by Proposal 4865 (Goethe), 27 August 2006
 Amended(11) by Proposal 4878 (Goethe), 22 January 2007
 Amended(12) by Proposal 4891 (Murphy), 22 January 2007
 Amended(13) by Proposal 4975 (OscarMeyr), 23 May 2007
+Amended(14) by Proposal 5112 (Murphy), 2 August 2007
 
 ----------------------------------------------------------------------
 
@@ -3329,7 +3339,7 @@ Amended(1) by Proposal 5035 (Zefram), 28 June 2007
 ----------------------------------------------------------------------
 
 Rule 2148/1 (Power=2)
-Ambassador
+The Ambassador
 
       The ambassador is an office, responsible for relations with
       foreign nomics.
@@ -3352,6 +3362,7 @@ Ambassador
 History:
 Created by Proposal 4988 (BobTHJ), 6 June 2007
 Amended(1) by Proposal 5091 (Zefram), 25 July 2007
+Retitled by Proposal 5112 (Murphy), 2 August 2007
 
 ----------------------------------------------------------------------
 
