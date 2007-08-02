@@ -2,24 +2,23 @@ THE FULL LOGICAL RULESET
 
 Last proposal with recorded effect on this ruleset: 5109
 
+Rule ID numbers:
+      highest orderly: 2161
+      disorderly: none
+
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 83
+Current total number of rules: 84
 
 Power distribution:
        1 with Power=4
       25 with Power=3
-      20 with Power=2
+      21 with Power=2
        4 with Power=1.7
        3 with Power=1.5
       30 with Power=1
-
-Rule numbers:
-       101 is the lowest of any current rule
-      2160 is the highest of any current rule
-      2160 is the highest assigned so far
 
 ----------------------------------------------------------------------
 
@@ -67,6 +66,7 @@ Index of Rules
       Rule  754: Definition Definitions
       Rule 2152: Mother, May I?
       Rule 1023: Common Definitions
+      Rule 2161: ID Numbers
       Rule 2146: Indices
       Rule 2150: Personhood
       Rule 1728: Dependent Actions
@@ -148,11 +148,11 @@ Index of Rules
 
 ----------------------------------------------------------------------
 
-[Rules are listed as follows.  "nnnn" is the rule's identifying
-number, governed by rule 2141.  "r" is the revision number, which is
-not defined by the rules.  "p" is the rule's power, as defined by rule
-1688 and governed by rule 2141.  Rule titles are governed by rule
-2141.]
+[Rules are listed as follows.  "nnnn" is the rule's ID number,
+mandated by rule 2141 and governed by rule 2161.  "r" is the revision
+number, which is not defined by the rules.  "p" is the rule's power,
+as defined by rule 1688 and governed by rule 2141.  Rule titles are
+governed by rule 2141.]
 
 Rule nnnn/r (Power=p)
 Title of Rule
@@ -323,7 +323,7 @@ Created by Proposal 4940 (Zefram), 29 April 2007
 
 ----------------------------------------------------------------------
 
-Rule 2141/0 (Power=3)
+Rule 2141/1 (Power=3)
 Role and Attributes of Rules
 
       A rule is a type of instrument with the capacity to govern
@@ -338,23 +338,19 @@ Role and Attributes of Rules
       Every rule has power between one and four inclusive.  It is
       not possible for a rule to have a power outside this range.
 
-      Every rule shall have a number for identification.  If a rule
-      ever does not have an identifying number, the Rulekeepor shall
-      assign a number to it by announcement as soon as possible.
-      The number assigned must be a natural number greater than any
-      number previously assigned to a rule.  Once properly assigned,
-      a rule's number cannot be changed.
+      Rules have ID numbers, to be assigned by the Rulekeepor.
 
       Every rule shall have a title to aid in identification.  If a
       rule ever does not have a title, the Rulekeepor shall assign
       a title to it by announcement as soon as possible.
 
       For the purposes of rules governing modification of instruments,
-      the text, power, number, and title of a rule are all substantive
-      aspects of the rule.
+      the text, power, ID number, and title of a rule are all
+      substantive aspects of the rule.
 
 History:
 Created by Proposal 4940 (Zefram), 29 April 2007
+Amended(1) by Proposal 5110 (Murphy), 2 August 2007
 
 ----------------------------------------------------------------------
 
@@ -418,11 +414,12 @@ Amended(2) by Proposal 4942 (Zefram), 3 May 2007
 
 ----------------------------------------------------------------------
 
-Rule 1030/5 (Power=3)
+Rule 1030/6 (Power=3)
 Precedence between Rules with Equal Power
 
       If two or more Rules with the same Power conflict with one
-      another, then the Rule with the lower Number takes precedence.
+      another, then the Rule with the lower ID number takes
+      precedence.
 
       If at least one of the Rules in conflict explicitly says of
       itself that it defers to another Rule (or type of Rule) or
@@ -461,10 +458,11 @@ Mutated from MI=1 to MI=3 by Proposal 2763 (Steve), Nov. 30 1996
 Amended(4) by Proposal 3445 (General Chaos), Mar. 26 1997, cosmetic
   (unattributed)
 Amended(5) by Proposal 4887 (Murphy), 22 January 2007
+Amended(6) by Proposal 5110 (Murphy), 2 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 105/2 (Power=3)
+Rule 105/3 (Power=3)
 Rule Changes
 
       Where permitted by other rules, an instrument generally can,
@@ -475,9 +473,9 @@ Rule Changes
           defaulting to one if the enacting instrument does not
           specify, and the maximum power permitted by other rules.
           The enacting instrument may specify a title for the new
-          rule, which if present shall prevail.  The number of the
-          new rule cannot be specified by the enacting instrument;
-          any attempt to so specify is null and void.
+          rule, which if present shall prevail.  The ID number of the
+          new rule cannot be specified by the enacting instrument; any
+          attempt to so specify is null and void.
 
       (b) repeal a rule.  When a rule is repealed, it ceases to be a
           rule, and the Rulekeepor need no longer maintain a record
@@ -546,6 +544,7 @@ Power changed from 1 to 3 by Proposal 4894 (Murphy), 12 February 2007
 Retitled by Proposal 4894 (Murphy), 12 February 2007
 Amended(1) by Proposal 4894 (Murphy), 12 February 2007
 Amended(2) by Proposal 4940 (Zefram), 29 April 2007
+Amended(3) by Proposal 5110 (Murphy), 2 August 2007
 
 ----------------------------------------------------------------------
 
@@ -1024,6 +1023,40 @@ Amended(22) by Proposal 5102 (Zefram), 1 August 2007
 
 ----------------------------------------------------------------------
 
+Rule 2161/0 (Power=2)
+ID Numbers
+
+      If a rule defines a type of entity as having ID numbers, then:
+
+      (a) Whenever an instance of that type does not have an ID
+          number, the player held responsible by that rule (or, if
+          there is no such player, the Speaker) SHALL assign an ID
+          number to it by announcement as soon as possible.
+
+      (b) Such an assignment is INVALID unless the number is a natural
+          number (expressed as a decimal literal with at most 14
+          digits) distinct from any ID number, and greater than any
+          orderly ID number, previously assigned to an entity of that
+          type.  The player SHALL select the smallest number possible,
+          unless e reasonably believes that selecting any smaller
+          number might be invalid or confusing.
+
+      (c) Each ID number is either orderly (default) or chaotic.  Upon
+          a judicial finding that the assignment of an ID number was
+          ILLEGAL, the ID number becomes chaotic.
+
+      (d) Once assigned, an ID number cannot be changed.
+
+      (e) If an office is responsible for assigning ID numbers, then
+          that officer's report SHALL include the greatest orderly ID
+          number, and a list of all chaotic ID numbers, previously
+          assigned to the type of entity.
+
+History:
+Created by Proposal 5110 (Murphy), 2 August 2007
+
+----------------------------------------------------------------------
+
 Rule 2146/0 (Power=2)
 Indices
 
@@ -1278,7 +1311,8 @@ Office of Speaker
       be replaced by Agoran Consent if e is one of those whose
       objections are counted in the Agoran Consent procedure.
 
-[Cross-references (1 August 2007): the Speaker's duties are:
+[Cross-references (2 August 2007): the Speaker's duties are:
+  * default assigner of ID numbers (rule 2161)
   * default officeholder (rule 1006)
   * veto VC salary (rule 2126)
   * veto or rubberstamp an Ordinary Proposal (rule 2019)
@@ -1581,8 +1615,8 @@ The Rulekeepor
       Ruleset.  The Rulekeepor's Monthly Report shall include the Full
       Logical Ruleset.
 
-[Cross-references (23 June 2007): the Rulekeepor's duties are:
-  * assign number to rule (rule 2141)
+[Cross-references (2 August 2007): the Rulekeepor's duties are:
+  * manage ID numbers of rules (rule 2141)
   * assign title to rule (rule 2141)
   * report ruleset in two formats (rule 1051)
   * manage Logical Ruleset categories (rule 1681)
@@ -1612,7 +1646,7 @@ Amended(17) by Proposal 4250 (harvel), 19 February 2002
 
 ----------------------------------------------------------------------
 
-Rule 1681/10 (Power=1)
+Rule 1681/11 (Power=1)
 The Logical Rulesets
 
       There is a format of the ruleset known as the Short Logical
@@ -1623,7 +1657,7 @@ The Logical Rulesets
       categories, and categories are added, changed, or empty
       categories removed, as the Rulekeepor sees fit.
 
-      The listing of each rule in the SLR must include the rule's
+      The listing of each rule in the SLR must include the rule's ID
       number, revision number, power, title, and text.
 
       The Rulekeepor is strongly encouraged not to include any
@@ -1661,6 +1695,7 @@ Amended(7) by Proposal 4841 (Goethe), 27 October 2005
 Amended(8) by Proposal 4868 (Goethe), 27 August 2006
 Amended(9) by Proposal 4887 (Murphy), 22 January 2007
 Amended(10) by Proposal 5006 (Zefram), 18 June 2007
+Amended(11) by Proposal 5110 (Murphy), 2 August 2007
 
 ----------------------------------------------------------------------
 
@@ -2151,7 +2186,7 @@ Created by Proposal 5056 (Murphy), 5 July 2007
 
 ----------------------------------------------------------------------
 
-Rule 1607/13 (Power=1)
+Rule 1607/14 (Power=1)
 The Promotor
 
       The Promotor is an office; its holder is responsible for
@@ -2176,6 +2211,9 @@ The Promotor
       c) Whether it is ordinary or democratic.
       d) Whether it is interested or disinterested.
 
+      Distributed proposals have ID numbers, to be assigned by the
+      Promotor.
+
 [CFJ 1669 (called 16 May 2007): If a proposal is purportedly
 distributed with a text that differs from the submitted text, this
 constitutes a legal distribution of the submitted proposal if and only
@@ -2192,10 +2230,11 @@ a proposal, but the distributed text does not match any proposal in
 the proposal pool, this constitutes the effective (albeit prohibited)
 distribution of a new proposal.]
 
-[Cross-references (1 July 2007): the Promotor's duties are:
+[Cross-references (2 August 2007): the Promotor's duties are:
   * not distribute proposals during holiday (rule 1769)
   * track Proposal Pool (rule 106)
-  * distribute proposals (rule 1607)]
+  * distribute proposals (rule 1607)
+  * manage ID numbers of distributed proposals (rule 1607)]
 
 History:
 Created by Proposal 2522, Mar. 10 1996
@@ -2212,6 +2251,7 @@ Amended(10) by Proposal 4250 (harvel), 19 February 2002
 Amended(11) by Proposal 4486 (Michael), 24 April 2003
 Amended(12) by Proposal 4868 (Goethe), 27 August 2006
 Amended(13) by Proposal 5077 (Murphy), 18 July 2007
+Amended(14) by Proposal 5110 (Murphy), 2 August 2007
 
 ----------------------------------------------------------------------
 
@@ -2456,7 +2496,7 @@ Adjudication
       controversy are resolved.
 ----------------------------------------------------------------------
 
-Rule 991/8 (Power=2)
+Rule 991/9 (Power=2)
 Judicial Cases Generally
 
       A judicial case, also known as a call for judgement (CFJ), is a
@@ -2470,15 +2510,19 @@ Judicial Cases Generally
       status of all judicial cases that either require a judge or have
       at least one applicable judicial question that has no judgement.
 
+      Judicial cases other than appeal cases have ID numbers, to be
+      assigned by the Clerk of the Courts.
+
 [CFJs 1692-1693 (called 20 June 2007): A CFJ can be unambiguously
 referenced by using the customarily-assigned sequence numbers, even if
 the number was not assigned in the public forum, provided that those
 involved accept it as unambiguous at the time.]
 
-[Cross-references (23 July 2007): the Clerk of the Courts' duties are:
+[Cross-references (2 August 2007): the Clerk of the Courts' duties are:
   * issue Writ of FAGE (rule 1789)
   * not assign judges during holiday (rule 1769)
   * report open judicial cases (rule 991)
+  * manage ID numbers of non-appeal judicial cases (rule 991)
   * assign judge to judicial case (rule 1868)
   * report posture (rule 1871)
   * consider posture when assigning judges (rule 1871)
@@ -2501,6 +2545,7 @@ Amended(6) by Proposal 4867 (Goethe), 27 August 2006
 Amended(7) by Proposal 5015 (Zefram), 24 June 2007
 Retitled by Proposal 5086 (Zefram), 23 July 2007
 Amended(8) by Proposal 5086 (Zefram), 23 July 2007
+Amended(9) by Proposal 5110 (Murphy), 2 August 2007
 
 ----------------------------------------------------------------------
 
