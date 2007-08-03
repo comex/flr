@@ -2885,6 +2885,11 @@ Criminal Cases
       judgement in an appeal case, CAN be initiated by the defendant
       by announcement.
 
+[CFJ 1713 (called 2 August 2007): An announcement of the form "I call
+for judgement to determine whether <player> violated <rule> by
+<action>." initiates a criminal case, despite the appearance that it
+is asking about veracity rather than about culpability or sentencing.]
+
 History:
 Created by Proposal 1682, Aug. 22 1995
 Amended(1) by Proposal 2570, Apr. 12 1996
@@ -3300,6 +3305,10 @@ The Ambassador
 
       All players are prohibited from falsely claiming, to any nomic,
       to be the ambassador.
+
+[CFJ 1714 (called 3 August 2007): Whether a player of Agora can take
+game actions on behalf of Agora in a foreign nomic is determined
+solely by the rules of the foreign nomic.]
 
 [Cross-references (25 July 2007): the Ambassador's duties are:
   * exercise diplomatic privileges in foreign nomics (rule 2148)
