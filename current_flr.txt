@@ -218,7 +218,8 @@ Agoran Rights and Privileges
 
 [CFJ 24: Players must obey the Rules even in out-of-game actions.]
 
-[CFJ 825: Players must obey the Rules even if no Rule says so.]
+[CFJ 825 (called 7 November 1995): Players must obey the Rules even if
+no Rule says so.]
 
 [CFJ 1132: A Player failing to perform a duty required by the Rules
 within a reasonable time may be in violation of the Rules, even if the
@@ -399,11 +400,11 @@ Rules of unequal Power, the higher Powered Rule cannot defer to the
 lower Powered Rule, unless the higher Powered Rule takes precedence
 over Rule 1482.]
 
-[CFJ 858: If a low-Power [low-MI at the time of Judgement of CFJ 858]
-Rule attempts to define a term used in a Rule of higher Power to mean
-something other than its ordinary English meaning, that may or may not
-constitute a conflict; whether it does must be decided on a
-case-by-case basis.]
+[CFJ 858 (called 15 February 1996): If a low-Power [low-MI at the time
+of Judgement of CFJ 858] Rule attempts to define a term used in a Rule
+of higher Power to mean something other than its ordinary English
+meaning, that may or may not constitute a conflict; whether it does
+must be decided on a case-by-case basis.]
 
 History:
 Created by Proposal 1603, Jun. 19 1995
@@ -500,8 +501,8 @@ Rule Changes
       created, modified, or destroyed, or by which an entity can
       become a rule or cease to be a rule.
 
-[CFJ 708: An Amendment of a non-existing Rule is not a legal Rule
-Change.]
+[CFJ 708 (called October 1994): An Amendment of a non-existing Rule is
+not a legal Rule Change.]
 
 [CFJ 1625 (called 1 April 2007): Where a proposal specifies a rule to
 amend by both number and title, and the number and title given
@@ -787,18 +788,21 @@ Fora
       e performs it.  Any action performed by sending a message is
       performed at the time date-stamped on that message.
 
-[CFJ 752: Something sent to a Player who is obligated to send it to
-all Players is sufficient for sending something to the PF.]
+[CFJ 752 (called 13 March 1995): Something sent to a Player who is
+obligated to send it to all Players is sufficient for sending
+something to the PF.]
 
-[CFJ 813: A Player need not prove that e can receive the PF.]
+[CFJ 813 (called 22 October 1995): A Player need not prove that e can
+receive the PF.]
 
-[CFJ 831: The Date: header of a message is not necessarily the time at
-which the message takes effect.]
+[CFJ 831 (called 10 November 1995): The Date: header of a message is
+not necessarily the time at which the message takes effect.]
 
-[CFJ 866: A message is "received" when the message enters the
-recipient's normal technical domain of control, whether this be eir
-private machine or eir private account on a shared machine (but not
-the shared machine itself, if the recipient does not control it).]
+[CFJ 866 (called 8 April 1996): A message is "received" when the
+message enters the recipient's normal technical domain of control,
+whether this be eir private machine or eir private account on a shared
+machine (but not the shared machine itself, if the recipient does not
+control it).]
 
 [CFJ 1112: In order to submit a Proposal, in the sense of R1865 and
 elsewhere, it is not sufficient that a collection of text 'with the
