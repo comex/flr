@@ -221,6 +221,10 @@ Agoran Rights and Privileges
 [CFJ 825 (called 7 November 1995): Players must obey the Rules even if
 no Rule says so.]
 
+[CFJ 1709 (called 26 July 2007): The rules are binding on all those
+who play the game in the broader sense, regardless of whether they
+have the rule-defined status of "player".]
+
 [CFJ 1132: A Player failing to perform a duty required by the Rules
 within a reasonable time may be in violation of the Rules, even if the
 Rules do not provide a time limit for the performance of that duty.]
