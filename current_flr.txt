@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5114
+Last proposal with recorded effect on this ruleset: 5116
 
 Rule ID numbers:
       highest orderly: 2162
@@ -689,7 +689,7 @@ nickname of another player.]
   * report registration dates (rule 2139)
   * report fora (rule 2139)
   * report deregistration by Writ of FAGE (rule 1789)
-  * track player activity (rule 2130)
+  * track player activity and report change dates (rule 2130)
   * track forum publicity (rule 478)
   * change the publicity of a forum (rule 478)]
 
@@ -731,11 +731,12 @@ Amended(3) by Proposal 4825 (Maud), 17 July 2005
 
 ----------------------------------------------------------------------
 
-Rule 2130/6 (Power=1)
+Rule 2130/7 (Power=1)
 Activity
 
       Activity is a player switch with values Active (default) and
-      Inactive, tracked by the Registrar.
+      Inactive, tracked by the Registrar.  The Registrar's report
+      includes the date on which each player's activity last changed.
 
       A player may flip eir activity by announcement.  "To go on hold"
       is to become Inactive; "to come off hold" is to become Active.
@@ -752,6 +753,7 @@ Amended(4) by Proposal 4986 (Zefram), 6 June 2007
 Amended(5) by Proposal 5004 (Zefram), 13 June 2007
 Retitled by Proposal 5111 (Murphy), 2 August 2007
 Amended(6) by Proposal 5111 (Murphy), 2 August 2007
+Amended(7) by Proposal 5116 (Zefram; disi.), 8 August 2007
 
 ----------------------------------------------------------------------
 
