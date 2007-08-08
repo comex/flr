@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5116
+Last proposal with recorded effect on this ruleset: 5117
 
 Rule ID numbers:
       highest orderly: 2162
@@ -591,7 +591,7 @@ Players
       players.
 ----------------------------------------------------------------------
 
-Rule 869/22 (Power=1)
+Rule 869/23 (Power=1)
 How to Join and Leave Agora
 
       Citizenship is an entity switch with values Null (default) and
@@ -607,6 +607,9 @@ How to Join and Leave Agora
 
       A player may deregister by announcement.  E CANNOT register
       within thirty days after doing so.
+
+      A player who is not a person and has never been a first-class
+      person can be deregistered by any player by announcement.
 
 [CFJ 1275 (called 19 February 2001): An entity is a Player if the
 Rules cannot distinguish that entity from a Player.]
@@ -642,6 +645,7 @@ Amended(19) by Proposal 5007 (Zefram), 18 June 2007
 Amended(20) by Proposal 5011 (Zefram), 24 June 2007
 Amended(21) by Proposal 5086 (Zefram), 23 July 2007
 Amended(22) by Proposal 5111 (Murphy), 2 August 2007
+Amended(23) by Proposal 5117 (Zefram; disi.), 8 August 2007
 
 ----------------------------------------------------------------------
 
