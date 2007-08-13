@@ -2137,6 +2137,10 @@ the heading "Proposal:" and a title can be sufficient to clearly
 indicate that it is intended to become a proposal, but is not if it
 can be interpreted as quoting an existing proposal.]
 
+[CFJ 1717 (called 8 August 2007): Preceding a proposal-like text with
+the question "What is the title of this proposal?" can be sufficient
+to clearly indicate that it is intended to become a proposal.]
+
 [CFJ 1639 (called 29 April 2007): Where a proposal attempts two
 separate amendments of the text of the same rule, if one of the
 attempted amendments is not possible and the other is then the
