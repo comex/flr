@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5128
+Last proposal with recorded effect on this ruleset: 5129
 
 Rule ID numbers:
       highest orderly: 2163
@@ -553,20 +553,22 @@ Amended(3) by Proposal 5110 (Murphy), 2 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 2149/1 (Power=1)
+Rule 2149/2 (Power=1)
 Truthfulness
 
-      Players SHALL NOT deliberately or recklessly make false
-      statements in any public message.  Merely quoting a false
-      statement does not constitute making it for the purposes of this
-      rule.  Any disclaimer, conditional clause, or other qualifier
-      attached to a statement constitutes part of the statement for
-      the purposes of this rule; the truth or falsity of the whole is
-      what is significant.
+      A player SHALL NOT make a false statement in any public message
+      while knowing that the statement is false or being reckless as
+      to its veracity.  Merely quoting a false statement does not
+      constitute making it for the purposes of this rule.  Any
+      disclaimer, conditional clause, or other qualifier attached to a
+      statement constitutes part of the statement for the purposes of
+      this rule; the truth or falsity of the whole is what is
+      significant.
 
 History:
 Created by Proposal 4990 (Zefram), 6 June 2007
 Amended(1) by Proposal 5075 (Zefram), 18 July 2007
+Amended(2) by Proposal 5129 (Zefram; disi.), 13 August 2007
 
 ----------------------------------------------------------------------
 
