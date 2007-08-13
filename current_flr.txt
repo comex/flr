@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5127
+Last proposal with recorded effect on this ruleset: 5128
 
 Rule ID numbers:
       highest orderly: 2163
@@ -2307,7 +2307,7 @@ Created by Proposal 4930 (Goethe), 29 April 2007
 
 ----------------------------------------------------------------------
 
-Rule 2126/17 (Power=2)
+Rule 2126/18 (Power=2)
 Voting Credits
 
       Voting Credits (VCs) are items that can be possessed by players
@@ -2327,12 +2327,13 @@ Voting Credits
 
       VCs may be gained as follows:
 
-      a) When an ordinary interested proposal is adopted, its proposer
-         gains Red VCs equal to the integer portion of the proposal's
-         adoption index (unless e gained VCs in this way earlier in
-         the same week), and each co-author of the proposal gains one
-         Red VC (unless e gained VCs in this way earlier in the same
-         week).
+      a) When an interested proposal is adopted, its proposer gains a
+         number of Red VCs equal to the integer portion of the
+         proposal's adoption index, minus the number of Red VCs that e
+         has gained in this way earlier in the same week (down to a
+         minimum of zero), and each coauthor named in the proposal
+         gains one Red VC unless e gained a VC in this way earlier in
+         the same week.
 
       b) At the end of each month, for each office with a report, the
          player (if any) who held that office for the majority of that
@@ -2402,6 +2403,7 @@ Amended(14) by Proposal 5097 (Zefram), 25 July 2007
 Amended(15) by Proposal 5112 (Murphy), 2 August 2007
 Amended(16) by Proposal 5114 (Zefram), 2 August 2007
 Amended(17) by Proposal 5126 (Zefram), 13 August 2007
+Amended(18) by Proposal 5128 (Zefram, Murphy), 13 August 2007
 
 ----------------------------------------------------------------------
 
