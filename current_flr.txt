@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5126
+Last proposal with recorded effect on this ruleset: 5127
 
 Rule ID numbers:
       highest orderly: 2163
@@ -3343,7 +3343,7 @@ Retitled by Proposal 5112 (Murphy), 2 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 2147/1 (Power=2)
+Rule 2147/2 (Power=2)
 Protectorates
 
       Whereas Agora, being the superpower of nomics, has an inherent
@@ -3372,7 +3372,7 @@ Protectorates
       criteria, and shall announce whenever a protectorate has ceased
       to be a protectorate.
 
-      The ambassador's report shall include a list of all
+      The ambassador's monthly report shall include a list of all
       protectorates, with contact details for each, and for each the
       forum in which it is most appropriate to proclaim protective
       decrees that target that protectorate.
@@ -3392,6 +3392,7 @@ its ruleset].]
 History:
 Created by Proposal 4988 (BobTHJ), 6 June 2007
 Amended(1) by Proposal 5091 (Zefram), 25 July 2007
+Amended(2) by Proposal 5127 (Zefram; disi.), 13 August 2007
 
 ----------------------------------------------------------------------
 
