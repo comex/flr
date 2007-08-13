@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5131
+Last proposal with recorded effect on this ruleset: 5132
 
 Rule ID numbers:
       highest orderly: 2164
@@ -2821,7 +2821,7 @@ Amended(20) by Proposal 5086 (Zefram), 23 July 2007
 
 ----------------------------------------------------------------------
 
-Rule 1504/11 (Power=1.7)
+Rule 1504/12 (Power=1.7)
 Criminal Cases
 
       There is a subclass of judicial case known as a criminal case.
@@ -2849,6 +2849,9 @@ Criminal Cases
       A criminal case has a judicial question on culpability, which is
       applicable at all times following the pre-trial phase.  The
       valid judgements for this question are:
+
+      * OVERLOOKED, appropriate if the alleged act allegedly occurred
+        at least 200 days before the case was initiated
 
       * ALREADY TRIED, appropriate if judgement has already been
         reached in another criminal case with the same defendant and
@@ -2949,6 +2952,7 @@ Retitled by Proposal 5086 (Zefram), 23 July 2007
 Power changed from 1 to 1.7 by Proposal 5086 (Zefram), 23 July 2007
 Amended(10) by Proposal 5086 (Zefram), 23 July 2007
 Amended(11) by Proposal 5109 (Zefram; disi.), 2 August 2007
+Amended(12) by Proposal 5132 (Zefram), 13 August 2007
 
 ----------------------------------------------------------------------
 
