@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5117
+Last proposal with recorded effect on this ruleset: 5122
 
 Rule ID numbers:
       highest orderly: 2162
@@ -134,7 +134,7 @@ Index of Rules
       Rule 2136: Contests
 
       * Foreign Relations
-      Rule 2135: Herald to Advertise
+      Rule 2135: Advertising
       Rule 2148: The Ambassador
       Rule 2147: Protectorates
       Rule 2159: Protective Decrees
@@ -1586,11 +1586,10 @@ The Herald
       The Herald is an office; its holder is responsible for keeping
       track of marks of honour and shame relating to Agora.
 
-[Cross-references (23 July 2007): the Herald's duties are:
+[Cross-references (13 August 2007): the Herald's duties are:
   * report Patent Titles (rule 649)
   * announce award or revocation of Patent Title (rule 649)
-  * report the manner of wins (rule 1922)
-  * advertise Agora (rule 2135)]
+  * report the manner of wins (rule 1922)]
 
 History:
 Created by Proposal 1377, Jan. 17 1995
@@ -3289,24 +3288,26 @@ Foreign Relations
       other nomics.
 ----------------------------------------------------------------------
 
-Rule 2135/1 (Power=1)
-Herald to Advertise
+Rule 2135/2 (Power=1)
+Advertising
 
-      Every month the Herald shall update the page about Agora on the
-      NomicWiki at nomic.net, provided that that wiki is operational.
-      This page, when updated, is to include a list of the current
-      players.  In updating the page the Herald shall ensure that
-      information that is currently incorrect is either corrected or
-      removed, and that all links on the page point to extant pages
-      that are correctly described.  The Herald may add new correct
-      information to the page at eir discretion.
+      Every month the ambassador shall update the page about Agora on
+      the NomicWiki at nomic.net, provided that that wiki is
+      operational.  This page, when updated, is to include a list of
+      the current players.  In updating the page the ambassador shall
+      ensure that information that is currently incorrect is either
+      corrected or removed, and that all links on the page point to
+      extant pages that are correctly described.  The ambassador may
+      add new correct information to the page at eir discretion.
 
-      The Herald is encouraged to also advertise Agora in other
+      The ambassador is encouraged to also advertise Agora in other
       suitable locations.
 
 History:
 Created by Proposal 4931 (Zefram), 29 April 2007
 Amended(1) by Proposal 5035 (Zefram), 28 June 2007
+Retitled by Proposal 5122 (Zefram), 13 August 2007
+Amended(2) by Proposal 5122 (Zefram), 13 August 2007
 
 ----------------------------------------------------------------------
 
@@ -3328,7 +3329,8 @@ The Ambassador
 game actions on behalf of Agora in a foreign nomic is determined
 solely by the rules of the foreign nomic.]
 
-[Cross-references (25 July 2007): the Ambassador's duties are:
+[Cross-references (13 August 2007): the Ambassador's duties are:
+  * advertise Agora (rule 2135)
   * exercise diplomatic privileges in foreign nomics (rule 2148)
   * make foreign nomic a protectorate (rule 2147)
   * check that protectorates still meet the criteria (rule 2147)
