@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5132
+Last proposal with recorded effect on this ruleset: 5133
 
 Rule ID numbers:
       highest orderly: 2164
@@ -15,10 +15,10 @@ Current total number of rules: 85
 Power distribution:
        1 with Power=4
       24 with Power=3
-      23 with Power=2
+      24 with Power=2
        4 with Power=1.7
        3 with Power=1.5
-      30 with Power=1
+      29 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -1036,15 +1036,15 @@ Amended(22) by Proposal 5102 (Zefram), 1 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 2161/0 (Power=2)
+Rule 2161/1 (Power=2)
 ID Numbers
 
       If a rule defines a type of entity as having ID numbers, then:
 
       (a) Whenever an instance of that type does not have an ID
-          number, the player held responsible by that rule (or, if
-          there is no such player, the Speaker) SHALL assign an ID
-          number to it by announcement as soon as possible.
+          number, the player held responsible by that rule SHALL
+          assign an ID number to it by announcement as soon as
+          possible.
 
       (b) Such an assignment is INVALID unless the number is a natural
           number (expressed as a decimal literal with at most 14
@@ -1067,6 +1067,7 @@ ID Numbers
 
 History:
 Created by Proposal 5110 (Murphy), 2 August 2007
+Amended(1) by Proposal 5133 (Zefram), 13 August 2007
 
 ----------------------------------------------------------------------
 
@@ -1329,8 +1330,6 @@ Office of Speaker
       objections are counted in the Agoran Consent procedure.
 
 [Cross-references (13 August 2007): the Speaker's duties are:
-  * default assigner of ID numbers (rule 2161)
-  * default officeholder (rule 1006)
   * veto or rubberstamp an Ordinary Proposal (rule 2019)
 The other provisions governing the Speakership are:
   * filling Speakership if it becomes vacant (rule 103)
@@ -1365,17 +1364,13 @@ Amended(19) by Proposal 5070 (Zefram), 11 July 2007
 
 ----------------------------------------------------------------------
 
-Rule 1006/20 (Power=1)
+Rule 1006/21 (Power=2)
 Offices
 
-      The Rules may designate positions to be offices.  No office may
-      be held by more than one player.  Each office that would
-      otherwise not be held by any player shall be held by the
-      Speaker, unless it is not possible for the Speaker to hold that
-      office.
-
-      The holder of an office may be referred to by the name of the
-      office.
+      A role is an office if and only if it is so defined by the
+      rules.  Each office at any time either is vacant (default) or is
+      filled (held) by exactly one player.  The holder of an office is
+      an officer, and may be referred to by the name of the office.
 
       If the duty of an office is to maintain certain information,
       then the officer shall publish that information at least once a
@@ -1420,19 +1415,18 @@ Amended(17) by Proposal 5059 (Zefram, Goethe), 9 July 2007
 Amended(18) by Proposal 5070 (Zefram), 11 July 2007
 Amended(19) by Proposal 5088 (Murphy), 25 July 2007
 Amended(20) by Proposal 5103 (Zefram), 1 August 2007
+Power changed from 1 to 2 by Proposal 5133 (Zefram), 13 August 2007
+Amended(21) by Proposal 5133 (Zefram), 13 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 2154/2 (Power=2)
+Rule 2154/3 (Power=2)
 Replacing Officers
 
-      Any Player may make an active Player (hereafter the nominee) the
+      Any player CAN make an active player (hereafter the nominee) the
       holder of an office, thus removing any previous holder from the
-      office, with Agoran Consent, provided:
-      (a) that office has not changed hands with this method in the
-          previous 30 days, and
-      (b) the potential officer consents to hold the office after the
-          announcement of intent is made.
+      office, with Agoran Consent, provided that the nominee consents
+      to hold the office after the announcement of intent is made.
 
       If intent to achieve consent for a nominee is announced as
       above, then any other active player may be nominated for the
@@ -1470,6 +1464,7 @@ History:
 Created by Proposal 5059 (Zefram, Goethe), 9 July 2007
 Amended(1) by Proposal 5096 (Murphy; disi.), 25 July 2007
 Amended(2) by Proposal 5108 (Zefram; disi.), 2 August 2007
+Amended(3) by Proposal 5133 (Zefram), 13 August 2007
 
 ----------------------------------------------------------------------
 
