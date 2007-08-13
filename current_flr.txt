@@ -1,6 +1,7 @@
 THE FULL LOGICAL RULESET
 
 Last proposal with recorded effect on this ruleset: 5133
+Last change to this ruleset: self-repeal of rule 2163
 
 Rule ID numbers:
       highest orderly: 2164
@@ -10,12 +11,12 @@ Rule ID numbers:
 
 Statistics
 
-Current total number of rules: 85
+Current total number of rules: 84
 
 Power distribution:
        1 with Power=4
       24 with Power=3
-      24 with Power=2
+      23 with Power=2
        4 with Power=1.7
        3 with Power=1.5
       29 with Power=1
@@ -108,7 +109,6 @@ Index of Rules
       Rule 2156: Voting on Ordinary Proposals
       Rule 2134: Win by Voting Power
       Rule 2126: Voting Credits
-      Rule 2163: Retroactively colorize first-class VCs
       Rule 2155: Parties
       Rule 2142: Support Democracy
       Rule 2019: Speaker's Veto and Rubber Stamp
@@ -2402,35 +2402,6 @@ Amended(15) by Proposal 5112 (Murphy), 2 August 2007
 Amended(16) by Proposal 5114 (Zefram), 2 August 2007
 Amended(17) by Proposal 5126 (Zefram), 13 August 2007
 Amended(18) by Proposal 5128 (Zefram, Murphy), 13 August 2007
-
-----------------------------------------------------------------------
-
-Rule 2163/0 (Power=2)
-Retroactively colorize first-class VCs
-
-      One second after the creation of this rule, each of these
-      players loses all eir Gray VCs, and gains an equal number of
-      VCs of the specified colors (in order, repeating until the
-      correct total gain is achieved):
-
-        bd_        Blue
-        BobTHJ     Green, Red, Green
-        Eris       Red
-        Murphy     Red, Blue, Green, Red, Blue
-        OscarMeyr  Green
-        Quazie     Blue, Red
-        root       Red, Blue
-        Wooble     Blue
-        Zefram     Red, Red, Green, Red, Blue, Red, Red
-
-      Two seconds after the creation of this rule, this rule is
-      repealed.
-
-      This rule takes precedence over all other rules pertaining
-      to VCs.
-
-History:
-Created by Proposal 5125 (Murphy), 13 August 2007
 
 ----------------------------------------------------------------------
 
