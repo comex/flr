@@ -1,16 +1,16 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5129
+Last proposal with recorded effect on this ruleset: 5131
 
 Rule ID numbers:
-      highest orderly: 2163
+      highest orderly: 2164
       disorderly: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 84
+Current total number of rules: 85
 
 Power distribution:
        1 with Power=4
@@ -18,7 +18,7 @@ Power distribution:
       23 with Power=2
        4 with Power=1.7
        3 with Power=1.5
-      29 with Power=1
+      30 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -119,6 +119,7 @@ Index of Rules
       Rule 1871: The Standing Court
       Rule 2157: Judicial Panels
       Rule 2158: Judicial Questions
+      Rule 2164: Judicial Self-Recusal and Case Transfer
       Rule  591: Inquiry Cases
       Rule 1504: Criminal Cases
       Rule  911: Appeal Cases
@@ -2708,6 +2709,35 @@ Judicial Questions
 
 History:
 Created by Proposal 5086 (Zefram), 23 July 2007
+
+----------------------------------------------------------------------
+
+Rule 2164/0 (Power=1)
+Judicial Self-Recusal and Case Transfer
+
+      The judge of a judicial case CAN recuse emself from it at any
+      time by announcement.
+
+      Judicial cases can generally be transferred between judges by
+      this procedure: an entity (the transferee) CAN assign emself as
+      the judge of a judicial case by announcement if:
+
+      (a) the case has a judge assigned (the transferor); and
+
+      (b) the transferor and the transferee are different entities;
+          and
+
+      (c) the transferor has previously publicly consented to the
+          transfer and not publicly withdrawn that consent; and
+
+      (d) the transferee is qualified to be assigned as judge of the
+          case; and
+
+      (e) the transferee immediately (in the same announcement)
+          assigns a judgement to a judicial question in the case.
+
+History:
+Created by Proposal 5131 (Zefram), 13 August 2007
 
 ----------------------------------------------------------------------
 
