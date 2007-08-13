@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5122
+Last proposal with recorded effect on this ruleset: 5123
 
 Rule ID numbers:
       highest orderly: 2162
@@ -10,7 +10,7 @@ Rule ID numbers:
 
 Statistics
 
-Current total number of rules: 84
+Current total number of rules: 83
 
 Power distribution:
        1 with Power=4
@@ -18,7 +18,7 @@ Power distribution:
       22 with Power=2
        4 with Power=1.7
        3 with Power=1.5
-      30 with Power=1
+      29 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -84,7 +84,6 @@ Index of Rules
       Rule 2143: Official Reports
       Rule 1551: Ratification
       Rule 2160: Deputisation
-      Rule 1377: The Herald
       Rule 1051: The Rulekeepor
       Rule 1681: The Logical Rulesets
       Rule 1450: Separation of Powers
@@ -1580,44 +1579,6 @@ Created by Proposal 5103 (Zefram), 1 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 1377/22 (Power=1)
-The Herald
-
-      The Herald is an office; its holder is responsible for keeping
-      track of marks of honour and shame relating to Agora.
-
-[Cross-references (13 August 2007): the Herald's duties are:
-  * report Patent Titles (rule 649)
-  * announce award or revocation of Patent Title (rule 649)
-  * report the manner of wins (rule 1922)]
-
-History:
-Created by Proposal 1377, Jan. 17 1995
-Infected and Amended(1) by Rule 1454, Jan. 29 1996
-Amended(2) by Proposal 2503, Mar. 3 1996
-Amended(3) by Proposal 2839 (Zefram), Mar. 11 1997, substantial
-Amended(4) by Proposal 3476 (Oerjan), May 11 1997, substantial
-Amended(5) by Proposal 3533 (General Chaos), Jul. 15 1997, substantial
-Amended(6) by Proposal 3827 (Kolja A.), Feb. 4 1999
-Amended(7) by Proposal 3871 (Peekee), Jun. 2 1999
-Amended(8) by Proposal 3889 (harvel), Aug. 9 1999
-Amended(9) by Proposal 3901 (Schneidster), Sep. 6 1999
-Amended(10) by Proposal 3902 (Murphy), Sep. 6 1999
-Amended(11) by Proposal 3926 (Crito), Oct. 10 1999
-Amended(12) by Proposal 4002 (harvel), May 8 2000
-Amended(13) by Proposal 4110 (Ziggy), Feb. 13 2001
-Amended(14) by Proposal 4124 (Elysion), Mar. 28 2001
-Amended(15) by Proposal 4250 (harvel), 19 February 2002
-Amended(16) by Proposal 4272 (Murphy), 22 March 2002
-Amended(17) by Proposal 4486 (Michael), 24 April 2003
-Amended(18) by Proposal 4563 (OscarMeyr), 6 April 2004
-Amended(19) by Proposal 4852 (root), 18 March 2006
-Amended(20) by Proposal 4868 (Goethe), 27 August 2006
-Amended(21) by Proposal 4939 (Murphy), 29 April 2007
-Amended(22) by Proposal 5036 (Zefram), 28 June 2007
-
-----------------------------------------------------------------------
-
 Rule 1051/17 (Power=1)
 The Rulekeepor
 
@@ -3017,11 +2978,12 @@ Patent Titles and Degrees
       A category concerning titles of honor and dishonor.
 ----------------------------------------------------------------------
 
-Rule 649/21 (Power=1)
+Rule 649/22 (Power=1)
 Patent Titles
 
       A Patent Title is a legal item of recognition of a person's
-      distinction.
+      distinction.  The herald is an office; its holder is responsible
+      for tracking patent titles.
 
       When a Patent Title is awarded to a person, that person is said
       to Bear that Patent Title.  When a Patent Title is revoked from
@@ -3033,6 +2995,11 @@ Patent Titles
 
       As soon as possible after a patent title is awarded or revoked,
       the herald SHALL announce the award or revocation.
+
+[Cross-references (13 August 2007): the Herald's duties are:
+  * report Patent Titles (rule 649)
+  * announce award or revocation of Patent Title (rule 649)
+  * report the manner of wins (rule 1922)]
 
 History:
 Created by Proposal 649 (Wes), ca. Oct. 22 1993
@@ -3061,6 +3028,7 @@ Amended(18) by Proposal 4865 (Goethe), 27 August 2006
 Amended(19) by Proposal 5036 (Zefram), 28 June 2007
 Amended(20) by Proposal 5084 (Zefram; disi.), 23 July 2007
 Amended(21) by Proposal 5112 (Murphy), 2 August 2007
+Amended(22) by Proposal 5123 (Zefram; disi.), 13 August 2007
 
 ----------------------------------------------------------------------
 
