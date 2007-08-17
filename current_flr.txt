@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5135
+Last proposal with recorded effect on this ruleset: 5138
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -111,7 +111,7 @@ Index of Rules
       Rule 2126: Voting Credits
       Rule 2155: Parties
       Rule 2142: Support Democracy
-      Rule 2019: Speaker's Veto and Rubber Stamp
+      Rule 2019: Rubber Stamp
 
       * Adjudication
       Rule  991: Judicial Cases Generally
@@ -1334,8 +1334,8 @@ Office of Speaker
       be replaced by Agoran Consent if e is one of those whose
       objections are counted in the Agoran Consent procedure.
 
-[Cross-references (13 August 2007): the Speaker's duties are:
-  * veto or rubberstamp an Ordinary Proposal (rule 2019)
+[Cross-references (17 August 2007): the Speaker's duties are:
+  * rubberstamp an Ordinary Proposal (rule 2019)
 The other provisions governing the Speakership are:
   * filling Speakership if it becomes vacant (rule 103)
   * installation due to winning (rule 402)
@@ -2436,12 +2436,8 @@ Amended(2) by Proposal 5044 (root), 1 July 2007
 
 ----------------------------------------------------------------------
 
-Rule 2019/8 (Power=2)
-Speaker's Veto and Rubber Stamp
-
-      The Speaker may veto an Ordinary Proposal in its voting period
-      by announcement.  Quorum for a vetoed proposal is positive
-      infinity, other rules governing quorum notwithstanding.
+Rule 2019/9 (Power=2)
+Rubber Stamp
 
       The Speaker may rubberstamp an Ordinary Proposal in its voting
       period by announcement.  Quorum for a rubberstamped proposal is
@@ -2458,6 +2454,8 @@ Amended(6) by Proposal 4885 (Murphy), 22 January 2007
 Amended(7) by Proposal 4887 (Murphy), 22 January 2007
 Amended(8) by Proposal 5049 (Zefram), 1 July 2007
 Retitled by Proposal 5049 (Zefram), 1 July 2007
+Amended(9) by Proposal 5138 (Zefram; disi.), 17 August 2007
+Retitled by Proposal 5138 (Zefram; disi.), 17 August 2007
 
 ----------------------------------------------------------------------
 
