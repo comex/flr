@@ -2813,7 +2813,6 @@ Criminal Cases
       pre-trial phase after the defendant has been informed, the
       defendant CAN end the pre-trial phase by announcement.
 
-
       The initiator and defendant are each unqualified to be assigned
       as judge of the case.  During the pre-trial phase, the defendant
       CAN disqualify one person from assignment as judge of the case,
