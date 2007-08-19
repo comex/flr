@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5141
+Last proposal with recorded effect on this ruleset: 5144
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -77,8 +77,6 @@ Index of Rules
       Rule 1750: Read the Ruleset Week
 
       * Offices
-      Rule  103: Always a Speaker
-      Rule  402: Office of Speaker
       Rule 1006: Offices
       Rule 2154: Replacing Officers
       Rule 2138: The International Associate Director of Personnel
@@ -137,6 +135,8 @@ Index of Rules
 
       * Foreign Relations
       Rule 2135: Advertising
+      Rule  402: Office of Speaker
+      Rule  103: Always a Speaker
       Rule 2148: The Ambassador
       Rule 2147: Protectorates
       Rule 2159: Protective Decrees
@@ -1297,76 +1297,6 @@ Amended(1) by Proposal 4398 (harvel), 23 October 2002
 Offices
       A category concerning administrative positions held by persons
       within the game.
-----------------------------------------------------------------------
-
-Rule 103/2 (Power=3)
-Always a Speaker
-
-      There should always be exactly one player who is the Speaker.
-      No one other than a player can be Speaker, and there can never
-      be more than one Speaker.  If there is ever no Speaker then
-      the player whose most recent registration was earliest becomes
-      the Speaker.
-
-History:
-Initial Immutable Rule 103, Jun. 30 1993
-Mutated from MI=Unanimity to MI=3 by Proposal 1481, Mar. 15 1995
-Amended(1) by Proposal 3829 (Steve), Feb. 8 1999
-Retitled by Proposal 4944 (Zefram), 3 May 2007
-Amended(2) by Proposal 4944 (Zefram), 3 May 2007
-
-----------------------------------------------------------------------
-
-Rule 402/19 (Power=1)
-Office of Speaker
-
-      The speaker is an office.
-
-      If an active player who is not the speaker has won the game
-      within the past week, e may become the speaker, thus removing
-      any previous speaker from the office, by announcement, unless
-      someone else has become speaker within the preceding 90 days.
-      If the legality of an attempted installation of this type is not
-      challenged within a week, then it is effective even if later
-      found to be illegal.
-
-      A speaker who became speaker within the preceding 90 days cannot
-      be replaced by Agoran Consent if e is one of those whose
-      objections are counted in the Agoran Consent procedure.
-
-[Cross-references (17 August 2007): the Speaker's duties are:
-  * rubberstamp an Ordinary Proposal (rule 2019)
-The other provisions governing the Speakership are:
-  * filling Speakership if it becomes vacant (rule 103)
-  * installation due to winning (rule 402)
-  * can't be replaced without consent (rule 402)
-  * initial Speaker (rule 104) (provision spent)]
-
-History:
-Created by Proposal 402 (Alexx), ca. Sep. 3 1993
-...
-Amended(1) by Proposal 1421, Feb. 7 1995
-Amended(2) by Proposal 1700, Sep. 1 1995
-Amended(3) by Proposal 2661, Sep. 7 1996
-Infected and Amended(4) by Rule 1454, Feb. 23 1997, substantial
-  (unattributed)
-Amended(5) by Proposal 3452 (Steve), Apr. 7 1997, substantial
-Amended(6) by Proposal 3703 (Steve), Mar. 9 1998
-Amended(7) by Proposal 3974 (Elysion), Feb. 14 2000
-Amended(8) by Proposal 4053 (harvel), Aug. 21 2000
-Amended(9) by Proposal 4147 (Wes), 13 May 2001
-Amended(10) by Proposal 4576 (root), 31 May 2004
-Amended(11) by Proposal 4768 (root), 25 May 2005
-Amended(12) by Proposal 4798 (Maud, Goethe), 6 June 2005
-Amended(13) by Proposal 4836 (Goethe, Maud), 2 October 2005
-Amended(14) by Proposal 4853 (Goethe), 18 March 2006
-Amended(15) by Proposal 4861 (Goethe), 30 May 2006
-Amended(16) by Proposal 4868 (Goethe), 27 August 2006
-Amended(17) by Proposal 4878 (Goethe), 22 January 2007
-Amended(18) by Proposal 4887 (Murphy), 22 January 2007
-Retitled by Proposal 5070 (Zefram), 11 July 2007
-Amended(19) by Proposal 5070 (Zefram), 11 July 2007
-
 ----------------------------------------------------------------------
 
 Rule 1006/21 (Power=2)
@@ -3351,6 +3281,82 @@ Created by Proposal 4931 (Zefram), 29 April 2007
 Amended(1) by Proposal 5035 (Zefram), 28 June 2007
 Retitled by Proposal 5122 (Zefram), 13 August 2007
 Amended(2) by Proposal 5122 (Zefram), 13 August 2007
+
+----------------------------------------------------------------------
+
+Rule 402/20 (Power=1)
+Office of Speaker
+
+      The speaker is an office.  The speaker is the head of state of
+      this nomic.  The speaker embodies the spirit of Agora.
+      Diplomatic missions from this nomic to foreign nomics operate on
+      behalf of the speaker.
+
+      If an active player who is not the speaker has won the game
+      within the past week, e may become the speaker, thus removing
+      any previous speaker from the office, by announcement, unless
+      someone else has become speaker within the preceding 90 days.
+      If the legality of an attempted installation of this type is not
+      challenged within a week, then it is effective even if later
+      found to be illegal.
+
+      A speaker who became speaker within the preceding 90 days cannot
+      be replaced by Agoran Consent if e is one of those whose
+      objections are counted in the Agoran Consent procedure.
+
+[Cross-references (19 August 2007): the Speaker's duties are:
+  * track truthiness (rule 2149)
+  * rubberstamp an Ordinary Proposal (rule 2019)
+  * titular head of state (rule 402)
+The other provisions governing the Speakership are:
+  * installation due to winning (rule 402)
+  * can't be replaced without consent (rule 402)
+  * filling Speakership if it becomes vacant (rule 103)
+  * initial Speaker (rule 104) (provision spent)]
+
+History:
+Created by Proposal 402 (Alexx), ca. Sep. 3 1993
+...
+Amended(1) by Proposal 1421, Feb. 7 1995
+Amended(2) by Proposal 1700, Sep. 1 1995
+Amended(3) by Proposal 2661, Sep. 7 1996
+Infected and Amended(4) by Rule 1454, Feb. 23 1997, substantial
+  (unattributed)
+Amended(5) by Proposal 3452 (Steve), Apr. 7 1997, substantial
+Amended(6) by Proposal 3703 (Steve), Mar. 9 1998
+Amended(7) by Proposal 3974 (Elysion), Feb. 14 2000
+Amended(8) by Proposal 4053 (harvel), Aug. 21 2000
+Amended(9) by Proposal 4147 (Wes), 13 May 2001
+Amended(10) by Proposal 4576 (root), 31 May 2004
+Amended(11) by Proposal 4768 (root), 25 May 2005
+Amended(12) by Proposal 4798 (Maud, Goethe), 6 June 2005
+Amended(13) by Proposal 4836 (Goethe, Maud), 2 October 2005
+Amended(14) by Proposal 4853 (Goethe), 18 March 2006
+Amended(15) by Proposal 4861 (Goethe), 30 May 2006
+Amended(16) by Proposal 4868 (Goethe), 27 August 2006
+Amended(17) by Proposal 4878 (Goethe), 22 January 2007
+Amended(18) by Proposal 4887 (Murphy), 22 January 2007
+Retitled by Proposal 5070 (Zefram), 11 July 2007
+Amended(19) by Proposal 5070 (Zefram), 11 July 2007
+Amended(20) by Proposal 5144 (Zefram), 19 August 2007
+
+----------------------------------------------------------------------
+
+Rule 103/2 (Power=3)
+Always a Speaker
+
+      There should always be exactly one player who is the Speaker.
+      No one other than a player can be Speaker, and there can never
+      be more than one Speaker.  If there is ever no Speaker then
+      the player whose most recent registration was earliest becomes
+      the Speaker.
+
+History:
+Initial Immutable Rule 103, Jun. 30 1993
+Mutated from MI=Unanimity to MI=3 by Proposal 1481, Mar. 15 1995
+Amended(1) by Proposal 3829 (Steve), Feb. 8 1999
+Retitled by Proposal 4944 (Zefram), 3 May 2007
+Amended(2) by Proposal 4944 (Zefram), 3 May 2007
 
 ----------------------------------------------------------------------
 
