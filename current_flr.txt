@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5140
+Last proposal with recorded effect on this ruleset: 5141
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -2264,7 +2264,7 @@ Amended(19) by Proposal 5078 (Zefram), 18 July 2007
 
 ----------------------------------------------------------------------
 
-Rule 2156/1 (Power=2)
+Rule 2156/2 (Power=2)
 Voting on Ordinary Proposals
 
       Each player has a parameter known as eir base voting limit on
@@ -2289,11 +2289,14 @@ Voting on Ordinary Proposals
       The eligible voters on an ordinary proposal are those entities
       that were active players at the start of its voting period.  The
       voting limit of an eligible voter on an ordinary proposal is eir
-      EVLOP at the start of its voting period.
+      EVLOP at the start of its voting period, or half that (rounded
+      up) if the voter is in the chokey at the start of the voting
+      period.
 
 History:
 Created by Proposal 5078 (Zefram), 18 July 2007
 Amended(1) by Proposal 5082 (Zefram), 23 July 2007
+Amended(2) by Proposal 5141 (Zefram), 19 August 2007
 
 ----------------------------------------------------------------------
 
