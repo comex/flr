@@ -11,7 +11,7 @@ Rule ID numbers:
 
 Statistics
 
-Current total number of rules: 85
+Current total number of rules: 84
 
 Power distribution:
        1 with Power=4
@@ -19,7 +19,7 @@ Power distribution:
       24 with Power=2
        4 with Power=1.7
        3 with Power=1.5
-      29 with Power=1
+      28 with Power=1
 
 ----------------------------------------------------------------------
 
