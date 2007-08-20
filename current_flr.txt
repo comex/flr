@@ -1189,6 +1189,10 @@ Dependent Actions
       dependently does not prohibit performing that action
       independently if doing so would otherwise be permissible.
 
+[CFJ 1722 (called 15 August 2007): The method of dependent action need
+not be described exactly: an approximate but inexact description
+suffices, as does the rule-defined term.]
+
 History:
 Created by Proposal 3521 (Chuck), Jun. 23 1997
 Infected and Amended(1) by Rule 1454, Nov. 2 1997, substantial
@@ -1690,8 +1694,13 @@ Initiating Agoran Decisions
       than seven days, unless the decision is whether to approve a
       dependent action.
 
-[CFJ 1650 (called 6 May 2007): The information required in the notice
-need not be explicit.]
+[CFJ 1650 (called 6 May 2007): The intent to initiate the decision and
+the information required in the notice need not be explicit.]
+
+[CFJ 1722 (called 15 August 2007): Information that is explicitly
+presented in the notice takes precedence over any information that
+would be implicit, even where the explicit information is inaccurate
+and the implicit information would have been accurate.]
 
 [CFJ 1651 (called 6 May 2007): If a R107 notice initiating an Agoran
 decision does not contain an explicit list of the eligible voters, and
