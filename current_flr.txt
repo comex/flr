@@ -845,6 +845,13 @@ by announcement, announcing that one deems something to be the case
 that would result from that action does not constitute performing the
 action.]
 
+[CFJ 1584 (called 24 February 2006), CFJ 1728 (called 20 August 2007):
+Saying "I do X 1000 times", where X is something that can be done by
+announcement, is an acceptable shorthand for 1000 instances of "I do
+X", but this shorthand cannot be used with an infinite repeat count,
+because it is impossible to write out an infinite number of instances
+of "I do X".]
+
 History:
 Created by Proposal 478 (Jim Shea), Sep. 20 1993
 Amended(1) by Proposal 1477, Mar. 8 1995
