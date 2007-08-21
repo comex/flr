@@ -26,6 +26,7 @@ Power distribution:
 Index of Categories
 
       * The Game of Agora
+      * Rules
       * Players
       * Definitions
       * Offices
@@ -47,13 +48,17 @@ Index of Rules
       Rule 1586: Definition and Continuity of Entities
       Rule 1688: Power
       Rule 2140: Power Controls Mutability
+      Rule 2149: Truthiness, or the Island of Knights and Knaves
+      Rule 2110: Win by Paradox
+
+      * Rules
       Rule 2141: Role and Attributes of Rules
       Rule  217: Interpreting the Rules
       Rule 1482: Precedence between Rules with Unequal Power
       Rule 1030: Precedence between Rules with Equal Power
       Rule  105: Rule Changes
-      Rule 2149: Truthiness, or the Island of Knights and Knaves
-      Rule 2110: Win by Paradox
+      Rule 1681: The Logical Rulesets
+      Rule 1051: The Rulekeepor
 
       * Players
       Rule  869: How to Join and Leave Agora
@@ -83,9 +88,6 @@ Index of Rules
       Rule 2143: Official Reports
       Rule 1551: Ratification
       Rule 2160: Deputisation
-      Rule 1051: The Rulekeepor
-      Rule 1681: The Logical Rulesets
-      Rule 1450: Separation of Powers
 
       * Agoran Decisions
       Rule  693: Agoran Decisions
@@ -102,6 +104,7 @@ Index of Rules
       Rule  106: Adopting Proposals
       Rule 2153: Disinterested Proposals
       Rule 1607: The Promotor
+      Rule 1450: Separation of Powers
       Rule 1698: The Proposal System Is Protected
       Rule 1950: Voting on Democratic Proposals
       Rule 2156: Voting on Ordinary Proposals
@@ -329,6 +332,44 @@ Created by Proposal 4940 (Zefram), 29 April 2007
 
 ----------------------------------------------------------------------
 
+Rule 2149/3 (Power=1)
+Truthiness, or the Island of Knights and Knaves
+
+      Truthiness is a player switch with values Knight (default) and
+      Knave, tracked by the Speaker.
+
+      A knight SHALL NOT publish statements that e believes are false.
+      A knave SHOULD NOT publish statements that e believes are true.
+
+History:
+Created by Proposal 4990 (Zefram), 6 June 2007
+Amended(1) by Proposal 5075 (Zefram), 18 July 2007
+Amended(2) by Proposal 5129 (Zefram; disi.), 13 August 2007
+Retitled by Proposal 5140 (Murphy), 19 August 2007
+Amended(3) by Proposal 5140 (Murphy), 19 August 2007
+
+----------------------------------------------------------------------
+
+Rule 2110/1 (Power=3)
+Win by Paradox
+
+      If the legality of an action cannot be determined with finality,
+      or if by a Judge's best reasoning, not appealed within a week of
+      eir Judgement, an action appears equally legal and illegal, then
+      the first player to announce this fact wins the game.
+
+History:
+Created by Proposal 4781 (Sherlock), 3 June 2005
+Amended(1) by Proposal 4891 (Murphy), 22 January 2007
+
+----------------------------------------------------------------------
+
+======================================================================
+Rules
+      A category concerning the rules of the game, including the
+      processes of changing the rules.
+----------------------------------------------------------------------
+
 Rule 2141/1 (Power=3)
 Role and Attributes of Rules
 
@@ -554,35 +595,97 @@ Amended(3) by Proposal 5110 (Murphy), 2 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 2149/3 (Power=1)
-Truthiness, or the Island of Knights and Knaves
+Rule 1681/11 (Power=1)
+The Logical Rulesets
 
-      Truthiness is a player switch with values Knight (default) and
-      Knave, tracked by the Speaker.
+      There is a format of the ruleset known as the Short Logical
+      Ruleset (SLR).  In this format, each rule is assigned to a
+      category, and the rules are grouped according to their category.
 
-      A knight SHALL NOT publish statements that e believes are false.
-      A knave SHOULD NOT publish statements that e believes are true.
+      Rules are assigned to, ordered within, or moved between
+      categories, and categories are added, changed, or empty
+      categories removed, as the Rulekeepor sees fit.
+
+      The listing of each rule in the SLR must include the rule's ID
+      number, revision number, power, title, and text.
+
+      The Rulekeepor is strongly encouraged not to include any
+      additional information in the SLR, except that which increases
+      the readability of the SLR.
+
+      There is a format of the ruleset known as the Full Logical
+      Ruleset (FLR).  In this format, rules are assigned to the same
+      category and presented in the same order as in the SLR.  The FLR
+      must contain all the information required to be in the SLR, and
+      any historical annotations which the Rulekeepor is required to
+      record.
+
+      The Rulekeepor is also free to include any other information
+      which e feels may be helpful in the use of the ruleset in the
+      FLR.
+
+      Whenever a rule is changed in any way, the Rulekeepor shall
+      record a historical annotation to the rule indicating the type
+      of change, the date on which the change took effect, the
+      mechanism which specified the change, and if the rule was
+      changed due to a proposal, a reference to that proposal, its
+      proposer, and any coauthors explicitly named in that proposal.
 
 History:
-Created by Proposal 4990 (Zefram), 6 June 2007
-Amended(1) by Proposal 5075 (Zefram), 18 July 2007
-Amended(2) by Proposal 5129 (Zefram; disi.), 13 August 2007
-Retitled by Proposal 5140 (Murphy), 19 August 2007
-Amended(3) by Proposal 5140 (Murphy), 19 August 2007
+Created by Proposal 2783 (Chuck), Jan 15 1997
+Amended(1) by Proposal 3500 (Crito), Jun. 3 1997, substantial
+  (unattributed)
+Amended(2) by Proposal 3624 (Chuck), Dec. 29 1997
+Amended(3) by Proposal 3704 (General Chaos), Mar. 19 1998
+Amended(4) by Proposal 3902 (Murphy), Sep. 6 1999
+Amended(5) by Proposal 4002 (harvel), May 8 2000
+Amended(6) by Proposal 4811 (Maud, Goethe), 20 June 2005
+Amended(7) by Proposal 4841 (Goethe), 27 October 2005
+Amended(8) by Proposal 4868 (Goethe), 27 August 2006
+Amended(9) by Proposal 4887 (Murphy), 22 January 2007
+Amended(10) by Proposal 5006 (Zefram), 18 June 2007
+Amended(11) by Proposal 5110 (Murphy), 2 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 2110/1 (Power=3)
-Win by Paradox
+Rule 1051/17 (Power=1)
+The Rulekeepor
 
-      If the legality of an action cannot be determined with finality,
-      or if by a Judge's best reasoning, not appealed within a week of
-      eir Judgement, an action appears equally legal and illegal, then
-      the first player to announce this fact wins the game.
+      The Rulekeepor is an office; its holder is responsible for
+      maintaining the text of the rules of Agora.
+
+      The Rulekeepor's Weekly Report shall include the Short Logical
+      Ruleset.  The Rulekeepor's Monthly Report shall include the Full
+      Logical Ruleset.
+
+[Cross-references (2 August 2007): the Rulekeepor's duties are:
+  * manage ID numbers of rules (rule 2141)
+  * assign title to rule (rule 2141)
+  * report ruleset in two formats (rule 1051)
+  * manage Logical Ruleset categories (rule 1681)
+  * annotate the Full Logical Ruleset (rule 1681)
+  * maintain historical rule annotations (rule 1681)]
 
 History:
-Created by Proposal 4781 (Sherlock), 3 June 2005
-Amended(1) by Proposal 4891 (Murphy), 22 January 2007
+...
+Amended(1) by Proposal 1735, Oct. 15 1995
+Amended(2) by Proposal 2042, Dec. 11 1995
+Amended(3) by Proposal 2048, Dec. 19 1995
+Amended(4) by Proposal 2662, Sep. 12 1996
+Amended(5) by Proposal 2696, Oct. 10 1996
+Null-Amended(6) by Proposal 2710, Oct. 12 1996
+Amended(7) by Proposal 2741 (Zefram), Nov. 7 1996, substantial
+Infected and Amended(8) by Rule 1454, Nov. 27 1996,
+  substantial (unattributed)
+Amended(9) by Proposal 2783 (Chuck), Jan. 15 1997, substantial
+Amended(10) by Proposal 3452 (Steve), Apr. 7 1997, substantial
+Amended(11) by Proposal 3675 (Michael), Jan. 30 1998
+Amended(12) by Proposal 3827 (Kolja A.), Feb. 4 1999
+Amended(13) by Proposal 3871 (Peekee), Jun. 2 1999
+Amended(14) by Proposal 3882 (harvel), Jul. 21 1999
+Amended(15) by Proposal 3902 (Murphy), Sep. 6 1999
+Amended(16) by Proposal 4002 (harvel), May 8 2000
+Amended(17) by Proposal 4250 (harvel), 19 February 2002
 
 ----------------------------------------------------------------------
 
@@ -1535,121 +1638,6 @@ Created by Proposal 5103 (Zefram), 1 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 1051/17 (Power=1)
-The Rulekeepor
-
-      The Rulekeepor is an office; its holder is responsible for
-      maintaining the text of the rules of Agora.
-
-      The Rulekeepor's Weekly Report shall include the Short Logical
-      Ruleset.  The Rulekeepor's Monthly Report shall include the Full
-      Logical Ruleset.
-
-[Cross-references (2 August 2007): the Rulekeepor's duties are:
-  * manage ID numbers of rules (rule 2141)
-  * assign title to rule (rule 2141)
-  * report ruleset in two formats (rule 1051)
-  * manage Logical Ruleset categories (rule 1681)
-  * annotate the Full Logical Ruleset (rule 1681)
-  * maintain historical rule annotations (rule 1681)]
-
-History:
-...
-Amended(1) by Proposal 1735, Oct. 15 1995
-Amended(2) by Proposal 2042, Dec. 11 1995
-Amended(3) by Proposal 2048, Dec. 19 1995
-Amended(4) by Proposal 2662, Sep. 12 1996
-Amended(5) by Proposal 2696, Oct. 10 1996
-Null-Amended(6) by Proposal 2710, Oct. 12 1996
-Amended(7) by Proposal 2741 (Zefram), Nov. 7 1996, substantial
-Infected and Amended(8) by Rule 1454, Nov. 27 1996,
-  substantial (unattributed)
-Amended(9) by Proposal 2783 (Chuck), Jan. 15 1997, substantial
-Amended(10) by Proposal 3452 (Steve), Apr. 7 1997, substantial
-Amended(11) by Proposal 3675 (Michael), Jan. 30 1998
-Amended(12) by Proposal 3827 (Kolja A.), Feb. 4 1999
-Amended(13) by Proposal 3871 (Peekee), Jun. 2 1999
-Amended(14) by Proposal 3882 (harvel), Jul. 21 1999
-Amended(15) by Proposal 3902 (Murphy), Sep. 6 1999
-Amended(16) by Proposal 4002 (harvel), May 8 2000
-Amended(17) by Proposal 4250 (harvel), 19 February 2002
-
-----------------------------------------------------------------------
-
-Rule 1681/11 (Power=1)
-The Logical Rulesets
-
-      There is a format of the ruleset known as the Short Logical
-      Ruleset (SLR).  In this format, each rule is assigned to a
-      category, and the rules are grouped according to their category.
-
-      Rules are assigned to, ordered within, or moved between
-      categories, and categories are added, changed, or empty
-      categories removed, as the Rulekeepor sees fit.
-
-      The listing of each rule in the SLR must include the rule's ID
-      number, revision number, power, title, and text.
-
-      The Rulekeepor is strongly encouraged not to include any
-      additional information in the SLR, except that which increases
-      the readability of the SLR.
-
-      There is a format of the ruleset known as the Full Logical
-      Ruleset (FLR).  In this format, rules are assigned to the same
-      category and presented in the same order as in the SLR.  The FLR
-      must contain all the information required to be in the SLR, and
-      any historical annotations which the Rulekeepor is required to
-      record.
-
-      The Rulekeepor is also free to include any other information
-      which e feels may be helpful in the use of the ruleset in the
-      FLR.
-
-      Whenever a rule is changed in any way, the Rulekeepor shall
-      record a historical annotation to the rule indicating the type
-      of change, the date on which the change took effect, the
-      mechanism which specified the change, and if the rule was
-      changed due to a proposal, a reference to that proposal, its
-      proposer, and any coauthors explicitly named in that proposal.
-
-History:
-Created by Proposal 2783 (Chuck), Jan 15 1997
-Amended(1) by Proposal 3500 (Crito), Jun. 3 1997, substantial
-  (unattributed)
-Amended(2) by Proposal 3624 (Chuck), Dec. 29 1997
-Amended(3) by Proposal 3704 (General Chaos), Mar. 19 1998
-Amended(4) by Proposal 3902 (Murphy), Sep. 6 1999
-Amended(5) by Proposal 4002 (harvel), May 8 2000
-Amended(6) by Proposal 4811 (Maud, Goethe), 20 June 2005
-Amended(7) by Proposal 4841 (Goethe), 27 October 2005
-Amended(8) by Proposal 4868 (Goethe), 27 August 2006
-Amended(9) by Proposal 4887 (Murphy), 22 January 2007
-Amended(10) by Proposal 5006 (Zefram), 18 June 2007
-Amended(11) by Proposal 5110 (Murphy), 2 August 2007
-
-----------------------------------------------------------------------
-
-Rule 1450/7 (Power=2)
-Separation of Powers
-
-      Any change in officeholdings that would result in a single
-      entity holding the offices of promotor and assessor
-      simultaneously is INVALID.  This rule takes precedence over all
-      other rules regarding offices.
-
-History:
-Created by Proposal 1547, Apr. 14 1995
-Amended(1) by Proposal 2442, Feb. 6 1996
-Amended(2) by Proposal 3742 (Harlequin), May 8 1998
-Amended(3) by Proposal 4576 (root), 31 May 2004
-Amended(4) by Proposal 4592 (Murphy), 4 July 2004
-Amended(5) by Proposal 4868 (Goethe), 27 August 2006
-Power changed from 1 to 2 by Proposal 4868 (Goethe), 27 August 2006
-Amended(6) by Proposal 4939 (Murphy), 29 April 2007
-Amended(7) by Proposal 5106 (Zefram), 1 August 2007
-
-----------------------------------------------------------------------
-
 ======================================================================
 Agoran Decisions
       A category concerning the means by which this nomic makes
@@ -2172,6 +2160,27 @@ Amended(12) by Proposal 4868 (Goethe), 27 August 2006
 Amended(13) by Proposal 5077 (Murphy), 18 July 2007
 Amended(14) by Proposal 5110 (Murphy), 2 August 2007
 Amended(15) by Proposal 5112 (Murphy), 2 August 2007
+
+----------------------------------------------------------------------
+
+Rule 1450/7 (Power=2)
+Separation of Powers
+
+      Any change in officeholdings that would result in a single
+      entity holding the offices of promotor and assessor
+      simultaneously is INVALID.  This rule takes precedence over all
+      other rules regarding offices.
+
+History:
+Created by Proposal 1547, Apr. 14 1995
+Amended(1) by Proposal 2442, Feb. 6 1996
+Amended(2) by Proposal 3742 (Harlequin), May 8 1998
+Amended(3) by Proposal 4576 (root), 31 May 2004
+Amended(4) by Proposal 4592 (Murphy), 4 July 2004
+Amended(5) by Proposal 4868 (Goethe), 27 August 2006
+Power changed from 1 to 2 by Proposal 4868 (Goethe), 27 August 2006
+Amended(6) by Proposal 4939 (Murphy), 29 April 2007
+Amended(7) by Proposal 5106 (Zefram), 1 August 2007
 
 ----------------------------------------------------------------------
 
