@@ -689,6 +689,11 @@ The Registrar
 by announcement if the new nickname that e specifies is the current
 nickname of another player.]
 
+[CFJ 1361 (called 7 May 2002): Purporting to assign a new nickname,
+previously unused to refer to any entity, to another player is
+successful, but does not displace the target's existing name or
+nickname.]
+
 [Cross-references (2 August 2007): the Registrar's duties are:
   * track citizenship (rule 869)
   * report players' nicknames and email addresses (rule 2139)
@@ -822,6 +827,10 @@ clear indication that that text is intended to become a Proposal'
 (R1483) merely be sent to the Public Forum by a Proposing Entity; the
 collection of text must also be received in the Public Forum.]
 
+[CFJ 1314 (called 15 August 2001): If a message sent to a public forum
+is rejected by the list moderator, it still qualifies as having been
+sent via a public forum.]
+
 [CFJ 1631 (called 29 April 2007): Public announcements must be made in
 the message body; the subject line is insignificant.]
 
@@ -839,6 +848,10 @@ says so.]
 public messages sent on eir behalf, including via a web form that
 allows all-comers to send messages on eir behalf without specific
 approval.]
+
+[CFJ 1336 (called 13 December 2001): A public statement that one
+wishes to perform an action that one can perform by announcement can
+constitute an announcement that performs that action.]
 
 [CFJ 1621 (called 8 February 2007): Where an action can be performed
 by announcement, announcing that one deems something to be the case
@@ -2437,6 +2450,9 @@ Judicial Cases Generally
 referenced by using the customarily-assigned sequence numbers, even if
 the number was not assigned in the public forum, provided that those
 involved accept it as unambiguous at the time.]
+
+[CFJ 1355 (called 28 April 2002): Titles for CFJs are unregulated, so
+it is possible for a title to be assigned to a CFJ informally.]
 
 [Cross-references (2 August 2007): the Clerk of the Courts' duties are:
   * issue Writ of FAGE (rule 1789)
