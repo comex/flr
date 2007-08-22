@@ -1851,6 +1851,11 @@ Resolving Agoran decisions
       This rule takes precedence over any rule that would provide
       another mechanism by which an Agoran decision may be resolved.
 
+[CFJ 1711 (called 1 August 2007): If a purported resolution notice
+refers to a previous notice with an incomplete vote tally and lists
+additional votes but does not give revised totals, this does not
+qualify as including a vote tally.]
+
 History:
 Initial Mutable Rule 208, Jun. 30 1993
 Amended(1) by Proposal 1401, Jan. 29 1995
