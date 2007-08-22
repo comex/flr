@@ -797,6 +797,11 @@ previously unused to refer to any entity, to another player is
 successful, but does not displace the target's existing name or
 nickname.]
 
+[CFJ 1420 (called 17 December 2002): The list of watchers, customarily
+published with the registrar's report, is part of the game state, even
+though it is not mentioned in the rules and no one is obliged to track
+or publish it.]
+
 [Cross-references (2 August 2007): the Registrar's duties are:
   * track citizenship (rule 869)
   * report players' nicknames and email addresses (rule 2139)
@@ -908,6 +913,11 @@ Fora
       e performs it.  Any action performed by sending a message is
       performed at the time date-stamped on that message.
 
+[CFJs 1451-1452 (called 6 March 2003): A message that is split into
+multiple email messages can qualify as a single message for game
+purposes, if it is obvious how to combine the parts to reconstruct the
+single message.]
+
 [CFJ 752 (called 13 March 1995): Something sent to a Player who is
 obligated to send it to all Players is sufficient for sending
 something to the PF.]
@@ -1018,8 +1028,21 @@ Definition Definitions
       This rule takes precedence over any other rules which dictate
       terminology or grammar.
 
+[CFJ 1439 (called 20 February 2003): A difference in language
+qualifies as a difference in dialect; it is possible to take game
+actions by messages in languages other than English.]
+
+[CFJ 1460 (called 4 April 2003): If a message is in a language other
+than English, and its intended audience does not understand the
+language, this constitutes gross unclarity that makes the message
+ineffective.]
+
 [CFJ 712: Referring to a Player by a method other than eir name or
 nickname is acceptable, as long as it is unambiguous.]
+
+[CFJ 1460 (called 4 April 2003): Extremely complex synonyms, requiring
+extensive effort to interpret correctly, can constitute a sufficient
+degree of unclarity as to render the message ineffective.]
 
 History:
 Created by Proposal 435 (Alexx), Aug. 30 1993
@@ -1395,6 +1418,12 @@ Holidays
       The period each year from midnight GMT on the morning of 24
       December to the beginning of the first Agoran week to begin
       after 2 January is a Holiday.
+
+[CFJ 1434 (called 24 January 2003): The registration of a player is an
+event for the purposes of rule 1769.]
+
+[CFJ 1434 (called 24 January 2003): The expiration of a rule-defined
+period is an event for the purposes of rule 1769.]
 
 History:
 Created by Proposal 3679 (General Chaos), Jan. 30 1998
@@ -3181,6 +3210,10 @@ Contracts
       accordance with that contract.  This obligation is not impaired
       by contradiction between the contract and any other contract, or
       between the contract and the rules.
+
+[CFJ 1455 (called 14 March 2003): A contract cannot cause an
+otherwise-insignificant action by a non-party to constitute consent to
+be bound by the contract.]
 
 [CFJ 1686 (called 7 June 2007): A person who is not a party to an
 agreement categorically cannot violate it.]
