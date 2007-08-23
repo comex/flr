@@ -2806,6 +2806,11 @@ logically depends on the truth of statements of a previously-called
 CFJ which has not yet been judged, the judge is entitled to treat this
 as a situation of insufficient information being available.]
 
+[CFJ 1732 (called 23 August 2007): If a particular player holds a
+particular office, and an inquiry case on a statement that that player
+holds that office is judged FALSE, that player still holds that
+office.]
+
 History:
 Initial Mutable Rule 216, Jun. 30 1993
 Amended by Proposal 409 (Alexx), Aug. 26 1993
