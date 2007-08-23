@@ -1062,6 +1062,14 @@ nickname is acceptable, as long as it is unambiguous.]
 extensive effort to interpret correctly, can constitute a sufficient
 degree of unclarity as to render the message ineffective.]
 
+[CFJ 1580 (called 12 January 2006): Base64 encoding of (part of) a
+message, other than in the context of MIME with appropriate headers,
+can render a message ineffective for unclarity, because the decoding
+step requires unreasonable effort within the meaning of CFJ 1460.]
+
+[CFJ 1536 (called 13 March 2005): The phrase "AOL!" is not a
+sufficiently clear synonym for "Me too!".]
+
 History:
 Created by Proposal 435 (Alexx), Aug. 30 1993
 Amended by Proposal 754 (KoJen), Dec. 1 1993
@@ -2177,10 +2185,11 @@ The Promotor
       The Promotor's report includes a list of all proposals in the
       Proposal Pool.
 
-[CFJ 1669 (called 16 May 2007): If a proposal is purportedly
-distributed with a text that differs from the submitted text, this
-constitutes a legal distribution of the submitted proposal if and only
-if the difference does not affect the meaning of the proposal.]
+[CFJ 1546 (called 14 April 2005), CFJ 1669 (called 16 May 2007): If a
+proposal is purportedly distributed with a text that differs from the
+submitted text, this constitutes a legal distribution of the submitted
+proposal if and only if the difference does not affect the meaning of
+the proposal.]
 
 [CFJ 1655 (called 9 May 2007): Distributing a purported proposal whose
 text consists of the texts of two submitted proposals and separating
@@ -3030,6 +3039,9 @@ Appeal Cases
       * if OVERRULE with a replacement judgement, the replacement
         judgement is assigned to the prior question
 
+[CFJ 1597 (called 22 December 2006): It is possible to appeal a
+judgement even if it is not certain that the judgement exists.]
+
 History:
 Created by Proposal 384 (Alexx), Aug. 16 1993
 Amended by Proposal 690 (Ronald Kunne), Nov. 11 1993
@@ -3079,6 +3091,28 @@ Patent Titles
 
       As soon as possible after a patent title is awarded or revoked,
       the herald SHALL announce the award or revocation.
+
+[CFJ 1525 (called 15 November 2004): If a patent title is defined by
+the rules, and previously the rules defined a patent title with the
+same spelling but a different award condition, the two are the same
+patent title.]
+
+[CFJ 1561 (called 29 April 2005): A patent title cannot be borne by a
+non-person.]
+
+[CFJ 1592 (called 1 December 2006): A patent title, once borne, is
+borne until explicitly revoked, even if the rule defining the patent
+title is repealed or the patent title was never defined by a rule.]
+
+[Note (23 August 2007): Game custom is that a person can bear more
+than one instance of a particular patent title.]
+
+[CFJ 1598 (called 30 December 2006): A person cannot bear more than
+one instance of a particular patent title.]
+
+[CFJ 1591 (called 1 December 2006): Where a person bears the patent
+title X, and X is not also defined by the rules to have some special
+meaning, it is correct to say that that person "is an X".]
 
 [Cross-references (13 August 2007): the Herald's duties are:
   * report Patent Titles (rule 649)
