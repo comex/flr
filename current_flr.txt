@@ -233,6 +233,10 @@ have the rule-defined status of "player".]
 within a reasonable time may be in violation of the Rules, even if the
 Rules do not provide a time limit for the performance of that duty.]
 
+[CFJ 1488 (called 11 February 2004): Engineering a situation in which
+other players are unable to follow a particular rule is not in itself
+a violation of that rule.]
+
 History:
 Initial Immutable Rule 101, Jun. 30 1993
 Mutated from MI=Unanimity to MI=3 by Proposal 1480, Mar. 15 1995
@@ -395,6 +399,10 @@ Role and Attributes of Rules
       the text, power, ID number, and title of a rule are all
       substantive aspects of the rule.
 
+[CFJ 1498 (called 12 April 2004): A rule's title is not strictly a
+name for the rule, and so rule titles are not subject to the
+uniqueness requirement on names of rule-defined entities.]
+
 History:
 Created by Proposal 4940 (Zefram), 29 April 2007
 Amended(1) by Proposal 5110 (Murphy), 2 August 2007
@@ -546,6 +554,13 @@ Rule Changes
       This rule provides the only mechanism by which rules can be
       created, modified, or destroyed, or by which an entity can
       become a rule or cease to be a rule.
+
+[CFJ 1499 (called 20 April 2004), CFJ 1623 (called 1 April 2007): If a
+low-power rule states that an officer can repeal the rule under
+certain circumstances, then the rule cannot actually be repealed by
+this process, because the officer, not being an instrument, is
+categorically incapable of performing rule changes; this is different
+from the situation where a rule can be triggered to repeal itself.]
 
 [CFJ 708 (called October 1994): An Amendment of a non-existing Rule is
 not a legal Rule Change.]
@@ -796,6 +811,9 @@ nickname of another player.]
 previously unused to refer to any entity, to another player is
 successful, but does not displace the target's existing name or
 nickname.]
+
+[CFJ 1489 (called 11 February 2004): Watchers are not a rule-defined
+element of the game.]
 
 [CFJ 1420 (called 17 December 2002): The list of watchers, customarily
 published with the registrar's report, is part of the game state, even
@@ -1424,6 +1442,10 @@ event for the purposes of rule 1769.]
 
 [CFJ 1434 (called 24 January 2003): The expiration of a rule-defined
 period is an event for the purposes of rule 1769.]
+
+[CFJ 1480 (called 5 January 2004): An automatic event specified to
+occur at regular calendar intervals, for example quarterly, happens at
+its specified time even if that is during a holiday.]
 
 History:
 Created by Proposal 3679 (General Chaos), Jan. 30 1998
@@ -2769,6 +2791,11 @@ Inquiry Cases
 can be determined as of the initiation of a CFJ even if public
 knowledge at the time of initiation was not sufficient to determine
 it.]
+
+[CFJ 1482 (called 10 February 2004): If the truth of a CFJ statement
+logically depends on the truth of statements of a previously-called
+CFJ which has not yet been judged, the judge is entitled to treat this
+as a situation of insufficient information being available.]
 
 History:
 Initial Mutable Rule 216, Jun. 30 1993
