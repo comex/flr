@@ -3362,6 +3362,9 @@ Contests
       this fact.  Upon such an announcement, each player's score is
       set to zero.
 
+[CFJ 1729 (called 21 August 2007): One who is a contestmaster of
+multiple contests can award 10 points per contest in a single week.]
+
 [Cross-references (18 July 2007): the Scorekeepor's duties are:
   * report scores (rule 2136)]
 
