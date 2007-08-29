@@ -1,22 +1,22 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5172
+Last proposal with recorded effect on this ruleset: 5173
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
-      highest orderly: 2165
+      highest orderly: 2166
       disorderly: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 84
+Current total number of rules: 85
 
 Power distribution:
        1 with Power=4
       24 with Power=3
-      24 with Power=2
+      25 with Power=2
        4 with Power=1.7
        3 with Power=1.5
       28 with Power=1
@@ -76,6 +76,7 @@ Index of Rules
       Rule 2146: Indices
       Rule 2162: Switches
       Rule 2150: Personhood
+      Rule 2166: Assets
       Rule 1728: Dependent Actions
       Rule 2124: Methods of Dependent Actions
       Rule 1769: Holidays
@@ -1338,6 +1339,40 @@ against personhood and against one having spoken on one's own behalf.]
 History:
 Created by Proposal 5007 (Zefram), 18 June 2007
 Amended(1) by Proposal 5061 (Zefram), 9 July 2007
+
+----------------------------------------------------------------------
+
+Rule 2166/0 (Power=2)
+Assets
+
+      An asset is an entity defined as such by an instrument
+      (hereafter its backing document).
+
+      Each asset has exactly one owner.  If an asset would otherwise
+      lack an owner, it is owned by the Bank.
+
+      A currency is a class of asset defined as such by its backing
+      document.  Instances of a currency with the same owner are
+      fungible.
+
+      A fixed asset is one defined as such by its backing document.
+      Any other asset is liquid.  The owner of a liquid asset
+      generally CAN transfer it to another entity by announcement.
+
+      The recordkeepor of a class of assets is the entity defined as
+      such by its backing document.  That entity's report includes a
+      list of all instances of that class and their owners.  If this
+      portion of that entity's report is not challenged within a week
+      after its publication, then it becomes correct, even if it would
+      otherwise be incorrect.
+
+      If an asset's backing document restricts its ownership to a
+      class of entities, then that asset CANNOT be gained by or
+      transferred to an entity outside that class, and is destroyed if
+      it is owned by an entity outside that class.
+
+History:
+Created by Proposal 5173 (Murphy), 29 August 2007
 
 ----------------------------------------------------------------------
 
@@ -3403,24 +3438,20 @@ Amended(2) by Proposal 5061 (Zefram), 9 July 2007
 
 ----------------------------------------------------------------------
 
-Rule 2136/7 (Power=1)
+Rule 2136/8 (Power=1)
 Contests
 
-      Points are a measure of a player's contentiousness.  The number
-      of points possessed by a player is eir score.
+      Points are a class of fixed assets.  Ownership of points is
+      restricted to players.
 
-      Each player's score is an integer.  Points can only be awarded
-      in integer amounts.
-
-      When a player registers or deregisters, eir score becomes zero.
+      Points are a currency.  The number of points owned by a player
+      is eir score.
 
       A contest is an agreement that identifies itself as such, and
       identifies exactly one party as its contestmaster; all other
       parties are its contestants.
 
-      The Scorekeepor is an office; its holder is responsible for
-      keeping track of scores and contests.  The Scorekeepor's report
-      includes each player's score.
+      The Scorekeepor is an office, and the recordkeepor of points.
 
       A contestmaster may award a total of up to 10 points per week to
       one or more contestants as permitted by the contest, unless e
@@ -3434,8 +3465,8 @@ Contests
 [CFJ 1729 (called 21 August 2007): One who is a contestmaster of
 multiple contests can award 10 points per contest in a single week.]
 
-[Cross-references (18 July 2007): the Scorekeepor's duties are:
-  * report scores (rule 2136)]
+[Cross-references (29 August 2007): the Scorekeepor's duties are:
+  * recordkeepor of points (rule 2136)]
 
 History:
 Created by Proposal 4935 (Murphy), 29 April 2007
@@ -3446,6 +3477,7 @@ Amended(4) by Proposal 5064 (Zefram; disi.), 11 July 2007
 Amended(5) by Proposal 5065 (Zefram; disi.), 11 July 2007
 Amended(6) by Proposal 5076 (Murphy), 18 July 2007
 Amended(7) by Proposal 5076 (Murphy), 18 July 2007
+Amended(8) by Proposal 5173 (Murphy), 29 August 2007
 
 ----------------------------------------------------------------------
 
