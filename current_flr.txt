@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5165
+Last proposal with recorded effect on this ruleset: 5166
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -2356,7 +2356,7 @@ Created by Proposal 4930 (Goethe), 29 April 2007
 
 ----------------------------------------------------------------------
 
-Rule 2126/23 (Power=2)
+Rule 2126/24 (Power=2)
 Voting Credits
 
       Voting Credits (VCs) are items that can be possessed by players
@@ -2408,6 +2408,10 @@ Voting Credits
            person deputised for that office while that player held
            that office during that month then that player loses one
            Green VC.
+
+      (+C) When a player deputises for an office e gains one cyan VC,
+           unless someone previously gained a VC in this manner for
+           the same office in the same month.
 
       (+B) A player who assigns a judgement to a judicial question
            within the time limit when first obliged to gains one Blue
@@ -2469,6 +2473,7 @@ Amended(20) by Proposal 5161 (Zefram), 29 August 2007
 Amended(21) by Proposal 5163 (Zefram), 29 August 2007
 Amended(22) by Proposal 5164 (Zefram), 29 August 2007
 Amended(23) by Proposal 5165 (Zefram), 29 August 2007
+Amended(24) by Proposal 5166 (Zefram), 29 August 2007
 
 ----------------------------------------------------------------------
 
