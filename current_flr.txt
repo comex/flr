@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5167
+Last proposal with recorded effect on this ruleset: 5168
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -2356,7 +2356,7 @@ Created by Proposal 4930 (Goethe), 29 April 2007
 
 ----------------------------------------------------------------------
 
-Rule 2126/25 (Power=2)
+Rule 2126/26 (Power=2)
 Voting Credits
 
       Voting Credits (VCs) are items that can be possessed by players
@@ -2430,6 +2430,12 @@ Voting Credits
       (-K) In a criminal case, when a sentence becomes active for the
            first time the defendant loses one black VC.
 
+      (+W) When a first-class person becomes a player and has never
+           been a player before, e gains one white VC.  When a
+           first-class person has been a player continuously for 100
+           days and has never been a player before that period, e
+           gains one white VC.
+
       VCs may be spent as follows, by announcement (INVALID unless the
       color is specified):
 
@@ -2483,6 +2489,7 @@ Amended(22) by Proposal 5164 (Zefram), 29 August 2007
 Amended(23) by Proposal 5165 (Zefram), 29 August 2007
 Amended(24) by Proposal 5166 (Zefram), 29 August 2007
 Amended(25) by Proposal 5167 (Zefram), 29 August 2007
+Amended(26) by Proposal 5168 (Zefram), 29 August 2007
 
 ----------------------------------------------------------------------
 
