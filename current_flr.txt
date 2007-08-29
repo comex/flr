@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5164
+Last proposal with recorded effect on this ruleset: 5165
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -2356,7 +2356,7 @@ Created by Proposal 4930 (Goethe), 29 April 2007
 
 ----------------------------------------------------------------------
 
-Rule 2126/22 (Power=2)
+Rule 2126/23 (Power=2)
 Voting Credits
 
       Voting Credits (VCs) are items that can be possessed by players
@@ -2387,6 +2387,14 @@ Voting Credits
 
       (-R) When a proposal's voting index is less than half its
            adoption index, its proposer loses one Red VC.
+
+      (+O) When an interested proposal is adopted by voting with no
+           valid votes AGAINST, its proposer gains one orange VC
+           unless e gained a VC in this way earlier in the same week.
+
+      (-O) When an interested proposal is rejected by voting with no
+           valid votes FOR, and having met quorum, its proposer loses
+           one orange VC.
 
       (+G) At the end of each month, for each office with a report,
            the player (if any) who held that office for the majority
@@ -2460,6 +2468,7 @@ Amended(19) by Proposal 5151 (root), 29 August 2007
 Amended(20) by Proposal 5161 (Zefram), 29 August 2007
 Amended(21) by Proposal 5163 (Zefram), 29 August 2007
 Amended(22) by Proposal 5164 (Zefram), 29 August 2007
+Amended(23) by Proposal 5165 (Zefram), 29 August 2007
 
 ----------------------------------------------------------------------
 
