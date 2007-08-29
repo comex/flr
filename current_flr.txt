@@ -1,17 +1,17 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5173
+Last proposal with recorded effect on this ruleset: 5175
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
-      highest orderly: 2166
+      highest orderly: 2167
       disorderly: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 85
+Current total number of rules: 86
 
 Power distribution:
        1 with Power=4
@@ -19,7 +19,7 @@ Power distribution:
       25 with Power=2
        4 with Power=1.7
        3 with Power=1.5
-      28 with Power=1
+      29 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -125,6 +125,7 @@ Index of Rules
       Rule  591: Inquiry Cases
       Rule 1504: Criminal Cases
       Rule  911: Appeal Cases
+      Rule 2167: Grandfather Appeals
 
       * Patent Titles and Degrees
       Rule  649: Patent Titles
@@ -3175,6 +3176,20 @@ Amended(15) by Proposal 5051 (Zefram), 5 July 2007
 Retitled by Proposal 5086 (Zefram), 23 July 2007
 Power changed from 1 to 1.7 by Proposal 5086 (Zefram), 23 July 2007
 Amended(16) by Proposal 5086 (Zefram), 23 July 2007
+
+----------------------------------------------------------------------
+
+Rule 2167/0 (Power=1)
+Grandfather Appeals
+
+      An appeal concerning any assignment of judgement in a non-appeal
+      case, other than an assignment caused by a judgement in an
+      appeal case, CAN be initiated by any player with 2 support.
+
+      At midnight UTC on October 1, 2007, this rule repeals itself.
+
+History:
+Created by Proposal 5175 (Murphy), 29 August 2007
 
 ----------------------------------------------------------------------
 
