@@ -3242,11 +3242,8 @@ non-person.]
 borne until explicitly revoked, even if the rule defining the patent
 title is repealed or the patent title was never defined by a rule.]
 
-[Note (23 August 2007): Game custom is that a person can bear more
-than one instance of a particular patent title.]
-
-[CFJ 1598 (called 30 December 2006): A person cannot bear more than
-one instance of a particular patent title.]
+[CFJ 1731 (called 23 August 2007): It is possible for a person to bear
+more than one instance of a patent title simultaneously.]
 
 [CFJ 1591 (called 1 December 2006): Where a person bears the patent
 title X, and X is not also defined by the rules to have some special
