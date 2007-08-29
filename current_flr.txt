@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5151
+Last proposal with recorded effect on this ruleset: 5153
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -2854,17 +2854,22 @@ Amended(20) by Proposal 5086 (Zefram), 23 July 2007
 
 ----------------------------------------------------------------------
 
-Rule 1504/13 (Power=1.7)
+Rule 1504/14 (Power=1.7)
 Criminal Cases
 
       There is a subclass of judicial case known as a criminal case.
       A criminal case's purpose is to determine the culpability of a
       particular person, known as the defendant, for an alleged breach
       of the rules, and to punish the guilty.  A criminal case CAN be
-      initiated by any player, by announcement which clearly
-      identifies the defendant and specifies the action (which may be
-      a failure to perform another action) by which the defendant
-      allegedly breached the rules.
+      initiated by any player, by announcement which clearly specifies
+      all of the following:
+
+      a) The identity of the defendant.
+
+      b) Exactly one rule allegedly breached by the defendant.
+
+      c) The action (which may be a failure to perform another action)
+         by which the defendant allegedly breached this rule.
 
       The initiation of a criminal case begins its pre-trial phase.
       During the pre-trial phase, the case requires a judge.  In the
@@ -2889,11 +2894,11 @@ Criminal Cases
         at least 200 days before the case was initiated
 
       * ALREADY TRIED, appropriate if judgement has already been
-        reached in another criminal case with the same defendant and
-        substantially the same alleged act
+        reached in another criminal case with the same defendant, the
+        same rule, and substantially the same alleged act
 
       * UNIMPUGNED, appropriate if the alleged act was not proscribed
-        by the rules at the time it allegedly occurred
+        by the specified rule at the time it allegedly occurred
 
       * INNOCENT, appropriate if the defendant did not perform the
         alleged act
@@ -2993,6 +2998,7 @@ Amended(10) by Proposal 5086 (Zefram), 23 July 2007
 Amended(11) by Proposal 5109 (Zefram; disi.), 2 August 2007
 Amended(12) by Proposal 5132 (Zefram), 13 August 2007
 Amended(13) by Proposal 5135 (Wooble), 17 August 2007
+Amended(14) by Proposal 5153 (Murphy), 29 August 2007
 
 ----------------------------------------------------------------------
 
