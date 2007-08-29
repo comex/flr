@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5144
-Last change to this ruleset: self-repeal of rule 2165
+Last proposal with recorded effect on this ruleset: 5147
+Last change to this ruleset: by proposal
 
 Rule ID numbers:
       highest orderly: 2165
@@ -336,14 +336,19 @@ Created by Proposal 4940 (Zefram), 29 April 2007
 
 ----------------------------------------------------------------------
 
-Rule 2149/3 (Power=1)
+Rule 2149/4 (Power=1)
 Truthiness, or the Island of Knights and Knaves
 
-      Truthiness is a player switch with values Knight (default) and
-      Knave, tracked by the Speaker.
+      Truthiness is a player switch, tracked by the Speaker, with the
+      following possible values:
+
+      KNIGHT - the player is a knight (default)
+      KNAVE  - the player is a knave
+      SPY    - the player is neither a knight nor a knave
+      FOOL   - the player is both a knight and a knave
 
       A knight SHALL NOT publish statements that e believes are false.
-      A knave SHOULD NOT publish statements that e believes are true.
+      A knave SHALL NOT publish statements that e believes are true.
 
 History:
 Created by Proposal 4990 (Zefram), 6 June 2007
@@ -351,6 +356,7 @@ Amended(1) by Proposal 5075 (Zefram), 18 July 2007
 Amended(2) by Proposal 5129 (Zefram; disi.), 13 August 2007
 Retitled by Proposal 5140 (Murphy), 19 August 2007
 Amended(3) by Proposal 5140 (Murphy), 19 August 2007
+Amended(4) by Proposal 5147 (comex), 29 August 2007
 
 ----------------------------------------------------------------------
 
