@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5155
+Last proposal with recorded effect on this ruleset: 5156
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -717,25 +717,29 @@ Players
       players.
 ----------------------------------------------------------------------
 
-Rule 869/23 (Power=1)
+Rule 869/24 (Power=1)
 How to Join and Leave Agora
 
       Citizenship is an entity switch with values Null (default) and
-      Registered, tracked by the Registrar.  A player is an entity
-      whose citizenship is Registered.  "To register" and "to become a
-      player" are synonymous with "to flip one's citizenship to
-      Registered"; "to deregister" and "to be deregistered" are
-      synonymous with "to flip the subject's citizenship to Null".
+      Registered, tracked by the registrar.  A player is an entity
+      whose citizenship is Registered.
 
-      A person may register (unless prevented by the rules) by
+      The verb "to be registered" means to become a player (i.e., to
+      have one's citizenship changed from Null to Registered), and the
+      verb "to be deregistered" means to cease to be a player (i.e.,
+      to have one's citizenship changed from Registered to Null).
+      Where the verb "to register" or "to deregister" is used without
+      an explicit direct object, the action is implicitly reflexive.
+
+      A person CAN register, unless prevented by the rules, by
       announcing that e registers, wishes to register, requests
       registration, or requests permission to register.
 
-      A player may deregister by announcement.  E CANNOT register
+      A player CAN deregister by announcement.  E CANNOT register
       within thirty days after doing so.
 
       A player who is not a person and has never been a first-class
-      person can be deregistered by any player by announcement.
+      person CAN be deregistered by any player by announcement.
 
 [CFJ 1275 (called 19 February 2001): An entity is a Player if the
 Rules cannot distinguish that entity from a Player.]
@@ -772,6 +776,7 @@ Amended(20) by Proposal 5011 (Zefram), 24 June 2007
 Amended(21) by Proposal 5086 (Zefram), 23 July 2007
 Amended(22) by Proposal 5111 (Murphy), 2 August 2007
 Amended(23) by Proposal 5117 (Zefram; disi.), 8 August 2007
+Amended(24) by Proposal 5156 (Zefram), 29 August 2007
 
 ----------------------------------------------------------------------
 
