@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5161
+Last proposal with recorded effect on this ruleset: 5163
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -2356,7 +2356,7 @@ Created by Proposal 4930 (Goethe), 29 April 2007
 
 ----------------------------------------------------------------------
 
-Rule 2126/20 (Power=2)
+Rule 2126/21 (Power=2)
 Voting Credits
 
       Voting Credits (VCs) are items that can be possessed by players
@@ -2429,6 +2429,10 @@ Voting Credits
       e) A player may spend two VCs of the same color to make another
          player gain one VC of that color.
 
+      z) If this rule mentions at least six different specific colors
+         for VCs, a player may spend one VC of each such color to win
+         the game.
+
       When one or more players win the game, each player's VVLOP is
       set to eir BVLOP.
 
@@ -2455,6 +2459,7 @@ Amended(17) by Proposal 5126 (Zefram), 13 August 2007
 Amended(18) by Proposal 5128 (Zefram, Murphy), 13 August 2007
 Amended(19) by Proposal 5151 (root), 29 August 2007
 Amended(20) by Proposal 5161 (Zefram), 29 August 2007
+Amended(21) by Proposal 5163 (Zefram), 29 August 2007
 
 ----------------------------------------------------------------------
 
