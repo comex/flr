@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5153
+Last proposal with recorded effect on this ruleset: 5155
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -2854,7 +2854,7 @@ Amended(20) by Proposal 5086 (Zefram), 23 July 2007
 
 ----------------------------------------------------------------------
 
-Rule 1504/14 (Power=1.7)
+Rule 1504/15 (Power=1.7)
 Criminal Cases
 
       There is a subclass of judicial case known as a criminal case.
@@ -2877,8 +2877,8 @@ Criminal Cases
       defendant of the case and invite em to rebut the argument for
       eir guilt.  The pre-trial phase ends one week after the
       defendant has been so informed.  At any time during the
-      pre-trial phase after the defendant has been informed, the
-      defendant CAN end the pre-trial phase by announcement.
+      pre-trial phase, the defendant CAN end the pre-trial phase by
+      announcement.
 
       The initiator and defendant are each unqualified to be assigned
       as judge of the case.  During the pre-trial phase, the defendant
@@ -2999,6 +2999,7 @@ Amended(11) by Proposal 5109 (Zefram; disi.), 2 August 2007
 Amended(12) by Proposal 5132 (Zefram), 13 August 2007
 Amended(13) by Proposal 5135 (Wooble), 17 August 2007
 Amended(14) by Proposal 5153 (Murphy), 29 August 2007
+Amended(15) by Proposal 5155 (root), 29 August 2007
 
 ----------------------------------------------------------------------
 
