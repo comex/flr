@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5163
+Last proposal with recorded effect on this ruleset: 5164
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -2356,7 +2356,7 @@ Created by Proposal 4930 (Goethe), 29 April 2007
 
 ----------------------------------------------------------------------
 
-Rule 2126/21 (Power=2)
+Rule 2126/22 (Power=2)
 Voting Credits
 
       Voting Credits (VCs) are items that can be possessed by players
@@ -2375,41 +2375,40 @@ Voting Credits
       The assessor's report includes the number of VCs of each color
       possessed by each player.
 
-      VCs may be gained as follows:
+      VCs are gained and lost as follows:
 
-      a) When an interested proposal is adopted, its proposer gains a
-         number of Red VCs equal to the integer portion of the
-         proposal's adoption index, minus the number of Red VCs that e
-         has gained in this way earlier in the same week (down to a
-         minimum of zero), and each coauthor named in the proposal
-         gains one Red VC unless e gained a VC in this way earlier in
-         the same week.
+      (+R) When an interested proposal is adopted, its proposer gains
+           a number of Red VCs equal to the integer portion of the
+           proposal's adoption index, minus the number of Red VCs that
+           e has gained in this way earlier in the same week (down to
+           a minimum of zero), and each coauthor named in the proposal
+           gains one Red VC unless e gained a VC in this way earlier
+           in the same week.
 
-      b) At the end of each month, for each office with a report, the
-         player (if any) who held that office for the majority of that
-         month gains two Green VCs (if the office has a weekly report)
-         or one Green VC (if it has only a monthly report), unless
-         another person deputised for that office while that player
-         held that office during that month.
+      (-R) When a proposal's voting index is less than half its
+           adoption index, its proposer loses one Red VC.
 
-      c) A player who assigns a judgement to a judicial question
-         within the time limit when first obliged to gains one Blue
-         VC.
+      (+G) At the end of each month, for each office with a report,
+           the player (if any) who held that office for the majority
+           of that month gains two Green VCs (if the office has a
+           weekly report) or one Green VC (if it has only a monthly
+           report), unless another person deputised for that office
+           while that player held that office during that month.
 
-      VCs may be lost as follows:
+      (-G) At the end of each month, for each office, for each player
+           who has held that office during that month, if another
+           person deputised for that office while that player held
+           that office during that month then that player loses one
+           Green VC.
 
-      a) When a proposal's voting index is less than half its adoption
-         index, its proposer loses one Red VC.
+      (+B) A player who assigns a judgement to a judicial question
+           within the time limit when first obliged to gains one Blue
+           VC.
 
-      b) At the end of each month, for each office, for each player
-         who has held that office during that month, if another person
-         deputised for that office while that player held that office
-         during that month then that player loses one Green VC.
-
-      c) A player who is recused from a judicial case with cause loses
-         one Blue VC.  A player who is the prior judge in an appeal
-         case where a judgement other than AFFIRM is assigned to the
-         question on disposition loses one Blue VC.
+      (-B) A player who is recused from a judicial case with cause
+           loses one Blue VC.  A player who is the prior judge in an
+           appeal case where a judgement other than AFFIRM is assigned
+           to the question on disposition loses one Blue VC.
 
       VCs may be spent as follows, by announcement (INVALID unless the
       color is specified):
@@ -2460,6 +2459,7 @@ Amended(18) by Proposal 5128 (Zefram, Murphy), 13 August 2007
 Amended(19) by Proposal 5151 (root), 29 August 2007
 Amended(20) by Proposal 5161 (Zefram), 29 August 2007
 Amended(21) by Proposal 5163 (Zefram), 29 August 2007
+Amended(22) by Proposal 5164 (Zefram), 29 August 2007
 
 ----------------------------------------------------------------------
 
