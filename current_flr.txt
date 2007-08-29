@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5180
+Last proposal with recorded effect on this ruleset: 5182
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -3539,7 +3539,7 @@ Amended(2) by Proposal 5122 (Zefram), 13 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 402/20 (Power=1)
+Rule 402/21 (Power=1)
 Office of Speaker
 
       The speaker is an office.  The speaker is the head of state of
@@ -3547,25 +3547,11 @@ Office of Speaker
       Diplomatic missions from this nomic to foreign nomics operate on
       behalf of the speaker.
 
-      If an active player who is not the speaker has won the game
-      within the past week, e may become the speaker, thus removing
-      any previous speaker from the office, by announcement, unless
-      someone else has become speaker within the preceding 90 days.
-      If the legality of an attempted installation of this type is not
-      challenged within a week, then it is effective even if later
-      found to be illegal.
-
-      A speaker who became speaker within the preceding 90 days cannot
-      be replaced by Agoran Consent if e is one of those whose
-      objections are counted in the Agoran Consent procedure.
-
-[Cross-references (19 August 2007): the Speaker's duties are:
+[Cross-references (29 August 2007): the Speaker's duties are:
   * track truthiness (rule 2149)
   * rubberstamp an Ordinary Proposal (rule 2019)
   * titular head of state (rule 402)
 The other provisions governing the Speakership are:
-  * installation due to winning (rule 402)
-  * can't be replaced without consent (rule 402)
   * filling Speakership if it becomes vacant (rule 103)
   * initial Speaker (rule 104) (provision spent)]
 
@@ -3594,6 +3580,7 @@ Amended(18) by Proposal 4887 (Murphy), 22 January 2007
 Retitled by Proposal 5070 (Zefram), 11 July 2007
 Amended(19) by Proposal 5070 (Zefram), 11 July 2007
 Amended(20) by Proposal 5144 (Zefram), 19 August 2007
+Amended(21) by Proposal 5182 (Zefram), 29 August 2007
 
 ----------------------------------------------------------------------
 
