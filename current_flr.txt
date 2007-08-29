@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5179
+Last proposal with recorded effect on this ruleset: 5180
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -338,7 +338,7 @@ Created by Proposal 4940 (Zefram), 29 April 2007
 
 ----------------------------------------------------------------------
 
-Rule 2149/5 (Power=1)
+Rule 2149/6 (Power=1)
 Truthiness, or the Island of Knights and Knaves
 
       Truthiness is a player switch, tracked by the Speaker, with the
@@ -349,8 +349,10 @@ Truthiness, or the Island of Knights and Knaves
       SPY    - the player is neither a knight nor a knave
       FOOL   - the player is both a knight and a knave
 
-      A knight SHALL NOT publish statements that e believes are false.
-      A knave SHALL NOT publish statements that e believes are true.
+      A knight SHALL NOT publish statements that e believes are false
+      or which e is reckless regarding the veracity of.  A knave SHALL
+      NOT publish statements that e believes are true or which e is
+      reckless regarding the veracity of.
 
       Merely quoting a statement does not constitute publishing it for
       the purposes of this rule.  Any disclaimer, conditional clause,
@@ -366,6 +368,7 @@ Retitled by Proposal 5140 (Murphy), 19 August 2007
 Amended(3) by Proposal 5140 (Murphy), 19 August 2007
 Amended(4) by Proposal 5147 (comex), 29 August 2007
 Amended(5) by Proposal 5179 (Zefram), 29 August 2007
+Amended(6) by Proposal 5180 (Zefram), 29 August 2007
 
 ----------------------------------------------------------------------
 
