@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5175
+Last proposal with recorded effect on this ruleset: 5176
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -103,7 +103,7 @@ Index of Rules
 
       * Proposals
       Rule  106: Adopting Proposals
-      Rule 2153: Disinterested Proposals
+      Rule 2153: Interest Index
       Rule 1607: The Promotor
       Rule 1450: Separation of Powers
       Rule 1698: The Proposal System Is Protected
@@ -2187,20 +2187,22 @@ Amended(8) by Proposal 5083 (Zefram), 23 July 2007
 
 ----------------------------------------------------------------------
 
-Rule 2153/0 (Power=1)
-Disinterested Proposals
+Rule 2153/1 (Power=1)
+Interest Index
 
-      A proposal is disinterested if it is labeled as such by its
-      author at the time of submission.  A proposal should be
-      disinterested if and only if its effects are limited to
-      correcting errors and/or ambiguities.
+      The interest index of a proposal is an integer from 0 to 3.  It
+      CAN be set by the proposer at the time of submission, or
+      otherwise defaults to 1.  A proposal's interest index SHOULD be
+      proportional to its complexity.
 
-      The author and co-author(s) of a disinterested proposal do not
-      receive any rewards for its adoption, rules to the contrary
-      notwithstanding.
+      "Disinterested" is a synonym for "interest index 0".  A proposal
+      SHOULD be disinterested if and only if its effects are limited
+      to correcting errors and/or ambiguities.
 
 History:
 Created by Proposal 5056 (Murphy), 5 July 2007
+Retitled by Proposal 5176 (Murphy), 29 August 2007
+Amended(1) by Proposal 5176 (Murphy), 29 August 2007
 
 ----------------------------------------------------------------------
 
@@ -2395,7 +2397,7 @@ Created by Proposal 4930 (Goethe), 29 April 2007
 
 ----------------------------------------------------------------------
 
-Rule 2126/28 (Power=2)
+Rule 2126/29 (Power=2)
 Voting Credits
 
       Voting Credits (VCs) are items that can be possessed by players
@@ -2417,12 +2419,13 @@ Voting Credits
       VCs are gained and lost as follows:
 
       (+R) When an interested proposal is adopted, its proposer gains
-           a number of Red VCs equal to the integer portion of the
-           proposal's adoption index, minus the number of Red VCs that
-           e has gained in this way earlier in the same week (down to
-           a minimum of zero), and each coauthor named in the proposal
-           gains one Red VC unless e gained a VC in this way earlier
-           in the same week.
+           a number of Red VCs equal to the proposal's adoption index
+           times its interest index (rounded down to the nearest
+           integer), minus the number of Red VCs that e has gained in
+           this way earlier in the same week (down to a minimum of
+           zero), and each coauthor named in the proposal gains one
+           Red VC unless e gained a VC in this way earlier in the same
+           week.
 
       (-R) When a proposal's voting index is less than half its
            adoption index, its proposer loses one Red VC.
@@ -2538,6 +2541,7 @@ Amended(25) by Proposal 5167 (Zefram), 29 August 2007
 Amended(26) by Proposal 5168 (Zefram), 29 August 2007
 Amended(27) by Proposal 5169 (Zefram, OscarMeyr, Pavitra), 29 August 2007
 Amended(28) by Proposal 5170 (Zefram), 29 August 2007
+Amended(29) by Proposal 5176 (Murphy), 29 August 2007
 
 ----------------------------------------------------------------------
 
