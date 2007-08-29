@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5166
+Last proposal with recorded effect on this ruleset: 5167
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -2356,7 +2356,7 @@ Created by Proposal 4930 (Goethe), 29 April 2007
 
 ----------------------------------------------------------------------
 
-Rule 2126/24 (Power=2)
+Rule 2126/25 (Power=2)
 Voting Credits
 
       Voting Credits (VCs) are items that can be possessed by players
@@ -2413,14 +2413,22 @@ Voting Credits
            unless someone previously gained a VC in this manner for
            the same office in the same month.
 
-      (+B) A player who assigns a judgement to a judicial question
-           within the time limit when first obliged to gains one Blue
-           VC.
+      (+B) When a player assigns a judgement to a judicial question
+           other than a question on sentencing, and has not violated a
+           requirement to submit that judgement within a time limit, e
+           gains one blue VC.
 
       (-B) A player who is recused from a judicial case with cause
            loses one Blue VC.  A player who is the prior judge in an
            appeal case where a judgement other than AFFIRM is assigned
            to the question on disposition loses one Blue VC.
+
+      (+K) When a player assigns a judgement to a judicial question on
+           sentencing, and has not violated a requirement to submit
+           that judgement within a time limit, e gains one black VC.
+
+      (-K) In a criminal case, when a sentence becomes active for the
+           first time the defendant loses one black VC.
 
       VCs may be spent as follows, by announcement (INVALID unless the
       color is specified):
@@ -2474,6 +2482,7 @@ Amended(21) by Proposal 5163 (Zefram), 29 August 2007
 Amended(22) by Proposal 5164 (Zefram), 29 August 2007
 Amended(23) by Proposal 5165 (Zefram), 29 August 2007
 Amended(24) by Proposal 5166 (Zefram), 29 August 2007
+Amended(25) by Proposal 5167 (Zefram), 29 August 2007
 
 ----------------------------------------------------------------------
 
