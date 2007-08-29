@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5168
+Last proposal with recorded effect on this ruleset: 5169
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -2356,7 +2356,7 @@ Created by Proposal 4930 (Goethe), 29 April 2007
 
 ----------------------------------------------------------------------
 
-Rule 2126/26 (Power=2)
+Rule 2126/27 (Power=2)
 Voting Credits
 
       Voting Credits (VCs) are items that can be possessed by players
@@ -2436,6 +2436,11 @@ Voting Credits
            days and has never been a player before that period, e
            gains one white VC.
 
+      (+M) When, during Agora's birthday, a player publicly
+           acknowledges the occasion, e gains one magenta VC, unless e
+           previously gained a VC in this manner during the same
+           birthday.
+
       VCs may be spent as follows, by announcement (INVALID unless the
       color is specified):
 
@@ -2490,6 +2495,7 @@ Amended(23) by Proposal 5165 (Zefram), 29 August 2007
 Amended(24) by Proposal 5166 (Zefram), 29 August 2007
 Amended(25) by Proposal 5167 (Zefram), 29 August 2007
 Amended(26) by Proposal 5168 (Zefram), 29 August 2007
+Amended(27) by Proposal 5169 (Zefram, OscarMeyr, Pavitra), 29 August 2007
 
 ----------------------------------------------------------------------
 
