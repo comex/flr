@@ -2426,9 +2426,6 @@ Voting Credits
       When one or more players win the game, each player's VVLOP is
       set to eir BVLOP.
 
-[CFJ 1727 (called 17 August 2007): If a judge recuses emself, this
-does not trigger a Blue VC loss.]
-
 History:
 Created by Proposal 4872 (OscarMeyr), 26 October 2006
 Amended(1) by Proposal 4884 (Murphy), 22 January 2007
