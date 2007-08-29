@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5147
+Last proposal with recorded effect on this ruleset: 5151
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -2351,7 +2351,7 @@ Created by Proposal 4930 (Goethe), 29 April 2007
 
 ----------------------------------------------------------------------
 
-Rule 2126/18 (Power=2)
+Rule 2126/19 (Power=2)
 Voting Credits
 
       Voting Credits (VCs) are items that can be possessed by players
@@ -2400,11 +2400,10 @@ Voting Credits
          deputised for that office while that player held that office
          during that month then that player loses one Green VC.
 
-      c) A player who is recused from a judicial case because a
-         judicial question has remained applicable, open, and unjudged
-         loses one Blue VC.  A player who is the prior judge in an
-         appeal case where a judgement other than AFFIRM is assigned
-         to the question on disposition loses one Blue VC.
+      c) A player who is recused from a judicial case with cause loses
+         one Blue VC.  A player who is the prior judge in an appeal
+         case where a judgement other than AFFIRM is assigned to the
+         question on disposition loses one Blue VC.
 
       VCs may be spent as follows, by announcement (INVALID unless the
       color is specified):
@@ -2451,6 +2450,7 @@ Amended(15) by Proposal 5112 (Murphy), 2 August 2007
 Amended(16) by Proposal 5114 (Zefram), 2 August 2007
 Amended(17) by Proposal 5126 (Zefram), 13 August 2007
 Amended(18) by Proposal 5128 (Zefram, Murphy), 13 August 2007
+Amended(19) by Proposal 5151 (root), 29 August 2007
 
 ----------------------------------------------------------------------
 
@@ -2565,7 +2565,7 @@ Amended(9) by Proposal 5110 (Murphy), 2 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 1868/7 (Power=2)
+Rule 1868/8 (Power=2)
 Judge Assignment Generally
 
       At any time, a judicial case either has no judge assigned to it
@@ -2573,7 +2573,8 @@ Judge Assignment Generally
       this is a persistent status that changes only according to the
       rules.  To recuse a judge from a case means to deassign em as
       judge.  To assign a judge to a case implicitly recuses any
-      existing judge.
+      existing judge.  A recusal is without cause unless stated
+      otherwise in the rules.
 
       At any time, a judicial case either does not require a judge
       (default) or requires a judge; this is not a persistent status,
@@ -2607,6 +2608,7 @@ Amended(6) by Proposal 5069 (Zefram), 11 July 2007
 Retitled by Proposal 5086 (Zefram), 23 July 2007
 Power changed from 1 to 2 by Proposal 5086 (Zefram), 23 July 2007
 Amended(7) by Proposal 5086 (Zefram), 23 July 2007
+Amended(8) by Proposal 5151 (root), 29 August 2007
 
 ----------------------------------------------------------------------
 
@@ -2690,7 +2692,7 @@ Amended(1) by Proposal 5134 (root), 17 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 2158/0 (Power=2)
+Rule 2158/1 (Power=2)
 Judicial Questions
 
       Within a judicial case, one or more judicial questions may
@@ -2712,11 +2714,11 @@ Judicial Questions
       Whenever a judicial case has a judicial question that has
       remained applicable and open, while the same judge has been
       assigned to the case, continuously for the past week, the CotC
-      CAN recuse that judge by announcement.  Whenever a judicial case
-      has a judicial question that has remained applicable and open,
-      while the same judge has been assigned to the case, continuously
-      for the past two weeks, the CotC SHALL so recuse the judge as
-      soon as possible.
+      CAN recuse that judge with cause by announcement.  Whenever a
+      judicial case has a judicial question that has remained
+      applicable and open, while the same judge has been assigned to
+      the case, continuously for the past two weeks, the CotC SHALL so
+      recuse the judge as soon as possible.
 
       Among the possible judgements of a judicial question, some
       subset of them are appropriate.  Judgements are appropriate only
@@ -2727,14 +2729,16 @@ Judicial Questions
 
 History:
 Created by Proposal 5086 (Zefram), 23 July 2007
+Amended(1) by Proposal 5151 (root), 29 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 2164/0 (Power=1)
+Rule 2164/1 (Power=1)
 Judicial Self-Recusal and Case Transfer
 
       The judge of a judicial case CAN recuse emself from it at any
-      time by announcement.
+      time by announcement.  If e has been assigned to the case for at
+      least four days, such a recusal is with cause.
 
       Judicial cases can generally be transferred between judges by
       this procedure: an entity (the transferee) CAN assign emself as
@@ -2756,6 +2760,7 @@ Judicial Self-Recusal and Case Transfer
 
 History:
 Created by Proposal 5131 (Zefram), 13 August 2007
+Amended(1) by Proposal 5151 (root), 29 August 2007
 
 ----------------------------------------------------------------------
 
