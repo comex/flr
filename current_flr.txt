@@ -368,6 +368,9 @@ Truthiness, or the Island of Knights and Knaves
 to not publish statements that e believes are true is in conflict with
 the knave's right of participation in the fora.]
 
+[CFJ 1730 (called 22 August 2007): Knave status does not change the
+interpretation of statements made by a player.]
+
 History:
 Created by Proposal 4990 (Zefram), 6 June 2007
 Amended(1) by Proposal 5075 (Zefram), 18 July 2007
@@ -1028,6 +1031,10 @@ announcement, is an acceptable shorthand for 1000 instances of "I do
 X", but this shorthand cannot be used with an infinite repeat count,
 because it is impossible to write out an infinite number of instances
 of "I do X".]
+
+[CFJ 1730 (called 22 August 2007): An appropriate announcement will
+accomplish an action even if its author believed the action was
+impossible.]
 
 History:
 Created by Proposal 478 (Jim Shea), Sep. 20 1993
