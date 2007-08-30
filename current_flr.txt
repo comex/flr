@@ -2535,6 +2535,13 @@ Voting Credits
       When one or more players win the game, each player's VVLOP is
       set to eir BVLOP.
 
+[Note (30 August 2007): here is a set of colors with convenient
+abbreviating letters, suggested for future inventions of new types of
+VC: Amber, Blue, Cyan, Denim, Emerald, Fern, Green, Heliotrope,
+Indigo, Jade, blacK, Lime, Magenta, iNfrared, Orange, Pink,
+aQuamarine, Red, Silver, Turquoise, Ultraviolet, Violet, White, flaX,
+Yellow, Zinnwaldite.]
+
 History:
 Created by Proposal 4872 (OscarMeyr), 26 October 2006
 Amended(1) by Proposal 4884 (Murphy), 22 January 2007
