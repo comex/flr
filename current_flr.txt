@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5191
+Last proposal with recorded effect on this ruleset: 5192
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -3506,7 +3506,7 @@ Amended(2) by Proposal 5061 (Zefram), 9 July 2007
 
 ----------------------------------------------------------------------
 
-Rule 2136/8 (Power=1)
+Rule 2136/9 (Power=1)
 Contests
 
       Points are a class of fixed assets.  Ownership of points is
@@ -3522,9 +3522,9 @@ Contests
       The Scorekeepor is an office, and the recordkeepor of points.
 
       A contestmaster may award a total of up to 10 points per week to
-      one or more contestants as permitted by the contest, unless e
-      was contestmaster of a different contest for at least 3 days of
-      the previous week.
+      one or more contestants as permitted by the contest, unless e is
+      contestmaster of a different contest simultaneously or has been
+      at any time during the preceding span of seven days.
 
       A player with 100 or more points may win the game by announcing
       this fact.  Upon such an announcement, each player's score is
@@ -3546,6 +3546,7 @@ Amended(5) by Proposal 5065 (Zefram; disi.), 11 July 2007
 Amended(6) by Proposal 5076 (Murphy), 18 July 2007
 Amended(7) by Proposal 5076 (Murphy), 18 July 2007
 Amended(8) by Proposal 5173 (Murphy), 29 August 2007
+Amended(9) by Proposal 5192 (root), 6 September 2007
 
 ----------------------------------------------------------------------
 
