@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5194
+Last proposal with recorded effect on this ruleset: 5195
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -385,17 +385,19 @@ Amended(6) by Proposal 5180 (Zefram), 29 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 2110/1 (Power=3)
+Rule 2110/2 (Power=3)
 Win by Paradox
 
-      If the legality of an action cannot be determined with finality,
-      or if by a Judge's best reasoning, not appealed within a week of
-      eir Judgement, an action appears equally legal and illegal, then
-      the first player to announce this fact wins the game.
+      If an inquiry case on the possibility of a rule-defined action
+      or the permissibility of an action results in a judgement of
+      UNDECIDABLE, and that judgement is not appealed within a week,
+      then the initiator of the inquiry case wins the game if e is a
+      player.  This can only occur once per inquiry case.
 
 History:
 Created by Proposal 4781 (Sherlock), 3 June 2005
 Amended(1) by Proposal 4891 (Murphy), 22 January 2007
+Amended(2) by Proposal 5195 (Zefram), 6 September 2007
 
 ----------------------------------------------------------------------
 
