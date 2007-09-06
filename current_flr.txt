@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5195
+Last proposal with recorded effect on this ruleset: 5197
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -2445,7 +2445,7 @@ Created by Proposal 4930 (Goethe), 29 April 2007
 
 ----------------------------------------------------------------------
 
-Rule 2126/29 (Power=2)
+Rule 2126/30 (Power=2)
 Voting Credits
 
       Voting Credits (VCs) are items that can be possessed by players
@@ -2536,17 +2536,17 @@ Voting Credits
       VCs may be spent as follows, by announcement (INVALID unless the
       color is specified):
 
-      a) A player may spend two VCs of different colors to increase
-         another player's VVLOP by one.
+      a) A player may spend N+1 VCs of different colors to increase
+         another player's VVLOP by N, where N >= 1.
 
-      b) A player may spend three VCs of different colors to increase
-         eir own VVLOP by one.
+      b) A player may spend N+2 VCs of different colors to increase
+         eir own VVLOP by N, where N >= 1.
 
-      c) A player may spend two VCs of different colors to decrease
-         another player's VVLOP by one (to a minimum of zero).
+      c) A player may spend N+1 VCs of different colors to decrease
+         another player's VVLOP by N (to a minimum of zero).
 
-      d) A player may spend three VCs of different colors to decrease
-         another player's VVLOP by ten percent.
+      d) A player may spend N+2 VCs of different colors to multiply
+         another player's VVLOP by (10-N)/10, where 1 <= N <= 10.
 
       e) A player may spend two VCs of the same color to make another
          player gain one VC of that color.
@@ -2597,6 +2597,7 @@ Amended(26) by Proposal 5168 (Zefram), 29 August 2007
 Amended(27) by Proposal 5169 (Zefram, OscarMeyr, Pavitra), 29 August 2007
 Amended(28) by Proposal 5170 (Zefram), 29 August 2007
 Amended(29) by Proposal 5176 (Murphy), 29 August 2007
+Amended(30) by Proposal 5197 (Zefram), 6 September 2007
 
 ----------------------------------------------------------------------
 
