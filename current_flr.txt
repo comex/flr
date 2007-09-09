@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5200
+Last proposal with recorded effect on this ruleset: 5202
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -1885,10 +1885,10 @@ The Assessor
       The Assessor is the default vote collector for all Agoran
       decisions that do not specify a different vote collector.
 
-[Cross-references (18 July 2007): the Assessor' duties are:
+[Cross-references (8 September 2007): the Assessor' duties are:
   * default vote collector for Agoran decisions (rule 2137)
   * report EVLOP (rule 2156)
-  * report VCs (rule 2126)]
+  * recordkeepor of VCs (rule 2126)]
 
 History:
 Created by Proposal 4939 (Murphy), 29 April 2007
@@ -2450,24 +2450,22 @@ Created by Proposal 4930 (Goethe), 29 April 2007
 
 ----------------------------------------------------------------------
 
-Rule 2126/30 (Power=2)
+Rule 2126/31 (Power=2)
 Voting Credits
 
-      Voting Credits (VCs) are items that can be possessed by players
-      and used to affect voting limits on ordinary proposals.  VCs
-      CANNOT be affected except by the action of an instrument with
-      power greater than or equal to the power of this rule.  VCs
-      CANNOT be possessed by any entity other than a player: in any
-      situation that would otherwise violate this condition, the
-      offending VCs are lost or never gained.
+      Voting Credits (VCs) are a class of fixed assets that can be
+      used to affect voting limits on ordinary proposals.  VCs CANNOT
+      be affected except by the action of an instrument with power
+      greater than or equal to the power of this rule.   Ownership of
+      VCs is restricted to players.
 
-      Each VC has a color.  If a player is meant to lose a VC of a
-      color that e does not possess, then e loses a VC of eir Party's
-      color instead; if e has no VCs at all, then the loss is waived
-      (you can't get blood from a turnip).
+      Each VC has a color.  Each color of VC is a currency.  If a
+      player is meant to lose a VC of a color that e does not possess,
+      then e loses a VC of eir Party's color instead; if e has no VCs
+      at all, then the loss is waived (you can't get blood from a
+      turnip).
 
-      The assessor's report includes the number of VCs of each color
-      possessed by each player.
+      The Assessor is the recordkeepor of VCs.
 
       VCs are gained and lost as follows:
 
@@ -2603,6 +2601,7 @@ Amended(27) by Proposal 5169 (Zefram, OscarMeyr, Pavitra), 29 August 2007
 Amended(28) by Proposal 5170 (Zefram), 29 August 2007
 Amended(29) by Proposal 5176 (Murphy), 29 August 2007
 Amended(30) by Proposal 5197 (Zefram), 6 September 2007
+Amended(31) by Proposal 5202 (Murphy; disi.), 8 September 2007
 
 ----------------------------------------------------------------------
 
