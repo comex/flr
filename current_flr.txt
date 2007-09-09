@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5205
+Last proposal with recorded effect on this ruleset: 5210
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -2617,17 +2617,18 @@ Created by Proposal 5076 (Murphy), 18 July 2007
 
 ----------------------------------------------------------------------
 
-Rule 2142/2 (Power=2)
+Rule 2142/3 (Power=2)
 Support Democracy
 
-      Any player may change an Ordinary proposal's Adoption Index to 2
-      during its voting period With 2 Supporters.
+      A player CAN, with 2 support, flip a proposal's chamber from
+      ordinary to democratic.
 
 History:
 Created by Proposal 4955 (Zefram), 7 May 2007
 Amended(1) by Proposal 5043 (root), 1 July 2007
 Power changed from 1.1 to 2 by Proposal 5044 (root), 1 July 2007
 Amended(2) by Proposal 5044 (root), 1 July 2007
+Amended(3) by Proposal 5210 (Murphy), 8 September 2007
 
 ----------------------------------------------------------------------
 
