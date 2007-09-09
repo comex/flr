@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5197
+Last proposal with recorded effect on this ruleset: 5200
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -1756,7 +1756,7 @@ Amended(8) by Proposal 5101 (Zefram), 1 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 2160/0 (Power=1)
+Rule 2160/1 (Power=1)
 Deputisation
 
       Any player (a deputy) CAN perform an action as if e held a
@@ -1770,15 +1770,16 @@ Deputisation
       (b) a time limit by which the rules require the action to be
           performed has expired; and
 
-      (c) the deputy announced at least two days earlier that e
-          intended to deputise for that office for the purposes of the
-          particular action; and
+      (c) the deputy announced between two and fourteen days earlier
+          that e intended to deputise for that office for the purposes
+          of the particular action; and
 
       (d) it would be POSSIBLE for the deputy to perform the action,
           other than by deputisation, if e held the office.
 
 History:
 Created by Proposal 5103 (Zefram), 1 August 2007
+Amended(1) by Proposal 5200 (Zefram; disi.), 8 September 2007
 
 ----------------------------------------------------------------------
 
