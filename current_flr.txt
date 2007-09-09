@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5212
+Last proposal with recorded effect on this ruleset: 5213
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -2475,7 +2475,7 @@ Created by Proposal 4930 (Goethe), 29 April 2007
 
 ----------------------------------------------------------------------
 
-Rule 2126/32 (Power=2)
+Rule 2126/33 (Power=2)
 Voting Credits
 
       Voting Credits (VCs) are a class of fixed assets that can be
@@ -2484,11 +2484,12 @@ Voting Credits
       greater than or equal to the power of this rule.   Ownership of
       VCs is restricted to players.
 
-      Each VC has a color.  Each color of VC is a currency.  If a
-      player is meant to lose a VC of a color that e does not possess,
-      then e loses a VC of eir Party's color instead; if e has no VCs
-      at all, then the loss is waived (you can't get blood from a
-      turnip).
+      Each VC has exactly one color.  Colors with different names are
+      distinct, regardless of spectral proximity.  Each color of VC is
+      a currency.  If a player is meant to lose a VC of a color that e
+      does not possess, then e loses a VC of eir Party's color
+      instead; if e has no VCs at all, then the loss is waived (you
+      can't get blood from a turnip).
 
       The Assessor is the recordkeepor of VCs.
 
@@ -2627,6 +2628,7 @@ Amended(29) by Proposal 5176 (Murphy), 29 August 2007
 Amended(30) by Proposal 5197 (Zefram), 6 September 2007
 Amended(31) by Proposal 5202 (Murphy; disi.), 8 September 2007
 Amended(32) by Proposal 5205 (Zefram), 8 September 2007
+Amended(33) by Proposal 5213 (Murphy), 8 September 2007
 
 ----------------------------------------------------------------------
 
