@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5202
+Last proposal with recorded effect on this ruleset: 5205
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -2450,7 +2450,7 @@ Created by Proposal 4930 (Goethe), 29 April 2007
 
 ----------------------------------------------------------------------
 
-Rule 2126/31 (Power=2)
+Rule 2126/32 (Power=2)
 Voting Credits
 
       Voting Credits (VCs) are a class of fixed assets that can be
@@ -2558,8 +2558,7 @@ Voting Credits
          for VCs, a player may spend one VC of each such color to win
          the game.
 
-      When one or more players win the game, each player's VVLOP is
-      set to eir BVLOP.
+      When a game win occurs, each player's VVLOP is set to eir BVLOP.
 
 [Note (30 August 2007): here is a set of colors with convenient
 abbreviating letters, suggested for future inventions of new types of
@@ -2602,6 +2601,7 @@ Amended(28) by Proposal 5170 (Zefram), 29 August 2007
 Amended(29) by Proposal 5176 (Murphy), 29 August 2007
 Amended(30) by Proposal 5197 (Zefram), 6 September 2007
 Amended(31) by Proposal 5202 (Murphy; disi.), 8 September 2007
+Amended(32) by Proposal 5205 (Zefram), 8 September 2007
 
 ----------------------------------------------------------------------
 
@@ -3385,7 +3385,7 @@ Amended(22) by Proposal 5123 (Zefram; disi.), 13 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 1922/14 (Power=1)
+Rule 1922/15 (Power=1)
 Defined Regular Patent Titles
 
       The following are Patent Titles:
@@ -3419,7 +3419,7 @@ Defined Regular Patent Titles
            continuously for the specified duration.  Each of these
            titles shall be awarded only once per player.
 
-      (d)  Champion, to be awarded to any player who wins the game.
+      (d)  Champion, to be awarded to any person who wins the game.
            The Herald's monthly report shall record how the player
            won.
 
@@ -3439,6 +3439,7 @@ Amended(11) by Proposal 4878 (Goethe), 22 January 2007
 Amended(12) by Proposal 4891 (Murphy), 22 January 2007
 Amended(13) by Proposal 4975 (OscarMeyr), 23 May 2007
 Amended(14) by Proposal 5112 (Murphy), 2 August 2007
+Amended(15) by Proposal 5205 (Zefram), 8 September 2007
 
 ----------------------------------------------------------------------
 
