@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5216
+Last proposal with recorded effect on this ruleset: 5217
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -2758,7 +2758,7 @@ Amended(9) by Proposal 5110 (Murphy), 2 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 1868/8 (Power=2)
+Rule 1868/9 (Power=2)
 Judge Assignment Generally
 
       At any time, a judicial case either has no judge assigned to it
@@ -2766,8 +2766,8 @@ Judge Assignment Generally
       this is a persistent status that changes only according to the
       rules.  To recuse a judge from a case means to deassign em as
       judge.  To assign a judge to a case implicitly recuses any
-      existing judge.  A recusal is without cause unless stated
-      otherwise in the rules.
+      existing judge.  A recusal is with cause if and only if stated
+      as such by the rules.
 
       At any time, a judicial case either does not require a judge
       (default) or requires a judge; this is not a persistent status,
@@ -2802,6 +2802,7 @@ Retitled by Proposal 5086 (Zefram), 23 July 2007
 Power changed from 1 to 2 by Proposal 5086 (Zefram), 23 July 2007
 Amended(7) by Proposal 5086 (Zefram), 23 July 2007
 Amended(8) by Proposal 5151 (root), 29 August 2007
+Amended(9) by Proposal 5217 (Murphy; disi.), 13 September 2007
 
 ----------------------------------------------------------------------
 
