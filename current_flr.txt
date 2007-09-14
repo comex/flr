@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5217
+Last proposal with recorded effect on this ruleset: 5220
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -2487,7 +2487,7 @@ Created by Proposal 4930 (Goethe), 29 April 2007
 
 ----------------------------------------------------------------------
 
-Rule 2126/33 (Power=2)
+Rule 2126/34 (Power=2)
 Voting Credits
 
       Voting Credits (VCs) are a class of fixed assets that can be
@@ -2574,6 +2574,22 @@ Voting Credits
 
       (+U) When a player wins the game, e gains two ultraviolet VCs.
 
+      (+V) When a person is awarded a patent title, e gains one violet
+           VC, unless e gained a VC in this way earlier in the same
+           month.
+
+      (-V) When a person has a patent title revoked from em, and the
+           instrument that authorises the revocation does not describe
+           the revocation as administrative, e loses one violet VC.
+
+      (+I) When a person is awarded a patent title that is a degree, e
+           gains a number of indigo VCs.  The number depends on the
+           rank of the degree: it is two for the lowest rank, four for
+           the next, and so on increasing by two per rank, up to a
+           maximum of twelve for the sixth and higher ranks.  If the
+           rank of the degree is not adequately defined to apply this
+           rule then the number is two.
+
       VCs may be spent as follows, by announcement (INVALID unless the
       color is specified):
 
@@ -2641,6 +2657,7 @@ Amended(30) by Proposal 5197 (Zefram), 6 September 2007
 Amended(31) by Proposal 5202 (Murphy; disi.), 8 September 2007
 Amended(32) by Proposal 5205 (Zefram), 8 September 2007
 Amended(33) by Proposal 5213 (Murphy), 8 September 2007
+Amended(34) by Proposal 5220 (Zefram), 13 September 2007
 
 ----------------------------------------------------------------------
 
