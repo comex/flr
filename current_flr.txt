@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5215
+Last proposal with recorded effect on this ruleset: 5216
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -1392,37 +1392,49 @@ Amended(1) by Proposal 5061 (Zefram), 9 July 2007
 
 ----------------------------------------------------------------------
 
-Rule 2166/0 (Power=2)
+Rule 2166/1 (Power=2)
 Assets
 
-      An asset is an entity defined as such by an instrument
-      (hereafter its backing document).
+      An asset is an entity defined as such by an instrument or
+      contract (hereafter its backing document).
 
       Each asset has exactly one owner.  If an asset would otherwise
-      lack an owner, it is owned by the Bank.
+      lack an owner, it is owned by the Bank.  If an asset's backing
+      document restricts its ownership to a class of entities, then
+      that asset CANNOT be gained by or transferred to an entity
+      outside that class, and is destroyed if it is owned by an entity
+      outside that class.
+
+      The recordkeepor of a class of assets is the entity defined as
+      such by its backing document.  That entity's report includes a
+      list of all instances of that class and their owners.  This
+      portion of that entity's report is self-ratifying.
+
+      An asset generally CAN be created by its recordkeepor by
+      announcement, subject to modification by its backing document.
+      To "gain" an asset is to have it created in one's possession; to
+      "award" an asset to an entity is to create it in that entity's
+      possession.
+
+      An asset generally CAN be destroyed by its owner by
+      announcement, and an asset owned by the Bank generally CAN be
+      destroyed by its recordkeepor by announcement, subject to
+      modification by its backing document.  To "lose" an asset is to
+      have it destroyed from one's possession; to "revoke" an asset
+      from an entity is to destroy it from that entity's possession.
+
+      A asset generally CAN be transferred by its owner to another
+      entity by announcement, subject to modification by its backing
+      document.  A fixed asset is one defined as such by its backing
+      document, and CANNOT be transferred; any other asset is liquid.
 
       A currency is a class of asset defined as such by its backing
       document.  Instances of a currency with the same owner are
       fungible.
 
-      A fixed asset is one defined as such by its backing document.
-      Any other asset is liquid.  The owner of a liquid asset
-      generally CAN transfer it to another entity by announcement.
-
-      The recordkeepor of a class of assets is the entity defined as
-      such by its backing document.  That entity's report includes a
-      list of all instances of that class and their owners.  If this
-      portion of that entity's report is not challenged within a week
-      after its publication, then it becomes correct, even if it would
-      otherwise be incorrect.
-
-      If an asset's backing document restricts its ownership to a
-      class of entities, then that asset CANNOT be gained by or
-      transferred to an entity outside that class, and is destroyed if
-      it is owned by an entity outside that class.
-
 History:
 Created by Proposal 5173 (Murphy), 29 August 2007
+Amended(1) by Proposal 5216 (Murphy), 13 September 2007
 
 ----------------------------------------------------------------------
 
