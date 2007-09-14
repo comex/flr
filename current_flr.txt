@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5213
+Last proposal with recorded effect on this ruleset: 5215
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -2632,15 +2632,17 @@ Amended(33) by Proposal 5213 (Murphy), 8 September 2007
 
 ----------------------------------------------------------------------
 
-Rule 2155/0 (Power=1)
+Rule 2155/1 (Power=1)
 Parties
 
       Each player's Party is the color of VC that e possesses the most
-      of.  Ties are broken in favor of the color that comes first in
-      alphabetical order.
+      of, or Gray if e possesses none.  Ties are lost by the color(s)
+      that e gained most recently; ties not resolved by this method
+      are won by the color that comes first in alphabetical order.
 
 History:
 Created by Proposal 5076 (Murphy), 18 July 2007
+Amended(1) by Proposal 5215 (Murphy), 13 September 2007
 
 ----------------------------------------------------------------------
 
