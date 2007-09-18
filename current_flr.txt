@@ -1130,6 +1130,15 @@ message, other than in the context of MIME with appropriate headers,
 can render a message ineffective for unclarity, because the decoding
 step requires unreasonable effort within the meaning of CFJ 1460.]
 
+[CFJ 1741 (called 11 September 2007): HTML encoding (including
+numerical character entity encoding) does not render a message
+ineffective for unclarity if a suitable MIME type is indicated by a
+header.]
+
+[CFJ 1741 (called 11 September 2007): An email message does not need
+the RFC-required "MIME-Version:" header in order for it to be
+interpreted in the MIME way.]
+
 [CFJ 1536 (called 13 March 2005): The phrase "AOL!" is not a
 sufficiently clear synonym for "Me too!".]
 
