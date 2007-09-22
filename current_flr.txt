@@ -2756,6 +2756,9 @@ it is possible for a title to be assigned to a CFJ informally.]
 [CFJ 1742 (called 13 September 2007): A judicial case can exist that
 has no subclass.]
 
+[CFJ 1745 (called 18 September 2007): It is not possible to initiate a
+judicial case that has more than one subclass.]
+
 [Cross-references (2 August 2007): the Clerk of the Courts' duties are:
   * issue Writ of FAGE (rule 1789)
   * not assign judges during holiday (rule 1769)
@@ -3202,6 +3205,11 @@ is asking about veracity rather than about culpability or sentencing.]
 [CFJ 1720 (called 12 August 2007): Where a criminal charge is
 expressed in the form "violating rule NNNN by XXX", the alleged act
 for the purposes of the rules is only "XXX".]
+
+[CFJ 1737 (called 29 August 2007): For the defendant to be "so
+informed", the informer must be the judge of the case at the time of
+informing.  This informing is not invalidated by any later change of
+judge.]
 
 History:
 Created by Proposal 1682, Aug. 22 1995
