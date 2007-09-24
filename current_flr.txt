@@ -2912,6 +2912,9 @@ Judicial Panels
       of a panel SHALL act collectively to ensure that the panel
       satisfies all of its obligations.
 
+[CFJ 1746 (called 21 September 2007): A judicial panel is not a
+person.]
+
 History:
 Created by Proposal 5086 (Zefram), 23 July 2007
 Amended(1) by Proposal 5134 (root), 17 August 2007
