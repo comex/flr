@@ -1903,6 +1903,12 @@ Initiating Agoran Decisions
 [CFJ 1650 (called 6 May 2007): The intent to initiate the decision and
 the information required in the notice need not be explicit.]
 
+[CFJ 1743 (called 18 September 2007): If the notice does not mention
+voter eligibility but the type of Agoran decision is clear and the
+rule defining the relevant type of Agoran decision fully determines
+the class of eligible voters, then the notice thereby implicitly
+describes the class of eligible voters.]
+
 [CFJ 1722 (called 15 August 2007): Information that is explicitly
 presented in the notice takes precedence over any information that
 would be implicit, even where the explicit information is inaccurate
