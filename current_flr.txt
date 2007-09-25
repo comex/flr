@@ -3052,6 +3052,10 @@ logically depends on the truth of statements of a previously-called
 CFJ which has not yet been judged, the judge is entitled to treat this
 as a situation of insufficient information being available.]
 
+[CFJ 1744 (called 18 September 2007): It is not the job of the judge
+to hunt down or request the information that would be required to
+render a substantive judgement.]
+
 [CFJ 1732 (called 23 August 2007): If a particular player holds a
 particular office, and an inquiry case on a statement that that player
 holds that office is judged FALSE, that player still holds that
