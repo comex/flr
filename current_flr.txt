@@ -2762,9 +2762,6 @@ it is possible for a title to be assigned to a CFJ informally.]
 [CFJ 1742 (called 13 September 2007): A judicial case can exist that
 has no subclass.]
 
-[CFJ 1745 (called 18 September 2007): It is not possible to initiate a
-judicial case that has more than one subclass.]
-
 [Cross-references (2 August 2007): the Clerk of the Courts' duties are:
   * issue Writ of FAGE (rule 1789)
   * not assign judges during holiday (rule 1769)
