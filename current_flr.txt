@@ -2216,6 +2216,10 @@ Vote Protection and Cutoff for Challenges
 
       The resolution of an Agoran decision is self-ratifying.
 
+[CFJ 1748 (called 22 September 2007): The resolution of an Agoran
+decision being self-ratifying does not mean that a purported
+announcement of resolution is self-ratifying.]
+
 History:
 Created by Proposal 4366 (Steve), 23 August 2002
 Amended(1) by Proposal 4637 (Murphy), 19 February 2005
