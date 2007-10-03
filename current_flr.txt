@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5230
+Last proposal with recorded effect on this ruleset: 5234
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -3676,7 +3676,7 @@ Amended(2) by Proposal 5061 (Zefram), 9 July 2007
 
 ----------------------------------------------------------------------
 
-Rule 2136/9 (Power=1)
+Rule 2136/10 (Power=1)
 Contests
 
       Points are a class of fixed assets.  Ownership of points is
@@ -3685,9 +3685,21 @@ Contests
       Points are a currency.  The number of points owned by a player
       is eir score.
 
-      A contest is an agreement that identifies itself as such, and
-      identifies exactly one party as its contestmaster; all other
-      parties are its contestants.
+      A contest is an agreement that
+
+      (a) identifies itself as a contest,
+
+      (b) identifies exactly one party as its contestmaster,
+
+      (c) allows any First-class player to become a party,
+
+      (d) is published before any contestants become a party to it,
+          and
+
+      (e) is fair to all contestants.
+
+      All parties to the agreement who are not the contestmaster are
+      its contestants.
 
       The Scorekeepor is an office, and the recordkeepor of points.
 
@@ -3717,6 +3729,7 @@ Amended(6) by Proposal 5076 (Murphy), 18 July 2007
 Amended(7) by Proposal 5076 (Murphy), 18 July 2007
 Amended(8) by Proposal 5173 (Murphy), 29 August 2007
 Amended(9) by Proposal 5192 (root), 6 September 2007
+Amended(10) by Proposal 5234 (Levi, Zefram), 3 October 2007
 
 ----------------------------------------------------------------------
 
