@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5237
+Last proposal with recorded effect on this ruleset: 5239
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -1604,20 +1604,13 @@ Offices
       within the game.
 ----------------------------------------------------------------------
 
-Rule 1006/21 (Power=2)
+Rule 1006/22 (Power=2)
 Offices
 
       A role is an office if and only if it is so defined by the
       rules.  Each office at any time either is vacant (default) or is
       filled (held) by exactly one player.  The holder of an office is
       an officer, and may be referred to by the name of the office.
-
-      If the duty of an office is to maintain certain information,
-      then the officer shall publish that information at least once a
-      month, or as soon as possible after a substantial change occurs
-      in the information or the officer receives a request for the
-      information.  A weekly report shall be sufficient to satisfy
-      these last two requirements.
 
 [CFJ 1660 (called 13 May 2007): This rule does not define the meaning
 of the term "office", in the sense meant by rule 754, but rather
@@ -1657,6 +1650,7 @@ Amended(19) by Proposal 5088 (Murphy), 25 July 2007
 Amended(20) by Proposal 5103 (Zefram), 1 August 2007
 Power changed from 1 to 2 by Proposal 5133 (Zefram), 13 August 2007
 Amended(21) by Proposal 5133 (Zefram), 13 August 2007
+Amended(22) by Proposal 5239 (AFO), 3 October 2007
 
 ----------------------------------------------------------------------
 
@@ -1742,26 +1736,30 @@ Amended(2) by Proposal 5237 (AFO; disi.), 3 October 2007
 
 ----------------------------------------------------------------------
 
-Rule 2143/0 (Power=1)
+Rule 2143/1 (Power=1)
 Official Reports
 
-      For each office, the rules may designate certain information
-      to be part of the corresponding officer's weekly report or
-      monthly report.  Any information designated to be part of the
-      officer's report without specifying which report shall be part
-      of the weekly report.  If no information is designated to be
-      part of the weekly (or monthly) report, then that office has
-      no weekly (or, respectively, monthly) report.  Each officer's
-      report is an official report.
+      For each office:
 
-      The holder of an office for which there is an officer's
-      report is obliged to maintain all information in the report.
-      E is obliged to publish the weekly report, if there is one, at
-      least once each week, and the monthly report, if there is one,
-      at least once each month.
+      a) If any information is defined by the rules as part of that
+         office's weekly report, then the holder of that office SHALL
+         maintain all such information, and SHALL publish it at least
+         once each week.  Otherwise, that office has no weekly report.
+
+      b) If any information is defined by the rules as part of that
+         office's monthly report, then the holder of that office SHALL
+         maintain all such information, and SHALL publish it at least
+         once each month.  Otherwise, that office has no monthly
+         report.
+
+      Any information defined by the rules as part of an office's
+      report, without specifying which one, is part of its weekly
+      report (unless the office is defined by the rules as
+      low-priority, in which case it is part of its monthly report).
 
 History:
 Created by Proposal 4970 (Zefram), 23 May 2007
+Amended(1) by Proposal 5239 (AFO), 3 October 2007
 
 ----------------------------------------------------------------------
 
@@ -3426,20 +3424,20 @@ Patent Titles and Degrees
       A category concerning titles of honor and dishonor.
 ----------------------------------------------------------------------
 
-Rule 649/23 (Power=1)
+Rule 649/24 (Power=1)
 Patent Titles
 
       A Patent Title is a legal item of recognition of a person's
-      distinction.  The herald is an office; its holder is responsible
-      for tracking patent titles.
+      distinction.  The herald is a low-priority office; its holder is
+      responsible for tracking patent titles.
 
       When a Patent Title is awarded to a person, that person is said
       to Bear that Patent Title.  When a Patent Title is revoked from
       a person, that person ceases to Bear that Patent Title.  The
       status of Bearing a Patent Title can only be changed as
-      explicitly set out in the Rules.  The Herald's monthly report
-      includes a list of each Patent Title that at least one person
-      Bears, with a list of which persons Bear it.
+      explicitly set out in the Rules.  The Herald's report includes a
+      list of each Patent Title that at least one person Bears, with a
+      list of which persons Bear it.
 
       As soon as possible after a patent title is awarded or revoked,
       the herald SHALL announce the award or revocation.
@@ -3497,10 +3495,11 @@ Amended(20) by Proposal 5084 (Zefram; disi.), 23 July 2007
 Amended(21) by Proposal 5112 (Murphy), 2 August 2007
 Amended(22) by Proposal 5123 (Zefram; disi.), 13 August 2007
 Amended(23) by Proposal 5237 (AFO; disi.), 3 October 2007
+Amended(24) by Proposal 5239 (AFO), 3 October 2007
 
 ----------------------------------------------------------------------
 
-Rule 1922/16 (Power=1)
+Rule 1922/17 (Power=1)
 Defined Regular Patent Titles
 
       The following are Patent Titles:
@@ -3535,7 +3534,7 @@ Defined Regular Patent Titles
            titles shall be awarded only once per player.
 
       (d)  Champion, to be awarded to any person who wins the game.
-           The Herald's monthly report includes how the player won.
+           The Herald's report includes how the player won.
 
 History:
 Created by Proposal 3916 (harvel), Sep. 27 1999
@@ -3555,6 +3554,7 @@ Amended(13) by Proposal 4975 (OscarMeyr), 23 May 2007
 Amended(14) by Proposal 5112 (Murphy), 2 August 2007
 Amended(15) by Proposal 5205 (Zefram), 8 September 2007
 Amended(16) by Proposal 5237 (AFO; disi.), 3 October 2007
+Amended(17) by Proposal 5239 (AFO), 3 October 2007
 
 ----------------------------------------------------------------------
 
@@ -3829,11 +3829,11 @@ Amended(2) by Proposal 4944 (Zefram), 3 May 2007
 
 ----------------------------------------------------------------------
 
-Rule 2148/1 (Power=2)
+Rule 2148/2 (Power=2)
 The Ambassador
 
-      The ambassador is an office, responsible for relations with
-      foreign nomics.
+      The ambassador is a low-priority office, responsible for
+      relations with foreign nomics.
 
       A foreign nomic may grant certain powers and privileges to
       Agora's ambassador.  If so, the ambassador shall generally
@@ -3859,10 +3859,11 @@ History:
 Created by Proposal 4988 (BobTHJ), 6 June 2007
 Amended(1) by Proposal 5091 (Zefram), 25 July 2007
 Retitled by Proposal 5112 (Murphy), 2 August 2007
+Amended(2) by Proposal 5239 (AFO), 3 October 2007
 
 ----------------------------------------------------------------------
 
-Rule 2147/3 (Power=2)
+Rule 2147/4 (Power=2)
 Protectorates
 
       Whereas Agora, being the superpower of nomics, has an inherent
@@ -3891,10 +3892,10 @@ Protectorates
       criteria, and shall announce whenever a protectorate has ceased
       to be a protectorate.
 
-      The ambassador's monthly report includes a list of all
-      protectorates, with contact details for each, and for each the
-      forum in which it is most appropriate to proclaim protective
-      decrees that target that protectorate.
+      The ambassador's report includes a list of all protectorates,
+      with contact details for each, and for each the forum in which
+      it is most appropriate to proclaim protective decrees that
+      target that protectorate.
 
 [Note (25 July 2007): Suggested wording for a protectorate's ruleset:
 "Any protective decree of Agora that targets this nomic takes effect
@@ -3913,6 +3914,7 @@ Created by Proposal 4988 (BobTHJ), 6 June 2007
 Amended(1) by Proposal 5091 (Zefram), 25 July 2007
 Amended(2) by Proposal 5127 (Zefram; disi.), 13 August 2007
 Amended(3) by Proposal 5237 (AFO; disi.), 3 October 2007
+Amended(4) by Proposal 5239 (AFO), 3 October 2007
 
 ----------------------------------------------------------------------
 
