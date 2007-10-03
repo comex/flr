@@ -2776,7 +2776,8 @@ it is possible for a title to be assigned to a CFJ informally.]
 [CFJ 1742 (called 13 September 2007): A judicial case can exist that
 has no subclass.]
 
-[Cross-references (2 August 2007): the Clerk of the Courts' duties are:
+[Cross-references (3 October 2007): the Clerk of the Courts' duties
+are:
   * issue Writ of FAGE (rule 1789)
   * not assign judges during holiday (rule 1769)
   * report open judicial cases (rule 991)
@@ -2786,6 +2787,7 @@ has no subclass.]
   * consider posture when assigning judges (rule 1871)
   * change all sitting players to standing (rule 1871)
   * recuse tardy judge (rule 2158)
+  * inform defendant in criminal case (rule 1504)
   * report active sentences (rule 1504)]
 
 History:
