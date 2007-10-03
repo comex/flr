@@ -1944,6 +1944,9 @@ The Assessor
       The Assessor is the default vote collector for all Agoran
       decisions that do not specify a different vote collector.
 
+[CFJs 1758-1759 (called 30 September 2007): if Assessorship changes
+hands, vote collection duties move with it.]
+
 [Cross-references (8 September 2007): the Assessor' duties are:
   * default vote collector for Agoran decisions (rule 2137)
   * report EVLOP (rule 2156)
