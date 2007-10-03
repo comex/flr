@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5229
+Last proposal with recorded effect on this ruleset: 5222
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -111,7 +111,7 @@ Index of Rules
       Rule 1698: The Proposal System Is Protected
       Rule 1950: Voting on Democratic Proposals
       Rule 2156: Voting on Ordinary Proposals
-      Rule 2134: Win by Voting Power
+      Rule 2134: Voting Limits are Limited
       Rule 2126: Voting Credits
       Rule 2155: Parties
       Rule 2142: Support Democracy
@@ -2503,16 +2503,18 @@ Amended(2) by Proposal 5141 (Zefram), 19 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 2134/0 (Power=1)
-Win by Voting Power
+Rule 2134/1 (Power=1)
+Voting Limits are Limited
 
-      If a single player has a voting power on ordinary proposals
-      equal to or greater than the total voting power on ordinary
+      If a single player has a voting limit on ordinary proposals
+      equal to or greater than the total voting limit on ordinary
       proposals of all other players combined, that player wins the
       game upon any player announcing the fact.
 
 History:
 Created by Proposal 4930 (Goethe), 29 April 2007
+Retitled by Proposal 5222 (root; disi.), 30 September 2007
+Amended(1) by Proposal 5222 (root; disi.), 30 September 2007
 
 ----------------------------------------------------------------------
 
