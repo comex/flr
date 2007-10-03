@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5224
+Last proposal with recorded effect on this ruleset: 5229
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -1876,7 +1876,7 @@ Amended(9) by Proposal 4887 (Murphy), 22 January 2007
 
 ----------------------------------------------------------------------
 
-Rule 107/5 (Power=3)
+Rule 107/6 (Power=3)
 Initiating Agoran Decisions
 
       An Agoran decision is initiated when a person authorized to
@@ -1893,9 +1893,11 @@ Initiating Agoran Decisions
           particular, an explicit list of the eligible voters is
           always sufficient for this purpose.
 
-      (c) The identity of the vote collector.
+      (c) A clear indication of the options available.
 
-      (d) Any additional information required by the rules for this
+      (d) The identity of the vote collector.
+
+      (e) Any additional information required by the rules for this
           announcement.
 
       The publication of such a valid notice initiates the voting
@@ -1937,6 +1939,7 @@ Amended(2) by Proposal 4811 (Maud, Goethe), 20 June 2005
 Amended(3) by Proposal 4868 (Goethe), 27 August 2006
 Amended(4) by Proposal 4964 (Murphy), 3 June 2007
 Amended(5) by Proposal 5113 (Murphy, Maud), 2 August 2007
+Amended(6) by Proposal 5229 (root), 27 September 2007
 
 ----------------------------------------------------------------------
 
@@ -2056,7 +2059,7 @@ Created by Proposal 5191 (root), 6 September 2007
 
 ----------------------------------------------------------------------
 
-Rule 208/4 (Power=3)
+Rule 208/5 (Power=3)
 Resolving Agoran decisions
 
       The vote collector for an unresolved Agoran decision may resolve
@@ -2069,9 +2072,7 @@ Resolving Agoran decisions
 
       (b) It clearly identifies the matter to be resolved.
 
-      (c) It clearly identifies the options available.
-
-      (d) It specifies which option was selected by Agora, as
+      (c) It specifies which option was selected by Agora, as
           described elsewhere, and provides a tally of the voters'
           valid ballots on the various options.
 
@@ -2092,6 +2093,7 @@ Amended(2) by Proposal 1531, Mar. 24 1995
 Power changed from 1 to 3 by Proposal 4811 (Maud, Goethe), 20 June 2005
 Amended(3) by Proposal 4811 (Maud, Goethe), 20 June 2005
 Amended(4) by Proposal 5113 (Murphy, Maud), 2 August 2007
+Amended(5) by Proposal 5229 (root), 27 September 2007
 
 ----------------------------------------------------------------------
 
