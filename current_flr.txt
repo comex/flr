@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5234
+Last proposal with recorded effect on this ruleset: 5235
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -259,7 +259,7 @@ Amended(7) by Proposal 5090 (Zefram), 25 July 2007
 
 ----------------------------------------------------------------------
 
-Rule 2125/0 (Power=3)
+Rule 2125/1 (Power=3)
 Regulation Regulations
 
       An action is regulated if:
@@ -270,17 +270,15 @@ Regulation Regulations
           then some player is permitted to perform the action;
 
       (c) the action would, as part of its effect, modify information
-          for which some player is required to be a recordkeepor;
+          for which some player is required to be a recordkeepor; or
 
       (d) the action would, as part of its effect, make it impossible
           to make arbitrary modifications to the rules by any
-          combinations of actions by players; or
-
-      (e) the courts have held that the action is regulated, and this
-          finding has not been overturned.
+          combinations of actions by players.
 
 History:
 Created by Proposal 4866 (Goethe), 27 August 2006
+Amended(1) by Proposal 5235 (Goddess Eris), 3 October 2007
 
 ----------------------------------------------------------------------
 
