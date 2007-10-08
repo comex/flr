@@ -1009,6 +1009,9 @@ sent via a public forum.]
 [CFJ 1631 (called 29 April 2007): Public announcements must be made in
 the message body; the subject line is insignificant.]
 
+[CFJ 1761 (called 30 September 2007): Publishing part of a message is
+a different action from publishing the whole message.]
+
 [CFJ 1646 (called 30 April 2007): The act of "publishing" or
 "announcing" is accomplished when the message has left the sender's
 technical domain of control, indicated by one of the "Received:"
