@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5239
+Last proposal with recorded effect on this ruleset: 5243
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -3561,7 +3561,7 @@ Amended(17) by Proposal 5239 (AFO), 3 October 2007
 
 ----------------------------------------------------------------------
 
-Rule 1367/8 (Power=1.5)
+Rule 1367/9 (Power=1.5)
 Degrees
 
       Certain patent titles are known as degrees.  The degrees are
@@ -3578,7 +3578,7 @@ Degrees
 
       A degree CANNOT be awarded to any person more than once, and
       CANNOT be revoked once awarded.  A degree CAN be awarded by the
-      action of an instrumennt with power greater than or equal to the
+      action of an instrument with power greater than or equal to the
       power of this rule, but CANNOT be awarded in any other way.
 
       A degree SHOULD be awarded ONLY IF its new bearer has published
@@ -3600,6 +3600,7 @@ Amended(6) by Proposal 4110 (Ziggy), Feb. 13 2001
 Amended(7) by Proposal 4865 (Goethe), 27 August 2006
 Amended(8) by Proposal 5085 (Zefram), 23 July 2007
 Power changed from 1 to 1.5 by Proposal 5085 (Zefram), 23 July 2007
+Amended(9) by Proposal 5243 (root; disi.), 7 October 2007
 
 ----------------------------------------------------------------------
 
