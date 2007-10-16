@@ -15,8 +15,8 @@ Current total number of rules: 90
 
 Power distribution:
        1 with Power=4
-      25 with Power=3
-      25 with Power=2
+      26 with Power=3
+      24 with Power=2
        5 with Power=1.7
        3 with Power=1.5
       31 with Power=1
@@ -1160,7 +1160,7 @@ Amended(7) by Proposal 5038 (Zefram), 28 June 2007
 
 ----------------------------------------------------------------------
 
-Rule 2152/1 (Power=2)
+Rule 2152/1 (Power=3)
 Mother, May I?
 
       The following terms are defined.  These definitions are used
@@ -1195,6 +1195,7 @@ History:
 Created by Proposal 5053 (Murphy), 5 July 2007
 Power changed from 1 to 2 by Proposal 5054 (Murphy), 5 July 2007
 Amended(1) by Proposal 5189 (Levi), 3 September 2007
+Power changed from 2 to 3 by Proposal 5247 (AFO), 14 October 2007
 
 ----------------------------------------------------------------------
 
