@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5248
+Last proposal with recorded effect on this ruleset: 5249
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -2869,18 +2869,17 @@ Amended(10) by Proposal 5248 (AFO; disi.), 14 October 2007
 
 ----------------------------------------------------------------------
 
-Rule 1871/15 (Power=1.5)
+Rule 1871/16 (Power=1.5)
 The Standing Court
 
-      Posture is a player switch with values Standing, Sitting, and
-      Supine (default), tracked by the Clerk of the Courts.
-
-      A player may flip eir posture from Sitting to Supine, or vice
-      versa, by announcement.
+      Posture is a player switch with values Standing, Sitting,
+      Leaning, and Supine (default), tracked by the Clerk of the
+      Courts.  A non-standing player CAN flip eir posture to any
+      non-standing value by announcement.
 
       A supine player is unqualified to be assigned as judge of any
-      judicial case.  A sitting player is poorly qualified to be
-      assigned as judge of any judicial case.
+      judicial case.  A sitting or leaning player is poorly qualified
+      to be assigned as judge of any judicial case.
 
       When the CotC assigns a standing player as judge of a judicial
       case, the player becomes sitting, except in the situation
@@ -2918,6 +2917,7 @@ Power changed from 1 to 1.5 by Proposal 5086 (Zefram), 23 July 2007
 Amended(13) by Proposal 5086 (Zefram), 23 July 2007
 Amended(14) by Proposal 5111 (Murphy), 2 August 2007
 Amended(15) by Proposal 5248 (AFO; disi.), 14 October 2007
+Amended(16) by Proposal 5249 (AFO), 14 October 2007
 
 ----------------------------------------------------------------------
 
