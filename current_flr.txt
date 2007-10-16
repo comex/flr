@@ -1,17 +1,17 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5243
+Last proposal with recorded effect on this ruleset: 5246
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
-      highest orderly: 2171
+      highest orderly: 2172
       disorderly: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 89
+Current total number of rules: 90
 
 Power distribution:
        1 with Power=4
@@ -19,7 +19,7 @@ Power distribution:
       25 with Power=2
        5 with Power=1.7
        3 with Power=1.5
-      30 with Power=1
+      31 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -145,6 +145,7 @@ Index of Rules
       Rule  402: Office of Speaker
       Rule  103: Always a Speaker
       Rule 2148: The Ambassador
+      Rule 2172: Acting on Behalf of Agora
       Rule 2147: Protectorates
       Rule 2159: Protective Decrees
 
@@ -3872,6 +3873,17 @@ Created by Proposal 4988 (BobTHJ), 6 June 2007
 Amended(1) by Proposal 5091 (Zefram), 25 July 2007
 Retitled by Proposal 5112 (Murphy), 2 August 2007
 Amended(2) by Proposal 5239 (AFO), 3 October 2007
+
+----------------------------------------------------------------------
+
+Rule 2172/0 (Power=1)
+Acting on Behalf of Agora
+
+      A player MAY perform an action on behalf of Agora with Agoran
+      Consent.
+
+History:
+Created by Proposal 5246 (Levi), 14 October 2007
 
 ----------------------------------------------------------------------
 
