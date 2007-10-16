@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5249
+Last proposal with recorded effect on this ruleset: 5250
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -2790,6 +2790,7 @@ are:
   * manage ID numbers of non-appeal judicial cases (rule 991)
   * assign judge to judicial case (rule 1868)
   * track player posture (rule 1871)
+  * track player hawkishness (rule 1871)
   * change all sitting players to standing (rule 1871)
   * recuse tardy judge (rule 2158)
   * inform defendant in criminal case (rule 1504)
@@ -2869,7 +2870,7 @@ Amended(10) by Proposal 5248 (AFO; disi.), 14 October 2007
 
 ----------------------------------------------------------------------
 
-Rule 1871/16 (Power=1.5)
+Rule 1871/17 (Power=1.5)
 The Standing Court
 
       Posture is a player switch with values Standing, Sitting,
@@ -2880,6 +2881,15 @@ The Standing Court
       A supine player is unqualified to be assigned as judge of any
       judicial case.  A sitting or leaning player is poorly qualified
       to be assigned as judge of any judicial case.
+
+      Hawkishness is a player switch with values Hanging, Hugging, and
+      Hemming-and-Hawing (default), tracked by the Clerk of the
+      Courts.  A player CAN flip eir hawkishness by announcement.
+
+      A hanging player is unqualified to be assigned as judge of any
+      inquiry case.  A hugging player is unqualified to be assigned as
+      judge of any criminal case, and poorly qualified to be assigned
+      as judge of any equity case.
 
       When the CotC assigns a standing player as judge of a judicial
       case, the player becomes sitting, except in the situation
@@ -2918,6 +2928,7 @@ Amended(13) by Proposal 5086 (Zefram), 23 July 2007
 Amended(14) by Proposal 5111 (Murphy), 2 August 2007
 Amended(15) by Proposal 5248 (AFO; disi.), 14 October 2007
 Amended(16) by Proposal 5249 (AFO), 14 October 2007
+Amended(17) by Proposal 5250 (AFO), 14 October 2007
 
 ----------------------------------------------------------------------
 
