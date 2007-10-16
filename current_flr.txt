@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5250
+Last proposal with recorded effect on this ruleset: 5251
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -2792,6 +2792,7 @@ are:
   * track player posture (rule 1871)
   * track player hawkishness (rule 1871)
   * change all sitting players to standing (rule 1871)
+  * push over recused judge (rule 1871)
   * recuse tardy judge (rule 2158)
   * inform defendant in criminal case (rule 1504)
   * report active sentences (rule 1504)]
@@ -2870,7 +2871,7 @@ Amended(10) by Proposal 5248 (AFO; disi.), 14 October 2007
 
 ----------------------------------------------------------------------
 
-Rule 1871/17 (Power=1.5)
+Rule 1871/18 (Power=1.5)
 The Standing Court
 
       Posture is a player switch with values Standing, Sitting,
@@ -2908,6 +2909,9 @@ The Standing Court
       immediately afterwards (in the same announcement) assigns a
       judge to that case.
 
+      When the CotC recuses a judge with cause, e SHALL flip that
+      player's posture to supine by announcement within one week.
+
 History:
 Created by Proposal 3821 (Blob), Jan. 12 1999
 Amended(1) by Proposal 4298 (Murphy), 17 May 2002
@@ -2929,6 +2933,7 @@ Amended(14) by Proposal 5111 (Murphy), 2 August 2007
 Amended(15) by Proposal 5248 (AFO; disi.), 14 October 2007
 Amended(16) by Proposal 5249 (AFO), 14 October 2007
 Amended(17) by Proposal 5250 (AFO), 14 October 2007
+Amended(18) by Proposal 5251 (Goddess Eris), 14 October 2007
 
 ----------------------------------------------------------------------
 
