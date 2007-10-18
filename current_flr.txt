@@ -1,17 +1,17 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5251
+Last proposal with recorded effect on this ruleset: 5254
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
-      highest orderly: 2172
+      highest orderly: 2173
       disorderly: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 90
+Current total number of rules: 91
 
 Power distribution:
        1 with Power=4
@@ -19,7 +19,7 @@ Power distribution:
       24 with Power=2
        5 with Power=1.7
        3 with Power=1.5
-      31 with Power=1
+      32 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -137,6 +137,7 @@ Index of Rules
 
       * Contract Law
       Rule 1742: Contracts
+      Rule 2173: The Notary
       Rule 2145: Partnerships
       Rule 2136: Contests
 
@@ -3632,7 +3633,7 @@ Contract Law
       within this nomic.
 ----------------------------------------------------------------------
 
-Rule 1742/9 (Power=1.5)
+Rule 1742/10 (Power=1.5)
 Contracts
 
       Any group of two or more persons may make an agreement among
@@ -3648,6 +3649,9 @@ Contracts
       accordance with that contract.  This obligation is not impaired
       by contradiction between the contract and any other contract, or
       between the contract and the rules.
+
+      A public contract is a contract that identifies itself as such.
+      Any other contract is private.
 
 [CFJ 1455 (called 14 March 2003): A contract cannot cause an
 otherwise-insignificant action by a non-party to constitute consent to
@@ -3670,6 +3674,30 @@ Amended(8) by Proposal 5040 (Zefram), 28 June 2007
 Retitled by Proposal 5086 (Zefram), 23 July 2007
 Power changed from 1 to 1.5 by Proposal 5086 (Zefram), 23 July 2007
 Amended(9) by Proposal 5086 (Zefram), 23 July 2007
+Amended(10) by Proposal 5254 (AFO), 18 October 2007
+
+----------------------------------------------------------------------
+
+Rule 2173/0 (Power=1)
+The Notary
+
+      The Notary is a low-priority office; its holder is responsible
+      for keeping track of contracts.
+
+      The parties to a public contract SHALL keep the Notary informed
+      of its text and set of parties.  The Notary's report includes
+      this information for each public contract.
+
+      The parties to a private contract SHOULD keep the Notary
+      informed of its text and set of parties.  The Notary SHALL
+      disclose this information (to the extent that e has been
+      informed of it) to the judge of an equity case pertaining to
+      that contract.  The Notary SHALL NOT disclose it otherwise,
+      except as explicitly allowed by the contract, or with the
+      explicit consent of all parties.
+
+History:
+Created by Proposal 5254 (AFO), 18 October 2007
 
 ----------------------------------------------------------------------
 
