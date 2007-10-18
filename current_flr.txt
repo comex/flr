@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5254
+Last proposal with recorded effect on this ruleset: 5258
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -910,17 +910,21 @@ Amended(3) by Proposal 4825 (Maud), 17 July 2005
 
 ----------------------------------------------------------------------
 
-Rule 2130/7 (Power=1)
+Rule 2130/8 (Power=1)
 Activity
 
       Activity is a player switch with values Active (default) and
       Inactive, tracked by the Registrar.  The Registrar's report
       includes the date on which each player's activity last changed.
 
-      A player may flip eir activity by announcement.  "To go on hold"
+      A player CAN flip eir activity by announcement.  "To go on hold"
       is to become Inactive; "to come off hold" is to become Active.
 
-      A player may flip another player's activity to Inactive without
+      A player CAN flip another player's activity to Inactive without
+      objection.
+
+      A player who has been continuously Inactive for at least three
+      months CAN be deregistered by any other player without
       objection.
 
 History:
@@ -933,6 +937,7 @@ Amended(5) by Proposal 5004 (Zefram), 13 June 2007
 Retitled by Proposal 5111 (Murphy), 2 August 2007
 Amended(6) by Proposal 5111 (Murphy), 2 August 2007
 Amended(7) by Proposal 5116 (Zefram; disi.), 8 August 2007
+Amended(8) by Proposal 5258 (AFO), 18 October 2007
 
 ----------------------------------------------------------------------
 
