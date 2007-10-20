@@ -248,6 +248,11 @@ a violation of that rule.]
 publish statements that e believes are true would conflict with the
 right of participation in the fora.]
 
+[CFJ 1753 (called 28 September 2007): The right to cease playing
+applies only to those who have the rule-defined status of "player",
+not to those who play the game in the broader sense without having
+that official status.]
+
 History:
 Initial Immutable Rule 101, Jun. 30 1993
 Mutated from MI=Unanimity to MI=3 by Proposal 1480, Mar. 15 1995
@@ -2918,6 +2923,15 @@ The Standing Court
       When the CotC recuses a judge with cause, e SHALL flip that
       player's posture to supine by announcement within one week.
 
+[CFJ 1765 (called 16 October 2007): When the CotC is obliged to change
+a player's posture due to recusal, this rule makes em capable of doing
+so.]
+
+[CFJ 1766 (called 16 October 2007): When the CotC is obliged to change
+a player's posture due to recusal, eir capability to do so exists as
+long as the obligation does, and this obligation does not terminate
+due to the one-week time limit running out.]
+
 History:
 Created by Proposal 3821 (Blob), Jan. 12 1999
 Amended(1) by Proposal 4298 (Murphy), 17 May 2002
@@ -3664,6 +3678,9 @@ be bound by the contract.]
 
 [CFJ 1686 (called 7 June 2007): A person who is not a party to an
 agreement categorically cannot violate it.]
+
+[CFJ 1752 (called 28 September 2007): Deregistration does not
+implicitly cause the ex-player to leave a contract.]
 
 History:
 Created by Proposal 3558 (General Chaos), Oct. 24 1997
