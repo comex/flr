@@ -2098,8 +2098,8 @@ Resolving Agoran decisions
 
 [CFJ 1711 (called 1 August 2007): If a purported resolution notice
 refers to a previous notice with an incomplete vote tally and lists
-additional votes but does not give revised totals, this does not
-qualify as including a vote tally.]
+additional votes but does not give revised totals, this does qualify
+as including a vote tally.]
 
 History:
 Initial Mutable Rule 208, Jun. 30 1993
