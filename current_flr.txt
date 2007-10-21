@@ -2980,6 +2980,10 @@ Judicial Panels
 [CFJ 1746 (called 21 September 2007): A judicial panel is not a
 person.]
 
+[CFJ 1767 (called 21 October 2007): The agreement of the panel's
+members referred to in this rule is a state of affairs that does not
+require public messages in order to be brought into being.]
+
 History:
 Created by Proposal 5086 (Zefram), 23 July 2007
 Amended(1) by Proposal 5134 (root), 17 August 2007
