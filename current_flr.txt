@@ -244,6 +244,11 @@ Rules do not provide a time limit for the performance of that duty.]
 other players are unable to follow a particular rule is not in itself
 a violation of that rule.]
 
+[CFJ 1768 (called 22 October 2007): The right of participation in the
+fora is the right to participate in them for their intended purposes,
+and is not necessarily infringed by regulations regarding the manner
+and type of participation.]
+
 [CFJ 1738 (called 29 August 2007): An obligation on a player to not
 publish statements that e believes are true would conflict with the
 right of participation in the fora.]
@@ -375,6 +380,10 @@ Truthiness, or the Island of Knights and Knaves
 [CFJ 1739 (called 29 August 2007): A quotation can result in a
 violation of rule 2149, depending on the context of the rest of the
 message.]
+
+[CFJ 1768 (called 22 October 2007): Rule 2149's obligation on a
+knights to not publish statements that e believes are false is not in
+conflict with the knight's right of participation in the fora.]
 
 [CFJ 1738 (called 29 August 2007): Rule 2149's obligation on a knave
 to not publish statements that e believes are true is in conflict with
