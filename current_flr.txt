@@ -3,6 +3,11 @@ THE FULL LOGICAL RULESET
 Last proposal with recorded effect on this ruleset: 5258
 Last change to this ruleset: by proposal
 
+Note: this ruleset currently shows rule histories as they would be if
+CFJ 1711 were TRUE.  In fact CFJ 1711 is FALSE, so the affected rule
+histories are shown incorrectly.  This will be corrected in a future
+edition.
+
 Rule ID numbers:
       highest orderly: 2173
       disorderly: none
@@ -1165,6 +1170,10 @@ interpreted in the MIME way.]
 [CFJ 1536 (called 13 March 2005): The phrase "AOL!" is not a
 sufficiently clear synonym for "Me too!".]
 
+[CFJ 1770 (called 23 October 2007): A contract can redefine a
+rule-defined term in its own way, and the contract's definition will
+then apply in situations governed by the contract.]
+
 History:
 Created by Proposal 435 (Alexx), Aug. 30 1993
 Amended by Proposal 754 (KoJen), Dec. 1 1993
@@ -2107,8 +2116,8 @@ Resolving Agoran decisions
 
 [CFJ 1711 (called 1 August 2007): If a purported resolution notice
 refers to a previous notice with an incomplete vote tally and lists
-additional votes but does not give revised totals, this does qualify
-as including a vote tally.]
+additional votes but does not give revised totals, this does not
+qualify as including a vote tally.]
 
 History:
 Initial Mutable Rule 208, Jun. 30 1993
@@ -3694,6 +3703,11 @@ agreement categorically cannot violate it.]
 
 [CFJ 1752 (called 28 September 2007): Deregistration does not
 implicitly cause the ex-player to leave a contract.]
+
+[CFJ 1770 (called 23 October 2007): Agreement between all the parties,
+to modify or terminate a contract, can be manifested by a contract
+between all the parties, including the contract being modified or
+terminated.]
 
 History:
 Created by Proposal 3558 (General Chaos), Oct. 24 1997
