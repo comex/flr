@@ -3411,6 +3411,9 @@ Equity Cases
       judgement in an appeal case, CAN be initiated by any party to
       the contract in question by announcement.
 
+[CFJ 1772 (called 28 October 2007): An equity case cannot be initiated
+with the rules as the subject contract.]
+
 History:
 Created by Proposal 5194 (Zefram), 6 September 2007
 
@@ -3518,6 +3521,10 @@ Rules Viewed as Binding Agreement
       facie, be considered to be protective of a Player's rights and
       privileges with respect to making and changing the agreement to
       be bound by the rules.
+
+[CFJ 1772 (called 28 October 2007): Despite this rule, the rules are
+not a contract as defined by rule 1742, and cannot be adjudicated as a
+binding agreement.]
 
 History:
 Created by Proposal 5230 (comex), 3 October 2007
