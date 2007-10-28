@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5258
+Last proposal with recorded effect on this ruleset: 5256
 Last change to this ruleset: by proposal
 
 Note: this ruleset currently shows rule histories as they would be if
@@ -2551,7 +2551,7 @@ Amended(1) by Proposal 5222 (root; disi.), 30 September 2007
 
 ----------------------------------------------------------------------
 
-Rule 2126/34 (Power=2)
+Rule 2126/35 (Power=2)
 Voting Credits
 
       Voting Credits (VCs) are a class of fixed assets that can be
@@ -2654,6 +2654,10 @@ Voting Credits
            rank of the degree is not adequately defined to apply this
            rule then the number is two.
 
+      (-*) One second before the end of each month, each entity loses
+           1/5 of eir holdings of each color of VC, rounded down to
+           the nearest integer.
+
       VCs may be spent as follows, by announcement (INVALID unless the
       color is specified):
 
@@ -2722,6 +2726,7 @@ Amended(31) by Proposal 5202 (Murphy; disi.), 8 September 2007
 Amended(32) by Proposal 5205 (Zefram), 8 September 2007
 Amended(33) by Proposal 5213 (Murphy), 8 September 2007
 Amended(34) by Proposal 5220 (Zefram), 13 September 2007
+Amended(35) by Proposal 5256 (AFO), 27 October 2007
 
 ----------------------------------------------------------------------
 
