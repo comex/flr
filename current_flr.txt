@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5256
+Last proposal with recorded effect on this ruleset: 5257
 Last change to this ruleset: by proposal
 
 Note: this ruleset currently shows rule histories as they would be if
@@ -120,7 +120,7 @@ Index of Rules
       Rule 2126: Voting Credits
       Rule 2155: Parties
       Rule 2142: Support Democracy
-      Rule 2019: Rubber Stamp
+      Rule 2019: Prerogatives
 
       * Adjudication
       Rule  991: Judicial Cases Generally
@@ -148,8 +148,8 @@ Index of Rules
 
       * Foreign Relations
       Rule 2135: Advertising
-      Rule  402: Office of Speaker
-      Rule  103: Always a Speaker
+      Rule  402: Identity of the Speaker
+      Rule  103: Role of the Speaker
       Rule 2148: The Ambassador
       Rule 2172: Acting on Behalf of Agora
       Rule 2147: Protectorates
@@ -360,11 +360,11 @@ Created by Proposal 4940 (Zefram), 29 April 2007
 
 ----------------------------------------------------------------------
 
-Rule 2149/6 (Power=1)
+Rule 2149/7 (Power=1)
 Truthiness, or the Island of Knights and Knaves
 
-      Truthiness is a player switch, tracked by the Speaker, with the
-      following possible values:
+      Truthiness is a player switch, tracked by the Registrar, with
+      the following possible values:
 
       KNIGHT - the player is a knight (default)
       KNAVE  - the player is a knave
@@ -406,6 +406,7 @@ Amended(3) by Proposal 5140 (Murphy), 19 August 2007
 Amended(4) by Proposal 5147 (comex), 29 August 2007
 Amended(5) by Proposal 5179 (Zefram), 29 August 2007
 Amended(6) by Proposal 5180 (Zefram), 29 August 2007
+Amended(7) by Proposal 5257 (AFO), 27 October 2007
 
 ----------------------------------------------------------------------
 
@@ -880,7 +881,8 @@ published with the registrar's report, is part of the game state, even
 though it is not mentioned in the rules and no one is obliged to track
 or publish it.]
 
-[Cross-references (29 August 2007): the Registrar's duties are:
+[Cross-references (27 October 2007): the Registrar's duties are:
+  * track truthiness (rule 2149)
   * track citizenship (rule 869)
   * report players' identity and contact details (rule 2139)
   * report registration dates (rule 2139)
@@ -2759,12 +2761,35 @@ Amended(3) by Proposal 5210 (Murphy), 8 September 2007
 
 ----------------------------------------------------------------------
 
-Rule 2019/9 (Power=2)
-Rubber Stamp
+Rule 2019/10 (Power=2)
+Prerogatives
 
-      The Speaker may rubberstamp an Ordinary Proposal in its voting
-      period by announcement.  Quorum for a rubberstamped proposal is
-      three, other rules governing quorum notwithstanding.
+      As soon as possible after the beginning of the month, the
+      Speaker SHALL randomly assign each Minister Without Portfolio a
+      different Prerogative for the remainder of that month.  If there
+      are more members in one set than the other, then e SHALL
+      randomly choose which members of the larger set take part in the
+      assignment.
+
+      The following Prerogatives are defined:
+
+      a) Default Officeholder.  The Default Officeholder CAN become
+         holder of a vacant office by announcement, unless e is
+         prevented from holding that office on an ongoing basis.
+
+      b) Default Justice.  Whenever the Clerk of the Courts assigns a
+         judicial panel, e SHALL assign one with the Default Justice
+         as a member, unless no such panel is eligible to be so
+         assigned.
+
+      c) Wielder of Veto.  The Wielder of Veto CAN veto an ordinary
+         proposal in its voting period by announcement; this increases
+         its Adoption Index by 1.
+
+      d) Wielder of Rubberstamp.  The Wielder of Rubberstamp CAN
+         rubberstamp an ordinary proposal in its voting period by
+         announcement; this decreases its quorum to 3, rules to the
+         contrary notwithstanding.
 
 History:
 Created by Proposal 4276 (Steve), 28 March 2002
@@ -2779,6 +2804,8 @@ Amended(8) by Proposal 5049 (Zefram), 1 July 2007
 Retitled by Proposal 5049 (Zefram), 1 July 2007
 Amended(9) by Proposal 5138 (Zefram; disi.), 17 August 2007
 Retitled by Proposal 5138 (Zefram; disi.), 17 August 2007
+Retitled by Proposal 5257 (AFO), 27 October 2007
+Amended(10) by Proposal 5257 (AFO), 27 October 2007
 
 ----------------------------------------------------------------------
 
@@ -3571,7 +3598,7 @@ Amended(24) by Proposal 5239 (AFO), 3 October 2007
 
 ----------------------------------------------------------------------
 
-Rule 1922/17 (Power=1)
+Rule 1922/18 (Power=1)
 Defined Regular Patent Titles
 
       The following are Patent Titles:
@@ -3608,6 +3635,11 @@ Defined Regular Patent Titles
       (d)  Champion, to be awarded to any person who wins the game.
            The Herald's report includes how the player won.
 
+      (e)  Minister Without Portfolio, to be awarded to any player who
+           wins the game.  If the number of players bearing this title
+           is greater than the number of Prerogatives defined by the
+           rules, then this title is revoked from the Speaker.
+
 History:
 Created by Proposal 3916 (harvel), Sep. 27 1999
 Amended(1) by Proposal 4129 (Goethe), Mar. 28 2001
@@ -3627,6 +3659,7 @@ Amended(14) by Proposal 5112 (Murphy), 2 August 2007
 Amended(15) by Proposal 5205 (Zefram), 8 September 2007
 Amended(16) by Proposal 5237 (AFO; disi.), 3 October 2007
 Amended(17) by Proposal 5239 (AFO), 3 October 2007
+Amended(18) by Proposal 5257 (AFO), 27 October 2007
 
 ----------------------------------------------------------------------
 
@@ -3882,20 +3915,18 @@ Amended(2) by Proposal 5122 (Zefram), 13 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 402/21 (Power=1)
-Office of Speaker
+Rule 402/22 (Power=1)
+Identity of the Speaker
 
-      The speaker is an office.  The speaker is the head of state of
-      this nomic.  The speaker embodies the spirit of Agora.
-      Diplomatic missions from this nomic to foreign nomics operate on
-      behalf of the speaker.
+      The Speaker is the player who has borne the Patent Title of
+      Minister Without Portfolio the longest, with ties broken in
+      favor of the player who has been registered the longest.
 
-[Cross-references (29 August 2007): the Speaker's duties are:
-  * track truthiness (rule 2149)
-  * rubberstamp an Ordinary Proposal (rule 2019)
-  * titular head of state (rule 402)
+[Cross-references (27 October 2007): the Speaker's duties are:
+  * assign prerogatives to Ministers Without Portfolio (rule 2019)
+  * figurehead (rule 103)
 The other provisions governing the Speakership are:
-  * filling Speakership if it becomes vacant (rule 103)
+  * identity of the Speaker (rule 402)
   * initial Speaker (rule 104) (provision spent)]
 
 History:
@@ -3924,17 +3955,17 @@ Retitled by Proposal 5070 (Zefram), 11 July 2007
 Amended(19) by Proposal 5070 (Zefram), 11 July 2007
 Amended(20) by Proposal 5144 (Zefram), 19 August 2007
 Amended(21) by Proposal 5182 (Zefram), 29 August 2007
+Retitled by Proposal 5257 (AFO), 27 October 2007
+Amended(22) by Proposal 5257 (AFO), 27 October 2007
 
 ----------------------------------------------------------------------
 
-Rule 103/2 (Power=3)
-Always a Speaker
+Rule 103/3 (Power=3)
+Role of the Speaker
 
-      There should always be exactly one player who is the Speaker.
-      No one other than a player can be Speaker, and there can never
-      be more than one Speaker.  If there is ever no Speaker then
-      the player whose most recent registration was earliest becomes
-      the Speaker.
+      The Speaker is the figurehead of Agora, embodying its spirit.
+      Diplomatic missions from Agora to foreign nomics operate on the
+      Speaker's behalf.
 
 History:
 Initial Immutable Rule 103, Jun. 30 1993
@@ -3942,6 +3973,8 @@ Mutated from MI=Unanimity to MI=3 by Proposal 1481, Mar. 15 1995
 Amended(1) by Proposal 3829 (Steve), Feb. 8 1999
 Retitled by Proposal 4944 (Zefram), 3 May 2007
 Amended(2) by Proposal 4944 (Zefram), 3 May 2007
+Retitled by Proposal 5257 (AFO), 27 October 2007
+Amended(3) by Proposal 5257 (AFO), 27 October 2007
 
 ----------------------------------------------------------------------
 
