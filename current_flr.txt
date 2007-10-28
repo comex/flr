@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5257
+Last proposal with recorded effect on this ruleset: 5259
 Last change to this ruleset: by proposal
 
 Note: this ruleset currently shows rule histories as they would be if
@@ -2932,7 +2932,7 @@ Amended(10) by Proposal 5248 (AFO; disi.), 14 October 2007
 
 ----------------------------------------------------------------------
 
-Rule 1871/18 (Power=1.5)
+Rule 1871/19 (Power=1.5)
 The Standing Court
 
       Posture is a player switch with values Standing, Sitting,
@@ -2966,7 +2966,7 @@ The Standing Court
       The CotC CAN change all sitting players to standing by
       announcement.  The CotC SHALL NOT do this unless there is a
       judicial case to which e is obliged to assign a judge, all
-      entities qualified to be so assigned are sitting players, and e
+      entities qualified to be so assigned are poorly qualified, and e
       immediately afterwards (in the same announcement) assigns a
       judge to that case.
 
@@ -3004,6 +3004,7 @@ Amended(15) by Proposal 5248 (AFO; disi.), 14 October 2007
 Amended(16) by Proposal 5249 (AFO), 14 October 2007
 Amended(17) by Proposal 5250 (AFO), 14 October 2007
 Amended(18) by Proposal 5251 (Goddess Eris), 14 October 2007
+Amended(19) by Proposal 5259 (Zefram), 27 October 2007
 
 ----------------------------------------------------------------------
 
