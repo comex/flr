@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5255
+Last proposal with recorded effect on this ruleset: 5261
 Last change to this ruleset: by proposal
 
 Note: this ruleset currently shows rule histories as they would be if
@@ -2942,13 +2942,13 @@ Amended(10) by Proposal 5248 (AFO; disi.), 14 October 2007
 
 ----------------------------------------------------------------------
 
-Rule 1871/19 (Power=1.5)
+Rule 1871/20 (Power=1.5)
 The Standing Court
 
       Posture is a player switch with values Standing, Sitting,
       Leaning, and Supine (default), tracked by the Clerk of the
-      Courts.  A non-standing player CAN flip eir posture to any
-      non-standing value by announcement.
+      Courts.  A player CAN flip eir posture to any non-standing value
+      by announcement.
 
       A supine player is unqualified to be assigned as judge of any
       judicial case.  A sitting or leaning player is poorly qualified
@@ -3015,6 +3015,7 @@ Amended(16) by Proposal 5249 (AFO), 14 October 2007
 Amended(17) by Proposal 5250 (AFO), 14 October 2007
 Amended(18) by Proposal 5251 (Goddess Eris), 14 October 2007
 Amended(19) by Proposal 5259 (Zefram), 27 October 2007
+Amended(20) by Proposal 5261 (root; disi.), 31 October 2007
 
 ----------------------------------------------------------------------
 
