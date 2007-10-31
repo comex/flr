@@ -2837,6 +2837,10 @@ Judicial Cases Generally
       Judicial cases other than appeal cases have ID numbers, to be
       assigned by the Clerk of the Courts.
 
+[CFJs 1756-1757 (called 28 September 2007): A CFJ cannot belong to
+more than one subclass.  An announcement claiming to initiate a CFJ of
+more than one subclass does not initiate any CFJ.]
+
 [CFJs 1692-1693 (called 20 June 2007): A CFJ can be unambiguously
 referenced by using the customarily-assigned sequence numbers, even if
 the number was not assigned in the public forum, provided that those
