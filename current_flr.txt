@@ -3345,14 +3345,14 @@ for judgement to determine whether <player> violated <rule> by
 <action>." initiates a criminal case, despite the appearance that it
 is asking about veracity rather than about culpability or sentencing.]
 
+[CFJ 1773 (called 28 October 2007): An announcement that claims to
+initiate an equity case, and in doing so alleges a rule violation with
+all the elements required for a criminal case, does not initiate a
+criminal case.]
+
 [CFJ 1720 (called 12 August 2007): Where a criminal charge is
 expressed in the form "violating rule NNNN by XXX", the alleged act
 for the purposes of the rules is only "XXX".]
-
-[CFJ 1737 (called 29 August 2007): For the defendant to be "so
-informed", the informer must be the judge of the case at the time of
-informing.  This informing is not invalidated by any later change of
-judge.]
 
 History:
 Created by Proposal 1682, Aug. 22 1995
