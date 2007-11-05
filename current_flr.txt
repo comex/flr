@@ -1071,6 +1071,19 @@ X", but this shorthand cannot be used with an infinite repeat count,
 because it is impossible to write out an infinite number of instances
 of "I do X".]
 
+[CFJ 1774 (called 1 November 2007): Saying "I do X 10000 times", where
+X is something that can be done by announcement, does not necessarily
+achieve 10000 instances of X, if writing out 10000 instances of "I do
+X" would be a substantial effort such that using the shorthand is
+abusive.  The presumption is in favour of the shorthand being
+successful.]
+
+[CFJ 1775 (called 1 November 2007): If an announcement of the form "I
+do X N times" is not be acceptable shorthand for N instances of "I do
+X", then the announcement is completely nullified, and does not have
+the effect of M instances of "I do X" for any non-zero repeat count
+M.]
+
 [CFJ 1730 (called 22 August 2007): An appropriate announcement will
 accomplish an action even if its author believed the action was
 impossible.]
