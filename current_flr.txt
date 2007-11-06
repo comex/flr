@@ -1164,6 +1164,10 @@ ineffective.]
 [CFJ 712: Referring to a Player by a method other than eir name or
 nickname is acceptable, as long as it is unambiguous.]
 
+[CFJ 1782 (called 4 November 2007): Referring to a player by the name
+of an office that e holds suffices to identify em uniquely as a
+person, if there is no doubt regarding who holds that office.]
+
 [CFJ 1460 (called 4 April 2003): Extremely complex synonyms, requiring
 extensive effort to interpret correctly, can constitute a sufficient
 degree of unclarity as to render the message ineffective.]
