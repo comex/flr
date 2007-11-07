@@ -2417,6 +2417,18 @@ a proposal, but the distributed text does not match any proposal in
 the proposal pool, this constitutes the effective (albeit prohibited)
 distribution of a new proposal.]
 
+[CFJ 1780 (called 4 November 2007): If the Promotor creates a new
+proposal by distribution, by accidentally mangling the text of a
+proposal in the pool, and the new proposal is very similar in meaning
+to the one on which it is based (with only inconsequential
+differences), then the author of the new proposal is the author of the
+proposal on which it is based.]
+
+[CFJ 1780 (called 4 November 2007): If the Promotor accidentally
+creates a new proposal by distribution, and the new proposal is
+seriously different from any proposal in the pool, then the new
+proposal has no author.]
+
 [Cross-references (2 August 2007): the Promotor's duties are:
   * not distribute proposals during holiday (rule 1769)
   * distribute proposals (rule 1607)
