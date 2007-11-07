@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5276
+Last proposal with recorded effect on this ruleset: 5277
 Last change to this ruleset: by proposal
 
 Note: this ruleset currently shows rule histories as they would be if
@@ -2915,7 +2915,7 @@ Amended(9) by Proposal 5110 (Murphy), 2 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 1868/10 (Power=2)
+Rule 1868/11 (Power=2)
 Judge Assignment Generally
 
       At any time, a judicial case either has no judge assigned to it
@@ -2947,6 +2947,9 @@ Judge Assignment Generally
       still the judge of that case, then e CAN recuse that judge from
       that case by announcement.
 
+      Making an entity unqualified or poorly qualified to judge is
+      secured, with a power threshold of 1.5.
+
 [CFJ 1186: The Clerk of the Courts is required by Rule 1868 to select
 a Judge who is qualified ["eligible" at the time of CFJ 1186] at the
 time that the Judge is selected, regardless of whether that Player was
@@ -2967,6 +2970,7 @@ Amended(7) by Proposal 5086 (Zefram), 23 July 2007
 Amended(8) by Proposal 5151 (root), 29 August 2007
 Amended(9) by Proposal 5217 (Murphy; disi.), 13 September 2007
 Amended(10) by Proposal 5248 (AFO; disi.), 14 October 2007
+Amended(11) by Proposal 5277 (Murphy, Zefram), 7 November 2007
 
 ----------------------------------------------------------------------
 
