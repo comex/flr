@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5280
+Last proposal with recorded effect on this ruleset: 5284
 Last change to this ruleset: by proposal
 
 Note: this ruleset currently shows rule histories as they would be if
@@ -9,14 +9,14 @@ histories are shown incorrectly.  This will be corrected in a future
 edition.
 
 Rule ID numbers:
-      highest orderly: 2174
+      highest orderly: 2175
       disorderly: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 92
+Current total number of rules: 93
 
 Power distribution:
        1 with Power=4
@@ -24,7 +24,7 @@ Power distribution:
       24 with Power=2
        5 with Power=1.7
        3 with Power=1.5
-      33 with Power=1
+      34 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -124,6 +124,7 @@ Index of Rules
 
       * Adjudication
       Rule  991: Judicial Cases Generally
+      Rule 2175: Excess CFJs
       Rule 1868: Judge Assignment Generally
       Rule 1871: The Standing Court
       Rule 2157: Judicial Panels
@@ -2859,13 +2860,14 @@ it is possible for a title to be assigned to a CFJ informally.]
 [CFJ 1742 (called 13 September 2007): A judicial case can exist that
 has no subclass.]
 
-[Cross-references (28 October 2007): the Clerk of the Courts' duties
+[Cross-references (7 November 2007): the Clerk of the Courts' duties
 are:
   * issue Writ of FAGE (rule 1789)
   * not assign judges during holiday (rule 1769)
   * prefer judicial panels containing the Default Justice (rule 2019)
   * report open judicial cases (rule 991)
   * manage ID numbers of non-appeal judicial cases (rule 991)
+  * refuse excess CFJ (rule 2175)
   * assign judge to judicial case (rule 1868)
   * track player posture (rule 1871)
   * track player hawkishness (rule 1871)
@@ -2891,6 +2893,21 @@ Amended(7) by Proposal 5015 (Zefram), 24 June 2007
 Retitled by Proposal 5086 (Zefram), 23 July 2007
 Amended(8) by Proposal 5086 (Zefram), 23 July 2007
 Amended(9) by Proposal 5110 (Murphy), 2 August 2007
+
+----------------------------------------------------------------------
+
+Rule 2175/0 (Power=1)
+Excess CFJs
+
+      A judicial case initiated by a person who has previously
+      initiated five or more cases during the same Agoran Week as that
+      case is an Excess CFJ.  The Clerk of the Courts CAN, by
+      announcement, refuse an Excess CFJ that has not had any judge
+      assigned to it.  Refusal of an Excess CFJ causes it to cease to
+      be a judicial case.
+
+History:
+Created by Proposal 5284 (root, pikhq), 7 November 2007
 
 ----------------------------------------------------------------------
 
