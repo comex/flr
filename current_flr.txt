@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5275
+Last proposal with recorded effect on this ruleset: 5276
 Last change to this ruleset: by proposal
 
 Note: this ruleset currently shows rule histories as they would be if
@@ -323,7 +323,7 @@ Amended(3) by Proposal 5077 (Murphy), 18 July 2007
 
 ----------------------------------------------------------------------
 
-Rule 1688/3 (Power=3)
+Rule 1688/4 (Power=3)
 Power
 
       The power of an entity is a non-negative rational number.
@@ -333,11 +333,19 @@ Power
       stipulated by the rules.  All entities have power zero except
       where specifically allowed by the rules.
 
+      A rule that secures a change (hereafter the securing rule)
+      thereby makes it IMPOSSIBLE to perform that change except as
+      allowed by an instrument with power greater than or equal to the
+      change's power threshold.  This threshold defaults to the
+      securing rule's power, but CAN be lowered as allowed by that
+      rule.
+
 History:
 Created by Proposal 3445 (General Chaos), Mar. 26 1997
 Amended(1) by Proposal 3994 (harvel), Apr. 20 2000
 Amended(2) by Proposal 4811 (Maud, Goethe), 20 June 2005
 Amended(3) by Proposal 4940 (Zefram), 29 April 2007
+Amended(4) by Proposal 5276 (Murphy, Pavitra, Zefram), 7 November 2007
 
 ----------------------------------------------------------------------
 
@@ -2523,7 +2531,7 @@ Amended(19) by Proposal 5078 (Zefram), 18 July 2007
 
 ----------------------------------------------------------------------
 
-Rule 2156/2 (Power=2)
+Rule 2156/3 (Power=2)
 Voting on Ordinary Proposals
 
       Each player has a parameter known as eir base voting limit on
@@ -2533,9 +2541,7 @@ Voting on Ordinary Proposals
 
       Each player has a parameter known as eir volatile voting limit
       on ordinary proposals (VVLOP).  Whenever a player is registered,
-      eir VVLOP is set to eir BVLOP.  VVLOP can be modified by the
-      action of an instrument with power greater than or equal to the
-      power of this rule, but not by any other means.
+      eir VVLOP is set to eir BVLOP.  Changes to VVLOP are secured
 
       Each player has a parameter known as eir effective voting limit
       on ordinary proposals (EVLOP).  Whenever a player is registered,
@@ -2556,6 +2562,7 @@ History:
 Created by Proposal 5078 (Zefram), 18 July 2007
 Amended(1) by Proposal 5082 (Zefram), 23 July 2007
 Amended(2) by Proposal 5141 (Zefram), 19 August 2007
+Amended(3) by Proposal 5276 (Murphy, Pavitra, Zefram), 7 November 2007
 
 ----------------------------------------------------------------------
 
@@ -2574,14 +2581,13 @@ Amended(1) by Proposal 5222 (root; disi.), 30 September 2007
 
 ----------------------------------------------------------------------
 
-Rule 2126/36 (Power=2)
+Rule 2126/37 (Power=2)
 Voting Credits
 
       Voting Credits (VCs) are a class of fixed assets that can be
-      used to affect voting limits on ordinary proposals.  VCs CANNOT
-      be affected except by the action of an instrument with power
-      greater than or equal to the power of this rule.   Ownership of
-      VCs is restricted to players.
+      used to affect voting limits on ordinary proposals.  Changes to
+      VC holdings are secured.  Ownership of VCs is restricted to
+      players.
 
       Each VC has exactly one color.  Colors with different names are
       distinct, regardless of spectral proximity.  Each color of VC is
@@ -2755,6 +2761,7 @@ Amended(33) by Proposal 5213 (Murphy), 8 September 2007
 Amended(34) by Proposal 5220 (Zefram), 13 September 2007
 Amended(35) by Proposal 5256 (AFO), 27 October 2007
 Amended(36) by Proposal 5255 (AFO), 27 October 2007
+Amended(37) by Proposal 5276 (Murphy, Pavitra, Zefram), 7 November 2007
 
 ----------------------------------------------------------------------
 
@@ -3710,7 +3717,7 @@ Amended(18) by Proposal 5257 (AFO), 27 October 2007
 
 ----------------------------------------------------------------------
 
-Rule 1367/9 (Power=1.5)
+Rule 1367/10 (Power=1.5)
 Degrees
 
       Certain patent titles are known as degrees.  The degrees are
@@ -3726,9 +3733,8 @@ Degrees
       degrees listed later being ranked higher.
 
       A degree CANNOT be awarded to any person more than once, and
-      CANNOT be revoked once awarded.  A degree CAN be awarded by the
-      action of an instrument with power greater than or equal to the
-      power of this rule, but CANNOT be awarded in any other way.
+      CANNOT be revoked once awarded.  The awarding of a degree is a
+      secured change
 
       A degree SHOULD be awarded ONLY IF its new bearer has published
       a suitable thesis with explicit intent to qualify for a degree
@@ -3750,6 +3756,7 @@ Amended(7) by Proposal 4865 (Goethe), 27 August 2006
 Amended(8) by Proposal 5085 (Zefram), 23 July 2007
 Power changed from 1 to 1.5 by Proposal 5085 (Zefram), 23 July 2007
 Amended(9) by Proposal 5243 (root; disi.), 7 October 2007
+Amended(10) by Proposal 5276 (Murphy, Pavitra, Zefram), 7 November 2007
 
 ----------------------------------------------------------------------
 
@@ -4141,7 +4148,7 @@ Amended(4) by Proposal 5239 (AFO), 3 October 2007
 
 ----------------------------------------------------------------------
 
-Rule 2159/0 (Power=2)
+Rule 2159/1 (Power=2)
 Protective Decrees
 
       A protective decree is an act of Agora the intended effect of
@@ -4151,13 +4158,12 @@ Protective Decrees
       protectorate, or any other instantaneous changes to the
       protectorate's gamestate.
 
-      Where permitted by other rules, an instrument with power 2 or
-      greater generally can, as part of its effect, initiate a
-      protective decree.  The initiating instrument must specify the
-      target protectorate and the changes to be made to it.  Any
-      ambiguity in the specification of a protective decree causes it
-      to be void and without effect.  This is the only mechanism by
-      which a protective decree can be initiated.
+      The initiation of a protective decree is a secured change.  The
+      initiating instrument must specify the target protectorate and
+      the changes to be made to it.  Any ambiguity in the
+      specification of a protective decree causes it to be void and
+      without effect.  This is the only mechanism by which a
+      protective decree can be initiated.
 
       As soon as possible after a protective decree has been
       initiated, the ambassador shall proclaim it to the target nomic,
@@ -4173,6 +4179,7 @@ Protective Decrees
 
 History:
 Created by Proposal 5091 (Zefram), 25 July 2007
+Amended(1) by Proposal 5276 (Murphy, Pavitra, Zefram), 7 November 2007
 
 ----------------------------------------------------------------------
 
