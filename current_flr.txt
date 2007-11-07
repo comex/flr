@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5277
+Last proposal with recorded effect on this ruleset: 5280
 Last change to this ruleset: by proposal
 
 Note: this ruleset currently shows rule histories as they would be if
@@ -53,7 +53,7 @@ Index of Rules
       Rule 1586: Definition and Continuity of Entities
       Rule 1688: Power
       Rule 2140: Power Controls Mutability
-      Rule 2149: Truthiness, or the Island of Knights and Knaves
+      Rule 2149: Truthfulness
       Rule 2110: Win by Paradox
 
       * Rules
@@ -369,42 +369,20 @@ Created by Proposal 4940 (Zefram), 29 April 2007
 
 ----------------------------------------------------------------------
 
-Rule 2149/7 (Power=1)
-Truthiness, or the Island of Knights and Knaves
+Rule 2149/8 (Power=1)
+Truthfulness
 
-      Truthiness is a player switch, tracked by the Registrar, with
-      the following possible values:
-
-      KNIGHT - the player is a knight (default)
-      KNAVE  - the player is a knave
-      SPY    - the player is neither a knight nor a knave
-      FOOL   - the player is both a knight and a knave
-
-      A knight SHALL NOT publish statements that e believes are false
-      or which e is reckless regarding the veracity of.  A knave SHALL
-      NOT publish statements that e believes are true or which e is
-      reckless regarding the veracity of.
-
-      Merely quoting a statement does not constitute publishing it for
-      the purposes of this rule.  Any disclaimer, conditional clause,
-      or other qualifier attached to a statement constitutes part of
-      the statement for the purposes of this rule; the truth or
-      falsity of the whole is what is significant.
+      A person SHALL NOT make a public statement unless e believes
+      that in doing so e is telling the truth.  Merely quoting a false
+      statement does not constitute making it for the purposes of this
+      rule.  Any disclaimer, conditional clause, or other qualifier
+      attached to a statement constitutes part of the statement for
+      the purposes of this rule; the truth or falsity of the whole is
+      what is significant.
 
 [CFJ 1739 (called 29 August 2007): A quotation can result in a
 violation of rule 2149, depending on the context of the rest of the
 message.]
-
-[CFJ 1768 (called 22 October 2007): Rule 2149's obligation on a
-knights to not publish statements that e believes are false is not in
-conflict with the knight's right of participation in the fora.]
-
-[CFJ 1738 (called 29 August 2007): Rule 2149's obligation on a knave
-to not publish statements that e believes are true is in conflict with
-the knave's right of participation in the fora.]
-
-[CFJ 1730 (called 22 August 2007): Knave status does not change the
-interpretation of statements made by a player.]
 
 History:
 Created by Proposal 4990 (Zefram), 6 June 2007
@@ -416,6 +394,8 @@ Amended(4) by Proposal 5147 (comex), 29 August 2007
 Amended(5) by Proposal 5179 (Zefram), 29 August 2007
 Amended(6) by Proposal 5180 (Zefram), 29 August 2007
 Amended(7) by Proposal 5257 (AFO), 27 October 2007
+Retitled by Proposal 5280 (Zefram, Murphy), 7 November 2007
+Amended(8) by Proposal 5280 (Zefram, Murphy), 7 November 2007
 
 ----------------------------------------------------------------------
 
@@ -892,8 +872,7 @@ published with the registrar's report, is part of the game state, even
 though it is not mentioned in the rules and no one is obliged to track
 or publish it.]
 
-[Cross-references (27 October 2007): the Registrar's duties are:
-  * track truthiness (rule 2149)
+[Cross-references (7 November 2007): the Registrar's duties are:
   * track citizenship (rule 869)
   * report players' identity and contact details (rule 2139)
   * report registration dates (rule 2139)
