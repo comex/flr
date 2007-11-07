@@ -1887,6 +1887,10 @@ Deputisation
       (d) it would be POSSIBLE for the deputy to perform the action,
           other than by deputisation, if e held the office.
 
+[CFJ 1776 (called 1 November 2007): A requirement to perform an
+action, for the purposes of this rule, can be a logical implication
+from rules and circumstances, not just directly imposed by the rules.]
+
 History:
 Created by Proposal 5103 (Zefram), 1 August 2007
 Amended(1) by Proposal 5200 (Zefram; disi.), 8 September 2007
