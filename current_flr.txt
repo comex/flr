@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5284
+Last proposal with recorded effect on this ruleset: 5285
 Last change to this ruleset: by proposal
 
 Note: this ruleset currently shows rule histories as they would be if
@@ -4314,7 +4314,7 @@ Mutated from MI=Unanimity to MI=3 by Proposal 1482, Mar. 15 1995
 
 ----------------------------------------------------------------------
 
-Rule 2151/0 (Power=1)
+Rule 2151/1 (Power=1)
 Agoran Arms
 
       The escutcheon of Agora is defined by the following blazon:
@@ -4322,11 +4322,14 @@ Agoran Arms
       and an axe in saltire, proper, and in the chief a capital letter
       A, gules.
 
+      Agora's adopted motto is "Agora n'est pas une fontaine."
+
 [Note (28 June 2007): A rendering of the escutcheon of Agora is at
 <http://greyfire.org/picture_library/agora.png>.]
 
 History:
 Created by Proposal 5037 (Zefram, GreyKnight), 28 June 2007
+Amended(1) by Proposal 5285 (Goethe), 7 November 2007
 
 ----------------------------------------------------------------------
 
