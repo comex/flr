@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5270
+Last proposal with recorded effect on this ruleset: 5271
 Last change to this ruleset: by proposal
 
 Note: this ruleset currently shows rule histories as they would be if
@@ -770,19 +770,20 @@ Players
       players.
 ----------------------------------------------------------------------
 
-Rule 869/24 (Power=1)
+Rule 869/25 (Power=1)
 How to Join and Leave Agora
 
-      Citizenship is an entity switch with values Null (default) and
-      Registered, tracked by the registrar.  A player is an entity
-      whose citizenship is Registered.
+      Citizenship is an entity switch with values Unregistered
+      (default) and Registered, tracked by the registrar.  A player is
+      an entity whose citizenship is Registered.
 
       The verb "to be registered" means to become a player (i.e., to
-      have one's citizenship changed from Null to Registered), and the
-      verb "to be deregistered" means to cease to be a player (i.e.,
-      to have one's citizenship changed from Registered to Null).
-      Where the verb "to register" or "to deregister" is used without
-      an explicit direct object, the action is implicitly reflexive.
+      have one's citizenship changed from Unregistered to Registered),
+      and the verb "to be deregistered" means to cease to be a player
+      (i.e., to have one's citizenship changed from Registered to
+      Unregistered).  Where the verb "to register" or "to deregister"
+      is used without an explicit direct object, the action is
+      implicitly reflexive.
 
       A person CAN register, unless prevented by the rules, by
       announcing that e registers, wishes to register, requests
@@ -830,6 +831,7 @@ Amended(21) by Proposal 5086 (Zefram), 23 July 2007
 Amended(22) by Proposal 5111 (Murphy), 2 August 2007
 Amended(23) by Proposal 5117 (Zefram; disi.), 8 August 2007
 Amended(24) by Proposal 5156 (Zefram), 29 August 2007
+Amended(25) by Proposal 5271 (Murphy), 7 November 2007
 
 ----------------------------------------------------------------------
 
@@ -931,12 +933,13 @@ Amended(3) by Proposal 4825 (Maud), 17 July 2005
 
 ----------------------------------------------------------------------
 
-Rule 2130/8 (Power=1)
+Rule 2130/9 (Power=1)
 Activity
 
       Activity is a player switch with values Active (default) and
       Inactive, tracked by the Registrar.  The Registrar's report
-      includes the date on which each player's activity last changed.
+      includes the date on which each non-Active player's activity
+      last changed.
 
       A player CAN flip eir activity by announcement.  "To go on hold"
       is to become Inactive; "to come off hold" is to become Active.
@@ -959,6 +962,7 @@ Retitled by Proposal 5111 (Murphy), 2 August 2007
 Amended(6) by Proposal 5111 (Murphy), 2 August 2007
 Amended(7) by Proposal 5116 (Zefram; disi.), 8 August 2007
 Amended(8) by Proposal 5258 (AFO), 18 October 2007
+Amended(9) by Proposal 5271 (Murphy), 7 November 2007
 
 ----------------------------------------------------------------------
 
@@ -1392,7 +1396,7 @@ Amended(1) by Proposal 5113 (Murphy, Maud), 2 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 2162/0 (Power=2)
+Rule 2162/1 (Power=2)
 Switches
 
       A type of switch is a property that the rules define as a
@@ -1407,7 +1411,7 @@ Switches
 
       c) Exactly one officer who tracks instances of that switch.
          That officer's report includes the value of each instance of
-         that switch whose value is not Null.
+         that switch whose value is not its default value.
 
       At any given time, each instance of a switch has exactly one
       possible value for that type of switch.  If an instance of a
@@ -1422,6 +1426,7 @@ Switches
 
 History:
 Created by Proposal 5111 (Murphy), 2 August 2007
+Amended(1) by Proposal 5271 (Murphy), 7 November 2007
 
 ----------------------------------------------------------------------
 
