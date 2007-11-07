@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5272
+Last proposal with recorded effect on this ruleset: 5274
 Last change to this ruleset: by proposal
 
 Note: this ruleset currently shows rule histories as they would be if
@@ -9,14 +9,14 @@ histories are shown incorrectly.  This will be corrected in a future
 edition.
 
 Rule ID numbers:
-      highest orderly: 2173
+      highest orderly: 2174
       disorderly: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 91
+Current total number of rules: 92
 
 Power distribution:
        1 with Power=4
@@ -24,7 +24,7 @@ Power distribution:
       24 with Power=2
        5 with Power=1.7
        3 with Power=1.5
-      32 with Power=1
+      33 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -144,6 +144,7 @@ Index of Rules
       Rule 1742: Contracts
       Rule 2173: The Notary
       Rule 2145: Partnerships
+      Rule 2174: Aliens
       Rule 2136: Contests
 
       * Foreign Relations
@@ -3875,6 +3876,18 @@ Created by Proposal 4977 (BobTHJ), 31 May 2007
 Amended(1) by Proposal 5041 (BobTHJ), 28 June 2007
 Power changed from 1 to 2 by Proposal 5061 (Zefram), 9 July 2007
 Amended(2) by Proposal 5061 (Zefram), 9 July 2007
+
+----------------------------------------------------------------------
+
+Rule 2174/0 (Power=1)
+Aliens
+
+      An alien is a non-player who is a member of the basis of one or
+      more contracts (hereafter eir visas).  A resident alien is an
+      alien with one or more registered visas.
+
+History:
+Created by Proposal 5274 (Murphy), 7 November 2007
 
 ----------------------------------------------------------------------
 
