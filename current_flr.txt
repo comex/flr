@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5271
+Last proposal with recorded effect on this ruleset: 5272
 Last change to this ruleset: by proposal
 
 Note: this ruleset currently shows rule histories as they would be if
@@ -972,7 +972,7 @@ Definitions
       widely used and do not readily fall into any other category.
 ----------------------------------------------------------------------
 
-Rule 478/20 (Power=3)
+Rule 478/21 (Power=3)
 Fora
 
       Freedom of speech being essential for the healthy functioning of
@@ -980,9 +980,9 @@ Fora
       shall be prohibited from participating in the Fora.
 
       Publicity is a forum switch with values Public, Discussion, and
-      Null (default), tracked by the Registrar.
+      Foreign (default), tracked by the Registrar.
 
-      The Registrar's report includes, for each forum with non-null
+      The Registrar's report includes, for each forum with non-Foreign
       publicity, sufficient instructions for players to receive
       messages there.
 
@@ -1115,6 +1115,7 @@ Amended(17) by Proposal 4939 (Murphy), 29 April 2007
 Amended(18) by Proposal 5014 (Zefram), 24 June 2007
 Amended(19) by Proposal 5111 (Murphy), 2 August 2007
 Amended(20) by Proposal 5172 (Murphy), 29 August 2007
+Amended(21) by Proposal 5272 (Murphy; disi.), 7 November 2007
 
 ----------------------------------------------------------------------
 
