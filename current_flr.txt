@@ -3939,12 +3939,17 @@ Contests
       this fact.  Upon such an announcement, each player's score is
       set to zero.
 
+[CFJ 1777 (called 4 November 2007): A contest is a contract as
+governed by rule 1742.]
+
+[CFJ 1777 (called 4 November 2007): A purported contest that is
+created and then dissolved so quickly that there is no practical
+opportunity for unaware players to join it is thereby not allowing any
+first-class player to become a party, and thereby not a contest.]
+
 [CFJ 1762 (called 3 October 2007): A purported contest that allows the
 contestmaster to award points at eir discretion is thereby unfair, and
 thereby not a contest.]
-
-[CFJ 1729 (called 21 August 2007): One who is a contestmaster of
-multiple contests can award 10 points per contest in a single week.]
 
 [Cross-references (29 August 2007): the Scorekeepor's duties are:
   * recordkeepor of points (rule 2136)]
