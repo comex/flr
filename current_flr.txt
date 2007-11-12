@@ -1489,6 +1489,10 @@ Assets
       document.  Instances of a currency with the same owner are
       fungible.
 
+[CFJs 1790-1791 (called 11 November 2007): The self-ratifying asset
+report is the complete list of ownerships of assets of that class; a
+partial list does not self-ratify.]
+
 History:
 Created by Proposal 5173 (Murphy), 29 August 2007
 Amended(1) by Proposal 5216 (Murphy), 13 September 2007
@@ -1840,6 +1844,9 @@ document [at the time of CFJ 1690, the resolution of an Agoran
 decision] must explicitly identify the document, either individually
 or as part of a set, and explicitly contest the accuracy of some
 aspect of it.]
+
+[CFJs 1790-1791 (called 11 November 2007): A challenge to any part of
+a self-ratifying document prevents ratification of all parts of it.]
 
 History:
 Created by Proposal 2425, Jan. 30 1996
