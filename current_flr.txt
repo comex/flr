@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5285
+Last proposal with recorded effect on this ruleset: 5288
 Last change to this ruleset: by proposal
 
 Note: this ruleset currently shows rule histories as they would be if
@@ -2580,7 +2580,7 @@ Amended(1) by Proposal 5222 (root; disi.), 30 September 2007
 
 ----------------------------------------------------------------------
 
-Rule 2126/37 (Power=2)
+Rule 2126/38 (Power=2)
 Voting Credits
 
       Voting Credits (VCs) are a class of fixed assets that can be
@@ -2609,7 +2609,8 @@ Voting Credits
            week.
 
       (-R) When a proposal's voting index is less than half its
-           adoption index, its proposer loses one Red VC.
+           adoption index, its proposer loses one Red VC, unless e
+           lost a VC in this way earlier in the same week.
 
       (+O) When an interested proposal is adopted by voting with no
            valid votes AGAINST, its proposer gains one orange VC
@@ -2761,6 +2762,7 @@ Amended(34) by Proposal 5220 (Zefram), 13 September 2007
 Amended(35) by Proposal 5256 (AFO), 27 October 2007
 Amended(36) by Proposal 5255 (AFO), 27 October 2007
 Amended(37) by Proposal 5276 (Murphy, Pavitra, Zefram), 7 November 2007
+Amended(38) by Proposal 5288 (Murphy), 14 November 2007
 
 ----------------------------------------------------------------------
 
