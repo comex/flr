@@ -694,6 +694,10 @@ The Logical Rulesets
       changed due to a proposal, a reference to that proposal, its
       proposer, and any coauthors explicitly named in that proposal.
 
+[CFJ 1798 (called 16 November 2007): "coauthor" in the rules means
+anyone named as a coauthor by the proposal, regardless of their actual
+level of creative collaboration.]
+
 History:
 Created by Proposal 2783 (Chuck), Jan 15 1997
 Amended(1) by Proposal 3500 (Crito), Jun. 3 1997, substantial
@@ -2445,6 +2449,10 @@ creates a new proposal by distribution, and the new proposal is
 seriously different from any proposal in the pool, then the new
 proposal has no author.]
 
+[CFJ 1798 (called 16 November 2007): "coauthor" in the rules means
+anyone named as a coauthor by the proposal, regardless of their actual
+level of creative collaboration.]
+
 [Cross-references (2 August 2007): the Promotor's duties are:
   * not distribute proposals during holiday (rule 1769)
   * distribute proposals (rule 1607)
@@ -2724,6 +2732,10 @@ Voting Credits
          the game.
 
       When a game win occurs, each player's VVLOP is set to eir BVLOP.
+
+[CFJ 1798 (called 16 November 2007): "coauthor" in the rules means
+anyone named as a coauthor by the proposal, regardless of their actual
+level of creative collaboration.]
 
 [Note (30 August 2007): here is a set of colors with convenient
 abbreviating letters, suggested for future inventions of new types of
