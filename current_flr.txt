@@ -1031,6 +1031,9 @@ sent via a public forum.]
 [CFJ 1631 (called 29 April 2007): Public announcements must be made in
 the message body; the subject line is insignificant.]
 
+[CFJ 1784 (called 5 November 2007): An undescriptive or misleading
+subject line does not deprive the message body of effect.]
+
 [CFJ 1761 (called 30 September 2007): Publishing part of a message is
 a different action from publishing the whole message.]
 
