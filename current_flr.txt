@@ -3568,6 +3568,10 @@ Appeal Cases
 [CFJ 1597 (called 22 December 2006): It is possible to appeal a
 judgement even if it is not certain that the judgement exists.]
 
+[CFJ 1800 (called 18 November 2007): An announcement of the form "I
+call for the appeal of <judgement>" has the effect of initiating the
+Agoran decision on whether to approve appealing the cited judgement.]
+
 History:
 Created by Proposal 384 (Alexx), Aug. 16 1993
 Amended by Proposal 690 (Ronald Kunne), Nov. 11 1993
