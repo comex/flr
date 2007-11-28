@@ -315,6 +315,11 @@ Definition and Continuity of Entities
       entity and its properties continue to exist to whatever extent
       is possible under the new definitions.
 
+[CFJ 1807 (called 25 November 2007): Rule-defined entities include
+pending timed events, which can therefore occur under modified rules
+even if the events that originally triggered them would not trigger
+them under the new rules.]
+
 History:
 Created by Proposal 2481, Feb. 16 1996
 Amended(1) by Proposal 2795 (Andre), Jan. 30 1997, substantial
