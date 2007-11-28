@@ -4162,6 +4162,10 @@ Acting on Behalf of Agora
       A player MAY perform an action on behalf of Agora with Agoran
       Consent.
 
+[CFJ 1801 (called 19 November 2007): This means that a player is
+prohibited from acting on behalf of Agora if e does not have Agoran
+Consent.]
+
 History:
 Created by Proposal 5246 (Levi), 14 October 2007
 
