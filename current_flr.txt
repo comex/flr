@@ -2745,6 +2745,9 @@ Voting Credits
 anyone named as a coauthor by the proposal, regardless of their actual
 level of creative collaboration.]
 
+[CFJ 1806 (called 24 November 2007): "VCs of different colors" means
+that all the VCs involved must be mutually distinct in color.]
+
 [Note (30 August 2007): here is a set of colors with convenient
 abbreviating letters, suggested for future inventions of new types of
 VC: Amber, Blue, Cyan, Denim, Emerald, Fern, Green, Heliotrope,
