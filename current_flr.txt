@@ -3915,6 +3915,11 @@ The Notary
       except as explicitly allowed by the contract, or with the
       explicit consent of all parties.
 
+[CFJ 1786 (called 6 November 2007): The notary is not prohibited from
+disclosing eir knowledge or guesses about the historical or current
+text and parties of a private contract where e has no privileged
+knowledge.]
+
 History:
 Created by Proposal 5254 (AFO), 18 October 2007
 
