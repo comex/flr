@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5297
+Last proposal with recorded effect on this ruleset: 5299
 Last change to this ruleset: by proposal
 
 Note: this ruleset currently shows rule histories as they would be if
@@ -9,19 +9,19 @@ histories are shown incorrectly.  This will be corrected in a future
 edition.
 
 Rule ID numbers:
-      highest orderly: 2175
+      highest orderly: 2176
       disorderly: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 93
+Current total number of rules: 94
 
 Power distribution:
        1 with Power=4
       26 with Power=3
-      24 with Power=2
+      25 with Power=2
        5 with Power=1.7
        3 with Power=1.5
       34 with Power=1
@@ -118,6 +118,7 @@ Index of Rules
       Rule 2156: Voting on Ordinary Proposals
       Rule 2134: Voting Limits are Limited
       Rule 2126: Voting Credits
+      Rule 2176: Marks
       Rule 2155: Parties
       Rule 2142: Support Democracy
       Rule 2019: Prerogatives
@@ -2805,6 +2806,73 @@ Amended(36) by Proposal 5255 (AFO), 27 October 2007
 Amended(37) by Proposal 5276 (Murphy, Pavitra, Zefram), 7 November 2007
 Amended(38) by Proposal 5288 (Murphy), 14 November 2007
 Amended(39) by Proposal 5289 (Murphy), 14 November 2007
+
+----------------------------------------------------------------------
+
+Rule 2176/0 (Power=2)
+Marks
+
+      Marks are a class of assets.  Ownership of Marks is restricted
+      to persons.
+
+      Each Mark has exactly one color.  Each color of Mark is a
+      currency.  If a player is meant to lose a Mark of a color that e
+      does not possess, then e loses a Mark of eir Party's color
+      instead; if e has no Marks at all, then e loses a VC of the same
+      color as the Mark e is meant to lose, gains 100 Marks of that
+      color, and then loses the Mark.
+
+      The Assessor is the recordkeepor of Marks.
+
+      Marks are gained and lost as follows:
+
+      (+R) At the end of a proposal's voting period, each player who
+           voted on it gains one Red Mark.  If at least one of eir
+           votes is FOR or AGAINST, and the ratio of eir FOR to
+           AGAINST votes does not equal the proposal's adoption index,
+           then e gains another Red Mark.  If the proposal is adopted,
+           and e was the only player to vote AGAINST it, then e gains
+           another ten Red Marks, and the author gains ten Red Marks.
+
+      (-R) When a proposal's voting period is extended because it
+           would fail quorum, each eligible voter who has not voted on
+           it loses five Red Marks.  When a proposal meets quorum but
+           is rejected, and only one player (other than possibly the
+           author) voted FOR it, then that player loses ten Red Marks,
+           and the author loses ten Red Marks.
+
+      (+G) At the end of each month, for each office without a report,
+           the player (if any) who held that office for the majority
+           of that month gains one Green Mark, unless another person
+           deputised for that office while that player held that
+           office during that month, in which case the deputising
+           player gains one Green Mark.
+
+      (+B) When a person calls for judgement, e gains one Blue Mark,
+           except as noted below.  When a judgement that caused the
+           loss of a Blue Mark as noted below is overturned, the
+           caller gains one Blue Mark.  When a judicial panel judges
+           an appeal case, each member gains one Blue Mark.
+
+      (-B) When a person calls for judgement, and has already done so
+           at least five times in the same week, e loses two Blue
+           Marks.  When an inquiry case is judged IRRELEVANT, or a
+           criminal case is judged OVERLOOKED, ALREADY TRIED, or
+           UNIMPUGNED, the caller loses one Blue Mark.  When a
+           judicial panel is recused with cause, each member loses one
+           Blue Mark.
+
+      Only valid, unretracted votes count toward the conditions for
+      gaining and losing Red Marks.
+
+      Marks may be spent as follows, by announcement (INVALID unless
+      the color is specified):
+
+      a) A player may spend 100 Marks of the same color to gain one VC
+         of that color.
+
+History:
+Created by Proposal 5299 (Murphy), 22 November 2007
 
 ----------------------------------------------------------------------
 
