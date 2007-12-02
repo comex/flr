@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5302
+Last proposal with recorded effect on this ruleset: 5315
 Last change to this ruleset: by proposal
 
 Note: this ruleset currently shows rule histories as they would be if
@@ -1873,7 +1873,7 @@ Amended(1) by Proposal 5239 (AFO), 3 October 2007
 
 ----------------------------------------------------------------------
 
-Rule 1551/10 (Power=3)
+Rule 1551/11 (Power=3)
 Ratification
 
       A public document is part (possibly all) of a public message.
@@ -1887,8 +1887,20 @@ Ratification
       ratified at a later date.
 
       Any public document defined by the rules as self-ratifying is
-      ratified one week after its publication, unless explicitly
-      challenged during that period.
+      ratified one week after its publication, unless explicitly and
+      publicly challenged during that period via one of the following
+      methods, explaining the scope and nature of the perceived error:
+
+      a) An inquiry case, appropriate for questions of legal
+         interpretation.
+
+      b) A claim of error, appropriate for matters of fact.  The
+         publisher of the original document SHALL respond to a claim
+         of error as soon as possible, either publishing a revision or
+         denying the claim.  If e denies the claim, then the original
+         document is ratified one week after the denial, unless it is
+         challenged again (subject to the same requirements) during
+         that period.
 
       When a public document is ratified, the gamestate is modified so
       that the ratified document was completely true and accurate at
@@ -1920,6 +1932,7 @@ Amended(7) by Proposal 4868 (Goethe), 27 August 2006
 Amended(8) by Proposal 5101 (Zefram), 1 August 2007
 Amended(9) by Proposal 5212 (Murphy), 8 September 2007
 Amended(10) by Proposal 5275 (Murphy), 7 November 2007
+Amended(11) by Proposal 5315 (Murphy), 28 November 2007
 
 ----------------------------------------------------------------------
 
