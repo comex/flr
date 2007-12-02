@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5293
+Last proposal with recorded effect on this ruleset: 5294
 Last change to this ruleset: by proposal
 
 Note: this ruleset currently shows rule histories as they would be if
@@ -3388,7 +3388,7 @@ Amended(20) by Proposal 5086 (Zefram), 23 July 2007
 
 ----------------------------------------------------------------------
 
-Rule 1504/16 (Power=1.7)
+Rule 1504/17 (Power=1.7)
 Criminal Cases
 
       There is a subclass of judicial case known as a criminal case.
@@ -3440,11 +3440,12 @@ Criminal Cases
         judge is insufficient to determine beyond a reasonable doubt
         whether or not the defendant performed the alleged act
 
-      * EXCUSED, appropriate if the defendant has good reason why e
-        could not avoid breaching the rules in a manner at least as
-        serious as alleged
+      * EXCUSED, appropriate if the defendant breached the specified
+        rule via the specified act, but has good reason why e could
+        not avoid breaching the rules in a manner at least as serious
 
-      * GUILTY, appropriate if none of the above judgements is
+      * GUILTY, appropriate if the defendant breached the specified
+        rule via the specified act and none of the above judgements is
         appropriate
 
       A criminal case has a judicial question on sentencing, which is
@@ -3548,6 +3549,7 @@ Amended(13) by Proposal 5135 (Wooble), 17 August 2007
 Amended(14) by Proposal 5153 (Murphy), 29 August 2007
 Amended(15) by Proposal 5155 (root), 29 August 2007
 Amended(16) by Proposal 5223 (root), 30 September 2007
+Amended(17) by Proposal 5294 (Murphy), 22 November 2007
 
 ----------------------------------------------------------------------
 
