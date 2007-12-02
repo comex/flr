@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5304
+Last proposal with recorded effect on this ruleset: 5305
 Last change to this ruleset: by proposal
 
 Note: this ruleset currently shows rule histories as they would be if
@@ -4059,7 +4059,7 @@ Created by Proposal 5274 (Murphy), 7 November 2007
 
 ----------------------------------------------------------------------
 
-Rule 2136/12 (Power=1)
+Rule 2136/13 (Power=1)
 Contests
 
       Points are a class of fixed assets.  Ownership of points is
@@ -4079,7 +4079,7 @@ Contests
       (d) is public, and is published before any contestants become a
           party to it, and
 
-      (e) is fair to all contestants.
+      (e) is a dependent contract.
 
       All parties to the contract who are not the contestmaster are
       its contestants.
@@ -4134,6 +4134,7 @@ Amended(9) by Proposal 5192 (root), 6 September 2007
 Amended(10) by Proposal 5234 (Levi, Zefram), 3 October 2007
 Amended(11) by Proposal 5293 (Goethe), 22 November 2007
 Amended(12) by Proposal 5304 (root; disi.), 24 November 2007
+Amended(13) by Proposal 5305 (comex, Goethe), 24 November 2007
 
 ----------------------------------------------------------------------
 
