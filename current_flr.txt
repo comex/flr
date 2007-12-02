@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5305
+Last proposal with recorded effect on this ruleset: 5309
 Last change to this ruleset: by proposal
 
 Note: this ruleset currently shows rule histories as they would be if
@@ -9,19 +9,19 @@ histories are shown incorrectly.  This will be corrected in a future
 edition.
 
 Rule ID numbers:
-      highest orderly: 2176
+      highest orderly: 2177
       disorderly: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 94
+Current total number of rules: 95
 
 Power distribution:
        1 with Power=4
       26 with Power=3
-      25 with Power=2
+      26 with Power=2
        5 with Power=1.7
        3 with Power=1.5
       34 with Power=1
@@ -55,6 +55,7 @@ Index of Rules
       Rule 2140: Power Controls Mutability
       Rule 2149: Truthfulness
       Rule 2110: Win by Paradox
+      Rule 2177: The Senate
 
       * Rules
       Rule 2141: Role and Attributes of Rules
@@ -422,6 +423,38 @@ Created by Proposal 4781 (Sherlock), 3 June 2005
 Amended(1) by Proposal 4891 (Murphy), 22 January 2007
 Amended(2) by Proposal 5195 (Zefram), 6 September 2007
 Amended(3) by Proposal 5297 (Murphy), 22 November 2007
+
+----------------------------------------------------------------------
+
+Rule 2177/0 (Power=2)
+The Senate
+
+      A Senator is any Player who has been registered continuously for
+      the immediately preceding sixty days.  The collection of
+      Senators is the Senate.
+
+      A Senator CAN call an Emergency Session with 2 Senate
+      supporters, provided no other emergency session existed at any
+      time in the preceding 48 hours.  An emergency session lasts for
+      21 days after being called.
+
+      During emergency session, any Senator declare a filibuster on a
+      proposal in its voting period, with 2 supporting Senators,
+      provided no filibuster has been declared on that proposal in the
+      past.  During emergency session, any Senator may end a
+      filibuster on a proposal with 4 supporting Senators.
+
+      A proposal that ends its voting period in filibuster has a
+      quorum of the number of eligible voters plus 1, rules to the
+      contrary notwithstanding, and its voting period is not extended
+      due to lack of quorum.
+
+      When an emergency session begins, all non-Senators' postures
+      become supine, and non-Senators CANNOT flip their posture while
+      the session lasts.
+
+History:
+Created by Proposal 5309 (Goethe), 24 November 2007
 
 ----------------------------------------------------------------------
 
