@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5315
+Last proposal with recorded effect on this ruleset: 5317
 Last change to this ruleset: by proposal
 
 Note: this ruleset currently shows rule histories as they would be if
@@ -3009,26 +3009,26 @@ Adjudication
       controversy are resolved.
 ----------------------------------------------------------------------
 
-Rule 991/9 (Power=2)
+Rule 991/10 (Power=2)
 Judicial Cases Generally
 
       A judicial case, also known as a call for judgement (CFJ), is a
-      procedure to settle a matter of controversy.  There are
-      subclasses of judicial case with particular features defined by
-      other rules.  Subclasses of judicial case exist only as defined
-      by the rules.
+      procedure to settle a matter of controversy.
+
+      Each judicial case has exactly one subclass, with particular
+      features as defined by other rules.  Subclasses of judicial case
+      exist only as defined by the rules.  A judicial case's subclass
+      CAN be specified by its initiator, or otherwise defaults to
+      inquiry.
 
       The Clerk of the Courts (CotC) is an office, responsible for
       managing judicial activity.  The CotC's report includes the
       status of all judicial cases that either require a judge or have
       at least one applicable judicial question that has no judgement.
 
-      Judicial cases other than appeal cases have ID numbers, to be
-      assigned by the Clerk of the Courts.
-
-[CFJs 1756-1757 (called 28 September 2007): A CFJ cannot belong to
-more than one subclass.  An announcement claiming to initiate a CFJ of
-more than one subclass does not initiate any CFJ.]
+      Judicial cases (other than appeal cases, which have historically
+      been identified by reference to the prior case) have ID numbers,
+      to be assigned by the Clerk of the Courts.
 
 [CFJs 1692-1693 (called 20 June 2007): A CFJ can be unambiguously
 referenced by using the customarily-assigned sequence numbers, even if
@@ -3037,9 +3037,6 @@ involved accept it as unambiguous at the time.]
 
 [CFJ 1355 (called 28 April 2002): Titles for CFJs are unregulated, so
 it is possible for a title to be assigned to a CFJ informally.]
-
-[CFJ 1742 (called 13 September 2007): A judicial case can exist that
-has no subclass.]
 
 [Cross-references (7 November 2007): the Clerk of the Courts' duties
 are:
@@ -3074,6 +3071,7 @@ Amended(7) by Proposal 5015 (Zefram), 24 June 2007
 Retitled by Proposal 5086 (Zefram), 23 July 2007
 Amended(8) by Proposal 5086 (Zefram), 23 July 2007
 Amended(9) by Proposal 5110 (Murphy), 2 August 2007
+Amended(10) by Proposal 5317 (Murphy), 28 November 2007
 
 ----------------------------------------------------------------------
 
@@ -3097,31 +3095,27 @@ Amended(1) by Proposal 5301 (Murphy), 28 November 2007
 
 ----------------------------------------------------------------------
 
-Rule 1868/11 (Power=2)
+Rule 1868/12 (Power=2)
 Judge Assignment Generally
 
       At any time, a judicial case either has no judge assigned to it
-      (default) or has exactly one entity assigned to it as judge;
-      this is a persistent status that changes only according to the
-      rules.  To recuse a judge from a case means to deassign em as
-      judge.  To assign a judge to a case implicitly recuses any
-      existing judge.  A recusal is with cause if and only if stated
-      as such by the rules.
+      (default) or has exactly one entity assigned to it as judge.
+      This is a persistent status that changes only according to the
+      rules.
 
       At any time, a judicial case either does not require a judge
-      (default) or requires a judge; this is not a persistent status,
+      (default) or requires a judge.  This is not a persistent status,
       but is evaluated instantaneously.
 
       When a judicial case requires a judge and has no judge assigned,
       the CotC CAN assign a qualified entity to be its judge by
-      announcement.  Whenever this situation arises the CotC SHALL
-      make such an assignment as soon as possible.
+      announcement, and SHALL do so as soon as possible.
 
-      Except where modified by other rules, the entities qualified to
-      be assigned as judge of a judicial case are the active
-      first-class players.  Being unqualified to be assigned as a
-      judge does not inherently prevent an entity from continuing to
-      be judge if already assigned.
+      The entities qualified to be assigned as judge of a judicial
+      case are the active first-class players, subject to modification
+      by other rules.  Being unqualified to be assigned as a judge
+      does not inherently prevent an entity from continuing to be
+      judge of a case to which e is already assigned.
 
       When a player is poorly qualified to be assigned as judge of a
       judicial case, the Clerk of the Courts SHALL not assign em to be
@@ -3131,6 +3125,11 @@ Judge Assignment Generally
 
       Making an entity unqualified or poorly qualified to judge is
       secured, with a power threshold of 1.5.
+
+      To recuse a judge from a case is to deassign em as its judge.
+      Assigning a judge to a case implicitly recuses its existing
+      judge, if any.  A recusal is "with cause" if and only if stated
+      as such by the rules.
 
 [CFJ 1186: The Clerk of the Courts is required by Rule 1868 to select
 a Judge who is qualified ["eligible" at the time of CFJ 1186] at the
@@ -3153,6 +3152,7 @@ Amended(8) by Proposal 5151 (root), 29 August 2007
 Amended(9) by Proposal 5217 (Murphy; disi.), 13 September 2007
 Amended(10) by Proposal 5248 (AFO; disi.), 14 October 2007
 Amended(11) by Proposal 5277 (Murphy, Zefram), 7 November 2007
+Amended(12) by Proposal 5317 (Murphy), 28 November 2007
 
 ----------------------------------------------------------------------
 
@@ -3266,40 +3266,39 @@ Amended(1) by Proposal 5134 (root), 17 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 2158/1 (Power=2)
+Rule 2158/2 (Power=2)
 Judicial Questions
 
-      Within a judicial case, one or more judicial questions may
-      arise.  Each judicial question is either inapplicable (default)
-      or applicable; this is not a persistent status but is evaluated
-      instantaneously.  Each judicial question either is open
-      (default), suspended, or has a particular judgement; this is a
-      persistent status that changes only according to the rules.  The
-      possible types of judgement for a judicial question vary
-      according to the type of question.
+      A judicial question is a question that arises within a judicial
+      case.  Judicial questions arise only as defined by the rules.
 
-      When a judicial case has an applicable open judicial question,
-      it requires a judge, and its judge CAN assign a valid judgement
-      to that question by announcement.  Whenever there is a judge
-      assigned to a judicial case with an applicable open question,
-      the judge SHALL assign such a judgement to the question as soon
-      as possible.
+      At any time, each judicial question is either inapplicable
+      (default) or applicable.  This is not a persistent status, but
+      is evaluated instantaneously.
 
-      Whenever a judicial case has a judicial question that has
-      remained applicable and open, while the same judge has been
-      assigned to the case, continuously for the past week, the CotC
-      CAN recuse that judge with cause by announcement.  Whenever a
-      judicial case has a judicial question that has remained
-      applicable and open, while the same judge has been assigned to
-      the case, continuously for the past two weeks, the CotC SHALL so
-      recuse the judge as soon as possible.
+      At any time, each judicial question is either open (default),
+      suspended, or has exactly one judgement.  This is a persistent
+      status that changes only according to the rules.  The possible
+      types of judgement for a judicial question depend on the type of
+      question.
 
-      Among the possible judgements of a judicial question, some
-      subset of them are appropriate.  Judgements are appropriate only
-      where so defined by the rules.  A judge SHALL NOT assign an
-      inappropriate judgement.  Where more than one appropriate
-      judgement is available, the choice between them is at the
-      judge's discretion.
+      When a judicial question is applicable and open, its case
+      requires a judge.
+
+      When a judicial question is applicable and open, and its case
+      has a judge assigned to it, the judge CAN assign a valid
+      judgement to it by announcement, and SHALL assign an appropriate
+      judgement to it as soon as possible.  A judgement is valid
+      and/or appropriate only as defined by the rules.  If more than
+      one judgement is valid and appropriate, then the choice between
+      them is left to the judge's discretion.
+
+      When a judicial question is applicable and open, and its case
+      has the same judge assigned to it, continuously for one week,
+      the Clerk of the Courts CAN recuse that judge with cause by
+      announcement.  When these conditions have all held continuously
+      for two weeks, the Clerk of the Courts SHALL so recuse that
+      judge as soon as possible.
 
 [CFJ 1804 (called 19 November 2007): A judge should give the judgement
 that e believes is appropriate, and if e does so in good faith then e
@@ -3309,6 +3308,7 @@ inappropriate.]
 History:
 Created by Proposal 5086 (Zefram), 23 July 2007
 Amended(1) by Proposal 5151 (root), 29 August 2007
+Amended(2) by Proposal 5317 (Murphy), 28 November 2007
 
 ----------------------------------------------------------------------
 
@@ -3561,16 +3561,6 @@ Criminal Cases
       case within the past week, other than an assignment caused by a
       judgement in an appeal case, CAN be initiated by the defendant
       by announcement.
-
-[CFJ 1713 (called 2 August 2007): An announcement of the form "I call
-for judgement to determine whether <player> violated <rule> by
-<action>." initiates a criminal case, despite the appearance that it
-is asking about veracity rather than about culpability or sentencing.]
-
-[CFJ 1773 (called 28 October 2007): An announcement that claims to
-initiate an equity case, and in doing so alleges a rule violation with
-all the elements required for a criminal case, does not initiate a
-criminal case.]
 
 [CFJ 1720 (called 12 August 2007): Where a criminal charge is
 expressed in the form "violating rule NNNN by XXX", the alleged act
