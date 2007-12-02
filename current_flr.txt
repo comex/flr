@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5294
+Last proposal with recorded effect on this ruleset: 5303
 Last change to this ruleset: by proposal
 
 Note: this ruleset currently shows rule histories as they would be if
@@ -1438,7 +1438,7 @@ Amended(1) by Proposal 5271 (Murphy), 7 November 2007
 
 ----------------------------------------------------------------------
 
-Rule 2150/1 (Power=2)
+Rule 2150/2 (Power=2)
 Personhood
 
       A person is an entity that has the general capacity to be the
@@ -1453,6 +1453,9 @@ Personhood
 
       "First-class player" means a player who is a first-class person.
 
+      The basis of a a first-class person is the singleton set
+      consisting of that person.
+
 [CFJ 1700 (called 10 July 2007): The requirement of capability to
 communicate by email can be satisfied even if the players of Agora do
 not know the organism's email address.]
@@ -1464,6 +1467,7 @@ against personhood and against one having spoken on one's own behalf.]
 History:
 Created by Proposal 5007 (Zefram), 18 June 2007
 Amended(1) by Proposal 5061 (Zefram), 9 July 2007
+Amended(2) by Proposal 5303 (root), 24 November 2007
 
 ----------------------------------------------------------------------
 
@@ -4006,7 +4010,7 @@ Created by Proposal 5254 (AFO), 18 October 2007
 
 ----------------------------------------------------------------------
 
-Rule 2145/2 (Power=2)
+Rule 2145/3 (Power=2)
 Partnerships
 
       A binding agreement governed by the rules which devolves its
@@ -4019,10 +4023,9 @@ Partnerships
       a partnership.
 
       A partnership's basis is the set consisting of the union of the
-      set of its non-partnership members with the bases of each of its
-      partnership members.  Where circularity occurs in this
-      definition, it is resolved by using the minimum basis sets that
-      provide consistency.
+      the bases of each of its members.  Where circularity occurs in
+      this definition, it is resolved by using the minimum basis sets
+      that provide consistency.
 
       A partnership whose basis contains at least two persons is a
       person.
@@ -4040,6 +4043,7 @@ Created by Proposal 4977 (BobTHJ), 31 May 2007
 Amended(1) by Proposal 5041 (BobTHJ), 28 June 2007
 Power changed from 1 to 2 by Proposal 5061 (Zefram), 9 July 2007
 Amended(2) by Proposal 5061 (Zefram), 9 July 2007
+Amended(3) by Proposal 5303 (root), 24 November 2007
 
 ----------------------------------------------------------------------
 
