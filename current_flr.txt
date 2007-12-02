@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5309
+Last proposal with recorded effect on this ruleset: 5296
 Last change to this ruleset: by proposal
 
 Note: this ruleset currently shows rule histories as they would be if
@@ -3325,7 +3325,7 @@ Amended(1) by Proposal 5151 (root), 29 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 591/20 (Power=1.7)
+Rule 591/21 (Power=1.7)
 Inquiry Cases
 
       There is a subclass of judicial case known as an inquiry case.
@@ -3348,19 +3348,20 @@ Inquiry Cases
         true at the time the inquiry case was initiated
 
       * UNDECIDABLE, appropriate if the statement was logically
-        undecidable, nonsensical, too vague, or otherwise not capable
-        of being accurately described as either false or true, at the
-        time the inquiry case was initiated
+        undecidable or otherwise not capable of being accurately
+        described as either false or true, at the time the inquiry
+        case was initiated
 
       * IRRELEVANT, appropriate if the veracity of the statement at
         the time the inquiry case was initiated is not relevant to the
         game
 
-      * UNDETERMINED, appropriate if the information available to the
-        judge is insufficient to determine which of the FALSE, TRUE,
-        and UNDECIDABLE judgements is appropriate; however,
-        uncertainty as to how to interpret or apply the rules cannot
-        constitute insufficiency of information for this purpose
+      * UNDETERMINED, appropriate if the statement is nonsensical or
+        too vague, or if the information available to the judge is
+        insufficient to determine which of the FALSE, TRUE, and
+        UNDECIDABLE judgements is appropriate; however, uncertainty as
+        to how to interpret or apply the rules cannot constitute
+        insufficiency of information for this purpose
 
       The judgement of the question in an inquiry case SHOULD guide
       future play, including future judgements, but does not directly
@@ -3422,6 +3423,7 @@ Amended(19) by Proposal 5068 (Zefram), 11 July 2007
 Retitled by Proposal 5086 (Zefram), 23 July 2007
 Power changed from 1 to 1.7 by Proposal 5086 (Zefram), 23 July 2007
 Amended(20) by Proposal 5086 (Zefram), 23 July 2007
+Amended(21) by Proposal 5296 (root), 28 November 2007
 
 ----------------------------------------------------------------------
 
