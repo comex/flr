@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5301
+Last proposal with recorded effect on this ruleset: 5302
 Last change to this ruleset: by proposal
 
 Note: this ruleset currently shows rule histories as they would be if
@@ -4100,7 +4100,7 @@ Created by Proposal 5274 (Murphy), 7 November 2007
 
 ----------------------------------------------------------------------
 
-Rule 2136/13 (Power=1)
+Rule 2136/14 (Power=1)
 Contests
 
       Points are a class of fixed assets.  Ownership of points is
@@ -4127,10 +4127,12 @@ Contests
 
       The Scorekeepor is an office, and the recordkeepor of points.
 
-      A contestmaster may award a total of up to 10 points per week to
-      one or more contestants as permitted by the contest, unless e is
-      contestmaster of a different contest simultaneously or has been
-      at any time during the preceding span of seven days.
+      For each contest which has been a contest for at least a week,
+      and has as its contestmaster a first-class person who has been
+      contestmaster of that contest for the entire past week and has
+      not been the contestmaster of any other contest during the past
+      week, the contestmaster CAN award a total of up to 10 points per
+      week to one or more contestants as permitted by the contest.
 
       A player with 100 or more points may win the game by announcing
       this fact.  Upon such an announcement, each player's score is
@@ -4150,14 +4152,6 @@ at least 96 hours from first becoming aware of the agreement text to
 review it in order to make an informed decision as to whether to
 consent to it.]
 
-[CFJ 1797 (called 14 November 2007): To be "fair to all contestants" a
-contract must be fair to all potential contestants, including ones
-that are not presently actual contestants.
-
-[CFJ 1762 (called 3 October 2007): A purported contest that allows the
-contestmaster to award points at eir discretion is thereby unfair, and
-thereby not a contest.]
-
 [Cross-references (29 August 2007): the Scorekeepor's duties are:
   * recordkeepor of points (rule 2136)]
 
@@ -4176,6 +4170,7 @@ Amended(10) by Proposal 5234 (Levi, Zefram), 3 October 2007
 Amended(11) by Proposal 5293 (Goethe), 22 November 2007
 Amended(12) by Proposal 5304 (root; disi.), 24 November 2007
 Amended(13) by Proposal 5305 (comex, Goethe), 24 November 2007
+Amended(14) by Proposal 5302 (Zefram), 28 November 2007
 
 ----------------------------------------------------------------------
 
