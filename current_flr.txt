@@ -2217,6 +2217,10 @@ refers via an approximate date header to a previous notice with an
 incomplete vote tally and lists additional votes but does not give
 revised totals, this does qualify as including a vote tally.]
 
+[CFJ 1822 (called 4 December 2007): If a purported resolution notice
+includes invalid votes in its tally of votes, this makes the notice
+invalid.]
+
 History:
 Initial Mutable Rule 208, Jun. 30 1993
 Amended(1) by Proposal 1401, Jan. 29 1995
