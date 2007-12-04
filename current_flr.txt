@@ -4008,6 +4008,9 @@ to modify or terminate a contract, can be manifested by a contract
 between all the parties, including the contract being modified or
 terminated.]
 
+[CFJ 1819 (called 3 December 2007): A contract is not able to create
+new ways of winning the game.]
+
 History:
 Created by Proposal 3558 (General Chaos), Oct. 24 1997
 Amended(1) by Proposal 3704 (General Chaos), Mar. 19 1998
@@ -4287,10 +4290,6 @@ The Ambassador
       All players are prohibited from falsely claiming, to any nomic,
       to be the ambassador.
 
-[CFJ 1714 (called 3 August 2007): Whether a player of Agora can take
-game actions on behalf of Agora in a foreign nomic is determined
-solely by the rules of the foreign nomic.]
-
 [Cross-references (13 August 2007): the Ambassador's duties are:
   * advertise Agora (rule 2135)
   * exercise diplomatic privileges in foreign nomics (rule 2148)
@@ -4316,6 +4315,14 @@ Acting on Behalf of Agora
 [CFJ 1801 (called 19 November 2007): This means that a player is
 prohibited from acting on behalf of Agora if e does not have Agoran
 Consent.]
+
+[CFJ 1819 (called 3 December 2007): Actions of Agora generally do not
+have significance under the rules of Agora, so (for example) it is not
+possible to award a win by acting on behalf of Agora.]
+
+[CFJ 1714 (called 3 August 2007): Whether a player of Agora can take
+game actions on behalf of Agora in a foreign nomic is determined
+solely by the rules of the foreign nomic.]
 
 History:
 Created by Proposal 5246 (Levi), 14 October 2007
