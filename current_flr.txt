@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5333
+Last proposal with recorded effect on this ruleset: 5334
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -709,7 +709,7 @@ Amended(3) by Proposal 5110 (Murphy), 2 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 1681/11 (Power=1)
+Rule 1681/12 (Power=1)
 The Logical Rulesets
 
       There is a format of the ruleset known as the Short Logical
@@ -739,15 +739,16 @@ The Logical Rulesets
       FLR.
 
       Whenever a rule is changed in any way, the Rulekeepor shall
-      record a historical annotation to the rule indicating the type
-      of change, the date on which the change took effect, the
-      mechanism which specified the change, and if the rule was
-      changed due to a proposal, a reference to that proposal, its
-      proposer, and any coauthors explicitly named in that proposal.
+      record a historical annotation to the rule indicating:
 
-[CFJ 1798 (called 16 November 2007): "coauthor" in the rules means
-anyone named as a coauthor by the proposal, regardless of their actual
-level of creative collaboration.]
+      a) The type of change.
+
+      b) The date on which the change took effect.
+
+      c) The mechanism that specified the change.
+
+      d) If the rule was changed due to a proposal, then that
+         proposal's ID number, author, and co-author(s) (if any).
 
 History:
 Created by Proposal 2783 (Chuck), Jan 15 1997
@@ -763,6 +764,7 @@ Amended(8) by Proposal 4868 (Goethe), 27 August 2006
 Amended(9) by Proposal 4887 (Murphy), 22 January 2007
 Amended(10) by Proposal 5006 (Zefram), 18 June 2007
 Amended(11) by Proposal 5110 (Murphy), 2 August 2007
+Amended(12) by Proposal 5334 (Murphy), 5 December 2007
 
 ----------------------------------------------------------------------
 
@@ -2387,7 +2389,7 @@ Proposals
       which changes are made to the game.
 ----------------------------------------------------------------------
 
-Rule 106/8 (Power=3)
+Rule 106/9 (Power=3)
 Adopting Proposals
 
       A proposal is a document outlining changes to be made to Agora,
@@ -2396,8 +2398,13 @@ Adopting Proposals
 
       A player submits a proposal by publishing it with a clear
       indication that it is intended to become a proposal, which
-      places the proposal in the Proposal Pool.  The proposer of a
-      proposal may remove it from the Pool by announcement.
+      places the proposal in the Proposal Pool.  That player is its
+      author (syn. proposer).  The author of a proposal may remove it
+      from the Pool by announcement.
+
+      A person is a co-author of a proposal if and only if e is
+      distinct from its author, and unambiguously identified by its
+      author as being its co-author at the time of submission.
 
       Determining whether to adopt a proposal is an Agoran decision.
       For this decision, the available options are FOR, AGAINST, and
@@ -2450,6 +2457,7 @@ Amended(5) by Proposal 4939 (Murphy), 29 April 2007
 Amended(6) by Proposal 5010 (Levi), 24 June 2007
 Amended(7) by Proposal 5078 (Zefram), 18 July 2007
 Amended(8) by Proposal 5083 (Zefram), 1 August 2007
+Amended(9) by Proposal 5334 (Murphy), 5 December 2007
 
 ----------------------------------------------------------------------
 
@@ -2531,10 +2539,6 @@ proposal on which it is based.]
 creates a new proposal by distribution, and the new proposal is
 seriously different from any proposal in the pool, then the new
 proposal has no author.]
-
-[CFJ 1798 (called 16 November 2007): "coauthor" in the rules means
-anyone named as a coauthor by the proposal, regardless of their actual
-level of creative collaboration.]
 
 [Cross-references (2 August 2007): the Promotor's duties are:
   * not distribute proposals during holiday (rule 1769)
@@ -2680,7 +2684,7 @@ Amended(1) by Proposal 5222 (root; disi.), 30 September 2007
 
 ----------------------------------------------------------------------
 
-Rule 2126/41 (Power=2)
+Rule 2126/42 (Power=2)
 Voting Credits
 
       Voting Credits (VCs) are a class of fixed assets that can be
@@ -2704,9 +2708,8 @@ Voting Credits
            times its interest index (rounded down to the nearest
            integer), minus the number of Red VCs that e has gained in
            this way earlier in the same week (down to a minimum of
-           zero), and each coauthor named in the proposal gains one
-           Red VC unless e gained a VC in this way earlier in the same
-           week.
+           zero), and each coauthor of the proposal gains one Red VC
+           unless e gained a VC in this way earlier in the same week.
 
       (-R) When a proposal's voting index is less than half its
            adoption index, its proposer loses one Red VC, unless e
@@ -2818,10 +2821,6 @@ Voting Credits
 
       When a game win occurs, each player's VVLOP is set to eir BVLOP.
 
-[CFJ 1798 (called 16 November 2007): "coauthor" in the rules means
-anyone named as a coauthor by the proposal, regardless of their actual
-level of creative collaboration.]
-
 [CFJ 1806 (called 24 November 2007): "VCs of different colors" means
 that all the VCs involved must be mutually distinct in color.]
 
@@ -2876,6 +2875,7 @@ Amended(38) by Proposal 5288 (Murphy), 14 November 2007
 Amended(39) by Proposal 5289 (Murphy), 14 November 2007
 Amended(40) by Proposal 5322 (Murphy), 5 December 2007
 Amended(41) by Proposal 5325 (Murphy), 5 December 2007
+Amended(42) by Proposal 5334 (Murphy), 5 December 2007
 
 ----------------------------------------------------------------------
 
