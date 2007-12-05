@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5332
+Last proposal with recorded effect on this ruleset: 5333
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -423,7 +423,7 @@ Amended(3) by Proposal 5297 (Murphy), 22 November 2007
 
 ----------------------------------------------------------------------
 
-Rule 2177/2 (Power=2)
+Rule 2177/4 (Power=2)
 The Senate
 
       A Senator is any Player who has been registered continuously for
@@ -436,6 +436,13 @@ The Senate
       time in the preceding 48 hours.  An emergency session lasts for
       21 days after being called.  The Assessor's report includes the
       most recent date on which an emergency session was called.
+
+      The roll call of an emergency session is the set of senators at
+      the time the emergency session was called.  During emergency
+      session, the previous definition of senator does not apply;
+      instead, any player who is a member of the roll call is a
+      senator.  The Assessor's report includes the roll call of the
+      most recent emergency session.
 
       During emergency session, any Senator declare a filibuster on a
       proposal in its voting period, with 2 supporting Senators,
@@ -455,6 +462,8 @@ History:
 Created by Proposal 5309 (Goethe), 24 November 2007
 Amended(1) by Proposal 5331 (root), 5 December 2007
 Amended(2) by Proposal 5332 (root), 5 December 2007
+Amended(3) by Proposal 5333 (root), 5 December 2007
+Amended(4) by Proposal 5333 (root), 5 December 2007
 
 ----------------------------------------------------------------------
 
@@ -2084,6 +2093,7 @@ hands, vote collection duties move with it.]
 
 [Cross-references (5 December 2007): the Assessor's duties are:
   * report date of most recent emergency session (rule 2177)
+  * report roll call of most recent emergency session (rule 2177)
   * default vote collector for Agoran decisions (rule 2137)
   * report EVLOP (rule 2156)
   * recordkeepor of VCs (rule 2126)]
