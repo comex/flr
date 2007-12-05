@@ -4012,6 +4012,9 @@ to modify or terminate a contract, can be manifested by a contract
 between all the parties, including the contract being modified or
 terminated.]
 
+[CFJ 1816 (called 2 December 2007): A contract is not generally able
+to define terms used by the rules.]
+
 [CFJ 1819 (called 3 December 2007): A contract is not able to create
 new ways of winning the game.]
 
@@ -4161,6 +4164,12 @@ allow any first-class player to become a party, the players must have
 at least 96 hours from first becoming aware of the agreement text to
 review it in order to make an informed decision as to whether to
 consent to it.]
+
+[CFJ 1817 (called 2 December 2007): For a contract to be a dependent
+contract, where the term "dependent contract" is not explicitly
+defined by the rules, it is not sufficient for the contract to be a
+"dependent contract" as defined by a particular player or by a
+contract.]
 
 [CFJ 1818 (called 2 December 2007): A non-first-class contestmaster
 categorically cannot award points.]
