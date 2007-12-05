@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5322
+Last proposal with recorded effect on this ruleset: 5325
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -2663,7 +2663,7 @@ Amended(1) by Proposal 5222 (root; disi.), 30 September 2007
 
 ----------------------------------------------------------------------
 
-Rule 2126/40 (Power=2)
+Rule 2126/41 (Power=2)
 Voting Credits
 
       Voting Credits (VCs) are a class of fixed assets that can be
@@ -2740,9 +2740,11 @@ Voting Credits
 
       (+W) When a first-class person becomes a player and has never
            been a player before, e gains one white VC.  When a
-           first-class person has been a player continuously for 100
-           days and has never been a player before that period, e
-           gains one white VC.
+           first-class person has been a player continuously for at
+           least three months and has never been a player before that
+           period, and names another player as eir mentor (and has not
+           named a mentor in this fashion before), e and that player
+           each gain one white VC.
 
       (+M) When, during Agora's birthday, a player publicly
            acknowledges the occasion, e gains one magenta VC, unless e
@@ -2856,6 +2858,7 @@ Amended(37) by Proposal 5276 (Murphy, Pavitra, Zefram), 7 November 2007
 Amended(38) by Proposal 5288 (Murphy), 14 November 2007
 Amended(39) by Proposal 5289 (Murphy), 14 November 2007
 Amended(40) by Proposal 5322 (Murphy), 5 December 2007
+Amended(41) by Proposal 5325 (Murphy), 5 December 2007
 
 ----------------------------------------------------------------------
 
