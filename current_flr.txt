@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5321
+Last proposal with recorded effect on this ruleset: 5322
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -2663,7 +2663,7 @@ Amended(1) by Proposal 5222 (root; disi.), 30 September 2007
 
 ----------------------------------------------------------------------
 
-Rule 2126/39 (Power=2)
+Rule 2126/40 (Power=2)
 Voting Credits
 
       Voting Credits (VCs) are a class of fixed assets that can be
@@ -2700,9 +2700,9 @@ Voting Credits
            unless e gained a VC in this way earlier in the same week.
 
       (-O) When an interested proposal is rejected by voting with no
-           valid votes FOR, and having met quorum, its proposer loses
-           one orange VC, unless e lost a VC in this way earlier in
-           the same week.
+           valid votes FOR (other than possibly from its author), and
+           having met quorum, its proposer loses one orange VC, unless
+           e lost a VC in this way earlier in the same week.
 
       (+G) At the end of each month, for each office with a report,
            the player (if any) who held that office for the majority
@@ -2855,6 +2855,7 @@ Amended(36) by Proposal 5255 (AFO), 27 October 2007
 Amended(37) by Proposal 5276 (Murphy, Pavitra, Zefram), 7 November 2007
 Amended(38) by Proposal 5288 (Murphy), 14 November 2007
 Amended(39) by Proposal 5289 (Murphy), 14 November 2007
+Amended(40) by Proposal 5322 (Murphy), 5 December 2007
 
 ----------------------------------------------------------------------
 
