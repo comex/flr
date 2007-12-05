@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5331
+Last proposal with recorded effect on this ruleset: 5332
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -423,7 +423,7 @@ Amended(3) by Proposal 5297 (Murphy), 22 November 2007
 
 ----------------------------------------------------------------------
 
-Rule 2177/1 (Power=2)
+Rule 2177/2 (Power=2)
 The Senate
 
       A Senator is any Player who has been registered continuously for
@@ -440,13 +440,12 @@ The Senate
       During emergency session, any Senator declare a filibuster on a
       proposal in its voting period, with 2 supporting Senators,
       provided no filibuster has been declared on that proposal in the
-      past.  During emergency session, any Senator may end a
-      filibuster on a proposal with 4 supporting Senators.
+      past.  Any Senator may end a filibuster on a proposal with 4
+      supporting Senators.
 
       A proposal that ends its voting period in filibuster has a
       quorum of the number of eligible voters plus 1, rules to the
-      contrary notwithstanding, and its voting period is not extended
-      due to lack of quorum.
+      contrary notwithstanding.
 
       When an emergency session begins, all non-Senators' postures
       become supine, and non-Senators CANNOT flip their posture while
@@ -455,6 +454,7 @@ The Senate
 History:
 Created by Proposal 5309 (Goethe), 24 November 2007
 Amended(1) by Proposal 5331 (root), 5 December 2007
+Amended(2) by Proposal 5332 (root), 5 December 2007
 
 ----------------------------------------------------------------------
 
