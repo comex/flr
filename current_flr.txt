@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5317
+Last proposal with recorded effect on this ruleset: 5321
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -2858,7 +2858,7 @@ Amended(39) by Proposal 5289 (Murphy), 14 November 2007
 
 ----------------------------------------------------------------------
 
-Rule 2176/0 (Power=2)
+Rule 2176/1 (Power=2)
 Marks
 
       Marks are a class of assets.  Ownership of Marks is restricted
@@ -2869,7 +2869,9 @@ Marks
       does not possess, then e loses a Mark of eir Party's color
       instead; if e has no Marks at all, then e loses a VC of the same
       color as the Mark e is meant to lose, gains 100 Marks of that
-      color, and then loses the Mark.
+      color, and then loses the Mark; however, if e has no VCs at all,
+      either, then the Mark loss is waived (you still can't get blood
+      from a turnip, not even a thimbleful at a time).
 
       The Assessor is the recordkeepor of Marks.
 
@@ -2922,6 +2924,7 @@ Marks
 
 History:
 Created by Proposal 5299 (Murphy), 22 November 2007
+Amended(1) by Proposal 5321 (Murphy), 5 December 2007
 
 ----------------------------------------------------------------------
 
