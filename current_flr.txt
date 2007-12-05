@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5328
+Last proposal with recorded effect on this ruleset: 5331
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -423,17 +423,19 @@ Amended(3) by Proposal 5297 (Murphy), 22 November 2007
 
 ----------------------------------------------------------------------
 
-Rule 2177/0 (Power=2)
+Rule 2177/1 (Power=2)
 The Senate
 
       A Senator is any Player who has been registered continuously for
       the immediately preceding sixty days.  The collection of
-      Senators is the Senate.
+      Senators is the Senate.  The Registrar's report includes a list
+      of all Senators.
 
       A Senator CAN call an Emergency Session with 2 Senate
       supporters, provided no other emergency session existed at any
       time in the preceding 48 hours.  An emergency session lasts for
-      21 days after being called.
+      21 days after being called.  The Assessor's report includes the
+      most recent date on which an emergency session was called.
 
       During emergency session, any Senator declare a filibuster on a
       proposal in its voting period, with 2 supporting Senators,
@@ -452,6 +454,7 @@ The Senate
 
 History:
 Created by Proposal 5309 (Goethe), 24 November 2007
+Amended(1) by Proposal 5331 (root), 5 December 2007
 
 ----------------------------------------------------------------------
 
@@ -916,7 +919,8 @@ published with the registrar's report, is part of the game state, even
 though it is not mentioned in the rules and no one is obliged to track
 or publish it.]
 
-[Cross-references (7 November 2007): the Registrar's duties are:
+[Cross-references (5 December 2007): the Registrar's duties are:
+  * report senators (rule 2177)
   * track citizenship (rule 869)
   * report players' identity and contact details (rule 2139)
   * report registration dates (rule 2139)
@@ -2078,7 +2082,8 @@ The Assessor
 [CFJs 1758-1759 (called 30 September 2007): if Assessorship changes
 hands, vote collection duties move with it.]
 
-[Cross-references (8 September 2007): the Assessor' duties are:
+[Cross-references (5 December 2007): the Assessor's duties are:
+  * report date of most recent emergency session (rule 2177)
   * default vote collector for Agoran decisions (rule 2137)
   * report EVLOP (rule 2156)
   * recordkeepor of VCs (rule 2126)]
