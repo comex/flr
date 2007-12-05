@@ -3,11 +3,6 @@ THE FULL LOGICAL RULESET
 Last proposal with recorded effect on this ruleset: 5317
 Last change to this ruleset: by proposal
 
-Note: this ruleset currently shows rule histories as they would be if
-CFJ 1711 were TRUE.  In fact CFJ 1711 is FALSE, so the affected rule
-histories are shown incorrectly.  This will be corrected in a future
-edition.
-
 Rule ID numbers:
       highest orderly: 2177
       disorderly: none
@@ -863,7 +858,7 @@ Amended(17) by Proposal 4833 (Maud), 6 August 2005
 Amended(18) by Proposal 4989 (Zefram), 6 June 2007
 Amended(19) by Proposal 5007 (Zefram), 18 June 2007
 Amended(20) by Proposal 5011 (Zefram), 24 June 2007
-Amended(21) by Proposal 5086 (Zefram), 23 July 2007
+Amended(21) by Proposal 5086 (Zefram), 1 August 2007
 Amended(22) by Proposal 5111 (Murphy), 2 August 2007
 Amended(23) by Proposal 5117 (Zefram; disi.), 8 August 2007
 Amended(24) by Proposal 5156 (Zefram), 29 August 2007
@@ -1378,8 +1373,8 @@ Amended(17) by Proposal 4866 (Goethe), 27 August 2006
 Amended(18) by Proposal 4938 (Murphy), 29 April 2007
 Amended(19) by Proposal 5005 (root), 18 June 2007
 Amended(20) by Proposal 5077 (Murphy), 18 July 2007
-Amended(21) by Proposal 5081 (Zefram; disi.), 23 July 2007
-Amended(22) by Proposal 5102 (Zefram), 1 August 2007
+Amended(21) by Proposal 5102 (Zefram), 1 August 2007
+Amended(22) by Proposal 5081 (Zefram; disi.), 1 August 2007
 
 ----------------------------------------------------------------------
 
@@ -1691,7 +1686,7 @@ Amended(1) by Proposal 4036 (Oerjan), Aug. 7 2000
 Amended(2) by Proposal 01-003 (Steve), Feb. 2 2001
 Amended(3) by Proposal 4866 (Goethe), 27 August 2006
 Amended(4) by Proposal 5077 (Murphy), 18 July 2007
-Amended(5) by Proposal 5086 (Zefram), 23 July 2007
+Amended(5) by Proposal 5086 (Zefram), 1 August 2007
 
 ----------------------------------------------------------------------
 
@@ -2437,7 +2432,7 @@ Amended(4) by Proposal 4918 (OscarMeyr), 2 April 2007
 Amended(5) by Proposal 4939 (Murphy), 29 April 2007
 Amended(6) by Proposal 5010 (Levi), 24 June 2007
 Amended(7) by Proposal 5078 (Zefram), 18 July 2007
-Amended(8) by Proposal 5083 (Zefram), 23 July 2007
+Amended(8) by Proposal 5083 (Zefram), 1 August 2007
 
 ----------------------------------------------------------------------
 
@@ -2647,7 +2642,7 @@ Voting on Ordinary Proposals
 
 History:
 Created by Proposal 5078 (Zefram), 18 July 2007
-Amended(1) by Proposal 5082 (Zefram), 23 July 2007
+Amended(1) by Proposal 5082 (Zefram), 1 August 2007
 Amended(2) by Proposal 5141 (Zefram), 19 August 2007
 Amended(3) by Proposal 5276 (Murphy, Pavitra, Zefram), 7 November 2007
 
@@ -2833,8 +2828,8 @@ Amended(10) by Proposal 5058 (Zefram), 5 July 2007
 Power changed from 3 to 2 by Proposal 5076 (Murphy), 18 July 2007
 Amended(11) by Proposal 5076 (Murphy), 18 July 2007
 Amended(12) by Proposal 5078 (Zefram), 18 July 2007
-Amended(13) by Proposal 5086 (Zefram), 23 July 2007
-Amended(14) by Proposal 5097 (Zefram), 25 July 2007
+Amended(13) by Proposal 5097 (Zefram), 25 July 2007
+Amended(14) by Proposal 5086 (Zefram), 1 August 2007
 Amended(15) by Proposal 5112 (Murphy), 2 August 2007
 Amended(16) by Proposal 5114 (Zefram), 2 August 2007
 Amended(17) by Proposal 5126 (Zefram), 13 August 2007
@@ -3072,8 +3067,8 @@ Amended(4) by Proposal 4170 (Elysion), 26 June 2001
 Amended(5) by Proposal 4298 (Murphy), 17 May 2002
 Amended(6) by Proposal 4867 (Goethe), 27 August 2006
 Amended(7) by Proposal 5015 (Zefram), 24 June 2007
-Retitled by Proposal 5086 (Zefram), 23 July 2007
-Amended(8) by Proposal 5086 (Zefram), 23 July 2007
+Retitled by Proposal 5086 (Zefram), 1 August 2007
+Amended(8) by Proposal 5086 (Zefram), 1 August 2007
 Amended(9) by Proposal 5110 (Murphy), 2 August 2007
 Amended(10) by Proposal 5317 (Murphy), 28 November 2007
 
@@ -3149,9 +3144,9 @@ Amended(3) by Proposal 4298 (Murphy), 17 May 2002
 Amended(4) by Proposal 4867 (Goethe), 27 August 2006
 Amended(5) by Proposal 5040 (Zefram), 28 June 2007
 Amended(6) by Proposal 5069 (Zefram), 11 July 2007
-Retitled by Proposal 5086 (Zefram), 23 July 2007
-Power changed from 1 to 2 by Proposal 5086 (Zefram), 23 July 2007
-Amended(7) by Proposal 5086 (Zefram), 23 July 2007
+Retitled by Proposal 5086 (Zefram), 1 August 2007
+Power changed from 1 to 2 by Proposal 5086 (Zefram), 1 August 2007
+Amended(7) by Proposal 5086 (Zefram), 1 August 2007
 Amended(8) by Proposal 5151 (root), 29 August 2007
 Amended(9) by Proposal 5217 (Murphy; disi.), 13 September 2007
 Amended(10) by Proposal 5248 (AFO; disi.), 14 October 2007
@@ -3225,8 +3220,8 @@ Amended(10) by Proposal 4958 (Murphy), 3 June 2007
 Retitled by Proposal 4991 (Murphy), 6 June 2007
 Amended(11) by Proposal 4991 (Murphy), 6 June 2007
 Amended(12) by Proposal 5069 (Zefram), 11 July 2007
-Power changed from 1 to 1.5 by Proposal 5086 (Zefram), 23 July 2007
-Amended(13) by Proposal 5086 (Zefram), 23 July 2007
+Power changed from 1 to 1.5 by Proposal 5086 (Zefram), 1 August 2007
+Amended(13) by Proposal 5086 (Zefram), 1 August 2007
 Amended(14) by Proposal 5111 (Murphy), 2 August 2007
 Amended(15) by Proposal 5248 (AFO; disi.), 14 October 2007
 Amended(16) by Proposal 5249 (AFO), 14 October 2007
@@ -3265,7 +3260,7 @@ members referred to in this rule is a state of affairs that does not
 require public messages in order to be brought into being.]
 
 History:
-Created by Proposal 5086 (Zefram), 23 July 2007
+Created by Proposal 5086 (Zefram), 1 August 2007
 Amended(1) by Proposal 5134 (root), 17 August 2007
 
 ----------------------------------------------------------------------
@@ -3310,7 +3305,7 @@ can be EXCUSED if the judgement is later found to have been
 inappropriate.]
 
 History:
-Created by Proposal 5086 (Zefram), 23 July 2007
+Created by Proposal 5086 (Zefram), 1 August 2007
 Amended(1) by Proposal 5151 (root), 29 August 2007
 Amended(2) by Proposal 5317 (Murphy), 28 November 2007
 
@@ -3442,9 +3437,9 @@ Amended(16) by Proposal 3998 (harvel), May 2 2000
 Amended(17) by Proposal 4147 (Wes), 13 May 2001
 Amended(18) by Proposal 4298 (Murphy), 17 May 2002
 Amended(19) by Proposal 5068 (Zefram), 11 July 2007
-Retitled by Proposal 5086 (Zefram), 23 July 2007
-Power changed from 1 to 1.7 by Proposal 5086 (Zefram), 23 July 2007
-Amended(20) by Proposal 5086 (Zefram), 23 July 2007
+Retitled by Proposal 5086 (Zefram), 1 August 2007
+Power changed from 1 to 1.7 by Proposal 5086 (Zefram), 1 August 2007
+Amended(20) by Proposal 5086 (Zefram), 1 August 2007
 Amended(21) by Proposal 5296 (root), 28 November 2007
 
 ----------------------------------------------------------------------
@@ -3591,9 +3586,9 @@ Amended(6) by Proposal 3704 (General Chaos), Mar. 19 1998
 Amended(7) by Proposal 4406 (Murphy), 30 October 2002
 Amended(8) by Proposal 4867 (Goethe), 27 August 2006
 Amended(9) by Proposal 4887 (Murphy), 22 January 2007
-Retitled by Proposal 5086 (Zefram), 23 July 2007
-Power changed from 1 to 1.7 by Proposal 5086 (Zefram), 23 July 2007
-Amended(10) by Proposal 5086 (Zefram), 23 July 2007
+Retitled by Proposal 5086 (Zefram), 1 August 2007
+Power changed from 1 to 1.7 by Proposal 5086 (Zefram), 1 August 2007
+Amended(10) by Proposal 5086 (Zefram), 1 August 2007
 Amended(11) by Proposal 5109 (Zefram; disi.), 2 August 2007
 Amended(12) by Proposal 5132 (Zefram), 13 August 2007
 Amended(13) by Proposal 5135 (Wooble), 17 August 2007
@@ -3744,9 +3739,9 @@ Amended(12) by Proposal 4579 (Murphy), 15 June 2004
 Amended(13) by Proposal 4825 (Maud), 17 July 2005
 Amended(14) by Proposal 4867 (Goethe), 27 August 2006
 Amended(15) by Proposal 5051 (Zefram), 5 July 2007
-Retitled by Proposal 5086 (Zefram), 23 July 2007
-Power changed from 1 to 1.7 by Proposal 5086 (Zefram), 23 July 2007
-Amended(16) by Proposal 5086 (Zefram), 23 July 2007
+Retitled by Proposal 5086 (Zefram), 1 August 2007
+Power changed from 1 to 1.7 by Proposal 5086 (Zefram), 1 August 2007
+Amended(16) by Proposal 5086 (Zefram), 1 August 2007
 
 ----------------------------------------------------------------------
 
@@ -3846,7 +3841,7 @@ Amended(16) by Proposal 4691 (root), 18 April 2005
 Amended(17) by Proposal 4824 (Maud, Manu), 17 July 2005
 Amended(18) by Proposal 4865 (Goethe), 27 August 2006
 Amended(19) by Proposal 5036 (Zefram), 28 June 2007
-Amended(20) by Proposal 5084 (Zefram; disi.), 23 July 2007
+Amended(20) by Proposal 5084 (Zefram; disi.), 1 August 2007
 Amended(21) by Proposal 5112 (Murphy), 2 August 2007
 Amended(22) by Proposal 5123 (Zefram; disi.), 13 August 2007
 Amended(23) by Proposal 5237 (AFO; disi.), 3 October 2007
@@ -3958,8 +3953,8 @@ Amended(4) by Proposal 3889 (harvel), Aug. 9 1999
 Amended(5) by Proposal 4002 (harvel), May 8 2000
 Amended(6) by Proposal 4110 (Ziggy), Feb. 13 2001
 Amended(7) by Proposal 4865 (Goethe), 27 August 2006
-Amended(8) by Proposal 5085 (Zefram), 23 July 2007
-Power changed from 1 to 1.5 by Proposal 5085 (Zefram), 23 July 2007
+Amended(8) by Proposal 5085 (Zefram), 1 August 2007
+Power changed from 1 to 1.5 by Proposal 5085 (Zefram), 1 August 2007
 Amended(9) by Proposal 5243 (root; disi.), 7 October 2007
 Amended(10) by Proposal 5276 (Murphy, Pavitra, Zefram), 7 November 2007
 
@@ -4029,9 +4024,9 @@ Amended(5) by Proposal 4987 (BobTHJ), 6 June 2007
 Amended(6) by Proposal 5009 (Zefram), 18 June 2007
 Amended(7) by Proposal 5028 (Zefram), 28 June 2007
 Amended(8) by Proposal 5040 (Zefram), 28 June 2007
-Retitled by Proposal 5086 (Zefram), 23 July 2007
-Power changed from 1 to 1.5 by Proposal 5086 (Zefram), 23 July 2007
-Amended(9) by Proposal 5086 (Zefram), 23 July 2007
+Retitled by Proposal 5086 (Zefram), 1 August 2007
+Power changed from 1 to 1.5 by Proposal 5086 (Zefram), 1 August 2007
+Amended(9) by Proposal 5086 (Zefram), 1 August 2007
 Amended(10) by Proposal 5254 (AFO), 18 October 2007
 
 ----------------------------------------------------------------------
