@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5336
+Last proposal with recorded effect on this ruleset: 5340
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -2690,7 +2690,7 @@ Amended(1) by Proposal 5222 (root; disi.), 30 September 2007
 
 ----------------------------------------------------------------------
 
-Rule 2126/43 (Power=2)
+Rule 2126/44 (Power=2)
 Voting Credits
 
       Voting Credits (VCs) are a class of fixed assets that can be
@@ -2806,17 +2806,19 @@ Voting Credits
       VCs may be spent as follows, by announcement (INVALID unless the
       color is specified):
 
-      a) A player may spend N+1 VCs of different colors to increase
-         another player's VVLOP by N, where N >= 1.
+      a) A player may spend N+1 VCs, each of a color distinct from the
+         rest, to increase another player's VVLOP by N, where N >= 1.
 
-      b) A player may spend N+2 VCs of different colors to increase
-         eir own VVLOP by N, where N >= 1.
+      b) A player may spend N+2 VCs, each of a color distinct from the
+         rest, to increase eir own VVLOP by N, where N >= 1.
 
-      c) A player may spend N+1 VCs of different colors to decrease
-         another player's VVLOP by N (to a minimum of zero).
+      c) A player may spend N+1 VCs, each of a color distinct from the
+         rest, to decrease another player's VVLOP by N (to a minimum
+         of zero).
 
-      d) A player may spend N+2 VCs of different colors to multiply
-         another player's VVLOP by (10-N)/10, where 1 <= N <= 10.
+      d) A player may spend N+2 VCs, each of a color distinct from the
+         rest, to multiply another player's VVLOP by (10-N)/10, where
+         1 <= N <= 10.
 
       e) A player may spend two VCs of the same color to make another
          player gain one VC of that color.
@@ -2837,9 +2839,6 @@ Voting Credits
       Herald      - Violet, Indigo
       Scorekeepor - Yellow
       Accountor   - all others
-
-[CFJ 1806 (called 24 November 2007): "VCs of different colors" means
-that all the VCs involved must be mutually distinct in color.]
 
 [Note (30 August 2007): here is a set of colors with convenient
 abbreviating letters, suggested for future inventions of new types of
@@ -2894,6 +2893,7 @@ Amended(40) by Proposal 5322 (Murphy), 5 December 2007
 Amended(41) by Proposal 5325 (Murphy), 5 December 2007
 Amended(42) by Proposal 5334 (Murphy), 5 December 2007
 Amended(43) by Proposal 5336 (Murphy), 8 December 2007
+Amended(44) by Proposal 5340 (BobTHJ; disi.), 8 December 2007
 
 ----------------------------------------------------------------------
 
