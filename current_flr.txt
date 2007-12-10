@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5340
+Last proposal with recorded effect on this ruleset: 5341
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -1853,7 +1853,8 @@ of Personnel is the Director of Personnel.]
   * attempt to change officeholders quarterly (rule 2154)
   * report officeholding (rule 2138)
   * announce green and cyan VC awards and penalties (rule 2126)
-  * announce green and cyan mark awards and penalties (rule 2176)]
+  * announce green and cyan mark awards and penalties (rule 2176)
+  * award long service patent titles (rule 1922)]
 
 History:
 Created by Proposal 4939 (Murphy), 29 April 2007
@@ -2690,7 +2691,7 @@ Amended(1) by Proposal 5222 (root; disi.), 30 September 2007
 
 ----------------------------------------------------------------------
 
-Rule 2126/44 (Power=2)
+Rule 2126/45 (Power=2)
 Voting Credits
 
       Voting Credits (VCs) are a class of fixed assets that can be
@@ -2777,7 +2778,8 @@ Voting Credits
            previously gained a VC in this manner during the same
            birthday.
 
-      (+U) When a player wins the game, e gains two ultraviolet VCs.
+      (+U) When a player is awarded the Patent Title Champion, e gains
+           two ultraviolet VCs.
 
       (+V) When a person is awarded a patent title, e gains one violet
            VC, unless e gained a VC in this way earlier in the same
@@ -2827,7 +2829,8 @@ Voting Credits
          for VCs, a player may spend one VC of each such color to win
          the game.
 
-      When a game win occurs, each player's VVLOP is set to eir BVLOP.
+      When a player is awarded the Patent Title Champion, each
+      player's VVLOP is set to eir BVLOP.
 
       VC awards and penalties SHALL be announced, as soon as possible
       after they occur, by the following officers:
@@ -2894,6 +2897,7 @@ Amended(41) by Proposal 5325 (Murphy), 5 December 2007
 Amended(42) by Proposal 5334 (Murphy), 5 December 2007
 Amended(43) by Proposal 5336 (Murphy), 8 December 2007
 Amended(44) by Proposal 5340 (BobTHJ; disi.), 8 December 2007
+Amended(45) by Proposal 5241 (Goethe), 8 December 2007
 
 ----------------------------------------------------------------------
 
@@ -3824,12 +3828,19 @@ Patent Titles and Degrees
       A category concerning titles of honor and dishonor.
 ----------------------------------------------------------------------
 
-Rule 649/24 (Power=1)
+Rule 649/25 (Power=1)
 Patent Titles
 
       A Patent Title is a legal item of recognition of a person's
       distinction.  The herald is a low-priority office; its holder is
       responsible for tracking patent titles.
+
+      A Patent Title CAN only be awarded by a proposal, or by the
+      announcement of a person specifically authorized by the Rules to
+      make that award.  A person so authorized SHALL make the award as
+      soon as possible as the conditions authorizing em to make the
+      award are posted publicly, unless there is an open judicial
+      question contesting the validity of the conditions.
 
       When a Patent Title is awarded to a person, that person is said
       to Bear that Patent Title.  When a Patent Title is revoked from
@@ -3866,6 +3877,7 @@ meaning, it is correct to say that that person "is an X".]
   * announce violet and indigo mark awards and penalties (rule 2176)
   * report Patent Titles (rule 649)
   * announce award or revocation of Patent Title (rule 649)
+  * award patent title of Champion (rule 1922)
   * report the manner of wins (rule 1922)
   * report win dates for Ministers Without Portfolio (rule 402)]
 
@@ -3899,10 +3911,11 @@ Amended(21) by Proposal 5112 (Murphy), 2 August 2007
 Amended(22) by Proposal 5123 (Zefram; disi.), 13 August 2007
 Amended(23) by Proposal 5237 (AFO; disi.), 3 October 2007
 Amended(24) by Proposal 5239 (AFO), 3 October 2007
+Amended(25) by Proposal 5241 (Goethe), 8 December 2007
 
 ----------------------------------------------------------------------
 
-Rule 1922/20 (Power=1)
+Rule 1922/21 (Power=1)
 Defined Regular Patent Titles
 
       The following are Patent Titles:
@@ -3932,12 +3945,13 @@ Defined Regular Patent Titles
 
       (c)  Three Months Long Service, Six Months Long Service, Nine
            Months Long Service, Twelve Months Long Service, to be
-           awarded to any player who has held a particular Office
-           continuously for the specified duration.  Each of these
-           titles shall be awarded only once per player.
+           awarded by the IADoP to any player who has held a
+           particular Office continuously for the specified duration.
+           Each of these titles shall be awarded only once per player.
 
-      (d)  Champion, to be awarded to any person who wins the game.
-           The Herald's report includes how the player won.
+      (d)  Champion, to be awarded by the Herald to any person who
+           wins the game.  The Herald's report includes how the player
+           won.
 
       (e)  Minister Without Portfolio, to be awarded to any player who
            wins the game and does not already bear the title.  If the
@@ -3967,6 +3981,7 @@ Amended(17) by Proposal 5239 (AFO), 3 October 2007
 Amended(18) by Proposal 5257 (AFO), 27 October 2007
 Amended(19) by Proposal 5290 (comex), 14 November 2007
 Amended(20) by Proposal 5300 (Murphy), 28 November 2007
+Amended(21) by Proposal 5241 (Goethe), 8 December 2007
 
 ----------------------------------------------------------------------
 
