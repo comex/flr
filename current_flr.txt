@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5334
+Last proposal with recorded effect on this ruleset: 5335
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -2879,7 +2879,7 @@ Amended(42) by Proposal 5334 (Murphy), 5 December 2007
 
 ----------------------------------------------------------------------
 
-Rule 2176/1 (Power=2)
+Rule 2176/2 (Power=2)
 Marks
 
       Marks are a class of assets.  Ownership of Marks is restricted
@@ -2898,35 +2898,36 @@ Marks
 
       Marks are gained and lost as follows:
 
-      (+R) At the end of a proposal's voting period, each player who
-           voted on it gains one Red Mark.  If at least one of eir
-           votes is FOR or AGAINST, and the ratio of eir FOR to
-           AGAINST votes does not equal the proposal's adoption index,
-           then e gains another Red Mark.  If the proposal is adopted,
-           and e was the only player to vote AGAINST it, then e gains
-           another ten Red Marks, and the author gains ten Red Marks.
+      (+r) When the Agoran decision of whether to adopt a proposal is
+           resolved, each player who voted on it gains one Red Mark.
+           If at least one of eir votes is FOR or AGAINST, and the
+           ratio of eir FOR to AGAINST votes does not equal the
+           proposal's adoption index, then e gains another Red Mark.
+           If the proposal is adopted, and e was the only player to
+           vote AGAINST it, then e gains another ten Red Marks, and
+           the author gains ten Red Marks.
 
-      (-R) When a proposal's voting period is extended because it
+      (-r) When a proposal's voting period is extended because it
            would fail quorum, each eligible voter who has not voted on
            it loses five Red Marks.  When a proposal meets quorum but
            is rejected, and only one player (other than possibly the
            author) voted FOR it, then that player loses ten Red Marks,
            and the author loses ten Red Marks.
 
-      (+G) At the end of each month, for each office without a report,
+      (+g) At the end of each month, for each office without a report,
            the player (if any) who held that office for the majority
            of that month gains one Green Mark, unless another person
            deputised for that office while that player held that
            office during that month, in which case the deputising
            player gains one Green Mark.
 
-      (+B) When a person calls for judgement, e gains one Blue Mark,
+      (+b) When a person calls for judgement, e gains one Blue Mark,
            except as noted below.  When a judgement that caused the
            loss of a Blue Mark as noted below is overturned, the
            caller gains one Blue Mark.  When a judicial panel judges
            an appeal case, each member gains one Blue Mark.
 
-      (-B) When a person calls for judgement, and has already done so
+      (-b) When a person calls for judgement, and has already done so
            at least five times in the same week, e loses two Blue
            Marks.  When an inquiry case is judged IRRELEVANT, or a
            criminal case is judged OVERLOOKED, ALREADY TRIED, or
@@ -2946,6 +2947,7 @@ Marks
 History:
 Created by Proposal 5299 (Murphy), 22 November 2007
 Amended(1) by Proposal 5321 (Murphy), 5 December 2007
+Amended(2) by Proposal 5335 (Murphy), 8 December 2007
 
 ----------------------------------------------------------------------
 
