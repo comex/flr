@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5356
+Last proposal with recorded effect on this ruleset: 5357
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -423,7 +423,7 @@ Amended(3) by Proposal 5297 (Murphy), 22 November 2007
 
 ----------------------------------------------------------------------
 
-Rule 2177/4 (Power=2)
+Rule 2177/5 (Power=2)
 The Senate
 
       A Senator is any Player who has been registered continuously for
@@ -444,10 +444,10 @@ The Senate
       senator.  The Assessor's report includes the roll call of the
       most recent emergency session.
 
-      During emergency session, any Senator declare a filibuster on a
-      proposal in its voting period, with 2 supporting Senators,
+      During emergency session, any Senator CAN declare a filibuster
+      on a proposal in its voting period, with 2 supporting Senators,
       provided no filibuster has been declared on that proposal in the
-      past.  Any Senator may end a filibuster on a proposal with 4
+      past.  Any Senator CAN end a filibuster on a proposal with 4
       supporting Senators.
 
       A proposal that ends its voting period in filibuster has a
@@ -464,6 +464,7 @@ Amended(1) by Proposal 5331 (root), 5 December 2007
 Amended(2) by Proposal 5332 (root), 5 December 2007
 Amended(3) by Proposal 5333 (root), 5 December 2007
 Amended(4) by Proposal 5333 (root), 5 December 2007
+Amended(5) by Proposal 5357 (root; disi.), 16 December 2007
 
 ----------------------------------------------------------------------
 
