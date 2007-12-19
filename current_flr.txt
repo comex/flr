@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5343
+Last proposal with recorded effect on this ruleset: 5349
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -3501,7 +3501,7 @@ Amended(21) by Proposal 5296 (root), 28 November 2007
 
 ----------------------------------------------------------------------
 
-Rule 1504/17 (Power=1.7)
+Rule 1504/18 (Power=1.7)
 Criminal Cases
 
       There is a subclass of judicial case known as a criminal case.
@@ -3594,6 +3594,14 @@ Criminal Cases
         this type are assigned more than once or go into effect more
         than once.
 
+      * FINE with an integer from 1 to 100, appropriate for rule
+        breaches of small consequence.  When in effect, the ninny
+        SHALL within 72 hours destroy the specified number of Marks,
+        or 1 VC, of the color(s) of eir choice.  The ninny is only
+        obliged to perform one destruction per question on sentencing,
+        even if sentences of this type are assigned more than once or
+        go into effect more than once.
+
       * CHOKEY with a duration (the tariff) up to 60 days multiplied
         by the power of the highest-power rule allegedly broken,
         appropriate if the severity of the rule breach is reasonably
@@ -3653,6 +3661,7 @@ Amended(14) by Proposal 5153 (Murphy), 29 August 2007
 Amended(15) by Proposal 5155 (root), 29 August 2007
 Amended(16) by Proposal 5223 (root), 30 September 2007
 Amended(17) by Proposal 5294 (Murphy), 22 November 2007
+Amended(18) by Proposal 5349 (Murphy), 13 December 2007
 
 ----------------------------------------------------------------------
 
