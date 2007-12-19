@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5353
+Last proposal with recorded effect on this ruleset: 5354
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -1267,7 +1267,7 @@ Amended(7) by Proposal 5038 (Zefram), 28 June 2007
 
 ----------------------------------------------------------------------
 
-Rule 2152/2 (Power=3)
+Rule 2152/3 (Power=3)
 Mother, May I?
 
       The following terms are defined.  These definitions are used
@@ -1289,7 +1289,8 @@ Mother, May I?
 
       4. CAN: Attempts to perform the described action are successful.
 
-      5. MAY: Performing the described action is permitted.
+      5. MAY: Performing the described action does not violate the
+         rule in question.
 
       6. MUST, SHALL, REQUIRED, MANDATORY:  Failing to perform the
          described action violates the rule in question.
@@ -1304,6 +1305,7 @@ Power changed from 1 to 2 by Proposal 5054 (Murphy), 5 July 2007
 Amended(1) by Proposal 5189 (Levi), 3 September 2007
 Power changed from 2 to 3 by Proposal 5247 (AFO), 14 October 2007
 Amended(2) by Proposal 5353 (Murphy; disi.), 16 December 2007
+Amended(3) by Proposal 5354 (Murphy), 16 December 2007
 
 ----------------------------------------------------------------------
 
