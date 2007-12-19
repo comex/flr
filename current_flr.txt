@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5355
+Last proposal with recorded effect on this ruleset: 5356
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -2399,7 +2399,7 @@ Proposals
       which changes are made to the game.
 ----------------------------------------------------------------------
 
-Rule 106/9 (Power=3)
+Rule 106/10 (Power=3)
 Adopting Proposals
 
       A proposal is a document outlining changes to be made to Agora,
@@ -2431,8 +2431,11 @@ Adopting Proposals
       then the proposal is adopted, and unless other rules prevent it
       from taking effect, its power is set to the minimum of four and
       its adoption index, and then it takes effect.  It does not
-      otherwise take effect.  This rule takes precedence over any rule
-      which would permit a proposal to take effect.
+      otherwise take effect.
+
+      Preventing a proposal from taking effect is a secured change.
+      This rule takes precedence over any rule which would permit a
+      proposal to take effect.
 
 [CFJ 1647 (called 30 April 2007): Preceding a proposal-like text with
 the heading "Proposal:" and a title can be sufficient to clearly
@@ -2468,6 +2471,7 @@ Amended(6) by Proposal 5010 (Levi), 24 June 2007
 Amended(7) by Proposal 5078 (Zefram), 18 July 2007
 Amended(8) by Proposal 5083 (Zefram), 1 August 2007
 Amended(9) by Proposal 5334 (Murphy), 5 December 2007
+Amended(10) by Proposal 5356 (root), 16 December 2007
 
 ----------------------------------------------------------------------
 
