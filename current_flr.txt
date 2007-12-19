@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5354
+Last proposal with recorded effect on this ruleset: 5355
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -3668,7 +3668,7 @@ Amended(18) by Proposal 5349 (Murphy), 13 December 2007
 
 ----------------------------------------------------------------------
 
-Rule 2169/0 (Power=1.7)
+Rule 2169/1 (Power=1.7)
 Equity Cases
 
       There is a subclass of judicial case known as an equity case.
@@ -3698,8 +3698,8 @@ Equity Cases
       valid judgements for this question are the possible agreements
       that the parties could make that would be governed by the rules.
       A judgement is appropriate if and only if it is a reasonably
-      equitable resolution of the the situation at hand with respect
-      to the matters raised in the initiation of the case and by the
+      equitable resolution of the situation at hand with respect to
+      the matters raised in the initiation of the case and by the
       parties in the course of the case.
 
       When an applicable question on equation in an equity case has a
@@ -3718,6 +3718,7 @@ with the rules as the subject contract.]
 
 History:
 Created by Proposal 5194 (Zefram), 6 September 2007
+Amended(1) by Proposal 5355 (Murphy; disi.), 16 December 2007
 
 ----------------------------------------------------------------------
 
