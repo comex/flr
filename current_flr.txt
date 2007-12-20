@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5370
+Last proposal with recorded effect on this ruleset: 5371
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -3454,14 +3454,14 @@ Amended(1) by Proposal 5151 (root), 29 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 591/22 (Power=1.7)
+Rule 591/23 (Power=1.7)
 Inquiry Cases
 
       There is a subclass of judicial case known as an inquiry case.
       An inquiry case's purpose is to determine the veracity of a
       particular statement.  An inquiry case CAN be initiated by any
-      person, by announcement which includes the statement to be
-      inquired into.
+      first-class person, by announcement which includes the statement
+      to be inquired into.
 
       The initiator is unqualified to be assigned as judge of the
       case, and in the initiating announcement e CAN disqualify one
@@ -3555,18 +3555,20 @@ Power changed from 1 to 1.7 by Proposal 5086 (Zefram), 1 August 2007
 Amended(20) by Proposal 5086 (Zefram), 1 August 2007
 Amended(21) by Proposal 5296 (root), 28 November 2007
 Amended(22) by Proposal 5360 (Murphy), 20 December 2007
+Amended(23) by Proposal 5371 (Zefram), 20 December 2007
 
 ----------------------------------------------------------------------
 
-Rule 1504/18 (Power=1.7)
+Rule 1504/19 (Power=1.7)
 Criminal Cases
 
       There is a subclass of judicial case known as a criminal case.
       A criminal case's purpose is to determine the culpability of a
       particular person, known as the defendant, for an alleged breach
       of the rules, and to punish the guilty.  A criminal case CAN be
-      initiated by any player, by announcement which clearly specifies
-      all of the following:
+      initiated by any first-class person who is a member of the basis
+      of any player, by announcement which clearly specifies all of
+      the following:
 
       a) The identity of the defendant.
 
@@ -3583,11 +3585,11 @@ Criminal Cases
       pre-trial phase, the defendant CAN end the pre-trial phase by
       announcement.
 
-      The initiator and defendant are each unqualified to be assigned
-      as judge of the case.  During the pre-trial phase, the defendant
-      CAN disqualify one person from assignment as judge of the case,
-      by announcement.  If e disqualifies the judge, then the judge is
-      recused.
+      The initiator and each member of the defendant's basis are
+      unqualified to be assigned as judge of the case.  During the
+      pre-trial phase, the defendant CAN disqualify one person from
+      assignment as judge of the case, by announcement.  If e
+      disqualifies the judge, then the judge is recused.
 
       A criminal case has a judicial question on culpability, which is
       applicable at all times following the pre-trial phase.  The
@@ -3719,10 +3721,11 @@ Amended(15) by Proposal 5155 (root), 29 August 2007
 Amended(16) by Proposal 5223 (root), 30 September 2007
 Amended(17) by Proposal 5294 (Murphy), 22 November 2007
 Amended(18) by Proposal 5349 (Murphy), 13 December 2007
+Amended(19) by Proposal 5371 (Zefram), 20 December 2007
 
 ----------------------------------------------------------------------
 
-Rule 2169/1 (Power=1.7)
+Rule 2169/2 (Power=1.7)
 Equity Cases
 
       There is a subclass of judicial case known as an equity case.
@@ -3744,8 +3747,8 @@ Equity Cases
       informed, or immediately when all parties have announced that
       they wish to terminate the pre-trial phase.
 
-      The parties to the contract are all unqualified to be assigned
-      as judge of the case.
+      The members of the bases of the parties to the contract are all
+      unqualified to be assigned as judge of the case.
 
       An equity case has a judicial question on equation, which is
       applicable at all times following the pre-trial phase.  The
@@ -3773,6 +3776,7 @@ with the rules as the subject contract.]
 History:
 Created by Proposal 5194 (Zefram), 6 September 2007
 Amended(1) by Proposal 5355 (Murphy; disi.), 16 December 2007
+Amended(2) by Proposal 5371 (Zefram), 20 December 2007
 
 ----------------------------------------------------------------------
 
