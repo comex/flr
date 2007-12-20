@@ -1,17 +1,17 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5362
+Last proposal with recorded effect on this ruleset: 5363
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
-      highest orderly: 2180
+      highest orderly: 2181
       disorderly: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 98
+Current total number of rules: 99
 
 Power distribution:
        1 with Power=4
@@ -19,7 +19,7 @@ Power distribution:
       26 with Power=2
        5 with Power=1.7
        3 with Power=1.5
-      37 with Power=1
+      38 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -79,6 +79,7 @@ Index of Rules
       Rule 2162: Switches
       Rule 2150: Personhood
       Rule 2166: Assets
+      Rule 2181: The Accountor
       Rule 1728: Dependent Actions
       Rule 2124: Methods of Dependent Actions
       Rule 1769: Holidays
@@ -1576,6 +1577,20 @@ Amended(1) by Proposal 5216 (Murphy), 13 September 2007
 
 ----------------------------------------------------------------------
 
+Rule 2181/0 (Power=1)
+The Accountor
+
+      The Accountor is an office; its holder is responsible for
+      keeping track of assets.
+
+      The Accountor is the default recordkeepor for all assets that do
+      not specify a different recordkeepor.
+
+History:
+Created by Proposal 5363 (Murphy; disi.), 20 December 2007
+
+----------------------------------------------------------------------
+
 Rule 1728/16 (Power=2)
 Dependent Actions
 
@@ -2864,8 +2879,6 @@ Voting Credits
 [CFJs 1826-1827 (called 6 December 2007): a decrease of VVLOP cannot
 be by a negative number.]
 
-[CFJ 1829 (called 8 December 2007): The Accountor is not an office.]
-
 [Note (30 August 2007): here is a set of colors with convenient
 abbreviating letters, suggested for future inventions of new types of
 VC: Amber, Blue, Cyan, Denim, Emerald, Fern, Green, Heliotrope,
@@ -2924,7 +2937,7 @@ Amended(45) by Proposal 5241 (Goethe), 8 December 2007
 
 ----------------------------------------------------------------------
 
-Rule 2176/4 (Power=2)
+Rule 2176/5 (Power=2)
 Marks
 
       Marks are a class of assets.  Ownership of Marks is restricted
@@ -2939,7 +2952,7 @@ Marks
       either, then the Mark loss is waived (you still can't get blood
       from a turnip, not even a thimbleful at a time).
 
-      The Assessor is the recordkeepor of Marks.
+      The Accountor is the recordkeepor of Marks.
 
       Marks are gained and lost as follows:
 
@@ -3001,6 +3014,7 @@ Amended(1) by Proposal 5321 (Murphy), 5 December 2007
 Amended(2) by Proposal 5335 (Murphy), 8 December 2007
 Amended(3) by Proposal 5336 (Murphy), 8 December 2007
 Amended(4) by Proposal 5359 (Murphy), 20 December 2007
+Amended(5) by Proposal 5363 (Murphy; disi.), 20 December 2007
 
 ----------------------------------------------------------------------
 
