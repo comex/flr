@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5358
+Last proposal with recorded effect on this ruleset: 5359
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -2923,7 +2923,7 @@ Amended(45) by Proposal 5241 (Goethe), 8 December 2007
 
 ----------------------------------------------------------------------
 
-Rule 2176/3 (Power=2)
+Rule 2176/4 (Power=2)
 Marks
 
       Marks are a class of assets.  Ownership of Marks is restricted
@@ -2977,7 +2977,9 @@ Marks
            criminal case is judged OVERLOOKED, ALREADY TRIED, or
            UNIMPUGNED, the caller loses one Blue Mark.  When a
            judicial panel is recused with cause, each member loses one
-           Blue Mark.
+           Blue Mark.  When a concurring opinion is published, the
+           prior judge loses a number of Blue Marks equal to its error
+           rating.
 
       Only valid, unretracted votes count toward the conditions for
       gaining and losing Red Marks.
@@ -2997,6 +2999,7 @@ Created by Proposal 5299 (Murphy), 22 November 2007
 Amended(1) by Proposal 5321 (Murphy), 5 December 2007
 Amended(2) by Proposal 5335 (Murphy), 8 December 2007
 Amended(3) by Proposal 5336 (Murphy), 8 December 2007
+Amended(4) by Proposal 5359 (Murphy), 20 December 2007
 
 ----------------------------------------------------------------------
 
@@ -3739,7 +3742,7 @@ Amended(1) by Proposal 5355 (Murphy; disi.), 16 December 2007
 
 ----------------------------------------------------------------------
 
-Rule 911/16 (Power=1.7)
+Rule 911/17 (Power=1.7)
 Appeal Cases
 
       There is a subclass of judicial case known as an appeal case.
@@ -3774,7 +3777,7 @@ Appeal Cases
         if given a new opportunity
 
       * REASSIGN, appropriate if there is serious doubt about the
-        appropriateness of the of the prior judgement
+        appropriateness of the prior judgement
 
       * OVERRULE with a valid replacement judgement for the prior
         question, appropriate if the prior judgement was inappropriate
@@ -3797,6 +3800,15 @@ Appeal Cases
 
       * if OVERRULE with a replacement judgement, the replacement
         judgement is assigned to the prior question
+
+      A panel CAN publish a concurring opinion when judging AFFIRM,
+      and SHALL do so if and only if the reasoning by which the prior
+      judge reached eir judgement was incorrect in whole or part.
+      Each concurring opinion SHALL explain the nature of the error(s)
+      in the prior judge's reasoning.  Each concurring opinion has an
+      error rating, an integer from 1 to 99; it CAN be specified by
+      the panel when the concurring opinion is published, or else
+      defaults to 50.
 
 [CFJ 1597 (called 22 December 2006): It is possible to appeal a
 judgement even if it is not certain that the judgement exists.]
@@ -3829,6 +3841,7 @@ Amended(15) by Proposal 5051 (Zefram), 5 July 2007
 Retitled by Proposal 5086 (Zefram), 1 August 2007
 Power changed from 1 to 1.7 by Proposal 5086 (Zefram), 1 August 2007
 Amended(16) by Proposal 5086 (Zefram), 1 August 2007
+Amended(17) by Proposal 5359 (Murphy), 20 December 2007
 
 ----------------------------------------------------------------------
 
