@@ -1586,6 +1586,10 @@ The Accountor
       The Accountor is the default recordkeepor for all assets that do
       not specify a different recordkeepor.
 
+[Cross-references (20 December 2007): the Accountor's duties are:
+  * default recordkeepor for assets (rule 2181)
+  * recordkeepor of marks (rule 2176)]
+
 History:
 Created by Proposal 5363 (Murphy; disi.), 20 December 2007
 
