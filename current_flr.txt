@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5359
+Last proposal with recorded effect on this ruleset: 5360
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -3422,7 +3422,7 @@ Amended(1) by Proposal 5151 (root), 29 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 591/21 (Power=1.7)
+Rule 591/22 (Power=1.7)
 Inquiry Cases
 
       There is a subclass of judicial case known as an inquiry case.
@@ -3460,11 +3460,12 @@ Inquiry Cases
         to how to interpret or apply the rules cannot constitute
         insufficiency of information for this purpose
 
-      The judgement of the question in an inquiry case SHOULD guide
-      future play, including future judgements, but does not directly
-      affect the veracity of the statement.  The rulekeepor is
-      ENCOURAGED to annotate rules to draw attention to relevant
-      inquiry case judgements.
+      The judgement of the question in an inquiry case, and the
+      reasoning by which it was reached, SHOULD guide future play
+      (including future judgements), but do not directly affect the
+      veracity of the statement.  The rulekeepor is ENCOURAGED to
+      annotate rules to draw attention to relevant inquiry case
+      judgements.
 
 [CFJ 1671 (called 17 May 2007): The truth or falsity of a statement
 can be determined as of the initiation of a CFJ even if public
@@ -3521,6 +3522,7 @@ Retitled by Proposal 5086 (Zefram), 1 August 2007
 Power changed from 1 to 1.7 by Proposal 5086 (Zefram), 1 August 2007
 Amended(20) by Proposal 5086 (Zefram), 1 August 2007
 Amended(21) by Proposal 5296 (root), 28 November 2007
+Amended(22) by Proposal 5360 (Murphy), 20 December 2007
 
 ----------------------------------------------------------------------
 
