@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5357
+Last proposal with recorded effect on this ruleset: 5358
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -2655,25 +2655,27 @@ Amended(19) by Proposal 5078 (Zefram), 18 July 2007
 
 ----------------------------------------------------------------------
 
-Rule 2156/3 (Power=2)
+Rule 2156/4 (Power=2)
 Voting on Ordinary Proposals
 
-      Each player has a parameter known as eir base voting limit on
-      ordinary proposals (BVLOP).  The BVLOP of a first-class player
-      is four, and the BVLOP of any other player is zero.  BVLOP
-      cannot be modified.
+      Each player has an associated number known as eir base voting
+      limit on ordinary proposals (BVLOP).  The BVLOP of a first-class
+      player is four, and the BVLOP of any other player is zero.
+      BVLOP cannot be modified.
 
-      Each player has a parameter known as eir volatile voting limit
-      on ordinary proposals (VVLOP).  Whenever a player is registered,
-      eir VVLOP is set to eir BVLOP.  Changes to VVLOP are secured
+      Each player has an associated number known as eir volatile
+      voting limit on ordinary proposals (VVLOP).  Whenever a player
+      is registered, eir VVLOP is set to eir BVLOP.  Changes to VVLOP
+      are secured
 
-      Each player has a parameter known as eir effective voting limit
-      on ordinary proposals (EVLOP).  Whenever a player is registered,
-      eir EVLOP is set to eir BVLOP.  At the end of each week, each
-      player's EVLOP is set to eir VVLOP, rounded to an integer,
-      breaking ties towards odd integers, and eir VVLOP is set to the
-      same rounded value.  EVLOP cannot be modified by any other
-      means.  The assessor's report includes each player's EVLOP.
+      Each player has an associated number known as eir effective
+      voting limit on ordinary proposals (EVLOP).  Whenever a player
+      is registered, eir EVLOP is set to eir BVLOP.  At the end of
+      each week, each player's EVLOP is set to eir VVLOP, rounded to
+      an integer, breaking ties towards odd integers, and eir VVLOP is
+      set to the same rounded value.  EVLOP cannot be modified by any
+      other means.  The assessor's report includes each player's
+      EVLOP.
 
       The eligible voters on an ordinary proposal are those entities
       that were active players at the start of its voting period.  The
@@ -2687,6 +2689,7 @@ Created by Proposal 5078 (Zefram), 18 July 2007
 Amended(1) by Proposal 5082 (Zefram), 1 August 2007
 Amended(2) by Proposal 5141 (Zefram), 19 August 2007
 Amended(3) by Proposal 5276 (Murphy, Pavitra, Zefram), 7 November 2007
+Amended(4) by Proposal 5358 (Murphy), 20 December 2007
 
 ----------------------------------------------------------------------
 
