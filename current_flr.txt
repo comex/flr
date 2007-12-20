@@ -1146,6 +1146,9 @@ M.]
 accomplish an action even if its author believed the action was
 impossible.]
 
+[CFJ 1841 (called 20 December 2007): A message-based action cannot be
+retroactive.]
+
 History:
 Created by Proposal 478 (Jim Shea), Sep. 20 1993
 Amended(1) by Proposal 1477, Mar. 8 1995
@@ -2456,6 +2459,9 @@ requires a different resolution.]
 [CFJ 1781 (called 4 November 2007): Proposal distribution is not
 governed by this rule, so for the promotor to distribute a proposal
 that is not in the proposal pool is not a violation of this rule.]
+
+[CFJ 1841 (called 20 December 2007): It is possible for a proposal to
+have retroactive effect.]
 
 History:
 Initial Immutable Rule 106, Jun. 30 1993
@@ -4095,8 +4101,16 @@ to modify or terminate a contract, can be manifested by a contract
 between all the parties, including the contract being modified or
 terminated.]
 
+[CFJ 1842 (called 20 December 2007): A contract may use retroactive
+operations internally for the purposes of determining obligations of
+the parties, but such legal fictions do not affect Agora as a whole.]
+
 [CFJ 1836 (called 18 December 2007): A contract cannot have
 retroactive effect.]
+
+[CFJ 1843 (called 20 December 2007): Becoming a party to a contract
+cannot occur retroactively, for the purposes of determining
+justiciability of the contract.]
 
 [CFJ 1816 (called 2 December 2007): A contract is not generally able
 to define terms used by the rules.]
