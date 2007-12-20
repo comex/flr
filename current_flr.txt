@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5364
+Last proposal with recorded effect on this ruleset: 5367
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -1854,12 +1854,12 @@ Amended(4) by Proposal 5224 (Murphy), 23 September 2007
 
 ----------------------------------------------------------------------
 
-Rule 2138/2 (Power=1)
+Rule 2138/3 (Power=1)
 The International Associate Director of Personnel
 
-      The International Associate Director of Personnel is an office;
-      its holder is responsible for keeping track of officers and
-      reports.
+      The International Associate Director of Personnel is an
+      low-priority office; its holder is responsible for keeping track
+      of officers and reports.
 
       The IADoP's report includes the following:
 
@@ -1883,6 +1883,7 @@ History:
 Created by Proposal 4939 (Murphy), 29 April 2007
 Amended(1) by Proposal 4956 (Murphy), 7 May 2007
 Amended(2) by Proposal 5237 (AFO; disi.), 3 October 2007
+Amended(3) by Proposal 5367 (Levi; disi.), 20 December 2007
 
 ----------------------------------------------------------------------
 
