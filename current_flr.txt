@@ -2857,6 +2857,9 @@ Voting Credits
       Scorekeepor - Yellow
       Accountor   - all others
 
+[CFJs 1826-1827 (called 6 December 2007): a decrease of VVLOP cannot
+be by a negative number.]
+
 [CFJ 1829 (called 8 December 2007): The Accountor is not an office.]
 
 [Note (30 August 2007): here is a set of colors with convenient
