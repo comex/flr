@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5367
+Last proposal with recorded effect on this ruleset: 5370
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -1591,7 +1591,7 @@ Created by Proposal 5363 (Murphy; disi.), 20 December 2007
 
 ----------------------------------------------------------------------
 
-Rule 1728/16 (Power=2)
+Rule 1728/17 (Power=2)
 Dependent Actions
 
       An announcement of intent to perform a dependent action,
@@ -1608,9 +1608,8 @@ Dependent Actions
 
       (d) The eligible voters are those entities that were active
           first-class players at the start of the voting period,
-          except for the vote collector, and any entities disqualified
-          by the rule specifying that the action can be performed
-          dependently.
+          except for any entities disqualified by the rule specifying
+          that the action can be performed dependently.
 
       (e) The voting limit of each eligible voter is one.
 
@@ -1620,6 +1619,11 @@ Dependent Actions
 
       (g) If the outcome is APPROVED, then the vote collector performs
           the action upon resolving the decision.
+
+      (h) The announcer, by virtue of the announcement of intent,
+          implicitly submits a ballot of SUPPORT on the Agoran
+          decision, if e is an eligible voter and does not explicitly
+          repudiate this implication in the announcement.
 
       The specification in the rules that an action can be performed
       dependently does not prohibit performing that action
@@ -1649,16 +1653,17 @@ Amended(13) by Proposal 4981 (Zefram), 31 May 2007
 Amended(14) by Proposal 4999 (Zefram), 12 June 2007
 Amended(15) by Proposal 5007 (Zefram), 18 June 2007
 Amended(16) by Proposal 5113 (Murphy, Maud), 2 August 2007
+Amended(17) by Proposal 5370 (Zefram), 20 December 2007
 
 ----------------------------------------------------------------------
 
-Rule 2124/4 (Power=1)
+Rule 2124/5 (Power=1)
 Methods of Dependent Actions
 
       The following methods of dependent actions are defined:
 
-      (a) With N Supporters.  For this method, the support index is N.
-          "With Support" is synonymous with "With 1 Supporter".
+      (a) With N Supporters.  For this method, the support index is
+          N+1.  "With Support" is synonymous with "With 1 Supporter".
 
       (b) Without N Objections.  For this method, the objection index
           is N.  "Without Objection" is synonymous with "Without 1
@@ -1678,6 +1683,7 @@ Amended(2) by Proposal 4868 (Goethe), 27 August 2006
 Amended(3) by Proposal 4978 (Murphy), 31 May 2007
 Retitled by Proposal 5113 (Murphy, Maud), 2 August 2007
 Amended(4) by Proposal 5113 (Murphy, Maud), 2 August 2007
+Amended(5) by Proposal 5370 (Zefram), 20 December 2007
 
 ----------------------------------------------------------------------
 
