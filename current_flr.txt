@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5360
+Last proposal with recorded effect on this ruleset: 5361
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -3312,7 +3312,7 @@ Amended(20) by Proposal 5261 (root; disi.), 31 October 2007
 
 ----------------------------------------------------------------------
 
-Rule 2157/1 (Power=1.7)
+Rule 2157/2 (Power=1.7)
 Judicial Panels
 
       A judicial panel is a structure whereby a group of two or more
@@ -3326,11 +3326,13 @@ Judicial Panels
       members sending a message identified as being from the panel,
       with the unanimous agreement of the panel's members, or with the
       majority agreement of the members and the consent of the CotC.
-      By this mechanism a judicial panel can act, in situations where
-      the rules state that an action is performed by sending a
-      message.  A judicial panel can incur obligations.  The members
-      of a panel SHALL act collectively to ensure that the panel
-      satisfies all of its obligations.
+      The CotC SHOULD consent to a majority action if the panel has
+      made a reasonable effort to achieve consensus.  By this
+      mechanism a judicial panel can act, in situations where the
+      rules state that an action is performed by sending a message.  A
+      judicial panel can incur obligations.  The members of a panel
+      SHALL act collectively to ensure that the panel satisfies all of
+      its obligations.
 
 [CFJ 1746 (called 21 September 2007): A judicial panel is not a
 person.]
@@ -3342,6 +3344,7 @@ require public messages in order to be brought into being.]
 History:
 Created by Proposal 5086 (Zefram), 1 August 2007
 Amended(1) by Proposal 5134 (root), 17 August 2007
+Amended(2) by Proposal 5361 (Goethe), 20 December 2007
 
 ----------------------------------------------------------------------
 
@@ -3744,7 +3747,7 @@ Amended(1) by Proposal 5355 (Murphy; disi.), 16 December 2007
 
 ----------------------------------------------------------------------
 
-Rule 911/17 (Power=1.7)
+Rule 911/18 (Power=1.7)
 Appeal Cases
 
       There is a subclass of judicial case known as an appeal case.
@@ -3812,6 +3815,11 @@ Appeal Cases
       the panel when the concurring opinion is published, or else
       defaults to 50.
 
+      In the week after the panel publishes a valid judgement, any
+      panel member may publish a formal Dissenting Opinion with
+      Support.  This Dissenting Opinion becomes a part of the record
+      of the case, and SHOULD aid in interpreting the decision.
+
 [CFJ 1597 (called 22 December 2006): It is possible to appeal a
 judgement even if it is not certain that the judgement exists.]
 
@@ -3844,6 +3852,7 @@ Retitled by Proposal 5086 (Zefram), 1 August 2007
 Power changed from 1 to 1.7 by Proposal 5086 (Zefram), 1 August 2007
 Amended(16) by Proposal 5086 (Zefram), 1 August 2007
 Amended(17) by Proposal 5359 (Murphy), 20 December 2007
+Amended(18) by Proposal 5361 (Goethe), 20 December 2007
 
 ----------------------------------------------------------------------
 
