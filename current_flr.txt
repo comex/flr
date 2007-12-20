@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5363
+Last proposal with recorded effect on this ruleset: 5364
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -2937,7 +2937,7 @@ Amended(45) by Proposal 5241 (Goethe), 8 December 2007
 
 ----------------------------------------------------------------------
 
-Rule 2176/5 (Power=2)
+Rule 2176/6 (Power=2)
 Marks
 
       Marks are a class of assets.  Ownership of Marks is restricted
@@ -2995,6 +2995,12 @@ Marks
            prior judge loses a number of Blue Marks equal to its error
            rating.
 
+      (+m) When, during the observance of Agora's unbirthday, a player
+           publicly acknowledges the occasion, e gains 2N+1 magenta
+           Marks (where N is Agora's age rounded down to the nearest
+           integer), unless e previously gained Marks in this manner
+           during the same unbirthday.
+
       Only valid, unretracted votes count toward the conditions for
       gaining and losing Red Marks.
 
@@ -3015,6 +3021,7 @@ Amended(2) by Proposal 5335 (Murphy), 8 December 2007
 Amended(3) by Proposal 5336 (Murphy), 8 December 2007
 Amended(4) by Proposal 5359 (Murphy), 20 December 2007
 Amended(5) by Proposal 5363 (Murphy; disi.), 20 December 2007
+Amended(6) by Proposal 5364 (Murphy), 20 December 2007
 
 ----------------------------------------------------------------------
 
@@ -4677,7 +4684,7 @@ Amended(3) by Proposal 4946 (Zefram), 3 May 2007
 
 ----------------------------------------------------------------------
 
-Rule 1727/16 (Power=1)
+Rule 1727/17 (Power=1)
 Happy Birthday
 
       WHEREAS, in June 1993, the world's only MUD-based nomic, Nomic
@@ -4717,6 +4724,11 @@ Happy Birthday
       BE IT THEREFORE RESOLVED that Agora's Birthday is defined to be
       the entire day of June 30, GMT +1200, of each year.
 
+      BE IT FURTHERMORE RESOLVED that Agora's Unbirthday is defined to
+      be the entire day of December 30, GMT +1200, of each year; but,
+      since that falls within a Holiday, is observed during the entire
+      days of January 12 through 14, GMT +1200, of each year.
+
 History:
 Created by Proposal 3513 (Chuck), Jun. 16 1997
 Amended(1) by Proposal 3530 (Chuck), Jun. 30 1997, substantial
@@ -4737,6 +4749,7 @@ Amended(???) by Proposal 4839 (Goethe), 2 October 2005
 Amended(???) by Proposal 4866 (Goethe), 27 August 2006
 Amended(15) by Proposal 4880 (Murphy), 22 January 2007
 Amended(16) by Proposal 4887 (Murphy), 22 January 2007
+Amended(17) by Proposal 5364 (Murphy), 20 December 2007
 
 ----------------------------------------------------------------------
 
