@@ -1,17 +1,17 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5361
+Last proposal with recorded effect on this ruleset: 5362
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
-      highest orderly: 2179
+      highest orderly: 2180
       disorderly: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 97
+Current total number of rules: 98
 
 Power distribution:
        1 with Power=4
@@ -19,7 +19,7 @@ Power distribution:
       26 with Power=2
        5 with Power=1.7
        3 with Power=1.5
-      36 with Power=1
+      37 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -146,6 +146,7 @@ Index of Rules
       Rule 2174: Aliens
       Rule 2136: Contests
       Rule 2179: Points
+      Rule 2180: Locations
 
       * Foreign Relations
       Rule 2135: Advertising
@@ -4090,7 +4091,7 @@ Contract Law
       within this nomic.
 ----------------------------------------------------------------------
 
-Rule 1742/10 (Power=1.5)
+Rule 1742/11 (Power=1.5)
 Contracts
 
       Any group of two or more persons may make an agreement among
@@ -4100,7 +4101,9 @@ Contracts
       set of parties, by agreement between all parties.  A contract
       may also terminate by agreement between all parties.  A contract
       automatically terminates if the number of parties to it falls
-      below two.
+      below the minimum number of parties defined by the rules for
+      that contract.  If not otherwise specified, the minimum number
+      of parties for any contract is two.
 
       Parties to a contract governed by the rules SHALL act in
       accordance with that contract.  This obligation is not impaired
@@ -4163,6 +4166,7 @@ Retitled by Proposal 5086 (Zefram), 1 August 2007
 Power changed from 1 to 1.5 by Proposal 5086 (Zefram), 1 August 2007
 Amended(9) by Proposal 5086 (Zefram), 1 August 2007
 Amended(10) by Proposal 5254 (AFO), 18 October 2007
+Amended(11) by Proposal 5362 (root), 20 December 2007
 
 ----------------------------------------------------------------------
 
@@ -4272,7 +4276,7 @@ Created by Proposal 5274 (Murphy), 7 November 2007
 
 ----------------------------------------------------------------------
 
-Rule 2136/15 (Power=1)
+Rule 2136/16 (Power=1)
 Contests
 
       A first-class player who is a member of an existing public
@@ -4284,10 +4288,10 @@ Contests
       explicitly described in the contest regulations and provided e
       is not the contestmaster of another contest.
 
-      Any player may make a contest cease to be a contest without 3
-      objections.  Players SHOULD decide on whether a contract
-      deserves to be a contest based on its fairness or interest to
-      players as a whole.
+      The minimum number of parties for a contest is one.  Any player
+      may make a contest cease to be a contest without 3 objections.
+      Players SHOULD decide on whether a contract deserves to be a
+      contest based on its fairness or interest to players as a whole.
 
       The total number of points a Contest MAY award in a given week
       is equal to 5 times the number of its members that are first-
@@ -4312,6 +4316,7 @@ Amended(12) by Proposal 5304 (root; disi.), 24 November 2007
 Amended(13) by Proposal 5305 (comex, Goethe), 24 November 2007
 Amended(14) by Proposal 5302 (Zefram), 28 November 2007
 Amended(15) by Proposal 5328 (Goethe), 5 December 2007
+Amended(16) by Proposal 5362 (root), 20 December 2007
 
 ----------------------------------------------------------------------
 
@@ -4338,6 +4343,27 @@ Points
 
 History:
 Created by Proposal 5328 (Goethe), 5 December 2007
+
+----------------------------------------------------------------------
+
+Rule 2180/0 (Power=1)
+Locations
+
+      A location is a public contract that describes itself as a
+      location.  A person who becomes a party to a location is said to
+      move to that location.  A person who is a party to a location is
+      said to be in that location.  A person who ceases to be a party
+      to a location is said to leave that location.
+
+      A person cannot be in more than a single location at one time.
+      A person who moves to a location automatically leaves any
+      location e is already in.  Whenever a person's location does not
+      permit em to leave it, e CANNOT move to any other location.
+
+      The minimum number of parties for a location is zero.
+
+History:
+Created by Proposal 5362 (root), 20 December 2007
 
 ----------------------------------------------------------------------
 
