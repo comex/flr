@@ -3713,6 +3713,11 @@ eir action is legal when it is not.]
 constitutes sentencing the ninny to APOLOGY with the empty set of
 prescribed words.]
 
+[CFJ 1846 (called 20 December 2007): A string of letters that has no
+defined meaning in any extant language does not qualify as a word for
+the purposes of constituting a set of prescribed words for an APOLOGY
+sentence.]
+
 History:
 Created by Proposal 1682, Aug. 22 1995
 Amended(1) by Proposal 2570, Apr. 12 1996
