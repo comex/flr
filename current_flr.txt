@@ -1115,6 +1115,10 @@ public messages sent on eir behalf, including via a web form that
 allows all-comers to send messages on eir behalf without specific
 approval.]
 
+[CFJs 1833-1834 (called 18 December 2007): A player can, by
+contractual arrangement, grant another player the capacity to act by
+announcement on eir behalf.]
+
 [CFJ 1336 (called 13 December 2001): A public statement that one
 wishes to perform an action that one can perform by announcement can
 constitute an announcement that performs that action.]
@@ -3507,6 +3511,9 @@ Inquiry Cases
       annotate rules to draw attention to relevant inquiry case
       judgements.
 
+[CFJ 1835 (called 18 December 2007): A question cannot take the place
+of a statement in initiating an inquiry case.]
+
 [CFJ 1671 (called 17 May 2007): The truth or falsity of a statement
 can be determined as of the initiation of a CFJ even if public
 knowledge at the time of initiation was not sufficient to determine
@@ -4190,6 +4197,10 @@ to define terms used by the rules.]
 
 [CFJ 1819 (called 3 December 2007): A contract is not able to create
 new ways of winning the game.]
+
+[CFJ 1835 (called 18 December 2007): An authorisation granted by a
+party in a contract takes precedence over a unilateral statement by
+that party that purports to cancel that authorisation.]
 
 History:
 Created by Proposal 3558 (General Chaos), Oct. 24 1997
