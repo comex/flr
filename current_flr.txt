@@ -1,17 +1,17 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5371
+Last proposal with recorded effect on this ruleset: 5373
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
-      highest orderly: 2181
+      highest orderly: 2183
       disorderly: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 99
+Current total number of rules: 101
 
 Power distribution:
        1 with Power=4
@@ -19,7 +19,7 @@ Power distribution:
       26 with Power=2
        5 with Power=1.7
        3 with Power=1.5
-      38 with Power=1
+      40 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -148,6 +148,8 @@ Index of Rules
       Rule 2136: Contests
       Rule 2179: Points
       Rule 2180: Locations
+      Rule 2182: Making Wagers
+      Rule 2183: Resolving Wagers
 
       * Foreign Relations
       Rule 2135: Advertising
@@ -4431,6 +4433,53 @@ Locations
 
 History:
 Created by Proposal 5362 (root), 20 December 2007
+
+----------------------------------------------------------------------
+
+Rule 2182/0 (Power=1)
+Making Wagers
+
+      A Wager is an announcement specifying the following:
+
+      (a) A statement that is, or will become, true or false,
+
+      (b) The number and color of Marks being wagered, which MUST be
+          less than or equal to the number of Marks possessed by that
+          player, and
+
+      (c) The outcome wagered on by the offering player.
+
+      Any other player with Marks greater than or equal to the amount
+      of the Wager CAN accept it by announcement, unless the Wager has
+      already been accepted.  E thereby wagers on the opposite outcome
+      from that wagered on by the offering player.
+
+History:
+Created by Proposal 5373 (Levi, Murphy), 22 December 2007
+
+----------------------------------------------------------------------
+
+Rule 2183/0 (Power=1)
+Resolving Wagers
+
+      A Wager MAY be resolved when the following conditions are met:
+
+      (a) The Wager has been accepted, and
+
+      (b) The statement that is the subject of the Wager is either
+          true or false.
+
+      An accepted Wager CAN be resolved by a correct announcement
+      specifying the truth value of the statement, which must be
+      exactly one of true or false.
+
+      As soon as possible after a Wager is resolved the player who
+      wagered on the incorrect outcome MUST transfer the agreed number
+      and color of Marks to the player who wagered on the correct
+      outcome.
+
+History:
+Created by Proposal 5373 (Levi, Murphy), 22 December 2007
 
 ----------------------------------------------------------------------
 
