@@ -2961,7 +2961,7 @@ Amended(41) by Proposal 5325 (Murphy), 5 December 2007
 Amended(42) by Proposal 5334 (Murphy), 5 December 2007
 Amended(43) by Proposal 5336 (Murphy), 8 December 2007
 Amended(44) by Proposal 5340 (BobTHJ; disi.), 8 December 2007
-Amended(45) by Proposal 5241 (Goethe), 8 December 2007
+Amended(45) by Proposal 5341 (Goethe), 8 December 2007
 
 ----------------------------------------------------------------------
 
@@ -4033,7 +4033,7 @@ Amended(21) by Proposal 5112 (Murphy), 2 August 2007
 Amended(22) by Proposal 5123 (Zefram; disi.), 13 August 2007
 Amended(23) by Proposal 5237 (AFO; disi.), 3 October 2007
 Amended(24) by Proposal 5239 (AFO), 3 October 2007
-Amended(25) by Proposal 5241 (Goethe), 8 December 2007
+Amended(25) by Proposal 5341 (Goethe), 8 December 2007
 
 ----------------------------------------------------------------------
 
@@ -4103,7 +4103,7 @@ Amended(17) by Proposal 5239 (AFO), 3 October 2007
 Amended(18) by Proposal 5257 (AFO), 27 October 2007
 Amended(19) by Proposal 5290 (comex), 14 November 2007
 Amended(20) by Proposal 5300 (Murphy), 28 November 2007
-Amended(21) by Proposal 5241 (Goethe), 8 December 2007
+Amended(21) by Proposal 5341 (Goethe), 8 December 2007
 
 ----------------------------------------------------------------------
 
