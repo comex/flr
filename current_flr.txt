@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5381
+Last proposal with recorded effect on this ruleset: 5384
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -3119,7 +3119,7 @@ Amended(10) by Proposal 5317 (Murphy), 28 November 2007
 
 ----------------------------------------------------------------------
 
-Rule 2175/1 (Power=1)
+Rule 2175/2 (Power=1)
 Judicial Retraction and Excess
 
       If a judicial case has not had any judge assigned to it, then:
@@ -3128,14 +3128,15 @@ Judicial Retraction and Excess
          to cease to be a judicial case.
 
       b) If its initiator previously initiated five or more cases
-         during the same Agoran week as that case, then the Clerk of
-         the Courts CAN refuse it by announcement, thus causing it to
-         cease to be a judicial case.
+         during the same Agoran week as that case, then it is an
+         excess case, and the Clerk of the Courts CAN refuse it by
+         announcement, thus causing it to cease to be a judicial case.
 
 History:
 Created by Proposal 5284 (root, pikhq), 7 November 2007
 Retitled by Proposal 5301 (Murphy), 28 November 2007
 Amended(1) by Proposal 5301 (Murphy), 28 November 2007
+Amended(2) by Proposal 5384 (Murphy), 1 January 2008
 
 ----------------------------------------------------------------------
 
