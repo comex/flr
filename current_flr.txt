@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5378
+Last proposal with recorded effect on this ruleset: 5379
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -2750,7 +2750,7 @@ Amended(2) by Proposal 5343 (Murphy), 8 December 2007
 
 ----------------------------------------------------------------------
 
-Rule 2126/46 (Power=2)
+Rule 2126/47 (Power=2)
 Voting Credits
 
       Voting Credits (VCs) are a class of fixed assets that can be
@@ -2874,8 +2874,8 @@ Voting Credits
          rest, to increase eir own VVLOP by N, where N >= 1.
 
       c) A player may spend N+1 VCs, each of a color distinct from the
-         rest, to decrease another player's VVLOP by N (to a minimum
-         of zero).
+         rest, to decrease another player's VVLOP by N, to a minimum
+         of zero, where N >= 1.
 
       d) A player may spend N+2 VCs, each of a color distinct from the
          rest, to multiply another player's VVLOP by (10-N)/10, where
@@ -2961,6 +2961,7 @@ Amended(43) by Proposal 5336 (Murphy), 8 December 2007
 Amended(44) by Proposal 5340 (BobTHJ; disi.), 8 December 2007
 Amended(45) by Proposal 5341 (Goethe), 8 December 2007
 Amended(46) by Proposal 5378 (root), 1 January 2008
+Amended(47) by Proposal 5379 (root; disi.), 1 January 2008
 
 ----------------------------------------------------------------------
 
