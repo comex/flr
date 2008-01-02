@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5373
+Last proposal with recorded effect on this ruleset: 5375
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -891,15 +891,17 @@ Amended(25) by Proposal 5271 (Murphy), 7 November 2007
 
 ----------------------------------------------------------------------
 
-Rule 2144/5 (Power=1)
+Rule 2144/6 (Power=1)
 Limited Partnerships
 
-      A partnership is prohibited from registering if its basis is the
-      same as that of another registered partnership.
+      A partnership SHALL NOT register if its basis is the same as
+      that of any player.  Whenever a judgement of GUILTY is assigned
+      in a criminal case alleging that a partnership has violated this
+      rule, the judge SHOULD assign an EXILE judgement to the question
+      on sentencing in that case.
 
       If a registered partnership has the same basis as another
-      registered partnership, it can be deregistered by any player
-      with Agoran Consent.
+      player, any player CAN deregister it with Agoran Consent.
 
 History:
 Created by Proposal 4971 (Human Point Two), 23 May 2007
@@ -908,6 +910,7 @@ Amended(2) by Proposal 5039 (Zefram), 28 June 2007
 Amended(3) by Proposal 5045 (BobTHJ), 1 July 2007
 Amended(4) by Proposal 5045 (BobTHJ), 1 July 2007
 Amended(5) by Proposal 5061 (Zefram), 9 July 2007
+Amended(6) by Proposal 5375 (root), 1 January 2008
 
 ----------------------------------------------------------------------
 
