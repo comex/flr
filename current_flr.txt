@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5386
+Last proposal with recorded effect on this ruleset: 5387
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -3675,7 +3675,7 @@ Amended(20) by Proposal 5386 (Murphy, Zefram), 1 January 2008
 
 ----------------------------------------------------------------------
 
-Rule 2169/2 (Power=1.7)
+Rule 2169/3 (Power=1.7)
 Equity Cases
 
       There is a subclass of judicial case known as an equity case.
@@ -3711,9 +3711,11 @@ Equity Cases
 
       When an applicable question on equation in an equity case has a
       judgement, and has had that judgement continuously for the past
-      week, the judgement is in effect as a binding agreement between
-      the parties.  In this role it is subject to modification or
-      termination by the usual processes governing binding agreements.
+      week (or all parties to the contract have approved that
+      judgement), the judgement is in effect as a binding agreement
+      between the parties.  In this role it is subject to modification
+      or termination by the usual processes governing binding
+      agreements.
 
       An appeal concerning any assignment of judgement in an equity
       case within the past week, other than an assignment caused by a
@@ -3727,6 +3729,7 @@ History:
 Created by Proposal 5194 (Zefram), 6 September 2007
 Amended(1) by Proposal 5355 (Murphy; disi.), 16 December 2007
 Amended(2) by Proposal 5371 (Zefram), 20 December 2007
+Amended(3) by Proposal 5387 (Murphy), 1 January 2008
 
 ----------------------------------------------------------------------
 
