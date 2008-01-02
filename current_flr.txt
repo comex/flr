@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5384
+Last proposal with recorded effect on this ruleset: 5385
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -2754,7 +2754,7 @@ Amended(2) by Proposal 5343 (Murphy), 8 December 2007
 
 ----------------------------------------------------------------------
 
-Rule 2126/47 (Power=2)
+Rule 2126/48 (Power=2)
 Voting Credits
 
       Voting Credits (VCs) are a class of fixed assets that can be
@@ -2769,7 +2769,7 @@ Voting Credits
       instead; if e has no VCs at all, then the loss is waived (you
       can't get blood from a turnip).
 
-      The Assessor is the recordkeepor of VCs.
+      The Accountor is the recordkeepor of VCs.
 
       VCs are gained and lost as follows:
 
@@ -2966,6 +2966,7 @@ Amended(44) by Proposal 5340 (BobTHJ; disi.), 8 December 2007
 Amended(45) by Proposal 5341 (Goethe), 8 December 2007
 Amended(46) by Proposal 5378 (root), 1 January 2008
 Amended(47) by Proposal 5379 (root; disi.), 1 January 2008
+Amended(48) by Proposal 5385 (Murphy; disi.), 1 January 2008
 
 ----------------------------------------------------------------------
 
