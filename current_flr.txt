@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5375
+Last proposal with recorded effect on this ruleset: 5376
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -11,12 +11,12 @@ Rule ID numbers:
 
 Statistics
 
-Current total number of rules: 101
+Current total number of rules: 100
 
 Power distribution:
        1 with Power=4
       26 with Power=3
-      26 with Power=2
+      25 with Power=2
        5 with Power=1.7
        3 with Power=1.5
       40 with Power=1
@@ -115,7 +115,6 @@ Index of Rules
       Rule 2156: Voting on Ordinary Proposals
       Rule 2134: Voting Limits are Limited
       Rule 2126: Voting Credits
-      Rule 2176: Marks
       Rule 2155: Parties
       Rule 2142: Support Democracy
       Rule 2019: Prerogatives
@@ -942,7 +941,7 @@ published with the registrar's report, is part of the game state, even
 though it is not mentioned in the rules and no one is obliged to track
 or publish it.]
 
-[Cross-references (8 December 2007): the Registrar's duties are:
+[Cross-references (1 January 2008): the Registrar's duties are:
   * report senators (rule 2177)
   * track citizenship (rule 869)
   * report players' identity and contact details (rule 2139)
@@ -952,8 +951,7 @@ or publish it.]
   * track forum publicity (rule 478)
   * report fora (rule 478)
   * change the publicity of a forum (rule 478)
-  * announce white VC awards and penalties (rule 2126)
-  * announce white mark awards and penalties (rule 2176)]
+  * announce white VC awards and penalties (rule 2126)]
 
 History:
 Created by Proposal 4939 (Murphy), 29 April 2007
@@ -1599,9 +1597,8 @@ The Accountor
       The Accountor is the default recordkeepor for all assets that do
       not specify a different recordkeepor.
 
-[Cross-references (20 December 2007): the Accountor's duties are:
-  * default recordkeepor for assets (rule 2181)
-  * recordkeepor of marks (rule 2176)]
+[Cross-references (1 January 2008): the Accountor's duties are:
+  * default recordkeepor for assets (rule 2181)]
 
 History:
 Created by Proposal 5363 (Murphy; disi.), 20 December 2007
@@ -1894,12 +1891,11 @@ The International Associate Director of Personnel
 [CFJ 1672 (called 18 May 2007): The International Associate Director
 of Personnel is the Director of Personnel.]
 
-[Cross-references (8 December 2007): the IADoP's duties are:
+[Cross-references (1 January 2008): the IADoP's duties are:
   * hold election for office where contested (rule 2154)
   * attempt to change officeholders quarterly (rule 2154)
   * report officeholding (rule 2138)
   * announce green and cyan VC awards and penalties (rule 2126)
-  * announce green and cyan mark awards and penalties (rule 2176)
   * award long service patent titles (rule 1922)]
 
 History:
@@ -2152,14 +2148,13 @@ The Assessor
 [CFJs 1758-1759 (called 30 September 2007): if Assessorship changes
 hands, vote collection duties move with it.]
 
-[Cross-references (8 December 2007): the Assessor's duties are:
+[Cross-references (1 January 2008): the Assessor's duties are:
   * report date of most recent emergency session (rule 2177)
   * report roll call of most recent emergency session (rule 2177)
   * default vote collector for Agoran decisions (rule 2137)
   * report EVLOP (rule 2156)
   * recordkeepor of VCs (rule 2126)
-  * announce red and orange VC awards and penalties (rule 2126)
-  * announce red and orange mark awards and penalties (rule 2176)]
+  * announce red and orange VC awards and penalties (rule 2126)]
 
 History:
 Created by Proposal 4939 (Murphy), 29 April 2007
@@ -2968,98 +2963,6 @@ Amended(45) by Proposal 5341 (Goethe), 8 December 2007
 
 ----------------------------------------------------------------------
 
-Rule 2176/6 (Power=2)
-Marks
-
-      Marks are a class of assets.  Ownership of Marks is restricted
-      to persons.
-
-      Each Mark has exactly one color.  Each color of Mark is a
-      currency.  If a player is meant to lose a Mark of a color that e
-      does not possess, then e loses a Mark of eir Party's color
-      instead; if e has no Marks at all, then e loses a VC of the same
-      color as the Mark e is meant to lose, gains 100 Marks of that
-      color, and then loses the Mark; however, if e has no VCs at all,
-      either, then the Mark loss is waived (you still can't get blood
-      from a turnip, not even a thimbleful at a time).
-
-      The Accountor is the recordkeepor of Marks.
-
-      Marks are gained and lost as follows:
-
-      (+r) When the Agoran decision of whether to adopt a proposal is
-           resolved, each player who voted on it gains one Red Mark.
-           If at least one of eir votes is FOR or AGAINST, and the
-           ratio of eir FOR to AGAINST votes does not equal the
-           proposal's adoption index, then e gains another Red Mark.
-           If the proposal is adopted, and e was the only player to
-           vote AGAINST it, then e gains another ten Red Marks, and
-           the author gains ten Red Marks.
-
-      (-r) When a proposal's voting period is extended because it
-           would fail quorum, each eligible voter who has not voted on
-           it loses five Red Marks.  When a proposal meets quorum but
-           is rejected, and only one player (other than possibly the
-           author) voted FOR it, then that player loses ten Red Marks,
-           and the author loses ten Red Marks.
-
-      (+g) At the end of each month, for each office without a report,
-           the player (if any) who held that office for the majority
-           of that month gains one Green Mark, unless another person
-           deputised for that office while that player held that
-           office during that month, in which case the deputising
-           player gains one Green Mark.
-
-      (+b) When a person calls for judgement, e gains one Blue Mark,
-           except as noted below.  When a judgement that caused the
-           loss of a Blue Mark as noted below is overturned, the
-           caller gains one Blue Mark.  When a judicial panel judges
-           an appeal case, each member gains one Blue Mark.
-
-      (-b) When a person calls for judgement, and has already done so
-           at least five times in the same week, e loses two Blue
-           Marks.  When an inquiry case is judged IRRELEVANT, or a
-           criminal case is judged OVERLOOKED, ALREADY TRIED, or
-           UNIMPUGNED, the caller loses one Blue Mark.  When a
-           judicial panel is recused with cause, each member loses one
-           Blue Mark.  When a concurring opinion is published, the
-           prior judge loses a number of Blue Marks equal to its error
-           rating.
-
-      (+m) When, during the observance of Agora's unbirthday, a player
-           publicly acknowledges the occasion, e gains 2N+1 magenta
-           Marks (where N is Agora's age rounded down to the nearest
-           integer), unless e previously gained Marks in this manner
-           during the same unbirthday.
-
-      Only valid, unretracted votes count toward the conditions for
-      gaining and losing Red Marks.
-
-      Marks may be spent as follows, by announcement (INVALID unless
-      the color is specified):
-
-      a) A player may spend 100 Marks of the same color to gain one VC
-         of that color.
-
-      Mark awards and penalties SHALL be announced, as soon as
-      possible after they occur, by the officer required to announce
-      VC awards of the same color.
-
-[CFJ 1847 (called 20 December 2007): When a person calls for
-judgement, and has already done so at least five times in the same
-week, e is not awarded a blue mark by section (+b).]
-
-History:
-Created by Proposal 5299 (Murphy), 22 November 2007
-Amended(1) by Proposal 5321 (Murphy), 5 December 2007
-Amended(2) by Proposal 5335 (Murphy), 8 December 2007
-Amended(3) by Proposal 5336 (Murphy), 8 December 2007
-Amended(4) by Proposal 5359 (Murphy), 20 December 2007
-Amended(5) by Proposal 5363 (Murphy; disi.), 20 December 2007
-Amended(6) by Proposal 5364 (Murphy), 20 December 2007
-
-----------------------------------------------------------------------
-
 Rule 2155/1 (Power=1)
 Parties
 
@@ -3172,12 +3075,11 @@ involved accept it as unambiguous at the time.]
 [CFJ 1355 (called 28 April 2002): Titles for CFJs are unregulated, so
 it is possible for a title to be assigned to a CFJ informally.]
 
-[Cross-references (8 December 2007): the Clerk of the Courts' duties
+[Cross-references (1 January 2008): the Clerk of the Courts' duties
 are:
   * issue Writ of FAGE (rule 1789)
   * not assign judges during holiday (rule 1769)
   * announce blue and black VC awards and penalties (rule 2126)
-  * announce blue and black mark awards and penalties (rule 2176)
   * prefer judicial panels containing the Default Justice (rule 2019)
   * report open judicial cases (rule 991)
   * manage ID numbers of non-appeal judicial cases (rule 991)
@@ -3997,9 +3899,8 @@ more than one instance of a patent title simultaneously.]
 title X, and X is not also defined by the rules to have some special
 meaning, it is correct to say that that person "is an X".]
 
-[Cross-references (8 December 2007): the Herald's duties are:
+[Cross-references (1 January 2008): the Herald's duties are:
   * announce violet and indigo VC awards and penalties (rule 2126)
-  * announce violet and indigo mark awards and penalties (rule 2176)
   * report Patent Titles (rule 649)
   * announce award or revocation of Patent Title (rule 649)
   * award patent title of Champion (rule 1922)
@@ -4408,9 +4309,8 @@ Points
       this fact.  Upon such an announcement, each player's score is
       set to zero.
 
-[Cross-references (8 December 2007): the Scorekeepor's duties are:
+[Cross-references (1 January 2008): the Scorekeepor's duties are:
   * announce yellow VC awards and penalties (rule 2126)
-  * announce yellow mark awards and penalties (rule 2176)
   * recordkeepor of points (rule 2179)]
 
 History:
