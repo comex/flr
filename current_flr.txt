@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5388
+Last proposal with recorded effect on this ruleset: 5389
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -3957,7 +3957,7 @@ Amended(25) by Proposal 5341 (Goethe), 8 December 2007
 
 ----------------------------------------------------------------------
 
-Rule 1922/21 (Power=1)
+Rule 1922/22 (Power=1)
 Defined Regular Patent Titles
 
       The following are Patent Titles:
@@ -3995,11 +3995,12 @@ Defined Regular Patent Titles
            wins the game.  The Herald's report includes how the player
            won.
 
-      (e)  Minister Without Portfolio, to be awarded to any player who
-           wins the game and does not already bear the title.  If the
-           number of players bearing this title is greater than the
-           number of Prerogatives defined by the rules, then this
-           title is administratively revoked from the Speaker.
+      (e)  Minister Without Portfolio, to be awarded by the Herald to
+           any player who wins the game and does not already bear the
+           title.  If the number of players bearing this title is
+           greater than the number of Prerogatives defined by the
+           rules, then this title is administratively revoked from the
+           Speaker.
 
 History:
 Created by Proposal 3916 (harvel), Sep. 27 1999
@@ -4024,6 +4025,7 @@ Amended(18) by Proposal 5257 (AFO), 27 October 2007
 Amended(19) by Proposal 5290 (comex), 14 November 2007
 Amended(20) by Proposal 5300 (Murphy), 28 November 2007
 Amended(21) by Proposal 5341 (Goethe), 8 December 2007
+Amended(22) by Proposal 5389 (Goethe), 1 January 2008
 
 ----------------------------------------------------------------------
 
