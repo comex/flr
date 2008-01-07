@@ -1586,6 +1586,11 @@ Assets
 report is the complete list of ownerships of assets of that class; a
 partial list does not self-ratify.]
 
+[CFJ 1850 (called 22 December 2007): The general ability of the
+recordkeepor to create assets does not include an ability to determine
+who possesses them when created, so they are necessarily owned by the
+Bank upon creation.]
+
 History:
 Created by Proposal 5173 (Murphy), 29 August 2007
 Amended(1) by Proposal 5216 (Murphy), 13 September 2007
