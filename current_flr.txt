@@ -1748,6 +1748,9 @@ event for the purposes of rule 1769.]
 [CFJ 1434 (called 24 January 2003): The expiration of a rule-defined
 period is an event for the purposes of rule 1769.]
 
+[CFJ 1859 (called 2 January 2008): Rule 1769 does not cause extension
+of voting periods that start before a holiday and end during it.]
+
 [CFJ 1480 (called 5 January 2004): An automatic event specified to
 occur at regular calendar intervals, for example quarterly, happens at
 its specified time even if that is during a holiday.]
