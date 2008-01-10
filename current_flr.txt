@@ -402,6 +402,9 @@ Truthfulness
 violation of rule 2149, depending on the context of the rest of the
 message.]
 
+[CFJ 1849 (called 21 December 2007): Violation of rule 2149 can occur
+without any intent to misdirect.]
+
 History:
 Created by Proposal 4990 (Zefram), 6 June 2007
 Amended(1) by Proposal 5075 (Zefram), 18 July 2007
