@@ -3651,6 +3651,11 @@ Criminal Cases
 expressed in the form "violating rule NNNN by XXX", the alleged act
 for the purposes of the rules is only "XXX".]
 
+[CFJ 1845 (called 20 December 2007): Mentioning a rule in a section
+labelled "arguments" in a message that attempts to initiate a criminal
+case does not constitute clearly specifying the rule allegedly
+breached.]
+
 [CFJ 1804 (called 19 November 2007): A verdict of EXCUSED is
 appropriate where a person mistakenly, in good faith, believes that
 eir action is legal when it is not.]
