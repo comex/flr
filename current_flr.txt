@@ -257,6 +257,12 @@ Rules do not provide a time limit for the performance of that duty.]
 other players are unable to follow a particular rule is not in itself
 a violation of that rule.]
 
+[CFJ 1856 (called 29 December 2007): The requirement that "no
+interpretation of Agoran law may abridge ... a person's defined
+rights" means that it must be feasible, given the practical limits of
+Agoran evidence-gathering, to remain reasonably sure that a person's
+defined rights are not being limited.]
+
 [CFJ 1768 (called 22 October 2007): The right of participation in the
 fora is the right to participate in them for their intended purposes,
 and is not necessarily infringed by regulations regarding the manner
@@ -4115,6 +4121,12 @@ the contract by announcement.]
 [CFJ 1455 (called 14 March 2003): A contract cannot cause an
 otherwise-insignificant action by a non-party to constitute consent to
 be bound by the contract.]
+
+[CFJ 1856 (called 29 December 2007): A contract is null and void if
+the courts do not have sufficient evidence that a person's
+contract-related rights (in rule 101) are not being infringed.  This
+includes evidence that the party to the contract has reviewed the
+rules and has direct prior knowledge of the fora.]
 
 [CFJ 1686 (called 7 June 2007): A person who is not a party to an
 agreement categorically cannot violate it.]
