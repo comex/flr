@@ -2221,6 +2221,10 @@ Voting on Agoran Decisions
 [CFJ 1609 (called 13 January 2007): To "clearly identif[y] the matter
 to be decided" does not necessarily require specifying it in detail.]
 
+[CFJs 1852-1853 (called 23 December 2007): Claiming to submit more
+votes than ones voting limit on the decision does not constitute the
+making of a false statement.]
+
 History:
 Initial Mutable Rule 207, Jun. 30 1993
 Amended by Proposal 683 (Jeffrey S.), Nov. 10 1993
@@ -2923,6 +2927,9 @@ Voting Credits
       Herald      - Violet, Indigo
       Scorekeepor - Yellow
       Accountor   - all others
+
+[CFJ 1854 (called 24 December 2007): It is not possible to spend VCs
+that one does not own.]
 
 [CFJs 1826-1827 (called 6 December 2007): a decrease of VVLOP cannot
 be by a negative number.]
