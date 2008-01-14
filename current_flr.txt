@@ -1261,6 +1261,10 @@ person, if there is no doubt regarding who holds that office.]
 extensive effort to interpret correctly, can constitute a sufficient
 degree of unclarity as to render the message ineffective.]
 
+[CFJ 1840 (called 20 December 2007): A proper noun that has not been
+explicitly defined does not adequately refer to any entity, and is not
+implicitly defined by the context in which it is used.]
+
 [CFJ 1580 (called 12 January 2006): Base64 encoding of (part of) a
 message, other than in the context of MIME with appropriate headers,
 can render a message ineffective for unclarity, because the decoding
