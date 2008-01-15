@@ -4141,6 +4141,9 @@ Contracts
       A public contract is a contract that identifies itself as such.
       Any other contract is private.
 
+[CFJ 1872 (called 15 January 2008): Being a player is not a
+prerequisite for becoming party to a contract.]
+
 [CFJ 1796 (called 14 November 2007): If a person announces that e
 agrees to be bound by a particular text as a contract, without saying
 who this agreement is with, and the contract text does not regulate
