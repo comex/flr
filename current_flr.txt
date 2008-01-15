@@ -3058,6 +3058,9 @@ Prerogatives
          announcement; this decreases its quorum to 3, rules to the
          contrary notwithstanding.
 
+[CFJ 1870 (called 15 January 2008): Once assigned, a prerogative stays
+assigned until it is reassigned to a different person.]
+
 History:
 Created by Proposal 4276 (Steve), 28 March 2002
 Amended(1) by Proposal 4576 (root), 31 May 2004
@@ -3667,7 +3670,7 @@ labelled "arguments" in a message that attempts to initiate a criminal
 case does not constitute clearly specifying the rule allegedly
 breached.]
 
-[CFJ 1857a (called 10 January 2007): Ignorance of the law is not
+[CFJs 1857-1858 (called 31 December 2007): Ignorance of the law is not
 appropriate grounds for a verdict of UNAWARE.]
 
 [CFJ 1804 (called 19 November 2007): A verdict of EXCUSED is
