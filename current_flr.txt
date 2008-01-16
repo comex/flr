@@ -1291,6 +1291,10 @@ ineffective.]
 [CFJ 712: Referring to a Player by a method other than eir name or
 nickname is acceptable, as long as it is unambiguous.]
 
+[CFJ 1861 (called 8 January 2008): A player's legal name (legal in eir
+country of residence) is not necessarily an acceptable way to refer to
+em.]
+
 [CFJ 1782 (called 4 November 2007): Referring to a player by the name
 of an office that e holds suffices to identify em uniquely as a
 person, if there is no doubt regarding who holds that office.]
