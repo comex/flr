@@ -1,24 +1,24 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5394
+Last proposal with recorded effect on this ruleset: 5395
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
-      highest orderly: 2190
+      highest orderly: 2191
       disorderly: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 107
+Current total number of rules: 108
 
 Power distribution:
        1 with Power=4
       26 with Power=3
       31 with Power=2
        5 with Power=1.7
-       3 with Power=1.5
+       4 with Power=1.5
       41 with Power=1
 
 ----------------------------------------------------------------------
@@ -145,6 +145,7 @@ Index of Rules
       Rule 1742: Contracts
       Rule 2178: Public Contracts
       Rule 2173: The Notary
+      Rule 2191: Pledges
       Rule 2145: Partnerships
       Rule 2174: Aliens
       Rule 2136: Contests
@@ -4341,6 +4342,26 @@ knowledge.]
 
 History:
 Created by Proposal 5254 (AFO), 18 October 2007
+
+----------------------------------------------------------------------
+
+Rule 2191/0 (Power=1.5)
+Pledges
+
+      A pledge is a contract identifying itself as such.  The minimum
+      number of parties for a pledge is one.
+
+      A pledge CAN be modified or terminated by any party without
+      objection.
+
+      An equity case regarding a pledge CAN be initiated by a
+      non-party, provided that all other requirements for initiating
+      an equity case are met.  The initiator of such a case is
+      considered to be a party to the pledge for the purpose of that
+      case.
+
+History:
+Created by Proposal 5395 (Murphy), 16 January 2008
 
 ----------------------------------------------------------------------
 
