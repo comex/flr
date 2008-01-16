@@ -1,25 +1,25 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5403
+Last proposal with recorded effect on this ruleset: 5404
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
-      highest orderly: 2193
+      highest orderly: 2195
       disorderly: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 108
+Current total number of rules: 109
 
 Power distribution:
        1 with Power=4
       26 with Power=3
-      31 with Power=2
+      33 with Power=2
        5 with Power=1.7
        5 with Power=1.5
-      40 with Power=1
+      39 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -116,8 +116,9 @@ Index of Rules
       Rule 1950: Voting on Democratic Proposals
       Rule 2156: Voting on Ordinary Proposals
       Rule 2134: Win by Clout
-      Rule 2126: Voting Credits
-      Rule 2155: Parties
+      Rule 2126: Ribbons
+      Rule 2194: Notes
+      Rule 2195: Rests
       Rule 2142: Support Democracy
       Rule 2019: Prerogatives
       Rule 2188: Win by Proposal
@@ -992,7 +993,7 @@ published with the registrar's report, is part of the game state, even
 though it is not mentioned in the rules and no one is obliged to track
 or publish it.]
 
-[Cross-references (1 January 2008): the Registrar's duties are:
+[Cross-references (16 January 2008): the Registrar's duties are:
   * report senators (rule 2177)
   * track citizenship (rule 869)
   * report players' identity and contact details (rule 2139)
@@ -1001,8 +1002,7 @@ or publish it.]
   * track player activity and report change dates (rule 2130)
   * track forum publicity (rule 478)
   * report fora (rule 478)
-  * change the publicity of a forum (rule 478)
-  * announce white VC awards and penalties (rule 2126)]
+  * change the publicity of a forum (rule 478)]
 
 History:
 Created by Proposal 4939 (Murphy), 29 April 2007
@@ -1955,11 +1955,10 @@ The International Associate Director of Personnel
 [CFJ 1672 (called 18 May 2007): The International Associate Director
 of Personnel is the Director of Personnel.]
 
-[Cross-references (1 January 2008): the IADoP's duties are:
+[Cross-references (16 January 2008): the IADoP's duties are:
   * hold election for office where contested (rule 2154)
   * attempt to change officeholders quarterly (rule 2154)
   * report officeholding (rule 2138)
-  * announce green and cyan VC awards and penalties (rule 2126)
   * award long service patent titles (rule 1922)]
 
 History:
@@ -2212,13 +2211,11 @@ The Assessor
 [CFJs 1758-1759 (called 30 September 2007): if Assessorship changes
 hands, vote collection duties move with it.]
 
-[Cross-references (1 January 2008): the Assessor's duties are:
+[Cross-references (16 January 2008): the Assessor's duties are:
   * report date of most recent emergency session (rule 2177)
   * report roll call of most recent emergency session (rule 2177)
   * default vote collector for Agoran decisions (rule 2137)
-  * report EVLOP (rule 2156)
-  * recordkeepor of VCs (rule 2126)
-  * announce red and orange VC awards and penalties (rule 2126)]
+  * report EVLOP (rule 2156)]
 
 History:
 Created by Proposal 4939 (Murphy), 29 April 2007
@@ -2831,167 +2828,80 @@ Amended(3) by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
 
 ----------------------------------------------------------------------
 
-Rule 2126/48 (Power=2)
-Voting Credits
+Rule 2126/49 (Power=2)
+Ribbons
 
-      Voting Credits (VCs) are a class of fixed assets that can be
-      used to affect voting limits on ordinary proposals.  Changes to
-      VC holdings are secured.  Ownership of VCs is restricted to
-      players.
+      Ribbons are a class of fixed assets.  Changes to Ribbon holdings
+      are secured.  Ownership of Ribbons is restricted to players.
 
-      Each VC has exactly one color.  Colors with different names are
-      distinct, regardless of spectral proximity.  Each color of VC is
-      a currency.  If a player is meant to lose a VC of a color that e
-      does not possess, then e loses a VC of eir Party's color
-      instead; if e has no VCs at all, then the loss is waived (you
-      can't get blood from a turnip).
+      Each Ribbon has exactly one color.  Colors with different names
+      are distinct, regardless of spectral proximity.  Each color of
+      Ribbon is a currency.
 
-      The Accountor is the recordkeepor of VCs.
+      The Tailor is a low-priority office, and the recordkeepor of
+      Ribbons.
 
-      VCs are gained and lost as follows:
+      Ribbons are gained as follows, unless the player already
+      possesses the color of Ribbon to be gained:
 
-      (+R) When an interested proposal is adopted, its proposer gains
-           a number of Red VCs equal to the proposal's adoption index
-           times its interest index (rounded down to the nearest
-           integer), minus the number of Red VCs that e has gained in
-           this way earlier in the same week (down to a minimum of
-           zero), and each coauthor of the proposal gains one Red VC
-           unless e gained a VC in this way earlier in the same week.
-
-      (-R) When a proposal's voting index is less than half its
-           adoption index, its proposer loses one Red VC, unless e
-           lost a VC in this way earlier in the same week.
+      (+R) When an interested proposal is adopted and changes at least
+           one rule with Power >= 3, its proposer gains a Red Ribbon.
 
       (+O) When an interested proposal is adopted by voting with no
-           valid votes AGAINST, its proposer gains one orange VC
-           unless e gained a VC in this way earlier in the same week.
+           valid votes AGAINST, its proposer gains an Orange Ribbon.
 
-      (-O) When an interested proposal is rejected by voting with no
-           valid votes FOR (other than possibly from its author), and
-           having met quorum, its proposer loses one orange VC, unless
-           e lost a VC in this way earlier in the same week.
+      (+G) At the end of each month, each player who held at least one
+           office continuously during that month gains a Green Ribbon,
+           unless e violated a requirement to submit a report within a
+           time limit.
 
-      (+G) At the end of each month, for each office with a report,
-           the player (if any) who held that office for the majority
-           of that month gains two Green VCs (if the office has a
-           weekly report) or one Green VC (if it has only a monthly
-           report), unless another person deputised for that office
-           while that player held that office during that month.
-
-      (-G) At the end of each month, for each office, for each player
-           who has held that office during that month, if another
-           person deputised for that office while that player held
-           that office during that month then that player loses one
-           Green VC.
-
-      (+C) When a player deputises for an office e gains one cyan VC,
-           unless someone previously gained a VC in this manner for
-           the same office in the same month.
+      (+C) When a player deputises for an office, e gains a Cyan
+           Ribbon.
 
       (+B) When a player assigns a judgement to a judicial question
-           other than a question on sentencing, and has not violated a
-           requirement to submit that judgement within a time limit, e
-           gains one blue VC.
-
-      (-B) A player who is recused from a judicial case with cause
-           loses one Blue VC.  A player who is the prior judge in an
-           appeal case where a judgement other than AFFIRM is assigned
-           to the question on disposition loses one Blue VC.
+           other than a question on sentencing, e gains a Blue Ribbon,
+           unless e violated a requirement to submit that judgement
+           within a time limit.
 
       (+K) When a player assigns a judgement to a judicial question on
-           sentencing, and has not violated a requirement to submit
-           that judgement within a time limit, e gains one black VC.
+           sentencing, e gains a Black Ribbon, unless e violated a
+           requirement to submit that judgement within a time limit.
 
-      (-K) In a criminal case, when a sentence becomes active for the
-           first time the defendant loses one black VC.
-
-      (+W) When a first-class person becomes a player and has never
-           been a player before, e gains one white VC.  When a
-           first-class person has been a player continuously for at
-           least three months and has never been a player before that
-           period, and names another first-class player as eir mentor
-           (and has not named a mentor in this fashion before), e and
-           that player each gain one white VC.
+      (+W) When a first-class person becomes a player for the first
+           time, e gains a White Ribbon.  When a first-class person
+           has been a player continuously for at least three months,
+           was never a player before that period, and names another
+           first-class player as eir mentor (and has not named a
+           mentor in this fashion before), that player gains a White
+           Ribbon.
 
       (+M) When, during Agora's birthday, a player publicly
-           acknowledges the occasion, e gains one magenta VC, unless e
-           previously gained a VC in this manner during the same
-           birthday.
+           acknowledges the occasion, e gains a Magenta Ribbon.
 
       (+U) When a player is awarded the Patent Title Champion, e gains
-           two ultraviolet VCs.
+           an Ultraviolet Ribbon.
 
-      (+V) When a person is awarded a patent title, e gains one violet
-           VC, unless e gained a VC in this way earlier in the same
-           month.
+      (+V) When a player is awarded a Patent Title, e gains a Violet
+           Ribbon, unless e gains a different Ribbon for the award.
 
-      (-V) When a person has a patent title revoked from em, and the
-           instrument that authorises the revocation does not describe
-           the revocation as administrative, e loses one violet VC.
-
-      (+I) When a person is awarded a patent title that is a degree, e
-           gains a number of indigo VCs.  The number depends on the
-           rank of the degree: it is two for the lowest rank, four for
-           the next, and so on increasing by two per rank, up to a
-           maximum of twelve for the sixth and higher ranks.  If the
-           rank of the degree is not adequately defined to apply this
-           rule then the number is two.
-
-      (-*) One second before the end of each month, each entity loses
-           1/5 of eir holdings of each color of VC, rounded down to
-           the nearest integer.
+      (+I) When a player is awarded a degree, e gains an Indigo
+           Ribbon.
 
       (+Y) At the end of each month, for each contest that awarded
            points to at least three different contestants during that
-           month, the contestmaster gains one Yellow VC.
+           month, the contestmaster gains a Yellow Ribbon.
 
-      VCs may be spent as follows, by announcement (INVALID unless the
-      color is specified):
+      If this rule mentions at least six different specific colors for
+      Ribbons, then a player CAN destroy one Ribbon of each such color
+      in eir possession to satisfy the Winning Condition of
+      Renaissance.
 
-      a) A player may spend N+1 VCs, each of a color distinct from the
-         rest, to increase another player's VVLOP by N, where N >= 1.
-
-      b) A player may spend N+2 VCs, each of a color distinct from the
-         rest, to increase eir own VVLOP by N, where N >= 1.
-
-      c) A player may spend N+1 VCs, each of a color distinct from the
-         rest, to decrease another player's VVLOP by N, to a minimum
-         of zero, where N >= 1.
-
-      d) A player may spend N+2 VCs, each of a color distinct from the
-         rest, to multiply another player's VVLOP by (10-N)/10, where
-         1 <= N <= 10.
-
-      e) A player may spend two VCs of the same color to make another
-         player gain one VC of that color.
-
-      z) If this rule mentions at least six different specific colors
-         for VCs, a player may spend one VC of each such color to win
-         the game.
-
-      When a player is awarded the Patent Title Champion, each
-      player's VVLOP is set to eir BVLOP.
-
-      VC awards and penalties SHALL be announced, as soon as possible
-      after they occur, by the following officers:
-
-      Assessor    - Red, Orange
-      IADoP       - Green, Cyan
-      CotC        - Blue, Black
-      Registrar   - White
-      Herald      - Violet, Indigo
-      Scorekeepor - Yellow
-      Accountor   - all others
-
-[CFJ 1854 (called 24 December 2007): It is not possible to spend VCs
-that one does not own.]
-
-[CFJs 1826-1827 (called 6 December 2007): a decrease of VVLOP cannot
-be by a negative number.]
+[Cross-references (16 January 2008): the Tailor's duties are:
+  * recordkeepor of ribbons (rule 2126)]
 
 [Note (30 August 2007): here is a set of colors with convenient
 abbreviating letters, suggested for future inventions of new types of
-VC: Amber, Blue, Cyan, Denim, Emerald, Fern, Green, Heliotrope,
+ribbon: Amber, Blue, Cyan, Denim, Emerald, Fern, Green, Heliotrope,
 Indigo, Jade, blacK, Lime, Magenta, iNfrared, Orange, Pink,
 aQuamarine, Red, Silver, Turquoise, Ultraviolet, Violet, White, flaX,
 Yellow, Zinnwaldite.]
@@ -3047,20 +2957,105 @@ Amended(45) by Proposal 5341 (Goethe), 8 December 2007
 Amended(46) by Proposal 5378 (root), 1 January 2008
 Amended(47) by Proposal 5379 (root; disi.), 1 January 2008
 Amended(48) by Proposal 5385 (Murphy; disi.), 1 January 2008
+Retitled by Proposal 5404 (Murphy, pikhq, root), 16 January 2008
+Amended(49) by Proposal 5404 (Murphy, pikhq, root), 16 January 2008
 
 ----------------------------------------------------------------------
 
-Rule 2155/1 (Power=1)
-Parties
+Rule 2194/0 (Power=2)
+Notes
 
-      Each player's Party is the color of VC that e possesses the most
-      of, or Gray if e possesses none.  Ties are lost by the color(s)
-      that e gained most recently; ties not resolved by this method
-      are won by the color that comes first in alphabetical order.
+      Notes are a class of fixed assets.  Ownership of Notes is
+      restricted to players.  Changes to Note holdings are secured.
+
+      Each Note has exactly one pitch from the chromatic scale
+      (ignoring octaves, and treating enharmonics as equivalent).
+      Each pitch of Note is a currency.
+
+      The Conductor is an office, and the recordkeepor of Notes.
+
+      Notes are gained as follows:
+
+      (1) At the end of each week, for each player, let X be the
+          number of eir proposals that were adopted during that week,
+          and let Y be the number of eir interested quorate proposals
+          that were rejected during that week with VI >= AI/2:
+
+          (F)  If X > Y > 0, then e gains an F Note.
+          (F#) If X > Y = 0, then e gains an F# Note.
+          (G)  If X = Y > 0, then e gains a G Note.
+          (Ab) If Y > X = 0, then e gains an Ab Note.
+          (A)  If Y > X > 0, then e gains an A Note.
+
+      (2) (E)  At the end of each week, each player who published at
+               least one weekly report during that week gains an E
+               Note.
+
+          (Eb) At the end of each month, each player who published at
+               least one monthly report during that month gains an Eb
+               Note.
+
+      (3) (D)  At the end of each week, each player who published at
+               least one on-time judgement during that week gains a D
+               Note.
+
+      (4) (C)  At the end of each week, each player who gained at
+               least one Point during that week gains a C Note.
+
+          (C#) At the end of each week, each contestmaster who awarded
+               at least one Point during that week gains a C# Note.
+
+      Notes CAN be spent (destroyed) as follows:
+
+      (1) A player CAN spend three Notes forming a major chord to
+          increase another player's VVLOP by 1.
+
+      (2) A player CAN spend five Notes forming the start of a major
+          scale to increase eir own VVLOP by 1.
+
+      (3) A player CAN spend three Notes forming a minor chord to
+          decrease another player's VVLOP by 1.
+
+      (4) A player CAN spend two Notes of the same pitch to make
+          another player gain one Note of that pitch.
+
+      (5) During Agora's Birthday, a player CAN spend Notes forming
+          the melody "Happy Birthday" (GGAGCB GGAGDC GGGECBA FFECDC or
+          a translation thereof) to satisfy the Winning Condition of
+          Musicianship, unless another player has already done so
+          during that Birthday.
+
+[CFJs 1826-1827 (called 6 December 2007): a decrease of VVLOP cannot
+be by a negative number.]
+
+[Cross-references (16 January 2008): the Conductor's duties are:
+  * recordkeepor of notes (rule 2194)
+  * recordkeepor of notes (rule 2195)
+  * convert rests to notes (rule 2195)
+  * trigger repeal of rests (rule 2195)]
 
 History:
-Created by Proposal 5076 (Murphy), 18 July 2007
-Amended(1) by Proposal 5215 (Murphy), 13 September 2007
+Created by Proposal 5404 (Murphy, pikhq, root), 16 January 2008
+
+----------------------------------------------------------------------
+
+Rule 2195/0 (Power=2)
+Rests
+
+      Rests are a fixed currency.  Ownership of Rests is restricted
+      to players.  Changes to Rest holdings are secured.
+
+      The Conductor is the recordkeepor of Notes.
+
+      Whenever a player possesses a Rest, the Conductor CAN destroy
+      it and award a Note of random pitch to that player, and SHALL
+      do so as soon as possible.
+
+      Upon a correct announcement by the Conductor that no player
+      possesses a Rest, this rule is repealed.
+
+History:
+Created by Proposal 5404 (Murphy, pikhq, root), 16 January 2008
 
 ----------------------------------------------------------------------
 
@@ -3178,11 +3173,10 @@ involved accept it as unambiguous at the time.]
 [CFJ 1355 (called 28 April 2002): Titles for CFJs are unregulated, so
 it is possible for a title to be assigned to a CFJ informally.]
 
-[Cross-references (1 January 2008): the Clerk of the Courts' duties
+[Cross-references (16 January 2008): the Clerk of the Courts' duties
 are:
   * issue Writ of FAGE (rule 1789)
   * not assign judges during holiday (rule 1769)
-  * announce blue and black VC awards and penalties (rule 2126)
   * prefer judicial panels containing the Default Justice (rule 2019)
   * report open judicial cases (rule 991)
   * manage ID numbers of non-appeal judicial cases (rule 991)
@@ -3596,7 +3590,7 @@ Amended(23) by Proposal 5371 (Zefram), 20 December 2007
 
 ----------------------------------------------------------------------
 
-Rule 1504/20 (Power=1.7)
+Rule 1504/21 (Power=1.7)
 Criminal Cases
 
       There is a subclass of judicial case known as a criminal case.
@@ -3693,13 +3687,12 @@ Criminal Cases
         this type are assigned more than once or go into effect more
         than once.
 
-      * FINE with an integer from 1 to 100, appropriate for rule
-        breaches of small consequence.  When in effect, the ninny
-        SHALL within 72 hours destroy the specified number of Marks,
-        or 1 VC, of the color(s) of eir choice.  The ninny is only
-        obliged to perform one destruction per question on sentencing,
-        even if sentences of this type are assigned more than once or
-        go into effect more than once.
+      * FINE, appropriate for rule breaches of small consequence.
+        When in effect, the ninny SHALL within 72 hours destroy one of
+        eir Notes.  The ninny is only obliged to perform one
+        destruction per question on sentencing, even if sentences of
+        this type are assigned more than once or go into effect more
+        than once.
 
       * CHOKEY with a duration (the tariff) up to 60 days multiplied
         by the power of the highest-power rule allegedly broken,
@@ -3774,6 +3767,7 @@ Amended(17) by Proposal 5294 (Murphy), 22 November 2007
 Amended(18) by Proposal 5349 (Murphy), 13 December 2007
 Amended(19) by Proposal 5371 (Zefram), 20 December 2007
 Amended(20) by Proposal 5386 (Murphy, Zefram), 1 January 2008
+Amended(21) by Proposal 5404 (Murphy, pikhq, root), 16 January 2008
 
 ----------------------------------------------------------------------
 
@@ -4029,8 +4023,7 @@ more than one instance of a patent title simultaneously.]
 title X, and X is not also defined by the rules to have some special
 meaning, it is correct to say that that person "is an X".]
 
-[Cross-references (1 January 2008): the Herald's duties are:
-  * announce violet and indigo VC awards and penalties (rule 2126)
+[Cross-references (16 January 2008): the Herald's duties are:
   * report Patent Titles (rule 649)
   * announce award or revocation of Patent Title (rule 649)
   * award patent title of Champion (rule 1922)
@@ -4490,8 +4483,7 @@ Points
       The Scorekeepor is a high-priority office, and the recordkeepor
       of points.
 
-[Cross-references (1 January 2008): the Scorekeepor's duties are:
-  * announce yellow VC awards and penalties (rule 2126)
+[Cross-references (16 January 2008): the Scorekeepor's duties are:
   * recordkeepor of points (rule 2179)]
 
 History:
