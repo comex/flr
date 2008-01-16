@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5401
+Last proposal with recorded effect on this ruleset: 5403
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -18,8 +18,8 @@ Power distribution:
       26 with Power=3
       31 with Power=2
        5 with Power=1.7
-       4 with Power=1.5
-      41 with Power=1
+       5 with Power=1.5
+      40 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -4196,7 +4196,7 @@ Contract Law
       within this nomic.
 ----------------------------------------------------------------------
 
-Rule 1742/11 (Power=1.5)
+Rule 1742/12 (Power=1.5)
 Contracts
 
       Any group of two or more persons may make an agreement among
@@ -4214,9 +4214,6 @@ Contracts
       accordance with that contract.  This obligation is not impaired
       by contradiction between the contract and any other contract, or
       between the contract and the rules.
-
-      A public contract is a contract that identifies itself as such.
-      Any other contract is private.
 
 [CFJ 1872 (called 15 January 2008): Being a player is not a
 prerequisite for becoming party to a contract.]
@@ -4285,28 +4282,35 @@ Power changed from 1 to 1.5 by Proposal 5086 (Zefram), 1 August 2007
 Amended(9) by Proposal 5086 (Zefram), 1 August 2007
 Amended(10) by Proposal 5254 (AFO), 18 October 2007
 Amended(11) by Proposal 5362 (root), 20 December 2007
+Amended(12) by Proposal 5403 (Murphy, Goethe), 16 January 2008
 
 ----------------------------------------------------------------------
 
-Rule 2178/1 (Power=1)
+Rule 2178/2 (Power=1.5)
 Public Contracts
 
-      A member of a contract CAN identify the contract as a public
-      contract by publishing its text with a notice of intent from the
-      contract be a public contract.  The notice of intent MUST
-      consist of one or more of:
+      A public contract is a contract that has been identified as
+      such, as specified by this rule.  Any other contract is private.
 
-      (a) a clause in the contract identifying it as public;
+      A member of a contract CAN identify it as a public contract by
+      publishing its text and membership, provided that at least one
+      of the following is true:
 
-      (b) a notice indicating unanimous consent of members that the
-          contract be public;
+        (a) The contract contains a clause identifying it as public.
 
-      (c) a notice published without objection of its members, that
-          the contract be public.
+        (b) The publication is accompanied by a notice, indicating
+            unanimous consent of members, that the contract be public.
 
-      If the text of a potential contract is published by a person
-      with a clear indication that the contract will be public when it
-      forms, then it becomes public immediately upon becoming a
+        (c) The publication is accompanied by a notice, published
+            without objection of its members, that the contract be
+            public.
+
+      A partnership CAN identify its contract as a public contract by
+      publishing its text and membership.
+
+      If the text of a potential contract is published with a clear
+      indication that the contract will be public when it forms, then
+      it is identified as a public contract when it becomes a
       contract.
 
       Changes in the text or membership of a public contract do not
@@ -4315,6 +4319,9 @@ Public Contracts
 History:
 Created by Proposal 5328 (Goethe), 5 December 2007
 Amended(1) by Proposal 5380 (Goethe), 1 January 2008
+Power changed from 1 to 1.5 by Proposal 5403 (Murphy, Goethe),
+  16 January 2008
+Amended(2) by Proposal 5403 (Murphy, Goethe), 16 January 2008
 
 ----------------------------------------------------------------------
 
