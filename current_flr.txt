@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5396
+Last proposal with recorded effect on this ruleset: 5397
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -4424,7 +4424,7 @@ Created by Proposal 5274 (Murphy), 7 November 2007
 
 ----------------------------------------------------------------------
 
-Rule 2136/16 (Power=1)
+Rule 2136/17 (Power=1)
 Contests
 
       A first-class player who is a member of an existing public
@@ -4447,6 +4447,12 @@ Contests
       contestmaster to other members by public announcement, and MUST
       be awarded as explicitly described in the contract.
 
+      The total number of points a Contest MAY revoke in a given week
+      is equal to 2 times the number of its members that are first-
+      class players.  Points up to this total CAN be revoked by the
+      contestmaster from other members by public announcement, and
+      MUST be revoked as explicitly described in the contract.
+
 History:
 Created by Proposal 4935 (Murphy), 29 April 2007
 Amended(1) by Proposal 4960 (OscarMeyr), 3 June 2007
@@ -4465,6 +4471,7 @@ Amended(13) by Proposal 5305 (comex, Goethe), 24 November 2007
 Amended(14) by Proposal 5302 (Zefram), 28 November 2007
 Amended(15) by Proposal 5328 (Goethe), 5 December 2007
 Amended(16) by Proposal 5362 (root), 20 December 2007
+Amended(17) by Proposal 5397 (Murphy), 16 January 2008
 
 ----------------------------------------------------------------------
 
