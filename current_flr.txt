@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5397
+Last proposal with recorded effect on this ruleset: 5400
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -941,7 +941,7 @@ Amended(25) by Proposal 5271 (Murphy), 7 November 2007
 
 ----------------------------------------------------------------------
 
-Rule 2144/7 (Power=1)
+Rule 2144/8 (Power=1)
 Limited Partnerships
 
       A partnership SHALL NOT register if its basis is the same as
@@ -953,9 +953,6 @@ Limited Partnerships
       If a registered partnership has the same basis as another
       player, any player CAN deregister it with Agoran Consent.
 
-      If a registered partnership is not a public contract, it can be
-      degregistered with Support.
-
 History:
 Created by Proposal 4971 (Human Point Two), 23 May 2007
 Amended(1) by Proposal 5022 (Murphy), 25 June 2007
@@ -965,6 +962,7 @@ Amended(4) by Proposal 5045 (BobTHJ), 1 July 2007
 Amended(5) by Proposal 5061 (Zefram), 9 July 2007
 Amended(6) by Proposal 5375 (root), 1 January 2008
 Amended(7) by Proposal 5380 (Goethe), 1 January 2008
+Amended(8) by Proposal 5400 (woggle; disi.), 16 January 2008
 
 ----------------------------------------------------------------------
 
