@@ -1,17 +1,17 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5391
+Last proposal with recorded effect on this ruleset: 5392
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
-      highest orderly: 2184
+      highest orderly: 2185
       disorderly: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 101
+Current total number of rules: 102
 
 Power distribution:
        1 with Power=4
@@ -19,7 +19,7 @@ Power distribution:
       25 with Power=2
        5 with Power=1.7
        3 with Power=1.5
-      41 with Power=1
+      42 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -4623,6 +4623,28 @@ performed on behalf of Agora.]
 
 History:
 Created by Proposal 5246 (Levi), 14 October 2007
+
+----------------------------------------------------------------------
+
+Rule 2185/0 (Power=1)
+Foreign Relations
+
+      Recognition is a foreign nomic switch, tracked by the
+      Ambassador, with values Unknown (default), Protected, Friendly,
+      Neutral, Sanctioned, Hostile, and Abandoned.
+
+      When a foreign nomic becomes a Protectorate, its Recognition
+      becomes Protected.  When a foreign nomic ceases to be a
+      Protectorate, its Recognition becomes Unknown.  A foreign
+      nomic's Recognition CANNOT change to or from Protected in any
+      other way.
+
+      The Ambassador CAN, without objection, flip a foreign nomic's
+      Recognition to any value (subject to the above restriction).  E
+      SHALL inform that nomic of the change as soon as possible.
+
+History:
+Created by Proposal 5392 (Murphy), 16 January 2008
 
 ----------------------------------------------------------------------
 
