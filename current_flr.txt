@@ -3104,8 +3104,8 @@ Prerogatives
          announcement; this decreases its quorum to 3, rules to the
          contrary notwithstanding.
 
-[CFJ 1870 (called 15 January 2008): Once assigned, a prerogative stays
-assigned until it is reassigned to a different person.]
+[CFJ 1870 (called 15 January 2008): A prerogative assigned for a
+particular month is lost at the end of that month.]
 
 History:
 Created by Proposal 4276 (Steve), 28 March 2002
