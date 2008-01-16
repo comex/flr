@@ -1,17 +1,17 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5389
+Last proposal with recorded effect on this ruleset: 5390
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
-      highest orderly: 2183
+      highest orderly: 2184
       disorderly: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 100
+Current total number of rules: 101
 
 Power distribution:
        1 with Power=4
@@ -19,7 +19,7 @@ Power distribution:
       25 with Power=2
        5 with Power=1.7
        3 with Power=1.5
-      40 with Power=1
+      41 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -154,6 +154,7 @@ Index of Rules
       Rule 2135: Advertising
       Rule  402: Identity of the Speaker
       Rule  103: Role of the Speaker
+      Rule 2184: Foreign communications
       Rule 2148: The Ambassador
       Rule 2172: Acting on Behalf of Agora
       Rule 2147: Protectorates
@@ -4553,6 +4554,18 @@ Retitled by Proposal 4944 (Zefram), 3 May 2007
 Amended(2) by Proposal 4944 (Zefram), 3 May 2007
 Retitled by Proposal 5257 (AFO), 27 October 2007
 Amended(3) by Proposal 5257 (AFO), 27 October 2007
+
+----------------------------------------------------------------------
+
+Rule 2184/0 (Power=1)
+Foreign communications
+
+      When the Ambassador informs a foreign nomic of an event, e SHALL
+      use the forum (if any) specified by that nomic for announcing
+      that type of event.
+
+History:
+Created by Proposal 5390 (Murphy), 16 January 2008
 
 ----------------------------------------------------------------------
 
