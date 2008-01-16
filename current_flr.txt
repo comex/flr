@@ -4702,9 +4702,12 @@ The Ambassador
       All players are prohibited from falsely claiming, to any nomic,
       to be the ambassador.
 
-[Cross-references (13 August 2007): the Ambassador's duties are:
+[Cross-references (16 January 2008): the Ambassador's duties are:
   * advertise Agora (rule 2135)
+  * use appropriate forum when notifying foreign nomic (rule 2184)
   * exercise diplomatic privileges in foreign nomics (rule 2148)
+  * track recognition (rule 2185)
+  * flip recognition (rule 2185)
   * make foreign nomic a protectorate (rule 2147)
   * check that protectorates still meet the criteria (rule 2147)
   * report on protectorates (rule 2147)
