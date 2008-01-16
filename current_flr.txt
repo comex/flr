@@ -1,17 +1,17 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5395
+Last proposal with recorded effect on this ruleset: 5396
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
-      highest orderly: 2191
+      highest orderly: 2193
       disorderly: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 108
+Current total number of rules: 110
 
 Power distribution:
        1 with Power=4
@@ -19,7 +19,7 @@ Power distribution:
       31 with Power=2
        5 with Power=1.7
        4 with Power=1.5
-      41 with Power=1
+      43 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -35,6 +35,7 @@ Index of Categories
       * Adjudication
       * Patent Titles and Degrees
       * Contract Law
+      * Frankenstein's Monster
       * Foreign Relations
       * Trophies
 
@@ -154,6 +155,10 @@ Index of Rules
       Rule 2180: Locations
       Rule 2182: Making Wagers
       Rule 2183: Resolving Wagers
+
+      * Frankenstein's Monster
+      Rule 2193: The Monster
+      Rule 2192: The Mad Scientist
 
       * Foreign Relations
       Rule 2135: Advertising
@@ -4566,6 +4571,57 @@ Resolving Wagers
 
 History:
 Created by Proposal 5373 (Levi, Murphy), 22 December 2007
+
+----------------------------------------------------------------------
+
+======================================================================
+Frankenstein's Monster
+      A category concerning a monstrous subgame ragarding the cobbling
+      together of a rule from salvaged parts.
+----------------------------------------------------------------------
+
+Rule 2193/0 (Power=1)
+The Monster
+
+      Raaaaaaaaaaaaaargh!
+
+History:
+Created by Proposal 5396 (Murphy), 16 January 2008
+
+----------------------------------------------------------------------
+
+Rule 2192/0 (Power=1)
+The Mad Scientist
+
+      The Mad Scientist is an office; its holder is responsible for
+      building the Monster.
+
+      At least once each week, the Mad Scientist SHALL:
+
+      a) Randomly select exactly one rule.  If the selected rule is
+         either this rule or the rule "The Monster", then the
+         villagers have shown up with torches and pitchforks; skip
+         directly to proposal submission.
+
+      b) Select one or more contiguous sentences from the selected
+         rule.
+
+      c) Select exactly one noun from the selected text, and replace
+         each instance of that noun with "Monster" (including
+         grammatical variations, e.g. replacing "<noun>'s" with
+         "Monster's").
+
+      d) Submit a proposal, with adoption index equal to the Power of
+         the selected rule, and interest index 0, to append the
+         modified text to the rule "The Monster" (or, if the villagers
+         have shown up with torches and pitchforks, to repeal both
+         that rule and this one).
+
+[Cross-references (16 January 2008): the Mad Scientist's duties are:
+  * propose mutation of the monster (rule 2192)]
+
+History:
+Created by Proposal 5396 (Murphy), 16 January 2008
 
 ----------------------------------------------------------------------
 
