@@ -1,25 +1,25 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5392
+Last proposal with recorded effect on this ruleset: 5394
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
-      highest orderly: 2185
+      highest orderly: 2190
       disorderly: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 102
+Current total number of rules: 107
 
 Power distribution:
        1 with Power=4
       26 with Power=3
-      25 with Power=2
+      31 with Power=2
        5 with Power=1.7
        3 with Power=1.5
-      42 with Power=1
+      41 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -49,6 +49,7 @@ Index of Rules
       Rule 1688: Power
       Rule 2140: Power Controls Mutability
       Rule 2149: Truthfulness
+      Rule 2186: Victory
       Rule 2110: Win by Paradox
       Rule 2177: The Senate
 
@@ -113,11 +114,12 @@ Index of Rules
       Rule 1698: The Proposal System Is Protected
       Rule 1950: Voting on Democratic Proposals
       Rule 2156: Voting on Ordinary Proposals
-      Rule 2134: Voting Limits are Limited
+      Rule 2134: Win by Clout
       Rule 2126: Voting Credits
       Rule 2155: Parties
       Rule 2142: Support Democracy
       Rule 2019: Prerogatives
+      Rule 2188: Win by Proposal
 
       * Adjudication
       Rule  991: Judicial Cases Generally
@@ -129,6 +131,7 @@ Index of Rules
       Rule 2164: Judicial Self-Recusal and Case Transfer
       Rule  591: Inquiry Cases
       Rule 1504: Criminal Cases
+      Rule 2190: Crime Doesn't Pay
       Rule 2169: Equity Cases
       Rule  911: Appeal Cases
       Rule 2171: Rules Viewed as Binding Agreement
@@ -146,6 +149,7 @@ Index of Rules
       Rule 2174: Aliens
       Rule 2136: Contests
       Rule 2179: Points
+      Rule 2187: Win by High Score
       Rule 2180: Locations
       Rule 2182: Making Wagers
       Rule 2183: Resolving Wagers
@@ -157,6 +161,7 @@ Index of Rules
       Rule 2184: Foreign communications
       Rule 2148: The Ambassador
       Rule 2172: Acting on Behalf of Agora
+      Rule 2189: Win by Extortion
       Rule 2147: Protectorates
       Rule 2159: Protective Decrees
 
@@ -421,22 +426,52 @@ Amended(8) by Proposal 5280 (Zefram, Murphy), 7 November 2007
 
 ----------------------------------------------------------------------
 
-Rule 2110/3 (Power=3)
+Rule 2186/0 (Power=2)
+Victory
+
+      Winning Conditions and Losing Conditions exist only as defined
+      by rules.  Defining these things is secured.
+
+      A win announcement is a correct announcement explicitly labeled
+      as a win announcement.
+
+      When one or more persons satisfy at least one Winning Condition
+      and do not satisfy any Losing Conditions, all such persons win
+      the game.  This is the only way to win the game, rules to the
+      contrary notwithstanding.
+
+      Each Winning Condition should (if needed) specify a cleanup
+      procedure to prevent an arbitrary number of wins arising from
+      essentially the same conditions.  When one or more persons win
+      the game, for each Winning Condition satisfied by at least one
+      of those persons, its cleanup procedure occurs.
+
+History:
+Created by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
+  16 January 2008
+
+----------------------------------------------------------------------
+
+Rule 2110/4 (Power=3)
 Win by Paradox
 
-      If an inquiry case on the possibility of a prior or hypothetical
-      rule-defined action, or the permissibility of a prior or
-      hypothetical action, results in a judgement of UNDECIDABLE, and
-      the judgement is not appealed within a week (or is upheld via an
-      appeal decision of AFFIRM), then the initiator of the inquiry
-      case wins the game by paradox if e is a player.  This can only
-      occur once per inquiry case.
+      Upon a judicial finding that the possibility or legality of a
+      rule-defined action (actual or hypothetical, but not arising
+      from that case itself, and not occurring after the initiation of
+      that case) is UNDECIDABLE, the initiator satisfies the Winning
+      Condition of Paradox.
+
+      Cleanup procedure:  Each winner satisfying this Winning
+      Condition SHALL, as soon as possible, make a reasonable attempt
+      to resolve the paradox.
 
 History:
 Created by Proposal 4781 (Sherlock), 3 June 2005
 Amended(1) by Proposal 4891 (Murphy), 22 January 2007
 Amended(2) by Proposal 5195 (Zefram), 6 September 2007
 Amended(3) by Proposal 5297 (Murphy), 22 November 2007
+Amended(4) by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
+  16 January 2008
 
 ----------------------------------------------------------------------
 
@@ -2766,18 +2801,31 @@ Amended(4) by Proposal 5358 (Murphy), 20 December 2007
 
 ----------------------------------------------------------------------
 
-Rule 2134/2 (Power=1)
-Voting Limits are Limited
+Rule 2134/3 (Power=2)
+Win by Clout
 
-      Upon a correct announcement that a single player's EVLOP is
-      greater than the combined EVLOP of all other players, that
-      player wins the game.
+      Upon a win announcement that a specified player's voting limit
+      on an ordinary proposal distributed at that time would exceed
+      the combined voting limits of all other players on that
+      proposal, the specified player satisfies the Winning Condition
+      of Clout.
+
+      Cleanup procedure:  Each player's VVLOP is set to eir BVLOP, and
+      no player satisfies this Winning Condition again (the remainder
+      of this rule notwithstanding) until after the next time that
+      each player's EVLOP is set based on eir VVLOP.
 
 History:
 Created by Proposal 4930 (Goethe), 29 April 2007
 Retitled by Proposal 5222 (root; disi.), 30 September 2007
 Amended(1) by Proposal 5222 (root; disi.), 30 September 2007
 Amended(2) by Proposal 5343 (Murphy), 8 December 2007
+Retitled by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
+  16 January 2008
+Power changed from 1 to 2 by Proposal 5394 (Murphy, Goddess Eris,
+  OscarMeyr, Zefram), 16 January 2008
+Amended(3) by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
+  16 January 2008
 
 ----------------------------------------------------------------------
 
@@ -3077,6 +3125,19 @@ Amended(9) by Proposal 5138 (Zefram; disi.), 17 August 2007
 Retitled by Proposal 5138 (Zefram; disi.), 17 August 2007
 Retitled by Proposal 5257 (AFO), 27 October 2007
 Amended(10) by Proposal 5257 (AFO), 27 October 2007
+
+----------------------------------------------------------------------
+
+Rule 2188/0 (Power=2)
+Win by Proposal
+
+      Upon the adoption of a proposal awarding a win to one or more
+      persons, all those persons satisfy the Winning Condition of
+      Legislation.
+
+History:
+Created by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
+  16 January 2008
 
 ----------------------------------------------------------------------
 
@@ -3711,6 +3772,19 @@ Amended(17) by Proposal 5294 (Murphy), 22 November 2007
 Amended(18) by Proposal 5349 (Murphy), 13 December 2007
 Amended(19) by Proposal 5371 (Zefram), 20 December 2007
 Amended(20) by Proposal 5386 (Murphy, Zefram), 1 January 2008
+
+----------------------------------------------------------------------
+
+Rule 2190/0 (Power=2)
+Crime Doesn't Pay
+
+      Being in exile is a Losing Condition.
+
+      Being in the chokey is a Losing Condition.
+
+History:
+Created by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
+  16 January 2008
 
 ----------------------------------------------------------------------
 
@@ -4368,7 +4442,7 @@ Amended(16) by Proposal 5362 (root), 20 December 2007
 
 ----------------------------------------------------------------------
 
-Rule 2179/0 (Power=1)
+Rule 2179/1 (Power=1)
 Points
 
       Points are a class of fixed assets.  Ownership of points is
@@ -4380,16 +4454,29 @@ Points
       The Scorekeepor is a high-priority office, and the recordkeepor
       of points.
 
-      A player with 100 or more points may win the game by announcing
-      this fact.  Upon such an announcement, each player's score is
-      set to zero.
-
 [Cross-references (1 January 2008): the Scorekeepor's duties are:
   * announce yellow VC awards and penalties (rule 2126)
   * recordkeepor of points (rule 2179)]
 
 History:
 Created by Proposal 5328 (Goethe), 5 December 2007
+Amended(1) by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
+  16 January 2008
+
+----------------------------------------------------------------------
+
+Rule 2187/0 (Power=2)
+Win by High Score
+
+      Upon a win announcement that one or more players have a score of
+      at least 100 (specifying all such players), all those players
+      satisfy the Winning Condition of High Score.
+
+      Cleanup procedure:  Each player's score is set to 0.
+
+History:
+Created by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
+  16 January 2008
 
 ----------------------------------------------------------------------
 
@@ -4610,8 +4697,7 @@ prohibited from acting on behalf of Agora if e does not have Agoran
 Consent.]
 
 [CFJ 1819 (called 3 December 2007): Actions of Agora generally do not
-have significance under the rules of Agora, so (for example) it is not
-possible to award a win by acting on behalf of Agora.]
+have significance under the rules of Agora.]
 
 [CFJ 1714 (called 3 August 2007): Whether a player of Agora can take
 game actions on behalf of Agora in a foreign nomic is determined
@@ -4623,6 +4709,19 @@ performed on behalf of Agora.]
 
 History:
 Created by Proposal 5246 (Levi), 14 October 2007
+
+----------------------------------------------------------------------
+
+Rule 2189/0 (Power=2)
+Win by Extortion
+
+      Upon a player acting on behalf of Agora to award a win to one or
+      more persons, all those persons satisfy the Winning Condition of
+      Extortion.
+
+History:
+Created by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
+  16 January 2008
 
 ----------------------------------------------------------------------
 
