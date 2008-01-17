@@ -4016,6 +4016,11 @@ patent title.]
 [CFJ 1561 (called 29 April 2005): A patent title cannot be borne by a
 non-person.]
 
+[CFJ 1862 (called 10 January 2008): If a person who bears a patent
+title ceases to be a person, e ceases to bear the title as a patent
+title, though it may still exist as something other than a patent
+title.]
+
 [CFJ 1592 (called 1 December 2006): A patent title, once borne, is
 borne until explicitly revoked, even if the rule defining the patent
 title is repealed or the patent title was never defined by a rule.]
