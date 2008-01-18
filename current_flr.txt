@@ -3448,6 +3448,10 @@ that e believes is appropriate, and if e does so in good faith then e
 can be EXCUSED if the judgement is later found to have been
 inappropriate.]
 
+[CFJ 1871 (called 15 January 2008): The appropriateness of a judgement
+is determined solely by the facts of the case, and is independent of
+the reasoning used by a judge to decide on the judgement.]
+
 History:
 Created by Proposal 5086 (Zefram), 1 August 2007
 Amended(1) by Proposal 5151 (root), 29 August 2007
