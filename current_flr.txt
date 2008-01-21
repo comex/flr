@@ -4794,6 +4794,8 @@ Foreign Relations
       Recognition to any value (subject to the above restriction).  E
       SHALL inform that nomic of the change as soon as possible.
 
+[CFJ 1860 (called 8 January 2008): A human is not a nomic.]
+
 History:
 Created by Proposal 5392 (Murphy), 16 January 2008
 
@@ -4879,6 +4881,10 @@ Protective Decrees
 
       All players are prohibited from falsely claiming, to any nomic,
       that a document is a protective decree.
+
+[CFJ 1860 (called 8 January 2008): Falsely claiming, to an entity that
+is neither a nomic nor a means of contacting a nomic, that a document
+is a protective decree is not a violation of rule 2159.]
 
 History:
 Created by Proposal 5091 (Zefram), 25 July 2007
