@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
 Last proposal with recorded effect on this ruleset: 5408
-Last change to this ruleset: by proposal
+Last change to this ruleset: self-repeal of rule 2195
 
 Rule ID numbers:
       highest orderly: 2195
@@ -11,12 +11,12 @@ Rule ID numbers:
 
 Statistics
 
-Current total number of rules: 109
+Current total number of rules: 108
 
 Power distribution:
        1 with Power=4
       26 with Power=3
-      33 with Power=2
+      32 with Power=2
        5 with Power=1.7
        5 with Power=1.5
       39 with Power=1
@@ -118,7 +118,6 @@ Index of Rules
       Rule 2134: Win by Clout
       Rule 2126: Ribbons
       Rule 2194: Notes
-      Rule 2195: Rests
       Rule 2142: Support Democracy
       Rule 2019: Prerogatives
       Rule 2188: Win by Proposal
@@ -3040,31 +3039,8 @@ Notes
 [CFJs 1826-1827 (called 6 December 2007): a decrease of VVLOP cannot
 be by a negative number.]
 
-[Cross-references (16 January 2008): the Conductor's duties are:
-  * recordkeepor of notes (rule 2194)
-  * recordkeepor of notes (rule 2195)
-  * convert rests to notes (rule 2195)
-  * trigger repeal of rests (rule 2195)]
-
-History:
-Created by Proposal 5404 (Murphy, pikhq, root), 16 January 2008
-
-----------------------------------------------------------------------
-
-Rule 2195/0 (Power=2)
-Rests
-
-      Rests are a fixed currency.  Ownership of Rests is restricted
-      to players.  Changes to Rest holdings are secured.
-
-      The Conductor is the recordkeepor of Notes.
-
-      Whenever a player possesses a Rest, the Conductor CAN destroy
-      it and award a Note of random pitch to that player, and SHALL
-      do so as soon as possible.
-
-      Upon a correct announcement by the Conductor that no player
-      possesses a Rest, this rule is repealed.
+[Cross-references (22 January 2008): the Conductor's duties are:
+  * recordkeepor of notes (rule 2194)]
 
 History:
 Created by Proposal 5404 (Murphy, pikhq, root), 16 January 2008
