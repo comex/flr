@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5404
+Last proposal with recorded effect on this ruleset: 5407
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -1839,13 +1839,16 @@ Offices
       within the game.
 ----------------------------------------------------------------------
 
-Rule 1006/22 (Power=2)
+Rule 1006/23 (Power=2)
 Offices
 
       A role is an office if and only if it is so defined by the
       rules.  Each office at any time either is vacant (default) or is
       filled (held) by exactly one player.  The holder of an office is
       an officer, and may be referred to by the name of the office.
+
+      An office is imposed if it is so described by the rule defining
+      it; otherwise, it is elected.
 
 [CFJ 1660 (called 13 May 2007): This rule does not define the meaning
 of the term "office", in the sense meant by rule 754, but rather
@@ -1886,16 +1889,18 @@ Amended(20) by Proposal 5103 (Zefram), 1 August 2007
 Power changed from 1 to 2 by Proposal 5133 (Zefram), 13 August 2007
 Amended(21) by Proposal 5133 (Zefram), 13 August 2007
 Amended(22) by Proposal 5239 (AFO), 3 October 2007
+Amended(23) by Proposal 5407 (root), 22 January 2008
 
 ----------------------------------------------------------------------
 
-Rule 2154/4 (Power=2)
+Rule 2154/5 (Power=2)
 Replacing Officers
 
       Any player CAN make an active player (hereafter the nominee) the
-      holder of an office, thus removing any previous holder from the
-      office, with Agoran Consent, provided that the nominee consents
-      to hold the office after the announcement of intent is made.
+      holder of an elected office, thus removing any previous holder
+      from the office, with Agoran Consent, provided that the nominee
+      consents to hold the office after the announcement of intent is
+      made.
 
       If intent to achieve consent for a nominee is announced as
       above, then any other active player may be nominated for the
@@ -1921,10 +1926,10 @@ Replacing Officers
       chosen nominee becomes the officeholder upon the posting of the
       valid notice.
 
-      Stability is an office switch, tracked by the IADoP, with values
-      Temporal (default) and Perpetual.  Any player CAN flip an
-      office's stability without 2 objections.  A Perpetual office
-      becomes Temporal when its holder leaves office.
+      Stability is an elected office switch, tracked by the IADoP,
+      with values Temporal (default) and Perpetual.  Any player CAN
+      flip an office's stability without 2 objections.  A Perpetual
+      office becomes Temporal when its holder leaves office.
 
       If an office is Temporal at the end of a quarter, and no attempt
       to change the holder of that office with Agoran consent was made
@@ -1939,6 +1944,7 @@ Amended(1) by Proposal 5096 (Murphy; disi.), 25 July 2007
 Amended(2) by Proposal 5108 (Zefram; disi.), 2 August 2007
 Amended(3) by Proposal 5133 (Zefram), 13 August 2007
 Amended(4) by Proposal 5224 (Murphy), 23 September 2007
+Amended(5) by Proposal 5407 (root), 22 January 2008
 
 ----------------------------------------------------------------------
 
@@ -3078,7 +3084,7 @@ Amended(3) by Proposal 5210 (Murphy), 8 September 2007
 
 ----------------------------------------------------------------------
 
-Rule 2019/10 (Power=2)
+Rule 2019/11 (Power=2)
 Prerogatives
 
       As soon as possible after the beginning of the month, the
@@ -3091,8 +3097,8 @@ Prerogatives
       The following Prerogatives are defined:
 
       a) Default Officeholder.  The Default Officeholder CAN become
-         holder of a vacant office by announcement, unless e is
-         prevented from holding that office on an ongoing basis.
+         holder of a vacant elected office by announcement, unless e
+         is prevented from holding that office on an ongoing basis.
 
       b) Default Justice.  Whenever the Clerk of the Courts assigns a
          judicial panel, e SHALL assign one with the Default Justice
@@ -3126,6 +3132,7 @@ Amended(9) by Proposal 5138 (Zefram; disi.), 17 August 2007
 Retitled by Proposal 5138 (Zefram; disi.), 17 August 2007
 Retitled by Proposal 5257 (AFO), 27 October 2007
 Amended(10) by Proposal 5257 (AFO), 27 October 2007
+Amended(11) by Proposal 5407 (root), 22 January 2008
 
 ----------------------------------------------------------------------
 
@@ -4675,8 +4682,10 @@ Amended(23) by Proposal 5270 (Murphy; disi.), 7 November 2007
 
 ----------------------------------------------------------------------
 
-Rule 103/3 (Power=3)
+Rule 103/4 (Power=3)
 Role of the Speaker
+
+      The Speaker is an imposed office.
 
       The Speaker is the figurehead of Agora, embodying its spirit.
       Diplomatic missions from Agora to foreign nomics operate on the
@@ -4690,6 +4699,7 @@ Retitled by Proposal 4944 (Zefram), 3 May 2007
 Amended(2) by Proposal 4944 (Zefram), 3 May 2007
 Retitled by Proposal 5257 (AFO), 27 October 2007
 Amended(3) by Proposal 5257 (AFO), 27 October 2007
+Amended(4) by Proposal 5407 (root), 22 January 2008
 
 ----------------------------------------------------------------------
 
