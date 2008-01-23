@@ -4231,6 +4231,9 @@ agreement categorically cannot violate it.]
 [CFJ 1752 (called 28 September 2007): Deregistration does not
 implicitly cause the ex-player to leave a contract.]
 
+[CFJ 1876 (called 18 January 2008): "Agreement between all parties"
+can only exist if there are at least two parties.]
+
 [CFJ 1770 (called 23 October 2007): Agreement between all the parties,
 to modify or terminate a contract, can be manifested by a contract
 between all the parties, including the contract being modified or
@@ -4358,6 +4361,10 @@ Pledges
       an equity case are met.  The initiator of such a case is
       considered to be a party to the pledge for the purpose of that
       case.
+
+[CFJ 1876 (called 18 January 2008): It is not possible to cease to be
+a party to a pledge which has exactly one party by announcement, even
+if the text of pledge explicitly permits this.]
 
 History:
 Created by Proposal 5395 (Murphy), 16 January 2008
@@ -4525,6 +4532,10 @@ Locations
       permit em to leave it, e CANNOT move to any other location.
 
       The minimum number of parties for a location is zero.
+
+[CFJ 1877 (called 18 January 2008): It is not possible to cease to be
+a party to a location which has exactly one party by announcement,
+even if the text of the location explicitly permits this.]
 
 History:
 Created by Proposal 5362 (root), 20 December 2007
