@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5412
+Last proposal with recorded effect on this ruleset: 5413
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -2156,7 +2156,7 @@ Amended(9) by Proposal 4887 (Murphy), 22 January 2007
 
 ----------------------------------------------------------------------
 
-Rule 107/6 (Power=3)
+Rule 107/7 (Power=3)
 Initiating Agoran Decisions
 
       An Agoran decision is initiated when a person authorized to
@@ -2182,10 +2182,9 @@ Initiating Agoran Decisions
 
       The publication of such a valid notice initiates the voting
       period for the decision.  By default, the voting period lasts
-      for seven days.  This rule takes precedence over any rule which
-      would require a voting period for some decision to be shorter
-      than seven days, unless the decision is whether to approve a
-      dependent action.
+      for seven days.  Rules to the contrary notwithstanding, the
+      voting period for a decision cannot be shorter than seven days,
+      unless the decision is whether to approve a dependent action.
 
 [CFJ 1650 (called 6 May 2007): The intent to initiate the decision and
 the information required in the notice need not be explicit.]
@@ -2220,6 +2219,7 @@ Amended(3) by Proposal 4868 (Goethe), 27 August 2006
 Amended(4) by Proposal 4964 (Murphy), 3 June 2007
 Amended(5) by Proposal 5113 (Murphy, Maud), 2 August 2007
 Amended(6) by Proposal 5229 (root), 27 September 2007
+Amended(7) by Proposal 5413 (root), 26 January 2008
 
 ----------------------------------------------------------------------
 
