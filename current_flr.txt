@@ -1148,11 +1148,19 @@ collection of text must also be received in the Public Forum.]
 is rejected by the list moderator, it still qualifies as having been
 sent via a public forum.]
 
+[CFJ 1888 (called 31 January 2008): Sending a message to a Discussion
+Forum, or other mailing list except for a Public Forum, does not
+qualify as sending it to all players.]
+
 [CFJ 1631 (called 29 April 2007): Public announcements must be made in
 the message body; the subject line is insignificant.]
 
 [CFJ 1784 (called 5 November 2007): An undescriptive or misleading
 subject line does not deprive the message body of effect.]
+
+[CFJ 1880 (called 22 January 2008): A phrase that would, in the
+message body, cancel the effect of the rest of the message, does not
+have such an effect if it appears in the subject line.]
 
 [CFJ 1761 (called 30 September 2007): Publishing part of a message is
 a different action from publishing the whole message.]
@@ -1326,6 +1334,11 @@ sufficiently clear synonym for "Me too!".]
 [CFJ 1770 (called 23 October 2007): A contract can redefine a
 rule-defined term in its own way, and the contract's definition will
 then apply in situations governed by the contract.]
+
+[CFJ 1885 (called 26 January 2008): A word or phrase can acquire a
+meaning by custom, provided that it is a reasonable meaning and does
+not unreasonably change the meaning of phrases that already have a
+meaning.]
 
 History:
 Created by Proposal 435 (Alexx), Aug. 30 1993
@@ -2567,6 +2580,10 @@ can be interpreted as quoting an existing proposal.]
 [CFJ 1717 (called 8 August 2007): Preceding a proposal-like text with
 the question "What is the title of this proposal?" can be sufficient
 to clearly indicate that it is intended to become a proposal.]
+
+[CFJ 1885 (called 26 January 2008): "AGAINT" is a variant spelling of
+"AGAINST", not a customary synonym for "FOR", despite its former
+private usage with the latter meaning.]
 
 [CFJ 1639 (called 29 April 2007): Where a proposal attempts two
 separate amendments of the text of the same rule, if one of the
@@ -4698,6 +4715,9 @@ Foreign communications
       When the Ambassador informs a foreign nomic of an event, e SHALL
       use the forum (if any) specified by that nomic for announcing
       that type of event.
+
+[CFJ 1879 (called 19 January 2008): Canada is not a nomic, because its
+primary purpose is not enjoyment.]
 
 History:
 Created by Proposal 5390 (Murphy), 16 January 2008
