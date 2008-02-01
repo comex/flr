@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5413
+Last proposal with recorded effect on this ruleset: 5414
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -2090,26 +2090,26 @@ Amended(11) by Proposal 5315 (Murphy), 28 November 2007
 
 ----------------------------------------------------------------------
 
-Rule 2160/1 (Power=1)
+Rule 2160/2 (Power=1)
 Deputisation
 
       Any player (a deputy) CAN perform an action as if e held a
-      particular office (deputise for that office) if:
+      particular position (deputise for that position) if:
 
-      (a) the rules require the holder of that office, by virtue of
-          holding that office, to perform the action (or, if the
-          office is vacant, would so require if the office were
+      (a) the rules require the holder of that position, by virtue of
+          holding that position, to perform the action (or, if the
+          position is vacant, would so require if the position were
           filled); and
 
       (b) a time limit by which the rules require the action to be
           performed has expired; and
 
       (c) the deputy announced between two and fourteen days earlier
-          that e intended to deputise for that office for the purposes
-          of the particular action; and
+          that e intended to deputise for that position for the
+          purposes of the particular action; and
 
       (d) it would be POSSIBLE for the deputy to perform the action,
-          other than by deputisation, if e held the office.
+          other than by deputisation, if e held the position.
 
 [CFJ 1776 (called 1 November 2007): A requirement to perform an
 action, for the purposes of this rule, can be a logical implication
@@ -2118,6 +2118,7 @@ from rules and circumstances, not just directly imposed by the rules.]
 History:
 Created by Proposal 5103 (Zefram), 1 August 2007
 Amended(1) by Proposal 5200 (Zefram; disi.), 8 September 2007
+Amended(2) by Proposal 5414 (Murphy), 26 January 2008
 
 ----------------------------------------------------------------------
 
