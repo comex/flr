@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5408
-Last change to this ruleset: self-repeal of rule 2195
+Last proposal with recorded effect on this ruleset: 5412
+Last change to this ruleset: by proposal
 
 Rule ID numbers:
       highest orderly: 2195
@@ -3989,12 +3989,12 @@ Patent Titles and Degrees
       A category concerning titles of honor and dishonor.
 ----------------------------------------------------------------------
 
-Rule 649/25 (Power=1)
+Rule 649/26 (Power=1)
 Patent Titles
 
-      A Patent Title is a legal item of recognition of a person's
-      distinction.  The herald is a low-priority office; its holder is
-      responsible for tracking patent titles.
+      A Patent Title is a legal item given in recognition of a
+      person's distinction.  The herald is a low-priority office; its
+      holder is responsible for tracking patent titles.
 
       A Patent Title CAN only be awarded by a proposal, or by the
       announcement of a person specifically authorized by the Rules to
@@ -4005,34 +4005,31 @@ Patent Titles
 
       When a Patent Title is awarded to a person, that person is said
       to Bear that Patent Title.  When a Patent Title is revoked from
-      a person, that person ceases to Bear that Patent Title.  The
+      an entity, that entity ceases to Bear that Patent Title.  The
       status of Bearing a Patent Title can only be changed as
       explicitly set out in the Rules.  The Herald's report includes a
-      list of each Patent Title that at least one person Bears, with a
-      list of which persons Bear it.
+      list of each Patent Title that at least one entity Bears, with a
+      list of which entities Bear it.
 
       As soon as possible after a patent title is awarded or revoked,
       the herald SHALL announce the award or revocation.
+
+      When a patent title is used as a noun to refer to bearers of the
+      patent title, it is assumed to refer only to persons who Bear
+      that patent title unless context clearly indicates otherwise.
 
 [CFJ 1525 (called 15 November 2004): If a patent title is defined by
 the rules, and previously the rules defined a patent title with the
 same spelling but a different award condition, the two are the same
 patent title.]
 
-[CFJ 1561 (called 29 April 2005): A patent title cannot be borne by a
-non-person.]
-
-[CFJ 1862 (called 10 January 2008): If a person who bears a patent
-title ceases to be a person, e ceases to bear the title as a patent
-title, though it may still exist as something other than a patent
-title.]
-
 [CFJ 1592 (called 1 December 2006): A patent title, once borne, is
 borne until explicitly revoked, even if the rule defining the patent
 title is repealed or the patent title was never defined by a rule.]
 
-[CFJ 1731 (called 23 August 2007): It is possible for a person to bear
-more than one instance of a patent title simultaneously.]
+[CFJ 1731 (called 23 August 2007): It is possible for an entity [a
+person at the time of CFJ 1731] to bear more than one instance of a
+patent title simultaneously.]
 
 [CFJ 1591 (called 1 December 2006): Where a person bears the patent
 title X, and X is not also defined by the rules to have some special
@@ -4076,6 +4073,7 @@ Amended(22) by Proposal 5123 (Zefram; disi.), 13 August 2007
 Amended(23) by Proposal 5237 (AFO; disi.), 3 October 2007
 Amended(24) by Proposal 5239 (AFO), 3 October 2007
 Amended(25) by Proposal 5341 (Goethe), 8 December 2007
+Amended(26) by Proposal 5412 (woggle), 26 January 2008
 
 ----------------------------------------------------------------------
 
