@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5414
+Last proposal with recorded effect on this ruleset: 5417
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -2991,7 +2991,7 @@ Amended(49) by Proposal 5404 (Murphy, pikhq, root), 16 January 2008
 
 ----------------------------------------------------------------------
 
-Rule 2194/0 (Power=2)
+Rule 2194/1 (Power=2)
 Notes
 
       Notes are a class of fixed assets.  Ownership of Notes is
@@ -3006,9 +3006,10 @@ Notes
       Notes are gained as follows:
 
       (1) At the end of each week, for each player, let X be the
-          number of eir proposals that were adopted during that week,
-          and let Y be the number of eir interested quorate proposals
-          that were rejected during that week with VI >= AI/2:
+          number of eir interested proposals that were adopted during
+          that week, and let Y be the number of eir interested quorate
+          proposals that were rejected during that week with VI >=
+          AI/2:
 
           (F)  If X > Y > 0, then e gains an F Note.
           (F#) If X > Y = 0, then e gains an F# Note.
@@ -3062,6 +3063,7 @@ be by a negative number.]
 
 History:
 Created by Proposal 5404 (Murphy, pikhq, root), 16 January 2008
+Amended(1) by Proposal 5417 (Murphy; disi.), 30 January 2008
 
 ----------------------------------------------------------------------
 
