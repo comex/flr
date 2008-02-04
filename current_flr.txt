@@ -4230,6 +4230,13 @@ Contracts
       by contradiction between the contract and any other contract, or
       between the contract and the rules.
 
+[CFJ 1892 (called 2 February 2008): An agreement that is not binding
+is thereby not a contract.]
+
+[CFJ 1892 (called 2 February 2008): An agreement's text can disclaim
+contract/binding status, thereby nullifying itself, by explicitly
+describing itself as a non-contract or as non-binding.]
+
 [CFJ 1872 (called 15 January 2008): Being a player is not a
 prerequisite for becoming party to a contract.]
 
