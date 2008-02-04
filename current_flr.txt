@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5418
+Last proposal with recorded effect on this ruleset: 5420
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -4241,19 +4241,19 @@ Contract Law
       within this nomic.
 ----------------------------------------------------------------------
 
-Rule 1742/12 (Power=1.5)
+Rule 1742/13 (Power=1.5)
 Contracts
 
-      Any group of two or more persons may make an agreement among
-      themselves with the intention that it be binding upon them and
-      be governed by the rules.  Such an agreement is known as a
-      contract.  A contract may be modified, including changing the
-      set of parties, by agreement between all parties.  A contract
-      may also terminate by agreement between all parties.  A contract
-      automatically terminates if the number of parties to it falls
-      below the minimum number of parties defined by the rules for
-      that contract.  If not otherwise specified, the minimum number
-      of parties for any contract is two.
+      Any person or group of persons may create an agreement with the
+      intention that it be binding upon them and be governed by the
+      rules.  Such an agreement is known as a contract.  A contract
+      may be modified, including changing the set of parties, by
+      agreement between all parties.  A contract may also terminate by
+      agreement between all parties.  A contract automatically
+      terminates if the number of parties to it falls below the
+      minimum number of parties defined by the rules for that
+      contract.  If not otherwise specified, the minimum number of
+      parties for any contract is two.
 
       Parties to a contract governed by the rules SHALL act in
       accordance with that contract.  This obligation is not impaired
@@ -4338,6 +4338,7 @@ Amended(9) by Proposal 5086 (Zefram), 1 August 2007
 Amended(10) by Proposal 5254 (AFO), 18 October 2007
 Amended(11) by Proposal 5362 (root), 20 December 2007
 Amended(12) by Proposal 5403 (Murphy, Goethe), 16 January 2008
+Amended(13) by Proposal 5420 (Wooble), 2 February 2008
 
 ----------------------------------------------------------------------
 
