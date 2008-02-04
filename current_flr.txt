@@ -2239,7 +2239,7 @@ The Assessor
       The Assessor is the default vote collector for all Agoran
       decisions that do not specify a different vote collector.
 
-[CFJs 1758-1759 (called 30 September 2007): if Assessorship changes
+[CFJs 1758-1759 (called 30 September 2007): If Assessorship changes
 hands, vote collection duties move with it.]
 
 [Cross-references (16 January 2008): the Assessor's duties are:
@@ -3061,7 +3061,7 @@ Notes
           Musicianship, unless another player has already done so
           during that Birthday.
 
-[CFJs 1826-1827 (called 6 December 2007): a decrease of VVLOP cannot
+[CFJs 1826-1827 (called 6 December 2007): A decrease of VVLOP cannot
 be by a negative number.]
 
 [Cross-references (22 January 2008): the Conductor's duties are:
