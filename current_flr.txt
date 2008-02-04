@@ -1,21 +1,21 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5417
+Last proposal with recorded effect on this ruleset: 5418
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
-      highest orderly: 2195
+      highest orderly: 2196
       disorderly: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 108
+Current total number of rules: 109
 
 Power distribution:
        1 with Power=4
-      26 with Power=3
+      27 with Power=3
       32 with Power=2
        5 with Power=1.7
        5 with Power=1.5
@@ -103,6 +103,7 @@ Index of Rules
       Rule 2127: Conditional Votes
       Rule 2168: Extending the voting period
       Rule  208: Resolving Agoran decisions
+      Rule 2196: Standard Classes of Agoran Decisions
       Rule  955: Determining the Will of Agora
       Rule  879: Quorum
       Rule 2034: Vote Protection and Cutoff for Challenges
@@ -113,8 +114,8 @@ Index of Rules
       Rule 1607: The Promotor
       Rule 1450: Separation of Powers
       Rule 1698: The Proposal System Is Protected
-      Rule 1950: Voting on Democratic Proposals
-      Rule 2156: Voting on Ordinary Proposals
+      Rule 1950: Voting on Democratic Decisions
+      Rule 2156: Voting on Ordinary Decisions
       Rule 2134: Win by Clout
       Rule 2126: Ribbons
       Rule 2194: Notes
@@ -2402,7 +2403,29 @@ Amended(5) by Proposal 5229 (root), 27 September 2007
 
 ----------------------------------------------------------------------
 
-Rule 955/11 (Power=3)
+Rule 2196/0 (Power=3)
+Standard Classes of Agoran Decisions
+
+      An Agoran decision with an adoption index is either ordinary or
+      democratic.  An Agoran decision with an adoption index greater
+      than or equal to 2 is democratic.  Any other Agoran decision
+      with an adoption index is ordinary by default.
+
+      If an Agoran decision has an adoption index, the message by
+      which it is initiated MUST include the following information:
+
+      a) Its adoption index.
+      b) Whether it is ordinary or democratic.
+
+      For any Agoran decision with an adoption index, the available
+      options are FOR, AGAINST, and PRESENT.
+
+History:
+Created by Proposal 5418 (root), 2 February 2008
+
+----------------------------------------------------------------------
+
+Rule 955/12 (Power=3)
 Determining the Will of Agora
 
       The outcome of an Agoran decision is determined as follows.
@@ -2413,12 +2436,11 @@ Determining the Will of Agora
           remainder of this rule.  Otherwise, the decision achieved
           quorum.
 
-      (b) If the decision is whether to adopt a proposal, then the
-          voting index is the ratio of the strength of FOR to the
-          strength of AGAINST.  If the voting index is greater than 1,
-          and greater than or equal to the decision's adoption index,
-          then the outcome is ADOPTED; otherwise, the outcome is
-          REJECTED.
+      (b) If the decision is ordinary or democratic, then the voting
+          index is the ratio of the strength of FOR to the strength of
+          AGAINST.  If the voting index is greater than 1, and greater
+          than or equal to the decision's adoption index, then the
+          outcome is ADOPTED; otherwise, the outcome is REJECTED.
 
       (d) If the decision is whether to approve a dependent action:
 
@@ -2460,6 +2482,7 @@ Amended(8) by Proposal 4412 (Steve), 6 November 2002
 Amended(9) by Proposal 4811 (Maud, Goethe), 20 June 2005
 Amended(10) by Proposal 4868 (Goethe), 27 August 2006
 Amended(11) by Proposal 5113 (Murphy, Maud), 2 August 2007
+Amended(12) by Proposal 5418 (root), 2 February 2008
 
 ----------------------------------------------------------------------
 
@@ -2545,7 +2568,7 @@ Proposals
       which changes are made to the game.
 ----------------------------------------------------------------------
 
-Rule 106/10 (Power=3)
+Rule 106/11 (Power=3)
 Adopting Proposals
 
       A proposal is a document outlining changes to be made to Agora,
@@ -2562,16 +2585,13 @@ Adopting Proposals
       distinct from its author, and unambiguously identified by its
       author as being its co-author at the time of submission.
 
-      Determining whether to adopt a proposal is an Agoran decision.
-      For this decision, the available options are FOR, AGAINST, and
-      PRESENT, and the adoption index is the adoption index of the
-      proposal.
-
       The adoption index of a proposal is an integral multiple of 0.1,
       with a minimum value of 1.0.  It may be set by the proposer at
-      the time of submission, or otherwise defaults to 1.0.  A
-      Proposal with an Adoption Index of less than 2 is Ordinary.  All
-      other Proposals are Democratic.
+      the time of submission, or otherwise defaults to 1.0.
+
+      Determining whether to adopt a proposal is an Agoran decision.
+      For this decision, the adoption index is the adoption index of
+      the proposal.
 
       If the option selected by Agora on this decision is ADOPTED,
       then the proposal is adopted, and unless other rules prevent it
@@ -2625,6 +2645,7 @@ Amended(7) by Proposal 5078 (Zefram), 18 July 2007
 Amended(8) by Proposal 5083 (Zefram), 1 August 2007
 Amended(9) by Proposal 5334 (Murphy), 5 December 2007
 Amended(10) by Proposal 5356 (root), 16 December 2007
+Amended(11) by Proposal 5418 (root), 2 February 2008
 
 ----------------------------------------------------------------------
 
@@ -2647,7 +2668,7 @@ Amended(1) by Proposal 5176 (Murphy), 29 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 1607/15 (Power=1)
+Rule 1607/16 (Power=1)
 The Promotor
 
       The Promotor is an office; its holder is responsible for
@@ -2668,9 +2689,7 @@ The Promotor
       following:
 
       a) Its author (and co-authors, if any).
-      b) Its adoption index.
-      c) Whether it is ordinary or democratic.
-      d) Whether it is interested or disinterested.
+      b) Whether it is interested or disinterested.
 
       Distributed proposals have ID numbers, to be assigned by the
       Promotor.
@@ -2730,6 +2749,7 @@ Amended(12) by Proposal 4868 (Goethe), 27 August 2006
 Amended(13) by Proposal 5077 (Murphy), 18 July 2007
 Amended(14) by Proposal 5110 (Murphy), 2 August 2007
 Amended(15) by Proposal 5112 (Murphy), 2 August 2007
+Amended(16) by Proposal 5418 (root), 2 February 2008
 
 ----------------------------------------------------------------------
 
@@ -2767,13 +2787,13 @@ Created by Proposal 3465 (Steve), Apr. 26 1997
 
 ----------------------------------------------------------------------
 
-Rule 1950/19 (Power=3)
-Voting on Democratic Proposals
+Rule 1950/20 (Power=3)
+Voting on Democratic Decisions
 
-      The eligible voters on a democratic proposal are those entities
+      The eligible voters on a democratic decision are those entities
       that were active first-class players at the start of its voting
       period.  The voting limit of each eligible voter on a democratic
-      proposal is one.
+      decision is one.
 
 History:
 Created by Proposal 4032 (t), Jul. 24 2000
@@ -2798,35 +2818,37 @@ Amended(17) by Proposal 5007 (Zefram), 18 June 2007
 Amended(18) by Proposal 5047 (root), 1 July 2007
 Retitled by Proposal 5078 (Zefram), 18 July 2007
 Amended(19) by Proposal 5078 (Zefram), 18 July 2007
+Retitled by Proposal 5418 (root), 2 February 2008
+Amended(20) by Proposal 5418 (root), 2 February 2008
 
 ----------------------------------------------------------------------
 
-Rule 2156/4 (Power=2)
-Voting on Ordinary Proposals
+Rule 2156/5 (Power=2)
+Voting on Ordinary Decisions
 
       Each player has an associated number known as eir base voting
-      limit on ordinary proposals (BVLOP).  The BVLOP of a first-class
-      player is four, and the BVLOP of any other player is zero.
-      BVLOP cannot be modified.
+      limit on ordinary decisions (BVLOD).  The BVLOD of a first-class
+      player is four, and the BVLOD of any other player is zero.
+      BVLOD cannot be modified.
 
       Each player has an associated number known as eir volatile
-      voting limit on ordinary proposals (VVLOP).  Whenever a player
-      is registered, eir VVLOP is set to eir BVLOP.  Changes to VVLOP
+      voting limit on ordinary decisions (VVLOD).  Whenever a player
+      is registered, eir VVLOD is set to eir BVLOD.  Changes to VVLOD
       are secured
 
       Each player has an associated number known as eir effective
-      voting limit on ordinary proposals (EVLOP).  Whenever a player
-      is registered, eir EVLOP is set to eir BVLOP.  At the end of
-      each week, each player's EVLOP is set to eir VVLOP, rounded to
-      an integer, breaking ties towards odd integers, and eir VVLOP is
-      set to the same rounded value.  EVLOP cannot be modified by any
+      voting limit on ordinary decisions (EVLOD).  Whenever a player
+      is registered, eir EVLOD is set to eir BVLOD.  At the end of
+      each week, each player's EVLOD is set to eir VVLOD, rounded to
+      an integer, breaking ties towards odd integers, and eir VVLOD is
+      set to the same rounded value.  EVLOD cannot be modified by any
       other means.  The assessor's report includes each player's
-      EVLOP.
+      EVLOD.
 
-      The eligible voters on an ordinary proposal are those entities
+      The eligible voters on an ordinary decision are those entities
       that were active players at the start of its voting period.  The
-      voting limit of an eligible voter on an ordinary proposal is eir
-      EVLOP at the start of its voting period, or half that (rounded
+      voting limit of an eligible voter on an ordinary decision is eir
+      EVLOD at the start of its voting period, or half that (rounded
       up) if the voter is in the chokey at the start of the voting
       period.
 
@@ -2836,22 +2858,23 @@ Amended(1) by Proposal 5082 (Zefram), 1 August 2007
 Amended(2) by Proposal 5141 (Zefram), 19 August 2007
 Amended(3) by Proposal 5276 (Murphy, Pavitra, Zefram), 7 November 2007
 Amended(4) by Proposal 5358 (Murphy), 20 December 2007
+Retitled by Proposal 5418 (root), 2 February 2008
+Amended(5) by Proposal 5418 (root), 2 February 2008
 
 ----------------------------------------------------------------------
 
-Rule 2134/3 (Power=2)
+Rule 2134/4 (Power=2)
 Win by Clout
 
       Upon a win announcement that a specified player's voting limit
-      on an ordinary proposal distributed at that time would exceed
-      the combined voting limits of all other players on that
-      proposal, the specified player satisfies the Winning Condition
-      of Clout.
+      on an ordinary decision initiated at that time would exceed the
+      combined voting limits of all other players on that decision,
+      the specified player satisfies the Winning Condition of Clout.
 
-      Cleanup procedure:  Each player's VVLOP is set to eir BVLOP, and
+      Cleanup procedure:  Each player's VVLOD is set to eir BVLOD, and
       no player satisfies this Winning Condition again (the remainder
       of this rule notwithstanding) until after the next time that
-      each player's EVLOP is set based on eir VVLOP.
+      each player's EVLOD is set based on eir VVLOD.
 
 History:
 Created by Proposal 4930 (Goethe), 29 April 2007
@@ -2864,6 +2887,7 @@ Power changed from 1 to 2 by Proposal 5394 (Murphy, Goddess Eris,
   OscarMeyr, Zefram), 16 January 2008
 Amended(3) by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
   16 January 2008
+Amended(4) by Proposal 5418 (root), 2 February 2008
 
 ----------------------------------------------------------------------
 
@@ -3077,11 +3101,11 @@ Amended(1) by Proposal 5417 (Murphy; disi.), 30 January 2008
 
 ----------------------------------------------------------------------
 
-Rule 2142/3 (Power=2)
+Rule 2142/4 (Power=2)
 Support Democracy
 
-      A player CAN, with 2 support, flip a proposal's chamber from
-      ordinary to democratic.
+      A player CAN, with 2 support, change an ordinary decision to be
+      democratic.
 
 History:
 Created by Proposal 4955 (Zefram), 7 May 2007
@@ -3089,10 +3113,11 @@ Amended(1) by Proposal 5043 (root), 1 July 2007
 Power changed from 1.1 to 2 by Proposal 5044 (root), 1 July 2007
 Amended(2) by Proposal 5044 (root), 1 July 2007
 Amended(3) by Proposal 5210 (Murphy), 8 September 2007
+Amended(4) by Proposal 5418 (root), 2 February 2008
 
 ----------------------------------------------------------------------
 
-Rule 2019/12 (Power=2)
+Rule 2019/13 (Power=2)
 Prerogatives
 
       In a timely fashion before the beginning of each month, the
@@ -3113,11 +3138,11 @@ Prerogatives
          assigned.
 
       c) Wielder of Veto.  The Wielder of Veto CAN veto an ordinary
-         proposal in its voting period by announcement; this increases
+         decision in its voting period by announcement; this increases
          its Adoption Index by 1.
 
       d) Wielder of Rubberstamp.  The Wielder of Rubberstamp CAN
-         rubberstamp an ordinary proposal in its voting period by
+         rubberstamp an ordinary decision in its voting period by
          announcement; this decreases its quorum to 3, rules to the
          contrary notwithstanding.
 
@@ -3141,6 +3166,7 @@ Retitled by Proposal 5257 (AFO), 27 October 2007
 Amended(10) by Proposal 5257 (AFO), 27 October 2007
 Amended(11) by Proposal 5407 (root), 22 January 2008
 Amended(12) by Proposal 5408 (root), 22 January 2008
+Amended(13) by Proposal 5418 (root), 2 February 2008
 
 ----------------------------------------------------------------------
 
