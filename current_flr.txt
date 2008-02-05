@@ -1351,6 +1351,15 @@ meaning by custom, provided that it is a reasonable meaning and does
 not unreasonably change the meaning of phrases that already have a
 meaning.]
 
+[CFJ 1831 (called 10 December 2007): Mentioning a URI, without
+surrounding text stating its significance, does not incorporate
+anything identified by that URI into the message that mentions the
+URI.]
+
+[CFJ 1831 (called 10 December 2007): Character sequences within a URI
+by default have no significance other than their functional role as
+part of the URI.]
+
 History:
 Created by Proposal 435 (Alexx), Aug. 30 1993
 Amended by Proposal 754 (KoJen), Dec. 1 1993
@@ -2121,6 +2130,9 @@ Deputisation
 
       (d) it would be POSSIBLE for the deputy to perform the action,
           other than by deputisation, if e held the position.
+
+[CFJ 1896 (called 3 February 2008): A "position" in rule 2160 is not
+restricted to being an office; judgeship is also a type of position.]
 
 [CFJ 1776 (called 1 November 2007): A requirement to perform an
 action, for the purposes of this rule, can be a logical implication
