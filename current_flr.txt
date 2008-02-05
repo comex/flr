@@ -4275,6 +4275,9 @@ Contracts
 [CFJ 1892 (called 2 February 2008): An agreement that is not binding
 is thereby not a contract.]
 
+[CFJ 1901 (called 4 February 2008): An agreement that is binding is
+thereby a contract, even if it doesn't impose any obligations.]
+
 [CFJ 1892 (called 2 February 2008): An agreement's text can disclaim
 contract/binding status, thereby nullifying itself, by explicitly
 describing itself as a non-contract or as non-binding.]
