@@ -1,24 +1,24 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5420
+Last proposal with recorded effect on this ruleset: 5423
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
-      highest orderly: 2196
+      highest orderly: 2198
       disorderly: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 109
+Current total number of rules: 111
 
 Power distribution:
        1 with Power=4
       27 with Power=3
       32 with Power=2
        5 with Power=1.7
-       5 with Power=1.5
+       7 with Power=1.5
       39 with Power=1
 
 ----------------------------------------------------------------------
@@ -145,6 +145,8 @@ Index of Rules
 
       * Contract Law
       Rule 1742: Contracts
+      Rule 2197: Defining Contract Changes
+      Rule 2198: Making Contract Changes
       Rule 2178: Public Contracts
       Rule 2173: The Notary
       Rule 2191: Pledges
@@ -4253,24 +4255,23 @@ Contract Law
       within this nomic.
 ----------------------------------------------------------------------
 
-Rule 1742/13 (Power=1.5)
+Rule 1742/14 (Power=1.5)
 Contracts
 
-      Any person or group of persons may create an agreement with the
-      intention that it be binding upon them and be governed by the
-      rules.  Such an agreement is known as a contract.  A contract
-      may be modified, including changing the set of parties, by
-      agreement between all parties.  A contract may also terminate by
-      agreement between all parties.  A contract automatically
-      terminates if the number of parties to it falls below the
-      minimum number of parties defined by the rules for that
-      contract.  If not otherwise specified, the minimum number of
-      parties for any contract is two.
+      Contracts are binding agreements governed by the rules.  Any
+      agreement made by one or more persons with the intention that it
+      be binding on them and governed by the rules is a contract
+      (unless it would automatically terminate as a contract).
 
-      Parties to a contract governed by the rules SHALL act in
-      accordance with that contract.  This obligation is not impaired
-      by contradiction between the contract and any other contract, or
-      between the contract and the rules.
+      A contract automatically terminates if the number of parties to
+      it falls below the number of parties the rules require for the
+      contract.  If other rules do not specify such a number for a
+      contract, then a contract requires at least two parties.
+
+      Parties to a contract SHALL act in accordance with that
+      contract.  This obligation is not impaired by contradiction
+      between the contract and any other contract, or between the
+      contract and the rules.
 
 [CFJ 1892 (called 2 February 2008): An agreement that is not binding
 is thereby not a contract.]
@@ -4306,14 +4307,6 @@ agreement categorically cannot violate it.]
 
 [CFJ 1752 (called 28 September 2007): Deregistration does not
 implicitly cause the ex-player to leave a contract.]
-
-[CFJ 1876 (called 18 January 2008): "Agreement between all parties"
-can only exist if there are at least two parties.]
-
-[CFJ 1770 (called 23 October 2007): Agreement between all the parties,
-to modify or terminate a contract, can be manifested by a contract
-between all the parties, including the contract being modified or
-terminated.]
 
 [CFJ 1842 (called 20 December 2007): A contract may use retroactive
 operations internally for the purposes of determining obligations of
@@ -4354,6 +4347,60 @@ Amended(10) by Proposal 5254 (AFO), 18 October 2007
 Amended(11) by Proposal 5362 (root), 20 December 2007
 Amended(12) by Proposal 5403 (Murphy, Goethe), 16 January 2008
 Amended(13) by Proposal 5420 (Wooble), 2 February 2008
+Amended(14) by Proposal 5423 (woggle; disi.), 6 February 2008
+
+----------------------------------------------------------------------
+
+Rule 2197/0 (Power=1.5)
+Defining Contract Changes
+
+      A Contract Change can be one or more of any of the following:
+
+      (a) a person who intends to be bound by a contract becoming a
+          party to the contract;
+
+      (b) a person ceasing to be a party to the contract;
+
+      (c) amending a contract; and
+
+      (d) terminating a contract
+
+      If a Contract Change is ambiguous or the its permissability
+      cannot be determined with certainty at the time it is attempted,
+      then that change has no effect.
+
+History:
+Created by Proposal 5423 (woggle; disi.), 6 February 2008
+
+----------------------------------------------------------------------
+
+Rule 2198/0 (Power=1.5)
+Making Contract Changes
+
+      If a contract specifies a mechanism by which Contract Changes to
+      it can be performed, then such changes CAN be performed using
+      that mechanism.
+  
+      If a contract does not purport to regulate becoming a party to
+      it, than any person CAN become a party to it by announcement.
+  
+      If the minimum number of parties for a contract is at least two,
+      then Contract Changes CAN be made to it by agreement between all
+      the parties to the contract.  Otherwise, any party to the
+      contract CAN make Contract Changes to that contract without
+      Objection if, before the dependant action is resolved, no party
+      blocks the change by announcement.
+
+[CFJ 1876 (called 18 January 2008): "Agreement between all parties"
+can only exist if there are at least two parties.]
+
+[CFJ 1770 (called 23 October 2007): Agreement between all the parties,
+to modify or terminate a contract, can be manifested by a contract
+between all the parties, including the contract being modified or
+terminated.]
+
+History:
+Created by Proposal 5423 (woggle; disi.), 6 February 2008
 
 ----------------------------------------------------------------------
 
@@ -4424,14 +4471,11 @@ Created by Proposal 5254 (AFO), 18 October 2007
 
 ----------------------------------------------------------------------
 
-Rule 2191/0 (Power=1.5)
+Rule 2191/2 (Power=1.5)
 Pledges
 
-      A pledge is a contract identifying itself as such.  The minimum
-      number of parties for a pledge is one.
-
-      A pledge CAN be modified or terminated by any party without
-      objection.
+      A pledge is a contract identifying itself as such.  A pledge
+      requires at least one party.
 
       An equity case regarding a pledge CAN be initiated by a
       non-party, provided that all other requirements for initiating
@@ -4445,6 +4489,8 @@ if the text of pledge explicitly permits this.]
 
 History:
 Created by Proposal 5395 (Murphy), 16 January 2008
+Amended(1) by Proposal 5423 (woggle; disi.), 6 February 2008
+Amended(2) by Proposal 5423 (woggle; disi.), 6 February 2008
 
 ----------------------------------------------------------------------
 
@@ -4506,7 +4552,7 @@ Created by Proposal 5274 (Murphy), 7 November 2007
 
 ----------------------------------------------------------------------
 
-Rule 2136/17 (Power=1)
+Rule 2136/18 (Power=1)
 Contests
 
       A first-class player who is a member of an existing public
@@ -4518,10 +4564,10 @@ Contests
       explicitly described in the contest regulations and provided e
       is not the contestmaster of another contest.
 
-      The minimum number of parties for a contest is one.  Any player
-      may make a contest cease to be a contest without 3 objections.
-      Players SHOULD decide on whether a contract deserves to be a
-      contest based on its fairness or interest to players as a whole.
+      A contest requires at least one party.  Any player may make a
+      contest cease to be a contest without 3 objections.  Players
+      SHOULD decide on whether a contract deserves to be a contest
+      based on its fairness or interest to players as a whole.
 
       The total number of points a Contest MAY award in a given week
       is equal to 5 times the number of its members that are first-
@@ -4554,6 +4600,7 @@ Amended(14) by Proposal 5302 (Zefram), 28 November 2007
 Amended(15) by Proposal 5328 (Goethe), 5 December 2007
 Amended(16) by Proposal 5362 (root), 20 December 2007
 Amended(17) by Proposal 5397 (Murphy), 16 January 2008
+Amended(18) by Proposal 5423 (woggle; disi.), 6 February 2008
 
 ----------------------------------------------------------------------
 
@@ -4594,7 +4641,7 @@ Created by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
 
 ----------------------------------------------------------------------
 
-Rule 2180/0 (Power=1)
+Rule 2180/1 (Power=1)
 Locations
 
       A location is a public contract that describes itself as a
@@ -4608,7 +4655,7 @@ Locations
       location e is already in.  Whenever a person's location does not
       permit em to leave it, e CANNOT move to any other location.
 
-      The minimum number of parties for a location is zero.
+      A location requires at least zero parties.
 
 [CFJ 1877 (called 18 January 2008): It is not possible to cease to be
 a party to a location which has exactly one party by announcement,
@@ -4616,6 +4663,7 @@ even if the text of the location explicitly permits this.]
 
 History:
 Created by Proposal 5362 (root), 20 December 2007
+Amended(1) by Proposal 5423 (woggle; disi.), 6 February 2008
 
 ----------------------------------------------------------------------
 
