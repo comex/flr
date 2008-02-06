@@ -1,10 +1,10 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5423
+Last proposal with recorded effect on this ruleset: 5424
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
-      highest orderly: 2198
+      highest orderly: 2199
       disorderly: none
 
 ----------------------------------------------------------------------
@@ -52,6 +52,7 @@ Index of Rules
       Rule 2149: Truthfulness
       Rule 2186: Victory
       Rule 2110: Win by Paradox
+      Rule 2199: Ribbons
       Rule 2177: The Senate
 
       * Rules
@@ -117,8 +118,7 @@ Index of Rules
       Rule 1950: Voting on Democratic Decisions
       Rule 2156: Voting on Ordinary Decisions
       Rule 2134: Win by Clout
-      Rule 2126: Ribbons
-      Rule 2194: Notes
+      Rule 2126: Notes
       Rule 2142: Support Democracy
       Rule 2019: Prerogatives
       Rule 2188: Win by Proposal
@@ -485,6 +485,89 @@ Amended(2) by Proposal 5195 (Zefram), 6 September 2007
 Amended(3) by Proposal 5297 (Murphy), 22 November 2007
 Amended(4) by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
   16 January 2008
+
+----------------------------------------------------------------------
+
+Rule 2199/0 (Power=2)
+Ribbons
+
+      Ribbons are a class of fixed assets.  Changes to Ribbon holdings
+      are secured.  Ownership of Ribbons is restricted to players.
+
+      Each Ribbon has exactly one color.  Colors with different names
+      are distinct, regardless of spectral proximity.  Each color of
+      Ribbon is a currency.
+
+      The Tailor is a low-priority office, and the recordkeepor of
+      Ribbons.
+
+      Ribbons are gained as follows, unless the player already
+      possesses the color of Ribbon to be gained:
+
+      (+R) When an interested proposal is adopted and changes at least
+           one rule with Power >= 3, its proposer gains a Red Ribbon.
+
+      (+O) When an interested proposal is adopted by voting with no
+           valid votes AGAINST, its proposer gains an Orange Ribbon.
+
+      (+G) At the end of each month, each player who held at least one
+           office continuously during that month gains a Green Ribbon,
+           unless e violated a requirement to submit a report within a
+           time limit.
+
+      (+C) When a player deputises for an office, e gains a Cyan
+           Ribbon.
+
+      (+B) When a player assigns a judgement to a judicial question
+           other than a question on sentencing, e gains a Blue Ribbon,
+           unless e violated a requirement to submit that judgement
+           within a time limit.
+
+      (+K) When a player assigns a judgement to a judicial question on
+           sentencing, e gains a Black Ribbon, unless e violated a
+           requirement to submit that judgement within a time limit.
+
+      (+W) When a first-class person becomes a player for the first
+           time, e gains a White Ribbon.  When a first-class person
+           has been a player continuously for at least three months,
+           was never a player before that period, and names another
+           first-class player as eir mentor (and has not named a
+           mentor in this fashion before), that player gains a White
+           Ribbon.
+
+      (+M) When, during Agora's birthday, a player publicly
+           acknowledges the occasion, e gains a Magenta Ribbon.
+
+      (+U) When a player is awarded the Patent Title Champion, e gains
+           an Ultraviolet Ribbon.
+
+      (+V) When a player is awarded a Patent Title, e gains a Violet
+           Ribbon, unless e gains a different Ribbon for the award.
+
+      (+I) When a player is awarded a degree, e gains an Indigo
+           Ribbon.
+
+      (+Y) At the end of each month, for each contest that awarded
+           points to at least three different contestants during that
+           month, the contestmaster gains a Yellow Ribbon.
+
+      If this rule mentions at least six different specific colors for
+      Ribbons, then a player CAN destroy one Ribbon of each such color
+      in eir possession to satisfy the Winning Condition of
+      Renaissance.
+
+[Cross-references (6 February 2008): the Tailor's duties are:
+  * recordkeepor of ribbons (rule 2199)]
+
+[Note (30 August 2007): here is a set of colors with convenient
+abbreviating letters, suggested for future inventions of new types of
+ribbon: Amber, Blue, Cyan, Denim, Emerald, Fern, Green, Heliotrope,
+Indigo, Jade, blacK, Lime, Magenta, iNfrared, Orange, Pink,
+aQuamarine, Red, Silver, Turquoise, Ultraviolet, Violet, White, flaX,
+Yellow, Zinnwaldite.]
+
+History:
+Created by Proposal 5424 (Zefram; disi.), 6 February 2008
 
 ----------------------------------------------------------------------
 
@@ -2905,141 +2988,7 @@ Amended(4) by Proposal 5418 (root), 2 February 2008
 
 ----------------------------------------------------------------------
 
-Rule 2126/49 (Power=2)
-Ribbons
-
-      Ribbons are a class of fixed assets.  Changes to Ribbon holdings
-      are secured.  Ownership of Ribbons is restricted to players.
-
-      Each Ribbon has exactly one color.  Colors with different names
-      are distinct, regardless of spectral proximity.  Each color of
-      Ribbon is a currency.
-
-      The Tailor is a low-priority office, and the recordkeepor of
-      Ribbons.
-
-      Ribbons are gained as follows, unless the player already
-      possesses the color of Ribbon to be gained:
-
-      (+R) When an interested proposal is adopted and changes at least
-           one rule with Power >= 3, its proposer gains a Red Ribbon.
-
-      (+O) When an interested proposal is adopted by voting with no
-           valid votes AGAINST, its proposer gains an Orange Ribbon.
-
-      (+G) At the end of each month, each player who held at least one
-           office continuously during that month gains a Green Ribbon,
-           unless e violated a requirement to submit a report within a
-           time limit.
-
-      (+C) When a player deputises for an office, e gains a Cyan
-           Ribbon.
-
-      (+B) When a player assigns a judgement to a judicial question
-           other than a question on sentencing, e gains a Blue Ribbon,
-           unless e violated a requirement to submit that judgement
-           within a time limit.
-
-      (+K) When a player assigns a judgement to a judicial question on
-           sentencing, e gains a Black Ribbon, unless e violated a
-           requirement to submit that judgement within a time limit.
-
-      (+W) When a first-class person becomes a player for the first
-           time, e gains a White Ribbon.  When a first-class person
-           has been a player continuously for at least three months,
-           was never a player before that period, and names another
-           first-class player as eir mentor (and has not named a
-           mentor in this fashion before), that player gains a White
-           Ribbon.
-
-      (+M) When, during Agora's birthday, a player publicly
-           acknowledges the occasion, e gains a Magenta Ribbon.
-
-      (+U) When a player is awarded the Patent Title Champion, e gains
-           an Ultraviolet Ribbon.
-
-      (+V) When a player is awarded a Patent Title, e gains a Violet
-           Ribbon, unless e gains a different Ribbon for the award.
-
-      (+I) When a player is awarded a degree, e gains an Indigo
-           Ribbon.
-
-      (+Y) At the end of each month, for each contest that awarded
-           points to at least three different contestants during that
-           month, the contestmaster gains a Yellow Ribbon.
-
-      If this rule mentions at least six different specific colors for
-      Ribbons, then a player CAN destroy one Ribbon of each such color
-      in eir possession to satisfy the Winning Condition of
-      Renaissance.
-
-[Cross-references (16 January 2008): the Tailor's duties are:
-  * recordkeepor of ribbons (rule 2126)]
-
-[Note (30 August 2007): here is a set of colors with convenient
-abbreviating letters, suggested for future inventions of new types of
-ribbon: Amber, Blue, Cyan, Denim, Emerald, Fern, Green, Heliotrope,
-Indigo, Jade, blacK, Lime, Magenta, iNfrared, Orange, Pink,
-aQuamarine, Red, Silver, Turquoise, Ultraviolet, Violet, White, flaX,
-Yellow, Zinnwaldite.]
-
-History:
-Created by Proposal 4872 (OscarMeyr), 26 October 2006
-Amended(1) by Proposal 4884 (Murphy), 22 January 2007
-Amended(2) by Proposal 4914 (OscarMeyr), 21 March 2007
-Amended(3) by Proposal 4914 (OscarMeyr), 21 March 2007
-Amended(4) by Proposal 4943 (Goethe), 3 May 2007
-Amended(5) by Proposal 4950 (Zefram), 7 May 2007
-Amended(6) by Proposal 4961 (Zefram), 3 June 2007
-Amended(7) by Proposal 5031 (Zefram), 28 June 2007
-Amended(8) by Proposal 5052 (Zefram), 5 July 2007
-Amended(9) by Proposal 5056 (Murphy), 5 July 2007
-Amended(10) by Proposal 5058 (Zefram), 5 July 2007
-Power changed from 3 to 2 by Proposal 5076 (Murphy), 18 July 2007
-Amended(11) by Proposal 5076 (Murphy), 18 July 2007
-Amended(12) by Proposal 5078 (Zefram), 18 July 2007
-Amended(13) by Proposal 5097 (Zefram), 25 July 2007
-Amended(14) by Proposal 5086 (Zefram), 1 August 2007
-Amended(15) by Proposal 5112 (Murphy), 2 August 2007
-Amended(16) by Proposal 5114 (Zefram), 2 August 2007
-Amended(17) by Proposal 5126 (Zefram), 13 August 2007
-Amended(18) by Proposal 5128 (Zefram, Murphy), 13 August 2007
-Amended(19) by Proposal 5151 (root), 29 August 2007
-Amended(20) by Proposal 5161 (Zefram), 29 August 2007
-Amended(21) by Proposal 5163 (Zefram), 29 August 2007
-Amended(22) by Proposal 5164 (Zefram), 29 August 2007
-Amended(23) by Proposal 5165 (Zefram), 29 August 2007
-Amended(24) by Proposal 5166 (Zefram), 29 August 2007
-Amended(25) by Proposal 5167 (Zefram), 29 August 2007
-Amended(26) by Proposal 5168 (Zefram), 29 August 2007
-Amended(27) by Proposal 5169 (Zefram, OscarMeyr, Pavitra), 29 August 2007
-Amended(28) by Proposal 5170 (Zefram), 29 August 2007
-Amended(29) by Proposal 5176 (Murphy), 29 August 2007
-Amended(30) by Proposal 5197 (Zefram), 6 September 2007
-Amended(31) by Proposal 5202 (Murphy; disi.), 8 September 2007
-Amended(32) by Proposal 5205 (Zefram), 8 September 2007
-Amended(33) by Proposal 5213 (Murphy), 8 September 2007
-Amended(34) by Proposal 5220 (Zefram), 13 September 2007
-Amended(35) by Proposal 5256 (AFO), 27 October 2007
-Amended(36) by Proposal 5255 (AFO), 27 October 2007
-Amended(37) by Proposal 5276 (Murphy, Pavitra, Zefram), 7 November 2007
-Amended(38) by Proposal 5288 (Murphy), 14 November 2007
-Amended(39) by Proposal 5289 (Murphy), 14 November 2007
-Amended(40) by Proposal 5322 (Murphy), 5 December 2007
-Amended(41) by Proposal 5325 (Murphy), 5 December 2007
-Amended(42) by Proposal 5334 (Murphy), 5 December 2007
-Amended(43) by Proposal 5336 (Murphy), 8 December 2007
-Amended(44) by Proposal 5340 (BobTHJ; disi.), 8 December 2007
-Amended(45) by Proposal 5341 (Goethe), 8 December 2007
-Amended(46) by Proposal 5378 (root), 1 January 2008
-Amended(47) by Proposal 5379 (root; disi.), 1 January 2008
-Amended(48) by Proposal 5385 (Murphy; disi.), 1 January 2008
-Retitled by Proposal 5404 (Murphy, pikhq, root), 16 January 2008
-Amended(49) by Proposal 5404 (Murphy, pikhq, root), 16 January 2008
-
-----------------------------------------------------------------------
-
-Rule 2194/1 (Power=2)
+Rule 2126/50 (Power=2)
 Notes
 
       Notes are a class of fixed assets.  Ownership of Notes is
@@ -3106,12 +3055,64 @@ Notes
 [CFJs 1826-1827 (called 6 December 2007): A decrease of VVLOP cannot
 be by a negative number.]
 
-[Cross-references (22 January 2008): the Conductor's duties are:
-  * recordkeepor of notes (rule 2194)]
+[Cross-references (6 February 2008): the Conductor's duties are:
+  * recordkeepor of notes (rule 2126)]
 
 History:
-Created by Proposal 5404 (Murphy, pikhq, root), 16 January 2008
-Amended(1) by Proposal 5417 (Murphy; disi.), 30 January 2008
+Created by Proposal 4872 (OscarMeyr), 26 October 2006
+Amended(1) by Proposal 4884 (Murphy), 22 January 2007
+Amended(2) by Proposal 4914 (OscarMeyr), 21 March 2007
+Amended(3) by Proposal 4914 (OscarMeyr), 21 March 2007
+Amended(4) by Proposal 4943 (Goethe), 3 May 2007
+Amended(5) by Proposal 4950 (Zefram), 7 May 2007
+Amended(6) by Proposal 4961 (Zefram), 3 June 2007
+Amended(7) by Proposal 5031 (Zefram), 28 June 2007
+Amended(8) by Proposal 5052 (Zefram), 5 July 2007
+Amended(9) by Proposal 5056 (Murphy), 5 July 2007
+Amended(10) by Proposal 5058 (Zefram), 5 July 2007
+Power changed from 3 to 2 by Proposal 5076 (Murphy), 18 July 2007
+Amended(11) by Proposal 5076 (Murphy), 18 July 2007
+Amended(12) by Proposal 5078 (Zefram), 18 July 2007
+Amended(13) by Proposal 5097 (Zefram), 25 July 2007
+Amended(14) by Proposal 5086 (Zefram), 1 August 2007
+Amended(15) by Proposal 5112 (Murphy), 2 August 2007
+Amended(16) by Proposal 5114 (Zefram), 2 August 2007
+Amended(17) by Proposal 5126 (Zefram), 13 August 2007
+Amended(18) by Proposal 5128 (Zefram, Murphy), 13 August 2007
+Amended(19) by Proposal 5151 (root), 29 August 2007
+Amended(20) by Proposal 5161 (Zefram), 29 August 2007
+Amended(21) by Proposal 5163 (Zefram), 29 August 2007
+Amended(22) by Proposal 5164 (Zefram), 29 August 2007
+Amended(23) by Proposal 5165 (Zefram), 29 August 2007
+Amended(24) by Proposal 5166 (Zefram), 29 August 2007
+Amended(25) by Proposal 5167 (Zefram), 29 August 2007
+Amended(26) by Proposal 5168 (Zefram), 29 August 2007
+Amended(27) by Proposal 5169 (Zefram, OscarMeyr, Pavitra), 29 August 2007
+Amended(28) by Proposal 5170 (Zefram), 29 August 2007
+Amended(29) by Proposal 5176 (Murphy), 29 August 2007
+Amended(30) by Proposal 5197 (Zefram), 6 September 2007
+Amended(31) by Proposal 5202 (Murphy; disi.), 8 September 2007
+Amended(32) by Proposal 5205 (Zefram), 8 September 2007
+Amended(33) by Proposal 5213 (Murphy), 8 September 2007
+Amended(34) by Proposal 5220 (Zefram), 13 September 2007
+Amended(35) by Proposal 5256 (AFO), 27 October 2007
+Amended(36) by Proposal 5255 (AFO), 27 October 2007
+Amended(37) by Proposal 5276 (Murphy, Pavitra, Zefram), 7 November 2007
+Amended(38) by Proposal 5288 (Murphy), 14 November 2007
+Amended(39) by Proposal 5289 (Murphy), 14 November 2007
+Amended(40) by Proposal 5322 (Murphy), 5 December 2007
+Amended(41) by Proposal 5325 (Murphy), 5 December 2007
+Amended(42) by Proposal 5334 (Murphy), 5 December 2007
+Amended(43) by Proposal 5336 (Murphy), 8 December 2007
+Amended(44) by Proposal 5340 (BobTHJ; disi.), 8 December 2007
+Amended(45) by Proposal 5341 (Goethe), 8 December 2007
+Amended(46) by Proposal 5378 (root), 1 January 2008
+Amended(47) by Proposal 5379 (root; disi.), 1 January 2008
+Amended(48) by Proposal 5385 (Murphy; disi.), 1 January 2008
+Retitled by Proposal 5404 (Murphy, pikhq, root), 16 January 2008
+Amended(49) by Proposal 5404 (Murphy, pikhq, root), 16 January 2008
+Retitled by Proposal 5424 (Zefram; disi.), 6 February 2008
+Amended(50) by Proposal 5424 (Zefram; disi.), 6 February 2008
 
 ----------------------------------------------------------------------
 
