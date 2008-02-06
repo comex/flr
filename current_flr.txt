@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5424
+Last proposal with recorded effect on this ruleset: 5425
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -3546,14 +3546,16 @@ Amended(1) by Proposal 5151 (root), 29 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 591/23 (Power=1.7)
+Rule 591/24 (Power=1.7)
 Inquiry Cases
 
       There is a subclass of judicial case known as an inquiry case.
       An inquiry case's purpose is to determine the veracity of a
       particular statement.  An inquiry case CAN be initiated by any
       first-class person, by announcement which includes the statement
-      to be inquired into.
+      to be inquired into.  (Including a yes/no question is equivalent
+      to including a statement that the answer to that question is
+      yes.)
 
       The initiator is unqualified to be assigned as judge of the
       case, and in the initiating announcement e CAN disqualify one
@@ -3591,8 +3593,8 @@ Inquiry Cases
       annotate rules to draw attention to relevant inquiry case
       judgements.
 
-[CFJ 1835 (called 18 December 2007): A question cannot take the place
-of a statement in initiating an inquiry case.]
+[CFJ 1835 (called 18 December 2007): A question cannot generally take
+the place of a statement in initiating an inquiry case.]
 
 [CFJ 1671 (called 17 May 2007): The truth or falsity of a statement
 can be determined as of the initiation of a CFJ even if public
@@ -3651,6 +3653,7 @@ Amended(20) by Proposal 5086 (Zefram), 1 August 2007
 Amended(21) by Proposal 5296 (root), 28 November 2007
 Amended(22) by Proposal 5360 (Murphy), 20 December 2007
 Amended(23) by Proposal 5371 (Zefram), 20 December 2007
+Amended(24) by Proposal 5425 (Murphy), 6 February 2008
 
 ----------------------------------------------------------------------
 
