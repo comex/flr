@@ -3596,6 +3596,10 @@ Inquiry Cases
 [CFJ 1835 (called 18 December 2007): A question cannot generally take
 the place of a statement in initiating an inquiry case.]
 
+[CFJ 1903 (called 6 February 2008): The question-statement equivalence
+established by this rule applies only for the purposes of the subject
+of an inquiry case, not for acting by announcement.]
+
 [CFJ 1671 (called 17 May 2007): The truth or falsity of a statement
 can be determined as of the initiation of a CFJ even if public
 knowledge at the time of initiation was not sufficient to determine
