@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5430
+Last proposal with recorded effect on this ruleset: 5432
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -3144,14 +3144,15 @@ Amended(4) by Proposal 5418 (root), 2 February 2008
 
 ----------------------------------------------------------------------
 
-Rule 2019/13 (Power=2)
+Rule 2019/14 (Power=2)
 Prerogatives
 
       In a timely fashion before the beginning of each month, the
       Speaker SHALL randomly assign each Minister Without Portfolio a
-      different Prerogative for the upcoming month.  If there are more
-      members in one set than the other, then e SHALL randomly choose
-      which members of the larger set take part in the assignment.
+      different Prerogative for the upcoming month by announcement.
+      If there are more members in one set than the other, then e
+      SHALL randomly choose which members of the larger set take part
+      in the assignment.
 
       The following Prerogatives are defined:
 
@@ -3194,6 +3195,7 @@ Amended(10) by Proposal 5257 (AFO), 27 October 2007
 Amended(11) by Proposal 5407 (root), 22 January 2008
 Amended(12) by Proposal 5408 (root), 22 January 2008
 Amended(13) by Proposal 5418 (root), 2 February 2008
+Amended(14) by Proposal 5432 (Goethe), 9 February 2008
 
 ----------------------------------------------------------------------
 
