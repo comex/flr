@@ -4404,10 +4404,10 @@ Making Contract Changes
       If a contract specifies a mechanism by which Contract Changes to
       it can be performed, then such changes CAN be performed using
       that mechanism.
-  
+
       If a contract does not purport to regulate becoming a party to
       it, than any person CAN become a party to it by announcement.
-  
+
       If the minimum number of parties for a contract is at least two,
       then Contract Changes CAN be made to it by agreement between all
       the parties to the contract.  Otherwise, any party to the
