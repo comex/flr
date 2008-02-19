@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5427
+Last proposal with recorded effect on this ruleset: 5429
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -3477,7 +3477,7 @@ Amended(2) by Proposal 5361 (Goethe), 20 December 2007
 
 ----------------------------------------------------------------------
 
-Rule 2158/2 (Power=2)
+Rule 2158/3 (Power=2)
 Judicial Questions
 
       A judicial question is a question that arises within a judicial
@@ -3498,11 +3498,12 @@ Judicial Questions
 
       When a judicial question is applicable and open, and its case
       has a judge assigned to it, the judge CAN assign a valid
-      judgement to it by announcement, and SHALL assign an appropriate
-      judgement to it as soon as possible.  A judgement is valid
-      and/or appropriate only as defined by the rules.  If more than
-      one judgement is valid and appropriate, then the choice between
-      them is left to the judge's discretion.
+      judgement to it by announcement, and SHALL do so as soon as
+      possible.  A judge SHALL NOT assign an inappropriate judgement
+      to any judicial question.  A judgement is valid and/or
+      appropriate only as defined by the rules.  If more than one
+      judgement is valid and appropriate, then the choice between them
+      is left to the judge's discretion.
 
       When a judicial question is applicable and open, and its case
       has the same judge assigned to it, continuously for one week,
@@ -3524,6 +3525,7 @@ History:
 Created by Proposal 5086 (Zefram), 1 August 2007
 Amended(1) by Proposal 5151 (root), 29 August 2007
 Amended(2) by Proposal 5317 (Murphy), 28 November 2007
+Amended(3) by Proposal 5429 (Zefram), 9 February 2008
 
 ----------------------------------------------------------------------
 
