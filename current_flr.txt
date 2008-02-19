@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5425
+Last proposal with recorded effect on this ruleset: 5427
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -2418,7 +2418,7 @@ Amended(14) by Proposal 5078 (Zefram), 18 July 2007
 
 ----------------------------------------------------------------------
 
-Rule 2127/0 (Power=1)
+Rule 2127/1 (Power=1)
 Conditional Votes
 
       A ballot option (vote) on an Agoran decision may be submitted
@@ -2431,8 +2431,20 @@ Conditional Votes
       condition(s) can be reasonably determined, without circularity
       or paradox, from information published within the voting period.
 
+      Casting a vote endorsing another voter is equivalent to
+      conditionally casting a vote whose value is the same as the most
+      common value (if any) among that voter's valid votes on that
+      decision.
+
+      Casting a vote denouncing another voter is equivalent to
+      conditionally casting a vote whose value is opposite to the most
+      common value (if any) among that voter's valid votes on that
+      decision.  FOR and AGAINST are opposites; SUPPORT and OBJECT are
+      opposites; PRESENT is its own opposite.
+
 History:
 Created by Proposal 4875 (Goethe), 1 December 2006
+Amended(1) by Proposal 5427 (Murphy), 9 February 2008
 
 ----------------------------------------------------------------------
 
