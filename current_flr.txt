@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5429
+Last proposal with recorded effect on this ruleset: 5430
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -4110,12 +4110,12 @@ patent title simultaneously.]
 title X, and X is not also defined by the rules to have some special
 meaning, it is correct to say that that person "is an X".]
 
-[Cross-references (16 January 2008): the Herald's duties are:
+[Cross-references (9 February 2008): the Herald's duties are:
   * report Patent Titles (rule 649)
   * announce award or revocation of Patent Title (rule 649)
   * award patent title of Champion (rule 1922)
   * report the manner of wins (rule 1922)
-  * report win dates for Ministers Without Portfolio (rule 402)]
+  * report title dates for Ministers Without Portfolio (rule 402)]
 
 History:
 Created by Proposal 649 (Wes), ca. Oct. 22 1993
@@ -4769,7 +4769,7 @@ Amended(2) by Proposal 5122 (Zefram), 13 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 402/23 (Power=1)
+Rule 402/24 (Power=1)
 Identity of the Speaker
 
       The Speaker is the player who has borne the Patent Title of
@@ -4777,7 +4777,7 @@ Identity of the Speaker
       favor of the player who has been registered the longest.
 
       The Herald's report includes the date on which each Minister
-      Without Portfolio most recently won the game.
+      Without Portfolio most recently was awarded the title.
 
 [Cross-references (27 October 2007): the Speaker's duties are:
   * assign prerogatives to Ministers Without Portfolio (rule 2019)
@@ -4815,6 +4815,7 @@ Amended(21) by Proposal 5182 (Zefram), 29 August 2007
 Retitled by Proposal 5257 (AFO), 27 October 2007
 Amended(22) by Proposal 5257 (AFO), 27 October 2007
 Amended(23) by Proposal 5270 (Murphy; disi.), 7 November 2007
+Amended(24) by Proposal 5430 (Goethe), 9 February 2008
 
 ----------------------------------------------------------------------
 
