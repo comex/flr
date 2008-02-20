@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5436
+Last proposal with recorded effect on this ruleset: 5437
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -18,8 +18,8 @@ Power distribution:
       27 with Power=3
       32 with Power=2
        5 with Power=1.7
-       7 with Power=1.5
-      39 with Power=1
+       8 with Power=1.5
+      38 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -4071,7 +4071,7 @@ Patent Titles and Degrees
       A category concerning titles of honor and dishonor.
 ----------------------------------------------------------------------
 
-Rule 649/26 (Power=1)
+Rule 649/27 (Power=1.5)
 Patent Titles
 
       A Patent Title is a legal item given in recognition of a
@@ -4083,7 +4083,8 @@ Patent Titles
       make that award.  A person so authorized SHALL make the award as
       soon as possible as the conditions authorizing em to make the
       award are posted publicly, unless there is an open judicial
-      question contesting the validity of the conditions.
+      question contesting the validity of the conditions.  Awarding or
+      revoking a Patent Title by Proposal is a secured change.
 
       When a Patent Title is awarded to a person, that person is said
       to Bear that Patent Title.  When a Patent Title is revoked from
@@ -4156,6 +4157,8 @@ Amended(23) by Proposal 5237 (AFO; disi.), 3 October 2007
 Amended(24) by Proposal 5239 (AFO), 3 October 2007
 Amended(25) by Proposal 5341 (Goethe), 8 December 2007
 Amended(26) by Proposal 5412 (woggle), 26 January 2008
+Power changed from 1 to 1.5 by Proposal 5437 (Goethe), 13 February 2008
+Amended(27) by Proposal 5437 (Goethe), 13 February 2008
 
 ----------------------------------------------------------------------
 
@@ -4240,7 +4243,7 @@ Amended(23) by Proposal 5434 (Murphy), 13 February 2008
 
 ----------------------------------------------------------------------
 
-Rule 1367/10 (Power=1.5)
+Rule 1367/11 (Power=1.5)
 Degrees
 
       Certain patent titles are known as degrees.  The degrees are
@@ -4256,8 +4259,7 @@ Degrees
       degrees listed later being ranked higher.
 
       A degree CANNOT be awarded to any person more than once, and
-      CANNOT be revoked once awarded.  The awarding of a degree is a
-      secured change
+      CANNOT be revoked once awarded.
 
       A degree SHOULD be awarded ONLY IF its new bearer has published
       a suitable thesis with explicit intent to qualify for a degree
@@ -4280,6 +4282,7 @@ Amended(8) by Proposal 5085 (Zefram), 1 August 2007
 Power changed from 1 to 1.5 by Proposal 5085 (Zefram), 1 August 2007
 Amended(9) by Proposal 5243 (root; disi.), 7 October 2007
 Amended(10) by Proposal 5276 (Murphy, Pavitra, Zefram), 7 November 2007
+Amended(11) by Proposal 5437 (Goethe), 13 February 2008
 
 ----------------------------------------------------------------------
 
