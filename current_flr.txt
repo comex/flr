@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5434
+Last proposal with recorded effect on this ruleset: 5435
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -4704,13 +4704,17 @@ Frankenstein's Monster
       together of a rule from salvaged parts.
 ----------------------------------------------------------------------
 
-Rule 2193/0 (Power=1)
+Rule 2193/1 (Power=1)
 The Monster
 
       Raaaaaaaaaaaaaargh!
 
+      A public Monster purporting to resolve an Agoran decision is
+      self-ratifying.
+
 History:
 Created by Proposal 5396 (Murphy), 16 January 2008
+Amended(1) by Proposal 5435 (avpx; disi.), 13 February 2008
 
 ----------------------------------------------------------------------
 
