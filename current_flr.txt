@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5435
+Last proposal with recorded effect on this ruleset: 5436
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -3679,7 +3679,7 @@ Amended(24) by Proposal 5425 (Murphy), 6 February 2008
 
 ----------------------------------------------------------------------
 
-Rule 1504/21 (Power=1.7)
+Rule 1504/22 (Power=1.7)
 Criminal Cases
 
       There is a subclass of judicial case known as a criminal case.
@@ -3803,9 +3803,8 @@ Criminal Cases
         e is deregistered.  An exiled entity CANNOT register.
 
       An appeal concerning any assignment of judgement in a criminal
-      case within the past week, other than an assignment caused by a
-      judgement in an appeal case, CAN be initiated by the defendant
-      by announcement.
+      case within the past week CAN be initiated by the defendant by
+      announcement.
 
 [CFJ 1720 (called 12 August 2007): Where a criminal charge is
 expressed in the form "violating rule NNNN by XXX", the alleged act
@@ -3857,6 +3856,7 @@ Amended(18) by Proposal 5349 (Murphy), 13 December 2007
 Amended(19) by Proposal 5371 (Zefram), 20 December 2007
 Amended(20) by Proposal 5386 (Murphy, Zefram), 1 January 2008
 Amended(21) by Proposal 5404 (Murphy, pikhq, root), 16 January 2008
+Amended(22) by Proposal 5436 (Murphy), 13 February 2008
 
 ----------------------------------------------------------------------
 
@@ -3873,7 +3873,7 @@ Created by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
 
 ----------------------------------------------------------------------
 
-Rule 2169/3 (Power=1.7)
+Rule 2169/4 (Power=1.7)
 Equity Cases
 
       There is a subclass of judicial case known as an equity case.
@@ -3916,9 +3916,8 @@ Equity Cases
       agreements.
 
       An appeal concerning any assignment of judgement in an equity
-      case within the past week, other than an assignment caused by a
-      judgement in an appeal case, CAN be initiated by any party to
-      the contract in question by announcement.
+      case within the past week CAN be initiated by any party to the
+      contract in question by announcement.
 
 [CFJ 1772 (called 28 October 2007): An equity case cannot be initiated
 with the rules as the subject contract.]
@@ -3928,10 +3927,11 @@ Created by Proposal 5194 (Zefram), 6 September 2007
 Amended(1) by Proposal 5355 (Murphy; disi.), 16 December 2007
 Amended(2) by Proposal 5371 (Zefram), 20 December 2007
 Amended(3) by Proposal 5387 (Murphy), 1 January 2008
+Amended(4) by Proposal 5436 (Murphy), 13 February 2008
 
 ----------------------------------------------------------------------
 
-Rule 911/18 (Power=1.7)
+Rule 911/19 (Power=1.7)
 Appeal Cases
 
       There is a subclass of judicial case known as an appeal case.
@@ -3944,9 +3944,11 @@ Appeal Cases
       assignment.
 
       An appeal concerning any assignment of judgement in a non-appeal
-      case within the past two weeks, other than an assignment caused
-      by a judgement in an appeal case, CAN be initiated by any player
-      with 2 support.
+      case within the past two weeks CAN be initiated by any player
+      with 2 support.  However, rules to the contrary notwithstanding,
+      an appeal CANNOT be initiated concerning an assignment caused by
+      a judgement in an appeal case, nor an assignment for which an
+      appeal has already been initiated.
 
       The entities qualified to be assigned as judge of an appeal case
       are the judicial panels consisting of three members, where each
@@ -4037,6 +4039,7 @@ Power changed from 1 to 1.7 by Proposal 5086 (Zefram), 1 August 2007
 Amended(16) by Proposal 5086 (Zefram), 1 August 2007
 Amended(17) by Proposal 5359 (Murphy), 20 December 2007
 Amended(18) by Proposal 5361 (Goethe), 20 December 2007
+Amended(19) by Proposal 5436 (Murphy), 13 February 2008
 
 ----------------------------------------------------------------------
 
