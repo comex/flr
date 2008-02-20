@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5437
+Last proposal with recorded effect on this ruleset: 5439
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -3445,7 +3445,7 @@ Amended(20) by Proposal 5261 (root; disi.), 31 October 2007
 
 ----------------------------------------------------------------------
 
-Rule 2157/2 (Power=1.7)
+Rule 2157/3 (Power=1.7)
 Judicial Panels
 
       A judicial panel is a structure whereby a group of two or more
@@ -3457,13 +3457,15 @@ Judicial Panels
 
       A judicial panel CAN send messages by means of any of its
       members sending a message identified as being from the panel,
-      with the unanimous agreement of the panel's members, or with the
-      majority agreement of the members and the consent of the CotC.
-      The CotC SHOULD consent to a majority action if the panel has
-      made a reasonable effort to achieve consensus.  By this
-      mechanism a judicial panel can act, in situations where the
-      rules state that an action is performed by sending a message.  A
-      judicial panel can incur obligations.  The members of a panel
+      with the unanimous agreement of the panel's members, or (if the
+      CotC is not a member) with the majority agreement of the members
+      and the consent of the CotC.  The CotC SHOULD consent to a
+      majority action if the panel has made a reasonable effort to
+      achieve consensus.  By this mechanism a judicial panel can act,
+      in situations where the rules state that an action is performed
+      by sending a message.
+
+      A judicial panel can incur obligations.  The members of a panel
       SHALL act collectively to ensure that the panel satisfies all of
       its obligations.
 
@@ -3478,6 +3480,7 @@ History:
 Created by Proposal 5086 (Zefram), 1 August 2007
 Amended(1) by Proposal 5134 (root), 17 August 2007
 Amended(2) by Proposal 5361 (Goethe), 20 December 2007
+Amended(3) by Proposal 5439 (Murphy), 13 February 2008
 
 ----------------------------------------------------------------------
 
