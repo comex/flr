@@ -2371,11 +2371,11 @@ The Assessor
 [CFJs 1758-1759 (called 30 September 2007): If Assessorship changes
 hands, vote collection duties move with it.]
 
-[Cross-references (16 January 2008): the Assessor's duties are:
+[Cross-references (25 February 2008): the Assessor's duties are:
   * report date of most recent emergency session (rule 2177)
   * report roll call of most recent emergency session (rule 2177)
   * default vote collector for Agoran decisions (rule 2137)
-  * report EVLOP (rule 2156)]
+  * report EVLOD (rule 2156)]
 
 History:
 Created by Proposal 4939 (Murphy), 29 April 2007
