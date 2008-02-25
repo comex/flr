@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5439
+Last proposal with recorded effect on this ruleset: 5444
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -4713,7 +4713,7 @@ Frankenstein's Monster
       together of a rule from salvaged parts.
 ----------------------------------------------------------------------
 
-Rule 2193/1 (Power=1)
+Rule 2193/2 (Power=1)
 The Monster
 
       Raaaaaaaaaaaaaargh!
@@ -4721,9 +4721,19 @@ The Monster
       A public Monster purporting to resolve an Agoran decision is
       self-ratifying.
 
+      There is a format of the Monsterset known as the Short Logical
+      Monsterset (SLM).  In this format, each Monster is assigned to a
+      category, and the Monsters are grouped according to their
+      category.
+
+      Monsters are assigned to, ordered within, or moved between
+      categories, and categories are added, changed, or empty
+      categories removed, as the Monsterkeepor sees fit.
+
 History:
 Created by Proposal 5396 (Murphy), 16 January 2008
 Amended(1) by Proposal 5435 (avpx; disi.), 13 February 2008
+Amended(2) by Proposal 5444 (avpx; disi.), 21 February 2008
 
 ----------------------------------------------------------------------
 
