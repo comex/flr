@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5444
+Last proposal with recorded effect on this ruleset: 5445
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -16,10 +16,10 @@ Current total number of rules: 111
 Power distribution:
        1 with Power=4
       27 with Power=3
-      32 with Power=2
+      33 with Power=2
        5 with Power=1.7
        8 with Power=1.5
-      38 with Power=1
+      37 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -84,7 +84,7 @@ Index of Rules
       Rule 2166: Assets
       Rule 2181: The Accountor
       Rule 1728: Dependent Actions
-      Rule 2124: Methods of Dependent Actions
+      Rule 2124: Agoran Satisfaction
       Rule 1769: Holidays
       Rule 1750: Read the Ruleset Week
 
@@ -1345,7 +1345,7 @@ Amended(22) by Proposal 5291 (root), 14 November 2007
 
 ----------------------------------------------------------------------
 
-Rule 2170/0 (Power=3)
+Rule 2170/1 (Power=3)
 Who Am I?
 
       A public message's claim as to who published it is
@@ -1353,8 +1353,14 @@ Who Am I?
       challenge of identity pertaining to the claimed publisher has
       been issued within one month before its publication.
 
+      The Executor of a public message is the first-class person who
+      sends it, or who most directly and immediately causes it to be
+      sent.  The executor of an action performed by announcement is
+      the executor of the announcement.
+
 History:
 Created by Proposal 5212 (Murphy), 8 September 2007
+Amended(1) by Proposal 5445 (Goethe, Murphy), 21 February 2008
 
 ----------------------------------------------------------------------
 
@@ -1790,47 +1796,54 @@ Created by Proposal 5363 (Murphy; disi.), 20 December 2007
 
 ----------------------------------------------------------------------
 
-Rule 1728/17 (Power=2)
+Rule 1728/18 (Power=2)
 Dependent Actions
 
-      An announcement of intent to perform a dependent action,
-      unambiguously describing the action and method of dependent
-      action, initiates the Agoran decision of whether to approve the
-      action.  For this decision:
+      A player CAN perform an action dependently (a dependent action)
+      if and only if the Rules explicitly authorize the player to
+      perform the action by one of the following methods:
 
-      (a) The vote collector is the announcer.
+      - Without N Objections, where N is a nonnegative integer;
+      - With N Supporters, where N is a nonnegative integer; or
+      - With N Agoran Consent, where N is an integer multiple of 0.1,
+        with a minimum of 1.0.
 
-      (b) The available options are SUPPORT and OBJECT.
+      The phrase "Without Objection" is synonymous with "Without 1
+      Objection"; the phrase "With Support" is synonymous with "With 1
+      Supporter"; the phrase "With Agoran Consent" is synonymous with
+      "With 1.0 Agoran Consent".
 
-      (c) The voting period ends after fourteen days or immediately
-          before it is resolved, whichever comes first.
+      A player authorized to perform a dependent action (the
+      initiator) CAN publicly announce eir intent to do so,
+      unambiguously describing both the action and the method,
+      including the required value for N.  A player (the performer)
+      CAN perform a previously unambiguously described dependent
+      action by announcement, if and only if all of the following are
+      true:
 
-      (d) The eligible voters are those entities that were active
-          first-class players at the start of the voting period,
-          except for any entities disqualified by the rule specifying
-          that the action can be performed dependently.
+      (a) the time elapsed since the announcement of intent is no more
+          than fourteen days, and (if the action is to be performed
+          Without N Objections or With N Agoran Consent) at least four
+          days;
 
-      (e) The voting limit of each eligible voter is one.
+      (b) either the performer was the initiator, or the initiator was
+          authorized to perform the action by virtue of holding a
+          rules-defined position and the performer is the holder of
+          that position when e attempts to perform the action; and
 
-      (f) The vote collector of such a decision CANNOT resolve it if
-          it was initiated more than fourteen days ago, or (if it has
-          an objection and/or majority index) less than four days ago.
+      (c) At the time the action is attempted, Agora is Satisfied with
+          the announced intent, as described elsewhere.
 
-      (g) If the outcome is APPROVED, then the vote collector performs
-          the action upon resolving the decision.
-
-      (h) The announcer, by virtue of the announcement of intent,
-          implicitly submits a ballot of SUPPORT on the Agoran
-          decision, if e is an eligible voter and does not explicitly
-          repudiate this implication in the announcement.
-
-      The specification in the rules that an action can be performed
+      The specification in the rules that an action may be performed
       dependently does not prohibit performing that action
       independently if doing so would otherwise be permissible.
 
 [CFJ 1722 (called 15 August 2007): The method of dependent action need
 not be described exactly: an approximate but inexact description
 suffices, as does the rule-defined term.]
+
+[CFJ 1802 (called 19 November 2007): The phrase "by Agoran Support" is
+not an unambiguous description of a method of dependent action.]
 
 History:
 Created by Proposal 3521 (Chuck), Jun. 23 1997
@@ -1853,27 +1866,37 @@ Amended(14) by Proposal 4999 (Zefram), 12 June 2007
 Amended(15) by Proposal 5007 (Zefram), 18 June 2007
 Amended(16) by Proposal 5113 (Murphy, Maud), 2 August 2007
 Amended(17) by Proposal 5370 (Zefram), 20 December 2007
+Amended(18) by Proposal 5445 (Goethe, Murphy), 21 February 2008
 
 ----------------------------------------------------------------------
 
-Rule 2124/5 (Power=1)
-Methods of Dependent Actions
+Rule 2124/6 (Power=2)
+Agoran Satisfaction
 
-      The following methods of dependent actions are defined:
+      A Supporter of a dependent action is a first-class player who
+      has publicly posted (and not withdrawn) support for an
+      announcement of intent to perform the action.  An Objector to a
+      dependent action is a first-class player who has publicly posted
+      (and not withdrawn) an objection to the announcement of intent
+      to perform the action.
 
-      (a) With N Supporters.  For this method, the support index is
-          N+1.  "With Support" is synonymous with "With 1 Supporter".
+      The Executor of such an announcement of intent CANNOT support
+      nor object to it.  A rule authorizing the performance of a
+      dependent action may further restrict the eligibility of players
+      to support or object to that specific action.
 
-      (b) Without N Objections.  For this method, the objection index
-          is N.  "Without Objection" is synonymous with "Without 1
-          Objection".
+      Agora is Satisfied with an intent to perform a specific action
+      if and only if:
 
-      (c) With N Agoran Consent.  For this method, the majority index
-          is N.  "With Agoran Consent" is synonymous with "With 1/2
-          Agoran Consent".
+      (1) the action is to be performed Without N Objections, and it
+          has fewer than N objectors;
 
-[CFJ 1802 (called 19 November 2007): The phrase "by Agoran Support" is
-not an unambiguous description of a method of dependent action.]
+      (2) the action is to be performed With N supporters, and it has
+          N or more supporters; or
+
+      (3) the action is to be performed with N Agoran Consent, and the
+          ratio of supporters to objectors is greater than N, or the
+          action has at least one supporter and no objectors.
 
 History:
 Created by Proposal 4853 (Goethe), 18 March 2006
@@ -1883,6 +1906,9 @@ Amended(3) by Proposal 4978 (Murphy), 31 May 2007
 Retitled by Proposal 5113 (Murphy, Maud), 2 August 2007
 Amended(4) by Proposal 5113 (Murphy, Maud), 2 August 2007
 Amended(5) by Proposal 5370 (Zefram), 20 December 2007
+Power changed from 1 to 2 by Proposal 5445 (Goethe, Murphy), 21 February 2008
+Retitled by Proposal 5445 (Goethe, Murphy), 21 February 2008
+Amended(6) by Proposal 5445 (Goethe, Murphy), 21 February 2008
 
 ----------------------------------------------------------------------
 
@@ -2266,7 +2292,7 @@ Amended(9) by Proposal 4887 (Murphy), 22 January 2007
 
 ----------------------------------------------------------------------
 
-Rule 107/7 (Power=3)
+Rule 107/8 (Power=3)
 Initiating Agoran Decisions
 
       An Agoran decision is initiated when a person authorized to
@@ -2293,8 +2319,7 @@ Initiating Agoran Decisions
       The publication of such a valid notice initiates the voting
       period for the decision.  By default, the voting period lasts
       for seven days.  Rules to the contrary notwithstanding, the
-      voting period for a decision cannot be shorter than seven days,
-      unless the decision is whether to approve a dependent action.
+      voting period for a decision cannot be shorter than seven days.
 
 [CFJ 1650 (called 6 May 2007): The intent to initiate the decision and
 the information required in the notice need not be explicit.]
@@ -2330,6 +2355,7 @@ Amended(4) by Proposal 4964 (Murphy), 3 June 2007
 Amended(5) by Proposal 5113 (Murphy, Maud), 2 August 2007
 Amended(6) by Proposal 5229 (root), 27 September 2007
 Amended(7) by Proposal 5413 (root), 26 January 2008
+Amended(8) by Proposal 5445 (Goethe, Murphy), 21 February 2008
 
 ----------------------------------------------------------------------
 
@@ -2535,7 +2561,7 @@ Created by Proposal 5418 (root), 2 February 2008
 
 ----------------------------------------------------------------------
 
-Rule 955/12 (Power=3)
+Rule 955/13 (Power=3)
 Determining the Will of Agora
 
       The outcome of an Agoran decision is determined as follows.
@@ -2551,22 +2577,6 @@ Determining the Will of Agora
           AGAINST.  If the voting index is greater than 1, and greater
           than or equal to the decision's adoption index, then the
           outcome is ADOPTED; otherwise, the outcome is REJECTED.
-
-      (d) If the decision is whether to approve a dependent action:
-
-          (1) If the strength of OBJECT is greater than or equal to
-              the objection index (if any), then the outcome is
-              REJECTED.
-
-          (2) If the strength of SUPPORT is less than the support
-              index (if any), then the outcome is REJECTED.
-
-          (3) If the ratio of the strength of SUPPORT to the combined
-              strength of SUPPORT and OBJECT is less than or equal to
-              the majority index (if any), then the outcome is
-              REJECTED.
-
-          (4) Otherwise, the outcome is APPROVED.
 
 [CFJs 1673-1675 (called 20 May 2007): Quorum for an Agoran decision is
 determined at the time the vote collector makes the calculations
@@ -2593,17 +2603,17 @@ Amended(9) by Proposal 4811 (Maud, Goethe), 20 June 2005
 Amended(10) by Proposal 4868 (Goethe), 27 August 2006
 Amended(11) by Proposal 5113 (Murphy, Maud), 2 August 2007
 Amended(12) by Proposal 5418 (root), 2 February 2008
+Amended(13) by Proposal 5445 (Goethe, Murphy), 21 February 2008
 
 ----------------------------------------------------------------------
 
-Rule 879/26 (Power=2)
+Rule 879/27 (Power=2)
 Quorum
 
       Quorum for an Agoran decision is N/3 (where N is the number of
       eligible voters with a positive voting limit on that decision),
       rounded up, with a minimum of five (unless this is greater than
-      N, in which case quorum is N, or the decision is whether to
-      approve a dependent action, in which case quorum is zero).
+      N, in which case quorum is N).
 
 [CFJ 1562 (called 3 May 2005): A cancelled vote on a Proposal does not
 count towards quorum.]
@@ -2643,6 +2653,7 @@ Amended(23) by Proposal 4964 (Murphy), 3 June 2007
 Amended(24) by Proposal 4997 (Zefram, Goddess Eris), 6 June 2007
 Amended(25) by Proposal 5000 (Murphy), 12 June 2007
 Amended(26) by Proposal 5113 (Murphy, Maud), 2 August 2007
+Amended(27) by Proposal 5445 (Goethe, Murphy), 21 February 2008
 
 ----------------------------------------------------------------------
 
