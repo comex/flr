@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5446
+Last proposal with recorded effect on this ruleset: 5447
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -2945,13 +2945,13 @@ Amended(20) by Proposal 5418 (root), 2 February 2008
 
 ----------------------------------------------------------------------
 
-Rule 2156/5 (Power=2)
+Rule 2156/6 (Power=2)
 Voting on Ordinary Decisions
 
       Each player has an associated number known as eir base voting
       limit on ordinary decisions (BVLOD).  The BVLOD of a first-class
-      player is four, and the BVLOD of any other player is zero.
-      BVLOD cannot be modified.
+      player is four, the BVLOD of a province is four, and the BVLOD
+      of any other player is zero.  BVLOD cannot be modified.
 
       Each player has an associated number known as eir volatile
       voting limit on ordinary decisions (VVLOD).  Whenever a player
@@ -2982,6 +2982,7 @@ Amended(3) by Proposal 5276 (Murphy, Pavitra, Zefram), 7 November 2007
 Amended(4) by Proposal 5358 (Murphy), 20 December 2007
 Retitled by Proposal 5418 (root), 2 February 2008
 Amended(5) by Proposal 5418 (root), 2 February 2008
+Amended(6) by Proposal 5447 (Pavitra), 24 February 2008
 
 ----------------------------------------------------------------------
 
