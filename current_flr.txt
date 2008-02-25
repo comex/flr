@@ -1,17 +1,17 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5445
+Last proposal with recorded effect on this ruleset: 5446
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
-      highest orderly: 2199
+      highest orderly: 2200
       disorderly: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 111
+Current total number of rules: 112
 
 Power distribution:
        1 with Power=4
@@ -19,7 +19,7 @@ Power distribution:
       33 with Power=2
        5 with Power=1.7
        8 with Power=1.5
-      37 with Power=1
+      38 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -162,6 +162,7 @@ Index of Rules
       Rule 2192: The Mad Scientist
 
       * Foreign Relations
+      Rule 2200: Nomic Definitions
       Rule 2135: Advertising
       Rule  402: Identity of the Speaker
       Rule  103: Role of the Speaker
@@ -4789,6 +4790,32 @@ Foreign Relations
       other nomics.
 ----------------------------------------------------------------------
 
+Rule 2200/0 (Power=1)
+Nomic Definitions
+
+      A nomic ruleset is a set of explicit rules that provides means
+      for itself to be altered arbitrarily, including changes to those
+      rules that govern rule changes. Not all rule changes need be
+      possible in one step; an arbitrarily complex combination of
+      actions (possibly including intermediate rule changes) can be
+      required, so long as any rule change is theoretically achievable
+      in finite time.
+
+      A nomic is the single entity defined by a nomic ruleset as a
+      whole.  Each nomic ruleset defines exactly one nomic, and each
+      nomic is defined by exactly one nomic ruleset.
+
+      A foreign nomic is a nomic that is not Agora. Adopting the name
+      of "Agora" does not disqualify a nomic from being foreign; any
+      nomic that is not the One True Agora is a foreign nomic.
+
+      A province is a protectorate that is registered as a player.
+
+History:
+Created by Proposal 5446 (Pavitra, Zefram), 24 February 2008
+
+----------------------------------------------------------------------
+
 Rule 2135/2 (Power=1)
 Advertising
 
@@ -4890,9 +4917,6 @@ Foreign communications
       use the forum (if any) specified by that nomic for announcing
       that type of event.
 
-[CFJ 1879 (called 19 January 2008): Canada is not a nomic, because its
-primary purpose is not enjoyment.]
-
 History:
 Created by Proposal 5390 (Murphy), 16 January 2008
 
@@ -4986,8 +5010,6 @@ Foreign Relations
       The Ambassador CAN, without objection, flip a foreign nomic's
       Recognition to any value (subject to the above restriction).  E
       SHALL inform that nomic of the change as soon as possible.
-
-[CFJ 1860 (called 8 January 2008): A human is not a nomic.]
 
 History:
 Created by Proposal 5392 (Murphy), 16 January 2008
