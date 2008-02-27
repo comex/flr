@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5447
+Last proposal with recorded effect on this ruleset: 5450
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -2493,14 +2493,14 @@ Created by Proposal 5191 (root), 6 September 2007
 
 ----------------------------------------------------------------------
 
-Rule 208/5 (Power=3)
+Rule 208/6 (Power=3)
 Resolving Agoran decisions
 
-      The vote collector for an unresolved Agoran decision may resolve
-      it by announcement, indicating the option selected by Agora.  E
-      SHALL do so as soon as possible after the end of the voting
-      period.  To be valid, this announcement must satisfy the
-      following conditions:
+      The vote collector for an unresolved Agoran decision CAN resolve
+      it by announcement, indicating the option selected by Agora.  If
+      it was required to be initiated, then e SHALL resolve it as soon
+      as possible after the end of the voting period.  To be valid,
+      this announcement must satisfy the following conditions:
 
       (a) It is published after the voting period has ended.
 
@@ -2537,6 +2537,7 @@ Power changed from 1 to 3 by Proposal 4811 (Maud, Goethe), 20 June 2005
 Amended(3) by Proposal 4811 (Maud, Goethe), 20 June 2005
 Amended(4) by Proposal 5113 (Murphy, Maud), 2 August 2007
 Amended(5) by Proposal 5229 (root), 27 September 2007
+Amended(6) by Proposal 5450 (Murphy), 27 February 2008
 
 ----------------------------------------------------------------------
 
