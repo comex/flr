@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5452
+Last proposal with recorded effect on this ruleset: 5453
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -2046,7 +2046,7 @@ Amended(23) by Proposal 5407 (root), 22 January 2008
 
 ----------------------------------------------------------------------
 
-Rule 2154/6 (Power=2)
+Rule 2154/7 (Power=2)
 Replacing Officers
 
       Any player CAN make an active player (hereafter the nominee) the
@@ -2065,11 +2065,10 @@ Replacing Officers
       In an election, the valid options are the consenting nominees
       (hereafter the candidates), quorum is the lesser of three and
       the number of active players (other rules on quorum
-      notwithstanding), the eligible voters are the active players,
-      and the vote collector is the IADoP.  In the notice resolving
-      the decision, the IADoP will select a candidate that received at
-      least as many votes as any other candidate; this candidate
-      thereby becomes the officeholder.
+      notwithstanding), the eligible voters are the active players.
+      In the notice resolving the decision, the IADoP will select a
+      candidate that received at least as many votes as any other
+      candidate; this candidate thereby becomes the officeholder.
 
       Stability is an elected office switch, tracked by the IADoP,
       with values Temporal (default) and Perpetual.  Any player CAN
@@ -2091,6 +2090,7 @@ Amended(3) by Proposal 5133 (Zefram), 13 August 2007
 Amended(4) by Proposal 5224 (Murphy), 23 September 2007
 Amended(5) by Proposal 5407 (root), 22 January 2008
 Amended(6) by Proposal 5452 (Murphy), 1 March 2008
+Amended(7) by Proposal 5453 (Murphy), 1 March 2008
 
 ----------------------------------------------------------------------
 
@@ -2360,27 +2360,24 @@ Amended(8) by Proposal 5445 (Goethe, Murphy), 21 February 2008
 
 ----------------------------------------------------------------------
 
-Rule 2137/1 (Power=1)
+Rule 2137/2 (Power=1)
 The Assessor
 
       The Assessor is an office; its holder is responsible for
       collecting votes and keeping track of related properties.
 
-      The Assessor is the default vote collector for all Agoran
-      decisions that do not specify a different vote collector.
-
 [CFJs 1758-1759 (called 30 September 2007): If Assessorship changes
 hands, vote collection duties move with it.]
 
-[Cross-references (25 February 2008): the Assessor's duties are:
+[Cross-references (1 March 2008): the Assessor's duties are:
   * report date of most recent emergency session (rule 2177)
   * report roll call of most recent emergency session (rule 2177)
-  * default vote collector for Agoran decisions (rule 2137)
   * report EVLOD (rule 2156)]
 
 History:
 Created by Proposal 4939 (Murphy), 29 April 2007
 Amended(1) by Proposal 5078 (Zefram), 18 July 2007
+Amended(2) by Proposal 5453 (Murphy), 1 March 2008
 
 ----------------------------------------------------------------------
 
@@ -2493,7 +2490,7 @@ Created by Proposal 5191 (root), 6 September 2007
 
 ----------------------------------------------------------------------
 
-Rule 208/6 (Power=3)
+Rule 208/7 (Power=3)
 Resolving Agoran decisions
 
       The vote collector for an unresolved Agoran decision CAN resolve
@@ -2510,7 +2507,11 @@ Resolving Agoran decisions
           described elsewhere, and provides a tally of the voters'
           valid ballots on the various options.
 
-      Each Agoran decision has exactly one vote collector.
+      Each Agoran decision has exactly one vote collector, defaulting
+      to the initiator of the decision.  If the vote collector is
+      defined by reference to a position (or, in the default case, if
+      the initiator was so defined), then the vote collector is the
+      current holder of that position.
 
       This rule takes precedence over any rule that would provide
       another mechanism by which an Agoran decision may be resolved.
@@ -2538,6 +2539,7 @@ Amended(3) by Proposal 4811 (Maud, Goethe), 20 June 2005
 Amended(4) by Proposal 5113 (Murphy, Maud), 2 August 2007
 Amended(5) by Proposal 5229 (root), 27 September 2007
 Amended(6) by Proposal 5450 (Murphy), 27 February 2008
+Amended(7) by Proposal 5453 (Murphy), 1 March 2008
 
 ----------------------------------------------------------------------
 
@@ -2691,7 +2693,7 @@ Proposals
       which changes are made to the game.
 ----------------------------------------------------------------------
 
-Rule 106/11 (Power=3)
+Rule 106/12 (Power=3)
 Adopting Proposals
 
       A proposal is a document outlining changes to be made to Agora,
@@ -2714,7 +2716,7 @@ Adopting Proposals
 
       Determining whether to adopt a proposal is an Agoran decision.
       For this decision, the adoption index is the adoption index of
-      the proposal.
+      the proposal, and the vote collector is the Assessor.
 
       If the option selected by Agora on this decision is ADOPTED,
       then the proposal is adopted, and unless other rules prevent it
@@ -2769,6 +2771,7 @@ Amended(8) by Proposal 5083 (Zefram), 1 August 2007
 Amended(9) by Proposal 5334 (Murphy), 5 December 2007
 Amended(10) by Proposal 5356 (root), 16 December 2007
 Amended(11) by Proposal 5418 (root), 2 February 2008
+Amended(12) by Proposal 5453 (Murphy), 1 March 2008
 
 ----------------------------------------------------------------------
 
