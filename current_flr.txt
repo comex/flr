@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5453
+Last proposal with recorded effect on this ruleset: 5455
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -2293,7 +2293,7 @@ Amended(9) by Proposal 4887 (Murphy), 22 January 2007
 
 ----------------------------------------------------------------------
 
-Rule 107/8 (Power=3)
+Rule 107/9 (Power=3)
 Initiating Agoran Decisions
 
       An Agoran decision is initiated when a person authorized to
@@ -2314,8 +2314,8 @@ Initiating Agoran Decisions
 
       (d) The identity of the vote collector.
 
-      (e) Any additional information required by the rules for this
-          announcement.
+      (e) Any additional information defined by the rules as essential
+          parameters.
 
       The publication of such a valid notice initiates the voting
       period for the decision.  By default, the voting period lasts
@@ -2357,6 +2357,7 @@ Amended(5) by Proposal 5113 (Murphy, Maud), 2 August 2007
 Amended(6) by Proposal 5229 (root), 27 September 2007
 Amended(7) by Proposal 5413 (root), 26 January 2008
 Amended(8) by Proposal 5445 (Goethe, Murphy), 21 February 2008
+Amended(9) by Proposal 5455 (Murphy), 1 March 2008
 
 ----------------------------------------------------------------------
 
@@ -2543,7 +2544,7 @@ Amended(7) by Proposal 5453 (Murphy), 1 March 2008
 
 ----------------------------------------------------------------------
 
-Rule 2196/0 (Power=3)
+Rule 2196/1 (Power=3)
 Standard Classes of Agoran Decisions
 
       An Agoran decision with an adoption index is either ordinary or
@@ -2551,8 +2552,8 @@ Standard Classes of Agoran Decisions
       than or equal to 2 is democratic.  Any other Agoran decision
       with an adoption index is ordinary by default.
 
-      If an Agoran decision has an adoption index, the message by
-      which it is initiated MUST include the following information:
+      If an Agoran decision has an adoption index, then the following
+      are essential parameters:
 
       a) Its adoption index.
       b) Whether it is ordinary or democratic.
@@ -2562,6 +2563,7 @@ Standard Classes of Agoran Decisions
 
 History:
 Created by Proposal 5418 (root), 2 February 2008
+Amended(1) by Proposal 5455 (Murphy), 1 March 2008
 
 ----------------------------------------------------------------------
 
