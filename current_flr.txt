@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5451
+Last proposal with recorded effect on this ruleset: 5452
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -2046,38 +2046,30 @@ Amended(23) by Proposal 5407 (root), 22 January 2008
 
 ----------------------------------------------------------------------
 
-Rule 2154/5 (Power=2)
+Rule 2154/6 (Power=2)
 Replacing Officers
 
       Any player CAN make an active player (hereafter the nominee) the
       holder of an elected office, thus removing any previous holder
-      from the office, with Agoran Consent, provided that the nominee
-      consents to hold the office after the announcement of intent is
-      made.
+      from the office, with Agoran Consent and the nominee's consent;
+      this process is known as installation.
 
-      If intent to achieve consent for a nominee is announced as
-      above, then any other active player may be nominated for the
-      position with eir own consent by announcement, during the
-      minimum waiting period between intent and action defined for
-      Agoran Consent.
+      If, during the minimum waiting period between intent and action
+      defined for Agoran Consent, another active player is nominated
+      in this way and consents, then the IADoP SHALL as soon as
+      possible initiate an Agoran decision to determine the new
+      officeholder; this process is known as election.  Until the
+      election is resolved, the office CANNOT change hands via
+      installation, the remainder of this rule notwithstanding.
 
-      If, at the end of this period, there is more than one consenting
-      nominee, then officeholding cannot be changed by means of this
-      Agoran consent (even if consent was achieved), and the IADoP
-      SHALL as soon as possible initiate an Agoran decision to
-      determine the new officeholder.  Until this Agoran decision is
-      resolved, the office cannot change hands by the mechanism of
-      this rule.
-
-      In the Agoran decision to determine a new officeholder, the
-      valid options are the nominees, quorum is the lesser of three
-      and the number of active players (other rules on quorum
+      In an election, the valid options are the consenting nominees
+      (hereafter the candidates), quorum is the lesser of three and
+      the number of active players (other rules on quorum
       notwithstanding), the eligible voters are the active players,
       and the vote collector is the IADoP.  In the notice resolving
-      the decision, the IADoP will select one nominee from the set of
-      nominees which each received the largest number of votes; this
-      chosen nominee becomes the officeholder upon the posting of the
-      valid notice.
+      the decision, the IADoP will select a candidate that received at
+      least as many votes as any other candidate; this candidate
+      thereby becomes the officeholder.
 
       Stability is an elected office switch, tracked by the IADoP,
       with values Temporal (default) and Perpetual.  Any player CAN
@@ -2085,10 +2077,10 @@ Replacing Officers
       office becomes Temporal when its holder leaves office.
 
       If an office is Temporal at the end of a quarter, and no attempt
-      to change the holder of that office with Agoran consent was made
-      during that quarter, then the IADoP SHALL make at least one such
-      attempt in the following quarter, and SHALL make the change if
-      consent is achieved.  These requirements are waived if another
+      to install a player into that office was made during that
+      quarter, then the IADoP SHALL make at least one such attempt
+      during the following quarter, and SHALL make the change if
+      possible; however, these requirements are waived if another
       player makes such a change during the following quarter.
 
 History:
@@ -2098,6 +2090,7 @@ Amended(2) by Proposal 5108 (Zefram; disi.), 2 August 2007
 Amended(3) by Proposal 5133 (Zefram), 13 August 2007
 Amended(4) by Proposal 5224 (Murphy), 23 September 2007
 Amended(5) by Proposal 5407 (root), 22 January 2008
+Amended(6) by Proposal 5452 (Murphy), 1 March 2008
 
 ----------------------------------------------------------------------
 
@@ -2118,8 +2111,9 @@ The International Associate Director of Personnel
 [CFJ 1672 (called 18 May 2007): The International Associate Director
 of Personnel is the Director of Personnel.]
 
-[Cross-references (16 January 2008): the IADoP's duties are:
+[Cross-references (1 March 2008): the IADoP's duties are:
   * hold election for office where contested (rule 2154)
+  * track stability of elected offices (rule 2154)
   * attempt to change officeholders quarterly (rule 2154)
   * report officeholding (rule 2138)
   * award long service patent titles (rule 1922)]
