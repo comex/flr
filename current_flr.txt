@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5450
+Last proposal with recorded effect on this ruleset: 5451
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -466,18 +466,23 @@ Created by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
 
 ----------------------------------------------------------------------
 
-Rule 2110/4 (Power=3)
+Rule 2110/5 (Power=3)
 Win by Paradox
 
-      Upon a judicial finding that the possibility or legality of a
-      rule-defined action (actual or hypothetical, but not arising
+      A tortoise is an inquiry case on the possibility or legality of
+      a rule-defined action (actual or hypothetical, but not arising
       from that case itself, and not occurring after the initiation of
-      that case) is UNDECIDABLE, the initiator satisfies the Winning
-      Condition of Paradox.
+      that case) for which the question of veracity is UNDECIDABLE.
+
+      Upon a win announcement that a tortoise has continuously been a
+      tortoise for no greater than four and no less than two weeks,
+      the initiator satisfies the Winning Condition of Paradox.
 
       Cleanup procedure:  Each winner satisfying this Winning
       Condition SHALL, as soon as possible, make a reasonable attempt
-      to resolve the paradox.
+      to resolve the paradox.  The same person can not satisfy this
+      Winning Condition again for the same tortoise or for any other
+      tortoise that was linked to it in assignment.
 
 History:
 Created by Proposal 4781 (Sherlock), 3 June 2005
@@ -486,6 +491,7 @@ Amended(2) by Proposal 5195 (Zefram), 6 September 2007
 Amended(3) by Proposal 5297 (Murphy), 22 November 2007
 Amended(4) by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
   16 January 2008
+Amended(5) by Proposal 5451 (root, Murphy, Zefram), 1 March 2008
 
 ----------------------------------------------------------------------
 
