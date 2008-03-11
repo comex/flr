@@ -1779,6 +1779,9 @@ recordkeepor to create assets does not include an ability to determine
 who possesses them when created, so they are necessarily owned by the
 Bank upon creation.]
 
+[Note (11 March 2008): The existence of this rule is in question due
+to a scam.  A CFJ on this is probably imminent.]
+
 History:
 Created by Proposal 5173 (Murphy), 29 August 2007
 Amended(1) by Proposal 5216 (Murphy), 13 September 2007
