@@ -2172,7 +2172,6 @@ Ratification
 
       Ratifying a public document is secured.
 
-
 History:
 Created by Proposal 2425, Jan. 30 1996
 Infected and Amended(1) by Rule 1454, Feb. 4 1997, substantial
