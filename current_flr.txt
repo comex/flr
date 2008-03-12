@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5455
+Last proposal with recorded effect on this ruleset: 5454
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -2226,29 +2226,26 @@ Amended(11) by Proposal 5315 (Murphy), 28 November 2007
 
 ----------------------------------------------------------------------
 
-Rule 2160/2 (Power=1)
+Rule 2160/3 (Power=1)
 Deputisation
 
       Any player (a deputy) CAN perform an action as if e held a
-      particular position (deputise for that position) if:
+      particular office (deputise for that office) if:
 
-      (a) the rules require the holder of that position, by virtue of
-          holding that position, to perform the action (or, if the
-          position is vacant, would so require if the position were
+      (a) the rules require the holder of that office, by virtue of
+          holding that office, to perform the action (or, if the
+          office is vacant, would so require if the office were
           filled); and
 
       (b) a time limit by which the rules require the action to be
           performed has expired; and
 
       (c) the deputy announced between two and fourteen days earlier
-          that e intended to deputise for that position for the
-          purposes of the particular action; and
+          that e intended to deputise for that office for the purposes
+          of the particular action; and
 
       (d) it would be POSSIBLE for the deputy to perform the action,
-          other than by deputisation, if e held the position.
-
-[CFJ 1896 (called 3 February 2008): A "position" in rule 2160 is not
-restricted to being an office; judgeship is also a type of position.]
+          other than by deputisation, if e held the office.
 
 [CFJ 1776 (called 1 November 2007): A requirement to perform an
 action, for the purposes of this rule, can be a logical implication
@@ -2258,6 +2255,7 @@ History:
 Created by Proposal 5103 (Zefram), 1 August 2007
 Amended(1) by Proposal 5200 (Zefram; disi.), 8 September 2007
 Amended(2) by Proposal 5414 (Murphy), 26 January 2008
+Amended(3) by Proposal 5454 (Murphy), 9 March 2008
 
 ----------------------------------------------------------------------
 
