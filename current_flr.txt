@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5456
+Last proposal with recorded effect on this ruleset: 5457
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -2797,7 +2797,7 @@ Amended(1) by Proposal 5176 (Murphy), 29 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 1607/16 (Power=1)
+Rule 1607/17 (Power=1)
 The Promotor
 
       The Promotor is an office; its holder is responsible for
@@ -2814,11 +2814,11 @@ The Promotor
       distribution of a proposal initiates the Agoran decision of
       whether to adopt the proposal, as described elsewhere.
 
-      When distributing a proposal, the Promotor SHALL specify the
-      following:
+      For an Agoran decision of whether to adopt a proposal, the
+      following are essential parameters:
 
       a) Its author (and co-authors, if any).
-      b) Whether it is interested or disinterested.
+      b) Its interest index.
 
       Distributed proposals have ID numbers, to be assigned by the
       Promotor.
@@ -2879,6 +2879,7 @@ Amended(13) by Proposal 5077 (Murphy), 18 July 2007
 Amended(14) by Proposal 5110 (Murphy), 2 August 2007
 Amended(15) by Proposal 5112 (Murphy), 2 August 2007
 Amended(16) by Proposal 5418 (root), 2 February 2008
+Amended(17) by Proposal 5457 (Murphy), 9 March 2008
 
 ----------------------------------------------------------------------
 
