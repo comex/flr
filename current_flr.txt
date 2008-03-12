@@ -1,21 +1,21 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5457
+Last proposal with recorded effect on this ruleset: 5459
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
-      highest orderly: 2200
+      highest orderly: 2202
       disorderly: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 112
+Current total number of rules: 114
 
 Power distribution:
        1 with Power=4
-      27 with Power=3
+      29 with Power=3
       33 with Power=2
        5 with Power=1.7
        8 with Power=1.5
@@ -94,6 +94,8 @@ Index of Rules
       Rule 2138: The International Associate Director of Personnel
       Rule 2143: Official Reports
       Rule 1551: Ratification
+      Rule 2202: Ratification Without Objection
+      Rule 2201: Self-Ratification
       Rule 2160: Deputisation
 
       * Agoran Decisions
@@ -2156,10 +2158,42 @@ Amended(1) by Proposal 5239 (AFO), 3 October 2007
 
 ----------------------------------------------------------------------
 
-Rule 1551/11 (Power=3)
+Rule 1551/12 (Power=3)
 Ratification
 
       A public document is part (possibly all) of a public message.
+
+      When a public document is ratified, the gamestate is modified so
+      that the ratified document was completely true and accurate at
+      the time it was published.  Nevertheless, the ratification of a
+      public document does not invalidate, reverse, alter, or cancel
+      any messages or actions, even if they were unrecorded or
+      overlooked, or change the legality of any attempted action.
+
+      Ratifying a public document is secured.
+
+
+History:
+Created by Proposal 2425, Jan. 30 1996
+Infected and Amended(1) by Rule 1454, Feb. 4 1997, substantial
+  (unattributed)
+Amended(2) by Proposal 3445 (General Chaos), Mar. 26 1997, substantial
+Amended(3) by Proposal 3704 (General Chaos), Mar. 19 1998
+Amended(4) by Proposal 3889 (harvel), Aug. 9 1999
+Amended(5) by Proposal 4147 (Wes), 13 May 2001
+Power changed from 1 to 3 by Proposal 4832 (Maud), 6 August 2005
+Amended(6) by Proposal 4832 (Maud), 6 August 2005
+Amended(7) by Proposal 4868 (Goethe), 27 August 2006
+Amended(8) by Proposal 5101 (Zefram), 1 August 2007
+Amended(9) by Proposal 5212 (Murphy), 8 September 2007
+Amended(10) by Proposal 5275 (Murphy), 7 November 2007
+Amended(11) by Proposal 5315 (Murphy), 28 November 2007
+Amended(12) by Proposal 5459 (Murphy), 9 March 2008
+
+----------------------------------------------------------------------
+
+Rule 2202/0 (Power=3)
+Ratification Without Objection
 
       An official document is a public document purported to be part
       (possibly all) of an official report; this part is the
@@ -2168,6 +2202,21 @@ Ratification
       ratification and the scope of the ratified document become part
       of the official report in question, until the same scope is
       ratified at a later date.
+
+[CFJ 1836 (called 18 December 2007): Ratification of an official
+document affects only those aspects of gamestate that are defined to
+be part of the official report, and not aspects that are incidentally
+reported on; in particular, ratification of an official report on
+certain parameters pertaining to each player does not ratify the list
+of players.]
+
+History:
+Created by Proposal 5459 (Murphy), 9 March 2008
+
+----------------------------------------------------------------------
+
+Rule 2201/0 (Power=3)
+Self-Ratification
 
       Any public document defined by the rules as self-ratifying is
       ratified one week after its publication, unless explicitly and
@@ -2185,13 +2234,6 @@ Ratification
          challenged again (subject to the same requirements) during
          that period.
 
-      When a public document is ratified, the gamestate is modified so
-      that the ratified document was completely true and accurate at
-      the time it was published.  Nevertheless, the ratification of a
-      public document does not invalidate, reverse, alter, or cancel
-      any messages or actions, even if they were unrecorded or
-      overlooked, or change the legality of any attempted action.
-
 [CFJ 1690 (called 19 June 2007): A challenge to a self-ratifying
 document [at the time of CFJ 1690, the resolution of an Agoran
 decision] must explicitly identify the document, either individually
@@ -2201,28 +2243,8 @@ aspect of it.]
 [CFJs 1790-1791 (called 11 November 2007): A challenge to any part of
 a self-ratifying document prevents ratification of all parts of it.]
 
-[CFJ 1836 (called 18 December 2007): Ratification of an official
-document affects only those aspects of gamestate that are defined to
-be part of the official report, and not aspects that are incidentally
-reported on; in particular, ratification of an official report on
-certain parameters pertaining to each player does not ratify the list
-of players.]
-
 History:
-Created by Proposal 2425, Jan. 30 1996
-Infected and Amended(1) by Rule 1454, Feb. 4 1997, substantial
-  (unattributed)
-Amended(2) by Proposal 3445 (General Chaos), Mar. 26 1997, substantial
-Amended(3) by Proposal 3704 (General Chaos), Mar. 19 1998
-Amended(4) by Proposal 3889 (harvel), Aug. 9 1999
-Amended(5) by Proposal 4147 (Wes), 13 May 2001
-Power changed from 1 to 3 by Proposal 4832 (Maud), 6 August 2005
-Amended(6) by Proposal 4832 (Maud), 6 August 2005
-Amended(7) by Proposal 4868 (Goethe), 27 August 2006
-Amended(8) by Proposal 5101 (Zefram), 1 August 2007
-Amended(9) by Proposal 5212 (Murphy), 8 September 2007
-Amended(10) by Proposal 5275 (Murphy), 7 November 2007
-Amended(11) by Proposal 5315 (Murphy), 28 November 2007
+Created by Proposal 5459 (Murphy), 9 March 2008
 
 ----------------------------------------------------------------------
 
