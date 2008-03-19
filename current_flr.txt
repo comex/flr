@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5461
+Last proposal with recorded effect on this ruleset: 5464
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -3262,7 +3262,7 @@ Adjudication
       controversy are resolved.
 ----------------------------------------------------------------------
 
-Rule 991/10 (Power=2)
+Rule 991/11 (Power=2)
 Judicial Cases Generally
 
       A judicial case, also known as a call for judgement (CFJ), is a
@@ -3270,9 +3270,10 @@ Judicial Cases Generally
 
       Each judicial case has exactly one subclass, with particular
       features as defined by other rules.  Subclasses of judicial case
-      exist only as defined by the rules.  A judicial case's subclass
-      CAN be specified by its initiator, or otherwise defaults to
-      inquiry.
+      exist only as defined by the rules.  Defining a subclass of
+      judicial case is secured, with a power threshold of 1.7.  A
+      judicial case's subclass CAN be specified by its initiator, or
+      otherwise defaults to inquiry.
 
       The Clerk of the Courts (CotC) is an office, responsible for
       managing judicial activity.  The CotC's report includes the
@@ -3326,6 +3327,7 @@ Retitled by Proposal 5086 (Zefram), 1 August 2007
 Amended(8) by Proposal 5086 (Zefram), 1 August 2007
 Amended(9) by Proposal 5110 (Murphy), 2 August 2007
 Amended(10) by Proposal 5317 (Murphy), 28 November 2007
+Amended(11) by Proposal 5464 (Murphy), 13 March 2008
 
 ----------------------------------------------------------------------
 
@@ -3528,11 +3530,13 @@ Amended(3) by Proposal 5439 (Murphy), 13 February 2008
 
 ----------------------------------------------------------------------
 
-Rule 2158/3 (Power=2)
+Rule 2158/4 (Power=2)
 Judicial Questions
 
       A judicial question is a question that arises within a judicial
       case.  Judicial questions arise only as defined by the rules.
+      Defining a judicial question is secured, with a power threshold
+      of 1.7.
 
       At any time, each judicial question is either inapplicable
       (default) or applicable.  This is not a persistent status, but
@@ -3552,7 +3556,8 @@ Judicial Questions
       judgement to it by announcement, and SHALL do so as soon as
       possible.  A judge SHALL NOT assign an inappropriate judgement
       to any judicial question.  A judgement is valid and/or
-      appropriate only as defined by the rules.  If more than one
+      appropriate only as defined by the rules.  Defining these things
+      is secured, with a power threshold of 1.7.  If more than one
       judgement is valid and appropriate, then the choice between them
       is left to the judge's discretion.
 
@@ -3577,6 +3582,7 @@ Created by Proposal 5086 (Zefram), 1 August 2007
 Amended(1) by Proposal 5151 (root), 29 August 2007
 Amended(2) by Proposal 5317 (Murphy), 28 November 2007
 Amended(3) by Proposal 5429 (Zefram), 9 February 2008
+Amended(4) by Proposal 5464 (Murphy), 13 March 2008
 
 ----------------------------------------------------------------------
 
