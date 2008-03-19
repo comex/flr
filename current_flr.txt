@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5464
+Last proposal with recorded effect on this ruleset: 5465
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -3586,34 +3586,24 @@ Amended(4) by Proposal 5464 (Murphy), 13 March 2008
 
 ----------------------------------------------------------------------
 
-Rule 2164/1 (Power=1)
+Rule 2164/2 (Power=1)
 Judicial Self-Recusal and Case Transfer
 
       The judge of a judicial case CAN recuse emself from it at any
       time by announcement.  If e has been assigned to the case for at
       least four days, such a recusal is with cause.
 
-      Judicial cases can generally be transferred between judges by
-      this procedure: an entity (the transferee) CAN assign emself as
-      the judge of a judicial case by announcement if:
-
-      (a) the case has a judge assigned (the transferor); and
-
-      (b) the transferor and the transferee are different entities;
-          and
-
-      (c) the transferor has previously publicly consented to the
-          transfer and not publicly withdrawn that consent; and
-
-      (d) the transferee is qualified to be assigned as judge of the
-          case; and
-
-      (e) the transferee immediately (in the same announcement)
-          assigns a judgement to a judicial question in the case.
+      An entity (the transferee) CAN, with consent from the current
+      judge of a judicial case (the transferor), assign emself as the
+      new judge of that case, provided that e is qualified to be
+      assigned as judge of that case, and e immediately (in the same
+      announcement) assigns a judgement to a judicial question in that
+      case.
 
 History:
 Created by Proposal 5131 (Zefram), 13 August 2007
 Amended(1) by Proposal 5151 (root), 29 August 2007
+Amended(2) by Proposal 5465 (Murphy), 13 March 2008
 
 ----------------------------------------------------------------------
 
