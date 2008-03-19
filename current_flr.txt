@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5465
+Last proposal with recorded effect on this ruleset: 5466
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -3974,7 +3974,7 @@ Amended(4) by Proposal 5436 (Murphy), 13 February 2008
 
 ----------------------------------------------------------------------
 
-Rule 911/19 (Power=1.7)
+Rule 911/20 (Power=1.7)
 Appeal Cases
 
       There is a subclass of judicial case known as an appeal case.
@@ -4000,40 +4000,33 @@ Appeal Cases
 
       An appeal case has a judicial question on disposition, which is
       applicable if and only if the prior question is applicable.  The
-      valid judgements for the question on disposition are:
+      valid judgements for the question on disposition, and their
+      effects, are as follows:
 
       * AFFIRM, appropriate if the prior judgement was appropriate for
-        the prior question
+        the prior question; the prior judgement is assigned to the
+        prior question again
 
       * REMAND, appropriate if there is serious doubt about the
         appropriateness of the prior judgement but the judge believes
         that the judge of the prior case can make a better judgement
-        if given a new opportunity
+        if given a new opportunity; the prior question is rendered
+        open again
 
       * REASSIGN, appropriate if there is serious doubt about the
-        appropriateness of the prior judgement
+        appropriateness of the prior judgement; the judge of the prior
+        case (if any) is recused, and the prior question is rendered
+        open again
 
       * OVERRULE with a valid replacement judgement for the prior
         question, appropriate if the prior judgement was inappropriate
         in the prior question and the replacement judgement is
-        appropriate for the prior question
+        appropriate for the prior question; the replacement judgement
+        is assigned to the prior question
 
-      Initiation of an appeal case renders the prior question
-      suspended.  It remains suspended as long as the question on
-      disposition in the appeal case has no judgement.  When the
-      question on disposition has a judgement, things happen according
-      to that judgement:
-
-      * if AFFIRM, the prior judgement is assigned to the prior
-        question again
-
-      * if REMAND, the prior question is rendered open again
-
-      * if REASSIGN, the judge of the prior case (if any) is recused,
-        and the prior question is rendered open again
-
-      * if OVERRULE with a replacement judgement, the replacement
-        judgement is assigned to the prior question
+      When an appeal case is initiated, the prior question is
+      suspended, and remains so until the question on disposition in
+      the appeal case is judged.
 
       A panel CAN publish a concurring opinion when judging AFFIRM,
       and SHALL do so if and only if the reasoning by which the prior
@@ -4083,6 +4076,7 @@ Amended(16) by Proposal 5086 (Zefram), 1 August 2007
 Amended(17) by Proposal 5359 (Murphy), 20 December 2007
 Amended(18) by Proposal 5361 (Goethe), 20 December 2007
 Amended(19) by Proposal 5436 (Murphy), 13 February 2008
+Amended(20) by Proposal 5466 (Murphy), 13 March 2008
 
 ----------------------------------------------------------------------
 
