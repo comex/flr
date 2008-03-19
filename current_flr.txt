@@ -1,24 +1,24 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5466
+Last proposal with recorded effect on this ruleset: 5468
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
-      highest orderly: 2202
+      highest orderly: 2204
       disorderly: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 114
+Current total number of rules: 116
 
 Power distribution:
        1 with Power=4
       29 with Power=3
       33 with Power=2
        5 with Power=1.7
-       8 with Power=1.5
+      10 with Power=1.5
       38 with Power=1
 
 ----------------------------------------------------------------------
@@ -130,6 +130,8 @@ Index of Rules
       Rule 2175: Judicial Retraction and Excess
       Rule 1868: Judge Assignment Generally
       Rule 1871: The Standing Court
+      Rule 2204: Linked Assignments
+      Rule 2203: Hawkishness
       Rule 2157: Judicial Panels
       Rule 2158: Judicial Questions
       Rule 2164: Judicial Self-Recusal and Case Transfer
@@ -3292,7 +3294,7 @@ involved accept it as unambiguous at the time.]
 [CFJ 1355 (called 28 April 2002): Titles for CFJs are unregulated, so
 it is possible for a title to be assigned to a CFJ informally.]
 
-[Cross-references (13 February 2008): the Clerk of the Courts' duties
+[Cross-references (13 March 2008): the Clerk of the Courts' duties
 are:
   * issue Writ of FAGE (rule 1789)
   * not assign judges during holiday (rule 1769)
@@ -3302,9 +3304,9 @@ are:
   * refuse excess CFJ (rule 2175)
   * assign judge to judicial case (rule 1868)
   * track player posture (rule 1871)
-  * track player hawkishness (rule 1871)
-  * change all sitting players to standing (rule 1871)
+  * rotate the bench (rule 1871)
   * push over recused judge (rule 1871)
+  * track player hawkishness (rule 2203)
   * recuse tardy judge (rule 2158)
   * inform defendant in criminal case (rule 1504)
   * report active sentences (rule 1504)
@@ -3413,45 +3415,39 @@ Amended(12) by Proposal 5317 (Murphy), 28 November 2007
 
 ----------------------------------------------------------------------
 
-Rule 1871/21 (Power=1.5)
+Rule 1871/22 (Power=1.5)
 The Standing Court
 
-      Posture is a player switch with values Standing, Sitting,
-      Leaning, and Supine (default), tracked by the Clerk of the
-      Courts.  A player CAN flip eir posture to any non-standing value
-      by announcement.  Changes to posture are secured.
+      Posture is a player switch, tracked by the Clerk of the Courts,
+      with the following values:
 
-      A supine player is unqualified to be assigned as judge of any
-      judicial case.  A sitting or leaning player is poorly qualified
-      to be assigned as judge of any judicial case.
+      * Standing.  Standing players are generally qualified to judge.
 
-      Hawkishness is a player switch with values Hanging, Hugging, and
-      Hemming-and-Hawing (default), tracked by the Clerk of the
-      Courts.  A player CAN flip eir hawkishness by announcement.
+      * Sitting.  Sitting players are poorly qualified to judge, but
+        will generally become qualified when the CotC rotates the
+        bench.
 
-      A hanging player is unqualified to be assigned as judge of any
-      inquiry case.  A hugging player is unqualified to be assigned as
-      judge of any criminal case, and poorly qualified to be assigned
-      as judge of any equity case.
+      * Leaning.  Leaning players are poorly qualified to judge, but
+        are generally qualified to serve on appeal panels.
 
-      When the CotC assigns a standing player as judge of a judicial
-      case, the player becomes sitting, except in the situation
-      discussed in the next sentence.  If the CotC assigns a standing
-      player as judge of more than one judicial case consecutively in
-      the same announcement, and states in the announcement that these
-      are linked assignments, the player becomes sitting upon the last
-      of these assignments, but not any of the earlier ones.  The CotC
-      SHOULD NOT perform linked assignments unless the cases being
-      linked are closely related in their subject matter.
+      * Supine (default).  Supine players are unqualified to judge.
 
-      The CotC CAN change all sitting players to standing by
-      announcement.  The CotC SHALL NOT do this unless there is a
+      Changes to posture are secured.
+
+      A player CAN flip eir posture to any non-standing value by
+      announcement.
+
+      When the CotC assigns a player as judge, that player becomes
+      sitting.
+
+      The CotC CAN rotate the bench (change all sitting players to
+      standing) by announcement, but SHALL NOT do so unless there is a
       judicial case to which e is obliged to assign a judge, all
       entities qualified to be so assigned are poorly qualified, and e
       immediately afterwards (in the same announcement) assigns a
       judge to that case.
 
-      When the CotC recuses a judge with cause, e SHALL flip that
+      When the CotC recuses a player with cause, e SHALL flip that
       player's posture to supine by announcement within one week.
 
 [CFJ 1765 (called 16 October 2007): When the CotC is obliged to change
@@ -3488,6 +3484,45 @@ Amended(18) by Proposal 5251 (Goddess Eris), 14 October 2007
 Amended(19) by Proposal 5259 (Zefram), 27 October 2007
 Amended(20) by Proposal 5261 (root; disi.), 31 October 2007
 Amended(21) by Proposal 5456 (Goddess Eris), 9 March 2008
+Amended(22) by Proposal 5468 (Murphy), 13 March 2008
+
+----------------------------------------------------------------------
+
+Rule 2204/0 (Power=1.5)
+Linked Assignments
+
+      When the Clerk of the Courts assigns a player as judge of two or
+      more judicial cases consecutively in the same announcement, that
+      player only becomes sitting upon the last such assignment, rules
+      to the contrary notwithstanding.  The CotC SHOULD NOT do this
+      unless those cases are closely related in their subject matter.
+
+History:
+Created by Proposal 5468 (Murphy), 13 March 2008
+
+----------------------------------------------------------------------
+
+Rule 2203/0 (Power=1.5)
+Hawkishness
+
+      Hawkishness is a player switch, tracked by the Clerk of the
+      Courts, with the following values:
+
+      * Hanging.  Hanging players are unqualified to be assigned as
+        judge of any inquiry case.
+
+      * Hugging.  Hugging players are unqualified to be assigned as
+        judge of any criminal case, and poorly qualified to be
+        assigned as judge of any equity case.
+
+      * Hemming-and-Hawing (default).
+
+      Changes to hawkishness are secured.
+
+      A player CAN flip eir hawkishness by announcement.
+
+History:
+Created by Proposal 5468 (Murphy), 13 March 2008
 
 ----------------------------------------------------------------------
 
