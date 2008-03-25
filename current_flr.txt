@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5470
+Last proposal with recorded effect on this ruleset: 5474
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -3414,7 +3414,7 @@ Amended(12) by Proposal 5317 (Murphy), 28 November 2007
 
 ----------------------------------------------------------------------
 
-Rule 1871/22 (Power=1.5)
+Rule 1871/23 (Power=1.5)
 The Standing Court
 
       Posture is a player switch, tracked by the Clerk of the Courts,
@@ -3447,7 +3447,7 @@ The Standing Court
       judge to that case.
 
       When the CotC recuses a player with cause, e SHALL flip that
-      player's posture to supine by announcement within one week.
+      player's posture to supine by announcement in a timely fashion.
 
 [CFJ 1765 (called 16 October 2007): When the CotC is obliged to change
 a player's posture due to recusal, this rule makes em capable of doing
@@ -3456,7 +3456,7 @@ so.]
 [CFJ 1766 (called 16 October 2007): When the CotC is obliged to change
 a player's posture due to recusal, eir capability to do so exists as
 long as the obligation does, and this obligation does not terminate
-due to the one-week time limit running out.]
+due to the time limit running out.]
 
 History:
 Created by Proposal 3821 (Blob), Jan. 12 1999
@@ -3484,6 +3484,7 @@ Amended(19) by Proposal 5259 (Zefram), 27 October 2007
 Amended(20) by Proposal 5261 (root; disi.), 31 October 2007
 Amended(21) by Proposal 5456 (Goddess Eris), 9 March 2008
 Amended(22) by Proposal 5468 (Murphy), 13 March 2008
+Amended(23) by Proposal 5474 (Murphy), 24 March 2008
 
 ----------------------------------------------------------------------
 
@@ -3564,7 +3565,7 @@ Amended(3) by Proposal 5439 (Murphy), 13 February 2008
 
 ----------------------------------------------------------------------
 
-Rule 2158/4 (Power=2)
+Rule 2158/5 (Power=2)
 Judicial Questions
 
       A judicial question is a question that arises within a judicial
@@ -3595,12 +3596,11 @@ Judicial Questions
       judgement is valid and appropriate, then the choice between them
       is left to the judge's discretion.
 
-      When a judicial question is applicable and open, and its case
-      has the same judge assigned to it, continuously for one week,
-      the Clerk of the Courts CAN recuse that judge with cause by
-      announcement.  When these conditions have all held continuously
-      for two weeks, the Clerk of the Courts SHALL so recuse that
-      judge as soon as possible.
+      When a judicial question is applicable and open, and its judge
+      has violated a time limit to assign a judgement to it, the Clerk
+      of the Courts SHALL recuse that judge with cause by announcement
+      as soon as possible; however, this requirement is waived if the
+      judge assigns a judgement to it first.
 
 [CFJ 1804 (called 19 November 2007): A judge should give the judgement
 that e believes is appropriate, and if e does so in good faith then e
@@ -3617,6 +3617,7 @@ Amended(1) by Proposal 5151 (root), 29 August 2007
 Amended(2) by Proposal 5317 (Murphy), 28 November 2007
 Amended(3) by Proposal 5429 (Zefram), 9 February 2008
 Amended(4) by Proposal 5464 (Murphy), 13 March 2008
+Amended(5) by Proposal 5474 (Murphy), 24 March 2008
 
 ----------------------------------------------------------------------
 
