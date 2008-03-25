@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5468
+Last proposal with recorded effect on this ruleset: 5469
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -11,7 +11,7 @@ Rule ID numbers:
 
 Statistics
 
-Current total number of rules: 116
+Current total number of rules: 115
 
 Power distribution:
        1 with Power=4
@@ -19,7 +19,7 @@ Power distribution:
       33 with Power=2
        5 with Power=1.7
       10 with Power=1.5
-      38 with Power=1
+      37 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -140,7 +140,6 @@ Index of Rules
       Rule 2190: Crime Doesn't Pay
       Rule 2169: Equity Cases
       Rule  911: Appeal Cases
-      Rule 2171: Rules Viewed as Binding Agreement
 
       * Patent Titles and Degrees
       Rule  649: Patent Titles
@@ -4112,29 +4111,6 @@ Amended(17) by Proposal 5359 (Murphy), 20 December 2007
 Amended(18) by Proposal 5361 (Goethe), 20 December 2007
 Amended(19) by Proposal 5436 (Murphy), 13 February 2008
 Amended(20) by Proposal 5466 (Murphy), 13 March 2008
-
-----------------------------------------------------------------------
-
-Rule 2171/0 (Power=1)
-Rules Viewed as Binding Agreement
-
-      In general, the Rules shall be adjudicated as if the Rules were
-      a binding agreement between all Players, entered into by every
-      player as a part of becoming a Player.  An actual or alleged
-      Rule violation shall be treated as the violation of a binding
-      agreement to be bound by the Rule or Rules in question.
-
-      The proposal, fora, and registration processes shall, prima
-      facie, be considered to be protective of a Player's rights and
-      privileges with respect to making and changing the agreement to
-      be bound by the rules.
-
-[CFJ 1772 (called 28 October 2007): Despite this rule, the rules are
-not a contract as defined by rule 1742, and cannot be adjudicated as a
-binding agreement.]
-
-History:
-Created by Proposal 5230 (comex), 3 October 2007
 
 ----------------------------------------------------------------------
 
