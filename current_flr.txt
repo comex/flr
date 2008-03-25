@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5469
+Last proposal with recorded effect on this ruleset: 5470
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -3641,7 +3641,7 @@ Amended(2) by Proposal 5465 (Murphy), 13 March 2008
 
 ----------------------------------------------------------------------
 
-Rule 591/24 (Power=1.7)
+Rule 591/25 (Power=1.7)
 Inquiry Cases
 
       There is a subclass of judicial case known as an inquiry case.
@@ -3650,7 +3650,8 @@ Inquiry Cases
       first-class person, by announcement which includes the statement
       to be inquired into.  (Including a yes/no question is equivalent
       to including a statement that the answer to that question is
-      yes.)
+      yes, and for such a case, YES and NO are synonymous with the
+      judgements TRUE and FALSE respectively.)
 
       The initiator is unqualified to be assigned as judge of the
       case, and in the initiating announcement e CAN disqualify one
@@ -3753,6 +3754,7 @@ Amended(21) by Proposal 5296 (root), 28 November 2007
 Amended(22) by Proposal 5360 (Murphy), 20 December 2007
 Amended(23) by Proposal 5371 (Zefram), 20 December 2007
 Amended(24) by Proposal 5425 (Murphy), 6 February 2008
+Amended(25) by Proposal 5470 (Murphy), 24 March 2008
 
 ----------------------------------------------------------------------
 
