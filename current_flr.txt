@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5475
+Last proposal with recorded effect on this ruleset: 5476
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -1700,7 +1700,7 @@ Amended(1) by Proposal 5271 (Murphy), 7 November 2007
 
 ----------------------------------------------------------------------
 
-Rule 2150/2 (Power=2)
+Rule 2150/3 (Power=2)
 Personhood
 
       A person is an entity that has the general capacity to be the
@@ -1715,7 +1715,7 @@ Personhood
 
       "First-class player" means a player who is a first-class person.
 
-      The basis of a a first-class person is the singleton set
+      The basis of a first-class person is the singleton set
       consisting of that person.
 
 [CFJ 1700 (called 10 July 2007): The requirement of capability to
@@ -1730,10 +1730,11 @@ History:
 Created by Proposal 5007 (Zefram), 18 June 2007
 Amended(1) by Proposal 5061 (Zefram), 9 July 2007
 Amended(2) by Proposal 5303 (root), 24 November 2007
+Amended(3) by Proposal 5476 (Murphy; disi.), 27 March 2008
 
 ----------------------------------------------------------------------
 
-Rule 2166/3 (Power=2)
+Rule 2166/4 (Power=2)
 Assets
 
       An asset is an entity defined as such by an instrument or
@@ -1765,7 +1766,7 @@ Assets
       have it destroyed from one's possession; to "revoke" an asset
       from an entity is to destroy it from that entity's possession.
 
-      A asset generally CAN be transferred by its owner to another
+      An asset generally CAN be transferred by its owner to another
       entity by announcement, subject to modification by its backing
       document.  A fixed asset is one defined as such by its backing
       document, and CANNOT be transferred; any other asset is liquid.
@@ -1791,6 +1792,7 @@ Created by Proposal 5173 (Murphy), 29 August 2007
 Amended(1) by Proposal 5216 (Murphy), 13 September 2007
 Amended(2) by Proposal 5388 (Murphy), 1 January 2008
 Amended(3) by Proposal 5475 (Murphy), 24 March 2008
+Amended(4) by Proposal 5476 (Murphy; disi.), 27 March 2008
 
 ----------------------------------------------------------------------
 
@@ -2907,11 +2909,11 @@ Amended(17) by Proposal 5457 (Murphy), 9 March 2008
 
 ----------------------------------------------------------------------
 
-Rule 1450/7 (Power=2)
+Rule 1450/8 (Power=2)
 Separation of Powers
 
       Any change in officeholdings that would result in a single
-      entity holding the offices of promotor and assessor
+      entity holding the offices of Promotor and Assessor
       simultaneously is INVALID.  This rule takes precedence over all
       other rules regarding offices.
 
@@ -2925,6 +2927,7 @@ Amended(5) by Proposal 4868 (Goethe), 27 August 2006
 Power changed from 1 to 2 by Proposal 4868 (Goethe), 27 August 2006
 Amended(6) by Proposal 4939 (Murphy), 29 April 2007
 Amended(7) by Proposal 5106 (Zefram), 1 August 2007
+Amended(8) by Proposal 5476 (Murphy; disi.), 27 March 2008
 
 ----------------------------------------------------------------------
 
@@ -3644,7 +3647,7 @@ Amended(2) by Proposal 5465 (Murphy), 13 March 2008
 
 ----------------------------------------------------------------------
 
-Rule 591/25 (Power=1.7)
+Rule 591/26 (Power=1.7)
 Inquiry Cases
 
       There is a subclass of judicial case known as an inquiry case.
@@ -3688,7 +3691,7 @@ Inquiry Cases
       The judgement of the question in an inquiry case, and the
       reasoning by which it was reached, SHOULD guide future play
       (including future judgements), but do not directly affect the
-      veracity of the statement.  The rulekeepor is ENCOURAGED to
+      veracity of the statement.  The Rulekeepor is ENCOURAGED to
       annotate rules to draw attention to relevant inquiry case
       judgements.
 
@@ -3758,6 +3761,7 @@ Amended(22) by Proposal 5360 (Murphy), 20 December 2007
 Amended(23) by Proposal 5371 (Zefram), 20 December 2007
 Amended(24) by Proposal 5425 (Murphy), 6 February 2008
 Amended(25) by Proposal 5470 (Murphy), 24 March 2008
+Amended(26) by Proposal 5476 (Murphy; disi.), 27 March 2008
 
 ----------------------------------------------------------------------
 
