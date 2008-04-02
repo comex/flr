@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5482
+Last proposal with recorded effect on this ruleset: 5483
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -4802,7 +4802,7 @@ Amended(3) by Proposal 5460 (avpx), 13 March 2008
 
 ----------------------------------------------------------------------
 
-Rule 2192/0 (Power=1)
+Rule 2192/1 (Power=1)
 The Mad Scientist
 
       The Mad Scientist is an office; its holder is responsible for
@@ -4827,13 +4827,15 @@ The Mad Scientist
          the selected rule, and interest index 0, to append the
          modified text to the rule "The Monster" (or, if the villagers
          have shown up with torches and pitchforks, to repeal both
-         that rule and this one).
+         that rule and this one).  This proposal counts as the Mad
+         Scientist's weekly report if/when it is adopted.
 
 [Cross-references (16 January 2008): the Mad Scientist's duties are:
   * propose mutation of the monster (rule 2192)]
 
 History:
 Created by Proposal 5396 (Murphy), 16 January 2008
+Amended(1) by Proposal 5483 (Murphy), 2 April 2008
 
 ----------------------------------------------------------------------
 
