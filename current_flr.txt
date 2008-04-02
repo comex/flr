@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5476
+Last proposal with recorded effect on this ruleset: 5482
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -1796,20 +1796,22 @@ Amended(4) by Proposal 5476 (Murphy; disi.), 27 March 2008
 
 ----------------------------------------------------------------------
 
-Rule 2181/0 (Power=1)
+Rule 2181/1 (Power=1)
 The Accountor
 
-      The Accountor is an office; its holder is responsible for
-      keeping track of assets.
+      The Accountor is a low-priority office; its holder is
+      responsible for keeping track of miscellaneous assets.
 
       The Accountor is the default recordkeepor for all assets that do
-      not specify a different recordkeepor.
+      not specify a different recordkeepor.  While there are no such
+      assets, the Accountor has no report.
 
 [Cross-references (1 January 2008): the Accountor's duties are:
   * default recordkeepor for assets (rule 2181)]
 
 History:
 Created by Proposal 5363 (Murphy; disi.), 20 December 2007
+Amended(1) by Proposal 5482 (Murphy), 2 April 2008
 
 ----------------------------------------------------------------------
 
