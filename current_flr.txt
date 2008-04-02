@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5483
+Last proposal with recorded effect on this ruleset: 5484
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -1931,7 +1931,7 @@ Amended(6) by Proposal 5445 (Goethe, Murphy), 21 February 2008
 
 ----------------------------------------------------------------------
 
-Rule 1769/5 (Power=2)
+Rule 1769/6 (Power=2)
 Holidays
 
       A Holiday is a period of time designated as such by the Rules.
@@ -1946,13 +1946,17 @@ Holidays
       72-hour period immediately following that Holiday, then that
       action need not be done until 72 hours after that Holiday ends.
 
-      If some Rule bases the time of a future event upon the time of
-      another event, or requires that a Player perform some action
-      within some time of another event, and that other event occurs
-      during a Holiday, the time at which the Holiday ends shall be
-      used instead for the purpose of determining the time of the
-      future event or of the time by which the Player must perform the
-      specified action.
+      If some Rule bases the time of a future event (including the
+      time limit for a player to perform an action) upon the time of
+      another event, and
+
+      a) that other event occurs during a Holiday, then the time at
+         which that Holiday ends shall be used instead for the purpose
+         of determining the time of the future event.
+
+      b) the future event would occur during a Holiday, then the
+         future event occurs 72 hours after the end of that Holiday
+         instead.
 
       This Rule takes precedence over all Rules pertaining to the
       timing of events, and over all Rules which require Players to
@@ -1968,9 +1972,6 @@ event for the purposes of rule 1769.]
 [CFJ 1434 (called 24 January 2003): The expiration of a rule-defined
 period is an event for the purposes of rule 1769.]
 
-[CFJ 1859 (called 2 January 2008): Rule 1769 does not cause extension
-of voting periods that start before a holiday and end during it.]
-
 [CFJ 1480 (called 5 January 2004): An automatic event specified to
 occur at regular calendar intervals, for example quarterly, happens at
 its specified time even if that is during a holiday.]
@@ -1982,6 +1983,7 @@ Amended(2) by Proposal 01-003 (Steve), Feb. 2 2001
 Amended(3) by Proposal 4866 (Goethe), 27 August 2006
 Amended(4) by Proposal 5077 (Murphy), 18 July 2007
 Amended(5) by Proposal 5086 (Zefram), 1 August 2007
+Amended(6) by Proposal 5484 (Murphy; disi.), 2 April 2008
 
 ----------------------------------------------------------------------
 
