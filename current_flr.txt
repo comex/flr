@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5484
+Last proposal with recorded effect on this ruleset: 5485
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -92,7 +92,7 @@ Index of Rules
       Rule 1006: Offices
       Rule 2154: Replacing Officers
       Rule 2138: The International Associate Director of Personnel
-      Rule 2143: Official Reports
+      Rule 2143: Official Reports and Duties
       Rule 1551: Ratification
       Rule 2202: Ratification Without Objection
       Rule 2201: Self-Ratification
@@ -498,7 +498,7 @@ Amended(5) by Proposal 5451 (root, Murphy, Zefram), 1 March 2008
 
 ----------------------------------------------------------------------
 
-Rule 2199/0 (Power=2)
+Rule 2199/1 (Power=2)
 Ribbons
 
       Ribbons are a class of fixed assets.  Changes to Ribbon holdings
@@ -522,8 +522,8 @@ Ribbons
 
       (+G) At the end of each month, each player who held at least one
            office continuously during that month gains a Green Ribbon,
-           unless e violated a requirement to submit a report within a
-           time limit.
+           unless e failed to perform an official duty within a time
+           limit during that month.
 
       (+C) When a player deputises for an office, e gains a Cyan
            Ribbon.
@@ -578,6 +578,7 @@ Yellow, Zinnwaldite.]
 
 History:
 Created by Proposal 5424 (Zefram; disi.), 6 February 2008
+Amended(1) by Proposal 5485 (root), 9 April 2008
 
 ----------------------------------------------------------------------
 
@@ -2140,21 +2141,26 @@ Amended(3) by Proposal 5367 (Levi; disi.), 20 December 2007
 
 ----------------------------------------------------------------------
 
-Rule 2143/1 (Power=1)
-Official Reports
+Rule 2143/2 (Power=1)
+Official Reports and Duties
 
       For each office:
 
-      a) If any information is defined by the rules as part of that
-         office's weekly report, then the holder of that office SHALL
-         maintain all such information, and SHALL publish it at least
-         once each week.  Otherwise, that office has no weekly report.
+      a) If any task is defined by the rules as part of that office's
+         weekly duties, then the holder of that office SHALL perform
+         it at least once each week.  If any information is defined by
+         the rules as part of that office's weekly report, then the
+         holder of that office SHALL maintain all such information,
+         and the publication of all such information is part of that
+         office's weekly duties.
 
-      b) If any information is defined by the rules as part of that
-         office's monthly report, then the holder of that office SHALL
-         maintain all such information, and SHALL publish it at least
-         once each month.  Otherwise, that office has no monthly
-         report.
+      b) If any task is defined by the rules as part of that office's
+         monthly duties, then the holder of that office SHALL perform
+         it at least once each month.  If any information is defined
+         by the rules as part of that office's monthly report, then
+         the holder of that office SHALL maintain all such
+         information, and the publication of all such information is
+         part of that office's monthly duties.
 
       Any information defined by the rules as part of an office's
       report, without specifying which one, is part of its weekly
@@ -2164,6 +2170,8 @@ Official Reports
 History:
 Created by Proposal 4970 (Zefram), 23 May 2007
 Amended(1) by Proposal 5239 (AFO), 3 October 2007
+Retitled by Proposal 5485 (root), 9 April 2008
+Amended(2) by Proposal 5485 (root), 9 April 2008
 
 ----------------------------------------------------------------------
 
@@ -2827,16 +2835,16 @@ Amended(1) by Proposal 5176 (Murphy), 29 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 1607/17 (Power=1)
+Rule 1607/18 (Power=1)
 The Promotor
 
       The Promotor is an office; its holder is responsible for
       receiving and distributing proposals.
 
       The Promotor MAY distribute a proposal in the Proposal Pool at
-      any time.  During each week, the Promotor SHALL distribute each
-      proposal that has been in the Proposal Pool since the beginning
-      of that week.
+      any time.  The Promotor's weekly duties include the distribution
+      of each proposal that has been in the Proposal Pool since the
+      beginning of that week.
 
       The Promotor distributes a proposal by publishing it with the
       clear intent of distributing it.  When a proposal is
@@ -2910,6 +2918,7 @@ Amended(14) by Proposal 5110 (Murphy), 2 August 2007
 Amended(15) by Proposal 5112 (Murphy), 2 August 2007
 Amended(16) by Proposal 5418 (root), 2 February 2008
 Amended(17) by Proposal 5457 (Murphy), 9 March 2008
+Amended(18) by Proposal 5485 (root), 9 April 2008
 
 ----------------------------------------------------------------------
 
@@ -3053,7 +3062,7 @@ Amended(4) by Proposal 5418 (root), 2 February 2008
 
 ----------------------------------------------------------------------
 
-Rule 2126/50 (Power=2)
+Rule 2126/51 (Power=2)
 Notes
 
       Notes are a class of fixed assets.  Ownership of Notes is
@@ -3079,13 +3088,13 @@ Notes
           (Ab) If Y > X = 0, then e gains an Ab Note.
           (A)  If Y > X > 0, then e gains an A Note.
 
-      (2) (E)  At the end of each week, each player who published at
-               least one weekly report during that week gains an E
-               Note.
+      (2) (E)  At the end of each week, each player who completed the
+               non-empty set of weekly duties of at least one office
+               during that week gains an E Note.
 
-          (Eb) At the end of each month, each player who published at
-               least one monthly report during that month gains an Eb
-               Note.
+          (Eb) At the end of each month, each player who completed the
+               non-empty set of monthly duties of at least one office
+               during that month gains an Eb Note.
 
       (3) (D)  At the end of each week, each player who published at
                least one on-time judgement during that week gains a D
@@ -3178,6 +3187,7 @@ Retitled by Proposal 5404 (Murphy, pikhq, root), 16 January 2008
 Amended(49) by Proposal 5404 (Murphy, pikhq, root), 16 January 2008
 Retitled by Proposal 5424 (Zefram; disi.), 6 February 2008
 Amended(50) by Proposal 5424 (Zefram; disi.), 6 February 2008
+Amended(51) by Proposal 5485 (root), 9 April 2008
 
 ----------------------------------------------------------------------
 
@@ -4804,13 +4814,14 @@ Amended(3) by Proposal 5460 (avpx), 13 March 2008
 
 ----------------------------------------------------------------------
 
-Rule 2192/1 (Power=1)
+Rule 2192/2 (Power=1)
 The Mad Scientist
 
       The Mad Scientist is an office; its holder is responsible for
       building the Monster.
 
-      At least once each week, the Mad Scientist SHALL:
+      The Mad Scientist's weekly duties include the performance of the
+      following tasks, in order:
 
       a) Randomly select exactly one rule.  If the selected rule is
          either this rule or the rule "The Monster", then the
@@ -4838,6 +4849,7 @@ The Mad Scientist
 History:
 Created by Proposal 5396 (Murphy), 16 January 2008
 Amended(1) by Proposal 5483 (Murphy), 2 April 2008
+Amended(2) by Proposal 5485 (root), 9 April 2008
 
 ----------------------------------------------------------------------
 
