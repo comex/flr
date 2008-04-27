@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5501
+Last proposal with recorded effect on this ruleset: 5502
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -4503,7 +4503,7 @@ Amended(14) by Proposal 5423 (woggle; disi.), 6 February 2008
 
 ----------------------------------------------------------------------
 
-Rule 2197/0 (Power=1.5)
+Rule 2197/1 (Power=1.5)
 Defining Contract Changes
 
       A Contract Change can be one or more of any of the following:
@@ -4517,16 +4517,17 @@ Defining Contract Changes
 
       (d) terminating a contract
 
-      If a Contract Change is ambiguous or the its permissability
-      cannot be determined with certainty at the time it is attempted,
-      then that change has no effect.
+      If a Contract Change is ambiguous or its permissibility cannot
+      be determined with certainty at the time it is attempted, then
+      that change has no effect.
 
 History:
 Created by Proposal 5423 (woggle; disi.), 6 February 2008
+Amended(1) by Proposal 5502 (Pavitra; disi.), 26 April 2008
 
 ----------------------------------------------------------------------
 
-Rule 2198/0 (Power=1.5)
+Rule 2198/1 (Power=1.5)
 Making Contract Changes
 
       If a contract specifies a mechanism by which Contract Changes to
@@ -4540,7 +4541,7 @@ Making Contract Changes
       then Contract Changes CAN be made to it by agreement between all
       the parties to the contract.  Otherwise, any party to the
       contract CAN make Contract Changes to that contract without
-      Objection if, before the dependant action is resolved, no party
+      Objection if, before the dependent action is resolved, no party
       blocks the change by announcement.
 
 [CFJ 1876 (called 18 January 2008): "Agreement between all parties"
@@ -4553,6 +4554,7 @@ terminated.]
 
 History:
 Created by Proposal 5423 (woggle; disi.), 6 February 2008
+Amended(1) by Proposal 5502 (Pavitra; disi.), 26 April 2008
 
 ----------------------------------------------------------------------
 
