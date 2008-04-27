@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5487
+Last proposal with recorded effect on this ruleset: 5491
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -2062,7 +2062,7 @@ Amended(23) by Proposal 5407 (root), 22 January 2008
 
 ----------------------------------------------------------------------
 
-Rule 2154/7 (Power=2)
+Rule 2154/8 (Power=2)
 Replacing Officers
 
       Any player CAN make an active player (hereafter the nominee) the
@@ -2091,12 +2091,19 @@ Replacing Officers
       flip an office's stability without 2 objections.  A Perpetual
       office becomes Temporal when its holder leaves office.
 
-      If an office is Temporal at the end of a quarter, and no attempt
-      to install a player into that office was made during that
-      quarter, then the IADoP SHALL make at least one such attempt
-      during the following quarter, and SHALL make the change if
-      possible; however, these requirements are waived if another
-      player makes such a change during the following quarter.
+      The IADoP SHALL make at least one attempt to install a player
+      into an office, and SHALL make the change if possible, under the
+      following circumstances:
+
+      a) During a quarter, if the office was Temporal at the start of
+         that quarter and no such attempt was made during the previous
+         quarter.  This requirement is waived if another player makes
+         such a change during the current quarter.
+
+      b) Within a week (or month, if the office is low-priority) after
+         the office ceases to have an active holder.  This requirement
+         is waived if the office comes to have an active holder during
+         that week (month).
 
 History:
 Created by Proposal 5059 (Zefram, Goethe), 9 July 2007
@@ -2107,6 +2114,7 @@ Amended(4) by Proposal 5224 (Murphy), 23 September 2007
 Amended(5) by Proposal 5407 (root), 22 January 2008
 Amended(6) by Proposal 5452 (Murphy), 1 March 2008
 Amended(7) by Proposal 5453 (Murphy), 1 March 2008
+Amended(8) by Proposal 5491 (Murphy), 23 April 2008
 
 ----------------------------------------------------------------------
 
