@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5491
+Last proposal with recorded effect on this ruleset: 5493
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -3788,7 +3788,7 @@ Amended(26) by Proposal 5476 (Murphy; disi.), 27 March 2008
 
 ----------------------------------------------------------------------
 
-Rule 1504/22 (Power=1.7)
+Rule 1504/23 (Power=1.7)
 Criminal Cases
 
       There is a subclass of judicial case known as a criminal case.
@@ -3862,12 +3862,20 @@ Criminal Cases
 
       Some types of sentence include a duration known as the tariff.
       When a sentence with a tariff is in effect, the sentence is
-      thereafter either active or not.  The sentence is inactive for
-      the first week after it first takes effect.  Thereafter, the
-      sentence is active if and only if it is still in effect and
-      sentences of the same type on the same question on sentencing
-      have been active for a total duration less than the tariff.  The
-      CotC's report includes the status of all active sentences.
+      active while all of the following are true, inactive otherwise:
+
+      1) It is still in effect.
+
+      2) At least one week has elapsed since it first took effect.
+
+      3) Sentences of the same type on the same question on sentencing
+         have been active for a total duration less than the tariff.
+         (That is, if an active sentence is suspended and later
+         reinstated or superseded by a similar sentence, then the
+         defendant gets credit for time served prior to the
+         suspension.)
+
+      The CotC's report includes the status of all active sentences.
 
       The valid sentences are:
 
@@ -3966,6 +3974,7 @@ Amended(19) by Proposal 5371 (Zefram), 20 December 2007
 Amended(20) by Proposal 5386 (Murphy, Zefram), 1 January 2008
 Amended(21) by Proposal 5404 (Murphy, pikhq, root), 16 January 2008
 Amended(22) by Proposal 5436 (Murphy), 13 February 2008
+Amended(23) by Proposal 5493 (Murphy), 23 April 2008
 
 ----------------------------------------------------------------------
 
