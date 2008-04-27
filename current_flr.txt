@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5496
+Last proposal with recorded effect on this ruleset: 5497
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -2066,7 +2066,7 @@ Amended(23) by Proposal 5407 (root), 22 January 2008
 
 ----------------------------------------------------------------------
 
-Rule 2154/8 (Power=2)
+Rule 2154/9 (Power=2)
 Replacing Officers
 
       Any player CAN make an active player (hereafter the nominee) the
@@ -2075,9 +2075,9 @@ Replacing Officers
       this process is known as installation.
 
       If, during the minimum waiting period between intent and action
-      defined for Agoran Consent, another active player is nominated
-      in this way and consents, then the IADoP SHALL as soon as
-      possible initiate an Agoran decision to determine the new
+      defined for Agoran Consent, at least two active players are
+      nominated in this way and consent, then the IADoP SHALL as soon
+      as possible initiate an Agoran decision to determine the new
       officeholder; this process is known as election.  Until the
       election is resolved, the office CANNOT change hands via
       installation, the remainder of this rule notwithstanding.
@@ -2119,6 +2119,7 @@ Amended(5) by Proposal 5407 (root), 22 January 2008
 Amended(6) by Proposal 5452 (Murphy), 1 March 2008
 Amended(7) by Proposal 5453 (Murphy), 1 March 2008
 Amended(8) by Proposal 5491 (Murphy), 23 April 2008
+Amended(9) by Proposal 5497 (Murphy; disi.), 23 April 2008
 
 ----------------------------------------------------------------------
 
