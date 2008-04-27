@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5498
+Last proposal with recorded effect on this ruleset: 5499
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -2066,48 +2066,47 @@ Amended(23) by Proposal 5407 (root), 22 January 2008
 
 ----------------------------------------------------------------------
 
-Rule 2154/9 (Power=2)
+Rule 2154/10 (Power=2)
 Replacing Officers
 
-      Any player CAN make an active player (hereafter the nominee) the
-      holder of an elected office, thus removing any previous holder
-      from the office, with Agoran Consent and the nominee's consent;
-      this process is known as installation.
+      Any player CAN by announcement nominate one or more active
+      players to be candidate(s) for an Office, this begins a
+      nomination period for that office, during which other candidates
+      may be so nominated.  The nomination period lasts for four days.
+      Once a nomination period begins, a new one CANNOT begin for the
+      same office until the nomination or resulting election is resolved.
+      A player who has not refused eir nomination is a consenting
+      candidate.
 
-      If, during the minimum waiting period between intent and action
-      defined for Agoran Consent, at least two active players are
-      nominated in this way and consent, then the IADoP SHALL as soon
-      as possible initiate an Agoran decision to determine the new
-      officeholder; this process is known as election.  Until the
-      election is resolved, the office CANNOT change hands via
-      installation, the remainder of this rule notwithstanding.
+      As soon as possible after the nomination period ends, then: (a) if
+      there is only one consenting candidate, the IADoP SHALL install em
+      in the Office by announcement; (b) if there are two or more
+      consenting candidates, then the IADoP SHALL initiate an Agoran
+      decision to determine the new officeholder; this process is known
+      as an election.
 
       In an election, the valid options are the consenting nominees
       (hereafter the candidates), quorum is the lesser of three and
       the number of active players (other rules on quorum
       notwithstanding), the eligible voters are the active players.
+      If a player refuses eir nomination during the election, e
+      ceases to be a valid option.
+
       In the notice resolving the decision, the IADoP will select a
       candidate that received at least as many votes as any other
-      candidate; this candidate thereby becomes the officeholder.
+      candidate (if any); this candidate thereby becomes the
+      officeholder.
 
       Stability is an elected office switch, tracked by the IADoP,
       with values Temporal (default) and Perpetual.  Any player CAN
       flip an office's stability without 2 objections.  A Perpetual
       office becomes Temporal when its holder leaves office.
 
-      The IADoP SHALL make at least one attempt to install a player
-      into an office, and SHALL make the change if possible, under the
-      following circumstances:
-
-      a) During a quarter, if the office was Temporal at the start of
-         that quarter and no such attempt was made during the previous
-         quarter.  This requirement is waived if another player makes
-         such a change during the current quarter.
-
-      b) Within a week (or month, if the office is low-priority) after
-         the office ceases to have an active holder.  This requirement
-         is waived if the office comes to have an active holder during
-         that week (month).
+      If an office is Temporal at the end of a quarter, and no nomination
+      period began for that office during that quarter, then the IADoP
+      SHALL make at least one nomination for the office during the
+      following quarter.  These requirements are waived if another
+      player so makes a nomination.
 
 History:
 Created by Proposal 5059 (Zefram, Goethe), 9 July 2007
@@ -2120,6 +2119,7 @@ Amended(6) by Proposal 5452 (Murphy), 1 March 2008
 Amended(7) by Proposal 5453 (Murphy), 1 March 2008
 Amended(8) by Proposal 5491 (Murphy), 23 April 2008
 Amended(9) by Proposal 5497 (Murphy; disi.), 23 April 2008
+Amended(10) by Proposal 5499 (Goethe), 23 April 2008
 
 ----------------------------------------------------------------------
 
