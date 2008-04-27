@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5494
+Last proposal with recorded effect on this ruleset: 5495
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -11,7 +11,7 @@ Rule ID numbers:
 
 Statistics
 
-Current total number of rules: 115
+Current total number of rules: 114
 
 Power distribution:
        1 with Power=4
@@ -19,7 +19,7 @@ Power distribution:
       33 with Power=2
        5 with Power=1.7
       10 with Power=1.5
-      38 with Power=1
+      37 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -159,7 +159,6 @@ Index of Rules
       Rule 2136: Contests
       Rule 2179: Points
       Rule 2187: Win by High Score
-      Rule 2180: Locations
 
       * Frankenstein's Monster
       Rule 2193: The Monster
@@ -4786,32 +4785,6 @@ Win by High Score
 History:
 Created by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
   16 January 2008
-
-----------------------------------------------------------------------
-
-Rule 2180/1 (Power=1)
-Locations
-
-      A location is a public contract that describes itself as a
-      location.  A person who becomes a party to a location is said to
-      move to that location.  A person who is a party to a location is
-      said to be in that location.  A person who ceases to be a party
-      to a location is said to leave that location.
-
-      A person cannot be in more than a single location at one time.
-      A person who moves to a location automatically leaves any
-      location e is already in.  Whenever a person's location does not
-      permit em to leave it, e CANNOT move to any other location.
-
-      A location requires at least zero parties.
-
-[CFJ 1877 (called 18 January 2008): It is not possible to cease to be
-a party to a location which has exactly one party by announcement,
-even if the text of the location explicitly permits this.]
-
-History:
-Created by Proposal 5362 (root), 20 December 2007
-Amended(1) by Proposal 5423 (woggle; disi.), 6 February 2008
 
 ----------------------------------------------------------------------
 
