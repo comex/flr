@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5500
+Last proposal with recorded effect on this ruleset: 5501
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -4799,7 +4799,7 @@ Frankenstein's Monster
       together of a rule from salvaged parts.
 ----------------------------------------------------------------------
 
-Rule 2193/3 (Power=1)
+Rule 2193/4 (Power=1)
 The Monster
 
       Raaaaaaaaaaaaaargh!
@@ -4824,11 +4824,16 @@ The Monster
       (b) Voting of the people.
       (c) Resolution of the Monster.
 
+      Upon the adoption of a proposal awarding a win to one or more
+      Monsters, all those Monsters satisfy the Winning Condition of
+      Legislation.
+
 History:
 Created by Proposal 5396 (Murphy), 16 January 2008
 Amended(1) by Proposal 5435 (avpx; disi.), 13 February 2008
 Amended(2) by Proposal 5444 (avpx; disi.), 21 February 2008
 Amended(3) by Proposal 5460 (avpx), 13 March 2008
+Amended(4) by Proposal 5501 (avpx; disi.), 26 April 2008
 
 ----------------------------------------------------------------------
 
