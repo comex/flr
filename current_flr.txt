@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5495
+Last proposal with recorded effect on this ruleset: 5496
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -1735,7 +1735,7 @@ Amended(3) by Proposal 5476 (Murphy; disi.), 27 March 2008
 
 ----------------------------------------------------------------------
 
-Rule 2166/4 (Power=2)
+Rule 2166/5 (Power=2)
 Assets
 
       An asset is an entity defined as such by an instrument or
@@ -1743,11 +1743,13 @@ Assets
       because its backing document defines its existence.
 
       Each asset has exactly one owner.  If an asset would otherwise
-      lack an owner, it is owned by the Bank.  If an asset's backing
-      document restricts its ownership to a class of entities, then
-      that asset CANNOT be gained by or transferred to an entity
-      outside that class, and is destroyed if it is owned by an entity
-      outside that class.
+      lack an owner, it is owned by the Lost and Found Department.  If
+      an asset's backing document restricts its ownership to a class
+      of entities, then that asset CANNOT be gained by or transferred
+      to an entity outside that class, and is destroyed if it is owned
+      by an entity outside that class (except for the Lost and Found
+      Department, in which case any player CAN transfer or destroy it
+      without objection).
 
       The recordkeepor of a class of assets is the entity defined as
       such by its backing document.  That entity's report includes a
@@ -1761,11 +1763,12 @@ Assets
       entity is to create it in that entity's possession.
 
       An asset generally CAN be destroyed by its owner by
-      announcement, and an asset owned by the Bank generally CAN be
-      destroyed by its recordkeepor by announcement, subject to
-      modification by its backing document.  To "lose" an asset is to
-      have it destroyed from one's possession; to "revoke" an asset
-      from an entity is to destroy it from that entity's possession.
+      announcement, and an asset owned by the Lost and Found
+      Department generally CAN be destroyed by its recordkeepor by
+      announcement, subject to modification by its backing document.
+      To "lose" an asset is to have it destroyed from one's
+      possession; to "revoke" an asset from an entity is to destroy it
+      from that entity's possession.
 
       An asset generally CAN be transferred by its owner to another
       entity by announcement, subject to modification by its backing
@@ -1783,7 +1786,8 @@ partial list does not self-ratify.]
 [CFJ 1850 (called 22 December 2007): The general ability of the
 recordkeepor to create assets does not include an ability to determine
 who possesses them when created, so they are necessarily owned by the
-Bank upon creation.]
+Lost and Found Department [at the time of CFJ 1850, the Bank] upon
+creation.]
 
 [Note (11 March 2008): The existence of this rule is in question due
 to a scam.  See CFJ 1914.]
@@ -1794,6 +1798,7 @@ Amended(1) by Proposal 5216 (Murphy), 13 September 2007
 Amended(2) by Proposal 5388 (Murphy), 1 January 2008
 Amended(3) by Proposal 5475 (Murphy), 24 March 2008
 Amended(4) by Proposal 5476 (Murphy; disi.), 27 March 2008
+Amended(5) by Proposal 5496 (Murphy), 23 April 2008
 
 ----------------------------------------------------------------------
 
