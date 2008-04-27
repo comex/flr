@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5493
+Last proposal with recorded effect on this ruleset: 5494
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -4854,11 +4854,14 @@ Amended(3) by Proposal 5460 (avpx), 13 March 2008
 
 ----------------------------------------------------------------------
 
-Rule 2192/2 (Power=1)
+Rule 2192/3 (Power=1)
 The Mad Scientist
 
       The Mad Scientist is an office; its holder is responsible for
-      building the Monster.
+      building the Monster.  The Mad Scientist CAN act on behalf of
+      the Monster to take any action that the Monster may take, and
+      SHALL act on behalf of the Monster to ensure that the Monster
+      fulfills all of its duties.
 
       The Mad Scientist's weekly duties include the performance of the
       following tasks, in order:
@@ -4883,13 +4886,15 @@ The Mad Scientist
          that rule and this one).  This proposal counts as the Mad
          Scientist's weekly report if/when it is adopted.
 
-[Cross-references (16 January 2008): the Mad Scientist's duties are:
+[Cross-references (23 April 2008): the Mad Scientist's duties are:
+  * act on behalf of the monster to fulfill its duties (rule 2192)
   * propose mutation of the monster (rule 2192)]
 
 History:
 Created by Proposal 5396 (Murphy), 16 January 2008
 Amended(1) by Proposal 5483 (Murphy), 2 April 2008
 Amended(2) by Proposal 5485 (root), 9 April 2008
+Amended(3) by Proposal 5494 (OscarMeyr, Pavitra), 23 April 2008
 
 ----------------------------------------------------------------------
 
