@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5502
+Last proposal with recorded effect on this ruleset: 5503
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -2066,11 +2066,11 @@ Amended(23) by Proposal 5407 (root), 22 January 2008
 
 ----------------------------------------------------------------------
 
-Rule 2154/10 (Power=2)
+Rule 2154/11 (Power=2)
 Replacing Officers
 
       Any player CAN by announcement nominate one or more active
-      players to be candidate(s) for an Office, this begins a
+      players to be candidate(s) for an elected Office. This begins a
       nomination period for that office, during which other candidates
       may be so nominated.  The nomination period lasts for four days.
       Once a nomination period begins, a new one CANNOT begin for the
@@ -2120,6 +2120,7 @@ Amended(7) by Proposal 5453 (Murphy), 1 March 2008
 Amended(8) by Proposal 5491 (Murphy), 23 April 2008
 Amended(9) by Proposal 5497 (Murphy; disi.), 23 April 2008
 Amended(10) by Proposal 5499 (Goethe), 23 April 2008
+Amended(11) by Proposal 5503 (root), 1 May 2008
 
 ----------------------------------------------------------------------
 
