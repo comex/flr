@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5506
+Last proposal with recorded effect on this ruleset: 5507
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -4000,7 +4000,7 @@ Created by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
 
 ----------------------------------------------------------------------
 
-Rule 2169/4 (Power=1.7)
+Rule 2169/5 (Power=1.7)
 Equity Cases
 
       There is a subclass of judicial case known as an equity case.
@@ -4013,12 +4013,11 @@ Equity Cases
       limited to, a party acting in contravention of eir contractual
       obligations).
 
-      The initiation of an equity case begins its pre-trial phase.
-      During the pre-trial phase, the case requires a judge.  In the
-      pre-trial phase the judge SHALL as soon as possible inform all
-      the contracting parties of the case and invite them to submit
-      arguments regarding the equitability of the situation.  The
-      pre-trial phase ends one week after the parties have been so
+      The initiation of an equity case begins its pre-trial phase.  In
+      the pre-trial phase the CotC SHALL in a timely fashion inform
+      all the contracting parties of the case and invite them to
+      submit arguments regarding the equitability of the situation.
+      The pre-trial phase ends one week after the parties have been so
       informed, or immediately when all parties have announced that
       they wish to terminate the pre-trial phase.
 
@@ -4055,6 +4054,7 @@ Amended(1) by Proposal 5355 (Murphy; disi.), 16 December 2007
 Amended(2) by Proposal 5371 (Zefram), 20 December 2007
 Amended(3) by Proposal 5387 (Murphy), 1 January 2008
 Amended(4) by Proposal 5436 (Murphy), 13 February 2008
+Amended(5) by Proposal 5507 (root), 10 May 2008
 
 ----------------------------------------------------------------------
 
