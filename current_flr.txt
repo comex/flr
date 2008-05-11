@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5504
+Last proposal with recorded effect on this ruleset: 5506
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -2522,12 +2522,13 @@ Conditional Votes
       Casting a vote denouncing another voter is equivalent to
       conditionally casting a vote whose value is opposite to the most
       common value (if any) among that voter's valid votes on that
-      decision.  FOR and AGAINST are opposites; SUPPORT and OBJECT are
-      opposites; PRESENT is its own opposite.
+      decision.  FOR and AGAINST are opposites; PRESENT is its own
+      opposite.
 
 History:
 Created by Proposal 4875 (Goethe), 1 December 2006
 Amended(1) by Proposal 5427 (Murphy), 9 February 2008
+Amended(2) by Proposal 5506 (Murphy; disi.), 10 May 2008
 
 ----------------------------------------------------------------------
 
