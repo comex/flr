@@ -4642,10 +4642,6 @@ Pledges
       considered to be a party to the pledge for the purpose of that
       case.
 
-[CFJ 1876 (called 18 January 2008): It is not possible to cease to be
-a party to a pledge which has exactly one party by announcement, even
-if the text of pledge explicitly permits this.]
-
 History:
 Created by Proposal 5395 (Murphy), 16 January 2008
 Amended(1) by Proposal 5423 (woggle; disi.), 6 February 2008
