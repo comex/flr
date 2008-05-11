@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5503
+Last proposal with recorded effect on this ruleset: 5504
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -1895,13 +1895,15 @@ Amended(18) by Proposal 5445 (Goethe, Murphy), 21 February 2008
 
 ----------------------------------------------------------------------
 
-Rule 2124/6 (Power=2)
+Rule 2124/7 (Power=2)
 Agoran Satisfaction
 
       A Supporter of a dependent action is a first-class player who
       has publicly posted (and not withdrawn) support for an
       announcement of intent to perform the action.  An Objector to a
-      dependent action is a first-class player who has publicly posted
+      dependent action is a first-class player (or other person
+      explicitly allowed to object to that action by the rule allowing
+      that action to be performed dependently) who has publicly posted
       (and not withdrawn) an objection to the announcement of intent
       to perform the action.
 
@@ -1934,6 +1936,7 @@ Amended(5) by Proposal 5370 (Zefram), 20 December 2007
 Power changed from 1 to 2 by Proposal 5445 (Goethe, Murphy), 21 February 2008
 Retitled by Proposal 5445 (Goethe, Murphy), 21 February 2008
 Amended(6) by Proposal 5445 (Goethe, Murphy), 21 February 2008
+Amended(7) by Proposal 5504 (Murphy), 10 May 2008
 
 ----------------------------------------------------------------------
 
