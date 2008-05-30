@@ -15,8 +15,8 @@ Current total number of rules: 114
 
 Power distribution:
        1 with Power=4
-      29 with Power=3
-      33 with Power=2
+      30 with Power=3
+      32 with Power=2
        5 with Power=1.7
       10 with Power=1.5
       37 with Power=1
@@ -1701,7 +1701,7 @@ Amended(1) by Proposal 5271 (Murphy), 7 November 2007
 
 ----------------------------------------------------------------------
 
-Rule 2150/3 (Power=2)
+Rule 2150/3 (Power=3)
 Personhood
 
       A person is an entity that has the general capacity to be the
@@ -1732,6 +1732,7 @@ Created by Proposal 5007 (Zefram), 18 June 2007
 Amended(1) by Proposal 5061 (Zefram), 9 July 2007
 Amended(2) by Proposal 5303 (root), 24 November 2007
 Amended(3) by Proposal 5476 (Murphy; disi.), 27 March 2008
+Power changed from 2 to 3 by Proposal 5509 (root; disi.), 28 May 2008
 
 ----------------------------------------------------------------------
 
