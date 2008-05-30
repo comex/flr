@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5508
+Last proposal with recorded effect on this ruleset: 5510
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -3086,7 +3086,7 @@ Amended(4) by Proposal 5418 (root), 2 February 2008
 
 ----------------------------------------------------------------------
 
-Rule 2126/51 (Power=2)
+Rule 2126/52 (Power=2)
 Notes
 
       Notes are a class of fixed assets.  Ownership of Notes is
@@ -3150,6 +3150,18 @@ Notes
           Musicianship, unless another player has already done so
           during that Birthday.
 
+      (6) A player CAN spend one Note to increase another player's
+          voting limit on an ordinary proposal whose voting period is
+          in progress by 1.
+
+      (7) A player CAN spend two Notes to increase eir voting limit on
+          an ordinary proposal whose voting period is in progress by
+          1.
+
+      (8) A player CAN spend three Notes to gain a Note whose pitch is
+          as many semitones distant from one of the Notes spent as the
+          distance between the other two Notes spent.
+
 [CFJs 1826-1827 (called 6 December 2007): A decrease of VVLOP cannot
 be by a negative number.]
 
@@ -3212,6 +3224,7 @@ Amended(49) by Proposal 5404 (Murphy, pikhq, root), 16 January 2008
 Retitled by Proposal 5424 (Zefram; disi.), 6 February 2008
 Amended(50) by Proposal 5424 (Zefram; disi.), 6 February 2008
 Amended(51) by Proposal 5485 (root), 9 April 2008
+Amended(52) by Proposal 5510 (Murphy, Zefram), 28 May 2008
 
 ----------------------------------------------------------------------
 
