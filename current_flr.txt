@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5510
+Last proposal with recorded effect on this ruleset: 5511
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -4725,7 +4725,7 @@ Created by Proposal 5274 (Murphy), 7 November 2007
 
 ----------------------------------------------------------------------
 
-Rule 2136/18 (Power=1)
+Rule 2136/19 (Power=1)
 Contests
 
       A first-class player who is a member of an existing public
@@ -4754,6 +4754,15 @@ Contests
       contestmaster from other members by public announcement, and
       MUST be revoked as explicitly described in the contract.
 
+      For each contest, ASAP after the beginning of each month, the
+      Scorekeepor CAN and SHALL by announcement award a number of
+      points, equal to the number of Players who were Contestants in
+      that Contest at any time during the previous month, to the
+      Player (if any) who was its Contestmaster for 16 or more days
+      during the previous month, provided that the Contestmaster
+      performed Contest-related duties in a timely manner during that
+      time.
+
 History:
 Created by Proposal 4935 (Murphy), 29 April 2007
 Amended(1) by Proposal 4960 (OscarMeyr), 3 June 2007
@@ -4774,6 +4783,7 @@ Amended(15) by Proposal 5328 (Goethe), 5 December 2007
 Amended(16) by Proposal 5362 (root), 20 December 2007
 Amended(17) by Proposal 5397 (Murphy), 16 January 2008
 Amended(18) by Proposal 5423 (woggle; disi.), 6 February 2008
+Amended(19) by Proposal 5511 (Goethe), 28 May 2008
 
 ----------------------------------------------------------------------
 
