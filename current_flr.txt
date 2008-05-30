@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5511
+Last proposal with recorded effect on this ruleset: 5514
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -3349,7 +3349,7 @@ involved accept it as unambiguous at the time.]
 [CFJ 1355 (called 28 April 2002): Titles for CFJs are unregulated, so
 it is possible for a title to be assigned to a CFJ informally.]
 
-[Cross-references (13 March 2008): the Clerk of the Courts' duties
+[Cross-references (28 May 2008): the Clerk of the Courts' duties
 are:
   * issue Writ of FAGE (rule 1789)
   * not assign judges during holiday (rule 1769)
@@ -3365,7 +3365,8 @@ are:
   * recuse tardy judge (rule 2158)
   * inform defendant in criminal case (rule 1504)
   * report active sentences (rule 1504)
-  * award patent title of Left in a Huff (rule 1922)]
+  * award patent title of Left in a Huff (rule 1922)
+  * report Monster-related cases (rule 2193)]
 
 History:
 Initial Mutable Rule 213, Jun. 30 1993
@@ -4830,7 +4831,7 @@ Frankenstein's Monster
       together of a rule from salvaged parts.
 ----------------------------------------------------------------------
 
-Rule 2193/4 (Power=1)
+Rule 2193/5 (Power=1)
 The Monster
 
       Raaaaaaaaaaaaaargh!
@@ -4859,12 +4860,17 @@ The Monster
       Monsters, all those Monsters satisfy the Winning Condition of
       Legislation.
 
+      The CotC's report includes the status of all Monster-related
+      cases that either require a Monster or have at least one
+      applicable Monster-related question that has no judgement.
+
 History:
 Created by Proposal 5396 (Murphy), 16 January 2008
 Amended(1) by Proposal 5435 (avpx; disi.), 13 February 2008
 Amended(2) by Proposal 5444 (avpx; disi.), 21 February 2008
 Amended(3) by Proposal 5460 (avpx), 13 March 2008
 Amended(4) by Proposal 5501 (avpx; disi.), 26 April 2008
+Amended(5) by Proposal 5514 (avpx; disi.), 28 May 2008
 
 ----------------------------------------------------------------------
 
