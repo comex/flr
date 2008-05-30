@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5517
+Last proposal with recorded effect on this ruleset: 5519
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -2020,7 +2020,7 @@ Offices
       within the game.
 ----------------------------------------------------------------------
 
-Rule 1006/23 (Power=2)
+Rule 1006/24 (Power=2)
 Offices
 
       A role is an office if and only if it is so defined by the
@@ -2030,6 +2030,12 @@ Offices
 
       An office is imposed if it is so described by the rule defining
       it; otherwise, it is elected.
+
+      The holder of an office CAN resign it by announcement, causing
+      it to become vacant.  As soon as possible after an office
+      becomes (or is created) vacant, the IADoP SHALL make at least
+      one nomination for the office; this requirement is waived if
+      another player so makes a nomination.
 
 [CFJ 1660 (called 13 May 2007): This rule does not define the meaning
 of the term "office", in the sense meant by rule 754, but rather
@@ -2071,6 +2077,7 @@ Power changed from 1 to 2 by Proposal 5133 (Zefram), 13 August 2007
 Amended(21) by Proposal 5133 (Zefram), 13 August 2007
 Amended(22) by Proposal 5239 (AFO), 3 October 2007
 Amended(23) by Proposal 5407 (root), 22 January 2008
+Amended(24) by Proposal 5519 (Murphy), 28 May 2008
 
 ----------------------------------------------------------------------
 
