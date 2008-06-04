@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5523
+Last proposal with recorded effect on this ruleset: 5525
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -4818,18 +4818,25 @@ Amended(1) by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
 
 ----------------------------------------------------------------------
 
-Rule 2187/0 (Power=2)
+Rule 2187/1 (Power=2)
 Win by High Score
 
       Upon a win announcement that one or more players have a score of
       at least 100 (specifying all such players), all those players
       satisfy the Winning Condition of High Score.
 
-      Cleanup procedure:  Each player's score is set to 0.
+      Cleanup procedure:  All those players have eir scores set to 0.
+      All other players have eir scores set to floor(N*S/10), where N
+      is eir previous score and S is the Score Index.
+
+      The Score Index is an integer from 0 to 5, and part of the
+      Scorekeepor's report.  The Scorekeepor CAN change the Score
+      Index without objection.
 
 History:
 Created by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
   16 January 2008
+Amended(1) by Proposal 5525 (Murphy), 2 June 2008
 
 ----------------------------------------------------------------------
 
