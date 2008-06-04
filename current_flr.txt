@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5526
+Last proposal with recorded effect on this ruleset: 5527
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -1803,14 +1803,16 @@ Amended(5) by Proposal 5496 (Murphy), 23 April 2008
 
 ----------------------------------------------------------------------
 
-Rule 2181/2 (Power=1)
+Rule 2181/3 (Power=1)
 The Accountor
 
       The Accountor is a low-priority office; its holder is
       responsible for keeping track of miscellaneous assets.
 
-      The Accountor's report includes a list of classes of assets and
-      their backing documents and recordkeepors.
+      The Accountor is the default recordkeepor for all assets that do
+      not specify a different recordkeepor.  If any such assets exist,
+      then the Accountor's report includes a list of their backing
+      documents; otherwise, the Accountor has no report.
 
       The Accountor is the default recordkeepor for all assets whose
       backing document does not specify a different recordkeepor.
@@ -1823,6 +1825,7 @@ History:
 Created by Proposal 5363 (Murphy; disi.), 20 December 2007
 Amended(1) by Proposal 5482 (Murphy), 2 April 2008
 Amended(2) by Proposal 5508 (Murphy), 28 May 2008
+Amended(3) by Proposal 5527 (Murphy), 2 June 2008
 
 ----------------------------------------------------------------------
 
