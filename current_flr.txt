@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5519
+Last proposal with recorded effect on this ruleset: 5523
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -4932,7 +4932,7 @@ Foreign Relations
       other nomics.
 ----------------------------------------------------------------------
 
-Rule 2200/0 (Power=1)
+Rule 2200/1 (Power=1)
 Nomic Definitions
 
       A nomic ruleset is a set of explicit rules that provides means
@@ -4951,10 +4951,11 @@ Nomic Definitions
       of "Agora" does not disqualify a nomic from being foreign; any
       nomic that is not the One True Agora is a foreign nomic.
 
-      A province is a protectorate that is registered as a player.
+      A province is a protectorate that is a player.
 
 History:
 Created by Proposal 5446 (Pavitra, Zefram), 24 February 2008
+Amended(1) by Proposal 5523 (Pavitra; disi.), 2 June 2008
 
 ----------------------------------------------------------------------
 
