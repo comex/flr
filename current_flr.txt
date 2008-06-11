@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5534
+Last proposal with recorded effect on this ruleset: 5535
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -1185,7 +1185,7 @@ Definitions
       widely used and do not readily fall into any other category.
 ----------------------------------------------------------------------
 
-Rule 478/22 (Power=3)
+Rule 478/23 (Power=3)
 Fora
 
       Freedom of speech being essential for the healthy functioning of
@@ -1213,11 +1213,11 @@ Fora
 
       A message is public if and only if it is sent via a public forum
       or is sent to all players and contains a clear designation of
-      intent to be public.  A player "publishes" or "announces"
+      intent to be public.  A person "publishes" or "announces"
       something by sending a public message.
 
       Where the rules define an action that CAN be performed "by
-      announcement", a player performs that action by announcing that
+      announcement", a person performs that action by announcing that
       e performs it.  Any action performed by sending a message is
       performed at the time date-stamped on that message.
 
@@ -1353,6 +1353,7 @@ Amended(19) by Proposal 5111 (Murphy), 2 August 2007
 Amended(20) by Proposal 5172 (Murphy), 29 August 2007
 Amended(21) by Proposal 5272 (Murphy; disi.), 7 November 2007
 Amended(22) by Proposal 5291 (root), 14 November 2007
+Amended(23) by Proposal 5535 (Murphy), 7 June 2008
 
 ----------------------------------------------------------------------
 
@@ -1478,15 +1479,15 @@ Amended(7) by Proposal 5038 (Zefram), 28 June 2007
 
 ----------------------------------------------------------------------
 
-Rule 2152/3 (Power=3)
+Rule 2152/4 (Power=3)
 Mother, May I?
 
       The following terms are defined.  These definitions are used
       when a rule includes a term in all caps, and SHOULD be used when
       a rule includes a term otherwise.  Earlier definitions take
       precedence over later ones.  If a rule specifies one or more
-      players in connection with a term, then the term applies only to
-      the specified player(s).
+      persons in connection with a term, then the term applies only to
+      the specified person(s).
 
       1. CANNOT, IMPOSSIBLE, INEFFECTIVE, INVALID:  Attempts to
          perform the described action are unsuccessful.
@@ -1517,6 +1518,7 @@ Amended(1) by Proposal 5189 (Levi), 3 September 2007
 Power changed from 2 to 3 by Proposal 5247 (AFO), 14 October 2007
 Amended(2) by Proposal 5353 (Murphy; disi.), 16 December 2007
 Amended(3) by Proposal 5354 (Murphy), 16 December 2007
+Amended(4) by Proposal 5535 (Murphy), 7 June 2008
 
 ----------------------------------------------------------------------
 
@@ -1948,7 +1950,7 @@ Amended(7) by Proposal 5504 (Murphy), 10 May 2008
 
 ----------------------------------------------------------------------
 
-Rule 1769/6 (Power=2)
+Rule 1769/7 (Power=2)
 Holidays
 
       A Holiday is a period of time designated as such by the Rules.
@@ -1964,8 +1966,8 @@ Holidays
       action need not be done until 72 hours after that Holiday ends.
 
       If some Rule bases the time of a future event (including the
-      time limit for a player to perform an action) upon the time of
-      another event, and
+      time limit to perform an action) upon the time of another event,
+      and
 
       a) that other event occurs during a Holiday, then the time at
          which that Holiday ends shall be used instead for the purpose
@@ -1976,8 +1978,8 @@ Holidays
          instead.
 
       This Rule takes precedence over all Rules pertaining to the
-      timing of events, and over all Rules which require Players to
-      perform events before a specified time.
+      timing of events, and over all Rules which require events to be
+      performed before a specified time.
 
       The period each year from midnight GMT on the morning of 24
       December to the beginning of the first Agoran week to begin
@@ -2001,6 +2003,7 @@ Amended(3) by Proposal 4866 (Goethe), 27 August 2006
 Amended(4) by Proposal 5077 (Murphy), 18 July 2007
 Amended(5) by Proposal 5086 (Zefram), 1 August 2007
 Amended(6) by Proposal 5484 (Murphy; disi.), 2 April 2008
+Amended(7) by Proposal 5535 (Murphy), 7 June 2008
 
 ----------------------------------------------------------------------
 
