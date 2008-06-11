@@ -1,17 +1,17 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5536
+Last proposal with recorded effect on this ruleset: 5537
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
-      highest orderly: 2205
+      highest orderly: 2207
       disorderly: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 114
+Current total number of rules: 116
 
 Power distribution:
        1 with Power=4
@@ -19,7 +19,7 @@ Power distribution:
       32 with Power=2
        5 with Power=1.7
       10 with Power=1.5
-      37 with Power=1
+      39 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -175,6 +175,8 @@ Index of Rules
       Rule 2189: Win by Extortion
       Rule 2147: Protectorates
       Rule 2159: Protective Decrees
+      Rule 2206: Foreign Trade
+      Rule 2207: Trade Embargo
 
       * Trophies
       Rule 2105: The Map of Agora
@@ -5279,6 +5281,37 @@ History:
 Created by Proposal 5091 (Zefram), 25 July 2007
 Amended(1) by Proposal 5276 (Murphy, Pavitra, Zefram), 7 November 2007
 Amended(2) by Proposal 5391 (Murphy; disi.), 16 January 2008
+
+----------------------------------------------------------------------
+
+Rule 2206/0 (Power=1)
+Foreign Trade
+
+      A player CAN spend some of eir assets to export them to a
+      foreign nomic; e SHALL inform that nomic of the export as soon
+      as possible, preferably by simultaneously sending the
+      announcement to an appropriate foreign forum.
+
+      The Ambassador SHOULD encourage foreign nomics to adopt
+      legislation recognizing Agoran exports by creating comparable
+      foreign assets.
+
+      Players are encouraged to adopt legislation recognizing foreign
+      exports by creating comparable Agoran assets.
+
+History:
+Created by Proposal 5537 (Murphy), 7 June 2008
+
+----------------------------------------------------------------------
+
+Rule 2207/0 (Power=1)
+Trade Embargo
+
+      A player SHALL NOT export assets to a foreign nomic unless its
+      Recognition is Protected, Friendly, or Neutral.
+
+History:
+Created by Proposal 5537 (Murphy), 7 June 2008
 
 ----------------------------------------------------------------------
 
