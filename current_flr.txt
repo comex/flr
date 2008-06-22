@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5547
+Last proposal with recorded effect on this ruleset: 5549
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -3121,7 +3121,7 @@ Amended(4) by Proposal 5418 (root), 2 February 2008
 
 ----------------------------------------------------------------------
 
-Rule 2126/53 (Power=2)
+Rule 2126/54 (Power=2)
 Notes
 
       Notes are a class of fixed assets.  Ownership of Notes is
@@ -3164,6 +3164,14 @@ Notes
 
           (C#) At the end of each week, each contestmaster who awarded
                at least one Point during that week gains a C# Note.
+
+      (5) (B)  At the end of each week, each player who authored at
+               least one proposal with an Interest Index of 2 that
+               passed during that week gains a B note.
+
+          (Bb) At the end of each week, each player who authored at
+               least one proposal with an Interest Index of 3 that
+               passed during that week gains a Bb note.
 
       Notes CAN be spent (destroyed) as follows:
 
@@ -3261,6 +3269,7 @@ Amended(50) by Proposal 5424 (Zefram; disi.), 6 February 2008
 Amended(51) by Proposal 5485 (root), 9 April 2008
 Amended(52) by Proposal 5510 (Murphy, Zefram), 28 May 2008
 Amended(53) by Proposal 5547 (ais523), 21 June 2008
+Amended(54) by Proposal 5549 (Wooble), 21 June 2008
 
 ----------------------------------------------------------------------
 
