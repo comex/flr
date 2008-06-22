@@ -1,21 +1,21 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5553
+Last proposal with recorded effect on this ruleset: 5555
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
-      highest orderly: 2207
+      highest orderly: 2208
       disorderly: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 116
+Current total number of rules: 117
 
 Power distribution:
        1 with Power=4
-      30 with Power=3
+      31 with Power=3
       32 with Power=2
        5 with Power=1.7
       10 with Power=1.5
@@ -73,6 +73,7 @@ Index of Rules
 
       * Definitions
       Rule  478: Fora
+      Rule 2208: Clarity of Announcements
       Rule 2170: Who Am I?
       Rule  754: Definition Definitions
       Rule 2152: Mother, May I?
@@ -1365,6 +1366,19 @@ Amended(20) by Proposal 5172 (Murphy), 29 August 2007
 Amended(21) by Proposal 5272 (Murphy; disi.), 7 November 2007
 Amended(22) by Proposal 5291 (root), 14 November 2007
 Amended(23) by Proposal 5535 (Murphy), 7 June 2008
+
+----------------------------------------------------------------------
+
+Rule 2208/0 (Power=3)
+Clarity of Announcements
+
+      All attempts to perform an action by announcement fail if the
+      action is not unambiguously specified. This rule takes
+      precedence over all rules that allow performance of an action by
+      announcement.
+
+History:
+Created by Proposal 5555 (ais523), 21 June 2008
 
 ----------------------------------------------------------------------
 
