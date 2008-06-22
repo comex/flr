@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5543
+Last proposal with recorded effect on this ruleset: 5546
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -4877,7 +4877,7 @@ Frankenstein's Monster
       together of a rule from salvaged parts.
 ----------------------------------------------------------------------
 
-Rule 2193/7 (Power=1)
+Rule 2193/8 (Power=1)
 The Monster
 
       Raaaaaaaaaaaaaargh!
@@ -4915,6 +4915,13 @@ The Monster
       The Monster's adopted motto is "Le monstre n'est pas une
       fontaine."
 
+      The initiation of a Monstrous decree is a secured change.  The
+      initiating instrument must specify the target Monster and the
+      changes to be made to it.  Any ambiguity in the specification of
+      a Monstrous decree causes it to be void and without effect.
+      This is the only mechanism by which a Monstrous decree can be
+      initiated.
+
 History:
 Created by Proposal 5396 (Murphy), 16 January 2008
 Amended(1) by Proposal 5435 (avpx; disi.), 13 February 2008
@@ -4924,6 +4931,7 @@ Amended(4) by Proposal 5501 (avpx; disi.), 26 April 2008
 Amended(5) by Proposal 5514 (avpx; disi.), 28 May 2008
 Amended(6) by Proposal 5540 (ais523; disi.), 13 June 2008
 Amended(7) by Proposal 5541 (ais523; disi.), 16 June 2008
+Amended(8) by Proposal 5546 (ais523; disi.), 20 June 2008
 
 ----------------------------------------------------------------------
 
