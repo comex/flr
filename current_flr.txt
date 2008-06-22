@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5549
+Last proposal with recorded effect on this ruleset: 5551
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -4670,7 +4670,7 @@ Amended(2) by Proposal 5403 (Murphy, Goethe), 16 January 2008
 
 ----------------------------------------------------------------------
 
-Rule 2173/0 (Power=1)
+Rule 2173/1 (Power=1)
 The Notary
 
       The Notary is a low-priority office; its holder is responsible
@@ -4688,6 +4688,8 @@ The Notary
       except as explicitly allowed by the contract, or with the
       explicit consent of all parties.
 
+      The Notary CAN terminate any contract without objection.
+
 [CFJ 1786 (called 6 November 2007): The notary is not prohibited from
 disclosing eir knowledge or guesses about the historical or current
 text and parties of a private contract where e has no privileged
@@ -4695,6 +4697,7 @@ knowledge.]
 
 History:
 Created by Proposal 5254 (AFO), 18 October 2007
+Amended(1) by Proposal 5551 (BobTHJ), 21 June 2008
 
 ----------------------------------------------------------------------
 
