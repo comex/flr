@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5546
+Last proposal with recorded effect on this ruleset: 5547
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -3121,7 +3121,7 @@ Amended(4) by Proposal 5418 (root), 2 February 2008
 
 ----------------------------------------------------------------------
 
-Rule 2126/52 (Power=2)
+Rule 2126/53 (Power=2)
 Notes
 
       Notes are a class of fixed assets.  Ownership of Notes is
@@ -3168,13 +3168,13 @@ Notes
       Notes CAN be spent (destroyed) as follows:
 
       (1) A player CAN spend three Notes forming a major chord to
-          increase another player's VVLOP by 1.
+          increase another player's VVLOD by 1.
 
       (2) A player CAN spend five Notes forming the start of a major
-          scale to increase eir own VVLOP by 1.
+          scale to increase eir own VVLOD by 1.
 
       (3) A player CAN spend three Notes forming a minor chord to
-          decrease another player's VVLOP by 1.
+          decrease another player's VVLOD by 1.
 
       (4) A player CAN spend two Notes of the same pitch to make
           another player gain one Note of that pitch.
@@ -3197,8 +3197,8 @@ Notes
           as many semitones distant from one of the Notes spent as the
           distance between the other two Notes spent.
 
-[CFJs 1826-1827 (called 6 December 2007): A decrease of VVLOP cannot
-be by a negative number.]
+[CFJs 1826-1827 (called 6 December 2007): A decrease of VVLOD [VVLOP
+at the time of these CFJs] cannot be by a negative number.]
 
 [Cross-references (6 February 2008): the Conductor's duties are:
   * recordkeepor of notes (rule 2126)]
@@ -3260,6 +3260,7 @@ Retitled by Proposal 5424 (Zefram; disi.), 6 February 2008
 Amended(50) by Proposal 5424 (Zefram; disi.), 6 February 2008
 Amended(51) by Proposal 5485 (root), 9 April 2008
 Amended(52) by Proposal 5510 (Murphy, Zefram), 28 May 2008
+Amended(53) by Proposal 5547 (ais523), 21 June 2008
 
 ----------------------------------------------------------------------
 
