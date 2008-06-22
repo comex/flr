@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5541
+Last proposal with recorded effect on this ruleset: 5543
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -1842,7 +1842,7 @@ Amended(3) by Proposal 5527 (Murphy), 2 June 2008
 
 ----------------------------------------------------------------------
 
-Rule 1728/18 (Power=2)
+Rule 1728/19 (Power=2)
 Dependent Actions
 
       A player CAN perform an action dependently (a dependent action)
@@ -1872,10 +1872,14 @@ Dependent Actions
           Without N Objections or With N Agoran Consent) at least four
           days;
 
-      (b) either the performer was the initiator, or the initiator was
-          authorized to perform the action by virtue of holding a
-          rules-defined position and the performer is the holder of
-          that position when e attempts to perform the action; and
+      (b) either the performer was the initiator, or the action
+          depends on support and the performer has supported the
+          action and the rule allowing the action to be performed
+          dependently does not explicitly prohibit supporters from
+          performing it, or the initiator was authorized to perform
+          the action by virtue of holding a rules-defined position and
+          the performer is the holder of that position when e attempts
+          to perform the action; and
 
       (c) At the time the action is attempted, Agora is Satisfied with
           the announced intent, as described elsewhere.
@@ -1913,6 +1917,7 @@ Amended(15) by Proposal 5007 (Zefram), 18 June 2007
 Amended(16) by Proposal 5113 (Murphy, Maud), 2 August 2007
 Amended(17) by Proposal 5370 (Zefram), 20 December 2007
 Amended(18) by Proposal 5445 (Goethe, Murphy), 21 February 2008
+Amended(19) by Proposal 5543 (Murphy, Pavitra, root), 16 June 2008
 
 ----------------------------------------------------------------------
 
