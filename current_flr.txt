@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5552
+Last proposal with recorded effect on this ruleset: 5553
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -3121,7 +3121,7 @@ Amended(4) by Proposal 5418 (root), 2 February 2008
 
 ----------------------------------------------------------------------
 
-Rule 2126/54 (Power=2)
+Rule 2126/55 (Power=2)
 Notes
 
       Notes are a class of fixed assets.  Ownership of Notes is
@@ -3133,7 +3133,14 @@ Notes
 
       The Conductor is an office, and the recordkeepor of Notes.
 
-      Notes are gained as follows:
+      Key is a player switch, tracked by the Conductor, with values
+      equal to the pitches that Notes can have, defaulting to C.  A
+      player CAN change eir Key to any value by announcement, unless e
+      has already done so during the current month.
+
+      Notes are gained as follows, except that the pitch actually
+      gained is as many semitones higher than the pitch listed below
+      as the player's Key is higher than C at the time of the gain:
 
       (1) At the end of each week, for each player, let X be the
           number of eir interested proposals that were adopted during
@@ -3270,6 +3277,7 @@ Amended(51) by Proposal 5485 (root), 9 April 2008
 Amended(52) by Proposal 5510 (Murphy, Zefram), 28 May 2008
 Amended(53) by Proposal 5547 (ais523), 21 June 2008
 Amended(54) by Proposal 5549 (Wooble), 21 June 2008
+Amended(55) by Proposal 5553 (Murphy), 21 June 2008
 
 ----------------------------------------------------------------------
 
