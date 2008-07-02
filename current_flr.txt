@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5565
+Last proposal with recorded effect on this ruleset: 5566
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -4834,22 +4834,31 @@ Created by Proposal 5274 (Murphy), 7 November 2007
 
 ----------------------------------------------------------------------
 
-Rule 2136/19 (Power=1)
+Rule 2136/20 (Power=1)
 Contests
 
-      A first-class player who is a member of an existing public
-      contract CAN make the contract into a Contest, with emself as
-      the sole contestmaster, without 3 objections, provided e is not
-      the contestmaster of another contest.  Another first-class
-      player who is a member may replace the current contestmaster as
-      the sole contestmaster without 3 objections, but only as
-      explicitly described in the contest regulations and provided e
-      is not the contestmaster of another contest.
+      Contestmaster is a public contract switch, tracked by the
+      Notary, with a default value of 'none', and a set of possible
+      values which consists of all first-class players and 'none'.
 
-      A contest requires at least one party.  Any player may make a
-      contest cease to be a contest without 3 objections.  Players
-      SHOULD decide on whether a contract deserves to be a contest
-      based on its fairness or interest to players as a whole.
+      A public contract is a contest if and only if it has a
+      contestmaster other than 'none'. The Scorekeepor's report
+      contains the contestmaster of each contest.
+
+      Any player CAN flip the contestmaster of a public contract
+      without 3 objections, except if doing so would cause a player to
+      be contestmaster of more than one contest, or it would flip the
+      contestmaster of a contract to a player who has not explicitly
+      consented to be contestmaster of that contest.  (If a player
+      intends to flip the contestmaster of a contract to emself, this
+      is considered explicit consent to be contestmaster of that
+      contract.)
+
+      Notwithstanding the rest of this rule, it is IMPOSSIBLE to flip
+      the contestmaster of a contract to a player who is not party to
+      that contract; and if a contract's contestmaster ceases to be
+      party to that contract, that contract's contestmaster is flipped
+      to 'none'.
 
       The total number of points a Contest MAY award in a given week
       is equal to 5 times the number of its members that are first-
@@ -4893,6 +4902,7 @@ Amended(16) by Proposal 5362 (root), 20 December 2007
 Amended(17) by Proposal 5397 (Murphy), 16 January 2008
 Amended(18) by Proposal 5423 (woggle; disi.), 6 February 2008
 Amended(19) by Proposal 5511 (Goethe), 28 May 2008
+Amended(20) by Proposal 5566 (ais523, root), 29 June 2008
 
 ----------------------------------------------------------------------
 
