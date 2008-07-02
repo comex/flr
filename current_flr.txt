@@ -1,17 +1,17 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5559
+Last proposal with recorded effect on this ruleset: 5565
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
-      highest orderly: 2208
+      highest orderly: 2209
       disorderly: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 117
+Current total number of rules: 118
 
 Power distribution:
        1 with Power=4
@@ -19,7 +19,7 @@ Power distribution:
       32 with Power=2
        5 with Power=1.7
       10 with Power=1.5
-      39 with Power=1
+      40 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -156,6 +156,7 @@ Index of Rules
       Rule 2173: The Notary
       Rule 2191: Pledges
       Rule 2145: Partnerships
+      Rule 2209: Agoran Welcoming Committee
       Rule 2174: Aliens
       Rule 2136: Contests
       Rule 2179: Points
@@ -4794,6 +4795,30 @@ Power changed from 1 to 2 by Proposal 5061 (Zefram), 9 July 2007
 Amended(2) by Proposal 5061 (Zefram), 9 July 2007
 Amended(3) by Proposal 5303 (root), 24 November 2007
 Amended(4) by Proposal 5381 (Goethe), 1 January 2008
+
+----------------------------------------------------------------------
+
+Rule 2209/0 (Power=1)
+Agoran Welcoming Committee
+
+      The Greeter is an imposed office.
+
+      While a partnership named "Welcoming Committee" exists, and its
+      obligations include all of the following:
+
+      a) Greet all new players.
+
+      b) Engage in contact with new players to assist them.
+
+      c) Engage in contact with new players to ensure a positive
+         experience.
+
+      then this office is imposed upon that partnership.  Otherwise,
+      this office is vacant.
+
+History:
+Created by Proposal 5565 (cdm014, Zefram, avpx, Ivan Hope, root,
+  Murphy), 29 June 2008
 
 ----------------------------------------------------------------------
 
