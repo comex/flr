@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5555
+Last proposal with recorded effect on this ruleset: 5558
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -4886,7 +4886,7 @@ Amended(1) by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
 
 ----------------------------------------------------------------------
 
-Rule 2187/1 (Power=2)
+Rule 2187/2 (Power=2)
 Win by High Score
 
       Upon a win announcement that one or more players have a score of
@@ -4899,12 +4899,13 @@ Win by High Score
 
       The Score Index is an integer from 0 to 5, and part of the
       Scorekeepor's report.  The Scorekeepor CAN change the Score
-      Index without objection.
+      Index with Agoran consent.
 
 History:
 Created by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
   16 January 2008
 Amended(1) by Proposal 5525 (Murphy), 2 June 2008
+Amended(2) by Proposal 5558 (root; disi.), 25 June 2008
 
 ----------------------------------------------------------------------
 
