@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5558
+Last proposal with recorded effect on this ruleset: 5559
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -4374,7 +4374,7 @@ Amended(27) by Proposal 5437 (Goethe), 13 February 2008
 
 ----------------------------------------------------------------------
 
-Rule 1922/23 (Power=1)
+Rule 1922/24 (Power=1)
 Defined Regular Patent Titles
 
       The following are Patent Titles:
@@ -4423,6 +4423,12 @@ Defined Regular Patent Titles
            the Registrar (whichever one gets around to it first) to
            any player who publishes a Cantus Cygneus.
 
+      (g)  Elder Lurker, to be awarded to Persons who are true legends
+           that were involved in Agora in its early days and now
+           continue to grace us with their presence by lurking on the
+           lists to occasionally add tid-bits of wisdom or insight to
+           discussions.
+
 [CFJ 1865 (called 14 January 2008): The Patent Title of Champion
 CANNOT be awarded by announcement of the Herald to a person who has
 not won the game.]
@@ -4452,6 +4458,7 @@ Amended(20) by Proposal 5300 (Murphy), 28 November 2007
 Amended(21) by Proposal 5341 (Goethe), 8 December 2007
 Amended(22) by Proposal 5389 (Goethe), 1 January 2008
 Amended(23) by Proposal 5434 (Murphy), 13 February 2008
+Amended(24) by Proposal 5559 (Quazie, BobTHJ), 25 June 2008
 
 ----------------------------------------------------------------------
 
