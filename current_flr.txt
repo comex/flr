@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5569
+Last proposal with recorded effect on this ruleset: 5572
 Last change to this ruleset: by proposal
 
 Rule ID numbers:
@@ -2804,7 +2804,7 @@ Proposals
       which changes are made to the game.
 ----------------------------------------------------------------------
 
-Rule 106/12 (Power=3)
+Rule 106/13 (Power=3)
 Adopting Proposals
 
       A proposal is a document outlining changes to be made to Agora,
@@ -2821,9 +2821,9 @@ Adopting Proposals
       distinct from its author, and unambiguously identified by its
       author as being its co-author at the time of submission.
 
-      The adoption index of a proposal is an integral multiple of 0.1,
-      with a minimum value of 1.0.  It may be set by the proposer at
-      the time of submission, or otherwise defaults to 1.0.
+      The adoption index of a proposal is an integral multiple of 0.1
+      from 1.0 to 9.9.  It may be set by the proposer at the time of
+      submission, or otherwise defaults to 1.0.
 
       Determining whether to adopt a proposal is an Agoran decision.
       For this decision, the adoption index is the adoption index of
@@ -2883,6 +2883,7 @@ Amended(9) by Proposal 5334 (Murphy), 5 December 2007
 Amended(10) by Proposal 5356 (root), 16 December 2007
 Amended(11) by Proposal 5418 (root), 2 February 2008
 Amended(12) by Proposal 5453 (Murphy), 1 March 2008
+Amended(13) by Proposal 5572 (Murphy), 4 July 2008
 
 ----------------------------------------------------------------------
 
