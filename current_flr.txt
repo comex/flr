@@ -1,25 +1,25 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5572
-Last change to this ruleset: by proposal
+Last proposal with recorded effect on this ruleset: 5671
+Last change to this ruleset: by proposal 5671
 
 Rule ID numbers:
-      highest orderly: 2209
+      highest orderly: 2211
       disorderly: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 118
+Current total number of rules: 117
 
 Power distribution:
        1 with Power=4
-      31 with Power=3
-      32 with Power=2
+      30 with Power=3
+      33 with Power=2
        5 with Power=1.7
       10 with Power=1.5
-      40 with Power=1
+      38 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -49,7 +49,6 @@ Index of Rules
       Rule 1586: Definition and Continuity of Entities
       Rule 1688: Power
       Rule 2140: Power Controls Mutability
-      Rule 2149: Truthfulness
       Rule 2186: Victory
       Rule 2110: Win by Paradox
       Rule 2199: Ribbons
@@ -73,7 +72,6 @@ Index of Rules
 
       * Definitions
       Rule  478: Fora
-      Rule 2208: Clarity of Announcements
       Rule 2170: Who Am I?
       Rule  754: Definition Definitions
       Rule 2152: Mother, May I?
@@ -120,6 +118,8 @@ Index of Rules
       Rule 1698: Agora Is a Nomic
       Rule 1950: Voting on Democratic Decisions
       Rule 2156: Voting on Ordinary Decisions
+      Rule 2210: Caste Bootstrapping
+      Rule 2211: The Grand Poobah
       Rule 2134: Win by Clout
       Rule 2126: Notes
       Rule 2142: Support Democracy
@@ -173,8 +173,7 @@ Index of Rules
       Rule  103: Role of the Speaker
       Rule 2184: Foreign communications
       Rule 2148: The Ambassador
-      Rule 2172: Acting on Behalf of Agora
-      Rule 2189: Win by Extortion
+      Rule 2185: Foreign Relations
       Rule 2147: Protectorates
       Rule 2159: Protective Decrees
       Rule 2206: Foreign Trade
@@ -414,45 +413,6 @@ Power Controls Mutability
 
 History:
 Created by Proposal 4940 (Zefram), 29 April 2007
-
-----------------------------------------------------------------------
-
-Rule 2149/8 (Power=1)
-Truthfulness
-
-      A person SHALL NOT make a public statement unless e believes
-      that in doing so e is telling the truth.  Merely quoting a false
-      statement does not constitute making it for the purposes of this
-      rule.  Any disclaimer, conditional clause, or other qualifier
-      attached to a statement constitutes part of the statement for
-      the purposes of this rule; the truth or falsity of the whole is
-      what is significant.
-
-[CFJ 1739 (called 29 August 2007): A quotation can result in a
-violation of rule 2149, depending on the context of the rest of the
-message.]
-
-[CFJ 1849 (called 21 December 2007): Violation of rule 2149 can occur
-without any intent to misdirect.]
-
-[CFJ 1887 (called 30 January 2008): Publicly making the statement
-"This statement is a lie." would most likely be a violation of rule
-2149, because it is logically indeterminate and so making it would not
-be telling the truth, and its logical indeterminacy would be
-understood by any reasonable player.]
-
-History:
-Created by Proposal 4990 (Zefram), 6 June 2007
-Amended(1) by Proposal 5075 (Zefram), 18 July 2007
-Amended(2) by Proposal 5129 (Zefram; disi.), 13 August 2007
-Retitled by Proposal 5140 (Murphy), 19 August 2007
-Amended(3) by Proposal 5140 (Murphy), 19 August 2007
-Amended(4) by Proposal 5147 (comex), 29 August 2007
-Amended(5) by Proposal 5179 (Zefram), 29 August 2007
-Amended(6) by Proposal 5180 (Zefram), 29 August 2007
-Amended(7) by Proposal 5257 (AFO), 27 October 2007
-Retitled by Proposal 5280 (Zefram, Murphy), 7 November 2007
-Amended(8) by Proposal 5280 (Zefram, Murphy), 7 November 2007
 
 ----------------------------------------------------------------------
 
@@ -1198,11 +1158,11 @@ Definitions
       widely used and do not readily fall into any other category.
 ----------------------------------------------------------------------
 
-Rule 478/23 (Power=3)
+Rule 478/25 (Power=3)
 Fora
 
       Freedom of speech being essential for the healthy functioning of
-      any non-Imperial nomic, it is hereby resolved that No Player
+      any non-Imperial nomic, it is hereby resolved that no Player
       shall be prohibited from participating in the Fora.
 
       Publicity is a forum switch with values Public, Discussion, and
@@ -1230,9 +1190,10 @@ Fora
       something by sending a public message.
 
       Where the rules define an action that CAN be performed "by
-      announcement", a person performs that action by announcing that
-      e performs it.  Any action performed by sending a message is
-      performed at the time date-stamped on that message.
+      announcement", a person performs that action by unambiguously
+      specifying the action and announcing that e performs it.  Any
+      action performed by sending a message is performed at the time
+      date-stamped on that message.
 
 [CFJs 1451-1452 (called 6 March 2003): A message that is split into
 multiple email messages can qualify as a single message for game
@@ -1367,24 +1328,20 @@ Amended(20) by Proposal 5172 (Murphy), 29 August 2007
 Amended(21) by Proposal 5272 (Murphy; disi.), 7 November 2007
 Amended(22) by Proposal 5291 (root), 14 November 2007
 Amended(23) by Proposal 5535 (Murphy), 7 June 2008
+Amended(24) by Proposal 5613 (Quazie), 29 July 2008
+Amended(25) by Proposal 5639 (Murphy), 29 July 2008
 
 ----------------------------------------------------------------------
 
-Rule 2208/0 (Power=3)
-Clarity of Announcements
-
-      All attempts to perform an action by announcement fail if the
-      action is not unambiguously specified. This rule takes
-      precedence over all rules that allow performance of an action by
-      announcement.
-
-History:
-Created by Proposal 5555 (ais523), 21 June 2008
-
-----------------------------------------------------------------------
-
-Rule 2170/1 (Power=3)
+Rule 2170/2 (Power=3)
 Who Am I?
+
+      Rules regarding persons pertain to those persons directly, not
+      to rule-defined avatars or other entities representing those
+      persons within Agora.
+
+      A person SHALL NOT make a public statement intended to mislead
+      others as to the identity of its publisher.
 
       A public message's claim as to who published it is
       self-ratifying, unless the claim is self-contradictory, or a
@@ -1399,6 +1356,7 @@ Who Am I?
 History:
 Created by Proposal 5212 (Murphy), 8 September 2007
 Amended(1) by Proposal 5445 (Goethe, Murphy), 21 February 2008
+Amended(2) by Proposal 5671 (Murphy, Pavrita), 12 August 2008
 
 ----------------------------------------------------------------------
 
@@ -1831,16 +1789,14 @@ Amended(5) by Proposal 5496 (Murphy), 23 April 2008
 
 ----------------------------------------------------------------------
 
-Rule 2181/3 (Power=1)
+Rule 2181/5 (Power=1)
 The Accountor
 
       The Accountor is a low-priority office; its holder is
       responsible for keeping track of miscellaneous assets.
 
-      The Accountor is the default recordkeepor for all assets that do
-      not specify a different recordkeepor.  If any such assets exist,
-      then the Accountor's report includes a list of their backing
-      documents; otherwise, the Accountor has no report.
+      The Accountor's report includes a list of all classes of assets,
+      and their backing documents and recordkeepors.
 
       The Accountor is the default recordkeepor for all assets whose
       backing document does not specify a different recordkeepor.
@@ -1854,6 +1810,8 @@ Created by Proposal 5363 (Murphy; disi.), 20 December 2007
 Amended(1) by Proposal 5482 (Murphy), 2 April 2008
 Amended(2) by Proposal 5508 (Murphy), 28 May 2008
 Amended(3) by Proposal 5527 (Murphy), 2 June 2008
+Amended(4) by Proposal 5598 (Wooble; disi.), 29 June 2008
+Amended(5) by Proposal 5600 (Murphy), 29 July 2008
 
 ----------------------------------------------------------------------
 
@@ -2119,7 +2077,7 @@ Amended(25) by Proposal 5534 (root; disi.), 7 June 2008
 
 ----------------------------------------------------------------------
 
-Rule 2154/11 (Power=2)
+Rule 2154/13 (Power=2)
 Replacing Officers
 
       Any player CAN by announcement nominate one or more active
@@ -2128,8 +2086,9 @@ Replacing Officers
       may be so nominated.  The nomination period lasts for four days.
       Once a nomination period begins, a new one CANNOT begin for the
       same office until the nomination or resulting election is resolved.
-      A player who has not refused eir nomination is a consenting
-      candidate.
+      A consenting candidate is a player who was nominated during
+      the first half of the nominating period and did not refuse,
+      or who was nominated during the second half and accepted.
 
       As soon as possible after the nomination period ends, then: (a) if
       there is only one consenting candidate, the IADoP SHALL install em
@@ -2155,11 +2114,19 @@ Replacing Officers
       flip an office's stability without 2 objections.  A Perpetual
       office becomes Temporal when its holder leaves office.
 
-      If an office is Temporal at the end of a quarter, and no nomination
-      period began for that office during that quarter, then the IADoP
-      SHALL make at least one nomination for the office during the
-      following quarter.  These requirements are waived if another
-      player so makes a nomination.
+      The IADoP SHALL make at least one attempt to install a player
+      into an office, and SHALL make the change if possible, under
+      the following circumstances:
+
+        a) During a quarter, if the office was Temporal at the start
+           of that quarter and no such attempt was made during the
+           previous quarter.  This requirement is waived if another
+           player makes such a change during the current quarter.
+
+        b) Within a week (or month, if the office is low-priority)
+           after the office ceases to have an active holder.  This
+           requirement is waived if the office comes to have an
+           active holder during that week (month).
 
 History:
 Created by Proposal 5059 (Zefram, Goethe), 9 July 2007
@@ -2174,6 +2141,8 @@ Amended(8) by Proposal 5491 (Murphy), 23 April 2008
 Amended(9) by Proposal 5497 (Murphy; disi.), 23 April 2008
 Amended(10) by Proposal 5499 (Goethe), 23 April 2008
 Amended(11) by Proposal 5503 (root), 1 May 2008
+Amended(12) by Proposal 5608 (Murphy), 29 July 2008
+Amended(13) by Proposal 5609 (Murphy), 29 July 2008
 
 ----------------------------------------------------------------------
 
@@ -2993,13 +2962,14 @@ Amended(18) by Proposal 5485 (root), 9 April 2008
 
 ----------------------------------------------------------------------
 
-Rule 1450/8 (Power=2)
+Rule 1450/9 (Power=2)
 Separation of Powers
 
-      Any change in officeholdings that would result in a single
-      entity holding the offices of Promotor and Assessor
-      simultaneously is INVALID.  This rule takes precedence over all
-      other rules regarding offices.
+      Lest the entire proposal process fall under the control of a
+      single entity, any change that would result in the same entity
+      holding the offices of Promotor and Assessor simultaneously is
+      canceled and does not occur, rules to the contrary
+      notwithstanding.
 
 History:
 Created by Proposal 1547, Apr. 14 1995
@@ -3012,6 +2982,7 @@ Power changed from 1 to 2 by Proposal 4868 (Goethe), 27 August 2006
 Amended(6) by Proposal 4939 (Murphy), 29 April 2007
 Amended(7) by Proposal 5106 (Zefram), 1 August 2007
 Amended(8) by Proposal 5476 (Murphy; disi.), 27 March 2008
+Amended(9) by Proposal 5602 (Murphy), 29 July 2008
 
 ----------------------------------------------------------------------
 
@@ -3068,34 +3039,26 @@ Amended(20) by Proposal 5418 (root), 2 February 2008
 
 ----------------------------------------------------------------------
 
-Rule 2156/6 (Power=2)
+Rule 2156/7 (Power=2)
 Voting on Ordinary Decisions
 
-      Each player has an associated number known as eir base voting
-      limit on ordinary decisions (BVLOD).  The BVLOD of a first-class
-      player is four, the BVLOD of a province is four, and the BVLOD
-      of any other player is zero.  BVLOD cannot be modified.
+      Caste is a player switch, tracked by the Grand Poobah, with the
+      following values and their numeric equivalents:
 
-      Each player has an associated number known as eir volatile
-      voting limit on ordinary decisions (VVLOD).  Whenever a player
-      is registered, eir VVLOD is set to eir BVLOD.  Changes to VVLOD
-      are secured
+        Alpha   - 8
+        Beta    - 5
+        Gamma   - 3
+        Delta   - 2
+        Epsilon - 1 (default for first-class players and provinces)
+        Savage  - 0 (default for all other players)
 
-      Each player has an associated number known as eir effective
-      voting limit on ordinary decisions (EVLOD).  Whenever a player
-      is registered, eir EVLOD is set to eir BVLOD.  At the end of
-      each week, each player's EVLOD is set to eir VVLOD, rounded to
-      an integer, breaking ties towards odd integers, and eir VVLOD is
-      set to the same rounded value.  EVLOD cannot be modified by any
-      other means.  The assessor's report includes each player's
-      EVLOD.
+      Changes to caste are secured.
 
       The eligible voters on an ordinary decision are those entities
       that were active players at the start of its voting period.  The
       voting limit of an eligible voter on an ordinary decision is eir
-      EVLOD at the start of its voting period, or half that (rounded
-      up) if the voter is in the chokey at the start of the voting
-      period.
+      caste at the start of its voting period, or half that (rounded
+      up) if the voter was in the chokey at that time.
 
 History:
 Created by Proposal 5078 (Zefram), 18 July 2007
@@ -3106,10 +3069,61 @@ Amended(4) by Proposal 5358 (Murphy), 20 December 2007
 Retitled by Proposal 5418 (root), 2 February 2008
 Amended(5) by Proposal 5418 (root), 2 February 2008
 Amended(6) by Proposal 5447 (Pavitra), 24 February 2008
+Amended(7) by Proposal 5625 (Murphy, OscarMeyr, Ivan Hope), 29 July 2008
 
 ----------------------------------------------------------------------
 
-Rule 2134/4 (Power=2)
+Rule 2210/1 (Power=2)
+Caste Bootstrapping
+
+
+      Rules to the contrary notwithstanding, the voting limit of an
+      eligible voter on an ordinary decision whose voting period
+      started (time T_s) before castes were defined (time T_c) is
+      based on T_c rather than T_s.  This rule repeals itself once
+      the voting periods of all such decisions have ended.
+
+History:
+Created by Proposal 5625 (Murphy, OscarMeyr, Ivan Hope), 29 July 2008
+
+----------------------------------------------------------------------
+
+Rule 2211/1 (Power=2)
+The Grand Poobah
+
+      The Grand Poobah is an office; its holder is responsible for
+      keeping track of castes.
+
+      At the beginning of each month, each Alpha's caste is flipped to
+      eir default value.  As soon as possible after the beginning of
+      each month, the Grand Poobah SHALL do the following, in order,
+      at each step choosing (if possible) a player who has not yet
+      been chosen during the current procedure:
+
+        1) Promotions.  At each step, the Grand Poobah SHALL choose a
+           player whose caste is as high as possible without equalling
+           or exceeding the new caste:
+
+           a) Flip a player's caste to Alpha
+           b) Flip a player's caste to Beta
+           c) Flip a player's caste to Gamma
+           d) Flip a player's caste to Delta
+
+        2) Demotions.  Each step is repeated as many times as needed.
+
+           b->c) While there are more than two Betas,
+                   flip a Beta's caste to Gamma
+           c->d) While there are more than three Gammas,
+                   flip a Gamma's caste to Delta
+           d->e) While there are more than four Deltas,
+                   flip a Delta's caste to Epsilon
+
+History:
+Created by Proposal 5625 (Murphy, OscarMeyr, Ivan Hope), 29 July 2008
+
+----------------------------------------------------------------------
+
+Rule 2134/5 (Power=2)
 Win by Clout
 
       Upon a win announcement that a specified player's voting limit
@@ -3117,10 +3131,9 @@ Win by Clout
       combined voting limits of all other players on that decision,
       the specified player satisfies the Winning Condition of Clout.
 
-      Cleanup procedure:  Each player's VVLOD is set to eir BVLOD, and
-      no player satisfies this Winning Condition again (the remainder
-      of this rule notwithstanding) until after the next time that
-      each player's EVLOD is set based on eir VVLOD.
+      Cleanup procedure:  Each player's caste is set to its default
+      value, and no player satisfies this Winning Condition again (the
+      remainder of this rule notwithstanding) during the same month.
 
 History:
 Created by Proposal 4930 (Goethe), 29 April 2007
@@ -3134,10 +3147,11 @@ Power changed from 1 to 2 by Proposal 5394 (Murphy, Goddess Eris,
 Amended(3) by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
   16 January 2008
 Amended(4) by Proposal 5418 (root), 2 February 2008
+Amended(5) by Proposal 5625 (Murphy, OscarMeyr, Ivan Hope), 29 July 2008
 
 ----------------------------------------------------------------------
 
-Rule 2126/55 (Power=2)
+Rule 2126/56 (Power=2)
 Notes
 
       Notes are a class of fixed assets.  Ownership of Notes is
@@ -3199,34 +3213,39 @@ Notes
       Notes CAN be spent (destroyed) as follows:
 
       (1) A player CAN spend three Notes forming a major chord to
-          increase another player's VVLOD by 1.
+         increase another non-Alpha player's caste by 1 level.
 
-      (2) A player CAN spend five Notes forming the start of a major
-          scale to increase eir own VVLOD by 1.
+      (2) A non-Alpha player CAN spend five Notes forming the start of
+          a major scale to increase eir own caste by 1 level.
 
       (3) A player CAN spend three Notes forming a minor chord to
-          decrease another player's VVLOD by 1.
+          decrease another non-Savage player's caste by 1 level.
 
-      (4) A player CAN spend two Notes of the same pitch to make
+      (4) A non-Savage player CAN spend five Notes forming the start of
+          a minor scale to decrease eir own caste by 1 level.
+
+      (5) A player CAN spend two Notes of the same pitch to make
           another player gain one Note of that pitch.
 
-      (5) During Agora's Birthday, a player CAN spend Notes forming
+      (6) During Agora's Birthday, a player CAN spend Notes forming
           the melody "Happy Birthday" (GGAGCB GGAGDC GGGECBA FFECDC or
           a translation thereof) to satisfy the Winning Condition of
           Musicianship, unless another player has already done so
           during that Birthday.
 
-      (6) A player CAN spend one Note to increase another player's
+      (7) A player CAN spend one Note to increase another player's
           voting limit on an ordinary proposal whose voting period is
           in progress by 1.
 
-      (7) A player CAN spend two Notes to increase eir voting limit on
+      (8) A player CAN spend two Notes to increase eir voting limit on
           an ordinary proposal whose voting period is in progress by
           1.
 
-      (8) A player CAN spend three Notes to gain a Note whose pitch is
+      (9) A player CAN spend three Notes to gain a Note whose pitch is
           as many semitones distant from one of the Notes spent as the
           distance between the other two Notes spent.
+
+      The maximum FINE amount for each pitch of note is 2.
 
 [CFJs 1826-1827 (called 6 December 2007): A decrease of VVLOD [VVLOP
 at the time of these CFJs] cannot be by a negative number.]
@@ -3294,6 +3313,7 @@ Amended(52) by Proposal 5510 (Murphy, Zefram), 28 May 2008
 Amended(53) by Proposal 5547 (ais523), 21 June 2008
 Amended(54) by Proposal 5549 (Wooble), 21 June 2008
 Amended(55) by Proposal 5553 (Murphy), 21 June 2008
+Amended(56) by Proposal 5625 (Murphy, OscarMeyr, Ivan Hope), 29 July 2008
 
 ----------------------------------------------------------------------
 
@@ -3313,7 +3333,7 @@ Amended(4) by Proposal 5418 (root), 2 February 2008
 
 ----------------------------------------------------------------------
 
-Rule 2019/15 (Power=2)
+Rule 2019/17 (Power=2)
 Prerogatives
 
       In a timely fashion before the beginning of each month, the
@@ -3329,10 +3349,14 @@ Prerogatives
          holder of a vacant elected office by announcement, unless e
          is prevented from holding that office on an ongoing basis.
 
-      b) Default Justice.  Whenever the Clerk of the Courts assigns a
-         judicial panel, e SHALL assign one with the Default Justice
-         as a member, unless no such panel is eligible to be so
-         assigned.
+      b) Justiciar.  Once within three days after an appeal case comes
+         to require a judge, the Justiciar CAN make that case either
+         hot or cold by announcement.  If the Justiciar has not done
+         so, then the Clerk of the Courts SHALL NOT assign a panel to
+         that case during this period.  If the Justiciar has done so,
+         then the Clerk of the Courts SHALL assign a panel including
+         (if the case is hot) or excluding (if it is cold) the
+         Justiciar, if possible.
 
       c) Wielder of Veto.  The Wielder of Veto CAN veto an ordinary
          decision in its voting period by announcement; this increases
@@ -3366,6 +3390,7 @@ Amended(12) by Proposal 5408 (root), 22 January 2008
 Amended(13) by Proposal 5418 (root), 2 February 2008
 Amended(14) by Proposal 5432 (Goethe), 9 February 2008
 Amended(15) by Proposal 5461 (Wooble), 13 March 2008
+Amended(16) by Proposal 5644 (Murphy), 29 July 2008
 
 ----------------------------------------------------------------------
 
@@ -3887,23 +3912,25 @@ Amended(26) by Proposal 5476 (Murphy; disi.), 27 March 2008
 
 ----------------------------------------------------------------------
 
-Rule 1504/23 (Power=1.7)
+Rule 1504/28 (Power=1.7)
 Criminal Cases
 
       There is a subclass of judicial case known as a criminal case.
       A criminal case's purpose is to determine the culpability of a
       particular person, known as the defendant, for an alleged breach
-      of the rules, and to punish the guilty.  A criminal case CAN be
-      initiated by any first-class person who is a member of the basis
-      of any player, by announcement which clearly specifies all of
-      the following:
+      of the rules, and to punish the guilty.  A criminal case CAN, with
+      2 Support, be initiated by any first-class person who is a member 
+      of the basis of any player, by announcement which clearly specifies 
+      all of the following:
 
       a) The identity of the defendant.
 
       b) Exactly one rule allegedly breached by the defendant.
 
-      c) The action (which may be a failure to perform another action)
-         by which the defendant allegedly breached this rule.
+      c) A specific action (which may be a failure to perform another
+         action) by which the defendant allegedly breached this rule.
+
+      d) The messages (if any) in which the action occurred.
 
       The initiation of a criminal case begins its pre-trial phase.
       In the pre-trial phase the CotC SHALL as soon as possible inform
@@ -3930,8 +3957,8 @@ Criminal Cases
         reached in another criminal case with the same defendant, the
         same rule, and substantially the same alleged act
 
-      * UNIMPUGNED, appropriate if the alleged act was not proscribed
-        by the specified rule at the time it allegedly occurred
+      * UNIMPUGNED, appropriate if the alleged act would not have
+        violated the specified rule
 
       * INNOCENT, appropriate if the defendant did not perform the
         alleged act
@@ -3984,7 +4011,7 @@ Criminal Cases
 
       * APOLOGY with a set of up to ten words (the prescribed words),
         appropriate for rule breaches of small consequence.  When in
-        effect, the ninny SHALL within 72 hours publish a formal
+        effect, the ninny SHALL as soon as possible publish a formal
         apology of at least 200 words, including all the prescribed
         words, explaining eir error, shame, remorse, and ardent desire
         for self-improvement.  The ninny is only obliged to publish
@@ -3992,12 +4019,17 @@ Criminal Cases
         this type are assigned more than once or go into effect more
         than once.
 
-      * FINE, appropriate for rule breaches of small consequence.
-        When in effect, the ninny SHALL within 72 hours destroy one of
-        eir Notes.  The ninny is only obliged to perform one
-        destruction per question on sentencing, even if sentences of
-        this type are assigned more than once or go into effect more
-        than once.
+      * FINE with an amount of one currency, appropriate for rule
+        breaches of small consequence.  An amount is only valid if the
+        currency's backing document binds the ninny or the ninny has
+        this amount of the currency, and the backing document specifies a
+        maximum FINE amount, and the amount is no greater than the
+        maximum.  When in effect, the ninny SHALL within 72 hours either
+        destroy this amount of eir currency or transfer it to the Lost
+        and Found Department.  The ninny is only obliged to perform one
+        destruction or transfer per question on sentencing, even if
+        sentences of this type are assigned more than once or go into
+        effect more than once.
 
       * CHOKEY with a duration (the tariff) up to 60 days multiplied
         by the power of the highest-power rule allegedly broken,
@@ -4074,6 +4106,13 @@ Amended(20) by Proposal 5386 (Murphy, Zefram), 1 January 2008
 Amended(21) by Proposal 5404 (Murphy, pikhq, root), 16 January 2008
 Amended(22) by Proposal 5436 (Murphy), 13 February 2008
 Amended(23) by Proposal 5493 (Murphy), 23 April 2008
+Amended(24) by Proposal 5631 (BobTHJ), 29 July 2008
+Amended(25) by Proposal 5634 (Taral), 29 July 2008
+Amended(26) by Proposal 5642 (Sgeo, ais523, root,
+BobTHJ, Wooble, Murphy, Zefram, Goethe, Pavitra),
+  29 July 2008
+Amended(27) by Proposal 5624 (Murphy), 29 July 2008
+Amended(28) by Proposal 5650 (Pavrita), 29 July 2008
 
 ----------------------------------------------------------------------
 
@@ -4090,18 +4129,18 @@ Created by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
 
 ----------------------------------------------------------------------
 
-Rule 2169/5 (Power=1.7)
+Rule 2169/6 (Power=1.7)
 Equity Cases
 
       There is a subclass of judicial case known as an equity case.
       An equity case's purpose is to correct a potential injustice in
       the operation of a particular contract.  An equity case CAN be
       initiated by any party to the contract, by announcement which
-      clearly identifies the contract, the set of parties to the
-      contract, and a state of affairs whereby events have not
-      proceeded as envisioned by the contract (such as, but not
-      limited to, a party acting in contravention of eir contractual
-      obligations).
+      clearly identifies the contract and a state of affairs whereby
+      events have not proceeded as envisioned by the contract (such as,
+      but not limited to, a party acting in contravention of eir
+      contractual obligations).  This announcement SHALL also clearly
+      identify the set of parties to the contract.
 
       The initiation of an equity case begins its pre-trial phase.  In
       the pre-trial phase the CotC SHALL in a timely fashion inform
@@ -4145,10 +4184,11 @@ Amended(2) by Proposal 5371 (Zefram), 20 December 2007
 Amended(3) by Proposal 5387 (Murphy), 1 January 2008
 Amended(4) by Proposal 5436 (Murphy), 13 February 2008
 Amended(5) by Proposal 5507 (root), 10 May 2008
+Amended(6) by Proposal 5638 (Murphy), 29 July 2008
 
 ----------------------------------------------------------------------
 
-Rule 911/20 (Power=1.7)
+Rule 911/22 (Power=1.7)
 Appeal Cases
 
       There is a subclass of judicial case known as an appeal case.
@@ -4182,15 +4222,17 @@ Appeal Cases
         prior question again
 
       * REMAND, appropriate if there is serious doubt about the
-        appropriateness of the prior judgement but the judge believes
-        that the judge of the prior case can make a better judgement
-        if given a new opportunity; the prior question is rendered
-        open again
+        appropriateness of the prior judgement; the prior question
+        is rendered open again; this judgement SHOULD be assigned
+        if the judge believes that the judge of the prior case will
+        make a better judgement if given a new opportunity
 
       * REASSIGN, appropriate if there is serious doubt about the
         appropriateness of the prior judgement; the judge of the prior
         case (if any) is recused, and the prior question is rendered
-        open again
+        open again; this judgement SHOULD be assigned if the judge
+        believes that the judge of the prior case will not make a
+        better judgement if given a new opportunity
 
       * OVERRULE with a valid replacement judgement for the prior
         question, appropriate if the prior judgement was inappropriate
@@ -4251,6 +4293,8 @@ Amended(17) by Proposal 5359 (Murphy), 20 December 2007
 Amended(18) by Proposal 5361 (Goethe), 20 December 2007
 Amended(19) by Proposal 5436 (Murphy), 13 February 2008
 Amended(20) by Proposal 5466 (Murphy), 13 March 2008
+Amended(21) by Proposal 5610 (Murphy, Goethe), 29 July 2008
+Amended(22) by Proposal 5659 (Murphy), 12 August 2008
 
 ----------------------------------------------------------------------
 
@@ -4376,7 +4420,7 @@ Amended(27) by Proposal 5437 (Goethe), 13 February 2008
 
 ----------------------------------------------------------------------
 
-Rule 1922/24 (Power=1)
+Rule 1922/25 (Power=1)
 Defined Regular Patent Titles
 
       The following are Patent Titles:
@@ -4416,10 +4460,11 @@ Defined Regular Patent Titles
 
       (e)  Minister Without Portfolio, to be awarded by the Herald to
            any player who wins the game and does not already bear the
-           title.  If the number of players bearing this title is
+           title.  If the number of persons bearing this title is
            greater than the number of Prerogatives defined by the
-           rules, then this title is administratively revoked from the
-           Speaker.
+           rules, then this title is administratively revoked from
+           all non-players; if it is still greater, then this title
+           is administratively revoked from the Speaker.
 
       (f)  Left in a Huff, to be awarded by the Clerk of the Courts or
            the Registrar (whichever one gets around to it first) to
@@ -4461,6 +4506,7 @@ Amended(21) by Proposal 5341 (Goethe), 8 December 2007
 Amended(22) by Proposal 5389 (Goethe), 1 January 2008
 Amended(23) by Proposal 5434 (Murphy), 13 February 2008
 Amended(24) by Proposal 5559 (Quazie, BobTHJ), 25 June 2008
+Amended(25) by Proposal 5596 (Murphy), 29 July 2008
 
 ----------------------------------------------------------------------
 
@@ -4513,23 +4559,28 @@ Contract Law
       within this nomic.
 ----------------------------------------------------------------------
 
-Rule 1742/14 (Power=1.5)
+Rule 1742/16 (Power=1.5)
 Contracts
 
-      Contracts are binding agreements governed by the rules.  Any
-      agreement made by one or more persons with the intention that it
-      be binding on them and governed by the rules is a contract
-      (unless it would automatically terminate as a contract).
+      Contracts are binding agreements governed by the rules.
 
-      A contract automatically terminates if the number of parties to
-      it falls below the number of parties the rules require for the
-      contract.  If other rules do not specify such a number for a
-      contract, then a contract requires at least two parties.
+      Each contract requires a certain number of parties (two if not
+      otherwise specified by the rules).  Any agreement made by one or
+      more persons, with the intention that it be binding on them and
+      governed by the rules, becomes a contract when it comes to have
+      at least the required number of parties, and terminates when it
+      comes to have less than the required number of parties.
 
       Parties to a contract SHALL act in accordance with that
       contract.  This obligation is not impaired by contradiction
       between the contract and any other contract, or between the
       contract and the rules.
+
+      As it is manifestly unjust to bring criminal punishment into a
+      manner of equity, if a player is found GUILTY of violating this
+      Rule by failing to act in accordance with a contract, the only
+      appropriate sentence is DISCHARGE, unless said failure is with
+      respect to a previously- imposed Equity judgement.
 
 [CFJ 1892 (called 2 February 2008): An agreement that is not binding
 is thereby not a contract.]
@@ -4606,6 +4657,8 @@ Amended(11) by Proposal 5362 (root), 20 December 2007
 Amended(12) by Proposal 5403 (Murphy, Goethe), 16 January 2008
 Amended(13) by Proposal 5420 (Wooble), 2 February 2008
 Amended(14) by Proposal 5423 (woggle; disi.), 6 February 2008
+Amended(15) by Proposal 5640 (Goethe), 29 July 2008
+Amended(16) by Proposal 5663 (Murphy), 9 August 2008
 
 ----------------------------------------------------------------------
 
@@ -4703,15 +4756,16 @@ Amended(2) by Proposal 5403 (Murphy, Goethe), 16 January 2008
 
 ----------------------------------------------------------------------
 
-Rule 2173/1 (Power=1)
+Rule 2173/3 (Power=1)
 The Notary
 
-      The Notary is a low-priority office; its holder is responsible
-      for keeping track of contracts.
+      The Notary is an office; its holder is responsible for keeping
+      track of contracts.
 
       The parties to a public contract SHALL keep the Notary informed
-      of its text and set of parties.  The Notary's report includes
-      this information for each public contract.
+      of its text and set of parties.  The Notary's weekly report
+      includes a list of all public contracts; the Notary's monthly
+      report includes each public contract's text and set of parties.
 
       The parties to a private contract SHOULD keep the Notary
       informed of its text and set of parties.  The Notary SHALL
@@ -4723,6 +4777,11 @@ The Notary
 
       The Notary CAN terminate any contract without objection.
 
+      If a pledge does not impose any ongoing or unsatisfied obligations
+      on its current parties, and will not do so in the future in its
+      current form, then any person CAN terminate it by announcing that
+      it is obsolete.
+
 [CFJ 1786 (called 6 November 2007): The notary is not prohibited from
 disclosing eir knowledge or guesses about the historical or current
 text and parties of a private contract where e has no privileged
@@ -4731,6 +4790,8 @@ knowledge.]
 History:
 Created by Proposal 5254 (AFO), 18 October 2007
 Amended(1) by Proposal 5551 (BobTHJ), 21 June 2008
+Amended(2) by Proposal 5578 (Murphy), 16 July 2008
+Amended(3) by Proposal 5628 (Murphy), 29 July 2008
 
 ----------------------------------------------------------------------
 
@@ -4929,7 +4990,7 @@ Amended(1) by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
 
 ----------------------------------------------------------------------
 
-Rule 2187/2 (Power=2)
+Rule 2187/3 (Power=2)
 Win by High Score
 
       Upon a win announcement that one or more players have a score of
@@ -4958,7 +5019,7 @@ Frankenstein's Monster
       together of a rule from salvaged parts.
 ----------------------------------------------------------------------
 
-Rule 2193/9 (Power=1)
+Rule 2193/12 (Power=1)
 The Monster
 
       Raaaaaaaaaaaaaargh!
@@ -5006,6 +5067,30 @@ The Monster
       If an instance of a switch comes to have a Monster, it ceases to
       have any other Monster.
 
+      A player MAY perform an action on behalf of The Monster with
+      Monstrous Consent.
+
+      The holder of a Monster is a Monsterholdor, and may be referred to by
+      the name of the Monster. A Monster is imposed if it is so described by
+      the rule defining it; otherwise, it is elected.
+
+      Whenever a Monsteredict of GUILTY is assigned in a criminal case
+      alleging that a partnership has violated this rule, the Monster SHOULD
+      assign an EXILE Monsteredict to the question on sentencing in that case.
+      
+      A player MAY perform an action on behalf of The Monster with
+      Monstrous Consent.
+
+      The holder of a Monster is a Monsterholdor, and may be referred to by
+      the name of the Monster. A Monster is imposed if it is so described by
+      the rule defining it; otherwise, it is elected.
+
+      Whenever a Monsteredict of GUILTY is assigned in a criminal case
+      alleging that a partnership has violated this rule, the Monster SHOULD
+      assign an EXILE Monsteredict to the question on sentencing in that case.
+
+      Agoran Monsters begin at midnight UTC on Monday.
+
 History:
 Created by Proposal 5396 (Murphy), 16 January 2008
 Amended(1) by Proposal 5435 (avpx; disi.), 13 February 2008
@@ -5017,6 +5102,10 @@ Amended(6) by Proposal 5540 (ais523; disi.), 13 June 2008
 Amended(7) by Proposal 5541 (ais523; disi.), 16 June 2008
 Amended(8) by Proposal 5546 (ais523; disi.), 20 June 2008
 Amended(9) by Proposal 5569 (ais523; disi.), 4 July 2008
+Amended(10) by Proposal 5589 (ais523; disi.), 29 July 2008
+Amended(11) by Proposal 5836 (ais523; disi.), 29 July 2008
+Amended(12) by Proposal 5647 (ais523; disi.), 29 July 2008
+Amended(13) by Proposal 5654 (ais523; disi.), 9 August 2008
 
 ----------------------------------------------------------------------
 
@@ -5120,10 +5209,10 @@ Amended(2) by Proposal 5122 (Zefram), 13 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 402/24 (Power=1)
+Rule 402/25 (Power=1)
 Identity of the Speaker
 
-      The Speaker is the player who has borne the Patent Title of
+      The Speaker is the active player who has borne the Patent Title of
       Minister Without Portfolio the longest, with ties broken in
       favor of the player who has been registered the longest.
 
@@ -5167,6 +5256,7 @@ Retitled by Proposal 5257 (AFO), 27 October 2007
 Amended(22) by Proposal 5257 (AFO), 27 October 2007
 Amended(23) by Proposal 5270 (Murphy; disi.), 7 November 2007
 Amended(24) by Proposal 5430 (Goethe), 9 February 2008
+Amended(25) by Proposal 5593 (Goethe), 29 July 2008
 
 ----------------------------------------------------------------------
 
@@ -5233,45 +5323,6 @@ Created by Proposal 4988 (BobTHJ), 6 June 2007
 Amended(1) by Proposal 5091 (Zefram), 25 July 2007
 Retitled by Proposal 5112 (Murphy), 2 August 2007
 Amended(2) by Proposal 5239 (AFO), 3 October 2007
-
-----------------------------------------------------------------------
-
-Rule 2172/0 (Power=1)
-Acting on Behalf of Agora
-
-      A player MAY perform an action on behalf of Agora with Agoran
-      Consent.
-
-[CFJ 1801 (called 19 November 2007): This means that a player is
-prohibited from acting on behalf of Agora if e does not have Agoran
-Consent.]
-
-[CFJ 1819 (called 3 December 2007): Actions of Agora generally do not
-have significance under the rules of Agora.]
-
-[CFJ 1714 (called 3 August 2007): Whether a player of Agora can take
-game actions on behalf of Agora in a foreign nomic is determined
-solely by the rules of the foreign nomic.]
-
-[CFJ 1821 (called 4 December 2007): A nonsensical word does not
-constitute a description of an action that could hypothetically be
-performed on behalf of Agora.]
-
-History:
-Created by Proposal 5246 (Levi), 14 October 2007
-
-----------------------------------------------------------------------
-
-Rule 2189/0 (Power=2)
-Win by Extortion
-
-      Upon a player acting on behalf of Agora to award a win to one or
-      more persons, all those persons satisfy the Winning Condition of
-      Extortion.
-
-History:
-Created by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
-  16 January 2008
 
 ----------------------------------------------------------------------
 
