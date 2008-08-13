@@ -3076,7 +3076,6 @@ Amended(7) by Proposal 5625 (Murphy, OscarMeyr, Ivan Hope), 29 July 2008
 Rule 2210/1 (Power=2)
 Caste Bootstrapping
 
-
       Rules to the contrary notwithstanding, the voting limit of an
       eligible voter on an ordinary decision whose voting period
       started (time T_s) before castes were defined (time T_c) is
