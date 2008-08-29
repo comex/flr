@@ -3918,8 +3918,8 @@ Criminal Cases
       A criminal case's purpose is to determine the culpability of a
       particular person, known as the defendant, for an alleged breach
       of the rules, and to punish the guilty.  A criminal case CAN, with
-      2 Support, be initiated by any first-class person who is a member 
-      of the basis of any player, by announcement which clearly specifies 
+      2 Support, be initiated by any first-class person who is a member
+      of the basis of any player, by announcement which clearly specifies
       all of the following:
 
       a) The identity of the defendant.
@@ -4187,7 +4187,7 @@ Amended(6) by Proposal 5638 (Murphy), 29 July 2008
 
 ----------------------------------------------------------------------
 
-Rule 911/22 (Power=1.7)
+Rule 911/21 (Power=1.7)
 Appeal Cases
 
       There is a subclass of judicial case known as an appeal case.
@@ -4221,18 +4221,20 @@ Appeal Cases
         prior question again
 
       * REMAND, appropriate if there is serious doubt about the
-        appropriateness of the prior judgement; the prior question
-        is rendered open again; this judgement SHOULD be assigned
-        if the judge believes that the judge of the prior case will
-        make a better judgement if given a new opportunity
+        appropriateness of the prior judgement but the judge believes
+        that the judge of the prior case can make a better judgement
+        if given a new opportunity; the prior question is rendered
+        open again
 
       * REASSIGN, appropriate if there is serious doubt about the
-        appropriateness of the prior judgement; the judge of the prior
-        case (if any) is recused, and the prior question is rendered
-        open again; this judgement SHOULD be assigned if the judge
-        believes that the judge of the prior case will not make a
-        better judgement if given a new opportunity
-
+        appropriateness of the prior judgement, or if the prior judge
+        exhibited corruptive self-interest (material, with a specific
+        and obvious impact on eir judgement and arguments, and not
+        arising merely due to a difference of opinion or a wholly
+        incidental material benefit common among many players); the
+        judge of the prior case (if any) is recused, and the prior
+        question is rendered open again
+ 
       * OVERRULE with a valid replacement judgement for the prior
         question, appropriate if the prior judgement was inappropriate
         in the prior question and the replacement judgement is
@@ -4293,7 +4295,6 @@ Amended(18) by Proposal 5361 (Goethe), 20 December 2007
 Amended(19) by Proposal 5436 (Murphy), 13 February 2008
 Amended(20) by Proposal 5466 (Murphy), 13 March 2008
 Amended(21) by Proposal 5610 (Murphy, Goethe), 29 July 2008
-Amended(22) by Proposal 5659 (Murphy), 12 August 2008
 
 ----------------------------------------------------------------------
 
