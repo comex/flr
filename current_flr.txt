@@ -3073,7 +3073,7 @@ Amended(7) by Proposal 5625 (Murphy, OscarMeyr, Ivan Hope), 29 July 2008
 
 ----------------------------------------------------------------------
 
-Rule 2210/1 (Power=2)
+Rule 2210/0 (Power=2)
 Caste Bootstrapping
 
       Rules to the contrary notwithstanding, the voting limit of an
@@ -3087,7 +3087,7 @@ Created by Proposal 5625 (Murphy, OscarMeyr, Ivan Hope), 29 July 2008
 
 ----------------------------------------------------------------------
 
-Rule 2211/1 (Power=2)
+Rule 2211/0 (Power=2)
 The Grand Poobah
 
       The Grand Poobah is an office; its holder is responsible for
@@ -3366,6 +3366,12 @@ Prerogatives
          announcement; this decreases its quorum to 3, rules to the
          contrary notwithstanding.
 
+      e) Wielder of Extra Votes.  The Wielder of Extra Votes at the
+         start of an ordinary proposal's voting period has a voting
+         limit on that proposal of 1.4 times what it would be
+         otherwise (rounded using the same method as the weekly update
+         of EVLOD), rules to the contrary notwithstanding.
+
 [CFJ 1870 (called 15 January 2008): A prerogative assigned for a
 particular month is lost at the end of that month.]
 
@@ -3389,7 +3395,8 @@ Amended(12) by Proposal 5408 (root), 22 January 2008
 Amended(13) by Proposal 5418 (root), 2 February 2008
 Amended(14) by Proposal 5432 (Goethe), 9 February 2008
 Amended(15) by Proposal 5461 (Wooble), 13 March 2008
-Amended(16) by Proposal 5644 (Murphy), 29 July 2008
+Amended(16) by Proposal 5606 (Murphy), 29 July 2008
+Amended(17) by Proposal 5644 (Murphy), 29 July 2008
 
 ----------------------------------------------------------------------
 
@@ -4580,7 +4587,7 @@ Contracts
       manner of equity, if a player is found GUILTY of violating this
       Rule by failing to act in accordance with a contract, the only
       appropriate sentence is DISCHARGE, unless said failure is with
-      respect to a previously- imposed Equity judgement.
+      respect to a previously-imposed Equity judgement.
 
 [CFJ 1892 (called 2 February 2008): An agreement that is not binding
 is thereby not a contract.]
@@ -4777,11 +4784,6 @@ The Notary
 
       The Notary CAN terminate any contract without objection.
 
-      If a pledge does not impose any ongoing or unsatisfied obligations
-      on its current parties, and will not do so in the future in its
-      current form, then any person CAN terminate it by announcing that
-      it is obsolete.
-
 [CFJ 1786 (called 6 November 2007): The notary is not prohibited from
 disclosing eir knowledge or guesses about the historical or current
 text and parties of a private contract where e has no privileged
@@ -4795,7 +4797,7 @@ Amended(3) by Proposal 5628 (Murphy), 29 July 2008
 
 ----------------------------------------------------------------------
 
-Rule 2191/2 (Power=1.5)
+Rule 2191/3 (Power=1.5)
 Pledges
 
       A pledge is a contract identifying itself as such.  A pledge
@@ -4807,10 +4809,16 @@ Pledges
       considered to be a party to the pledge for the purpose of that
       case.
 
+      If a pledge does not impose any ongoing or unsatisfied obligations
+      on its current parties, and will not do so in the future in its
+      current form, then any person CAN terminate it by announcing that
+      it is obsolete.
+
 History:
 Created by Proposal 5395 (Murphy), 16 January 2008
 Amended(1) by Proposal 5423 (woggle; disi.), 6 February 2008
 Amended(2) by Proposal 5423 (woggle; disi.), 6 February 2008
+Amended(3) by Proposal 5578 (Murphy, comex), 16 July 2008
 
 ----------------------------------------------------------------------
 
@@ -5005,11 +5013,19 @@ Win by High Score
       Scorekeepor's report.  The Scorekeepor CAN change the Score
       Index with Agoran consent.
 
+      If no players have won by High Score in the past four months,
+      then any Player may place Agora into Overtime with 3 Support.
+      When Agora is in overtime, any announcement awarding or revoking
+      points that is authorized by another Rule awards or revokes
+      double the amount of the announcement.  Agora ceases being in
+      overtime when someone wins by High Score.
+
 History:
 Created by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
   16 January 2008
 Amended(1) by Proposal 5525 (Murphy), 2 June 2008
 Amended(2) by Proposal 5558 (root; disi.), 25 June 2008
+Amended(3) by Proposal 5585 (Goethe), 29 July 2008
 
 ----------------------------------------------------------------------
 
@@ -5019,7 +5035,7 @@ Frankenstein's Monster
       together of a rule from salvaged parts.
 ----------------------------------------------------------------------
 
-Rule 2193/12 (Power=1)
+Rule 2193/13 (Power=1)
 The Monster
 
       Raaaaaaaaaaaaaargh!
@@ -5067,17 +5083,6 @@ The Monster
       If an instance of a switch comes to have a Monster, it ceases to
       have any other Monster.
 
-      A player MAY perform an action on behalf of The Monster with
-      Monstrous Consent.
-
-      The holder of a Monster is a Monsterholdor, and may be referred to by
-      the name of the Monster. A Monster is imposed if it is so described by
-      the rule defining it; otherwise, it is elected.
-
-      Whenever a Monsteredict of GUILTY is assigned in a criminal case
-      alleging that a partnership has violated this rule, the Monster SHOULD
-      assign an EXILE Monsteredict to the question on sentencing in that case.
-      
       A player MAY perform an action on behalf of The Monster with
       Monstrous Consent.
 
