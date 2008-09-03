@@ -5035,7 +5035,7 @@ Frankenstein's Monster
       together of a rule from salvaged parts.
 ----------------------------------------------------------------------
 
-Rule 2193/13 (Power=1)
+Rule 2193/14 (Power=1)
 The Monster
 
       Raaaaaaaaaaaaaargh!
@@ -5094,7 +5094,13 @@ The Monster
       alleging that a partnership has violated this rule, the Monster SHOULD
       assign an EXILE Monsteredict to the question on sentencing in that case.
 
-      Agoran Monsters begin at midnight UTC on Monday.
+      Any Monster (a deputy) CAN perform an action as if e held a
+      particular office (deputise for that office) if:
+
+      (a) the rules require the holder of that office, by virtue of
+          holding that office, to perform the action (or, if the
+          office is vacant, would so require if the office were
+          filled
 
 History:
 Created by Proposal 5396 (Murphy), 16 January 2008
@@ -5111,6 +5117,7 @@ Amended(10) by Proposal 5589 (ais523; disi.), 29 July 2008
 Amended(11) by Proposal 5836 (ais523; disi.), 29 July 2008
 Amended(12) by Proposal 5647 (ais523; disi.), 29 July 2008
 Amended(13) by Proposal 5654 (ais523; disi.), 9 August 2008
+Amended(14) by Proposal 5674 (ais523; disi.), 3 September 2008
 
 ----------------------------------------------------------------------
 
