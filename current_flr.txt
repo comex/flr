@@ -3089,11 +3089,26 @@ Created by Proposal 5625 (Murphy, OscarMeyr, Ivan Hope), 29 July 2008
 
 ----------------------------------------------------------------------
 
-Rule 2211/0 (Power=2)
+Rule 2211/1 (Power=2)
 The Grand Poobah
 
       The Grand Poobah is an office; its holder is responsible for
       keeping track of castes.
+
+      The Grand Poobah CAN generally flip a Player's caste by
+      announcement, but SHALL only do so as explicitly described by
+      the Rules.  If the result of a claim of error or court case
+      finds that e has flipped a Player's caste illegally (e.g. not
+      as specified by the Rules), e SHALL flip the caste to the
+      appropriate correct value as soon as possible.
+
+      If a player believes that a caste switch has been flipped
+      illegally, e CAN switch it back with three Support, provided e
+      has first raised a claim of error or court case concerning the
+      matter.  However e (and supporters) SHALL defer to the courts
+      and the Grand Poobah's ability to correct the issue, unless
+      they present a good and pressing reason not to do so; abuse of
+      this ability should not be taken lightly by the courts.
 
       At the beginning of each month, each Alpha's caste is flipped to
       eir default value.  As soon as possible after the beginning of
@@ -3121,6 +3136,7 @@ The Grand Poobah
 
 History:
 Created by Proposal 5625 (Murphy, OscarMeyr, Ivan Hope), 29 July 2008
+Amended(1) by Proposal 5680 (Goethe), 3 September 2008
 
 ----------------------------------------------------------------------
 
