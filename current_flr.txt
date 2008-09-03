@@ -4712,7 +4712,7 @@ Amended(1) by Proposal 5502 (Pavitra; disi.), 26 April 2008
 
 ----------------------------------------------------------------------
 
-Rule 2198/1 (Power=1.5)
+Rule 2198/2 (Power=1.5)
 Making Contract Changes
 
       If a contract specifies a mechanism by which Contract Changes to
@@ -4726,8 +4726,8 @@ Making Contract Changes
       then Contract Changes CAN be made to it by agreement between all
       the parties to the contract.  Otherwise, any party to the
       contract CAN make Contract Changes to that contract without
-      Objection if, before the dependent action is resolved, no party
-      blocks the change by announcement.
+      Objection.  Any party to the contract CAN object to this
+      dependent action.
 
 [CFJ 1876 (called 18 January 2008): "Agreement between all parties"
 can only exist if there are at least two parties.]
@@ -4740,6 +4740,7 @@ terminated.]
 History:
 Created by Proposal 5423 (woggle; disi.), 6 February 2008
 Amended(1) by Proposal 5502 (Pavitra; disi.), 26 April 2008
+Amended(2) by Proposal 5677 (ihope; disi.), 3 September 2008
 
 ----------------------------------------------------------------------
 
