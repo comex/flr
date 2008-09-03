@@ -3039,7 +3039,7 @@ Amended(20) by Proposal 5418 (root), 2 February 2008
 
 ----------------------------------------------------------------------
 
-Rule 2156/7 (Power=2)
+Rule 2156/8 (Power=2)
 Voting on Ordinary Decisions
 
       Caste is a player switch, tracked by the Grand Poobah, with the
@@ -3049,7 +3049,8 @@ Voting on Ordinary Decisions
         Beta    - 5
         Gamma   - 3
         Delta   - 2
-        Epsilon - 1 (default for first-class players and provinces)
+        Epsilon - 1 (default for active first-class players and
+        provinces)
         Savage  - 0 (default for all other players)
 
       Changes to caste are secured.
@@ -3070,6 +3071,7 @@ Retitled by Proposal 5418 (root), 2 February 2008
 Amended(5) by Proposal 5418 (root), 2 February 2008
 Amended(6) by Proposal 5447 (Pavitra), 24 February 2008
 Amended(7) by Proposal 5625 (Murphy, OscarMeyr, Ivan Hope), 29 July 2008
+Amended(8) by Proposal 5679 (BobTHJ), 3 September 2008
 
 ----------------------------------------------------------------------
 
