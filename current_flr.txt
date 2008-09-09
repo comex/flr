@@ -11,12 +11,12 @@ Rule ID numbers:
 
 Statistics
 
-Current total number of rules: 117
+Current total number of rules: 116
 
 Power distribution:
        1 with Power=4
       30 with Power=3
-      33 with Power=2
+      32 with Power=2
        5 with Power=1.7
       10 with Power=1.5
       38 with Power=1
@@ -118,7 +118,6 @@ Index of Rules
       Rule 1698: Agora Is a Nomic
       Rule 1950: Voting on Democratic Decisions
       Rule 2156: Voting on Ordinary Decisions
-      Rule 2210: Caste Bootstrapping
       Rule 2211: The Grand Poobah
       Rule 2134: Win by Clout
       Rule 2126: Notes
@@ -3072,20 +3071,6 @@ Amended(5) by Proposal 5418 (root), 2 February 2008
 Amended(6) by Proposal 5447 (Pavitra), 24 February 2008
 Amended(7) by Proposal 5625 (Murphy, OscarMeyr, Ivan Hope), 29 July 2008
 Amended(8) by Proposal 5679 (BobTHJ), 3 September 2008
-
-----------------------------------------------------------------------
-
-Rule 2210/0 (Power=2)
-Caste Bootstrapping
-
-      Rules to the contrary notwithstanding, the voting limit of an
-      eligible voter on an ordinary decision whose voting period
-      started (time T_s) before castes were defined (time T_c) is
-      based on T_c rather than T_s.  This rule repeals itself once
-      the voting periods of all such decisions have ended.
-
-History:
-Created by Proposal 5625 (Murphy, OscarMeyr, Ivan Hope), 29 July 2008
 
 ----------------------------------------------------------------------
 
