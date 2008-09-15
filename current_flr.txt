@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5671
-Last change to this ruleset: by proposal 5671
+Last proposal with recorded effect on this ruleset: 5686
+Last change to this ruleset: by proposal 5686
 
 Rule ID numbers:
       highest orderly: 2211
@@ -16,9 +16,9 @@ Current total number of rules: 116
 Power distribution:
        1 with Power=4
       30 with Power=3
-      32 with Power=2
+      33 with Power=2
        5 with Power=1.7
-      10 with Power=1.5
+       9 with Power=1.5
       38 with Power=1
 
 ----------------------------------------------------------------------
@@ -4715,12 +4715,12 @@ Amended(1) by Proposal 5502 (Pavitra; disi.), 26 April 2008
 
 ----------------------------------------------------------------------
 
-Rule 2198/2 (Power=1.5)
+Rule 2198/3 (Power=2)
 Making Contract Changes
 
-      If a contract specifies a mechanism by which Contract Changes to
-      it can be performed, then such changes CAN be performed using
-      that mechanism.
+      Contract changes are secured.  If a contract specifies a
+      mechanism by which Contract Changes to it can be performed, then
+      such changes CAN be performed using that mechanism.
 
       If a contract does not purport to regulate becoming a party to
       it, than any person CAN become a party to it by announcement.
@@ -4744,6 +4744,7 @@ History:
 Created by Proposal 5423 (woggle; disi.), 6 February 2008
 Amended(1) by Proposal 5502 (Pavitra; disi.), 26 April 2008
 Amended(2) by Proposal 5677 (ihope; disi.), 3 September 2008
+Amended(3) by Proposal 5686 (Goethe; disi.), 13 September 2008
 
 ----------------------------------------------------------------------
 
