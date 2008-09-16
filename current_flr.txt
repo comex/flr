@@ -1225,6 +1225,10 @@ collection of text must also be received in the Public Forum.]
 is rejected by the list moderator, it still qualifies as having been
 sent via a public forum.]
 
+[CFJ 1905 (called 7 February 2008): Regardless of CFJ 1314, a message
+has not been sent via a forum until most persons who have arranged to
+receive messages via the forum receive it.]
+
 [CFJ 1888 (called 31 January 2008): Sending a message to a Discussion
 Forum, or other mailing list except for a Public Forum, does not
 qualify as sending it to all players.]
@@ -1775,8 +1779,11 @@ who possesses them when created, so they are necessarily owned by the
 Lost and Found Department [at the time of CFJ 1850, the Bank] upon
 creation.]
 
-[Note (11 March 2008): The existence of this rule is in question due
-to a scam.  See CFJ 1914.]
+[CFJ 1910 (called 10 March 2008): When an existing entity is defined
+as an asset, the change of its owner from "undefined" to the Lost and
+Found Department [Bank at the time of CFJ 1910] counts as a transfer,
+and fails if the Lost and Found Department is outside of the class of
+objects that can own the entity.]
 
 History:
 Created by Proposal 5173 (Murphy), 29 August 2007
