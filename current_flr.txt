@@ -3081,7 +3081,7 @@ Amended(8) by Proposal 5679 (BobTHJ), 3 September 2008
 
 ----------------------------------------------------------------------
 
-Rule 2211/1 (Power=2)
+Rule 2211/2 (Power=2)
 The Grand Poobah
 
       The Grand Poobah is an office; its holder is responsible for
@@ -3126,9 +3126,17 @@ The Grand Poobah
            d->e) While there are more than four Deltas,
                    flip a Delta's caste to Epsilon
 
+      During the seven days immediately prior to the start of a month,
+      the Speaker CAN publish an Honors List, indicating a list of
+      players other than emself for promotion.  If such a list is
+      published, the Grand Poobah SHALL, during the Promotions step
+      above, make as many legal promotions from this list as possible
+      before making any other promotions.
+
 History:
 Created by Proposal 5625 (Murphy, OscarMeyr, Ivan Hope), 29 July 2008
 Amended(1) by Proposal 5680 (Goethe), 3 September 2008
+Amended(2) by Proposal 5696 (Goethe), 20 September 2008
 
 ----------------------------------------------------------------------
 
