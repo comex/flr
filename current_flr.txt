@@ -3342,15 +3342,15 @@ Amended(4) by Proposal 5418 (root), 2 February 2008
 
 ----------------------------------------------------------------------
 
-Rule 2019/17 (Power=2)
+Rule 2019/18 (Power=2)
 Prerogatives
 
       In a timely fashion before the beginning of each month, the
-      Speaker SHALL randomly assign each Player who bears the patent
-      title Minister Without Portfolio a different Prerogative for the
+      Speaker SHALL assign each Player who bears the patent title
+      Minister Without Portfolio a different Prerogative for the
       upcoming month by announcement.  If there are more members in
-      one set than the other, then e SHALL randomly choose which
-      members of the larger set take part in the assignment.
+      one set than the other, then e SHALL choose which members of the
+      larger set take part in the assignment.
 
       The following Prerogatives are defined:
 
@@ -3407,6 +3407,7 @@ Amended(14) by Proposal 5432 (Goethe), 9 February 2008
 Amended(15) by Proposal 5461 (Wooble), 13 March 2008
 Amended(16) by Proposal 5606 (Murphy), 29 July 2008
 Amended(17) by Proposal 5644 (Murphy), 29 July 2008
+Amended(18) by Proposal 5693 (Goethe), 20 September 2008
 
 ----------------------------------------------------------------------
 
