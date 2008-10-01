@@ -4709,7 +4709,7 @@ Power changed from 1.5 to 2 by Proposal 5703 (root; disi.), 1 October 2008
 
 ----------------------------------------------------------------------
 
-Rule 2197/1 (Power=1.5)
+Rule 2197/1 (Power=2)
 Defining Contract Changes
 
       A Contract Change can be one or more of any of the following:
@@ -4730,6 +4730,7 @@ Defining Contract Changes
 History:
 Created by Proposal 5423 (woggle; disi.), 6 February 2008
 Amended(1) by Proposal 5502 (Pavitra; disi.), 26 April 2008
+Power changed from 1.5 to 2 by Proposal 5704 (root; disi.), 1 October 2008
 
 ----------------------------------------------------------------------
 
