@@ -1,4 +1,3 @@
-
 THE FULL LOGICAL RULESET
 
 Last proposal with recorded effect on this ruleset: 5686
@@ -4606,7 +4605,7 @@ Contract Law
       within this nomic.
 ----------------------------------------------------------------------
 
-Rule 1742/16 (Power=1.5)
+Rule 1742/16 (Power=2)
 Contracts
 
       Contracts are binding agreements governed by the rules.
@@ -4706,6 +4705,7 @@ Amended(13) by Proposal 5420 (Wooble), 2 February 2008
 Amended(14) by Proposal 5423 (woggle; disi.), 6 February 2008
 Amended(15) by Proposal 5640 (Goethe), 29 July 2008
 Amended(16) by Proposal 5663 (Murphy), 9 August 2008
+Power changed from 1.5 to 2 by Proposal 5703 (root; disi.), 1 October 2008
 
 ----------------------------------------------------------------------
 
@@ -4805,7 +4805,7 @@ Amended(2) by Proposal 5403 (Murphy, Goethe), 16 January 2008
 
 ----------------------------------------------------------------------
 
-Rule 2173/3 (Power=1)
+Rule 2173/3 (Power=2)
 The Notary
 
       The Notary is an office; its holder is responsible for keeping
@@ -4836,10 +4836,11 @@ Created by Proposal 5254 (AFO), 18 October 2007
 Amended(1) by Proposal 5551 (BobTHJ), 21 June 2008
 Amended(2) by Proposal 5578 (Murphy), 16 July 2008
 Amended(3) by Proposal 5628 (Murphy), 29 July 2008
+Power changed from 1 to 2 by Proposal 5703 (root; disi.), 1 October 2008
 
 ----------------------------------------------------------------------
 
-Rule 2191/3 (Power=1.5)
+Rule 2191/3 (Power=2)
 Pledges
 
       A pledge is a contract identifying itself as such.  A pledge
@@ -4861,6 +4862,7 @@ Created by Proposal 5395 (Murphy), 16 January 2008
 Amended(1) by Proposal 5423 (woggle; disi.), 6 February 2008
 Amended(2) by Proposal 5423 (woggle; disi.), 6 February 2008
 Amended(3) by Proposal 5578 (Murphy, comex), 16 July 2008
+Power changed from 1.5 to 2 by Proposal 5703 (root; disi.), 1 October 2008
 
 ----------------------------------------------------------------------
 
