@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5686
-Last change to this ruleset: by proposal 5686
+Last proposal with recorded effect on this ruleset: 5704
+Last change to this ruleset: by proposal 5704
 
 Rule ID numbers:
       highest orderly: 2211
