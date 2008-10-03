@@ -4188,35 +4188,35 @@ Equity Cases
       the matters raised in the initiation of the case and by the
       parties in the course of the case.
 
-     When an applicable question on equation in an equity case has a
-     judgement, and has had that judgement continuously for the past
-     week (or all parties to the contract have approved that
-     judgement), the judgement becomes Enforceable as a set of
-     regulated requirements imposed by this Rule.
+      When an applicable question on equation in an equity case has a
+      judgement, and has had that judgement continuously for the past
+      week (or all parties to the contract have approved that
+      judgement), the judgement becomes Enforceable as a set of
+      regulated requirements imposed by this Rule.
 
-     Every party to the contract SHALL act to ensure the terms of
-     an enforceable equity judgement specific to that party are
-     satisfied, though this requirement does not create the ability
-     to perform regulated actions that the party CANNOT otherwise
-     perform.
+      Every party to the contract SHALL act to ensure the terms of an
+      enforceable equity judgement specific to that party are
+      satisfied, though this requirement does not create the ability
+      to perform regulated actions that the party CANNOT otherwise
+      perform.
 
-     If a party fails to act as specified, e is in violation of this
-     Rule; in such a situation, the judge CAN act on the party's behalf
-     to fulfill said obligations Without 3 Objections, or the party may
-     be subjected to a criminal punishment other than DISCHARGE for
-     violating this Rule, but not both.
+      If a party fails to act as specified, e is in violation of this
+      Rule; in such a situation, the judge CAN act on the party's
+      behalf to fulfill said obligations Without 3 Objections, or the
+      party may be subjected to a criminal punishment other than
+      DISCHARGE for violating this Rule, but not both.
 
-     The judge CAN, Without Objection from the parties, nullify a
-     specified term or terms of the judgement, thereby removing the
-     requirement of parties to act as specified.
+      The judge CAN, Without Objection from the parties, nullify a
+      specified term or terms of the judgement, thereby removing the
+      requirement of parties to act as specified.
 
-     An appeal concerning any assignment of judgement in an equity
-     case CAN be initiated by any party to the contract in question
-     by announcement.  If the judgement is Enforceable when it is
-     appealed, the Appeals Court SHOULD assume that the judgement was
-     fundamentally fair when made, and SHALL restrict its appeals
-     judgement to nullifying terms of the judgement which are no
-     longer applicable due to changed circumstances.
+      An appeal concerning any assignment of judgement in an equity
+      case CAN be initiated by any party to the contract in question
+      by announcement.  If the judgement is Enforceable when it is
+      appealed, the Appeals Court SHOULD assume that the judgement was
+      fundamentally fair when made, and SHALL restrict its appeals
+      judgement to nullifying terms of the judgement which are no
+      longer applicable due to changed circumstances.
 
 [CFJ 1772 (called 28 October 2007): An equity case cannot be initiated
 with the rules as the subject contract.]
