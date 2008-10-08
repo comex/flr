@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5704
-Last change to this ruleset: by proposal 5704
+Last proposal with recorded effect on this ruleset: 5682
+Last change to this ruleset: by proposal 5682
 
 Rule ID numbers:
       highest orderly: 2211
@@ -2092,17 +2092,18 @@ Replacing Officers
       nomination period for that office, during which other candidates
       may be so nominated.  The nomination period lasts for four days.
       Once a nomination period begins, a new one CANNOT begin for the
-      same office until the nomination or resulting election is resolved.
-      A consenting candidate is a player who was nominated during
-      the first half of the nominating period and did not refuse,
-      or who was nominated during the second half and accepted.
+      same office until the nomination or resulting election is
+      resolved. A consenting candidate is a player who was nominated
+      during the first half of the nominating period and did not
+      refuse, or who was nominated during the second half and
+      accepted.
 
-      As soon as possible after the nomination period ends, then: (a) if
-      there is only one consenting candidate, the IADoP SHALL install em
-      in the Office by announcement; (b) if there are two or more
-      consenting candidates, then the IADoP SHALL initiate an Agoran
-      decision to determine the new officeholder; this process is known
-      as an election.
+      As soon as possible after the nomination period ends, then: (a)
+      if there is only one consenting candidate, the IADoP SHALL
+      install em in the Office by announcement; (b) if there are two
+      or more consenting candidates, then the IADoP SHALL initiate an
+      Agoran decision to determine the new officeholder; this process
+      is known as an election.
 
       In an election, the valid options are the consenting nominees
       (hereafter the candidates), quorum is the lesser of three and
@@ -3239,8 +3240,8 @@ Notes
       (3) A player CAN spend three Notes forming a minor chord to
           decrease another non-Savage player's caste by 1 level.
 
-      (4) A non-Savage player CAN spend five Notes forming the start of
-          a minor scale to decrease eir own caste by 1 level.
+      (4) A non-Savage player CAN spend five Notes forming the start
+          of a minor scale to decrease eir own caste by 1 level.
 
       (5) A player CAN spend two Notes of the same pitch to make
           another player gain one Note of that pitch.
@@ -3941,13 +3942,13 @@ Amended(26) by Proposal 5476 (Murphy; disi.), 27 March 2008
 Rule 1504/28 (Power=1.7)
 Criminal Cases
 
-      There is a subclass of judicial case known as a criminal case.
-      A criminal case's purpose is to determine the culpability of a
+      There is a subclass of judicial case known as a criminal case. A
+      criminal case's purpose is to determine the culpability of a
       particular person, known as the defendant, for an alleged breach
-      of the rules, and to punish the guilty.  A criminal case CAN, with
-      2 Support, be initiated by any first-class person who is a member
-      of the basis of any player, by announcement which clearly specifies
-      all of the following:
+      of the rules, and to punish the guilty.  A criminal case CAN,
+      with 2 Support, be initiated by any first-class person who is a
+      member of the basis of any player, by announcement which clearly
+      specifies all of the following:
 
       a) The identity of the defendant.
 
@@ -4044,18 +4045,18 @@ Criminal Cases
         one apology per question on sentencing, even if sentences of
         this type are assigned more than once or go into effect more
         than once.
-
+        
       * FINE with an amount of one currency, appropriate for rule
         breaches of small consequence.  An amount is only valid if the
         currency's backing document binds the ninny or the ninny has
-        this amount of the currency, and the backing document specifies a
-        maximum FINE amount, and the amount is no greater than the
-        maximum.  When in effect, the ninny SHALL within 72 hours either
-        destroy this amount of eir currency or transfer it to the Lost
-        and Found Department.  The ninny is only obliged to perform one
-        destruction or transfer per question on sentencing, even if
-        sentences of this type are assigned more than once or go into
-        effect more than once.
+        this amount of the currency, and the backing document
+        specifies a maximum FINE amount, and the amount is no greater
+        than the maximum.  When in effect, the ninny SHALL within 72
+        hours either destroy this amount of eir currency or transfer
+        it to the Lost and Found Department.  The ninny is only
+        obliged to perform one destruction or transfer per question on
+        sentencing, even if sentences of this type are assigned more
+        than once or go into effect more than once.
 
       * CHOKEY with a duration (the tariff) up to 60 days multiplied
         by the power of the highest-power rule allegedly broken,
@@ -4158,13 +4159,13 @@ Created by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
 Rule 2169/7 (Power=1.7)
 Equity Cases
 
-      There is a subclass of judicial case known as an equity case.
-      An equity case's purpose is to correct a potential injustice in
-      the operation of a particular contract.  An equity case CAN be
+      There is a subclass of judicial case known as an equity case. An
+      equity case's purpose is to correct a potential injustice in the
+      operation of a particular contract.  An equity case CAN be
       initiated by any party to the contract, by announcement which
       clearly identifies the contract and a state of affairs whereby
-      events have not proceeded as envisioned by the contract (such as,
-      but not limited to, a party acting in contravention of eir
+      events have not proceeded as envisioned by the contract (such
+      as, but not limited to, a party acting in contravention of eir
       contractual obligations).  This announcement SHALL also clearly
       identify the set of parties to the contract.
 
@@ -4853,10 +4854,10 @@ Pledges
       considered to be a party to the pledge for the purpose of that
       case.
 
-      If a pledge does not impose any ongoing or unsatisfied obligations
-      on its current parties, and will not do so in the future in its
-      current form, then any person CAN terminate it by announcing that
-      it is obsolete.
+      If a pledge does not impose any ongoing or unsatisfied
+      obligations on its current parties, and will not do so in the
+      future in its current form, then any person CAN terminate it by
+      announcing that it is obsolete.
 
 History:
 Created by Proposal 5395 (Murphy), 16 January 2008
@@ -5080,7 +5081,7 @@ Frankenstein's Monster
       together of a rule from salvaged parts.
 ----------------------------------------------------------------------
 
-Rule 2193/14 (Power=1)
+Rule 2193/15 (Power=1)
 The Monster
 
       Raaaaaaaaaaaaaargh!
@@ -5131,13 +5132,14 @@ The Monster
       A player MAY perform an action on behalf of The Monster with
       Monstrous Consent.
 
-      The holder of a Monster is a Monsterholdor, and may be referred to by
-      the name of the Monster. A Monster is imposed if it is so described by
-      the rule defining it; otherwise, it is elected.
+      The holder of a Monster is a Monsterholdor, and may be referred
+      to by the name of the Monster. A Monster is imposed if it is so
+      described by the rule defining it; otherwise, it is elected.
 
       Whenever a Monsteredict of GUILTY is assigned in a criminal case
-      alleging that a partnership has violated this rule, the Monster SHOULD
-      assign an EXILE Monsteredict to the question on sentencing in that case.
+      alleging that a partnership has violated this rule, the Monster
+      SHOULD assign an EXILE Monsteredict to the question on
+      sentencing in that case.
 
       Any Monster (a deputy) CAN perform an action as if e held a
       particular office (deputise for that office) if:
@@ -5146,6 +5148,13 @@ The Monster
           holding that office, to perform the action (or, if the
           office is vacant, would so require if the office were
           filled
+
+      The eligible Monsters on an ordinary decision are those entities
+      that were active players at the start of its Monsterising
+      period. The Monsterising limit of an eligible Monster on an
+      ordinary decision is eir caste at the start of its Monsterising
+      period, or half that (rounded up) if the Monster was in the
+      chokey at that time.
 
 History:
 Created by Proposal 5396 (Murphy), 16 January 2008
@@ -5163,6 +5172,7 @@ Amended(11) by Proposal 5836 (ais523; disi.), 29 July 2008
 Amended(12) by Proposal 5647 (ais523; disi.), 29 July 2008
 Amended(13) by Proposal 5654 (ais523; disi.), 9 August 2008
 Amended(14) by Proposal 5674 (ais523; disi.), 3 September 2008
+Amended(15) by Proposal 5682 (ais523; disi.), 8 September 2008
 
 ----------------------------------------------------------------------
 
@@ -5269,8 +5279,8 @@ Amended(2) by Proposal 5122 (Zefram), 13 August 2007
 Rule 402/25 (Power=1)
 Identity of the Speaker
 
-      The Speaker is the active player who has borne the Patent Title of
-      Minister Without Portfolio the longest, with ties broken in
+      The Speaker is the active player who has borne the Patent Title
+      of Minister Without Portfolio the longest, with ties broken in
       favor of the player who has been registered the longest.
 
       The Herald's report includes the date on which each Minister
@@ -5606,9 +5616,10 @@ Happy Birthday
           published, numbered and distributed by me at my earliest
           convenience."
 
-      And WHEREAS, this nomic began as a humble and nameless nomic, known
-      unofficially as yoyo, after the mailing list it was played on,
-      until its Players, much later, gave it its OFFICIAL NAME of Agora,
+      And WHEREAS, this nomic began as a humble and nameless nomic,
+      known unofficially as yoyo, after the mailing list it was played
+      on, until its Players, much later, gave it its OFFICIAL NAME of
+      Agora,
 
       And WHEREAS, Agora has now become the wisest, noblest, eldest,
       and most interesting of all active email nomics, due to the hard
