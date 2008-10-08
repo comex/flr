@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5685
-Last change to this ruleset: by ratification
+Last proposal with recorded effect on this ruleset: 5711
+Last change to this ruleset: by proposal 5711
 
 Rule ID numbers:
       highest orderly: 2211
@@ -3941,7 +3941,7 @@ Amended(26) by Proposal 5476 (Murphy; disi.), 27 March 2008
 
 ----------------------------------------------------------------------
 
-Rule 1504/28 (Power=1.7)
+Rule 1504/29 (Power=1.7)
 Criminal Cases
 
       There is a subclass of judicial case known as a criminal case. A
@@ -4060,6 +4060,18 @@ Criminal Cases
         sentencing, even if sentences of this type are assigned more
         than once or go into effect more than once.
 
+      * COMMUNITY SERVICE with a set of up to five tasks (the
+        prescribed tasks) that the ninny CAN reasonably perform,
+        appropriate for rule breaches of moderate consequence if the
+        severity of the rule breach is reasonably correlated with the
+        consequences of performing the tasks, and especially if any
+        other available non-null punishment would be either unjust or
+        insufficient.  The balance between compensatory and punitive
+        service is left to the judge's discretion.  While a sentence
+        of this type is in effect, the ninny SHALL perform the
+        prescribed tasks (as soon as possible, unless a different time
+        limit is specified).
+
       * CHOKEY with a duration (the tariff) up to 60 days multiplied
         by the power of the highest-power rule allegedly broken,
         appropriate if the severity of the rule breach is reasonably
@@ -4142,6 +4154,7 @@ BobTHJ, Wooble, Murphy, Zefram, Goethe, Pavitra),
   29 July 2008
 Amended(27) by Proposal 5624 (Murphy), 29 July 2008
 Amended(28) by Proposal 5650 (Pavrita), 29 July 2008
+Amended(29) by Proposal 5711 (Murphy, woggle), 7 October 2008
 
 ----------------------------------------------------------------------
 
