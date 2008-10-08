@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5717
-Last change to this ruleset: by proposal 5717
+Last proposal with recorded effect on this ruleset: 5718
+Last change to this ruleset: by proposal 5718
 
 Rule ID numbers:
       highest orderly: 2212
@@ -2170,7 +2170,7 @@ Amended(15) by SLR ratification (comex), 24 September 2008
 
 ----------------------------------------------------------------------
 
-Rule 2138/4 (Power=1)
+Rule 2138/5 (Power=1)
 The International Associate Director of Personnel
 
       The International Associate Director of Personnel is an
@@ -2183,6 +2183,9 @@ The International Associate Director of Personnel
       b) The date on which each holder last came to hold that office.
       c) The date when the most recent nomination period for that
          office began.
+
+      The portion of a public message purporting to be an IADoP's
+      report that lists the holder of each office is self-ratifying.
 
 [CFJ 1672 (called 18 May 2007): The International Associate Director
 of Personnel is the Director of Personnel.]
@@ -2200,6 +2203,7 @@ Amended(1) by Proposal 4956 (Murphy), 7 May 2007
 Amended(2) by Proposal 5237 (AFO; disi.), 3 October 2007
 Amended(3) by Proposal 5367 (Levi; disi.), 20 December 2007
 Amended(4) by Proposal 5517 (Wooble; disi.), 28 May 2008
+Amended(5) by Proposal 5718 (ais523), 7 October 2008
 
 ----------------------------------------------------------------------
 
