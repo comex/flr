@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5718
-Last change to this ruleset: by proposal 5718
+Last proposal with recorded effect on this ruleset: 5719
+Last change to this ruleset: by proposal 5719
 
 Rule ID numbers:
       highest orderly: 2212
@@ -5128,7 +5128,7 @@ Frankenstein's Monster
       together of a rule from salvaged parts.
 ----------------------------------------------------------------------
 
-Rule 2193/17 (Power=1)
+Rule 2193/18 (Power=1)
 The Monster
 
       Raaaaaaaaaaaaaargh!
@@ -5176,7 +5176,7 @@ The Monster
       If an instance of a switch comes to have a Monster, it ceases to
       have any other Monster.
 
-      A player MAY perform an action on behalf of The Monster with
+      A player CAN perform an action on behalf of The Monster with
       Monstrous Consent.
 
       The holder of a Monster is a Monsterholdor, and may be referred
@@ -5215,6 +5215,7 @@ Amended(14) by Proposal 5674 (ais523; disi.), 3 September 2008
 Amended(15) by Proposal 5682 (ais523; disi.), 8 September 2008
 Amended(16) by Proposal 5685 (ais523; disi.), 8 September 2008
 Amended(17) by SLR ratification (comex), 24 September 2008
+Amended(18) by Proposal 5719 (comex), 7 October 2008
 
 ----------------------------------------------------------------------
 
