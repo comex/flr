@@ -4074,7 +4074,7 @@ Criminal Cases
         one apology per question on sentencing, even if sentences of
         this type are assigned more than once or go into effect more
         than once.
-        
+
       * FINE with an amount of one currency, appropriate for rule
         breaches of small consequence.  An amount is only valid if the
         currency's backing document binds the ninny or the ninny has
@@ -4323,7 +4323,7 @@ Appeal Cases
         incidental material benefit common among many players); the
         judge of the prior case (if any) is recused, and the prior
         question is rendered open again
- 
+
       * OVERRULE with a valid replacement judgement for the prior
         question, appropriate if the prior judgement was inappropriate
         in the prior question and the replacement judgement is
