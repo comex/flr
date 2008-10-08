@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5682
-Last change to this ruleset: by proposal 5682
+Last proposal with recorded effect on this ruleset: 5683
+Last change to this ruleset: by proposal 5683
 
 Rule ID numbers:
       highest orderly: 2211
@@ -2084,7 +2084,7 @@ Amended(25) by Proposal 5534 (root; disi.), 7 June 2008
 
 ----------------------------------------------------------------------
 
-Rule 2154/13 (Power=2)
+Rule 2154/14 (Power=2)
 Replacing Officers
 
       Any player CAN by announcement nominate one or more active
@@ -2103,7 +2103,11 @@ Replacing Officers
       install em in the Office by announcement; (b) if there are two
       or more consenting candidates, then the IADoP SHALL initiate an
       Agoran decision to determine the new officeholder; this process
-      is known as an election.
+      is known as an election; (c) if there are no consenting nominees
+      and the office is vacant, the IADOP SHALL, as soon as possible,
+      resolve the nomination as Failed by announcement and begin a new
+      nomination period by nominating at least one player to hold the
+      office.
 
       In an election, the valid options are the consenting nominees
       (hereafter the candidates), quorum is the lesser of three and
@@ -2111,6 +2115,10 @@ Replacing Officers
       notwithstanding), the eligible voters are the active players.
       If a player refuses eir nomination during the election, e
       ceases to be a valid option.
+
+      If at any time during an election there remains only one valid
+      option, the election stops and the IADOP SHALL install the
+      remaining candidate in the office by announcement.
 
       In the notice resolving the decision, the IADoP will select a
       candidate that received at least as many votes as any other
@@ -2151,6 +2159,7 @@ Amended(10) by Proposal 5499 (Goethe), 23 April 2008
 Amended(11) by Proposal 5503 (root), 1 May 2008
 Amended(12) by Proposal 5608 (Murphy), 29 July 2008
 Amended(13) by Proposal 5609 (Murphy), 29 July 2008
+Amended(14) by Proposal 5683 (Wooble), 8 September 2008
 
 ----------------------------------------------------------------------
 
