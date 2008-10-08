@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5719
-Last change to this ruleset: by proposal 5719
+Last proposal with recorded effect on this ruleset: 5723
+Last change to this ruleset: by proposal 5723
 
 Rule ID numbers:
       highest orderly: 2212
@@ -342,10 +342,13 @@ Amended(2) by Proposal 5536 (Murphy), 7 June 2008
 
 ----------------------------------------------------------------------
 
-Rule 1586/3 (Power=2)
+Rule 1586/4 (Power=2)
 Definition and Continuity of Entities
 
-      Two Rule-defined entities CANNOT have the same name or nickname.
+      If multiple rules attempt to define an entity with the same
+      name, then they refer to the same entity.  A rule-defined
+      entity's name CANNOT be changed to be the same as another
+      rule-defined entity.
 
       If the Rules defining an entity are repealed or amended such
       that they no longer define that entity, then that entity and its
@@ -367,6 +370,7 @@ Amended(1) by Proposal 2795 (Andre), Jan. 30 1997, substantial
 Amended(2) by Proposal 3999 (harvel), May 2 2000
 Power changed from 1 to 2 by Proposal 3999 (harvel), May 2 2000
 Amended(3) by Proposal 5077 (Murphy), 18 July 2007
+Amended(4) by Proposal 5723 (Murphy), 7 October 2008
 
 ----------------------------------------------------------------------
 
@@ -1616,7 +1620,7 @@ Amended(23) by Proposal 5408 (root), 22 January 2008
 
 ----------------------------------------------------------------------
 
-Rule 2161/2 (Power=2)
+Rule 2161/3 (Power=2)
 ID Numbers
 
       If a rule defines a type of entity as having ID numbers, then:
@@ -1645,10 +1649,15 @@ ID Numbers
           number, and a list of all chaotic ID numbers, previously
           assigned to the type of entity.
 
+      (f) If an instance of that type has an ID number, then its name
+          is the combination of its type and ID number.  Otherwise, it
+          has no name.
+
 History:
 Created by Proposal 5110 (Murphy), 2 August 2007
 Amended(1) by Proposal 5133 (Zefram), 13 August 2007
 Amended(2) by Proposal 5237 (AFO; disi.), 3 October 2007
+Amended(3) by Proposal 5723 (Murphy), 7 October 2008
 
 ----------------------------------------------------------------------
 
