@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5715
-Last change to this ruleset: by proposal 5715
+Last proposal with recorded effect on this ruleset: 5716
+Last change to this ruleset: by proposal 5716
 
 Rule ID numbers:
       highest orderly: 2212
@@ -1337,7 +1337,7 @@ Amended(25) by Proposal 5639 (Murphy), 29 July 2008
 
 ----------------------------------------------------------------------
 
-Rule 2170/2 (Power=3)
+Rule 2170/3 (Power=3)
 Who Am I?
 
       Rules regarding persons pertain to those persons directly, not
@@ -1347,10 +1347,17 @@ Who Am I?
       A person SHALL NOT make a public statement intended to mislead
       others as to the identity of its publisher.
 
-      A public message's claim as to who published it is
-      self-ratifying, unless the claim is self-contradictory, or a
-      challenge of identity pertaining to the claimed publisher has
-      been issued within one month before its publication.
+      A public message's (possibly implicit) claim as to the identity
+      of its publisher is self-ratifying, provided that the claim is
+      neither ambiguous nor self-contradictory, and no challenge of
+      identity pertaining to the claimed publisher has been issued
+      within one month before its publication.  Upon a judicial
+      finding that the claimed publisher of one or more messages
+      (hereafter the Sock Puppet) was not a person, if any of those
+      claims have already self-ratified, then the judge SHALL as soon
+      as possible publish a judicial declaration that the Sock Puppet
+      was a person during one or more time periods, which SHOULD
+      correspond to general belief prior to that finding.
 
       The Executor of a public message is the first-class person who
       sends it, or who most directly and immediately causes it to be
@@ -1361,6 +1368,7 @@ History:
 Created by Proposal 5212 (Murphy), 8 September 2007
 Amended(1) by Proposal 5445 (Goethe, Murphy), 21 February 2008
 Amended(2) by Proposal 5671 (Murphy, Pavrita), 12 August 2008
+Amended(3) by Proposal 5716 (Murphy), 7 October 2008
 
 ----------------------------------------------------------------------
 
