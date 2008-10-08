@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5716
-Last change to this ruleset: by proposal 5716
+Last proposal with recorded effect on this ruleset: 5717
+Last change to this ruleset: by proposal 5717
 
 Rule ID numbers:
       highest orderly: 2212
@@ -1337,7 +1337,7 @@ Amended(25) by Proposal 5639 (Murphy), 29 July 2008
 
 ----------------------------------------------------------------------
 
-Rule 2170/3 (Power=3)
+Rule 2170/4 (Power=3)
 Who Am I?
 
       Rules regarding persons pertain to those persons directly, not
@@ -1361,14 +1361,19 @@ Who Am I?
 
       The Executor of a public message is the first-class person who
       sends it, or who most directly and immediately causes it to be
-      sent.  The executor of an action performed by announcement is
-      the executor of the announcement.
+      sent.  (Upon a judicial finding that the Executor of a public
+      message cannot otherwise be determined within reasonable effort,
+      the judge SHALL as soon as possible publish a judicial
+      declaration specifying the identity of that message's Executor.)
+      The executor of an action performed by announcement is the
+      executor of the announcement.
 
 History:
 Created by Proposal 5212 (Murphy), 8 September 2007
 Amended(1) by Proposal 5445 (Goethe, Murphy), 21 February 2008
 Amended(2) by Proposal 5671 (Murphy, Pavrita), 12 August 2008
 Amended(3) by Proposal 5716 (Murphy), 7 October 2008
+Amended(4) by Proposal 5717 (Murphy), 7 October 2008
 
 ----------------------------------------------------------------------
 
