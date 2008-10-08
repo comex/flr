@@ -1,23 +1,23 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5711
-Last change to this ruleset: by proposal 5711
+Last proposal with recorded effect on this ruleset: 5715
+Last change to this ruleset: by proposal 5715
 
 Rule ID numbers:
-      highest orderly: 2211
+      highest orderly: 2212
       disorderly: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 116
+Current total number of rules: 117
 
 Power distribution:
        1 with Power=4
       30 with Power=3
       33 with Power=2
-       5 with Power=1.7
+       6 with Power=1.7
        9 with Power=1.5
       38 with Power=1
 
@@ -141,6 +141,7 @@ Index of Rules
       Rule 2169: Equity Cases
       Rule  911: Appeal Cases
       Rule 2205: Judicial Arguments and Evidence
+      Rule 2212: Judicial Declarations
 
       * Patent Titles and Degrees
       Rule  649: Patent Titles
@@ -4383,6 +4384,20 @@ Judicial Arguments and Evidence
 History:
 Created by Proposal 5487 (Murphy), 9 April 2008
 Amended(1) by Proposal 5526 (Murphy), 2 June 2008
+
+----------------------------------------------------------------------
+
+Rule 2212/0 (Power=1.7)
+Judicial Declarations
+
+      A judicial declaration published by a judge as required by the
+      rules in conjunction with a judgement is self-ratifying,
+      provided that that judgement remains in effect.  Such a
+      judgement may be inappropriate due to the content of this
+      declaration, rules to the contrary notwithstanding.
+
+History:
+Created by Proposal 5715 (Murphy), 7 October 2008
 
 ----------------------------------------------------------------------
 
