@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5726
-Last change to this ruleset: by proposal 5726
+Last proposal with recorded effect on this ruleset: 5728
+Last change to this ruleset: by proposal 5728
 
 Rule ID numbers:
       highest orderly: 2212
@@ -15,11 +15,11 @@ Current total number of rules: 117
 
 Power distribution:
        1 with Power=4
-      30 with Power=3
-      33 with Power=2
+      31 with Power=3
+      36 with Power=2
        6 with Power=1.7
-       9 with Power=1.5
-      38 with Power=1
+       6 with Power=1.5
+      37 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -954,12 +954,13 @@ Players
       players.
 ----------------------------------------------------------------------
 
-Rule 869/25 (Power=1)
+Rule 869/26 (Power=2)
 How to Join and Leave Agora
 
       Citizenship is an entity switch with values Unregistered
       (default) and Registered, tracked by the registrar.  A player is
-      an entity whose citizenship is Registered.
+      an entity whose citizenship is Registered.  Changes to
+      citizenship are secured.
 
       The verb "to be registered" means to become a player (i.e., to
       have one's citizenship changed from Unregistered to Registered),
@@ -969,9 +970,9 @@ How to Join and Leave Agora
       is used without an explicit direct object, the action is
       implicitly reflexive.
 
-      A person CAN register, unless prevented by the rules, by
-      announcing that e registers, wishes to register, requests
-      registration, or requests permission to register.
+      A person CAN register by announcing that e registers, wishes to
+      register, requests registration, or requests permission to
+      register.
 
       A player CAN deregister by announcement.  E CANNOT register
       within thirty days after doing so.
@@ -1016,6 +1017,8 @@ Amended(22) by Proposal 5111 (Murphy), 2 August 2007
 Amended(23) by Proposal 5117 (Zefram; disi.), 8 August 2007
 Amended(24) by Proposal 5156 (Zefram), 29 August 2007
 Amended(25) by Proposal 5271 (Murphy), 7 November 2007
+Power changed from 1 to 2 by Proposal 5728 (ihope), 7 October 2008
+Amended(26) by Proposal 5728 (ihope), 7 October 2008
 
 ----------------------------------------------------------------------
 
@@ -3968,7 +3971,7 @@ Amended(26) by Proposal 5476 (Murphy; disi.), 27 March 2008
 
 ----------------------------------------------------------------------
 
-Rule 1504/29 (Power=1.7)
+Rule 1504/30 (Power=2)
 Criminal Cases
 
       There is a subclass of judicial case known as a criminal case. A
@@ -4116,8 +4119,9 @@ Criminal Cases
         amounting to a breach of trust.  While a sentence of this type
         is active, the ninny is exiled.  No entity is exiled except as
         required by this rule.  If an exiled entity is ever a player,
-        e is deregistered.  An exiled entity CANNOT register.
-
+        e is deregistered.  An exiled entity CANNOT register, rules to
+        the contrary notwithstanding.
+        
       An appeal concerning any assignment of judgement in a criminal
       case within the past week CAN be initiated by the defendant by
       announcement.
@@ -4182,6 +4186,8 @@ BobTHJ, Wooble, Murphy, Zefram, Goethe, Pavitra),
 Amended(27) by Proposal 5624 (Murphy), 29 July 2008
 Amended(28) by Proposal 5650 (Pavrita), 29 July 2008
 Amended(29) by Proposal 5711 (Murphy, woggle), 7 October 2008
+Power changed from 1.7 to 2 by Proposal 5728 (ihope), 7 October 2008
+Amended(30) by Proposal 5728 (ihope), 7 October 2008
 
 ----------------------------------------------------------------------
 
