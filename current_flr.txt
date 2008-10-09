@@ -4,20 +4,20 @@ Last proposal with recorded effect on this ruleset: 5731
 Last change to this ruleset: by proposal 5731
 
 Rule ID numbers:
-      highest orderly: 2212
+      highest orderly: 2213
       disorderly: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 117
+Current total number of rules: 118
 
 Power distribution:
        1 with Power=4
       31 with Power=3
-      36 with Power=2
-       6 with Power=1.7
+      38 with Power=2
+       5 with Power=1.7
        6 with Power=1.5
       37 with Power=1
 
@@ -185,6 +185,7 @@ Index of Rules
       Rule  104: First Speaker
       Rule 2151: Agoran Arms
       Rule 2029: Town Fountain
+      Rule 2213: Scams to fix Scams[ters]
 
 ----------------------------------------------------------------------
 
@@ -5818,6 +5819,38 @@ necessarily constitute a violation of this rule.]
 
 History:
 Created by Proposal 4329 (Goethe), 9 June 2002
+
+----------------------------------------------------------------------
+
+Rule 2213/0 (Power=1)
+Scams to fix Scams[ters]
+
+      ais523 can create and destroy points by announcement, in
+      anyone's possession, and change the ownership of points by
+      announcement.  However, if point holdings are changed in this
+      way, then 5 minutes later all points are destroyed and a number
+      of points is created in each player's possession equal to the
+      number of points they had 6 minutes earlier (i.e. 1 minute
+      before the change).
+
+      ais523 can flip the Publicity of a forum to Foreign by
+      announcement, as long as that forum was Foreign at some point
+      within the previous 7 days.
+
+      ais523 can repeal this rule by announcement; this rule
+      explicitly permits this change to the ruleset.
+
+      ais523 CAN, MAY and may revoke the Patent Title Scamster from
+      comex by announcement, and is authorized to do so. This takes
+      precedence over all other rules, especially ones which say that
+      Scamster cannot be revoked.
+
+[Note (9 October 2008): The existence of this rule is in question due
+to a scam.  See CFJ 2213.]
+
+History:
+Created by Rule 2193 (The Monster; ais523, on behalf of), 7 October
+  2008
 
 ----------------------------------------------------------------------
 
