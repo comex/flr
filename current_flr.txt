@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5731
-Last change to this ruleset: by proposal 5731
+Last proposal with recorded effect on this ruleset: 5734
+Last change to this ruleset: by proposal 5734
 
 Rule ID numbers:
       highest orderly: 2213
@@ -840,7 +840,8 @@ the other is possible, the possible part is applied alone.]
 
 History:
 Created by Proposal 4894 (Murphy), 12 February 2007
-Renumbered from 2131 to 105 by Proposal 4894 (Murphy), 12 February 2007
+Renumbered from 2131 to 105 by Proposal 4894 (Murphy), 12 February
+  2007
 Power changed from 1 to 3 by Proposal 4894 (Murphy), 12 February 2007
 Retitled by Proposal 4894 (Murphy), 12 February 2007
 Amended(1) by Proposal 4894 (Murphy), 12 February 2007
@@ -1967,7 +1968,8 @@ Amended(3) by Proposal 4978 (Murphy), 31 May 2007
 Retitled by Proposal 5113 (Murphy, Maud), 2 August 2007
 Amended(4) by Proposal 5113 (Murphy, Maud), 2 August 2007
 Amended(5) by Proposal 5370 (Zefram), 20 December 2007
-Power changed from 1 to 2 by Proposal 5445 (Goethe, Murphy), 21 February 2008
+Power changed from 1 to 2 by Proposal 5445 (Goethe, Murphy), 21
+  February 2008
 Retitled by Proposal 5445 (Goethe, Murphy), 21 February 2008
 Amended(6) by Proposal 5445 (Goethe, Murphy), 21 February 2008
 Amended(7) by Proposal 5504 (Murphy), 10 May 2008
@@ -2665,7 +2667,8 @@ History:
 Initial Mutable Rule 208, Jun. 30 1993
 Amended(1) by Proposal 1401, Jan. 29 1995
 Amended(2) by Proposal 1531, Mar. 24 1995
-Power changed from 1 to 3 by Proposal 4811 (Maud, Goethe), 20 June 2005
+Power changed from 1 to 3 by Proposal 4811 (Maud, Goethe), 20 June
+  2005
 Amended(3) by Proposal 4811 (Maud, Goethe), 20 June 2005
 Amended(4) by Proposal 5113 (Murphy, Maud), 2 August 2007
 Amended(5) by Proposal 5229 (root), 27 September 2007
@@ -2965,8 +2968,8 @@ the proposal.]
 [CFJ 1655 (called 9 May 2007): Distributing a purported proposal whose
 text consists of the texts of two submitted proposals and separating
 matter from the message that submitted them both, if both submitted
-proposals have non-null effects, does not constitute a legal distribution
-of either of the submitted proposals.]
+proposals have non-null effects, does not constitute a legal
+distribution of either of the submitted proposals.]
 
 [CFJ 1656 (called 9 May 2007): If the Promotor purports to distribute
 a proposal, but the distributed text does not match any proposal in
@@ -3122,7 +3125,8 @@ Amended(4) by Proposal 5358 (Murphy), 20 December 2007
 Retitled by Proposal 5418 (root), 2 February 2008
 Amended(5) by Proposal 5418 (root), 2 February 2008
 Amended(6) by Proposal 5447 (Pavitra), 24 February 2008
-Amended(7) by Proposal 5625 (Murphy, OscarMeyr, Ivan Hope), 29 July 2008
+Amended(7) by Proposal 5625 (Murphy, OscarMeyr, Ivan Hope), 29 July
+  2008
 Amended(8) by Proposal 5679 (BobTHJ), 3 September 2008
 
 ----------------------------------------------------------------------
@@ -3210,7 +3214,8 @@ Power changed from 1 to 2 by Proposal 5394 (Murphy, Goddess Eris,
 Amended(3) by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
   16 January 2008
 Amended(4) by Proposal 5418 (root), 2 February 2008
-Amended(5) by Proposal 5625 (Murphy, OscarMeyr, Ivan Hope), 29 July 2008
+Amended(5) by Proposal 5625 (Murphy, OscarMeyr, Ivan Hope), 29 July
+  2008
 
 ----------------------------------------------------------------------
 
@@ -3345,7 +3350,8 @@ Amended(23) by Proposal 5165 (Zefram), 29 August 2007
 Amended(24) by Proposal 5166 (Zefram), 29 August 2007
 Amended(25) by Proposal 5167 (Zefram), 29 August 2007
 Amended(26) by Proposal 5168 (Zefram), 29 August 2007
-Amended(27) by Proposal 5169 (Zefram, OscarMeyr, Pavitra), 29 August 2007
+Amended(27) by Proposal 5169 (Zefram, OscarMeyr, Pavitra), 29 August
+  2007
 Amended(28) by Proposal 5170 (Zefram), 29 August 2007
 Amended(29) by Proposal 5176 (Murphy), 29 August 2007
 Amended(30) by Proposal 5197 (Zefram), 6 September 2007
@@ -3355,7 +3361,8 @@ Amended(33) by Proposal 5213 (Murphy), 8 September 2007
 Amended(34) by Proposal 5220 (Zefram), 13 September 2007
 Amended(35) by Proposal 5256 (AFO), 27 October 2007
 Amended(36) by Proposal 5255 (AFO), 27 October 2007
-Amended(37) by Proposal 5276 (Murphy, Pavitra, Zefram), 7 November 2007
+Amended(37) by Proposal 5276 (Murphy, Pavitra, Zefram), 7 November
+  2007
 Amended(38) by Proposal 5288 (Murphy), 14 November 2007
 Amended(39) by Proposal 5289 (Murphy), 14 November 2007
 Amended(40) by Proposal 5322 (Murphy), 5 December 2007
@@ -3376,7 +3383,8 @@ Amended(52) by Proposal 5510 (Murphy, Zefram), 28 May 2008
 Amended(53) by Proposal 5547 (ais523), 21 June 2008
 Amended(54) by Proposal 5549 (Wooble), 21 June 2008
 Amended(55) by Proposal 5553 (Murphy), 21 June 2008
-Amended(56) by Proposal 5625 (Murphy, OscarMeyr, Ivan Hope), 29 July 2008
+Amended(56) by Proposal 5625 (Murphy, OscarMeyr, Ivan Hope), 29 July
+  2008
 
 ----------------------------------------------------------------------
 
@@ -4540,7 +4548,8 @@ Amended(23) by Proposal 5237 (AFO; disi.), 3 October 2007
 Amended(24) by Proposal 5239 (AFO), 3 October 2007
 Amended(25) by Proposal 5341 (Goethe), 8 December 2007
 Amended(26) by Proposal 5412 (woggle), 26 January 2008
-Power changed from 1 to 1.5 by Proposal 5437 (Goethe), 13 February 2008
+Power changed from 1 to 1.5 by Proposal 5437 (Goethe), 13 February
+  2008
 Amended(27) by Proposal 5437 (Goethe), 13 February 2008
 
 ----------------------------------------------------------------------
@@ -4673,7 +4682,8 @@ Amended(7) by Proposal 4865 (Goethe), 27 August 2006
 Amended(8) by Proposal 5085 (Zefram), 1 August 2007
 Power changed from 1 to 1.5 by Proposal 5085 (Zefram), 1 August 2007
 Amended(9) by Proposal 5243 (root; disi.), 7 October 2007
-Amended(10) by Proposal 5276 (Murphy, Pavitra, Zefram), 7 November 2007
+Amended(10) by Proposal 5276 (Murphy, Pavitra, Zefram), 7 November
+  2007
 Amended(11) by Proposal 5437 (Goethe), 13 February 2008
 
 ----------------------------------------------------------------------
@@ -4784,7 +4794,8 @@ Amended(13) by Proposal 5420 (Wooble), 2 February 2008
 Amended(14) by Proposal 5423 (woggle; disi.), 6 February 2008
 Amended(15) by Proposal 5640 (Goethe), 29 July 2008
 Amended(16) by Proposal 5663 (Murphy), 9 August 2008
-Power changed from 1.5 to 2 by Proposal 5703 (root; disi.), 1 October 2008
+Power changed from 1.5 to 2 by Proposal 5703 (root; disi.), 1 October
+  2008
 
 ----------------------------------------------------------------------
 
@@ -4809,7 +4820,8 @@ Defining Contract Changes
 History:
 Created by Proposal 5423 (woggle; disi.), 6 February 2008
 Amended(1) by Proposal 5502 (Pavitra; disi.), 26 April 2008
-Power changed from 1.5 to 2 by Proposal 5704 (root; disi.), 1 October 2008
+Power changed from 1.5 to 2 by Proposal 5704 (root; disi.), 1 October
+  2008
 
 ----------------------------------------------------------------------
 
@@ -4916,7 +4928,8 @@ Created by Proposal 5254 (AFO), 18 October 2007
 Amended(1) by Proposal 5551 (BobTHJ), 21 June 2008
 Amended(2) by Proposal 5578 (Murphy), 16 July 2008
 Amended(3) by Proposal 5628 (Murphy), 29 July 2008
-Power changed from 1 to 2 by Proposal 5703 (root; disi.), 1 October 2008
+Power changed from 1 to 2 by Proposal 5703 (root; disi.), 1 October
+  2008
 
 ----------------------------------------------------------------------
 
@@ -4942,7 +4955,8 @@ Created by Proposal 5395 (Murphy), 16 January 2008
 Amended(1) by Proposal 5423 (woggle; disi.), 6 February 2008
 Amended(2) by Proposal 5423 (woggle; disi.), 6 February 2008
 Amended(3) by Proposal 5578 (Murphy, comex), 16 July 2008
-Power changed from 1.5 to 2 by Proposal 5703 (root; disi.), 1 October 2008
+Power changed from 1.5 to 2 by Proposal 5703 (root; disi.), 1 October
+  2008
 
 ----------------------------------------------------------------------
 
@@ -5159,7 +5173,7 @@ Frankenstein's Monster
       together of a rule from salvaged parts.
 ----------------------------------------------------------------------
 
-Rule 2193/19 (Power=1)
+Rule 2193/20 (Power=1)
 The Monster
 
       Raaaaaaaaaaaaaargh!
@@ -5219,14 +5233,6 @@ The Monster
       SHOULD assign an EXILE Monsteredict to the question on
       sentencing in that case.
 
-      Any Monster (a deputy) CAN perform an action as if e held a
-      particular office (deputise for that office) if:
-
-      (a) the rules require the holder of that office, by virtue of
-          holding that office, to perform the action (or, if the
-          office is vacant, would so require if the office were
-          filled
-
       The eligible Monsters on an ordinary decision are those entities
       that were active players at the start of its Monsterising
       period. The Monsterising limit of an eligible Monster on an
@@ -5272,6 +5278,7 @@ Amended(16) by Proposal 5685 (ais523; disi.), 8 September 2008
 Amended(17) by SLR ratification (comex), 24 September 2008
 Amended(18) by Proposal 5719 (comex), 7 October 2008
 Amended(19) by Proposal 5730 (comex; disi.), 7 October 2008
+Amended(20) by Proposal 5734 (Wooble), 9 October 2008
 
 ----------------------------------------------------------------------
 
