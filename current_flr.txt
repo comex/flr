@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5740
-Last change to this ruleset: by proposal 5740
+Last proposal with recorded effect on this ruleset: 5741
+Last change to this ruleset: by proposal 5741
 
 Rule ID numbers:
       highest orderly: 2213
@@ -1349,7 +1349,7 @@ Amended(25) by Proposal 5639 (Murphy), 29 July 2008
 
 ----------------------------------------------------------------------
 
-Rule 2170/4 (Power=3)
+Rule 2170/5 (Power=3)
 Who Am I?
 
       Rules regarding persons pertain to those persons directly, not
@@ -1358,6 +1358,10 @@ Who Am I?
 
       A person SHALL NOT make a public statement intended to mislead
       others as to the identity of its publisher.
+
+      A player SHALL NOT select a confusing nickname, including but
+      not limited to a name that has generally been used to refer to
+      another entity within the past three months.
 
       A public message's (possibly implicit) claim as to the identity
       of its publisher is self-ratifying, provided that the claim is
@@ -1386,6 +1390,7 @@ Amended(1) by Proposal 5445 (Goethe, Murphy), 21 February 2008
 Amended(2) by Proposal 5671 (Murphy, Pavrita), 12 August 2008
 Amended(3) by Proposal 5716 (Murphy), 7 October 2008
 Amended(4) by Proposal 5717 (Murphy), 7 October 2008
+Amended(5) by Proposal 5741 (Murphy), 16 October 2008
 
 ----------------------------------------------------------------------
 
