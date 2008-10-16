@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5739
-Last change to this ruleset: by proposal 5739
+Last proposal with recorded effect on this ruleset: 5740
+Last change to this ruleset: by proposal 5740
 
 Rule ID numbers:
       highest orderly: 2213
@@ -5174,7 +5174,7 @@ Frankenstein's Monster
       together of a rule from salvaged parts.
 ----------------------------------------------------------------------
 
-Rule 2193/20 (Power=1)
+Rule 2193/21 (Power=1)
 The Monster
 
       Raaaaaaaaaaaaaargh!
@@ -5234,6 +5234,17 @@ The Monster
       SHOULD assign an EXILE Monsteredict to the question on
       sentencing in that case.
 
+      Any Monster (a deputy) CAN perform an action as if e held a
+      particular office (deputise for that office) if:
+
+      (a) the rules require the holder of that office, by virtue of
+          holding that office, to perform the action (or, if the
+          office is vacant, would so require if the office were
+          filled); and
+
+      (b) a time limit by which the rules require the action to be
+          performed has expired
+
       The eligible Monsters on an ordinary decision are those entities
       that were active players at the start of its Monsterising
       period. The Monsterising limit of an eligible Monster on an
@@ -5280,6 +5291,7 @@ Amended(17) by SLR ratification (comex), 24 September 2008
 Amended(18) by Proposal 5719 (comex), 7 October 2008
 Amended(19) by Proposal 5730 (comex; disi.), 7 October 2008
 Amended(20) by Proposal 5734 (Wooble), 9 October 2008
+Amended(21) by Proposal 5740 (Pavitra, Wooble), 16 October 2008
 
 ----------------------------------------------------------------------
 
