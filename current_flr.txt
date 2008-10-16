@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5759
-Last change to this ruleset: by proposal 5759
+Last proposal with recorded effect on this ruleset: 5760
+Last change to this ruleset: by proposal 5760
 
 Rule ID numbers:
       highest orderly: 2213
@@ -1725,7 +1725,7 @@ Amended(1) by Proposal 5271 (Murphy), 7 November 2007
 
 ----------------------------------------------------------------------
 
-Rule 2150/3 (Power=3)
+Rule 2150/4 (Power=3)
 Personhood
 
       A person is an entity that has the general capacity to be the
@@ -1736,9 +1736,8 @@ Personhood
       Any biological organism that is capable of communicating by
       email in English is a person.
 
-      "First-class person" means a person of a biological nature.
-
-      "First-class player" means a player who is a first-class person.
+      A first-class person is a person of a biological nature.  All
+      other persons are second-class.
 
       The basis of a first-class person is the singleton set
       consisting of that person.
@@ -1757,6 +1756,7 @@ Amended(1) by Proposal 5061 (Zefram), 9 July 2007
 Amended(2) by Proposal 5303 (root), 24 November 2007
 Amended(3) by Proposal 5476 (Murphy; disi.), 27 March 2008
 Power changed from 2 to 3 by Proposal 5509 (root; disi.), 28 May 2008
+Amended(4) by Proposal 5760 (comex), 16 October 2008
 
 ----------------------------------------------------------------------
 
