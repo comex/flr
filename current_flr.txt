@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5756
-Last change to this ruleset: by proposal 5756
+Last proposal with recorded effect on this ruleset: 5759
+Last change to this ruleset: by proposal 5759
 
 Rule ID numbers:
       highest orderly: 2213
@@ -4701,7 +4701,7 @@ Contract Law
       within this nomic.
 ----------------------------------------------------------------------
 
-Rule 1742/16 (Power=2)
+Rule 1742/17 (Power=2)
 Contracts
 
       Contracts are binding agreements governed by the rules.
@@ -4720,9 +4720,10 @@ Contracts
 
       As it is manifestly unjust to bring criminal punishment into a
       manner of equity, if a player is found GUILTY of violating this
-      Rule by failing to act in accordance with a contract, the only
-      appropriate sentence is DISCHARGE, unless said failure is with
-      respect to a previously-imposed Equity judgement.
+      Rule by failing to act in accordance with a contract that has
+      never been a partnership, the only appropriate sentence is
+      DISCHARGE, unless said failure is with respect to a
+      previously-imposed Equity judgement.
 
 [CFJ 1892 (called 2 February 2008): An agreement that is not binding
 is thereby not a contract.]
@@ -4803,6 +4804,7 @@ Amended(15) by Proposal 5640 (Goethe), 29 July 2008
 Amended(16) by Proposal 5663 (Murphy), 9 August 2008
 Power changed from 1.5 to 2 by Proposal 5703 (root; disi.), 1 October
   2008
+Amended(17) by Proposal 5759 (comex), 16 October 2008
 
 ----------------------------------------------------------------------
 
