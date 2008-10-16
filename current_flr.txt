@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5741
-Last change to this ruleset: by proposal 5741
+Last proposal with recorded effect on this ruleset: 5746
+Last change to this ruleset: by proposal 5746
 
 Rule ID numbers:
       highest orderly: 2213
@@ -2581,7 +2581,7 @@ Amended(14) by Proposal 5078 (Zefram), 18 July 2007
 
 ----------------------------------------------------------------------
 
-Rule 2127/2 (Power=1)
+Rule 2127/3 (Power=1)
 Conditional Votes
 
       A ballot option (vote) on an Agoran decision may be submitted
@@ -2592,7 +2592,8 @@ Conditional Votes
       The option selected shall be considered to be clearly identified
       if and only if the truth or falsity of the specified
       condition(s) can be reasonably determined, without circularity
-      or paradox, from information published within the voting period.
+      or paradox, from information reasonably available within the
+      voting period.
 
       Casting a vote endorsing another voter is equivalent to
       conditionally casting a vote whose value is the same as the most
@@ -2609,6 +2610,7 @@ History:
 Created by Proposal 4875 (Goethe), 1 December 2006
 Amended(1) by Proposal 5427 (Murphy), 9 February 2008
 Amended(2) by Proposal 5506 (Murphy; disi.), 10 May 2008
+Amended(3) by Proposal 5746 (Murphy), 16 October 2008
 
 ----------------------------------------------------------------------
 
