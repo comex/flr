@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5769
-Last change to this ruleset: by proposal 5769
+Last proposal with recorded effect on this ruleset: 5771
+Last change to this ruleset: by proposal 5771
 
 Rule ID numbers:
       highest orderly: 2213
@@ -3661,7 +3661,7 @@ Amended(12) by Proposal 5317 (Murphy), 28 November 2007
 
 ----------------------------------------------------------------------
 
-Rule 1871/24 (Power=1.5)
+Rule 1871/25 (Power=1.5)
 The Standing Court
 
       Posture is a player switch, tracked by the Clerk of the Courts,
@@ -3693,8 +3693,8 @@ The Standing Court
       immediately afterwards (in the same announcement) assigns a
       judge to that case.
 
-      When the CotC recuses a non-supine player with cause, e SHALL
-      flip that player's posture to supine by announcement in a timely
+      When the CotC recuses a non-supine player with cause, e CAN flip
+      that player's posture to supine by announcement in a timely
       fashion.
 
 [CFJ 1765 (called 16 October 2007): When the CotC is obliged to change
@@ -3734,6 +3734,7 @@ Amended(21) by Proposal 5456 (Goddess Eris), 9 March 2008
 Amended(22) by Proposal 5468 (Murphy), 13 March 2008
 Amended(23) by Proposal 5474 (Murphy), 24 March 2008
 Amended(24) by Proposal 5500 (Murphy; disi.), 26 April 2008
+Amended(25) by Proposal 5771 (root), 17 October 2008
 
 ----------------------------------------------------------------------
 
