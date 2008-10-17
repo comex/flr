@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5775
-Last change to this ruleset: by proposal 5775
+Last proposal with recorded effect on this ruleset: 5776
+Last change to this ruleset: by proposal 5776
 
 Rule ID numbers:
       highest orderly: 2213
@@ -4975,7 +4975,7 @@ Power changed from 1.5 to 2 by Proposal 5703 (root; disi.), 1 October
 
 ----------------------------------------------------------------------
 
-Rule 2145/4 (Power=2)
+Rule 2145/5 (Power=2)
 Partnerships
 
       A binding agreement governed by the rules which devolves its
@@ -4994,6 +4994,14 @@ Partnerships
 
       A partnership that is a public contract and whose basis contains
       at least two persons is a person.
+
+      If a judge finds a partnership guilty in a criminal proceedings,
+      e may sentence one or more members of the partnership for the
+      crime rather than the partnership itself.  To be an appropriate
+      sentence in this case, the judge SHOULD use the text of the
+      partnership as a guide to the devolution of sentencing but is
+      not bound to follow the text if it is unclear on the subject or
+      would not adequately apply responsibility.
 
 [CFJ 1701 (called 11 July 2007): To qualify as a member of a
 partnership it is not necessary to be responsible for all of the
@@ -5018,6 +5026,7 @@ Power changed from 1 to 2 by Proposal 5061 (Zefram), 9 July 2007
 Amended(2) by Proposal 5061 (Zefram), 9 July 2007
 Amended(3) by Proposal 5303 (root), 24 November 2007
 Amended(4) by Proposal 5381 (Goethe), 1 January 2008
+Amended(5) by Proposal 5776 (Goethe), 17 October 2008
 
 ----------------------------------------------------------------------
 
