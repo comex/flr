@@ -1,17 +1,17 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5776
-Last change to this ruleset: by proposal 5776
+Last proposal with recorded effect on this ruleset: 5777
+Last change to this ruleset: by proposal 5777
 
 Rule ID numbers:
-      highest orderly: 2213
+      highest orderly: 2214
       disorderly: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 117
+Current total number of rules: 118
 
 Power distribution:
        1 with Power=4
@@ -19,7 +19,7 @@ Power distribution:
       38 with Power=2
        5 with Power=1.7
        6 with Power=1.5
-      36 with Power=1
+      37 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -177,6 +177,7 @@ Index of Rules
       Rule 2159: Protective Decrees
       Rule 2206: Foreign Trade
       Rule 2207: Trade Embargo
+      Rule 2214: Export Bootstrapping
 
       * Trophies
       Rule 2105: The Map of Agora
@@ -5653,6 +5654,21 @@ Trade Embargo
 
 History:
 Created by Proposal 5537 (Murphy), 7 June 2008
+
+----------------------------------------------------------------------
+
+Rule 2214/0 (Power=1)
+Export Bootstrapping
+
+      If a B Nomic proposal whose title is "Export" has been adopted
+      in B Nomic, any player CAN repeal this rule and rules 2192 and
+      2193 by announcement.
+
+      If a B Nomic proposal whose title is "Export" has been rejected
+      in B Nomic, any player CAN repeal this rule by announcement.
+
+History:
+Created by Proposal 5777 (ais523), 17 October 2008
 
 ----------------------------------------------------------------------
 
