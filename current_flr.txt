@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5768
-Last change to this ruleset: by proposal 5768
+Last proposal with recorded effect on this ruleset: 5769
+Last change to this ruleset: by proposal 5769
 
 Rule ID numbers:
       highest orderly: 2213
@@ -215,14 +215,18 @@ The Game of Agora
       entities.
 ----------------------------------------------------------------------
 
-Rule 101/8 (Power=3)
-Agoran Rights and Privileges
+Rule 101/9 (Power=3)
+The Rights of Agorans
 
-      The rules may define persons as possessing specific rights.  Be
-      it hereby proclaimed that no binding agreement or interpretation
-      of Agoran law may abridge, reduce, limit, or remove a person's
-      defined rights.  This rule takes precedence over any rule which
-      would allow restrictions of a person's rights.
+      WHEREAS Agora, since its inception, has functioned not only as a
+      game but as a society, and WHEREAS a society, to function, must
+      balance its Rules with the natural rights of its participants,
+      BE IT HEREBY PROCLAIMED that no interpretation of Agoran law or
+      binding agreement may substantially limit or remove a person's
+      rights as defined by this Rule, except through the explicit and
+      legal amendment of this Rule.  This rule takes precedence over
+      any rule which would allow or mandate restrictions of the rights
+      contained herein.
 
          i. Every person has the right, though not necessarily the
             ability, to perform actions that are not prohibited or
@@ -309,6 +313,8 @@ Amended(5) by Proposal 4887 (Murphy), 22 January 2007
 Amended(6) by Proposal 4944 (Zefram), 3 May 2007
 Amended(7) by Proposal 5090 (Zefram), 25 July 2007
 Amended(8) by Proposal 5731 (Goethe; disi.), 8 October 2008
+Retitled by Proposal 5769 (Goethe), 17 October 2008
+Amended(9) by Proposal 5769 (Goethe), 17 October 2008
 
 ----------------------------------------------------------------------
 
