@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5760
-Last change to this ruleset: by proposal 5760
+Last proposal with recorded effect on this ruleset: 5767
+Last change to this ruleset: by proposal 5767
 
 Rule ID numbers:
       highest orderly: 2213
@@ -1935,7 +1935,7 @@ Amended(19) by Proposal 5543 (Murphy, Pavitra, root), 16 June 2008
 
 ----------------------------------------------------------------------
 
-Rule 2124/7 (Power=2)
+Rule 2124/8 (Power=2)
 Agoran Satisfaction
 
       A Supporter of a dependent action is a first-class player who
@@ -1948,9 +1948,10 @@ Agoran Satisfaction
       to perform the action.
 
       The Executor of such an announcement of intent CANNOT support
-      nor object to it.  A rule authorizing the performance of a
-      dependent action may further restrict the eligibility of players
-      to support or object to that specific action.
+      it, but CAN generally object to it (withdrawal of intent is
+      equivalent to objection).  A rule authorizing the performance of
+      a dependent action may further restrict the eligibility of
+      players to support or object to that specific action.
 
       Agora is Satisfied with an intent to perform a specific action
       if and only if:
@@ -1978,6 +1979,7 @@ Power changed from 1 to 2 by Proposal 5445 (Goethe, Murphy), 21
 Retitled by Proposal 5445 (Goethe, Murphy), 21 February 2008
 Amended(6) by Proposal 5445 (Goethe, Murphy), 21 February 2008
 Amended(7) by Proposal 5504 (Murphy), 10 May 2008
+Amended(8) by Proposal 5767 (Murphy), 17 October 2008
 
 ----------------------------------------------------------------------
 
