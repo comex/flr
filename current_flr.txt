@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5771
-Last change to this ruleset: by proposal 5771
+Last proposal with recorded effect on this ruleset: 5773
+Last change to this ruleset: by proposal 5773
 
 Rule ID numbers:
       highest orderly: 2213
@@ -215,7 +215,7 @@ The Game of Agora
       entities.
 ----------------------------------------------------------------------
 
-Rule 101/9 (Power=3)
+Rule 101/10 (Power=3)
 The Rights of Agorans
 
       WHEREAS Agora, since its inception, has functioned not only as a
@@ -234,29 +234,26 @@ The Rights of Agorans
             changing the Rules, which is permitted only when the Rules
             explicitly or implicitly permit it.
 
-        ii. Every player has the right to perform an action which is
-            not regulated.
-
-       iii. Every person has the right to initiate a formal process to
+        ii. Every person has the right to initiate a formal process to
             resolve matters of controversy, in the reasonable
             expectation that the controversy will thereby be resolved.
             Every person has the right to cause formal reconsideration
             of any judicial determination that e should be punished.
 
-        iv. Every person has the right to refuse to become party to
+       iii. Every person has the right to refuse to become party to
             a binding agreement.  The absence of a person's explicit,
             willful consent shall be considered a refusal.
 
-         v. Every person has the right to not be considered bound by
+        iv. Every person has the right to not be considered bound by
             an agreement, or an amendment to an agreement, which e has
             not had the reasonable opportunity to review.
 
-        vi. Every player has the right of participation in the fora.
+         v. Every player has the right of participation in the fora.
 
-       vii. Every person has the right to not be penalized more than
+        vi. Every person has the right to not be penalized more than
             once for any single action or inaction.
 
-      viii. Every player has the right to deregister rather than
+       vii. Every player has the right to deregister rather than
             continue to play.
 
       Please treat Agora right good forever.
@@ -315,6 +312,7 @@ Amended(7) by Proposal 5090 (Zefram), 25 July 2007
 Amended(8) by Proposal 5731 (Goethe; disi.), 8 October 2008
 Retitled by Proposal 5769 (Goethe), 17 October 2008
 Amended(9) by Proposal 5769 (Goethe), 17 October 2008
+Amended(10) by Proposal 5773 (Goethe), 17 October 2008
 
 ----------------------------------------------------------------------
 
