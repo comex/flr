@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5773
-Last change to this ruleset: by proposal 5773
+Last proposal with recorded effect on this ruleset: 5775
+Last change to this ruleset: by proposal 5775
 
 Rule ID numbers:
       highest orderly: 2213
@@ -1860,51 +1860,47 @@ Amended(5) by Proposal 5600 (Murphy), 29 July 2008
 
 ----------------------------------------------------------------------
 
-Rule 1728/19 (Power=2)
+Rule 1728/20 (Power=2)
 Dependent Actions
 
-      A player CAN perform an action dependently (a dependent action)
-      if and only if the Rules explicitly authorize the player to
-      perform the action by one of the following methods:
+      A person (the performer) CAN perform an action dependently (a
+      dependent action) by announcement if and only if all of the
+      following are true:
 
-      - Without N Objections, where N is a nonnegative integer;
-      - With N Supporters, where N is a nonnegative integer; or
-      - With N Agoran Consent, where N is an integer multiple of 0.1,
-        with a minimum of 1.0.
+       a) The rules explicitly authorize the performer to perform the
+          action by at least one of the following methods (N is 1 if
+          not otherwise specified):
 
-      The phrase "Without Objection" is synonymous with "Without 1
-      Objection"; the phrase "With Support" is synonymous with "With 1
-      Supporter"; the phrase "With Agoran Consent" is synonymous with
-      "With 1.0 Agoran Consent".
+            1) Without N Objections, where N is a positive integer.
+            2) With N Supporters, where N is a positive integer.
+            3) With N Agoran Consent, where N is an integer multiple
+               of 0.1 with a minimum of 1.
 
-      A player authorized to perform a dependent action (the
-      initiator) CAN publicly announce eir intent to do so,
-      unambiguously describing both the action and the method,
-      including the required value for N.  A player (the performer)
-      CAN perform a previously unambiguously described dependent
-      action by announcement, if and only if all of the following are
-      true:
+       b) A person (the initiator) announced intent to perform the
+          action, unambiguously specifying the action and method
+          (including the value of N), at most fourteen days earlier,
+          and (if the action depends on objections) at least four days
+          earlier.
 
-      (a) the time elapsed since the announcement of intent is no more
-          than fourteen days, and (if the action is to be performed
-          Without N Objections or With N Agoran Consent) at least four
-          days;
+       c) At least one of the following is true:
 
-      (b) either the performer was the initiator, or the action
-          depends on support and the performer has supported the
-          action and the rule allowing the action to be performed
-          dependently does not explicitly prohibit supporters from
-          performing it, or the initiator was authorized to perform
-          the action by virtue of holding a rules-defined position and
-          the performer is the holder of that position when e attempts
-          to perform the action; and
+            1) The performer is the initiator.
 
-      (c) At the time the action is attempted, Agora is Satisfied with
-          the announced intent, as described elsewhere.
+            2) The initiator was authorized to perform the action due
+               to holding a rule-defined position now held by the
+               performer.
 
-      The specification in the rules that an action may be performed
-      dependently does not prohibit performing that action
-      independently if doing so would otherwise be permissible.
+            3) The initiator is authorized to perform the action, the
+               action depends on support, the performer has supported
+               the intent, and the rule authorizing the performance
+               does not explicitly prohibit supporters from performing
+               it.
+
+       d) Agora is Satisfied with the announced intent, as defined by
+          other rules.
+
+      A dependent action CAN be performed non-dependently as otherwise
+      permitted by the rules.
 
 [CFJ 1722 (called 15 August 2007): The method of dependent action need
 not be described exactly: an approximate but inexact description
@@ -1936,6 +1932,7 @@ Amended(16) by Proposal 5113 (Murphy, Maud), 2 August 2007
 Amended(17) by Proposal 5370 (Zefram), 20 December 2007
 Amended(18) by Proposal 5445 (Goethe, Murphy), 21 February 2008
 Amended(19) by Proposal 5543 (Murphy, Pavitra, root), 16 June 2008
+Amended(20) by Proposal 5775 (Murphy), 17 October 2008
 
 ----------------------------------------------------------------------
 
