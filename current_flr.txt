@@ -1,22 +1,22 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5784
-Last change to this ruleset: by proposal 5784
+Last proposal with recorded effect on this ruleset: 5789
+Last change to this ruleset: by proposal 5789
 
 Rule ID numbers:
-      highest orderly: 2214
+      highest orderly: 2215
       disorderly: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 118
+Current total number of rules: 119
 
 Power distribution:
        1 with Power=4
       31 with Power=3
-      38 with Power=2
+      39 with Power=2
        5 with Power=1.7
        6 with Power=1.5
       37 with Power=1
@@ -49,6 +49,7 @@ Index of Rules
       Rule 1586: Definition and Continuity of Entities
       Rule 1688: Power
       Rule 2140: Power Controls Mutability
+      Rule 2215: Truthfulness
       Rule 2186: Victory
       Rule 2110: Win by Paradox
       Rule 2199: Ribbons
@@ -425,6 +426,33 @@ Power Controls Mutability
 
 History:
 Created by Proposal 4940 (Zefram), 29 April 2007
+
+----------------------------------------------------------------------
+
+Rule 2215/0 (Power=2)
+Truthfulness
+
+      A person SHALL NOT make a public statement on a matter relevant
+      to the rules that is intended to mislead others as to its truth
+      (or, in the case of a public statement that one performs an
+      action, its effectiveness).
+
+      For the purpose of this rule:
+
+       a) Merely quoting a statement does not constitute making that
+          statement.
+
+       b) Any conditional clause or other qualifier attached to a
+          statement constitutes part of the statement; the nature of
+          the whole is what is significant.
+
+[CFJ 1739 (called 29 August 2007): A quotation can result in a
+violation of rule 2215 (then 2149), depending on the context of the
+rest of the message.]
+
+History:
+Created by Proposal 5789 (Murphy, Zefram, Michael, Goethe), 22 October
+  2008
 
 ----------------------------------------------------------------------
 
