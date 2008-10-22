@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5783
-Last change to this ruleset: by proposal 5783
+Last proposal with recorded effect on this ruleset: 5784
+Last change to this ruleset: by proposal 5784
 
 Rule ID numbers:
       highest orderly: 2214
@@ -5049,7 +5049,7 @@ Created by Proposal 5274 (Murphy), 7 November 2007
 
 ----------------------------------------------------------------------
 
-Rule 2136/20 (Power=1)
+Rule 2136/21 (Power=1)
 Contests
 
       Contestmaster is a public contract switch, tracked by the
@@ -5060,14 +5060,26 @@ Contests
       contestmaster other than 'none'. The Scorekeepor's report
       contains the contestmaster of each contest.
 
-      Any player CAN flip the contestmaster of a public contract
-      without 3 objections, except if doing so would cause a player to
-      be contestmaster of more than one contest, or it would flip the
-      contestmaster of a contract to a player who has not explicitly
-      consented to be contestmaster of that contest.  (If a player
-      intends to flip the contestmaster of a contract to emself, this
-      is considered explicit consent to be contestmaster of that
-      contract.)
+      The contestmaster of a contract CANNOT be flipped if any of the
+      following are true:
+
+       a) The contract is private.
+
+       b) Doing so would cause a player to be contestmaster of more
+          than one contest.
+
+       c) Doing so would flip the contestmaster of a contract to a
+          player who has not explicitly consented to be contestmaster
+          of that contest.  (If a player intends to flip the
+          contestmaster of a contract to emself, this is considered
+          explicit consent to be contestmaster of that contract.)
+
+      Otherwise, the contestmaster of a contract CAN be flipped
+
+       a) by any player without 3 objections, or
+
+       b) if the contract is a contest, by any mechanism specified by
+          that contract for flipping its contestmaster.
 
       Notwithstanding the rest of this rule, it is IMPOSSIBLE to flip
       the contestmaster of a contract to a player who is not party to
@@ -5118,6 +5130,7 @@ Amended(17) by Proposal 5397 (Murphy), 16 January 2008
 Amended(18) by Proposal 5423 (woggle; disi.), 6 February 2008
 Amended(19) by Proposal 5511 (Goethe), 28 May 2008
 Amended(20) by Proposal 5566 (ais523, root), 29 June 2008
+Amended(21) by Proposal 5784 (Pavitra, Murphy, comex), 22 October 2008
 
 ----------------------------------------------------------------------
 
