@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5780
-Last change to this ruleset: by proposal 5780
+Last proposal with recorded effect on this ruleset: 5781
+Last change to this ruleset: by proposal 5781
 
 Rule ID numbers:
       highest orderly: 2214
@@ -3417,7 +3417,7 @@ Amended(4) by Proposal 5418 (root), 2 February 2008
 
 ----------------------------------------------------------------------
 
-Rule 2019/18 (Power=2)
+Rule 2019/19 (Power=2)
 Prerogatives
 
       In a timely fashion before the beginning of each month, the
@@ -3437,10 +3437,11 @@ Prerogatives
          to require a judge, the Justiciar CAN make that case either
          hot or cold by announcement.  If the Justiciar has not done
          so, then the Clerk of the Courts SHALL NOT assign a panel to
-         that case during this period.  If the Justiciar has done so,
-         then the Clerk of the Courts SHALL assign a panel including
-         (if the case is hot) or excluding (if it is cold) the
-         Justiciar, if possible.
+         that case during this period, unless either no panels
+         eligible to be so assigned include the Justiciar, or all of
+         them do.  If the Justiciar has done so, then the Clerk of the
+         Courts SHALL assign a panel including (if the case is hot) or
+         excluding (if it is cold) the Justiciar, if possible.
 
       c) Wielder of Veto.  The Wielder of Veto CAN veto an ordinary
          decision in its voting period by announcement; this increases
@@ -3483,6 +3484,7 @@ Amended(15) by Proposal 5461 (Wooble), 13 March 2008
 Amended(16) by Proposal 5606 (Murphy), 29 July 2008
 Amended(17) by Proposal 5644 (Murphy), 29 July 2008
 Amended(18) by Proposal 5693 (Goethe), 20 September 2008
+Amended(19) by Proposal 5781 (Murphy), 22 October 2008
 
 ----------------------------------------------------------------------
 
