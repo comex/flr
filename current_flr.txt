@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5790
-Last change to this ruleset: by proposal 5790
+Last proposal with recorded effect on this ruleset: 5791
+Last change to this ruleset: by proposal 5791
 
 Rule ID numbers:
       highest orderly: 2215
@@ -456,11 +456,12 @@ Created by Proposal 5789 (Murphy, Zefram, Michael, Goethe), 22 October
 
 ----------------------------------------------------------------------
 
-Rule 2186/0 (Power=2)
+Rule 2186/1 (Power=2)
 Victory
 
       Winning Conditions and Losing Conditions exist only as defined
-      by rules.  Defining these things is secured.
+      by rules.  Defining these things is secured, lest a coalition of
+      players grant itself a boring win via proposal.
 
       A win announcement is a correct announcement explicitly labeled
       as a win announcement.
@@ -479,6 +480,7 @@ Victory
 History:
 Created by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
   16 January 2008
+Amended(1) by Proposal 5791 (Murphy), 22 October 2008
 
 ----------------------------------------------------------------------
 
@@ -511,11 +513,12 @@ Amended(5) by Proposal 5451 (root, Murphy, Zefram), 1 March 2008
 
 ----------------------------------------------------------------------
 
-Rule 2199/1 (Power=2)
+Rule 2199/2 (Power=2)
 Ribbons
 
-      Ribbons are a class of fixed assets.  Changes to Ribbon holdings
-      are secured.  Ownership of Ribbons is restricted to players.
+      Ribbons are a class of fixed assets.  If winning is secured,
+      then changes to Ribbon holdings are secured with the same power
+      threshold.  Ownership of Ribbons is restricted to players.
 
       Each Ribbon has exactly one color.  Colors with different names
       are distinct, regardless of spectral proximity.  Each color of
@@ -592,6 +595,7 @@ Yellow, Zinnwaldite.]
 History:
 Created by Proposal 5424 (Zefram; disi.), 6 February 2008
 Amended(1) by Proposal 5485 (root), 9 April 2008
+Amended(2) by Proposal 5791 (Murphy), 22 October 2008
 
 ----------------------------------------------------------------------
 
@@ -3138,7 +3142,7 @@ Amended(20) by Proposal 5418 (root), 2 February 2008
 
 ----------------------------------------------------------------------
 
-Rule 2156/8 (Power=2)
+Rule 2156/9 (Power=2)
 Voting on Ordinary Decisions
 
       Caste is a player switch, tracked by the Grand Poobah, with the
@@ -3152,7 +3156,8 @@ Voting on Ordinary Decisions
         provinces)
         Savage  - 0 (default for all other players)
 
-      Changes to caste are secured.
+      Changes to caste are secured, lest a coalition of high-caste
+      players grant itself a boring permanence.
 
       The eligible voters on an ordinary decision are those entities
       that were active players at the start of its voting period.  The
@@ -3172,6 +3177,7 @@ Amended(6) by Proposal 5447 (Pavitra), 24 February 2008
 Amended(7) by Proposal 5625 (Murphy, OscarMeyr, Ivan Hope), 29 July
   2008
 Amended(8) by Proposal 5679 (BobTHJ), 3 September 2008
+Amended(9) by Proposal 5791 (Murphy), 22 October 2008
 
 ----------------------------------------------------------------------
 
@@ -3263,11 +3269,12 @@ Amended(5) by Proposal 5625 (Murphy, OscarMeyr, Ivan Hope), 29 July
 
 ----------------------------------------------------------------------
 
-Rule 2126/56 (Power=2)
+Rule 2126/57 (Power=2)
 Notes
 
       Notes are a class of fixed assets.  Ownership of Notes is
-      restricted to players.  Changes to Note holdings are secured.
+      restricted to players.  If changes to caste are secured, then
+      changes to Notes are secured with the same power threshold.
 
       Each Note has exactly one pitch from the chromatic scale
       (ignoring octaves, and treating enharmonics as equivalent).
@@ -3429,6 +3436,7 @@ Amended(54) by Proposal 5549 (Wooble), 21 June 2008
 Amended(55) by Proposal 5553 (Murphy), 21 June 2008
 Amended(56) by Proposal 5625 (Murphy, OscarMeyr, Ivan Hope), 29 July
   2008
+Amended(57) by Proposal 5791 (Murphy), 22 October 2008
 
 ----------------------------------------------------------------------
 
