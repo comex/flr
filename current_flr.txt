@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5791
-Last change to this ruleset: by proposal 5791
+Last proposal with recorded effect on this ruleset: 5792
+Last change to this ruleset: by proposal 5792
 
 Rule ID numbers:
       highest orderly: 2215
@@ -456,7 +456,7 @@ Created by Proposal 5789 (Murphy, Zefram, Michael, Goethe), 22 October
 
 ----------------------------------------------------------------------
 
-Rule 2186/1 (Power=2)
+Rule 2186/2 (Power=2)
 Victory
 
       Winning Conditions and Losing Conditions exist only as defined
@@ -477,10 +477,18 @@ Victory
       the game, for each Winning Condition satisfied by at least one
       of those persons, its cleanup procedure occurs.
 
+      While all but one player satisfy at least one Losing Condition,
+      that player satisfies the Winning Condition of Solitude.
+
+      Cleanup procedure:  The same person cannot satisfy this Winning
+      Condition again until at least one other player ceases to
+      satisfy any Losing Condition.
+
 History:
 Created by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
   16 January 2008
 Amended(1) by Proposal 5791 (Murphy), 22 October 2008
+Amended(2) by Proposal 5792 (Murphy), 22 October 2008
 
 ----------------------------------------------------------------------
 
