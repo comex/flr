@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5789
-Last change to this ruleset: by proposal 5789
+Last proposal with recorded effect on this ruleset: 5790
+Last change to this ruleset: by proposal 5790
 
 Rule ID numbers:
       highest orderly: 2215
@@ -1760,7 +1760,7 @@ Amended(1) by Proposal 5271 (Murphy), 7 November 2007
 
 ----------------------------------------------------------------------
 
-Rule 2150/4 (Power=3)
+Rule 2150/5 (Power=3)
 Personhood
 
       A person is an entity that has the general capacity to be the
@@ -1768,8 +1768,9 @@ Personhood
       a person if and only if it is defined to be so by rules with
       power 2 or greater.
 
-      Any biological organism that is capable of communicating by
-      email in English is a person.
+      Any biological organism that is generally capable of
+      communicating by email in English (including via a translation
+      service) is a person.
 
       A first-class person is a person of a biological nature.  All
       other persons are second-class.
@@ -1792,6 +1793,7 @@ Amended(2) by Proposal 5303 (root), 24 November 2007
 Amended(3) by Proposal 5476 (Murphy; disi.), 27 March 2008
 Power changed from 2 to 3 by Proposal 5509 (root; disi.), 28 May 2008
 Amended(4) by Proposal 5760 (comex), 16 October 2008
+Amended(5) by Proposal 5790 (Murphy), 22 October 2008
 
 ----------------------------------------------------------------------
 
