@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5792
-Last change to this ruleset: by proposal 5792
+Last proposal with recorded effect on this ruleset: 5793
+Last change to this ruleset: by proposal 5793
 
 Rule ID numbers:
       highest orderly: 2215
@@ -5095,7 +5095,7 @@ Created by Proposal 5274 (Murphy), 7 November 2007
 
 ----------------------------------------------------------------------
 
-Rule 2136/21 (Power=1)
+Rule 2136/21 (Power=2)
 Contests
 
       Contestmaster is a public contract switch, tracked by the
@@ -5177,14 +5177,15 @@ Amended(18) by Proposal 5423 (woggle; disi.), 6 February 2008
 Amended(19) by Proposal 5511 (Goethe), 28 May 2008
 Amended(20) by Proposal 5566 (ais523, root), 29 June 2008
 Amended(21) by Proposal 5784 (Pavitra, Murphy, comex), 22 October 2008
+Power changed from 1 to 2 by Proposal 5793 (root), 22 October 2008
 
 ----------------------------------------------------------------------
 
-Rule 2179/1 (Power=1)
+Rule 2179/2 (Power=2)
 Points
 
       Points are a class of fixed assets.  Ownership of points is
-      restricted to players.
+      restricted to players.  Changes to point holdings are secured.
 
       Points are a currency.  The number of points owned by a player
       is eir score.
@@ -5199,6 +5200,8 @@ History:
 Created by Proposal 5328 (Goethe), 5 December 2007
 Amended(1) by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
   16 January 2008
+Power changed from 1 to 2 by Proposal 5793 (root), 22 October 2008
+Amended(2) by Proposal 5793 (root), 22 October 2008
 
 ----------------------------------------------------------------------
 
