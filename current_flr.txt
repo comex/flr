@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5777
-Last change to this ruleset: by proposal 5777
+Last proposal with recorded effect on this ruleset: 5780
+Last change to this ruleset: by proposal 5780
 
 Rule ID numbers:
       highest orderly: 2214
@@ -1102,7 +1102,7 @@ Amended(1) by Proposal 5172 (Murphy), 29 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 1789/3 (Power=1)
+Rule 1789/3 (Power=2)
 Cantus Cygneus
 
       Whenever a Player feels that e has been treated so egregiously
@@ -1132,6 +1132,8 @@ Created by Proposal 3705 (Crito), Mar. 9 1998
 Amended(1) by Proposal 4099 (Murphy), Jan. 15 2001
 Amended(2) by Proposal 4147 (Wes), 13 May 2001
 Amended(3) by Proposal 4825 (Maud), 17 July 2005
+Power changed from 1 to 2 by Proposal 5780 (comex, ehird), 22 October
+  2008
 
 ----------------------------------------------------------------------
 
