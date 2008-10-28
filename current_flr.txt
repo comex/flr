@@ -1,25 +1,25 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5793
-Last change to this ruleset: by proposal 5793
+Last proposal with recorded effect on this ruleset: 5794
+Last change to this ruleset: by proposal 5794
 
 Rule ID numbers:
-      highest orderly: 2215
+      highest orderly: 2216
       disorderly: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 119
+Current total number of rules: 120
 
 Power distribution:
        1 with Power=4
       31 with Power=3
-      39 with Power=2
+      42 with Power=2
        5 with Power=1.7
        6 with Power=1.5
-      37 with Power=1
+      35 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -86,6 +86,7 @@ Index of Rules
       Rule 1728: Dependent Actions
       Rule 2124: Agoran Satisfaction
       Rule 1769: Holidays
+      Rule 2216: The Repeal-o-Matic
       Rule 1750: Read the Ruleset Week
 
       * Offices
@@ -2084,6 +2085,26 @@ Amended(5) by Proposal 5086 (Zefram), 1 August 2007
 Amended(6) by Proposal 5484 (Murphy; disi.), 2 April 2008
 Amended(7) by Proposal 5535 (Murphy), 7 June 2008
 Power changed from 2 to 3 by Proposal 5701 (ais523), 1 October 2008
+
+----------------------------------------------------------------------
+
+Rule 2216/0 (Power=1)
+The Repeal-o-Matic
+
+      The Anarchist is an office; its holder is responsible for
+      proposing the repeal of rules.
+
+      The Anarchist's weekly duties include the performance of the
+      following tasks, in order:
+
+        a) Randomly select exactly five distinct rules.
+
+        b) For one to three of these rules, submit a proposal, with
+           adoption index equal to the Power of the rule, and interest
+           index 0, to repeal the rule.
+
+History:
+Created by Proposal 5794 (Murphy, Swann), 26 October 2008
 
 ----------------------------------------------------------------------
 
