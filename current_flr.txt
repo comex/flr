@@ -5376,7 +5376,7 @@ Amended(7) by Proposal 5541 (ais523; disi.), 16 June 2008
 Amended(8) by Proposal 5546 (ais523; disi.), 20 June 2008
 Amended(9) by Proposal 5569 (ais523; disi.), 4 July 2008
 Amended(10) by Proposal 5589 (ais523; disi.), 29 July 2008
-Amended(11) by Proposal 5836 (ais523; disi.), 29 July 2008
+Amended(11) by Proposal 5636 (ais523; disi.), 29 July 2008
 Amended(12) by Proposal 5647 (ais523; disi.), 29 July 2008
 Amended(13) by Proposal 5654 (ais523; disi.), 9 August 2008
 Amended(14) by Proposal 5674 (ais523; disi.), 3 September 2008
