@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5804
-Last change to this ruleset: by proposal 5804
+Last proposal with recorded effect on this ruleset: 5805
+Last change to this ruleset: by proposal 5805
 
 Rule ID numbers:
       highest orderly: 2216
@@ -4644,7 +4644,7 @@ Amended(27) by Proposal 5437 (Goethe), 13 February 2008
 
 ----------------------------------------------------------------------
 
-Rule 1922/25 (Power=1)
+Rule 1922/26 (Power=1)
 Defined Regular Patent Titles
 
       The following are Patent Titles:
@@ -4692,7 +4692,7 @@ Defined Regular Patent Titles
 
       (f)  Left in a Huff, to be awarded by the Clerk of the Courts or
            the Registrar (whichever one gets around to it first) to
-           any player who publishes a Cantus Cygneus.
+           any player who deregistered in a Writ of FAGE.
 
       (g)  Elder Lurker, to be awarded to Persons who are true legends
            that were involved in Agora in its early days and now
@@ -4731,6 +4731,7 @@ Amended(22) by Proposal 5389 (Goethe), 1 January 2008
 Amended(23) by Proposal 5434 (Murphy), 13 February 2008
 Amended(24) by Proposal 5559 (Quazie, BobTHJ), 25 June 2008
 Amended(25) by Proposal 5596 (Murphy), 29 July 2008
+Amended(26) by Proposal 5805 (Murphy, Zefram), 29 October 2008
 
 ----------------------------------------------------------------------
 
