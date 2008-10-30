@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5805
-Last change to this ruleset: by proposal 5805
+Last proposal with recorded effect on this ruleset: 5806
+Last change to this ruleset: by proposal 5806
 
 Rule ID numbers:
       highest orderly: 2216
@@ -2192,7 +2192,7 @@ Amended(25) by Proposal 5534 (root; disi.), 7 June 2008
 
 ----------------------------------------------------------------------
 
-Rule 2154/16 (Power=2)
+Rule 2154/17 (Power=2)
 Replacing Officers
 
       Any player CAN by announcement nominate one or more active
@@ -2212,10 +2212,10 @@ Replacing Officers
       or more consenting candidates, then the IADoP SHALL initiate an
       Agoran decision to determine the new officeholder; this process
       is known as an election; (c) if there are no consenting nominees
-      and the office is vacant, the IADOP SHALL, as soon as possible,
-      resolve the nomination as Failed by announcement and begin a new
-      nomination period by nominating at least one player to hold the
-      office.
+      the IADOP SHALL, as soon as possible resolve the nomination as
+      Failed by announcement; if the office is vacant e shall begin a
+      new nomination period by nominating at least one player to hold
+      the office as soon as possible.
 
       In an election, the valid options are the consenting nominees
       (hereafter the candidates), quorum is the lesser of three and
@@ -2270,6 +2270,7 @@ Amended(13) by Proposal 5609 (Murphy), 29 July 2008
 Amended(14) by Proposal 5683 (Wooble), 8 September 2008
 Amended(15) by SLR ratification (comex), 24 September 2008
 Amended(16) by Proposal 5730 (comex; disi.), 7 October 2008
+Amended(17) by Proposal 5806 (Wooble; disi.), 30 October 2008
 
 ----------------------------------------------------------------------
 
