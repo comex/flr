@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5808
-Last change to this ruleset: by proposal 5808
+Last proposal with recorded effect on this ruleset: 5810
+Last change to this ruleset: by proposal 5810
 
 Rule ID numbers:
       highest orderly: 2216
@@ -5392,7 +5392,7 @@ Amended(21) by Proposal 5740 (Pavitra, Wooble), 16 October 2008
 
 ----------------------------------------------------------------------
 
-Rule 2192/4 (Power=1)
+Rule 2192/5 (Power=1)
 The Mad Scientist
 
       The Mad Scientist is an office; its holder is responsible for
@@ -5423,6 +5423,13 @@ The Mad Scientist
          have shown up with torches and pitchforks, to repeal both
          that rule and this one).
 
+      e) Randomly select exactly one paragraph from the rule "The
+         Monster", other than its first paragraph.
+
+      f) Submit a proposal, with adoption index equal to the Power of
+         that rule, and interest index 0, to remove the selected text
+         from that rule.
+
 [Cross-references (23 April 2008): the Mad Scientist's duties are:
   * act on behalf of the monster to fulfill its duties (rule 2192)
   * propose mutation of the monster (rule 2192)]
@@ -5433,6 +5440,7 @@ Amended(1) by Proposal 5483 (Murphy), 2 April 2008
 Amended(2) by Proposal 5485 (root), 9 April 2008
 Amended(3) by Proposal 5494 (OscarMeyr, Pavitra), 23 April 2008
 Amended(4) by Proposal 5795 (Murphy), 26 October 2008
+Amended(5) by Proposal 5810 (Murphy), 1 November 2008
 
 ----------------------------------------------------------------------
 
