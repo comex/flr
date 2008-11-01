@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5817
-Last change to this ruleset: by proposal 5817
+Last proposal with recorded effect on this ruleset: 5818
+Last change to this ruleset: by proposal 5818
 
 Rule ID numbers:
       highest orderly: 2216
@@ -1217,7 +1217,7 @@ Definitions
       widely used and do not readily fall into any other category.
 ----------------------------------------------------------------------
 
-Rule 478/25 (Power=3)
+Rule 478/26 (Power=3)
 Fora
 
       Freedom of speech being essential for the healthy functioning of
@@ -1250,9 +1250,9 @@ Fora
 
       Where the rules define an action that CAN be performed "by
       announcement", a person performs that action by unambiguously
-      specifying the action and announcing that e performs it.  Any
-      action performed by sending a message is performed at the time
-      date-stamped on that message.
+      and clearly specifying the action and announcing that e performs
+      it.  Any action performed by sending a message is performed at
+      the time date-stamped on that message.
 
 [CFJs 1451-1452 (called 6 March 2003): A message that is split into
 multiple email messages can qualify as a single message for game
@@ -1393,6 +1393,7 @@ Amended(22) by Proposal 5291 (root), 14 November 2007
 Amended(23) by Proposal 5535 (Murphy), 7 June 2008
 Amended(24) by Proposal 5613 (Quazie), 29 July 2008
 Amended(25) by Proposal 5639 (Murphy), 29 July 2008
+Amended(26) by proposal 5818 (comex), 1 November 2008
 
 ----------------------------------------------------------------------
 
@@ -1906,7 +1907,7 @@ Amended(5) by Proposal 5600 (Murphy), 29 July 2008
 
 ----------------------------------------------------------------------
 
-Rule 1728/20 (Power=2)
+Rule 1728/21 (Power=2)
 Dependent Actions
 
       A person (the performer) CAN perform an action dependently (a
@@ -1923,10 +1924,10 @@ Dependent Actions
                of 0.1 with a minimum of 1.
 
        b) A person (the initiator) announced intent to perform the
-          action, unambiguously specifying the action and method
-          (including the value of N), at most fourteen days earlier,
-          and (if the action depends on objections) at least four days
-          earlier.
+          action, unambiguously and clearly specifying the action and
+          method (including the value of N), at most fourteen days
+          earlier, and (if the action depends on objections) at least
+          four days earlier.
 
        c) At least one of the following is true:
 
@@ -1979,6 +1980,7 @@ Amended(17) by Proposal 5370 (Zefram), 20 December 2007
 Amended(18) by Proposal 5445 (Goethe, Murphy), 21 February 2008
 Amended(19) by Proposal 5543 (Murphy, Pavitra, root), 16 June 2008
 Amended(20) by Proposal 5775 (Murphy), 17 October 2008
+Amended(21) by Proposal 5818 (comex), 1 November 2008
 
 ----------------------------------------------------------------------
 
