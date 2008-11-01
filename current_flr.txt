@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5815
-Last change to this ruleset: by proposal 5815
+Last proposal with recorded effect on this ruleset: 5817
+Last change to this ruleset: by proposal 5817
 
 Rule ID numbers:
       highest orderly: 2216
@@ -5034,11 +5034,11 @@ Power changed from 1 to 2 by Proposal 5703 (root; disi.), 1 October
 
 ----------------------------------------------------------------------
 
-Rule 2191/3 (Power=2)
+Rule 2191/4 (Power=2)
 Pledges
 
-      A pledge is a contract identifying itself as such.  A pledge
-      requires at least one party.
+      A pledge is a public contract identifying itself as such.  A
+      pledge requires at least one party.
 
       An equity case regarding a pledge CAN be initiated by a
       non-party, provided that all other requirements for initiating
@@ -5058,6 +5058,7 @@ Amended(2) by Proposal 5423 (woggle; disi.), 6 February 2008
 Amended(3) by Proposal 5578 (Murphy, comex), 16 July 2008
 Power changed from 1.5 to 2 by Proposal 5703 (root; disi.), 1 October
   2008
+Amended(4) by Proposal 5817 (Murphy), 1 November 2008
 
 ----------------------------------------------------------------------
 
