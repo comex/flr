@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5810
-Last change to this ruleset: by proposal 5810
+Last proposal with recorded effect on this ruleset: 5812
+Last change to this ruleset: by proposal 5812
 
 Rule ID numbers:
       highest orderly: 2216
@@ -4316,7 +4316,7 @@ Created by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
 
 ----------------------------------------------------------------------
 
-Rule 2169/7 (Power=1.7)
+Rule 2169/8 (Power=1.7)
 Equity Cases
 
       There is a subclass of judicial case known as an equity case. An
@@ -4337,8 +4337,10 @@ Equity Cases
       informed, or immediately when all parties have announced that
       they wish to terminate the pre-trial phase.
 
-      The members of the bases of the parties to the contract are all
-      unqualified to be assigned as judge of the case.
+      The initiator is unqualified to be assigned as judge of the
+      case.  All other members of the bases of the parties to the
+      contract are also unqualified, except while this would result in
+      all entities being unqualified.
 
       An equity case has a judicial question on equation, which is
       applicable at all times following the pre-trial phase.  The
@@ -4391,6 +4393,7 @@ Amended(4) by Proposal 5436 (Murphy), 13 February 2008
 Amended(5) by Proposal 5507 (root), 10 May 2008
 Amended(6) by Proposal 5638 (Murphy), 29 July 2008
 Amended(7) by Proposal 5675 (Goethe), 3 September 2008
+Amended(8) by Proposal 5812 (Murphy), 1 November 2008
 
 ----------------------------------------------------------------------
 
