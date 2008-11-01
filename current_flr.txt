@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5812
-Last change to this ruleset: by proposal 5812
+Last proposal with recorded effect on this ruleset: 5814
+Last change to this ruleset: by proposal 5814
 
 Rule ID numbers:
       highest orderly: 2216
@@ -5274,7 +5274,7 @@ Frankenstein's Monster
       together of a rule from salvaged parts.
 ----------------------------------------------------------------------
 
-Rule 2193/21 (Power=1)
+Rule 2193/22 (Power=1)
 The Monster
 
       Raaaaaaaaaaaaaargh!
@@ -5369,6 +5369,40 @@ The Monster
 
       The CotC's report includes the status of all active Monsters.
 
+                              ____  _        /|
+                   DARWIN ->  \_  |/ |      / \
+                             __/    /      |  |
+            <- DSV          /      /        |  \
+                        _   \      \_       |   \
+                  MORNINGTON CRESCENT ->    /    |  <- GOETHE BARRIER
+                 _ _/       |         \_/\_/     \     REEF
+                / \\ <- SHARK BAY      |         |
+               /            |          |          \ <- TOWNSVILLE
+            ___/            |          |           \_
+         __/                |          |  .___o  )   |
+        /                   |          | ~~vv ===~~~ <-OSCAR'S MIRE
+       /           O <- SHERLOCK NESS  |             |/\
+      |                     |          |               |_
+      |                     |          |  EMERALD ->     \
+      \                     |__________=_____,             \ BRISBANE
+       /                    |                |             | <-'
+       \      O <- LT. ANNE MOORE            |        __  _\
+        \                   |                |_______/  \/ |  LORD
+         |                __/\      <- TARCOOLA           /   HOWE ->
+         \  PERTH      __/    \_             /           /
+          | <-'  _  __/         |   /| IVANHOE ->       | <-.
+          /    _/ \/             \ / /       |         /  WOLLONGONG
+         |_   /     <- ESPERANTO  v /__     |_        / <- CANBERRA
+           \_/                         \    | \_    _|
+                     _  _              |    |   \__/
+                   _/0\/ \_             \___=_  ___|
+          .-.   .-` \_/\0/ '-.  MANUBOURNE -> \/
+         /:::\ / ,_________,  \
+        /\:::/ \  '. (:::/  `'-;            /\__
+        \ `-'`\ '._ `"'"'\__    \           |   |
+         `'-.  \   `)-=-=(  `,   |           |  /
+     jgs    \  `-"`      `"-`   /            \_/ <- HOBART
+
 History:
 Created by Proposal 5396 (Murphy), 16 January 2008
 Amended(1) by Proposal 5435 (avpx; disi.), 13 February 2008
@@ -5392,6 +5426,7 @@ Amended(18) by Proposal 5719 (comex), 7 October 2008
 Amended(19) by Proposal 5730 (comex; disi.), 7 October 2008
 Amended(20) by Proposal 5734 (Wooble), 9 October 2008
 Amended(21) by Proposal 5740 (Pavitra, Wooble), 16 October 2008
+Amended(22) by Proposal 5814 (ehird), 1 November 2008
 
 ----------------------------------------------------------------------
 
