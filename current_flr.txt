@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5806
-Last change to this ruleset: by proposal 5806
+Last proposal with recorded effect on this ruleset: 5808
+Last change to this ruleset: by proposal 5808
 
 Rule ID numbers:
       highest orderly: 2216
@@ -4082,7 +4082,7 @@ Amended(26) by Proposal 5476 (Murphy; disi.), 27 March 2008
 
 ----------------------------------------------------------------------
 
-Rule 1504/30 (Power=2)
+Rule 1504/31 (Power=2)
 Criminal Cases
 
       There is a subclass of judicial case known as a criminal case. A
@@ -4120,8 +4120,8 @@ Criminal Cases
       applicable at all times following the pre-trial phase.  The
       valid judgements for this question are:
 
-      * OVERLOOKED, appropriate if the alleged act allegedly occurred
-        at least 200 days before the case was initiated
+      * OVERLOOKED, appropriate if the initiating announcement alleged
+      a rule breach at least 200 days before the case was initiated
 
       * ALREADY TRIED, appropriate if judgement has already been
         reached in another criminal case with the same defendant, the
@@ -4299,6 +4299,7 @@ Amended(28) by Proposal 5650 (Pavrita), 29 July 2008
 Amended(29) by Proposal 5711 (Murphy, woggle), 7 October 2008
 Power changed from 1.7 to 2 by Proposal 5728 (ihope), 7 October 2008
 Amended(30) by Proposal 5728 (ihope), 7 October 2008
+Amended(31) by Proposal 5808 (Murphy; disi.), 1 November 2008
 
 ----------------------------------------------------------------------
 
