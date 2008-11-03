@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5797
-Last change to this ruleset: by proposal 5797
+Last proposal with recorded effect on this ruleset: 5802
+Last change to this ruleset: by proposal 5802
 
 Rule ID numbers:
       highest orderly: 2216
@@ -5218,11 +5218,12 @@ Power changed from 1 to 2 by Proposal 5793 (root), 22 October 2008
 
 ----------------------------------------------------------------------
 
-Rule 2179/2 (Power=2)
+Rule 2179/3 (Power=2)
 Points
 
       Points are a class of fixed assets.  Ownership of points is
-      restricted to players.  Changes to point holdings are secured.
+      restricted to players.  If winning is secured, then changes to
+      point holdings are secured with the same power threshold.
 
       Points are a currency.  The number of points owned by a player
       is eir score.
@@ -5239,6 +5240,7 @@ Amended(1) by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
   16 January 2008
 Power changed from 1 to 2 by Proposal 5793 (root), 22 October 2008
 Amended(2) by Proposal 5793 (root), 22 October 2008
+Amended(3) by Proposal 5802 (Murphy; disi.), 3 November 2008
 
 ----------------------------------------------------------------------
 
