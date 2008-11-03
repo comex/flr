@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5818
-Last change to this ruleset: by proposal 5818
+Last proposal with recorded effect on this ruleset: 5797
+Last change to this ruleset: by proposal 5797
 
 Rule ID numbers:
       highest orderly: 2216
@@ -2194,7 +2194,7 @@ Amended(25) by Proposal 5534 (root; disi.), 7 June 2008
 
 ----------------------------------------------------------------------
 
-Rule 2154/17 (Power=2)
+Rule 2154/18 (Power=2)
 Replacing Officers
 
       Any player CAN by announcement nominate one or more active
@@ -2203,10 +2203,10 @@ Replacing Officers
       may be so nominated.  The nomination period lasts for four days.
       Once a nomination period begins, a new one CANNOT begin for the
       same office until the nomination or resulting election is
-      resolved. A consenting candidate is a player who was nominated
-      during the first half of the nominating period and did not
-      refuse, or who was nominated during the second half and
-      accepted.
+      resolved. A consenting candidate is a first-class player who was
+      nominated during the first half of the nominating period and did
+      not refuse, or any player who was nominated during the
+      nominating period and accepted.
 
       As soon as possible after the nomination period ends, then: (a)
       if there is only one consenting candidate, the IADoP SHALL
@@ -2273,6 +2273,7 @@ Amended(14) by Proposal 5683 (Wooble), 8 September 2008
 Amended(15) by SLR ratification (comex), 24 September 2008
 Amended(16) by Proposal 5730 (comex; disi.), 7 October 2008
 Amended(17) by Proposal 5806 (Wooble; disi.), 30 October 2008
+Amended(18) by Proposal 5797 (Taral), 3 November 2008
 
 ----------------------------------------------------------------------
 
