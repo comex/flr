@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5831
-Last change to this ruleset: by proposal 5831
+Last proposal with recorded effect on this ruleset: 5833
+Last change to this ruleset: by proposal 5833
 
 Rule ID numbers:
       highest orderly: 2217
@@ -1812,12 +1812,12 @@ Amended(5) by Proposal 5790 (Murphy), 22 October 2008
 
 ----------------------------------------------------------------------
 
-Rule 2166/5 (Power=2)
+Rule 2166/6 (Power=2)
 Assets
 
-      An asset is an entity defined as such by an instrument or
-      contract (hereafter its backing document), and existing solely
-      because its backing document defines its existence.
+      An asset is an entity defined as such by an rule or contract
+      (hereafter its backing document), and existing solely because
+      its backing document defines its existence.
 
       Each asset has exactly one owner.  If an asset would otherwise
       lack an owner, it is owned by the Lost and Found Department.  If
@@ -1828,10 +1828,11 @@ Assets
       Department, in which case any player CAN transfer or destroy it
       without objection).
 
-      The recordkeepor of a class of assets is the entity defined as
-      such by its backing document.  That entity's report includes a
-      list of all instances of that class and their owners.  This
-      portion of that entity's report is self-ratifying.
+      The recordkeepor of a class of assets is the entity (if any)
+      defined as such by, and bound by, its backing document.  That
+      entity's report includes a list of all instances of that class
+      and their owners.  This portion of that entity's report is
+      self-ratifying.
 
       An asset whose backing document is not a rule generally CAN be
       created by its recordkeepor by announcement, subject to
@@ -1879,20 +1880,18 @@ Amended(2) by Proposal 5388 (Murphy), 1 January 2008
 Amended(3) by Proposal 5475 (Murphy), 24 March 2008
 Amended(4) by Proposal 5476 (Murphy; disi.), 27 March 2008
 Amended(5) by Proposal 5496 (Murphy), 23 April 2008
+Amended(6) by Proposal 5833 (Murphy, Taral), 12 November 2008
 
 ----------------------------------------------------------------------
 
-Rule 2181/5 (Power=1)
+Rule 2181/6 (Power=1)
 The Accountor
 
       The Accountor is a low-priority office; its holder is
-      responsible for keeping track of miscellaneous assets.
+      responsible for keeping track of classes of assets.
 
       The Accountor's report includes a list of all classes of assets,
       and their backing documents and recordkeepors.
-
-      The Accountor is the default recordkeepor for all assets whose
-      backing document does not specify a different recordkeepor.
 
 [Cross-references (28 May 2008): the Accountor's duties are:
   * report classes of assets (rule 2181)
@@ -1905,6 +1904,7 @@ Amended(2) by Proposal 5508 (Murphy), 28 May 2008
 Amended(3) by Proposal 5527 (Murphy), 2 June 2008
 Amended(4) by Proposal 5598 (Wooble; disi.), 29 June 2008
 Amended(5) by Proposal 5600 (Murphy), 29 July 2008
+Amended(6) by Proposal 5833 (Murphy, Taral), 12 November 2008
 
 ----------------------------------------------------------------------
 
