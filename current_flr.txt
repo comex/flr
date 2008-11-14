@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5833
-Last change to this ruleset: by proposal 5833
+Last proposal with recorded effect on this ruleset: 5834
+Last change to this ruleset: by proposal 5834
 
 Rule ID numbers:
       highest orderly: 2217
@@ -1443,7 +1443,7 @@ Amended(5) by Proposal 5741 (Murphy), 16 October 2008
 
 ----------------------------------------------------------------------
 
-Rule 754/7 (Power=3)
+Rule 754/8 (Power=3)
 Definition Definitions
 
       Regularity of communication being essential for the healthy
@@ -1455,15 +1455,20 @@ Definition Definitions
           the difference does not create an ambiguity in meaning.
 
       (2) A term explicitly defined by the Rules by default has that
-          meaning, as do its ordinary-language synonyms not explicitly
-          defined by the rules.
+          meaning when used in any Rule of equal or lesser power, as
+          do its ordinary-language synonyms not explicitly defined by
+          the rules.
 
       (3) Any term primarily used in mathematical or legal contexts,
           and not addressed by previous provisions of this Rule, by
           default has the meaning it has in those contexts.
 
       (4) Any term not addressed by previous provisions of this Rule
-          by default has its ordinary-language meaning.
+          by default has its ordinary-language meaning.  In
+          determining the ordinary-language meaning of a term,
+          definitions contained in lower-powered Rules, followed by
+          definitions used in contracts or other Agoran legal
+          documents, SHOULD be used for guidance.
 
       This rule takes precedence over any other rules which dictate
       terminology or grammar.
@@ -1543,6 +1548,7 @@ Power changed from 1 to 3 by Proposal 4507 (Murphy), 20 June 2003
 Amended(5) by Proposal 4507 (Murphy), 20 June 2003
 Amended(6) by Proposal 4866 (Goethe), 27 August 2006
 Amended(7) by Proposal 5038 (Zefram), 28 June 2007
+Amended(8) by Proposal 5834 (Goethe), 12 November 2008
 
 ----------------------------------------------------------------------
 
