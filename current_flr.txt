@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5835
-Last change to this ruleset: by proposal 5835
+Last proposal with recorded effect on this ruleset: 5836
+Last change to this ruleset: by proposal 5836
 
 Rule ID numbers:
       highest orderly: 2217
@@ -353,22 +353,26 @@ Amended(3) by Proposal 5739 (root), 9 October 2008
 
 ----------------------------------------------------------------------
 
-Rule 1586/4 (Power=2)
+Rule 1586/5 (Power=2)
 Definition and Continuity of Entities
 
-      If multiple rules attempt to define an entity with the same
-      name, then they refer to the same entity.  A rule-defined
-      entity's name CANNOT be changed to be the same as another
-      rule-defined entity.
+      If multiple rules or contracts (hereafter documents) attempt to
+      define an entity with the same name, then they refer to the same
+      entity.  A document-defined entity's name CANNOT be changed to
+      be the same as another document-defined entity.
 
-      If the Rules defining an entity are repealed or amended such
+      A document referring to an entity by name refers to the entity
+      that had that name when the document first came to include that
+      reference, even if the entity's name has since changed.
+
+      If the documents defining an entity are repealed or amended such
       that they no longer define that entity, then that entity and its
       properties cease to exist.
 
-      If the Rules defining an entity are amended such that they still
-      define that entity but with different properties, then that
-      entity and its properties continue to exist to whatever extent
-      is possible under the new definitions.
+      If the documents defining an entity are amended such that they
+      still define that entity but with different properties, then
+      that entity and its properties continue to exist to whatever
+      extent is possible under the new definitions.
 
 [CFJ 1807 (called 25 November 2007): Rule-defined entities include
 pending timed events, which can therefore occur under modified rules
@@ -382,6 +386,7 @@ Amended(2) by Proposal 3999 (harvel), May 2 2000
 Power changed from 1 to 2 by Proposal 3999 (harvel), May 2 2000
 Amended(3) by Proposal 5077 (Murphy), 18 July 2007
 Amended(4) by Proposal 5723 (Murphy), 7 October 2008
+Amended(5) by Proposal 5836 (Murphy), 12 October 2008
 
 ----------------------------------------------------------------------
 
