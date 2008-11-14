@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5834
-Last change to this ruleset: by proposal 5834
+Last proposal with recorded effect on this ruleset: 5835
+Last change to this ruleset: by proposal 5835
 
 Rule ID numbers:
       highest orderly: 2217
@@ -4979,7 +4979,7 @@ Amended(3) by Proposal 5686 (Goethe; disi.), 13 September 2008
 
 ----------------------------------------------------------------------
 
-Rule 2178/2 (Power=2)
+Rule 2178/3 (Power=2)
 Public Contracts
 
       A public contract is a contract that has been identified as
@@ -4997,6 +4997,10 @@ Public Contracts
         (c) The publication is accompanied by a notice, published
             without objection of its members, that the contract be
             public.
+
+        (d) the contract, or a notice accompanying its publication,
+            contains a clause or indication that the contract is a
+            pledge.
 
       A partnership CAN identify its contract as a public contract by
       publishing its text and membership.
@@ -5017,6 +5021,7 @@ Power changed from 1 to 1.5 by Proposal 5403 (Murphy, Goethe),
 Amended(2) by Proposal 5403 (Murphy, Goethe), 16 January 2008
 Power changed from 1.5 to 2 by Proposal 5804 (woggle; disi.),
   29 October 2008
+Amended(3) by Proposal 5835 (Goethe), 12 November 2008
 
 ----------------------------------------------------------------------
 
