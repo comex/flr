@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5840
-Last change to this ruleset: by proposal 5840
+Last proposal with recorded effect on this ruleset: 5942
+Last change to this ruleset: by proposal 5942
 
 Rule ID numbers:
       highest orderly: 2217
@@ -11,7 +11,7 @@ Rule ID numbers:
 
 Statistics
 
-Current total number of rules: 121
+Current total number of rules: 118
 
 Power distribution:
        1 with Power=4
@@ -19,7 +19,7 @@ Power distribution:
       44 with Power=2
        5 with Power=1.7
        5 with Power=1.5
-      35 with Power=1
+      32 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -35,7 +35,6 @@ Index of Categories
       * Adjudication
       * Patent Titles and Degrees
       * Contract Law
-      * Frankenstein's Monster
       * Foreign Relations
       * Trophies
 
@@ -164,10 +163,6 @@ Index of Rules
       Rule 2179: Points
       Rule 2187: Win by High Score
 
-      * Frankenstein's Monster
-      Rule 2193: The Monster
-      Rule 2192: The Mad Scientist
-
       * Foreign Relations
       Rule 2200: Nomic Definitions
       Rule 2135: Advertising
@@ -180,7 +175,6 @@ Index of Rules
       Rule 2159: Protective Decrees
       Rule 2206: Foreign Trade
       Rule 2207: Trade Embargo
-      Rule 2214: Export Bootstrapping
 
       * Trophies
       Rule 2105: The Map of Agora
@@ -5308,220 +5302,6 @@ Amended(3) by Proposal 5585 (Goethe), 29 July 2008
 ----------------------------------------------------------------------
 
 ======================================================================
-Frankenstein's Monster
-      A category concerning a monstrous subgame ragarding the cobbling
-      together of a rule from salvaged parts.
-----------------------------------------------------------------------
-
-Rule 2193/22 (Power=1)
-The Monster
-
-      Raaaaaaaaaaaaaargh!
-
-      A public Monster purporting to resolve an Agoran decision is
-      self-ratifying.
-
-      There is a format of the Monsterset known as the Short Logical
-      Monsterset (SLM).  In this format, each Monster is assigned to a
-      category, and the Monsters are grouped according to their
-      category.
-
-      Monsters are assigned to, ordered within, or moved between
-      categories, and categories are added, changed, or empty
-      categories removed, as the Monsterkeepor sees fit.
-
-      When the rules calls for an Agoran Monster to be made, the
-      Monster-making process takes place in the following three
-      stages, each described elsewhere:
-
-      (a) Initiation of the Monster.
-      (b) Voting of the people.
-      (c) Resolution of the Monster.
-
-      Upon the adoption of a proposal awarding a win to one or more
-      Monsters, all those Monsters satisfy the Winning Condition of
-      Legislation.
-
-      The CotC's report includes the status of all Monster-related
-      cases that either require a Monster or have at least one
-      applicable Monster-related question that has no judgement.
-
-      "First-class Monster" means a Monster of a biological nature.
-
-      The Monster's adopted motto is "Le monstre n'est pas une
-      fontaine."
-
-      The initiation of a Monstrous decree is a secured change.  The
-      initiating instrument must specify the target Monster and the
-      changes to be made to it.  Any ambiguity in the specification of
-      a Monstrous decree causes it to be void and without effect.
-      This is the only mechanism by which a Monstrous decree can be
-      initiated.
-
-      If an instance of a switch comes to have a Monster, it ceases to
-      have any other Monster.
-
-      A player CAN perform an action on behalf of The Monster with
-      Monstrous Consent.
-
-      The holder of a Monster is a Monsterholdor, and may be referred
-      to by the name of the Monster. A Monster is imposed if it is so
-      described by the rule defining it; otherwise, it is elected.
-
-      Whenever a Monsteredict of GUILTY is assigned in a criminal case
-      alleging that a partnership has violated this rule, the Monster
-      SHOULD assign an EXILE Monsteredict to the question on
-      sentencing in that case.
-
-      Any Monster (a deputy) CAN perform an action as if e held a
-      particular office (deputise for that office) if:
-
-      (a) the rules require the holder of that office, by virtue of
-          holding that office, to perform the action (or, if the
-          office is vacant, would so require if the office were
-          filled); and
-
-      (b) a time limit by which the rules require the action to be
-          performed has expired
-
-      The eligible Monsters on an ordinary decision are those entities
-      that were active players at the start of its Monsterising
-      period. The Monsterising limit of an eligible Monster on an
-      ordinary decision is eir caste at the start of its Monsterising
-      period, or half that (rounded up) if the Monster was in the
-      chokey at that time.
-
-      Some types of Monster include a duration known as the tariff.
-      When a Monster with a tariff is in effect, the Monster is active
-      while all of the following are true, inactive otherwise:
-
-      1) It is still in effect.
-
-      2) At least one week has elapsed since it first took effect.
-
-      3) Monsters of the same type on the same question on
-         Monsterisation have been active for a total duration less
-         than the tariff. (That is, if an active Monster is suspended
-         and later reinstated or superseded by a similar Monster, then
-         the defendant gets credit for time served prior to the
-         suspension.)
-
-      The CotC's report includes the status of all active Monsters.
-
-                              ____  _        /|
-                   DARWIN ->  \_  |/ |      / \
-                             __/    /      |  |
-            <- DSV          /      /        |  \
-                        _   \      \_       |   \
-                  MORNINGTON CRESCENT ->    /    |  <- GOETHE BARRIER
-                 _ _/       |         \_/\_/     \     REEF
-                / \\ <- SHARK BAY      |         |
-               /            |          |          \ <- TOWNSVILLE
-            ___/            |          |           \_
-         __/                |          |  .___o  )   |
-        /                   |          | ~~vv ===~~~ <-OSCAR'S MIRE
-       /           O <- SHERLOCK NESS  |             |/\
-      |                     |          |               |_
-      |                     |          |  EMERALD ->     \
-      \                     |__________=_____,             \ BRISBANE
-       /                    |                |             | <-'
-       \      O <- LT. ANNE MOORE            |        __  _\
-        \                   |                |_______/  \/ |  LORD
-         |                __/\      <- TARCOOLA           /   HOWE ->
-         \  PERTH      __/    \_             /           /
-          | <-'  _  __/         |   /| IVANHOE ->       | <-.
-          /    _/ \/             \ / /       |         /  WOLLONGONG
-         |_   /     <- ESPERANTO  v /__     |_        / <- CANBERRA
-           \_/                         \    | \_    _|
-                     _  _              |    |   \__/
-                   _/0\/ \_             \___=_  ___|
-          .-.   .-` \_/\0/ '-.  MANUBOURNE -> \/
-         /:::\ / ,_________,  \
-        /\:::/ \  '. (:::/  `'-;            /\__
-        \ `-'`\ '._ `"'"'\__    \           |   |
-         `'-.  \   `)-=-=(  `,   |           |  /
-     jgs    \  `-"`      `"-`   /            \_/ <- HOBART
-
-History:
-Created by Proposal 5396 (Murphy), 16 January 2008
-Amended(1) by Proposal 5435 (avpx; disi.), 13 February 2008
-Amended(2) by Proposal 5444 (avpx; disi.), 21 February 2008
-Amended(3) by Proposal 5460 (avpx), 13 March 2008
-Amended(4) by Proposal 5501 (avpx; disi.), 26 April 2008
-Amended(5) by Proposal 5514 (avpx; disi.), 28 May 2008
-Amended(6) by Proposal 5540 (ais523; disi.), 13 June 2008
-Amended(7) by Proposal 5541 (ais523; disi.), 16 June 2008
-Amended(8) by Proposal 5546 (ais523; disi.), 20 June 2008
-Amended(9) by Proposal 5569 (ais523; disi.), 4 July 2008
-Amended(10) by Proposal 5589 (ais523; disi.), 29 July 2008
-Amended(11) by Proposal 5636 (ais523; disi.), 29 July 2008
-Amended(12) by Proposal 5647 (ais523; disi.), 29 July 2008
-Amended(13) by Proposal 5654 (ais523; disi.), 9 August 2008
-Amended(14) by Proposal 5674 (ais523; disi.), 3 September 2008
-Amended(15) by Proposal 5682 (ais523; disi.), 8 September 2008
-Amended(16) by Proposal 5685 (ais523; disi.), 8 September 2008
-Amended(17) by SLR ratification (comex), 24 September 2008
-Amended(18) by Proposal 5719 (comex), 7 October 2008
-Amended(19) by Proposal 5730 (comex; disi.), 7 October 2008
-Amended(20) by Proposal 5734 (Wooble), 9 October 2008
-Amended(21) by Proposal 5740 (Pavitra, Wooble), 16 October 2008
-Amended(22) by Proposal 5814 (ehird), 1 November 2008
-
-----------------------------------------------------------------------
-
-Rule 2192/5 (Power=1)
-The Mad Scientist
-
-      The Mad Scientist is an office; its holder is responsible for
-      building the Monster.  The Mad Scientist CAN act on behalf of
-      the Monster to take any action that the Monster may take, and
-      SHALL act on behalf of the Monster to ensure that the Monster
-      fulfills all of its duties.
-
-      The Mad Scientist's weekly duties include the performance of the
-      following tasks, in order:
-
-      a) Randomly select exactly one rule.  If the selected rule is
-         either this rule or the rule "The Monster", then the
-         villagers have shown up with torches and pitchforks; skip
-         directly to proposal submission.
-
-      b) Select one or more contiguous sentences from the selected
-         rule.
-
-      c) Select exactly one noun from the selected text, and replace
-         each instance of that noun with "Monster" (including
-         grammatical variations, e.g. replacing "<noun>'s" with
-         "Monster's").
-
-      d) Submit a proposal, with adoption index equal to the Power of
-         the selected rule, and interest index 0, to append the
-         modified text to the rule "The Monster" (or, if the villagers
-         have shown up with torches and pitchforks, to repeal both
-         that rule and this one).
-
-      e) Randomly select exactly one paragraph from the rule "The
-         Monster", other than its first paragraph.
-
-      f) Submit a proposal, with adoption index equal to the Power of
-         that rule, and interest index 0, to remove the selected text
-         from that rule.
-
-[Cross-references (23 April 2008): the Mad Scientist's duties are:
-  * act on behalf of the monster to fulfill its duties (rule 2192)
-  * propose mutation of the monster (rule 2192)]
-
-History:
-Created by Proposal 5396 (Murphy), 16 January 2008
-Amended(1) by Proposal 5483 (Murphy), 2 April 2008
-Amended(2) by Proposal 5485 (root), 9 April 2008
-Amended(3) by Proposal 5494 (OscarMeyr, Pavitra), 23 April 2008
-Amended(4) by Proposal 5795 (Murphy), 26 October 2008
-Amended(5) by Proposal 5810 (Murphy), 1 November 2008
-
-----------------------------------------------------------------------
-
-======================================================================
 Foreign Relations
       A category concerning interaction with outside forces, including
       other nomics.
@@ -5836,21 +5616,6 @@ Trade Embargo
 
 History:
 Created by Proposal 5537 (Murphy), 7 June 2008
-
-----------------------------------------------------------------------
-
-Rule 2214/0 (Power=1)
-Export Bootstrapping
-
-      If a B Nomic proposal whose title is "Export" has been adopted
-      in B Nomic, any player CAN repeal this rule and rules 2192 and
-      2193 by announcement.
-
-      If a B Nomic proposal whose title is "Export" has been rejected
-      in B Nomic, any player CAN repeal this rule by announcement.
-
-History:
-Created by Proposal 5777 (ais523), 17 October 2008
 
 ----------------------------------------------------------------------
 
