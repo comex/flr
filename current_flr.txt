@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5942
-Last change to this ruleset: by proposal 5942
+Last proposal with recorded effect on this ruleset: 5943
+Last change to this ruleset: by proposal 5943
 
 Rule ID numbers:
       highest orderly: 2217
@@ -5158,7 +5158,7 @@ Created by Proposal 5274 (Murphy), 7 November 2007
 
 ----------------------------------------------------------------------
 
-Rule 2136/21 (Power=2)
+Rule 2136/22 (Power=2)
 Contests
 
       Contestmaster is a public contract switch, tracked by the
@@ -5217,6 +5217,8 @@ Contests
       performed Contest-related duties in a timely manner during that
       time.
 
+      Changes to contestmaster are secured.
+
 History:
 Created by Proposal 4935 (Murphy), 29 April 2007
 Amended(1) by Proposal 4960 (OscarMeyr), 3 June 2007
@@ -5241,6 +5243,7 @@ Amended(19) by Proposal 5511 (Goethe), 28 May 2008
 Amended(20) by Proposal 5566 (ais523, root), 29 June 2008
 Amended(21) by Proposal 5784 (Pavitra, Murphy, comex), 22 October 2008
 Power changed from 1 to 2 by Proposal 5793 (root), 22 October 2008
+Amended(22) by Proposal 5943 (woggle), 15 November 2008
 
 ----------------------------------------------------------------------
 
