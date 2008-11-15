@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5943
-Last change to this ruleset: by proposal 5943
+Last proposal with recorded effect on this ruleset: 5944
+Last change to this ruleset: by proposal 5944
 
 Rule ID numbers:
       highest orderly: 2217
@@ -608,13 +608,13 @@ Amended(2) by Proposal 5791 (Murphy), 22 October 2008
 
 ----------------------------------------------------------------------
 
-Rule 2177/5 (Power=2)
+Rule 2177/6 (Power=2)
 The Senate
 
-      A Senator is any Player who has been registered continuously for
-      the immediately preceding sixty days.  The collection of
-      Senators is the Senate.  The Registrar's report includes a list
-      of all Senators.
+      A Senator is any first-class player who has been registered
+      continuously for the immediately preceding sixty days.  The
+      collection of Senators is the Senate.  The Registrar's report
+      includes a list of all Senators.
 
       A Senator CAN call an Emergency Session with 2 Senate
       supporters, provided no other emergency session existed at any
@@ -625,9 +625,9 @@ The Senate
       The roll call of an emergency session is the set of senators at
       the time the emergency session was called.  During emergency
       session, the previous definition of senator does not apply;
-      instead, any player who is a member of the roll call is a
-      senator.  The Assessor's report includes the roll call of the
-      most recent emergency session.
+      instead, any first-class player who is a member of the roll call
+      is a senator.  The Assessor's report includes the roll call of
+      the most recent emergency session.
 
       During emergency session, any Senator CAN declare a filibuster
       on a proposal in its voting period, with 2 supporting Senators,
@@ -650,6 +650,7 @@ Amended(2) by Proposal 5332 (root), 5 December 2007
 Amended(3) by Proposal 5333 (root), 5 December 2007
 Amended(4) by Proposal 5333 (root), 5 December 2007
 Amended(5) by Proposal 5357 (root; disi.), 16 December 2007
+Amended(6) by Proposal 5944 (Taral, ais523), 15 November 2008
 
 ----------------------------------------------------------------------
 
