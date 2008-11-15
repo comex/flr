@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5947
-Last change to this ruleset: by proposal 5947
+Last proposal with recorded effect on this ruleset: 5948
+Last change to this ruleset: by proposal 5948
 
 Rule ID numbers:
       highest orderly: 2217
@@ -2530,7 +2530,7 @@ Amended(9) by Proposal 4887 (Murphy), 22 January 2007
 
 ----------------------------------------------------------------------
 
-Rule 107/9 (Power=3)
+Rule 107/10 (Power=3)
 Initiating Agoran Decisions
 
       An Agoran decision is initiated when a person authorized to
@@ -2557,7 +2557,10 @@ Initiating Agoran Decisions
       The publication of such a valid notice initiates the voting
       period for the decision.  By default, the voting period lasts
       for seven days.  Rules to the contrary notwithstanding, the
-      voting period for a decision cannot be shorter than seven days.
+      voting period for a decision with at least two options cannot be
+      shorter than seven days.  The vote collector for a decision with
+      less than two options CAN end the voting period by announcement,
+      provided that e resolves the decision in the same message.
 
 [CFJ 1650 (called 6 May 2007): The intent to initiate the decision and
 the information required in the notice need not be explicit.]
@@ -2595,6 +2598,7 @@ Amended(6) by Proposal 5229 (root), 27 September 2007
 Amended(7) by Proposal 5413 (root), 26 January 2008
 Amended(8) by Proposal 5445 (Goethe, Murphy), 21 February 2008
 Amended(9) by Proposal 5455 (Murphy), 1 March 2008
+Amended(10) by Proposal 5948 (Murphy; disi.), 15 November 2008
 
 ----------------------------------------------------------------------
 
@@ -2807,7 +2811,7 @@ Amended(1) by Proposal 5455 (Murphy), 1 March 2008
 
 ----------------------------------------------------------------------
 
-Rule 955/14 (Power=3)
+Rule 955/15 (Power=3)
 Determining the Will of Agora
 
       The outcome of an Agoran decision is determined as follows.
@@ -2823,6 +2827,11 @@ Determining the Will of Agora
           AGAINST.  If the voting index is greater than 1, and greater
           than or equal to the decision's adoption index, then the
           outcome is ADOPTED; otherwise, the outcome is REJECTED.
+
+      (c) If the decision is for an election, then the outcome is the
+          candidate with the most votes.  In case of a tie, the vote
+          collector SHALL select one of the leaders as the outcome.
+          If there are no candidates, then the outcome is null.
 
 [CFJs 1673-1675 (called 20 May 2007): Quorum for an Agoran decision is
 determined at the time the vote collector makes the calculations
@@ -2851,6 +2860,7 @@ Amended(11) by Proposal 5113 (Murphy, Maud), 2 August 2007
 Amended(12) by Proposal 5418 (root), 2 February 2008
 Amended(13) by Proposal 5445 (Goethe, Murphy), 21 February 2008
 Amended(14) by Proposal 5783 (Murphy), 22 October 2008
+Amended(15) by Proposal 5948 (Murphy; disi.), 15 November 2008
 
 ----------------------------------------------------------------------
 
