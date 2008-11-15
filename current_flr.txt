@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5944
-Last change to this ruleset: by proposal 5944
+Last proposal with recorded effect on this ruleset: 5945
+Last change to this ruleset: by proposal 5945
 
 Rule ID numbers:
       highest orderly: 2217
@@ -608,7 +608,7 @@ Amended(2) by Proposal 5791 (Murphy), 22 October 2008
 
 ----------------------------------------------------------------------
 
-Rule 2177/6 (Power=2)
+Rule 2177/7 (Power=2)
 The Senate
 
       A Senator is any first-class player who has been registered
@@ -618,9 +618,13 @@ The Senate
 
       A Senator CAN call an Emergency Session with 2 Senate
       supporters, provided no other emergency session existed at any
-      time in the preceding 48 hours.  An emergency session lasts for
-      21 days after being called.  The Assessor's report includes the
-      most recent date on which an emergency session was called.
+      time in the preceding 48 hours.  An emergency session lasts
+      until it is terminated.  An unterminated emergency session
+      terminates 21 days after it was called.  A Senator CAN terminate
+      an emergency session without 3 Senate objections.  Terminating
+      an emergency session is a secured change.  The Assessor's report
+      includes the dates when the most recent emergency session was
+      called and terminated.
 
       The roll call of an emergency session is the set of senators at
       the time the emergency session was called.  During emergency
@@ -651,6 +655,7 @@ Amended(3) by Proposal 5333 (root), 5 December 2007
 Amended(4) by Proposal 5333 (root), 5 December 2007
 Amended(5) by Proposal 5357 (root; disi.), 16 December 2007
 Amended(6) by Proposal 5944 (Taral, ais523), 15 November 2008
+Amended(7) by Proposal 5945 (root), 15 November 2008
 
 ----------------------------------------------------------------------
 
