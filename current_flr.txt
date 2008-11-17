@@ -1,17 +1,17 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5948
-Last change to this ruleset: by proposal 5948
+Last proposal with recorded effect on this ruleset: 5958
+Last change to this ruleset: by proposal 5958
 
 Rule ID numbers:
-      highest orderly: 2217
+      highest orderly: 2220
       disorderly: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 118
+Current total number of rules: 119
 
 Power distribution:
        1 with Power=4
@@ -19,7 +19,7 @@ Power distribution:
       42 with Power=2
        5 with Power=1.7
        4 with Power=1.5
-      35 with Power=1
+      36 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -87,6 +87,7 @@ Index of Rules
       Rule 1769: Holidays
       Rule 2216: The Repeal-o-Matic
       Rule 1750: Read the Ruleset Week
+      Rule 2220: Agoran History
 
       * Offices
       Rule 1006: Offices
@@ -2143,6 +2144,22 @@ Read the Ruleset Week
 History:
 Created by Proposal 3601 (Chuck), Dec. 9 1997
 Amended(1) by Proposal 4398 (harvel), 23 October 2002
+
+----------------------------------------------------------------------
+
+Rule 2220/0 (Power=1)
+Agoran History
+
+      The Book of History is a document which can be amended without 3
+      objections. It should contain accurate information about Agora's
+      history.
+
+      The Historian is a low-priority office whose report includes the
+      current text of the Book of History. The Historian SHOULD
+      propose amendments to the Book of History on a regular basis.
+
+History:
+Created by Proposal 5658 (Warrigal), 17 November 2008
 
 ----------------------------------------------------------------------
 
