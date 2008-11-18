@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5955
-Last change to this ruleset: by proposal 5955
+Last proposal with recorded effect on this ruleset: 5964
+Last change to this ruleset: by proposal 5964
 
 Rule ID numbers:
       highest orderly: 2220
@@ -4021,7 +4021,7 @@ Amended(2) by Proposal 5465 (Murphy), 13 March 2008
 
 ----------------------------------------------------------------------
 
-Rule 591/26 (Power=1.7)
+Rule 591/27 (Power=1.7)
 Inquiry Cases
 
       There is a subclass of judicial case known as an inquiry case.
@@ -4061,6 +4061,11 @@ Inquiry Cases
         UNDECIDABLE judgements is appropriate; however, uncertainty as
         to how to interpret or apply the rules cannot constitute
         insufficiency of information for this purpose
+
+      * MALFORMED, appropriate if the text identified by the initiator
+        as the statement cannot be parsed as a single statement in the
+        ordinary-language sense; however, a compound statement (e.g.
+        "X and Y", "X or Y") counts as a single statement
 
       The judgement of the question in an inquiry case, and the
       reasoning by which it was reached, SHOULD guide future play
@@ -4136,6 +4141,7 @@ Amended(23) by Proposal 5371 (Zefram), 20 December 2007
 Amended(24) by Proposal 5425 (Murphy), 6 February 2008
 Amended(25) by Proposal 5470 (Murphy), 24 March 2008
 Amended(26) by Proposal 5476 (Murphy; disi.), 27 March 2008
+Amended(27) by Proposal 5964 (Murphy), 18 November 2008
 
 ----------------------------------------------------------------------
 
