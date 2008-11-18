@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5958
-Last change to this ruleset: by proposal 5958
+Last proposal with recorded effect on this ruleset: 5955
+Last change to this ruleset: by proposal 5955
 
 Rule ID numbers:
       highest orderly: 2220
@@ -15,8 +15,8 @@ Current total number of rules: 119
 
 Power distribution:
        1 with Power=4
-      31 with Power=3
-      42 with Power=2
+      30 with Power=3
+      43 with Power=2
        5 with Power=1.7
        4 with Power=1.5
       36 with Power=1
@@ -495,7 +495,7 @@ Amended(2) by Proposal 5792 (Murphy), 22 October 2008
 
 ----------------------------------------------------------------------
 
-Rule 2110/5 (Power=3)
+Rule 2110/5 (Power=2)
 Win by Paradox
 
       A tortoise is an inquiry case on the possibility or legality of
@@ -521,6 +521,8 @@ Amended(3) by Proposal 5297 (Murphy), 22 November 2007
 Amended(4) by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
   16 January 2008
 Amended(5) by Proposal 5451 (root, Murphy, Zefram), 1 March 2008
+Power changed from 3 to 2 by Proposal 5955 (ais523, Elysion, Murphy;
+  disi.), 18 November 2008
 
 ----------------------------------------------------------------------
 
@@ -2159,7 +2161,7 @@ Agoran History
       propose amendments to the Book of History on a regular basis.
 
 History:
-Created by Proposal 5658 (Warrigal), 17 November 2008
+Created by Proposal 5958 (Warrigal), 17 November 2008
 
 ----------------------------------------------------------------------
 
@@ -4803,7 +4805,7 @@ Amended(27) by Proposal 5815 (Pavitra, Murphy), 1 November 2008
 
 ----------------------------------------------------------------------
 
-Rule 1367/11 (Power=1)
+Rule 1367/12 (Power=1)
 Degrees
 
       Certain patent titles are known as degrees.  The degrees are
@@ -4829,6 +4831,9 @@ Degrees
       originality and quality, with regard to the rank of the degree
       to be awarded.
 
+      Degrees are generally awarded by proposals with adoption indices
+      sufficiently high to award patent titles.
+
 History:
 Created by Proposal 1367, Jan. 5 1995
 Infected and Amended(1) by Rule 1454, Feb. 12 1996
@@ -4846,6 +4851,8 @@ Amended(10) by Proposal 5276 (Murphy, Pavitra, Zefram), 7 November
 Amended(11) by Proposal 5437 (Goethe), 13 February 2008
 Power changed from 1.5 to 1 by Proposal 5947 (ais523), 15 November
   2008
+Amended(12) by Proposal 5955 (ais523, Elysion, Murphy; disi.), 18
+  November 2008
 
 ----------------------------------------------------------------------
 
