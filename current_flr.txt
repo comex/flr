@@ -1,22 +1,22 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5975
-Last change to this ruleset: by proposal 5975
+Last proposal with recorded effect on this ruleset: 5978
+Last change to this ruleset: by proposal 5978
 
 Rule ID numbers:
-      highest orderly: 2221
+      highest orderly: 2222
       disorderly: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 119
+Current total number of rules: 120
 
 Power distribution:
        1 with Power=4
       31 with Power=3
-      43 with Power=2
+      44 with Power=2
        5 with Power=1.7
        4 with Power=1.5
       35 with Power=1
@@ -107,6 +107,7 @@ Index of Rules
       Rule 2137: The Assessor
       Rule  683: Voting on Agoran Decisions
       Rule 2127: Conditional Votes
+      Rule 2222: Maximum Voting Limits
       Rule 2168: Extending the voting period
       Rule  208: Resolving Agoran decisions
       Rule 2196: Standard Classes of Agoran Decisions
@@ -2749,6 +2750,21 @@ Created by Proposal 4875 (Goethe), 1 December 2006
 Amended(1) by Proposal 5427 (Murphy), 9 February 2008
 Amended(2) by Proposal 5506 (Murphy; disi.), 10 May 2008
 Amended(3) by Proposal 5746 (Murphy), 16 October 2008
+
+----------------------------------------------------------------------
+
+Rule 2222/0 (Power=2)
+Maximum Voting Limits
+
+      Other rules to the contrary notwithstanding, no entity may have
+      greater a voting limit than as allowed by this rule.
+
+      The maximum voting limit for any entity on an ordinary decision
+      is 8. The maximum voting limit for any entity on any other
+      decision is 1.
+
+History:
+Created by Proposal 5978 (Elysion), 25 November 2008
 
 ----------------------------------------------------------------------
 
