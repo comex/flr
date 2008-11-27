@@ -1,21 +1,21 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5974
-Last change to this ruleset: by proposal 5974
+Last proposal with recorded effect on this ruleset: 5975
+Last change to this ruleset: by proposal 5975
 
 Rule ID numbers:
-      highest orderly: 2220
+      highest orderly: 2221
       disorderly: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 118
+Current total number of rules: 119
 
 Power distribution:
        1 with Power=4
-      30 with Power=3
+      31 with Power=3
       43 with Power=2
        5 with Power=1.7
        4 with Power=1.5
@@ -62,6 +62,7 @@ Index of Rules
       Rule  105: Rule Changes
       Rule 1681: The Logical Rulesets
       Rule 1051: The Rulekeepor
+      Rule 2221: Cleanliness
 
       * Players
       Rule  869: How to Join and Leave Agora
@@ -1003,6 +1004,18 @@ Amended(15) by Proposal 3902 (Murphy), Sep. 6 1999
 Amended(16) by Proposal 4002 (harvel), May 8 2000
 Amended(17) by Proposal 4250 (harvel), 19 February 2002
 Amended(18) by Proposal 5237 (AFO; disi.), 3 October 2007
+
+----------------------------------------------------------------------
+
+Rule 2221/0 (Power=3)
+Cleanliness
+
+      The Rulekeepor CAN clean a rule without objection by specifying
+      one or more spelling and/or grammar corrections; the rule is
+      amended as specified.
+
+History:
+Created by Proposal 5975 (Murphy), 25 November 2008
 
 ----------------------------------------------------------------------
 
