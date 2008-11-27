@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5978
-Last change to this ruleset: by proposal 5978
+Last proposal with recorded effect on this ruleset: 5979
+Last change to this ruleset: by proposal 5979
 
 Rule ID numbers:
       highest orderly: 2222
@@ -613,7 +613,7 @@ Amended(2) by Proposal 5791 (Murphy), 22 October 2008
 
 ----------------------------------------------------------------------
 
-Rule 2177/7 (Power=2)
+Rule 2177/8 (Power=2)
 The Senate
 
       A Senator is any first-class player who has been registered
@@ -644,9 +644,8 @@ The Senate
       past.  Any Senator CAN end a filibuster on a proposal with 4
       supporting Senators.
 
-      A proposal that ends its voting period in filibuster has a
-      quorum of the number of eligible voters plus 1, rules to the
-      contrary notwithstanding.
+      While a proposal is in filibuster, its quorum is the number of
+      eligible voters plus one, rules to the contrary notwithstanding.
 
       When an emergency session begins, all non-Senators' postures
       become supine, and non-Senators CANNOT flip their posture while
@@ -661,6 +660,7 @@ Amended(4) by Proposal 5333 (root), 5 December 2007
 Amended(5) by Proposal 5357 (root; disi.), 16 December 2007
 Amended(6) by Proposal 5944 (Taral, ais523), 15 November 2008
 Amended(7) by Proposal 5945 (root), 15 November 2008
+Amended(8) by Proposal 5979 (Murphy), 25 November 2008
 
 ----------------------------------------------------------------------
 
@@ -2768,13 +2768,13 @@ Created by Proposal 5978 (Elysion), 25 November 2008
 
 ----------------------------------------------------------------------
 
-Rule 2168/0 (Power=1)
+Rule 2168/1 (Power=1)
 Extending the voting period
 
       Whenever the voting period of an Agoran decision would end, and
       the result would be FAILED QUORUM, the length of the voting
-      period for that decision will immediately be doubled, provided
-      this has not already happened for the decision in question.
+      period for that decision is instead doubled, provided this has
+      not already happened for the decision in question.
 
       Upon such an occurrence, the vote collector for the decision
       SHOULD issue a humiliating public reminder to the slackers who
@@ -2782,6 +2782,7 @@ Extending the voting period
 
 History:
 Created by Proposal 5191 (root), 6 September 2007
+Amended(1) by Proposal 5979 (Murphy), 25 November 2008
 
 ----------------------------------------------------------------------
 
