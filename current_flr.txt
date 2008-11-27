@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5972
-Last change to this ruleset: by proposal 5972
+Last proposal with recorded effect on this ruleset: 5973
+Last change to this ruleset: by proposal 5973
 
 Rule ID numbers:
       highest orderly: 2220
@@ -1013,7 +1013,7 @@ Players
       players.
 ----------------------------------------------------------------------
 
-Rule 869/26 (Power=2)
+Rule 869/27 (Power=2)
 How to Join and Leave Agora
 
       Citizenship is an entity switch with values Unregistered
@@ -1029,9 +1029,11 @@ How to Join and Leave Agora
       is used without an explicit direct object, the action is
       implicitly reflexive.
 
-      A person CAN register by announcing that e registers, wishes to
-      register, requests registration, or requests permission to
-      register.
+      A first-class person CAN register by announcing that e
+      registers, wishes to register, requests registration, or
+      requests permission to register.
+
+      A second-class person CAN register with Agoran Consent.
 
       A player CAN deregister by announcement.  E CANNOT register
       within thirty days after doing so.
@@ -1078,6 +1080,7 @@ Amended(24) by Proposal 5156 (Zefram), 29 August 2007
 Amended(25) by Proposal 5271 (Murphy), 7 November 2007
 Power changed from 1 to 2 by Proposal 5728 (ihope), 7 October 2008
 Amended(26) by Proposal 5728 (ihope), 7 October 2008
+Amended(27) by Proposal 5973 (woggle), 25 November 2008
 
 ----------------------------------------------------------------------
 
