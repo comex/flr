@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5964
-Last change to this ruleset: by proposal 5964
+Last proposal with recorded effect on this ruleset: 5972
+Last change to this ruleset: by proposal 5972
 
 Rule ID numbers:
       highest orderly: 2220
@@ -5033,23 +5033,23 @@ Amended(3) by Proposal 5686 (Goethe; disi.), 13 September 2008
 
 ----------------------------------------------------------------------
 
-Rule 2178/3 (Power=2)
+Rule 2178/4 (Power=2)
 Public Contracts
 
       A public contract is a contract that has been identified as
       such, as specified by this rule.  Any other contract is private.
 
-      A member of a contract CAN identify it as a public contract by
-      publishing its text and membership, provided that at least one
-      of the following is true:
+      A party of a contract CAN identify it as a public contract by
+      publishing its text and list of parties, provided that at least
+      one of the following is true:
 
         (a) The contract contains a clause identifying it as public.
 
         (b) The publication is accompanied by a notice, indicating
-            unanimous consent of members, that the contract be public.
+            unanimous consent of parties, that the contract be public.
 
         (c) The publication is accompanied by a notice, published
-            without objection of its members, that the contract be
+            without objection of its parties, that the contract be
             public.
 
         (d) the contract, or a notice accompanying its publication,
@@ -5057,15 +5057,15 @@ Public Contracts
             pledge.
 
       A partnership CAN identify its contract as a public contract by
-      publishing its text and membership.
+      publishing its text and list of parties.
 
       If the text of a potential contract is published with a clear
       indication that the contract will be public when it forms, then
       it is identified as a public contract when it becomes a
       contract.
 
-      Changes in the text or membership of a public contract do not
-      become effective until they are published.
+      Changes in the text or list of parties of a public contract do
+      not become effective until they are published.
 
 History:
 Created by Proposal 5328 (Goethe), 5 December 2007
@@ -5076,6 +5076,7 @@ Amended(2) by Proposal 5403 (Murphy, Goethe), 16 January 2008
 Power changed from 1.5 to 2 by Proposal 5804 (woggle; disi.),
   29 October 2008
 Amended(3) by Proposal 5835 (Goethe), 12 November 2008
+Amended(4) by Proposal 5972 (root), 25 November 2008
 
 ----------------------------------------------------------------------
 
@@ -5210,7 +5211,7 @@ Created by Proposal 5274 (Murphy), 7 November 2007
 
 ----------------------------------------------------------------------
 
-Rule 2136/22 (Power=2)
+Rule 2136/23 (Power=2)
 Contests
 
       Contestmaster is a public contract switch, tracked by the
@@ -5249,15 +5250,15 @@ Contests
       to 'none'.
 
       The total number of points a Contest MAY award in a given week
-      is equal to 5 times the number of its members that are first-
+      is equal to 5 times the number of its parties that are first-
       class players.  Points up to this total CAN be awarded by the
-      contestmaster to other members by public announcement, and MUST
+      contestmaster to other parties by public announcement, and MUST
       be awarded as explicitly described in the contract.
 
       The total number of points a Contest MAY revoke in a given week
-      is equal to 2 times the number of its members that are first-
+      is equal to 2 times the number of its parties that are first-
       class players.  Points up to this total CAN be revoked by the
-      contestmaster from other members by public announcement, and
+      contestmaster from other parties by public announcement, and
       MUST be revoked as explicitly described in the contract.
 
       For each contest, ASAP after the beginning of each month, the
@@ -5296,6 +5297,7 @@ Amended(20) by Proposal 5566 (ais523, root), 29 June 2008
 Amended(21) by Proposal 5784 (Pavitra, Murphy, comex), 22 October 2008
 Power changed from 1 to 2 by Proposal 5793 (root), 22 October 2008
 Amended(22) by Proposal 5943 (woggle), 15 November 2008
+Amended(23) by Proposal 5972 (root), 25 November 2008
 
 ----------------------------------------------------------------------
 
