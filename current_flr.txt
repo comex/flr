@@ -43,16 +43,18 @@ Index of Categories
 Index of Rules
 
       * The Game of Agora
+      Rule 2105: The Map of Agora
       Rule  101: The Rights of Agorans
       Rule 2125: Regulation Regulations
       Rule 1586: Definition and Continuity of Entities
       Rule 1688: Power
       Rule 2140: Power Controls Mutability
-      Rule 2215: Truthfulness
       Rule 2186: Victory
       Rule 2110: Win by Paradox
       Rule 2199: Ribbons
-      Rule 2177: The Senate
+      Rule 2019: Prerogatives
+      Rule 2220: Agoran History
+      Rule  104: First Speaker
 
       * Rules
       Rule 2141: Role and Attributes of Rules
@@ -63,89 +65,91 @@ Index of Rules
       Rule 1681: The Logical Rulesets
       Rule 1051: The Rulekeepor
       Rule 2221: Cleanliness
+      Rule 2216: The Repeal-o-Matic
+      Rule 1750: Read the Ruleset Week
 
       * Players
       Rule  869: How to Join and Leave Agora
+      Rule 2174: Aliens
+      Rule 2170: Who Am I?
+      Rule 2150: Personhood
+      Rule 2145: Partnerships
       Rule 2144: Limited Partnerships
       Rule 2139: The Registrar
       Rule 1789: Cantus Cygneus
       Rule 2130: Activity
+      Rule 2177: The Senate
+      Rule 2215: Truthfulness
 
       * Definitions
-      Rule  478: Fora
-      Rule 2170: Who Am I?
       Rule  754: Definition Definitions
       Rule 2152: Mother, May I?
       Rule 1023: Common Definitions
+      Rule 1769: Holidays
       Rule 2161: ID Numbers
       Rule 2146: Indices
       Rule 2162: Switches
-      Rule 2150: Personhood
-      Rule 2166: Assets
-      Rule 2181: The Accountor
+      Rule  478: Fora
       Rule 1728: Dependent Actions
       Rule 2124: Agoran Satisfaction
-      Rule 1769: Holidays
-      Rule 2216: The Repeal-o-Matic
-      Rule 1750: Read the Ruleset Week
-      Rule 2220: Agoran History
+      Rule 2166: Assets
+      Rule 2181: The Accountor
 
       * Offices
       Rule 1006: Offices
+      Rule 2143: Official Reports and Duties
+      Rule 2160: Deputisation
       Rule 2154: Election Procedure
       Rule 2217: Periodic Elections
       Rule 2138: The International Associate Director of Personnel
-      Rule 2143: Official Reports and Duties
       Rule 1551: Ratification
       Rule 2202: Ratification Without Objection
       Rule 2201: Self-Ratification
-      Rule 2160: Deputisation
 
       * Agoran Decisions
       Rule  693: Agoran Decisions
       Rule  107: Initiating Agoran Decisions
-      Rule 2137: The Assessor
       Rule  683: Voting on Agoran Decisions
       Rule 2127: Conditional Votes
       Rule 2222: Maximum Voting Limits
       Rule 2168: Extending the voting period
       Rule  208: Resolving Agoran decisions
-      Rule 2196: Standard Classes of Agoran Decisions
       Rule  955: Determining the Will of Agora
       Rule  879: Quorum
       Rule 2034: Vote Protection and Cutoff for Challenges
+      Rule 2196: Standard Classes of Agoran Decisions
 
       * Proposals
       Rule  106: Adopting Proposals
       Rule 2153: Interest Index
       Rule 1607: The Promotor
-      Rule 1450: Separation of Powers
-      Rule 1698: Agora Is a Nomic
       Rule 1950: Voting on Democratic Decisions
       Rule 2156: Voting on Ordinary Decisions
-      Rule 2211: The Grand Poobah
-      Rule 2134: Win by Clout
-      Rule 2126: Notes
       Rule 2142: Support Democracy
-      Rule 2019: Prerogatives
+      Rule 2137: The Assessor
+      Rule 1450: Separation of Powers
+      Rule 1698: Agora Is a Nomic
+      Rule 2134: Win by Clout
+      Rule 2211: The Grand Poobah
+      Rule 2126: Notes
       Rule 2188: Win by Proposal
 
       * Adjudication
       Rule  991: Judicial Cases Generally
+      Rule 2158: Judicial Questions
+      Rule  591: Inquiry Cases
+      Rule 1504: Criminal Cases
+      Rule 2169: Equity Cases
+      Rule 2205: Judicial Arguments and Evidence
+      Rule 2157: Judicial Panels
+      Rule  911: Appeal Cases
       Rule 2175: Judicial Retraction and Excess
       Rule 1868: Judge Assignment Generally
       Rule 1871: The Standing Court
-      Rule 2204: Linked Assignments
       Rule 2203: Hawkishness
-      Rule 2157: Judicial Panels
-      Rule 2158: Judicial Questions
+      Rule 2204: Linked Assignments
       Rule 2164: Judicial Self-Recusal and Case Transfer
-      Rule  591: Inquiry Cases
-      Rule 1504: Criminal Cases
       Rule 2190: Crime Doesn't Pay
-      Rule 2169: Equity Cases
-      Rule  911: Appeal Cases
-      Rule 2205: Judicial Arguments and Evidence
       Rule 2212: Judicial Declarations
 
       * Patent Titles and Degrees
@@ -160,10 +164,8 @@ Index of Rules
       Rule 2178: Public Contracts
       Rule 2173: The Notary
       Rule 2191: Pledges
-      Rule 2145: Partnerships
-      Rule 2174: Aliens
-      Rule 2136: Contests
       Rule 2179: Points
+      Rule 2136: Contests
       Rule 2187: Win by High Score
 
       * Foreign Relations
@@ -171,18 +173,16 @@ Index of Rules
       Rule 2135: Advertising
       Rule  402: Identity of the Speaker
       Rule  103: Role of the Speaker
-      Rule 2184: Foreign communications
       Rule 2148: The Ambassador
       Rule 2185: Foreign Relations
+      Rule 2184: Foreign communications
       Rule 2147: Protectorates
       Rule 2159: Protective Decrees
       Rule 2206: Foreign Trade
       Rule 2207: Trade Embargo
 
       * Trophies
-      Rule 2105: The Map of Agora
       Rule 1727: Happy Birthday
-      Rule  104: First Speaker
       Rule 2151: Agoran Arms
       Rule 2029: Town Fountain
 
@@ -213,6 +213,54 @@ The Game of Agora
       A category concerning this nomic generally, constitutional
       matters, and relationships between the most fundamental nomic
       entities.
+----------------------------------------------------------------------
+
+Rule 2105/3 (Power=1)
+The Map of Agora
+
+                               ____  _        /|
+                    DARWIN ->  \_  |/ |      / \
+                              __/    /      |  |
+            <- DSV          /      /        |  \
+                        _   \      \_       |   \
+                  MORNINGTON CRESCENT ->    /    |  <- GOETHE BARRIER
+                 _ _/       |         \_/\_/     \     REEF
+                / \\ <- SHARK BAY      |         |
+               /            |          |          \ <- TOWNSVILLE
+            ___/            |          |           \_
+         __/                |          |  .___o  )   |
+        /                   |          | ~~vv ===~~~ <-OSCAR'S MIRE
+       /           O <- SHERLOCK NESS  |             |/\
+      |                     |          |               |_
+      |                     |          |  EMERALD ->     \
+      \                     |__________=_____,             \ BRISBANE
+       /                    |                |             | <-'
+       \      O <- LT. ANNE MOORE            |        __  _\
+        \                   |                |_______/  \/ |  LORD
+         |                __/\      <- TARCOOLA           /   HOWE ->
+         \  PERTH      __/    \_             /           /
+          | <-'  _  __/         |   /| IVANHOE ->       | <-.
+          /    _/ \/             \ / /       |         /  WOLLONGONG
+         |_   /     <- ESPERANTO  v /__     |_        / <- CANBERRA
+           \_/                         \    | \_    _|
+                  __   __              |    |   \__/
+                 __ \ / __              \___=_  ___|
+                /  \ | /  \     MANUBOURNE -> \/
+                    \|/
+               _,.---v---._                 /\__
+      /\__/\  /            \                |   |
+      \_  _/ /              \                |  /
+        \ \_|           @ __|                \_/ <- HOBART
+         \                \_
+          \     ,__/       /
+        ~~~`~~~~~~~~~~~~~~/~~~~
+
+History:
+Created by Proposal 4735 (Maud), 5 May 2005
+Amended(1) by Proposal 4807 (Sherlock), 15 June 2005
+Amended(2) by Proposal 4866 (Goethe), 27 August 2006
+Amended(3) by Proposal 4946 (Zefram), 3 May 2007
+
 ----------------------------------------------------------------------
 
 Rule 101/10 (Power=3)
@@ -432,34 +480,6 @@ Created by Proposal 4940 (Zefram), 29 April 2007
 
 ----------------------------------------------------------------------
 
-Rule 2215/0 (Power=1)
-Truthfulness
-
-      A person SHALL NOT make a public statement on a matter relevant
-      to the rules that is intended to mislead others as to its truth
-      (or, in the case of a public statement that one performs an
-      action, its effectiveness).
-
-      For the purpose of this rule:
-
-       a) Merely quoting a statement does not constitute making that
-          statement.
-
-       b) Any conditional clause or other qualifier attached to a
-          statement constitutes part of the statement; the nature of
-          the whole is what is significant.
-
-[CFJ 1739 (called 29 August 2007): A quotation can result in a
-violation of rule 2215 (then 2149), depending on the context of the
-rest of the message.]
-
-History:
-Created by Proposal 5789 (Murphy, Zefram, Michael, Goethe), 22 October
-  2008
-Power changed from 2 to 1 by Proposal 5947 (ais523), 15 November 2008
-
-----------------------------------------------------------------------
-
 Rule 2186/2 (Power=2)
 Victory
 
@@ -613,54 +633,106 @@ Amended(2) by Proposal 5791 (Murphy), 22 October 2008
 
 ----------------------------------------------------------------------
 
-Rule 2177/8 (Power=2)
-The Senate
+Rule 2019/20 (Power=2)
+Prerogatives
 
-      A Senator is any first-class player who has been registered
-      continuously for the immediately preceding sixty days.  The
-      collection of Senators is the Senate.  The Registrar's report
-      includes a list of all Senators.
+      In a timely fashion before the beginning of each month, the
+      Speaker SHALL assign each Player who bears the patent title
+      Minister Without Portfolio a different Prerogative for the
+      upcoming month by announcement.  If there are more members in
+      one set than the other, then e SHALL choose which members of the
+      larger set take part in the assignment.
 
-      A Senator CAN call an Emergency Session with 2 Senate
-      supporters, provided no other emergency session existed at any
-      time in the preceding 48 hours.  An emergency session lasts
-      until it is terminated.  An unterminated emergency session
-      terminates 21 days after it was called.  A Senator CAN terminate
-      an emergency session without 3 Senate objections.  Terminating
-      an emergency session is a secured change.  The Assessor's report
-      includes the dates when the most recent emergency session was
-      called and terminated.
+      The following Prerogatives are defined:
 
-      The roll call of an emergency session is the set of senators at
-      the time the emergency session was called.  During emergency
-      session, the previous definition of senator does not apply;
-      instead, any first-class player who is a member of the roll call
-      is a senator.  The Assessor's report includes the roll call of
-      the most recent emergency session.
+      a) Default Officeholder.  The Default Officeholder CAN become
+         holder of a vacant elected office by announcement, unless e
+         is prevented from holding that office on an ongoing basis.
 
-      During emergency session, any Senator CAN declare a filibuster
-      on a proposal in its voting period, with 2 supporting Senators,
-      provided no filibuster has been declared on that proposal in the
-      past.  Any Senator CAN end a filibuster on a proposal with 4
-      supporting Senators.
+      b) Justiciar.  Once within three days after an appeal case comes
+         to require a judge, the Justiciar CAN make that case either
+         hot or cold by announcement.  If the Justiciar has not done
+         so, then the Clerk of the Courts SHALL NOT assign a panel to
+         that case during this period, unless either no panels
+         eligible to be so assigned include the Justiciar, or all of
+         them do.  If the Justiciar has done so, then the Clerk of the
+         Courts SHALL assign a panel including (if the case is hot) or
+         excluding (if it is cold) the Justiciar, if possible.
 
-      While a proposal is in filibuster, its quorum is the number of
-      eligible voters plus one, rules to the contrary notwithstanding.
+      c) Wielder of Veto.  The Wielder of Veto CAN veto an ordinary
+         decision in its voting period by announcement; this increases
+         its Adoption Index by 1.
 
-      When an emergency session begins, all non-Senators' postures
-      become supine, and non-Senators CANNOT flip their posture while
-      the session lasts.
+      d) Wielder of Rubberstamp.  The Wielder of Rubberstamp CAN
+         rubberstamp an ordinary decision in its voting period by
+         announcement; this decreases its quorum to 3, rules to the
+         contrary notwithstanding.
+
+      e) Wielder of Extra Votes.  The Wielder of Extra Votes at the
+         start of an ordinary proposal's voting period has a voting
+         limit on that proposal of 1.4 times what it would be
+         otherwise (rounded to the nearest integer, breaking ties
+         toward odd integers), rules to the contrary notwithstanding.
+
+[CFJ 1870 (called 15 January 2008): A prerogative assigned for a
+particular month is lost at the end of that month.]
 
 History:
-Created by Proposal 5309 (Goethe), 24 November 2007
-Amended(1) by Proposal 5331 (root), 5 December 2007
-Amended(2) by Proposal 5332 (root), 5 December 2007
-Amended(3) by Proposal 5333 (root), 5 December 2007
-Amended(4) by Proposal 5333 (root), 5 December 2007
-Amended(5) by Proposal 5357 (root; disi.), 16 December 2007
-Amended(6) by Proposal 5944 (Taral, ais523), 15 November 2008
-Amended(7) by Proposal 5945 (root), 15 November 2008
-Amended(8) by Proposal 5979 (Murphy), 25 November 2008
+Created by Proposal 4276 (Steve), 28 March 2002
+Amended(1) by Proposal 4576 (root), 31 May 2004
+Amended(2) by Proposal 4717 (Murphy), 25 April 2005
+Amended(3) by Proposal 4811 (Maud, Goethe), 20 June 2005
+Amended(4) by Proposal 4836 (Goethe, Maud), 2 October 2005
+Amended(5) by Proposal 4840 (Goethe), 27 October 2005
+Amended(6) by Proposal 4885 (Murphy), 22 January 2007
+Amended(7) by Proposal 4887 (Murphy), 22 January 2007
+Amended(8) by Proposal 5049 (Zefram), 1 July 2007
+Retitled by Proposal 5049 (Zefram), 1 July 2007
+Amended(9) by Proposal 5138 (Zefram; disi.), 17 August 2007
+Retitled by Proposal 5138 (Zefram; disi.), 17 August 2007
+Retitled by Proposal 5257 (AFO), 27 October 2007
+Amended(10) by Proposal 5257 (AFO), 27 October 2007
+Amended(11) by Proposal 5407 (root), 22 January 2008
+Amended(12) by Proposal 5408 (root), 22 January 2008
+Amended(13) by Proposal 5418 (root), 2 February 2008
+Amended(14) by Proposal 5432 (Goethe), 9 February 2008
+Amended(15) by Proposal 5461 (Wooble), 13 March 2008
+Amended(16) by Proposal 5606 (Murphy), 29 July 2008
+Amended(17) by Proposal 5644 (Murphy), 29 July 2008
+Amended(18) by Proposal 5693 (Goethe), 20 September 2008
+Amended(19) by Proposal 5781 (Murphy), 22 October 2008
+Amended(20) by Proposal 5783 (Murphy), 22 October 2008
+
+----------------------------------------------------------------------
+
+Rule 2220/0 (Power=1)
+Agoran History
+
+      The Book of History is a document which can be amended without 3
+      objections. It should contain accurate information about Agora's
+      history.
+
+      The Historian is a low-priority office whose report includes the
+      current text of the Book of History. The Historian SHOULD
+      propose amendments to the Book of History on a regular basis.
+
+History:
+Created by Proposal 5958 (Warrigal), 17 November 2008
+
+----------------------------------------------------------------------
+
+Rule 104/0 (Power=3)
+First Speaker
+
+      The Speaker for the first game shall be Michael Norrish.
+
+[CFJ 1534 (called 8 March 2005): This does not mean that Michael
+Norrish necessarily fills the position of Speaker at the present
+time.]
+
+History:
+Initial Immutable Rule 104, Jun. 30 1993
+Mutated from MI=Unanimity to MI=3 by Proposal 1482, Mar. 15 1995
 
 ----------------------------------------------------------------------
 
@@ -1020,6 +1092,42 @@ Created by Proposal 5975 (Murphy), 25 November 2008
 
 ----------------------------------------------------------------------
 
+Rule 2216/0 (Power=1)
+The Repeal-o-Matic
+
+      The Anarchist is an office; its holder is responsible for
+      proposing the repeal of rules.
+
+      The Anarchist's weekly duties include the performance of the
+      following tasks, in order:
+
+        a) Randomly select exactly five distinct rules.
+
+        b) For one to three of these rules, submit a proposal, with
+           adoption index equal to the Power of the rule, and interest
+           index 0, to repeal the rule.
+
+[Cross-references (28 October 2008): the Anarchist's duties are:
+  * propose repeal of rules (rule 2216)]
+
+History:
+Created by Proposal 5794 (Murphy, Swann), 26 October 2008
+
+----------------------------------------------------------------------
+
+Rule 1750/1 (Power=1)
+Read the Ruleset Week
+
+      The first Agoran week each year which falls entirely in February
+      is Read the Ruleset Week.  Agorans are encouraged to read the
+      ruleset during Read the Ruleset Week.
+
+History:
+Created by Proposal 3601 (Chuck), Dec. 9 1997
+Amended(1) by Proposal 4398 (harvel), 23 October 2002
+
+----------------------------------------------------------------------
+
 ======================================================================
 Players
       A category concerning players, including the processes of
@@ -1095,6 +1203,155 @@ Amended(25) by Proposal 5271 (Murphy), 7 November 2007
 Power changed from 1 to 2 by Proposal 5728 (ihope), 7 October 2008
 Amended(26) by Proposal 5728 (ihope), 7 October 2008
 Amended(27) by Proposal 5973 (woggle), 25 November 2008
+
+----------------------------------------------------------------------
+
+Rule 2174/0 (Power=1)
+Aliens
+
+      An alien is a non-player who is a member of the basis of one or
+      more contracts (hereafter eir visas).  A resident alien is an
+      alien with one or more registered visas.
+
+History:
+Created by Proposal 5274 (Murphy), 7 November 2007
+
+----------------------------------------------------------------------
+
+Rule 2170/5 (Power=3)
+Who Am I?
+
+      Rules regarding persons pertain to those persons directly, not
+      to rule-defined avatars or other entities representing those
+      persons within Agora.
+
+      A person SHALL NOT make a public statement intended to mislead
+      others as to the identity of its publisher.
+
+      A player SHALL NOT select a confusing nickname, including but
+      not limited to a name that has generally been used to refer to
+      another entity within the past three months.
+
+      A public message's (possibly implicit) claim as to the identity
+      of its publisher is self-ratifying, provided that the claim is
+      neither ambiguous nor self-contradictory, and no challenge of
+      identity pertaining to the claimed publisher has been issued
+      within one month before its publication.  Upon a judicial
+      finding that the claimed publisher of one or more messages
+      (hereafter the Sock Puppet) was not a person, if any of those
+      claims have already self-ratified, then the judge SHALL as soon
+      as possible publish a judicial declaration that the Sock Puppet
+      was a person during one or more time periods, which SHOULD
+      correspond to general belief prior to that finding.
+
+      The Executor of a public message is the first-class person who
+      sends it, or who most directly and immediately causes it to be
+      sent.  (Upon a judicial finding that the Executor of a public
+      message cannot otherwise be determined within reasonable effort,
+      the judge SHALL as soon as possible publish a judicial
+      declaration specifying the identity of that message's Executor.)
+      The executor of an action performed by announcement is the
+      executor of the announcement.
+
+History:
+Created by Proposal 5212 (Murphy), 8 September 2007
+Amended(1) by Proposal 5445 (Goethe, Murphy), 21 February 2008
+Amended(2) by Proposal 5671 (Murphy, Pavrita), 12 August 2008
+Amended(3) by Proposal 5716 (Murphy), 7 October 2008
+Amended(4) by Proposal 5717 (Murphy), 7 October 2008
+Amended(5) by Proposal 5741 (Murphy), 16 October 2008
+
+----------------------------------------------------------------------
+
+Rule 2150/5 (Power=3)
+Personhood
+
+      A person is an entity that has the general capacity to be the
+      subject of rights and obligations under the rules.  An entity is
+      a person if and only if it is defined to be so by rules with
+      power 2 or greater.
+
+      Any biological organism that is generally capable of
+      communicating by email in English (including via a translation
+      service) is a person.
+
+      A first-class person is a person of a biological nature.  All
+      other persons are second-class.
+
+      The basis of a first-class person is the singleton set
+      consisting of that person.
+
+[CFJ 1700 (called 10 July 2007): The requirement of capability to
+communicate by email can be satisfied even if the players of Agora do
+not know the organism's email address.]
+
+[CFJ 1685 (called 31 May 2007): Being in a mindless job (e.g.,
+keyboard, stenographer, spokesman) may create a rebuttable presumption
+against personhood and against one having spoken on one's own behalf.]
+
+History:
+Created by Proposal 5007 (Zefram), 18 June 2007
+Amended(1) by Proposal 5061 (Zefram), 9 July 2007
+Amended(2) by Proposal 5303 (root), 24 November 2007
+Amended(3) by Proposal 5476 (Murphy; disi.), 27 March 2008
+Power changed from 2 to 3 by Proposal 5509 (root; disi.), 28 May 2008
+Amended(4) by Proposal 5760 (comex), 16 October 2008
+Amended(5) by Proposal 5790 (Murphy), 22 October 2008
+
+----------------------------------------------------------------------
+
+Rule 2145/5 (Power=2)
+Partnerships
+
+      A binding agreement governed by the rules which devolves its
+      legal obligations onto a subset of its parties, numbering at
+      least two, collectively, is a partnership.  The members of a
+      partnership are those parties onto whom the partnership's legal
+      obligations are collectively devolved.  A partnership's identity
+      and partnershiphood are not disrupted by changes to its
+      membership provided that it continues to meet the definition of
+      a partnership.
+
+      A partnership's basis is the set consisting of the union of the
+      the bases of each of its members.  Where circularity occurs in
+      this definition, it is resolved by using the minimum basis sets
+      that provide consistency.
+
+      A partnership that is a public contract and whose basis contains
+      at least two persons is a person.
+
+      If a judge finds a partnership guilty in a criminal proceedings,
+      e may sentence one or more members of the partnership for the
+      crime rather than the partnership itself.  To be an appropriate
+      sentence in this case, the judge SHOULD use the text of the
+      partnership as a guide to the devolution of sentencing but is
+      not bound to follow the text if it is unclear on the subject or
+      would not adequately apply responsibility.
+
+[CFJ 1701 (called 11 July 2007): To qualify as a member of a
+partnership it is not necessary to be responsible for all of the
+partnership's obligations.]
+
+[CFJ 1864 (called 12 January 2008): The devolution of a partnership's
+legal obligations onto its members may be achieved by means of a
+contract other than the partnership.]
+
+[CFJ 1750 (called 24 September 2007): Partnerships can have non-player
+members and nothing in the rules causes a member to cease being so due
+to deregistration.]
+
+[CFJ 1855 (called 29 December 2007): A person who is not a party to a
+partnership contract cannot have obligations placed on em by that
+contract, and so cannot be a member of the partnership.]
+
+History:
+Created by Proposal 4977 (BobTHJ), 31 May 2007
+Amended(1) by Proposal 5041 (BobTHJ), 28 June 2007
+Power changed from 1 to 2 by Proposal 5061 (Zefram), 9 July 2007
+Amended(2) by Proposal 5061 (Zefram), 9 July 2007
+Amended(3) by Proposal 5303 (root), 24 November 2007
+Amended(4) by Proposal 5381 (Goethe), 1 January 2008
+Amended(5) by Proposal 5776 (Goethe), 17 October 2008
 
 ----------------------------------------------------------------------
 
@@ -1238,235 +1495,89 @@ Power changed from 1 to 2 by Proposal 5947 (ais523), 15 November 2008
 
 ----------------------------------------------------------------------
 
+Rule 2177/8 (Power=2)
+The Senate
+
+      A Senator is any first-class player who has been registered
+      continuously for the immediately preceding sixty days.  The
+      collection of Senators is the Senate.  The Registrar's report
+      includes a list of all Senators.
+
+      A Senator CAN call an Emergency Session with 2 Senate
+      supporters, provided no other emergency session existed at any
+      time in the preceding 48 hours.  An emergency session lasts
+      until it is terminated.  An unterminated emergency session
+      terminates 21 days after it was called.  A Senator CAN terminate
+      an emergency session without 3 Senate objections.  Terminating
+      an emergency session is a secured change.  The Assessor's report
+      includes the dates when the most recent emergency session was
+      called and terminated.
+
+      The roll call of an emergency session is the set of senators at
+      the time the emergency session was called.  During emergency
+      session, the previous definition of senator does not apply;
+      instead, any first-class player who is a member of the roll call
+      is a senator.  The Assessor's report includes the roll call of
+      the most recent emergency session.
+
+      During emergency session, any Senator CAN declare a filibuster
+      on a proposal in its voting period, with 2 supporting Senators,
+      provided no filibuster has been declared on that proposal in the
+      past.  Any Senator CAN end a filibuster on a proposal with 4
+      supporting Senators.
+
+      While a proposal is in filibuster, its quorum is the number of
+      eligible voters plus one, rules to the contrary notwithstanding.
+
+      When an emergency session begins, all non-Senators' postures
+      become supine, and non-Senators CANNOT flip their posture while
+      the session lasts.
+
+History:
+Created by Proposal 5309 (Goethe), 24 November 2007
+Amended(1) by Proposal 5331 (root), 5 December 2007
+Amended(2) by Proposal 5332 (root), 5 December 2007
+Amended(3) by Proposal 5333 (root), 5 December 2007
+Amended(4) by Proposal 5333 (root), 5 December 2007
+Amended(5) by Proposal 5357 (root; disi.), 16 December 2007
+Amended(6) by Proposal 5944 (Taral, ais523), 15 November 2008
+Amended(7) by Proposal 5945 (root), 15 November 2008
+Amended(8) by Proposal 5979 (Murphy), 25 November 2008
+
+----------------------------------------------------------------------
+
+Rule 2215/0 (Power=1)
+Truthfulness
+
+      A person SHALL NOT make a public statement on a matter relevant
+      to the rules that is intended to mislead others as to its truth
+      (or, in the case of a public statement that one performs an
+      action, its effectiveness).
+
+      For the purpose of this rule:
+
+       a) Merely quoting a statement does not constitute making that
+          statement.
+
+       b) Any conditional clause or other qualifier attached to a
+          statement constitutes part of the statement; the nature of
+          the whole is what is significant.
+
+[CFJ 1739 (called 29 August 2007): A quotation can result in a
+violation of rule 2215 (then 2149), depending on the context of the
+rest of the message.]
+
+History:
+Created by Proposal 5789 (Murphy, Zefram, Michael, Goethe), 22 October
+  2008
+Power changed from 2 to 1 by Proposal 5947 (ais523), 15 November 2008
+
+----------------------------------------------------------------------
+
 ======================================================================
 Definitions
       A category of definitions of terms and procedures that are
       widely used and do not readily fall into any other category.
-----------------------------------------------------------------------
-
-Rule 478/26 (Power=3)
-Fora
-
-      Freedom of speech being essential for the healthy functioning of
-      any non-Imperial nomic, it is hereby resolved that no Player
-      shall be prohibited from participating in the Fora.
-
-      Publicity is a forum switch with values Public, Discussion, and
-      Foreign (default), tracked by the Registrar.
-
-      The Registrar's report includes, for each forum with non-Foreign
-      publicity, sufficient instructions for players to receive
-      messages there.
-
-      The Registrar may change the publicity of a forum without
-      objection as long as:
-
-      (a) e sends eir announcement of intent to that forum; and
-
-      (b) if the forum is to be made public, the announcement by which
-          the Registrar makes that forum public is sent to all
-          existing public fora.
-
-      Each active player should ensure e can receive messages via each
-      public forum.
-
-      A message is public if and only if it is sent via a public forum
-      or is sent to all players and contains a clear designation of
-      intent to be public.  A person "publishes" or "announces"
-      something by sending a public message.
-
-      Where the rules define an action that CAN be performed "by
-      announcement", a person performs that action by unambiguously
-      and clearly specifying the action and announcing that e performs
-      it.  Any action performed by sending a message is performed at
-      the time date-stamped on that message.
-
-[CFJs 1451-1452 (called 6 March 2003): A message that is split into
-multiple email messages can qualify as a single message for game
-purposes, if it is obvious how to combine the parts to reconstruct the
-single message.]
-
-[CFJ 752 (called 13 March 1995): Something sent to a Player who is
-obligated to send it to all Players is sufficient for sending
-something to the PF.]
-
-[CFJ 813 (called 22 October 1995): A Player need not prove that e can
-receive the PF.]
-
-[CFJ 831 (called 10 November 1995): The Date: header of a message is
-not necessarily the time at which the message takes effect.]
-
-[CFJ 866 (called 8 April 1996): A message is "received" when the
-message enters the recipient's normal technical domain of control,
-whether this be eir private machine or eir private account on a shared
-machine (but not the shared machine itself, if the recipient does not
-control it).]
-
-[CFJ 1112: In order to submit a Proposal, in the sense of R1865 and
-elsewhere, it is not sufficient that a collection of text 'with the
-clear indication that that text is intended to become a Proposal'
-(R1483) merely be sent to the Public Forum by a Proposing Entity; the
-collection of text must also be received in the Public Forum.]
-
-[CFJ 1314 (called 15 August 2001): If a message sent to a public forum
-is rejected by the list moderator, it still qualifies as having been
-sent via a public forum.]
-
-[CFJ 1905 (called 7 February 2008): Regardless of CFJ 1314, a message
-has not been sent via a forum until most persons who have arranged to
-receive messages via the forum receive it.]
-
-[CFJ 1888 (called 31 January 2008): Sending a message to a Discussion
-Forum, or other mailing list except for a Public Forum, does not
-qualify as sending it to all players.]
-
-[CFJ 1631 (called 29 April 2007): Public announcements must be made in
-the message body; the subject line is insignificant.]
-
-[CFJ 1784 (called 5 November 2007): An undescriptive or misleading
-subject line does not deprive the message body of effect.]
-
-[CFJ 1880 (called 22 January 2008): A phrase that would, in the
-message body, cancel the effect of the rest of the message, does not
-have such an effect if it appears in the subject line.]
-
-[CFJ 1761 (called 30 September 2007): Publishing part of a message is
-a different action from publishing the whole message.]
-
-[CFJ 1646 (called 30 April 2007): The act of "publishing" or
-"announcing" is accomplished when the message has left the sender's
-technical domain of control, indicated by one of the "Received:"
-headers.]
-
-[CFJ 1695 (called 23 June 2007): A partnership, which by its nature
-can't directly send email, can participate in the fora by means of its
-members sending messages on its behalf, if its governing agreement
-says so.]
-
-[CFJ 1719 (called 12 August 2007): A player can, if e intends, have
-public messages sent on eir behalf, including via a web form that
-allows all-comers to send messages on eir behalf without specific
-approval.]
-
-[CFJs 1833-1834 (called 18 December 2007): A player can, by
-contractual arrangement, grant another player the capacity to act by
-announcement on eir behalf.]
-
-[CFJ 1893 (called 3 February 2008): A non-consensual non-contractual
-arrangement cannot grant a player the capacity to act by announcement
-on behalf of another.]
-
-[CFJ 1336 (called 13 December 2001): A public statement that one
-wishes to perform an action that one can perform by announcement can
-constitute an announcement that performs that action.]
-
-[CFJ 1621 (called 8 February 2007): Where an action can be performed
-by announcement, announcing that one deems something to be the case
-that would result from that action does not constitute performing the
-action.]
-
-[CFJ 1584 (called 24 February 2006), CFJ 1728 (called 20 August 2007):
-Saying "I do X 1000 times", where X is something that can be done by
-announcement, is an acceptable shorthand for 1000 instances of "I do
-X", but this shorthand cannot be used with an infinite repeat count,
-because it is impossible to write out an infinite number of instances
-of "I do X".]
-
-[CFJ 1774 (called 1 November 2007): Saying "I do X 10000 times", where
-X is something that can be done by announcement, does not necessarily
-achieve 10000 instances of X, if writing out 10000 instances of "I do
-X" would be a substantial effort such that using the shorthand is
-abusive.  The presumption is in favour of the shorthand being
-successful.]
-
-[CFJ 1775 (called 1 November 2007): If an announcement of the form "I
-do X N times" is not be acceptable shorthand for N instances of "I do
-X", then the announcement is completely nullified, and does not have
-the effect of M instances of "I do X" for any non-zero repeat count
-M.]
-
-[CFJ 1730 (called 22 August 2007): An appropriate announcement will
-accomplish an action even if its author believed the action was
-impossible.]
-
-[CFJ 1841 (called 20 December 2007): A message-based action cannot be
-retroactive.]
-
-History:
-Created by Proposal 478 (Jim Shea), Sep. 20 1993
-Amended(1) by Proposal 1477, Mar. 8 1995
-Amended(2) by Proposal 1576, Apr. 28 1995
-Amended(3) by Proposal 1610, Jul. 10 1995
-Amended(4) by Proposal 1700, Sep. 1 1995
-Amended(5) by Proposal 2052, Dec. 19 1995
-Amended(6) by Proposal 2400, Jan. 20 1996
-Amended(7) by Proposal 2739 (Swann), Nov. 7 1996, substantial
-Amended(8) by Proposal 2791 (Andre), Jan. 30 1997, substantial
-Amended(9) by Proposal 3521 (Chuck), Jun. 23 1997, substantial
-Amended(10) by Proposal 3823 (oerjan), Jan. 21 1999
-Amended(11) by Proposal 4147 (Wes), 13 May 2001
-Amended(12) by Proposal 4248 (Murphy), 19 February 2002
-Amended(13) by Proposal 4456 (Maud), 22 February 2003
-Power changed from 1 to 3 by Proposal 4690 (root), 18 April 2005
-Amended(14) by Proposal 4690 (root), 18 April 2005
-Amended(15) by Proposal 4833 (Maud), 6 August 2005
-Amended(16) by Proposal 4866 (Goethe), 27 August 2006
-Amended(17) by Proposal 4939 (Murphy), 29 April 2007
-Amended(18) by Proposal 5014 (Zefram), 24 June 2007
-Amended(19) by Proposal 5111 (Murphy), 2 August 2007
-Amended(20) by Proposal 5172 (Murphy), 29 August 2007
-Amended(21) by Proposal 5272 (Murphy; disi.), 7 November 2007
-Amended(22) by Proposal 5291 (root), 14 November 2007
-Amended(23) by Proposal 5535 (Murphy), 7 June 2008
-Amended(24) by Proposal 5613 (Quazie), 29 July 2008
-Amended(25) by Proposal 5639 (Murphy), 29 July 2008
-Amended(26) by proposal 5818 (comex), 1 November 2008
-
-----------------------------------------------------------------------
-
-Rule 2170/5 (Power=3)
-Who Am I?
-
-      Rules regarding persons pertain to those persons directly, not
-      to rule-defined avatars or other entities representing those
-      persons within Agora.
-
-      A person SHALL NOT make a public statement intended to mislead
-      others as to the identity of its publisher.
-
-      A player SHALL NOT select a confusing nickname, including but
-      not limited to a name that has generally been used to refer to
-      another entity within the past three months.
-
-      A public message's (possibly implicit) claim as to the identity
-      of its publisher is self-ratifying, provided that the claim is
-      neither ambiguous nor self-contradictory, and no challenge of
-      identity pertaining to the claimed publisher has been issued
-      within one month before its publication.  Upon a judicial
-      finding that the claimed publisher of one or more messages
-      (hereafter the Sock Puppet) was not a person, if any of those
-      claims have already self-ratified, then the judge SHALL as soon
-      as possible publish a judicial declaration that the Sock Puppet
-      was a person during one or more time periods, which SHOULD
-      correspond to general belief prior to that finding.
-
-      The Executor of a public message is the first-class person who
-      sends it, or who most directly and immediately causes it to be
-      sent.  (Upon a judicial finding that the Executor of a public
-      message cannot otherwise be determined within reasonable effort,
-      the judge SHALL as soon as possible publish a judicial
-      declaration specifying the identity of that message's Executor.)
-      The executor of an action performed by announcement is the
-      executor of the announcement.
-
-History:
-Created by Proposal 5212 (Murphy), 8 September 2007
-Amended(1) by Proposal 5445 (Goethe, Murphy), 21 February 2008
-Amended(2) by Proposal 5671 (Murphy, Pavrita), 12 August 2008
-Amended(3) by Proposal 5716 (Murphy), 7 October 2008
-Amended(4) by Proposal 5717 (Murphy), 7 October 2008
-Amended(5) by Proposal 5741 (Murphy), 16 October 2008
-
 ----------------------------------------------------------------------
 
 Rule 754/8 (Power=3)
@@ -1714,6 +1825,64 @@ Amended(23) by Proposal 5408 (root), 22 January 2008
 
 ----------------------------------------------------------------------
 
+Rule 1769/7 (Power=3)
+Holidays
+
+      A Holiday is a period of time designated as such by the Rules.
+
+      During a Holiday, the Promotor SHALL NOT distribute any
+      proposals, and judges SHALL NOT be assigned to any judicial
+      case, and judges SHALL NOT assign judgement to any judicial
+      question.
+
+      If some Rule requires that an action be done prior to a given
+      time, and that given time falls during a Holiday, or within the
+      72-hour period immediately following that Holiday, then that
+      action need not be done until 72 hours after that Holiday ends.
+
+      If some Rule bases the time of a future event (including the
+      time limit to perform an action) upon the time of another event,
+      and
+
+      a) that other event occurs during a Holiday, then the time at
+         which that Holiday ends shall be used instead for the purpose
+         of determining the time of the future event.
+
+      b) the future event would occur during a Holiday, then the
+         future event occurs 72 hours after the end of that Holiday
+         instead.
+
+      This Rule takes precedence over all Rules pertaining to the
+      timing of events, and over all Rules which require events to be
+      performed before a specified time.
+
+      The period each year from midnight GMT on the morning of 24
+      December to the beginning of the first Agoran week to begin
+      after 2 January is a Holiday.
+
+[CFJ 1434 (called 24 January 2003): The registration of a player is an
+event for the purposes of rule 1769.]
+
+[CFJ 1434 (called 24 January 2003): The expiration of a rule-defined
+period is an event for the purposes of rule 1769.]
+
+[CFJ 1480 (called 5 January 2004): An automatic event specified to
+occur at regular calendar intervals, for example quarterly, happens at
+its specified time even if that is during a holiday.]
+
+History:
+Created by Proposal 3679 (General Chaos), Jan. 30 1998
+Amended(1) by Proposal 4036 (Oerjan), Aug. 7 2000
+Amended(2) by Proposal 01-003 (Steve), Feb. 2 2001
+Amended(3) by Proposal 4866 (Goethe), 27 August 2006
+Amended(4) by Proposal 5077 (Murphy), 18 July 2007
+Amended(5) by Proposal 5086 (Zefram), 1 August 2007
+Amended(6) by Proposal 5484 (Murphy; disi.), 2 April 2008
+Amended(7) by Proposal 5535 (Murphy), 7 June 2008
+Power changed from 2 to 3 by Proposal 5701 (ais523), 1 October 2008
+
+----------------------------------------------------------------------
+
 Rule 2161/3 (Power=1)
 ID Numbers
 
@@ -1808,141 +1977,183 @@ Amended(1) by Proposal 5271 (Murphy), 7 November 2007
 
 ----------------------------------------------------------------------
 
-Rule 2150/5 (Power=3)
-Personhood
+Rule 478/26 (Power=3)
+Fora
 
-      A person is an entity that has the general capacity to be the
-      subject of rights and obligations under the rules.  An entity is
-      a person if and only if it is defined to be so by rules with
-      power 2 or greater.
+      Freedom of speech being essential for the healthy functioning of
+      any non-Imperial nomic, it is hereby resolved that no Player
+      shall be prohibited from participating in the Fora.
 
-      Any biological organism that is generally capable of
-      communicating by email in English (including via a translation
-      service) is a person.
+      Publicity is a forum switch with values Public, Discussion, and
+      Foreign (default), tracked by the Registrar.
 
-      A first-class person is a person of a biological nature.  All
-      other persons are second-class.
+      The Registrar's report includes, for each forum with non-Foreign
+      publicity, sufficient instructions for players to receive
+      messages there.
 
-      The basis of a first-class person is the singleton set
-      consisting of that person.
+      The Registrar may change the publicity of a forum without
+      objection as long as:
 
-[CFJ 1700 (called 10 July 2007): The requirement of capability to
-communicate by email can be satisfied even if the players of Agora do
-not know the organism's email address.]
+      (a) e sends eir announcement of intent to that forum; and
 
-[CFJ 1685 (called 31 May 2007): Being in a mindless job (e.g.,
-keyboard, stenographer, spokesman) may create a rebuttable presumption
-against personhood and against one having spoken on one's own behalf.]
+      (b) if the forum is to be made public, the announcement by which
+          the Registrar makes that forum public is sent to all
+          existing public fora.
+
+      Each active player should ensure e can receive messages via each
+      public forum.
+
+      A message is public if and only if it is sent via a public forum
+      or is sent to all players and contains a clear designation of
+      intent to be public.  A person "publishes" or "announces"
+      something by sending a public message.
+
+      Where the rules define an action that CAN be performed "by
+      announcement", a person performs that action by unambiguously
+      and clearly specifying the action and announcing that e performs
+      it.  Any action performed by sending a message is performed at
+      the time date-stamped on that message.
+
+[CFJs 1451-1452 (called 6 March 2003): A message that is split into
+multiple email messages can qualify as a single message for game
+purposes, if it is obvious how to combine the parts to reconstruct the
+single message.]
+
+[CFJ 752 (called 13 March 1995): Something sent to a Player who is
+obligated to send it to all Players is sufficient for sending
+something to the PF.]
+
+[CFJ 813 (called 22 October 1995): A Player need not prove that e can
+receive the PF.]
+
+[CFJ 831 (called 10 November 1995): The Date: header of a message is
+not necessarily the time at which the message takes effect.]
+
+[CFJ 866 (called 8 April 1996): A message is "received" when the
+message enters the recipient's normal technical domain of control,
+whether this be eir private machine or eir private account on a shared
+machine (but not the shared machine itself, if the recipient does not
+control it).]
+
+[CFJ 1112: In order to submit a Proposal, in the sense of R1865 and
+elsewhere, it is not sufficient that a collection of text 'with the
+clear indication that that text is intended to become a Proposal'
+(R1483) merely be sent to the Public Forum by a Proposing Entity; the
+collection of text must also be received in the Public Forum.]
+
+[CFJ 1314 (called 15 August 2001): If a message sent to a public forum
+is rejected by the list moderator, it still qualifies as having been
+sent via a public forum.]
+
+[CFJ 1905 (called 7 February 2008): Regardless of CFJ 1314, a message
+has not been sent via a forum until most persons who have arranged to
+receive messages via the forum receive it.]
+
+[CFJ 1888 (called 31 January 2008): Sending a message to a Discussion
+Forum, or other mailing list except for a Public Forum, does not
+qualify as sending it to all players.]
+
+[CFJ 1631 (called 29 April 2007): Public announcements must be made in
+the message body; the subject line is insignificant.]
+
+[CFJ 1784 (called 5 November 2007): An undescriptive or misleading
+subject line does not deprive the message body of effect.]
+
+[CFJ 1880 (called 22 January 2008): A phrase that would, in the
+message body, cancel the effect of the rest of the message, does not
+have such an effect if it appears in the subject line.]
+
+[CFJ 1761 (called 30 September 2007): Publishing part of a message is
+a different action from publishing the whole message.]
+
+[CFJ 1646 (called 30 April 2007): The act of "publishing" or
+"announcing" is accomplished when the message has left the sender's
+technical domain of control, indicated by one of the "Received:"
+headers.]
+
+[CFJ 1695 (called 23 June 2007): A partnership, which by its nature
+can't directly send email, can participate in the fora by means of its
+members sending messages on its behalf, if its governing agreement
+says so.]
+
+[CFJ 1719 (called 12 August 2007): A player can, if e intends, have
+public messages sent on eir behalf, including via a web form that
+allows all-comers to send messages on eir behalf without specific
+approval.]
+
+[CFJs 1833-1834 (called 18 December 2007): A player can, by
+contractual arrangement, grant another player the capacity to act by
+announcement on eir behalf.]
+
+[CFJ 1893 (called 3 February 2008): A non-consensual non-contractual
+arrangement cannot grant a player the capacity to act by announcement
+on behalf of another.]
+
+[CFJ 1336 (called 13 December 2001): A public statement that one
+wishes to perform an action that one can perform by announcement can
+constitute an announcement that performs that action.]
+
+[CFJ 1621 (called 8 February 2007): Where an action can be performed
+by announcement, announcing that one deems something to be the case
+that would result from that action does not constitute performing the
+action.]
+
+[CFJ 1584 (called 24 February 2006), CFJ 1728 (called 20 August 2007):
+Saying "I do X 1000 times", where X is something that can be done by
+announcement, is an acceptable shorthand for 1000 instances of "I do
+X", but this shorthand cannot be used with an infinite repeat count,
+because it is impossible to write out an infinite number of instances
+of "I do X".]
+
+[CFJ 1774 (called 1 November 2007): Saying "I do X 10000 times", where
+X is something that can be done by announcement, does not necessarily
+achieve 10000 instances of X, if writing out 10000 instances of "I do
+X" would be a substantial effort such that using the shorthand is
+abusive.  The presumption is in favour of the shorthand being
+successful.]
+
+[CFJ 1775 (called 1 November 2007): If an announcement of the form "I
+do X N times" is not be acceptable shorthand for N instances of "I do
+X", then the announcement is completely nullified, and does not have
+the effect of M instances of "I do X" for any non-zero repeat count
+M.]
+
+[CFJ 1730 (called 22 August 2007): An appropriate announcement will
+accomplish an action even if its author believed the action was
+impossible.]
+
+[CFJ 1841 (called 20 December 2007): A message-based action cannot be
+retroactive.]
 
 History:
-Created by Proposal 5007 (Zefram), 18 June 2007
-Amended(1) by Proposal 5061 (Zefram), 9 July 2007
-Amended(2) by Proposal 5303 (root), 24 November 2007
-Amended(3) by Proposal 5476 (Murphy; disi.), 27 March 2008
-Power changed from 2 to 3 by Proposal 5509 (root; disi.), 28 May 2008
-Amended(4) by Proposal 5760 (comex), 16 October 2008
-Amended(5) by Proposal 5790 (Murphy), 22 October 2008
-
-----------------------------------------------------------------------
-
-Rule 2166/8 (Power=2)
-Assets
-
-      An asset is an entity defined as such by a rule or contract
-      (hereafter its backing document), and existing solely because
-      its backing document defines its existence.
-
-      Each asset has exactly one owner.  If an asset would otherwise
-      lack an owner, it is owned by the Lost and Found Department.  If
-      an asset's backing document restricts its ownership to a class
-      of entities, then that asset CANNOT be gained by or transferred
-      to an entity outside that class, and is destroyed if it is owned
-      by an entity outside that class (except for the Lost and Found
-      Department, in which case any player CAN transfer or destroy it
-      without objection).
-
-      The recordkeepor of a class of assets is the entity (if any)
-      defined as such by, and bound by, its backing document.  That
-      entity's report includes a list of all instances of that class
-      and their owners.  This portion of that entity's report is
-      self-ratifying.
-
-      An asset whose backing document is not a rule generally CAN be
-      created by its recordkeepor by announcement, subject to
-      modification by its backing document.  To "gain" an asset is to
-      have it created in one's possession; to "award" an asset to an
-      entity is to create it in that entity's possession.
-
-      An asset generally CAN be destroyed by its owner by
-      announcement, and an asset owned by the Lost and Found
-      Department generally CAN be destroyed by its recordkeepor by
-      announcement, subject to modification by its backing document.
-      To "lose" an asset is to have it destroyed from one's
-      possession; to "revoke" an asset from an entity is to destroy it
-      from that entity's possession.
-
-      An asset generally CAN be transferred by its owner to another
-      entity by announcement, subject to modification by its backing
-      document.  A fixed asset is one defined as such by its backing
-      document, and CANNOT be transferred; any other asset is liquid.
-
-      A currency is a class of asset defined as such by its backing
-      document.  Instances of a currency with the same owner are
-      fungible.
-
-      A class of assets is public if its backing document is a rule or
-      a public contract; otherwise it is private.
-
-[CFJs 1790-1791 (called 11 November 2007): The self-ratifying asset
-report is the complete list of ownerships of assets of that class; a
-partial list does not self-ratify.]
-
-[CFJ 1850 (called 22 December 2007): The general ability of the
-recordkeepor to create assets does not include an ability to determine
-who possesses them when created, so they are necessarily owned by the
-Lost and Found Department [at the time of CFJ 1850, the Bank] upon
-creation.]
-
-[CFJ 1910 (called 10 March 2008): When an existing entity is defined
-as an asset, the change of its owner from "undefined" to the Lost and
-Found Department [Bank at the time of CFJ 1910] counts as a transfer,
-and fails if the Lost and Found Department is outside of the class of
-objects that can own the entity.]
-
-History:
-Created by Proposal 5173 (Murphy), 29 August 2007
-Amended(1) by Proposal 5216 (Murphy), 13 September 2007
-Amended(2) by Proposal 5388 (Murphy), 1 January 2008
-Amended(3) by Proposal 5475 (Murphy), 24 March 2008
-Amended(4) by Proposal 5476 (Murphy; disi.), 27 March 2008
-Amended(5) by Proposal 5496 (Murphy), 23 April 2008
-Amended(6) by Proposal 5833 (Murphy, Taral), 12 November 2008
-Amended(7) by Proposal 5840 (root), 12 November 2008
-Amended(8) by Proposal 5974 (Murphy; disi.), 25 November 2008
-
-----------------------------------------------------------------------
-
-Rule 2181/7 (Power=1)
-The Accountor
-
-      The Accountor is a low-priority office; its holder is
-      responsible for keeping track of classes of assets.
-
-      The Accountor's report includes a list of all public classes of
-      assets and their backing documents and recordkeepors.
-
-[Cross-references (28 May 2008): the Accountor's duties are:
-  * report classes of assets (rule 2181)]
-
-History:
-Created by Proposal 5363 (Murphy; disi.), 20 December 2007
-Amended(1) by Proposal 5482 (Murphy), 2 April 2008
-Amended(2) by Proposal 5508 (Murphy), 28 May 2008
-Amended(3) by Proposal 5527 (Murphy), 2 June 2008
-Amended(4) by Proposal 5598 (Wooble; disi.), 29 June 2008
-Amended(5) by Proposal 5600 (Murphy), 29 July 2008
-Amended(6) by Proposal 5833 (Murphy, Taral), 12 November 2008
-Amended(7) by Proposal 5840 (root), 12 November 2008
+Created by Proposal 478 (Jim Shea), Sep. 20 1993
+Amended(1) by Proposal 1477, Mar. 8 1995
+Amended(2) by Proposal 1576, Apr. 28 1995
+Amended(3) by Proposal 1610, Jul. 10 1995
+Amended(4) by Proposal 1700, Sep. 1 1995
+Amended(5) by Proposal 2052, Dec. 19 1995
+Amended(6) by Proposal 2400, Jan. 20 1996
+Amended(7) by Proposal 2739 (Swann), Nov. 7 1996, substantial
+Amended(8) by Proposal 2791 (Andre), Jan. 30 1997, substantial
+Amended(9) by Proposal 3521 (Chuck), Jun. 23 1997, substantial
+Amended(10) by Proposal 3823 (oerjan), Jan. 21 1999
+Amended(11) by Proposal 4147 (Wes), 13 May 2001
+Amended(12) by Proposal 4248 (Murphy), 19 February 2002
+Amended(13) by Proposal 4456 (Maud), 22 February 2003
+Power changed from 1 to 3 by Proposal 4690 (root), 18 April 2005
+Amended(14) by Proposal 4690 (root), 18 April 2005
+Amended(15) by Proposal 4833 (Maud), 6 August 2005
+Amended(16) by Proposal 4866 (Goethe), 27 August 2006
+Amended(17) by Proposal 4939 (Murphy), 29 April 2007
+Amended(18) by Proposal 5014 (Zefram), 24 June 2007
+Amended(19) by Proposal 5111 (Murphy), 2 August 2007
+Amended(20) by Proposal 5172 (Murphy), 29 August 2007
+Amended(21) by Proposal 5272 (Murphy; disi.), 7 November 2007
+Amended(22) by Proposal 5291 (root), 14 November 2007
+Amended(23) by Proposal 5535 (Murphy), 7 June 2008
+Amended(24) by Proposal 5613 (Quazie), 29 July 2008
+Amended(25) by Proposal 5639 (Murphy), 29 July 2008
+Amended(26) by proposal 5818 (comex), 1 November 2008
 
 ----------------------------------------------------------------------
 
@@ -2072,113 +2283,104 @@ Amended(8) by Proposal 5767 (Murphy), 17 October 2008
 
 ----------------------------------------------------------------------
 
-Rule 1769/7 (Power=3)
-Holidays
+Rule 2166/8 (Power=2)
+Assets
 
-      A Holiday is a period of time designated as such by the Rules.
+      An asset is an entity defined as such by a rule or contract
+      (hereafter its backing document), and existing solely because
+      its backing document defines its existence.
 
-      During a Holiday, the Promotor SHALL NOT distribute any
-      proposals, and judges SHALL NOT be assigned to any judicial
-      case, and judges SHALL NOT assign judgement to any judicial
-      question.
+      Each asset has exactly one owner.  If an asset would otherwise
+      lack an owner, it is owned by the Lost and Found Department.  If
+      an asset's backing document restricts its ownership to a class
+      of entities, then that asset CANNOT be gained by or transferred
+      to an entity outside that class, and is destroyed if it is owned
+      by an entity outside that class (except for the Lost and Found
+      Department, in which case any player CAN transfer or destroy it
+      without objection).
 
-      If some Rule requires that an action be done prior to a given
-      time, and that given time falls during a Holiday, or within the
-      72-hour period immediately following that Holiday, then that
-      action need not be done until 72 hours after that Holiday ends.
+      The recordkeepor of a class of assets is the entity (if any)
+      defined as such by, and bound by, its backing document.  That
+      entity's report includes a list of all instances of that class
+      and their owners.  This portion of that entity's report is
+      self-ratifying.
 
-      If some Rule bases the time of a future event (including the
-      time limit to perform an action) upon the time of another event,
-      and
+      An asset whose backing document is not a rule generally CAN be
+      created by its recordkeepor by announcement, subject to
+      modification by its backing document.  To "gain" an asset is to
+      have it created in one's possession; to "award" an asset to an
+      entity is to create it in that entity's possession.
 
-      a) that other event occurs during a Holiday, then the time at
-         which that Holiday ends shall be used instead for the purpose
-         of determining the time of the future event.
+      An asset generally CAN be destroyed by its owner by
+      announcement, and an asset owned by the Lost and Found
+      Department generally CAN be destroyed by its recordkeepor by
+      announcement, subject to modification by its backing document.
+      To "lose" an asset is to have it destroyed from one's
+      possession; to "revoke" an asset from an entity is to destroy it
+      from that entity's possession.
 
-      b) the future event would occur during a Holiday, then the
-         future event occurs 72 hours after the end of that Holiday
-         instead.
+      An asset generally CAN be transferred by its owner to another
+      entity by announcement, subject to modification by its backing
+      document.  A fixed asset is one defined as such by its backing
+      document, and CANNOT be transferred; any other asset is liquid.
 
-      This Rule takes precedence over all Rules pertaining to the
-      timing of events, and over all Rules which require events to be
-      performed before a specified time.
+      A currency is a class of asset defined as such by its backing
+      document.  Instances of a currency with the same owner are
+      fungible.
 
-      The period each year from midnight GMT on the morning of 24
-      December to the beginning of the first Agoran week to begin
-      after 2 January is a Holiday.
+      A class of assets is public if its backing document is a rule or
+      a public contract; otherwise it is private.
 
-[CFJ 1434 (called 24 January 2003): The registration of a player is an
-event for the purposes of rule 1769.]
+[CFJs 1790-1791 (called 11 November 2007): The self-ratifying asset
+report is the complete list of ownerships of assets of that class; a
+partial list does not self-ratify.]
 
-[CFJ 1434 (called 24 January 2003): The expiration of a rule-defined
-period is an event for the purposes of rule 1769.]
+[CFJ 1850 (called 22 December 2007): The general ability of the
+recordkeepor to create assets does not include an ability to determine
+who possesses them when created, so they are necessarily owned by the
+Lost and Found Department [at the time of CFJ 1850, the Bank] upon
+creation.]
 
-[CFJ 1480 (called 5 January 2004): An automatic event specified to
-occur at regular calendar intervals, for example quarterly, happens at
-its specified time even if that is during a holiday.]
+[CFJ 1910 (called 10 March 2008): When an existing entity is defined
+as an asset, the change of its owner from "undefined" to the Lost and
+Found Department [Bank at the time of CFJ 1910] counts as a transfer,
+and fails if the Lost and Found Department is outside of the class of
+objects that can own the entity.]
 
 History:
-Created by Proposal 3679 (General Chaos), Jan. 30 1998
-Amended(1) by Proposal 4036 (Oerjan), Aug. 7 2000
-Amended(2) by Proposal 01-003 (Steve), Feb. 2 2001
-Amended(3) by Proposal 4866 (Goethe), 27 August 2006
-Amended(4) by Proposal 5077 (Murphy), 18 July 2007
-Amended(5) by Proposal 5086 (Zefram), 1 August 2007
-Amended(6) by Proposal 5484 (Murphy; disi.), 2 April 2008
-Amended(7) by Proposal 5535 (Murphy), 7 June 2008
-Power changed from 2 to 3 by Proposal 5701 (ais523), 1 October 2008
+Created by Proposal 5173 (Murphy), 29 August 2007
+Amended(1) by Proposal 5216 (Murphy), 13 September 2007
+Amended(2) by Proposal 5388 (Murphy), 1 January 2008
+Amended(3) by Proposal 5475 (Murphy), 24 March 2008
+Amended(4) by Proposal 5476 (Murphy; disi.), 27 March 2008
+Amended(5) by Proposal 5496 (Murphy), 23 April 2008
+Amended(6) by Proposal 5833 (Murphy, Taral), 12 November 2008
+Amended(7) by Proposal 5840 (root), 12 November 2008
+Amended(8) by Proposal 5974 (Murphy; disi.), 25 November 2008
 
 ----------------------------------------------------------------------
 
-Rule 2216/0 (Power=1)
-The Repeal-o-Matic
+Rule 2181/7 (Power=1)
+The Accountor
 
-      The Anarchist is an office; its holder is responsible for
-      proposing the repeal of rules.
+      The Accountor is a low-priority office; its holder is
+      responsible for keeping track of classes of assets.
 
-      The Anarchist's weekly duties include the performance of the
-      following tasks, in order:
+      The Accountor's report includes a list of all public classes of
+      assets and their backing documents and recordkeepors.
 
-        a) Randomly select exactly five distinct rules.
-
-        b) For one to three of these rules, submit a proposal, with
-           adoption index equal to the Power of the rule, and interest
-           index 0, to repeal the rule.
-
-[Cross-references (28 October 2008): the Anarchist's duties are:
-  * propose repeal of rules (rule 2216)]
+[Cross-references (28 May 2008): the Accountor's duties are:
+  * report classes of assets (rule 2181)]
 
 History:
-Created by Proposal 5794 (Murphy, Swann), 26 October 2008
-
-----------------------------------------------------------------------
-
-Rule 1750/1 (Power=1)
-Read the Ruleset Week
-
-      The first Agoran week each year which falls entirely in February
-      is Read the Ruleset Week.  Agorans are encouraged to read the
-      ruleset during Read the Ruleset Week.
-
-History:
-Created by Proposal 3601 (Chuck), Dec. 9 1997
-Amended(1) by Proposal 4398 (harvel), 23 October 2002
-
-----------------------------------------------------------------------
-
-Rule 2220/0 (Power=1)
-Agoran History
-
-      The Book of History is a document which can be amended without 3
-      objections. It should contain accurate information about Agora's
-      history.
-
-      The Historian is a low-priority office whose report includes the
-      current text of the Book of History. The Historian SHOULD
-      propose amendments to the Book of History on a regular basis.
-
-History:
-Created by Proposal 5958 (Warrigal), 17 November 2008
+Created by Proposal 5363 (Murphy; disi.), 20 December 2007
+Amended(1) by Proposal 5482 (Murphy), 2 April 2008
+Amended(2) by Proposal 5508 (Murphy), 28 May 2008
+Amended(3) by Proposal 5527 (Murphy), 2 June 2008
+Amended(4) by Proposal 5598 (Wooble; disi.), 29 June 2008
+Amended(5) by Proposal 5600 (Murphy), 29 July 2008
+Amended(6) by Proposal 5833 (Murphy, Taral), 12 November 2008
+Amended(7) by Proposal 5840 (root), 12 November 2008
 
 ----------------------------------------------------------------------
 
@@ -2247,6 +2449,73 @@ Amended(22) by Proposal 5239 (AFO), 3 October 2007
 Amended(23) by Proposal 5407 (root), 22 January 2008
 Amended(24) by Proposal 5519 (Murphy), 28 May 2008
 Amended(25) by Proposal 5534 (root; disi.), 7 June 2008
+
+----------------------------------------------------------------------
+
+Rule 2143/2 (Power=1)
+Official Reports and Duties
+
+      For each office:
+
+      a) If any task is defined by the rules as part of that office's
+         weekly duties, then the holder of that office SHALL perform
+         it at least once each week.  If any information is defined by
+         the rules as part of that office's weekly report, then the
+         holder of that office SHALL maintain all such information,
+         and the publication of all such information is part of that
+         office's weekly duties.
+
+      b) If any task is defined by the rules as part of that office's
+         monthly duties, then the holder of that office SHALL perform
+         it at least once each month.  If any information is defined
+         by the rules as part of that office's monthly report, then
+         the holder of that office SHALL maintain all such
+         information, and the publication of all such information is
+         part of that office's monthly duties.
+
+      Any information defined by the rules as part of an office's
+      report, without specifying which one, is part of its weekly
+      report (unless the office is defined by the rules as
+      low-priority, in which case it is part of its monthly report).
+
+History:
+Created by Proposal 4970 (Zefram), 23 May 2007
+Amended(1) by Proposal 5239 (AFO), 3 October 2007
+Retitled by Proposal 5485 (root), 9 April 2008
+Amended(2) by Proposal 5485 (root), 9 April 2008
+
+----------------------------------------------------------------------
+
+Rule 2160/3 (Power=1)
+Deputisation
+
+      Any player (a deputy) CAN perform an action as if e held a
+      particular office (deputise for that office) if:
+
+      (a) the rules require the holder of that office, by virtue of
+          holding that office, to perform the action (or, if the
+          office is vacant, would so require if the office were
+          filled); and
+
+      (b) a time limit by which the rules require the action to be
+          performed has expired; and
+
+      (c) the deputy announced between two and fourteen days earlier
+          that e intended to deputise for that office for the purposes
+          of the particular action; and
+
+      (d) it would be POSSIBLE for the deputy to perform the action,
+          other than by deputisation, if e held the office.
+
+[CFJ 1776 (called 1 November 2007): A requirement to perform an
+action, for the purposes of this rule, can be a logical implication
+from rules and circumstances, not just directly imposed by the rules.]
+
+History:
+Created by Proposal 5103 (Zefram), 1 August 2007
+Amended(1) by Proposal 5200 (Zefram; disi.), 8 September 2007
+Amended(2) by Proposal 5414 (Murphy), 26 January 2008
+Amended(3) by Proposal 5454 (Murphy), 9 March 2008
 
 ----------------------------------------------------------------------
 
@@ -2375,40 +2644,6 @@ Amended(5) by Proposal 5718 (ais523), 7 October 2008
 
 ----------------------------------------------------------------------
 
-Rule 2143/2 (Power=1)
-Official Reports and Duties
-
-      For each office:
-
-      a) If any task is defined by the rules as part of that office's
-         weekly duties, then the holder of that office SHALL perform
-         it at least once each week.  If any information is defined by
-         the rules as part of that office's weekly report, then the
-         holder of that office SHALL maintain all such information,
-         and the publication of all such information is part of that
-         office's weekly duties.
-
-      b) If any task is defined by the rules as part of that office's
-         monthly duties, then the holder of that office SHALL perform
-         it at least once each month.  If any information is defined
-         by the rules as part of that office's monthly report, then
-         the holder of that office SHALL maintain all such
-         information, and the publication of all such information is
-         part of that office's monthly duties.
-
-      Any information defined by the rules as part of an office's
-      report, without specifying which one, is part of its weekly
-      report (unless the office is defined by the rules as
-      low-priority, in which case it is part of its monthly report).
-
-History:
-Created by Proposal 4970 (Zefram), 23 May 2007
-Amended(1) by Proposal 5239 (AFO), 3 October 2007
-Retitled by Proposal 5485 (root), 9 April 2008
-Amended(2) by Proposal 5485 (root), 9 April 2008
-
-----------------------------------------------------------------------
-
 Rule 1551/12 (Power=3)
 Ratification
 
@@ -2495,39 +2730,6 @@ a self-ratifying document prevents ratification of all parts of it.]
 
 History:
 Created by Proposal 5459 (Murphy), 9 March 2008
-
-----------------------------------------------------------------------
-
-Rule 2160/3 (Power=1)
-Deputisation
-
-      Any player (a deputy) CAN perform an action as if e held a
-      particular office (deputise for that office) if:
-
-      (a) the rules require the holder of that office, by virtue of
-          holding that office, to perform the action (or, if the
-          office is vacant, would so require if the office were
-          filled); and
-
-      (b) a time limit by which the rules require the action to be
-          performed has expired; and
-
-      (c) the deputy announced between two and fourteen days earlier
-          that e intended to deputise for that office for the purposes
-          of the particular action; and
-
-      (d) it would be POSSIBLE for the deputy to perform the action,
-          other than by deputisation, if e held the office.
-
-[CFJ 1776 (called 1 November 2007): A requirement to perform an
-action, for the purposes of this rule, can be a logical implication
-from rules and circumstances, not just directly imposed by the rules.]
-
-History:
-Created by Proposal 5103 (Zefram), 1 August 2007
-Amended(1) by Proposal 5200 (Zefram; disi.), 8 September 2007
-Amended(2) by Proposal 5414 (Murphy), 26 January 2008
-Amended(3) by Proposal 5454 (Murphy), 9 March 2008
 
 ----------------------------------------------------------------------
 
@@ -2635,26 +2837,6 @@ Amended(7) by Proposal 5413 (root), 26 January 2008
 Amended(8) by Proposal 5445 (Goethe, Murphy), 21 February 2008
 Amended(9) by Proposal 5455 (Murphy), 1 March 2008
 Amended(10) by Proposal 5948 (Murphy; disi.), 15 November 2008
-
-----------------------------------------------------------------------
-
-Rule 2137/2 (Power=1)
-The Assessor
-
-      The Assessor is an office; its holder is responsible for
-      collecting votes and keeping track of related properties.
-
-[CFJs 1758-1759 (called 30 September 2007): If Assessorship changes
-hands, vote collection duties move with it.]
-
-[Cross-references (1 March 2008): the Assessor's duties are:
-  * report date of most recent emergency session (rule 2177)
-  * report roll call of most recent emergency session (rule 2177)]
-
-History:
-Created by Proposal 4939 (Murphy), 29 April 2007
-Amended(1) by Proposal 5078 (Zefram), 18 July 2007
-Amended(2) by Proposal 5453 (Murphy), 1 March 2008
 
 ----------------------------------------------------------------------
 
@@ -2840,29 +3022,6 @@ Amended(7) by Proposal 5453 (Murphy), 1 March 2008
 
 ----------------------------------------------------------------------
 
-Rule 2196/1 (Power=3)
-Standard Classes of Agoran Decisions
-
-      An Agoran decision with an adoption index is either ordinary or
-      democratic.  An Agoran decision with an adoption index greater
-      than or equal to 2 is democratic.  Any other Agoran decision
-      with an adoption index is ordinary by default.
-
-      If an Agoran decision has an adoption index, then the following
-      are essential parameters:
-
-      a) Its adoption index.
-      b) Whether it is ordinary or democratic.
-
-      For any Agoran decision with an adoption index, the available
-      options are FOR, AGAINST, and PRESENT.
-
-History:
-Created by Proposal 5418 (root), 2 February 2008
-Amended(1) by Proposal 5455 (Murphy), 1 March 2008
-
-----------------------------------------------------------------------
-
 Rule 955/15 (Power=3)
 Determining the Will of Agora
 
@@ -2989,6 +3148,29 @@ Amended(1) by Proposal 4637 (Murphy), 19 February 2005
 Amended(2) by Proposal 4811 (Maud, Goethe), 20 June 2005
 Amended(3) by Proposal 5212 (Murphy), 8 September 2007
 Amended(4) by Proposal 5275 (Murphy), 7 November 2007
+
+----------------------------------------------------------------------
+
+Rule 2196/1 (Power=3)
+Standard Classes of Agoran Decisions
+
+      An Agoran decision with an adoption index is either ordinary or
+      democratic.  An Agoran decision with an adoption index greater
+      than or equal to 2 is democratic.  Any other Agoran decision
+      with an adoption index is ordinary by default.
+
+      If an Agoran decision has an adoption index, then the following
+      are essential parameters:
+
+      a) Its adoption index.
+      b) Whether it is ordinary or democratic.
+
+      For any Agoran decision with an adoption index, the available
+      options are FOR, AGAINST, and PRESENT.
+
+History:
+Created by Proposal 5418 (root), 2 February 2008
+Amended(1) by Proposal 5455 (Murphy), 1 March 2008
 
 ----------------------------------------------------------------------
 
@@ -3188,47 +3370,6 @@ Power changed from 1 to 2 by Proposal 5947 (ais523), 15 November 2008
 
 ----------------------------------------------------------------------
 
-Rule 1450/9 (Power=2)
-Separation of Powers
-
-      Lest the entire proposal process fall under the control of a
-      single entity, any change that would result in the same entity
-      holding the offices of Promotor and Assessor simultaneously is
-      canceled and does not occur, rules to the contrary
-      notwithstanding.
-
-History:
-Created by Proposal 1547, Apr. 14 1995
-Amended(1) by Proposal 2442, Feb. 6 1996
-Amended(2) by Proposal 3742 (Harlequin), May 8 1998
-Amended(3) by Proposal 4576 (root), 31 May 2004
-Amended(4) by Proposal 4592 (Murphy), 4 July 2004
-Amended(5) by Proposal 4868 (Goethe), 27 August 2006
-Power changed from 1 to 2 by Proposal 4868 (Goethe), 27 August 2006
-Amended(6) by Proposal 4939 (Murphy), 29 April 2007
-Amended(7) by Proposal 5106 (Zefram), 1 August 2007
-Amended(8) by Proposal 5476 (Murphy; disi.), 27 March 2008
-Amended(9) by Proposal 5602 (Murphy), 29 July 2008
-
-----------------------------------------------------------------------
-
-Rule 1698/1 (Power=3)
-Agora Is a Nomic
-
-      In the interest of safeguarding Agora's nomic-ness, if a change
-      to the gamestate would otherwise make it IMPOSSIBLE to make
-      arbitrary rule changes and/or adopt arbitrary proposals within a
-      four-week period by any combinations of actions by players, then
-      that change is canceled and does not occur, any rule to the
-      contrary notwithstanding.
-
-History:
-Created by Proposal 3465 (Steve), Apr. 26 1997
-Retitled by Proposal 5536 (Murphy), 7 June 2008
-Amended(1) by Proposal 5536 (Murphy), 7 June 2008
-
-----------------------------------------------------------------------
-
 Rule 1950/20 (Power=3)
 Voting on Democratic Decisions
 
@@ -3304,6 +3445,112 @@ Amended(9) by Proposal 5791 (Murphy), 22 October 2008
 
 ----------------------------------------------------------------------
 
+Rule 2142/4 (Power=2)
+Support Democracy
+
+      A player CAN, with 2 support, change an ordinary decision to be
+      democratic.
+
+History:
+Created by Proposal 4955 (Zefram), 7 May 2007
+Amended(1) by Proposal 5043 (root), 1 July 2007
+Power changed from 1.1 to 2 by Proposal 5044 (root), 1 July 2007
+Amended(2) by Proposal 5044 (root), 1 July 2007
+Amended(3) by Proposal 5210 (Murphy), 8 September 2007
+Amended(4) by Proposal 5418 (root), 2 February 2008
+
+----------------------------------------------------------------------
+
+Rule 2137/2 (Power=1)
+The Assessor
+
+      The Assessor is an office; its holder is responsible for
+      collecting votes and keeping track of related properties.
+
+[CFJs 1758-1759 (called 30 September 2007): If Assessorship changes
+hands, vote collection duties move with it.]
+
+[Cross-references (1 March 2008): the Assessor's duties are:
+  * report date of most recent emergency session (rule 2177)
+  * report roll call of most recent emergency session (rule 2177)]
+
+History:
+Created by Proposal 4939 (Murphy), 29 April 2007
+Amended(1) by Proposal 5078 (Zefram), 18 July 2007
+Amended(2) by Proposal 5453 (Murphy), 1 March 2008
+
+----------------------------------------------------------------------
+
+Rule 1450/9 (Power=2)
+Separation of Powers
+
+      Lest the entire proposal process fall under the control of a
+      single entity, any change that would result in the same entity
+      holding the offices of Promotor and Assessor simultaneously is
+      canceled and does not occur, rules to the contrary
+      notwithstanding.
+
+History:
+Created by Proposal 1547, Apr. 14 1995
+Amended(1) by Proposal 2442, Feb. 6 1996
+Amended(2) by Proposal 3742 (Harlequin), May 8 1998
+Amended(3) by Proposal 4576 (root), 31 May 2004
+Amended(4) by Proposal 4592 (Murphy), 4 July 2004
+Amended(5) by Proposal 4868 (Goethe), 27 August 2006
+Power changed from 1 to 2 by Proposal 4868 (Goethe), 27 August 2006
+Amended(6) by Proposal 4939 (Murphy), 29 April 2007
+Amended(7) by Proposal 5106 (Zefram), 1 August 2007
+Amended(8) by Proposal 5476 (Murphy; disi.), 27 March 2008
+Amended(9) by Proposal 5602 (Murphy), 29 July 2008
+
+----------------------------------------------------------------------
+
+Rule 1698/1 (Power=3)
+Agora Is a Nomic
+
+      In the interest of safeguarding Agora's nomic-ness, if a change
+      to the gamestate would otherwise make it IMPOSSIBLE to make
+      arbitrary rule changes and/or adopt arbitrary proposals within a
+      four-week period by any combinations of actions by players, then
+      that change is canceled and does not occur, any rule to the
+      contrary notwithstanding.
+
+History:
+Created by Proposal 3465 (Steve), Apr. 26 1997
+Retitled by Proposal 5536 (Murphy), 7 June 2008
+Amended(1) by Proposal 5536 (Murphy), 7 June 2008
+
+----------------------------------------------------------------------
+
+Rule 2134/5 (Power=2)
+Win by Clout
+
+      Upon a win announcement that a specified player's voting limit
+      on an ordinary decision initiated at that time would exceed the
+      combined voting limits of all other players on that decision,
+      the specified player satisfies the Winning Condition of Clout.
+
+      Cleanup procedure:  Each player's caste is set to its default
+      value, and no player satisfies this Winning Condition again (the
+      remainder of this rule notwithstanding) during the same month.
+
+History:
+Created by Proposal 4930 (Goethe), 29 April 2007
+Retitled by Proposal 5222 (root; disi.), 30 September 2007
+Amended(1) by Proposal 5222 (root; disi.), 30 September 2007
+Amended(2) by Proposal 5343 (Murphy), 8 December 2007
+Retitled by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
+  16 January 2008
+Power changed from 1 to 2 by Proposal 5394 (Murphy, Goddess Eris,
+  OscarMeyr, Zefram), 16 January 2008
+Amended(3) by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
+  16 January 2008
+Amended(4) by Proposal 5418 (root), 2 February 2008
+Amended(5) by Proposal 5625 (Murphy, OscarMeyr, Ivan Hope), 29 July
+  2008
+
+----------------------------------------------------------------------
+
 Rule 2211/2 (Power=2)
 The Grand Poobah
 
@@ -3360,35 +3607,6 @@ History:
 Created by Proposal 5625 (Murphy, OscarMeyr, Ivan Hope), 29 July 2008
 Amended(1) by Proposal 5680 (Goethe), 3 September 2008
 Amended(2) by Proposal 5696 (Goethe), 20 September 2008
-
-----------------------------------------------------------------------
-
-Rule 2134/5 (Power=2)
-Win by Clout
-
-      Upon a win announcement that a specified player's voting limit
-      on an ordinary decision initiated at that time would exceed the
-      combined voting limits of all other players on that decision,
-      the specified player satisfies the Winning Condition of Clout.
-
-      Cleanup procedure:  Each player's caste is set to its default
-      value, and no player satisfies this Winning Condition again (the
-      remainder of this rule notwithstanding) during the same month.
-
-History:
-Created by Proposal 4930 (Goethe), 29 April 2007
-Retitled by Proposal 5222 (root; disi.), 30 September 2007
-Amended(1) by Proposal 5222 (root; disi.), 30 September 2007
-Amended(2) by Proposal 5343 (Murphy), 8 December 2007
-Retitled by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
-  16 January 2008
-Power changed from 1 to 2 by Proposal 5394 (Murphy, Goddess Eris,
-  OscarMeyr, Zefram), 16 January 2008
-Amended(3) by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
-  16 January 2008
-Amended(4) by Proposal 5418 (root), 2 February 2008
-Amended(5) by Proposal 5625 (Murphy, OscarMeyr, Ivan Hope), 29 July
-  2008
 
 ----------------------------------------------------------------------
 
@@ -3563,94 +3781,6 @@ Amended(57) by Proposal 5791 (Murphy), 22 October 2008
 
 ----------------------------------------------------------------------
 
-Rule 2142/4 (Power=2)
-Support Democracy
-
-      A player CAN, with 2 support, change an ordinary decision to be
-      democratic.
-
-History:
-Created by Proposal 4955 (Zefram), 7 May 2007
-Amended(1) by Proposal 5043 (root), 1 July 2007
-Power changed from 1.1 to 2 by Proposal 5044 (root), 1 July 2007
-Amended(2) by Proposal 5044 (root), 1 July 2007
-Amended(3) by Proposal 5210 (Murphy), 8 September 2007
-Amended(4) by Proposal 5418 (root), 2 February 2008
-
-----------------------------------------------------------------------
-
-Rule 2019/20 (Power=2)
-Prerogatives
-
-      In a timely fashion before the beginning of each month, the
-      Speaker SHALL assign each Player who bears the patent title
-      Minister Without Portfolio a different Prerogative for the
-      upcoming month by announcement.  If there are more members in
-      one set than the other, then e SHALL choose which members of the
-      larger set take part in the assignment.
-
-      The following Prerogatives are defined:
-
-      a) Default Officeholder.  The Default Officeholder CAN become
-         holder of a vacant elected office by announcement, unless e
-         is prevented from holding that office on an ongoing basis.
-
-      b) Justiciar.  Once within three days after an appeal case comes
-         to require a judge, the Justiciar CAN make that case either
-         hot or cold by announcement.  If the Justiciar has not done
-         so, then the Clerk of the Courts SHALL NOT assign a panel to
-         that case during this period, unless either no panels
-         eligible to be so assigned include the Justiciar, or all of
-         them do.  If the Justiciar has done so, then the Clerk of the
-         Courts SHALL assign a panel including (if the case is hot) or
-         excluding (if it is cold) the Justiciar, if possible.
-
-      c) Wielder of Veto.  The Wielder of Veto CAN veto an ordinary
-         decision in its voting period by announcement; this increases
-         its Adoption Index by 1.
-
-      d) Wielder of Rubberstamp.  The Wielder of Rubberstamp CAN
-         rubberstamp an ordinary decision in its voting period by
-         announcement; this decreases its quorum to 3, rules to the
-         contrary notwithstanding.
-
-      e) Wielder of Extra Votes.  The Wielder of Extra Votes at the
-         start of an ordinary proposal's voting period has a voting
-         limit on that proposal of 1.4 times what it would be
-         otherwise (rounded to the nearest integer, breaking ties
-         toward odd integers), rules to the contrary notwithstanding.
-
-[CFJ 1870 (called 15 January 2008): A prerogative assigned for a
-particular month is lost at the end of that month.]
-
-History:
-Created by Proposal 4276 (Steve), 28 March 2002
-Amended(1) by Proposal 4576 (root), 31 May 2004
-Amended(2) by Proposal 4717 (Murphy), 25 April 2005
-Amended(3) by Proposal 4811 (Maud, Goethe), 20 June 2005
-Amended(4) by Proposal 4836 (Goethe, Maud), 2 October 2005
-Amended(5) by Proposal 4840 (Goethe), 27 October 2005
-Amended(6) by Proposal 4885 (Murphy), 22 January 2007
-Amended(7) by Proposal 4887 (Murphy), 22 January 2007
-Amended(8) by Proposal 5049 (Zefram), 1 July 2007
-Retitled by Proposal 5049 (Zefram), 1 July 2007
-Amended(9) by Proposal 5138 (Zefram; disi.), 17 August 2007
-Retitled by Proposal 5138 (Zefram; disi.), 17 August 2007
-Retitled by Proposal 5257 (AFO), 27 October 2007
-Amended(10) by Proposal 5257 (AFO), 27 October 2007
-Amended(11) by Proposal 5407 (root), 22 January 2008
-Amended(12) by Proposal 5408 (root), 22 January 2008
-Amended(13) by Proposal 5418 (root), 2 February 2008
-Amended(14) by Proposal 5432 (Goethe), 9 February 2008
-Amended(15) by Proposal 5461 (Wooble), 13 March 2008
-Amended(16) by Proposal 5606 (Murphy), 29 July 2008
-Amended(17) by Proposal 5644 (Murphy), 29 July 2008
-Amended(18) by Proposal 5693 (Goethe), 20 September 2008
-Amended(19) by Proposal 5781 (Murphy), 22 October 2008
-Amended(20) by Proposal 5783 (Murphy), 22 October 2008
-
-----------------------------------------------------------------------
-
 Rule 2188/0 (Power=2)
 Win by Proposal
 
@@ -3740,243 +3870,6 @@ Amended(11) by Proposal 5464 (Murphy), 13 March 2008
 
 ----------------------------------------------------------------------
 
-Rule 2175/3 (Power=1)
-Judicial Retraction and Excess
-
-      If a judicial case (other than an appeal case) has not had any
-      judge assigned to it, then:
-
-      a) Its initiator CAN retract it by announcement, thus causing it
-         to cease to be a judicial case.
-
-      b) If its initiator previously initiated five or more cases
-         during the same Agoran week as that case, then it is an
-         excess case, and the Clerk of the Courts CAN refuse it by
-         announcement, thus causing it to cease to be a judicial case.
-
-History:
-Created by Proposal 5284 (root, pikhq), 7 November 2007
-Retitled by Proposal 5301 (Murphy), 28 November 2007
-Amended(1) by Proposal 5301 (Murphy), 28 November 2007
-Amended(2) by Proposal 5384 (Murphy), 1 January 2008
-Amended(3) by Proposal 5768 (Murphy), 17 October 2008
-
-----------------------------------------------------------------------
-
-Rule 1868/12 (Power=2)
-Judge Assignment Generally
-
-      At any time, a judicial case either has no judge assigned to it
-      (default) or has exactly one entity assigned to it as judge.
-      This is a persistent status that changes only according to the
-      rules.
-
-      At any time, a judicial case either does not require a judge
-      (default) or requires a judge.  This is not a persistent status,
-      but is evaluated instantaneously.
-
-      When a judicial case requires a judge and has no judge assigned,
-      the CotC CAN assign a qualified entity to be its judge by
-      announcement, and SHALL do so as soon as possible.
-
-      The entities qualified to be assigned as judge of a judicial
-      case are the active first-class players, subject to modification
-      by other rules.  Being unqualified to be assigned as a judge
-      does not inherently prevent an entity from continuing to be
-      judge of a case to which e is already assigned.
-
-      When a player is poorly qualified to be assigned as judge of a
-      judicial case, the Clerk of the Courts SHALL not assign em to be
-      the judge of that case; if e has done so, and that player is
-      still the judge of that case, then e CAN recuse that judge from
-      that case by announcement.
-
-      Making an entity unqualified or poorly qualified to judge is
-      secured, with a power threshold of 1.5.
-
-      To recuse a judge from a case is to deassign em as its judge.
-      Assigning a judge to a case implicitly recuses its existing
-      judge, if any.  A recusal is "with cause" if and only if stated
-      as such by the rules.
-
-[CFJ 1186: The Clerk of the Courts is required by Rule 1868 to select
-a Judge who is qualified ["eligible" at the time of CFJ 1186] at the
-time that the Judge is selected, regardless of whether that Player was
-qualified at the time that the CFJ was actually called for or when the
-identity of that Player is announced.]
-
-History:
-Created by Proposal 3816 (Repeal-O-Matic), Dec. 21 1998
-Amended(1) by Proposal 3962 (Wes), Jan. 20 2000
-Amended(2) by Proposal 4166 (Elysion), 11 June 2001
-Amended(3) by Proposal 4298 (Murphy), 17 May 2002
-Amended(4) by Proposal 4867 (Goethe), 27 August 2006
-Amended(5) by Proposal 5040 (Zefram), 28 June 2007
-Amended(6) by Proposal 5069 (Zefram), 11 July 2007
-Retitled by Proposal 5086 (Zefram), 1 August 2007
-Power changed from 1 to 2 by Proposal 5086 (Zefram), 1 August 2007
-Amended(7) by Proposal 5086 (Zefram), 1 August 2007
-Amended(8) by Proposal 5151 (root), 29 August 2007
-Amended(9) by Proposal 5217 (Murphy; disi.), 13 September 2007
-Amended(10) by Proposal 5248 (AFO; disi.), 14 October 2007
-Amended(11) by Proposal 5277 (Murphy, Zefram), 7 November 2007
-Amended(12) by Proposal 5317 (Murphy), 28 November 2007
-
-----------------------------------------------------------------------
-
-Rule 1871/25 (Power=1.5)
-The Standing Court
-
-      Posture is a player switch, tracked by the Clerk of the Courts,
-      with the following values:
-
-      * Standing.  Standing players are generally qualified to judge.
-
-      * Sitting.  Sitting players are poorly qualified to judge, but
-        will generally become qualified when the CotC rotates the
-        bench.
-
-      * Leaning.  Leaning players are poorly qualified to judge, but
-        are generally qualified to serve on appeal panels.
-
-      * Supine (default).  Supine players are unqualified to judge.
-
-      Changes to posture are secured.
-
-      A player CAN flip eir posture to any non-standing value by
-      announcement.
-
-      When the CotC assigns a player as judge, that player becomes
-      sitting.
-
-      The CotC CAN rotate the bench (change all sitting players to
-      standing) by announcement, but SHALL NOT do so unless there is a
-      judicial case to which e is obliged to assign a judge, all
-      entities qualified to be so assigned are poorly qualified, and e
-      immediately afterwards (in the same announcement) assigns a
-      judge to that case.
-
-      When the CotC recuses a non-supine player with cause, e CAN flip
-      that player's posture to supine by announcement in a timely
-      fashion.
-
-[CFJ 1765 (called 16 October 2007): When the CotC is obliged to change
-a player's posture due to recusal, this rule makes em capable of doing
-so.]
-
-[CFJ 1766 (called 16 October 2007): When the CotC is obliged to change
-a player's posture due to recusal, eir capability to do so exists as
-long as the obligation does, and this obligation does not terminate
-due to the time limit running out.]
-
-History:
-Created by Proposal 3821 (Blob), Jan. 12 1999
-Amended(1) by Proposal 4298 (Murphy), 17 May 2002
-Amended(2) by Proposal 4342 (root), 8 July 2002
-Amended(3) by Proposal 4523 (Murphy), 28 August 2003
-Amended(4) by Proposal 4563 (OscarMeyr), 6 April 2004
-Amended(5) by Proposal 4596 (Murphy), 4 July 2004
-Amended(6) by Proposal 4648 (Kolja), 22 March 2005
-Amended(7) by Proposal 4691 (root), 18 April 2005
-Amended(8) by Proposal 4867 (Goethe), 27 August 2006
-Amended(9) by Proposal 4912 (Murphy), 21 March 2007
-Amended(10) by Proposal 4958 (Murphy), 3 June 2007
-Retitled by Proposal 4991 (Murphy), 6 June 2007
-Amended(11) by Proposal 4991 (Murphy), 6 June 2007
-Amended(12) by Proposal 5069 (Zefram), 11 July 2007
-Power changed from 1 to 1.5 by Proposal 5086 (Zefram), 1 August 2007
-Amended(13) by Proposal 5086 (Zefram), 1 August 2007
-Amended(14) by Proposal 5111 (Murphy), 2 August 2007
-Amended(15) by Proposal 5248 (AFO; disi.), 14 October 2007
-Amended(16) by Proposal 5249 (AFO), 14 October 2007
-Amended(17) by Proposal 5250 (AFO), 14 October 2007
-Amended(18) by Proposal 5251 (Goddess Eris), 14 October 2007
-Amended(19) by Proposal 5259 (Zefram), 27 October 2007
-Amended(20) by Proposal 5261 (root; disi.), 31 October 2007
-Amended(21) by Proposal 5456 (Goddess Eris), 9 March 2008
-Amended(22) by Proposal 5468 (Murphy), 13 March 2008
-Amended(23) by Proposal 5474 (Murphy), 24 March 2008
-Amended(24) by Proposal 5500 (Murphy; disi.), 26 April 2008
-Amended(25) by Proposal 5771 (root), 17 October 2008
-
-----------------------------------------------------------------------
-
-Rule 2204/0 (Power=1.5)
-Linked Assignments
-
-      When the Clerk of the Courts assigns a player as judge of two or
-      more judicial cases consecutively in the same announcement, that
-      player only becomes sitting upon the last such assignment, rules
-      to the contrary notwithstanding.  The CotC SHOULD NOT do this
-      unless those cases are closely related in their subject matter.
-
-History:
-Created by Proposal 5468 (Murphy), 13 March 2008
-
-----------------------------------------------------------------------
-
-Rule 2203/0 (Power=1.5)
-Hawkishness
-
-      Hawkishness is a player switch, tracked by the Clerk of the
-      Courts, with the following values:
-
-      * Hanging.  Hanging players are unqualified to be assigned as
-        judge of any inquiry case.
-
-      * Hugging.  Hugging players are unqualified to be assigned as
-        judge of any criminal case, and poorly qualified to be
-        assigned as judge of any equity case.
-
-      * Hemming-and-Hawing (default).
-
-      Changes to hawkishness are secured.
-
-      A player CAN flip eir hawkishness by announcement.
-
-History:
-Created by Proposal 5468 (Murphy), 13 March 2008
-
-----------------------------------------------------------------------
-
-Rule 2157/5 (Power=1.7)
-Judicial Panels
-
-      A judicial panel is a structure whereby a group of two or more
-      persons (its members) act together for the purpose of judging
-      judicial cases.  A judicial panel's membership cannot change,
-      and if two panels have the same membership then they are the
-      same panel.  Judicial panels exist implicitly, without any
-      specific act of formation.
-
-      A judicial panel CAN send messages by means of any of its
-      members sending a message identified as being from the panel,
-      with the unanimous Support of the panel's other members, or
-      (unless the CotC is a member of the panel, the prior judge, or
-      unqualified to be assigned as judge of the prior case) with the
-      Support of at least half the other members and the Support of
-      the CotC.  The CotC SHOULD so Support a majority action if the
-      panel has made a reasonable effort to achieve consensus.  By
-      this mechanism a judicial panel can act, in situations where the
-      rules state that an action is performed by sending a message.
-
-      A judicial panel can incur obligations.  The members of a panel
-      SHALL act collectively to ensure that the panel satisfies all of
-      its obligations.
-
-[CFJ 1746 (called 21 September 2007): A judicial panel is not a
-person.]
-
-History:
-Created by Proposal 5086 (Zefram), 1 August 2007
-Amended(1) by Proposal 5134 (root), 17 August 2007
-Amended(2) by Proposal 5361 (Goethe), 20 December 2007
-Amended(3) by Proposal 5439 (Murphy), 13 February 2008
-Amended(4) by Proposal 5498 (Goethe), 23 April 2008
-Amended(5) by Proposal 5552 (Murphy, root), 21 June 2008
-
-----------------------------------------------------------------------
-
 Rule 2158/5 (Power=2)
 Judicial Questions
 
@@ -4030,27 +3923,6 @@ Amended(2) by Proposal 5317 (Murphy), 28 November 2007
 Amended(3) by Proposal 5429 (Zefram), 9 February 2008
 Amended(4) by Proposal 5464 (Murphy), 13 March 2008
 Amended(5) by Proposal 5474 (Murphy), 24 March 2008
-
-----------------------------------------------------------------------
-
-Rule 2164/2 (Power=1)
-Judicial Self-Recusal and Case Transfer
-
-      The judge of a judicial case CAN recuse emself from it at any
-      time by announcement.  If e has been assigned to the case for at
-      least four days, such a recusal is with cause.
-
-      An entity (the transferee) CAN, with consent from the current
-      judge of a judicial case (the transferor), assign emself as the
-      new judge of that case, provided that e is qualified to be
-      assigned as judge of that case, and e immediately (in the same
-      announcement) assigns a judgement to a judicial question in that
-      case.
-
-History:
-Created by Proposal 5131 (Zefram), 13 August 2007
-Amended(1) by Proposal 5151 (root), 29 August 2007
-Amended(2) by Proposal 5465 (Murphy), 13 March 2008
 
 ----------------------------------------------------------------------
 
@@ -4399,19 +4271,6 @@ Amended(31) by Proposal 5808 (Murphy; disi.), 1 November 2008
 
 ----------------------------------------------------------------------
 
-Rule 2190/0 (Power=2)
-Crime Doesn't Pay
-
-      Being in exile is a Losing Condition.
-
-      Being in the chokey is a Losing Condition.
-
-History:
-Created by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
-  16 January 2008
-
-----------------------------------------------------------------------
-
 Rule 2169/9 (Power=1.7)
 Equity Cases
 
@@ -4497,6 +4356,70 @@ Amended(6) by Proposal 5638 (Murphy), 29 July 2008
 Amended(7) by Proposal 5675 (Goethe), 3 September 2008
 Amended(8) by Proposal 5812 (Murphy), 1 November 2008
 Amended(9) by Proposal 5826 (Murphy), 6 November 2008
+
+----------------------------------------------------------------------
+
+Rule 2205/1 (Power=1)
+Judicial Arguments and Evidence
+
+      Each of the following participants in a judicial case SHOULD
+      present such arguments and/or evidence (explicitly labeled)
+      relevant to that case as e is reasonably able to collect:
+
+      1) The initiator, when initiating the case.
+
+      2) For a criminal case, the defendant, during the pre-trial
+         phase.
+
+      3) For an equity case, the parties to the agreement in question,
+         during the pre-trial phase.
+
+      4) The judge, when delivering judgement.
+
+      Matters of legal interpretation SHOULD be classified as
+      arguments; matters of fact SHOULD be classified as evidence.
+
+History:
+Created by Proposal 5487 (Murphy), 9 April 2008
+Amended(1) by Proposal 5526 (Murphy), 2 June 2008
+
+----------------------------------------------------------------------
+
+Rule 2157/5 (Power=1.7)
+Judicial Panels
+
+      A judicial panel is a structure whereby a group of two or more
+      persons (its members) act together for the purpose of judging
+      judicial cases.  A judicial panel's membership cannot change,
+      and if two panels have the same membership then they are the
+      same panel.  Judicial panels exist implicitly, without any
+      specific act of formation.
+
+      A judicial panel CAN send messages by means of any of its
+      members sending a message identified as being from the panel,
+      with the unanimous Support of the panel's other members, or
+      (unless the CotC is a member of the panel, the prior judge, or
+      unqualified to be assigned as judge of the prior case) with the
+      Support of at least half the other members and the Support of
+      the CotC.  The CotC SHOULD so Support a majority action if the
+      panel has made a reasonable effort to achieve consensus.  By
+      this mechanism a judicial panel can act, in situations where the
+      rules state that an action is performed by sending a message.
+
+      A judicial panel can incur obligations.  The members of a panel
+      SHALL act collectively to ensure that the panel satisfies all of
+      its obligations.
+
+[CFJ 1746 (called 21 September 2007): A judicial panel is not a
+person.]
+
+History:
+Created by Proposal 5086 (Zefram), 1 August 2007
+Amended(1) by Proposal 5134 (root), 17 August 2007
+Amended(2) by Proposal 5361 (Goethe), 20 December 2007
+Amended(3) by Proposal 5439 (Murphy), 13 February 2008
+Amended(4) by Proposal 5498 (Goethe), 23 April 2008
+Amended(5) by Proposal 5552 (Murphy, root), 21 June 2008
 
 ----------------------------------------------------------------------
 
@@ -4615,29 +4538,236 @@ Amended(22) by Proposal 5726 (Murphy), 7 October 2008
 
 ----------------------------------------------------------------------
 
-Rule 2205/1 (Power=1)
-Judicial Arguments and Evidence
+Rule 2175/3 (Power=1)
+Judicial Retraction and Excess
 
-      Each of the following participants in a judicial case SHOULD
-      present such arguments and/or evidence (explicitly labeled)
-      relevant to that case as e is reasonably able to collect:
+      If a judicial case (other than an appeal case) has not had any
+      judge assigned to it, then:
 
-      1) The initiator, when initiating the case.
+      a) Its initiator CAN retract it by announcement, thus causing it
+         to cease to be a judicial case.
 
-      2) For a criminal case, the defendant, during the pre-trial
-         phase.
-
-      3) For an equity case, the parties to the agreement in question,
-         during the pre-trial phase.
-
-      4) The judge, when delivering judgement.
-
-      Matters of legal interpretation SHOULD be classified as
-      arguments; matters of fact SHOULD be classified as evidence.
+      b) If its initiator previously initiated five or more cases
+         during the same Agoran week as that case, then it is an
+         excess case, and the Clerk of the Courts CAN refuse it by
+         announcement, thus causing it to cease to be a judicial case.
 
 History:
-Created by Proposal 5487 (Murphy), 9 April 2008
-Amended(1) by Proposal 5526 (Murphy), 2 June 2008
+Created by Proposal 5284 (root, pikhq), 7 November 2007
+Retitled by Proposal 5301 (Murphy), 28 November 2007
+Amended(1) by Proposal 5301 (Murphy), 28 November 2007
+Amended(2) by Proposal 5384 (Murphy), 1 January 2008
+Amended(3) by Proposal 5768 (Murphy), 17 October 2008
+
+----------------------------------------------------------------------
+
+Rule 1868/12 (Power=2)
+Judge Assignment Generally
+
+      At any time, a judicial case either has no judge assigned to it
+      (default) or has exactly one entity assigned to it as judge.
+      This is a persistent status that changes only according to the
+      rules.
+
+      At any time, a judicial case either does not require a judge
+      (default) or requires a judge.  This is not a persistent status,
+      but is evaluated instantaneously.
+
+      When a judicial case requires a judge and has no judge assigned,
+      the CotC CAN assign a qualified entity to be its judge by
+      announcement, and SHALL do so as soon as possible.
+
+      The entities qualified to be assigned as judge of a judicial
+      case are the active first-class players, subject to modification
+      by other rules.  Being unqualified to be assigned as a judge
+      does not inherently prevent an entity from continuing to be
+      judge of a case to which e is already assigned.
+
+      When a player is poorly qualified to be assigned as judge of a
+      judicial case, the Clerk of the Courts SHALL not assign em to be
+      the judge of that case; if e has done so, and that player is
+      still the judge of that case, then e CAN recuse that judge from
+      that case by announcement.
+
+      Making an entity unqualified or poorly qualified to judge is
+      secured, with a power threshold of 1.5.
+
+      To recuse a judge from a case is to deassign em as its judge.
+      Assigning a judge to a case implicitly recuses its existing
+      judge, if any.  A recusal is "with cause" if and only if stated
+      as such by the rules.
+
+[CFJ 1186: The Clerk of the Courts is required by Rule 1868 to select
+a Judge who is qualified ["eligible" at the time of CFJ 1186] at the
+time that the Judge is selected, regardless of whether that Player was
+qualified at the time that the CFJ was actually called for or when the
+identity of that Player is announced.]
+
+History:
+Created by Proposal 3816 (Repeal-O-Matic), Dec. 21 1998
+Amended(1) by Proposal 3962 (Wes), Jan. 20 2000
+Amended(2) by Proposal 4166 (Elysion), 11 June 2001
+Amended(3) by Proposal 4298 (Murphy), 17 May 2002
+Amended(4) by Proposal 4867 (Goethe), 27 August 2006
+Amended(5) by Proposal 5040 (Zefram), 28 June 2007
+Amended(6) by Proposal 5069 (Zefram), 11 July 2007
+Retitled by Proposal 5086 (Zefram), 1 August 2007
+Power changed from 1 to 2 by Proposal 5086 (Zefram), 1 August 2007
+Amended(7) by Proposal 5086 (Zefram), 1 August 2007
+Amended(8) by Proposal 5151 (root), 29 August 2007
+Amended(9) by Proposal 5217 (Murphy; disi.), 13 September 2007
+Amended(10) by Proposal 5248 (AFO; disi.), 14 October 2007
+Amended(11) by Proposal 5277 (Murphy, Zefram), 7 November 2007
+Amended(12) by Proposal 5317 (Murphy), 28 November 2007
+
+----------------------------------------------------------------------
+
+Rule 1871/25 (Power=1.5)
+The Standing Court
+
+      Posture is a player switch, tracked by the Clerk of the Courts,
+      with the following values:
+
+      * Standing.  Standing players are generally qualified to judge.
+
+      * Sitting.  Sitting players are poorly qualified to judge, but
+        will generally become qualified when the CotC rotates the
+        bench.
+
+      * Leaning.  Leaning players are poorly qualified to judge, but
+        are generally qualified to serve on appeal panels.
+
+      * Supine (default).  Supine players are unqualified to judge.
+
+      Changes to posture are secured.
+
+      A player CAN flip eir posture to any non-standing value by
+      announcement.
+
+      When the CotC assigns a player as judge, that player becomes
+      sitting.
+
+      The CotC CAN rotate the bench (change all sitting players to
+      standing) by announcement, but SHALL NOT do so unless there is a
+      judicial case to which e is obliged to assign a judge, all
+      entities qualified to be so assigned are poorly qualified, and e
+      immediately afterwards (in the same announcement) assigns a
+      judge to that case.
+
+      When the CotC recuses a non-supine player with cause, e CAN flip
+      that player's posture to supine by announcement in a timely
+      fashion.
+
+[CFJ 1765 (called 16 October 2007): When the CotC is obliged to change
+a player's posture due to recusal, this rule makes em capable of doing
+so.]
+
+[CFJ 1766 (called 16 October 2007): When the CotC is obliged to change
+a player's posture due to recusal, eir capability to do so exists as
+long as the obligation does, and this obligation does not terminate
+due to the time limit running out.]
+
+History:
+Created by Proposal 3821 (Blob), Jan. 12 1999
+Amended(1) by Proposal 4298 (Murphy), 17 May 2002
+Amended(2) by Proposal 4342 (root), 8 July 2002
+Amended(3) by Proposal 4523 (Murphy), 28 August 2003
+Amended(4) by Proposal 4563 (OscarMeyr), 6 April 2004
+Amended(5) by Proposal 4596 (Murphy), 4 July 2004
+Amended(6) by Proposal 4648 (Kolja), 22 March 2005
+Amended(7) by Proposal 4691 (root), 18 April 2005
+Amended(8) by Proposal 4867 (Goethe), 27 August 2006
+Amended(9) by Proposal 4912 (Murphy), 21 March 2007
+Amended(10) by Proposal 4958 (Murphy), 3 June 2007
+Retitled by Proposal 4991 (Murphy), 6 June 2007
+Amended(11) by Proposal 4991 (Murphy), 6 June 2007
+Amended(12) by Proposal 5069 (Zefram), 11 July 2007
+Power changed from 1 to 1.5 by Proposal 5086 (Zefram), 1 August 2007
+Amended(13) by Proposal 5086 (Zefram), 1 August 2007
+Amended(14) by Proposal 5111 (Murphy), 2 August 2007
+Amended(15) by Proposal 5248 (AFO; disi.), 14 October 2007
+Amended(16) by Proposal 5249 (AFO), 14 October 2007
+Amended(17) by Proposal 5250 (AFO), 14 October 2007
+Amended(18) by Proposal 5251 (Goddess Eris), 14 October 2007
+Amended(19) by Proposal 5259 (Zefram), 27 October 2007
+Amended(20) by Proposal 5261 (root; disi.), 31 October 2007
+Amended(21) by Proposal 5456 (Goddess Eris), 9 March 2008
+Amended(22) by Proposal 5468 (Murphy), 13 March 2008
+Amended(23) by Proposal 5474 (Murphy), 24 March 2008
+Amended(24) by Proposal 5500 (Murphy; disi.), 26 April 2008
+Amended(25) by Proposal 5771 (root), 17 October 2008
+
+----------------------------------------------------------------------
+
+Rule 2203/0 (Power=1.5)
+Hawkishness
+
+      Hawkishness is a player switch, tracked by the Clerk of the
+      Courts, with the following values:
+
+      * Hanging.  Hanging players are unqualified to be assigned as
+        judge of any inquiry case.
+
+      * Hugging.  Hugging players are unqualified to be assigned as
+        judge of any criminal case, and poorly qualified to be
+        assigned as judge of any equity case.
+
+      * Hemming-and-Hawing (default).
+
+      Changes to hawkishness are secured.
+
+      A player CAN flip eir hawkishness by announcement.
+
+History:
+Created by Proposal 5468 (Murphy), 13 March 2008
+
+----------------------------------------------------------------------
+
+Rule 2204/0 (Power=1.5)
+Linked Assignments
+
+      When the Clerk of the Courts assigns a player as judge of two or
+      more judicial cases consecutively in the same announcement, that
+      player only becomes sitting upon the last such assignment, rules
+      to the contrary notwithstanding.  The CotC SHOULD NOT do this
+      unless those cases are closely related in their subject matter.
+
+History:
+Created by Proposal 5468 (Murphy), 13 March 2008
+
+----------------------------------------------------------------------
+
+Rule 2164/2 (Power=1)
+Judicial Self-Recusal and Case Transfer
+
+      The judge of a judicial case CAN recuse emself from it at any
+      time by announcement.  If e has been assigned to the case for at
+      least four days, such a recusal is with cause.
+
+      An entity (the transferee) CAN, with consent from the current
+      judge of a judicial case (the transferor), assign emself as the
+      new judge of that case, provided that e is qualified to be
+      assigned as judge of that case, and e immediately (in the same
+      announcement) assigns a judgement to a judicial question in that
+      case.
+
+History:
+Created by Proposal 5131 (Zefram), 13 August 2007
+Amended(1) by Proposal 5151 (root), 29 August 2007
+Amended(2) by Proposal 5465 (Murphy), 13 March 2008
+
+----------------------------------------------------------------------
+
+Rule 2190/0 (Power=2)
+Crime Doesn't Pay
+
+      Being in exile is a Losing Condition.
+
+      Being in the chokey is a Losing Condition.
+
+History:
+Created by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
+  16 January 2008
 
 ----------------------------------------------------------------------
 
@@ -5178,70 +5308,29 @@ Amended(4) by Proposal 5817 (Murphy), 1 November 2008
 
 ----------------------------------------------------------------------
 
-Rule 2145/5 (Power=2)
-Partnerships
+Rule 2179/3 (Power=2)
+Points
 
-      A binding agreement governed by the rules which devolves its
-      legal obligations onto a subset of its parties, numbering at
-      least two, collectively, is a partnership.  The members of a
-      partnership are those parties onto whom the partnership's legal
-      obligations are collectively devolved.  A partnership's identity
-      and partnershiphood are not disrupted by changes to its
-      membership provided that it continues to meet the definition of
-      a partnership.
+      Points are a class of fixed assets.  Ownership of points is
+      restricted to players.  If winning is secured, then changes to
+      point holdings are secured with the same power threshold.
 
-      A partnership's basis is the set consisting of the union of the
-      the bases of each of its members.  Where circularity occurs in
-      this definition, it is resolved by using the minimum basis sets
-      that provide consistency.
+      Points are a currency.  The number of points owned by a player
+      is eir score.
 
-      A partnership that is a public contract and whose basis contains
-      at least two persons is a person.
+      The Scorekeepor is a high-priority office, and the recordkeepor
+      of points.
 
-      If a judge finds a partnership guilty in a criminal proceedings,
-      e may sentence one or more members of the partnership for the
-      crime rather than the partnership itself.  To be an appropriate
-      sentence in this case, the judge SHOULD use the text of the
-      partnership as a guide to the devolution of sentencing but is
-      not bound to follow the text if it is unclear on the subject or
-      would not adequately apply responsibility.
-
-[CFJ 1701 (called 11 July 2007): To qualify as a member of a
-partnership it is not necessary to be responsible for all of the
-partnership's obligations.]
-
-[CFJ 1864 (called 12 January 2008): The devolution of a partnership's
-legal obligations onto its members may be achieved by means of a
-contract other than the partnership.]
-
-[CFJ 1750 (called 24 September 2007): Partnerships can have non-player
-members and nothing in the rules causes a member to cease being so due
-to deregistration.]
-
-[CFJ 1855 (called 29 December 2007): A person who is not a party to a
-partnership contract cannot have obligations placed on em by that
-contract, and so cannot be a member of the partnership.]
+[Cross-references (16 January 2008): the Scorekeepor's duties are:
+  * recordkeepor of points (rule 2179)]
 
 History:
-Created by Proposal 4977 (BobTHJ), 31 May 2007
-Amended(1) by Proposal 5041 (BobTHJ), 28 June 2007
-Power changed from 1 to 2 by Proposal 5061 (Zefram), 9 July 2007
-Amended(2) by Proposal 5061 (Zefram), 9 July 2007
-Amended(3) by Proposal 5303 (root), 24 November 2007
-Amended(4) by Proposal 5381 (Goethe), 1 January 2008
-Amended(5) by Proposal 5776 (Goethe), 17 October 2008
-
-----------------------------------------------------------------------
-
-Rule 2174/0 (Power=1)
-Aliens
-
-      An alien is a non-player who is a member of the basis of one or
-      more contracts (hereafter eir visas).  A resident alien is an
-      alien with one or more registered visas.
-
-History:
-Created by Proposal 5274 (Murphy), 7 November 2007
+Created by Proposal 5328 (Goethe), 5 December 2007
+Amended(1) by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
+  16 January 2008
+Power changed from 1 to 2 by Proposal 5793 (root), 22 October 2008
+Amended(2) by Proposal 5793 (root), 22 October 2008
+Amended(3) by Proposal 5802 (Murphy; disi.), 3 November 2008
 
 ----------------------------------------------------------------------
 
@@ -5332,32 +5421,6 @@ Amended(21) by Proposal 5784 (Pavitra, Murphy, comex), 22 October 2008
 Power changed from 1 to 2 by Proposal 5793 (root), 22 October 2008
 Amended(22) by Proposal 5943 (woggle), 15 November 2008
 Amended(23) by Proposal 5972 (root), 25 November 2008
-
-----------------------------------------------------------------------
-
-Rule 2179/3 (Power=2)
-Points
-
-      Points are a class of fixed assets.  Ownership of points is
-      restricted to players.  If winning is secured, then changes to
-      point holdings are secured with the same power threshold.
-
-      Points are a currency.  The number of points owned by a player
-      is eir score.
-
-      The Scorekeepor is a high-priority office, and the recordkeepor
-      of points.
-
-[Cross-references (16 January 2008): the Scorekeepor's duties are:
-  * recordkeepor of points (rule 2179)]
-
-History:
-Created by Proposal 5328 (Goethe), 5 December 2007
-Amended(1) by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
-  16 January 2008
-Power changed from 1 to 2 by Proposal 5793 (root), 22 October 2008
-Amended(2) by Proposal 5793 (root), 22 October 2008
-Amended(3) by Proposal 5802 (Murphy; disi.), 3 November 2008
 
 ----------------------------------------------------------------------
 
@@ -5521,18 +5584,6 @@ Power changed from 3 to 1 by Proposal 5947 (ais523), 15 November 2008
 
 ----------------------------------------------------------------------
 
-Rule 2184/0 (Power=1)
-Foreign communications
-
-      When the Ambassador informs a foreign nomic of an event, e SHALL
-      use the forum (if any) specified by that nomic for announcing
-      that type of event.
-
-History:
-Created by Proposal 5390 (Murphy), 16 January 2008
-
-----------------------------------------------------------------------
-
 Rule 2148/2 (Power=1)
 The Ambassador
 
@@ -5586,6 +5637,18 @@ Foreign Relations
 
 History:
 Created by Proposal 5392 (Murphy), 16 January 2008
+
+----------------------------------------------------------------------
+
+Rule 2184/0 (Power=1)
+Foreign communications
+
+      When the Ambassador informs a foreign nomic of an event, e SHALL
+      use the forum (if any) specified by that nomic for announcing
+      that type of event.
+
+History:
+Created by Proposal 5390 (Murphy), 16 January 2008
 
 ----------------------------------------------------------------------
 
@@ -5717,54 +5780,6 @@ Trophies
       A category concerning commemoration and symbolism.
 ----------------------------------------------------------------------
 
-Rule 2105/3 (Power=1)
-The Map of Agora
-
-                               ____  _        /|
-                    DARWIN ->  \_  |/ |      / \
-                              __/    /      |  |
-            <- DSV          /      /        |  \
-                        _   \      \_       |   \
-                  MORNINGTON CRESCENT ->    /    |  <- GOETHE BARRIER
-                 _ _/       |         \_/\_/     \     REEF
-                / \\ <- SHARK BAY      |         |
-               /            |          |          \ <- TOWNSVILLE
-            ___/            |          |           \_
-         __/                |          |  .___o  )   |
-        /                   |          | ~~vv ===~~~ <-OSCAR'S MIRE
-       /           O <- SHERLOCK NESS  |             |/\
-      |                     |          |               |_
-      |                     |          |  EMERALD ->     \
-      \                     |__________=_____,             \ BRISBANE
-       /                    |                |             | <-'
-       \      O <- LT. ANNE MOORE            |        __  _\
-        \                   |                |_______/  \/ |  LORD
-         |                __/\      <- TARCOOLA           /   HOWE ->
-         \  PERTH      __/    \_             /           /
-          | <-'  _  __/         |   /| IVANHOE ->       | <-.
-          /    _/ \/             \ / /       |         /  WOLLONGONG
-         |_   /     <- ESPERANTO  v /__     |_        / <- CANBERRA
-           \_/                         \    | \_    _|
-                  __   __              |    |   \__/
-                 __ \ / __              \___=_  ___|
-                /  \ | /  \     MANUBOURNE -> \/
-                    \|/
-               _,.---v---._                 /\__
-      /\__/\  /            \                |   |
-      \_  _/ /              \                |  /
-        \ \_|           @ __|                \_/ <- HOBART
-         \                \_
-          \     ,__/       /
-        ~~~`~~~~~~~~~~~~~~/~~~~
-
-History:
-Created by Proposal 4735 (Maud), 5 May 2005
-Amended(1) by Proposal 4807 (Sherlock), 15 June 2005
-Amended(2) by Proposal 4866 (Goethe), 27 August 2006
-Amended(3) by Proposal 4946 (Zefram), 3 May 2007
-
-----------------------------------------------------------------------
-
 Rule 1727/17 (Power=1)
 Happy Birthday
 
@@ -5832,21 +5847,6 @@ Amended(???) by Proposal 4866 (Goethe), 27 August 2006
 Amended(15) by Proposal 4880 (Murphy), 22 January 2007
 Amended(16) by Proposal 4887 (Murphy), 22 January 2007
 Amended(17) by Proposal 5364 (Murphy), 20 December 2007
-
-----------------------------------------------------------------------
-
-Rule 104/0 (Power=3)
-First Speaker
-
-      The Speaker for the first game shall be Michael Norrish.
-
-[CFJ 1534 (called 8 March 2005): This does not mean that Michael
-Norrish necessarily fills the position of Speaker at the present
-time.]
-
-History:
-Initial Immutable Rule 104, Jun. 30 1993
-Mutated from MI=Unanimity to MI=3 by Proposal 1482, Mar. 15 1995
 
 ----------------------------------------------------------------------
 
