@@ -1,22 +1,22 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5979
-Last change to this ruleset: by proposal 5979
+Last proposal with recorded effect on this ruleset: 5982
+Last change to this ruleset: by proposal 5982
 
 Rule ID numbers:
-      highest orderly: 2222
+      highest orderly: 2223
       disorderly: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 120
+Current total number of rules: 121
 
 Power distribution:
        1 with Power=4
       31 with Power=3
-      44 with Power=2
+      45 with Power=2
        5 with Power=1.7
        4 with Power=1.5
       35 with Power=1
@@ -67,6 +67,7 @@ Index of Rules
       Rule 2221: Cleanliness
       Rule 2216: The Repeal-o-Matic
       Rule 1750: Read the Ruleset Week
+      Rule 2223: Win by Junta
 
       * Players
       Rule  869: How to Join and Leave Agora
@@ -1125,6 +1126,23 @@ Read the Ruleset Week
 History:
 Created by Proposal 3601 (Chuck), Dec. 9 1997
 Amended(1) by Proposal 4398 (harvel), 23 October 2002
+
+----------------------------------------------------------------------
+
+Rule 2223/0 (Power=2)
+Win by Junta
+
+      When a rule comes to state that one or more persons CAN cause it
+      to make arbitrary rule changes by announcement, all those
+      persons satisfy the Winning Condition of Dictatorship.
+
+      Cleanup procedure:  Those persons SHALL as soon as possible
+      amend the rule so that it no longer states this, and SHOULD
+      amend the rules to prevent this condition from being achieved
+      again in essentially the same way.
+
+History:
+Created by Proposal 5982 (Murphy), 29 November 2008
 
 ----------------------------------------------------------------------
 
