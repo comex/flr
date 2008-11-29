@@ -111,6 +111,7 @@ Index of Rules
       Rule  693: Agoran Decisions
       Rule  107: Initiating Agoran Decisions
       Rule  683: Voting on Agoran Decisions
+      Rule 2196: Standard Classes of Agoran Decisions
       Rule 2127: Conditional Votes
       Rule 2222: Maximum Voting Limits
       Rule 2168: Extending the voting period
@@ -118,7 +119,6 @@ Index of Rules
       Rule  955: Determining the Will of Agora
       Rule  879: Quorum
       Rule 2034: Vote Protection and Cutoff for Challenges
-      Rule 2196: Standard Classes of Agoran Decisions
 
       * Proposals
       Rule  106: Adopting Proposals
@@ -2922,6 +2922,29 @@ Amended(14) by Proposal 5078 (Zefram), 18 July 2007
 
 ----------------------------------------------------------------------
 
+Rule 2196/1 (Power=3)
+Standard Classes of Agoran Decisions
+
+      An Agoran decision with an adoption index is either ordinary or
+      democratic.  An Agoran decision with an adoption index greater
+      than or equal to 2 is democratic.  Any other Agoran decision
+      with an adoption index is ordinary by default.
+
+      If an Agoran decision has an adoption index, then the following
+      are essential parameters:
+
+      a) Its adoption index.
+      b) Whether it is ordinary or democratic.
+
+      For any Agoran decision with an adoption index, the available
+      options are FOR, AGAINST, and PRESENT.
+
+History:
+Created by Proposal 5418 (root), 2 February 2008
+Amended(1) by Proposal 5455 (Murphy), 1 March 2008
+
+----------------------------------------------------------------------
+
 Rule 2127/3 (Power=1)
 Conditional Votes
 
@@ -3168,29 +3191,6 @@ Amended(1) by Proposal 4637 (Murphy), 19 February 2005
 Amended(2) by Proposal 4811 (Maud, Goethe), 20 June 2005
 Amended(3) by Proposal 5212 (Murphy), 8 September 2007
 Amended(4) by Proposal 5275 (Murphy), 7 November 2007
-
-----------------------------------------------------------------------
-
-Rule 2196/1 (Power=3)
-Standard Classes of Agoran Decisions
-
-      An Agoran decision with an adoption index is either ordinary or
-      democratic.  An Agoran decision with an adoption index greater
-      than or equal to 2 is democratic.  Any other Agoran decision
-      with an adoption index is ordinary by default.
-
-      If an Agoran decision has an adoption index, then the following
-      are essential parameters:
-
-      a) Its adoption index.
-      b) Whether it is ordinary or democratic.
-
-      For any Agoran decision with an adoption index, the available
-      options are FOR, AGAINST, and PRESENT.
-
-History:
-Created by Proposal 5418 (root), 2 February 2008
-Amended(1) by Proposal 5455 (Murphy), 1 March 2008
 
 ----------------------------------------------------------------------
 
