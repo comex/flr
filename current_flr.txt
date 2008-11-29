@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5982
-Last change to this ruleset: by proposal 5982
+Last proposal with recorded effect on this ruleset: 5983
+Last change to this ruleset: by proposal 5983
 
 Rule ID numbers:
       highest orderly: 2223
@@ -15,11 +15,11 @@ Current total number of rules: 121
 
 Power distribution:
        1 with Power=4
-      31 with Power=3
+      32 with Power=3
       45 with Power=2
        5 with Power=1.7
        4 with Power=1.5
-      35 with Power=1
+      34 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -2504,7 +2504,7 @@ Amended(2) by Proposal 5485 (root), 9 April 2008
 
 ----------------------------------------------------------------------
 
-Rule 2160/3 (Power=1)
+Rule 2160/3 (Power=3)
 Deputisation
 
       Any player (a deputy) CAN perform an action as if e held a
@@ -2534,6 +2534,8 @@ Created by Proposal 5103 (Zefram), 1 August 2007
 Amended(1) by Proposal 5200 (Zefram; disi.), 8 September 2007
 Amended(2) by Proposal 5414 (Murphy), 26 January 2008
 Amended(3) by Proposal 5454 (Murphy), 9 March 2008
+Power changed from 1 to 3 by Proposal 5983 (Warrigal), 29 November
+  2008
 
 ----------------------------------------------------------------------
 
