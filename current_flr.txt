@@ -5425,7 +5425,7 @@ Amended(3) by Proposal 5802 (Murphy; disi.), 3 November 2008
 
 ----------------------------------------------------------------------
 
-Rule 2136/23 (Power=2)
+Rule 2136/24 (Power=2)
 Contests
 
       Contestmaster is a public contract switch, tracked by the
@@ -5464,15 +5464,15 @@ Contests
       to 'none'.
 
       The total number of points a Contest MAY award in a given week
-      is equal to 5 times the number of its parties that are first-
-      class players.  Points up to this total CAN be awarded by the
-      contestmaster to other parties by public announcement, and MUST
-      be awarded as explicitly described in the contract.
+      is equal to 5 times the number of its parties that are active
+      first-class players.  Points up to this total CAN be awarded by
+      the contestmaster to other parties by public announcement, and
+      MUST be awarded as explicitly described in the contract.
 
       The total number of points a Contest MAY revoke in a given week
-      is equal to 2 times the number of its parties that are first-
-      class players.  Points up to this total CAN be revoked by the
-      contestmaster from other parties by public announcement, and
+      is equal to 2 times the number of its parties that are active
+      first-class players.  Points up to this total CAN be revoked by
+      the contestmaster from other parties by public announcement, and
       MUST be revoked as explicitly described in the contract.
 
       For each contest, ASAP after the beginning of each month, the
@@ -5512,6 +5512,7 @@ Amended(21) by Proposal 5784 (Pavitra, Murphy, comex), 22 October 2008
 Power changed from 1 to 2 by Proposal 5793 (root), 22 October 2008
 Amended(22) by Proposal 5943 (woggle), 15 November 2008
 Amended(23) by Proposal 5972 (root), 25 November 2008
+Amended(24) by Proposal 5971 (Elysion), 20 November 2008
 
 ----------------------------------------------------------------------
 
