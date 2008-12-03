@@ -4902,7 +4902,7 @@ Amended(27) by Proposal 5437 (Goethe), 13 February 2008
 
 ----------------------------------------------------------------------
 
-Rule 1922/27 (Power=1)
+Rule 1922/28 (Power=1)
 Defined Regular Patent Titles
 
       The following are Patent Titles:
@@ -4948,9 +4948,8 @@ Defined Regular Patent Titles
            all non-players; if it is still greater, then this title
            is administratively revoked from the Speaker.
 
-      (f)  Left in a Huff, to be awarded by the Registrar (whichever
-           one gets around to it first) to any player who deregistered
-           in a Writ of FAGE.
+      (f)  Left in a Huff, to be awarded by the Registrar  to any
+           player who deregistered in a Writ of FAGE.
 
       (g)  Elder Lurker, to be awarded to Persons who are true legends
            that were involved in Agora in its early days and now
@@ -4991,6 +4990,7 @@ Amended(24) by Proposal 5559 (Quazie, BobTHJ), 25 June 2008
 Amended(25) by Proposal 5596 (Murphy), 29 July 2008
 Amended(26) by Proposal 5805 (Murphy, Zefram), 29 October 2008
 Amended(27) by Proposal 5815 (Pavitra, Murphy), 1 November 2008
+Amended(28) by Proposal 5967 (Murphy), 20 November 2008
 
 ----------------------------------------------------------------------
 
