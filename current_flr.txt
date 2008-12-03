@@ -4,22 +4,22 @@ Last proposal with recorded effect on this ruleset: 5983
 Last change to this ruleset: by proposal 5983
 
 Rule ID numbers:
-      highest orderly: 2223
+      highest orderly: 2227
       disorderly: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 121
+Current total number of rules: 125
 
 Power distribution:
        1 with Power=4
       32 with Power=3
       45 with Power=2
        5 with Power=1.7
-       4 with Power=1.5
-      34 with Power=1
+       6 with Power=1.5
+      36 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -88,6 +88,7 @@ Index of Rules
       Rule 1023: Common Definitions
       Rule 1769: Holidays
       Rule 2161: ID Numbers
+      Rule 2153: Interest Index
       Rule 2146: Indices
       Rule 2162: Switches
       Rule  478: Fora
@@ -99,6 +100,7 @@ Index of Rules
       * Offices
       Rule 1006: Offices
       Rule 2143: Official Reports and Duties
+      Rule 2227: Interest Index of Offices
       Rule 2160: Deputisation
       Rule 2154: Election Procedure
       Rule 2217: Periodic Elections
@@ -122,7 +124,7 @@ Index of Rules
 
       * Proposals
       Rule  106: Adopting Proposals
-      Rule 2153: Interest Index
+      Rule 2224: Interest Index of Proposals
       Rule 1607: The Promotor
       Rule 1950: Voting on Democratic Decisions
       Rule 2156: Voting on Ordinary Decisions
@@ -137,6 +139,7 @@ Index of Rules
 
       * Adjudication
       Rule  991: Judicial Cases Generally
+      Rule 2225: Interest Index of Judicial Cases
       Rule 2158: Judicial Questions
       Rule  591: Inquiry Cases
       Rule 1504: Criminal Cases
@@ -148,6 +151,7 @@ Index of Rules
       Rule 1868: Judge Assignment Generally
       Rule 1871: The Standing Court
       Rule 2203: Hawkishness
+      Rule 2226: Judicial Rank
       Rule 2204: Linked Assignments
       Rule 2164: Judicial Self-Recusal and Case Transfer
       Rule 2190: Crime Doesn't Pay
@@ -1943,6 +1947,23 @@ Power changed from 2 to 1 by Proposal 5947 (ais523), 15 November 2008
 
 ----------------------------------------------------------------------
 
+Rule 2153/2 (Power=1)
+Interest Index
+
+      An entity's interest index is an integer from 0 to 3, default
+      value 1.  An entity's interest index SHOULD be proportional to
+      its complexity.
+
+      "Disinterested" is a synonym for "interest index 0".
+
+History:
+Created by Proposal 5056 (Murphy), 5 July 2007
+Retitled by Proposal 5176 (Murphy), 29 August 2007
+Amended(1) by Proposal 5176 (Murphy), 29 August 2007
+Amended(2) by Proposal 5970 (Murphy), 20 November 2008
+
+----------------------------------------------------------------------
+
 Rule 2146/1 (Power=2)
 Indices
 
@@ -2501,6 +2522,20 @@ Created by Proposal 4970 (Zefram), 23 May 2007
 Amended(1) by Proposal 5239 (AFO), 3 October 2007
 Retitled by Proposal 5485 (root), 9 April 2008
 Amended(2) by Proposal 5485 (root), 9 April 2008
+
+----------------------------------------------------------------------
+
+Rule 2227/0 (Power=1)
+Interest Index of Offices
+
+      Each office has an interest index.
+
+      A player CAN flip an office's interest index to any value
+      without objection, or without 2 objections if e holds the
+      office.
+
+History:
+Created by Proposal 5970 (Murphy), 20 November 2008
 
 ----------------------------------------------------------------------
 
@@ -3283,22 +3318,16 @@ Amended(13) by Proposal 5572 (Murphy), 4 July 2008
 
 ----------------------------------------------------------------------
 
-Rule 2153/1 (Power=1)
-Interest Index
+Rule 2224/0 (Power=1)
+Interest Index of Proposals
 
-      The interest index of a proposal is an integer from 0 to 3.  It
-      CAN be set by the proposer at the time of submission, or
-      otherwise defaults to 1.  A proposal's interest index SHOULD be
-      proportional to its complexity.
-
-      "Disinterested" is a synonym for "interest index 0".  A proposal
-      SHOULD be disinterested if and only if its effects are limited
-      to correcting errors and/or ambiguities.
+      Each proposal has an interest index, which CAN be set by its
+      author at the time of submission.  A proposal SHOULD be
+      disinterested if and only if its effects are limited to
+      correcting errors and/or ambiguities.
 
 History:
-Created by Proposal 5056 (Murphy), 5 July 2007
-Retitled by Proposal 5176 (Murphy), 29 August 2007
-Amended(1) by Proposal 5176 (Murphy), 29 August 2007
+Created by Proposal 5970 (Murphy), 20 November 2008
 
 ----------------------------------------------------------------------
 
@@ -3630,7 +3659,7 @@ Amended(2) by Proposal 5696 (Goethe), 20 September 2008
 
 ----------------------------------------------------------------------
 
-Rule 2126/57 (Power=2)
+Rule 2126/58 (Power=2)
 Notes
 
       Notes are a class of fixed assets.  Ownership of Notes is
@@ -3666,15 +3695,18 @@ Notes
 
       (2) (E)  At the end of each week, each player who completed the
                non-empty set of weekly duties of at least one office
-               during that week gains an E Note.
+               during that week gains a number of E Notes equal to the
+               highest interest index among all such offices.
 
           (Eb) At the end of each month, each player who completed the
                non-empty set of monthly duties of at least one office
-               during that month gains an Eb Note.
+               during that month gains a number of Eb Notes equal to
+               the highest interest index among all such offices.
 
       (3) (D)  At the end of each week, each player who published at
-               least one on-time judgement during that week gains a D
-               Note.
+               least one on-time judgement during that week gains a
+               number of D Notes equal to the highest interest index
+               among all such cases.
 
       (4) (C)  At the end of each week, each player who gained at
                least one Point during that week gains a C Note.
@@ -3798,6 +3830,7 @@ Amended(55) by Proposal 5553 (Murphy), 21 June 2008
 Amended(56) by Proposal 5625 (Murphy, OscarMeyr, Ivan Hope), 29 July
   2008
 Amended(57) by Proposal 5791 (Murphy), 22 October 2008
+Amended(58) by Proposal 5970 (Murphy), 20 November 2008
 
 ----------------------------------------------------------------------
 
@@ -3887,6 +3920,19 @@ Amended(8) by Proposal 5086 (Zefram), 1 August 2007
 Amended(9) by Proposal 5110 (Murphy), 2 August 2007
 Amended(10) by Proposal 5317 (Murphy), 28 November 2007
 Amended(11) by Proposal 5464 (Murphy), 13 March 2008
+
+----------------------------------------------------------------------
+
+Rule 2225/0 (Power=1.5)
+Interest Index of Judicial Cases
+
+      Each judicial case has an interest index, which CAN be set by
+      its initiator at the time of initiation, and CAN be changed
+      by any player without 2 objections, or by the Clerk of the
+      Courts or Justiciar without 3 objections.
+
+History:
+Created by Proposal 5970 (Murphy), 20 November 2008
 
 ----------------------------------------------------------------------
 
@@ -4740,6 +4786,31 @@ Hawkishness
 
 History:
 Created by Proposal 5468 (Murphy), 13 March 2008
+
+----------------------------------------------------------------------
+
+Rule 2226/0 (Power=1.5)
+Judicial Rank
+
+      Judicial rank is a player switch, tracked by the Clerk of the
+      Courts, with the same range and default as interest indices.
+
+      A player is poorly qualified to judge judicial cases whose
+      interest index exceeds eir judicial rank.
+
+      A player CAN flip eir judicial rank to any value by
+      announcement.
+
+      When a judgement is overruled on appeal, if the prior judge's
+      rank is higher than 1, then it is decreased by 1, and e CANNOT
+      increase it for 30 days afterward (the rest of this rule
+      notwithstanding).
+
+      "District", "Circuit", and "Supreme" are synonymous with
+      judicial ranks 1, 2, and 3, respectively.
+
+History:
+Created by Proposal 5970 (Murphy), 20 November 2008
 
 ----------------------------------------------------------------------
 
