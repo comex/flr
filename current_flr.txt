@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5989
-Last change to this ruleset: by proposal 5989
+Last proposal with recorded effect on this ruleset: 5991
+Last change to this ruleset: by proposal 5991
 
 Rule ID numbers:
       highest orderly: 2227
@@ -1448,7 +1448,7 @@ Amended(1) by Proposal 5172 (Murphy), 29 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 1789/4 (Power=2)
+Rule 1789/5 (Power=2)
 Cantus Cygneus
 
       Whenever a Player feels that e has been treated so egregiously
@@ -1469,6 +1469,10 @@ Cantus Cygneus
       henceforth, all may know said Player deregistered in a Writ of
       FAGE.
 
+      A player who has deregistered in a Writ of FAGE may not register
+      within thirty days of eir deregistration, other rules to the
+      contrary notwithstanding.
+
 [CFJ 1594 (called 16 December 2006): Players can be deregistered due
 to this rule even if there is no Registrar.]
 
@@ -1480,6 +1484,7 @@ Amended(3) by Proposal 4825 (Maud), 17 July 2005
 Power changed from 1 to 2 by Proposal 5780 (comex, ehird), 22 October
   2008
 Amended(4) by Proposal 5815 (Pavitra, Murphy), 1 November 2008
+Amended(5) by Proposal 5991 (Elysion), 7 December 2008
 
 ----------------------------------------------------------------------
 
