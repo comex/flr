@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5994
-Last change to this ruleset: by proposal 5994
+Last proposal with recorded effect on this ruleset: 5995
+Last change to this ruleset: by proposal 5995
 
 Rule ID numbers:
       highest orderly: 2227
@@ -2204,7 +2204,7 @@ Amended(26) by proposal 5818 (comex), 1 November 2008
 
 ----------------------------------------------------------------------
 
-Rule 1728/21 (Power=3)
+Rule 1728/22 (Power=3)
 Dependent Actions
 
       A person (the performer) CAN perform an action dependently (a
@@ -2212,8 +2212,8 @@ Dependent Actions
       following are true:
 
        a) The rules explicitly authorize the performer to perform the
-          action by at least one of the following methods (N is 1 if
-          not otherwise specified):
+          action by a set of one or more of the following methods (N
+          is 1 if not otherwise specified):
 
             1) Without N Objections, where N is a positive integer.
             2) With N Supporters, where N is a positive integer.
@@ -2222,9 +2222,9 @@ Dependent Actions
 
        b) A person (the initiator) announced intent to perform the
           action, unambiguously and clearly specifying the action and
-          method (including the value of N), at most fourteen days
-          earlier, and (if the action depends on objections) at least
-          four days earlier.
+          method(s) (including the value of N for each method), at
+          most fourteen days earlier, and (if the action depends on
+          objections) at least four days earlier.
 
        c) At least one of the following is true:
 
@@ -2279,10 +2279,11 @@ Amended(19) by Proposal 5543 (Murphy, Pavitra, root), 16 June 2008
 Amended(20) by Proposal 5775 (Murphy), 17 October 2008
 Amended(21) by Proposal 5818 (comex), 1 November 2008
 Power changed from 2 to 3 by Proposal 5947 (ais523), 15 November 2008
+Amended(22) by Proposal 5995 (Murphy), 7 December 2008
 
 ----------------------------------------------------------------------
 
-Rule 2124/8 (Power=2)
+Rule 2124/9 (Power=2)
 Agoran Satisfaction
 
       A Supporter of a dependent action is a first-class player who
@@ -2303,15 +2304,15 @@ Agoran Satisfaction
       Agora is Satisfied with an intent to perform a specific action
       if and only if:
 
-      (1) the action is to be performed Without N Objections, and it
-          has fewer than N objectors;
+      (1) if the action is to be performed Without N Objections, then
+          it has fewer than N objectors;
 
-      (2) the action is to be performed With N supporters, and it has
-          N or more supporters; or
+      (2) if the action is to be performed With N supporters, then it
+          has N or more supporters; and
 
-      (3) the action is to be performed with N Agoran Consent, and the
-          ratio of supporters to objectors is greater than N, or the
-          action has at least one supporter and no objectors.
+      (3) if the action is to be performed with N Agoran Consent, then
+          the ratio of supporters to objectors is greater than N, or
+          the action has at least one supporter and no objectors.
 
 History:
 Created by Proposal 4853 (Goethe), 18 March 2006
@@ -2327,6 +2328,7 @@ Retitled by Proposal 5445 (Goethe, Murphy), 21 February 2008
 Amended(6) by Proposal 5445 (Goethe, Murphy), 21 February 2008
 Amended(7) by Proposal 5504 (Murphy), 10 May 2008
 Amended(8) by Proposal 5767 (Murphy), 17 October 2008
+Amended(9) by Proposal 5995 (Murphy), 7 December 2008
 
 ----------------------------------------------------------------------
 
