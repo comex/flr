@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5998
-Last change to this ruleset: by proposal 5998
+Last proposal with recorded effect on this ruleset: 6000
+Last change to this ruleset: by proposal 6000
 
 Rule ID numbers:
       highest orderly: 2227
@@ -4134,7 +4134,7 @@ Amended(27) by Proposal 5964 (Murphy), 18 November 2008
 
 ----------------------------------------------------------------------
 
-Rule 1504/31 (Power=2)
+Rule 1504/32 (Power=2)
 Criminal Cases
 
       There is a subclass of judicial case known as a criminal case. A
@@ -4173,11 +4173,12 @@ Criminal Cases
       valid judgements for this question are:
 
       * OVERLOOKED, appropriate if the initiating announcement alleged
-      a rule breach at least 200 days before the case was initiated
+        a rule breach at least 200 days before the case was initiated
 
-      * ALREADY TRIED, appropriate if judgement has already been
-        reached in another criminal case with the same defendant, the
-        same rule, and substantially the same alleged act
+      * ALREADY TRIED, appropriate if judgement (other than ALREADY
+        TRIED) has already been reached in another criminal case with
+        the same defendant, the same rule, and substantially the same
+        alleged act
 
       * UNIMPUGNED, appropriate if the alleged act would not have
         violated the specified rule
@@ -4352,6 +4353,7 @@ Amended(29) by Proposal 5711 (Murphy, woggle), 7 October 2008
 Power changed from 1.7 to 2 by Proposal 5728 (ihope), 7 October 2008
 Amended(30) by Proposal 5728 (ihope), 7 October 2008
 Amended(31) by Proposal 5808 (Murphy; disi.), 1 November 2008
+Amended(32) by Proposal 6000 (Murphy), 7 December 2008
 
 ----------------------------------------------------------------------
 
