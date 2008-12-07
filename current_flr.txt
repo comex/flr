@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5986
-Last change to this ruleset: by proposal 5986
+Last proposal with recorded effect on this ruleset: 5989
+Last change to this ruleset: by proposal 5989
 
 Rule ID numbers:
       highest orderly: 2227
@@ -5427,7 +5427,7 @@ Amended(3) by Proposal 5802 (Murphy; disi.), 3 November 2008
 
 ----------------------------------------------------------------------
 
-Rule 2136/24 (Power=2)
+Rule 2136/25 (Power=2)
 Contests
 
       Contestmaster is a public contract switch, tracked by the
@@ -5435,8 +5435,7 @@ Contests
       values which consists of all first-class players and 'none'.
 
       A public contract is a contest if and only if it has a
-      contestmaster other than 'none'. The Scorekeepor's report
-      contains the contestmaster of each contest.
+      contestmaster other than 'none'.
 
       The contestmaster of a contract CANNOT be flipped if any of the
       following are true:
@@ -5515,6 +5514,7 @@ Power changed from 1 to 2 by Proposal 5793 (root), 22 October 2008
 Amended(22) by Proposal 5943 (woggle), 15 November 2008
 Amended(23) by Proposal 5971 (Elysion), 20 November 2008
 Amended(24) by Proposal 5972 (root), 25 November 2008
+Amended(25) by Proposal 5989 (Wooble), 7 December 2008
 
 ----------------------------------------------------------------------
 
