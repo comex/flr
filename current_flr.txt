@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 5991
-Last change to this ruleset: by proposal 5991
+Last proposal with recorded effect on this ruleset: 5994
+Last change to this ruleset: by proposal 5994
 
 Rule ID numbers:
       highest orderly: 2227
@@ -747,7 +747,7 @@ Rules
       processes of changing the rules.
 ----------------------------------------------------------------------
 
-Rule 2141/1 (Power=3)
+Rule 2141/2 (Power=3)
 Role and Attributes of Rules
 
       A rule is a type of instrument with the capacity to govern
@@ -762,7 +762,8 @@ Role and Attributes of Rules
       Every rule has power between one and four inclusive.  It is
       not possible for a rule to have a power outside this range.
 
-      Rules have ID numbers, to be assigned by the Rulekeepor.
+      Rules have ID numbers, to be assigned by the Rulekeepor, and are
+      strictly ordered.
 
       Every rule shall have a title to aid in identification.  If a
       rule ever does not have a title, the Rulekeepor shall assign
@@ -779,6 +780,7 @@ uniqueness requirement on names of rule-defined entities.]
 History:
 Created by Proposal 4940 (Zefram), 29 April 2007
 Amended(1) by Proposal 5110 (Murphy), 2 August 2007
+Amended(2) by Proposal 5994 (Murphy), 7 December 2008
 
 ----------------------------------------------------------------------
 
@@ -1910,7 +1912,7 @@ Power changed from 2 to 3 by Proposal 5701 (ais523), 1 October 2008
 
 ----------------------------------------------------------------------
 
-Rule 2161/3 (Power=1)
+Rule 2161/4 (Power=1)
 ID Numbers
 
       If a rule defines a type of entity as having ID numbers, then:
@@ -1922,11 +1924,11 @@ ID Numbers
 
       (b) Such an assignment is INVALID unless the number is a natural
           number (expressed as a decimal literal with at most 14
-          digits) distinct from any ID number, and greater than any
-          orderly ID number, previously assigned to an entity of that
-          type.  The player SHALL select the smallest number possible,
-          unless e reasonably believes that selecting any smaller
-          number might be invalid or confusing.
+          digits) distinct from any ID number previously assigned to
+          an entity of that type, and (if the type of entity is
+          defined by the rules as strictly ordered) greater than any
+          orderly ID number so assigned.  The player SHOULD select the
+          smallest number possible.
 
       (c) Each ID number is either orderly (default) or chaotic.  Upon
           a judicial finding that the assignment of an ID number was
@@ -1949,6 +1951,7 @@ Amended(1) by Proposal 5133 (Zefram), 13 August 2007
 Amended(2) by Proposal 5237 (AFO; disi.), 3 October 2007
 Amended(3) by Proposal 5723 (Murphy), 7 October 2008
 Power changed from 2 to 1 by Proposal 5947 (ais523), 15 November 2008
+Amended(4) by Proposal 5994 (Murphy), 7 December 2008
 
 ----------------------------------------------------------------------
 
