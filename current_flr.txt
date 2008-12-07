@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6001
-Last change to this ruleset: by proposal 6001
+Last proposal with recorded effect on this ruleset: 6002
+Last change to this ruleset: by proposal 6002
 
 Rule ID numbers:
       highest orderly: 2227
@@ -4019,7 +4019,7 @@ Amended(5) by Proposal 5474 (Murphy), 24 March 2008
 
 ----------------------------------------------------------------------
 
-Rule 591/27 (Power=1.7)
+Rule 591/28 (Power=1.7)
 Inquiry Cases
 
       There is a subclass of judicial case known as an inquiry case.
@@ -4036,22 +4036,22 @@ Inquiry Cases
       person from assignment as judge of the case.
 
       An inquiry case has a judicial question on veracity, which is
-      always applicable.  The valid judgements for this question are:
+      always applicable.  The valid judgements for this question are
+      as follows, based on the truth or falsity of the statement at
+      the time the inquiry case was initiated:
 
       * FALSE, appropriate if the statement was factually and
-        logically false at the time the inquiry case was initiated
+        logically false
 
       * TRUE, appropriate if the statement was factually and logically
-        true at the time the inquiry case was initiated
+        true
 
       * UNDECIDABLE, appropriate if the statement was logically
         undecidable or otherwise not capable of being accurately
-        described as either false or true, at the time the inquiry
-        case was initiated
+        described as either false or true
 
-      * IRRELEVANT, appropriate if the veracity of the statement at
-        the time the inquiry case was initiated is not relevant to the
-        game
+      * IRRELEVANT, appropriate if the veracity of the statement is
+        not relevant to the game
 
       * UNDETERMINED, appropriate if the statement is nonsensical or
         too vague, or if the information available to the judge is
@@ -4140,6 +4140,7 @@ Amended(24) by Proposal 5425 (Murphy), 6 February 2008
 Amended(25) by Proposal 5470 (Murphy), 24 March 2008
 Amended(26) by Proposal 5476 (Murphy; disi.), 27 March 2008
 Amended(27) by Proposal 5964 (Murphy), 18 November 2008
+Amended(28) by Proposal 6002 (Murphy), 7 December 2008
 
 ----------------------------------------------------------------------
 
@@ -4518,7 +4519,7 @@ Amended(5) by Proposal 5552 (Murphy, root), 21 June 2008
 
 ----------------------------------------------------------------------
 
-Rule 911/22 (Power=1.7)
+Rule 911/23 (Power=1.7)
 Appeal Cases
 
       There is a subclass of judicial case known as an appeal case.
@@ -4545,7 +4546,8 @@ Appeal Cases
       An appeal case has a judicial question on disposition, which is
       applicable if and only if the prior question is applicable.  The
       valid judgements for the question on disposition, and their
-      effects, are as follows:
+      effects, are as follows, based on the appropriateness of the
+      prior judgement at the time it was delivered:
 
       * AFFIRM, appropriate if the prior judgement was appropriate for
         the prior question; the prior judgement is assigned to the
@@ -4630,6 +4632,7 @@ Amended(19) by Proposal 5436 (Murphy), 13 February 2008
 Amended(20) by Proposal 5466 (Murphy), 13 March 2008
 Amended(21) by Proposal 5610 (Murphy, Goethe), 29 July 2008
 Amended(22) by Proposal 5726 (Murphy), 7 October 2008
+Amended(23) by Proposal 6002 (Murphy), 7 December 2008
 
 ----------------------------------------------------------------------
 
