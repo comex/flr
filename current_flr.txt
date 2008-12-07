@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6000
-Last change to this ruleset: by proposal 6000
+Last proposal with recorded effect on this ruleset: 6001
+Last change to this ruleset: by proposal 6001
 
 Rule ID numbers:
       highest orderly: 2227
@@ -3252,7 +3252,7 @@ Proposals
       which changes are made to the game.
 ----------------------------------------------------------------------
 
-Rule 106/13 (Power=3)
+Rule 106/14 (Power=3)
 Adopting Proposals
 
       A proposal is a document outlining changes to be made to Agora,
@@ -3264,6 +3264,19 @@ Adopting Proposals
       places the proposal in the Proposal Pool.  That player is its
       author (syn. proposer).  The author of a proposal may remove it
       from the Pool by announcement.
+
+      A player specifically permitted by the Rules to distribute a
+      Proposal CAN distribute the proposal by publishing it with the
+      clear intent of distributing it.  When a proposal is
+      distributed, it is removed from the Proposal Pool.  The
+      distribution of a proposal initiates the Agoran decision of
+      whether to adopt the proposal, as described elsewhere.  Removing
+      a proposal from the Pool by a means other than initiating an
+      Agoran Decision to adopt it is secured.
+
+      If the Rules do not otherwise permit at least one current active
+      player to distribute a Proposal, than any player may do so
+      Without 3 Objections.
 
       A person is a co-author of a proposal if and only if e is
       distinct from its author, and unambiguously identified by its
@@ -3332,6 +3345,7 @@ Amended(10) by Proposal 5356 (root), 16 December 2007
 Amended(11) by Proposal 5418 (root), 2 February 2008
 Amended(12) by Proposal 5453 (Murphy), 1 March 2008
 Amended(13) by Proposal 5572 (Murphy), 4 July 2008
+Amended(14) by Proposal 6001 (Goethe), 7 December 2008
 
 ----------------------------------------------------------------------
 
@@ -3348,22 +3362,16 @@ Created by Proposal 5970 (Murphy), 20 November 2008
 
 ----------------------------------------------------------------------
 
-Rule 1607/18 (Power=2)
+Rule 1607/19 (Power=2)
 The Promotor
 
       The Promotor is an office; its holder is responsible for
       receiving and distributing proposals.
 
-      The Promotor MAY distribute a proposal in the Proposal Pool at
-      any time.  The Promotor's weekly duties include the distribution
-      of each proposal that has been in the Proposal Pool since the
-      beginning of that week.
-
-      The Promotor distributes a proposal by publishing it with the
-      clear intent of distributing it.  When a proposal is
-      distributed, it is removed from the Proposal Pool.  The
-      distribution of a proposal initiates the Agoran decision of
-      whether to adopt the proposal, as described elsewhere.
+      The Promotor CAN and MAY distribute a proposal in the Proposal
+      Pool at any time.  The Promotor's weekly duties include the
+      distribution of each proposal that has been in the Proposal Pool
+      since the beginning of that week.
 
       For an Agoran decision of whether to adopt a proposal, the
       following are essential parameters:
@@ -3433,6 +3441,7 @@ Amended(16) by Proposal 5418 (root), 2 February 2008
 Amended(17) by Proposal 5457 (Murphy), 9 March 2008
 Amended(18) by Proposal 5485 (root), 9 April 2008
 Power changed from 1 to 2 by Proposal 5947 (ais523), 15 November 2008
+Amended(19) by Proposal 6001 (Goethe), 7 December 2008
 
 ----------------------------------------------------------------------
 
