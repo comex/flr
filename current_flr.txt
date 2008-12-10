@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6008
-Last change to this ruleset: by proposal 6008
+Last proposal with recorded effect on this ruleset: 6009
+Last change to this ruleset: by proposal 6009
 
 Rule ID numbers:
       highest orderly: 2227
@@ -5005,7 +5005,7 @@ Amended(27) by Proposal 5437 (Goethe), 13 February 2008
 
 ----------------------------------------------------------------------
 
-Rule 1922/28 (Power=1)
+Rule 1922/29 (Power=1)
 Defined Regular Patent Titles
 
       The following are Patent Titles:
@@ -5045,11 +5045,16 @@ Defined Regular Patent Titles
 
       (e)  Minister Without Portfolio, to be awarded by the Herald to
            any player who wins the game and does not already bear the
-           title.  If the number of persons bearing this title is
+           title. If the number of persons bearing this title is
            greater than the number of Prerogatives defined by the
-           rules, then this title is administratively revoked from
-           all non-players; if it is still greater, then this title
-           is administratively revoked from the Speaker.
+           rules, then this title is administratively revoked from all
+           non-players; if it is still greater, then this title is
+           administratively revoked from any player who would be
+           Speaker if the player wasn't inactive, until the number of
+           persons bearing this title is no longer greater than the
+           number of Prerogatives defined by the rules; if it is still
+           greater, then this title is administratively revoked from
+           the Speaker.
 
       (f)  Left in a Huff, to be awarded by the Registrar  to any
            player who deregistered in a Writ of FAGE.
@@ -5094,6 +5099,7 @@ Amended(25) by Proposal 5596 (Murphy), 29 July 2008
 Amended(26) by Proposal 5805 (Murphy, Zefram), 29 October 2008
 Amended(27) by Proposal 5815 (Pavitra, Murphy), 1 November 2008
 Amended(28) by Proposal 5967 (Murphy), 20 November 2008
+Amended(29) by Proposal 6009 (Sgeo), 10 December 2008
 
 ----------------------------------------------------------------------
 
