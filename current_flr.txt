@@ -11,7 +11,7 @@ Rule ID numbers:
 
 Statistics
 
-Current total number of rules: 125
+Current total number of rules: 126
 
 Power distribution:
        1 with Power=4
@@ -19,7 +19,7 @@ Power distribution:
       45 with Power=2
        5 with Power=1.7
        6 with Power=1.5
-      36 with Power=1
+      37 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -51,6 +51,7 @@ Index of Rules
       Rule 2140: Power Controls Mutability
       Rule 2186: Victory
       Rule 2110: Win by Paradox
+      Rule 2218: Win by Not Losing
       Rule 2199: Ribbons
       Rule 2019: Prerogatives
       Rule 2220: Agoran History
@@ -552,6 +553,21 @@ Power changed from 3 to 2 by Proposal 5955 (ais523, Elysion, Murphy;
 
 ----------------------------------------------------------------------
 
+Rule 2218/0 (Power=1)
+Win by Not Losing
+
+      While all but one player satisfy at least one Losing Condition,
+      that player satisfies the Winning Condition of Solitude.
+
+      Cleanup procedure:  The same person cannot satisfy this Winning
+      Condition again until at least one other player ceases to
+      satisfy any Losing Condition.
+
+History:
+Created by Proposal 5956 (comex), 17 November 2008
+
+----------------------------------------------------------------------
+
 Rule 2199/3 (Power=2)
 Ribbons
 
@@ -986,7 +1002,7 @@ Amended(3) by Proposal 5110 (Murphy), 2 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 1681/12 (Power=1)
+Rule 1681/13 (Power=1)
 The Logical Rulesets
 
       There is a format of the ruleset known as the Short Logical
@@ -1015,8 +1031,9 @@ The Logical Rulesets
       which e feels may be helpful in the use of the ruleset in the
       FLR.
 
-      Whenever a rule is changed in any way, the Rulekeepor shall
-      record a historical annotation to the rule indicating:
+      Whenever a rule is modified in any way (including a power or
+      title change), the Rulekeepor CAN cause it to amend itself by
+      adding a historical annotation, which MUST include:
 
       a) The type of change.
 
@@ -1042,6 +1059,7 @@ Amended(9) by Proposal 4887 (Murphy), 22 January 2007
 Amended(10) by Proposal 5006 (Zefram), 18 June 2007
 Amended(11) by Proposal 5110 (Murphy), 2 August 2007
 Amended(12) by Proposal 5334 (Murphy), 5 December 2007
+Amended(13) by Proposal 5956 (comex), 17 November 2008
 
 ----------------------------------------------------------------------
 
@@ -2499,37 +2517,38 @@ Amended(26) by Proposal 5986 (Murphy), 7 December 2008
 
 ----------------------------------------------------------------------
 
-Rule 2143/2 (Power=1)
+Rule 2143/3 (Power=1)
 Official Reports and Duties
 
-      For each office:
+      For each role:
 
-      a) If any task is defined by the rules as part of that office's
-         weekly duties, then the holder of that office SHALL perform
-         it at least once each week.  If any information is defined by
-         the rules as part of that office's weekly report, then the
-         holder of that office SHALL maintain all such information,
-         and the publication of all such information is part of that
-         office's weekly duties.
+      a) If any task is defined by the rules as part of that role's
+         weekly duties, then the holder of that role SHALL perform it
+         at least once each week.  If any information is defined by
+         the rules as part of that role's weekly report, then the
+         holder of that role SHALL maintain all such information, and
+         the publication of all such information is part of that
+         role's weekly duties.
 
-      b) If any task is defined by the rules as part of that office's
-         monthly duties, then the holder of that office SHALL perform
-         it at least once each month.  If any information is defined
-         by the rules as part of that office's monthly report, then
-         the holder of that office SHALL maintain all such
-         information, and the publication of all such information is
-         part of that office's monthly duties.
+      b) If any task is defined by the rules as part of that role's
+         monthly duties, then the holder of that role SHALL perform it
+         at least once each month.  If any information is defined by
+         the rules as part of that role's monthly report, then the
+         holder of that role SHALL maintain all such information, and
+         the publication of all such information is part of that
+         role's monthly duties.
 
-      Any information defined by the rules as part of an office's
+      Any information defined by the rules as part of an role's
       report, without specifying which one, is part of its weekly
-      report (unless the office is defined by the rules as
-      low-priority, in which case it is part of its monthly report).
+      report (unless the role is defined by the rules as low-priority,
+      in which case it is part of its monthly report).
 
 History:
 Created by Proposal 4970 (Zefram), 23 May 2007
 Amended(1) by Proposal 5239 (AFO), 3 October 2007
 Retitled by Proposal 5485 (root), 9 April 2008
 Amended(2) by Proposal 5485 (root), 9 April 2008
+Amended(3) by Proposal 5956 (comex), 17 November 2008
 
 ----------------------------------------------------------------------
 
