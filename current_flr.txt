@@ -4386,7 +4386,7 @@ Amended(32) by Proposal 6000 (Murphy), 7 December 2008
 
 ----------------------------------------------------------------------
 
-Rule 2169/9 (Power=1.7)
+Rule 2169/10 (Power=1.7)
 Equity Cases
 
       There is a subclass of judicial case known as an equity case. An
@@ -4398,6 +4398,12 @@ Equity Cases
       as, but not limited to, a party acting in contravention of eir
       contractual obligations).  This announcement SHALL also clearly
       identify the set of parties to the contract.
+
+      For the purpose of this rule, the parties to a contract are
+      measured as of the time the case was initiated; however, if the
+      initiating message specifies a different time that falls within
+      the week before the case was initiated, then that time is used
+      instead.
 
       The initiation of an equity case begins its pre-trial phase.  In
       the pre-trial phase the CotC SHALL in a timely fashion inform
@@ -4471,6 +4477,7 @@ Amended(6) by Proposal 5638 (Murphy), 29 July 2008
 Amended(7) by Proposal 5675 (Goethe), 3 September 2008
 Amended(8) by Proposal 5812 (Murphy), 1 November 2008
 Amended(9) by Proposal 5826 (Murphy), 6 November 2008
+Amended(10) by Proposal 6006 (Murphy), 10 December 2008
 
 ----------------------------------------------------------------------
 
