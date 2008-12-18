@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6010
-Last change to this ruleset: by proposal 6010
+Last proposal with recorded effect on this ruleset: 6014
+Last change to this ruleset: by proposal 6014
 
 Rule ID numbers:
       highest orderly: 2230
@@ -4548,7 +4548,7 @@ Amended(1) by Proposal 5526 (Murphy), 2 June 2008
 
 ----------------------------------------------------------------------
 
-Rule 2157/5 (Power=1.7)
+Rule 2157/6 (Power=1.7)
 Judicial Panels
 
       A judicial panel is a structure whereby a group of two or more
@@ -4560,14 +4560,11 @@ Judicial Panels
 
       A judicial panel CAN send messages by means of any of its
       members sending a message identified as being from the panel,
-      with the unanimous Support of the panel's other members, or
-      (unless the CotC is a member of the panel, the prior judge, or
-      unqualified to be assigned as judge of the prior case) with the
-      Support of at least half the other members and the Support of
-      the CotC.  The CotC SHOULD so Support a majority action if the
-      panel has made a reasonable effort to achieve consensus.  By
+      with the unanimous Support of the panel's other members.  By
       this mechanism a judicial panel can act, in situations where the
       rules state that an action is performed by sending a message.
+      The rules may specify other mechanisms by which the judicial
+      panel CAN act.
 
       A judicial panel can incur obligations.  The members of a panel
       SHALL act collectively to ensure that the panel satisfies all of
@@ -4583,10 +4580,11 @@ Amended(2) by Proposal 5361 (Goethe), 20 December 2007
 Amended(3) by Proposal 5439 (Murphy), 13 February 2008
 Amended(4) by Proposal 5498 (Goethe), 23 April 2008
 Amended(5) by Proposal 5552 (Murphy, root), 21 June 2008
+Amended(6) by Proposal 6014 (Goethe), 18 December 2008
 
 ----------------------------------------------------------------------
 
-Rule 911/23 (Power=1.7)
+Rule 911/24 (Power=1.7)
 Appeal Cases
 
       There is a subclass of judicial case known as an appeal case.
@@ -4648,6 +4646,21 @@ Appeal Cases
       suspended, and remains so until the question on disposition in
       the appeal case is judged.
 
+      As soon as possible after a judicial panel is assigned, each
+      member of the panel SHALL publish an appeals opinion indicating
+      a valid and appropriate judgement to assign to the case -- only
+      the first such published opinion for each member is used to
+      determine the outcome.  Each member SHOULD include arguments for
+      eir choice of judgement. If, immediately after either all
+      members have so published or the time limit for so publishing
+      has ended, a majority of the members have opined for the same
+      judgement, the panel acts to deliver the judgement in question.
+      If the time period ends with no majority judgement, the panel
+      acts to deliver a judgement of REMAND.  If the panel publishes a
+      valid judgement via another mechanism specified in the Rules,
+      the requirement for individual members to publish individual
+      opinions is waived.
+
       A panel CAN publish a concurring opinion when judging AFFIRM,
       and SHALL do so if and only if the reasoning by which the prior
       judge reached eir judgement was incorrect in whole or part.
@@ -4700,6 +4713,7 @@ Amended(20) by Proposal 5466 (Murphy), 13 March 2008
 Amended(21) by Proposal 5610 (Murphy, Goethe), 29 July 2008
 Amended(22) by Proposal 5726 (Murphy), 7 October 2008
 Amended(23) by Proposal 6002 (Murphy), 7 December 2008
+Amended(24) by Proposal 6014 (Goethe), 18 December 2008
 
 ----------------------------------------------------------------------
 
