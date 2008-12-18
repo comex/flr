@@ -1,22 +1,22 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6014
-Last change to this ruleset: by proposal 6014
+Last proposal with recorded effect on this ruleset: 6016
+Last change to this ruleset: by proposal 6016
 
 Rule ID numbers:
-      highest orderly: 2230
+      highest orderly: 2231
       disorderly: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 128
+Current total number of rules: 129
 
 Power distribution:
        1 with Power=4
       32 with Power=3
-      47 with Power=2
+      48 with Power=2
        5 with Power=1.7
        6 with Power=1.5
       37 with Power=1
@@ -164,6 +164,7 @@ Index of Rules
       Rule  649: Patent Titles
       Rule 1922: Defined Regular Patent Titles
       Rule 1367: Degrees
+      Rule 2231: Order of the Hero of Agora Nomic
 
       * Contract Law
       Rule 1742: Contracts
@@ -5219,6 +5220,37 @@ Power changed from 1.5 to 1 by Proposal 5947 (ais523), 15 November
   2008
 Amended(12) by Proposal 5955 (ais523, Elysion, Murphy; disi.), 18
   November 2008
+
+----------------------------------------------------------------------
+
+Rule 2231/0 (Power=2)
+Order of the Hero of Agora Nomic
+
+      The set of patent titles defined in this rule constitute the
+      Order of the Hero of Agora Nomic; the titles may be collectively
+      referred to as "Heroic titles" and a Bearer of a Heroic title as
+      a Hero.
+
+      Heroic titles are Agora's premier titles of distinction, and may
+      be awarded to persons for meritorious service only by a proposal
+      of power 3 or greater.  Heroic titles SHOULD NOT be revoked.
+      Heroes are entitled to use the abbreviation of eir title as
+      postnomial letters in Agora communications and reports.
+
+      The Heroic titles in decreasing precedence are:
+
+      Grand Hero of Agora Nomic (GHAN) -- This title may be awarded to
+      any person for the most exemplary meritorious service to Agora
+      or to the game of Nomic at large.  As this title is the highest
+      honour that Agora may bestow, a Bearer of this title OUGHT to be
+      treated right good forever.
+
+      Hero of Agora Nomic (HAN) -- This title may be awarded to any
+      person for outstanding meritorious service to Agora above and
+      beyond the call of duty.
+
+History:
+Created by Proposal 6016 (OscarMeyr), 18 December 2008
 
 ----------------------------------------------------------------------
 
