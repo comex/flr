@@ -1,22 +1,22 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6018
-Last change to this ruleset: by proposal 6018
+Last proposal with recorded effect on this ruleset: 6020
+Last change to this ruleset: by proposal 6020
 
 Rule ID numbers:
-      highest orderly: 2231
+      highest orderly: 2234
       disorderly: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 128
+Current total number of rules: 131
 
 Power distribution:
        1 with Power=4
       32 with Power=3
-      48 with Power=2
+      51 with Power=2
        5 with Power=1.7
        6 with Power=1.5
       36 with Power=1
@@ -174,6 +174,9 @@ Index of Rules
       Rule 2191: Pledges
       Rule 2179: Points
       Rule 2136: Contests
+      Rule 2232: Contest Axes
+      Rule 2233: Awarding and Revoking Points
+      Rule 2234: Rewarding Contestmasters
       Rule 2187: Win by High Score
 
       * Foreign Relations
@@ -5520,15 +5523,22 @@ Amended(4) by Proposal 5817 (Murphy), 1 November 2008
 
 ----------------------------------------------------------------------
 
-Rule 2179/3 (Power=2)
+Rule 2179/4 (Power=2)
 Points
 
-      Points are a class of fixed assets.  Ownership of points is
-      restricted to players.  If winning is secured, then changes to
-      point holdings are secured with the same power threshold.
+      For each point axis:
 
-      Points are a currency.  The number of points owned by a player
-      is eir score.
+        a) <axis> Points is a fixed currency.
+
+        b) A player's <axis> coordinate (syn. <axis> score) is the
+           number of <axis> points e owns.
+
+      There are two point axes, X and Y.  A player's score is x + yi,
+      where x is eir X coordinate and y is eir Y coordinate.
+
+      Ownership of points is restricted to players.  If winning is
+      secured, then changes to point holdings are secured with the
+      same power threshold.
 
       The Scorekeepor is a high-priority office, and the recordkeepor
       of points.
@@ -5543,10 +5553,11 @@ Amended(1) by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
 Power changed from 1 to 2 by Proposal 5793 (root), 22 October 2008
 Amended(2) by Proposal 5793 (root), 22 October 2008
 Amended(3) by Proposal 5802 (Murphy; disi.), 3 November 2008
+Amended(4) by Proposal 6020 (Murphy, root), 22 November 2008
 
 ----------------------------------------------------------------------
 
-Rule 2136/25 (Power=2)
+Rule 2136/26 (Power=2)
 Contests
 
       Contestmaster is a public contract switch, tracked by the
@@ -5561,8 +5572,8 @@ Contests
 
        a) The contract is private.
 
-       b) Doing so would cause a player to be contestmaster of more
-          than one contest.
+       b) Doing so would cause a player to be contestmaster of
+          multiple contests sharing an axis.
 
        c) Doing so would flip the contestmaster of a contract to a
           player who has not explicitly consented to be contestmaster
@@ -5582,27 +5593,6 @@ Contests
       that contract; and if a contract's contestmaster ceases to be
       party to that contract, that contract's contestmaster is flipped
       to 'none'.
-
-      The total number of points a Contest MAY award in a given week
-      is equal to 5 times the number of its parties that are active
-      first-class players.  Points up to this total CAN be awarded by
-      the contestmaster to other parties by public announcement, and
-      MUST be awarded as explicitly described in the contract.
-
-      The total number of points a Contest MAY revoke in a given week
-      is equal to 2 times the number of its parties that are active
-      first-class players.  Points up to this total CAN be revoked by
-      the contestmaster from other parties by public announcement, and
-      MUST be revoked as explicitly described in the contract.
-
-      For each contest, ASAP after the beginning of each month, the
-      Scorekeepor CAN and SHALL by announcement award a number of
-      points, equal to the number of Players who were Contestants in
-      that Contest at any time during the previous month, to the
-      Player (if any) who was its Contestmaster for 16 or more days
-      during the previous month, provided that the Contestmaster
-      performed Contest-related duties in a timely manner during that
-      time.
 
       Changes to contestmaster are secured.
 
@@ -5634,19 +5624,78 @@ Amended(22) by Proposal 5943 (woggle), 15 November 2008
 Amended(23) by Proposal 5971 (Elysion), 20 November 2008
 Amended(24) by Proposal 5972 (root), 25 November 2008
 Amended(25) by Proposal 5989 (Wooble), 7 December 2008
+Amended(26) by Proposal 6020 (Murphy, root), 22 December 2008
 
 ----------------------------------------------------------------------
 
-Rule 2187/3 (Power=2)
+Rule 2232/0 (Power=2)
+Contest Axes
+
+      Each contest has one or more axes, defaulting to {X}.
+
+      An axis can be added to or removed from a contest as follows,
+      provided that it would not cause a player to be contestmaster of
+      multiple contests sharing an axis:
+
+       a) by any player without 3 objections, or
+
+       b) by any mechanism specified by that contest for changing its
+          axes.
+
+History:
+Created by Proposal 6020 (Murphy, root), 22 December 2008
+
+----------------------------------------------------------------------
+
+Rule 2233/0 (Power=2)
+Awarding and Revoking Points
+
+      For each of a contest's axes, where N is the number of its
+      parties that were active first-class players at the beginning of
+      the week:
+
+        a) A contest CAN award a total of 5N <axis> points per week.
+           Its contestmaster CAN award points (up to this total) to
+           its other parties by announcement, and SHALL do so as
+           explicitly described in its contract.
+
+        b) A contest CAN revoke a total of 2N <axis> points per week.
+           Its contestmaster CAN revoke such points (up to this total)
+           from its other parties by announcement, and SHALL do so as
+           explicitly described in its contract.
+
+History:
+Created by Proposal 6020 (Murphy, root), 22 December 2008
+
+----------------------------------------------------------------------
+
+Rule 2234/0 (Power=2)
+Rewarding Contestmasters
+
+      As soon as possible after the end of a month, for each contest
+      and each of its axes, the Scorekeepor CAN and SHALL by
+      announcement award N <axis> points to the player (if any) who
+      was its contestmaster for at at least 16 days during that month
+      and performed duties related to that contest in a timely manner
+      during that month, where N is the number of players who were
+      contestants of that contest at any time during that month.
+
+History:
+Created by Proposal 6020 (Murphy, root), 22 December 2008
+
+----------------------------------------------------------------------
+
+Rule 2187/4 (Power=2)
 Win by High Score
 
-      Upon a win announcement that one or more players have a score of
-      at least 100 (specifying all such players), all those players
-      satisfy the Winning Condition of High Score.
+      Upon a win announcement that one or more players have a score x
+      + yi such that xy >= 2500 (specifying all such players), all
+      those players satisfy the Winning Condition of High Score.
 
       Cleanup procedure:  All those players have eir scores set to 0.
-      All other players have eir scores set to floor(N*S/10), where N
-      is eir previous score and S is the Score Index.
+      All other players have each of eir coordinates set to
+      floor(P*S/10), where P is eir previous coordinate along that
+      axis and S is the Score Index.
 
       The Score Index is an integer from 0 to 5, and part of the
       Scorekeepor's report.  The Scorekeepor CAN change the Score
@@ -5665,6 +5714,7 @@ Created by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
 Amended(1) by Proposal 5525 (Murphy), 2 June 2008
 Amended(2) by Proposal 5558 (root; disi.), 25 June 2008
 Amended(3) by Proposal 5585 (Goethe), 29 July 2008
+Amended(4) by Proposal 6020 (Murphy, root), 22 December 2008
 
 ----------------------------------------------------------------------
 
