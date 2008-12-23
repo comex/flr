@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6022
-Last change to this ruleset: by proposal 6022
+Last proposal with recorded effect on this ruleset: 6023
+Last change to this ruleset: by proposal 6023
 
 Rule ID numbers:
       highest orderly: 2234
@@ -492,19 +492,19 @@ Created by Proposal 4940 (Zefram), 29 April 2007
 
 ----------------------------------------------------------------------
 
-Rule 2186/2 (Power=2)
+Rule 2186/3 (Power=2)
 Victory
 
-      Winning Conditions and Losing Conditions exist only as defined
-      by rules.  Defining these things is secured, lest a coalition of
-      players grant itself a boring win via proposal.
+      Winning Conditions and Losing Conditions are conditions defined
+      as such by the rules.  Defining these things is secured, lest a
+      coalition of players grant itself a boring win via proposal.
 
       A win announcement is a correct announcement explicitly labeled
       as a win announcement.
 
       When one or more persons satisfy at least one Winning Condition
       and do not satisfy any Losing Conditions, all such persons win
-      the game.  This is the only way to win the game, rules to the
+      the game.  The game CANNOT be won in any other way, rules to the
       contrary notwithstanding.
 
       Each Winning Condition should (if needed) specify a cleanup
@@ -525,6 +525,7 @@ Created by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
   16 January 2008
 Amended(1) by Proposal 5791 (Murphy), 22 October 2008
 Amended(2) by Proposal 5792 (Murphy), 22 October 2008
+Amended(3) by Proposal 6023 (Murphy), 22 December 2008
 
 ----------------------------------------------------------------------
 
@@ -1532,20 +1533,20 @@ Power changed from 1 to 2 by Proposal 5947 (ais523), 15 November 2008
 
 ----------------------------------------------------------------------
 
-Rule 2177/8 (Power=2)
+Rule 2177/9 (Power=2)
 The Senate
 
       A Senator is any first-class player who has been registered
-      continuously for the immediately preceding sixty days.  The
-      collection of Senators is the Senate.  The Registrar's report
+      continuously for the immediately preceding sixty days.  The set
+      of all Senators is known as the Senate.  The Registrar's report
       includes a list of all Senators.
 
-      A Senator CAN call an Emergency Session with 2 Senate
+      A Senator CAN call an Emergency Session with 2 Senator
       supporters, provided no other emergency session existed at any
       time in the preceding 48 hours.  An emergency session lasts
       until it is terminated.  An unterminated emergency session
       terminates 21 days after it was called.  A Senator CAN terminate
-      an emergency session without 3 Senate objections.  Terminating
+      an emergency session without 3 Senator objections.  Terminating
       an emergency session is a secured change.  The Assessor's report
       includes the dates when the most recent emergency session was
       called and terminated.
@@ -1553,8 +1554,8 @@ The Senate
       The roll call of an emergency session is the set of senators at
       the time the emergency session was called.  During emergency
       session, the previous definition of senator does not apply;
-      instead, any first-class player who is a member of the roll call
-      is a senator.  The Assessor's report includes the roll call of
+      instead, a senator is a first-class player who is a member of
+      the roll call.  The Assessor's report includes the roll call of
       the most recent emergency session.
 
       During emergency session, any Senator CAN declare a filibuster
@@ -1580,6 +1581,7 @@ Amended(5) by Proposal 5357 (root; disi.), 16 December 2007
 Amended(6) by Proposal 5944 (Taral, ais523), 15 November 2008
 Amended(7) by Proposal 5945 (root), 15 November 2008
 Amended(8) by Proposal 5979 (Murphy), 25 November 2008
+Amended(9) by Proposal 6023 (Murphy), 22 December 2008
 
 ----------------------------------------------------------------------
 
@@ -2397,7 +2399,7 @@ Amended(9) by Proposal 5995 (Murphy), 7 December 2008
 
 ----------------------------------------------------------------------
 
-Rule 2166/8 (Power=2)
+Rule 2166/9 (Power=2)
 Assets
 
       An asset is an entity defined as such by a rule or contract
@@ -2442,8 +2444,9 @@ Assets
       document.  Instances of a currency with the same owner are
       fungible.
 
-      A class of assets is public if its backing document is a rule or
-      a public contract; otherwise it is private.
+      A public class of assets is a class of assets whose backing
+      document is a rule or a public contract.  All others are
+      private.
 
 [CFJs 1790-1791 (called 11 November 2007): The self-ratifying asset
 report is the complete list of ownerships of assets of that class; a
@@ -2471,6 +2474,7 @@ Amended(5) by Proposal 5496 (Murphy), 23 April 2008
 Amended(6) by Proposal 5833 (Murphy, Taral), 12 November 2008
 Amended(7) by Proposal 5840 (root), 12 November 2008
 Amended(8) by Proposal 5974 (Murphy; disi.), 25 November 2008
+Amended(9) by Proposal 6023 (Murphy), 22 December 2008
 
 ----------------------------------------------------------------------
 
@@ -2504,16 +2508,16 @@ Offices
       within the game.
 ----------------------------------------------------------------------
 
-Rule 1006/26 (Power=2)
+Rule 1006/27 (Power=2)
 Offices
 
-      A role is an office if and only if it is so defined by the
-      rules.  Each office at any time either is vacant (default) or is
-      filled (held) by exactly one player.  The holder of an office is
-      an officer, and may be referred to by the name of the office.
+      An office is a role defined as such by the rules.  Each office
+      is either vacant (default) or filled (held) by exactly one
+      player.  An officer is the holder of an office, who may be
+      referred to by the name of that office.
 
-      An office is imposed if it is so described by the rule defining
-      it; otherwise, it is elected.
+      An imposed office is an office described as such by the rule
+      defining it.  All others are elected.
 
       The holder of an elected office CAN resign it by announcement,
       causing it to become vacant.
@@ -2561,6 +2565,7 @@ Amended(23) by Proposal 5407 (root), 22 January 2008
 Amended(24) by Proposal 5519 (Murphy), 28 May 2008
 Amended(25) by Proposal 5534 (root; disi.), 7 June 2008
 Amended(26) by Proposal 5986 (Murphy), 7 December 2008
+Amended(27) by Proposal 6023 (Murphy), 22 December 2008
 
 ----------------------------------------------------------------------
 
@@ -5983,22 +5988,19 @@ Amended(5) by Proposal 5391 (Murphy; disi.), 16 January 2008
 
 ----------------------------------------------------------------------
 
-Rule 2159/2 (Power=2)
+Rule 2159/3 (Power=2)
 Protective Decrees
 
-      A protective decree is an act of Agora the intended effect of
-      which is to make explicit changes to the state of a protectorate
-      nomic.  The changes may include enacting, repealing, or amending
-      rules of the protectorate, changing the set of players of the
+      A protective decree is an act of Agora whose intended effect is
+      to make explicit changes to the state of a protectorate nomic.
+      The changes may include enacting, repealing, or amending rules
+      of the protectorate, changing the set of players of the
       protectorate, or any other instantaneous changes to the
       protectorate's gamestate.
 
-      The initiation of a protective decree is a secured change.  The
-      initiating instrument must specify the target protectorate and
-      the changes to be made to it.  Any ambiguity in the
-      specification of a protective decree causes it to be void and
-      without effect.  This is the only mechanism by which a
-      protective decree can be initiated.
+      Initiating a protective decree is secured, and is INVALID unless
+      the initiating instrument unambiguously specifies the target
+      protectorate and the changes to be made to it.
 
       As soon as possible after a protective decree has been
       initiated, the ambassador SHALL proclaim it to the target nomic.
@@ -6019,6 +6021,7 @@ History:
 Created by Proposal 5091 (Zefram), 25 July 2007
 Amended(1) by Proposal 5276 (Murphy, Pavitra, Zefram), 7 November 2007
 Amended(2) by Proposal 5391 (Murphy; disi.), 16 January 2008
+Amended(3) by Proposal 6023 (Murphy), 22 December 2008
 
 ----------------------------------------------------------------------
 
