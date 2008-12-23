@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6021
-Last change to this ruleset: by proposal 6021
+Last proposal with recorded effect on this ruleset: 6022
+Last change to this ruleset: by proposal 6022
 
 Rule ID numbers:
       highest orderly: 2234
@@ -375,10 +375,10 @@ Amended(10) by Proposal 5773 (Goethe), 17 October 2008
 
 ----------------------------------------------------------------------
 
-Rule 2125/3 (Power=3)
+Rule 2125/4 (Power=3)
 Regulation Regulations
 
-      An action is regulated if and only if:
+      A regulated action is an action satisfying any of the following:
 
       a) It is IMPOSSIBLE.
 
@@ -405,6 +405,7 @@ Created by Proposal 4866 (Goethe), 27 August 2006
 Amended(1) by Proposal 5235 (Goddess Eris), 3 October 2007
 Amended(2) by Proposal 5536 (Murphy), 7 June 2008
 Amended(3) by Proposal 5739 (root), 9 October 2008
+Amended(4) by Proposal 6022 (Murphy), 22 December 2008
 
 ----------------------------------------------------------------------
 
@@ -1294,13 +1295,12 @@ Amended(5) by Proposal 5741 (Murphy), 16 October 2008
 
 ----------------------------------------------------------------------
 
-Rule 2150/5 (Power=3)
+Rule 2150/6 (Power=3)
 Personhood
 
-      A person is an entity that has the general capacity to be the
-      subject of rights and obligations under the rules.  An entity is
-      a person if and only if it is defined to be so by rules with
-      power 2 or greater.
+      A person is an entity defined as such by rules with power of at
+      least 2.  A person CAN generally be the subject of rights and
+      obligations under the rules.
 
       Any biological organism that is generally capable of
       communicating by email in English (including via a translation
@@ -1328,6 +1328,7 @@ Amended(3) by Proposal 5476 (Murphy; disi.), 27 March 2008
 Power changed from 2 to 3 by Proposal 5509 (root; disi.), 28 May 2008
 Amended(4) by Proposal 5760 (comex), 16 October 2008
 Amended(5) by Proposal 5790 (Murphy), 22 October 2008
+Amended(6) by Proposal 6022 (Murphy), 22 December 2008
 
 ----------------------------------------------------------------------
 
@@ -2088,7 +2089,7 @@ Amended(1) by Proposal 5271 (Murphy), 7 November 2007
 
 ----------------------------------------------------------------------
 
-Rule 478/26 (Power=3)
+Rule 478/27 (Power=3)
 Fora
 
       Freedom of speech being essential for the healthy functioning of
@@ -2114,10 +2115,9 @@ Fora
       Each active player should ensure e can receive messages via each
       public forum.
 
-      A message is public if and only if it is sent via a public forum
-      or is sent to all players and contains a clear designation of
-      intent to be public.  A person "publishes" or "announces"
-      something by sending a public message.
+      A public message is a message sent via a public forum, or sent
+      to all players and containing a clear designation of intent to
+      be public.
 
       Where the rules define an action that CAN be performed "by
       announcement", a person performs that action by unambiguously
@@ -2265,6 +2265,7 @@ Amended(23) by Proposal 5535 (Murphy), 7 June 2008
 Amended(24) by Proposal 5613 (Quazie), 29 July 2008
 Amended(25) by Proposal 5639 (Murphy), 29 July 2008
 Amended(26) by proposal 5818 (comex), 1 November 2008
+Amended(27) by Proposal 6022 (Murphy), 22 December 2008
 
 ----------------------------------------------------------------------
 
@@ -3317,7 +3318,7 @@ Proposals
       which changes are made to the game.
 ----------------------------------------------------------------------
 
-Rule 106/14 (Power=3)
+Rule 106/15 (Power=3)
 Adopting Proposals
 
       A proposal is a document outlining changes to be made to Agora,
@@ -3326,9 +3327,10 @@ Adopting Proposals
 
       A player submits a proposal by publishing it with a clear
       indication that it is intended to become a proposal, which
-      places the proposal in the Proposal Pool.  That player is its
-      author (syn. proposer).  The author of a proposal may remove it
-      from the Pool by announcement.
+      places the proposal in the Proposal Pool.  The author (syn.
+      proposer) of a proposal is the player who submitted it.  The
+      author of a proposal may remove it from the Pool by
+      announcement.
 
       A player specifically permitted by the Rules to distribute a
       Proposal CAN distribute the proposal by publishing it with the
@@ -3343,9 +3345,9 @@ Adopting Proposals
       player to distribute a Proposal, than any player may do so
       Without 3 Objections.
 
-      A person is a co-author of a proposal if and only if e is
-      distinct from its author, and unambiguously identified by its
-      author as being its co-author at the time of submission.
+      A co-author of a proposal is a person (other than its author)
+      unambiguously identified as such by its author when it was
+      submitted.
 
       The adoption index of a proposal is an integral multiple of 0.1
       from 1.0 to 9.9.  It may be set by the proposer at the time of
@@ -3411,6 +3413,7 @@ Amended(11) by Proposal 5418 (root), 2 February 2008
 Amended(12) by Proposal 5453 (Murphy), 1 March 2008
 Amended(13) by Proposal 5572 (Murphy), 4 July 2008
 Amended(14) by Proposal 6001 (Goethe), 7 December 2008
+Amended(15) by Proposal 6022 (Murphy), 22 December 2008
 
 ----------------------------------------------------------------------
 
