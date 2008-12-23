@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6020
-Last change to this ruleset: by proposal 6020
+Last proposal with recorded effect on this ruleset: 6021
+Last change to this ruleset: by proposal 6021
 
 Rule ID numbers:
       highest orderly: 2234
@@ -1666,7 +1666,7 @@ Definitions
       widely used and do not readily fall into any other category.
 ----------------------------------------------------------------------
 
-Rule 754/8 (Power=3)
+Rule 754/9 (Power=3)
 Definition Definitions
 
       Regularity of communication being essential for the healthy
@@ -1681,6 +1681,12 @@ Definition Definitions
           meaning when used in any Rule of equal or lesser power, as
           do its ordinary-language synonyms not explicitly defined by
           the rules.
+
+          The following clauses, where X and Y are both nouns or noun
+          phrases, SHOULD be interpreted as "X is/are defined as Y":
+
+            a) "X is/are Y"
+            b) "Y is/are known as X"
 
       (3) Any term primarily used in mathematical or legal contexts,
           and not addressed by previous provisions of this Rule, by
@@ -1772,6 +1778,7 @@ Amended(5) by Proposal 4507 (Murphy), 20 June 2003
 Amended(6) by Proposal 4866 (Goethe), 27 August 2006
 Amended(7) by Proposal 5038 (Zefram), 28 June 2007
 Amended(8) by Proposal 5834 (Goethe), 12 November 2008
+Amended(9) by Proposal 6021 (Murphy), 22 December 2008
 
 ----------------------------------------------------------------------
 
