@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6016
-Last change to this ruleset: by proposal 6016
+Last proposal with recorded effect on this ruleset: 6018
+Last change to this ruleset: by proposal 6018
 
 Rule ID numbers:
       highest orderly: 2231
@@ -11,7 +11,7 @@ Rule ID numbers:
 
 Statistics
 
-Current total number of rules: 129
+Current total number of rules: 128
 
 Power distribution:
        1 with Power=4
@@ -19,7 +19,7 @@ Power distribution:
       48 with Power=2
        5 with Power=1.7
        6 with Power=1.5
-      37 with Power=1
+      36 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -54,7 +54,6 @@ Index of Rules
       Rule 2218: Win by Not Losing
       Rule 2199: Ribbons
       Rule 2019: Prerogatives
-      Rule 2220: Agoran History
       Rule  104: First Speaker
 
       * Rules
@@ -726,22 +725,6 @@ Amended(17) by Proposal 5644 (Murphy), 29 July 2008
 Amended(18) by Proposal 5693 (Goethe), 20 September 2008
 Amended(19) by Proposal 5781 (Murphy), 22 October 2008
 Amended(20) by Proposal 5783 (Murphy), 22 October 2008
-
-----------------------------------------------------------------------
-
-Rule 2220/0 (Power=1)
-Agoran History
-
-      The Book of History is a document which can be amended without 3
-      objections. It should contain accurate information about Agora's
-      history.
-
-      The Historian is a low-priority office whose report includes the
-      current text of the Book of History. The Historian SHOULD
-      propose amendments to the Book of History on a regular basis.
-
-History:
-Created by Proposal 5958 (Warrigal), 17 November 2008
 
 ----------------------------------------------------------------------
 
