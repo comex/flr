@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6024
-Last change to this ruleset: by proposal 6024
+Last proposal with recorded effect on this ruleset: 6025
+Last change to this ruleset: by proposal 6025
 
 Rule ID numbers:
       highest orderly: 2234
@@ -1333,15 +1333,15 @@ Amended(6) by Proposal 6022 (Murphy), 22 December 2008
 
 ----------------------------------------------------------------------
 
-Rule 2145/5 (Power=2)
+Rule 2145/6 (Power=2)
 Partnerships
 
-      A binding agreement governed by the rules which devolves its
-      legal obligations onto a subset of its parties, numbering at
-      least two, collectively, is a partnership.  The members of a
-      partnership are those parties onto whom the partnership's legal
-      obligations are collectively devolved.  A partnership's identity
-      and partnershiphood are not disrupted by changes to its
+      A partnership is a contract that devolves each of its legal
+      obligations onto at least one of its parties, but does not
+      devolve all of them solely onto one of its parties.  The members
+      of a partnership are those parties onto whom the partnership's
+      legal obligations are collectively devolved.  A partnership's
+      identity and partnershiphood are not disrupted by changes to its
       membership provided that it continues to meet the definition of
       a partnership.
 
@@ -1385,6 +1385,7 @@ Amended(2) by Proposal 5061 (Zefram), 9 July 2007
 Amended(3) by Proposal 5303 (root), 24 November 2007
 Amended(4) by Proposal 5381 (Goethe), 1 January 2008
 Amended(5) by Proposal 5776 (Goethe), 17 October 2008
+Amended(6) by Proposal 6025 (Murphy), 22 December 2008
 
 ----------------------------------------------------------------------
 
@@ -5432,11 +5433,12 @@ Amended(3) by Proposal 5686 (Goethe; disi.), 13 September 2008
 
 ----------------------------------------------------------------------
 
-Rule 2178/4 (Power=2)
+Rule 2178/5 (Power=2)
 Public Contracts
 
       A public contract is a contract that has been identified as
-      such, as specified by this rule.  Any other contract is private.
+      such, as specified by this rule.  All other contracts are
+      private.
 
       A party of a contract CAN identify it as a public contract by
       publishing its text and list of parties, provided that at least
@@ -5476,6 +5478,7 @@ Power changed from 1.5 to 2 by Proposal 5804 (woggle; disi.),
   29 October 2008
 Amended(3) by Proposal 5835 (Goethe), 12 November 2008
 Amended(4) by Proposal 5972 (root), 25 November 2008
+Amended(5) by Proposal 6025 (Murphy), 22 December 2008
 
 ----------------------------------------------------------------------
 
