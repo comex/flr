@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6023
-Last change to this ruleset: by proposal 6023
+Last proposal with recorded effect on this ruleset: 6024
+Last change to this ruleset: by proposal 6024
 
 Rule ID numbers:
       highest orderly: 2234
@@ -4096,16 +4096,16 @@ Amended(5) by Proposal 5474 (Murphy), 24 March 2008
 
 ----------------------------------------------------------------------
 
-Rule 591/28 (Power=1.7)
+Rule 591/29 (Power=1.7)
 Inquiry Cases
 
-      There is a subclass of judicial case known as an inquiry case.
-      An inquiry case's purpose is to determine the veracity of a
-      particular statement.  An inquiry case CAN be initiated by any
-      first-class person, by announcement which includes the statement
-      to be inquired into.  (Including a yes/no question is equivalent
-      to including a statement that the answer to that question is
-      yes, and for such a case, YES and NO are synonymous with the
+      Inquiry cases are a subclass of judicial cases.  An inquiry
+      case's purpose is to determine the veracity of a particular
+      statement.  An inquiry case CAN be initiated by any first-class
+      person, by announcement which includes the statement to be
+      inquired into.  (Including a yes/no question is equivalent to
+      including a statement that the answer to that question is yes,
+      and for such a case, YES and NO are synonymous with the
       judgements TRUE and FALSE respectively.)
 
       The initiator is unqualified to be assigned as judge of the
@@ -4218,6 +4218,7 @@ Amended(25) by Proposal 5470 (Murphy), 24 March 2008
 Amended(26) by Proposal 5476 (Murphy; disi.), 27 March 2008
 Amended(27) by Proposal 5964 (Murphy), 18 November 2008
 Amended(28) by Proposal 6002 (Murphy), 7 December 2008
+Amended(29) by Proposal 6024 (Murphy), 22 December 2008
 
 ----------------------------------------------------------------------
 
@@ -4280,11 +4281,11 @@ Created by Proposal 6010 (ais523, Goethe, Murphy, comex, OscarMeyr),
 
 ----------------------------------------------------------------------
 
-Rule 1504/33 (Power=2)
+Rule 1504/34 (Power=2)
 Criminal Cases
 
-      There is a subclass of judicial case known as a criminal case.
-      Any first-class person can initiate a criminal case by an
+      Criminal cases are a subclass of judicial cases.  Any
+      first-class person can initiate a criminal case by an
       announcement calling for judgement on the circumstances
       surrounding a specified valid Notice of Violation alleging a
       rules breach by a single entity (the Accused).  The initiator
@@ -4426,21 +4427,22 @@ Amended(31) by Proposal 5808 (Murphy; disi.), 1 November 2008
 Amended(32) by Proposal 6000 (Murphy), 7 December 2008
 Amended(33) by Proposal 6010 (ais523, Goethe, Murphy, comex,
   OscarMeyr), 14 December 2008
+Amended(34) by Proposal 6024 (Murphy), 22 December 2008
 
 ----------------------------------------------------------------------
 
-Rule 2169/10 (Power=1.7)
+Rule 2169/11 (Power=1.7)
 Equity Cases
 
-      There is a subclass of judicial case known as an equity case. An
-      equity case's purpose is to correct a potential injustice in the
-      operation of a particular contract.  An equity case CAN be
-      initiated by any party to the contract, by announcement which
-      clearly identifies the contract and a state of affairs whereby
-      events have not proceeded as envisioned by the contract (such
-      as, but not limited to, a party acting in contravention of eir
-      contractual obligations).  This announcement SHALL also clearly
-      identify the set of parties to the contract.
+      Equity cases are a subclass of judicial cases. An equity case's
+      purpose is to correct a potential injustice in the operation of
+      a particular contract.  An equity case CAN be initiated by any
+      party to the contract, by announcement which clearly identifies
+      the contract and a state of affairs whereby events have not
+      proceeded as envisioned by the contract (such as, but not
+      limited to, a party acting in contravention of eir contractual
+      obligations).  This announcement SHALL also clearly identify the
+      set of parties to the contract.
 
       For the purpose of this rule, the parties to a contract are
       measured as of the time the case was initiated; however, if the
@@ -4521,6 +4523,7 @@ Amended(7) by Proposal 5675 (Goethe), 3 September 2008
 Amended(8) by Proposal 5812 (Murphy), 1 November 2008
 Amended(9) by Proposal 5826 (Murphy), 6 November 2008
 Amended(10) by Proposal 6006 (Murphy), 10 December 2008
+Amended(11) by Proposal 6024 (Murphy), 22 December 2008
 
 ----------------------------------------------------------------------
 
@@ -4586,17 +4589,16 @@ Amended(6) by Proposal 6014 (Goethe), 18 December 2008
 
 ----------------------------------------------------------------------
 
-Rule 911/24 (Power=1.7)
+Rule 911/25 (Power=1.7)
 Appeal Cases
 
-      There is a subclass of judicial case known as an appeal case.
-      An appeal case's purpose is to determine the appropriateness of
-      a judgement that has been assigned to a judicial question, and
-      make remedy if the judgement was poorly chosen.  The assignment
-      of judgement being questioned (appealed against, or appealed) is
-      referred to as the prior assignment; the word "prior" in this
-      rule is used to refer to the circumstances of the prior
-      assignment.
+      Appeal cases are a subclass of judicial cases.  An appeal case's
+      purpose is to determine the appropriateness of a judgement that
+      has been assigned to a judicial question, and make remedy if the
+      judgement was poorly chosen.  The assignment of judgement being
+      questioned (appealed against, or appealed) is referred to as the
+      prior assignment; the word "prior" in this rule is used to refer
+      to the circumstances of the prior assignment.
 
       An appeal concerning any assignment of judgement in a non-appeal
       case within the past two weeks CAN be initiated by any player
@@ -4716,22 +4718,22 @@ Amended(21) by Proposal 5610 (Murphy, Goethe), 29 July 2008
 Amended(22) by Proposal 5726 (Murphy), 7 October 2008
 Amended(23) by Proposal 6002 (Murphy), 7 December 2008
 Amended(24) by Proposal 6014 (Goethe), 18 December 2008
+Amended(25) by Proposal 6024 (Murphy), 22 December 2008
 
 ----------------------------------------------------------------------
 
-Rule 2175/3 (Power=1)
+Rule 2175/4 (Power=1)
 Judicial Retraction and Excess
 
-      If a judicial case (other than an appeal case) has not had any
-      judge assigned to it, then:
+      A new case is a judicial case (other than an appeal case) that
+      has not had any judge assigned to it.  The initiator of a new
+      case CAN retract it by announcement, thus causing it to cease to
+      be a judicial case.
 
-      a) Its initiator CAN retract it by announcement, thus causing it
-         to cease to be a judicial case.
-
-      b) If its initiator previously initiated five or more cases
-         during the same Agoran week as that case, then it is an
-         excess case, and the Clerk of the Courts CAN refuse it by
-         announcement, thus causing it to cease to be a judicial case.
+      An excess case is a new case whose initiator previously
+      initiated five or more cases during the same week as that case.
+      The Clerk of the Courts CAN refuse an excess case by
+      announcement, thus causing it to cease to be a judicial case.
 
 History:
 Created by Proposal 5284 (root, pikhq), 7 November 2007
@@ -4739,10 +4741,11 @@ Retitled by Proposal 5301 (Murphy), 28 November 2007
 Amended(1) by Proposal 5301 (Murphy), 28 November 2007
 Amended(2) by Proposal 5384 (Murphy), 1 January 2008
 Amended(3) by Proposal 5768 (Murphy), 17 October 2008
+Amended(4) by Proposal 6024 (Murphy), 22 December 2008
 
 ----------------------------------------------------------------------
 
-Rule 1868/12 (Power=2)
+Rule 1868/13 (Power=2)
 Judge Assignment Generally
 
       At any time, a judicial case either has no judge assigned to it
@@ -4775,8 +4778,8 @@ Judge Assignment Generally
 
       To recuse a judge from a case is to deassign em as its judge.
       Assigning a judge to a case implicitly recuses its existing
-      judge, if any.  A recusal is "with cause" if and only if stated
-      as such by the rules.
+      judge, if any.  A recusal "with cause" is a recusal defined as
+      such by the rules.
 
 [CFJ 1186: The Clerk of the Courts is required by Rule 1868 to select
 a Judge who is qualified ["eligible" at the time of CFJ 1186] at the
@@ -4800,6 +4803,7 @@ Amended(9) by Proposal 5217 (Murphy; disi.), 13 September 2007
 Amended(10) by Proposal 5248 (AFO; disi.), 14 October 2007
 Amended(11) by Proposal 5277 (Murphy, Zefram), 7 November 2007
 Amended(12) by Proposal 5317 (Murphy), 28 November 2007
+Amended(13) by Proposal 6024 (Murphy), 22 December 2008
 
 ----------------------------------------------------------------------
 
@@ -4943,12 +4947,12 @@ Created by Proposal 5468 (Murphy), 13 March 2008
 
 ----------------------------------------------------------------------
 
-Rule 2164/2 (Power=1)
+Rule 2164/3 (Power=1)
 Judicial Self-Recusal and Case Transfer
 
       The judge of a judicial case CAN recuse emself from it at any
-      time by announcement.  If e has been assigned to the case for at
-      least four days, such a recusal is with cause.
+      time by announcement.  Such a recusal is with cause if and only
+      if e has been assigned to the case for at least four days.
 
       An entity (the transferee) CAN, with consent from the current
       judge of a judicial case (the transferor), assign emself as the
@@ -4961,6 +4965,7 @@ History:
 Created by Proposal 5131 (Zefram), 13 August 2007
 Amended(1) by Proposal 5151 (root), 29 August 2007
 Amended(2) by Proposal 5465 (Murphy), 13 March 2008
+Amended(3) by Proposal 6024 (Murphy), 22 December 2008
 
 ----------------------------------------------------------------------
 
