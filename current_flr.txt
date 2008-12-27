@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6025
-Last change to this ruleset: by proposal 6025
+Last proposal with recorded effect on this ruleset: 6026
+Last change to this ruleset: by proposal 6026
 
 Rule ID numbers:
       highest orderly: 2234
@@ -993,12 +993,12 @@ Amended(3) by Proposal 5110 (Murphy), 2 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 1681/13 (Power=1)
+Rule 1681/14 (Power=1)
 The Logical Rulesets
 
-      There is a format of the ruleset known as the Short Logical
-      Ruleset (SLR).  In this format, each rule is assigned to a
-      category, and the rules are grouped according to their category.
+      The Short Logical Ruleset (SLR) is a format of the ruleset.  In
+      this format, each rule is assigned to a category, and the rules
+      are grouped according to their category.
 
       Rules are assigned to, ordered within, or moved between
       categories, and categories are added, changed, or empty
@@ -1011,11 +1011,11 @@ The Logical Rulesets
       additional information in the SLR, except that which increases
       the readability of the SLR.
 
-      There is a format of the ruleset known as the Full Logical
-      Ruleset (FLR).  In this format, rules are assigned to the same
-      category and presented in the same order as in the SLR.  The FLR
-      must contain all the information required to be in the SLR, and
-      any historical annotations which the Rulekeepor is required to
+      The Short Logical Ruleset (SLR) is a format of the ruleset.  In
+      this format, rules are assigned to the same  category and
+      presented in the same order as in the SLR.  The FLR must contain
+      all the information required to be in the SLR, and any
+      historical annotations which the Rulekeepor is required to
       record.
 
       The Rulekeepor is also free to include any other information
@@ -1051,6 +1051,7 @@ Amended(10) by Proposal 5006 (Zefram), 18 June 2007
 Amended(11) by Proposal 5110 (Murphy), 2 August 2007
 Amended(12) by Proposal 5334 (Murphy), 5 December 2007
 Amended(13) by Proposal 5956 (comex), 17 November 2008
+Amended(14) by Proposal 6026 (Murphy), 22 December 2008
 
 ----------------------------------------------------------------------
 
@@ -1131,16 +1132,17 @@ Created by Proposal 5794 (Murphy, Swann), 26 October 2008
 
 ----------------------------------------------------------------------
 
-Rule 1750/1 (Power=1)
+Rule 1750/2 (Power=1)
 Read the Ruleset Week
 
       The first Agoran week each year which falls entirely in February
-      is Read the Ruleset Week.  Agorans are encouraged to read the
-      ruleset during Read the Ruleset Week.
+      is known as Read the Ruleset Week.  During this time, Agorans
+      SHOULD read the ruleset.
 
 History:
 Created by Proposal 3601 (Chuck), Dec. 9 1997
 Amended(1) by Proposal 4398 (harvel), 23 October 2002
+Amended(2) by Proposal 6026 (Murphy), 22 December 2008
 
 ----------------------------------------------------------------------
 
@@ -5747,7 +5749,7 @@ Foreign Relations
       other nomics.
 ----------------------------------------------------------------------
 
-Rule 2200/2 (Power=1)
+Rule 2200/3 (Power=1)
 Nomic Definitions
 
       A nomic ruleset is a set of explicit rules that provides means
@@ -5762,9 +5764,8 @@ Nomic Definitions
       whole.  Each nomic ruleset defines exactly one nomic, and each
       nomic is defined by exactly one nomic ruleset.
 
-      A foreign nomic is a nomic that is not Agora. Adopting the name
-      of "Agora" does not disqualify a nomic from being foreign; any
-      nomic that is not the One True Agora is a foreign nomic.
+      A foreign nomic is a nomic other than this one, even if it has
+      the same name as this one.
 
       A province is a protectorate that is a player.
 
@@ -5776,6 +5777,7 @@ History:
 Created by Proposal 5446 (Pavitra, Zefram), 24 February 2008
 Amended(1) by Proposal 5523 (Pavitra; disi.), 2 June 2008
 Amended(2) by Proposal 5968 (Murphy), 20 November 2008
+Amended(3) by Proposal 6026 (Murphy), 22 December 2008
 
 ----------------------------------------------------------------------
 
@@ -5802,12 +5804,13 @@ Amended(2) by Proposal 5122 (Zefram), 13 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 402/25 (Power=1)
+Rule 402/26 (Power=1)
 Identity of the Speaker
 
-      The Speaker is the active player who has borne the Patent Title
-      of Minister Without Portfolio the longest, with ties broken in
-      favor of the player who has been registered the longest.
+      The office of Speaker is held by the active player who has borne
+      the Patent Title of Minister Without Portfolio the longest, with
+      ties broken in favor of the player who has been registered the
+      longest.
 
       The Herald's report includes the date on which each Minister
       Without Portfolio most recently was awarded the title.
@@ -5850,17 +5853,16 @@ Amended(22) by Proposal 5257 (AFO), 27 October 2007
 Amended(23) by Proposal 5270 (Murphy; disi.), 7 November 2007
 Amended(24) by Proposal 5430 (Goethe), 9 February 2008
 Amended(25) by Proposal 5593 (Goethe), 29 July 2008
+Amended(26) by Proposal 6026 (Murphy), 22 December 2008
 
 ----------------------------------------------------------------------
 
-Rule 103/4 (Power=1)
+Rule 103/5 (Power=1)
 Role of the Speaker
 
-      The Speaker is an imposed office.
-
-      The Speaker is the figurehead of Agora, embodying its spirit.
-      Diplomatic missions from Agora to foreign nomics operate on the
-      Speaker's behalf.
+      The Speaker is an imposed office, and the figurehead of Agora,
+      embodying its spirit.  Diplomatic missions from Agora to foreign
+      nomics operate on the Speaker's behalf.
 
 History:
 Initial Immutable Rule 103, Jun. 30 1993
@@ -5872,19 +5874,20 @@ Retitled by Proposal 5257 (AFO), 27 October 2007
 Amended(3) by Proposal 5257 (AFO), 27 October 2007
 Amended(4) by Proposal 5407 (root), 22 January 2008
 Power changed from 3 to 1 by Proposal 5947 (ais523), 15 November 2008
+Amended(5) by Proposal 6026 (Murphy), 22 December 2008
 
 ----------------------------------------------------------------------
 
-Rule 2148/2 (Power=1)
+Rule 2148/3 (Power=1)
 The Ambassador
 
       The ambassador is a low-priority office, responsible for
       relations with foreign nomics.
 
-      A foreign nomic may grant certain powers and privileges to
-      Agora's ambassador.  If so, the ambassador shall generally
-      exercise such powers in such manner as e sees fit, subject to
-      other rules and orders.
+      A foreign nomic may grant certain powers (in the
+      ordinary-language sense) and privileges to Agora's ambassador.
+      If so, the ambassador shall generally exercise such powers in
+      such manner as e sees fit, subject to other rules and orders.
 
       All players are prohibited from falsely claiming, to any nomic,
       to be the ambassador.
@@ -5906,6 +5909,7 @@ Amended(1) by Proposal 5091 (Zefram), 25 July 2007
 Retitled by Proposal 5112 (Murphy), 2 August 2007
 Amended(2) by Proposal 5239 (AFO), 3 October 2007
 Power changed from 2 to 1 by Proposal 5947 (ais523), 15 November 2008
+Amended(3) by Proposal 6026 (Murphy), 22 December 2008
 
 ----------------------------------------------------------------------
 
