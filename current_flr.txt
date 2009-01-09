@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6030
-Last change to this ruleset: by proposal 6030
+Last proposal with recorded effect on this ruleset: 6031
+Last change to this ruleset: by proposal 6031
 
 Rule ID numbers:
       highest orderly: 2234
@@ -11,7 +11,7 @@ Rule ID numbers:
 
 Statistics
 
-Current total number of rules: 131
+Current total number of rules: 130
 
 Power distribution:
        1 with Power=4
@@ -19,7 +19,7 @@ Power distribution:
       51 with Power=2
        5 with Power=1.7
        6 with Power=1.5
-      36 with Power=1
+      35 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -51,7 +51,6 @@ Index of Rules
       Rule 2140: Power Controls Mutability
       Rule 2186: Victory
       Rule 2110: Win by Paradox
-      Rule 2218: Win by Not Losing
       Rule 2199: Ribbons
       Rule 2019: Prerogatives
       Rule  104: First Speaker
@@ -561,21 +560,6 @@ Amended(4) by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
 Amended(5) by Proposal 5451 (root, Murphy, Zefram), 1 March 2008
 Power changed from 3 to 2 by Proposal 5955 (ais523, Elysion, Murphy;
   disi.), 18 November 2008
-
-----------------------------------------------------------------------
-
-Rule 2218/0 (Power=1)
-Win by Not Losing
-
-      While all but one player satisfy at least one Losing Condition,
-      that player satisfies the Winning Condition of Solitude.
-
-      Cleanup procedure:  The same person cannot satisfy this Winning
-      Condition again until at least one other player ceases to
-      satisfy any Losing Condition.
-
-History:
-Created by Proposal 5956 (comex), 17 November 2008
 
 ----------------------------------------------------------------------
 
