@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6026
-Last change to this ruleset: by proposal 6026
+Last proposal with recorded effect on this ruleset: 6027
+Last change to this ruleset: by proposal 6027
 
 Rule ID numbers:
       highest orderly: 2234
@@ -2353,7 +2353,7 @@ Amended(22) by Proposal 5995 (Murphy), 7 December 2008
 
 ----------------------------------------------------------------------
 
-Rule 2124/9 (Power=2)
+Rule 2124/10 (Power=2)
 Agoran Satisfaction
 
       A Supporter of a dependent action is a first-class player who
@@ -2384,6 +2384,10 @@ Agoran Satisfaction
           the ratio of supporters to objectors is greater than N, or
           the action has at least one supporter and no objectors.
 
+      For the purposes of any determination defined by this rule,
+      objections shall always be considered withdrawn if they were
+      made prior to the announcement of intent to perform the action.
+
 History:
 Created by Proposal 4853 (Goethe), 18 March 2006
 Amended(1) by Proposal 4866 (Goethe), 27 August 2006
@@ -2399,6 +2403,7 @@ Amended(6) by Proposal 5445 (Goethe, Murphy), 21 February 2008
 Amended(7) by Proposal 5504 (Murphy), 10 May 2008
 Amended(8) by Proposal 5767 (Murphy), 17 October 2008
 Amended(9) by Proposal 5995 (Murphy), 7 December 2008
+Amended(10) by Proposal 6027 (Elysion), 8 January 2009
 
 ----------------------------------------------------------------------
 
