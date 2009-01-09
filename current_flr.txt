@@ -522,13 +522,6 @@ Victory
       Condition again until at least one other player ceases to
       satisfy any Losing Condition.
 
-History:
-Created by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
-  16 January 2008
-Amended(1) by Proposal 5791 (Murphy), 22 October 2008
-Amended(2) by Proposal 5792 (Murphy), 22 October 2008
-Amended(3) by Proposal 6023 (Murphy), 22 December 2008
-
 [Cross-references (9 January 2008): list of Winning Conditions:
   * Clout (rule 2134)
   * Dictatorship (rule 2223)
@@ -538,6 +531,13 @@ Amended(3) by Proposal 6023 (Murphy), 22 December 2008
   * Paradox (rule 2110)
   * Renaissance (rule 2199)
   * Solitude (rule 2186)]
+
+History:
+Created by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
+  16 January 2008
+Amended(1) by Proposal 5791 (Murphy), 22 October 2008
+Amended(2) by Proposal 5792 (Murphy), 22 October 2008
+Amended(3) by Proposal 6023 (Murphy), 22 December 2008
 
 ----------------------------------------------------------------------
 
