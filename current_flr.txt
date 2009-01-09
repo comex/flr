@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6028
-Last change to this ruleset: by proposal 6028
+Last proposal with recorded effect on this ruleset: 6030
+Last change to this ruleset: by proposal 6030
 
 Rule ID numbers:
       highest orderly: 2234
@@ -2581,31 +2581,31 @@ Amended(27) by Proposal 6023 (Murphy), 22 December 2008
 
 ----------------------------------------------------------------------
 
-Rule 2143/3 (Power=1)
+Rule 2143/4 (Power=1)
 Official Reports and Duties
 
-      For each role:
+      For each office:
 
-      a) If any task is defined by the rules as part of that role's
-         weekly duties, then the holder of that role SHALL perform it
-         at least once each week.  If any information is defined by
-         the rules as part of that role's weekly report, then the
-         holder of that role SHALL maintain all such information, and
-         the publication of all such information is part of that
-         role's weekly duties.
+      a) If any task is defined by the rules as part of that office's
+         weekly duties, then the holder of that office SHALL perform
+         it at least once each week.  If any information is defined by
+         the rules as part of that office's weekly report, then the
+         holder of that office SHALL maintain all such information,
+         and the publication of all such information is part of that
+         office's weekly duties.
 
-      b) If any task is defined by the rules as part of that role's
-         monthly duties, then the holder of that role SHALL perform it
-         at least once each month.  If any information is defined by
-         the rules as part of that role's monthly report, then the
-         holder of that role SHALL maintain all such information, and
-         the publication of all such information is part of that
-         role's monthly duties.
+      b) If any task is defined by the rules as part of that office's
+         monthly duties, then the holder of that office SHALL perform
+         it at least once each month.  If any information is defined
+         by the rules as part of that office's monthly report, then
+         the holder of that office SHALL maintain all such
+         information, and the publication of all such information is
+         part of that office's monthly duties.
 
-      Any information defined by the rules as part of an role's
+      Any information defined by the rules as part of an office's
       report, without specifying which one, is part of its weekly
-      report (unless the role is defined by the rules as low-priority,
-      in which case it is part of its monthly report).
+      report (unless the office is defined by the rules as
+      low-priority, in which case it is part of its monthly report).
 
 History:
 Created by Proposal 4970 (Zefram), 23 May 2007
@@ -2613,6 +2613,7 @@ Amended(1) by Proposal 5239 (AFO), 3 October 2007
 Retitled by Proposal 5485 (root), 9 April 2008
 Amended(2) by Proposal 5485 (root), 9 April 2008
 Amended(3) by Proposal 5956 (comex), 17 November 2008
+Amended(4) by Proposal 6030 (Murphy; disi.), 8 January 2009
 
 ----------------------------------------------------------------------
 
