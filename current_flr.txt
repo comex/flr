@@ -529,6 +529,16 @@ Amended(1) by Proposal 5791 (Murphy), 22 October 2008
 Amended(2) by Proposal 5792 (Murphy), 22 October 2008
 Amended(3) by Proposal 6023 (Murphy), 22 December 2008
 
+[Cross-references (9 January 2008): list of Winning Conditions:
+  * Clout (rule 2134)
+  * Dictatorship (rule 2223)
+  * High Score (rule 2187)
+  * Legislation (rule 2188)
+  * Musicianship (rule 2126)
+  * Paradox (rule 2110)
+  * Renaissance (rule 2199)
+  * Solitude (rule 2186)]
+
 ----------------------------------------------------------------------
 
 Rule 2110/5 (Power=2)
