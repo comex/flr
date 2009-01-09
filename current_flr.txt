@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6031
-Last change to this ruleset: by proposal 6031
+Last proposal with recorded effect on this ruleset: 6034
+Last change to this ruleset: by proposal 6034
 
 Rule ID numbers:
       highest orderly: 2234
@@ -11,7 +11,7 @@ Rule ID numbers:
 
 Statistics
 
-Current total number of rules: 130
+Current total number of rules: 129
 
 Power distribution:
        1 with Power=4
@@ -19,7 +19,7 @@ Power distribution:
       51 with Power=2
        5 with Power=1.7
        6 with Power=1.5
-      35 with Power=1
+      34 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -185,7 +185,6 @@ Index of Rules
       Rule  103: Role of the Speaker
       Rule 2148: The Ambassador
       Rule 2185: Foreign Relations
-      Rule 2184: Foreign communications
       Rule 2147: Protectorates
       Rule 2159: Protective Decrees
       Rule 2206: Foreign Trade
@@ -5888,7 +5887,6 @@ The Ambassador
 
 [Cross-references (16 January 2008): the Ambassador's duties are:
   * advertise Agora (rule 2135)
-  * use appropriate forum when notifying foreign nomic (rule 2184)
   * exercise diplomatic privileges in foreign nomics (rule 2148)
   * track recognition (rule 2185)
   * flip recognition (rule 2185)
@@ -5926,18 +5924,6 @@ Foreign Relations
 
 History:
 Created by Proposal 5392 (Murphy), 16 January 2008
-
-----------------------------------------------------------------------
-
-Rule 2184/0 (Power=1)
-Foreign communications
-
-      When the Ambassador informs a foreign nomic of an event, e SHALL
-      use the forum (if any) specified by that nomic for announcing
-      that type of event.
-
-History:
-Created by Proposal 5390 (Murphy), 16 January 2008
 
 ----------------------------------------------------------------------
 
