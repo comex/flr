@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6048
-Last change to this ruleset: by proposal 6048
+Last proposal with recorded effect on this ruleset: 6049
+Last change to this ruleset: by proposal 6049
 
 Rule ID numbers:
       highest orderly: 2234
@@ -5566,15 +5566,13 @@ Amended(4) by Proposal 6020 (Murphy, root), 22 November 2008
 
 ----------------------------------------------------------------------
 
-Rule 2136/27 (Power=2)
+Rule 2136/28 (Power=2)
 Contests
 
       Contestmaster is a public contract switch, tracked by the
-      Notary, with a default value of 'none', and a set of possible
-      values which consists of all first-class players and 'none'.
-
-      A public contract is a contest if and only if it has a
-      contestmaster other than 'none'.
+      Scorekeepor, with values 'none' (default) and all first-class
+      players.  A contest is a public contract whose contestmaster is
+      not 'none'.
 
       The contestmaster of a contract CANNOT be flipped if any of the
       following are true:
@@ -5636,6 +5634,7 @@ Amended(24) by Proposal 5972 (root), 25 November 2008
 Amended(25) by Proposal 5989 (Wooble), 7 December 2008
 Amended(26) by Proposal 6020 (Murphy, root), 22 December 2008
 Amended(27) by Proposal 6037 (Goethe), 13 January 2009
+Amended(28) by Proposal 6049 (Murphy; disi.), 13 January 2009
 
 ----------------------------------------------------------------------
 
