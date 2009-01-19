@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6046
-Last change to this ruleset: by proposal 6046
+Last proposal with recorded effect on this ruleset: 6047
+Last change to this ruleset: by proposal 6047
 
 Rule ID numbers:
       highest orderly: 2234
@@ -4970,7 +4970,7 @@ Patent Titles and Degrees
       A category concerning titles of honor and dishonor.
 ----------------------------------------------------------------------
 
-Rule 649/27 (Power=1.5)
+Rule 649/28 (Power=1.5)
 Patent Titles
 
       A Patent Title is a legal item given in recognition of a
@@ -4985,9 +4985,8 @@ Patent Titles
       question contesting the validity of the conditions.  Awarding or
       revoking a Patent Title by Proposal is a secured change.
 
-      When a Patent Title is awarded to a person, that person is said
-      to Bear that Patent Title.  When a Patent Title is revoked from
-      an entity, that entity ceases to Bear that Patent Title.  The
+      While a Patent Title has been awarded to (and not revoked from)
+      an entity, that entity is said to Bear that Patent Title.  The
       status of Bearing a Patent Title can only be changed as
       explicitly set out in the Rules.  The Herald's report includes a
       list of each Patent Title that at least one entity Bears, with a
@@ -5059,6 +5058,7 @@ Amended(26) by Proposal 5412 (woggle), 26 January 2008
 Power changed from 1 to 1.5 by Proposal 5437 (Goethe), 13 February
   2008
 Amended(27) by Proposal 5437 (Goethe), 13 February 2008
+Amended(28) by Proposal 6047 (comex), 13 January 2009
 
 ----------------------------------------------------------------------
 
