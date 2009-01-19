@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6037
-Last change to this ruleset: by proposal 6037
+Last proposal with recorded effect on this ruleset: 6041
+Last change to this ruleset: by proposal 6041
 
 Rule ID numbers:
       highest orderly: 2234
@@ -2271,7 +2271,7 @@ Amended(27) by Proposal 6022 (Murphy), 22 December 2008
 
 ----------------------------------------------------------------------
 
-Rule 1728/22 (Power=3)
+Rule 1728/23 (Power=3)
 Dependent Actions
 
       A person (the performer) CAN perform an action dependently (a
@@ -2313,6 +2313,12 @@ Dependent Actions
       A dependent action CAN be performed non-dependently as otherwise
       permitted by the rules.
 
+      A person CAN perform a dependent action authorized by a contract
+      as if that contract were a rule, provided that the above
+      requirements are otherwise met, and that the effects of that
+      action are restricted to altering entities and/or attributes
+      whose existence depends on that contract.
+
 [CFJ 1722 (called 15 August 2007): The method of dependent action need
 not be described exactly: an approximate but inexact description
 suffices, as does the rule-defined term.]
@@ -2347,6 +2353,7 @@ Amended(20) by Proposal 5775 (Murphy), 17 October 2008
 Amended(21) by Proposal 5818 (comex), 1 November 2008
 Power changed from 2 to 3 by Proposal 5947 (ais523), 15 November 2008
 Amended(22) by Proposal 5995 (Murphy), 7 December 2008
+Amended(23) by Proposal 6041 (Murphy, Warrigal), 13 January 2009
 
 ----------------------------------------------------------------------
 
