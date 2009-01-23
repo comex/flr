@@ -4333,10 +4333,9 @@ Criminal Cases
       * SILENCE, a number of Rests, equal to the defined Class of the
         Crime or (if the breach is not a defined crime) the power of
         the breached Rule, are created in the possession of the Ninny.
-         If the Ninny showed bad faith by contesting an
-        obviously-correct notice or by obstructing the course of
-        justice, the judge CAN double the amount of the fine with 2
-        Support.
+        If the Ninny showed bad faith by contesting an obviously-
+        correct notice or by obstructing the course of justice, the
+        judge CAN double the amount of the fine with 2 Support.
 
       Players SHOULD NOT create rules defining Crimes of a Class
       greater than 14.
