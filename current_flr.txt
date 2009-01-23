@@ -1,22 +1,22 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6052
-Last change to this ruleset: by proposal 6052
+Last proposal with recorded effect on this ruleset: 6053
+Last change to this ruleset: by proposal 6053
 
 Rule ID numbers:
-      highest orderly: 2234
+      highest orderly: 2237
       disorderly: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 129
+Current total number of rules: 132
 
 Power distribution:
        1 with Power=4
-      32 with Power=3
-      51 with Power=2
+      33 with Power=3
+      53 with Power=2
        5 with Power=1.7
        6 with Power=1.5
       34 with Power=1
@@ -130,6 +130,8 @@ Index of Rules
       Rule 1950: Voting on Democratic Decisions
       Rule 2156: Voting on Ordinary Decisions
       Rule 2142: Support Democracy
+      Rule 2236: Committee Membership
+      Rule 2235: Committee Rejection
       Rule 2137: The Assessor
       Rule 1450: Separation of Powers
       Rule 1698: Agora Is a Nomic
@@ -169,6 +171,7 @@ Index of Rules
       Rule 2197: Defining Contract Changes
       Rule 2198: Making Contract Changes
       Rule 2178: Public Contracts
+      Rule 2237: Subsidized Contracts
       Rule 2173: The Notary
       Rule 2191: Pledges
       Rule 2179: Points
@@ -753,7 +756,7 @@ Rules
       processes of changing the rules.
 ----------------------------------------------------------------------
 
-Rule 2141/2 (Power=3)
+Rule 2141/3 (Power=3)
 Role and Attributes of Rules
 
       A rule is a type of instrument with the capacity to govern
@@ -775,9 +778,11 @@ Role and Attributes of Rules
       rule ever does not have a title, the Rulekeepor shall assign
       a title to it by announcement as soon as possible.
 
-      For the purposes of rules governing modification of instruments,
-      the text, power, ID number, and title of a rule are all
-      substantive aspects of the rule.
+      Every rule is assigned to a number of committees (possibly
+      zero).  For the purposes of rules governing modification of
+      instruments, the text, power, ID number, title, and committee
+      assignments (if any) of a rule are all substantive aspects of
+      the rule.
 
 [CFJ 1498 (called 12 April 2004): A rule's title is not strictly a
 name for the rule, and so rule titles are not subject to the
@@ -787,6 +792,7 @@ History:
 Created by Proposal 4940 (Zefram), 29 April 2007
 Amended(1) by Proposal 5110 (Murphy), 2 August 2007
 Amended(2) by Proposal 5994 (Murphy), 7 December 2008
+Amended(3) by Proposal 6053 (Murphy, woggle, ais523), 23 January 2009
 
 ----------------------------------------------------------------------
 
@@ -992,7 +998,7 @@ Amended(3) by Proposal 5110 (Murphy), 2 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 1681/14 (Power=1)
+Rule 1681/15 (Power=1)
 The Logical Rulesets
 
       The Short Logical Ruleset (SLR) is a format of the ruleset.  In
@@ -1004,7 +1010,8 @@ The Logical Rulesets
       categories removed, as the Rulekeepor sees fit.
 
       The listing of each rule in the SLR must include the rule's ID
-      number, revision number, power, title, and text.
+      number, revision number, power, committee assignments (if any),
+      title, and text.
 
       The Rulekeepor is strongly encouraged not to include any
       additional information in the SLR, except that which increases
@@ -1051,6 +1058,7 @@ Amended(11) by Proposal 5110 (Murphy), 2 August 2007
 Amended(12) by Proposal 5334 (Murphy), 5 December 2007
 Amended(13) by Proposal 5956 (comex), 17 November 2008
 Amended(14) by Proposal 6026 (Murphy), 22 December 2008
+Amended(15) by Proposal 6053 (Murphy, woggle, ais523), 23 January 2009
 
 ----------------------------------------------------------------------
 
@@ -3597,6 +3605,70 @@ Amended(4) by Proposal 5418 (root), 2 February 2008
 
 ----------------------------------------------------------------------
 
+Rule 2236/0 (Power=2)
+Committee Membership
+
+      The following committees exist, with the following charter
+      positions:
+
+      a) Committee on Rules (Rulekeepor, Promotor, Assessor, Grand
+         Poobah, Speaker, Anarchist)
+
+      b) Committee on Administration (all high-priority officers)
+
+      c) Committee on the Judiciary (Clerk of the Courts, all
+         first-class players whose judicial rank is Supreme and whose
+         posture is standing or sitting)
+
+      d) Committee on Crime (Justiciar, all first-class players whose
+         hawkishness is hanging and whose posture is standing or
+         sitting)
+
+      d) Committee on Finance (Accountor, all recordkeepors of
+         rule-backed assets)
+
+      e) Committee on Small Business and Entrepreneurship (Notary, all
+         partnerships, Liaison of each subsidized contract)
+
+      f) Committee on Indian Affairs (Scorekeepor, all contestmasters)
+
+      g) Committee on Foreign Relations (Speaker, Ambassador, all
+         Embassies)
+
+      While an active player holds one or more charter positions for a
+      committee, e is a charter member of that committee.  When a
+      charter member of a committee ceases to hold any charter
+      positions for that committee, or ceases to be an active player,
+      e ceases to be a member of that committee.
+
+      While a committee's number of charter members (CM) is less than
+      five, a non-member CAN spend any 5-CM of eir Notes forming
+      consecutive tones of a pentatonic scale to become a non-charter
+      member of that committee.  While a committee's number of members
+      is more than five, its non-charter member that has been one for
+      the longest continuous period of time ceases to be a member.
+
+      The IADoP's report includes the membership of each committee.
+
+History:
+Created by Proposal 6053 (Murphy, woggle, ais523), 23 January 2009
+
+----------------------------------------------------------------------
+
+Rule 2235/0 (Power=3)
+Committee Rejection
+
+      If a proposal would amend (whether directly or indirectly) a
+      rule assigned to a committee, and at least half the members of
+      that committee (measured at the start of its voting period) who
+      voted on that proposal cast more votes AGAINST it than FOR it,
+      then it is entirely without effect, even if adopted.
+
+History:
+Created by Proposal 6053 (Murphy, woggle, ais523), 23 January 2009
+
+----------------------------------------------------------------------
+
 Rule 2137/2 (Power=1)
 The Assessor
 
@@ -5466,6 +5538,20 @@ Power changed from 1.5 to 2 by Proposal 5804 (woggle; disi.),
 Amended(3) by Proposal 5835 (Goethe), 12 November 2008
 Amended(4) by Proposal 5972 (root), 25 November 2008
 Amended(5) by Proposal 6025 (Murphy), 22 December 2008
+
+----------------------------------------------------------------------
+
+Rule 2237/0 (Power=2)
+Subsidized Contracts
+
+      Subsidy is a public contract switch with values Unsubsidized
+      (default) and Subsidized.
+
+      Liaison is a subsidized contract switch with values null and all
+      roles defined by that contract.
+
+History:
+Created by Proposal 6053 (Murphy, woggle, ais523), 23 January 2009
 
 ----------------------------------------------------------------------
 
