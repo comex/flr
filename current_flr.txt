@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
 Last proposal with recorded effect on this ruleset: 6057
-Last change to this ruleset: by proposal 6057
+Last change to this ruleset: by cleaning
 
 Rule ID numbers:
       highest orderly: 2237
@@ -414,13 +414,13 @@ Amended(4) by Proposal 6022 (Murphy), 22 December 2008
 
 ----------------------------------------------------------------------
 
-Rule 1586/5 (Power=2)
+Rule 1586/6 (Power=2)
 Definition and Continuity of Entities
 
       If multiple rules or contracts (hereafter documents) attempt to
       define an entity with the same name, then they refer to the same
       entity.  A document-defined entity's name CANNOT be changed to
-      be the same as another document-defined entity.
+      be the same as another document-defined entity's name.
 
       A document referring to an entity by name refers to the entity
       that had that name when the document first came to include that
@@ -448,6 +448,7 @@ Power changed from 1 to 2 by Proposal 3999 (harvel), May 2 2000
 Amended(3) by Proposal 5077 (Murphy), 18 July 2007
 Amended(4) by Proposal 5723 (Murphy), 7 October 2008
 Amended(5) by Proposal 5836 (Murphy), 12 October 2008
+Amended(6) by cleaning, 26 January 2009
 
 ----------------------------------------------------------------------
 
