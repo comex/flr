@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6057
-Last change to this ruleset: by cleaning
+Last proposal with recorded effect on this ruleset: 6060
+Last change to this ruleset: by proposal 6060
 
 Rule ID numbers:
       highest orderly: 2237
@@ -1624,7 +1624,7 @@ Power changed from 2 to 1 by Proposal 5947 (ais523), 15 November 2008
 
 ----------------------------------------------------------------------
 
-Rule 2228/0 (Power=2)
+Rule 2228/1 (Power=2)
 Rests
 
       Rests are a fixed asset, whose recordkeepor is the Conductor.
@@ -1642,9 +1642,13 @@ Rests
       A player CAN spend two Notes in order to destroy a Rest owned by
       a player e specifies.
 
+      A first-class player CAN create Rests in eir own possession by
+      announcement.
+
 History:
 Created by Proposal 6010 (ais523, Goethe, Murphy, comex, OscarMeyr),
   14 December 2008
+Amended(1) by Proposal 6060 (Wooble, comex, Goethe), 4 February 2009
 
 ----------------------------------------------------------------------
 
