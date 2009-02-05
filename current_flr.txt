@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6061
-Last change to this ruleset: by proposal 6061
+Last proposal with recorded effect on this ruleset: 6063
+Last change to this ruleset: by proposal 6063
 
 Rule ID numbers:
       highest orderly: 2237
@@ -4287,7 +4287,7 @@ Amended(30) by Proposal 6044 (Goethe), 13 January 2009
 
 ----------------------------------------------------------------------
 
-Rule 2230/3 (Power=2)
+Rule 2230/4 (Power=2)
 Notices of Violation
 
       A player MAY publish a Notice of Violation alleging that a
@@ -4339,9 +4339,9 @@ Notices of Violation
       cause a Notice specifying em as Accused to become Closed by
       announcement. When a Notice becomes Closed, a number of Rests
       are created in the possession of the Accused equal to the power
-      of the violated Rule, rounded up.  If the notice becomes
-      contested after four days, these Rests remain, but CAN be later
-      destroyed by judicial processes as described elsewhere.
+      of the violated Rule, rounded up.  If a Closed notice becomes
+      Contested, these Rests remain, but CAN be later destroyed by
+      judicial processes as described elsewhere.
 
 History:
 Created by Proposal 6010 (ais523, Goethe, Murphy, comex, OscarMeyr),
@@ -4349,6 +4349,7 @@ Created by Proposal 6010 (ais523, Goethe, Murphy, comex, OscarMeyr),
 Amended(1) by Proposal 6036 (ais523, wooble; disi.), 13 January 2009
 Amended(2) by Proposal 6056 (Taral), 23 January 2009
 Amended(3) by Proposal 6057 (Taral), 23 January 2009
+Amended(4) by Proposal 6063 (Taral; disi.), 4 February 2009
 
 ----------------------------------------------------------------------
 
