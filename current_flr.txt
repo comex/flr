@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6060
-Last change to this ruleset: by proposal 6060
+Last proposal with recorded effect on this ruleset: 6061
+Last change to this ruleset: by proposal 6061
 
 Rule ID numbers:
       highest orderly: 2237
@@ -5632,7 +5632,7 @@ Amended(4) by Proposal 5817 (Murphy), 1 November 2008
 
 ----------------------------------------------------------------------
 
-Rule 2179/4 (Power=2)
+Rule 2179/5 (Power=2)
 Points
 
       For each point axis:
@@ -5652,6 +5652,11 @@ Points
       The Scorekeepor is a high-priority office, and the recordkeepor
       of points.
 
+      Players generally CAN transfer points they own to other players,
+      subject to the restrictions that no more than 5 points can be
+      transferred this way to any one player, nor from any one player,
+      per week.
+
 [Cross-references (16 January 2008): the Scorekeepor's duties are:
   * recordkeepor of points (rule 2179)]
 
@@ -5663,6 +5668,7 @@ Power changed from 1 to 2 by Proposal 5793 (root), 22 October 2008
 Amended(2) by Proposal 5793 (root), 22 October 2008
 Amended(3) by Proposal 5802 (Murphy; disi.), 3 November 2008
 Amended(4) by Proposal 6020 (Murphy, root), 22 November 2008
+Amended(5) by Proposal 6061 (ais523), 4 February 2009
 
 ----------------------------------------------------------------------
 
