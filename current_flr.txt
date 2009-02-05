@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6063
-Last change to this ruleset: by proposal 6063
+Last proposal with recorded effect on this ruleset: 6066
+Last change to this ruleset: by proposal 6066
 
 Rule ID numbers:
       highest orderly: 2237
@@ -1624,14 +1624,15 @@ Power changed from 2 to 1 by Proposal 5947 (ais523), 15 November 2008
 
 ----------------------------------------------------------------------
 
-Rule 2228/1 (Power=2)
+Rule 2228/2 (Power=2)
 Rests
 
-      Rests are a fixed asset, whose recordkeepor is the Conductor.
-      The creation and destruction of Rests is secured with a power
-      threshold of 1.7, a person generally CANNOT destroy rests except
-      as permitted by Rules explicitly stating methods by which rests
-      in particular CAN be destroyed.
+      Rests are a fixed asset.  The creation and destruction of Rests
+      is secured with a power threshold of 1.7, a person generally
+      CANNOT destroy rests except as permitted by Rules explicitly
+      stating methods by which rests in particular CAN be destroyed.
+
+      The Insulator is an office, and the recordkeepor of Rests.
 
       Ownership of Rests is restricted to first-class persons. If, in
       the absence of this restriction, a number (N) of Rests would be
@@ -1649,6 +1650,7 @@ History:
 Created by Proposal 6010 (ais523, Goethe, Murphy, comex, OscarMeyr),
   14 December 2008
 Amended(1) by Proposal 6060 (Wooble, comex, Goethe), 4 February 2009
+Amended(2) by Proposal 6066 (comex, Goethe; disi.), 4 February 2009
 
 ----------------------------------------------------------------------
 
