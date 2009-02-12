@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
 Last proposal with recorded effect on this ruleset: 6066
-Last change to this ruleset: by proposal 6066
+Last change to this ruleset: by cleaning
 
 Rule ID numbers:
       highest orderly: 2237
@@ -3322,7 +3322,7 @@ Proposals
       which changes are made to the game.
 ----------------------------------------------------------------------
 
-Rule 106/15 (Power=3)
+Rule 106/16 (Power=3)
 Adopting Proposals
 
       A proposal is a document outlining changes to be made to Agora,
@@ -3346,7 +3346,7 @@ Adopting Proposals
       Agoran Decision to adopt it is secured.
 
       If the Rules do not otherwise permit at least one current active
-      player to distribute a Proposal, than any player may do so
+      player to distribute a Proposal, then any player may do so
       Without 3 Objections.
 
       A co-author of a proposal is a person (other than its author)
@@ -3418,6 +3418,7 @@ Amended(12) by Proposal 5453 (Murphy), 1 March 2008
 Amended(13) by Proposal 5572 (Murphy), 4 July 2008
 Amended(14) by Proposal 6001 (Goethe), 7 December 2008
 Amended(15) by Proposal 6022 (Murphy), 22 December 2008
+Amended(16) by cleaning, 12 February 2009
 
 ----------------------------------------------------------------------
 
@@ -5475,7 +5476,7 @@ Power changed from 1.5 to 2 by Proposal 5704 (root; disi.), 1 October
 
 ----------------------------------------------------------------------
 
-Rule 2198/3 (Power=2)
+Rule 2198/4 (Power=2)
 Making Contract Changes
 
       Contract changes are secured.  If a contract specifies a
@@ -5483,7 +5484,7 @@ Making Contract Changes
       such changes CAN be performed using that mechanism.
 
       If a contract does not purport to regulate becoming a party to
-      it, than any person CAN become a party to it by announcement.
+      it, then any person CAN become a party to it by announcement.
 
       If the minimum number of parties for a contract is at least two,
       then Contract Changes CAN be made to it by agreement between all
@@ -5505,6 +5506,7 @@ Created by Proposal 5423 (woggle; disi.), 6 February 2008
 Amended(1) by Proposal 5502 (Pavitra; disi.), 26 April 2008
 Amended(2) by Proposal 5677 (ihope; disi.), 3 September 2008
 Amended(3) by Proposal 5686 (Goethe; disi.), 13 September 2008
+Amended(4) by cleaning, 12 February 2009
 
 ----------------------------------------------------------------------
 
