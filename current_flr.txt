@@ -1018,7 +1018,7 @@ The Logical Rulesets
       additional information in the SLR, except that which increases
       the readability of the SLR.
 
-      The Short Logical Ruleset (SLR) is a format of the ruleset.  In
+      The Full Logical Ruleset (FLR) is a format of the ruleset.  In
       this format, rules are assigned to the same  category and
       presented in the same order as in the SLR.  The FLR must contain
       all the information required to be in the SLR, and any
