@@ -200,6 +200,77 @@ Index of Rules
 
 ----------------------------------------------------------------------
 
+Committee Assignments
+
+      * Committee on Rules
+      Rule  105: Rule Changes
+      Rule 1688: Power
+      Rule 2140: Power Controls Mutability
+      Rule  693: Agoran Decisions
+      Rule  107: Initiating Agoran Decisions
+      Rule  683: Voting on Agoran Decisions
+      Rule  208: Resolving Agoran decisions
+      Rule  955: Determining the Will of Agora
+      Rule  106: Adopting Proposals
+      Rule 1607: The Promotor
+      Rule 2137: The Assessor
+
+      * Committee on Administration
+      Rule 1006: Offices
+      Rule 2143: Official Reports and Duties
+      Rule 2160: Deputisation
+      Rule 2154: Election Procedure
+      Rule 2217: Periodic Elections
+      Rule 2138: The International Associate Director of Personnel
+
+      * Committee on the Judiciary
+      Rule  991: Judicial Cases Generally
+      Rule 2158: Judicial Questions
+      Rule 1868: Judge Assignment Generally
+      Rule  591: Inquiry Cases
+      Rule 2157: Judicial Panels
+      Rule  911: Appeal Cases
+
+      * Committee on Crime
+      Rule 2230: Notices of Violation
+      Rule 1504: Criminal Cases
+      Rule 2228: Rests
+      Rule 2229: Just Resting
+
+      * Committee on Finance
+      Rule 2166: Assets
+      Rule 2181: The Accountor
+      Rule 2126: Notes
+      Rule 2199: Ribbons
+
+      * Committee on Small Business and Entrepreneurship
+      Rule 1742: Contracts
+      Rule 2173: The Notary
+      Rule 2197: Defining Contract Changes
+      Rule 2198: Making Contract Changes
+      Rule 2178: Public Contracts
+      Rule 2191: Pledges
+      Rule 2145: Partnerships
+      Rule 2169: Equity Cases
+
+      * Committee on Indian Affairs
+      Rule 2179: Points
+      Rule 2136: Contests
+      Rule 2232: Contest Axes
+      Rule 2233: Awarding and Revoking Points
+      Rule 2187: Win by High Score
+
+      * Committee on Foreign Relations
+      Rule 2200: Nomic Definitions
+      Rule 2148: The Ambassador
+      Rule 2185: Foreign Relations
+      Rule 2147: Protectorates
+      Rule 2159: Protective Decrees
+      Rule 2206: Foreign Trade
+      Rule 2207: Trade Embargo
+
+----------------------------------------------------------------------
+
 [Rules are listed as follows.  "nnnn" is the rule's ID number,
 mandated by rule 2141 and governed by rule 2161.  "r" is the revision
 number, which is not defined by the rules.  "p" is the rule's power,
