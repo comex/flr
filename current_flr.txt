@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6066
-Last change to this ruleset: by cleaning
+Last proposal with recorded effect on this ruleset: 6071
+Last change to this ruleset: by proposal 6071
 
 Rule ID numbers:
       highest orderly: 2237
@@ -5294,7 +5294,7 @@ Amended(28) by Proposal 6047 (comex), 13 January 2009
 
 ----------------------------------------------------------------------
 
-Rule 1922/29 (Power=1)
+Rule 1922/30 (Power=1)
 Defined Regular Patent Titles
 
       The following are Patent Titles:
@@ -5354,6 +5354,11 @@ Defined Regular Patent Titles
            lists to occasionally add tid-bits of wisdom or insight to
            discussions.
 
+      (h)  Cassandra, to be awarded to any player who noticed a scam,
+           thought up a way to stop it, warned everyone clearly, and
+           yet the scam happened anyway due to apathy on the part of
+           other players.
+
 [CFJ 1865 (called 14 January 2008): The Patent Title of Champion
 CANNOT be awarded by announcement of the Herald to a person who has
 not won the game.]
@@ -5389,6 +5394,7 @@ Amended(26) by Proposal 5805 (Murphy, Zefram), 29 October 2008
 Amended(27) by Proposal 5815 (Pavitra, Murphy), 1 November 2008
 Amended(28) by Proposal 5967 (Murphy), 20 November 2008
 Amended(29) by Proposal 6009 (Sgeo), 10 December 2008
+Amended(30) by Proposal 6071 (ais523), 16 February 2009
 
 ----------------------------------------------------------------------
 
