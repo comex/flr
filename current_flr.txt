@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6071
-Last change to this ruleset: by proposal 6071
+Last proposal with recorded effect on this ruleset: 6084
+Last change to this ruleset: by proposal 6084
 
 Rule ID numbers:
       highest orderly: 2237
@@ -5294,7 +5294,7 @@ Amended(28) by Proposal 6047 (comex), 13 January 2009
 
 ----------------------------------------------------------------------
 
-Rule 1922/30 (Power=1)
+Rule 1922/31 (Power=1)
 Defined Regular Patent Titles
 
       The following are Patent Titles:
@@ -5359,6 +5359,12 @@ Defined Regular Patent Titles
            yet the scam happened anyway due to apathy on the part of
            other players.
 
+      (h)  Missed Congeniality, to be awarded to persons who gain the
+           ability to make arbitrary changes to Rules with a power
+           less than 2 by announcement, but lose the ability before
+           gaining the ability to make such changes to higher-powered
+           rules.
+
 [CFJ 1865 (called 14 January 2008): The Patent Title of Champion
 CANNOT be awarded by announcement of the Herald to a person who has
 not won the game.]
@@ -5395,6 +5401,7 @@ Amended(27) by Proposal 5815 (Pavitra, Murphy), 1 November 2008
 Amended(28) by Proposal 5967 (Murphy), 20 November 2008
 Amended(29) by Proposal 6009 (Sgeo), 10 December 2008
 Amended(30) by Proposal 6071 (ais523), 16 February 2009
+Amended(31) by Proposal 6084 (Goethe), 16 February 2009
 
 ----------------------------------------------------------------------
 
