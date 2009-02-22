@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6078
-Last change to this ruleset: by proposal 6078
+Last proposal with recorded effect on this ruleset: 6079
+Last change to this ruleset: by proposal 6079
 
 Rule ID numbers:
       highest orderly: 2240
@@ -4407,7 +4407,7 @@ Assigned to Committee on the Judiciary by Proposal 6053 (Murphy,
 
 ----------------------------------------------------------------------
 
-Rule 2230/7 (Power=2) [Crime]
+Rule 2230/8 (Power=2) [Crime]
 Notices of Violation
 
       A player MAY publish a Notice of Violation (with N support,
@@ -4443,10 +4443,10 @@ Notices of Violation
 
       As soon as possible after a player makes an announcement that is
       reasonably recognizable as an attempt to issue such a notice,
-      the Clerk of the Courts SHALL announce whether the Notice was
-      valid. Such a Clerk of the Court's announcement is
-      self-ratifying.  Affirming the validity of the notice does not
-      in itself certify the correctness of the allegation.
+      the Insulator SHALL announce whether the Notice was valid.  Such
+      an announcement is self-ratifying.  Affirming the validity of
+      the notice does not in itself certify the correctness of the
+      allegation.
 
       A valid Notice of Violation is initially Uncontested unless a
       Crime is named, Contested otherwise.  Within four days after the
@@ -4478,6 +4478,7 @@ Amended(4) by Proposal 6063 (Taral; disi.), 4 February 2009
 Amended(5) by Proposal 6093 (Murphy), 22 February 2009
 Amended(6) by Proposal 6094 (ais523), 22 February 2009
 Amended(7) by Proposal 6103 (Murphy), 22 February 2009
+Amended(8) by Proposal 6079 (Murphy), 22 February 2009
 
 ----------------------------------------------------------------------
 
