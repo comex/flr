@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6077
-Last change to this ruleset: by proposal 6077
+Last proposal with recorded effect on this ruleset: 6078
+Last change to this ruleset: by proposal 6078
 
 Rule ID numbers:
       highest orderly: 2240
@@ -3716,7 +3716,7 @@ Amended(4) by Proposal 5418 (root), 2 February 2008
 
 ----------------------------------------------------------------------
 
-Rule 2236/0 (Power=2)
+Rule 2236/1 (Power=2)
 Committee Membership
 
       The following committees exist, with the following charter
@@ -3731,9 +3731,9 @@ Committee Membership
          first-class players whose judicial rank is Supreme and whose
          posture is standing or sitting)
 
-      d) Committee on Crime (Justiciar, all first-class players whose
-         hawkishness is hanging and whose posture is standing or
-         sitting)
+      d) Committee on Crime (Justiciar, Insulator, all first-class
+         players whose hawkishness is hanging and whose posture is
+         standing or sitting)
 
       d) Committee on Finance (Accountor, all recordkeepors of
          rule-backed assets)
@@ -3763,6 +3763,7 @@ Committee Membership
 
 History:
 Created by Proposal 6053 (Murphy, woggle, ais523), 23 January 2009
+Amended(1) by Proposal 6078 (Wooble), 22 February 2009
 
 ----------------------------------------------------------------------
 
