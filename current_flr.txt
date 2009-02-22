@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6104
-Last change to this ruleset: by proposal 6104
+Last proposal with recorded effect on this ruleset: 6106
+Last change to this ruleset: by proposal 6106
 
 Rule ID numbers:
       highest orderly: 2239
@@ -2910,7 +2910,7 @@ Amended(1) by Proposal 6048 (Wooble), 13 January 2009
 
 ----------------------------------------------------------------------
 
-Rule 2201/0 (Power=3)
+Rule 2201/1 (Power=3)
 Self-Ratification
 
       Any public document defined by the rules as self-ratifying is
@@ -2919,7 +2919,8 @@ Self-Ratification
       methods, explaining the scope and nature of the perceived error:
 
       a) An inquiry case, appropriate for questions of legal
-         interpretation.
+         interpretation.  The original document is never ratified due
+         to this rule,  the rest of this rule notwithstanding.
 
       b) A claim of error, appropriate for matters of fact.  The
          publisher of the original document SHALL respond to a claim
@@ -2940,6 +2941,7 @@ a self-ratifying document prevents ratification of all parts of it.]
 
 History:
 Created by Proposal 5459 (Murphy), 9 March 2008
+Amended(1) by Proposal 6106 (Murphy, ais523), 22 February 2009
 
 ----------------------------------------------------------------------
 
