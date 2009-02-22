@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6090
-Last change to this ruleset: by proposal 6090
+Last proposal with recorded effect on this ruleset: 6093
+Last change to this ruleset: by proposal 6093
 
 Rule ID numbers:
       highest orderly: 2237
@@ -4407,7 +4407,7 @@ Assigned to Committee on the Judiciary by Proposal 6053 (Murphy,
 
 ----------------------------------------------------------------------
 
-Rule 2230/4 (Power=2) [Crime]
+Rule 2230/5 (Power=2) [Crime]
 Notices of Violation
 
       A player MAY publish a Notice of Violation alleging that a
@@ -4416,10 +4416,10 @@ Notices of Violation
        (a) The identity of the Accused;
        (b) The allegedly illegal action/inaction in question;
        (c) The Rule that was allegedly broken;
-       (d) The name of the Class-N Crime (if any) specified in the
-           Rules as being associated with the alleged breach, where N
-           is the positive integer specified in the Rules for that
-           Crime.
+       (d) If the Rules specify exactly one Class-N Crime (where N is
+           a positive integer) as being associated with the alleged
+           breach, then the name of that Crime and the value of N;
+           otherwise, the Power of the Rule that was allegedly broken.
 
       Knowingly issuing a Notice of Violation with incorrect
       information is ILLEGAL, and the Class-4 Crime of Libel.
@@ -4472,6 +4472,7 @@ Assigned to Committee on Crime by Proposal 6053 (Murphy, woggle,
 Amended(2) by Proposal 6056 (Taral), 23 January 2009
 Amended(3) by Proposal 6057 (Taral), 23 January 2009
 Amended(4) by Proposal 6063 (Taral; disi.), 4 February 2009
+Amended(5) by Proposal 6093 (Murphy), 22 February 2009
 
 ----------------------------------------------------------------------
 
