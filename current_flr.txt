@@ -11,7 +11,7 @@ Rule ID numbers:
 
 Statistics
 
-Current total number of rules: 133
+Current total number of rules: 132
 
 Power distribution:
        1 with Power=4
@@ -19,7 +19,7 @@ Power distribution:
       53 with Power=2
        5 with Power=1.7
        6 with Power=1.5
-      35 with Power=1
+      34 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -74,7 +74,6 @@ Index of Rules
       Rule 2170: Who Am I?
       Rule 2150: Personhood
       Rule 2145: Partnerships
-      Rule 2144: Limited Partnerships
       Rule 2139: The Registrar
       Rule 1789: Cantus Cygneus
       Rule 2130: Activity
@@ -1483,31 +1482,6 @@ Amended(5) by Proposal 5776 (Goethe), 17 October 2008
 Amended(6) by Proposal 6025 (Murphy), 22 December 2008
 Assigned to Committee on Small Business and Entrepreneurship by
   Proposal 6053 (Murphy, woggle, ais523), 23 January 2009
-
-----------------------------------------------------------------------
-
-Rule 2144/8 (Power=1)
-Limited Partnerships
-
-      A partnership SHALL NOT register if its basis is the same as
-      that of any player.  Whenever a judgement of GUILTY is assigned
-      in a criminal case alleging that a partnership has violated this
-      rule, the judge SHOULD assign an EXILE judgement to the question
-      on sentencing in that case.
-
-      If a registered partnership has the same basis as another
-      player, any player CAN deregister it with Agoran Consent.
-
-History:
-Created by Proposal 4971 (Human Point Two), 23 May 2007
-Amended(1) by Proposal 5022 (Murphy), 25 June 2007
-Amended(2) by Proposal 5039 (Zefram), 28 June 2007
-Amended(3) by Proposal 5045 (BobTHJ), 1 July 2007
-Amended(4) by Proposal 5045 (BobTHJ), 1 July 2007
-Amended(5) by Proposal 5061 (Zefram), 9 July 2007
-Amended(6) by Proposal 5375 (root), 1 January 2008
-Amended(7) by Proposal 5380 (Goethe), 1 January 2008
-Amended(8) by Proposal 5400 (woggle; disi.), 16 January 2008
 
 ----------------------------------------------------------------------
 
