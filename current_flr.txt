@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6073
-Last change to this ruleset: by proposal 6073
+Last proposal with recorded effect on this ruleset: 6077
+Last change to this ruleset: by proposal 6077
 
 Rule ID numbers:
       highest orderly: 2240
@@ -3872,7 +3872,7 @@ Amended(5) by Proposal 5625 (Murphy, OscarMeyr, Ivan Hope), 29 July
 
 ----------------------------------------------------------------------
 
-Rule 2211/2 (Power=2)
+Rule 2211/3 (Power=2)
 The Grand Poobah
 
       The Grand Poobah is an office; its holder is responsible for
@@ -3910,6 +3910,8 @@ The Grand Poobah
 
         2) Demotions.  Each step is repeated as many times as needed.
 
+           a->b) While there is more than one Alpha,
+                   flip an Alpha's caste to Beta
            b->c) While there are more than two Betas,
                    flip a Beta's caste to Gamma
            c->d) While there are more than three Gammas,
@@ -3928,6 +3930,7 @@ History:
 Created by Proposal 5625 (Murphy, OscarMeyr, Ivan Hope), 29 July 2008
 Amended(1) by Proposal 5680 (Goethe), 3 September 2008
 Amended(2) by Proposal 5696 (Goethe), 20 September 2008
+Amended(3) by Proposal 6077 (Murphy), 22 February 2009
 
 ----------------------------------------------------------------------
 
