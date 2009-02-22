@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6079
-Last change to this ruleset: by proposal 6079
+Last proposal with recorded effect on this ruleset: 6083
+Last change to this ruleset: by proposal 6083
 
 Rule ID numbers:
       highest orderly: 2240
@@ -574,7 +574,7 @@ Assigned to Committee on Rules by Proposal 6053 (Murphy, woggle,
 
 ----------------------------------------------------------------------
 
-Rule 2186/4 (Power=2)
+Rule 2186/5 (Power=2)
 Victory
 
       Winning Conditions and Losing Conditions are conditions defined
@@ -588,6 +588,11 @@ Victory
       and do not satisfy any Losing Conditions, all such persons win
       the game.  The game CANNOT be won in any other way, rules to the
       contrary notwithstanding.
+
+      When used as a period of time, a "game" is the period of time
+      between one instant at which at least one person won the game,
+      and the next such instant. The "first game" was the period of
+      time prior to the first instant at which a person won the game.
 
       Each Winning Condition should (if needed) specify a cleanup
       procedure to prevent an arbitrary number of wins arising from
@@ -620,6 +625,7 @@ Amended(1) by Proposal 5791 (Murphy), 22 October 2008
 Amended(2) by Proposal 5792 (Murphy), 22 October 2008
 Amended(3) by Proposal 6023 (Murphy), 22 December 2008
 Amended(4) by Proposal 6052 (Murphy), 23 January 2009
+Amended(5) by Proposal 6083 (ais523), 22 February 2009
 
 ----------------------------------------------------------------------
 
