@@ -1,21 +1,21 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6106
-Last change to this ruleset: by proposal 6106
+Last proposal with recorded effect on this ruleset: 6073
+Last change to this ruleset: by proposal 6073
 
 Rule ID numbers:
-      highest orderly: 2239
+      highest orderly: 2240
       disorderly: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 132
+Current total number of rules: 133
 
 Power distribution:
        1 with Power=4
-      33 with Power=3
+      34 with Power=3
       53 with Power=2
        5 with Power=1.7
        6 with Power=1.5
@@ -60,6 +60,7 @@ Index of Rules
       Rule  217: Interpreting the Rules
       Rule 1482: Precedence between Rules with Unequal Power
       Rule 1030: Precedence between Rules with Equal Power
+      Rule 2240: No Cretans Need Apply
       Rule  105: Rule Changes
       Rule 1681: The Logical Rulesets
       Rule 1051: The Rulekeepor
@@ -979,6 +980,21 @@ Amended(4) by Proposal 3445 (General Chaos), Mar. 26 1997, cosmetic
   (unattributed)
 Amended(5) by Proposal 4887 (Murphy), 22 January 2007
 Amended(6) by Proposal 5110 (Murphy), 2 August 2007
+
+----------------------------------------------------------------------
+
+Rule 2240/0 (Power=3)
+No Cretans Need Apply
+
+      If a rule contains one or more self-contradictory chains of
+      clauses claiming precedence over and/or deference to one
+      another, then the last claim (when reading the rule from top to
+      bottom) involved in one or more such chains has no effect; this
+      process is repeated as often as needed until all such chains are
+      broken.
+
+History:
+Created by Proposal 6073 (Murphy), 22 February 2009
 
 ----------------------------------------------------------------------
 
