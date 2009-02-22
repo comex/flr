@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6084
-Last change to this ruleset: by proposal 6084
+Last proposal with recorded effect on this ruleset: 6088
+Last change to this ruleset: by proposal 6088
 
 Rule ID numbers:
       highest orderly: 2237
@@ -16,10 +16,10 @@ Current total number of rules: 132
 Power distribution:
        1 with Power=4
       33 with Power=3
-      53 with Power=2
+      52 with Power=2
        5 with Power=1.7
        6 with Power=1.5
-      34 with Power=1
+      35 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -2811,35 +2811,24 @@ Assigned to Committee on Administration by Proposal 6053 (Murphy,
 
 ----------------------------------------------------------------------
 
-Rule 2217/1 (Power=2) [Administration]
+Rule 2217/2 (Power=1) [Administration]
 Periodic Elections
 
-      Stability is an elected office switch, tracked by the IADoP,
-      with values Temporal (default) and Perpetual.  Any player CAN
-      flip an elected office's stability without 2 objections.  A
-      Perpetual office becomes Temporal when its holder leaves office.
-
-      The IADoP SHALL initiate an election for an elected office under
-      the following circumstances:
-
-       a) During a quarter, if the office was Temporal at the start of
-          that quarter and no such attempt was made during the
-          previous quarter.
-
-       b) Within a week (or month, if the office is low-priority)
-          after the office ceases to have (or is created without) an
-          active holder, or after an election for the office ends and
-          the office still lacks an active holder.  This requirement
-          is waived if the office comes to have an active holder.
-
-      These requirements are also waived if another player initiates
-      an election for the office.
+      Within a week (or month, if the office is low-priority) after an
+      elected office ceases to have (or is created without) an active
+      holder, or after an election for the office ends and the office
+      still lacks an active holder, the IADoP SHALL initiate an
+      election for that office.  This requirement is waived if the
+      office comes to have an active holder, or if another player
+      initiates an election for the office.
 
 History:
 Created by Proposal 5831 (Murphy), 6 November 2008
 Amended(1) by Proposal 5986 (Murphy), 7 December 2008
 Assigned to Committee on Administration by Proposal 6053 (Murphy,
   woggle, ais523), 23 January 2009
+Power changed from 2 to 1 by Proposal 6088 (ais523), 22 February 2009
+Amended(2) by Proposal 6088 (ais523), 22 February 2009
 
 ----------------------------------------------------------------------
 
