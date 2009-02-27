@@ -4184,8 +4184,7 @@ are:
   * announce whether a Notice of Violation is valid (rule 2230)
   * inform defendant in criminal case (rule 1504)
   * report active sentences (rule 1504)
-  * award patent title of Left in a Huff (rule 1922)
-  * report Monster-related cases (rule 2193)]
+  * award patent title of Left in a Huff (rule 1922)]
 
 History:
 Initial Mutable Rule 213, Jun. 30 1993
