@@ -5,7 +5,7 @@ Last change to this ruleset: by proposal 6083
 
 Rule ID numbers:
       highest orderly: 2240
-      disorderly: none
+      chaotic: none
 
 ----------------------------------------------------------------------
 
