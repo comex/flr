@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6113
-Last change to this ruleset: by proposal 6113
+Last proposal with recorded effect on this ruleset: 6115
+Last change to this ruleset: by proposal 6115
 
 Rule ID numbers:
       highest orderly: 2240
@@ -3214,7 +3214,7 @@ Created by Proposal 5978 (Elysion), 25 November 2008
 
 ----------------------------------------------------------------------
 
-Rule 2168/1 (Power=1)
+Rule 2168/2 (Power=1)
 Extending the voting period
 
       Whenever the voting period of an Agoran decision would end, and
@@ -3224,11 +3224,14 @@ Extending the voting period
 
       Upon such an occurrence, the vote collector for the decision
       SHOULD issue a humiliating public reminder to the slackers who
-      have not yet cast any votes on it despite being eligible.
+      have not yet cast any votes on it despite being eligible, and
+      CAN end the voting decision by announcement if the result would
+      no longer be FAILED QUORUM.
 
 History:
 Created by Proposal 5191 (root), 6 September 2007
 Amended(1) by Proposal 5979 (Murphy), 25 November 2008
+Amended(2) by Proposal 6115 (Murphy), 1 March 2009
 
 ----------------------------------------------------------------------
 
