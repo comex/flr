@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6112
-Last change to this ruleset: by proposal 6112
+Last proposal with recorded effect on this ruleset: 6113
+Last change to this ruleset: by proposal 6113
 
 Rule ID numbers:
       highest orderly: 2240
@@ -3425,15 +3425,14 @@ Proposals
       which changes are made to the game.
 ----------------------------------------------------------------------
 
-Rule 106/18 (Power=3) [Rules]
+Rule 106/19 (Power=3) [Rules]
 Adopting Proposals
 
-      A proposal is a document outlining changes to be made to Agora,
-      including enacting, repealing, or amending rules, or making
-      other explicit changes to the gamestate.  The text of a proposal
-      CANNOT change after it is distributed; however, this does not
-      affect any other entity (proposal or otherwise) solely because
-      that entity has the same text.
+      A proposal is a fixed body of text which has been made into a
+      proposal using a process specifically described in the Rules.  A
+      proposal SHOULD outline changes to be made to Agora, including
+      enacting, repealing, or amending rules, or making other explicit
+      changes to the gamestate.
 
       A player CAN create a proposal by publishing ("submitting") a
       body of text with a clear indication that it is intended to
@@ -3527,6 +3526,7 @@ Assigned to Committee on Rules by Proposal 6053 (Murphy, woggle,
 Amended(16) by cleaning, 12 February 2009
 Amended(17) by Proposal 6089 (Goethe), 22 February 2009
 Amended(18) by Proposal 6090 (Murphy, ais523), 22 February 2009
+Amended(19) by Proposal 6113 (Goethe), 1 March 2009
 
 ----------------------------------------------------------------------
 
