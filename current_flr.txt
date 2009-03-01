@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6083
-Last change to this ruleset: by proposal 6083
+Last proposal with recorded effect on this ruleset: 6110
+Last change to this ruleset: by proposal 6110
 
 Rule ID numbers:
       highest orderly: 2240
@@ -3142,7 +3142,7 @@ Assigned to Committee on Rules by Proposal 6053 (Murphy, woggle,
 
 ----------------------------------------------------------------------
 
-Rule 2196/1 (Power=3)
+Rule 2196/2 (Power=3)
 Standard Classes of Agoran Decisions
 
       An Agoran decision with an adoption index is either ordinary or
@@ -3157,11 +3157,12 @@ Standard Classes of Agoran Decisions
       b) Whether it is ordinary or democratic.
 
       For any Agoran decision with an adoption index, the available
-      options are FOR, AGAINST, and PRESENT.
+      options are FOR, AGAINST, and PRESENT (syn. ABSTAIN)
 
 History:
 Created by Proposal 5418 (root), 2 February 2008
 Amended(1) by Proposal 5455 (Murphy), 1 March 2008
+Amended(2) by Proposal 6110 (Murphy), 1 March 2009
 
 ----------------------------------------------------------------------
 
