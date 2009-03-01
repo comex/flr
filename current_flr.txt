@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6110
-Last change to this ruleset: by proposal 6110
+Last proposal with recorded effect on this ruleset: 6112
+Last change to this ruleset: by proposal 6112
 
 Rule ID numbers:
       highest orderly: 2240
@@ -4488,20 +4488,21 @@ Amended(8) by Proposal 6079 (Murphy), 22 February 2009
 
 ----------------------------------------------------------------------
 
-Rule 2239/0 (Power=2)
+Rule 2239/1 (Power=2)
 Grandfather Forgiveness
 
       Rules to the contrary notwithstanding, any Notice of Violation
       alleging a rule violation prior to the adoption of this rule is
-      invalid.  If this rule has existed for at least 200 days, then
+      invalid.  If this rule has existed for at least 90 days, then
       any player CAN (by announcement) cause it to repeal itself.
 
 History:
 Created by Proposal 6104 (Murphy), 22 February 2009
+Amended(1) by Proposal 6112 (Taral), 1 March 2009
 
 ----------------------------------------------------------------------
 
-Rule 1504/35 (Power=2) [Crime]
+Rule 1504/36 (Power=2) [Crime]
 Criminal Cases
 
       Criminal cases are a subclass of judicial cases.  Any
@@ -4520,7 +4521,7 @@ Criminal Cases
         doubt, that ALL of the following are true:
        (a) the Accused breached the specified rule via the specified
            act;
-       (b) the breach occurred within 200 days prior to the case being
+       (b) the breach occurred within 90 days prior to the case being
            initiated;
        (c) judgement has not already been reached in another criminal
            case, or punishment already applied through another
@@ -4652,6 +4653,7 @@ Amended(34) by Proposal 6024 (Murphy), 22 December 2008
 Assigned to Committee on Crime by Proposal 6053 (Murphy, woggle,
   ais523), 23 January 2009
 Amended(35) by Proposal 6054 (Wooble), 23 January 2009
+Amended(36) by Proposal 6112 (Taral), 1 March 2009
 
 ----------------------------------------------------------------------
 
