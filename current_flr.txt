@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6116
-Last change to this ruleset: by proposal 6116
+Last proposal with recorded effect on this ruleset: 6119
+Last change to this ruleset: by proposal 6119
 
 Rule ID numbers:
       highest orderly: 2240
@@ -4506,7 +4506,7 @@ Amended(1) by Proposal 6112 (Taral), 1 March 2009
 
 ----------------------------------------------------------------------
 
-Rule 1504/36 (Power=2) [Crime]
+Rule 1504/37 (Power=2) [Crime]
 Criminal Cases
 
       Criminal cases are a subclass of judicial cases.  Any
@@ -4572,10 +4572,13 @@ Criminal Cases
         Crime or (if the breach is not a defined crime) the power of
         the breached Rule, rounded to the nearest integer with ties
         broken by rounding up, are created in the possession of the
-        Ninny.  The judge CAN double the amount of the fine with 2
-        Support, and SHOULD attempt to do so if e believes the Ninny
-        showed bad faith by contesting an obviously-correct notice or
-        by obstructing the course of justice.
+        Ninny.  The judge CAN, with 2 Support, set the fine at a
+        different integral level between one half and double that
+        amount, and SHOULD attempt to do so if necessary to ensure
+        that the correlation between the fine and the severity of the
+        breach is appropriate, or to account for the faith (good or
+        bad) shown by the Ninny in contesting the notice or in aiding
+        or obstructing the course of justice.
 
       Players SHOULD NOT create rules defining Crimes of a Class
       greater than 14.
@@ -4658,6 +4661,7 @@ Assigned to Committee on Crime by Proposal 6053 (Murphy, woggle,
   ais523), 23 January 2009
 Amended(35) by Proposal 6054 (Wooble), 23 January 2009
 Amended(36) by Proposal 6112 (Taral), 1 March 2009
+Amended(37) by Proposal 6119 (Goethe), 1 March 2009
 
 ----------------------------------------------------------------------
 
