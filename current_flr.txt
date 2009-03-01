@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6115
-Last change to this ruleset: by proposal 6115
+Last proposal with recorded effect on this ruleset: 6116
+Last change to this ruleset: by proposal 6116
 
 Rule ID numbers:
       highest orderly: 2240
@@ -3710,11 +3710,11 @@ Amended(11) by Proposal 6010 (ais523, Goethe, Murphy, comex,
 
 ----------------------------------------------------------------------
 
-Rule 2142/4 (Power=2)
+Rule 2142/5 (Power=2)
 Support Democracy
 
-      A player CAN, with 2 support, change an ordinary decision to be
-      democratic.
+      A player CAN, with 2 support, change an ordinary decision in its
+      voting period to be democratic.
 
 History:
 Created by Proposal 4955 (Zefram), 7 May 2007
@@ -3723,6 +3723,7 @@ Power changed from 1.1 to 2 by Proposal 5044 (root), 1 July 2007
 Amended(2) by Proposal 5044 (root), 1 July 2007
 Amended(3) by Proposal 5210 (Murphy), 8 September 2007
 Amended(4) by Proposal 5418 (root), 2 February 2008
+Amended(5) by Proposal 6116 (Goethe), 1 March 2009
 
 ----------------------------------------------------------------------
 
