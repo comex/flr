@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
 Last proposal with recorded effect on this ruleset: 6119
-Last change to this ruleset: by proposal 6119
+Last change to this ruleset: by cleaning
 
 Rule ID numbers:
       highest orderly: 2240
@@ -520,7 +520,7 @@ Power changed from 1 to 2 by Proposal 3999 (harvel), May 2 2000
 Amended(3) by Proposal 5077 (Murphy), 18 July 2007
 Amended(4) by Proposal 5723 (Murphy), 7 October 2008
 Amended(5) by Proposal 5836 (Murphy), 12 October 2008
-Amended(6) by cleaning, 26 January 2009
+Amended(6) by cleaning (comex), 26 January 2009
 
 ----------------------------------------------------------------------
 
@@ -1625,7 +1625,7 @@ Amended(10) by Proposal 6100 (Pavitra; disi.), 22 February 2009
 
 ----------------------------------------------------------------------
 
-Rule 2177/9 (Power=2)
+Rule 2177/10 (Power=2)
 The Senate
 
       A Senator is any first-class player who has been registered
@@ -1643,10 +1643,10 @@ The Senate
       includes the dates when the most recent emergency session was
       called and terminated.
 
-      The roll call of an emergency session is the set of senators at
+      The roll call of an emergency session is the set of Senators at
       the time the emergency session was called.  During emergency
-      session, the previous definition of senator does not apply;
-      instead, a senator is a first-class player who is a member of
+      session, the previous definition of Senator does not apply;
+      instead, a Senator is a first-class player who is a member of
       the roll call.  The Assessor's report includes the roll call of
       the most recent emergency session.
 
@@ -1674,6 +1674,7 @@ Amended(6) by Proposal 5944 (Taral, ais523), 15 November 2008
 Amended(7) by Proposal 5945 (root), 15 November 2008
 Amended(8) by Proposal 5979 (Murphy), 25 November 2008
 Amended(9) by Proposal 6023 (Murphy), 22 December 2008
+Amended(10) by cleaning (Yally), 5 March 2009
 
 ----------------------------------------------------------------------
 
@@ -3526,7 +3527,7 @@ Amended(14) by Proposal 6001 (Goethe), 7 December 2008
 Amended(15) by Proposal 6022 (Murphy), 22 December 2008
 Assigned to Committee on Rules by Proposal 6053 (Murphy, woggle,
   ais523), 23 January 2009
-Amended(16) by cleaning, 12 February 2009
+Amended(16) by cleaning (comex), 12 February 2009
 Amended(17) by Proposal 6089 (Goethe), 22 February 2009
 Amended(18) by Proposal 6090 (Murphy, ais523), 22 February 2009
 Amended(19) by Proposal 6113 (Goethe), 1 March 2009
@@ -5690,7 +5691,7 @@ Amended(2) by Proposal 5677 (ihope; disi.), 3 September 2008
 Amended(3) by Proposal 5686 (Goethe; disi.), 13 September 2008
 Assigned to Committee on Small Business and Entrepreneurship by
   Proposal 6053 (Murphy, woggle, ais523), 23 January 2009
-Amended(4) by cleaning, 12 February 2009
+Amended(4) by cleaning (comex), 12 February 2009
 
 ----------------------------------------------------------------------
 
