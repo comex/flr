@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6130
-Last change to this ruleset: by proposal 6130
+Last proposal with recorded effect on this ruleset: 6131
+Last change to this ruleset: by proposal 6131
 
 Rule ID numbers:
       highest orderly: 2243
@@ -6121,7 +6121,7 @@ Assigned to Committee on Foreign Relations by Proposal 6053 (Murphy,
 
 ----------------------------------------------------------------------
 
-Rule 2147/5 (Power=2)
+Rule 2147/6 (Power=2)
 Protectorates
 
       Whereas Agora, being the superpower of nomics, has an inherent
@@ -6140,12 +6140,12 @@ Protectorates
       being a protectorate.
 
       If the criteria specified in the preceding paragraph are met,
-      the ambassador may make the nomic a protectorate with Agoran
-      Consent.  If a protectorate ever does not meet these criteria,
-      it ceases to be a protectorate.  The ambassador shall check
-      every month whether each protectorate continues to meet the
-      criteria, and shall announce whenever a protectorate has ceased
-      to be a protectorate.
+      the ambassador may make the nomic a protectorate without three
+      objections.  If a protectorate ever does not meet these
+      criteria, it ceases to be a protectorate.  The ambassador shall
+      check every month whether each protectorate continues to meet
+      the criteria, and shall announce whenever a protectorate has
+      ceased to be a protectorate.
 
       The ambassador's report includes a list of all protectorates,
       with contact details for each, and for each the forum in which
@@ -6173,6 +6173,7 @@ Amended(4) by Proposal 5239 (AFO), 3 October 2007
 Amended(5) by Proposal 5391 (Murphy; disi.), 16 January 2008
 Assigned to Committee on Foreign Relations by Proposal 6053 (Murphy,
   woggle, ais523), 23 January 2009
+Amended(6) by Proposal 6131 (comex), 15 March 2009
 
 ----------------------------------------------------------------------
 
