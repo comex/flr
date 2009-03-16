@@ -1197,7 +1197,13 @@ Win by Junta
       again in essentially the same way.
 
 [! If a scam succeeded, this rule reads, in its entirety:
-      This rule intentionally left blank. !]
+      This rule intentionally left blank.
+   Alternately, it may read:
+      Any non-player partnership whose basis contains no other members
+      but ais523, comex, Goethe, or coppro (but need not necessarily
+      contain all those members) can cause this rule to amend itself
+      by announcement.
+!]
 
 History:
 Created by Proposal 5982 (Murphy), 29 November 2008
