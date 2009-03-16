@@ -1,22 +1,22 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6120
-Last change to this ruleset: by proposal 6120
+Last proposal with recorded effect on this ruleset: 6121
+Last change to this ruleset: by proposal 6121
 
 Rule ID numbers:
-      highest orderly: 2240
+      highest orderly: 2242
       chaotic: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 133
+Current total number of rules: 134
 
 Power distribution:
        1 with Power=4
       34 with Power=3
-      53 with Power=2
+      54 with Power=2
        5 with Power=1.7
        6 with Power=1.5
       34 with Power=1
@@ -179,6 +179,7 @@ Index of Rules
       Rule 2136: Contests
       Rule 2232: Contest Axes
       Rule 2233: Awarding and Revoking Points
+      Rule 2242: Champion's Contests
       Rule 2234: Rewarding Contestmasters
       Rule 2187: Win by High Score
 
@@ -5986,6 +5987,37 @@ History:
 Created by Proposal 6020 (Murphy, root), 22 December 2008
 Assigned to Committee on Indian Affairs by Proposal 6053 (Murphy,
   woggle, ais523), 23 January 2009
+
+----------------------------------------------------------------------
+
+Rule 2242/0 (Power=2)
+Champion's Contests
+
+      Medals are a type of asset, tracked by the Scorekeepor;
+      ownership of Medals is limited to contests and to non-contest
+      players. Medals can only be transferred, created, and destroyed
+      as defined in this rule.
+
+      A contest's contestmaster CAN create a Medal in that contest's
+      possession without 2 objections. While a contest owns a Medal,
+      it is known as a Champion's Contest.
+
+      A contest's contestmaster CAN transfer ownership of or destroy a
+      Medal in that contest's possession, but only as explicitly
+      described by the contest's text; one exception to this is that a
+      contest CANNOT transfer a Medal to its contestmaster.
+
+      A Medal is automatically destroyed if the text of a contest
+      owning it changes.
+
+      Upon a win announcement that a specified non-contest player owns
+      a Medal, that player satisfies the Winning Condition of
+      Championship.
+
+      Cleanup procedure: One Medal owned by that player is destroyed.
+
+History:
+Created by Proposal 6121 (ais523), 15 March 2009
 
 ----------------------------------------------------------------------
 
