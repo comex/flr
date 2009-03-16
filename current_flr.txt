@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6127
-Last change to this ruleset: by proposal 6127
+Last proposal with recorded effect on this ruleset: 6129
+Last change to this ruleset: by proposal 6129
 
 Rule ID numbers:
       highest orderly: 2242
@@ -2634,7 +2634,7 @@ Created by Proposal 5970 (Murphy), 20 November 2008
 
 ----------------------------------------------------------------------
 
-Rule 2160/3 (Power=3)
+Rule 2160/4 (Power=3)
 Deputisation
 
       Any player (a deputy) CAN perform an action as if e held a
@@ -2646,7 +2646,7 @@ Deputisation
           filled); and
 
       (b) a time limit by which the rules require the action to be
-          performed has expired; and
+          performed has expired, or the office is vacant; and
 
       (c) the deputy announced between two and fourteen days earlier
           that e intended to deputise for that office for the purposes
@@ -2668,6 +2668,7 @@ Power changed from 1 to 3 by Proposal 5983 (Warrigal), 29 November
   2008
 Assigned to Committee on Administration by Proposal 6053 (Murphy,
   woggle, ais523), 23 January 2009
+Amended(4) by Proposal 6129 (Goethe), 15 March 2009
 
 ----------------------------------------------------------------------
 
