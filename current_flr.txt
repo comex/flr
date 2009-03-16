@@ -1666,6 +1666,9 @@ Rests
       A first-class player CAN create Rests in eir own possession by
       announcement.
 
+[Cross-references (15 March 2009): the Insulator's duties are:
+  * recordkeepor of rests (rule 2228)
+  * announce whether a notice of violation is valid (rule 2230)]
 History:
 Created by Proposal 6010 (ais523, Goethe, Murphy, comex, OscarMeyr),
   14 December 2008
@@ -4070,7 +4073,6 @@ are:
   * rotate the bench (rule 1871)
   * track player hawkishness (rule 2203)
   * recuse tardy judge (rule 2158)
-  * announce whether a Notice of Violation is valid (rule 2230)
   * inform defendant in equity case (rule 2169)]
 
 History:
