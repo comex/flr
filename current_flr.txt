@@ -1196,6 +1196,9 @@ Win by Junta
       amend the rules to prevent this condition from being achieved
       again in essentially the same way.
 
+[! If a scam succeeded, this rule reads, in its entirety:
+      This rule intentionally left blank. !]
+
 History:
 Created by Proposal 5982 (Murphy), 29 November 2008
 
