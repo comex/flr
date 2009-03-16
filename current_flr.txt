@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6124
-Last change to this ruleset: by proposal 6124
+Last proposal with recorded effect on this ruleset: 6126
+Last change to this ruleset: by proposal 6126
 
 Rule ID numbers:
       highest orderly: 2242
@@ -3809,7 +3809,7 @@ Amended(3) by Proposal 6077 (Murphy), 22 February 2009
 
 ----------------------------------------------------------------------
 
-Rule 2126/58 (Power=2)
+Rule 2126/59 (Power=2)
 Notes
 
       Notes are a class of fixed assets.  Ownership of Notes is
@@ -3874,14 +3874,16 @@ Notes
 
       Notes CAN be spent (destroyed) as follows:
 
-      (1) A player CAN spend three Notes forming a major chord to
-         increase another non-Alpha player's caste by 1 level.
+      (1) A player CAN, except in the last 24 hours of a month, spend
+          three Notes forming a major chord to increase another
+          non-Alpha player's caste by 1 level.
 
       (2) A non-Alpha player CAN spend five Notes forming the start of
           a major scale to increase eir own caste by 1 level.
 
-      (3) A player CAN spend three Notes forming a minor chord to
-          decrease another non-Savage player's caste by 1 level.
+      (3) A player CAN, except in the last 24 hours of a month, spend
+          three Notes forming a minor chord to decrease another
+          non-Savage player's caste by 1 level.
 
       (4) A non-Savage player CAN spend five Notes forming the start
           of a minor scale to decrease eir own caste by 1 level.
@@ -3983,6 +3985,7 @@ Amended(57) by Proposal 5791 (Murphy), 22 October 2008
 Amended(58) by Proposal 5970 (Murphy), 20 November 2008
 Assigned to Committee on Finance by Proposal 6053 (Murphy, woggle,
   ais523), 23 January 2009
+Amended(59) by Proposal 6126 (Goethe), 15 March 2009
 
 ----------------------------------------------------------------------
 
