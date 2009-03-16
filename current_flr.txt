@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6126
-Last change to this ruleset: by proposal 6126
+Last proposal with recorded effect on this ruleset: 6127
+Last change to this ruleset: by proposal 6127
 
 Rule ID numbers:
       highest orderly: 2242
@@ -675,15 +675,15 @@ Assigned to Committee on Finance by Proposal 6053 (Murphy, woggle,
 
 ----------------------------------------------------------------------
 
-Rule 2019/20 (Power=2)
+Rule 2019/21 (Power=2)
 Prerogatives
 
       In a timely fashion before the beginning of each month, the
-      Speaker SHALL assign each Player who bears the patent title
-      Minister Without Portfolio a different Prerogative for the
-      upcoming month by announcement.  If there are more members in
-      one set than the other, then e SHALL choose which members of the
-      larger set take part in the assignment.
+      Speaker SHALL assign each prerogative to a different active
+      player; first assigning prerogatives to active players bearing
+      the Patent Title Minister without Portfolio (MwoPs); then (if
+      there are more prerogatives than active MwoPs), assigning
+      prerogatives to other active players.
 
       The following Prerogatives are defined:
 
@@ -744,6 +744,7 @@ Amended(17) by Proposal 5644 (Murphy), 29 July 2008
 Amended(18) by Proposal 5693 (Goethe), 20 September 2008
 Amended(19) by Proposal 5781 (Murphy), 22 October 2008
 Amended(20) by Proposal 5783 (Murphy), 22 October 2008
+Amended(21) by Proposal 6127 (Goethe), 15 March 2009
 
 ----------------------------------------------------------------------
 
