@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6121
-Last change to this ruleset: by proposal 6121
+Last proposal with recorded effect on this ruleset: 6124
+Last change to this ruleset: by proposal 6124
 
 Rule ID numbers:
       highest orderly: 2242
@@ -11,12 +11,12 @@ Rule ID numbers:
 
 Statistics
 
-Current total number of rules: 134
+Current total number of rules: 131
 
 Power distribution:
        1 with Power=4
-      34 with Power=3
-      54 with Power=2
+      33 with Power=3
+      52 with Power=2
        5 with Power=1.7
        6 with Power=1.5
       34 with Power=1
@@ -130,8 +130,6 @@ Index of Rules
       Rule 1950: Voting on Democratic Decisions
       Rule 2156: Voting on Ordinary Decisions
       Rule 2142: Support Democracy
-      Rule 2236: Committee Membership
-      Rule 2235: Committee Rejection
       Rule 2137: The Assessor
       Rule 1450: Separation of Powers
       Rule 1698: Agora Is a Nomic
@@ -172,7 +170,6 @@ Index of Rules
       Rule 2197: Defining Contract Changes
       Rule 2198: Making Contract Changes
       Rule 2178: Public Contracts
-      Rule 2237: Subsidized Contracts
       Rule 2173: The Notary
       Rule 2191: Pledges
       Rule 2179: Points
@@ -199,77 +196,6 @@ Index of Rules
       Rule 1727: Happy Birthday
       Rule 2151: Agoran Arms
       Rule 2029: Town Fountain
-
-----------------------------------------------------------------------
-
-Committee Assignments
-
-      * Committee on Rules
-      Rule  105: Rule Changes
-      Rule 1688: Power
-      Rule 2140: Power Controls Mutability
-      Rule  693: Agoran Decisions
-      Rule  107: Initiating Agoran Decisions
-      Rule  683: Voting on Agoran Decisions
-      Rule  208: Resolving Agoran decisions
-      Rule  955: Determining the Will of Agora
-      Rule  106: Adopting Proposals
-      Rule 1607: The Promotor
-      Rule 2137: The Assessor
-
-      * Committee on Administration
-      Rule 1006: Offices
-      Rule 2143: Official Reports and Duties
-      Rule 2160: Deputisation
-      Rule 2154: Election Procedure
-      Rule 2217: Periodic Elections
-      Rule 2138: The International Associate Director of Personnel
-
-      * Committee on the Judiciary
-      Rule  991: Judicial Cases Generally
-      Rule 2158: Judicial Questions
-      Rule 1868: Judge Assignment Generally
-      Rule  591: Inquiry Cases
-      Rule 2157: Judicial Panels
-      Rule  911: Appeal Cases
-
-      * Committee on Crime
-      Rule 2230: Notices of Violation
-      Rule 1504: Criminal Cases
-      Rule 2228: Rests
-      Rule 2229: Just Resting
-
-      * Committee on Finance
-      Rule 2166: Assets
-      Rule 2181: The Accountor
-      Rule 2126: Notes
-      Rule 2199: Ribbons
-
-      * Committee on Small Business and Entrepreneurship
-      Rule 1742: Contracts
-      Rule 2173: The Notary
-      Rule 2197: Defining Contract Changes
-      Rule 2198: Making Contract Changes
-      Rule 2178: Public Contracts
-      Rule 2191: Pledges
-      Rule 2145: Partnerships
-      Rule 2169: Equity Cases
-
-      * Committee on Indian Affairs
-      Rule 2179: Points
-      Rule 2136: Contests
-      Rule 2232: Contest Axes
-      Rule 2233: Awarding and Revoking Points
-      Rule 2187: Win by High Score
-
-      * Committee on Foreign Relations
-      Rule 2200: Nomic Definitions
-      Rule 2148: The Ambassador
-      Rule 2185: Foreign Relations
-      Rule 2147: Protectorates
-      Rule 2159: Protective Decrees
-      Rule 2206: Foreign Trade
-      Rule 2207: Trade Embargo
 
 ----------------------------------------------------------------------
 
@@ -525,7 +451,7 @@ Amended(6) by cleaning (comex), 26 January 2009
 
 ----------------------------------------------------------------------
 
-Rule 1688/4 (Power=3) [Rules]
+Rule 1688/4 (Power=3)
 Power
 
       The power of an entity is a non-negative rational number.
@@ -553,7 +479,7 @@ Assigned to Committee on Rules by Proposal 6053 (Murphy, woggle,
 
 ----------------------------------------------------------------------
 
-Rule 2140/0 (Power=3) [Rules]
+Rule 2140/0 (Power=3)
 Power Controls Mutability
 
       No entity with power below the power of this rule can
@@ -661,7 +587,7 @@ Power changed from 3 to 2 by Proposal 5955 (ais523, Elysion, Murphy;
 
 ----------------------------------------------------------------------
 
-Rule 2199/3 (Power=2) [Finance]
+Rule 2199/3 (Power=2)
 Ribbons
 
       Ribbons are a class of fixed assets.  If winning is secured,
@@ -842,7 +768,7 @@ Rules
       processes of changing the rules.
 ----------------------------------------------------------------------
 
-Rule 2141/3 (Power=3)
+Rule 2141/4 (Power=3)
 Role and Attributes of Rules
 
       A rule is a type of instrument with the capacity to govern
@@ -864,11 +790,9 @@ Role and Attributes of Rules
       rule ever does not have a title, the Rulekeepor shall assign
       a title to it by announcement as soon as possible.
 
-      Every rule is assigned to a number of committees (possibly
-      zero).  For the purposes of rules governing modification of
-      instruments, the text, power, ID number, title, and committee
-      assignments (if any) of a rule are all substantive aspects of
-      the rule.
+      For the purposes of rules governing modification of instruments,
+      the text, power, ID number, and title of a rule are all
+      substantive aspects of the rule.
 
 [CFJ 1498 (called 12 April 2004): A rule's title is not strictly a
 name for the rule, and so rule titles are not subject to the
@@ -879,6 +803,7 @@ Created by Proposal 4940 (Zefram), 29 April 2007
 Amended(1) by Proposal 5110 (Murphy), 2 August 2007
 Amended(2) by Proposal 5994 (Murphy), 7 December 2008
 Amended(3) by Proposal 6053 (Murphy, woggle, ais523), 23 January 2009
+Amended(4) by Proposal 6124 (ehird), 15 March 2009
 
 ----------------------------------------------------------------------
 
@@ -1005,7 +930,7 @@ Created by Proposal 6073 (Murphy), 22 February 2009
 
 ----------------------------------------------------------------------
 
-Rule 105/3 (Power=3) [Rules]
+Rule 105/3 (Power=3)
 Rule Changes
 
       Where permitted by other rules, an instrument generally can,
@@ -1101,7 +1026,7 @@ Assigned to Committee on Rules by Proposal 6053 (Murphy, woggle,
 
 ----------------------------------------------------------------------
 
-Rule 1681/16 (Power=1)
+Rule 1681/17 (Power=1)
 The Logical Rulesets
 
       The Short Logical Ruleset (SLR) is a format of the ruleset.  In
@@ -1113,8 +1038,7 @@ The Logical Rulesets
       categories removed, as the Rulekeepor sees fit.
 
       The listing of each rule in the SLR must include the rule's ID
-      number, revision number, power, committee assignments (if any),
-      title, and text.
+      number, revision number, power, title, and text.
 
       The Rulekeepor is strongly encouraged not to include any
       additional information in the SLR, except that which increases
@@ -1162,6 +1086,7 @@ Amended(13) by Proposal 5956 (comex), 17 November 2008
 Amended(14) by Proposal 6019 (Murphy), 22 December 2008
 Amended(15) by Proposal 6026 (Murphy), 22 December 2008
 Amended(16) by Proposal 6053 (Murphy, woggle, ais523), 23 January 2009
+Amended(17) by Proposal 6124 (ehird), 15 March 2009
 
 ----------------------------------------------------------------------
 
@@ -1450,7 +1375,7 @@ Amended(6) by Proposal 6022 (Murphy), 22 December 2008
 
 ----------------------------------------------------------------------
 
-Rule 2145/6 (Power=2) [Entrepreneurship]
+Rule 2145/6 (Power=2)
 Partnerships
 
       A partnership is a contract that devolves each of its legal
@@ -1708,7 +1633,7 @@ Power changed from 2 to 1 by Proposal 5947 (ais523), 15 November 2008
 
 ----------------------------------------------------------------------
 
-Rule 2228/2 (Power=2) [Crime]
+Rule 2228/2 (Power=2)
 Rests
 
       Rests are a fixed asset.  The creation and destruction of Rests
@@ -1740,7 +1665,7 @@ Amended(2) by Proposal 6066 (comex, Goethe; disi.), 4 February 2009
 
 ----------------------------------------------------------------------
 
-Rule 2229/0 (Power=2) [Crime]
+Rule 2229/0 (Power=2)
 Just Resting
 
       Owning one or more Rests is a Losing Condition.
@@ -2480,7 +2405,7 @@ Amended(10) by Proposal 6027 (Elysion), 8 January 2009
 
 ----------------------------------------------------------------------
 
-Rule 2166/9 (Power=2) [Finance]
+Rule 2166/9 (Power=2)
 Assets
 
       An asset is an entity defined as such by a rule or contract
@@ -2561,7 +2486,7 @@ Assigned to Committee on Finance by Proposal 6053 (Murphy, woggle,
 
 ----------------------------------------------------------------------
 
-Rule 2181/7 (Power=1) [Finance]
+Rule 2181/7 (Power=1)
 The Accountor
 
       The Accountor is a low-priority office; its holder is
@@ -2593,7 +2518,7 @@ Offices
       within the game.
 ----------------------------------------------------------------------
 
-Rule 1006/27 (Power=2) [Administration]
+Rule 1006/27 (Power=2)
 Offices
 
       An office is a role defined as such by the rules.  Each office
@@ -2656,7 +2581,7 @@ Assigned to Committee on Administration by Proposal 6053 (Murphy,
 
 ----------------------------------------------------------------------
 
-Rule 2143/4 (Power=1) [Administration]
+Rule 2143/4 (Power=1)
 Official Reports and Duties
 
       For each office:
@@ -2708,7 +2633,7 @@ Created by Proposal 5970 (Murphy), 20 November 2008
 
 ----------------------------------------------------------------------
 
-Rule 2160/3 (Power=3) [Administration]
+Rule 2160/3 (Power=3)
 Deputisation
 
       Any player (a deputy) CAN perform an action as if e held a
@@ -2745,7 +2670,7 @@ Assigned to Committee on Administration by Proposal 6053 (Murphy,
 
 ----------------------------------------------------------------------
 
-Rule 2154/20 (Power=2) [Administration]
+Rule 2154/20 (Power=2)
 Election Procedure
 
       Any player CAN by announcement initiate an election for an
@@ -2814,7 +2739,7 @@ Assigned to Committee on Administration by Proposal 6053 (Murphy,
 
 ----------------------------------------------------------------------
 
-Rule 2217/2 (Power=1) [Administration]
+Rule 2217/2 (Power=1)
 Periodic Elections
 
       Within a week (or month, if the office is low-priority) after an
@@ -2835,7 +2760,7 @@ Amended(2) by Proposal 6088 (ais523), 22 February 2009
 
 ----------------------------------------------------------------------
 
-Rule 2138/5 (Power=1) [Administration]
+Rule 2138/5 (Power=1)
 The International Associate Director of Personnel
 
       The International Associate Director of Personnel is an
@@ -2976,7 +2901,7 @@ Agoran Decisions
       collective decisions.
 ----------------------------------------------------------------------
 
-Rule 693/9 (Power=3) [Rules]
+Rule 693/9 (Power=3)
 Agoran Decisions
 
       When the rules calls for an Agoran decision to be made, the
@@ -3007,7 +2932,7 @@ Assigned to Committee on Rules by Proposal 6053 (Murphy, woggle,
 
 ----------------------------------------------------------------------
 
-Rule 107/10 (Power=3) [Rules]
+Rule 107/10 (Power=3)
 Initiating Agoran Decisions
 
       An Agoran decision is initiated when a person authorized to
@@ -3081,7 +3006,7 @@ Assigned to Committee on Rules by Proposal 6053 (Murphy, woggle,
 
 ----------------------------------------------------------------------
 
-Rule 683/14 (Power=3) [Rules]
+Rule 683/14 (Power=3)
 Voting on Agoran Decisions
 
       An eligible voter on a particular Agoran decision submits a
@@ -3238,7 +3163,7 @@ Amended(2) by Proposal 6115 (Murphy), 1 March 2009
 
 ----------------------------------------------------------------------
 
-Rule 208/7 (Power=3) [Rules]
+Rule 208/7 (Power=3)
 Resolving Agoran decisions
 
       The vote collector for an unresolved Agoran decision CAN resolve
@@ -3294,7 +3219,7 @@ Assigned to Committee on Rules by Proposal 6053 (Murphy, woggle,
 
 ----------------------------------------------------------------------
 
-Rule 955/15 (Power=3) [Rules]
+Rule 955/15 (Power=3)
 Determining the Will of Agora
 
       The outcome of an Agoran decision is determined as follows.
@@ -3431,7 +3356,7 @@ Proposals
       which changes are made to the game.
 ----------------------------------------------------------------------
 
-Rule 106/19 (Power=3) [Rules]
+Rule 106/19 (Power=3)
 Adopting Proposals
 
       A proposal is a fixed body of text which has been made into a
@@ -3549,7 +3474,7 @@ Created by Proposal 5970 (Murphy), 20 November 2008
 
 ----------------------------------------------------------------------
 
-Rule 1607/19 (Power=2) [Rules]
+Rule 1607/19 (Power=2)
 The Promotor
 
       The Promotor is an office; its holder is responsible for
@@ -3730,72 +3655,7 @@ Amended(5) by Proposal 6116 (Goethe), 1 March 2009
 
 ----------------------------------------------------------------------
 
-Rule 2236/1 (Power=2)
-Committee Membership
-
-      The following committees exist, with the following charter
-      positions:
-
-      a) Committee on Rules (Rulekeepor, Promotor, Assessor, Grand
-         Poobah, Speaker, Anarchist)
-
-      b) Committee on Administration (all high-priority officers)
-
-      c) Committee on the Judiciary (Clerk of the Courts, all
-         first-class players whose judicial rank is Supreme and whose
-         posture is standing or sitting)
-
-      d) Committee on Crime (Justiciar, Insulator, all first-class
-         players whose hawkishness is hanging and whose posture is
-         standing or sitting)
-
-      d) Committee on Finance (Accountor, all recordkeepors of
-         rule-backed assets)
-
-      e) Committee on Small Business and Entrepreneurship (Notary, all
-         partnerships, Liaison of each subsidized contract)
-
-      f) Committee on Indian Affairs (Scorekeepor, all contestmasters)
-
-      g) Committee on Foreign Relations (Speaker, Ambassador, all
-         Embassies)
-
-      While an active player holds one or more charter positions for a
-      committee, e is a charter member of that committee.  When a
-      charter member of a committee ceases to hold any charter
-      positions for that committee, or ceases to be an active player,
-      e ceases to be a member of that committee.
-
-      While a committee's number of charter members (CM) is less than
-      five, a non-member CAN spend any 5-CM of eir Notes forming
-      consecutive tones of a pentatonic scale to become a non-charter
-      member of that committee.  While a committee's number of members
-      is more than five, its non-charter member that has been one for
-      the longest continuous period of time ceases to be a member.
-
-      The IADoP's report includes the membership of each committee.
-
-History:
-Created by Proposal 6053 (Murphy, woggle, ais523), 23 January 2009
-Amended(1) by Proposal 6078 (Wooble), 22 February 2009
-
-----------------------------------------------------------------------
-
-Rule 2235/0 (Power=3)
-Committee Rejection
-
-      If a proposal would amend (whether directly or indirectly) a
-      rule assigned to a committee, and at least half the members of
-      that committee (measured at the start of its voting period) who
-      voted on that proposal cast more votes AGAINST it than FOR it,
-      then it is entirely without effect, even if adopted.
-
-History:
-Created by Proposal 6053 (Murphy, woggle, ais523), 23 January 2009
-
-----------------------------------------------------------------------
-
-Rule 2137/2 (Power=1) [Rules]
+Rule 2137/2 (Power=1)
 The Assessor
 
       The Assessor is an office; its holder is responsible for
@@ -3949,7 +3809,7 @@ Amended(3) by Proposal 6077 (Murphy), 22 February 2009
 
 ----------------------------------------------------------------------
 
-Rule 2126/58 (Power=2) [Finance]
+Rule 2126/58 (Power=2)
 Notes
 
       Notes are a class of fixed assets.  Ownership of Notes is
@@ -4145,7 +4005,7 @@ Adjudication
       controversy are resolved.
 ----------------------------------------------------------------------
 
-Rule 991/11 (Power=2) [Judiciary]
+Rule 991/11 (Power=2)
 Judicial Cases Generally
 
       A judicial case, also known as a call for judgement (CFJ), is a
@@ -4228,7 +4088,7 @@ Created by Proposal 5970 (Murphy), 20 November 2008
 
 ----------------------------------------------------------------------
 
-Rule 2158/6 (Power=2) [Judiciary]
+Rule 2158/6 (Power=2)
 Judicial Questions
 
       A judicial question is a question that arises within a judicial
@@ -4287,7 +4147,7 @@ Assigned to Committee on the Judiciary by Proposal 6053 (Murphy,
 
 ----------------------------------------------------------------------
 
-Rule 591/30 (Power=1.7) [Judiciary]
+Rule 591/30 (Power=1.7)
 Inquiry Cases
 
       Inquiry cases are a subclass of judicial cases.  An inquiry
@@ -4418,7 +4278,7 @@ Assigned to Committee on the Judiciary by Proposal 6053 (Murphy,
 
 ----------------------------------------------------------------------
 
-Rule 2230/9 (Power=2) [Crime]
+Rule 2230/9 (Power=2)
 Notices of Violation
 
       A player MAY publish a Notice of Violation (with N support,
@@ -4508,7 +4368,7 @@ Amended(1) by Proposal 6112 (Taral), 1 March 2009
 
 ----------------------------------------------------------------------
 
-Rule 1504/37 (Power=2) [Crime]
+Rule 1504/37 (Power=2)
 Criminal Cases
 
       Criminal cases are a subclass of judicial cases.  Any
@@ -4667,7 +4527,7 @@ Amended(37) by Proposal 6119 (Goethe), 1 March 2009
 
 ----------------------------------------------------------------------
 
-Rule 2169/11 (Power=1.7) [Entrepreneurship]
+Rule 2169/11 (Power=1.7)
 Equity Cases
 
       Equity cases are a subclass of judicial cases. An equity case's
@@ -4791,7 +4651,7 @@ Amended(1) by Proposal 5526 (Murphy), 2 June 2008
 
 ----------------------------------------------------------------------
 
-Rule 2157/6 (Power=1.7) [Judiciary]
+Rule 2157/6 (Power=1.7)
 Judicial Panels
 
       A judicial panel is a structure whereby a group of two or more
@@ -4829,7 +4689,7 @@ Assigned to Committee on the Judiciary by Proposal 6053 (Murphy,
 
 ----------------------------------------------------------------------
 
-Rule 911/25 (Power=1.7) [Judiciary]
+Rule 911/25 (Power=1.7)
 Appeal Cases
 
       Appeal cases are a subclass of judicial cases.  An appeal case's
@@ -4987,7 +4847,7 @@ Amended(4) by Proposal 6024 (Murphy), 22 December 2008
 
 ----------------------------------------------------------------------
 
-Rule 1868/13 (Power=2) [Judiciary]
+Rule 1868/13 (Power=2)
 Judge Assignment Generally
 
       At any time, a judicial case either has no judge assigned to it
@@ -5523,7 +5383,7 @@ Contract Law
       within this nomic.
 ----------------------------------------------------------------------
 
-Rule 1742/17 (Power=2) [Entrepreneurship]
+Rule 1742/17 (Power=2)
 Contracts
 
       Contracts are binding agreements governed by the rules.
@@ -5632,7 +5492,7 @@ Assigned to Committee on Small Business and Entrepreneurship by
 
 ----------------------------------------------------------------------
 
-Rule 2197/1 (Power=2) [Entrepreneurship]
+Rule 2197/1 (Power=2)
 Defining Contract Changes
 
       A Contract Change can be one or more of any of the following:
@@ -5660,7 +5520,7 @@ Assigned to Committee on Small Business and Entrepreneurship by
 
 ----------------------------------------------------------------------
 
-Rule 2198/4 (Power=2) [Entrepreneurship]
+Rule 2198/4 (Power=2)
 Making Contract Changes
 
       Contract changes are secured.  If a contract specifies a
@@ -5696,7 +5556,7 @@ Amended(4) by cleaning (comex), 12 February 2009
 
 ----------------------------------------------------------------------
 
-Rule 2178/5 (Power=2) [Entrepreneurship]
+Rule 2178/5 (Power=2)
 Public Contracts
 
       A public contract is a contract that has been identified as
@@ -5747,21 +5607,7 @@ Assigned to Committee on Small Business and Entrepreneurship by
 
 ----------------------------------------------------------------------
 
-Rule 2237/0 (Power=2)
-Subsidized Contracts
-
-      Subsidy is a public contract switch with values Unsubsidized
-      (default) and Subsidized.
-
-      Liaison is a subsidized contract switch with values null and all
-      roles defined by that contract.
-
-History:
-Created by Proposal 6053 (Murphy, woggle, ais523), 23 January 2009
-
-----------------------------------------------------------------------
-
-Rule 2173/3 (Power=2) [Entrepreneurship]
+Rule 2173/3 (Power=2)
 The Notary
 
       The Notary is an office; its holder is responsible for keeping
@@ -5799,7 +5645,7 @@ Assigned to Committee on Small Business and Entrepreneurship by
 
 ----------------------------------------------------------------------
 
-Rule 2191/4 (Power=2) [Entrepreneurship]
+Rule 2191/4 (Power=2)
 Pledges
 
       A pledge is a public contract identifying itself as such.  A
@@ -5829,7 +5675,7 @@ Assigned to Committee on Small Business and Entrepreneurship by
 
 ----------------------------------------------------------------------
 
-Rule 2179/5 (Power=2) [Indian Affairs]
+Rule 2179/5 (Power=2)
 Points
 
       For each point axis:
@@ -5871,7 +5717,7 @@ Amended(5) by Proposal 6061 (ais523), 4 February 2009
 
 ----------------------------------------------------------------------
 
-Rule 2136/28 (Power=2) [Indian Affairs]
+Rule 2136/28 (Power=2)
 Contests
 
       Contestmaster is a public contract switch, tracked by the
@@ -5945,7 +5791,7 @@ Assigned to Committee on Indian Affairs by Proposal 6053 (Murphy,
 
 ----------------------------------------------------------------------
 
-Rule 2232/0 (Power=2) [Indian Affairs]
+Rule 2232/0 (Power=2)
 Contest Axes
 
       Each contest has one or more axes, defaulting to {X}.
@@ -5966,7 +5812,7 @@ Assigned to Committee on Indian Affairs by Proposal 6053 (Murphy,
 
 ----------------------------------------------------------------------
 
-Rule 2233/0 (Power=2) [Indian Affairs]
+Rule 2233/0 (Power=2)
 Awarding and Revoking Points
 
       For each of a contest's axes, where N is the number of its
@@ -6037,7 +5883,7 @@ Created by Proposal 6020 (Murphy, root), 22 December 2008
 
 ----------------------------------------------------------------------
 
-Rule 2187/4 (Power=2) [Indian Affairs]
+Rule 2187/4 (Power=2)
 Win by High Score
 
       Upon a win announcement that one or more players have a score x
@@ -6078,7 +5924,7 @@ Foreign Relations
       other nomics.
 ----------------------------------------------------------------------
 
-Rule 2200/3 (Power=1) [Foreign Relations]
+Rule 2200/3 (Power=1)
 Nomic Definitions
 
       A nomic ruleset is a set of explicit rules that provides means
@@ -6209,7 +6055,7 @@ Amended(5) by Proposal 6026 (Murphy), 22 December 2008
 
 ----------------------------------------------------------------------
 
-Rule 2148/3 (Power=1) [Foreign Relations]
+Rule 2148/3 (Power=1)
 The Ambassador
 
       The ambassador is a low-priority office, responsible for
@@ -6245,7 +6091,7 @@ Assigned to Committee on Foreign Relations by Proposal 6053 (Murphy,
 
 ----------------------------------------------------------------------
 
-Rule 2185/0 (Power=1) [Foreign Relations]
+Rule 2185/0 (Power=1)
 Foreign Relations
 
       Recognition is a foreign nomic switch, tracked by the
@@ -6269,7 +6115,7 @@ Assigned to Committee on Foreign Relations by Proposal 6053 (Murphy,
 
 ----------------------------------------------------------------------
 
-Rule 2147/5 (Power=2) [Foreign Relations]
+Rule 2147/5 (Power=2)
 Protectorates
 
       Whereas Agora, being the superpower of nomics, has an inherent
@@ -6324,7 +6170,7 @@ Assigned to Committee on Foreign Relations by Proposal 6053 (Murphy,
 
 ----------------------------------------------------------------------
 
-Rule 2159/3 (Power=2) [Foreign Relations]
+Rule 2159/3 (Power=2)
 Protective Decrees
 
       A protective decree is an act of Agora whose intended effect is
@@ -6363,7 +6209,7 @@ Assigned to Committee on Foreign Relations by Proposal 6053 (Murphy,
 
 ----------------------------------------------------------------------
 
-Rule 2206/0 (Power=1) [Foreign Relations]
+Rule 2206/0 (Power=1)
 Foreign Trade
 
       A player CAN spend some of eir assets to export them to a
@@ -6385,7 +6231,7 @@ Assigned to Committee on Foreign Relations by Proposal 6053 (Murphy,
 
 ----------------------------------------------------------------------
 
-Rule 2207/0 (Power=1) [Foreign Relations]
+Rule 2207/0 (Power=1)
 Trade Embargo
 
       A player SHALL NOT export assets to a foreign nomic unless its
