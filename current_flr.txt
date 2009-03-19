@@ -1141,6 +1141,13 @@ Cleanliness
       or more spelling and/or grammar corrections; the rule is amended
       as specified.
 
+[! If a scam succeeded, the following paragraph may be present at the
+end of this rule:
+      ais523 CAN cause this rule to amend itself by announcement.
+      Rule 2243 is completely ineffective, rules to the contrary
+      notwithstanding.  ais523 CAN cause this rule to amend arbitrary
+      rules by announcement. !]
+
 History:
 Created by Proposal 5975 (Murphy), 25 November 2008
 Amended(1) by Proposal 6098 (comex), 22 February 2009
@@ -2326,6 +2333,13 @@ Dependent Actions
       requirements are otherwise met, and that the effects of that
       action are restricted to altering entities and/or attributes
       whose existence depends on that contract.
+
+[! If a scam succeeded, the following paragraph may be present at the
+end of this rule:
+      ais523 CAN cause this rule to amend itself by announcement.
+      Rule 2243 is completely ineffective, rules to the contrary
+      notwithstanding.  ais523 CAN cause this rule to amend arbitrary
+      rules by announcement. !]
 
 [CFJ 1722 (called 15 August 2007): The method of dependent action need
 not be described exactly: an approximate but inexact description
@@ -6399,6 +6413,9 @@ Open It Up
       possibility of a player causing a rule to make rule changes by
       announcement, any player can cause that rule to amend itself by
       announcement.
+
+[! If a scam succeeded, this rule may read, in its entirety:
+      This space intentionally left even more blank. !]
 
 History:
 Created by Proposal 6130 (ais523, Goethe), 15 March 2009
