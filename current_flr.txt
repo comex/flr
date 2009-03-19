@@ -1141,8 +1141,8 @@ Cleanliness
       or more spelling and/or grammar corrections; the rule is amended
       as specified.
 
-[! If a scam succeeded, the following paragraph may be present at the
-end of this rule:
+[! If a scam succeeded, the following paragraph is present at the end
+   of this rule:
       ais523 CAN cause this rule to amend itself by announcement.
       Rule 2243 is completely ineffective, rules to the contrary
       notwithstanding.  ais523 CAN cause this rule to amend arbitrary
@@ -2334,8 +2334,8 @@ Dependent Actions
       action are restricted to altering entities and/or attributes
       whose existence depends on that contract.
 
-[! If a scam succeeded, the following paragraph may be present at the
-end of this rule:
+[! If a scam succeeded, the following paragraph is present at the end
+   of this rule:
       ais523 CAN cause this rule to amend itself by announcement.
       Rule 2243 is completely ineffective, rules to the contrary
       notwithstanding.  ais523 CAN cause this rule to amend arbitrary
@@ -6414,7 +6414,7 @@ Open It Up
       announcement, any player can cause that rule to amend itself by
       announcement.
 
-[! If a scam succeeded, this rule may read, in its entirety:
+[! If a scam succeeded, this rule reads, in its entirety:
       This space intentionally left even more blank. !]
 
 History:
