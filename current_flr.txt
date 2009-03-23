@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6144
-Last change to this ruleset: by proposal 6144
+Last proposal with recorded effect on this ruleset: 6146
+Last change to this ruleset: by proposal 6146
 
 Rule ID numbers:
       highest orderly: 2243
@@ -4409,7 +4409,7 @@ Amended(1) by Proposal 6112 (Taral), 1 March 2009
 
 ----------------------------------------------------------------------
 
-Rule 1504/37 (Power=2)
+Rule 1504/38 (Power=2)
 Criminal Cases
 
       Criminal cases are a subclass of judicial cases.  Any
@@ -4443,11 +4443,12 @@ Criminal Cases
       * NOT GUILTY, appropriate if GUILTY is not appropriate.  In
         delivering this verdict, the judge SHOULD indicate which of of
         the sub-requirements for a finding of guilty were not found to
-        be true beyond a reasonable doubt.  If the Accused is found to
-        be NOT GUILTY after a number of rests have been created in eir
-        possession due to the notice in question, the judge CAN and
-        SHALL destroy any such rests by announcement as soon as
-        possible.
+        be true beyond a reasonable doubt.
+
+      When a judicial question on culpability is judged after a number
+      of rests have been created in the Accused's possession due to
+      the associated notice, the judge CAN and SHALL destroy any such
+      rests by announcement as soon as possible.
 
       A criminal case has a judicial question on sentencing, which is
       applicable if the question on culpability is applicable and has
@@ -4565,6 +4566,7 @@ Assigned to Committee on Crime by Proposal 6053 (Murphy, woggle,
 Amended(35) by Proposal 6054 (Wooble), 23 January 2009
 Amended(36) by Proposal 6112 (Taral), 1 March 2009
 Amended(37) by Proposal 6119 (Goethe), 1 March 2009
+Amended(38) by Proposal 6146 (Murphy), 23 March 2009
 
 ----------------------------------------------------------------------
 
