@@ -6429,4 +6429,19 @@ Created by Proposal 6130 (ais523, Goethe), 15 March 2009
 
 ----------------------------------------------------------------------
 
+[! If a scam succeeded, the following rule exists:
+Rule? 2244/0 (Power=3?)
+Nothing Original
+
+      Goethe CAN cause this rule to amend itself by announcement.
+
+History:
+Created by Proposal 6122 (Goethe), 15 March 2009
+
+Alternately, it may read:
+      This rule intentionally left blank
+!]
+
+----------------------------------------------------------------------
+
 END OF THE FULL LOGICAL RULESET
