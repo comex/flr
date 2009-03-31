@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6161
-Last change to this ruleset: by proposal 6161
+Last proposal with recorded effect on this ruleset: 6162
+Last change to this ruleset: by proposal 6162
 
 Rule ID numbers:
       highest orderly: 2242
@@ -1194,12 +1194,13 @@ Amended(2) by Proposal 6026 (Murphy), 22 December 2008
 
 ----------------------------------------------------------------------
 
-Rule 2223/0 (Power=2)
+Rule 2223/1 (Power=2)
 Win by Junta
 
-      When a rule comes to state that one or more persons CAN cause it
-      to make arbitrary rule changes by announcement, all those
-      persons satisfy the Winning Condition of Dictatorship.
+      Upon a win announcement that a rule states that one or more
+      persons CAN cause it to make arbitrary rule changes by
+      announcement, all those persons satisfy the Winning Condition of
+      Dictatorship.
 
       Cleanup procedure:  Those persons SHALL as soon as possible
       amend the rule so that it no longer states this, and SHOULD
@@ -1208,6 +1209,7 @@ Win by Junta
 
 History:
 Created by Proposal 5982 (Murphy), 29 November 2008
+Amended(1) by Proposal 6162 (comex), 31 March 2009
 
 ----------------------------------------------------------------------
 
@@ -4033,16 +4035,20 @@ Amended(59) by Proposal 6126 (Goethe), 15 March 2009
 
 ----------------------------------------------------------------------
 
-Rule 2188/0 (Power=2)
+Rule 2188/1 (Power=2)
 Win by Proposal
 
-      Upon the adoption of a proposal awarding a win to one or more
-      persons, all those persons satisfy the Winning Condition of
-      Legislation.
+      Upon a win announcement that a proposal awarding a win to one or
+      more persons has been adopted, all those persons satisfy the
+      Winning Condition of Legislation.
+
+      Cleanup procedure: The condition cannot be satisfied again for
+      the same proposal.
 
 History:
 Created by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
   16 January 2008
+Amended(1) by Proposal 6162 (comex), 31 March 2009
 
 ----------------------------------------------------------------------
 
