@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6157
-Last change to this ruleset: by proposal 6157
+Last proposal with recorded effect on this ruleset: 6158
+Last change to this ruleset: by proposal 6158
 
 Rule ID numbers:
       highest orderly: 2243
@@ -280,7 +280,7 @@ Amended(3) by Proposal 4946 (Zefram), 3 May 2007
 
 ----------------------------------------------------------------------
 
-Rule 101/11 (Power=3)
+Rule 101/12 (Power=3)
 The Rights of Agorans
 
       WHEREAS Agora, since its inception, has functioned not only as a
@@ -310,8 +310,13 @@ The Rights of Agorans
             willful consent shall be considered a refusal.
 
         iv. Every person has the right to not be considered bound by
-            an agreement, or an amendment to an agreement, which e has
-            not had the reasonable opportunity to review.
+            an agreement, or an amendment to an agreement, or a Rule
+            Change, which e has not had the reasonable opportunity to
+            review.  For the purpose of protecting this right, a rule
+            change which would otherwise take effect without its
+            substance being subject to general player review through a
+            reasonably public process is wholly prevented from taking
+            effect.
 
          v. Every player has the right of participation in the fora.
 
@@ -382,6 +387,7 @@ Retitled by Proposal 5769 (Goethe), 17 October 2008
 Amended(9) by Proposal 5769 (Goethe), 17 October 2008
 Amended(10) by Proposal 5773 (Goethe), 17 October 2008
 Amended(11) by Proposal 6028 (Murphy), 8 January 2009
+Amended(12) by Proposal 6158 (Goethe), 31 March 2009
 
 ----------------------------------------------------------------------
 
