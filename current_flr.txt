@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6146
-Last change to this ruleset: by proposal 6146
+Last proposal with recorded effect on this ruleset: 6153
+Last change to this ruleset: by proposal 6153
 
 Rule ID numbers:
       highest orderly: 2243
@@ -5862,7 +5862,7 @@ Assigned to Committee on Indian Affairs by Proposal 6053 (Murphy,
 
 ----------------------------------------------------------------------
 
-Rule 2242/0 (Power=2)
+Rule 2242/1 (Power=2)
 Champion's Contests
 
       Medals are a type of asset, tracked by the Scorekeepor;
@@ -5876,8 +5876,9 @@ Champion's Contests
 
       A contest's contestmaster CAN transfer ownership of or destroy a
       Medal in that contest's possession, but only as explicitly
-      described by the contest's text; one exception to this is that a
-      contest CANNOT transfer a Medal to its contestmaster.
+      described by the contest's text. A Medal CANNOT be transferred
+      from a contest to a player who is not a party to that contest,
+      nor to its contestmaster.
 
       A Medal is automatically destroyed if the text of a contest
       owning it changes.
@@ -5890,6 +5891,7 @@ Champion's Contests
 
 History:
 Created by Proposal 6121 (ais523), 15 March 2009
+Amended(1) by Proposal 6153 (coppro), 31 March 2009
 
 ----------------------------------------------------------------------
 
