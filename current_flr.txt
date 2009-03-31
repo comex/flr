@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6160
-Last change to this ruleset: by proposal 6160
+Last proposal with recorded effect on this ruleset: 6161
+Last change to this ruleset: by proposal 6161
 
 Rule ID numbers:
       highest orderly: 2242
@@ -2421,7 +2421,7 @@ Amended(10) by Proposal 6027 (Elysion), 8 January 2009
 
 ----------------------------------------------------------------------
 
-Rule 2166/9 (Power=2)
+Rule 2166/10 (Power=2)
 Assets
 
       An asset is an entity defined as such by a rule or contract
@@ -2453,9 +2453,9 @@ Assets
       announcement, and an asset owned by the Lost and Found
       Department generally CAN be destroyed by its recordkeepor by
       announcement, subject to modification by its backing document.
-      To "lose" an asset is to have it destroyed from one's
-      possession; to "revoke" an asset from an entity is to destroy it
-      from that entity's possession.
+      To "lose" (syn. "spend") an asset is to have it destroyed from
+      one's possession; to "revoke" an asset from an entity is to
+      destroy it from that entity's possession.
 
       An asset generally CAN be transferred by its owner to another
       entity by announcement, subject to modification by its backing
@@ -2499,6 +2499,7 @@ Amended(8) by Proposal 5974 (Murphy; disi.), 25 November 2008
 Amended(9) by Proposal 6023 (Murphy), 22 December 2008
 Assigned to Committee on Finance by Proposal 6053 (Murphy, woggle,
   ais523), 23 January 2009
+Amended(10) by Proposal 6161 (Murphy), 31 March 2009
 
 ----------------------------------------------------------------------
 
