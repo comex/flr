@@ -1,21 +1,21 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6158
-Last change to this ruleset: by proposal 6158
+Last proposal with recorded effect on this ruleset: 6159
+Last change to this ruleset: by proposal 6159
 
 Rule ID numbers:
-      highest orderly: 2243
+      highest orderly: 2242
       chaotic: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 132
+Current total number of rules: 131
 
 Power distribution:
        1 with Power=4
-      34 with Power=3
+      33 with Power=3
       52 with Power=2
        5 with Power=1.7
        6 with Power=1.5
@@ -196,7 +196,6 @@ Index of Rules
       Rule 1727: Happy Birthday
       Rule 2151: Agoran Arms
       Rule 2029: Town Fountain
-      Rule 2243: Open It Up
 
 ----------------------------------------------------------------------
 
@@ -6419,19 +6418,6 @@ necessarily constitute a violation of this rule.]
 
 History:
 Created by Proposal 4329 (Goethe), 9 June 2002
-
-----------------------------------------------------------------------
-
-Rule 2243/0 (Power=3)
-Open It Up
-
-      If a rule (other than this one) exists that mentions the
-      possibility of a player causing a rule to make rule changes by
-      announcement, any player can cause that rule to amend itself by
-      announcement.
-
-History:
-Created by Proposal 6130 (ais523, Goethe), 15 March 2009
 
 ----------------------------------------------------------------------
 
