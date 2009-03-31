@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6155
-Last change to this ruleset: by proposal 6155
+Last proposal with recorded effect on this ruleset: 6157
+Last change to this ruleset: by proposal 6157
 
 Rule ID numbers:
       highest orderly: 2243
@@ -2689,7 +2689,7 @@ Amended(5) by Proposal 6144 (Wooble), 23 March 2009
 
 ----------------------------------------------------------------------
 
-Rule 2154/20 (Power=2)
+Rule 2154/21 (Power=2)
 Election Procedure
 
       Any player CAN by announcement initiate an election for an
@@ -2727,6 +2727,14 @@ Election Procedure
           of multiple choices constitutes a conditional vote for the
           first choice if it could be the outcome, otherwise the
           second choice if it could be the outcome, and so forth.
+       4) If there are no valid options for the Decision, instead of
+          initiating the Decision, the IADoP SHALL, in place of
+          initiating the decision, announce this fact, ending the
+          election.  If there is exactly one valid option for the
+          Decision, the IADoP SHALL, in place of initiating the
+          Decision, announce the valid option (the candidate), thus
+          installing that candidate into the office and ending the
+          election.
 
       Upon the resolution of this decision, its outcome (if a
       candidate) is installed into the office, and the election ends.
@@ -2755,6 +2763,8 @@ Amended(19) by Proposal 5831 (Murphy), 6 November 2008
 Amended(20) by Proposal 5998 (Sgeo), 7 December 2008
 Assigned to Committee on Administration by Proposal 6053 (Murphy,
   woggle, ais523), 23 January 2009
+Amended(21) by Proposal 6157 (Goethe, OscarMeyr, Wooble), 31 March
+  2009
 
 ----------------------------------------------------------------------
 
@@ -2951,7 +2961,7 @@ Assigned to Committee on Rules by Proposal 6053 (Murphy, woggle,
 
 ----------------------------------------------------------------------
 
-Rule 107/10 (Power=3)
+Rule 107/11 (Power=3)
 Initiating Agoran Decisions
 
       An Agoran decision is initiated when a person authorized to
@@ -2980,8 +2990,9 @@ Initiating Agoran Decisions
       for seven days.  Rules to the contrary notwithstanding, the
       voting period for a decision with at least two options cannot be
       shorter than seven days.  The vote collector for a decision with
-      less than two options CAN end the voting period by announcement,
-      provided that e resolves the decision in the same message.
+      less than two options CAN and SHALL end the voting period by
+      announcement, if it has not ended already, and provided that e
+      resolves the decision in the same message.
 
 [CFJ 1650 (called 6 May 2007): The intent to initiate the decision and
 the information required in the notice need not be explicit.]
@@ -3022,6 +3033,8 @@ Amended(9) by Proposal 5455 (Murphy), 1 March 2008
 Amended(10) by Proposal 5948 (Murphy; disi.), 15 November 2008
 Assigned to Committee on Rules by Proposal 6053 (Murphy, woggle,
   ais523), 23 January 2009
+Amended(11) by Proposal 6157 (Goethe, OscarMeyr, Wooble), 31 March
+  2009
 
 ----------------------------------------------------------------------
 
