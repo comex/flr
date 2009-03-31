@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6159
-Last change to this ruleset: by proposal 6159
+Last proposal with recorded effect on this ruleset: 6160
+Last change to this ruleset: by proposal 6160
 
 Rule ID numbers:
       highest orderly: 2242
@@ -5037,7 +5037,7 @@ Amended(25) by Proposal 5771 (root), 17 October 2008
 
 ----------------------------------------------------------------------
 
-Rule 2203/0 (Power=1.5)
+Rule 2203/1 (Power=1.5)
 Hawkishness
 
       Hawkishness is a player switch, tracked by the Clerk of the
@@ -5052,12 +5052,19 @@ Hawkishness
 
       * Hemming-and-Hawing (default).
 
+      * Hovering.  Hovering players are poorly qualified to be
+        assigned  as judge of any inquiry case, unless there is no
+        non-inquiry case requiring assignment, at least one inquiry
+        case requiring assignment, and no such inquiry case with any
+        non-Hovering player well-qualified to be assigned to it.
+
       Changes to hawkishness are secured.
 
       A player CAN flip eir hawkishness by announcement.
 
 History:
 Created by Proposal 5468 (Murphy), 13 March 2008
+Amended(1) by Proposal 6160 (Murphy), 31 March 2009
 
 ----------------------------------------------------------------------
 
