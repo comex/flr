@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6171
-Last change to this ruleset: by proposal 6171
+Last proposal with recorded effect on this ruleset: 6174
+Last change to this ruleset: by proposal 6174
 
 Rule ID numbers:
       highest orderly: 2242
@@ -2871,7 +2871,7 @@ Amended(12) by Proposal 5459 (Murphy), 9 March 2008
 
 ----------------------------------------------------------------------
 
-Rule 2202/1 (Power=3)
+Rule 2202/2 (Power=3)
 Ratification Without Objection
 
       An official document is a public document purported to be part
@@ -2886,6 +2886,13 @@ Ratification Without Objection
       amendment, enactment, or mutation of any Rule, rules to the
       contrary notwithstanding.
 
+      A player SHALL NOT knowingly use or announce intent to use
+      Ratification Without Objection to ratify a (prior to
+      ratification) incorrect document when a corrected document could
+      be produced with reasonable  effort. Such ratification or
+      announcement of intent to ratify is  the Class-8 Crime of
+      Endorsing Forgery.
+
 [CFJ 1836 (called 18 December 2007): Ratification of an official
 document affects only those aspects of gamestate that are defined to
 be part of the official report, and not aspects that are incidentally
@@ -2896,6 +2903,7 @@ of players.]
 History:
 Created by Proposal 5459 (Murphy), 9 March 2008
 Amended(1) by Proposal 6048 (Wooble), 13 January 2009
+Amended(2) by Proposal 6174 (woggle), 7 April 2009
 
 ----------------------------------------------------------------------
 
