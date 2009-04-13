@@ -1,22 +1,22 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6180
-Last change to this ruleset: by proposal 6180
+Last proposal with recorded effect on this ruleset: 6181
+Last change to this ruleset: by proposal 6181
 
 Rule ID numbers:
-      highest orderly: 2242
+      highest orderly: 2243
       chaotic: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 131
+Current total number of rules: 132
 
 Power distribution:
        1 with Power=4
       33 with Power=3
-      52 with Power=2
+      53 with Power=2
        5 with Power=1.7
        6 with Power=1.5
       34 with Power=1
@@ -140,6 +140,7 @@ Index of Rules
 
       * Adjudication
       Rule  991: Judicial Cases Generally
+      Rule 2243: Submitting a CFJ to the Justiciar
       Rule 2225: Interest Index of Judicial Cases
       Rule 2158: Judicial Questions
       Rule  591: Inquiry Cases
@@ -4142,6 +4143,24 @@ Amended(10) by Proposal 5317 (Murphy), 28 November 2007
 Amended(11) by Proposal 5464 (Murphy), 13 March 2008
 Assigned to Committee on the Judiciary by Proposal 6053 (Murphy,
   woggle, ais523), 23 January 2009
+
+----------------------------------------------------------------------
+
+Rule 2243/0 (Power=2)
+Submitting a CFJ to the Justiciar
+
+      A CFJ may be submitted to the Justiciar.  For such a CFJ, the
+      Justiciar shall perform all duties and fulfill all roles that
+      would otherwise be assigned to the Clerk of the Courts. This
+      takes precedence over Rules that would otherwise assign duties
+      and roles regarding a CFJ to the Clerk of the Courts.
+
+      All persons are encouraged to submit a CFJ to the Justiciar only
+      when there is a good reason not to submit it to the Clerk of the
+      Courts.
+
+History:
+Created by Proposal 6181 (comex), 7 April 2009
 
 ----------------------------------------------------------------------
 
