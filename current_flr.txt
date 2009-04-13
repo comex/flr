@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6174
-Last change to this ruleset: by proposal 6174
+Last proposal with recorded effect on this ruleset: 6175
+Last change to this ruleset: by proposal 6175
 
 Rule ID numbers:
       highest orderly: 2242
@@ -598,7 +598,7 @@ Power changed from 3 to 2 by Proposal 5955 (ais523, Elysion, Murphy;
 
 ----------------------------------------------------------------------
 
-Rule 2199/3 (Power=2)
+Rule 2199/4 (Power=2)
 Ribbons
 
       Ribbons are a class of fixed assets.  If winning is secured,
@@ -609,8 +609,7 @@ Ribbons
       are distinct, regardless of spectral proximity.  Each color of
       Ribbon is a currency.
 
-      The Tailor is a low-priority office, and the recordkeepor of
-      Ribbons.
+      The Tailor is an office, and the recordkeepor of Ribbons.
 
       Ribbons are gained as follows, unless the player already
       possesses the color of Ribbon to be gained:
@@ -683,6 +682,7 @@ Amended(2) by Proposal 5791 (Murphy), 22 October 2008
 Amended(3) by Proposal 6008 (PNP), 10 December 2008
 Assigned to Committee on Finance by Proposal 6053 (Murphy, woggle,
   ais523), 23 January 2009
+Amended(4) by Proposal 6175 (Yally), 7 April 2009
 
 ----------------------------------------------------------------------
 
@@ -1684,7 +1684,7 @@ Amended(3) by Proposal 6171 (Murphy), 7 April 2009
 
 ----------------------------------------------------------------------
 
-Rule 2229/0 (Power=2)
+Rule 2229/1 (Power=2)
 Just Resting
 
       Owning one or more Rests is a Losing Condition.
@@ -1699,8 +1699,8 @@ Just Resting
       Rests, CANNOT register, rules to the contrary notwithstanding.
 
       A person who has one or more rests but is not a player is a
-      Fugitive.  The Herald's report shall include a list of all
-      Fugitives and the number of Rests they possess.  At the
+      Fugitive.  The Herald's monthly report shall include a list of
+      all Fugitives and the number of Rests they possess.  At the
       beginning of each month, half of each Fugitive's rests (rounded
       down) are destroyed.
 
@@ -1709,6 +1709,7 @@ Created by Proposal 6010 (ais523, Goethe, Murphy, comex, OscarMeyr),
   14 December 2008
 Assigned to Committee on Crime by Proposal 6053 (Murphy, woggle,
   ais523), 23 January 2009
+Amended(1) by Proposal 6175 (Yally), 7 April 2009
 
 ----------------------------------------------------------------------
 
@@ -2507,14 +2508,14 @@ Amended(10) by Proposal 6161 (Murphy), 31 March 2009
 
 ----------------------------------------------------------------------
 
-Rule 2181/7 (Power=1)
+Rule 2181/9 (Power=1)
 The Accountor
 
-      The Accountor is a low-priority office; its holder is
-      responsible for keeping track of classes of assets.
+      The Accountor is an office; its holder is responsible for
+      keeping track of classes of assets.
 
-      The Accountor's report includes a list of all public classes of
-      assets and their backing documents and recordkeepors.
+      The Accountor's monthly report includes a list of all public
+      classes of assets and their backing documents and recordkeepors.
 
 [Cross-references (28 May 2008): the Accountor's duties are:
   * report classes of assets (rule 2181)]
@@ -2530,6 +2531,8 @@ Amended(6) by Proposal 5833 (Murphy, Taral), 12 November 2008
 Amended(7) by Proposal 5840 (root), 12 November 2008
 Assigned to Committee on Finance by Proposal 6053 (Murphy, woggle,
   ais523), 23 January 2009
+Amended(8) by Proposal 6175 (Yally), 7 April 2009
+Amended(9) by Proposal 6175 (Yally), 7 April 2009
 
 ----------------------------------------------------------------------
 
@@ -2602,7 +2605,7 @@ Assigned to Committee on Administration by Proposal 6053 (Murphy,
 
 ----------------------------------------------------------------------
 
-Rule 2143/5 (Power=1)
+Rule 2143/6 (Power=1)
 Official Reports and Duties
 
       For each office:
@@ -2628,9 +2631,9 @@ Official Reports and Duties
       report (unless the office is defined by the rules as
       low-priority, in which case it is part of its monthly report).
 
-      While performing weekly or monthly duties or publishing weekly
-      or monthly reports, officers SHALL NOT publish information that
-      is inaccurate or misleading.
+      Any information defined by the rules as part of an office's
+      report, without specifying which one, is part of its weekly
+      report.
 
 History:
 Created by Proposal 4970 (Zefram), 23 May 2007
@@ -2642,6 +2645,7 @@ Amended(4) by Proposal 6030 (Murphy; disi.), 8 January 2009
 Assigned to Committee on Administration by Proposal 6053 (Murphy,
   woggle, ais523), 23 January 2009
 Amended(5) by Proposal 6155 (comex), 31 March 2009
+Amended(6) by Proposal 6175 (Yally), 7 April 2009
 
 ----------------------------------------------------------------------
 
@@ -2778,16 +2782,16 @@ Amended(21) by Proposal 6157 (Goethe, OscarMeyr, Wooble), 31 March
 
 ----------------------------------------------------------------------
 
-Rule 2217/2 (Power=1)
+Rule 2217/3 (Power=1)
 Periodic Elections
 
-      Within a week (or month, if the office is low-priority) after an
-      elected office ceases to have (or is created without) an active
-      holder, or after an election for the office ends and the office
-      still lacks an active holder, the IADoP SHALL initiate an
-      election for that office.  This requirement is waived if the
-      office comes to have an active holder, or if another player
-      initiates an election for the office.
+      Within a week after an elected office ceases to have (or is
+      created without) an active holder, or after an election for the
+      office ends and the office still lacks an active holder, the
+      IADoP SHALL initiate an election for that office.  This
+      requirement is waived if the office comes to have an active
+      holder, or if another player initiates an election for the
+      office.
 
 History:
 Created by Proposal 5831 (Murphy), 6 November 2008
@@ -2796,17 +2800,18 @@ Assigned to Committee on Administration by Proposal 6053 (Murphy,
   woggle, ais523), 23 January 2009
 Power changed from 2 to 1 by Proposal 6088 (ais523), 22 February 2009
 Amended(2) by Proposal 6088 (ais523), 22 February 2009
+Amended(3) by Proposal 6175 (Yally), 7 April 2009
 
 ----------------------------------------------------------------------
 
-Rule 2138/5 (Power=1)
+Rule 2138/7 (Power=1)
 The International Associate Director of Personnel
 
-      The International Associate Director of Personnel is an
-      low-priority office; its holder is responsible for keeping track
-      of officers and reports.
+      The International Associate Director of Personnel is an office;
+      its holder is responsible for keeping track of officers and
+      reports.
 
-      The IADoP's report includes the following:
+      The IADoP's monthly report includes the following:
 
       a) The holder of each office.
       b) The date on which each holder last came to hold that office.
@@ -2835,6 +2840,8 @@ Amended(4) by Proposal 5517 (Wooble; disi.), 28 May 2008
 Amended(5) by Proposal 5718 (ais523), 7 October 2008
 Assigned to Committee on Administration by Proposal 6053 (Murphy,
   woggle, ais523), 23 January 2009
+Amended(6) by Proposal 6175 (Yally), 7 April 2009
+Amended(7) by Proposal 6175 (Yally), 7 April 2009
 
 ----------------------------------------------------------------------
 
@@ -5165,12 +5172,12 @@ Patent Titles and Degrees
       A category concerning titles of honor and dishonor.
 ----------------------------------------------------------------------
 
-Rule 649/28 (Power=1.5)
+Rule 649/29 (Power=1.5)
 Patent Titles
 
       A Patent Title is a legal item given in recognition of a
-      person's distinction.  The herald is a low-priority office; its
-      holder is responsible for tracking patent titles.
+      person's distinction.  The Hearld is an office; its holder is
+      responsible for tracking Patent Titles.
 
       A Patent Title CAN only be awarded by a proposal, or by the
       announcement of a person specifically authorized by the Rules to
@@ -5183,9 +5190,9 @@ Patent Titles
       While a Patent Title has been awarded to (and not revoked from)
       an entity, that entity is said to Bear that Patent Title.  The
       status of Bearing a Patent Title can only be changed as
-      explicitly set out in the Rules.  The Herald's report includes a
-      list of each Patent Title that at least one entity Bears, with a
-      list of which entities Bear it.
+      explicitly set out in the Rules.  The Herald's monthly report
+      includes a list of each Patent Title that at least one entity
+      Bears, with a list of which entities Bear it.
 
       As soon as possible after a patent title is awarded or revoked,
       the herald SHALL announce the award or revocation.
@@ -5254,10 +5261,11 @@ Power changed from 1 to 1.5 by Proposal 5437 (Goethe), 13 February
   2008
 Amended(27) by Proposal 5437 (Goethe), 13 February 2008
 Amended(28) by Proposal 6047 (comex), 13 January 2009
+Amended(29) by Proposal 6175 (Yally), 7 April 2009
 
 ----------------------------------------------------------------------
 
-Rule 1922/31 (Power=1)
+Rule 1922/32 (Power=1)
 Defined Regular Patent Titles
 
       The following are Patent Titles:
@@ -5292,8 +5300,8 @@ Defined Regular Patent Titles
            Each of these titles shall be awarded only once per player.
 
       (d)  Champion, to be awarded by the Herald to any person who
-           wins the game.  The Herald's report includes how the player
-           won.
+           wins the game.  The Herald's monthly report includes how
+           the player won.
 
       (e)  Minister Without Portfolio, to be awarded by the Herald to
            any player who wins the game and does not already bear the
@@ -5365,6 +5373,7 @@ Amended(28) by Proposal 5967 (Murphy), 20 November 2008
 Amended(29) by Proposal 6009 (Sgeo), 10 December 2008
 Amended(30) by Proposal 6071 (ais523), 16 February 2009
 Amended(31) by Proposal 6084 (Goethe), 16 February 2009
+Amended(32) by Proposal 6175 (Yally), 7 April 2009
 
 ----------------------------------------------------------------------
 
@@ -6059,7 +6068,7 @@ Amended(2) by Proposal 5122 (Zefram), 13 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 402/26 (Power=1)
+Rule 402/27 (Power=1)
 Identity of the Speaker
 
       The office of Speaker is held by the active player who has borne
@@ -6067,8 +6076,8 @@ Identity of the Speaker
       ties broken in favor of the player who has been registered the
       longest.
 
-      The Herald's report includes the date on which each Minister
-      Without Portfolio most recently was awarded the title.
+      The Herald's monthly report includes the date on which each
+      Minister Without Portfolio most recently was awarded the title.
 
 [Cross-references (27 October 2007): the Speaker's duties are:
   * assign prerogatives to Ministers Without Portfolio (rule 2019)
@@ -6109,6 +6118,7 @@ Amended(23) by Proposal 5270 (Murphy; disi.), 7 November 2007
 Amended(24) by Proposal 5430 (Goethe), 9 February 2008
 Amended(25) by Proposal 5593 (Goethe), 29 July 2008
 Amended(26) by Proposal 6026 (Murphy), 22 December 2008
+Amended(27) by Proposal 6175 (Yally), 7 April 2009
 
 ----------------------------------------------------------------------
 
@@ -6133,10 +6143,10 @@ Amended(5) by Proposal 6026 (Murphy), 22 December 2008
 
 ----------------------------------------------------------------------
 
-Rule 2148/3 (Power=1)
+Rule 2148/4 (Power=1)
 The Ambassador
 
-      The ambassador is a low-priority office, responsible for
+      The ambassador is an office; its holder is responsible for
       relations with foreign nomics.
 
       A foreign nomic may grant certain powers (in the
@@ -6166,6 +6176,7 @@ Power changed from 2 to 1 by Proposal 5947 (ais523), 15 November 2008
 Amended(3) by Proposal 6026 (Murphy), 22 December 2008
 Assigned to Committee on Foreign Relations by Proposal 6053 (Murphy,
   woggle, ais523), 23 January 2009
+Amended(4) by Proposal 6175 (Yally), 7 April 2009
 
 ----------------------------------------------------------------------
 
@@ -6193,7 +6204,7 @@ Assigned to Committee on Foreign Relations by Proposal 6053 (Murphy,
 
 ----------------------------------------------------------------------
 
-Rule 2147/6 (Power=2)
+Rule 2147/7 (Power=2)
 Protectorates
 
       Whereas Agora, being the superpower of nomics, has an inherent
@@ -6219,10 +6230,10 @@ Protectorates
       the criteria, and shall announce whenever a protectorate has
       ceased to be a protectorate.
 
-      The ambassador's report includes a list of all protectorates,
-      with contact details for each, and for each the forum in which
-      it is most appropriate to proclaim protective decrees that
-      target that protectorate.
+      The ambassador's monthly report includes a list of all
+      protectorates, with contact details for each, and for each the
+      forum in which it is most appropriate to proclaim protective
+      decrees that target that protectorate.
 
 [Note (25 July 2007): Suggested wording for a protectorate's ruleset:
 "Any protective decree of Agora that targets this nomic takes effect
@@ -6246,6 +6257,7 @@ Amended(5) by Proposal 5391 (Murphy; disi.), 16 January 2008
 Assigned to Committee on Foreign Relations by Proposal 6053 (Murphy,
   woggle, ais523), 23 January 2009
 Amended(6) by Proposal 6131 (comex), 15 March 2009
+Amended(7) by Proposal 6175 (Yally), 7 April 2009
 
 ----------------------------------------------------------------------
 
