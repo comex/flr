@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6162
-Last change to this ruleset: by proposal 6162
+Last proposal with recorded effect on this ruleset: 6171
+Last change to this ruleset: by proposal 6171
 
 Rule ID numbers:
       highest orderly: 2242
@@ -1647,13 +1647,14 @@ Power changed from 2 to 1 by Proposal 5947 (ais523), 15 November 2008
 
 ----------------------------------------------------------------------
 
-Rule 2228/2 (Power=2)
+Rule 2228/3 (Power=2)
 Rests
 
-      Rests are a fixed asset.  The creation and destruction of Rests
-      is secured with a power threshold of 1.7, a person generally
-      CANNOT destroy rests except as permitted by Rules explicitly
-      stating methods by which rests in particular CAN be destroyed.
+      Rests are a fixed currency.  The creation and destruction of
+      Rests is secured with a power threshold of 1.7, a person
+      generally CANNOT destroy rests except as permitted by Rules
+      explicitly stating methods by which rests in particular CAN be
+      destroyed.
 
       The Insulator is an office, and the recordkeepor of Rests.
 
@@ -1679,6 +1680,7 @@ Assigned to Committee on Crime by Proposal 6053 (Murphy, woggle,
   ais523), 23 January 2009
 Amended(1) by Proposal 6060 (Wooble, comex, Goethe), 4 February 2009
 Amended(2) by Proposal 6066 (comex, Goethe; disi.), 4 February 2009
+Amended(3) by Proposal 6171 (Murphy), 7 April 2009
 
 ----------------------------------------------------------------------
 
