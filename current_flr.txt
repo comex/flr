@@ -2742,6 +2742,7 @@ Election Procedure
           of multiple choices constitutes a conditional vote for the
           first choice if it could be the outcome, otherwise the
           second choice if it could be the outcome, and so forth.
+
        4) If there are no valid options for the Decision, instead of
           initiating the Decision, the IADoP SHALL, in place of
           initiating the decision, announce this fact, ending the
