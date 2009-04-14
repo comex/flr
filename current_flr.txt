@@ -1058,7 +1058,7 @@ The Logical Rulesets
       the readability of the SLR.
 
       The Full Logical Ruleset (FLR) is a format of the ruleset.  In
-      this format, rules are assigned to the same  category and
+      this format, rules are assigned to the same category and
       presented in the same order as in the SLR.  The FLR must contain
       all the information required to be in the SLR, and any
       historical annotations which the Rulekeepor is required to
@@ -2898,8 +2898,8 @@ Ratification Without Objection
       A player SHALL NOT knowingly use or announce intent to use
       Ratification Without Objection to ratify a (prior to
       ratification) incorrect document when a corrected document could
-      be produced with reasonable  effort. Such ratification or
-      announcement of intent to ratify is  the Class-8 Crime of
+      be produced with reasonable effort. Such ratification or
+      announcement of intent to ratify is the Class-8 Crime of
       Endorsing Forgery.
 
 [CFJ 1836 (called 18 December 2007): Ratification of an official
@@ -5103,7 +5103,7 @@ Hawkishness
       * Hemming-and-Hawing (default).
 
       * Hovering.  Hovering players are poorly qualified to be
-        assigned  as judge of any inquiry case, unless there is no
+        assigned as judge of any inquiry case, unless there is no
         non-inquiry case requiring assignment, at least one inquiry
         case requiring assignment, and no such inquiry case with any
         non-Hovering player well-qualified to be assigned to it.
@@ -5342,7 +5342,7 @@ Defined Regular Patent Titles
            greater, then this title is administratively revoked from
            the Speaker.
 
-      (f)  Left in a Huff, to be awarded by the Registrar  to any
+      (f)  Left in a Huff, to be awarded by the Registrar to any
            player who deregistered in a Writ of FAGE.
 
       (g)  Elder Lurker, to be awarded to Persons who are true legends
