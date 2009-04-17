@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6181
-Last change to this ruleset: by proposal 6181
+Last proposal with recorded effect on this ruleset: 6192
+Last change to this ruleset: by proposal 6192
 
 Rule ID numbers:
       highest orderly: 2243
@@ -5899,14 +5899,12 @@ Assigned to Committee on Indian Affairs by Proposal 6053 (Murphy,
 
 ----------------------------------------------------------------------
 
-Rule 2232/0 (Power=2)
+Rule 2232/1 (Power=2)
 Contest Axes
 
       Each contest has one or more axes, defaulting to {X}.
 
-      An axis can be added to or removed from a contest as follows,
-      provided that it would not cause a player to be contestmaster of
-      multiple contests sharing an axis:
+      An axis can be added to or removed from a contest as follows:
 
        a) by any player without 3 objections, or
 
@@ -5917,6 +5915,7 @@ History:
 Created by Proposal 6020 (Murphy, root), 22 December 2008
 Assigned to Committee on Indian Affairs by Proposal 6053 (Murphy,
   woggle, ais523), 23 January 2009
+Amended(1) by Proposal 6192 (Murphy), 17 April 2009
 
 ----------------------------------------------------------------------
 
