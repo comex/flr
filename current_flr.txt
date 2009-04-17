@@ -5198,11 +5198,11 @@ Patent Titles and Degrees
       A category concerning titles of honor and dishonor.
 ----------------------------------------------------------------------
 
-Rule 649/29 (Power=1.5)
+Rule 649/30 (Power=1.5)
 Patent Titles
 
       A Patent Title is a legal item given in recognition of a
-      person's distinction.  The Hearld is an office; its holder is
+      person's distinction.  The Herald is an office; its holder is
       responsible for tracking Patent Titles.
 
       A Patent Title CAN only be awarded by a proposal, or by the
@@ -5288,6 +5288,7 @@ Power changed from 1 to 1.5 by Proposal 5437 (Goethe), 13 February
 Amended(27) by Proposal 5437 (Goethe), 13 February 2008
 Amended(28) by Proposal 6047 (comex), 13 January 2009
 Amended(29) by Proposal 6175 (Yally), 7 April 2009
+Amended(30) by cleaning (Wooble), 13 April 2009
 
 ----------------------------------------------------------------------
 
