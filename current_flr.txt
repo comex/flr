@@ -3434,7 +3434,9 @@ Adopting Proposals
       A player CAN create a proposal by publishing ("submitting") a
       body of text with a clear indication that it is intended to
       become a proposal, which places the proposal in the Proposal
-      Pool.
+      Pool.  The author (syn. proposer) of a proposal is the player
+      who submitted it.  The author of a proposal may remove it from
+      the Pool by announcement.
 
       A player specifically permitted by the Rules to distribute a
       Proposal CAN distribute the proposal by publishing it with the
