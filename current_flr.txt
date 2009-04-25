@@ -227,11 +227,6 @@ The Game of Agora
       entities.
 ----------------------------------------------------------------------
 
-[! Note: There is considerable ambiguity about the current state of
-   the ruleset; this document is most likely incomplete. !]
-
-----------------------------------------------------------------------
-
 Rule 2105/3 (Power=1)
 The Map of Agora
 
