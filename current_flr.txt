@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6211
-Last change to this ruleset: by proposal 6211
+Last proposal with recorded effect on this ruleset: 6218
+Last change to this ruleset: by proposal 6218
 
 Rule ID numbers:
       highest orderly: 2245
@@ -2686,27 +2686,29 @@ Created by Proposal 5970 (Murphy), 20 November 2008
 
 ----------------------------------------------------------------------
 
-Rule 2160/5 (Power=3)
+Rule 2160/6 (Power=3)
 Deputisation
 
       Any player (a deputy) CAN perform an action as if e held a
-      particular office (deputise for that office) if:
+      particular office (deputise for that office) if all of the
+      following are true:
 
-      (a) the rules require the holder of that office, by virtue of
-          holding that office, to perform the action (or, if the
-          office is vacant, would so require if the office were
-          filled); and
+        (a) The rules require the holder of that office, by virtue of
+            holding that office, to perform the action (or, if the
+            office is vacant, would so require if the office were
+            filled).  This requirement is fulfilled by the deputy
+            performing the action.
 
-      (b) a time limit by which the rules require the action to be
-          performed has expired, or the office is vacant; and
+        (b) A time limit by which the rules require the action to be
+            performed has expired, or the office is vacant.
 
-      (c) if the office is held by an active player, the deputy
-          announced between two and fourteen days earlier that e
-          intended to deputise for that office for the purposes of the
-          particular action; and
+        (c) If the office is held by an active player, then the deputy
+            announced between two and fourteen days earlier that e
+            intended to deputise for that office for the purposes of
+            the particular action.
 
-      (d) it would be POSSIBLE for the deputy to perform the action,
-          other than by deputisation, if e held the office.
+        (d) It would be POSSIBLE for the deputy to perform the action,
+            other than by deputisation, if e held the office.
 
 [CFJ 1776 (called 1 November 2007): A requirement to perform an
 action, for the purposes of this rule, can be a logical implication
@@ -2723,6 +2725,7 @@ Assigned to Committee on Administration by Proposal 6053 (Murphy,
   woggle, ais523), 23 January 2009
 Amended(4) by Proposal 6129 (Goethe), 15 March 2009
 Amended(5) by Proposal 6144 (Wooble), 23 March 2009
+Amended(6) by Proposal 6218 (Murphy), 27 April 2009
 
 ----------------------------------------------------------------------
 
