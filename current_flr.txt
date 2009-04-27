@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6224
-Last change to this ruleset: by proposal 6224
+Last proposal with recorded effect on this ruleset: 6225
+Last change to this ruleset: by proposal 6225
 
 Rule ID numbers:
       highest orderly: 2245
@@ -702,7 +702,7 @@ Amended(5) by Proposal 6196 (Wooble), 27 April 2009
 
 ----------------------------------------------------------------------
 
-Rule 2019/21 (Power=2)
+Rule 2019/22 (Power=2)
 Prerogatives
 
       In a timely fashion before the beginning of each month, the
@@ -739,9 +739,9 @@ Prerogatives
 
       e) Wielder of Extra Votes.  The Wielder of Extra Votes at the
          start of an ordinary proposal's voting period has a voting
-         limit on that proposal of 1.4 times what it would be
+         limit on that proposal of 1.5 times what it would be
          otherwise (rounded to the nearest integer, breaking ties
-         toward odd integers), rules to the contrary notwithstanding.
+         toward even integers), rules to the contrary notwithstanding.
 
 [CFJ 1870 (called 15 January 2008): A prerogative assigned for a
 particular month is lost at the end of that month.]
@@ -772,6 +772,7 @@ Amended(18) by Proposal 5693 (Goethe), 20 September 2008
 Amended(19) by Proposal 5781 (Murphy), 22 October 2008
 Amended(20) by Proposal 5783 (Murphy), 22 October 2008
 Amended(21) by Proposal 6127 (Goethe), 15 March 2009
+Amended(22) by Proposal 6225 (comex), 27 April 2009
 
 ----------------------------------------------------------------------
 
