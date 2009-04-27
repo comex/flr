@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6204
-Last change to this ruleset: by proposal 6204
+Last proposal with recorded effect on this ruleset: 6206
+Last change to this ruleset: by proposal 6206
 
 Rule ID numbers:
       highest orderly: 2245
@@ -4489,7 +4489,7 @@ Amended(1) by Proposal 6112 (Taral), 1 March 2009
 
 ----------------------------------------------------------------------
 
-Rule 1504/38 (Power=2)
+Rule 1504/39 (Power=2)
 Criminal Cases
 
       Criminal cases are a subclass of judicial cases.  Any
@@ -4567,12 +4567,14 @@ Criminal Cases
       Players SHOULD NOT create rules defining Crimes of a Class
       greater than 14.
 
-      An appeal concerning any assignment of judgement in a criminal
+      An appeal concerning any assignment of judgment in a criminal
       case within the past week CAN be initiated by the accused by
-      announcement.  If a verdict or sentence that led to the creation
-      of Rests is overruled, remanded, or reassigned, the Rests are
-      still considered to have been created, but the appeals panel CAN
-      and SHALL destroy any created Rests by announcement.
+      announcement. Unless otherwise specified, an appeal of a
+      judgment in a criminal case is assumed to be appealing the
+      question of culpability. If a verdict or sentence that led to
+      the creation of Rests is overruled, remanded, or reassigned, the
+      Rests are still considered to have been created, but the appeals
+      panel CAN and SHALL destroy any created Rests by announcement.
 
 [CFJ 1720 (called 12 August 2007): Where a criminal charge is
 expressed in the form "violating rule NNNN by XXX", the alleged act
@@ -4647,6 +4649,7 @@ Amended(35) by Proposal 6054 (Wooble), 23 January 2009
 Amended(36) by Proposal 6112 (Taral), 1 March 2009
 Amended(37) by Proposal 6119 (Goethe), 1 March 2009
 Amended(38) by Proposal 6146 (Murphy), 23 March 2009
+Amended(39) by Proposal 6206 (coppro), 27 April 2009
 
 ----------------------------------------------------------------------
 
