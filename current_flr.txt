@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6194
-Last change to this ruleset: by proposal 6194
+Last proposal with recorded effect on this ruleset: 6196
+Last change to this ruleset: by proposal 6196
 
 Rule ID numbers:
       highest orderly: 2243
@@ -594,7 +594,7 @@ Power changed from 3 to 2 by Proposal 5955 (ais523, Elysion, Murphy;
 
 ----------------------------------------------------------------------
 
-Rule 2199/4 (Power=2)
+Rule 2199/5 (Power=2)
 Ribbons
 
       Ribbons are a class of fixed assets.  If winning is secured,
@@ -607,54 +607,56 @@ Ribbons
 
       The Tailor is an office, and the recordkeepor of Ribbons.
 
-      Ribbons are gained as follows, unless the player already
-      possesses the color of Ribbon to be gained:
+      When a player earns a Ribbon as outlined below, any person CAN
+      create that ribbon in the player's possession by announcement,
+      unless the player already possesses the color of Ribbon e
+      earned:
 
       (+R) When an interested proposal is adopted and changes at least
-           one rule with Power >= 3, its proposer gains a Red Ribbon.
+           one rule with Power >= 3, its proposer earns a Red Ribbon.
 
       (+O) When an interested proposal is adopted by voting with no
-           valid votes AGAINST, its proposer gains an Orange Ribbon.
+           valid votes AGAINST, its proposer earns an Orange Ribbon.
 
       (+G) At the end of each month, each player who held at least one
-           office continuously during that month gains a Green Ribbon,
+           office continuously during that month earns a Green Ribbon,
            unless e failed to perform an official duty within a time
            limit during that month.
 
-      (+C) When a player deputises for an office, e gains a Cyan
+      (+C) When a player deputises for an office, e earns a Cyan
            Ribbon.
 
       (+B) When a player assigns a judgement to a judicial question
-           other than a question on sentencing, e gains a Blue Ribbon,
+           other than a question on sentencing, e earns a Blue Ribbon,
            unless e violated a requirement to submit that judgement
            within a time limit.
 
       (+K) When a player assigns a judgement to a judicial question on
-           sentencing, e gains a Black Ribbon, unless e violated a
+           sentencing, e earns a Black Ribbon, unless e violated a
            requirement to submit that judgement within a time limit.
 
       (+W) When a first-class person becomes a player for the first
-           time, e gains a White Ribbon.  When a first-class person
+           time, e earns a White Ribbon.  When a first-class person
            has been a player continuously for at least three months,
            was never a player before that period, and names another
            player as eir mentor (and has not named a mentor in this
-           fashion before), that player gains a White Ribbon.
+           fashion before), that player earns a White Ribbon.
 
       (+M) When, during Agora's birthday, a player publicly
-           acknowledges the occasion, e gains a Magenta Ribbon.
+           acknowledges the occasion, e earns a Magenta Ribbon.
 
-      (+U) When a player is awarded the Patent Title Champion, e gains
+      (+U) When a player is awarded the Patent Title Champion, e earns
            an Ultraviolet Ribbon.
 
-      (+V) When a player is awarded a Patent Title, e gains a Violet
-           Ribbon, unless e gains a different Ribbon for the award.
+      (+V) When a player is awarded a Patent Title, e earns a Violet
+           Ribbon, unless e earns a different Ribbon for the award.
 
-      (+I) When a player is awarded a degree, e gains an Indigo
+      (+I) When a player is awarded a degree, e earns an Indigo
            Ribbon.
 
       (+Y) At the end of each month, for each contest that awarded
            points to at least three different contestants during that
-           month, the contestmaster gains a Yellow Ribbon.
+           month, the contestmaster earns a Yellow Ribbon
 
       If this rule mentions at least six different specific colors for
       Ribbons, then a player CAN destroy one Ribbon of each such color
@@ -679,6 +681,7 @@ Amended(3) by Proposal 6008 (PNP), 10 December 2008
 Assigned to Committee on Finance by Proposal 6053 (Murphy, woggle,
   ais523), 23 January 2009
 Amended(4) by Proposal 6175 (Yally), 7 April 2009
+Amended(5) by Proposal 6196 (Wooble), 27 April 2009
 
 ----------------------------------------------------------------------
 
