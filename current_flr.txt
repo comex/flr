@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6196
-Last change to this ruleset: by proposal 6196
+Last proposal with recorded effect on this ruleset: 6197
+Last change to this ruleset: by proposal 6197
 
 Rule ID numbers:
       highest orderly: 2243
@@ -170,7 +170,7 @@ Index of Rules
       Rule 1742: Contracts
       Rule 2197: Defining Contract Changes
       Rule 2198: Making Contract Changes
-      Rule 2178: Public Contracts
+      Rule 2178: Contract Switches
       Rule 2173: The Notary
       Rule 2191: Pledges
       Rule 2179: Points
@@ -1388,7 +1388,7 @@ Amended(6) by Proposal 6022 (Murphy), 22 December 2008
 
 ----------------------------------------------------------------------
 
-Rule 2145/6 (Power=2)
+Rule 2145/7 (Power=2)
 Partnerships
 
       A partnership is a contract that devolves each of its legal
@@ -1405,8 +1405,8 @@ Partnerships
       this definition, it is resolved by using the minimum basis sets
       that provide consistency.
 
-      A partnership that is a public contract and whose basis contains
-      at least two persons is a person.
+      A public Legalistic partnership whose basis contains at least
+      two persons is a person, and SHALL act as specified by itself.
 
       If a judge finds a partnership guilty in a criminal proceedings,
       e may sentence one or more members of the partnership for the
@@ -1443,6 +1443,7 @@ Amended(5) by Proposal 5776 (Goethe), 17 October 2008
 Amended(6) by Proposal 6025 (Murphy), 22 December 2008
 Assigned to Committee on Small Business and Entrepreneurship by
   Proposal 6053 (Murphy, woggle, ais523), 23 January 2009
+Amended(7) by Proposal 6197 (Murphy), 27 April 2009
 
 ----------------------------------------------------------------------
 
@@ -5492,7 +5493,7 @@ Contract Law
       within this nomic.
 ----------------------------------------------------------------------
 
-Rule 1742/17 (Power=2)
+Rule 1742/18 (Power=2)
 Contracts
 
       Contracts are binding agreements governed by the rules.
@@ -5507,14 +5508,11 @@ Contracts
       Parties to a contract SHALL act in accordance with that
       contract.  This obligation is not impaired by contradiction
       between the contract and any other contract, or between the
-      contract and the rules.
-
-      As it is manifestly unjust to bring criminal punishment into a
-      manner of equity, if a player is found GUILTY of violating this
-      Rule by failing to act in accordance with a contract that has
-      never been a partnership, the only appropriate sentence is
-      DISCHARGE, unless said failure is with respect to a
-      previously-imposed Equity judgement.
+      contract and the rules.  However, if a player is found GUILTY
+      of violating this rule by failing to act in accordance with
+      an Equitable contract, then the only appropriate sentence is
+      DISCHARGE, unless the failure pertains to a previously-imposed
+      equity judgement.
 
 [CFJ 1892 (called 2 February 2008): An agreement that is not binding
 is thereby not a contract.]
@@ -5598,26 +5596,20 @@ Power changed from 1.5 to 2 by Proposal 5703 (root; disi.), 1 October
 Amended(17) by Proposal 5759 (comex), 16 October 2008
 Assigned to Committee on Small Business and Entrepreneurship by
   Proposal 6053 (Murphy, woggle, ais523), 23 January 2009
+Amended(18) by Proposal 6197 (Murphy), 27 April 2009
 
 ----------------------------------------------------------------------
 
-Rule 2197/1 (Power=2)
+Rule 2197/2 (Power=2)
 Defining Contract Changes
 
-      A Contract Change can be one or more of any of the following:
+      The following are Contract Changes:
 
-      (a) a person who intends to be bound by a contract becoming a
-          party to the contract;
-
-      (b) a person ceasing to be a party to the contract;
-
-      (c) amending a contract; and
-
-      (d) terminating a contract
-
-      If a Contract Change is ambiguous or its permissibility cannot
-      be determined with certainty at the time it is attempted, then
-      that change has no effect.
+        a) Becoming party to a contract.
+        b) Ceasing to be a party to a contract.
+        c) Amending a contract.
+        d) Terminating a contract.
+        e) Flipping a contract switch.
 
 History:
 Created by Proposal 5423 (woggle; disi.), 6 February 2008
@@ -5626,25 +5618,37 @@ Power changed from 1.5 to 2 by Proposal 5704 (root; disi.), 1 October
   2008
 Assigned to Committee on Small Business and Entrepreneurship by
   Proposal 6053 (Murphy, woggle, ais523), 23 January 2009
+Amended(2) by Proposal 6197 (Murphy), 27 April 2009
 
 ----------------------------------------------------------------------
 
-Rule 2198/4 (Power=2)
+Rule 2198/5 (Power=2)
 Making Contract Changes
 
-      Contract changes are secured.  If a contract specifies a
-      mechanism by which Contract Changes to it can be performed, then
-      such changes CAN be performed using that mechanism.
+      Contract Changes CAN be performed as follows:
+
+        a) By agreement between all parties, if the contract's minimum
+           number of parties is at least two.
+
+        b) By a party without objection (any other party CAN object),
+           if the contract's minimum number of parties is less than
+           two.
+
+        c) Using a mechanism specified by the contract.
+
+        d) By the contract by announcement, if it is a person.
 
       If a contract does not purport to regulate becoming a party to
       it, then any person CAN become a party to it by announcement.
 
-      If the minimum number of parties for a contract is at least two,
-      then Contract Changes CAN be made to it by agreement between all
-      the parties to the contract.  Otherwise, any party to the
-      contract CAN make Contract Changes to that contract without
-      Objection.  Any party to the contract CAN object to this
-      dependent action.
+      If a contract states that one or more of its switches have
+      certain values, then they do.
+
+      The rest of this rule notwithstanding, if the nature and/or
+      permissibility of a Contract Changes is ambiguous, then it has
+      no effect.
+
+      Contract changes are secured.
 
 [CFJ 1876 (called 18 January 2008): "Agreement between all parties"
 can only exist if there are at least two parties.]
@@ -5662,43 +5666,27 @@ Amended(3) by Proposal 5686 (Goethe; disi.), 13 September 2008
 Assigned to Committee on Small Business and Entrepreneurship by
   Proposal 6053 (Murphy, woggle, ais523), 23 January 2009
 Amended(4) by cleaning (comex), 12 February 2009
+Amended(5) by Proposal 6197 (Murphy), 27 April 2009
 
 ----------------------------------------------------------------------
 
-Rule 2178/5 (Power=2)
-Public Contracts
+Rule 2178/6 (Power=2)
+Contract Switches
 
-      A public contract is a contract that has been identified as
-      such, as specified by this rule.  All other contracts are
-      private.
+      Disclosure is a contract switch with values Private (default)
+      and Public.  Rules to the contrary notwithstanding:
 
-      A party of a contract CAN identify it as a public contract by
-      publishing its text and list of parties, provided that at least
-      one of the following is true:
+        a) A contract's Disclosure CANNOT be flipped to Public unless
+           its text and list of parties are simultaneously published.
 
-        (a) The contract contains a clause identifying it as public.
+        b) A contract's Disclosure CANNOT be flipped away from Public.
 
-        (b) The publication is accompanied by a notice, indicating
-            unanimous consent of parties, that the contract be public.
+        c) Changes to a public contract's text and/or list of parties
+           do not become effective until published.
 
-        (c) The publication is accompanied by a notice, published
-            without objection of its parties, that the contract be
-            public.
-
-        (d) the contract, or a notice accompanying its publication,
-            contains a clause or indication that the contract is a
-            pledge.
-
-      A partnership CAN identify its contract as a public contract by
-      publishing its text and list of parties.
-
-      If the text of a potential contract is published with a clear
-      indication that the contract will be public when it forms, then
-      it is identified as a public contract when it becomes a
-      contract.
-
-      Changes in the text or list of parties of a public contract do
-      not become effective until they are published.
+      Sentiment is a contract switch with values Equitable (default)
+      and Legalistic.  Rules to the contrary notwithstanding, a
+      contract's Sentiment CANNOT be flipped away from Legalistic.
 
 History:
 Created by Proposal 5328 (Goethe), 5 December 2007
@@ -5713,6 +5701,7 @@ Amended(4) by Proposal 5972 (root), 25 November 2008
 Amended(5) by Proposal 6025 (Murphy), 22 December 2008
 Assigned to Committee on Small Business and Entrepreneurship by
   Proposal 6053 (Murphy, woggle, ais523), 23 January 2009
+Amended(6) by Proposal 6197 (Murphy), 27 April 2009
 
 ----------------------------------------------------------------------
 
@@ -5826,43 +5815,27 @@ Amended(5) by Proposal 6061 (ais523), 4 February 2009
 
 ----------------------------------------------------------------------
 
-Rule 2136/28 (Power=2)
+Rule 2136/29 (Power=2)
 Contests
 
       Contestmaster is a public contract switch, tracked by the
       Scorekeepor, with values 'none' (default) and all first-class
-      players.  A contest is a public contract whose contestmaster is
-      not 'none'.
+      parties to that contract.  A contest is a public contract whose
+      contestmaster is not 'none'.
 
-      The contestmaster of a contract CANNOT be flipped if any of the
-      following are true:
+      A contract's contestmaster CAN be flipped by any player without 3
+      objections, or as specified by the contract.  Rules to the
+      contrary notwithstanding, it CANNOT be flipped in any other way,
+      and CANNOT be flipped to a given player if any of the following
+      are true:
 
-       a) The contract is private.
+        a) The player has not explicitly consented to be contestmaster
+           of that contest.  (Intent to flip a contract's contestmaster
+           to oneself constitutes explicit consent to be contestmaster
+           of that contest.)
 
-       b) Doing so would cause a player to be contestmaster when a
-          member of eir basis has already become a contestmaster
-          within the past seven days.
-
-       c) Doing so would flip the contestmaster of a contract to a
-          player who has not explicitly consented to be contestmaster
-          of that contest.  (If a player intends to flip the
-          contestmaster of a contract to emself, this is considered
-          explicit consent to be contestmaster of that contract.)
-
-      Otherwise, the contestmaster of a contract CAN be flipped
-
-       a) by any player without 3 objections, or
-
-       b) if the contract is a contest, by any mechanism specified by
-          that contract for flipping its contestmaster.
-
-      Notwithstanding the rest of this rule, it is IMPOSSIBLE to flip
-      the contestmaster of a contract to a player who is not party to
-      that contract; and if a contract's contestmaster ceases to be
-      party to that contract, that contract's contestmaster is flipped
-      to 'none'.
-
-      Changes to contestmaster are secured.
+        b) A member of that player's basis has already become a
+           contestmaster within the past seven days.
 
 History:
 Created by Proposal 4935 (Murphy), 29 April 2007
@@ -5897,6 +5870,7 @@ Amended(27) by Proposal 6037 (Goethe), 13 January 2009
 Amended(28) by Proposal 6049 (Murphy; disi.), 13 January 2009
 Assigned to Committee on Indian Affairs by Proposal 6053 (Murphy,
   woggle, ais523), 23 January 2009
+Amended(29) by Proposal 6197 (Murphy), 27 April 2009
 
 ----------------------------------------------------------------------
 
