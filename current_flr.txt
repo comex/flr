@@ -1,25 +1,25 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6197
-Last change to this ruleset: by proposal 6197
+Last proposal with recorded effect on this ruleset: 6198
+Last change to this ruleset: by proposal 6198
 
 Rule ID numbers:
-      highest orderly: 2243
+      highest orderly: 2245
       chaotic: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 132
+Current total number of rules: 134
 
 Power distribution:
        1 with Power=4
       33 with Power=3
-      53 with Power=2
+      42 with Power=2
        5 with Power=1.7
        6 with Power=1.5
-      34 with Power=1
+      47 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -50,6 +50,8 @@ Index of Rules
       Rule 1688: Power
       Rule 2140: Power Controls Mutability
       Rule 2186: Victory
+      Rule 2244: The Games of Agora
+      Rule 2245: Win by Not Losing
       Rule 2110: Win by Paradox
       Rule 2199: Ribbons
       Rule 2019: Prerogatives
@@ -508,25 +510,14 @@ Assigned to Committee on Rules by Proposal 6053 (Murphy, woggle,
 
 ----------------------------------------------------------------------
 
-Rule 2186/5 (Power=2)
+Rule 2186/6 (Power=2)
 Victory
 
       Winning Conditions and Losing Conditions are conditions defined
-      as such by the rules.  Defining these things is secured, lest a
-      coalition of players grant itself a boring win via proposal.
-
-      A win announcement is a correct announcement explicitly labeled
-      as a win announcement.
-
-      When one or more persons satisfy at least one Winning Condition
-      and do not satisfy any Losing Conditions, all such persons win
-      the game.  The game CANNOT be won in any other way, rules to the
-      contrary notwithstanding.
-
-      When used as a period of time, a "game" is the period of time
-      between one instant at which at least one person won the game,
-      and the next such instant. The "first game" was the period of
-      time prior to the first instant at which a person won the game.
+      as such by the rules.  When one or more persons satisfy at least
+      one Winning Condition and do not satisfy any Losing Conditions,
+      all such persons win the game.  The game CANNOT be won in any
+      other way, rules to the contrary notwithstanding.
 
       Each Winning Condition should (if needed) specify a cleanup
       procedure to prevent an arbitrary number of wins arising from
@@ -534,13 +525,9 @@ Victory
       the game, for each Winning Condition satisfied by at least one
       of those persons, its cleanup procedure occurs.
 
-      While a player is the only active first-class player not to
-      satisfy at least one Losing Condition, e satisfies the Winning
-      Condition of Solitude.
-
-      Cleanup procedure:  The same person cannot satisfy this Winning
-      Condition again until at least one other player ceases to
-      satisfy any Losing Condition.
+      A win announcement is a correct announcement explicitly labeled
+      as a win announcement and/or clearly stating that one or more
+      persons win the game.
 
 [Cross-references (9 January 2008): list of Winning Conditions:
   * Clout (rule 2134)
@@ -560,10 +547,40 @@ Amended(2) by Proposal 5792 (Murphy), 22 October 2008
 Amended(3) by Proposal 6023 (Murphy), 22 December 2008
 Amended(4) by Proposal 6052 (Murphy), 23 January 2009
 Amended(5) by Proposal 6083 (ais523), 22 February 2009
+Amended(6) by Proposal 6198 (Murphy), 27 April 2009
 
 ----------------------------------------------------------------------
 
-Rule 2110/5 (Power=2)
+Rule 2244/0 (Power=1)
+The Games of Agora
+
+      When used as a period of time, a "game" is the period of time
+      between one instant at which at least one person won the game,
+      and the next such instant. The "first game" was the period of
+      time prior to the first instant at which a person won the game.
+
+History:
+Created by Proposal 6198 (Murphy), 27 April 2009
+
+----------------------------------------------------------------------
+
+Rule 2245/0 (Power=1)
+Win by Not Losing
+
+      While a player is the only active first-class player not to
+      satisfy at least one Losing Condition, e satisfies the Winning
+      Condition of Solitude.
+
+      Cleanup procedure:  The same person cannot satisfy this Winning
+      Condition again until at least one other player ceases to
+      satisfy any Losing Condition.
+
+History:
+Created by Proposal 6198 (Murphy), 27 April 2009
+
+----------------------------------------------------------------------
+
+Rule 2110/5 (Power=1)
 Win by Paradox
 
       A tortoise is an inquiry case on the possibility or legality of
@@ -594,7 +611,7 @@ Power changed from 3 to 2 by Proposal 5955 (ais523, Elysion, Murphy;
 
 ----------------------------------------------------------------------
 
-Rule 2199/5 (Power=2)
+Rule 2199/5 (Power=1)
 Ribbons
 
       Ribbons are a class of fixed assets.  If winning is secured,
@@ -1193,7 +1210,7 @@ Amended(2) by Proposal 6026 (Murphy), 22 December 2008
 
 ----------------------------------------------------------------------
 
-Rule 2223/1 (Power=2)
+Rule 2223/1 (Power=1)
 Win by Junta
 
       Upon a win announcement that a rule states that one or more
@@ -4056,7 +4073,7 @@ Amended(59) by Proposal 6126 (Goethe), 15 March 2009
 
 ----------------------------------------------------------------------
 
-Rule 2188/1 (Power=2)
+Rule 2188/1 (Power=1)
 Win by Proposal
 
       Upon a win announcement that a proposal awarding a win to one or
@@ -5773,7 +5790,7 @@ Assigned to Committee on Small Business and Entrepreneurship by
 
 ----------------------------------------------------------------------
 
-Rule 2179/5 (Power=2)
+Rule 2179/5 (Power=1)
 Points
 
       For each point axis:
@@ -5815,7 +5832,7 @@ Amended(5) by Proposal 6061 (ais523), 4 February 2009
 
 ----------------------------------------------------------------------
 
-Rule 2136/29 (Power=2)
+Rule 2136/29 (Power=1)
 Contests
 
       Contestmaster is a public contract switch, tracked by the
@@ -5874,7 +5891,7 @@ Amended(29) by Proposal 6197 (Murphy), 27 April 2009
 
 ----------------------------------------------------------------------
 
-Rule 2232/1 (Power=2)
+Rule 2232/1 (Power=1)
 Contest Axes
 
       Each contest has one or more axes, defaulting to {X}.
@@ -5894,7 +5911,7 @@ Amended(1) by Proposal 6192 (Murphy), 17 April 2009
 
 ----------------------------------------------------------------------
 
-Rule 2233/0 (Power=2)
+Rule 2233/0 (Power=1)
 Awarding and Revoking Points
 
       For each of a contest's axes, where N is the number of its
@@ -5918,7 +5935,7 @@ Assigned to Committee on Indian Affairs by Proposal 6053 (Murphy,
 
 ----------------------------------------------------------------------
 
-Rule 2242/1 (Power=2)
+Rule 2242/1 (Power=1)
 Champion's Contests
 
       Medals are a type of asset, tracked by the Scorekeepor;
@@ -5951,7 +5968,7 @@ Amended(1) by Proposal 6153 (coppro), 31 March 2009
 
 ----------------------------------------------------------------------
 
-Rule 2234/2 (Power=2)
+Rule 2234/2 (Power=1)
 Rewarding Contestmasters
 
       As soon as possible after the end of a month, for each contest,
@@ -5975,7 +5992,7 @@ Amended(2) by Proposal 6194 (root), 17 April 2009
 
 ----------------------------------------------------------------------
 
-Rule 2187/4 (Power=2)
+Rule 2187/4 (Power=1)
 Win by High Score
 
       Upon a win announcement that one or more players have a score x
