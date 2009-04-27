@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6222
-Last change to this ruleset: by proposal 6222
+Last proposal with recorded effect on this ruleset: 6224
+Last change to this ruleset: by proposal 6224
 
 Rule ID numbers:
       highest orderly: 2245
@@ -2628,7 +2628,7 @@ Assigned to Committee on Administration by Proposal 6053 (Murphy,
 
 ----------------------------------------------------------------------
 
-Rule 2143/6 (Power=1)
+Rule 2143/7 (Power=1)
 Official Reports and Duties
 
       For each office:
@@ -2651,12 +2651,11 @@ Official Reports and Duties
 
       Any information defined by the rules as part of an office's
       report, without specifying which one, is part of its weekly
-      report (unless the office is defined by the rules as
-      low-priority, in which case it is part of its monthly report).
-
-      Any information defined by the rules as part of an office's
-      report, without specifying which one, is part of its weekly
       report.
+
+      While performing weekly or monthly duties or publishing weekly
+      or monthly reports, officers SHALL NOT publish information that
+      is inaccurate or misleading.
 
 History:
 Created by Proposal 4970 (Zefram), 23 May 2007
@@ -2669,6 +2668,7 @@ Assigned to Committee on Administration by Proposal 6053 (Murphy,
   woggle, ais523), 23 January 2009
 Amended(5) by Proposal 6155 (comex), 31 March 2009
 Amended(6) by Proposal 6175 (Yally), 7 April 2009
+Amended(7) by Proposal 6224 (comex), 27 April 2009
 
 ----------------------------------------------------------------------
 
