@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6218
-Last change to this ruleset: by proposal 6218
+Last proposal with recorded effect on this ruleset: 6219
+Last change to this ruleset: by proposal 6219
 
 Rule ID numbers:
       highest orderly: 2245
@@ -6178,7 +6178,7 @@ Amended(5) by Proposal 6026 (Murphy), 22 December 2008
 
 ----------------------------------------------------------------------
 
-Rule 2148/4 (Power=1)
+Rule 2148/5 (Power=1)
 The Ambassador
 
       The ambassador is an office; its holder is responsible for
@@ -6187,7 +6187,11 @@ The Ambassador
       A foreign nomic may grant certain powers (in the
       ordinary-language sense) and privileges to Agora's ambassador.
       If so, the ambassador shall generally exercise such powers in
-      such manner as e sees fit, subject to other rules and orders.
+      such manner as e sees fit, subject to other rules and orders. If
+      a foreign nomic allows for Agora to take actions in it, the
+      ambassador MAY, with Agoran consent, take any action in it on
+      behalf of Agora, provided that the nomic is Protected, Friendly
+      or Neutral.
 
       All players are prohibited from falsely claiming, to any nomic,
       to be the ambassador.
@@ -6212,6 +6216,7 @@ Amended(3) by Proposal 6026 (Murphy), 22 December 2008
 Assigned to Committee on Foreign Relations by Proposal 6053 (Murphy,
   woggle, ais523), 23 January 2009
 Amended(4) by Proposal 6175 (Yally), 7 April 2009
+Amended(5) by Proposal 6219 (Tiger), 27 April 2009
 
 ----------------------------------------------------------------------
 
