@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6206
-Last change to this ruleset: by proposal 6206
+Last proposal with recorded effect on this ruleset: 6211
+Last change to this ruleset: by proposal 6211
 
 Rule ID numbers:
       highest orderly: 2245
@@ -4815,7 +4815,7 @@ Assigned to Committee on the Judiciary by Proposal 6053 (Murphy,
 
 ----------------------------------------------------------------------
 
-Rule 911/25 (Power=1.7)
+Rule 911/26 (Power=1.7)
 Appeal Cases
 
       Appeal cases are a subclass of judicial cases.  An appeal case's
@@ -4878,18 +4878,18 @@ Appeal Cases
 
       As soon as possible after a judicial panel is assigned, each
       member of the panel SHALL publish an appeals opinion indicating
-      a valid and appropriate judgement to assign to the case -- only
-      the first such published opinion for each member is used to
-      determine the outcome.  Each member SHOULD include arguments for
-      eir choice of judgement. If, immediately after either all
-      members have so published or the time limit for so publishing
-      has ended, a majority of the members have opined for the same
-      judgement, the panel acts to deliver the judgement in question.
-      If the time period ends with no majority judgement, the panel
-      acts to deliver a judgement of REMAND.  If the panel publishes a
-      valid judgement via another mechanism specified in the Rules,
-      the requirement for individual members to publish individual
-      opinions is waived.
+      a valid judgement to assign to the case -- only the last such
+      published opinion for each member is used to determine the
+      outcome.  Each member SHOULD choose an appropriate judgement,
+      and include arguments for eir choice.  If, immediately after
+      either all members have so published or the time limit for so
+      publishing has ended, a majority of the members have opined for
+      the same judgement, the panel acts to deliver the judgement in
+      question.  If the time period ends with no majority judgement,
+      the panel acts to deliver a judgement of REMAND.  If the panel
+      publishes a valid judgement via another mechanism specified in
+      the Rules, the requirement for individual members to publish
+      individual opinions is waived.
 
       A panel CAN publish a concurring opinion when judging AFFIRM,
       and SHALL do so if and only if the reasoning by which the prior
@@ -4947,6 +4947,7 @@ Amended(24) by Proposal 6014 (Goethe), 18 December 2008
 Amended(25) by Proposal 6024 (Murphy), 22 December 2008
 Assigned to Committee on the Judiciary by Proposal 6053 (Murphy,
   woggle, ais523), 23 January 2009
+Amended(26) by Proposal 6211 (comex), 27 April 2009
 
 ----------------------------------------------------------------------
 
