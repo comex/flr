@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6198
-Last change to this ruleset: by proposal 6198
+Last proposal with recorded effect on this ruleset: 6199
+Last change to this ruleset: by proposal 6199
 
 Rule ID numbers:
       highest orderly: 2245
@@ -1583,7 +1583,7 @@ Amended(10) by Proposal 6100 (Pavitra; disi.), 22 February 2009
 
 ----------------------------------------------------------------------
 
-Rule 2177/10 (Power=2)
+Rule 2177/11 (Power=2)
 The Senate
 
       A Senator is any first-class player who has been registered
@@ -1597,16 +1597,16 @@ The Senate
       until it is terminated.  An unterminated emergency session
       terminates 21 days after it was called.  A Senator CAN terminate
       an emergency session without 3 Senator objections.  Terminating
-      an emergency session is a secured change.  The Assessor's report
-      includes the dates when the most recent emergency session was
-      called and terminated.
+      an emergency session is a secured change.  The Assessor's
+      monthly report includes the dates when the most recent emergency
+      session was called and terminated.
 
       The roll call of an emergency session is the set of Senators at
       the time the emergency session was called.  During emergency
       session, the previous definition of Senator does not apply;
       instead, a Senator is a first-class player who is a member of
-      the roll call.  The Assessor's report includes the roll call of
-      the most recent emergency session.
+      the roll call.  The Assessor's monthly report includes the roll
+      call of the most recent emergency session.
 
       During emergency session, any Senator CAN declare a filibuster
       on a proposal in its voting period, with 2 supporting Senators,
@@ -1633,6 +1633,7 @@ Amended(7) by Proposal 5945 (root), 15 November 2008
 Amended(8) by Proposal 5979 (Murphy), 25 November 2008
 Amended(9) by Proposal 6023 (Murphy), 22 December 2008
 Amended(10) by cleaning (Yally), 5 March 2009
+Amended(11) by Proposal 6199 (Murphy), 27 April 2009
 
 ----------------------------------------------------------------------
 
