@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6199
-Last change to this ruleset: by proposal 6199
+Last proposal with recorded effect on this ruleset: 6204
+Last change to this ruleset: by proposal 6204
 
 Rule ID numbers:
       highest orderly: 2245
@@ -2304,7 +2304,7 @@ Amended(27) by Proposal 6022 (Murphy), 22 December 2008
 
 ----------------------------------------------------------------------
 
-Rule 1728/23 (Power=3)
+Rule 1728/24 (Power=3)
 Dependent Actions
 
       A person (the performer) CAN perform an action dependently (a
@@ -2342,6 +2342,10 @@ Dependent Actions
 
        d) Agora is Satisfied with the announced intent, as defined by
           other rules.
+
+       e) If a set of conditions for the performance of the action was
+          given in the announcement of intent to perform the action,
+          all those conditions are met.
 
       A dependent action CAN be performed non-dependently as otherwise
       permitted by the rules.
@@ -2387,6 +2391,7 @@ Amended(21) by Proposal 5818 (comex), 1 November 2008
 Power changed from 2 to 3 by Proposal 5947 (ais523), 15 November 2008
 Amended(22) by Proposal 5995 (Murphy), 7 December 2008
 Amended(23) by Proposal 6041 (Murphy, Warrigal), 13 January 2009
+Amended(24) by Proposal 6204 (Murphy), 27 April 2009
 
 ----------------------------------------------------------------------
 
