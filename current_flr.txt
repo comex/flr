@@ -608,6 +608,7 @@ Amended(4) by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
 Amended(5) by Proposal 5451 (root, Murphy, Zefram), 1 March 2008
 Power changed from 3 to 2 by Proposal 5955 (ais523, Elysion, Murphy;
   disi.), 18 November 2008
+Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
 
 ----------------------------------------------------------------------
 
@@ -699,6 +700,7 @@ Assigned to Committee on Finance by Proposal 6053 (Murphy, woggle,
   ais523), 23 January 2009
 Amended(4) by Proposal 6175 (Yally), 7 April 2009
 Amended(5) by Proposal 6196 (Wooble), 27 April 2009
+Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
 
 ----------------------------------------------------------------------
 
@@ -1227,6 +1229,7 @@ Win by Junta
 History:
 Created by Proposal 5982 (Murphy), 29 November 2008
 Amended(1) by Proposal 6162 (comex), 31 March 2009
+Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
 
 ----------------------------------------------------------------------
 
@@ -4099,6 +4102,7 @@ History:
 Created by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
   16 January 2008
 Amended(1) by Proposal 6162 (comex), 31 March 2009
+Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
 
 ----------------------------------------------------------------------
 
@@ -5845,6 +5849,7 @@ Amended(4) by Proposal 6020 (Murphy, root), 22 November 2008
 Assigned to Committee on Indian Affairs by Proposal 6053 (Murphy,
   woggle, ais523), 23 January 2009
 Amended(5) by Proposal 6061 (ais523), 4 February 2009
+Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
 
 ----------------------------------------------------------------------
 
@@ -5904,6 +5909,7 @@ Amended(28) by Proposal 6049 (Murphy; disi.), 13 January 2009
 Assigned to Committee on Indian Affairs by Proposal 6053 (Murphy,
   woggle, ais523), 23 January 2009
 Amended(29) by Proposal 6197 (Murphy), 27 April 2009
+Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
 
 ----------------------------------------------------------------------
 
@@ -5924,6 +5930,7 @@ Created by Proposal 6020 (Murphy, root), 22 December 2008
 Assigned to Committee on Indian Affairs by Proposal 6053 (Murphy,
   woggle, ais523), 23 January 2009
 Amended(1) by Proposal 6192 (Murphy), 17 April 2009
+Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
 
 ----------------------------------------------------------------------
 
@@ -5948,6 +5955,7 @@ History:
 Created by Proposal 6020 (Murphy, root), 22 December 2008
 Assigned to Committee on Indian Affairs by Proposal 6053 (Murphy,
   woggle, ais523), 23 January 2009
+Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
 
 ----------------------------------------------------------------------
 
@@ -5981,6 +5989,7 @@ Champion's Contests
 History:
 Created by Proposal 6121 (ais523), 15 March 2009
 Amended(1) by Proposal 6153 (coppro), 31 March 2009
+Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
 
 ----------------------------------------------------------------------
 
@@ -6005,6 +6014,7 @@ History:
 Created by Proposal 6020 (Murphy, root), 22 December 2008
 Amended(1) by Proposal 6140 (Goethe), 23 March 2009
 Amended(2) by Proposal 6194 (root), 17 April 2009
+Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
 
 ----------------------------------------------------------------------
 
@@ -6040,6 +6050,7 @@ Amended(3) by Proposal 5585 (Goethe), 29 July 2008
 Amended(4) by Proposal 6020 (Murphy, root), 22 December 2008
 Assigned to Committee on Indian Affairs by Proposal 6053 (Murphy,
   woggle, ais523), 23 January 2009
+Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
 
 ----------------------------------------------------------------------
 
