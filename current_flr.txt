@@ -4,7 +4,7 @@ Last proposal with recorded effect on this ruleset: 6225
 Last change to this ruleset: by proposal 6225
 
 Rule ID numbers:
-      highest orderly: 2245
+      highest orderly: 2246
       chaotic: none
 
 ----------------------------------------------------------------------
@@ -142,7 +142,7 @@ Index of Rules
 
       * Adjudication
       Rule  991: Judicial Cases Generally
-      Rule 2243: Submitting a CFJ to the Justiciar
+      Rule 2246: Submitting a CFJ to the Justiciar
       Rule 2225: Interest Index of Judicial Cases
       Rule 2158: Judicial Questions
       Rule  591: Inquiry Cases
@@ -4181,7 +4181,7 @@ Assigned to Committee on the Judiciary by Proposal 6053 (Murphy,
 
 ----------------------------------------------------------------------
 
-Rule 2243/0 (Power=2)
+Rule 2246/0 (Power=2)
 Submitting a CFJ to the Justiciar
 
       A CFJ may be submitted to the Justiciar.  For such a CFJ, the
