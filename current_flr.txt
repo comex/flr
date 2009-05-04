@@ -5858,8 +5858,7 @@ Points
       secured, then changes to point holdings are secured with the
       same power threshold.
 
-      The Scorekeepor is a office, and the recordkeepor
-      of points.
+      The Scorekeepor is a office, and the recordkeepor of points.
 
       Players generally CAN transfer points they own to other players,
       subject to the restrictions that no more than 5 points can be
