@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6247
-Last change to this ruleset: by proposal 6247
+Last proposal with recorded effect on this ruleset: 6248
+Last change to this ruleset: by proposal 6248
 
 Rule ID numbers:
       highest orderly: 2247
@@ -82,7 +82,7 @@ Index of Rules
       Rule 1789: Cantus Cygneus
       Rule 2130: Activity
       Rule 2177: The Senate
-      Rule 2215: Truthfulness
+      Rule 2215: Truthiness
       Rule 2228: Rests
       Rule 2229: Just Resting
 
@@ -1670,13 +1670,13 @@ Amended(11) by Proposal 6199 (Murphy), 27 April 2009
 
 ----------------------------------------------------------------------
 
-Rule 2215/0 (Power=1)
-Truthfulness
+Rule 2215/1 (Power=1)
+Truthiness
 
       A person SHALL NOT make a public statement on a matter relevant
-      to the rules that is intended to mislead others as to its truth
-      (or, in the case of a public statement that one performs an
-      action, its effectiveness).
+      to the rules unless e reasonably believes that it is true (or,
+      in the case of a public statement that one performs an action,
+      that is effective).
 
       For the purpose of this rule:
 
@@ -1695,6 +1695,7 @@ History:
 Created by Proposal 5789 (Murphy, Zefram, Michael, Goethe), 22 October
   2008
 Power changed from 2 to 1 by Proposal 5947 (ais523), 15 November 2008
+Amended(1) by Proposal 6248 (Wooble), 9 May 2009
 
 ----------------------------------------------------------------------
 
