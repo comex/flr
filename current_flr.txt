@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6255
-Last change to this ruleset: by proposal 6255
+Last proposal with recorded effect on this ruleset: 6257
+Last change to this ruleset: by proposal 6257
 
 Rule ID numbers:
       highest orderly: 2247
@@ -5489,7 +5489,7 @@ Amended(33) by Proposal 6247 (Murphy), 9 May 2009
 
 ----------------------------------------------------------------------
 
-Rule 1367/12 (Power=1)
+Rule 1367/13 (Power=1)
 Degrees
 
       Certain patent titles are known as degrees.  The degrees are
@@ -5507,16 +5507,33 @@ Degrees
       A degree CANNOT be awarded to any person more than once, and
       CANNOT be revoked once awarded.
 
-      A degree SHOULD be awarded ONLY IF its new bearer has published
-      a suitable thesis with explicit intent to qualify for a degree
-      (though not necessarily for the specific degree being awarded).
-      A thesis is an essay whose topic is any facet of Agora Nomic or
-      of nomic in general.  A thesis's suitability depends on its
-      originality and quality, with regard to the rank of the degree
-      to be awarded.
+      After a player publishes a suitable thesis with explicit intent
+      to qualify for a degree (the specific degree need not be
+      mentioned), the Herald SHALL, as soon as possible, initiate an
+      Agoran Decision to award that player (the author) a degree as
+      follows:
 
-      Degrees are generally awarded by proposals with adoption indices
-      sufficiently high to award patent titles.
+       - The available options are FAILING GRADE and each degree that
+         the author does not have. The available options can change
+         during the voting period.
+
+       - The eligible voters are each active player at the time the
+         decision is initiated.
+
+       - Each player's voting limit on the decision is thrice what
+         their voting limit would have been on an ordinary decision
+         initiated at the same time as this one, plus five for each
+         degree e held at that time (the high limit is so as to allow
+         a player to cast votes for different titles and ensure that
+         an inappropriate title is not awarded).
+
+       - The specific thesis for which the degree is to be awarded is
+         an essential parameter of the decision (but not the text of
+         that thesis).
+
+      When the Herald resolves the decision, e CAN and SHALL award the
+      author the degree selected by Agora, or no degree if FAILING
+      GRADE was the outcome.
 
 History:
 Created by Proposal 1367, Jan. 5 1995
@@ -5537,6 +5554,7 @@ Power changed from 1.5 to 1 by Proposal 5947 (ais523), 15 November
   2008
 Amended(12) by Proposal 5955 (ais523, Elysion, Murphy; disi.), 18
   November 2008
+Amended(13) by Proposal 6257 (coppro), 11 May 2009
 
 ----------------------------------------------------------------------
 
