@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6248
-Last change to this ruleset: by proposal 6248
+Last proposal with recorded effect on this ruleset: 6250
+Last change to this ruleset: by proposal 6250
 
 Rule ID numbers:
       highest orderly: 2247
@@ -1178,26 +1178,31 @@ Amended(1) by Proposal 6098 (comex), 22 February 2009
 
 ----------------------------------------------------------------------
 
-Rule 2216/0 (Power=1)
+Rule 2216/1 (Power=1)
 The Repeal-o-Matic
 
       The Anarchist is an office; its holder is responsible for
       proposing the repeal of rules.
 
-      The Anarchist's weekly duties include the performance of the
-      following tasks, in order:
+      The Anarchist's weekly duties include picking one or more rules
+      and submitting proposals to repeal each of those rules. The
+      Anarchist SHOULD include in eir proposals other relevant changes
+      so as not to have negative effects on the Rules. The Anarchist
+      SHALL NOT submit a proposal to repeal a rule for which e already
+      submitted a proposal to repeal within the last month. The
+      adoption index of each of the Anarchist's proposals is equal to
+      the maximum power of the rule e is to amend.
 
-        a) Randomly select exactly five distinct rules.
-
-        b) For one to three of these rules, submit a proposal, with
-           adoption index equal to the Power of the rule, and interest
-           index 0, to repeal the rule.
+      The Anarchist's monthly report includes a list of the titles and
+      texts of the proposals e submitted as part of eir weekly duties
+      in the preceding month.
 
 [Cross-references (28 October 2008): the Anarchist's duties are:
   * propose repeal of rules (rule 2216)]
 
 History:
 Created by Proposal 5794 (Murphy, Swann), 26 October 2008
+Amended(1) by Proposal 6250 (Yally), 9 May 2009
 
 ----------------------------------------------------------------------
 
