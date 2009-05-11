@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6239
-Last change to this ruleset: by proposal 6239
+Last proposal with recorded effect on this ruleset: 6243
+Last change to this ruleset: by proposal 6243
 
 Rule ID numbers:
       highest orderly: 2247
@@ -2975,25 +2975,23 @@ Amended(2) by Proposal 6174 (woggle), 7 April 2009
 
 ----------------------------------------------------------------------
 
-Rule 2201/1 (Power=3)
+Rule 2201/2 (Power=3)
 Self-Ratification
 
-      Any public document defined by the rules as self-ratifying is
-      ratified one week after its publication, unless explicitly and
-      publicly challenged during that period via one of the following
-      methods, explaining the scope and nature of the perceived error:
+      A public document defined by the rules as self-ratifying is
+      ratified when it is continuously undoubted for one week.
 
-      a) An inquiry case, appropriate for questions of legal
-         interpretation.  The original document is never ratified due
-         to this rule,  the rest of this rule notwithstanding.
+      A doubt is an explicit public challenge via one of the following
+      methods, identifying a document and explaining the scope and
+      nature of a perceived error in it:
 
-      b) A claim of error, appropriate for matters of fact.  The
-         publisher of the original document SHALL respond to a claim
-         of error as soon as possible, either publishing a revision or
-         denying the claim.  If e denies the claim, then the original
-         document is ratified one week after the denial, unless it is
-         challenged again (subject to the same requirements) during
-         that period.
+       a) An inquiry case, appropriate for questions of legal
+          interpretation.
+
+       b) A claim of error, appropriate for matters of fact.  The
+          publisher of the original document SHALL as soon as possible
+          either deny the claim (causing it to cease to be a doubt) or
+          publish a revision.
 
 [CFJ 1690 (called 19 June 2007): A challenge to a self-ratifying
 document [at the time of CFJ 1690, the resolution of an Agoran
@@ -3007,6 +3005,7 @@ a self-ratifying document prevents ratification of all parts of it.]
 History:
 Created by Proposal 5459 (Murphy), 9 March 2008
 Amended(1) by Proposal 6106 (Murphy, ais523), 22 February 2009
+Amended(2) by Proposal 6243 (Murphy), 9 May 2009
 
 ----------------------------------------------------------------------
 
