@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6253
-Last change to this ruleset: by proposal 6253
+Last proposal with recorded effect on this ruleset: 6254
+Last change to this ruleset: by proposal 6254
 
 Rule ID numbers:
       highest orderly: 2247
@@ -6067,16 +6067,18 @@ Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
 
 ----------------------------------------------------------------------
 
-Rule 2187/4 (Power=1)
+Rule 2187/5 (Power=1)
 Win by High Score
 
       Upon a win announcement that one or more players have a score x
       + yi such that xy >= 2500 (specifying all such players), all
       those players satisfy the Winning Condition of High Score.
 
-      Cleanup procedure:  All those players have eir scores set to 0.
-      All other players have each of eir coordinates set to
-      floor(P*S/10), where P is eir previous coordinate along that
+      Cleanup procedure:  All those players have their scores set to
+      0 + 0i.  Within one week afterward, any player CAN declare a
+      skunk with Agoran Consent.  If no player does so within the
+      allowed week, then all players have each of eir coordinates set
+      to floor(P*S/10), where P is eir previous coordinate along that
       axis and S is the Score Index.
 
       The Score Index is an integer from 0 to 5, and part of the
@@ -6100,6 +6102,7 @@ Amended(4) by Proposal 6020 (Murphy, root), 22 December 2008
 Assigned to Committee on Indian Affairs by Proposal 6053 (Murphy,
   woggle, ais523), 23 January 2009
 Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
+Amended(5) by Proposal 6254 (root), 9 May 2009
 
 ----------------------------------------------------------------------
 
