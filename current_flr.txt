@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6269
-Last change to this ruleset: by proposal 6269
+Last proposal with recorded effect on this ruleset: 6270
+Last change to this ruleset: by proposal 6270
 
 Rule ID numbers:
       highest orderly: 2247
@@ -3955,7 +3955,7 @@ Amended(3) by Proposal 6077 (Murphy), 22 February 2009
 
 ----------------------------------------------------------------------
 
-Rule 2126/59 (Power=2)
+Rule 2126/60 (Power=2)
 Notes
 
       Notes are a class of fixed assets.  Ownership of Notes is
@@ -4040,8 +4040,7 @@ Notes
       (6) During Agora's Birthday, a player CAN spend Notes forming
           the melody "Happy Birthday" (GGAGCB GGAGDC GGGECBA FFECDC or
           a translation thereof) to satisfy the Winning Condition of
-          Musicianship, unless another player has already done so
-          during that Birthday.
+          Musicianship,
 
       (7) A player CAN spend one Note to increase another player's
           voting limit on an ordinary proposal whose voting period is
@@ -4132,6 +4131,7 @@ Amended(58) by Proposal 5970 (Murphy), 20 November 2008
 Assigned to Committee on Finance by Proposal 6053 (Murphy, woggle,
   ais523), 23 January 2009
 Amended(59) by Proposal 6126 (Goethe), 15 March 2009
+Amended(60) by Proposal 6270 (ais523), 11 May 2009
 
 ----------------------------------------------------------------------
 
