@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6266
-Last change to this ruleset: by proposal 6266
+Last proposal with recorded effect on this ruleset: 6267
+Last change to this ruleset: by proposal 6267
 
 Rule ID numbers:
       highest orderly: 2247
@@ -6202,13 +6202,15 @@ Amended(2) by Proposal 5122 (Zefram), 13 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 402/27 (Power=1)
+Rule 402/28 (Power=1)
 Identity of the Speaker
 
       The office of Speaker is held by the active player who has borne
       the Patent Title of Minister Without Portfolio the longest, with
       ties broken in favor of the player who has been registered the
-      longest.
+      longest.  As soon as possible after the Speaker changes, the
+      Herald SHALL announce this fact along with the identity of the
+      new Speaker and the date of the change.
 
       The Herald's monthly report includes the date on which each
       Minister Without Portfolio most recently was awarded the title.
@@ -6253,6 +6255,7 @@ Amended(24) by Proposal 5430 (Goethe), 9 February 2008
 Amended(25) by Proposal 5593 (Goethe), 29 July 2008
 Amended(26) by Proposal 6026 (Murphy), 22 December 2008
 Amended(27) by Proposal 6175 (Yally), 7 April 2009
+Amended(28) by Proposal 6267 (Yally), 11 May 2009
 
 ----------------------------------------------------------------------
 
