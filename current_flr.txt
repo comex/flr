@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6246
-Last change to this ruleset: by proposal 6246
+Last proposal with recorded effect on this ruleset: 6247
+Last change to this ruleset: by proposal 6247
 
 Rule ID numbers:
       highest orderly: 2247
@@ -5361,7 +5361,7 @@ Amended(30) by cleaning (Wooble), 13 April 2009
 
 ----------------------------------------------------------------------
 
-Rule 1922/32 (Power=1)
+Rule 1922/33 (Power=1)
 Defined Regular Patent Titles
 
       The following are Patent Titles:
@@ -5401,16 +5401,11 @@ Defined Regular Patent Titles
 
       (e)  Minister Without Portfolio, to be awarded by the Herald to
            any player who wins the game and does not already bear the
-           title. If the number of persons bearing this title is
+           title.  If the number of persons bearing this title is
            greater than the number of Prerogatives defined by the
-           rules, then this title is administratively revoked from all
-           non-players; if it is still greater, then this title is
-           administratively revoked from any player who would be
-           Speaker if the player wasn't inactive, until the number of
-           persons bearing this title is no longer greater than the
-           number of Prerogatives defined by the rules; if it is still
-           greater, then this title is administratively revoked from
-           the Speaker.
+           rules, then this title is administratively revoked from the
+           non-player (if any) who has held it the longest, or
+           otherwise from the player who has held it the longest.
 
       (f)  Left in a Huff, to be awarded by the Registrar to any
            player who deregistered in a Writ of FAGE.
@@ -5470,6 +5465,7 @@ Amended(29) by Proposal 6009 (Sgeo), 10 December 2008
 Amended(30) by Proposal 6071 (ais523), 16 February 2009
 Amended(31) by Proposal 6084 (Goethe), 16 February 2009
 Amended(32) by Proposal 6175 (Yally), 7 April 2009
+Amended(33) by Proposal 6247 (Murphy), 9 May 2009
 
 ----------------------------------------------------------------------
 
