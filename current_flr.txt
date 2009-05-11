@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6259
-Last change to this ruleset: by proposal 6259
+Last proposal with recorded effect on this ruleset: 6264
+Last change to this ruleset: by proposal 6264
 
 Rule ID numbers:
       highest orderly: 2247
@@ -5036,7 +5036,7 @@ Amended(4) by Proposal 6024 (Murphy), 22 December 2008
 
 ----------------------------------------------------------------------
 
-Rule 1868/13 (Power=2)
+Rule 1868/14 (Power=2)
 Judge Assignment Generally
 
       At any time, a judicial case either has no judge assigned to it
@@ -5072,6 +5072,11 @@ Judge Assignment Generally
       judge, if any.  A recusal "with cause" is a recusal defined as
       such by the rules.
 
+      A player CAN favor or disfavor a judicial case by announcement.
+      When assigning a judge to a judicial case, the CotC, if
+      possible, SHALL assign a player who has favored it and SHALL NOT
+      assign a player who has disfavored it.
+
 [CFJ 1186: The Clerk of the Courts is required by Rule 1868 to select
 a Judge who is qualified ["eligible" at the time of CFJ 1186] at the
 time that the Judge is selected, regardless of whether that Player was
@@ -5097,6 +5102,7 @@ Amended(12) by Proposal 5317 (Murphy), 28 November 2007
 Amended(13) by Proposal 6024 (Murphy), 22 December 2008
 Assigned to Committee on the Judiciary by Proposal 6053 (Murphy,
   woggle, ais523), 23 January 2009
+Amended(14) by Proposal 6264 (comex), 11 May 2009
 
 ----------------------------------------------------------------------
 
