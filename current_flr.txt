@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6235
-Last change to this ruleset: by proposal 6235
+Last proposal with recorded effect on this ruleset: 6239
+Last change to this ruleset: by proposal 6239
 
 Rule ID numbers:
       highest orderly: 2247
@@ -705,7 +705,7 @@ Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
 
 ----------------------------------------------------------------------
 
-Rule 2019/22 (Power=2)
+Rule 2019/23 (Power=2)
 Prerogatives
 
       In a timely fashion before the beginning of each month, the
@@ -736,7 +736,7 @@ Prerogatives
          its Adoption Index by 1.
 
       d) Wielder of Rubberstamp.  The Wielder of Rubberstamp CAN
-         rubberstamp an ordinary decision in its voting period by
+         rubberstamp a non-democratic decision in its voting period by
          announcement; this decreases its quorum to 3, rules to the
          contrary notwithstanding.
 
@@ -776,6 +776,7 @@ Amended(19) by Proposal 5781 (Murphy), 22 October 2008
 Amended(20) by Proposal 5783 (Murphy), 22 October 2008
 Amended(21) by Proposal 6127 (Goethe), 15 March 2009
 Amended(22) by Proposal 6225 (comex), 27 April 2009
+Amended(23) by Proposal 6239 (Murphy), 9 May 2009
 
 ----------------------------------------------------------------------
 
