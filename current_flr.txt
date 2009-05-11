@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6264
-Last change to this ruleset: by proposal 6264
+Last proposal with recorded effect on this ruleset: 6266
+Last change to this ruleset: by proposal 6266
 
 Rule ID numbers:
       highest orderly: 2247
@@ -1625,7 +1625,7 @@ Amended(10) by Proposal 6100 (Pavitra; disi.), 22 February 2009
 
 ----------------------------------------------------------------------
 
-Rule 2177/11 (Power=2)
+Rule 2177/12 (Power=2)
 The Senate
 
       A Senator is any first-class player who has been registered
@@ -1654,7 +1654,8 @@ The Senate
       on a proposal in its voting period, with 2 supporting Senators,
       provided no filibuster has been declared on that proposal in the
       past.  Any Senator CAN end a filibuster on a proposal with 4
-      supporting Senators.
+      supporting Senators and without objection from a Minister
+      without Portfolio (any of whom CAN object).
 
       While a proposal is in filibuster, its quorum is the number of
       eligible voters plus one, rules to the contrary notwithstanding.
@@ -1676,6 +1677,7 @@ Amended(8) by Proposal 5979 (Murphy), 25 November 2008
 Amended(9) by Proposal 6023 (Murphy), 22 December 2008
 Amended(10) by cleaning (Yally), 5 March 2009
 Amended(11) by Proposal 6199 (Murphy), 27 April 2009
+Amended(12) by Proposal 6266 (Murphy, ais523), 11 May 2009
 
 ----------------------------------------------------------------------
 
