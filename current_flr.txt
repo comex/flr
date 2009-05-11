@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6267
-Last change to this ruleset: by proposal 6267
+Last proposal with recorded effect on this ruleset: 6268
+Last change to this ruleset: by proposal 6268
 
 Rule ID numbers:
       highest orderly: 2247
@@ -11,7 +11,7 @@ Rule ID numbers:
 
 Statistics
 
-Current total number of rules: 135
+Current total number of rules: 134
 
 Power distribution:
        1 with Power=4
@@ -19,7 +19,7 @@ Power distribution:
       42 with Power=2
        5 with Power=1.7
        6 with Power=1.5
-      48 with Power=1
+      47 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -193,7 +193,6 @@ Index of Rules
       Rule 2185: Foreign Relations
       Rule 2147: Protectorates
       Rule 2159: Protective Decrees
-      Rule 2206: Foreign Trade
       Rule 2207: Trade Embargo
 
       * Trophies
@@ -6437,28 +6436,6 @@ Created by Proposal 5091 (Zefram), 25 July 2007
 Amended(1) by Proposal 5276 (Murphy, Pavitra, Zefram), 7 November 2007
 Amended(2) by Proposal 5391 (Murphy; disi.), 16 January 2008
 Amended(3) by Proposal 6023 (Murphy), 22 December 2008
-Assigned to Committee on Foreign Relations by Proposal 6053 (Murphy,
-  woggle, ais523), 23 January 2009
-
-----------------------------------------------------------------------
-
-Rule 2206/0 (Power=1)
-Foreign Trade
-
-      A player CAN spend some of eir assets to export them to a
-      foreign nomic; e SHALL inform that nomic of the export as soon
-      as possible, preferably by simultaneously sending the
-      announcement to an appropriate foreign forum.
-
-      The Ambassador SHOULD encourage foreign nomics to adopt
-      legislation recognizing Agoran exports by creating comparable
-      foreign assets.
-
-      Players are encouraged to adopt legislation recognizing foreign
-      exports by creating comparable Agoran assets.
-
-History:
-Created by Proposal 5537 (Murphy), 7 June 2008
 Assigned to Committee on Foreign Relations by Proposal 6053 (Murphy,
   woggle, ais523), 23 January 2009
 
