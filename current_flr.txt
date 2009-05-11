@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6254
-Last change to this ruleset: by proposal 6254
+Last proposal with recorded effect on this ruleset: 6255
+Last change to this ruleset: by proposal 6255
 
 Rule ID numbers:
       highest orderly: 2247
@@ -4706,7 +4706,7 @@ Amended(39) by Proposal 6206 (coppro), 27 April 2009
 
 ----------------------------------------------------------------------
 
-Rule 2169/11 (Power=1.7)
+Rule 2169/12 (Power=1.7)
 Equity Cases
 
       Equity cases are a subclass of judicial cases. An equity case's
@@ -4783,6 +4783,11 @@ Equity Cases
       then it is valid, but its judge SHALL assign it a null
       judgement.
 
+      For the purpose of an equity case regarding a scam, it is
+      generally equitable to let the scammers retain at least some
+      absolute gains as reward for their cleverness, while
+      compensating others for at least some absolute losses.
+
 [CFJ 1772 (called 28 October 2007): An equity case cannot be initiated
 with the rules as the subject contract.]
 
@@ -4801,6 +4806,7 @@ Amended(10) by Proposal 6006 (Murphy), 10 December 2008
 Amended(11) by Proposal 6024 (Murphy), 22 December 2008
 Assigned to Committee on Small Business and Entrepreneurship by
   Proposal 6053 (Murphy, woggle, ais523), 23 January 2009
+Amended(12) by Proposal 6255 (Murphy), 9 May 2009
 
 ----------------------------------------------------------------------
 
