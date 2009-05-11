@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6257
-Last change to this ruleset: by proposal 6257
+Last proposal with recorded effect on this ruleset: 6259
+Last change to this ruleset: by proposal 6259
 
 Rule ID numbers:
       highest orderly: 2247
@@ -4242,7 +4242,7 @@ Created by Proposal 6181 (comex), 7 April 2009
 
 ----------------------------------------------------------------------
 
-Rule 2225/1 (Power=1.5)
+Rule 2225/2 (Power=1.5)
 Interest Index of Judicial Cases
 
       Each judicial case has an interest index, which CAN be set by
@@ -4251,12 +4251,13 @@ Interest Index of Judicial Cases
       Courts or Justiciar without 3 objections.
 
       When a player recuses emself from a judicial case whose interest
-      index equals eir rank, e CAN increase its interest index by 1 by
-      announcement.
+      index equals eir rank, the cases interest index is increased by 1
+      unless the recusing player announces that it should not.
 
 History:
 Created by Proposal 5970 (Murphy), 20 November 2008
 Amended(1) by Proposal 6176 (Murphy), 7 April 2009
+Amended(2) by Proposal 6259 (Quazie), 11 May 2009
 
 ----------------------------------------------------------------------
 
