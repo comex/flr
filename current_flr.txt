@@ -1,7 +1,8 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6270
-Last change to this ruleset: by proposal 6270
+Last proposal with recorded effect on this ruleset: 6271
+Last change to this ruleset: by proposal 6271
+Last updated: 13 May 2009
 
 Rule ID numbers:
       highest orderly: 2247
@@ -5929,7 +5930,7 @@ Amended(6) by Proposal 6233 (Yally; disi.), 4 May 2009
 
 ----------------------------------------------------------------------
 
-Rule 2136/29 (Power=1)
+Rule 2136/30 (Power=1)
 Contests
 
       Contestmaster is a public contract switch, tracked by the
@@ -5937,11 +5938,11 @@ Contests
       parties to that contract.  A contest is a public contract whose
       contestmaster is not 'none'.
 
-      A contract's contestmaster CAN be flipped by any player without 3
-      objections, or as specified by the contract.  Rules to the
-      contrary notwithstanding, it CANNOT be flipped in any other way,
-      and CANNOT be flipped to a given player if any of the following
-      are true:
+      A contract's contestmaster CAN be flipped by any player without
+      3 objections, or, if it is a contest, as specified by the
+      contract.  Rules to the contrary notwithstanding, it CANNOT be
+      flipped in any other way, and CANNOT be flipped to a given
+      player if any of the following are true:
 
         a) The player has not explicitly consented to be contestmaster
            of that contest.  (Intent to flip a contract's contestmaster
@@ -5986,6 +5987,7 @@ Assigned to Committee on Indian Affairs by Proposal 6053 (Murphy,
   woggle, ais523), 23 January 2009
 Amended(29) by Proposal 6197 (Murphy), 27 April 2009
 Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
+Amended(30) by Proposal 6271 (Tiger), 13 May 2009
 
 ----------------------------------------------------------------------
 
