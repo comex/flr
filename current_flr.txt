@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6291
-Last change to this ruleset: by proposal 6291
+Last proposal with recorded effect on this ruleset: 6292
+Last change to this ruleset: by proposal 6292
 Last updated: 13 May 2009
 
 Rule ID numbers:
@@ -12,11 +12,12 @@ Rule ID numbers:
 
 Statistics
 
-Current total number of rules: 135
+Current total number of rules: 134
 
 Power distribution:
        1 with Power=4
-      33 with Power=3
+       1 with Power=3.2
+      31 with Power=3
       43 with Power=2
        5 with Power=1.7
        6 with Power=1.5
@@ -61,8 +62,7 @@ Index of Rules
       * Rules
       Rule 2141: Role and Attributes of Rules
       Rule  217: Interpreting the Rules
-      Rule 1482: Precedence between Rules with Unequal Power
-      Rule 1030: Precedence between Rules with Equal Power
+      Rule 1030: Precedence between Rules
       Rule 2240: No Cretans Need Apply
       Rule  105: Rule Changes
       Rule 1681: The Logical Rulesets
@@ -874,69 +874,43 @@ Amended(6) by Proposal 5105 (Zefram), 1 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 1482/2 (Power=3)
-Precedence between Rules with Unequal Power
+Rule 1030/8 (Power=3.2)
+Precedence between Rules
 
-      In a conflict between Rules with different Power, the Rule with
-      the higher Power takes precedence over the Rule with the lower
-      Power.
+      In a conflict between Rules, the conflict shall be resolved by
+      performing the following comparisons in the squence written in
+      this rule, until the conflict is resolved.
 
-      No change to the Ruleset can occur that would cause a Rule
-      to stipulate any other means of determining precedence
-      between Rules of unequal Power.  This applies to changes by
-      the enactment or amendment of a Rule, or of any other form.
-      This Rule takes precedence over any Rule that would permit
-      such a change to the Ruleset.
+      - In a conflict between Rules with different Power, the Rule
+        with the higher Power takes precedence over the Rule with the
+        lower Power ; otherwise,
 
-[CFJ 1103 (called 18 August 1998): In the case of conflict between
-Rules of unequal Power, the higher Powered Rule cannot defer to the
-lower Powered Rule, unless the higher Powered Rule takes precedence
-over Rule 1482.]
+      - If all of the Rules in conflict explicitly say that their
+        precedence relations are determined by some other Rule for
+        determining precedence relations, then the determinations of
+        the precedence-determining Rule shall be used to resolve the
+        conflicts; otherwise,
 
-[CFJ 858 (called 15 February 1996): If a low-Power [low-MI at the time
-of Judgement of CFJ 858] Rule attempts to define a term used in a Rule
-of higher Power to mean something other than its ordinary English
-meaning, that may or may not constitute a conflict; whether it does
-must be decided on a case-by-case basis.]
+      - If at least one of the Rules in conflict explicitly says of
+        itself that it defers to another Rule (or type of Rule) or
+        takes precedence over another Rule (or type of Rule), then
+        such provisions shall be used to resolve the conflict, unless
+        they lead to contradictions between each other; otherwise,
 
-History:
-Created by Proposal 1603, Jun. 19 1995
-Infected, but not Amended by Rule 1454, Dec. 2 1995
-Amended(1) by Proposal 3445 (General Chaos), Mar. 26 1997, cosmetic
-  (unattributed)
-Amended(2) by Proposal 4942 (Zefram), 3 May 2007
+      - The Rule with the lower ID number takes precedence.
 
-----------------------------------------------------------------------
+      Clauses in any other rule that broadly claim precedence (e.g.
+      over "all rules" of a certain class) shall be, prima facie,
+      considered to be limited claims of precedence or deference that
+      are applicable only when such claims are evaluated as described
+      within the above sequence.
 
-Rule 1030/7 (Power=3)
-Precedence between Rules with Equal Power
-
-      If two or more Rules with the same Power conflict with one
-      another, then the Rule with the lower ID number takes
-      precedence.
-
-      If at least one of the Rules in conflict explicitly says of
-      itself that it defers to another Rule (or type of Rule) or
-      takes precedence over another Rule (or type of Rule), then such
-      provisions shall supercede the numerical method for determining
-      precedence.
-
-      If all of the Rules in conflict explicitly say that their
-      precedence relations are determined by some other Rule for
-      determining precedence relations, then the determinations of
-      the precedence-determining Rule shall supercede the numerical
-      method for determining precedence.
-
-      If two or more Rules claim to take precedence over one another
-      or defer to one another, then the numerical method again
-      governs.
-
-      Any claim of precedence in a rule, including a claim of
-      precedence over "all" or similarly broad classes of rules,  is
-      considered to be a claim of precedence over rules with  equal
-      power only, unless it explicitly, clearly, and  directly claims
-      to stipulate a means of determining  precedence between rules of
-      different (i.e. higher, lower,  or otherwise unequal) power.
+      No change to the Ruleset can occur that would cause a Rule to
+      directly claim precedence over this Rule as a means of
+      determining precedence.  This applies to changes by the
+      enactment or amendment of a Rule, or of any other form.  This
+      Rule takes precedence over any Rule that would permit such a
+      change to the Ruleset.
 
 [CFJ 1104 (called 20 August 1998): The presence in a Rule of deference
 clause, claiming that the Rule defers to another Rule, does not
@@ -961,6 +935,10 @@ Amended(4) by Proposal 3445 (General Chaos), Mar. 26 1997, cosmetic
 Amended(5) by Proposal 4887 (Murphy), 22 January 2007
 Amended(6) by Proposal 5110 (Murphy), 2 August 2007
 Amended(7) by Proposal 6285 (Goethe), 19 May 2009
+Amended(8) by Proposal 6292 (Goethe), 19 May 2009
+Title changed to "Precedence between Rules" by Proposal 6292 (Goethe),
+  19 May 2009
+Power changed from 3 to 3.2 by Proposal 6292 (Goethe), 19 May 2009
 
 ----------------------------------------------------------------------
 
