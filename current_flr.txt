@@ -1,23 +1,23 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6271
-Last change to this ruleset: by cleaning
+Last proposal with recorded effect on this ruleset: 6279
+Last change to this ruleset: by proposal 6279
 Last updated: 13 May 2009
 
 Rule ID numbers:
-      highest orderly: 2247
+      highest orderly: 2248
       chaotic: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 134
+Current total number of rules: 135
 
 Power distribution:
        1 with Power=4
       33 with Power=3
-      42 with Power=2
+      43 with Power=2
        5 with Power=1.7
        6 with Power=1.5
       47 with Power=1
@@ -160,6 +160,7 @@ Index of Rules
       Rule 1871: The Standing Court
       Rule 2203: Hawkishness
       Rule 2226: Judicial Rank
+      Rule 2248: Second-Class Judges
       Rule 2204: Linked Assignments
       Rule 2164: Judicial Self-Recusal and Case Transfer
       Rule 2212: Judicial Declarations
@@ -5042,7 +5043,7 @@ Amended(4) by Proposal 6024 (Murphy), 22 December 2008
 
 ----------------------------------------------------------------------
 
-Rule 1868/14 (Power=2)
+Rule 1868/15 (Power=2)
 Judge Assignment Generally
 
       At any time, a judicial case either has no judge assigned to it
@@ -5059,10 +5060,10 @@ Judge Assignment Generally
       announcement, and SHALL do so as soon as possible.
 
       The entities qualified to be assigned as judge of a judicial
-      case are the active first-class players, subject to modification
-      by other rules.  Being unqualified to be assigned as a judge
-      does not inherently prevent an entity from continuing to be
-      judge of a case to which e is already assigned.
+      case are the active players, subject to modification by other
+      rules.  Being unqualified to be assigned as a judge does not
+      inherently prevent an entity from continuing to be judge of a
+      case to which e is already assigned.
 
       When a player is poorly qualified to be assigned as judge of a
       judicial case, the Clerk of the Courts SHALL not assign em to be
@@ -5109,6 +5110,7 @@ Amended(13) by Proposal 6024 (Murphy), 22 December 2008
 Assigned to Committee on the Judiciary by Proposal 6053 (Murphy,
   woggle, ais523), 23 January 2009
 Amended(14) by Proposal 6264 (comex), 11 May 2009
+Amended(15) by Proposal 6279 (Murphy), 19 May 2009
 
 ----------------------------------------------------------------------
 
@@ -5242,6 +5244,19 @@ Judicial Rank
 
 History:
 Created by Proposal 5970 (Murphy), 20 November 2008
+
+----------------------------------------------------------------------
+
+Rule 2248/0 (Power=2)
+Second-Class Judges
+
+      If any first-class member of a second-class person's basis would
+      be unqualified to judge a given judicial case, even if e were
+      registered, active, standing, hemming-and-hawing, and Supreme,
+      then that second-class person is unqualified to judge that case.
+
+History:
+Created by Proposal 6279 (Murphy), 19 May 2009
 
 ----------------------------------------------------------------------
 
