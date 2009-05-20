@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6279
-Last change to this ruleset: by proposal 6279
+Last proposal with recorded effect on this ruleset: 628079
+Last change to this ruleset: by proposal 6280
 Last updated: 13 May 2009
 
 Rule ID numbers:
@@ -3958,7 +3958,7 @@ Amended(3) by Proposal 6077 (Murphy), 22 February 2009
 
 ----------------------------------------------------------------------
 
-Rule 2126/60 (Power=2)
+Rule 2126/61 (Power=2)
 Notes
 
       Notes are a class of fixed assets.  Ownership of Notes is
@@ -4002,10 +4002,10 @@ Notes
                during that month gains a number of Eb Notes equal to
                the highest interest index among all such offices.
 
-      (3) (D)  At the end of each week, each player who published at
-               least one on-time judgement during that week gains a
-               number of D Notes equal to the highest interest index
-               among all such cases.
+      (3) (D)  At the end of each week, each player who assigned an
+               on-time judgement to at least one case during that week
+               gains a number of D Notes equal to the highest interest
+               index among all such cases.
 
       (4) (C)  At the end of each week, each player who gained at
                least one Point during that week gains a C Note.
@@ -4135,6 +4135,7 @@ Assigned to Committee on Finance by Proposal 6053 (Murphy, woggle,
   ais523), 23 January 2009
 Amended(59) by Proposal 6126 (Goethe), 15 March 2009
 Amended(60) by Proposal 6270 (ais523), 11 May 2009
+Amended(61) by Proposal 6280 (Tiger), 19 May 2009
 
 ----------------------------------------------------------------------
 
