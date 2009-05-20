@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6298
-Last change to this ruleset: by proposal 6298
+Last proposal with recorded effect on this ruleset: 6300
+Last change to this ruleset: by proposal 6300
 Last updated: 13 May 2009
 
 Rule ID numbers:
@@ -18,10 +18,10 @@ Power distribution:
        1 with Power=4
        1 with Power=3.2
       31 with Power=3
-      43 with Power=2
+      44 with Power=2
        5 with Power=1.7
        6 with Power=1.5
-      47 with Power=1
+      46 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -5838,7 +5838,7 @@ Amended(7) by Proposal 6288 (coppro), 19 May 2009
 
 ----------------------------------------------------------------------
 
-Rule 2173/3 (Power=2)
+Rule 2173/4 (Power=2)
 The Notary
 
       The Notary is an office; its holder is responsible for keeping
@@ -5859,6 +5859,9 @@ The Notary
 
       The Notary CAN terminate any contract without objection.
 
+      The Notary tracks all contract switches not assigned to another
+      officer.
+
 [CFJ 1786 (called 6 November 2007): The notary is not prohibited from
 disclosing eir knowledge or guesses about the historical or current
 text and parties of a private contract where e has no privileged
@@ -5873,6 +5876,7 @@ Power changed from 1 to 2 by Proposal 5703 (root; disi.), 1 October
   2008
 Assigned to Committee on Small Business and Entrepreneurship by
   Proposal 6053 (Murphy, woggle, ais523), 23 January 2009
+Amended(4) by Proposal 6300 (Murphy), 19 May 2009
 
 ----------------------------------------------------------------------
 
@@ -5949,7 +5953,7 @@ Amended(6) by Proposal 6233 (Yally; disi.), 4 May 2009
 
 ----------------------------------------------------------------------
 
-Rule 2136/30 (Power=1)
+Rule 2136/30 (Power=2)
 Contests
 
       Contestmaster is a public contract switch, tracked by the
@@ -6007,6 +6011,7 @@ Assigned to Committee on Indian Affairs by Proposal 6053 (Murphy,
 Amended(29) by Proposal 6197 (Murphy), 27 April 2009
 Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
 Amended(30) by Proposal 6271 (Tiger), 13 May 2009
+Power changed from 1 to 2 by Proposal 6300 (Murphy), 19 May 2009
 
 ----------------------------------------------------------------------
 
