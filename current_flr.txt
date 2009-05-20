@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6292
-Last change to this ruleset: by proposal 6292
+Last proposal with recorded effect on this ruleset: 6293
+Last change to this ruleset: by proposal 6293
 Last updated: 13 May 2009
 
 Rule ID numbers:
@@ -2770,12 +2770,14 @@ Amended(6) by Proposal 6218 (Murphy), 27 April 2009
 
 ----------------------------------------------------------------------
 
-Rule 2154/21 (Power=2)
+Rule 2154/22 (Power=2)
 Election Procedure
 
-      Any player CAN by announcement initiate an election for an
-      elected office for which no election is already in progress,
-      nominating at least one active player.
+      Any player CAN, with Support, initiate an election for a
+      specified elected office for which no election is already in
+      progress.  When an election is initiated, the current holder of
+      the office (if any) is initially considered to have been
+      nominated and have accepted.
 
       During the first four days of the election (the nomination
       period), any player CAN by announcement nominate one or more
@@ -2847,6 +2849,7 @@ Assigned to Committee on Administration by Proposal 6053 (Murphy,
   woggle, ais523), 23 January 2009
 Amended(21) by Proposal 6157 (Goethe, OscarMeyr, Wooble), 31 March
   2009
+Amended(22) by Proposal 6293 (Goethe), 19 May 2009
 
 ----------------------------------------------------------------------
 
