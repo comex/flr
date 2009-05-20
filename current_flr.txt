@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6293
-Last change to this ruleset: by proposal 6293
+Last proposal with recorded effect on this ruleset: 6296
+Last change to this ruleset: by proposal 6296
 Last updated: 13 May 2009
 
 Rule ID numbers:
@@ -2770,7 +2770,7 @@ Amended(6) by Proposal 6218 (Murphy), 27 April 2009
 
 ----------------------------------------------------------------------
 
-Rule 2154/22 (Power=2)
+Rule 2154/23 (Power=2)
 Election Procedure
 
       Any player CAN, with Support, initiate an election for a
@@ -2787,8 +2787,8 @@ Election Procedure
       SHALL initiate an Agoran decision to determine the new
       officeholder. For this decision:
 
-       1) The valid options (hereafter the candidates) are the active
-          players who, during the election,
+       1) The valid options are PRESENT and the active players
+          (hereafter the candidates) who, during the election,
 
             a) received and accepted a nomination for the office
                before the decision was initiated (self-nomination
@@ -2850,6 +2850,7 @@ Assigned to Committee on Administration by Proposal 6053 (Murphy,
 Amended(21) by Proposal 6157 (Goethe, OscarMeyr, Wooble), 31 March
   2009
 Amended(22) by Proposal 6293 (Goethe), 19 May 2009
+Amended(23) by Proposal 6296 (Murphy), 19 May 2009
 
 ----------------------------------------------------------------------
 
