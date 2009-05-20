@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6296
-Last change to this ruleset: by proposal 6296
+Last proposal with recorded effect on this ruleset: 6298
+Last change to this ruleset: by proposal 6298
 Last updated: 13 May 2009
 
 Rule ID numbers:
@@ -5404,7 +5404,7 @@ Amended(30) by cleaning (Wooble), 13 April 2009
 
 ----------------------------------------------------------------------
 
-Rule 1922/33 (Power=1)
+Rule 1922/34 (Power=1)
 Defined Regular Patent Titles
 
       The following are Patent Titles:
@@ -5439,8 +5439,12 @@ Defined Regular Patent Titles
            Each of these titles shall be awarded only once per player.
 
       (d)  Champion, to be awarded by the Herald to any person who
-           wins the game.  The Herald's monthly report includes how
-           the player won.
+           wins the game, along with a specification (possibly
+           implicit) of the method of victory.  The Herald's monthly
+           report includes how the player won. A message awarding
+           Champion to a player constitutes a self-ratifying claim
+           that the player in question won the game through that
+           method.
 
       (e)  Minister Without Portfolio, to be awarded by the Herald to
            any player who wins the game and does not already bear the
@@ -5509,6 +5513,7 @@ Amended(30) by Proposal 6071 (ais523), 16 February 2009
 Amended(31) by Proposal 6084 (Goethe), 16 February 2009
 Amended(32) by Proposal 6175 (Yally), 7 April 2009
 Amended(33) by Proposal 6247 (Murphy), 9 May 2009
+Amended(34) by Proposal 6298 (coppro), 19 May 2009
 
 ----------------------------------------------------------------------
 
