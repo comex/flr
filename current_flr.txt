@@ -3272,7 +3272,7 @@ Created by Proposal 5978 (Elysion), 25 November 2008
 
 ----------------------------------------------------------------------
 
-Rule 2168/2 (Power=1)
+Rule 2168/3 (Power=1)
 Extending the voting period
 
       Whenever the voting period of an Agoran decision would end, and
@@ -3281,7 +3281,7 @@ Extending the voting period
       not already happened for the decision in question.
 
       Upon such an occurrence, the vote collector for the decision
-      SHOULD issue a humiliating public reminder to the slackers who
+      SHALL issue a humiliating public reminder to the slackers who
       have not yet cast any votes on it despite being eligible, and
       CAN end the voting decision by announcement if the result would
       no longer be FAILED QUORUM.
@@ -3290,6 +3290,7 @@ History:
 Created by Proposal 5191 (root), 6 September 2007
 Amended(1) by Proposal 5979 (Murphy), 25 November 2008
 Amended(2) by Proposal 6115 (Murphy), 1 March 2009
+Amended(3) by Proposal 6294 (Yally), 19 May 2009
 
 ----------------------------------------------------------------------
 
