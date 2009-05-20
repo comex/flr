@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6285
-Last change to this ruleset: by proposal 6285
+Last proposal with recorded effect on this ruleset: 6288
+Last change to this ruleset: by proposal 6288
 Last updated: 13 May 2009
 
 Rule ID numbers:
@@ -5811,11 +5811,12 @@ Amended(5) by Proposal 6197 (Murphy), 27 April 2009
 
 ----------------------------------------------------------------------
 
-Rule 2178/6 (Power=2)
+Rule 2178/7 (Power=2)
 Contract Switches
 
-      Disclosure is a contract switch with values Private (default)
-      and Public.  Rules to the contrary notwithstanding:
+      Disclosure is a contract switch, tracked by the Notary, with
+      values Private (default) and Public.  Rules to the contrary
+      notwithstanding:
 
         a) A contract's Disclosure CANNOT be flipped to Public unless
            its text and list of parties are simultaneously published.
@@ -5825,9 +5826,10 @@ Contract Switches
         c) Changes to a public contract's text and/or list of parties
            do not become effective until published.
 
-      Sentiment is a contract switch with values Equitable (default)
-      and Legalistic.  Rules to the contrary notwithstanding, a
-      contract's Sentiment CANNOT be flipped away from Legalistic.
+      Sentiment is a contract switch, tracked by the Notary, with
+      values Equitable (default) and Legalistic.  Rules to the
+      contrary notwithstanding, a contract's Sentiment CANNOT be
+      flipped away from Legalistic.
 
 History:
 Created by Proposal 5328 (Goethe), 5 December 2007
@@ -5843,6 +5845,7 @@ Amended(5) by Proposal 6025 (Murphy), 22 December 2008
 Assigned to Committee on Small Business and Entrepreneurship by
   Proposal 6053 (Murphy, woggle, ais523), 23 January 2009
 Amended(6) by Proposal 6197 (Murphy), 27 April 2009
+Amended(7) by Proposal 6288 (coppro), 19 May 2009
 
 ----------------------------------------------------------------------
 
