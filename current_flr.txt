@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 628079
-Last change to this ruleset: by proposal 6280
+Last proposal with recorded effect on this ruleset: 6282
+Last change to this ruleset: by proposal 6282
 Last updated: 13 May 2009
 
 Rule ID numbers:
@@ -2885,7 +2885,7 @@ Amended(3) by Proposal 6175 (Yally), 7 April 2009
 
 ----------------------------------------------------------------------
 
-Rule 2138/8 (Power=1)
+Rule 2138/9 (Power=1)
 The International Associate Director of Personnel
 
       The International Associate Director of Personnel is an office;
@@ -2898,6 +2898,7 @@ The International Associate Director of Personnel
       b) The date on which each holder last came to hold that office.
       c) The date when the most recent nomination period for that
          office began.
+      d) The date when that office's reports were last published.
 
       The portion of a public message purporting to be an IADoP's
       report that lists the holder of each office is self-ratifying.
@@ -2924,6 +2925,7 @@ Assigned to Committee on Administration by Proposal 6053 (Murphy,
 Amended(6) by Proposal 6175 (Yally), 7 April 2009
 Amended(7) by Proposal 6175 (Yally), 7 April 2009
 Amended(8) by Proposal 6230 (Wooble), 4 May 2009
+Amended(9) by Proposal 6282 (Yally), 19 May 2009
 
 ----------------------------------------------------------------------
 
