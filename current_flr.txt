@@ -4516,7 +4516,7 @@ Notices of Violation
 History:
 Created by Proposal 6010 (ais523, Goethe, Murphy, comex, OscarMeyr),
   14 December 2008
-Amended(1) by Proposal 6036 (ais523, wooble; disi.), 13 January 2009
+Amended(1) by Proposal 6036 (ais523, Wooble; disi.), 13 January 2009
 Assigned to Committee on Crime by Proposal 6053 (Murphy, woggle,
   ais523), 23 January 2009
 Amended(2) by Proposal 6056 (Taral), 23 January 2009
