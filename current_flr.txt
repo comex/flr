@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
 Last proposal with recorded effect on this ruleset: 6322
-Last change to this ruleset: by proposal 6322
+Last change to this ruleset: by rule 2239
 Last updated: 20 May 2009
 
 Rule ID numbers:
@@ -12,13 +12,13 @@ Rule ID numbers:
 
 Statistics
 
-Current total number of rules: 134
+Current total number of rules: 133
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
       31 with Power=3
-      44 with Power=2
+      43 with Power=2
        5 with Power=1.7
        6 with Power=1.5
       46 with Power=1
@@ -149,7 +149,6 @@ Index of Rules
       Rule 2158: Judicial Questions
       Rule  591: Inquiry Cases
       Rule 2230: Notices of Violation
-      Rule 2239: Grandfather Forgiveness
       Rule 1504: Criminal Cases
       Rule 2169: Equity Cases
       Rule 2205: Judicial Arguments and Evidence
@@ -4569,20 +4568,6 @@ Amended(8) by Proposal 6079 (Murphy), 22 February 2009
 Amended(9) by Proposal 6120 (Murphy), 5 March 2009
 Amended(10) by Proposal 6138 (Murphy), 15 March 2009
 Amended(11) by Proposal 6307 (BobTHJ; disi.), 26 May 2009
-
-----------------------------------------------------------------------
-
-Rule 2239/1 (Power=2)
-Grandfather Forgiveness
-
-      Rules to the contrary notwithstanding, any Notice of Violation
-      alleging a rule violation prior to the adoption of this rule is
-      invalid.  If this rule has existed for at least 90 days, then
-      any player CAN (by announcement) cause it to repeal itself.
-
-History:
-Created by Proposal 6104 (Murphy), 22 February 2009
-Amended(1) by Proposal 6112 (Taral), 1 March 2009
 
 ----------------------------------------------------------------------
 
