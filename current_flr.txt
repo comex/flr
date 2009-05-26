@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6313
-Last change to this ruleset: by proposal 6313
+Last proposal with recorded effect on this ruleset: 6316
+Last change to this ruleset: by proposal 6316
 Last updated: 20 May 2009
 
 Rule ID numbers:
@@ -4730,18 +4730,18 @@ Amended(39) by Proposal 6206 (coppro), 27 April 2009
 
 ----------------------------------------------------------------------
 
-Rule 2169/12 (Power=1.7)
+Rule 2169/13 (Power=1.7)
 Equity Cases
 
       Equity cases are a subclass of judicial cases. An equity case's
       purpose is to correct a potential injustice in the operation of
-      a particular contract.  An equity case CAN be initiated by any
-      party to the contract, by announcement which clearly identifies
-      the contract and a state of affairs whereby events have not
-      proceeded as envisioned by the contract (such as, but not
-      limited to, a party acting in contravention of eir contractual
-      obligations).  This announcement SHALL also clearly identify the
-      set of parties to the contract.
+      a particular Equitable contract.  An equity case CAN be
+      initiated by any party to the contract, by announcement which
+      clearly identifies the contract and a state of affairs whereby
+      events have not proceeded as envisioned by the contract (such
+      as, but not limited to, a party acting in contravention of eir
+      contractual obligations).  This announcement SHALL also clearly
+      identify the set of parties to the contract.
 
       For the purpose of this rule, the parties to a contract are
       measured as of the time the case was initiated; however, if the
@@ -4831,6 +4831,7 @@ Amended(11) by Proposal 6024 (Murphy), 22 December 2008
 Assigned to Committee on Small Business and Entrepreneurship by
   Proposal 6053 (Murphy, woggle, ais523), 23 January 2009
 Amended(12) by Proposal 6255 (Murphy), 9 May 2009
+Amended(13) by Proposal 6316 (comex), 26 May 2009
 
 ----------------------------------------------------------------------
 
