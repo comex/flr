@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6306
-Last change to this ruleset: by proposal 6306
+Last proposal with recorded effect on this ruleset: 6307
+Last change to this ruleset: by proposal 6307
 Last updated: 20 May 2009
 
 Rule ID numbers:
@@ -4460,7 +4460,7 @@ Assigned to Committee on the Judiciary by Proposal 6053 (Murphy,
 
 ----------------------------------------------------------------------
 
-Rule 2230/10 (Power=2)
+Rule 2230/11 (Power=2)
 Notices of Violation
 
       A player MAY publish a Notice of Violation (with N support,
@@ -4516,9 +4516,10 @@ Notices of Violation
       Any player CAN cause a Notice specifying em as Accused to become
       Closed by announcement. When a Notice becomes Closed, a number
       of Rests are created in the possession of the Accused equal to
-      the power of the violated Rule, rounded up.  If a Closed notice
-      becomes Contested, these Rests remain, but CAN be later
-      destroyed by judicial processes as described elsewhere.
+      the Class of the specified Crime, or in its absence the Power of
+      the violated rule, rounded up.  If a Closed notice becomes
+      Contested, these Rests remain, but CAN be later destroyed by
+      judicial processes as described elsewhere.
 
 History:
 Created by Proposal 6010 (ais523, Goethe, Murphy, comex, OscarMeyr),
@@ -4535,6 +4536,7 @@ Amended(7) by Proposal 6103 (Murphy), 22 February 2009
 Amended(8) by Proposal 6079 (Murphy), 22 February 2009
 Amended(9) by Proposal 6120 (Murphy), 5 March 2009
 Amended(10) by Proposal 6138 (Murphy), 15 March 2009
+Amended(11) by Proposal 6307 (BobTHJ), 26 <ay 2009
 
 ----------------------------------------------------------------------
 
