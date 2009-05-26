@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6307
-Last change to this ruleset: by proposal 6307
+Last proposal with recorded effect on this ruleset: 6308
+Last change to this ruleset: by proposal 6308
 Last updated: 20 May 2009
 
 Rule ID numbers:
@@ -1739,7 +1739,7 @@ Amended(3) by Proposal 6171 (Murphy), 7 April 2009
 
 ----------------------------------------------------------------------
 
-Rule 2229/1 (Power=2)
+Rule 2229/2 (Power=2)
 Just Resting
 
       Owning one or more Rests is a Losing Condition.
@@ -1754,10 +1754,9 @@ Just Resting
       Rests, CANNOT register, rules to the contrary notwithstanding.
 
       A person who has one or more rests but is not a player is a
-      Fugitive.  The Herald's monthly report shall include a list of
-      all Fugitives and the number of Rests they possess.  At the
-      beginning of each month, half of each Fugitive's rests (rounded
-      down) are destroyed.
+      Fugitive.  The Insulator's monthly report shall include a list
+      of all Fugitives.  At the beginning of each month, half of each
+      Fugitive's rests (rounded down) are destroyed.
 
 History:
 Created by Proposal 6010 (ais523, Goethe, Murphy, comex, OscarMeyr),
@@ -1765,6 +1764,7 @@ Created by Proposal 6010 (ais523, Goethe, Murphy, comex, OscarMeyr),
 Assigned to Committee on Crime by Proposal 6053 (Murphy, woggle,
   ais523), 23 January 2009
 Amended(1) by Proposal 6175 (Yally), 7 April 2009
+Amended(2) by Proposal 6308 (coppro), 26 May 2009
 
 ----------------------------------------------------------------------
 
@@ -4536,7 +4536,7 @@ Amended(7) by Proposal 6103 (Murphy), 22 February 2009
 Amended(8) by Proposal 6079 (Murphy), 22 February 2009
 Amended(9) by Proposal 6120 (Murphy), 5 March 2009
 Amended(10) by Proposal 6138 (Murphy), 15 March 2009
-Amended(11) by Proposal 6307 (BobTHJ), 26 <ay 2009
+Amended(11) by Proposal 6307 (BobTHJ; disi.), 26 May 2009
 
 ----------------------------------------------------------------------
 
