@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6305
-Last change to this ruleset: by proposal 6305
+Last proposal with recorded effect on this ruleset: 6306
+Last change to this ruleset: by proposal 6306
 Last updated: 20 May 2009
 
 Rule ID numbers:
@@ -2432,7 +2432,7 @@ Amended(24) by Proposal 6204 (Murphy), 27 April 2009
 
 ----------------------------------------------------------------------
 
-Rule 2124/10 (Power=2)
+Rule 2124/11 (Power=2)
 Agoran Satisfaction
 
       A Supporter of a dependent action is a first-class player who
@@ -2463,9 +2463,13 @@ Agoran Satisfaction
           the ratio of supporters to objectors is greater than N, or
           the action has at least one supporter and no objectors.
 
-      For the purposes of any determination defined by this rule,
-      objections shall always be considered withdrawn if they were
-      made prior to the announcement of intent to perform the action.
+      The above notwithstanding, if the action depends on objections,
+      and an objection to it has been withdrawn within the past 24
+      hours, then Agora is not Satisfied with the intent.
+
+      A person CANNOT support or object to an announcement of intent
+      before the intent is announced, or after e has withdrawn the.
+      same type of response.
 
 History:
 Created by Proposal 4853 (Goethe), 18 March 2006
@@ -2483,6 +2487,7 @@ Amended(7) by Proposal 5504 (Murphy), 10 May 2008
 Amended(8) by Proposal 5767 (Murphy), 17 October 2008
 Amended(9) by Proposal 5995 (Murphy), 7 December 2008
 Amended(10) by Proposal 6027 (Elysion), 8 January 2009
+Amended(11) by Proposal 6306 (Murphy), 26 May 2009
 
 ----------------------------------------------------------------------
 
