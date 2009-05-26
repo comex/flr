@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6300
-Last change to this ruleset: by proposal 6300
+Last proposal with recorded effect on this ruleset: 6305
+Last change to this ruleset: by proposal 6305
 Last updated: 20 May 2009
 
 Rule ID numbers:
@@ -2770,7 +2770,7 @@ Amended(6) by Proposal 6218 (Murphy), 27 April 2009
 
 ----------------------------------------------------------------------
 
-Rule 2154/23 (Power=2)
+Rule 2154/24 (Power=2)
 Election Procedure
 
       Any player CAN, with Support, initiate an election for a
@@ -2803,8 +2803,9 @@ Election Procedure
           initiated.
 
        2) If there is no Emergency Session at the time the decision is
-          initiated, the eligible voters are the active players.
-          Otherwise, the eligible voters are the active Senators.
+          initiated, the eligible voters are the active first-class
+          players.  Otherwise, the eligible voters are the active
+          Senators.
 
        3) Each eligible voter's voting limit is one. An ordered list
           of multiple choices constitutes a conditional vote for the
@@ -2851,6 +2852,7 @@ Amended(21) by Proposal 6157 (Goethe, OscarMeyr, Wooble), 31 March
   2009
 Amended(22) by Proposal 6293 (Goethe), 19 May 2009
 Amended(23) by Proposal 6296 (Murphy), 19 May 2009
+Amended(24) by Proposal 6305 (Taral), 26 May 2009
 
 ----------------------------------------------------------------------
 
