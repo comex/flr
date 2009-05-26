@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6320
-Last change to this ruleset: by proposal 6320
+Last proposal with recorded effect on this ruleset: 6321
+Last change to this ruleset: by proposal 6321
 Last updated: 20 May 2009
 
 Rule ID numbers:
@@ -1937,7 +1937,7 @@ Amended(4) by Proposal 5535 (Murphy), 7 June 2008
 
 ----------------------------------------------------------------------
 
-Rule 1023/24 (Power=2)
+Rule 1023/25 (Power=2)
 Common Definitions
 
       The following terms are defined:
@@ -1959,6 +1959,9 @@ Common Definitions
 
           (5) Agoran years begin when the Agoran month of January
               begins.
+
+          These definitions do not apply to relative durations (e.g.
+          "within <number> days after <event>").
 
 History:
 Created by Proposal 805, ca. Jan. or Feb. 1994
@@ -1991,6 +1994,7 @@ Amended(21) by Proposal 5102 (Zefram), 1 August 2007
 Amended(22) by Proposal 5081 (Zefram; disi.), 1 August 2007
 Amended(23) by Proposal 5408 (root), 22 January 2008
 Amended(24) by Proposal 6046 (comex), 13 January 2009
+Amended(25) by Proposal 6321 (Murphy; disi.), 26 May 2009
 
 ----------------------------------------------------------------------
 
