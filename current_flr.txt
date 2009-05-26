@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6308
-Last change to this ruleset: by proposal 6308
+Last proposal with recorded effect on this ruleset: 6313
+Last change to this ruleset: by proposal 6313
 Last updated: 20 May 2009
 
 Rule ID numbers:
@@ -3624,16 +3624,27 @@ Created by Proposal 5970 (Murphy), 20 November 2008
 
 ----------------------------------------------------------------------
 
-Rule 1607/19 (Power=2)
+Rule 1607/20 (Power=2)
 The Promotor
 
       The Promotor is an office; its holder is responsible for
       receiving and distributing proposals.
 
-      The Promotor CAN and MAY distribute a proposal in the Proposal
-      Pool at any time.  The Promotor's weekly duties include the
-      distribution of each proposal that has been in the Proposal Pool
-      since the beginning of that week.
+      Distributability is a proposal switch tracked by the Promotor,
+      with values Undistributable (default) and Distributable.
+
+      In a given Agoran week, the Promotor CAN and SHALL, as part of
+      eir weekly duties, distribute any proposal that is in the
+      Proposal Pool and was Distributable at the beginning of that
+      Agoran week.  The Promotor CAN but SHALL NOT, in a given Agoran
+      week, distribute a any proposal that is in the Pool but was
+      Undistributable at the beginning of that Agoran week.
+
+      A player CAN flip a specified proposal to Distributable with 3
+      Support, or by spending 1 Note.
+
+      A player CAN flip a specified proposal to Undistributable by
+      spending 3 Notes.
 
       For an Agoran decision of whether to adopt a proposal, the
       following are essential parameters:
@@ -3706,6 +3717,7 @@ Power changed from 1 to 2 by Proposal 5947 (ais523), 15 November 2008
 Amended(19) by Proposal 6001 (Goethe), 7 December 2008
 Assigned to Committee on Rules by Proposal 6053 (Murphy, woggle,
   ais523), 23 January 2009
+Amended(20) by Proposal 6313 (Goethe), 26 May 2009
 
 ----------------------------------------------------------------------
 
