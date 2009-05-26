@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6321
-Last change to this ruleset: by proposal 6321
+Last proposal with recorded effect on this ruleset: 6322
+Last change to this ruleset: by proposal 6322
 Last updated: 20 May 2009
 
 Rule ID numbers:
@@ -1501,16 +1501,21 @@ Amended(8) by Proposal 6320 (Goethe), 26 May 2009
 
 ----------------------------------------------------------------------
 
-Rule 2139/1 (Power=1)
+Rule 2139/2 (Power=1)
 The Registrar
 
       The Registrar is an office; its holder is responsible for
       keeping track of players.
 
-      The Registrar's report includes, for each player:
+      The Registrar's report includes:
 
-      a) Information sufficient to identify and contact em.
-      b) The date on which e most recently became a player.
+      a) Information sufficient to identify and contact each player.
+      b) The date on which each player most recently became a player.
+      c) The Activity of each player, and when each Inactive player
+         became Inactive.
+      d) For each former player for which the information is
+         reasonably available, the dates on which e registered and
+         deregistered.
 
 [CFJ 1703 (called 13 July 2007): A player cannot change eir nickname
 by announcement if the new nickname that e specifies is the current
@@ -1545,6 +1550,7 @@ or publish it.]
 History:
 Created by Proposal 4939 (Murphy), 29 April 2007
 Amended(1) by Proposal 5172 (Murphy), 29 August 2007
+Amended(2) by Proposal 6322 (Wooble), 26 May 2009
 
 ----------------------------------------------------------------------
 
@@ -2682,7 +2688,7 @@ Assigned to Committee on Administration by Proposal 6053 (Murphy,
 
 ----------------------------------------------------------------------
 
-Rule 2143/7 (Power=1)
+Rule 2143/8 (Power=1)
 Official Reports and Duties
 
       For each office:
@@ -2711,6 +2717,11 @@ Official Reports and Duties
       or monthly reports, officers SHALL NOT publish information that
       is inaccurate or misleading.
 
+      Reports SHALL be published in plain text.  Tabular data must
+      line up properly when viewed in a monospaced font.  Publishing
+      reports that deviate from these regulations is the Class 6 Crime
+      of Making My Eyes Bleed.
+
 History:
 Created by Proposal 4970 (Zefram), 23 May 2007
 Amended(1) by Proposal 5239 (AFO), 3 October 2007
@@ -2723,6 +2734,7 @@ Assigned to Committee on Administration by Proposal 6053 (Murphy,
 Amended(5) by Proposal 6155 (comex), 31 March 2009
 Amended(6) by Proposal 6175 (Yally), 7 April 2009
 Amended(7) by Proposal 6224 (comex), 27 April 2009
+Amended(8) by Proposal 6322 (Wooble), 26 May 2009
 
 ----------------------------------------------------------------------
 
