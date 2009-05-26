@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6316
-Last change to this ruleset: by proposal 6316
+Last proposal with recorded effect on this ruleset: 6319
+Last change to this ruleset: by proposal 6319
 Last updated: 20 May 2009
 
 Rule ID numbers:
@@ -1617,12 +1617,12 @@ Amended(10) by Proposal 6100 (Pavitra; disi.), 22 February 2009
 
 ----------------------------------------------------------------------
 
-Rule 2177/12 (Power=2)
+Rule 2177/13 (Power=2)
 The Senate
 
-      A Senator is any first-class player who has been registered
-      continuously for the immediately preceding sixty days.  The set
-      of all Senators is known as the Senate.  The Registrar's report
+      A Senator is any first-class player whose most recent
+      registration was at least sixty days ago.  The set of all
+      Senators is known as the Senate.  The Registrar's report
       includes a list of all Senators.
 
       A Senator CAN call an Emergency Session with 2 Senator
@@ -1670,6 +1670,7 @@ Amended(9) by Proposal 6023 (Murphy), 22 December 2008
 Amended(10) by cleaning (Yally), 5 March 2009
 Amended(11) by Proposal 6199 (Murphy), 27 April 2009
 Amended(12) by Proposal 6266 (Murphy, ais523), 11 May 2009
+Amended(13) by Proposal 6319 (Murphy; disi.), 26 May 2009
 
 ----------------------------------------------------------------------
 
