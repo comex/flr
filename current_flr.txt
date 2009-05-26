@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6319
-Last change to this ruleset: by proposal 6319
+Last proposal with recorded effect on this ruleset: 6320
+Last change to this ruleset: by proposal 6320
 Last updated: 20 May 2009
 
 Rule ID numbers:
@@ -1439,7 +1439,7 @@ Amended(6) by Proposal 6022 (Murphy), 22 December 2008
 
 ----------------------------------------------------------------------
 
-Rule 2145/7 (Power=2)
+Rule 2145/8 (Power=2)
 Partnerships
 
       A partnership is a contract that devolves each of its legal
@@ -1456,8 +1456,10 @@ Partnerships
       this definition, it is resolved by using the minimum basis sets
       that provide consistency.
 
-      A public Legalistic partnership whose basis contains at least
-      two persons is a person, and SHALL act as specified by itself.
+      A public Legalistic partnership whose basis has contained at
+      least three active first-class players simultaneously at some
+      point in the past seven days is a person, and SHALL act as
+      specified by itself.
 
       If a judge finds a partnership guilty in a criminal proceedings,
       e may sentence one or more members of the partnership for the
@@ -1495,6 +1497,7 @@ Amended(6) by Proposal 6025 (Murphy), 22 December 2008
 Assigned to Committee on Small Business and Entrepreneurship by
   Proposal 6053 (Murphy, woggle, ais523), 23 January 2009
 Amended(7) by Proposal 6197 (Murphy), 27 April 2009
+Amended(8) by Proposal 6320 (Goethe), 26 May 2009
 
 ----------------------------------------------------------------------
 
