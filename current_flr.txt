@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6328
-Last change to this ruleset: by proposal 6328
+Last proposal with recorded effect on this ruleset: 6329
+Last change to this ruleset: by proposal 6329
 
 Last updated: 20 May 2009
 
@@ -3315,7 +3315,7 @@ Created by Proposal 5978 (Elysion), 25 November 2008
 
 ----------------------------------------------------------------------
 
-Rule 2168/4 (Power=1)
+Rule 2168/5 (Power=1)
 Extending the voting period
 
       Whenever the voting period of an Agoran decision would end, and
@@ -3328,7 +3328,10 @@ Extending the voting period
       have not yet cast any votes on it despite being eligible, and
       CAN end its voting period by announcement (resolving it
       constitutes an implicit announcement that its voting period is
-      first ended) if the result would no longer be FAILED QUORUM.
+      first ended) if the result would no longer be FAILED QUORUM, or
+      if the decision is whether to adopt a proposal and no voter
+      (other than possibly the proposal's author and the vote
+      collector) has voted FOR.
 
 History:
 Created by Proposal 5191 (root), 6 September 2007
@@ -3336,6 +3339,7 @@ Amended(1) by Proposal 5979 (Murphy), 25 November 2008
 Amended(2) by Proposal 6115 (Murphy), 1 March 2009
 Amended(3) by Proposal 6294 (Yally), 19 May 2009
 Amended(4) by Proposal 6328 (Murphy), 29 May 2009
+Amended(5) by Proposal 6329 (Murphy), 29 May 2009
 
 ----------------------------------------------------------------------
 
