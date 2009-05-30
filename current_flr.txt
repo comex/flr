@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6326
-Last change to this ruleset: by proposal 6326
+Last proposal with recorded effect on this ruleset: 6327
+Last change to this ruleset: by proposal 6327
 Last updated: 20 May 2009
 
 Rule ID numbers:
@@ -390,7 +390,7 @@ Amended(12) by Proposal 6158 (Goethe), 31 March 2009
 
 ----------------------------------------------------------------------
 
-Rule 2125/6 (Power=3)
+Rule 2125/7 (Power=3)
 Regulation Regulations
 
       A regulated action is an action satisfying any of the following:
@@ -401,7 +401,10 @@ Regulation Regulations
 
       c) The rules explicitly state that it CAN be performed while
          certain conditions are satisfied.  Such an action CANNOT be
-         performed except as allowed by the rules.
+         performed except as allowed by the rules.  In particular, if
+         the action in question is publishing a type of document, then
+         a public message is not that type of document (even if it is
+         labeled as such) except as allowed by the rules.
 
       d) The rules explicitly state that it MAY be performed while
          certain conditions are satisfied.  Except as allowed by the
@@ -428,6 +431,7 @@ Amended(3) by Proposal 5739 (root), 9 October 2008
 Amended(4) by Proposal 6022 (Murphy), 22 December 2008
 Amended(5) by Proposal 6251 (Murphy), 9 May 2009
 Amended(6) by Proposal 6269 (Pavitra), 11 May 2009
+Amended(7) by Proposal 6327 (Murphy), 29 May 2009
 
 ----------------------------------------------------------------------
 
@@ -4502,10 +4506,10 @@ Assigned to Committee on the Judiciary by Proposal 6053 (Murphy,
 
 ----------------------------------------------------------------------
 
-Rule 2230/11 (Power=2)
+Rule 2230/12 (Power=2)
 Notices of Violation
 
-      A player MAY publish a Notice of Violation (with N support,
+      A player CAN publish a Notice of Violation (with N support,
       where N is the number of valid un-Closed Notices of Violation e
       previously published during the same week, or by announcement if
       N is zero) alleging that a single entity (the Accused) has
@@ -4579,6 +4583,7 @@ Amended(8) by Proposal 6079 (Murphy), 22 February 2009
 Amended(9) by Proposal 6120 (Murphy), 5 March 2009
 Amended(10) by Proposal 6138 (Murphy), 15 March 2009
 Amended(11) by Proposal 6307 (BobTHJ; disi.), 26 May 2009
+Amended(12) by Proposal 6327 (Murphy), 29 May 2009
 
 ----------------------------------------------------------------------
 
@@ -4915,7 +4920,7 @@ Assigned to Committee on the Judiciary by Proposal 6053 (Murphy,
 
 ----------------------------------------------------------------------
 
-Rule 911/27 (Power=1.7)
+Rule 911/28 (Power=1.7)
 Appeal Cases
 
       Appeal cases are a subclass of judicial cases.  An appeal case's
@@ -5002,7 +5007,7 @@ Appeal Cases
       defaults to 50.
 
       In the week after the panel publishes a valid judgement, any
-      panel member may publish a formal Dissenting Opinion with
+      panel member CAN publish a formal Dissenting Opinion with
       Support.  This Dissenting Opinion becomes a part of the record
       of the case, and SHOULD aid in interpreting the decision.
 
@@ -5050,6 +5055,7 @@ Assigned to Committee on the Judiciary by Proposal 6053 (Murphy,
   woggle, ais523), 23 January 2009
 Amended(26) by Proposal 6211 (comex), 27 April 2009
 Amended(27) by Proposal 6229 (Murphy), 4 May 2009
+Amended(28) by Proposal 6327 (Murphy), 29 May 2009
 
 ----------------------------------------------------------------------
 
