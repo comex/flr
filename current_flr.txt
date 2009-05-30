@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6333
-Last change to this ruleset: by proposal 6333
+Last proposal with recorded effect on this ruleset: 6334
+Last change to this ruleset: by proposal 6334
 
 Last updated: 20 May 2009
 
@@ -718,7 +718,7 @@ Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
 
 ----------------------------------------------------------------------
 
-Rule 2019/23 (Power=2)
+Rule 2019/24 (Power=2)
 Prerogatives
 
       In a timely fashion before the beginning of each month, the
@@ -734,15 +734,9 @@ Prerogatives
          holder of a vacant elected office by announcement, unless e
          is prevented from holding that office on an ongoing basis.
 
-      b) Justiciar.  Once within three days after an appeal case comes
-         to require a judge, the Justiciar CAN make that case either
-         hot or cold by announcement.  If the Justiciar has not done
-         so, then the Clerk of the Courts SHALL NOT assign a panel to
-         that case during this period, unless either no panels
-         eligible to be so assigned include the Justiciar, or all of
-         them do.  If the Justiciar has done so, then the Clerk of the
-         Courts SHALL assign a panel including (if the case is hot) or
-         excluding (if it is cold) the Justiciar, if possible.
+      b) Justiciar.  The Justiciar may be granted particular
+         abilities or privileges associated with the judicial process
+         as described elsewhere in the Rules.
 
       c) Wielder of Veto.  The Wielder of Veto CAN veto an ordinary
          decision in its voting period by announcement; this increases
@@ -790,6 +784,7 @@ Amended(20) by Proposal 5783 (Murphy), 22 October 2008
 Amended(21) by Proposal 6127 (Goethe), 15 March 2009
 Amended(22) by Proposal 6225 (comex), 27 April 2009
 Amended(23) by Proposal 6239 (Murphy), 9 May 2009
+Amended(24) by Proposal 6334 (Goethe, ais523), 29 May 2009
 
 ----------------------------------------------------------------------
 
@@ -4938,7 +4933,7 @@ Assigned to Committee on the Judiciary by Proposal 6053 (Murphy,
 
 ----------------------------------------------------------------------
 
-Rule 911/28 (Power=1.7)
+Rule 911/30 (Power=1.7)
 Appeal Cases
 
       Appeal cases are a subclass of judicial cases.  An appeal case's
@@ -5009,11 +5004,29 @@ Appeal Cases
       either all members have so published or the time limit for so
       publishing has ended, a majority of the members have opined for
       the same judgement, the panel acts to deliver the judgement in
-      question.  If the time period ends with no majority judgement,
-      the panel acts to deliver a judgement of REMAND.  If the panel
-      publishes a valid judgement via another mechanism specified in
-      the Rules, the requirement for individual members to publish
-      individual opinions is waived.
+      question.  If the panel publishes a valid judgement via another
+      mechanism specified in the Rules, the requirement for individual
+      members to publish individual opinions is waived.
+
+      If the time period ends with no majority judgement, then:
+
+      - if the Justiciar has published an opinion on the case
+        clearly marked as the Justiciar's Opinion and indicating a
+        valid judgement, and that judgement is the same as one given
+        by at least one panel member (other than the Justiciar), then
+        the panel delivers that judgement;
+
+      - otherwise, the case enters an overtime period, which
+        lasts for four days.  The CotC SHOULD publicly remind the
+        Justiciar when an overtime period begins.  During this period,
+        if the Justiciar publishes a Justiciar's Opinion that is the
+        same as one panel member's as described above, then the panel
+        delivers that judgement;
+
+      - otherwise, the CotC CAN and SHALL, asap after the
+        overtime period ends, act for the panel by announcement to
+        deliver a judgement of either REMAND or REASSIGN, whichever e
+        feels is most appropriate.
 
       A panel CAN publish a concurring opinion when judging AFFIRM,
       and SHALL do so if and only if the reasoning by which the prior
@@ -5074,6 +5087,8 @@ Assigned to Committee on the Judiciary by Proposal 6053 (Murphy,
 Amended(26) by Proposal 6211 (comex), 27 April 2009
 Amended(27) by Proposal 6229 (Murphy), 4 May 2009
 Amended(28) by Proposal 6327 (Murphy), 29 May 2009
+Amended(29) by Proposal 6334 (Goethe, ais523), 29 May 2009
+Amended(30) by Proposal 6334 (Goethe, ais523), 29 May 2009
 
 ----------------------------------------------------------------------
 
