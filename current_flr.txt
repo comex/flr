@@ -4248,8 +4248,6 @@ it is possible for a title to be assigned to a CFJ informally.]
 [Cross-references (28 May 2008): the Clerk of the Courts' duties
 are:
   * not assign judges during holiday (rule 1769)
-  * prefer judicial panels containing or not containing Justiciar
-    (rule 2019)
   * report open judicial cases (rule 991)
   * manage ID numbers of non-appeal judicial cases (rule 991)
   * refuse excess CFJ (rule 2175)
