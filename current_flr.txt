@@ -1,19 +1,19 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6341
-Last change to this ruleset: by proposal 6341
+Last proposal with recorded effect on this ruleset: 6342
+Last change to this ruleset: by proposal 6342
 
 Last updated: 20 May 2009
 
 Rule ID numbers:
-      highest orderly: 2249
+      highest orderly: 2250
       chaotic: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 134
+Current total number of rules: 135
 
 Power distribution:
        1 with Power=4
@@ -22,7 +22,7 @@ Power distribution:
       44 with Power=2
        5 with Power=1.7
        6 with Power=1.5
-      46 with Power=1
+      47 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -133,6 +133,7 @@ Index of Rules
       Rule  106: Adopting Proposals
       Rule 2224: Interest Index of Proposals
       Rule 1607: The Promotor
+      Rule 2250: Officer's Proposals
       Rule 1950: Voting on Democratic Decisions
       Rule 2156: Voting on Ordinary Decisions
       Rule 2142: Support Democracy
@@ -3761,6 +3762,18 @@ Assigned to Committee on Rules by Proposal 6053 (Murphy, woggle,
   ais523), 23 January 2009
 Amended(20) by Proposal 6313 (Goethe), 26 May 2009
 Amended(21) by Proposal 6341 (G.), 11 June 2009
+
+----------------------------------------------------------------------
+
+Rule 2250/0 (Power=1)
+Officer's Proposals
+
+      Any proposal submitted as part of an officer's duties has its
+      Distributability flipped to Distributable upon entering the
+      Proposal Pool.
+
+History:
+Created by Proposal 6342 (Quazie), 11 June 2009
 
 ----------------------------------------------------------------------
 
