@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6340
-Last change to this ruleset: by proposal 6340
+Last proposal with recorded effect on this ruleset: 6341
+Last change to this ruleset: by proposal 6341
 
 Last updated: 20 May 2009
 
@@ -3666,7 +3666,7 @@ Created by Proposal 5970 (Murphy), 20 November 2008
 
 ----------------------------------------------------------------------
 
-Rule 1607/20 (Power=2)
+Rule 1607/21 (Power=2)
 The Promotor
 
       The Promotor is an office; its holder is responsible for
@@ -3682,8 +3682,8 @@ The Promotor
       week, distribute a any proposal that is in the Pool but was
       Undistributable at the beginning of that Agoran week.
 
-      A player CAN flip a specified proposal to Distributable with 3
-      Support, or by spending 1 Note.
+      A player CAN flip a specified proposal to Distributable by
+      spending 1 Note, or without Objection.
 
       A player CAN flip a specified proposal to Undistributable by
       spending 3 Notes.
@@ -3760,6 +3760,7 @@ Amended(19) by Proposal 6001 (Goethe), 7 December 2008
 Assigned to Committee on Rules by Proposal 6053 (Murphy, woggle,
   ais523), 23 January 2009
 Amended(20) by Proposal 6313 (Goethe), 26 May 2009
+Amended(21) by Proposal 6341 (G.), 11 June 2009
 
 ----------------------------------------------------------------------
 
