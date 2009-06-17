@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6349
-Last change to this ruleset: by proposal 6349
+Last proposal with recorded effect on this ruleset: 6352
+Last change to this ruleset: by proposal 6352
 
 Last updated: 20 May 2009
 
@@ -566,16 +566,18 @@ Amended(6) by Proposal 6198 (Murphy), 27 April 2009
 
 ----------------------------------------------------------------------
 
-Rule 2244/0 (Power=1)
+Rule 2244/1 (Power=1)
 The Games of Agora
 
       When used as a period of time, a "game" is the period of time
       between one instant at which at least one person won the game,
-      and the next such instant. The "first game" was the period of
-      time prior to the first instant at which a person won the game.
+      and the next such instant.  The "first game" was the period of
+      time between June 30, 1993, 00:04:30 GMT +1200, and the first
+      instant at which a person won the game.
 
 History:
 Created by Proposal 6198 (Murphy), 27 April 2009
+Amended(1) by Proposal 6352 (Murphy; disi.), 17 June 2009
 
 ----------------------------------------------------------------------
 
