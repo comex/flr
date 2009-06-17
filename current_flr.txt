@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6347
-Last change to this ruleset: by proposal 6347
+Last proposal with recorded effect on this ruleset: 6349
+Last change to this ruleset: by proposal 6349
 
 Last updated: 20 May 2009
 
@@ -1272,7 +1272,7 @@ Players
       players.
 ----------------------------------------------------------------------
 
-Rule 869/28 (Power=2)
+Rule 869/29 (Power=2)
 How to Join and Leave Agora
 
       Citizenship is an entity switch with values Unregistered
@@ -1289,9 +1289,9 @@ How to Join and Leave Agora
       implicitly reflexive.
 
       A first-class person CAN (unless explicitly forbidden or
-      prevented by the rules) register by announcing that e registers,
-      wishes to register, requests registration, or requests
-      permission to register.
+      prevented by the rules) register by publishing a message that
+      indicates reasonably clearly and reasonably unambiguously that e
+      intends to become a player.
 
       A second-class person CAN register with Agoran Consent.
 
@@ -1344,6 +1344,7 @@ Power changed from 1 to 2 by Proposal 5728 (ihope), 7 October 2008
 Amended(26) by Proposal 5728 (ihope), 7 October 2008
 Amended(27) by Proposal 5973 (woggle), 25 November 2008
 Amended(28) by Proposal 6099 (Pavitra), 22 February 2009
+Amended(29) by Proposal 6349 (Pavitra), 17 June 2009
 
 ----------------------------------------------------------------------
 
