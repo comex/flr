@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6356
-Last change to this ruleset: by proposal 6356
+Last proposal with recorded effect on this ruleset: 6358
+Last change to this ruleset: by proposal 6358
 
 Last updated: 26 June 2009
 
@@ -13,13 +13,13 @@ Rule ID numbers:
 
 Statistics
 
-Current total number of rules: 135
+Current total number of rules: 134
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
       31 with Power=3
-      44 with Power=2
+      43 with Power=2
        5 with Power=1.7
        6 with Power=1.5
       47 with Power=1
@@ -80,7 +80,6 @@ Index of Rules
       Rule 2170: Who Am I?
       Rule 2150: Personhood
       Rule 2145: Partnerships
-      Rule 2249: Maple Leaf Dominance
       Rule 2139: The Registrar
       Rule 1789: Cantus Cygneus
       Rule 2130: Activity
@@ -1503,16 +1502,6 @@ Assigned to Committee on Small Business and Entrepreneurship by
   Proposal 6053 (Murphy, woggle, ais523), 23 January 2009
 Amended(7) by Proposal 6197 (Murphy), 27 April 2009
 Amended(8) by Proposal 6320 (Goethe), 26 May 2009
-
-----------------------------------------------------------------------
-
-Rule 2249/0 (Power=2)
-Maple Leaf Dominance
-
-      Canada is a person.  Its basis is the set of all its citizens.
-
-History:
-Created by Proposal 6326 (coppro), 29 May 2009
 
 ----------------------------------------------------------------------
 
