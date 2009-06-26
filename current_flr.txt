@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6364
-Last change to this ruleset: by proposal 6364
+Last proposal with recorded effect on this ruleset: 6368
+Last change to this ruleset: by proposal 6368
 
 Last updated: 26 June 2009
 
@@ -2692,7 +2692,7 @@ Assigned to Committee on Administration by Proposal 6053 (Murphy,
 
 ----------------------------------------------------------------------
 
-Rule 2143/8 (Power=1)
+Rule 2143/9 (Power=1)
 Official Reports and Duties
 
       For each office:
@@ -2723,7 +2723,7 @@ Official Reports and Duties
 
       Reports SHALL be published in plain text.  Tabular data must
       line up properly when viewed in a monospaced font.  Publishing
-      reports that deviate from these regulations is the Class 6 Crime
+      reports that deviate from these regulations is the Class 2 Crime
       of Making My Eyes Bleed.
 
 History:
@@ -2739,6 +2739,7 @@ Amended(5) by Proposal 6155 (comex), 31 March 2009
 Amended(6) by Proposal 6175 (Yally), 7 April 2009
 Amended(7) by Proposal 6224 (comex), 27 April 2009
 Amended(8) by Proposal 6322 (Wooble), 26 May 2009
+Amended(9) by Proposal 6368 (C-walker), 23 June 2009
 
 ----------------------------------------------------------------------
 
