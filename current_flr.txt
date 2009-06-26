@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6361
-Last change to this ruleset: by proposal 6361
+Last proposal with recorded effect on this ruleset: 6364
+Last change to this ruleset: by proposal 6364
 
 Last updated: 26 June 2009
 
@@ -13,7 +13,7 @@ Rule ID numbers:
 
 Statistics
 
-Current total number of rules: 135
+Current total number of rules: 134
 
 Power distribution:
        1 with Power=4
@@ -22,7 +22,7 @@ Power distribution:
       43 with Power=2
        5 with Power=1.7
        6 with Power=1.5
-      48 with Power=1
+      47 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -197,7 +197,6 @@ Index of Rules
       Rule 2251: InterNomic Attitude
       Rule 2147: Protectorates
       Rule 2159: Protective Decrees
-      Rule 2207: Trade Embargo
 
       * Trophies
       Rule 1727: Happy Birthday
@@ -6585,19 +6584,6 @@ Created by Proposal 5091 (Zefram), 25 July 2007
 Amended(1) by Proposal 5276 (Murphy, Pavitra, Zefram), 7 November 2007
 Amended(2) by Proposal 5391 (Murphy; disi.), 16 January 2008
 Amended(3) by Proposal 6023 (Murphy), 22 December 2008
-Assigned to Committee on Foreign Relations by Proposal 6053 (Murphy,
-  woggle, ais523), 23 January 2009
-
-----------------------------------------------------------------------
-
-Rule 2207/0 (Power=1)
-Trade Embargo
-
-      A player SHALL NOT export assets to a foreign nomic unless its
-      Recognition is Protected, Friendly, or Neutral.
-
-History:
-Created by Proposal 5537 (Murphy), 7 June 2008
 Assigned to Committee on Foreign Relations by Proposal 6053 (Murphy,
   woggle, ais523), 23 January 2009
 
