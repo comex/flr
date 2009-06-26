@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6370
-Last change to this ruleset: by proposal 6370
+Last proposal with recorded effect on this ruleset: 6371
+Last change to this ruleset: by proposal 6371
 
 Last updated: 26 June 2009
 
@@ -6204,11 +6204,11 @@ Amended(3) by Proposal 6370 (BobTHJ), 23 June 2009
 
 ----------------------------------------------------------------------
 
-Rule 2187/5 (Power=1)
+Rule 2187/6 (Power=1)
 Win by High Score
 
       Upon a win announcement that one or more players have a score x
-      + yi such that xy >= 2500 (specifying all such players), all
+      + yi such that xy >= 5000 (specifying all such players), all
       those players satisfy the Winning Condition of High Score.
 
       Cleanup procedure:  All those players have their scores set to
@@ -6240,6 +6240,7 @@ Assigned to Committee on Indian Affairs by Proposal 6053 (Murphy,
   woggle, ais523), 23 January 2009
 Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
 Amended(5) by Proposal 6254 (root), 9 May 2009
+Amended(6) by Proposal 6371 (Yally), 23 June 2009
 
 ----------------------------------------------------------------------
 
