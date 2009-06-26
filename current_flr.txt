@@ -1,19 +1,19 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6358
-Last change to this ruleset: by proposal 6358
+Last proposal with recorded effect on this ruleset: 6361
+Last change to this ruleset: by proposal 6361
 
 Last updated: 26 June 2009
 
 Rule ID numbers:
-      highest orderly: 2250
+      highest orderly: 2251
       chaotic: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 134
+Current total number of rules: 135
 
 Power distribution:
        1 with Power=4
@@ -22,7 +22,7 @@ Power distribution:
       43 with Power=2
        5 with Power=1.7
        6 with Power=1.5
-      47 with Power=1
+      48 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -194,6 +194,7 @@ Index of Rules
       Rule  103: Role of the Speaker
       Rule 2148: The Ambassador
       Rule 2185: Foreign Relations
+      Rule 2251: InterNomic Attitude
       Rule 2147: Protectorates
       Rule 2159: Protective Decrees
       Rule 2207: Trade Embargo
@@ -6460,6 +6461,36 @@ History:
 Created by Proposal 5392 (Murphy), 16 January 2008
 Assigned to Committee on Foreign Relations by Proposal 6053 (Murphy,
   woggle, ais523), 23 January 2009
+
+----------------------------------------------------------------------
+
+Rule 2251/0 (Power=1)
+InterNomic Attitude
+
+      The official attitude of Agora torward a foreign nomic depends
+      on its Recognition as follows:
+
+      Recognition                   Attitude
+
+      Protected, Friendly           Ally
+      Unknown, Neutral, Abandoned   Neutral
+      Sanctioned, Hostile           Enemy
+
+      If Agora's InterNomic attitude toward a foreign nomic does not
+      exist or differs from the official attitude, the Ambassador CAN
+      act on behalf of Agora to declare its official attitude.  As
+      soon as possible after Agora's official attitude toward a
+      foreign nomic changes, e SHALL make such a declaration for that
+      nomic.
+
+      The Ambassador SHALL, as soon as possible after the enactment of
+      this rule, act on behalf of Agora to declare its official
+      attitude toward all nomics for which the attitude is not
+      Neutral.  Once this occurs, any person CAN, by announcement,
+      cause this rule to amend itself by removing this paragraph.
+
+History:
+Created by Proposal 6361 (comex), 23 June 2009
 
 ----------------------------------------------------------------------
 
