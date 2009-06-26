@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6372
-Last change to this ruleset: by proposal 6372
+Last proposal with recorded effect on this ruleset: 6376
+Last change to this ruleset: by proposal 6376
 
 Last updated: 26 June 2009
 
@@ -4955,7 +4955,7 @@ Assigned to Committee on the Judiciary by Proposal 6053 (Murphy,
 
 ----------------------------------------------------------------------
 
-Rule 911/30 (Power=1.7)
+Rule 911/31 (Power=1.7)
 Appeal Cases
 
       Appeal cases are a subclass of judicial cases.  An appeal case's
@@ -5064,6 +5064,12 @@ Appeal Cases
       Support.  This Dissenting Opinion becomes a part of the record
       of the case, and SHOULD aid in interpreting the decision.
 
+      The judge of a previously-appealed question SHALL NOT assign the
+      same judgement to it without new reasoning that addresses the
+      serious doubt about its appropriateness.  Violating this
+      prohibition is the Class-N Crime of Lazy Judging, where N is the
+      judge's rank when e so judged.
+
 [CFJ 1597 (called 22 December 2006): It is possible to appeal a
 judgement even if it is not certain that the judgement exists.]
 
@@ -5111,6 +5117,7 @@ Amended(27) by Proposal 6229 (Murphy), 4 May 2009
 Amended(28) by Proposal 6327 (Murphy), 29 May 2009
 Amended(29) by Proposal 6334 (Goethe, ais523), 29 May 2009
 Amended(30) by Proposal 6334 (Goethe, ais523), 29 May 2009
+Amended(31) by Proposal 6376 (Murphy), 23 June 2009
 
 ----------------------------------------------------------------------
 
