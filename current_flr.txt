@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6371
-Last change to this ruleset: by proposal 6371
+Last proposal with recorded effect on this ruleset: 6372
+Last change to this ruleset: by proposal 6372
 
 Last updated: 26 June 2009
 
@@ -2629,7 +2629,7 @@ Offices
       within the game.
 ----------------------------------------------------------------------
 
-Rule 1006/27 (Power=2)
+Rule 1006/28 (Power=2)
 Offices
 
       An office is a role defined as such by the rules.  Each office
@@ -2642,6 +2642,14 @@ Offices
 
       The holder of an elected office CAN resign it by announcement,
       causing it to become vacant.
+
+      If the holder of an elected office resigns or announces an
+      intent to resign eir office, and in doing so designates another
+      active player to replace em who is qualified to hold the office;
+      then the designee CAN, in the week following the officer's
+      announcement, make emself the holder of the office by
+      announcement; the ADoP SHALL initiate an election for the office
+      asap after such an office change.
 
 [CFJ 1660 (called 13 May 2007): This rule does not define the meaning
 of the term "office", in the sense meant by rule 754, but rather
@@ -2689,6 +2697,7 @@ Amended(26) by Proposal 5986 (Murphy), 7 December 2008
 Amended(27) by Proposal 6023 (Murphy), 22 December 2008
 Assigned to Committee on Administration by Proposal 6053 (Murphy,
   woggle, ais523), 23 January 2009
+Amended(28) by Proposal 6372 (G.), 23 June 2009
 
 ----------------------------------------------------------------------
 
