@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6354
-Last change to this ruleset: by proposal 6354
+Last proposal with recorded effect on this ruleset: 6355
+Last change to this ruleset: by proposal 6355
 
-Last updated: 20 May 2009
+Last updated: 26 June 2009
 
 Rule ID numbers:
       highest orderly: 2250
@@ -4621,7 +4621,7 @@ Amended(12) by Proposal 6327 (Murphy), 29 May 2009
 
 ----------------------------------------------------------------------
 
-Rule 1504/40 (Power=2)
+Rule 1504/41 (Power=2)
 Criminal Cases
 
       Criminal cases are a subclass of judicial cases.  Any
@@ -4658,9 +4658,8 @@ Criminal Cases
         be true beyond a reasonable doubt.
 
       When a judicial question on culpability is judged after a number
-      of rests have been created in the Accused's possession due to
-      the associated notice, the judge CAN and SHALL destroy any such
-      rests by announcement as soon as possible.
+      of rests have been created in the Accused's posession due to the
+      associated notice, those rests are destroyed.
 
       A criminal case has a judicial question on sentencing, which is
       applicable if the question on culpability is applicable and has
@@ -4783,6 +4782,7 @@ Amended(37) by Proposal 6119 (Goethe), 1 March 2009
 Amended(38) by Proposal 6146 (Murphy), 23 March 2009
 Amended(39) by Proposal 6206 (coppro), 27 April 2009
 Amended(40) by Proposal 6354 (ais523), 17 June 2009
+Amended(41) by Proposal 6355 (Yally), 23 June 2009
 
 ----------------------------------------------------------------------
 
