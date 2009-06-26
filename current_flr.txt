@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6369
-Last change to this ruleset: by proposal 6369
+Last proposal with recorded effect on this ruleset: 6370
+Last change to this ruleset: by proposal 6370
 
 Last updated: 26 June 2009
 
@@ -6185,28 +6185,22 @@ Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
 
 ----------------------------------------------------------------------
 
-Rule 2234/2 (Power=1)
+Rule 2234/3 (Power=1)
 Rewarding Contestmasters
 
       As soon as possible after the end of a month, for each contest,
       the player (if any) who was its contestmaster for at least 16
       days during that month MAY once announce that e performed duties
       related to that contest in a timely manner during that month,
-      subject to other rules regarding truthfulness.
-
-      As soon as possible after a player makes such an announcement,
-      the Scorekeepor CAN and SHALL by announcement award, for each of
-      the contest's axes, N <axis> points to that player, where N is
-      either the number of players who were contestants of that
-      contest at any time during that month, or the number of points
-      awarded by that contest on that axis during that month,
-      whichever is less.
+      subject to other rules regarding truthfulness.  Upon making such
+      an announcement that player is awarded 5+5i points.
 
 History:
 Created by Proposal 6020 (Murphy, root), 22 December 2008
 Amended(1) by Proposal 6140 (Goethe), 23 March 2009
 Amended(2) by Proposal 6194 (root), 17 April 2009
 Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
+Amended(3) by Proposal 6370 (BobTHJ), 23 June 2009
 
 ----------------------------------------------------------------------
 
