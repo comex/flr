@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6383
-Last change to this ruleset: by proposal 6383
+Last proposal with recorded effect on this ruleset: 6384
+Last change to this ruleset: by proposal 6384
 
 Last updated: 26 June 2009
 
@@ -1791,7 +1791,7 @@ Definitions
       widely used and do not readily fall into any other category.
 ----------------------------------------------------------------------
 
-Rule 754/9 (Power=3)
+Rule 754/10 (Power=3)
 Definition Definitions
 
       Regularity of communication being essential for the healthy
@@ -1818,11 +1818,12 @@ Definition Definitions
           default has the meaning it has in those contexts.
 
       (4) Any term not addressed by previous provisions of this Rule
-          by default has its ordinary-language meaning.  In
-          determining the ordinary-language meaning of a term,
-          definitions contained in lower-powered Rules, followed by
-          definitions used in contracts or other Agoran legal
-          documents, SHOULD be used for guidance.
+          by default has its ordinary-language meaning.
+
+      In determining the ordinary-language meaning of a term,
+      definitions contained in lower-powered Rules, followed by
+      definitions used in contracts or other Agoran legal documents,
+      SHOULD be used for guidance.
 
       This rule takes precedence over any other rules which dictate
       terminology or grammar.
@@ -1904,6 +1905,7 @@ Amended(6) by Proposal 4866 (Goethe), 27 August 2006
 Amended(7) by Proposal 5038 (Zefram), 28 June 2007
 Amended(8) by Proposal 5834 (Goethe), 12 November 2008
 Amended(9) by Proposal 6021 (Murphy), 22 December 2008
+Amended(10) by Proposal 6384 (Murphy), 3 July 2009
 
 ----------------------------------------------------------------------
 
