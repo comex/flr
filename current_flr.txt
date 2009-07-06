@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6376
-Last change to this ruleset: by proposal 6376
+Last proposal with recorded effect on this ruleset: 6377
+Last change to this ruleset: by proposal 6377
 
 Last updated: 26 June 2009
 
@@ -110,7 +110,7 @@ Index of Rules
       Rule 2160: Deputisation
       Rule 2154: Election Procedure
       Rule 2217: Periodic Elections
-      Rule 2138: The International Associate Director of Personnel
+      Rule 2138: The Intergalactic Associate Director of Personnel
       Rule 1551: Ratification
       Rule 2202: Ratification Without Objection
       Rule 2201: Self-Ratification
@@ -939,8 +939,7 @@ Amended(5) by Proposal 4887 (Murphy), 22 January 2007
 Amended(6) by Proposal 5110 (Murphy), 2 August 2007
 Amended(7) by Proposal 6285 (Goethe), 19 May 2009
 Amended(8) by Proposal 6292 (Goethe), 19 May 2009
-Title changed to "Precedence between Rules" by Proposal 6292 (Goethe),
-  19 May 2009
+Title changed by Proposal 6292 (Goethe), 19 May 2009
 Power changed from 3 to 3.2 by Proposal 6292 (Goethe), 19 May 2009
 
 ----------------------------------------------------------------------
@@ -2918,10 +2917,10 @@ Amended(3) by Proposal 6175 (Yally), 7 April 2009
 
 ----------------------------------------------------------------------
 
-Rule 2138/9 (Power=1)
-The International Associate Director of Personnel
+Rule 2138/10 (Power=1)
+The Intergalactic Associate Director of Personnel
 
-      The International Associate Director of Personnel is an office;
+      The Intergalactic Associate Director of Personnel is an office;
       its holder is responsible for keeping track of officers and
       reports.
 
@@ -2936,7 +2935,7 @@ The International Associate Director of Personnel
       The portion of a public message purporting to be an IADoP's
       report that lists the holder of each office is self-ratifying.
 
-[CFJ 1672 (called 18 May 2007): The International Associate Director
+[CFJ 1672 (called 18 May 2007): The Intergalactic Associate Director
 of Personnel is the Director of Personnel.]
 
 [Cross-references (1 March 2008): the IADoP's duties are:
@@ -2959,6 +2958,8 @@ Amended(6) by Proposal 6175 (Yally), 7 April 2009
 Amended(7) by Proposal 6175 (Yally), 7 April 2009
 Amended(8) by Proposal 6230 (Wooble), 4 May 2009
 Amended(9) by Proposal 6282 (Yally), 19 May 2009
+Amended(10) and title changed by Proposal 6377 (coppro; disi.),
+  3 July 2009
 
 ----------------------------------------------------------------------
 
