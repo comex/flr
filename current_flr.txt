@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6377
-Last change to this ruleset: by proposal 6377
+Last proposal with recorded effect on this ruleset: 6378
+Last change to this ruleset: by proposal 6378
 
 Last updated: 26 June 2009
 
@@ -3183,7 +3183,7 @@ Amended(11) by Proposal 6157 (Goethe, OscarMeyr, Wooble), 31 March
 
 ----------------------------------------------------------------------
 
-Rule 683/14 (Power=3)
+Rule 683/15 (Power=3)
 Voting on Agoran Decisions
 
       An eligible voter on a particular Agoran decision submits a
@@ -3201,7 +3201,8 @@ Voting on Agoran Decisions
           voter.
 
       (d) The voter has not publicly retracted the ballot during the
-          voting period.
+          voting period.  ("Changing" a vote is equivalent to
+          retracting it and casting a vote with the new value.)
 
       Among the otherwise-valid votes on an Agoran decision, only the
       first N submitted by each entity are valid, where N is the
@@ -3244,6 +3245,7 @@ Amended(13) by Proposal 4964 (Murphy), 3 June 2007
 Amended(14) by Proposal 5078 (Zefram), 18 July 2007
 Assigned to Committee on Rules by Proposal 6053 (Murphy, woggle,
   ais523), 23 January 2009
+Amended(15) by Proposal 6378 (Murphy), 3 July 2009
 
 ----------------------------------------------------------------------
 
