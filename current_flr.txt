@@ -1711,6 +1711,15 @@ Truthiness
 violation of rule 2215 (then 2149), depending on the context of the
 rest of the message.]
 
+[CFJ 1849 (called 21 December 2007): Violation of rule 2215 (then
+2149) can occur without any intent to misdirect.]
+
+[CFJ 1887 (called 30 January 2008): Publicly making the statement
+"This statement is a lie." would most likely be a violation of rule
+2215 (2149), because it is logically indeterminate and so making it
+would not be telling the truth, and its logical indeterminacy would be
+understood by any reasonable player.]
+
 History:
 Created by Proposal 5789 (Murphy, Zefram, Michael, Goethe), 22 October
   2008
