@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6380
-Last change to this ruleset: by proposal 6380
+Last proposal with recorded effect on this ruleset: 6382
+Last change to this ruleset: by proposal 6382
 
 Last updated: 26 June 2009
 
@@ -1272,7 +1272,7 @@ Players
       players.
 ----------------------------------------------------------------------
 
-Rule 869/29 (Power=2)
+Rule 869/30 (Power=2)
 How to Join and Leave Agora
 
       Citizenship is an entity switch with values Unregistered
@@ -1294,6 +1294,9 @@ How to Join and Leave Agora
       intends to become a player.
 
       A second-class person CAN register with Agoran Consent.
+
+      A non-person CANNOT be registered (or created in a Registered
+      state), rules to the contrary notwithstanding.
 
       A player CAN deregister by announcement. A person CANNOT
       register within thirty days after being deregistered by any
@@ -1345,6 +1348,7 @@ Amended(26) by Proposal 5728 (ihope), 7 October 2008
 Amended(27) by Proposal 5973 (woggle), 25 November 2008
 Amended(28) by Proposal 6099 (Pavitra), 22 February 2009
 Amended(29) by Proposal 6349 (Pavitra), 17 June 2009
+Amended(30) by Proposal 6382 (Murphy), 3 July 2009
 
 ----------------------------------------------------------------------
 
@@ -6063,7 +6067,7 @@ Amended(7) by Proposal 6380 (Wooble; disi.), 3 July 2009
 
 ----------------------------------------------------------------------
 
-Rule 2136/30 (Power=2)
+Rule 2136/31 (Power=2)
 Contests
 
       Contestmaster is a public contract switch, tracked by the
@@ -6074,8 +6078,9 @@ Contests
       A contract's contestmaster CAN be flipped by any player without
       3 objections, or, if it is a contest, as specified by the
       contract.  Rules to the contrary notwithstanding, it CANNOT be
-      flipped in any other way, and CANNOT be flipped to a given
-      player if any of the following are true:
+      flipped (or initialized to a non-'none' value) in any other way,
+      and CANNOT be flipped to a given player if any of the following
+      are true:
 
         a) The player has not explicitly consented to be contestmaster
            of that contest.  (Intent to flip a contract's contestmaster
@@ -6122,6 +6127,7 @@ Amended(29) by Proposal 6197 (Murphy), 27 April 2009
 Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
 Amended(30) by Proposal 6271 (Tiger), 13 May 2009
 Power changed from 1 to 2 by Proposal 6300 (Murphy), 19 May 2009
+Amended(31) by Proposal 6382 (Murphy), 3 July 2009
 
 ----------------------------------------------------------------------
 
