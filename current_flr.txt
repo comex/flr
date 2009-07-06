@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6378
-Last change to this ruleset: by proposal 6378
+Last proposal with recorded effect on this ruleset: 6380
+Last change to this ruleset: by proposal 6380
 
 Last updated: 26 June 2009
 
@@ -6019,12 +6019,12 @@ Assigned to Committee on Small Business and Entrepreneurship by
 
 ----------------------------------------------------------------------
 
-Rule 2179/6 (Power=1)
+Rule 2179/7 (Power=1)
 Points
 
       For each point axis:
 
-        a) <axis> Points is a fixed currency.
+        a) <axis> Points is a currency.
 
         b) A player's <axis> coordinate (syn. <axis> score) is the
            number of <axis> points e owns.
@@ -6059,6 +6059,7 @@ Assigned to Committee on Indian Affairs by Proposal 6053 (Murphy,
 Amended(5) by Proposal 6061 (ais523), 4 February 2009
 Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
 Amended(6) by Proposal 6233 (Yally; disi.), 4 May 2009
+Amended(7) by Proposal 6380 (Wooble; disi.), 3 July 2009
 
 ----------------------------------------------------------------------
 
