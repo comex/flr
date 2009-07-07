@@ -3,7 +3,7 @@ THE FULL LOGICAL RULESET
 Last proposal with recorded effect on this ruleset: 6384
 Last change to this ruleset: by proposal 6384
 
-Last updated: 26 June 2009
+Last updated: 7 July 2009
 
 Rule ID numbers:
       highest orderly: 2251
