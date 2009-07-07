@@ -628,7 +628,7 @@ Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
 
 ----------------------------------------------------------------------
 
-Rule 2199/6 (Power=1)
+Rule 2199/7 (Power=1)
 Ribbons
 
       Ribbons are a class of fixed assets.  If winning is secured,
@@ -642,9 +642,12 @@ Ribbons
       The Tailor is an office, and the recordkeepor of Ribbons.
 
       When a player earns a Ribbon as outlined below, any person CAN
-      create that ribbon in the player's possession by announcement,
-      unless the player already possesses the color of Ribbon e
-      earned:
+      once, in a timely manner (except for White Ribbons, which can be
+      awarded at any time within a month after they are earned),
+      create that Ribbon in the player's possession by announcement,
+      unless the player already possesses the color of Ribbon e earned
+      (earning a Ribbon more than once entitles the bearer to multiple
+      Ribbon awards, though capitalizing on this may be difficult):
 
       (+R) When an interested proposal is adopted and changes at least
            one rule with Power >= 3, its proposer earns a Red Ribbon.
@@ -717,7 +720,8 @@ Assigned to Committee on Finance by Proposal 6053 (Murphy, woggle,
 Amended(4) by Proposal 6175 (Yally), 7 April 2009
 Amended(5) by Proposal 6196 (Wooble), 27 April 2009
 Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
-Amended(6) by Proposal 6347 (coppro; disi.), 17 June 2009
+Amended(6) by Proposal 6346 (coppro), 17 June 2009
+Amended(7) by Proposal 6347 (coppro; disi.), 17 June 2009
 
 ----------------------------------------------------------------------
 
