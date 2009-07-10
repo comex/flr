@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6386
-Last change to this ruleset: by proposal 6386
+Last proposal with recorded effect on this ruleset: 6387
+Last change to this ruleset: by proposal 6387
 
-Last updated: 7 July 2009
+Last updated: 10 July 2009
 
 Rule ID numbers:
       highest orderly: 2252
@@ -5370,7 +5370,7 @@ Amended(1) by Proposal 6160 (Murphy), 31 March 2009
 
 ----------------------------------------------------------------------
 
-Rule 2226/0 (Power=1.5)
+Rule 2226/1 (Power=1.5)
 Judicial Rank
 
       Judicial rank is a player switch, tracked by the Clerk of the
@@ -5383,15 +5383,17 @@ Judicial Rank
       announcement.
 
       When a judgement is overruled on appeal, if the prior judge's
-      rank is higher than 1, then it is decreased by 1, and e CANNOT
+      rank is higher than 0, then it is decreased by 1, and e CANNOT
       increase it for 30 days afterward (the rest of this rule
-      notwithstanding).
+      notwithstanding), unless eir new rank is 0, in which case e CAN
+      increase it to 1 at any time by spending 3 Notes.
 
       "District", "Circuit", and "Supreme" are synonymous with
       judicial ranks 1, 2, and 3, respectively.
 
 History:
 Created by Proposal 5970 (Murphy), 20 November 2008
+Amended(1) by Proposal 6387 (Wooble), 10 July 2009
 
 ----------------------------------------------------------------------
 
