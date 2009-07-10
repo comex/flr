@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6388
-Last change to this ruleset: by proposal 6388
+Last proposal with recorded effect on this ruleset: 6389
+Last change to this ruleset: by proposal 6389
 
 Last updated: 10 July 2009
 
@@ -1208,7 +1208,7 @@ Amended(1) by Proposal 6250 (Yally), 9 May 2009
 
 ----------------------------------------------------------------------
 
-Rule 2247/1 (Power=1)
+Rule 2247/2 (Power=1)
 The Janitor
 
       The Janitor is an office; its holder is responsible for cleaning
@@ -1216,7 +1216,7 @@ The Janitor
 
       The Janitor's weekly duties include submitting one or more
       disinterested proposals that suggests one or more rule changes
-      that helps to do at least one of the following to the rule set:
+      that helps to do at least one of the following to the ruleset:
 
             a) Fix grammatical or spelling errors.
 
@@ -1233,6 +1233,7 @@ The Janitor
 History:
 Created by Proposal 6235 (Yally), 4 May 2009
 Amended(1) by cleaning (Rodlen), 11 May 2009
+Amended(2) by Proposal 6389 (Yally; disi.), 10 July 2009
 
 ----------------------------------------------------------------------
 
