@@ -1,28 +1,28 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6393
-Last change to this ruleset: by proposal 6393
+Last proposal with recorded effect on this ruleset: 6394
+Last change to this ruleset: by proposal 6394
 
 Last updated: 10 July 2009
 
 Rule ID numbers:
-      highest orderly: 2252
+      highest orderly: 2262
       chaotic: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 134
+Current total number of rules: 143
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
       31 with Power=3
-      43 with Power=2
+      45 with Power=2
        5 with Power=1.7
        6 with Power=1.5
-      47 with Power=1
+      54 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -36,6 +36,7 @@ Index of Categories
       * Agoran Decisions
       * Proposals
       * Adjudication
+	  * Cards
       * Patent Titles and Degrees
       * Contract Law
       * Foreign Relations
@@ -57,7 +58,6 @@ Index of Rules
       Rule 2245: Win by Not Losing
       Rule 2110: Win by Paradox
       Rule 2199: Ribbons
-      Rule 2019: Prerogatives
       Rule  104: First Speaker
 
       * Rules
@@ -166,6 +166,18 @@ Index of Rules
       Rule 2204: Linked Assignments
       Rule 2164: Judicial Self-Recusal and Case Transfer
       Rule 2212: Judicial Declarations
+
+      * Cards
+	  Rule 2253: Cards
+	  Rule 2254: Position Cards
+	  Rule 2255: Major Arcana
+	  Rule 2256: Exploit Cards
+	  Rule 2257: Dealing Cards
+	  Rule 2258: Decks, Draws, and Salaries
+	  Rule 2259: Basic Hand Limits
+	  Rule 2260: The Deck of Government
+	  Rule 2261: The Deck of Change
+	  Rule 2262: The Deck of Justice
 
       * Patent Titles and Degrees
       Rule  649: Patent Titles
@@ -722,76 +734,6 @@ Amended(5) by Proposal 6196 (Wooble), 27 April 2009
 Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
 Amended(6) by Proposal 6346 (coppro), 17 June 2009
 Amended(7) by Proposal 6347 (coppro; disi.), 17 June 2009
-
-----------------------------------------------------------------------
-
-Rule 2019/24 (Power=2)
-Prerogatives
-
-      In a timely fashion before the beginning of each month, the
-      Speaker SHALL assign each prerogative to a different active
-      player; first assigning prerogatives to active players bearing
-      the Patent Title Minister without Portfolio (MwoPs); then (if
-      there are more prerogatives than active MwoPs), assigning
-      prerogatives to other active players.
-
-      The following Prerogatives are defined:
-
-      a) Default Officeholder.  The Default Officeholder CAN become
-         holder of a vacant elected office by announcement, unless e
-         is prevented from holding that office on an ongoing basis.
-
-      b) Justiciar.  The Justiciar may be granted particular
-         abilities or privileges associated with the judicial process
-         as described elsewhere in the Rules.
-
-      c) Wielder of Veto.  The Wielder of Veto CAN veto an ordinary
-         decision in its voting period by announcement; this increases
-         its Adoption Index by 1.
-
-      d) Wielder of Rubberstamp.  The Wielder of Rubberstamp CAN
-         rubberstamp a non-democratic decision in its voting period by
-         announcement; this decreases its quorum to 3, rules to the
-         contrary notwithstanding.
-
-      e) Wielder of Extra Votes.  The Wielder of Extra Votes at the
-         start of an ordinary proposal's voting period has a voting
-         limit on that proposal of 1.5 times what it would be
-         otherwise (rounded to the nearest integer, breaking ties
-         toward even integers), rules to the contrary notwithstanding.
-
-[CFJ 1870 (called 15 January 2008): A prerogative assigned for a
-particular month is lost at the end of that month.]
-
-History:
-Created by Proposal 4276 (Steve), 28 March 2002
-Amended(1) by Proposal 4576 (root), 31 May 2004
-Amended(2) by Proposal 4717 (Murphy), 25 April 2005
-Amended(3) by Proposal 4811 (Maud, Goethe), 20 June 2005
-Amended(4) by Proposal 4836 (Goethe, Maud), 2 October 2005
-Amended(5) by Proposal 4840 (Goethe), 27 October 2005
-Amended(6) by Proposal 4885 (Murphy), 22 January 2007
-Amended(7) by Proposal 4887 (Murphy), 22 January 2007
-Amended(8) by Proposal 5049 (Zefram), 1 July 2007
-Retitled by Proposal 5049 (Zefram), 1 July 2007
-Amended(9) by Proposal 5138 (Zefram; disi.), 17 August 2007
-Retitled by Proposal 5138 (Zefram; disi.), 17 August 2007
-Retitled by Proposal 5257 (AFO), 27 October 2007
-Amended(10) by Proposal 5257 (AFO), 27 October 2007
-Amended(11) by Proposal 5407 (root), 22 January 2008
-Amended(12) by Proposal 5408 (root), 22 January 2008
-Amended(13) by Proposal 5418 (root), 2 February 2008
-Amended(14) by Proposal 5432 (Goethe), 9 February 2008
-Amended(15) by Proposal 5461 (Wooble), 13 March 2008
-Amended(16) by Proposal 5606 (Murphy), 29 July 2008
-Amended(17) by Proposal 5644 (Murphy), 29 July 2008
-Amended(18) by Proposal 5693 (Goethe), 20 September 2008
-Amended(19) by Proposal 5781 (Murphy), 22 October 2008
-Amended(20) by Proposal 5783 (Murphy), 22 October 2008
-Amended(21) by Proposal 6127 (Goethe), 15 March 2009
-Amended(22) by Proposal 6225 (comex), 27 April 2009
-Amended(23) by Proposal 6239 (Murphy), 9 May 2009
-Amended(24) by Proposal 6334 (Goethe, ais523), 29 May 2009
 
 ----------------------------------------------------------------------
 
@@ -1759,7 +1701,7 @@ Amended(1) by Proposal 6248 (Wooble), 9 May 2009
 
 ----------------------------------------------------------------------
 
-Rule 2228/3 (Power=2)
+Rule 2228/4 (Power=2)
 Rests
 
       Rests are a fixed currency.  The creation and destruction of
@@ -1776,9 +1718,6 @@ Rests
       each member of that person's basis, N Rests are created in that
       member's possession.
 
-      A player CAN spend two Notes in order to destroy a Rest owned by
-      a player e specifies.
-
       A first-class player CAN create Rests in eir own possession by
       announcement.
 
@@ -1793,17 +1732,14 @@ Assigned to Committee on Crime by Proposal 6053 (Murphy, woggle,
 Amended(1) by Proposal 6060 (Wooble, comex, Goethe), 4 February 2009
 Amended(2) by Proposal 6066 (comex, Goethe; disi.), 4 February 2009
 Amended(3) by Proposal 6171 (Murphy), 7 April 2009
+Amended(4) by Proposal 6394 (Goethe), 10 July 2009
 
 ----------------------------------------------------------------------
 
-Rule 2229/2 (Power=2)
+Rule 2229/3 (Power=2)
 Just Resting
 
       Owning one or more Rests is a Losing Condition.
-
-      While a person owns at least 8 Rests, that person CANNOT spend
-      Notes except to destroy Rests e owns.  This takes precedence
-      over any other rule.
 
       While a player owns at least 24 Rests, that player CAN be
       deregistered by any player by announcement.  A person who owns
@@ -1822,6 +1758,7 @@ Assigned to Committee on Crime by Proposal 6053 (Murphy, woggle,
   ais523), 23 January 2009
 Amended(1) by Proposal 6175 (Yally), 7 April 2009
 Amended(2) by Proposal 6308 (coppro), 26 May 2009
+Amended(3) by Proposal 6394 (Goethe), 10 July 2009
 
 ----------------------------------------------------------------------
 
@@ -3351,18 +3288,19 @@ Amended(5) by Proposal 6383 (Murphy), 3 July 2009
 
 ----------------------------------------------------------------------
 
-Rule 2222/0 (Power=2)
+Rule 2222/1 (Power=2)
 Maximum Voting Limits
 
       Other rules to the contrary notwithstanding, no entity may have
       greater a voting limit than as allowed by this rule.
 
       The maximum voting limit for any entity on an ordinary decision
-      is 8. The maximum voting limit for any entity on any other
+      is 12. The maximum voting limit for any entity on any other
       decision is 1.
 
 History:
 Created by Proposal 5978 (Elysion), 25 November 2008
+Amended(1) by Proposal 6394 (Goethe), 10 July 2009
 
 ----------------------------------------------------------------------
 
@@ -3718,7 +3656,7 @@ Created by Proposal 5970 (Murphy), 20 November 2008
 
 ----------------------------------------------------------------------
 
-Rule 1607/21 (Power=2)
+Rule 1607/22 (Power=2)
 The Promotor
 
       The Promotor is an office; its holder is responsible for
@@ -3734,11 +3672,8 @@ The Promotor
       week, distribute a any proposal that is in the Pool but was
       Undistributable at the beginning of that Agoran week.
 
-      A player CAN flip a specified proposal to Distributable by
-      spending 1 Note, or without Objection.
-
-      A player CAN flip a specified proposal to Undistributable by
-      spending 3 Notes.
+      A player CAN flip a specified proposal to Distributable without
+      Objection.
 
       For an Agoran decision of whether to adopt a proposal, the
       following are essential parameters:
@@ -3813,6 +3748,7 @@ Assigned to Committee on Rules by Proposal 6053 (Murphy, woggle,
   ais523), 23 January 2009
 Amended(20) by Proposal 6313 (Goethe), 26 May 2009
 Amended(21) by Proposal 6341 (G.), 11 June 2009
+Amended(22) by Proposal 6394 (Goethe), 10 July 2009
 
 ----------------------------------------------------------------------
 
@@ -4082,109 +4018,26 @@ Amended(3) by Proposal 6077 (Murphy), 22 February 2009
 
 ----------------------------------------------------------------------
 
-Rule 2126/61 (Power=2)
+Rule 2126/62 (Power=2)
 Notes
 
-      Notes are a class of fixed assets.  Ownership of Notes is
-      restricted to players.  If changes to caste are secured, then
-      changes to Notes are secured with the same power threshold.
+      The Conductor is an office.  As soon as possible after this text
+      becomes a part of this rule, the Conductor SHALL publish a
+      self-ratifying report containing the total number of Notes each
+      player held the moment before this text became a part of this
+      rule.  After this report has self-ratified, and at least one
+      proposal has been made distributable using a card, any player
+      CAN cause this rule to repeal itself by announcement.
 
-      Each Note has exactly one pitch from the chromatic scale
-      (ignoring octaves, and treating enharmonics as equivalent).
-      Each pitch of Note is a currency.
+      When this text becomes a part of this rule, each first-class
+      player earns two draws from each defined basic deck, plus one
+      draw from each deck for every multiple of 10 notes that the
+      player held the moment before this text became a part of this
+      rule.
 
-      The Conductor is an office, and the recordkeepor of Notes.
-
-      Key is a player switch, tracked by the Conductor, with values
-      equal to the pitches that Notes can have, defaulting to C.  A
-      player CAN change eir Key to any value by announcement, unless e
-      has already done so during the current month.
-
-      Notes are gained as follows, except that the pitch actually
-      gained is as many semitones higher than the pitch listed below
-      as the player's Key is higher than C at the time of the gain:
-
-      (1) At the end of each week, for each player, let X be the
-          number of eir interested proposals that were adopted during
-          that week, and let Y be the number of eir interested quorate
-          proposals that were rejected during that week with VI >=
-          AI/2:
-
-          (F)  If X > Y > 0, then e gains an F Note.
-          (F#) If X > Y = 0, then e gains an F# Note.
-          (G)  If X = Y > 0, then e gains a G Note.
-          (Ab) If Y > X = 0, then e gains an Ab Note.
-          (A)  If Y > X > 0, then e gains an A Note.
-
-      (2) (E)  At the end of each week, each player who completed the
-               non-empty set of weekly duties of at least one office
-               during that week gains a number of E Notes equal to the
-               highest interest index among all such offices.
-
-          (Eb) At the end of each month, each player who completed the
-               non-empty set of monthly duties of at least one office
-               during that month gains a number of Eb Notes equal to
-               the highest interest index among all such offices.
-
-      (3) (D)  At the end of each week, each player who assigned an
-               on-time judgement to at least one case during that week
-               gains a number of D Notes equal to the highest interest
-               index among all such cases.
-
-      (4) (C)  At the end of each week, each player who gained at
-               least one Point during that week gains a C Note.
-
-          (C#) At the end of each week, each contestmaster who awarded
-               at least one Point during that week gains a C# Note.
-
-      (5) (B)  At the end of each week, each player who authored at
-               least one proposal with an Interest Index of 2 that
-               passed during that week gains a B note.
-
-          (Bb) At the end of each week, each player who authored at
-               least one proposal with an Interest Index of 3 that
-               passed during that week gains a Bb note.
-
-      Notes CAN be spent (destroyed) as follows:
-
-      (1) A player CAN, except in the last 24 hours of a month, spend
-          three Notes forming a major chord to increase another
-          non-Alpha player's caste by 1 level.
-
-      (2) A non-Alpha player CAN spend five Notes forming the start of
-          a major scale to increase eir own caste by 1 level.
-
-      (3) A player CAN, except in the last 24 hours of a month, spend
-          three Notes forming a minor chord to decrease another
-          non-Savage player's caste by 1 level.
-
-      (4) A non-Savage player CAN spend five Notes forming the start
-          of a minor scale to decrease eir own caste by 1 level.
-
-      (5) A player CAN spend two Notes of the same pitch to make
-          another player gain one Note of that pitch.
-
-      (6) During Agora's Birthday, a player CAN spend Notes forming
-          the melody "Happy Birthday" (GGAGCB GGAGDC GGGECBA FFECDC or
-          a translation thereof) to satisfy the Winning Condition of
-          Musicianship,
-
-      (7) A player CAN spend one Note to increase another player's
-          voting limit on an ordinary proposal whose voting period is
-          in progress by 1.
-
-      (8) A player CAN spend two Notes to increase eir voting limit on
-          an ordinary proposal whose voting period is in progress by
-          1.
-
-      (9) A player CAN spend three Notes to gain a Note whose pitch is
-          as many semitones distant from one of the Notes spent as the
-          distance between the other two Notes spent.
-
-      The maximum FINE amount for each pitch of note is 2.
-
-[CFJs 1826-1827 (called 6 December 2007): A decrease of VVLOD [VVLOP
-at the time of these CFJs] cannot be by a negative number.]
+      Any first-class player CAN make a proposal distributable by
+      announcement, if e has not already done so in the current Agoran
+      week.
 
 [Cross-references (6 February 2008): the Conductor's duties are:
   * recordkeepor of notes (rule 2126)]
@@ -4260,6 +4113,7 @@ Assigned to Committee on Finance by Proposal 6053 (Murphy, woggle,
 Amended(59) by Proposal 6126 (Goethe), 15 March 2009
 Amended(60) by Proposal 6270 (ais523), 11 May 2009
 Amended(61) by Proposal 6280 (Tiger), 19 May 2009
+Amended(62) by Proposal 6394 (Goethe), 10 July 2009
 
 ----------------------------------------------------------------------
 
@@ -5467,6 +5321,348 @@ Created by Proposal 5715 (Murphy), 7 October 2008
 ----------------------------------------------------------------------
 
 ======================================================================
+Cards
+      A category concerning the economic subgame defined by the Rules.
+----------------------------------------------------------------------
+
+Rule 2253/0 (Power=2)
+Cards
+
+      Cards are any class of assets defined by the Rules to be cards.
+      For the rules to define a class of assets to be a card, the
+      Rules must define its Title, its Deck, and either its Exploit or
+      its Position, but not both.  Card instances of the same class
+      are fungible.  Ownership of cards is restricted to players and
+      contests.
+
+      A Deck is a collection of card types associated in the Rules
+      with a particular recordkeepor, who is known as the dealer for
+      that deck and for the cards in that deck.  Any office whose
+      duties include being a dealer is a high-priority office (rules
+      to the contrary notwithstanding), and holdings of cards from
+      that deck are part of that officer's weekly report; a dealer's
+      report of card holdings is self-ratifying.
+
+      The dealer for a deck CAN, by announcement:
+       * create a card that is part of that deck in the possession of
+         any entity;
+       * destroy any card that is part of that deck;
+       * transfer a card that is part of that deck between any two
+         entities;
+
+      however the e SHALL only perform these actions as explicitly
+      permitted by the Rules.  E MAY transfer, play, or destroy cards
+      in eir own possession as any other player generally MAY.
+
+History:
+Created by Proposal 6394 (Goethe), 10 July 2009
+
+----------------------------------------------------------------------
+
+Rule 2254/0 (Power=1)
+Position Cards
+
+      If a card class has a position, it CANNOT be destroyed except
+      as described in this Rule, nor CAN more than a single instance
+      come into existence, rules to the contrary notwithstanding.
+
+      If a CFJ determines that the possessor of the instance can't be
+      determined by reasonable effort, then that card's dealer SHALL,
+      as soon as possible, destroy any instance of that card that
+      might exist and create that card in the possession of an active
+      player who holds the Patent Title Champion, chosen at random.
+
+      If a card has a Position, and the holder of the card is a
+      Player, the holder of that card is considered to be the holder
+      of that position, and have the powers and duties described by
+      the Rules for that position.
+
+History:
+Created by Proposal 6394 (Goethe), 10 July 2009
+
+----------------------------------------------------------------------
+
+Rule 2255/0 (Power=2)
+Major Arcana
+
+      The Major Arcana is a deck of Position cards whose dealer is the
+      Herald.  The following Major Arcana cards are defined:
+
+      Title: Minister without Portfolio.
+      Position: The Minister without Portfolio CAN become holder of a
+      specified vacant elected office by announcement, unless e is
+      prevented from holding that office on an ongoing basis.
+
+      Title:  Majority Leader.
+      Position: The Majority Leader CAN veto a specified ordinary
+      decision in its voting period by announcement; this increases
+      its Adoption Index by 1 and makes it Democratic.
+
+      Title: Cabinet Secretary.
+      Position: the Cabinet Secretary CAN rubberstamp an ordinary,
+      non-filibustered decision in its voting period by indicating the
+      decision; this decreases its quorum to 3, rules to the contrary
+      notwithstanding.
+
+      Title: Chief Whip.
+      Position:  The Chief Whips's voting limit on an Ordinary
+      proposal is 1.5 times what it would otherwise be.
+
+      Title: Justiciar.
+      Position: The Justiciar may be granted particular abilities or
+      privileges associated with the judicial process as described
+      elsewhere in the Rules.
+
+      Title: Admiral of the Navy.
+      Position:  The Admiral of the Navy CAN begin a coup by
+      announcing the ceremonial shelling of the palace.  The effects
+      of the coup (if any) are as described elsewhere in the rules.
+
+History:
+Created by Proposal 6394 (Goethe), 10 July 2009
+
+----------------------------------------------------------------------
+
+Rule 2256/0 (Power=1)
+Exploit Cards
+
+      If a card has an Exploit, a player CAN play a card in eir
+      possession, by announcing that e plays the card, while also
+      announcing any further information required by the exploit.  The
+      card is destroyed, and if possible, the effects of the exploit
+      take place.  In an exploit, the term "you" refers to the entity
+      who plays the card.
+
+      If the information is incorrect, or the exploit is IMPOSSIBLE or
+      otherwise fails, or the card has no exploit, an attempt made by
+      the player to play a card in eir possession has no effect and
+      the card remains in the player's possession.
+
+      A card is not an instrument; the instrument that causes the
+      change described by a card's exploit is the Rule that describes
+      that exploit, regardless of whether the exploit describes the
+      agent performing the change as "you", the card, or another
+      entity.
+
+History:
+Created by Proposal 6394 (Goethe), 10 July 2009
+
+----------------------------------------------------------------------
+
+Rule 2257/0 (Power=2)
+Dealing Cards
+
+      Each defined Exploit card type in a deck shall have a Frequency,
+      which is a non-negative integer defaulting to 0.  The frequency
+      of each card type is part of the weekly report of the deck's
+      dealer.
+
+      The frequency of each card type is Secured, and CAN be changed:
+          * by the Deck's dealer without 2 objections;
+          * if the deck's dealer is part of an Officer's duty, then,
+            during an election for that office but before the last
+            four days of the election's voting period, a candidate for
+            that office CAN make and publish a pledge explicitly,
+            clearly, and obviously describing changes e intends to
+            make to the frequencies of cards in eir deck.  If e wins
+            the election, e CAN and SHALL make the described changes
+            by announcement asap after the election ends.
+
+      Whenever the rules indicate that a dealer SHALL deal a card to
+      an entity, or that the entity "earns a draw" from a particular
+      deck, that deck's dealer SHALL, as soon as possible, create a
+      card in the possession of that entity, with the card chosen at
+      random from among cards in that deck, with the probability of a
+      particular card being chosen being the frequency of that card
+      divided by the sum of the frequencies of all the cards in that
+      deck (if this sum is zero, the requirement to deal asap is
+      waived, and the dealer SHALL NOT deal a card from that deck
+      until the sum is greater than zero).
+
+History:
+Created by Proposal 6394 (Goethe), 10 July 2009
+
+----------------------------------------------------------------------
+
+Rule 2258/0 (Power=1)
+Decks, Draws, and Salaries
+
+      Any deck of cards defined by this rule is known as a Basic Deck.
+      Salary is a first-class player switch tracked by the Accountor,
+      with possible values N,M,O,P where each letter is replaced with
+      a defined basic deck.  The default value for this switch is
+      Change,Change,Justice,Government.  Ordering of N,M,O,P is not a
+      significant differentiating aspect of the switch value, only the
+      number of times each deck type is listed within the switch.
+
+      A player CAN change the value of eir own Salary switch by
+      announcement.
+
+      At the beginning of each month, each first-class player earns a
+      number of draws from each Basic Deck equal to the number of
+      times that deck appeared in eir salary switch at the beginning
+      of the month.  As soon as possible after the beginning of each
+      month, the Accounter SHALL publish the state of each player's
+      Salary switch as it was at the beginning of the month.
+
+      Office Salary is a switch for each office tracked by the
+      Accountor, with possible values being the names of each basic
+      deck (default Government).  The holder of each OFFICE CAN change
+      that office's salary by announcement.  At the beginning of each
+      week, each holder of a high-priority office who completed a non-
+      empty set of duties in the prior week earns a number of draws
+      from the deck indicated by the switch equal to the interest
+      index for the office.  At the beginning of each month, each
+      holder of a low-priority office who held the office for 16 or
+      more days in the prior month earns a number of draws from the
+      deck indicated by the switch equal to the interest index of the
+      office.
+
+      When a first-class player registers, e earns two draws from each
+      basic deck.
+
+      The Deck of Government is a deck of cards tracked by the Grand
+      Poobah.
+
+      The Deck of Justice is a deck of cards tracked by the Insulator.
+
+      The Deck of Change is a deck of cards tracked by the Anarchist.
+
+History:
+Created by Proposal 6394 (Goethe), 10 July 2009
+
+----------------------------------------------------------------------
+
+Rule 2259/0 (Power=1)
+Basic Hand Limits
+
+      Each first-class player has a Basic Deck Limit (BDL) of 3.
+      Every other entity has a BDL of 0.
+
+      Each entity's Actual Deck Limit (ADL) for a particular basic
+      deck is equal to eir BDL times the number of times that deck
+      appears as part of eir Salary switch.
+
+      As soon as possible after the beginning of each month, the
+      dealer of each basic deck SHALL, by announcement, destroy a
+      number of cards at random in each entity's hand equal to the
+      difference between the number of cards of that deck the entity
+      has and that entity's ADL for that deck.  The dealer SHALL NOT
+      deal any cards to any entity between the beginning of the month
+      and performing this duty for all entities.
+
+History:
+Created by Proposal 6394 (Goethe), 10 July 2009
+
+----------------------------------------------------------------------
+
+Rule 2260/0 (Power=1)
+The Deck of Government
+
+      When a player wins an election, e earns two draws from the
+      Government Deck.
+
+      The Deck of Government consists of the following cards, listed
+      by title followed by Exploit.
+
+      * Roll Call      - Increase an indicated player's voting limit
+                         on one indicated Ordinary Proposal except in
+                         last 24 hours of voting period.
+
+      * Debate-o-Matic - Make a Proposal you name Democratic.
+
+      * Arm-twist      - Decrease an indicated player's Vote Power on
+                         one indicated Ordinary Proposal.
+
+      * On the Nod     - Rubberstamp an indicated Ordinary, non-
+                         filibustered Proposal.
+
+      * Kill Bill      - Veto an indicated Ordinary Proposal.
+
+      * Lobbyist       - Increase the caste of a player you name in
+                         your party, other than yourself, by one.
+
+      * Local Election - Decrease the caste of a player you name by
+                         one.
+
+      * No Confidence  - Initiate an election for an office; if an
+                         election for the office is in progress it is
+                         canceled and re-started.
+
+History:
+Created by Proposal 6394 (Goethe), 10 July 2009
+
+----------------------------------------------------------------------
+
+Rule 2261/0 (Power=1)
+The Deck of Change
+
+      When a proposal authored by a player is adopted and takes
+      effect, that player earns a number of draws from the Change Deck
+      equal to the Interest Index of the proposal.
+
+      The Deck of Change consists of the following cards, listed by
+      title followed by Exploit.
+
+      * Distrib-u-Matic - A proposal that you indicate becomes
+                          Distributable.
+
+      * Committee       - Make a Proposal you name Undistributable.
+
+      * Your Turn       - Indicate a player.  That player must play or
+                          destroy a card in the next 72 hours; if e
+                          does not, you MAY act on eir behalf to
+                          discard one.
+
+      * Presto!         - Indicate an entity and a card held by that
+                          entity.  That card is transferred to your
+                          hand.
+
+      * Not Your Turn  -  cancel a card play that occured in the last
+                          24 hours; HOWEVER; if this would lead at any
+                          time in the 24 hours after playing to a
+                          paradox which would prevent its play, its
+                          play is unsuccessful.
+
+History:
+Created by Proposal 6394 (Goethe), 10 July 2009
+
+----------------------------------------------------------------------
+
+Rule 2262/0 (Power=1)
+The Deck of Justice
+
+      When a judge judges a case within its time limit, e earns a draw
+      from the Deck of Justice.  If a judge's judgement is OVERTURNED
+      on appeal, one justice on the appeals panel CAN destroy one
+      Justice card e indicates in the judge's possession by
+      announcement.
+
+      The Deck of Justice consists of the following cards, listed by
+      title followed by Exploit.
+
+       * Absolv-o-Matic  - A Rest possessed by a Player you name is
+                           destroyed.
+
+       * Stool Pigeon    - A rest is created in the possession of a
+                           first-class player that you name, provided
+                           no one has named the same player in playing
+                           this card in the last 72 hours.
+
+       * Drop your Weapon - Indicate an entity and a card held by that
+                            entity.  If that entity possesses that
+                            card, it is destroyed.
+
+       * Discard Picking  - Indicate a card that was played or
+                            destroyed in the past 72 hours.  It is
+                            transferred to your hand.
+
+History:
+Created by Proposal 6394 (Goethe), 10 July 2009
+
+----------------------------------------------------------------------
+
+======================================================================
 Patent Titles and Degrees
       A category concerning titles of honor and dishonor.
 ----------------------------------------------------------------------
@@ -5565,7 +5761,7 @@ Amended(30) by cleaning (Wooble), 13 April 2009
 
 ----------------------------------------------------------------------
 
-Rule 1922/34 (Power=1)
+Rule 1922/35 (Power=1)
 Defined Regular Patent Titles
 
       The following are Patent Titles:
@@ -5607,24 +5803,16 @@ Defined Regular Patent Titles
            that the player in question won the game through that
            method.
 
-      (e)  Minister Without Portfolio, to be awarded by the Herald to
-           any player who wins the game and does not already bear the
-           title.  If the number of persons bearing this title is
-           greater than the number of Prerogatives defined by the
-           rules, then this title is administratively revoked from the
-           non-player (if any) who has held it the longest, or
-           otherwise from the player who has held it the longest.
-
-      (f)  Left in a Huff, to be awarded by the Registrar to any
+      (e)  Left in a Huff, to be awarded by the Registrar to any
            player who deregistered in a Writ of FAGE.
 
-      (g)  Elder Lurker, to be awarded to Persons who are true legends
+      (f)  Elder Lurker, to be awarded to Persons who are true legends
            that were involved in Agora in its early days and now
            continue to grace us with their presence by lurking on the
            lists to occasionally add tid-bits of wisdom or insight to
            discussions.
 
-      (h)  Cassandra, to be awarded to any player who noticed a scam,
+      (g)  Cassandra, to be awarded to any player who noticed a scam,
            thought up a way to stop it, warned everyone clearly, and
            yet the scam happened anyway due to apathy on the part of
            other players.
@@ -5675,6 +5863,7 @@ Amended(31) by Proposal 6084 (Goethe), 16 February 2009
 Amended(32) by Proposal 6175 (Yally), 7 April 2009
 Amended(33) by Proposal 6247 (Murphy), 9 May 2009
 Amended(34) by Proposal 6298 (coppro), 19 May 2009
+Amended(35) by Proposal 6394 (Goethe), 10 July 2009
 
 ----------------------------------------------------------------------
 
@@ -6384,21 +6573,28 @@ Amended(2) by Proposal 5122 (Zefram), 13 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 402/28 (Power=1)
+Rule 402/29 (Power=1)
 Identity of the Speaker
 
-      The office of Speaker is held by the active player who has borne
-      the Patent Title of Minister Without Portfolio the longest, with
-      ties broken in favor of the player who has been registered the
-      longest.  As soon as possible after the Speaker changes, the
-      Herald SHALL announce this fact along with the identity of the
-      new Speaker and the date of the change.
+      The List of Succession is a list of the five active players who
+      were most recently awarded the patent title Champion.  This
+      list, and the date on which each player on the list last became
+      part of the list, is part of the Herald's monthly report.
 
-      The Herald's monthly report includes the date on which each
-      Minister Without Portfolio most recently was awarded the title.
+      The Speaker is the active player on the List of Succession who
+      became part of the list the longest time ago.  The Herald SHALL
+      announce the ascension of a new Speaker asap after it occurs.
 
-[Cross-references (27 October 2007): the Speaker's duties are:
-  * assign prerogatives to Ministers Without Portfolio (rule 2019)
+      Once per quarter, and once after gaining the office, the Speaker
+      CAN Form a Government by publishing a list of every defined
+      Major Arcana card, and listing (for each card) a different
+      active player who holds the Patent Title Champion.  Such a
+      formation of government, when triggered, has the self-ratifying
+      effect of transferring the indicated cards to the indicated
+      players.
+
+[Cross-references (10 July 2009): the Speaker's duties are:
+  * form a government (rule 402)
   * figurehead (rule 103)
 The other provisions governing the Speakership are:
   * identity of the Speaker (rule 402)
@@ -6438,6 +6634,7 @@ Amended(25) by Proposal 5593 (Goethe), 29 July 2008
 Amended(26) by Proposal 6026 (Murphy), 22 December 2008
 Amended(27) by Proposal 6175 (Yally), 7 April 2009
 Amended(28) by Proposal 6267 (Yally), 11 May 2009
+Amended(29) by Proposal 6394 (Goethe), 10 July 2009
 
 ----------------------------------------------------------------------
 
