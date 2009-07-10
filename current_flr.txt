@@ -1,19 +1,19 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6384
-Last change to this ruleset: by proposal 6384
+Last proposal with recorded effect on this ruleset: 6386
+Last change to this ruleset: by proposal 6386
 
 Last updated: 7 July 2009
 
 Rule ID numbers:
-      highest orderly: 2251
+      highest orderly: 2252
       chaotic: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 134
+Current total number of rules: 135
 
 Power distribution:
        1 with Power=4
@@ -22,7 +22,7 @@ Power distribution:
       43 with Power=2
        5 with Power=1.7
        6 with Power=1.5
-      47 with Power=1
+      48 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -76,6 +76,7 @@ Index of Rules
 
       * Players
       Rule  869: How to Join and Leave Agora
+	  Rule 2252: The Greetor
       Rule 2174: Aliens
       Rule 2170: Who Am I?
       Rule 2150: Personhood
@@ -1353,6 +1354,32 @@ Amended(27) by Proposal 5973 (woggle), 25 November 2008
 Amended(28) by Proposal 6099 (Pavitra), 22 February 2009
 Amended(29) by Proposal 6349 (Pavitra), 17 June 2009
 Amended(30) by Proposal 6382 (Murphy), 3 July 2009
+
+----------------------------------------------------------------------
+
+Rule 2252/0 (Power=1)
+The Greetor
+
+      The Greetor is an office; its holder is responsible for the
+      successful integration of new players into the Agoran community.
+
+      The Greetor's duties include welcoming newly registered players
+      to the Agoran community, providing them with information they
+      may find useful with regards to Agora, and answering to the best
+      of eir ability any queries they may have regarding Agora.
+
+      The Greetor's weekly duties include the submission of
+      disinterested proposals which attempt to improve the Agoran
+      experience for newly registered and prospective players, in
+      particular the registration process.
+
+      The Greetor's monthly report includes the titles and texts of
+      all proposals e has submitted as part of eir weekly duties in
+      the past month, and a short essay which clarifies an issue which
+      concerns or often confuses newly registered players.
+
+History:
+Created by Proposal 6386 (C-walker), 10 July 2009
 
 ----------------------------------------------------------------------
 
