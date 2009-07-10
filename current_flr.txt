@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6387
-Last change to this ruleset: by proposal 6387
+Last proposal with recorded effect on this ruleset: 6388
+Last change to this ruleset: by proposal 6388
 
 Last updated: 10 July 2009
 
@@ -5907,7 +5907,7 @@ Amended(2) by Proposal 6197 (Murphy), 27 April 2009
 
 ----------------------------------------------------------------------
 
-Rule 2198/5 (Power=2)
+Rule 2198/6 (Power=2)
 Making Contract Changes
 
       Contract Changes CAN be performed as follows:
@@ -5926,8 +5926,10 @@ Making Contract Changes
       If a contract does not purport to regulate becoming a party to
       it, then any person CAN become a party to it by announcement.
 
-      If a contract states that one or more of its switches have
-      certain values, then they do.
+      Upon creation or contract change, if a contract comes to state
+      that one or more of its switches have certain values, then they
+      are flipped to those values unless such flips would be illegal
+      or impossible.
 
       The rest of this rule notwithstanding, if the nature and/or
       permissibility of a Contract Changes is ambiguous, then it has
@@ -5952,6 +5954,7 @@ Assigned to Committee on Small Business and Entrepreneurship by
   Proposal 6053 (Murphy, woggle, ais523), 23 January 2009
 Amended(4) by cleaning (comex), 12 February 2009
 Amended(5) by Proposal 6197 (Murphy), 27 April 2009
+Amended(6) by Proposal 6388 (Tiger), 10 July 2009
 
 ----------------------------------------------------------------------
 
