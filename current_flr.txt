@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6391
-Last change to this ruleset: by proposal 6391
+Last proposal with recorded effect on this ruleset: 6392
+Last change to this ruleset: by proposal 6392
 
 Last updated: 10 July 2009
 
@@ -13,7 +13,7 @@ Rule ID numbers:
 
 Statistics
 
-Current total number of rules: 135
+Current total number of rules: 134
 
 Power distribution:
        1 with Power=4
@@ -22,7 +22,7 @@ Power distribution:
       43 with Power=2
        5 with Power=1.7
        6 with Power=1.5
-      48 with Power=1
+      47 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -201,7 +201,6 @@ Index of Rules
 
       * Trophies
       Rule 1727: Happy Birthday
-      Rule 2151: Agoran Arms
       Rule 2029: Town Fountain
 
 ----------------------------------------------------------------------
@@ -6723,25 +6722,6 @@ Amended(???) by Proposal 4866 (Goethe), 27 August 2006
 Amended(15) by Proposal 4880 (Murphy), 22 January 2007
 Amended(16) by Proposal 4887 (Murphy), 22 January 2007
 Amended(17) by Proposal 5364 (Murphy), 20 December 2007
-
-----------------------------------------------------------------------
-
-Rule 2151/1 (Power=1)
-Agoran Arms
-
-      The escutcheon of Agora is defined by the following blazon:
-      Tierced palewise sable, argent, and sable, charged with a quill
-      and an axe in saltire, proper, and in the chief a capital letter
-      A, gules.
-
-      Agora's adopted motto is "Agora n'est pas une fontaine."
-
-[Note (9 January 2009): A rendering of the escutcheon of Agora is at
-<http://www.agoranomic.org/coat_of_arms.png>.]
-
-History:
-Created by Proposal 5037 (Zefram, GreyKnight), 28 June 2007
-Amended(1) by Proposal 5285 (Goethe), 7 November 2007
 
 ----------------------------------------------------------------------
 
