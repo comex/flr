@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6392
-Last change to this ruleset: by proposal 6392
+Last proposal with recorded effect on this ruleset: 6393
+Last change to this ruleset: by proposal 6393
 
 Last updated: 10 July 2009
 
@@ -3816,15 +3816,19 @@ Amended(21) by Proposal 6341 (G.), 11 June 2009
 
 ----------------------------------------------------------------------
 
-Rule 2250/0 (Power=1)
+Rule 2250/1 (Power=1)
 Officer's Proposals
 
-      Any proposal submitted as part of an officer's duties has its
-      Distributability flipped to Distributable upon entering the
-      Proposal Pool.
+      If the submitter of a Proposal makes a claim that the proposal
+      is submitted as part of an officer's duties in the same message
+      in which the proposal was submitted, that proposal becomes
+      Distributable upon entering the Proposal Pool.  Falsely claiming
+      that a proposal is submitted as part of an officer's duties is
+      the Class 6 Crime of Distribunannigans.
 
 History:
 Created by Proposal 6342 (Quazie), 11 June 2009
+Amended(1) by Proposal 6393 (Wooble; disi.), 10 July 2009
 
 ----------------------------------------------------------------------
 
