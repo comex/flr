@@ -36,7 +36,7 @@ Index of Categories
       * Agoran Decisions
       * Proposals
       * Adjudication
-	  * Cards
+      * Cards
       * Patent Titles and Degrees
       * Contract Law
       * Foreign Relations
@@ -76,7 +76,7 @@ Index of Rules
 
       * Players
       Rule  869: How to Join and Leave Agora
-	  Rule 2252: The Greetor
+      Rule 2252: The Greetor
       Rule 2174: Aliens
       Rule 2170: Who Am I?
       Rule 2150: Personhood
@@ -168,16 +168,16 @@ Index of Rules
       Rule 2212: Judicial Declarations
 
       * Cards
-	  Rule 2253: Cards
-	  Rule 2254: Position Cards
-	  Rule 2255: Major Arcana
-	  Rule 2256: Exploit Cards
-	  Rule 2257: Dealing Cards
-	  Rule 2258: Decks, Draws, and Salaries
-	  Rule 2259: Basic Hand Limits
-	  Rule 2260: The Deck of Government
-	  Rule 2261: The Deck of Change
-	  Rule 2262: The Deck of Justice
+      Rule 2253: Cards
+      Rule 2254: Position Cards
+      Rule 2255: Major Arcana
+      Rule 2256: Exploit Cards
+      Rule 2257: Dealing Cards
+      Rule 2258: Decks, Draws, and Salaries
+      Rule 2259: Hand Limits
+      Rule 2260: The Deck of Government
+      Rule 2261: The Deck of Change
+      Rule 2262: The Deck of Justice
 
       * Patent Titles and Degrees
       Rule  649: Patent Titles
