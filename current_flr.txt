@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6400
-Last change to this ruleset: by proposal 6400
+Last proposal with recorded effect on this ruleset: 6401
+Last change to this ruleset: by proposal 6401
 
 Last updated: 10 July 2009
 
@@ -4536,7 +4536,7 @@ Amended(12) by Proposal 6327 (Murphy), 29 May 2009
 
 ----------------------------------------------------------------------
 
-Rule 1504/41 (Power=2)
+Rule 1504/42 (Power=2)
 Criminal Cases
 
       Criminal cases are a subclass of judicial cases.  Any
@@ -4590,13 +4590,13 @@ Criminal Cases
         any available non-null punishment would be manifestly unjust.
         Has no effect.
 
-      * APOLOGY with a set of up to ten words (the prescribed words),
-        appropriate for rule breaches of small consequence.  When in
-        effect, the ninny SHALL as soon as possible publish a formal
-        apology of at least 200 words, including all the prescribed
-        words, explaining eir error, shame, remorse, and ardent desire
-        for self-improvement.   Failure to do so is a Class-3 Crime of
-        Failure to Apologize.
+      * APOLOGY with a set of up to ten prescribed words (the empty
+        set if none is explicitly specified), appropriate for rule
+        breaches of small consequence.  When in effect, the ninny
+        SHALL as soon as possible publish a formal apology of at least
+        200 words, including all the prescribed words, explaining eir
+        error, shame, remorse, and ardent desire for self-improvement.
+        Failure to do so is a Class-3 Crime of Failure to Apologize.
 
       * SILENCE, a number of Rests, equal to the defined Class of the
         Crime or (if the breach is not a defined crime) the power of
@@ -4698,6 +4698,7 @@ Amended(38) by Proposal 6146 (Murphy), 23 March 2009
 Amended(39) by Proposal 6206 (coppro), 27 April 2009
 Amended(40) by Proposal 6354 (ais523), 17 June 2009
 Amended(41) by Proposal 6355 (Yally), 23 June 2009
+Amended(42) by Proposal 6401 (Murphy), 17 July 2009
 
 ----------------------------------------------------------------------
 
