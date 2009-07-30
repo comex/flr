@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6398
-Last change to this ruleset: by proposal 6398
+Last proposal with recorded effect on this ruleset: 6399
+Last change to this ruleset: by proposal 6399
 
 Last updated: 10 July 2009
 
@@ -4261,7 +4261,7 @@ Amended(2) by Proposal 6259 (Quazie), 11 May 2009
 
 ----------------------------------------------------------------------
 
-Rule 2158/7 (Power=2)
+Rule 2158/8 (Power=2)
 Judicial Questions
 
       A judicial question is a question that arises within a judicial
@@ -4285,12 +4285,13 @@ Judicial Questions
       When a judicial question is applicable and open, and its case
       has a judge assigned to it, the judge CAN assign a valid
       judgement to it by announcement, and SHALL do so as soon as
-      possible.  A judge SHOULD NOT assign an inappropriate judgement
-      to any judicial question.  A judgement is valid and/or
-      appropriate only as defined by the rules.  Defining these things
-      is secured, with a power threshold of 1.7.  If more than one
-      judgement is valid and appropriate, then the choice between them
-      is left to the judge's discretion.
+      possible, unless e is recused from the case before the time
+      limit for doing so has expired.  A judge SHOULD NOT assign an
+      inappropriate judgement to any judicial question.  A judgement
+      is valid and/or appropriate only as defined by the rules.
+      Defining these things is secured, with a power threshold of 1.7.
+      If more than one judgement is valid and appropriate, then the
+      choice between them is left to the judge's discretion.
 
       When a judicial question is applicable and open, and its judge
       has violated a time limit to assign a judgement to it, or is not
@@ -4319,6 +4320,7 @@ Amended(6) by Proposal 6045 (Taral), 13 January 2009
 Assigned to Committee on the Judiciary by Proposal 6053 (Murphy,
   woggle, ais523), 23 January 2009
 Amended(7) by Proposal 6391 (Murphy), 10 July 2009
+Amended(8) by Proposal 6399 (Wooble), 17 July 2009
 
 ----------------------------------------------------------------------
 
