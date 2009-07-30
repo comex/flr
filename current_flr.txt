@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6395
-Last change to this ruleset: by proposal 6395
+Last proposal with recorded effect on this ruleset: 6396
+Last change to this ruleset: by proposal 6396
 
 Last updated: 10 July 2009
 
@@ -2791,7 +2791,7 @@ Amended(6) by Proposal 6218 (Murphy), 27 April 2009
 
 ----------------------------------------------------------------------
 
-Rule 2154/25 (Power=2)
+Rule 2154/26 (Power=2)
 Election Procedure
 
       Any player CAN, with support (or by announcement if e is the
@@ -2821,7 +2821,8 @@ Election Procedure
                Session.
 
           The set of candidates can change after the decision is
-          initiated.
+          initiated.  If the number of candidates falls below two,
+          PRESENT ceases to be a valid option.
 
        2) If there is no Emergency Session at the time the decision is
           initiated, the eligible voters are the active first-class
@@ -2875,6 +2876,7 @@ Amended(22) by Proposal 6293 (Goethe), 19 May 2009
 Amended(23) by Proposal 6296 (Murphy), 19 May 2009
 Amended(24) by Proposal 6305 (Taral), 26 May 2009
 Amended(25) by Proposal 6356 (Yally), 23 June 2009
+Amended(26) by Proposal 6396 (Yally), 17 July 2009
 
 ----------------------------------------------------------------------
 
