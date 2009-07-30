@@ -1,24 +1,24 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6401
-Last change to this ruleset: by proposal 6401
+Last proposal with recorded effect on this ruleset: 6402
+Last change to this ruleset: by proposal 6402
 
 Last updated: 10 July 2009
 
 Rule ID numbers:
-      highest orderly: 2262
+      highest orderly: 2264
       chaotic: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 143
+Current total number of rules: 145
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
-      31 with Power=3
+      33 with Power=3
       45 with Power=2
        5 with Power=1.7
        6 with Power=1.5
@@ -99,6 +99,7 @@ Index of Rules
       Rule 2146: Indices
       Rule 2162: Switches
       Rule  478: Fora
+      Rule 2263: Acting on Behalf
       Rule 1728: Dependent Actions
       Rule 2124: Agoran Satisfaction
       Rule 2166: Assets
@@ -187,6 +188,7 @@ Index of Rules
 
       * Contract Law
       Rule 1742: Contracts
+      Rule 2264: Permission to Act on Behalf
       Rule 2197: Defining Contract Changes
       Rule 2198: Making Contract Changes
       Rule 2178: Contract Switches
@@ -2338,6 +2340,33 @@ Amended(24) by Proposal 5613 (Quazie), 29 July 2008
 Amended(25) by Proposal 5639 (Murphy), 29 July 2008
 Amended(26) by proposal 5818 (comex), 1 November 2008
 Amended(27) by Proposal 6022 (Murphy), 22 December 2008
+
+----------------------------------------------------------------------
+
+Rule 2263/0 (Power=3)
+Acting on Behalf
+
+      Acting on behalf of (syn. send messages on behalf of) a person
+      (the grantor) with a specified message is equivalent to sending
+      a public message authored by the grantor.
+
+      Acting on behalf of a person is secured, with power threshold 3
+      for first-class grantors and power threshold 2 for second-class
+      grantors.
+
+      Rules to the contrary notwithstanding, acting on behalf of a
+      person is INVALID if not published. Such publication is INVALID
+      unless it specified the text of the simulated message by:
+      (a) clearly stating the text of a message;
+      (b) clearly specifying an action (the message states the grantor
+          performs the action); or
+      (c) performing by announcement an action defined in a public
+          contract's text to (clearly and unambiguously) include
+          causing the grantor to perform a specific action (the
+          message states the grantor performs the action)
+
+History:
+Created by Proposal 6402 (woggle), 17 July 2009
 
 ----------------------------------------------------------------------
 
@@ -6089,6 +6118,24 @@ Amended(17) by Proposal 5759 (comex), 16 October 2008
 Assigned to Committee on Small Business and Entrepreneurship by
   Proposal 6053 (Murphy, woggle, ais523), 23 January 2009
 Amended(18) by Proposal 6197 (Murphy), 27 April 2009
+
+----------------------------------------------------------------------
+
+Rule 2264/0 (Power=3)
+Permission to Act on Behalf
+
+      A person CAN act on behalf of a partnership (if it is a person)
+      as unambiguously permitted by that partnership's text.
+
+      A person CAN act on behalf of another person when unambiguously
+      permitted by a public contract to which the grantor is a party.
+
+      If permitted by rules with power at least 1.7, a judge in an
+      equity or criminal case CAN act on behalf of a party or
+      defendant without not more than 5 objections.
+
+History:
+Created by Proposal 6402 (woggle), 17 July 2009
 
 ----------------------------------------------------------------------
 
