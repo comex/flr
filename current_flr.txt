@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6396
-Last change to this ruleset: by proposal 6396
+Last proposal with recorded effect on this ruleset: 6398
+Last change to this ruleset: by proposal 6398
 
 Last updated: 10 July 2009
 
@@ -3536,7 +3536,7 @@ Proposals
       which changes are made to the game.
 ----------------------------------------------------------------------
 
-Rule 106/20 (Power=3)
+Rule 106/21 (Power=3)
 Adopting Proposals
 
       A proposal is a fixed body of text which has been made into a
@@ -3550,8 +3550,9 @@ Adopting Proposals
       become a proposal, which places the proposal in the Proposal
       Pool.  The author (syn. proposer) of a proposal is the player
       who submitted it.  The author of a proposal may remove it from
-      the Pool by announcement.  A player CAN remove a proposal e
-      authored from the Proposal Pool by announcement.
+      the Pool by announcement.  A player CAN remove (syn. retract,
+      withdraw) a proposal e authored from the Proposal Pool by
+      announcement.
 
       A player specifically permitted by the Rules to distribute a
       Proposal CAN distribute the proposal by publishing it with the
@@ -3642,6 +3643,7 @@ Amended(17) by Proposal 6089 (Goethe), 22 February 2009
 Amended(18) by Proposal 6090 (Murphy, ais523), 22 February 2009
 Amended(19) by Proposal 6113 (Goethe), 1 March 2009
 Amended(20) by Proposal 6222 (coppro), 27 April 2009
+Amended(21) by Proposal 6398 (C-walker; disi.), 17 July 2009
 
 ----------------------------------------------------------------------
 
