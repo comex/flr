@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6399
-Last change to this ruleset: by proposal 6399
+Last proposal with recorded effect on this ruleset: 6400
+Last change to this ruleset: by proposal 6400
 
 Last updated: 10 July 2009
 
@@ -5130,7 +5130,7 @@ Amended(15) by Proposal 6279 (Murphy), 19 May 2009
 
 ----------------------------------------------------------------------
 
-Rule 1871/25 (Power=1.5)
+Rule 1871/26 (Power=1.5)
 The Standing Court
 
       Posture is a player switch, tracked by the Clerk of the Courts,
@@ -5156,11 +5156,13 @@ The Standing Court
       sitting.
 
       The CotC CAN rotate the bench (change all sitting players to
-      standing) by announcement, but SHALL NOT do so unless there is a
-      judicial case to which e is obliged to assign a judge, all
-      entities qualified to be so assigned are poorly qualified, and e
-      immediately afterwards (in the same announcement) assigns a
-      judge to that case.
+      standing) by announcement, but SHALL NOT do so unless, of the
+      judicial cases requiring assignment:
+
+       a) no entity is well-qualified to be assigned to any of them;
+
+       b) e immediately afterwards (in the same announcement) assigns
+          a judge to at least one of them.
 
       When the CotC recuses a non-supine player with cause, e CAN flip
       that player's posture to supine by announcement in a timely
@@ -5204,6 +5206,7 @@ Amended(22) by Proposal 5468 (Murphy), 13 March 2008
 Amended(23) by Proposal 5474 (Murphy), 24 March 2008
 Amended(24) by Proposal 5500 (Murphy; disi.), 26 April 2008
 Amended(25) by Proposal 5771 (root), 17 October 2008
+Amended(26) by Proposal 6400 (Murphy), 17 July 2009
 
 ----------------------------------------------------------------------
 
