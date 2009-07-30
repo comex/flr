@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
 Last proposal with recorded effect on this ruleset: 6402
-Last change to this ruleset: by proposal 6402
+Last change to this ruleset: by Rule 2126
 
 Last updated: 10 July 2009
 
@@ -13,13 +13,13 @@ Rule ID numbers:
 
 Statistics
 
-Current total number of rules: 145
+Current total number of rules: 144
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
       33 with Power=3
-      45 with Power=2
+      44 with Power=2
        5 with Power=1.7
        6 with Power=1.5
       54 with Power=1
@@ -143,7 +143,6 @@ Index of Rules
       Rule 1698: Agora Is a Nomic
       Rule 2134: Win by Clout
       Rule 2211: The Grand Poobah
-      Rule 2126: Notes
       Rule 2188: Win by Proposal
 
       * Adjudication
@@ -562,7 +561,6 @@ Victory
   * Dictatorship (rule 2223)
   * High Score (rule 2187)
   * Legislation (rule 2188)
-  * Musicianship (rule 2126)
   * Paradox (rule 2110)
   * Renaissance (rule 2199)
   * Solitude (rule 2186)]
@@ -4050,105 +4048,6 @@ Created by Proposal 5625 (Murphy, OscarMeyr, Ivan Hope), 29 July 2008
 Amended(1) by Proposal 5680 (Goethe), 3 September 2008
 Amended(2) by Proposal 5696 (Goethe), 20 September 2008
 Amended(3) by Proposal 6077 (Murphy), 22 February 2009
-
-----------------------------------------------------------------------
-
-Rule 2126/62 (Power=2)
-Notes
-
-      The Conductor is an office.  As soon as possible after this text
-      becomes a part of this rule, the Conductor SHALL publish a
-      self-ratifying report containing the total number of Notes each
-      player held the moment before this text became a part of this
-      rule.  After this report has self-ratified, and at least one
-      proposal has been made distributable using a card, any player
-      CAN cause this rule to repeal itself by announcement.
-
-      When this text becomes a part of this rule, each first-class
-      player earns two draws from each defined basic deck, plus one
-      draw from each deck for every multiple of 10 notes that the
-      player held the moment before this text became a part of this
-      rule.
-
-      Any first-class player CAN make a proposal distributable by
-      announcement, if e has not already done so in the current Agoran
-      week.
-
-[Cross-references (6 February 2008): the Conductor's duties are:
-  * recordkeepor of notes (rule 2126)]
-
-History:
-Created by Proposal 4872 (OscarMeyr), 26 October 2006
-Amended(1) by Proposal 4884 (Murphy), 22 January 2007
-Amended(2) by Proposal 4914 (OscarMeyr), 21 March 2007
-Amended(3) by Proposal 4914 (OscarMeyr), 21 March 2007
-Amended(4) by Proposal 4943 (Goethe), 3 May 2007
-Amended(5) by Proposal 4950 (Zefram), 7 May 2007
-Amended(6) by Proposal 4961 (Zefram), 3 June 2007
-Amended(7) by Proposal 5031 (Zefram), 28 June 2007
-Amended(8) by Proposal 5052 (Zefram), 5 July 2007
-Amended(9) by Proposal 5056 (Murphy), 5 July 2007
-Amended(10) by Proposal 5058 (Zefram), 5 July 2007
-Power changed from 3 to 2 by Proposal 5076 (Murphy), 18 July 2007
-Amended(11) by Proposal 5076 (Murphy), 18 July 2007
-Amended(12) by Proposal 5078 (Zefram), 18 July 2007
-Amended(13) by Proposal 5097 (Zefram), 25 July 2007
-Amended(14) by Proposal 5086 (Zefram), 1 August 2007
-Amended(15) by Proposal 5112 (Murphy), 2 August 2007
-Amended(16) by Proposal 5114 (Zefram), 2 August 2007
-Amended(17) by Proposal 5126 (Zefram), 13 August 2007
-Amended(18) by Proposal 5128 (Zefram, Murphy), 13 August 2007
-Amended(19) by Proposal 5151 (root), 29 August 2007
-Amended(20) by Proposal 5161 (Zefram), 29 August 2007
-Amended(21) by Proposal 5163 (Zefram), 29 August 2007
-Amended(22) by Proposal 5164 (Zefram), 29 August 2007
-Amended(23) by Proposal 5165 (Zefram), 29 August 2007
-Amended(24) by Proposal 5166 (Zefram), 29 August 2007
-Amended(25) by Proposal 5167 (Zefram), 29 August 2007
-Amended(26) by Proposal 5168 (Zefram), 29 August 2007
-Amended(27) by Proposal 5169 (Zefram, OscarMeyr, Pavitra), 29 August
-  2007
-Amended(28) by Proposal 5170 (Zefram), 29 August 2007
-Amended(29) by Proposal 5176 (Murphy), 29 August 2007
-Amended(30) by Proposal 5197 (Zefram), 6 September 2007
-Amended(31) by Proposal 5202 (Murphy; disi.), 8 September 2007
-Amended(32) by Proposal 5205 (Zefram), 8 September 2007
-Amended(33) by Proposal 5213 (Murphy), 8 September 2007
-Amended(34) by Proposal 5220 (Zefram), 13 September 2007
-Amended(35) by Proposal 5256 (AFO), 27 October 2007
-Amended(36) by Proposal 5255 (AFO), 27 October 2007
-Amended(37) by Proposal 5276 (Murphy, Pavitra, Zefram), 7 November
-  2007
-Amended(38) by Proposal 5288 (Murphy), 14 November 2007
-Amended(39) by Proposal 5289 (Murphy), 14 November 2007
-Amended(40) by Proposal 5322 (Murphy), 5 December 2007
-Amended(41) by Proposal 5325 (Murphy), 5 December 2007
-Amended(42) by Proposal 5334 (Murphy), 5 December 2007
-Amended(43) by Proposal 5336 (Murphy), 8 December 2007
-Amended(44) by Proposal 5340 (BobTHJ; disi.), 8 December 2007
-Amended(45) by Proposal 5341 (Goethe), 8 December 2007
-Amended(46) by Proposal 5378 (root), 1 January 2008
-Amended(47) by Proposal 5379 (root; disi.), 1 January 2008
-Amended(48) by Proposal 5385 (Murphy; disi.), 1 January 2008
-Retitled by Proposal 5404 (Murphy, pikhq, root), 16 January 2008
-Amended(49) by Proposal 5404 (Murphy, pikhq, root), 16 January 2008
-Retitled by Proposal 5424 (Zefram; disi.), 6 February 2008
-Amended(50) by Proposal 5424 (Zefram; disi.), 6 February 2008
-Amended(51) by Proposal 5485 (root), 9 April 2008
-Amended(52) by Proposal 5510 (Murphy, Zefram), 28 May 2008
-Amended(53) by Proposal 5547 (ais523), 21 June 2008
-Amended(54) by Proposal 5549 (Wooble), 21 June 2008
-Amended(55) by Proposal 5553 (Murphy), 21 June 2008
-Amended(56) by Proposal 5625 (Murphy, OscarMeyr, Ivan Hope), 29 July
-  2008
-Amended(57) by Proposal 5791 (Murphy), 22 October 2008
-Amended(58) by Proposal 5970 (Murphy), 20 November 2008
-Assigned to Committee on Finance by Proposal 6053 (Murphy, woggle,
-  ais523), 23 January 2009
-Amended(59) by Proposal 6126 (Goethe), 15 March 2009
-Amended(60) by Proposal 6270 (ais523), 11 May 2009
-Amended(61) by Proposal 6280 (Tiger), 19 May 2009
-Amended(62) by Proposal 6394 (Goethe), 10 July 2009
 
 ----------------------------------------------------------------------
 
