@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6402
-Last change to this ruleset: by Rule 2126
+Last proposal with recorded effect on this ruleset: 6403
+Last change to this ruleset: by proposal 6403
 
-Last updated: 10 July 2009
+Last updated: 31 July 2009
 
 Rule ID numbers:
       highest orderly: 2264
@@ -2818,7 +2818,7 @@ Amended(6) by Proposal 6218 (Murphy), 27 April 2009
 
 ----------------------------------------------------------------------
 
-Rule 2154/26 (Power=2)
+Rule 2154/27 (Power=2)
 Election Procedure
 
       Any player CAN, with support (or by announcement if e is the
@@ -2835,8 +2835,8 @@ Election Procedure
       SHALL initiate an Agoran decision to determine the new
       officeholder. For this decision:
 
-       1) The valid options are PRESENT and the active players
-          (hereafter the candidates) who, during the election,
+       1) The valid options are the active players (hereafter the
+          candidates) who, during the election,
 
             a) received and accepted a nomination for the office
                before the decision was initiated (self-nomination
@@ -2904,6 +2904,7 @@ Amended(23) by Proposal 6296 (Murphy), 19 May 2009
 Amended(24) by Proposal 6305 (Taral), 26 May 2009
 Amended(25) by Proposal 6356 (Yally), 23 June 2009
 Amended(26) by Proposal 6396 (Yally), 17 July 2009
+Amended(27) by Proposal 6403 (coppro), 30 July 2009
 
 ----------------------------------------------------------------------
 
@@ -3087,7 +3088,7 @@ Agoran Decisions
       collective decisions.
 ----------------------------------------------------------------------
 
-Rule 693/9 (Power=3)
+Rule 693/10 (Power=3)
 Agoran Decisions
 
       When the rules calls for an Agoran decision to be made, the
@@ -3097,6 +3098,11 @@ Agoran Decisions
           (a) Initiation of the decision.
           (b) Voting of the people.
           (c) Resolution of the decision.
+
+      When submitting a ballot, a player can select PRESENT rather
+      than one of the options provided by the decision. A ballot cast
+      for PRESENT is considered to be a valid ballot, but, unless
+      specified otherwise, does not count as a valid option.
 
 History:
 Initial Mutable Rule 205, Jun. 30 1993
@@ -3115,6 +3121,7 @@ Amended(8) by Proposal 4868 (Goethe), 27 August 2006
 Amended(9) by Proposal 4887 (Murphy), 22 January 2007
 Assigned to Committee on Rules by Proposal 6053 (Murphy, woggle,
   ais523), 23 January 2009
+Amended(10) by Proposal 6403 (coppro), 30 July 2009
 
 ----------------------------------------------------------------------
 
@@ -3261,7 +3268,7 @@ Amended(15) by Proposal 6378 (Murphy), 3 July 2009
 
 ----------------------------------------------------------------------
 
-Rule 2196/2 (Power=3)
+Rule 2196/3 (Power=3)
 Standard Classes of Agoran Decisions
 
       An Agoran decision with an adoption index is either ordinary or
@@ -3276,16 +3283,17 @@ Standard Classes of Agoran Decisions
       b) Whether it is ordinary or democratic.
 
       For any Agoran decision with an adoption index, the available
-      options are FOR, AGAINST, and PRESENT (syn. ABSTAIN)
+      options are FOR and AGAINST (syn. ABSTAIN)
 
 History:
 Created by Proposal 5418 (root), 2 February 2008
 Amended(1) by Proposal 5455 (Murphy), 1 March 2008
 Amended(2) by Proposal 6110 (Murphy), 1 March 2009
+Amended(3) by Proposal 6403 (coppro), 30 July 2009
 
 ----------------------------------------------------------------------
 
-Rule 2127/5 (Power=1)
+Rule 2127/6 (Power=1)
 Conditional Votes
 
       If a vote on an Agoran decision is submitted conditionally (e.g.
@@ -3294,18 +3302,18 @@ Conditional Votes
       the end of the voting period, and is clearly specified if and
       only if the value of the condition(s) can be reasonably
       determined (without circularity or paradox) from information
-      reasonably available during the voting period.
+      reasonably available during the voting period.  If the option
+      cannot be clearly identified, a vote of PRESENT is cast.
 
       Casting a vote endorsing another voter is equivalent to
       conditionally casting a vote whose value is the same as the most
       common value (if any) among that voter's valid votes on that
-      decision, or PRESENT otherwise.
+      decision.
 
       Casting a vote denouncing another voter is equivalent to
       conditionally casting a vote whose value is opposite to the most
       common value (if any) among that voter's valid votes on that
-      decision, or PRESENT otherwise.  FOR and AGAINST are opposites;
-      PRESENT is its own opposite.
+      decision.  FOR and AGAINST are opposites.
 
 History:
 Created by Proposal 4875 (Goethe), 1 December 2006
@@ -3314,6 +3322,7 @@ Amended(2) by Proposal 5506 (Murphy; disi.), 10 May 2008
 Amended(3) by Proposal 5746 (Murphy), 16 October 2008
 Amended(4) by Proposal 6331 (Murphy), 29 May 2009
 Amended(5) by Proposal 6383 (Murphy), 3 July 2009
+Amended(6) by Proposal 6403 (coppro), 30 July 2009
 
 ----------------------------------------------------------------------
 
@@ -3417,7 +3426,7 @@ Assigned to Committee on Rules by Proposal 6053 (Murphy, woggle,
 
 ----------------------------------------------------------------------
 
-Rule 955/16 (Power=3)
+Rule 955/17 (Power=3)
 Determining the Will of Agora
 
       After an Agoran Decision's voting period ends, it has an outcome
@@ -3435,10 +3444,10 @@ Determining the Will of Agora
           than or equal to the decision's adoption index, then the
           outcome is ADOPTED; otherwise, the outcome is REJECTED.
 
-      (c) Otherwise, the outcome is the option with the most votes,
-          not counting votes of PRESENT. In case of a tie, the vote
-          collector SHALL select one of the leaders as the outcome. If
-          there are no options, the outcome is null.
+      (c) Otherwise, the outcome is the option with the most votes.
+          In case of a tie, the vote collector SHALL select one of the
+          leaders as the outcome. If there are no options, the outcome
+          is null.
 
 [CFJs 1673-1675 (called 20 May 2007): Quorum for an Agoran decision is
 determined at the time the vote collector makes the calculations
@@ -3471,6 +3480,7 @@ Amended(15) by Proposal 5948 (Murphy; disi.), 15 November 2008
 Assigned to Committee on Rules by Proposal 6053 (Murphy, woggle,
   ais523), 23 January 2009
 Amended(16) by Proposal 6336 (coppro; disi.), 29 May 2009
+Amended(17) by Proposal 6403 (coppro), 30 July 2009
 
 ----------------------------------------------------------------------
 
