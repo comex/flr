@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6403
-Last change to this ruleset: by proposal 6403
+Last proposal with recorded effect on this ruleset: 6404
+Last change to this ruleset: by proposal 6404
 
 Last updated: 31 July 2009
 
@@ -4199,7 +4199,7 @@ Amended(2) by Proposal 6259 (Quazie), 11 May 2009
 
 ----------------------------------------------------------------------
 
-Rule 2158/8 (Power=2)
+Rule 2158/9 (Power=2)
 Judicial Questions
 
       A judicial question is a question that arises within a judicial
@@ -4231,12 +4231,12 @@ Judicial Questions
       If more than one judgement is valid and appropriate, then the
       choice between them is left to the judge's discretion.
 
-      When a judicial question is applicable and open, and its judge
-      has violated a time limit to assign a judgement to it, or is not
-      an active player, the Clerk of the Courts SHALL recuse that
-      judge with cause by announcement as soon as possible; however,
-      this requirement is waived if the judge assigns a judgement to
-      it first.
+      When a judicial question on a non-appeal case is applicable and
+      open, and its judge has violated a time limit to assign a
+      judgement to it, or is not an active player, the Clerk of the
+      Courts SHALL recuse that judge with cause by announcement as
+      soon as possible; however, this requirement is waived if the
+      judge assigns a judgement to it first.
 
 [CFJ 1804 (called 19 November 2007): A judge should give the judgement
 that e believes is appropriate, and if e does so in good faith then e
@@ -4259,6 +4259,7 @@ Assigned to Committee on the Judiciary by Proposal 6053 (Murphy,
   woggle, ais523), 23 January 2009
 Amended(7) by Proposal 6391 (Murphy), 10 July 2009
 Amended(8) by Proposal 6399 (Wooble), 17 July 2009
+Amended(9) by Proposal 6404 (Murphy; disi.), 30 July 2009
 
 ----------------------------------------------------------------------
 
