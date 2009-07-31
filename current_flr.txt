@@ -1,19 +1,19 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6411
-Last change to this ruleset: by proposal 6411
+Last proposal with recorded effect on this ruleset: 6412
+Last change to this ruleset: by proposal 6412
 
 Last updated: 31 July 2009
 
 Rule ID numbers:
-      highest orderly: 2264
+      highest orderly: 2265
       chaotic: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 144
+Current total number of rules: 145
 
 Power distribution:
        1 with Power=4
@@ -22,7 +22,7 @@ Power distribution:
       44 with Power=2
        5 with Power=1.7
        6 with Power=1.5
-      54 with Power=1
+      55 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -213,6 +213,7 @@ Index of Rules
       Rule 2159: Protective Decrees
 
       * Trophies
+      Rule 2265: Placeholder Arms
       Rule 1727: Happy Birthday
       Rule 2029: Town Fountain
 
@@ -6832,6 +6833,33 @@ Assigned to Committee on Foreign Relations by Proposal 6053 (Murphy,
 ======================================================================
 Trophies
       A category concerning commemoration and symbolism.
+----------------------------------------------------------------------
+
+Rule 2265/0 (Power=1)
+Placeholder Arms
+
+      Within one week after the enactment of this rule, each active
+      first-class player may create exactly one Flag Candidate without
+      three objections.  A Flag Candidate is the (non-retracted) text
+      and title of a Power-1 rule describing a Flag or other suitable
+      Symbol for Agora, and its author is known as its Flyer.
+
+      Between one and two weeks after the enactment of this rule, the
+      Herald CAN and SHALL initiate an Agoran decision to decide the
+      Flag of Agora.  The eligible voters are the active first-class
+      players at the time the decision is initiated, the valid options
+      are the Flag Candidates at the time the decision was initiated,
+      and the vote collector is the Herald.
+
+      The Flyer of the winning Flag Candidate satisfies the Winning
+      Condition of Vexillology.
+
+      Cleanup Procedure: This rule amends itself to be identical to
+      that Flag Candidate.
+
+History:
+Created by Proposal 6412 (allispaul), 30 July 2009
+
 ----------------------------------------------------------------------
 
 Rule 1727/17 (Power=1)
