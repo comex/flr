@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6410
-Last change to this ruleset: by proposal 6410
+Last proposal with recorded effect on this ruleset: 6411
+Last change to this ruleset: by proposal 6411
 
 Last updated: 31 July 2009
 
@@ -2819,14 +2819,21 @@ Amended(6) by Proposal 6218 (Murphy), 27 April 2009
 
 ----------------------------------------------------------------------
 
-Rule 2154/27 (Power=2)
+Rule 2154/28 (Power=2)
 Election Procedure
 
-      Any player CAN, with support (or by announcement if e is the
-      IADoP), initiate an election for a specified elected office for
-      which no election is already in progress.  When an election is
-      initiated, the current holder of the office (if any) is
-      initially considered to have been nominated and have accepted.
+      A player CAN initiate an election for a specified elected office
+      for which no election is already in progress
+
+       a) by announcement, if e is the IADoP, or the office is vacant,
+          or no election has been initiated for the office within 90
+          days before the announcement;
+
+       b) with 4 Supporters, otherwise.
+
+      When an election is initiated, the current holder of the office
+      (if any) is initially considered to have been nominated and have
+      accepted.
 
       During the first four days of the election (the nomination
       period), any player CAN by announcement nominate one or more
@@ -2906,6 +2913,7 @@ Amended(24) by Proposal 6305 (Taral), 26 May 2009
 Amended(25) by Proposal 6356 (Yally), 23 June 2009
 Amended(26) by Proposal 6396 (Yally), 17 July 2009
 Amended(27) by Proposal 6403 (coppro), 30 July 2009
+Amended(28) by Proposal 6411 (Yally), 30 July 2009
 
 ----------------------------------------------------------------------
 
