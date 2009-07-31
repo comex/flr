@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6412
-Last change to this ruleset: by proposal 6412
+Last proposal with recorded effect on this ruleset: 6413
+Last change to this ruleset: by proposal 6413
 
 Last updated: 31 July 2009
 
@@ -2763,17 +2763,18 @@ Amended(9) by Proposal 6368 (C-walker), 23 June 2009
 
 ----------------------------------------------------------------------
 
-Rule 2227/1 (Power=1)
+Rule 2227/2 (Power=1)
 Interest Index of Offices
 
       Each office has an interest index, tracked by the IADoP.
 
-      A player CAN set an office's interest index without objection,
-      or without 2 objections if e holds the office.
+      A player CAN set an office's interest index without 2
+      objections, or with Agoran Consent.
 
 History:
 Created by Proposal 5970 (Murphy), 20 November 2008
 Amended(1) by Proposal 6246 (coppro), 9 May 2009
+Amended(2) by Proposal 6413 (c-walker), 30 July 2009
 
 ----------------------------------------------------------------------
 
