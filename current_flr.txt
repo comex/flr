@@ -386,6 +386,9 @@ applies only to those who have the rule-defined status of "player",
 not to those who play the game in the broader sense without having
 that official status.]
 
+[CFJs 1911-1914 (called 18 March 2008): Physical realities supersede
+the Rules by default.]
+
 History:
 Initial Immutable Rule 101, Jun. 30 1993
 Mutated from MI=Unanimity to MI=3 by Proposal 1480, Mar. 15 1995
@@ -475,6 +478,10 @@ Definition and Continuity of Entities
 pending timed events, which can therefore occur under modified rules
 even if the events that originally triggered them would not trigger
 them under the new rules.]
+
+[CFJ 1922 (called 4 April 2008): Without legislation to the contrary,
+documents attempting to define an entity with the same name define
+distinct entities.]
 
 History:
 Created by Proposal 2481, Feb. 16 1996
@@ -788,6 +795,10 @@ Role and Attributes of Rules
 [CFJ 1498 (called 12 April 2004): A rule's title is not strictly a
 name for the rule, and so rule titles are not subject to the
 uniqueness requirement on names of rule-defined entities.]
+
+[CFJ 2013 (called 17 June 2009): Rule 2141 does not imply that the
+power of rules is physically unlimited: they can only affect the world
+outside the game by prescribing or proscribing player behavior.]
 
 History:
 Created by Proposal 4940 (Zefram), 29 April 2007
@@ -1919,6 +1930,9 @@ Mother, May I?
          the described action, the full implications of failing to
          perform it should be understood and carefully weighed.
 
+[CFJ 1990 (called 7 June 2008): "Allowed" may refer to either
+possibility or permissibility depending on context.]
+
 History:
 Created by Proposal 5053 (Murphy), 5 July 2007
 Power changed from 1 to 2 by Proposal 5054 (Murphy), 5 July 2007
@@ -2308,6 +2322,12 @@ impossible.]
 
 [CFJ 1841 (called 20 December 2007): A message-based action cannot be
 retroactive.]
+
+[CFJ 1971 (called 22 May 2008): An announcement with a general
+disclaimer as to its contents cannot fulfill a requirement to report
+information, but it may successfully cause game actions to be taken if
+the actions do not depend on the truth value of the disclaimed
+contents.]
 
 History:
 Created by Proposal 478 (Jim Shea), Sep. 20 1993
@@ -4596,6 +4616,9 @@ prescribed words.]
 [CFJ 1846 (called 20 December 2007): For the purposes of prescribed
 words, words do not need to be a standard part of the language.]
 
+[CFJ 1924 (called 10 April 2008): A duration need not be a fixed
+amount of time.]
+
 History:
 Created by Proposal 1682, Aug. 22 1995
 Amended(1) by Proposal 2570, Apr. 12 1996
@@ -6011,6 +6034,10 @@ new ways of winning the game.]
 [CFJ 1835 (called 18 December 2007): An authorisation granted by a
 party in a contract takes precedence over a unilateral statement by
 that party that purports to cancel that authorisation.]
+
+[CFJ 1921 (called 2 April 2008): Agreements with informal phrasing can
+be considered contracts, but only when made in a medium where lying is
+against the Rules (i.e. a public forum).]
 
 History:
 Created by Proposal 3558 (General Chaos), Oct. 24 1997
