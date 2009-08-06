@@ -754,6 +754,9 @@ First Speaker
 Norrish necessarily fills the position of Speaker at the present
 time.]
 
+[CFJ 2154: (called 8 September 2008) The Speaker for the first game
+shall be Michael Norrish.]
+
 History:
 Initial Immutable Rule 104, Jun. 30 1993
 Mutated from MI=Unanimity to MI=3 by Proposal 1482, Mar. 15 1995
@@ -799,6 +802,10 @@ uniqueness requirement on names of rule-defined entities.]
 [CFJ 2013 (called 17 June 2009): Rule 2141 does not imply that the
 power of rules is physically unlimited: they can only affect the world
 outside the game by prescribing or proscribing player behavior.]
+
+[CFJ 2213 (called 7 October 2008): The powers granted to rules by the
+first paragraph of Rule 2141 are general, and only apply as otherwise
+stated by the Rules.]
 
 History:
 Created by Proposal 4940 (Zefram), 29 April 2007
@@ -998,6 +1005,9 @@ change, even though it is specified in two parts.]
 [CFJ 1643 (called 29 April 2007): Where a proposal specifies a single
 rule amendment in two parts, and one of the parts is not possible but
 the other is possible, the possible part is applied alone.]
+
+[CFJ 2201 (called 30 September 2008): The permission required by Rule
+105 need not be explicit.]
 
 History:
 Created by Proposal 4894 (Murphy), 12 February 2007
@@ -1384,6 +1394,10 @@ Who Am I?
       The executor of an action performed by announcement is the
       executor of the announcement.
 
+[CFJs 2184-2192 (called 24 September 2008): A message signature
+containing a unique nickname is not a self-ratifying claim that its
+publisher is distinct from other generally-recognized persons.]
+
 History:
 Created by Proposal 5212 (Murphy), 8 September 2007
 Amended(1) by Proposal 5445 (Goethe, Murphy), 21 February 2008
@@ -1705,6 +1719,9 @@ rest of the message.]
 it would not be telling the truth, and its logical indeterminacy would
 be understood by any reasonable player.]
 
+[CFJ 2103 (called 21 July 2008): Making the statement "I lie." is not
+a violation of Rule 2215 if the author is lying down.]
+
 History:
 Created by Proposal 5789 (Murphy, Zefram, Michael, Goethe), 22 October
   2008
@@ -1932,6 +1949,11 @@ Mother, May I?
 
 [CFJ 1990 (called 7 June 2008): "Allowed" may refer to either
 possibility or permissibility depending on context.]
+
+[CFJs 2120-2121 (called 4 August 2008): A requirement of the form
+'within <time limit>, a player SHALL <action> by announcement' means
+that the player CAN perform the action, and SHALL do so within the
+time limit.]
 
 History:
 Created by Proposal 5053 (Murphy), 5 July 2007
@@ -2227,6 +2249,15 @@ receive the PF.]
 [CFJ 831 (called 10 November 1995): The Date: header of a message is
 not necessarily the time at which the message takes effect.]
 
+[CFJ 2205 (called 2 October 2008): A message takes effect at exactly
+one of the times date-stamped on it; selecting which one is a matter
+of game custom.]
+
+[CFJ 2212 (called 7 October 2008): An IRC channel is a forum.]
+
+[CFJ 2211 (called 7 October 2008): It is generally possible for an IRC
+channel to be a public forum.
+
 [CFJ 866 (called 8 April 1996): A message is "received" when the
 message enters the recipient's normal technical domain of control,
 whether this be eir private machine or eir private account on a shared
@@ -2328,6 +2359,20 @@ disclaimer as to its contents cannot fulfill a requirement to report
 information, but it may successfully cause game actions to be taken if
 the actions do not depend on the truth value of the disclaimed
 contents.]
+
+[CFJ 2133 (called 9 August 2008): A disclaimed statement cannot cause
+an action to be taken by announcement.]
+
+[CFJ 2112 (called 23 July 2008): An action is only taken by
+announcement if the Rules define it as such; e.g., posting an
+objection to a dependent action is not an action taken by
+announcement.]
+
+[CFJ 2151 (called 5 September 2008): Some unregulated actions, such as
+celebrating and revealing things, can be taken by announcement.]
+
+[CFJ 2086 (called 15 July 2008): Message-based actions are always
+taken in some order, never precisely simultaneously.]
 
 History:
 Created by Proposal 478 (Jim Shea), Sep. 20 1993
