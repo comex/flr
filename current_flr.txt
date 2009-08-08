@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6407
-Last change to this ruleset: by proposal 6407
+Last proposal with recorded effect on this ruleset: 6408
+Last change to this ruleset: by proposal 6408
 
 Last updated: 7 August 2009
 
@@ -5363,7 +5363,7 @@ Cards
       A category concerning the economic subgame defined by the Rules.
 ----------------------------------------------------------------------
 
-Rule 2253/0 (Power=2)
+Rule 2253/1 (Power=2)
 Cards
 
       Cards are any class of assets defined by the Rules to be cards.
@@ -5375,11 +5375,7 @@ Cards
 
       A Deck is a collection of card types associated in the Rules
       with a particular recordkeepor, who is known as the dealer for
-      that deck and for the cards in that deck.  Any office whose
-      duties include being a dealer is a high-priority office (rules
-      to the contrary notwithstanding), and holdings of cards from
-      that deck are part of that officer's weekly report; a dealer's
-      report of card holdings is self-ratifying.
+      that deck and for the cards in that deck.
 
       The dealer for a deck CAN, by announcement:
        * create a card that is part of that deck in the possession of
@@ -5394,6 +5390,7 @@ Cards
 
 History:
 Created by Proposal 6394 (Goethe), 10 July 2009
+Amended(1) by Proposal 6408 (coppro), 7 August 2009
 
 ----------------------------------------------------------------------
 
@@ -5523,7 +5520,7 @@ Created by Proposal 6394 (Goethe), 10 July 2009
 
 ----------------------------------------------------------------------
 
-Rule 2258/0 (Power=1)
+Rule 2258/1 (Power=1)
 Decks, Draws, and Salaries
 
       Any deck of cards defined by this rule is known as a Basic Deck.
@@ -5548,14 +5545,14 @@ Decks, Draws, and Salaries
       Accountor, with possible values being the names of each basic
       deck (default Government).  The holder of each OFFICE CAN change
       that office's salary by announcement.  At the beginning of each
-      week, each holder of a high-priority office who completed a non-
-      empty set of duties in the prior week earns a number of draws
-      from the deck indicated by the switch equal to the interest
-      index for the office.  At the beginning of each month, each
-      holder of a low-priority office who held the office for 16 or
-      more days in the prior month earns a number of draws from the
-      deck indicated by the switch equal to the interest index of the
-      office.
+      week, each holder of an office with a weekly report who
+      published that report in the previous week earns a number of
+      draws from the deck indicated by the switch equal to the
+      interest index for that office. At the beginning of each month,
+      each holder of an office without a weekly report who held the
+      office for 16 or more days in the prior month earns a number of
+      draws from the deck indicated by the switch equal to the
+      interest index of the office.
 
       When a first-class player registers, e earns two draws from each
       basic deck.
@@ -5569,6 +5566,7 @@ Decks, Draws, and Salaries
 
 History:
 Created by Proposal 6394 (Goethe), 10 July 2009
+Amended(1) by Proposal 6408 (coppro), 7 August 2009
 
 ----------------------------------------------------------------------
 
