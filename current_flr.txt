@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6409
-Last change to this ruleset: by proposal 6409
+Last proposal with recorded effect on this ruleset: 6414
+Last change to this ruleset: by proposal 6414
 
-Last updated: 7 August 2009
+Last updated: 8 August 2009
 
 Rule ID numbers:
       highest orderly: 2265
@@ -3649,7 +3649,7 @@ Proposals
       which changes are made to the game.
 ----------------------------------------------------------------------
 
-Rule 106/21 (Power=3)
+Rule 106/22 (Power=3)
 Adopting Proposals
 
       A proposal is a fixed body of text which has been made into a
@@ -3689,8 +3689,10 @@ Adopting Proposals
       submission, or otherwise defaults to 1.0.
 
       Determining whether to adopt a proposal is an Agoran decision.
-      For this decision, the adoption index is the adoption index of
-      the proposal, and the vote collector is the Assessor.
+      The adoption index of this decision is set to the adoption index
+      of the proposal at the initiation of the decision. Changing the
+      adoption index of the decision is secured with a power threshold
+      of 2.  The vote collector for this decision is the Assessor.
 
       If the option selected by Agora on this decision is ADOPTED,
       then the proposal is adopted, and unless other rules prevent it
@@ -3757,6 +3759,7 @@ Amended(18) by Proposal 6090 (Murphy, ais523), 22 February 2009
 Amended(19) by Proposal 6113 (Goethe), 1 March 2009
 Amended(20) by Proposal 6222 (coppro), 27 April 2009
 Amended(21) by Proposal 6398 (C-walker; disi.), 17 July 2009
+Amended(22) by Proposal 6414 (C-walker), 8 August 2009
 
 ----------------------------------------------------------------------
 
