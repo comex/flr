@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6413
-Last change to this ruleset: by proposal 6413
+Last proposal with recorded effect on this ruleset: 6406
+Last change to this ruleset: by proposal 6406
 
-Last updated: 31 July 2009
+Last updated: 7 August 2009
 
 Rule ID numbers:
       highest orderly: 2265
@@ -3773,7 +3773,7 @@ Created by Proposal 5970 (Murphy), 20 November 2008
 
 ----------------------------------------------------------------------
 
-Rule 1607/23 (Power=2)
+Rule 1607/24 (Power=2)
 The Promotor
 
       The Promotor is an office; its holder is responsible for
@@ -3789,6 +3789,12 @@ The Promotor
       week, distribute any proposal that is in the Pool but was
       Undistributable at the beginning of that Agoran week, or was
       entered into the Pool during that Agoran week.
+
+      A player CAN flip a specified Interested proposal to
+      Distributable without a number of objections equal to 4 - II
+      (where II is the Interest Index of the specified proposal).
+      A player CAN flip a specified Disinterested proposal to
+      Distributable by announcement.
 
       A player CAN flip a specified proposal to Distributable without
       Objection.
@@ -3868,6 +3874,7 @@ Amended(20) by Proposal 6313 (Goethe), 26 May 2009
 Amended(21) by Proposal 6341 (G.), 11 June 2009
 Amended(22) by Proposal 6394 (Goethe), 10 July 2009
 Amended(23) by Proposal 6395 (coppro), 17 July 2009
+Amended(24) by Proposal 6406 (C-walker), 7 August 2009
 
 ----------------------------------------------------------------------
 
