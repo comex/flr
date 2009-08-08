@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6408
-Last change to this ruleset: by proposal 6408
+Last proposal with recorded effect on this ruleset: 6409
+Last change to this ruleset: by proposal 6409
 
 Last updated: 7 August 2009
 
@@ -19,10 +19,10 @@ Power distribution:
        1 with Power=4
        1 with Power=3.2
       33 with Power=3
-      44 with Power=2
+      51 with Power=2
        5 with Power=1.7
        6 with Power=1.5
-      55 with Power=1
+      48 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -5394,7 +5394,7 @@ Amended(1) by Proposal 6408 (coppro), 7 August 2009
 
 ----------------------------------------------------------------------
 
-Rule 2254/0 (Power=1)
+Rule 2254/0 (Power=2)
 Position Cards
 
       If a card class has a position, it CANNOT be destroyed except
@@ -5414,6 +5414,7 @@ Position Cards
 
 History:
 Created by Proposal 6394 (Goethe), 10 July 2009
+Power changed from 1 to 2 by Proposal 6409 (G.; disi.), 7 August 2009
 
 ----------------------------------------------------------------------
 
@@ -5458,7 +5459,7 @@ Created by Proposal 6394 (Goethe), 10 July 2009
 
 ----------------------------------------------------------------------
 
-Rule 2256/1 (Power=1)
+Rule 2256/1 (Power=2)
 Exploit Cards
 
       A player CAN play a card in eir possession which has an Exploit,
@@ -5482,6 +5483,7 @@ Exploit Cards
 History:
 Created by Proposal 6394 (Goethe), 10 July 2009
 Amended(1) by Proposal 6407 (Wooble), 7 August 2009
+Power changed from 1 to 2 by Proposal 6409 (G.; disi.), 7 August 2009
 
 ----------------------------------------------------------------------
 
@@ -5520,7 +5522,7 @@ Created by Proposal 6394 (Goethe), 10 July 2009
 
 ----------------------------------------------------------------------
 
-Rule 2258/1 (Power=1)
+Rule 2258/1 (Power=2)
 Decks, Draws, and Salaries
 
       Any deck of cards defined by this rule is known as a Basic Deck.
@@ -5567,10 +5569,11 @@ Decks, Draws, and Salaries
 History:
 Created by Proposal 6394 (Goethe), 10 July 2009
 Amended(1) by Proposal 6408 (coppro), 7 August 2009
+Power changed from 1 to 2 by Proposal 6409 (G.; disi.), 7 August 2009
 
 ----------------------------------------------------------------------
 
-Rule 2259/0 (Power=1)
+Rule 2259/0 (Power=2)
 Basic Hand Limits
 
       Each first-class player has a Basic Deck Limit (BDL) of 3.
@@ -5590,10 +5593,11 @@ Basic Hand Limits
 
 History:
 Created by Proposal 6394 (Goethe), 10 July 2009
+Power changed from 1 to 2 by Proposal 6409 (G.; disi.), 7 August 2009
 
 ----------------------------------------------------------------------
 
-Rule 2260/1 (Power=1)
+Rule 2260/1 (Power=2)
 The Deck of Government
 
       When a player wins an election, e earns two draws from the
@@ -5629,10 +5633,11 @@ The Deck of Government
 History:
 Created by Proposal 6394 (Goethe), 10 July 2009
 Amended(1) by Proposal 6407 (Wooble), 7 August 2009
+Power changed from 1 to 2 by Proposal 6409 (G.; disi.), 7 August 2009
 
 ----------------------------------------------------------------------
 
-Rule 2261/0 (Power=1)
+Rule 2261/0 (Power=2)
 The Deck of Change
 
       When a proposal authored by a player is adopted and takes
@@ -5664,10 +5669,11 @@ The Deck of Change
 
 History:
 Created by Proposal 6394 (Goethe), 10 July 2009
+Power changed from 1 to 2 by Proposal 6409 (G.; disi.), 7 August 2009
 
 ----------------------------------------------------------------------
 
-Rule 2262/0 (Power=1)
+Rule 2262/0 (Power=2)
 The Deck of Justice
 
       When a judge judges a case within its time limit, e earns a draw
@@ -5697,6 +5703,7 @@ The Deck of Justice
 
 History:
 Created by Proposal 6394 (Goethe), 10 July 2009
+Power changed from 1 to 2 by Proposal 6409 (G.; disi.), 7 August 2009
 
 ----------------------------------------------------------------------
 
