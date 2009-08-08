@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6406
-Last change to this ruleset: by proposal 6406
+Last proposal with recorded effect on this ruleset: 6407
+Last change to this ruleset: by proposal 6407
 
 Last updated: 7 August 2009
 
@@ -5267,7 +5267,7 @@ Amended(1) by Proposal 6160 (Murphy), 31 March 2009
 
 ----------------------------------------------------------------------
 
-Rule 2226/1 (Power=1.5)
+Rule 2226/2 (Power=1.5)
 Judicial Rank
 
       Judicial rank is a player switch, tracked by the Clerk of the
@@ -5283,7 +5283,7 @@ Judicial Rank
       rank is higher than 0, then it is decreased by 1, and e CANNOT
       increase it for 30 days afterward (the rest of this rule
       notwithstanding), unless eir new rank is 0, in which case e CAN
-      increase it to 1 at any time by spending 3 Notes.
+      increase it to 1 at any time with 3 support.
 
       "District", "Circuit", and "Supreme" are synonymous with
       judicial ranks 1, 2, and 3, respectively.
@@ -5291,6 +5291,7 @@ Judicial Rank
 History:
 Created by Proposal 5970 (Murphy), 20 November 2008
 Amended(1) by Proposal 6387 (Wooble), 10 July 2009
+Amended(2) by Proposal 6407 (Wooble), 7 August 2009
 
 ----------------------------------------------------------------------
 
@@ -5460,15 +5461,15 @@ Created by Proposal 6394 (Goethe), 10 July 2009
 
 ----------------------------------------------------------------------
 
-Rule 2256/0 (Power=1)
+Rule 2256/1 (Power=1)
 Exploit Cards
 
-      If a card has an Exploit, a player CAN play a card in eir
-      possession, by announcing that e plays the card, while also
-      announcing any further information required by the exploit.  The
-      card is destroyed, and if possible, the effects of the exploit
-      take place.  In an exploit, the term "you" refers to the entity
-      who plays the card.
+      A player CAN play a card in eir possession which has an Exploit,
+      by announcing that e plays the card, while also announcing any
+      further information required by the exploit.  The card is
+      destroyed, and if possible, the effects of the exploit take
+      place.  In an exploit, the term "you" refers to the entity who
+      plays the card.
 
       If the information is incorrect, or the exploit is IMPOSSIBLE or
       otherwise fails, or the card has no exploit, an attempt made by
@@ -5483,6 +5484,7 @@ Exploit Cards
 
 History:
 Created by Proposal 6394 (Goethe), 10 July 2009
+Amended(1) by Proposal 6407 (Wooble), 7 August 2009
 
 ----------------------------------------------------------------------
 
@@ -5593,7 +5595,7 @@ Created by Proposal 6394 (Goethe), 10 July 2009
 
 ----------------------------------------------------------------------
 
-Rule 2260/0 (Power=1)
+Rule 2260/1 (Power=1)
 The Deck of Government
 
       When a player wins an election, e earns two draws from the
@@ -5616,8 +5618,8 @@ The Deck of Government
 
       * Kill Bill      - Veto an indicated Ordinary Proposal.
 
-      * Lobbyist       - Increase the caste of a player you name in
-                         your party, other than yourself, by one.
+      * Lobbyist       - Increase the caste of a player you name,
+                         other than yourself, by one.
 
       * Local Election - Decrease the caste of a player you name by
                          one.
@@ -5628,6 +5630,7 @@ The Deck of Government
 
 History:
 Created by Proposal 6394 (Goethe), 10 July 2009
+Amended(1) by Proposal 6407 (Wooble), 7 August 2009
 
 ----------------------------------------------------------------------
 
