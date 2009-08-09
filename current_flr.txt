@@ -5606,6 +5606,16 @@ The Deck of Government
                          election for the office is in progress it is
                          canceled and re-started.
 
+[Note (9 August 2009): Current frequencies:
+ * Roll Call       40
+ * Arm-twist       20
+ * Lobbyist        10
+ * Local Election  10
+ * Debate-o-Matic   5
+ * On the Nod       5
+ * Kill Bill        5
+ * No Confidence    5]
+
 History:
 Created by Proposal 6394 (Goethe), 10 July 2009
 Amended(1) by Proposal 6407 (Wooble), 7 August 2009
@@ -5643,6 +5653,13 @@ The Deck of Change
                           paradox which would prevent its play, its
                           play is unsuccessful.
 
+[Note (9 August 2009): Current frequencies:
+ * Distrib-u-Matic  66
+ * Committee        20
+ * Your Turn        10
+ * Presto!           3
+ * Not Your Turn     1]
+
 History:
 Created by Proposal 6394 (Goethe), 10 July 2009
 Power changed from 1 to 2 by Proposal 6409 (G.; disi.), 7 August 2009
@@ -5676,6 +5693,12 @@ The Deck of Justice
        * Discard Picking  - Indicate a card that was played or
                             destroyed in the past 72 hours.  It is
                             transferred to your hand.
+
+[Note (9 August 2009): Current frequencies:
+ * Absolv-o-Matic   60
+ * Drop your Weapon 20
+ * Discard Picking  15
+ * Stool Pigeon      5]
 
 History:
 Created by Proposal 6394 (Goethe), 10 July 2009
