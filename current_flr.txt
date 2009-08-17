@@ -841,11 +841,11 @@ Amended(6) by Proposal 5105 (Zefram), 1 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 1030/8 (Power=3.2)
+Rule 1030/9 (Power=3.2)
 Precedence between Rules
 
       In a conflict between Rules, the conflict shall be resolved by
-      performing the following comparisons in the squence written in
+      performing the following comparisons in the sequence written in
       this rule, until the conflict is resolved.
 
       - In a conflict between Rules with different Power, the Rule
@@ -905,6 +905,7 @@ Amended(7) by Proposal 6285 (Goethe), 19 May 2009
 Amended(8) by Proposal 6292 (Goethe), 19 May 2009
 Title changed by Proposal 6292 (Goethe), 19 May 2009
 Power changed from 3 to 3.2 by Proposal 6292 (Goethe), 19 May 2009
+Amended(9) by cleaning (Murphy), 16 August 2009
 
 ----------------------------------------------------------------------
 
@@ -2558,7 +2559,7 @@ Amended(12) by Proposal 6410 (coppro; disi.), 30 July 2009
 
 ----------------------------------------------------------------------
 
-Rule 2166/11 (Power=2)
+Rule 2166/12 (Power=2)
 Assets
 
       An asset is an entity defined as such by a rule or contract
@@ -2569,7 +2570,7 @@ Assets
       lack an owner, it is owned by the Lost and Found Department.  If
       an asset's backing document restricts its ownership to a class
       of entities, then that asset CANNOT be gained by or transferred
-      to an entity outside that class, and is transfered to the Lost
+      to an entity outside that class, and is transferred to the Lost
       and Found Department if it is owned by an entity outside that
       class.  If an asset is owned by the Lost and Found department
       any player CAN transfer or destroy it without objection.
@@ -2641,6 +2642,7 @@ Assigned to Committee on Finance by Proposal 6053 (Murphy, woggle,
   ais523), 23 January 2009
 Amended(10) by Proposal 6161 (Murphy), 31 March 2009
 Amended(11) by Proposal 6253 (Quazie), 9 May 2009
+Amended(12) by cleaning (Murphy), 16 August 2009
 
 ----------------------------------------------------------------------
 
@@ -2678,7 +2680,7 @@ Offices
       within the game.
 ----------------------------------------------------------------------
 
-Rule 1006/28 (Power=2)
+Rule 1006/29 (Power=2)
 Offices
 
       An office is a role defined as such by the rules.  Each office
@@ -2697,7 +2699,7 @@ Offices
       active player to replace em who is qualified to hold the office;
       then the designee CAN, in the week following the officer's
       announcement, make emself the holder of the office by
-      announcement; the ADoP SHALL initiate an election for the office
+      announcement; the IADoP SHALL initiate an election for the office
       asap after such an office change.
 
 [CFJ 1660 (called 13 May 2007): This rule does not define the meaning
@@ -2747,6 +2749,7 @@ Amended(27) by Proposal 6023 (Murphy), 22 December 2008
 Assigned to Committee on Administration by Proposal 6053 (Murphy,
   woggle, ais523), 23 January 2009
 Amended(28) by Proposal 6372 (G.), 23 June 2009
+Amended(29) by cleaning (Murphy), 16 August 2009
 
 ----------------------------------------------------------------------
 
@@ -3906,7 +3909,7 @@ Amended(20) by Proposal 5418 (root), 2 February 2008
 
 ----------------------------------------------------------------------
 
-Rule 2156/11 (Power=2)
+Rule 2156/12 (Power=2)
 Voting on Ordinary Decisions
 
       Caste is a player switch, tracked by the Grand Poobah, with the
@@ -3928,7 +3931,7 @@ Voting on Ordinary Decisions
       voting limit of an eligible voter on an ordinary decision is eir
       caste at the start of its voting period, reduced to the next
       lower caste (minimum Savage) for each positive multiple of 4
-      Rests that the voter posesses at the start of the voting period.
+      Rests that the voter possesses at the start of the voting period.
 
 History:
 Created by Proposal 5078 (Zefram), 18 July 2007
@@ -3946,6 +3949,7 @@ Amended(9) by Proposal 5791 (Murphy), 22 October 2008
 Amended(10) by Proposal 5985 (Murphy), 7 December 2008
 Amended(11) by Proposal 6010 (ais523, Goethe, Murphy, comex,
   OscarMeyr), 14 December 2008
+Amended(12) by cleaning (Murphy), 16 August 2009
 
 ----------------------------------------------------------------------
 
@@ -5394,7 +5398,7 @@ Power changed from 1 to 2 by Proposal 6409 (G.; disi.), 7 August 2009
 
 ----------------------------------------------------------------------
 
-Rule 2255/0 (Power=2)
+Rule 2255/1 (Power=2)
 Major Arcana
 
       The Major Arcana is a deck of Position cards whose dealer is the
@@ -5417,7 +5421,7 @@ Major Arcana
       notwithstanding.
 
       Title: Chief Whip.
-      Position:  The Chief Whips's voting limit on an Ordinary
+      Position:  The Chief Whip's voting limit on an Ordinary
       proposal is 1.5 times what it would otherwise be.
 
       Title: Justiciar.
@@ -5432,6 +5436,7 @@ Major Arcana
 
 History:
 Created by Proposal 6394 (Goethe), 10 July 2009
+Amended(1) by cleaning (Murphy), 16 August 2009
 
 ----------------------------------------------------------------------
 
@@ -5498,7 +5503,7 @@ Created by Proposal 6394 (Goethe), 10 July 2009
 
 ----------------------------------------------------------------------
 
-Rule 2258/1 (Power=2)
+Rule 2258/2 (Power=2)
 Decks, Draws, and Salaries
 
       Any deck of cards defined by this rule is known as a Basic Deck.
@@ -5516,7 +5521,7 @@ Decks, Draws, and Salaries
       number of draws from each Basic Deck equal to the number of
       times that deck appeared in eir salary switch at the beginning
       of the month.  As soon as possible after the beginning of each
-      month, the Accounter SHALL publish the state of each player's
+      month, the Accountor SHALL publish the state of each player's
       Salary switch as it was at the beginning of the month.
 
       Office Salary is a switch for each office tracked by the
@@ -5546,6 +5551,7 @@ History:
 Created by Proposal 6394 (Goethe), 10 July 2009
 Amended(1) by Proposal 6408 (coppro), 7 August 2009
 Power changed from 1 to 2 by Proposal 6409 (G.; disi.), 7 August 2009
+Amended(2) by cleaning (Murphy), 16 August 2009
 
 ----------------------------------------------------------------------
 
@@ -5641,7 +5647,7 @@ Amended(3) by Proposal 6419 (BobTHJ), 16 August 2009
 
 ----------------------------------------------------------------------
 
-Rule 2261/1 (Power=2)
+Rule 2261/2 (Power=2)
 The Deck of Change
 
       When a proposal authored by a player is adopted and takes
@@ -5665,7 +5671,7 @@ The Deck of Change
                           entity.  That card is transferred to your
                           hand.
 
-      * Not Your Turn  -  cancel a card play that occured in the last
+      * Not Your Turn  -  cancel a card play that occurred in the last
                           24 hours; HOWEVER; if this would lead at any
                           time in the 24 hours after playing to a
                           paradox which would prevent its play, its
@@ -5690,6 +5696,7 @@ History:
 Created by Proposal 6394 (Goethe), 10 July 2009
 Power changed from 1 to 2 by Proposal 6409 (G.; disi.), 7 August 2009
 Amended(1) by Proposal 6419 (BobTHJ), 16 August 2009
+Amended(2) by cleaning (Murphy), 16 August 2009
 
 ----------------------------------------------------------------------
 
@@ -5841,7 +5848,7 @@ Amended(31) by Proposal 6424 (Murphy), 16 August 2009
 
 ----------------------------------------------------------------------
 
-Rule 1922/35 (Power=1)
+Rule 1922/36 (Power=1)
 Defined Regular Patent Titles
 
       The following are Patent Titles:
@@ -5889,7 +5896,7 @@ Defined Regular Patent Titles
       (f)  Elder Lurker, to be awarded to Persons who are true legends
            that were involved in Agora in its early days and now
            continue to grace us with their presence by lurking on the
-           lists to occasionally add tid-bits of wisdom or insight to
+           lists to occasionally add tidbits of wisdom or insight to
            discussions.
 
       (g)  Cassandra, to be awarded to any player who noticed a scam,
@@ -5944,6 +5951,7 @@ Amended(32) by Proposal 6175 (Yally), 7 April 2009
 Amended(33) by Proposal 6247 (Murphy), 9 May 2009
 Amended(34) by Proposal 6298 (coppro), 19 May 2009
 Amended(35) by Proposal 6394 (Goethe), 10 July 2009
+Amended(36) by cleaning (Murphy), 16 August 2009
 
 ----------------------------------------------------------------------
 
@@ -6016,7 +6024,7 @@ Amended(13) by Proposal 6257 (coppro), 11 May 2009
 
 ----------------------------------------------------------------------
 
-Rule 2231/0 (Power=2)
+Rule 2231/1 (Power=2)
 Order of the Hero of Agora Nomic
 
       The set of patent titles defined in this rule constitute the
@@ -6028,7 +6036,7 @@ Order of the Hero of Agora Nomic
       be awarded to persons for meritorious service only by a proposal
       of power 3 or greater.  Heroic titles SHOULD NOT be revoked.
       Heroes are entitled to use the abbreviation of eir title as
-      postnomial letters in Agora communications and reports.
+      post-nomial letters in Agora communications and reports.
 
       The Heroic titles in decreasing precedence are:
 
@@ -6044,6 +6052,7 @@ Order of the Hero of Agora Nomic
 
 History:
 Created by Proposal 6016 (OscarMeyr), 18 December 2008
+Amended(1) by cleaning (Murphy), 16 August 2009
 
 ----------------------------------------------------------------------
 
@@ -6365,7 +6374,7 @@ Assigned to Committee on Small Business and Entrepreneurship by
 
 ----------------------------------------------------------------------
 
-Rule 2179/7 (Power=1)
+Rule 2179/8 (Power=1)
 Points
 
       For each point axis:
@@ -6382,7 +6391,7 @@ Points
       secured, then changes to point holdings are secured with the
       same power threshold.
 
-      The Scorekeepor is a office, and the recordkeepor of points.
+      The Scorekeepor is an office, and the recordkeepor of points.
 
       Players generally CAN transfer points they own to other players,
       subject to the restrictions that no more than 5 points can be
@@ -6406,6 +6415,7 @@ Amended(5) by Proposal 6061 (ais523), 4 February 2009
 Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
 Amended(6) by Proposal 6233 (Yally; disi.), 4 May 2009
 Amended(7) by Proposal 6380 (Wooble; disi.), 3 July 2009
+Amended(8) by cleaning (comex), 17 August 2009
 
 ----------------------------------------------------------------------
 
@@ -6494,7 +6504,7 @@ Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
 
 ----------------------------------------------------------------------
 
-Rule 2233/2 (Power=1)
+Rule 2233/3 (Power=1)
 Awarding and Revoking Points
 
       Each contest has a threshold index (default: 5). Any player CAN
@@ -6516,6 +6526,7 @@ Assigned to Committee on Indian Affairs by Proposal 6053 (Murphy,
 Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
 Amended(1) by Proposal 6227 (Murphy, comex), 4 May 2009
 Amended(2) by Proposal 6369 (BobTHJ), 23 June 2009
+Amended(3) by cleaning (Wooble), 16 August 2009
 
 ----------------------------------------------------------------------
 
@@ -6827,10 +6838,10 @@ Assigned to Committee on Foreign Relations by Proposal 6053 (Murphy,
 
 ----------------------------------------------------------------------
 
-Rule 2251/0 (Power=1)
+Rule 2251/1 (Power=1)
 InterNomic Attitude
 
-      The official attitude of Agora torward a foreign nomic depends
+      The official attitude of Agora toward a foreign nomic depends
       on its Recognition as follows:
 
       Recognition                   Attitude
@@ -6854,6 +6865,7 @@ InterNomic Attitude
 
 History:
 Created by Proposal 6361 (comex), 23 June 2009
+Amended(1) by cleaning (Murphy), 16 August 2009
 
 ----------------------------------------------------------------------
 
