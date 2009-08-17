@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6424
-Last change to this ruleset: by proposal 6424
+Last proposal with recorded effect on this ruleset: 6425
+Last change to this ruleset: by proposal 6425
 
 Last updated: 8 August 2009
 
@@ -5573,7 +5573,7 @@ Power changed from 1 to 2 by Proposal 6409 (G.; disi.), 7 August 2009
 
 ----------------------------------------------------------------------
 
-Rule 2260/1 (Power=2)
+Rule 2260/2 (Power=2)
 The Deck of Government
 
       When a player wins an election, e earns two draws from the
@@ -5582,29 +5582,37 @@ The Deck of Government
       The Deck of Government consists of the following cards, listed
       by title followed by Exploit.
 
-      * Roll Call      - Increase an indicated player's voting limit
-                         on one indicated Ordinary Proposal except in
-                         last 24 hours of voting period.
+      * Roll Call      - Indicate a player and an ongoing ordinary
+                         Agoran Decision with more than 24 hours
+                         remaining in its voting period. That player's
+                         voting limit on that Decision is increased by
+                         one.
 
-      * Debate-o-Matic - Make a Proposal you name Democratic.
+      * Debate-o-Matic - Indicate an ongoing ordinary Agoran Decision.
+                         It becomes democratic.
 
-      * Arm-twist      - Decrease an indicated player's Vote Power on
-                         one indicated Ordinary Proposal.
+      * Arm-Twist      - Indicate a player and an ongoing ordinary
+                         Agoran Decision. That player's voting limit
+                         on that Decision is increased by one.
 
-      * On the Nod     - Rubberstamp an indicated Ordinary, non-
-                         filibustered Proposal.
+      * On the Nod     - Indicate an ongoing ordinary Agoran Decision
+                         that has not been filibustered. That Decision
+                         is rubberstamped.
 
-      * Kill Bill      - Veto an indicated Ordinary Proposal.
+      * Kill Bill      - Indicate an ongoing ordinary Agoran Decision.
+                         That Decision is vetoed.
 
       * Lobbyist       - Increase the caste of a player you name,
                          other than yourself, by one.
 
-      * Local Election - Decrease the caste of a player you name by
-                         one.
+      * Local Election - Indicate a non-Savage player. That player's
+                         caste is decreased by one.
 
-      * No Confidence  - Initiate an election for an office; if an
-                         election for the office is in progress it is
-                         canceled and re-started.
+      * No Confidence  - Indicate an office. If there is an ongoing
+                         election for that office, it is canceled
+                         (there is no change in its holder). An
+                         election for that office is initiated.
+                         one.
 
 [Note (9 August 2009): Current frequencies:
  * Roll Call       40
@@ -5620,6 +5628,7 @@ History:
 Created by Proposal 6394 (Goethe), 10 July 2009
 Amended(1) by Proposal 6407 (Wooble), 7 August 2009
 Power changed from 1 to 2 by Proposal 6409 (G.; disi.), 7 August 2009
+Amended(2) 7 times by Proposal 6425 (coppro; disi.), 16 August 2009
 
 ----------------------------------------------------------------------
 
