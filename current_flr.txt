@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6430
-Last change to this ruleset: by proposal 6430
+Last proposal with recorded effect on this ruleset: 6431
+Last change to this ruleset: by proposal 6431
 
 Last updated: 8 August 2009
 
@@ -5703,7 +5703,7 @@ Amended(2) by cleaning (Murphy), 16 August 2009
 
 ----------------------------------------------------------------------
 
-Rule 2262/1 (Power=2)
+Rule 2262/2 (Power=2)
 The Deck of Justice
 
       When a judge judges a case within its time limit, e earns a draw
@@ -5715,21 +5715,22 @@ The Deck of Justice
       The Deck of Justice consists of the following cards, listed by
       title followed by Exploit.
 
-       * Absolv-o-Matic   - A Rest possessed by a Player you name is
+       * Absolv-o-Matic   - Indicate a player with at least one Rest.
+                            A Rest in that player's possession
                             destroyed.
 
-       * Stool Pigeon     - A rest is created in the possession of a
-                            first-class player that you name, provided
-                            no one has named the same player in playing
-                            this card in the last 72 hours.
+       * Stool Pigeon     - Indicate a player who has not been
+                            indicated for this card within the last 72
+                            hours. A Rest is created in that player's
+                            possession.
 
        * Drop your Weapon - Indicate an entity and a card held by that
-                            entity.  If that entity possesses that
-                            card, it is destroyed.
+                            entity. That card is destroyed.
 
-       * Discard Picking  - Indicate a card that was played or
-                            destroyed in the past 72 hours.  It is
-                            transferred to your hand.
+       * Discard Picking  - Indicate a type of Exploit card where at
+                            least one card of that type was destroyed
+                            in the past 72 hours; a card of that type
+                            is created in your possession.
 
        * Justice Ball     - If you hold an "X Ball" card (where X is
                             the name of a Basic Deck) for each other
@@ -5749,6 +5750,7 @@ History:
 Created by Proposal 6394 (Goethe), 10 July 2009
 Power changed from 1 to 2 by Proposal 6409 (G.; disi.), 7 August 2009
 Amended(1) by Proposal 6419 (BobTHJ), 16 August 2009
+Amended(2) 4 times by Proposal 6431 (coppro; disi.), 18 August 2009
 
 ----------------------------------------------------------------------
 
