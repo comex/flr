@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6427
-Last change to this ruleset: by proposal 6427
+Last proposal with recorded effect on this ruleset: 6428
+Last change to this ruleset: by proposal 6428
 
 Last updated: 8 August 2009
 
@@ -2753,7 +2753,7 @@ Amended(29) by cleaning (Murphy), 16 August 2009
 
 ----------------------------------------------------------------------
 
-Rule 2143/9 (Power=1)
+Rule 2143/10 (Power=1)
 Official Reports and Duties
 
       For each office:
@@ -2776,7 +2776,10 @@ Official Reports and Duties
 
       Any information defined by the rules as part of an office's
       report, without specifying which one, is part of its weekly
-      report.
+      report.  Failure of the holder of an office to perform any duty
+      required of that office within the alloted time is the Class-N
+      crime of Tardiness, where N in the Interest Index of that
+      office.
 
       While performing weekly or monthly duties or publishing weekly
       or monthly reports, officers SHALL NOT publish information that
@@ -2801,6 +2804,7 @@ Amended(6) by Proposal 6175 (Yally), 7 April 2009
 Amended(7) by Proposal 6224 (comex), 27 April 2009
 Amended(8) by Proposal 6322 (Wooble), 26 May 2009
 Amended(9) by Proposal 6368 (C-walker), 23 June 2009
+Amended(10) by Proposal 6428 (BobTHJ), 18 August 2009
 
 ----------------------------------------------------------------------
 
@@ -5506,7 +5510,7 @@ Created by Proposal 6394 (Goethe), 10 July 2009
 
 ----------------------------------------------------------------------
 
-Rule 2258/2 (Power=2)
+Rule 2258/3 (Power=2)
 Decks, Draws, and Salaries
 
       Any deck of cards defined by this rule is known as a Basic Deck.
@@ -5531,14 +5535,9 @@ Decks, Draws, and Salaries
       Accountor, with possible values being the names of each basic
       deck (default Government).  The holder of each OFFICE CAN change
       that office's salary by announcement.  At the beginning of each
-      week, each holder of an office with a weekly report who
-      published that report in the previous week earns a number of
-      draws from the deck indicated by the switch equal to the
-      interest index for that office. At the beginning of each month,
-      each holder of an office without a weekly report who held the
-      office for 16 or more days in the prior month earns a number of
-      draws from the deck indicated by the switch equal to the
-      interest index of the office.
+      week, each holder of an office earns a number of draws from the
+      deck indicated by the switch equal to the interest index for
+      that office.
 
       When a first-class player registers, e earns two draws from each
       basic deck.
@@ -5555,6 +5554,7 @@ Created by Proposal 6394 (Goethe), 10 July 2009
 Amended(1) by Proposal 6408 (coppro), 7 August 2009
 Power changed from 1 to 2 by Proposal 6409 (G.; disi.), 7 August 2009
 Amended(2) by cleaning (Murphy), 16 August 2009
+Amended(3) by Proposal 6428 (BobTHJ), 18 August 2009
 
 ----------------------------------------------------------------------
 
