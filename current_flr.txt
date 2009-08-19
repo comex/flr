@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6435
-Last change to this ruleset: by proposal 6435
+Last proposal with recorded effect on this ruleset: 6437
+Last change to this ruleset: by proposal 6437
 
 Last updated: 8 August 2009
 
@@ -2407,7 +2407,7 @@ Created by Proposal 6402 (woggle), 17 July 2009
 
 ----------------------------------------------------------------------
 
-Rule 1728/24 (Power=3)
+Rule 1728/25 (Power=3)
 Dependent Actions
 
       A person (the performer) CAN perform an action dependently (a
@@ -2418,7 +2418,8 @@ Dependent Actions
           action by a set of one or more of the following methods (N
           is 1 if not otherwise specified):
 
-            1) Without N Objections, where N is a positive integer.
+            1) Without N Objections, where N is a positive integer
+               no greater than 8.
             2) With N Supporters, where N is a positive integer.
             3) With N Agoran Consent, where N is an integer multiple
                of 0.1 with a minimum of 1.
@@ -2495,6 +2496,7 @@ Power changed from 2 to 3 by Proposal 5947 (ais523), 15 November 2008
 Amended(22) by Proposal 5995 (Murphy), 7 December 2008
 Amended(23) by Proposal 6041 (Murphy, Warrigal), 13 January 2009
 Amended(24) by Proposal 6204 (Murphy), 27 April 2009
+Amended(25) by Proposal 6437 (Murphy), 18 August 2009
 
 ----------------------------------------------------------------------
 
