@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6428
-Last change to this ruleset: by proposal 6428
+Last proposal with recorded effect on this ruleset: 6430
+Last change to this ruleset: by proposal 6430
 
 Last updated: 8 August 2009
 
@@ -2557,7 +2557,7 @@ Amended(12) by Proposal 6410 (coppro; disi.), 30 July 2009
 
 ----------------------------------------------------------------------
 
-Rule 2166/12 (Power=2)
+Rule 2166/13 (Power=2)
 Assets
 
       An asset is an entity defined as such by a rule or contract
@@ -2573,8 +2573,9 @@ Assets
       class.  If an asset is owned by the Lost and Found department
       any player CAN transfer or destroy it without objection.
 
-      The Lost and Found department may own any asset regardless of
-      restrictions placed upon an asset by its backing document.
+      The Lost and Found department may own any asset, and have assets
+      transferred to and from it, regardless of the asset's backing
+      document or any Rule, Rules to the contrary notwithstanding.
 
       The recordkeepor of a class of assets is the entity (if any)
       defined as such by, and bound by, its backing document.  That
@@ -2641,6 +2642,7 @@ Assigned to Committee on Finance by Proposal 6053 (Murphy, woggle,
 Amended(10) by Proposal 6161 (Murphy), 31 March 2009
 Amended(11) by Proposal 6253 (Quazie), 9 May 2009
 Amended(12) by cleaning (Murphy), 16 August 2009
+Amended(13) by Proposal 6430 (coppro; disi.), 18 August 2009
 
 ----------------------------------------------------------------------
 
