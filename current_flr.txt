@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6433
-Last change to this ruleset: by proposal 6433
+Last proposal with recorded effect on this ruleset: 6435
+Last change to this ruleset: by proposal 6435
 
 Last updated: 8 August 2009
 
@@ -5651,7 +5651,7 @@ Amended(3) by Proposal 6419 (BobTHJ), 16 August 2009
 
 ----------------------------------------------------------------------
 
-Rule 2261/2 (Power=2)
+Rule 2261/3 (Power=2)
 The Deck of Change
 
       When a proposal authored by a player is adopted and takes
@@ -5661,25 +5661,29 @@ The Deck of Change
       The Deck of Change consists of the following cards, listed by
       title followed by Exploit.
 
-      * Distrib-u-Matic - A proposal that you indicate becomes
-                          Distributable.
+      * Distrib-u-Matic - Indicate an Undistributable proposal. That
+                          proposal becomes Distributable
 
-      * Committee       - Make a Proposal you name Undistributable.
+      * Committee       - Indicate a Distributable proposal. That
+                          proposal becomes Undistributable.
 
-      * Your Turn       - Indicate a player.  That player must play or
-                          destroy a card in the next 72 hours; if e
-                          does not, you MAY act on eir behalf to
-                          discard one.
+      * Your Turn       - Indicate a player.  E SHOULD destroy at
+                          least one card in eir possession in the next
+                          72 hours. If e fails to do so, you CAN once
+                          destroy a card in eir possession by
+                          announcement in the subsequent week.
 
       * Presto!         - Indicate an entity and a card held by that
                           entity.  That card is transferred to your
                           hand.
 
-      * Not Your Turn  -  cancel a card play that occurred in the last
-                          24 hours; HOWEVER; if this would lead at any
-                          time in the 24 hours after playing to a
-                          paradox which would prevent its play, its
-                          play is unsuccessful.
+      * Not Your Turn  -  Indicate a given playing of a card that
+                          occurred in the last 24 hours. That play is
+                          canceled and did not occur. If this would
+                          lead at any time in the 24 hours after the
+                          playing of this card to a paradox which
+                          would prevent its play, its play is
+                          unsuccessful.
 
       * Change Ball     - If you hold an "X Ball" card (where X is the
                           name of a Basic Deck) for each other Basic
@@ -5701,6 +5705,7 @@ Created by Proposal 6394 (Goethe), 10 July 2009
 Power changed from 1 to 2 by Proposal 6409 (G.; disi.), 7 August 2009
 Amended(1) by Proposal 6419 (BobTHJ), 16 August 2009
 Amended(2) by cleaning (Murphy), 16 August 2009
+Amended(3) 4 times by Proposal 6435 (coppro; disi.), 18 August 2009
 
 ----------------------------------------------------------------------
 
