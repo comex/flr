@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6431
-Last change to this ruleset: by proposal 6431
+Last proposal with recorded effect on this ruleset: 6433
+Last change to this ruleset: by proposal 6433
 
 Last updated: 8 August 2009
 
@@ -544,7 +544,7 @@ Assigned to Committee on Rules by Proposal 6053 (Murphy, woggle,
 
 ----------------------------------------------------------------------
 
-Rule 2186/6 (Power=2)
+Rule 2186/7 (Power=2)
 Victory
 
       Winning Conditions and Losing Conditions are conditions defined
@@ -559,9 +559,9 @@ Victory
       the game, for each Winning Condition satisfied by at least one
       of those persons, its cleanup procedure occurs.
 
-      A win announcement is a correct announcement explicitly labeled
-      as a win announcement and/or clearly stating that one or more
-      persons win the game.
+      A win announcement is a factually correct announcement
+      explicitly labeled as a win announcement and/or clearly stating
+      that one or more persons win the game.
 
 [Cross-references (9 January 2008): list of Winning Conditions:
   * Clout (rule 2134)
@@ -581,6 +581,7 @@ Amended(3) by Proposal 6023 (Murphy), 22 December 2008
 Amended(4) by Proposal 6052 (Murphy), 23 January 2009
 Amended(5) by Proposal 6083 (ais523), 22 February 2009
 Amended(6) by Proposal 6198 (Murphy), 27 April 2009
+Amended(7) by Proposal 6433 (coppro; disi.), 18 August 2009
 
 ----------------------------------------------------------------------
 
