@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6437
-Last change to this ruleset: by proposal 6437
+Last proposal with recorded effect on this ruleset: 6438
+Last change to this ruleset: by proposal 6438
 
 Last updated: 8 August 2009
 
@@ -5353,7 +5353,7 @@ Cards
       A category concerning the economic subgame defined by the Rules.
 ----------------------------------------------------------------------
 
-Rule 2253/1 (Power=2)
+Rule 2253/2 (Power=2)
 Cards
 
       Cards are any class of assets defined by the Rules to be cards.
@@ -5374,13 +5374,15 @@ Cards
        * transfer a card that is part of that deck between any two
          entities;
 
-      however the e SHALL only perform these actions as explicitly
-      permitted by the Rules.  E MAY transfer, play, or destroy cards
-      in eir own possession as any other player generally MAY.
+      however e SHALL only perform these actions as explicitly
+      permitted by the Rules.  E MAY perform any card-related actions
+      as would be POSSIBLE for em to do so were it not for the above
+      paragraph.
 
 History:
 Created by Proposal 6394 (Goethe), 10 July 2009
 Amended(1) by Proposal 6408 (coppro), 7 August 2009
+Amended(2) by Proposal 6438 (coppro; disi.), 18 August 2009
 
 ----------------------------------------------------------------------
 
