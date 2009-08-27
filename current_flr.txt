@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6452
-Last change to this ruleset: by proposal 6452
+Last proposal with recorded effect on this ruleset: 6453
+Last change to this ruleset: by proposal 6453
 
 Last updated: 8 August 2009
 
@@ -3755,16 +3755,20 @@ Amended(22) by Proposal 6414 (C-walker), 8 August 2009
 
 ----------------------------------------------------------------------
 
-Rule 2224/0 (Power=1)
+Rule 2224/1 (Power=1)
 Interest Index of Proposals
 
       Each proposal has an interest index, which CAN be set by its
-      author at the time of submission.  A proposal SHOULD be
-      disinterested if and only if its effects are limited to
-      correcting errors and/or ambiguities.
+      author at the time of submission, and CAN be changed (while
+      undistributed) by any player without 2 objections, or by the
+      Promotor or Assessor without 3 objections.
+
+      A proposal SHOULD be disinterested if and only if its effects
+      are limited to correcting errors and/or ambiguities.
 
 History:
 Created by Proposal 5970 (Murphy), 20 November 2008
+Amended(1) by Proposal 6453 (C-walker), 27 August 2009
 
 ----------------------------------------------------------------------
 
