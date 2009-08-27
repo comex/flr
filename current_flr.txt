@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6441
-Last change to this ruleset: by proposal 6441
+Last proposal with recorded effect on this ruleset: 6444
+Last change to this ruleset: by proposal 6444
 
 Last updated: 8 August 2009
 
@@ -6282,7 +6282,7 @@ Amended(6) by Proposal 6388 (Tiger), 10 July 2009
 
 ----------------------------------------------------------------------
 
-Rule 2178/7 (Power=2)
+Rule 2178/8 (Power=2)
 Contract Switches
 
       Disclosure is a contract switch, tracked by the Notary, with
@@ -6294,8 +6294,8 @@ Contract Switches
 
         b) A contract's Disclosure CANNOT be flipped away from Public.
 
-        c) Changes to a public contract's text and/or list of parties
-           do not become effective until published.
+        c) Contract Changes to a public contract do not become
+           effective until published.
 
       Sentiment is a contract switch, tracked by the Notary, with
       values Equitable (default) and Legalistic.  Rules to the
@@ -6317,6 +6317,7 @@ Assigned to Committee on Small Business and Entrepreneurship by
   Proposal 6053 (Murphy, woggle, ais523), 23 January 2009
 Amended(6) by Proposal 6197 (Murphy), 27 April 2009
 Amended(7) by Proposal 6288 (coppro), 19 May 2009
+Amended(8) by Proposal 6444 (BobTHJ; disi.), 27 August 2009
 
 ----------------------------------------------------------------------
 
