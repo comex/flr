@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6446
-Last change to this ruleset: by proposal 6446
+Last proposal with recorded effect on this ruleset: 6448
+Last change to this ruleset: by proposal 6448
 
 Last updated: 8 August 2009
 
@@ -2407,7 +2407,7 @@ Created by Proposal 6402 (woggle), 17 July 2009
 
 ----------------------------------------------------------------------
 
-Rule 1728/25 (Power=3)
+Rule 1728/26 (Power=3)
 Dependent Actions
 
       A person (the performer) CAN perform an action dependently (a
@@ -2423,12 +2423,13 @@ Dependent Actions
             2) With N Supporters, where N is a positive integer.
             3) With N Agoran Consent, where N is an integer multiple
                of 0.1 with a minimum of 1.
+            4) With Notice.
 
        b) A person (the initiator) announced intent to perform the
           action, unambiguously and clearly specifying the action and
           method(s) (including the value of N for each method), at
           most fourteen days earlier, and (if the action depends on
-          objections) at least four days earlier.
+          objections or notice) at least four days earlier.
 
        c) At least one of the following is true:
 
@@ -2497,10 +2498,11 @@ Amended(22) by Proposal 5995 (Murphy), 7 December 2008
 Amended(23) by Proposal 6041 (Murphy, Warrigal), 13 January 2009
 Amended(24) by Proposal 6204 (Murphy), 27 April 2009
 Amended(25) by Proposal 6437 (Murphy), 18 August 2009
+Amended(26) by Proposal 6448 (BobTHJ), 27 August 2009
 
 ----------------------------------------------------------------------
 
-Rule 2124/12 (Power=2)
+Rule 2124/13 (Power=2)
 Agoran Satisfaction
 
       A Supporter of a dependent action is a first-class player who
@@ -2531,6 +2533,8 @@ Agoran Satisfaction
           the ratio of supporters to objectors is greater than N, or
           the action has at least one supporter and no objectors.
 
+      (4) The action to be performed is With Notice.
+
       The above notwithstanding, if the action depends on objections,
       and an objection to it has been withdrawn within the past 24
       hours, then Agora is not Satisfied with the intent.
@@ -2557,6 +2561,7 @@ Amended(9) by Proposal 5995 (Murphy), 7 December 2008
 Amended(10) by Proposal 6027 (Elysion), 8 January 2009
 Amended(11) by Proposal 6306 (Murphy), 26 May 2009
 Amended(12) by Proposal 6410 (coppro; disi.), 30 July 2009
+Amended(13) by Proposal 6448 (BobTHJ), 27 August 2009
 
 ----------------------------------------------------------------------
 
@@ -5569,27 +5574,27 @@ Amended(3) by Proposal 6428 (BobTHJ), 18 August 2009
 
 ----------------------------------------------------------------------
 
-Rule 2259/0 (Power=2)
+Rule 2259/1 (Power=2)
 Basic Hand Limits
 
-      Each first-class player has a Basic Deck Limit (BDL) of 3.
-      Every other entity has a BDL of 0.
+      Every entity has an integer Hand Limit (default 7 for
+      first-class players, 3 for contests, 0 for all others). Changes
+      to Hand Limit are secured. If an entity's Hand Limit would be
+      set to a number less than 0, it is instead set to 0. The
+      Accountor's report includes a list of all entities whose Hand
+      Limit is set to a non-default value.
 
-      Each entity's Actual Deck Limit (ADL) for a particular basic
-      deck is equal to eir BDL times the number of times that deck
-      appears as part of eir Salary switch.
-
-      As soon as possible after the beginning of each month, the
-      dealer of each basic deck SHALL, by announcement, destroy a
-      number of cards at random in each entity's hand equal to the
-      difference between the number of cards of that deck the entity
-      has and that entity's ADL for that deck.  The dealer SHALL NOT
-      deal any cards to any entity between the beginning of the month
-      and performing this duty for all entities.
+      Any entity CAN audit itself by announcement. When an active
+      player is audited that player gains one Rest for each
+      rule-defined card e owns in excess of eir hand limit (minimum
+      0). When any other entity is audited X random cards that entity
+      owns are destroyed, where X equals the number of card that
+      entity owns minus eir hand limit (minimum 0)..
 
 History:
 Created by Proposal 6394 (Goethe), 10 July 2009
 Power changed from 1 to 2 by Proposal 6409 (G.; disi.), 7 August 2009
+Amended(1) by Proposal 6448 (BobTHJ), 27 August 2009
 
 ----------------------------------------------------------------------
 
@@ -5661,7 +5666,7 @@ Amended(3) by Proposal 6419 (BobTHJ), 16 August 2009
 
 ----------------------------------------------------------------------
 
-Rule 2261/3 (Power=2)
+Rule 2261/4 (Power=2)
 The Deck of Change
 
       When a proposal authored by a player is adopted and takes
@@ -5702,13 +5707,21 @@ The Deck of Change
                           other basic deck one such corresponding Ball
                           card is destroyed.
 
+      * Supersize Me    - Specify an entity. That entity's Hand Limit
+                          is increased by 1.
+
+      * Shrink Potion   - Specify an entity. That entity's Hand Limit
+                          is decreased by 10% (rounded up).
+
 [Note (9 August 2009): Current frequencies:
  * Distrib-u-Matic  66
  * Committee        20
  * Your Turn        10
  * Presto!           3
  * Not Your Turn     1
- * Change Ball       1]
+ * Change Ball       1
+ * Supersize Me     30
+ * Shrink Potion    10]
 
 History:
 Created by Proposal 6394 (Goethe), 10 July 2009
@@ -5716,10 +5729,11 @@ Power changed from 1 to 2 by Proposal 6409 (G.; disi.), 7 August 2009
 Amended(1) by Proposal 6419 (BobTHJ), 16 August 2009
 Amended(2) by cleaning (Murphy), 16 August 2009
 Amended(3) 4 times by Proposal 6435 (coppro; disi.), 18 August 2009
+Amended(4) by Proposal 6448 (BobTHJ), 27 August 2009
 
 ----------------------------------------------------------------------
 
-Rule 2262/2 (Power=2)
+Rule 2262/3 (Power=2)
 The Deck of Justice
 
       When a judge judges a case within its time limit, e earns a draw
@@ -5755,18 +5769,28 @@ The Deck of Justice
                             Procedure: For each other basic deck one
                             such corresponding Ball card is destroyed.
 
+       * Penalty Box      - Specify an entity. When you play this card
+                            you CAN audit that entity With Notice (you
+                            must have previously declared intent as
+                            per other rules), so long as you do so in
+                            the same message as playing this card and
+                            that entity has not been audited since you
+                            declared intent.
+
 [Note (9 August 2009): Current frequencies:
  * Absolv-o-Matic   60
  * Drop your Weapon 20
  * Discard Picking  15
  * Stool Pigeon      5
- * Justice Ball      1]
+ * Justice Ball      1
+ * Penalty Box       5]
 
 History:
 Created by Proposal 6394 (Goethe), 10 July 2009
 Power changed from 1 to 2 by Proposal 6409 (G.; disi.), 7 August 2009
 Amended(1) by Proposal 6419 (BobTHJ), 16 August 2009
 Amended(2) 4 times by Proposal 6431 (coppro; disi.), 18 August 2009
+Amended(3) by Proposal 6448 (BobTHJ), 27 August 2009
 
 ----------------------------------------------------------------------
 
