@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6445
-Last change to this ruleset: by proposal 6445
+Last proposal with recorded effect on this ruleset: 6446
+Last change to this ruleset: by proposal 6446
 
 Last updated: 8 August 2009
 
@@ -6651,7 +6651,7 @@ Foreign Relations
       other nomics.
 ----------------------------------------------------------------------
 
-Rule 2200/3 (Power=1)
+Rule 2200/4 (Power=1)
 Nomic Definitions
 
       A nomic ruleset is a set of explicit rules that provides means
@@ -6669,11 +6669,11 @@ Nomic Definitions
       A foreign nomic is a nomic other than this one, even if it has
       the same name as this one.
 
-      A province is a protectorate that is a player.
-
       An embassy is a registered partnership designated as
       representing a specific foreign nomic by both its contract and
       the rules of that nomic.
+
+      A province is an embassy for a protectorate.
 
 History:
 Created by Proposal 5446 (Pavitra, Zefram), 24 February 2008
@@ -6682,6 +6682,7 @@ Amended(2) by Proposal 5968 (Murphy), 20 November 2008
 Amended(3) by Proposal 6026 (Murphy), 22 December 2008
 Assigned to Committee on Foreign Relations by Proposal 6053 (Murphy,
   woggle, ais523), 23 January 2009
+Amended(4) by Proposal 6446 (coppro; disi.), 27 August 2009
 
 ----------------------------------------------------------------------
 
