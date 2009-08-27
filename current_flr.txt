@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6438
-Last change to this ruleset: by proposal 6438
+Last proposal with recorded effect on this ruleset: 6441
+Last change to this ruleset: by proposal 6441
 
 Last updated: 8 August 2009
 
@@ -3147,7 +3147,7 @@ Agoran Decisions
       collective decisions.
 ----------------------------------------------------------------------
 
-Rule 693/10 (Power=3)
+Rule 693/11 (Power=3)
 Agoran Decisions
 
       When the rules calls for an Agoran decision to be made, the
@@ -3158,10 +3158,11 @@ Agoran Decisions
           (b) Voting of the people.
           (c) Resolution of the decision.
 
-      When submitting a ballot, a player can select PRESENT rather
-      than one of the options provided by the decision. A ballot cast
-      for PRESENT is considered to be a valid ballot, but, unless
-      specified otherwise, does not count as a valid option.
+      When submitting a ballot, a player can select PRESENT (syn.
+      ABSTAIN) rather than one of the options provided by the
+      decision. A ballot cast for PRESENT is considered to be a valid
+      ballot, but, unless specified otherwise, does not count as a
+      valid option.
 
 History:
 Initial Mutable Rule 205, Jun. 30 1993
@@ -3181,6 +3182,7 @@ Amended(9) by Proposal 4887 (Murphy), 22 January 2007
 Assigned to Committee on Rules by Proposal 6053 (Murphy, woggle,
   ais523), 23 January 2009
 Amended(10) by Proposal 6403 (coppro), 30 July 2009
+Amended(11) by Proposal 6441 (Murphy; disi.), 27 August 2009
 
 ----------------------------------------------------------------------
 
@@ -3327,7 +3329,7 @@ Amended(15) by Proposal 6378 (Murphy), 3 July 2009
 
 ----------------------------------------------------------------------
 
-Rule 2196/3 (Power=3)
+Rule 2196/4 (Power=3)
 Standard Classes of Agoran Decisions
 
       An Agoran decision with an adoption index is either ordinary or
@@ -3342,13 +3344,14 @@ Standard Classes of Agoran Decisions
       b) Whether it is ordinary or democratic.
 
       For any Agoran decision with an adoption index, the available
-      options are FOR and AGAINST (syn. ABSTAIN)
+      options are FOR and AGAINST.
 
 History:
 Created by Proposal 5418 (root), 2 February 2008
 Amended(1) by Proposal 5455 (Murphy), 1 March 2008
 Amended(2) by Proposal 6110 (Murphy), 1 March 2009
 Amended(3) by Proposal 6403 (coppro), 30 July 2009
+Amended(4) by Proposal 6441 (Murphy; disi.), 27 August 2009
 
 ----------------------------------------------------------------------
 
