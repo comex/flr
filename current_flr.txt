@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6454
-Last change to this ruleset: by proposal 6454
+Last proposal with recorded effect on this ruleset: 6458
+Last change to this ruleset: by proposal 6458
 
 Last updated: 8 August 2009
 
@@ -5511,38 +5511,40 @@ Created by Proposal 6454 (BobTHJ), 1 September 2009
 
 ----------------------------------------------------------------------
 
-Rule 2257/0 (Power=2)
+Rule 2257/1 (Power=2)
 Dealing Cards
 
-      Each defined Exploit card type in a deck shall have a Frequency,
-      which is a non-negative integer defaulting to 0.  The frequency
-      of each card type is part of the weekly report of the deck's
-      dealer.
+      Each defined Exploit card type in a Deck shall have a Frequency,
+      which is a non-negative integer defaulting to 0.  The Frequency
+      of each card type is part of the weekly report of the Deck's
+      Dealer.
 
-      The frequency of each card type is Secured, and CAN be changed:
-          * by the Deck's dealer without 2 objections;
-          * if the deck's dealer is part of an Officer's duty, then,
+      Changing the frequency of each card type is secured, and the
+      frequency of a card type in a given Deck CAN be changed:
+          * by the Deck's Dealer without 2 objections;
+          * if the Deck's Dealer is part of an Officer's duty, then,
             during an election for that office but before the last
             four days of the election's voting period, a candidate for
             that office CAN make and publish a pledge explicitly,
             clearly, and obviously describing changes e intends to
-            make to the frequencies of cards in eir deck.  If e wins
+            make to the frequencies of cards in eir Deck.  If e wins
             the election, e CAN and SHALL make the described changes
             by announcement asap after the election ends.
 
-      Whenever the rules indicate that a dealer SHALL deal a card to
+      Whenever the rules indicate that a Dealer SHALL deal a card to
       an entity, or that the entity "earns a draw" from a particular
-      deck, that deck's dealer SHALL, as soon as possible, create a
+      Deck, that Deck's Dealer SHALL, as soon as possible, create a
       card in the possession of that entity, with the card chosen at
-      random from among cards in that deck, with the probability of a
-      particular card being chosen being the frequency of that card
+      random from among cards in that Deck, with the probability of a
+      particular card being chosen being the Frequency of that card
       divided by the sum of the frequencies of all the cards in that
-      deck (if this sum is zero, the requirement to deal asap is
-      waived, and the dealer SHALL NOT deal a card from that deck
+      Deck (if this sum is zero, the requirement to deal asap is
+      waived, and the Dealer SHALL NOT deal a card from that Deck
       until the sum is greater than zero).
 
 History:
 Created by Proposal 6394 (Goethe), 10 July 2009
+Amended(1) by Proposal 6458 (coppro; disi.), 1 September 2009
 
 ----------------------------------------------------------------------
 
