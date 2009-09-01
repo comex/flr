@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6458
-Last change to this ruleset: by proposal 6458
+Last proposal with recorded effect on this ruleset: 6459
+Last change to this ruleset: by proposal 6459
 
 Last updated: 8 August 2009
 
@@ -5597,7 +5597,7 @@ Amended(3) by Proposal 6428 (BobTHJ), 18 August 2009
 ----------------------------------------------------------------------
 
 Rule 2259/1 (Power=2)
-Basic Hand Limits
+Hand Limits
 
       Every entity has an integer Hand Limit (default 7 for
       first-class players, 3 for contests, 0 for all others). Changes
@@ -5617,6 +5617,7 @@ History:
 Created by Proposal 6394 (Goethe), 10 July 2009
 Power changed from 1 to 2 by Proposal 6409 (G.; disi.), 7 August 2009
 Amended(1) by Proposal 6448 (BobTHJ), 27 August 2009
+Title changed by Proposal 6459 (coppro), 1 September 2009
 
 ----------------------------------------------------------------------
 
