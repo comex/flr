@@ -1,25 +1,25 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6453
-Last change to this ruleset: by proposal 6453
+Last proposal with recorded effect on this ruleset: 6454
+Last change to this ruleset: by proposal 6454
 
 Last updated: 8 August 2009
 
 Rule ID numbers:
-      highest orderly: 2265
+      highest orderly: 2266
       chaotic: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 144
+Current total number of rules: 145
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
       33 with Power=3
-      51 with Power=2
+      52 with Power=2
        5 with Power=1.7
        6 with Power=1.5
       47 with Power=1
@@ -171,6 +171,7 @@ Index of Rules
       Rule 2254: Position Cards
       Rule 2255: Major Arcana
       Rule 2256: Exploit Cards
+      Rule 2266: Effect Cards
       Rule 2257: Dealing Cards
       Rule 2258: Decks, Draws, and Salaries
       Rule 2259: Hand Limits
@@ -5369,13 +5370,13 @@ Cards
       A category concerning the economic subgame defined by the Rules.
 ----------------------------------------------------------------------
 
-Rule 2253/2 (Power=2)
+Rule 2253/3 (Power=2)
 Cards
 
       Cards are any class of assets defined by the Rules to be cards.
       For the rules to define a class of assets to be a card, the
-      Rules must define its Title, its Deck, and either its Exploit or
-      its Position, but not both.  Card instances of the same class
+      Rules must define its Title, its Deck, and one of: its Exploit,
+      its Position, or its Effect.  Card instances of the same class
       are fungible.  Ownership of cards is restricted to players and
       contests.
 
@@ -5399,6 +5400,7 @@ History:
 Created by Proposal 6394 (Goethe), 10 July 2009
 Amended(1) by Proposal 6408 (coppro), 7 August 2009
 Amended(2) by Proposal 6438 (coppro; disi.), 18 August 2009
+Amended(3) by Proposal 6454 (BobTHJ), 1 September 2009
 
 ----------------------------------------------------------------------
 
@@ -5493,6 +5495,19 @@ History:
 Created by Proposal 6394 (Goethe), 10 July 2009
 Amended(1) by Proposal 6407 (Wooble), 7 August 2009
 Power changed from 1 to 2 by Proposal 6409 (G.; disi.), 7 August 2009
+
+----------------------------------------------------------------------
+
+Rule 2266/0 (Power=2)
+Effect Cards
+
+      If a card has an Effect, the results of that effect are
+      continuously applied to the owner of that card for as long as e
+      hold the card.  Any reference to "you" in the card's effect
+      refers to the owner of that card.
+
+History:
+Created by Proposal 6454 (BobTHJ), 1 September 2009
 
 ----------------------------------------------------------------------
 
@@ -5603,14 +5618,15 @@ Amended(1) by Proposal 6448 (BobTHJ), 27 August 2009
 
 ----------------------------------------------------------------------
 
-Rule 2260/3 (Power=2)
+Rule 2260/4 (Power=2)
 The Deck of Government
 
       When a player wins an election, e earns two draws from the
       Government Deck.
 
       The Deck of Government consists of the following cards, listed
-      by title followed by Exploit.
+      by title followed by Exploit (default) or Effect (if marked as
+      such).
 
       * Roll Call      - Indicate a player and an ongoing ordinary
                          Agoran Decision with more than 24 hours
@@ -5668,10 +5684,11 @@ Amended(1) by Proposal 6407 (Wooble), 7 August 2009
 Power changed from 1 to 2 by Proposal 6409 (G.; disi.), 7 August 2009
 Amended(2) 7 times by Proposal 6425 (coppro; disi.), 16 August 2009
 Amended(3) by Proposal 6419 (BobTHJ), 16 August 2009
+Amended(4) by Proposal 6454 (BobTHJ), 1 September 2009
 
 ----------------------------------------------------------------------
 
-Rule 2261/4 (Power=2)
+Rule 2261/5 (Power=2)
 The Deck of Change
 
       When a proposal authored by a player is adopted and takes
@@ -5679,7 +5696,8 @@ The Deck of Change
       equal to the Interest Index of the proposal.
 
       The Deck of Change consists of the following cards, listed by
-      title followed by Exploit.
+      title followed by Exploit (default) or Effect (if marked as
+      such).
 
       * Distrib-u-Matic - Indicate an Undistributable proposal. That
                           proposal becomes Distributable
@@ -5720,13 +5738,13 @@ The Deck of Change
 
 [Note (9 August 2009): Current frequencies:
  * Distrib-u-Matic  66
+ * Supersize Me     30
  * Committee        20
  * Your Turn        10
+ * Shrink Potion    10
  * Presto!           3
  * Not Your Turn     1
- * Change Ball       1
- * Supersize Me     30
- * Shrink Potion    10]
+ * Change Ball       1]
 
 History:
 Created by Proposal 6394 (Goethe), 10 July 2009
@@ -5735,10 +5753,11 @@ Amended(1) by Proposal 6419 (BobTHJ), 16 August 2009
 Amended(2) by cleaning (Murphy), 16 August 2009
 Amended(3) 4 times by Proposal 6435 (coppro; disi.), 18 August 2009
 Amended(4) by Proposal 6448 (BobTHJ), 27 August 2009
+Amended(5) by Proposal 6454 (BobTHJ), 1 September 2009
 
 ----------------------------------------------------------------------
 
-Rule 2262/3 (Power=2)
+Rule 2262/4 (Power=2)
 The Deck of Justice
 
       When a judge judges a case within its time limit, e earns a draw
@@ -5748,7 +5767,8 @@ The Deck of Justice
       announcement.
 
       The Deck of Justice consists of the following cards, listed by
-      title followed by Exploit.
+      title followed by Exploit (default) or Effect (if marked as
+      such).
 
        * Absolv-o-Matic   - Indicate a player with at least one Rest.
                             A Rest in that player's possession
@@ -5782,13 +5802,21 @@ The Deck of Justice
                             that entity has not been audited since you
                             declared intent.
 
+      * Dunce Cap         - (Effect) Holding this card is a Losing
+                            Condition.  The holder of this card CAN
+                            NOT voluntarily destroy it by
+                            announcement, and CAN NOT transfer it
+                            unless e has held it for at least one
+                            week.
+
 [Note (9 August 2009): Current frequencies:
  * Absolv-o-Matic   60
  * Drop your Weapon 20
  * Discard Picking  15
  * Stool Pigeon      5
- * Justice Ball      1
- * Penalty Box       5]
+ * Penalty Box       5
+ * Dunce Cap         2
+ * Justice Ball      1]
 
 History:
 Created by Proposal 6394 (Goethe), 10 July 2009
@@ -5796,6 +5824,7 @@ Power changed from 1 to 2 by Proposal 6409 (G.; disi.), 7 August 2009
 Amended(1) by Proposal 6419 (BobTHJ), 16 August 2009
 Amended(2) 4 times by Proposal 6431 (coppro; disi.), 18 August 2009
 Amended(3) by Proposal 6448 (BobTHJ), 27 August 2009
+Amended(4) twice by Proposal 6454 (BobTHJ), 1 September 2009
 
 ----------------------------------------------------------------------
 
