@@ -5805,7 +5805,7 @@ The Deck of Justice
                             that entity has not been audited since you
                             declared intent.
 
-      * Dunce Cap         - (Effect) Holding this card is a Losing
+       * Dunce Cap        - (Effect) Holding this card is a Losing
                             Condition.  The holder of this card CAN
                             NOT voluntarily destroy it by
                             announcement, and CAN NOT transfer it
