@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6463
-Last change to this ruleset: by proposal 6463
+Last proposal with recorded effect on this ruleset: 6465
+Last change to this ruleset: by proposal 6465
 
 Last updated: 8 August 2009
 
@@ -3153,7 +3153,7 @@ Agoran Decisions
       collective decisions.
 ----------------------------------------------------------------------
 
-Rule 693/12 (Power=3)
+Rule 693/13 (Power=3)
 Agoran Decisions
 
       When the rules calls for an Agoran decision to be made, the
@@ -3166,9 +3166,9 @@ Agoran Decisions
 
       When submitting a ballot, a player can select PRESENT (syn.
       ABSTAIN) (syn. ABSTAIN) rather than one of the options provided
-      by the decision. A ballot cast for PRESENT is considered to be a
-      valid ballot, but, unless specified otherwise, does not count as
-      a valid option.
+      by the decision. Rules to the contrary notwithstanding, a ballot
+      cast for PRESENT is considered to be a valid ballot, but, unless
+      specified otherwise, does not count as a valid option.
 
 History:
 Initial Mutable Rule 205, Jun. 30 1993
@@ -3190,6 +3190,7 @@ Assigned to Committee on Rules by Proposal 6053 (Murphy, woggle,
 Amended(10) by Proposal 6403 (coppro), 30 July 2009
 Amended(11) by Proposal 6441 (Murphy; disi.), 27 August 2009
 Amended(12) by Proposal 6452 (Murphy; disi.), 27 August 2009
+Amended(13) by Proposal 6465 (coppro; disi.), 15 September 2009
 
 ----------------------------------------------------------------------
 
