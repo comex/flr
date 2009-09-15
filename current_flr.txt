@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6474
-Last change to this ruleset: by proposal 6474
+Last proposal with recorded effect on this ruleset: 6475
+Last change to this ruleset: by proposal 6475
 
 Last updated: 15 September 2009
 
@@ -2411,7 +2411,6 @@ Created by Proposal 6402 (woggle), 17 July 2009
 Rule 1728/27 (Power=3)
 Dependent Actions
 
-
       A rule or contract which purports to allow a person (the
       performer) to perform an action dependently (a dependent action)
       by a set of one or more of the following methods (N is 1 unless
@@ -2496,7 +2495,7 @@ Amended(27) by Proposal 6474 (c.), 15 September 2009
 
 ----------------------------------------------------------------------
 
-Rule 2124/13 (Power=2)
+Rule 2124/14 (Power=2)
 Agoran Satisfaction
 
       A Supporter of a dependent action is a first-class player who
@@ -2527,8 +2526,6 @@ Agoran Satisfaction
           the ratio of supporters to objectors is greater than N, or
           the action has at least one supporter and no objectors.
 
-      (4) The action to be performed is With Notice.
-
       The above notwithstanding, if the action depends on objections,
       and an objection to it has been withdrawn within the past 24
       hours, then Agora is not Satisfied with the intent.
@@ -2556,6 +2553,7 @@ Amended(10) by Proposal 6027 (Elysion), 8 January 2009
 Amended(11) by Proposal 6306 (Murphy), 26 May 2009
 Amended(12) by Proposal 6410 (coppro; disi.), 30 July 2009
 Amended(13) by Proposal 6448 (BobTHJ), 27 August 2009
+Amended(14) by Proposal 6475 (c.; disi.), 15 September 2009
 
 ----------------------------------------------------------------------
 
