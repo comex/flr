@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6469
-Last change to this ruleset: by proposal 6469
+Last proposal with recorded effect on this ruleset: 6472
+Last change to this ruleset: by proposal 6472
 
-Last updated: 8 August 2009
+Last updated: 15 September 2009
 
 Rule ID numbers:
       highest orderly: 2266
@@ -5304,7 +5304,7 @@ Amended(1) by Proposal 6160 (Murphy), 31 March 2009
 
 ----------------------------------------------------------------------
 
-Rule 2226/2 (Power=1.5)
+Rule 2226/3 (Power=1.5)
 Judicial Rank
 
       Judicial rank is a player switch, tracked by the Clerk of the
@@ -5314,21 +5314,22 @@ Judicial Rank
       interest index exceeds eir judicial rank.
 
       A player CAN flip eir judicial rank to any value by
-      announcement.
+      announcement, unless eir rank was decreased due to an overrule
+      within the past 30 days.
 
       When a judgement is overruled on appeal, if the prior judge's
-      rank is higher than 0, then it is decreased by 1, and e CANNOT
-      increase it for 30 days afterward (the rest of this rule
-      notwithstanding), unless eir new rank is 0, in which case e CAN
-      increase it to 1 at any time with 3 support.
+      judicial rank is higher than 0, then it is decreased by 1.
 
-      "District", "Circuit", and "Supreme" are synonymous with
-      judicial ranks 1, 2, and 3, respectively.
+      A player CAN flip eir judicial rank from 0 to 1 with 3 support.
+
+      "Supreme", "Circuit", "District", and "Night" are synonymous
+      with judicial ranks 3, 2, 1, and 0, respectively.
 
 History:
 Created by Proposal 5970 (Murphy), 20 November 2008
 Amended(1) by Proposal 6387 (Wooble), 10 July 2009
 Amended(2) by Proposal 6407 (Wooble), 7 August 2009
+Amended(3) by Proposal 6472 (Murphy), 15 September 2009
 
 ----------------------------------------------------------------------
 
