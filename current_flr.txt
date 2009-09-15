@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6459
-Last change to this ruleset: by proposal 6459
+Last proposal with recorded effect on this ruleset: 6463
+Last change to this ruleset: by proposal 6463
 
 Last updated: 8 August 2009
 
@@ -4562,7 +4562,7 @@ Amended(13) by Proposal 6427 (BobTHJ), 18 August 2009
 
 ----------------------------------------------------------------------
 
-Rule 1504/42 (Power=2)
+Rule 1504/43 (Power=2)
 Criminal Cases
 
       Criminal cases are a subclass of judicial cases.  Any
@@ -4635,6 +4635,35 @@ Criminal Cases
         breach is appropriate, or to account for the faith (good or
         bad) shown by the Ninny in contesting the notice or in aiding
         or obstructing the course of justice.
+
+      * FINE with an amount of one class of asset, appropriate for
+        rule breaches of small consequence.  An amount is only valid
+        if the currency's backing document binds the ninny (the Rules
+        are considered to bind all players) or the ninny has this
+        amount of the asset, and the backing document specifies a
+        maximum FINE amount, and the amount is no greater than the
+        maximum.  When in effect, the ninny SHALL, as soon as
+        possible, either destroy this amount of eir asset or transfer
+        it to the Lost and Found Department. The ninny is only obliged
+        to perform one destruction or transfer per question on
+        sentencing, even if sentences of this type are assigned more
+        than once or go into effect more than once.
+
+      * COMMUNITY SERVICE with a set of up to five tasks (the
+        prescribed tasks) that the ninny CAN reasonably and legally
+        perform, appropriate for rule breaches of moderate consequence
+        if the severity of the rule breach is reasonably correlated
+        with the consequences of performing the tasks, and especially
+        if any other available non-null punishment would be either
+        unjust or insufficient.  The balance between compensatory and
+        punitive service is left to the judge's discretion.  While a
+        sentence of this type is in effect, the ninny SHALL perform
+        the prescribed tasks (as soon as possible, unless a different
+        time limit is specified).
+
+      * TIME OUT with a number of days between 7 and 21. The ninny
+        becomes inactive, and SHALL NOT become active for the number
+        of days specified, as long as the sentence remains in effect.
 
       Players SHOULD NOT create rules defining Crimes of a Class
       greater than 14.
@@ -4728,6 +4757,7 @@ Amended(39) by Proposal 6206 (coppro), 27 April 2009
 Amended(40) by Proposal 6354 (ais523), 17 June 2009
 Amended(41) by Proposal 6355 (Yally), 23 June 2009
 Amended(42) by Proposal 6401 (Murphy), 17 July 2009
+Amended(43) by Proposal 6463 (C-walker), 15 September 2009
 
 ----------------------------------------------------------------------
 
@@ -5370,7 +5400,7 @@ Cards
       A category concerning the economic subgame defined by the Rules.
 ----------------------------------------------------------------------
 
-Rule 2253/3 (Power=2)
+Rule 2253/4 (Power=2)
 Cards
 
       Cards are any class of assets defined by the Rules to be cards.
@@ -5396,11 +5426,14 @@ Cards
       as would be POSSIBLE for em to do so were it not for the above
       paragraph.
 
+      The maximum FINE amount for each card is two.
+
 History:
 Created by Proposal 6394 (Goethe), 10 July 2009
 Amended(1) by Proposal 6408 (coppro), 7 August 2009
 Amended(2) by Proposal 6438 (coppro; disi.), 18 August 2009
 Amended(3) by Proposal 6454 (BobTHJ), 1 September 2009
+Amended(4) by Proposal 6463 (C-walker), 15 September 2009
 
 ----------------------------------------------------------------------
 
