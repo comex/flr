@@ -2417,10 +2417,10 @@ Dependent Actions
       otherwise specified):
 
        1) Without N Objections, where N is a positive integer no
-         greater than 8.
+          greater than 8.
        2) With N Supporters, where N is a positive integer.
        3) With N Agoran Consent, where N is an integer multiple of 0.1
-         with a minimum of 1.
+          with a minimum of 1.
        4) With Notice.
 
       thereby allows em to perform the action by announcement if and
