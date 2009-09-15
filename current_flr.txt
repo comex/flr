@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6472
-Last change to this ruleset: by proposal 6472
+Last proposal with recorded effect on this ruleset: 6474
+Last change to this ruleset: by proposal 6474
 
 Last updated: 15 September 2009
 
@@ -2408,31 +2408,32 @@ Created by Proposal 6402 (woggle), 17 July 2009
 
 ----------------------------------------------------------------------
 
-Rule 1728/26 (Power=3)
+Rule 1728/27 (Power=3)
 Dependent Actions
 
-      A person (the performer) CAN perform an action dependently (a
-      dependent action) by announcement if and only if all of the
-      following are true:
 
-       a) The rules explicitly authorize the performer to perform the
-          action by a set of one or more of the following methods (N
-          is 1 if not otherwise specified):
+      A rule or contract which purports to allow a person (the
+      performer) to perform an action dependently (a dependent action)
+      by a set of one or more of the following methods (N is 1 unless
+      otherwise specified):
 
-            1) Without N Objections, where N is a positive integer
-               no greater than 8.
-            2) With N Supporters, where N is a positive integer.
-            3) With N Agoran Consent, where N is an integer multiple
-               of 0.1 with a minimum of 1.
-            4) With Notice.
+       1) Without N Objections, where N is a positive integer no
+         greater than 8.
+       2) With N Supporters, where N is a positive integer.
+       3) With N Agoran Consent, where N is an integer multiple of 0.1
+         with a minimum of 1.
+       4) With Notice.
 
-       b) A person (the initiator) announced intent to perform the
+      thereby allows em to perform the action by announcement if and
+      only if all of the following are true:
+
+       a) A person (the initiator) announced intent to perform the
           action, unambiguously and clearly specifying the action and
-          method(s) (including the value of N for each method), at
-          most fourteen days earlier, and (if the action depends on
+          method(s) (including the value of N for each method), at most
+          fourteen days earlier, and (if the action depends on
           objections or notice) at least four days earlier.
 
-       c) At least one of the following is true:
+       b) At least one of the following is true:
 
             1) The performer is the initiator.
 
@@ -2446,21 +2447,12 @@ Dependent Actions
                does not explicitly prohibit supporters from performing
                it.
 
-       d) Agora is Satisfied with the announced intent, as defined by
+       c) Agora is Satisfied with the announced intent, as defined by
           other rules.
 
-       e) If a set of conditions for the performance of the action was
+       d) If a set of conditions for the performance of the action was
           given in the announcement of intent to perform the action,
           all those conditions are met.
-
-      A dependent action CAN be performed non-dependently as otherwise
-      permitted by the rules.
-
-      A person CAN perform a dependent action authorized by a contract
-      as if that contract were a rule, provided that the above
-      requirements are otherwise met, and that the effects of that
-      action are restricted to altering entities and/or attributes
-      whose existence depends on that contract.
 
 [CFJ 1722 (called 15 August 2007): The method of dependent action need
 not be described exactly: an approximate but inexact description
@@ -2500,6 +2492,7 @@ Amended(23) by Proposal 6041 (Murphy, Warrigal), 13 January 2009
 Amended(24) by Proposal 6204 (Murphy), 27 April 2009
 Amended(25) by Proposal 6437 (Murphy), 18 August 2009
 Amended(26) by Proposal 6448 (BobTHJ), 27 August 2009
+Amended(27) by Proposal 6474 (c.), 15 September 2009
 
 ----------------------------------------------------------------------
 
