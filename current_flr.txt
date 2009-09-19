@@ -1,19 +1,19 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6479
-Last change to this ruleset: by proposal 6479
+Last proposal with recorded effect on this ruleset: 6480
+Last change to this ruleset: by proposal 6480
 
 Last updated: 15 September 2009
 
 Rule ID numbers:
-      highest orderly: 2266
+      highest orderly: 2267
       chaotic: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 145
+Current total number of rules: 146
 
 Power distribution:
        1 with Power=4
@@ -21,7 +21,7 @@ Power distribution:
       33 with Power=3
       52 with Power=2
        5 with Power=1.7
-       6 with Power=1.5
+       7 with Power=1.5
       47 with Power=1
 
 ----------------------------------------------------------------------
@@ -134,6 +134,7 @@ Index of Rules
       Rule 2224: Interest Index of Proposals
       Rule 1607: The Promotor
       Rule 2250: Officer's Proposals
+      Rule 2267: Judge's Proposals
       Rule 1950: Voting on Democratic Decisions
       Rule 2156: Voting on Ordinary Decisions
       Rule 2142: Support Democracy
@@ -3869,7 +3870,7 @@ Amended(24) by Proposal 6406 (C-walker), 7 August 2009
 
 ----------------------------------------------------------------------
 
-Rule 2250/1 (Power=1)
+Rule 2250/2 (Power=1)
 Officer's Proposals
 
       If the submitter of a Proposal makes a claim that the proposal
@@ -3877,11 +3878,28 @@ Officer's Proposals
       in which the proposal was submitted, that proposal becomes
       Distributable upon entering the Proposal Pool.  Falsely claiming
       that a proposal is submitted as part of an officer's duties is
-      the Class 6 Crime of Distribunannigans.
+      the Class 6 Crime of Official Distribunannigans.
 
 History:
 Created by Proposal 6342 (Quazie), 11 June 2009
 Amended(1) by Proposal 6393 (Wooble; disi.), 10 July 2009
+Amended(2) by Proposal 6480 (Murphy), 18 September 2009
+
+----------------------------------------------------------------------
+
+Rule 2267/0 (Power=1.5)
+Judge's Proposals
+
+      If the submitter of a Proposal makes a claim that the proposal
+      is directly relevant to a specified judgement delivered by em in
+      the same message, and does not make such a claim about any other
+      proposal in connection with the same judgement, then that
+      proposal becomes Distributable upon entering the Proposal Pool.
+      Falsely claiming that a proposal is relevant in this fashion is
+      the Class 6 Crime of Judicial Distribunannigans.
+
+History:
+Created by Proposal 6480 (Murphy), 18 September 2009
 
 ----------------------------------------------------------------------
 
