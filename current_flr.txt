@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6490
-Last change to this ruleset: by proposal 6490
+Last proposal with recorded effect on this ruleset: 6493
+Last change to this ruleset: by proposal 6493
 
 Last updated: 15 September 2009
 
@@ -3011,12 +3011,12 @@ Amended(3) by Proposal 6175 (Yally), 7 April 2009
 
 ----------------------------------------------------------------------
 
-Rule 2138/10 (Power=1)
+Rule 2138/11 (Power=1)
 The Intergalactic Associate Director of Personnel
 
-      The Intergalactic Associate Director of Personnel is an office;
-      its holder is responsible for keeping track of officers and
-      reports.
+      The Intergalactic Associate Director of Personnel (IADoP) is an
+      office; its holder is responsible for keeping track of officers
+      and reports.
 
       The IADoP's report includes the following:
 
@@ -3054,6 +3054,7 @@ Amended(8) by Proposal 6230 (Wooble), 4 May 2009
 Amended(9) by Proposal 6282 (Yally), 19 May 2009
 Amended(10) and title changed by Proposal 6377 (coppro; disi.),
   3 July 2009
+Amended(11) by Proposal 6493 (coppro; disi.), 18 September 2009
 
 ----------------------------------------------------------------------
 
