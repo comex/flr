@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6485
-Last change to this ruleset: by proposal 6485
+Last proposal with recorded effect on this ruleset: 6487
+Last change to this ruleset: by proposal 6487
 
 Last updated: 15 September 2009
 
@@ -5675,7 +5675,7 @@ Amended(3) by Proposal 6428 (BobTHJ), 18 August 2009
 
 ----------------------------------------------------------------------
 
-Rule 2259/1 (Power=2)
+Rule 2259/2 (Power=2)
 Hand Limits
 
       Every entity has an integer Hand Limit (default 7 for
@@ -5685,18 +5685,22 @@ Hand Limits
       Accountor's report includes a list of all entities whose Hand
       Limit is set to a non-default value.
 
-      Any entity CAN audit itself by announcement. When an active
-      player is audited that player gains one Rest for each
-      rule-defined card e owns in excess of eir hand limit (minimum
-      0). When any other entity is audited X random cards that entity
-      owns are destroyed, where X equals the number of card that
-      entity owns minus eir hand limit (minimum 0)..
+      Any entity CAN audit itself by announcement. When a first-class
+      player is audited, that player gains one Rest for each 5 Cards
+      or portion thereof which e owns in excess of eir Hand Limit.
+      When any other entity is audited, the auditing entity (or, if
+      there is none, the Accountor) CAN and SHALL by announcement
+      destroy X of eir cards, selected at random, where X is one-half
+      rounded up of the number of cards e owns in excess of eir Hand
+      Limit. Position Cards are not considered Cards for the purposes
+      of this rule.
 
 History:
 Created by Proposal 6394 (Goethe), 10 July 2009
 Power changed from 1 to 2 by Proposal 6409 (G.; disi.), 7 August 2009
 Amended(1) by Proposal 6448 (BobTHJ), 27 August 2009
 Title changed by Proposal 6459 (coppro), 1 September 2009
+Amended(2) by Proposal 6487 (coppro), 18 September 2009
 
 ----------------------------------------------------------------------
 
