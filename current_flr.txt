@@ -1,28 +1,28 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6489
-Last change to this ruleset: by proposal 6489
+Last proposal with recorded effect on this ruleset: 6490
+Last change to this ruleset: by proposal 6490
 
 Last updated: 15 September 2009
 
 Rule ID numbers:
-      highest orderly: 2268
+      highest orderly: 2275
       chaotic: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 147
+Current total number of rules: 154
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
       33 with Power=3
-      53 with Power=2
+      55 with Power=2
        5 with Power=1.7
        7 with Power=1.5
-      47 with Power=1
+      52 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -172,6 +172,7 @@ Index of Rules
       Rule 2253: Cards
       Rule 2254: Position Cards
       Rule 2255: Major Arcana
+      Rule 2275: Government
       Rule 2256: Exploit Cards
       Rule 2266: Effect Cards
       Rule 2257: Dealing Cards
@@ -180,6 +181,12 @@ Index of Rules
       Rule 2260: The Deck of Government
       Rule 2261: The Deck of Change
       Rule 2262: The Deck of Justice
+      Rule 2269: Couple Coups
+      Rule 2270: Coups D'etat
+      Rule 2271: Ongoing Change
+      Rule 2272: Leadership Tokens
+      Rule 2273: Coups de Grace
+      Rule 2274: Chicken Coups
 
       * Patent Titles and Degrees
       Rule  649: Patent Titles
@@ -5550,6 +5557,32 @@ Amended(1) by cleaning (Murphy), 16 August 2009
 
 ----------------------------------------------------------------------
 
+Rule 2275/0 (Power=1)
+Government
+
+      When allowed to by the rules, a player Forms a Government by
+      publishing a defined list of every Major Arcana card and, for each
+      card, a different active player. The players chosen in
+      this manner must contain a maximal number of players holding the
+      patent title Champion; this requirement defers to any requirements
+      imposed by other rules on the Formation of a Government.
+
+      The Formation of a Government constitutes a self-ratifying
+      declaration that the player Forming the Government is capable of
+      doing so, and that all the Major Arcana cards are successfully
+      created or transferred to the players specified.
+
+      When a Government is Formed, each Major Arcana card is transferred
+      to the player specified, or if the card does not exist, it is
+      created in that player's possession.
+
+      The Government is the set of entities owning Major Arcana cards.
+
+History:
+Created by Proposal 6490 (coppro), 18 September 2009
+
+----------------------------------------------------------------------
+
 Rule 2256/1 (Power=2)
 Exploit Cards
 
@@ -5919,6 +5952,153 @@ Amended(2) 4 times by Proposal 6431 (coppro; disi.), 18 August 2009
 Amended(3) by Proposal 6448 (BobTHJ), 27 August 2009
 Amended(4) twice by Proposal 6454 (BobTHJ), 1 September 2009
 Amended(5) by Proposal 6483 (Pavitra), 18 September 2009
+
+----------------------------------------------------------------------
+
+Rule 2269/0 (Power=2)
+Couple Coups
+
+      A coup is either a coup d'etat, a coup de grace, or a chicken
+      coup.
+
+      When the Admiral of the Navy begins a coup, the coup is a coup
+      d'etat if it has been at least two months since the Speaker last
+      Formed the Government and since the last coup d'etat ended and
+      if the Admiral of the Navy is not the Speaker, a coup de grace
+      if there is an ongoing coup d'etat and e did not already begin a
+      coup de grace in the same week, and a chicken coup otherwise.
+
+      The effects of the various varieties of coup are defined
+      elsewhere in the rules.
+
+History:
+Created by Proposal 6490 (coppro), 18 September 2009
+
+----------------------------------------------------------------------
+
+Rule 2270/0 (Power=2)
+Coups D'etat
+
+      When a coup d'etat is begun, the current Admiral of the Navy
+      becomes the initiator of the coup. The Speaker and all other
+      members of the Government become the members of the Government
+      in Exile. When the Admiral of the Navy begins a coup d'etat, e
+      CAN in the same message Form a Government, except that no member
+      of the Government in Exile can be a member of the new
+      Government. If e does not do so, the coup is a chicken coup, not
+      a coup d'etat, rules to the contrary notwithstanding.
+
+      During a coup d'etat, the office of Speaker is held by the
+      active player to have been awarded Champion most recently among
+      players on the List of Succession who aren't members of the
+      Government in Exile. If there is no such player, the Admiral of
+      the Navy is the Speaker. This paragraph takes precedence over
+      other rules with regards to the Speaker's identity. The Speaker
+      CANNOT Form a Government during a coup d'etat, rules to the
+      contrary notwithstanding.
+
+      A coup d'etat lasts for three weeks, in which case it ends
+      successfully, or until a member of the Government in Exile comes
+      to be a member of the Government (except prior to the AotN
+      Forming the government at the start of the coup), in which case
+      it ends unsuccessfully. The initiator of a coup d'etat SHALL
+      NOT, directly or indirectly, intentionally cause the coup to end
+      unsucessfully.  Doing so is the Class-6 Crime of Playing Both
+      Sides.
+
+      Upon the unsuccessful conclusion of a coup d'etat, the Speaker
+      at the beginning of the coup d'etat is awarded 3 Leadership
+      Tokens and CAN once within the next week Form a Government,
+      provided e selects a maximal number of members of the coup
+      d'etat's Government in Exile to be members of the new
+      Government. The members of the Government in Exile other than
+      the Speaker at the beginning of the coup d'etat are each awarded
+      a Leadership Token.
+
+      Upon the successful conclusion of a coup d'etat, the Speaker at
+      the end of the coup d'etat is awarded 3 Leadership Tokens. The
+      remaining members of the Government at the end of the coup are
+      each awarded a Leadership Token.
+
+History:
+Created by Proposal 6490 (coppro), 18 September 2009
+
+----------------------------------------------------------------------
+
+Rule 2271/0 (Power=1)
+Ongoing Change
+
+      During a coup d'etat, the Assessor's weekly report includes the
+      following information:
+        - The person who was Speaker at the beginning of the coup.
+        - The initiator of the coup.
+        - The identities of every member of the Government in Exile.
+        - The date and time at which the coup will end successfully.
+
+      The Assessor's monthly report includes the following information:
+        - The date on which the most recently ended coup d'etat began
+          and ended, and whether it was successful.
+
+History:
+Created by Proposal 6490 (coppro), 18 September 2009
+
+----------------------------------------------------------------------
+
+Rule 2272/0 (Power=1)
+Leadership Tokens
+
+      Leadership Tokens are a currency tracked by the Assessor. A
+      player CANNOT destroy (redeem) Leadership Tokens in eir
+      possession except for one of the following effects:
+
+        (a) A player CAN redeem 3 Leadership Tokens in eir possession
+            to satisfy the Winning Condition of Leadership.
+        (b) A player CAN redeem 1 Leadership Token in eir possession
+            to earn two draws from each defined Basic Deck.
+        (c) A player CAN redeem 1 Leadership Token in eir possession
+            to be awarded 20+20i points.
+        (d) A player CAN redeem 1 Leadership Token in eir possession
+            to increase eir own caste by two ranks.
+        (e) A player CAN redeem 1 Leadership Token in eir possession
+            to destroy up to 6 Rests e owns.
+
+History:
+Created by Proposal 6490 (coppro), 18 September 2009
+
+----------------------------------------------------------------------
+
+Rule 2273/0 (Power=1)
+Coups de Grace
+
+      When a coup de grace is begun, the Admiral of the Navy CAN and
+      SHALL in the same message choose a member of the Government and,
+      for each Major Arcana card in that player's possession, choose a
+      different active player who is neither a member of the
+      Government nor of the Government in Exile, such that e chooses a
+      maximal number of players with the patent title Champion to
+      receive the cards. Each of those cards is transferred to the
+      specified player, and the player originally chosen by the
+      Admiral of the Navy becomes a member of the Government in Exile.
+
+      If, somehow, a coup de grace is begun when there is no ongoing
+      coup d'etat, the coup de grace is actually a chicken coup, rules
+      to the contrary notwithstanding.
+
+History:
+Created by Proposal 6490 (coppro), 18 September 2009
+
+----------------------------------------------------------------------
+
+Rule 2274/0 (Power=1)
+Chicken Coups
+
+      When a chicken coup is begun, the Admiral of the Navy SHALL, if
+      possible, perform the next action e is explicitly and publicly
+      instructed to perform by another player. Failure to do so is the
+      Class-3 Crime of Spreading Salmonella.
+
+History:
+Created by Proposal 6490 (coppro), 18 September 2009
 
 ----------------------------------------------------------------------
 
@@ -6861,7 +7041,7 @@ Amended(2) by Proposal 5122 (Zefram), 13 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 402/29 (Power=1)
+Rule 402/30 (Power=1)
 Identity of the Speaker
 
       The List of Succession is a list of the five active players who
@@ -6872,14 +7052,6 @@ Identity of the Speaker
       The Speaker is the active player on the List of Succession who
       became part of the list the longest time ago.  The Herald SHALL
       announce the ascension of a new Speaker asap after it occurs.
-
-      Once per quarter, and once after gaining the office, the Speaker
-      CAN Form a Government by publishing a list of every defined
-      Major Arcana card, and listing (for each card) a different
-      active player who holds the Patent Title Champion.  Such a
-      formation of government, when triggered, has the self-ratifying
-      effect of transferring the indicated cards to the indicated
-      players.
 
 [Cross-references (10 July 2009): the Speaker's duties are:
   * form a government (rule 402)
@@ -6923,15 +7095,19 @@ Amended(26) by Proposal 6026 (Murphy), 22 December 2008
 Amended(27) by Proposal 6175 (Yally), 7 April 2009
 Amended(28) by Proposal 6267 (Yally), 11 May 2009
 Amended(29) by Proposal 6394 (Goethe), 10 July 2009
+Amended(30) by Proposal 6490 (coppro), 18 September 2009
 
 ----------------------------------------------------------------------
 
-Rule 103/5 (Power=1)
+Rule 103/6 (Power=1)
 Role of the Speaker
 
-      The Speaker is an imposed office, and the figurehead of Agora,
-      embodying its spirit.  Diplomatic missions from Agora to foreign
-      nomics operate on the Speaker's behalf.
+      The Speaker is an imposed office and a figurehead of Agora. The
+      Speaker is a person who has proven themselves to be worthy of
+      the title, and for a time can direct Agoran government affairs.
+
+      If e has not already done so this quarter, or if e hasn't done
+      so since e gained office, the Speaker CAN Form a Government.
 
 History:
 Initial Immutable Rule 103, Jun. 30 1993
@@ -6944,6 +7120,7 @@ Amended(3) by Proposal 5257 (AFO), 27 October 2007
 Amended(4) by Proposal 5407 (root), 22 January 2008
 Power changed from 3 to 1 by Proposal 5947 (ais523), 15 November 2008
 Amended(5) by Proposal 6026 (Murphy), 22 December 2008
+Amended(6) by Proposal 6490 (coppro), 18 September 2009
 
 ----------------------------------------------------------------------
 
