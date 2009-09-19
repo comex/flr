@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6482
-Last change to this ruleset: by proposal 6482
+Last proposal with recorded effect on this ruleset: 6483
+Last change to this ruleset: by proposal 6483
 
 Last updated: 15 September 2009
 
@@ -650,7 +650,7 @@ Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
 
 ----------------------------------------------------------------------
 
-Rule 2199/7 (Power=1)
+Rule 2199/8 (Power=1)
 Ribbons
 
       Ribbons are a class of fixed assets.  If winning is secured,
@@ -685,14 +685,15 @@ Ribbons
       (+C) When a player deputises for an office, e earns a Cyan
            Ribbon.
 
-      (+B) When a player assigns a judgement to a judicial question
-           other than a question on sentencing, e earns a Blue Ribbon,
-           unless e violated a requirement to submit that judgement
-           within a time limit.
-
-      (+K) When a player assigns a judgement to a judicial question on
-           sentencing, e earns a Black Ribbon, unless e violated a
+      (+B) When a player assigns a judgement to a judicial question in
+           an interested judicial case other than a question on
+           sentencing, e earns a Blue Ribbon, unless e violated a
            requirement to submit that judgement within a time limit.
+
+      (+K) When a player assigns a judgement to a judicial question in
+           an interested judicial case on sentencing, e earns a Black
+           Ribbon, unless e violated a requirement to submit that
+           judgement within a time limit.
 
       (+W) When a first-class person becomes a player for the first
            time, e earns a White Ribbon.  When a first-class person
@@ -744,6 +745,7 @@ Amended(5) by Proposal 6196 (Wooble), 27 April 2009
 Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
 Amended(6) by Proposal 6346 (coppro), 17 June 2009
 Amended(7) by Proposal 6347 (coppro; disi.), 17 June 2009
+Amended(8) by Proposal 6483 (Pavitra), 18 September 2009
 
 ----------------------------------------------------------------------
 
@@ -4275,22 +4277,31 @@ Amended(1) by Proposal 6333 (coppro), 29 May 2009
 
 ----------------------------------------------------------------------
 
-Rule 2225/2 (Power=1.5)
+Rule 2225/3 (Power=1.5)
 Interest Index of Judicial Cases
 
       Each judicial case has an interest index, which CAN be set by
-      its initiator at the time of initiation, and CAN be changed
-      by any player without 2 objections, or by the Clerk of the
-      Courts or Justiciar without 3 objections.
+      its initiator at the time of initiation, or otherwise defaults
+      to zero.
+
+      A player CAN, Without N Objections, increase or decrease the
+      interest index of a judicial case by 1, where N is the 4 minus
+      the interest index of that case immediately prior to that
+      change.
+
+      A player CAN set the interest index of a disinterested judicial
+      case to 1 by announcement.
 
       When a player recuses emself from a judicial case whose interest
-      index equals eir rank, the cases interest index is increased by 1
-      unless the recusing player announces that it should not.
+      index equals eir rank, the case's interest index is increased by
+      1 unless the recusing player announces in the same message that
+      it should not.
 
 History:
 Created by Proposal 5970 (Murphy), 20 November 2008
 Amended(1) by Proposal 6176 (Murphy), 7 April 2009
 Amended(2) by Proposal 6259 (Quazie), 11 May 2009
+Amended(3) by Proposal 6483 (Pavitra), 18 September 2009
 
 ----------------------------------------------------------------------
 
@@ -5204,7 +5215,7 @@ Amended(15) by Proposal 6279 (Murphy), 19 May 2009
 
 ----------------------------------------------------------------------
 
-Rule 1871/26 (Power=1.5)
+Rule 1871/27 (Power=1.5)
 The Standing Court
 
       Posture is a player switch, tracked by the Clerk of the Courts,
@@ -5228,6 +5239,10 @@ The Standing Court
 
       When the CotC assigns a player as judge, that player becomes
       sitting.
+
+      A sitting player that assigns judgement in a disinterested
+      judicial case CAN and MAY become standing by announcement in the
+      same message in which e assigns judgement to that case.
 
       The CotC CAN rotate the bench (change all sitting players to
       standing) by announcement, but SHALL NOT do so unless, of the
@@ -5281,6 +5296,7 @@ Amended(23) by Proposal 5474 (Murphy), 24 March 2008
 Amended(24) by Proposal 5500 (Murphy; disi.), 26 April 2008
 Amended(25) by Proposal 5771 (root), 17 October 2008
 Amended(26) by Proposal 6400 (Murphy), 17 July 2009
+Amended(27) by Proposal 6483 (Pavitra), 18 September 2009
 
 ----------------------------------------------------------------------
 
@@ -5805,14 +5821,14 @@ Amended(5) by Proposal 6454 (BobTHJ), 1 September 2009
 
 ----------------------------------------------------------------------
 
-Rule 2262/4 (Power=2)
+Rule 2262/5 (Power=2)
 The Deck of Justice
 
-      When a judge judges a case within its time limit, e earns a draw
-      from the Deck of Justice.  If a judge's judgement is OVERTURNED
-      on appeal, one justice on the appeals panel CAN destroy one
-      Justice card e indicates in the judge's possession by
-      announcement.
+      When a judge judges an interested case within its time limit, e
+      earns a draw from the Deck of Justice.  If a judge's judgement
+      is OVERTURNED on appeal, one justice on the appeals panel CAN
+      destroy one Justice card e indicates in the judge's possession
+      by announcement.
 
       The Deck of Justice consists of the following cards, listed by
       title followed by Exploit (default) or Effect (if marked as
@@ -5873,6 +5889,7 @@ Amended(1) by Proposal 6419 (BobTHJ), 16 August 2009
 Amended(2) 4 times by Proposal 6431 (coppro; disi.), 18 August 2009
 Amended(3) by Proposal 6448 (BobTHJ), 27 August 2009
 Amended(4) twice by Proposal 6454 (BobTHJ), 1 September 2009
+Amended(5) by Proposal 6483 (Pavitra), 18 September 2009
 
 ----------------------------------------------------------------------
 
