@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6480
-Last change to this ruleset: by proposal 6480
+Last proposal with recorded effect on this ruleset: 6482
+Last change to this ruleset: by proposal 6482
 
 Last updated: 15 September 2009
 
@@ -2681,7 +2681,7 @@ Offices
       within the game.
 ----------------------------------------------------------------------
 
-Rule 1006/29 (Power=2)
+Rule 1006/30 (Power=2)
 Offices
 
       An office is a role defined as such by the rules.  Each office
@@ -2693,7 +2693,8 @@ Offices
       defining it.  All others are elected.
 
       The holder of an elected office CAN resign it by announcement,
-      causing it to become vacant.
+      causing it to become vacant.  Any player CAN cause an office to
+      become vacant without objection.
 
       If the holder of an elected office resigns or announces an
       intent to resign eir office, and in doing so designates another
@@ -2751,6 +2752,7 @@ Assigned to Committee on Administration by Proposal 6053 (Murphy,
   woggle, ais523), 23 January 2009
 Amended(28) by Proposal 6372 (G.), 23 June 2009
 Amended(29) by cleaning (Murphy), 16 August 2009
+Amended(30) by Proposal 6482 (c.), 18 September 2009
 
 ----------------------------------------------------------------------
 
@@ -2824,7 +2826,7 @@ Amended(2) by Proposal 6413 (c-walker), 30 July 2009
 
 ----------------------------------------------------------------------
 
-Rule 2160/6 (Power=3)
+Rule 2160/7 (Power=3)
 Deputisation
 
       Any player (a deputy) CAN perform an action as if e held a
@@ -2840,10 +2842,9 @@ Deputisation
         (b) A time limit by which the rules require the action to be
             performed has expired, or the office is vacant.
 
-        (c) If the office is held by an active player, then the deputy
-            announced between two and fourteen days earlier that e
-            intended to deputise for that office for the purposes of
-            the particular action.
+        (c) If the office is filled, then the deputy announced between
+            two and fourteen days earlier that e intended to deputise
+            for that office for the purposes of the particular action.
 
         (d) It would be POSSIBLE for the deputy to perform the action,
             other than by deputisation, if e held the office.
@@ -2864,6 +2865,7 @@ Assigned to Committee on Administration by Proposal 6053 (Murphy,
 Amended(4) by Proposal 6129 (Goethe), 15 March 2009
 Amended(5) by Proposal 6144 (Wooble), 23 March 2009
 Amended(6) by Proposal 6218 (Murphy), 27 April 2009
+Amended(7) by Proposal 6482 (c.), 18 September 2009
 
 ----------------------------------------------------------------------
 
