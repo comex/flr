@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6487
-Last change to this ruleset: by proposal 6487
+Last proposal with recorded effect on this ruleset: 6488
+Last change to this ruleset: by proposal 6488
 
 Last updated: 15 September 2009
 
@@ -5675,7 +5675,7 @@ Amended(3) by Proposal 6428 (BobTHJ), 18 August 2009
 
 ----------------------------------------------------------------------
 
-Rule 2259/2 (Power=2)
+Rule 2259/3 (Power=2)
 Hand Limits
 
       Every entity has an integer Hand Limit (default 7 for
@@ -5695,12 +5695,18 @@ Hand Limits
       Limit. Position Cards are not considered Cards for the purposes
       of this rule.
 
+      As soon as possible after the beginning of each month, each
+      dealer of a basic deck SHALL by announcement audit each entity
+      who owns at least as many cards from that basic deck as any
+      other entity.
+
 History:
 Created by Proposal 6394 (Goethe), 10 July 2009
 Power changed from 1 to 2 by Proposal 6409 (G.; disi.), 7 August 2009
 Amended(1) by Proposal 6448 (BobTHJ), 27 August 2009
 Title changed by Proposal 6459 (coppro), 1 September 2009
 Amended(2) by Proposal 6487 (coppro), 18 September 2009
+Amended(3) by Proposal 6488 (Murphy), 18 September 2009
 
 ----------------------------------------------------------------------
 
