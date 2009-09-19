@@ -1,25 +1,25 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6483
-Last change to this ruleset: by proposal 6483
+Last proposal with recorded effect on this ruleset: 6485
+Last change to this ruleset: by proposal 6485
 
 Last updated: 15 September 2009
 
 Rule ID numbers:
-      highest orderly: 2267
+      highest orderly: 2268
       chaotic: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 146
+Current total number of rules: 147
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
       33 with Power=3
-      52 with Power=2
+      53 with Power=2
        5 with Power=1.7
        7 with Power=1.5
       47 with Power=1
@@ -79,6 +79,7 @@ Index of Rules
       Rule 2174: Aliens
       Rule 2170: Who Am I?
       Rule 2150: Personhood
+      Rule 2268: Entanglement
       Rule 2145: Partnerships
       Rule 2139: The Registrar
       Rule 1789: Cantus Cygneus
@@ -1419,6 +1420,17 @@ Power changed from 2 to 3 by Proposal 5509 (root; disi.), 28 May 2008
 Amended(4) by Proposal 5760 (comex), 16 October 2008
 Amended(5) by Proposal 5790 (Murphy), 22 October 2008
 Amended(6) by Proposal 6022 (Murphy), 22 December 2008
+
+----------------------------------------------------------------------
+
+Rule 2268/0 (Power=2)
+Entanglement
+
+      Two entities are entangled if and only if the intersection of
+      their bases is non-empty.
+
+History:
+Created by Proposal 6485 (Murphy), 18 September 2009
 
 ----------------------------------------------------------------------
 
@@ -4026,13 +4038,18 @@ Assigned to Committee on Rules by Proposal 6053 (Murphy, woggle,
 
 ----------------------------------------------------------------------
 
-Rule 1450/9 (Power=2)
+Rule 1450/10 (Power=2)
 Separation of Powers
 
       Lest the entire proposal process fall under the control of a
-      single entity, any change that would result in the same entity
-      holding the offices of Promotor and Assessor simultaneously is
-      canceled and does not occur, rules to the contrary
+      single entity, any change that would result in the holders of
+      Promotor and Assessor being entangled is canceled and does not
+      occur, rules to the contrary notwithstanding.
+
+      Lest the entire judicial process fall under the control of a
+      single entity, any change that would result in the holder of
+      Clerk of the Courts and the owner of Justiciar being entangled
+      is canceled and does not occur, rules to the contrary
       notwithstanding.
 
 History:
@@ -4047,6 +4064,7 @@ Amended(6) by Proposal 4939 (Murphy), 29 April 2007
 Amended(7) by Proposal 5106 (Zefram), 1 August 2007
 Amended(8) by Proposal 5476 (Murphy; disi.), 27 March 2008
 Amended(9) by Proposal 5602 (Murphy), 29 July 2008
+Amended(10) by Proposal 6485 (Murphy), 18 September 2009
 
 ----------------------------------------------------------------------
 
