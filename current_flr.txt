@@ -5937,7 +5937,7 @@ The Deck of Justice
                             week.
 
 [Note (9 August 2009): Current frequencies:
- * Absolv-o-Matic   60
+ * Absolv-o-Matic   30
  * Drop your Weapon 20
  * Discard Picking  15
  * Stool Pigeon      5
