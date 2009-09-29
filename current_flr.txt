@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6493
-Last change to this ruleset: by proposal 6493
+Last proposal with recorded effect on this ruleset: 6496
+Last change to this ruleset: by proposal 6496
 
 Last updated: 15 September 2009
 
@@ -4276,23 +4276,26 @@ Assigned to Committee on the Judiciary by Proposal 6053 (Murphy,
 
 ----------------------------------------------------------------------
 
-Rule 2246/1 (Power=2)
+Rule 2246/2 (Power=2)
 Submitting a CFJ to the Justiciar
 
       A judicial case may be submitted to the Justiciar.  For such a
       case, the Justiciar CAN, in a timely manner and by announcement,
       either accept or reject the case. Until the time limit expires
       or the Justiciar rejects the case, the CotC CANNOT perform any
-      duties with regards to the case; the only appropriate sentence
-      for violations caused by this is DISCHARGE.
+      duties with regards to the case and does not incur any
+      obligations with regards to it.
 
-      If the Justiciar accepts the case, e replaces the CotC entirely
-      with regards to that case; e receives all obligations and all
-      powers with regards to it. This includes any secondary duties
-      required to fulfill obligations (such as rotating the bench).
-      This takes precedence over Rules that would otherwise assign
-      duties and powers regarding a judicial case to the Clerk of the
-      Courts.
+      If the Justiciar accepts the case, e switches places with the
+      CotC entirely with regards to that case; e receives all
+      obligations and all powers the CotC would receive, and the CotC
+      receives all obligations and powers the Justiciar would receive.
+      This includes any secondary duties required to fulfill
+      obligations (such as rotating the bench). This takes precedence
+      over Rules that would otherwise assign duties and powers
+      regarding a judicial case to the Clerk of the Courts or the
+      Justiciar. A player CAN deputize for Justiciar to perform these
+      duties as if it were an office.
 
       All persons are encouraged to submit a case to the Justiciar
       only when there is a good reason not to submit it to the Clerk
@@ -4301,6 +4304,7 @@ Submitting a CFJ to the Justiciar
 History:
 Created by Proposal 6181 (comex), 7 April 2009
 Amended(1) by Proposal 6333 (coppro), 29 May 2009
+Amended(2) by Proposal 6496 (coppro), 26 September 2009
 
 ----------------------------------------------------------------------
 
