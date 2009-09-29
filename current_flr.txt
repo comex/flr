@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6496
-Last change to this ruleset: by proposal 6496
+Last proposal with recorded effect on this ruleset: 6499
+Last change to this ruleset: by proposal 6499
 
 Last updated: 15 September 2009
 
@@ -3964,7 +3964,7 @@ Amended(20) by Proposal 5418 (root), 2 February 2008
 
 ----------------------------------------------------------------------
 
-Rule 2156/12 (Power=2)
+Rule 2156/13 (Power=2)
 Voting on Ordinary Decisions
 
       Caste is a player switch, tracked by the Grand Poobah, with the
@@ -3983,10 +3983,11 @@ Voting on Ordinary Decisions
 
       The eligible voters on an ordinary decision are those entities
       that were active players at the start of its voting period.  The
-      voting limit of an eligible voter on an ordinary decision is eir
-      caste at the start of its voting period, reduced to the next
-      lower caste (minimum Savage) for each positive multiple of 4
-      Rests that the voter possesses at the start of the voting period.
+      initial voting limit of an eligible voter on an ordinary
+      decision is eir caste at the start of its voting period, reduced
+      to the next lower caste (minimum Savage) for each positive
+      multiple of 4 Rests that the voter possesses at the start of the
+      voting period.
 
 History:
 Created by Proposal 5078 (Zefram), 18 July 2007
@@ -4005,6 +4006,7 @@ Amended(10) by Proposal 5985 (Murphy), 7 December 2008
 Amended(11) by Proposal 6010 (ais523, Goethe, Murphy, comex,
   OscarMeyr), 14 December 2008
 Amended(12) by cleaning (Murphy), 16 August 2009
+Amended(13) by Proposal 6499 (Wooble; disi.), 26 September 2009
 
 ----------------------------------------------------------------------
 
