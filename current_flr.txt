@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6499
-Last change to this ruleset: by proposal 6499
+Last proposal with recorded effect on this ruleset: 6500
+Last change to this ruleset: by proposal 6500
 
-Last updated: 15 September 2009
+Last updated: 29 September 2009
 
 Rule ID numbers:
       highest orderly: 2275
@@ -3790,7 +3790,7 @@ Amended(1) by Proposal 6453 (C-walker), 27 August 2009
 
 ----------------------------------------------------------------------
 
-Rule 1607/24 (Power=2)
+Rule 1607/25 (Power=2)
 The Promotor
 
       The Promotor is an office; its holder is responsible for
@@ -3812,9 +3812,6 @@ The Promotor
       (where II is the Interest Index of the specified proposal).
       A player CAN flip a specified Disinterested proposal to
       Distributable by announcement.
-
-      A player CAN flip a specified proposal to Distributable without
-      Objection.
 
       For an Agoran decision of whether to adopt a proposal, the
       following are essential parameters:
@@ -3892,6 +3889,7 @@ Amended(21) by Proposal 6341 (G.), 11 June 2009
 Amended(22) by Proposal 6394 (Goethe), 10 July 2009
 Amended(23) by Proposal 6395 (coppro), 17 July 2009
 Amended(24) by Proposal 6406 (C-walker), 7 August 2009
+Amended(25) by Proposal 6500 (coppro; disi.), 26 September 2009
 
 ----------------------------------------------------------------------
 
