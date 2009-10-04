@@ -1,25 +1,25 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6504
-Last change to this ruleset: by proposal 6504
+Last proposal with recorded effect on this ruleset: 6506
+Last change to this ruleset: by proposal 6506
 
 Last updated: 29 September 2009
 
 Rule ID numbers:
-      highest orderly: 2275
+      highest orderly: 2276
       chaotic: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 154
+Current total number of rules: 155
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
       33 with Power=3
-      55 with Power=2
+      56 with Power=2
        5 with Power=1.7
        7 with Power=1.5
       52 with Power=1
@@ -112,6 +112,7 @@ Index of Rules
       Rule 2160: Deputisation
       Rule 2154: Election Procedure
       Rule 2217: Periodic Elections
+      Rule 2276: Assumption of Vacant Offices
       Rule 2138: The Intergalactic Associate Director of Personnel
       Rule 1551: Ratification
       Rule 2202: Ratification Without Objection
@@ -3008,6 +3009,34 @@ Assigned to Committee on Administration by Proposal 6053 (Murphy,
 Power changed from 2 to 1 by Proposal 6088 (ais523), 22 February 2009
 Amended(2) by Proposal 6088 (ais523), 22 February 2009
 Amended(3) by Proposal 6175 (Yally), 7 April 2009
+
+----------------------------------------------------------------------
+
+Rule 2276/0 (Power=2)
+Assumption of Vacant Offices
+
+      Assumption is an elected office switch with values Postulated
+      (default) and Assumed. Changes to Assumption are secured.
+      An active first-class player can make emself the holder of an
+      elected office by announcement, provided that both
+
+        (1) the office is either vacant or Assumed, and
+
+        (2) there is no election for that office currently in
+            progress.
+
+      Upon doing so, the office's Assumption is flipped to Assumed.
+
+      When the holder of an office ceases to be an active player, the
+      office's Assumption is flipped to Assumed.
+
+      When a person comes to hold an office, or would come to hold an
+      office if e did not hold it already, by a means other than the
+      one provided by this Rule, then the Assumption of that office is
+      flipped to Postulated.
+
+History:
+Created by Proposal 6506 (Pavitra), 3 October 2009
 
 ----------------------------------------------------------------------
 
