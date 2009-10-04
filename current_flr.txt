@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6510
-Last change to this ruleset: by proposal 6510
+Last proposal with recorded effect on this ruleset: 6512
+Last change to this ruleset: by proposal 6512
 
 Last updated: 29 September 2009
 
@@ -2432,13 +2432,12 @@ Created by Proposal 6402 (woggle), 17 July 2009
 
 ----------------------------------------------------------------------
 
-Rule 1728/27 (Power=3)
+Rule 1728/28 (Power=3)
 Dependent Actions
 
       A rule or contract which purports to allow a person (the
-      performer) to perform an action dependently (a dependent action)
-      by a set of one or more of the following methods (N is 1 unless
-      otherwise specified):
+      performer) to perform an action by a set of one or more of the
+      following methods (N is 1 unless otherwise specified):
 
        1) Without N Objections, where N is a positive integer no
           greater than 8.
@@ -2447,8 +2446,8 @@ Dependent Actions
           with a minimum of 1.
        4) With Notice.
 
-      thereby allows em to perform the action by announcement if and
-      only if all of the following are true:
+      thereby allows em to perform the action by announcement if all
+      of the following are true:
 
        a) A person (the initiator) announced intent to perform the
           action, unambiguously and clearly specifying the action and
@@ -2516,26 +2515,25 @@ Amended(24) by Proposal 6204 (Murphy), 27 April 2009
 Amended(25) by Proposal 6437 (Murphy), 18 August 2009
 Amended(26) by Proposal 6448 (BobTHJ), 27 August 2009
 Amended(27) by Proposal 6474 (c.), 15 September 2009
+Amended(28) by Proposal 6512 (c.; disi.), 3 October 2009
 
 ----------------------------------------------------------------------
 
-Rule 2124/14 (Power=2)
+Rule 2124/15 (Power=2)
 Agoran Satisfaction
 
-      A Supporter of a dependent action is a first-class player who
-      has publicly posted (and not withdrawn) support (syn. "consent")
-      for an announcement of intent to perform the action.  An
-      Objector to a dependent action is a first-class player (or other
-      person explicitly allowed to object to that action by the rule
-      allowing that action to be performed dependently) who has
-      publicly posted (and not withdrawn) an objection to the
-      announcement of intent to perform the action.
+      A Supporter of a dependent action is an eligible entity who has
+      publicly posted (and not withdrawn) support (syn. "consent") for
+      an announcement of intent to perform the action.  An Objector to
+      a dependent action is an eligible entity who has publicly posted
+      (and not withdrawn) an objection to the announcement of intent
+      to perform the action.
 
-      The Executor of such an announcement of intent CANNOT support
-      it, but CAN generally object to it (withdrawal of intent is
-      equivalent to objection).  A rule authorizing the performance of
-      a dependent action may further restrict the eligibility of
-      players to support or object to that specific action.
+      The entities eligible to support or object to a dependent action
+      are, by default, all first-class players, subject to
+      modification by the document authorizing the dependent action.
+      However, the previous sentence notwithstanding, the Executor of
+      the announcement of intent is not eligible to support it.
 
       Agora is Satisfied with an intent to perform a specific action
       if and only if:
@@ -2578,6 +2576,7 @@ Amended(11) by Proposal 6306 (Murphy), 26 May 2009
 Amended(12) by Proposal 6410 (coppro; disi.), 30 July 2009
 Amended(13) by Proposal 6448 (BobTHJ), 27 August 2009
 Amended(14) by Proposal 6475 (c.; disi.), 15 September 2009
+Amended(15) by Proposal 6512 (c.; disi.), 3 October 2009
 
 ----------------------------------------------------------------------
 
