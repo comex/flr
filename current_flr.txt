@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6506
-Last change to this ruleset: by proposal 6506
+Last proposal with recorded effect on this ruleset: 6508
+Last change to this ruleset: by proposal 6508
 
 Last updated: 29 September 2009
 
@@ -6892,7 +6892,7 @@ Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
 
 ----------------------------------------------------------------------
 
-Rule 2233/3 (Power=1)
+Rule 2233/4 (Power=1)
 Awarding and Revoking Points
 
       Each contest has a threshold index (default: 5). Any player CAN
@@ -6900,12 +6900,10 @@ Awarding and Revoking Points
       value without three objections.
 
       The contestmaster of a contest CAN and SHALL award and revoke
-      points as directed by that contract up so long as the total
-      number of points awarded or revoked on any axis do not exceed
-      that contest's threshold index. Awards and revocations that
-      counteract a previous award or revocation for that contest that
-      was not in accordance with it's contract or that exceeded the
-      contest's threshold index do not count against this limit.
+      points as directed by that contract, except that e CANNOT thus
+      cause either the total number awarded or the total number
+      revoked on any axis due to that contest in a given week to
+      exceed that contest's threshold index.
 
 History:
 Created by Proposal 6020 (Murphy, root), 22 December 2008
@@ -6915,6 +6913,7 @@ Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
 Amended(1) by Proposal 6227 (Murphy, comex), 4 May 2009
 Amended(2) by Proposal 6369 (BobTHJ), 23 June 2009
 Amended(3) by cleaning (Wooble), 16 August 2009
+Amended(4) by Proposal 6508 (Murphy), 3 October 2009
 
 ----------------------------------------------------------------------
 
