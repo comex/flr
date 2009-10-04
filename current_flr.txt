@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6512
-Last change to this ruleset: by proposal 6512
+Last proposal with recorded effect on this ruleset: 6513
+Last change to this ruleset: by proposal 6513
 
 Last updated: 29 September 2009
 
@@ -505,22 +505,23 @@ Amended(6) by cleaning (comex), 26 January 2009
 
 ----------------------------------------------------------------------
 
-Rule 1688/4 (Power=3)
+Rule 1688/5 (Power=3)
 Power
 
-      The power of an entity is a non-negative rational number.
-      An instrument is an entity with positive power.
+       The Power of an entity is a non-negative rational number.
+       An Instrument is an entity with positive Power.
 
-      The power of an entity cannot be set or modified except as
-      stipulated by the rules.  All entities have power zero except
-      where specifically allowed by the rules.
+       The Power of an entity cannot be set or modified except as
+       stipulated by the Rules.  All entities have Power zero except
+       where specifically allowed by the rules.
 
-      A rule that secures a change (hereafter the securing rule)
-      thereby makes it IMPOSSIBLE to perform that change except as
-      allowed by an instrument with power greater than or equal to the
-      change's power threshold.  This threshold defaults to the
-      securing rule's power, but CAN be lowered as allowed by that
-      rule.
+       A Rule that secures a change, action, or value (hereafter the
+       securing Rule) thereby makes it IMPOSSIBLE to perform that change
+       or action, or to modify that value, except as allowed by an
+       Instrument with Power greater than or equal to the change's Power
+       Threshold.  This Threshold defaults to the securing Rule's Power,
+       but CAN be lowered as allowed by that Rule (including by the Rule
+       itself).
 
 History:
 Created by Proposal 3445 (General Chaos), Mar. 26 1997
@@ -530,6 +531,7 @@ Amended(3) by Proposal 4940 (Zefram), 29 April 2007
 Amended(4) by Proposal 5276 (Murphy, Pavitra, Zefram), 7 November 2007
 Assigned to Committee on Rules by Proposal 6053 (Murphy, woggle,
   ais523), 23 January 2009
+Amended(5) by Proposal 6513 (coppro; disi.), 3 October 2009
 
 ----------------------------------------------------------------------
 
