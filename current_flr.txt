@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6508
-Last change to this ruleset: by proposal 6508
+Last proposal with recorded effect on this ruleset: 6510
+Last change to this ruleset: by proposal 6510
 
 Last updated: 29 September 2009
 
@@ -5012,7 +5012,7 @@ Assigned to Committee on the Judiciary by Proposal 6053 (Murphy,
 
 ----------------------------------------------------------------------
 
-Rule 911/31 (Power=1.7)
+Rule 911/32 (Power=1.7)
 Appeal Cases
 
       Appeal cases are a subclass of judicial cases.  An appeal case's
@@ -5034,7 +5034,9 @@ Appeal Cases
       are the judicial panels consisting of max(3,1+2*R) members
       (where R is the rank of the prior case), where each of the
       members is qualified to be assigned as judge of the prior case
-      and none of the members is the prior judge.
+      (or, if this would result in no panels being qualified, then
+      where each of the members would be qualified to be assigned as
+      judge of the prior case if e was Supreme).
 
       An appeal case has a judicial question on disposition, which is
       applicable if and only if the prior question is applicable.  The
@@ -5175,6 +5177,7 @@ Amended(28) by Proposal 6327 (Murphy), 29 May 2009
 Amended(29) by Proposal 6334 (Goethe, ais523), 29 May 2009
 Amended(30) by Proposal 6334 (Goethe, ais523), 29 May 2009
 Amended(31) by Proposal 6376 (Murphy), 23 June 2009
+Amended(32) by Proposal 6510 (Murphy), 3 October 2009
 
 ----------------------------------------------------------------------
 
@@ -5204,7 +5207,7 @@ Amended(5) by Proposal 6445 (coppro; disi.), 27 August 2009
 
 ----------------------------------------------------------------------
 
-Rule 1868/15 (Power=2)
+Rule 1868/16 (Power=2)
 Judge Assignment Generally
 
       At any time, a judicial case either has no judge assigned to it
@@ -5221,10 +5224,11 @@ Judge Assignment Generally
       announcement, and SHALL do so as soon as possible.
 
       The entities qualified to be assigned as judge of a judicial
-      case are the active players, subject to modification by other
-      rules.  Being unqualified to be assigned as a judge does not
-      inherently prevent an entity from continuing to be judge of a
-      case to which e is already assigned.
+      case are the active players who have not previously been
+      assigned as its judge, subject to modification by other rules.
+      Being unqualified to be assigned as a judge does not inherently
+      prevent an entity from continuing to be judge of a case to which
+      e is already assigned.
 
       When a player is poorly qualified to be assigned as judge of a
       judicial case, the Clerk of the Courts SHALL not assign em to be
@@ -5272,6 +5276,7 @@ Assigned to Committee on the Judiciary by Proposal 6053 (Murphy,
   woggle, ais523), 23 January 2009
 Amended(14) by Proposal 6264 (comex), 11 May 2009
 Amended(15) by Proposal 6279 (Murphy), 19 May 2009
+Amended(16) by Proposal 6510 (Murphy), 3 October 2009
 
 ----------------------------------------------------------------------
 
