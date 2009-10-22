@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6517
-Last change to this ruleset: by proposal 6517
+Last proposal with recorded effect on this ruleset: 6518
+Last change to this ruleset: by proposal 6518
 
 Last updated: 22 October 2009
 
@@ -3384,13 +3384,12 @@ Amended(15) by Proposal 6378 (Murphy), 3 July 2009
 
 ----------------------------------------------------------------------
 
-Rule 2196/4 (Power=3)
+Rule 2196/5 (Power=3)
 Standard Classes of Agoran Decisions
 
       An Agoran decision with an adoption index is either ordinary or
-      democratic.  An Agoran decision with an adoption index greater
-      than or equal to 2 is democratic.  Any other Agoran decision
-      with an adoption index is ordinary by default.
+      democratic.  All Agoran decisions with an adoption index are
+      ordinary by default.
 
       If an Agoran decision has an adoption index, then the following
       are essential parameters:
@@ -3407,6 +3406,7 @@ Amended(1) by Proposal 5455 (Murphy), 1 March 2008
 Amended(2) by Proposal 6110 (Murphy), 1 March 2009
 Amended(3) by Proposal 6403 (coppro), 30 July 2009
 Amended(4) by Proposal 6441 (Murphy; disi.), 27 August 2009
+Amended(5) by Proposal 6518 (BobTHJ), 19 October 2009
 
 ----------------------------------------------------------------------
 
