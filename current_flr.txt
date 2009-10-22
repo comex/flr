@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6518
-Last change to this ruleset: by proposal 6518
+Last proposal with recorded effect on this ruleset: 6519
+Last change to this ruleset: by proposal 6519
 
 Last updated: 22 October 2009
 
@@ -5784,7 +5784,7 @@ Amended(3) by Proposal 6488 (Murphy), 18 September 2009
 
 ----------------------------------------------------------------------
 
-Rule 2260/4 (Power=2)
+Rule 2260/5 (Power=2)
 The Deck of Government
 
       When a player wins an election, e earns two draws from the
@@ -5805,7 +5805,7 @@ The Deck of Government
 
       * Arm-Twist      - Indicate a player and an ongoing ordinary
                          Agoran Decision. That player's voting limit
-                         on that Decision is increased by one.
+                         on that Decision is decreased by one.
 
       * On the Nod     - Indicate an ongoing ordinary Agoran Decision
                          that has not been filibustered. That Decision
@@ -5851,6 +5851,7 @@ Power changed from 1 to 2 by Proposal 6409 (G.; disi.), 7 August 2009
 Amended(2) 7 times by Proposal 6425 (coppro; disi.), 16 August 2009
 Amended(3) by Proposal 6419 (BobTHJ), 16 August 2009
 Amended(4) by Proposal 6454 (BobTHJ), 1 September 2009
+Amended(5) by Proposal 6519 (Wooble; disi.), 19 October 2009
 
 ----------------------------------------------------------------------
 
