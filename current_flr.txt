@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6513
-Last change to this ruleset: by proposal 6513
+Last proposal with recorded effect on this ruleset: 6517
+Last change to this ruleset: by proposal 6517
 
-Last updated: 29 September 2009
+Last updated: 22 October 2009
 
 Rule ID numbers:
       highest orderly: 2276
@@ -5923,7 +5923,7 @@ Amended(5) by Proposal 6454 (BobTHJ), 1 September 2009
 
 ----------------------------------------------------------------------
 
-Rule 2262/5 (Power=2)
+Rule 2262/6 (Power=2)
 The Deck of Justice
 
       When a judge judges an interested case within its time limit, e
@@ -5960,13 +5960,7 @@ The Deck of Justice
                             Procedure: For each other basic deck one
                             such corresponding Ball card is destroyed.
 
-       * Penalty Box      - Specify an entity. When you play this card
-                            you CAN audit that entity With Notice (you
-                            must have previously declared intent as
-                            per other rules), so long as you do so in
-                            the same message as playing this card and
-                            that entity has not been audited since you
-                            declared intent.
+       * Penalty Box      - Specify an entity. That entity is audited.
 
        * Dunce Cap        - (Effect) Holding this card is a Losing
                             Condition.  The holder of this card CAN
@@ -5992,6 +5986,7 @@ Amended(2) 4 times by Proposal 6431 (coppro; disi.), 18 August 2009
 Amended(3) by Proposal 6448 (BobTHJ), 27 August 2009
 Amended(4) twice by Proposal 6454 (BobTHJ), 1 September 2009
 Amended(5) by Proposal 6483 (Pavitra), 18 September 2009
+Amended(6) by Proposal 6517 (BobTHJ), 19 October 2009
 
 ----------------------------------------------------------------------
 
