@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6519
-Last change to this ruleset: by proposal 6519
+Last proposal with recorded effect on this ruleset: 6520
+Last change to this ruleset: by proposal 6520
 
 Last updated: 22 October 2009
 
@@ -6125,16 +6125,17 @@ Created by Proposal 6490 (coppro), 18 September 2009
 
 ----------------------------------------------------------------------
 
-Rule 2274/0 (Power=1)
+Rule 2274/1 (Power=1)
 Chicken Coups
 
       When a chicken coup is begun, the Admiral of the Navy SHALL, if
-      possible, perform the next action e is explicitly and publicly
-      instructed to perform by another player. Failure to do so is the
-      Class-3 Crime of Spreading Salmonella.
+      possible, and as soon as possible, perform the next action e is
+      explicitly and publicly instructed to perform by another player.
+      Failure to do so is the Class-3 Crime of Spreading Salmonella.
 
 History:
 Created by Proposal 6490 (coppro), 18 September 2009
+Amended(1) by Proposal 6520 (ais523), 19 October 2009
 
 ----------------------------------------------------------------------
 
