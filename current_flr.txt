@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6520
-Last change to this ruleset: by proposal 6520
+Last proposal with recorded effect on this ruleset: 6521
+Last change to this ruleset: by proposal 6521
 
 Last updated: 22 October 2009
 
@@ -13,7 +13,7 @@ Rule ID numbers:
 
 Statistics
 
-Current total number of rules: 155
+Current total number of rules: 154
 
 Power distribution:
        1 with Power=4
@@ -22,7 +22,7 @@ Power distribution:
       56 with Power=2
        5 with Power=1.7
        7 with Power=1.5
-      52 with Power=1
+      51 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -223,7 +223,6 @@ Index of Rules
       Rule 2159: Protective Decrees
 
       * Trophies
-      Rule 2265: Agora Has No Flag
       Rule 1727: Happy Birthday
       Rule 2029: Town Fountain
 
@@ -7356,18 +7355,6 @@ Assigned to Committee on Foreign Relations by Proposal 6053 (Murphy,
 ======================================================================
 Trophies
       A category concerning commemoration and symbolism.
-----------------------------------------------------------------------
-
-Rule 2265/1 (Power=1)
-Agora Has No Flag
-
-      Ceci n'est pas un drapeau.
-
-History:
-Created by Proposal 6412 (allispaul), 30 July 2009
-Retitled by Proposal 6479 (G.), 18 September 2009
-Amended(1) by Proposal 6479 (G.), 18 September 2009
-
 ----------------------------------------------------------------------
 
 Rule 1727/17 (Power=1)
