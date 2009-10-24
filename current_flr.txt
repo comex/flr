@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6522
-Last change to this ruleset: by proposal 6522
+Last proposal with recorded effect on this ruleset: 6523
+Last change to this ruleset: by proposal 6523
 
 Last updated: 22 October 2009
 
@@ -4833,7 +4833,7 @@ Amended(40) by Proposal 6354 (ais523), 17 June 2009
 Amended(41) by Proposal 6355 (Yally), 23 June 2009
 Amended(42) by Proposal 6401 (Murphy), 17 July 2009
 Amended(43) by Proposal 6463 (C-walker), 15 September 2009
-Amended(44) by Proposal 6522 (C-walker), 23 October 2009
+Amended(44) by Proposal 6522 (Walker), 23 October 2009
 
 ----------------------------------------------------------------------
 
@@ -7195,12 +7195,13 @@ Amended(5) by Proposal 6219 (Tiger), 27 April 2009
 
 ----------------------------------------------------------------------
 
-Rule 2185/0 (Power=1)
+Rule 2185/1 (Power=1)
 Foreign Relations
 
-      Recognition is a foreign nomic switch, tracked by the
-      Ambassador, with values Unknown (default), Protected, Friendly,
-      Neutral, Sanctioned, Hostile, and Abandoned.
+      Recognition is a foreign nomic switch, tracked by the Ambassador
+      (in eir monthly report), with values Unknown (default),
+      Protected, Friendly, Neutral, Sanctioned, Hostile, and
+      Abandoned.
 
       When a foreign nomic becomes a Protectorate, its Recognition
       becomes Protected.  When a foreign nomic ceases to be a
@@ -7216,6 +7217,7 @@ History:
 Created by Proposal 5392 (Murphy), 16 January 2008
 Assigned to Committee on Foreign Relations by Proposal 6053 (Murphy,
   woggle, ais523), 23 January 2009
+Amended(1) by Proposal 6523 (Walker; disi.), 23 October 2009
 
 ----------------------------------------------------------------------
 
