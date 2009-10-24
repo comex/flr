@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6523
-Last change to this ruleset: by proposal 6523
+Last proposal with recorded effect on this ruleset: 6525
+Last change to this ruleset: by proposal 6525
 
 Last updated: 22 October 2009
 
@@ -13,7 +13,7 @@ Rule ID numbers:
 
 Statistics
 
-Current total number of rules: 154
+Current total number of rules: 153
 
 Power distribution:
        1 with Power=4
@@ -22,7 +22,7 @@ Power distribution:
       56 with Power=2
        5 with Power=1.7
        7 with Power=1.5
-      51 with Power=1
+      50 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -70,7 +70,6 @@ Index of Rules
       Rule 1051: The Rulekeepor
       Rule 2221: Cleanliness
       Rule 2216: The Repeal-o-Matic
-      Rule 2247: The Janitor
       Rule 1750: Read the Ruleset Week
       Rule 2223: Win by Junta
 
@@ -1181,35 +1180,6 @@ The Repeal-o-Matic
 History:
 Created by Proposal 5794 (Murphy, Swann), 26 October 2008
 Amended(1) by Proposal 6250 (Yally), 9 May 2009
-
-----------------------------------------------------------------------
-
-Rule 2247/2 (Power=1)
-The Janitor
-
-      The Janitor is an office; its holder is responsible for cleaning
-      the rules.
-
-      The Janitor's weekly duties include submitting one or more
-      disinterested proposals that suggests one or more rule changes
-      that helps to do at least one of the following to the ruleset:
-
-            a) Fix grammatical or spelling errors.
-
-            b) Elucidate the meaning of rules.
-
-            c) Make consistent methods of describing rules.
-
-            d) Rearrange, combine, or separate rules to make their
-                meanings more clear and relevant.
-
-      These proposals SHOULD NOT modify any substantive aspect of the
-      meaning of the rules.
-
-History:
-Created by Proposal 6235 (Yally), 4 May 2009
-Amended(1) by cleaning (Rodlen), 11 May 2009
-Amended(2) by Proposal 6389 (Yally; disi.), 10 July 2009
 
 ----------------------------------------------------------------------
 
