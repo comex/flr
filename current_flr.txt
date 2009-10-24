@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6530
-Last change to this ruleset: by proposal 6530
+Last proposal with recorded effect on this ruleset: 6531
+Last change to this ruleset: by proposal 6531
 
 Last updated: 22 October 2009
 
@@ -3787,7 +3787,7 @@ Amended(1) by Proposal 6453 (C-walker), 27 August 2009
 
 ----------------------------------------------------------------------
 
-Rule 1607/25 (Power=2)
+Rule 1607/26 (Power=2)
 The Promotor
 
       The Promotor is an office; its holder is responsible for
@@ -3815,6 +3815,7 @@ The Promotor
 
       a) Its author (and co-authors, if any).
       b) Its interest index.
+      c) Its Chamber.
 
       Distributed proposals have ID numbers, to be assigned by the
       Promotor.
@@ -3887,6 +3888,7 @@ Amended(22) by Proposal 6394 (Goethe), 10 July 2009
 Amended(23) by Proposal 6395 (coppro), 17 July 2009
 Amended(24) by Proposal 6406 (C-walker), 7 August 2009
 Amended(25) by Proposal 6500 (coppro; disi.), 26 September 2009
+Amended(26) by Proposal 6531 (Walker), 23 October 2009
 
 ----------------------------------------------------------------------
 
@@ -3959,30 +3961,47 @@ Amended(20) by Proposal 5418 (root), 2 February 2008
 
 ----------------------------------------------------------------------
 
-Rule 2156/13 (Power=2)
+Rule 2156/14 (Power=2)
 Voting on Ordinary Decisions
 
-      Caste is a player switch, tracked by the Grand Poobah, with the
-      following values and their numeric equivalents:
+      Chamber is a proposal switch, possessed only by proposals which
+      are in the proposal pool or have an ongoing Agoran Decision to
+      adopt them, tracked by the Promotor, with values Green
+      (default), Red and Purple. In the same message in which a player
+      submits a proposal, e CAN set its Chamber by announcement;
+      otherwise it is set to eir Title.
 
-        Alpha   - 8
-        Beta    - 5
-        Gamma   - 3
-        Delta   - 2
-        Epsilon - 1 (default for active first-class players and
-        provinces)
-        Savage  - 0 (default for all other players)
+      Title is a player switch, tracked by the Assessor, with the same
+      values and default as Chamber. A player CAN change eir Title by
+      announcement, except if e has already done so before in the same
+      month. A player with a Title of Green is a 'Green player', a
+      player with a Title of Red is a 'Red player' and so on.
 
-      Changes to caste are secured, lest a coalition of high-caste
-      players grant itself a boring permanence.
+      Changes to Title and Chamber are secured.
 
-      The eligible voters on an ordinary decision are those entities
-      that were active players at the start of its voting period.  The
-      initial voting limit of an eligible voter on an ordinary
-      decision is eir caste at the start of its voting period, reduced
-      to the next lower caste (minimum Savage) for each positive
-      multiple of 4 Rests that the voter possesses at the start of the
-      voting period.
+      Each ordinary decision is either Green, Red or Purple; this
+      defaults to the Chamber of the proposal the decision is about,
+      but CAN be changed by Rules of Power 2 or higher during the
+      voting period of the decision.
+
+      The eligible voters on an ordinary decision are the players who
+      were active at the start of its voting period. The initial
+      voting limit of a player on an ordinary decision is as follows,
+      except that it is increased by one for each Extra Vote Card the
+      player owns and decreased by one for each positive multiple of
+      two Rests the player owns:
+
+      - For a Green ordinary decision, the Green players have a base
+      voting limit of 5, the Red players have a base voting limit of 2
+      and the Purple players have a base voting limit of 1.
+
+      - For a Red ordinary decision, the Red players have a base
+      voting limit of 5, the Purple players have a base voting limit
+      of 2 and the Green players have a base voting limit of 1.
+
+      - For a Purple ordinary decision, the Purple players have a base
+      voting limit of 5, the Green players have a base voting limit of
+      2 and the Red players have a base voting limit of 1.
 
 History:
 Created by Proposal 5078 (Zefram), 18 July 2007
@@ -4002,6 +4021,7 @@ Amended(11) by Proposal 6010 (ais523, Goethe, Murphy, comex,
   OscarMeyr), 14 December 2008
 Amended(12) by cleaning (Murphy), 16 August 2009
 Amended(13) by Proposal 6499 (Wooble; disi.), 26 September 2009
+Amended(14) by Proposal 6531 (Walker), 23 October 2009
 
 ----------------------------------------------------------------------
 
@@ -4120,65 +4140,18 @@ Amended(5) by Proposal 5625 (Murphy, OscarMeyr, Ivan Hope), 29 July
 
 ----------------------------------------------------------------------
 
-Rule 2211/3 (Power=2)
+Rule 2211/4 (Power=2)
 The Grand Poobah
 
       The Grand Poobah is an office; its holder is responsible for
-      keeping track of castes.
-
-      The Grand Poobah CAN generally flip a Player's caste by
-      announcement, but SHALL only do so as explicitly described by
-      the Rules.  If the result of a claim of error or court case
-      finds that e has flipped a Player's caste illegally (e.g. not
-      as specified by the Rules), e SHALL flip the caste to the
-      appropriate correct value as soon as possible.
-
-      If a player believes that a caste switch has been flipped
-      illegally, e CAN switch it back with three Support, provided e
-      has first raised a claim of error or court case concerning the
-      matter.  However e (and supporters) SHALL defer to the courts
-      and the Grand Poobah's ability to correct the issue, unless
-      they present a good and pressing reason not to do so; abuse of
-      this ability should not be taken lightly by the courts.
-
-      At the beginning of each month, each Alpha's caste is flipped to
-      eir default value.  As soon as possible after the beginning of
-      each month, the Grand Poobah SHALL do the following, in order,
-      at each step choosing (if possible) a player who has not yet
-      been chosen during the current procedure:
-
-        1) Promotions.  At each step, the Grand Poobah SHALL choose a
-           player whose caste is as high as possible without equalling
-           or exceeding the new caste:
-
-           a) Flip a player's caste to Alpha
-           b) Flip a player's caste to Beta
-           c) Flip a player's caste to Gamma
-           d) Flip a player's caste to Delta
-
-        2) Demotions.  Each step is repeated as many times as needed.
-
-           a->b) While there is more than one Alpha,
-                   flip an Alpha's caste to Beta
-           b->c) While there are more than two Betas,
-                   flip a Beta's caste to Gamma
-           c->d) While there are more than three Gammas,
-                   flip a Gamma's caste to Delta
-           d->e) While there are more than four Deltas,
-                   flip a Delta's caste to Epsilon
-
-      During the seven days immediately prior to the start of a month,
-      the Speaker CAN publish an Honors List, indicating a list of
-      players other than emself for promotion.  If such a list is
-      published, the Grand Poobah SHALL, during the Promotions step
-      above, make as many legal promotions from this list as possible
-      before making any other promotions.
+      tracking the Deck of Government.
 
 History:
 Created by Proposal 5625 (Murphy, OscarMeyr, Ivan Hope), 29 July 2008
 Amended(1) by Proposal 5680 (Goethe), 3 September 2008
 Amended(2) by Proposal 5696 (Goethe), 20 September 2008
 Amended(3) by Proposal 6077 (Murphy), 22 February 2009
+Amended(4) by Proposal 6531 (Walker), 23 October 2009
 
 ----------------------------------------------------------------------
 
@@ -5746,7 +5719,7 @@ Amended(4) by Proposal 6527 (BobTHJ; disi.), 23 October 2009
 
 ----------------------------------------------------------------------
 
-Rule 2260/5 (Power=2)
+Rule 2260/6 (Power=2)
 The Deck of Government
 
       When a player wins an election, e earns two draws from the
@@ -5756,18 +5729,8 @@ The Deck of Government
       by title followed by Exploit (default) or Effect (if marked as
       such).
 
-      * Roll Call      - Indicate a player and an ongoing ordinary
-                         Agoran Decision with more than 24 hours
-                         remaining in its voting period. That player's
-                         voting limit on that Decision is increased by
-                         one.
-
       * Debate-o-Matic - Indicate an ongoing ordinary Agoran Decision.
                          It becomes democratic.
-
-      * Arm-Twist      - Indicate a player and an ongoing ordinary
-                         Agoran Decision. That player's voting limit
-                         on that Decision is decreased by one.
 
       * On the Nod     - Indicate an ongoing ordinary Agoran Decision
                          that has not been filibustered. That Decision
@@ -5775,12 +5738,6 @@ The Deck of Government
 
       * Kill Bill      - Indicate an ongoing ordinary Agoran Decision.
                          That Decision is vetoed.
-
-      * Lobbyist       - Increase the caste of a player you name,
-                         other than yourself, by one.
-
-      * Local Election - Indicate a non-Savage player. That player's
-                         caste is decreased by one.
 
       * No Confidence  - Indicate an office. If there is an ongoing
                          election for that office, it is canceled
@@ -5795,16 +5752,28 @@ The Deck of Government
                          basic deck one such corresponding Ball card
                          is destroyed.
 
+      * Extra Vote      - (Effect) This card affects voting limits on
+                          ordinary decisions, as described in other
+                          Rules.
+
+      * Local Election  - Indicate a player who owns an Extra Vote
+                          card. One Extra Vote Card in that player's
+                          possession is destroyed.
+
+      * Cross the Lobby - Indicate an ongoing ordinary decision and
+                          specify a Chamber value. That ordinary
+                          decision's colour is changed to the
+                          specified Chamber value.
+
 [Note (9 August 2009): Current frequencies:
- * Roll Call       40
- * Arm-twist       20
- * Lobbyist        10
- * Local Election  10
  * Debate-o-Matic   5
- * On the Nod       5
- * Kill Bill        5
+ * On the Nod      29
+ * Kill Bill       10
  * No Confidence    5
- * Goverment Ball   1]
+ * Goverment Ball   1
+ * Extra Vote      20
+ * Local Election  20
+ * Cross the Lobby 10]
 
 History:
 Created by Proposal 6394 (Goethe), 10 July 2009
@@ -5814,6 +5783,7 @@ Amended(2) 7 times by Proposal 6425 (coppro; disi.), 16 August 2009
 Amended(3) by Proposal 6419 (BobTHJ), 16 August 2009
 Amended(4) by Proposal 6454 (BobTHJ), 1 September 2009
 Amended(5) by Proposal 6519 (Wooble; disi.), 19 October 2009
+Amended(6) by Proposal 6531 (Walker), 23 October 2009
 
 ----------------------------------------------------------------------
 
