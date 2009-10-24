@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6525
-Last change to this ruleset: by proposal 6525
+Last proposal with recorded effect on this ruleset: 6526
+Last change to this ruleset: by proposal 6526
 
 Last updated: 22 October 2009
 
@@ -5887,7 +5887,7 @@ Amended(5) by Proposal 6454 (BobTHJ), 1 September 2009
 
 ----------------------------------------------------------------------
 
-Rule 2262/6 (Power=2)
+Rule 2262/7 (Power=2)
 The Deck of Justice
 
       When a judge judges an interested case within its time limit, e
@@ -5912,10 +5912,11 @@ The Deck of Justice
        * Drop your Weapon - Indicate an entity and a card held by that
                             entity. That card is destroyed.
 
-       * Discard Picking  - Indicate a type of Exploit card where at
-                            least one card of that type was destroyed
-                            in the past 72 hours; a card of that type
-                            is created in your possession.
+       * Discard Picking  - Indicate a type of Exploit card, other
+                            than Presto!, where at least one card of
+                            that type was destroyed in the past 72
+                            hours; a card of that type is created in
+                            your possession.
 
        * Justice Ball     - If you hold an "X Ball" card (where X is
                             the name of a Basic Deck) for each other
@@ -5951,6 +5952,7 @@ Amended(3) by Proposal 6448 (BobTHJ), 27 August 2009
 Amended(4) twice by Proposal 6454 (BobTHJ), 1 September 2009
 Amended(5) by Proposal 6483 (Pavitra), 18 September 2009
 Amended(6) by Proposal 6517 (BobTHJ), 19 October 2009
+Amended(7) by Proposal 6526 (ais523), 23 October 2009
 
 ----------------------------------------------------------------------
 
