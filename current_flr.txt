@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6529
-Last change to this ruleset: by proposal 6529
+Last proposal with recorded effect on this ruleset: 6530
+Last change to this ruleset: by proposal 6530
 
 Last updated: 22 October 2009
 
@@ -5817,7 +5817,7 @@ Amended(5) by Proposal 6519 (Wooble; disi.), 19 October 2009
 
 ----------------------------------------------------------------------
 
-Rule 2261/5 (Power=2)
+Rule 2261/6 (Power=2)
 The Deck of Change
 
       When a proposal authored by a player is adopted and takes
@@ -5832,7 +5832,10 @@ The Deck of Change
                           proposal becomes Distributable
 
       * Committee       - Indicate a Distributable proposal. That
-                          proposal becomes Undistributable.
+                          proposal becomes Undistributable, and CANNOT
+                          be made Distributable again for one week
+                          after the Committee is spent, Rules to the
+                          contrary notwithstanding.
 
       * Your Turn       - Indicate a player.  E SHOULD destroy at
                           least one card in eir possession in the next
@@ -5866,14 +5869,14 @@ The Deck of Change
                           is decreased by 10% (rounded up).
 
 [Note (9 August 2009): Current frequencies:
- * Distrib-u-Matic  66
- * Supersize Me     30
- * Committee        20
- * Your Turn        10
- * Shrink Potion    10
- * Presto!           3
- * Not Your Turn     1
- * Change Ball       1]
+ * Distrib-u-Matic  100
+ * Supersize Me      40
+ * Committee         15
+ * Your Turn         20
+ * Shrink Potion     20
+ * Presto!            3
+ * Not Your Turn      1
+ * Change Ball        1]
 
 History:
 Created by Proposal 6394 (Goethe), 10 July 2009
@@ -5883,6 +5886,7 @@ Amended(2) by cleaning (Murphy), 16 August 2009
 Amended(3) 4 times by Proposal 6435 (coppro; disi.), 18 August 2009
 Amended(4) by Proposal 6448 (BobTHJ), 27 August 2009
 Amended(5) by Proposal 6454 (BobTHJ), 1 September 2009
+Amended(6) by Proposal 6530 (C-walker), 23 October 2009
 
 ----------------------------------------------------------------------
 
