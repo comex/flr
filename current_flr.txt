@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6521
-Last change to this ruleset: by proposal 6521
+Last proposal with recorded effect on this ruleset: 6522
+Last change to this ruleset: by proposal 6522
 
 Last updated: 22 October 2009
 
@@ -4644,7 +4644,7 @@ Amended(13) by Proposal 6427 (BobTHJ), 18 August 2009
 
 ----------------------------------------------------------------------
 
-Rule 1504/43 (Power=2)
+Rule 1504/44 (Power=2)
 Criminal Cases
 
       Criminal cases are a subclass of judicial cases.  Any
@@ -4706,17 +4706,10 @@ Criminal Cases
         error, shame, remorse, and ardent desire for self-improvement.
         Failure to do so is a Class-3 Crime of Failure to Apologize.
 
-      * SILENCE, a number of Rests, equal to the defined Class of the
-        Crime or (if the breach is not a defined crime) the power of
-        the breached Rule, rounded to the nearest integer with ties
-        broken by rounding up, are created in the possession of the
-        Ninny.  The judge CAN, with 2 Support, set the fine at a
-        different integral level between one half and double that
-        amount, and SHOULD attempt to do so if necessary to ensure
-        that the correlation between the fine and the severity of the
-        breach is appropriate, or to account for the faith (good or
-        bad) shown by the Ninny in contesting the notice or in aiding
-        or obstructing the course of justice.
+      * SILENCE with a positive number less than 15 (X). If a
+        judgement of SILENCE has been in effect continuously for one
+        week (or longer), any player CAN create a number of Rests
+        equal to X in the possession of the ninny, by announcement.
 
       * FINE with an amount of one class of asset, appropriate for
         rule breaches of small consequence.  An amount is only valid
@@ -4840,6 +4833,7 @@ Amended(40) by Proposal 6354 (ais523), 17 June 2009
 Amended(41) by Proposal 6355 (Yally), 23 June 2009
 Amended(42) by Proposal 6401 (Murphy), 17 July 2009
 Amended(43) by Proposal 6463 (C-walker), 15 September 2009
+Amended(44) by Proposal 6522 (C-walker), 23 October 2009
 
 ----------------------------------------------------------------------
 
