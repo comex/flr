@@ -5729,28 +5729,27 @@ The Deck of Government
       by title followed by Exploit (default) or Effect (if marked as
       such).
 
-      * Debate-o-Matic - Indicate an ongoing ordinary Agoran Decision.
-                         It becomes democratic.
+      * Debate-o-Matic  - Indicate an ongoing ordinary Agoran Decision.
+                          It becomes democratic.
 
-      * On the Nod     - Indicate an ongoing ordinary Agoran Decision
-                         that has not been filibustered. That Decision
-                         is rubberstamped.
+      * On the Nod      - Indicate an ongoing ordinary Agoran Decision
+                          that has not been filibustered. That
+                          Decision is rubberstamped.
 
-      * Kill Bill      - Indicate an ongoing ordinary Agoran Decision.
-                         That Decision is vetoed.
+      * Kill Bill       - Indicate an ongoing ordinary Agoran Decision.
+                          That Decision is vetoed.
 
-      * No Confidence  - Indicate an office. If there is an ongoing
-                         election for that office, it is canceled
-                         (there is no change in its holder). An
-                         election for that office is initiated.
-                         one.
+      * No Confidence   - Indicate an office. If there is an ongoing
+                          election for that office, it is canceled
+                          (there is no change in its holder). An
+                          election for that office is initiated.  one.
 
-      * Goverment Ball - If you hold an "X Ball" card (where X is the
-                         name of a Basic Deck) for each other Basic
-                         Deck you satisfy the winning condition of Win
-                         by Lotto. Cleanup Procedure: For each other
-                         basic deck one such corresponding Ball card
-                         is destroyed.
+      * Goverment Ball  - If you hold an "X Ball" card (where X is the
+                          name of a Basic Deck) for each other Basic
+                          Deck you satisfy the winning condition of
+                          Win by Lotto. Cleanup Procedure: For each
+                          other basic deck one such corresponding Ball
+                          card is destroyed.
 
       * Extra Vote      - (Effect) This card affects voting limits on
                           ordinary decisions, as described in other
@@ -5840,13 +5839,13 @@ The Deck of Change
 
 [Note (9 August 2009): Current frequencies:
  * Distrib-u-Matic  100
- * Supersize Me      40
  * Committee         15
  * Your Turn         20
- * Shrink Potion     20
  * Presto!            3
  * Not Your Turn      1
- * Change Ball        1]
+ * Change Ball        1
+ * Supersize Me      40
+ * Shrink Potion     20]
 
 History:
 Created by Proposal 6394 (Goethe), 10 July 2009
@@ -5909,12 +5908,12 @@ The Deck of Justice
 
 [Note (9 August 2009): Current frequencies:
  * Absolv-o-Matic   30
+ * Stool Pigeon      5
  * Drop your Weapon 20
  * Discard Picking  15
- * Stool Pigeon      5
+ * Justice Ball      1
  * Penalty Box       5
- * Dunce Cap         2
- * Justice Ball      1]
+ * Dunce Cap         2]
 
 History:
 Created by Proposal 6394 (Goethe), 10 July 2009
