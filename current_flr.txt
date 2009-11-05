@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6535
-Last change to this ruleset: by proposal 6535
+Last proposal with recorded effect on this ruleset: 6537
+Last change to this ruleset: by proposal 6537
 
 Last updated: 5 November 2009
 
@@ -1657,13 +1657,13 @@ Amended(13) by Proposal 6319 (Murphy; disi.), 26 May 2009
 
 ----------------------------------------------------------------------
 
-Rule 2215/1 (Power=1)
+Rule 2215/2 (Power=1)
 Truthiness
 
       A person SHALL NOT make a public statement on a matter relevant
       to the rules unless e reasonably believes that it is true (or,
       in the case of a public statement that one performs an action,
-      that is effective).
+      that it is thereby effective).
 
       For the purpose of this rule:
 
@@ -1695,6 +1695,7 @@ Created by Proposal 5789 (Murphy, Zefram, Michael, Goethe), 22 October
   2008
 Power changed from 2 to 1 by Proposal 5947 (ais523), 15 November 2008
 Amended(1) by Proposal 6248 (Wooble), 9 May 2009
+Amended(2) by Proposal 6537 (Walker; disi.), 4 November 2009
 
 ----------------------------------------------------------------------
 
