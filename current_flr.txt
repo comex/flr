@@ -6,20 +6,20 @@ Last change to this ruleset: by proposal 6535
 Last updated: 5 November 2009
 
 Rule ID numbers:
-      highest orderly: 2276
+      highest orderly: 2277
       chaotic: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 152
+Current total number of rules: 153
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
       33 with Power=3
-      56 with Power=2
+      57 with Power=2
        5 with Power=1.7
        7 with Power=1.5
       49 with Power=1
@@ -153,6 +153,7 @@ Index of Rules
       Rule  591: Inquiry Cases
       Rule 2230: Notices of Violation
       Rule 1504: Criminal Cases
+      Rule 2277: Appeals of Criminal Cases
       Rule 2169: Equity Cases
       Rule 2205: Judicial Arguments and Evidence
       Rule 2157: Judicial Panels
@@ -4565,7 +4566,7 @@ Amended(13) by Proposal 6427 (BobTHJ), 18 August 2009
 
 ----------------------------------------------------------------------
 
-Rule 1504/44 (Power=2)
+Rule 1504/45 (Power=2)
 Criminal Cases
 
       Criminal cases are a subclass of judicial cases.  Any
@@ -4664,15 +4665,6 @@ Criminal Cases
       Players SHOULD NOT create rules defining Crimes of a Class
       greater than 14.
 
-      An appeal concerning any assignment of judgment in a criminal
-      case within the past week CAN be initiated by the accused by
-      announcement. Unless otherwise specified, an appeal of a
-      judgment in a criminal case is assumed to be appealing the
-      question of culpability. If a verdict or sentence that led to
-      the creation of Rests is overruled, remanded, or reassigned, the
-      Rests are still considered to have been created, but any player
-      CAN destroy any created Rests by announcement.
-
 [CFJ 1720 (called 12 August 2007): Where a criminal charge is
 expressed in the form "violating rule NNNN by XXX", the alleged act
 for the purposes of the rules is only "XXX".]
@@ -4755,6 +4747,33 @@ Amended(41) by Proposal 6355 (Yally), 23 June 2009
 Amended(42) by Proposal 6401 (Murphy), 17 July 2009
 Amended(43) by Proposal 6463 (C-walker), 15 September 2009
 Amended(44) by Proposal 6522 (Walker), 23 October 2009
+Amended(45) by Proposal 6535 (Murphy), 4 November 2009
+
+----------------------------------------------------------------------
+
+Rule 2277/0 (Power=2)
+Appeals of Criminal Cases
+
+      An appeal concerning any assignment of judgment in a criminal
+      case within the past week CAN be initiated by the accused by
+      announcement.
+
+      Unless otherwise specified, an appeal of a judgment in a
+      criminal case is assumed to be appealing the question of
+      culpability.
+
+      If a verdict or sentence that led to the creation of Rests is
+      overruled, remanded, or reassigned, the Rests are still
+      considered to have been created, but any player CAN destroy any
+      Rests thus created by announcement.
+
+      When a judgement on a criminal case's question of culpability is
+      suspended, the judgement (if any) on its question of sentencing
+      is also suspended.  Afterward, if the first judgement is
+      assigned again, then so is the second.
+
+History:
+Created by Proposal 6536 (Murphy), 4 November 2009
 
 ----------------------------------------------------------------------
 
