@@ -1,25 +1,25 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6538
-Last change to this ruleset: by proposal 6538
+Last proposal with recorded effect on this ruleset: 6539
+Last change to this ruleset: by proposal 6539
 
 Last updated: 5 November 2009
 
 Rule ID numbers:
-      highest orderly: 2277
+      highest orderly: 2278
       chaotic: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 153
+Current total number of rules: 154
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
       33 with Power=3
-      57 with Power=2
+      58 with Power=2
        5 with Power=1.7
        7 with Power=1.5
       49 with Power=1
@@ -177,6 +177,7 @@ Index of Rules
       Rule 2266: Effect Cards
       Rule 2257: Dealing Cards
       Rule 2258: Decks, Draws, and Salaries
+      Rule 2278: Earning Draws
       Rule 2259: Hand Limits
       Rule 2260: The Deck of Government
       Rule 2261: The Deck of Change
@@ -5428,7 +5429,7 @@ Cards
       A category concerning the economic subgame defined by the Rules.
 ----------------------------------------------------------------------
 
-Rule 2253/4 (Power=2)
+Rule 2253/5 (Power=2)
 Cards
 
       Cards are any class of assets defined by the Rules to be cards.
@@ -5436,25 +5437,22 @@ Cards
       Rules must define its Title, its Deck, and one of: its Exploit,
       its Position, or its Effect.  Card instances of the same class
       are fungible.  Ownership of cards is restricted to players and
-      contests.
+      contests, and may be further restricted by the Rule defining a
+      given variety of Card.
 
-      A Deck is a collection of card types associated in the Rules
-      with a particular recordkeepor, who is known as the dealer for
-      that deck and for the cards in that deck.
+      The Dealor is an office, and the Recordkeepor of Cards.
 
-      The dealer for a deck CAN, by announcement:
-       * create a card that is part of that deck in the possession of
-         any entity;
-       * destroy any card that is part of that deck;
-       * transfer a card that is part of that deck between any two
-         entities;
-
+      The Dealor CAN, by announcement:
+       * create a Card in the possession of any entity qualified to
+         own that Card;
+       * destroy any Card;
+       * transfer a Card between any two entities;
       however e SHALL only perform these actions as explicitly
-      permitted by the Rules.  E MAY perform any card-related actions
-      as would be POSSIBLE for em to do so were it not for the above
-      paragraph.
+      required by the Rules, or as would be POSSIBLE and LEGAL for em
+      to do were e not the Dealor.
 
-      The maximum FINE amount for each card is two.
+      The maximum FINE amount for each card is two, except where
+      specified otherwise.
 
 History:
 Created by Proposal 6394 (Goethe), 10 July 2009
@@ -5462,6 +5460,7 @@ Amended(1) by Proposal 6408 (coppro), 7 August 2009
 Amended(2) by Proposal 6438 (coppro; disi.), 18 August 2009
 Amended(3) by Proposal 6454 (BobTHJ), 1 September 2009
 Amended(4) by Proposal 6463 (C-walker), 15 September 2009
+Amended(5) by Proposal 6539 (coppro), 4 November 2009
 
 ----------------------------------------------------------------------
 
@@ -5489,11 +5488,11 @@ Power changed from 1 to 2 by Proposal 6409 (G.; disi.), 7 August 2009
 
 ----------------------------------------------------------------------
 
-Rule 2255/1 (Power=2)
+Rule 2255/2 (Power=2)
 Major Arcana
 
-      The Major Arcana is a deck of Position cards whose dealer is the
-      Herald.  The following Major Arcana cards are defined:
+      The Major Arcana is a deck of Position cards  The following
+      Major Arcana cards are defined:
 
       Title: Minister without Portfolio.
       Position: The Minister without Portfolio CAN become holder of a
@@ -5528,6 +5527,7 @@ Major Arcana
 History:
 Created by Proposal 6394 (Goethe), 10 July 2009
 Amended(1) by cleaning (Murphy), 16 August 2009
+Amended(2) by Proposal 6539 (coppro), 4 November 2009
 
 ----------------------------------------------------------------------
 
@@ -5598,81 +5598,71 @@ Created by Proposal 6454 (BobTHJ), 1 September 2009
 
 ----------------------------------------------------------------------
 
-Rule 2257/1 (Power=2)
+Rule 2257/2 (Power=2)
 Dealing Cards
 
-      Each defined Exploit card type in a Deck shall have a Frequency,
-      which is a non-negative integer defaulting to 0.  The Frequency
-      of each card type is part of the weekly report of the Deck's
-      Dealer.
+      Each defined Exploit or Effect card type shall have a Frequency,
+      which is a non-negative integer defaulting to 0.
+      The Frequency of each card type is part of the Dealor's weekly
+      report.
 
       Changing the frequency of each card type is secured, and the
-      frequency of a card type in a given Deck CAN be changed:
-          * by the Deck's Dealer without 2 objections;
-          * if the Deck's Dealer is part of an Officer's duty, then,
-            during an election for that office but before the last
-            four days of the election's voting period, a candidate for
-            that office CAN make and publish a pledge explicitly,
-            clearly, and obviously describing changes e intends to
-            make to the frequencies of cards in eir Deck.  If e wins
-            the election, e CAN and SHALL make the described changes
-            by announcement asap after the election ends.
+      frequency of a card type CAN be changed:
+          * by the Dealor without 2 objections;
+          * by any player with Agoran Consent;
+          * as soon as possible after a player wins an election for
+            Dealor, if e publicly stated that e intended to change a
+            given Card's Frequency to a certain value if elected, e
+            CAN and CALL change that Card's Frequency by announcement,
+            and SHALL NOT deal a card before e does so.
 
-      Whenever the rules indicate that a Dealer SHALL deal a card to
-      an entity, or that the entity "earns a draw" from a particular
-      Deck, that Deck's Dealer SHALL, as soon as possible, create a
-      card in the possession of that entity, with the card chosen at
-      random from among cards in that Deck, with the probability of a
-      particular card being chosen being the Frequency of that card
-      divided by the sum of the frequencies of all the cards in that
-      Deck (if this sum is zero, the requirement to deal asap is
-      waived, and the Dealer SHALL NOT deal a card from that Deck
-      until the sum is greater than zero).
+      Whenever the rules indicate that the Dealer SHALL deal a Card to
+      from a Deck an entity, the Dealor SHALL, as soon as possible,
+      create a Card from that Deck in the possession of that entity,
+      with the Card chosen at random from among Cards in that Deck,
+      with the relative probability of a particular Card being chosen
+      chosen being the Frequency of that Card. If no Card from the
+      specified Deck has a positive Frequency, or if the entity is not
+      eligible to own the Card selected, the Dealor SHALL, rather than
+      create a Card, announce why e cannot.
 
 History:
 Created by Proposal 6394 (Goethe), 10 July 2009
 Amended(1) by Proposal 6458 (coppro; disi.), 1 September 2009
+Amended(2) by Proposal 6539 (coppro), 4 November 2009
 
 ----------------------------------------------------------------------
 
-Rule 2258/3 (Power=2)
+Rule 2258/4 (Power=2)
 Decks, Draws, and Salaries
 
-      Any deck of cards defined by this rule is known as a Basic Deck.
-      Salary is a first-class player switch tracked by the Accountor,
+      Some Decks may be Basic Decks, as defined by the Rules.
+
+      Salary is a first-class player switch, tracked by the Registrar,
       with possible values N,M,O,P where each letter is replaced with
-      a defined basic deck.  The default value for this switch is
-      Change,Change,Justice,Government.  Ordering of N,M,O,P is not a
+      a defined Basic Deck.  The default value for this switch is
+      Change,Change,Justice,Government. Ordering of N,M,O,P is not a
       significant differentiating aspect of the switch value, only the
       number of times each deck type is listed within the switch.
 
       A player CAN change the value of eir own Salary switch by
       announcement.
 
-      At the beginning of each month, each first-class player earns a
-      number of draws from each Basic Deck equal to the number of
-      times that deck appeared in eir salary switch at the beginning
-      of the month.  As soon as possible after the beginning of each
-      month, the Accountor SHALL publish the state of each player's
-      Salary switch as it was at the beginning of the month.
+      At the end of each month, each first-class player Earns a number
+      of Draws from each Basic Deck equal to the number of times that
+      deck appeared in eir salary switch at the beginning of the
+      month. These Draws are tracked by the Registrar.
 
-      Office Salary is a switch for each office tracked by the
-      Accountor, with possible values being the names of each basic
-      deck (default Government).  The holder of each OFFICE CAN change
-      that office's salary by announcement.  At the beginning of each
-      week, each holder of an office earns a number of draws from the
-      deck indicated by the switch equal to the interest index for
-      that office.
+      Office Salary is a switch for each office, tracked by the IADoP,
+      with possible values being the names of each Basic Deck (default
+      Government).  The holder of each OFFICE CAN change that office's
+      salary by announcement. At the end of each week, each holder of
+      an office Earns a number of Draws from the Deck indicated by the
+      office's Office Salary to the interest index for that office.
+      These Draws are tracked by the IADoP.
 
-      When a first-class player registers, e earns two draws from each
-      basic deck.
-
-      The Deck of Government is a deck of cards tracked by the Grand
-      Poobah.
-
-      The Deck of Justice is a deck of cards tracked by the Insulator.
-
-      The Deck of Change is a deck of cards tracked by the Anarchist.
+      When a first-class player registers, e Earns two Draws from each
+      Basic Deck. These Draws are tracked by the Registrar.
 
 History:
 Created by Proposal 6394 (Goethe), 10 July 2009
@@ -5680,6 +5670,31 @@ Amended(1) by Proposal 6408 (coppro), 7 August 2009
 Power changed from 1 to 2 by Proposal 6409 (G.; disi.), 7 August 2009
 Amended(2) by cleaning (Murphy), 16 August 2009
 Amended(3) by Proposal 6428 (BobTHJ), 18 August 2009
+Amended(4) by Proposal 6539 (coppro), 4 November 2009
+
+----------------------------------------------------------------------
+
+Rule 2278/0 (Power=2)
+Earning Draws
+
+      The Rules may state that a player Earns a Draw from a given Deck
+      for various reasons. The Rule stating that a player
+      Earns a Draw may also state an office responsible for tracking
+      tracking that Draw; if not specified, the Dealor tracks that
+      Draw.
+
+      After the end of each week, the officers so responsible SHALL,
+      as soon as possible, publicly post a listing of each Draw Earned
+      (for which e is responsible to track) during the previous week
+      and by whom and from which Deck it was Earned.
+
+      As soon as possible as a report of Draws Earned for a given week
+      is issued, the Dealor SHALL, as soon as possible, deal to each
+      entity named in the report the approrpiate number of cards from
+      the appropriate deck.
+
+History:
+Created by Proposal 6539 (coppro), 4 November 2009
 
 ----------------------------------------------------------------------
 
@@ -5690,23 +5705,23 @@ Hand Limits
       first-class players, 3 for contests, 0 for all others). Changes
       to Hand Limit are secured. If an entity's Hand Limit would be
       set to a number less than 0, it is instead set to 0. The
-      Accountor's report includes a list of all entities whose Hand
+      Dealor's report includes a list of all entities whose Hand
       Limit is set to a non-default value.
 
       Any entity CAN audit itself by announcement. When a first-class
       player is audited, that player gains one Rest for each 5 Cards
       or portion thereof which e owns in excess of eir Hand Limit.
       When any other entity is audited, the auditing entity (or, if
-      there is none, the Accountor) CAN and SHALL as soon as possible
+      there is none, the Dealor) CAN and SHALL as soon as possible
       (by announcement) destroy X of eir cards, selected at random,
       where X is one-half rounded up of the number of cards e owns in
       excess of eir Hand Limit. Position Cards are not considered
       Cards for the purposes of this rule.
 
-      As soon as possible after the beginning of each month, each
-      dealer of a basic deck SHALL by announcement audit each entity
-      who at the beginning of that month owned at least as many cards
-      from that basic deck as any other entity.
+      As soon as possible after the beginning of each month, the
+      Dealor CAN and SHALL by announcement audit, for each Basic Deck,
+      the entity or entities who owned the most Cards from that Deck
+      at the beginning of the month.
 
 History:
 Created by Proposal 6394 (Goethe), 10 July 2009
@@ -5720,15 +5735,15 @@ Amended(5) by Proposal 6534 (BobTHJ; disi.), 4 November 2009
 
 ----------------------------------------------------------------------
 
-Rule 2260/6 (Power=2)
+Rule 2260/7 (Power=2)
 The Deck of Government
 
-      When a player wins an election, e earns two draws from the
-      Government Deck.
+      When a player wins an election, e Earns two Draws from the
+      Government Deck. These Draws are tracked by the IADoP.
 
-      The Deck of Government consists of the following cards, listed
-      by title followed by Exploit (default) or Effect (if marked as
-      such).
+      The Deck of Government is a Basic Deck consisting of the
+      following cards, listed by title followed by Exploit (default)
+      or Effect (if marked as such).
 
       * Debate-o-Matic  - Indicate an ongoing ordinary Agoran Decision.
                           It becomes democratic.
@@ -5784,21 +5799,22 @@ Amended(3) by Proposal 6419 (BobTHJ), 16 August 2009
 Amended(4) by Proposal 6454 (BobTHJ), 1 September 2009
 Amended(5) by Proposal 6519 (Wooble; disi.), 19 October 2009
 Amended(6) by Proposal 6531 (Walker), 23 October 2009
+Amended(7) by Proposal 6539 (coppro), 4 November 2009
 
 ----------------------------------------------------------------------
 
-Rule 2261/7 (Power=2)
+Rule 2261/8 (Power=2)
 The Deck of Change
 
       When a proposal authored by a player is adopted and takes
-      effect, that player earns a number of draws from the Change Deck
-      equal to the Interest Index of the proposal and, if the
-      proposal  was interested, its coauthors, if players, each earn
-      one draw from  the Change Deck.
+      effect, that player Earns a number of Draws from the Change Deck
+      equal to the Interest Index of the proposal and, if the proposal
+      was interested, its coauthors, if players, each Earn one Draw
+      from the Change Deck. These Draws are tracked by the IADoP.
 
-      The Deck of Change consists of the following cards, listed by
-      title followed by Exploit (default) or Effect (if marked as
-      such).
+      The Deck of Change is a Basic Deck consisting of the following
+      cards, listed by title followed by Exploit (default) or Effect
+      (if marked as such).
 
       * Distrib-u-Matic - Indicate an Undistributable proposal. That
                           proposal becomes Distributable
@@ -5860,21 +5876,22 @@ Amended(4) by Proposal 6448 (BobTHJ), 27 August 2009
 Amended(5) by Proposal 6454 (BobTHJ), 1 September 2009
 Amended(6) by Proposal 6530 (C-walker), 23 October 2009
 Amended(7) by Proposal 6538 (coppro; disi.), 4 November 2009
+Amended(8) by Proposal 6539 (coppro), 4 November 2009
 
 ----------------------------------------------------------------------
 
-Rule 2262/7 (Power=2)
+Rule 2262/8 (Power=2)
 The Deck of Justice
 
       When a judge judges an interested case within its time limit, e
-      earns a draw from the Deck of Justice.  If a judge's judgement
-      is OVERTURNED on appeal, one justice on the appeals panel CAN
-      destroy one Justice card e indicates in the judge's possession
-      by announcement.
+      earns a draw from the Deck of Justice.  These Draws are tracked
+      by the CotC. If a judge's judgement is OVERTURNED on appeal, one
+      justice on the appeals panel CAN destroy one Justice card e
+      indicates in the judge's possession by announcement.
 
-      The Deck of Justice consists of the following cards, listed by
-      title followed by Exploit (default) or Effect (if marked as
-      such).
+      The Deck of Justice is a Basic Deck consisting of the following
+      cards, listed by title followed by Exploit (default) or Effect
+      (if marked as such).
 
        * Absolv-o-Matic   - Indicate a player with at least one Rest.
                             A Rest in that player's possession
@@ -5929,6 +5946,7 @@ Amended(4) twice by Proposal 6454 (BobTHJ), 1 September 2009
 Amended(5) by Proposal 6483 (Pavitra), 18 September 2009
 Amended(6) by Proposal 6517 (BobTHJ), 19 October 2009
 Amended(7) by Proposal 6526 (ais523), 23 October 2009
+Amended(8) by Proposal 6539 (coppro), 4 November 2009
 
 ----------------------------------------------------------------------
 
