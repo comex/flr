@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6531
-Last change to this ruleset: by proposal 6531
+Last proposal with recorded effect on this ruleset: 6533
+Last change to this ruleset: by proposal 6533
 
-Last updated: 23 October 2009
+Last updated: 5 November 2009
 
 Rule ID numbers:
       highest orderly: 2276
@@ -13,7 +13,7 @@ Rule ID numbers:
 
 Statistics
 
-Current total number of rules: 153
+Current total number of rules: 152
 
 Power distribution:
        1 with Power=4
@@ -22,7 +22,7 @@ Power distribution:
       56 with Power=2
        5 with Power=1.7
        7 with Power=1.5
-      50 with Power=1
+      49 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -110,7 +110,6 @@ Index of Rules
       Rule 2227: Interest Index of Offices
       Rule 2160: Deputisation
       Rule 2154: Election Procedure
-      Rule 2217: Periodic Elections
       Rule 2276: Assumption of Vacant Offices
       Rule 2138: The Intergalactic Associate Director of Personnel
       Rule 1551: Ratification
@@ -2960,28 +2959,6 @@ Amended(28) by Proposal 6411 (Yally), 30 July 2009
 
 ----------------------------------------------------------------------
 
-Rule 2217/3 (Power=1)
-Periodic Elections
-
-      Within a week after an elected office ceases to have (or is
-      created without) an active holder, or after an election for the
-      office ends and the office still lacks an active holder, the
-      IADoP SHALL initiate an election for that office.  This
-      requirement is waived if the office comes to have an active
-      holder, or if another player initiates an election for the
-      office.
-
-History:
-Created by Proposal 5831 (Murphy), 6 November 2008
-Amended(1) by Proposal 5986 (Murphy), 7 December 2008
-Assigned to Committee on Administration by Proposal 6053 (Murphy,
-  woggle, ais523), 23 January 2009
-Power changed from 2 to 1 by Proposal 6088 (ais523), 22 February 2009
-Amended(2) by Proposal 6088 (ais523), 22 February 2009
-Amended(3) by Proposal 6175 (Yally), 7 April 2009
-
-----------------------------------------------------------------------
-
 Rule 2276/2 (Power=2)
 Assumption of Vacant Offices
 
@@ -3031,8 +3008,6 @@ of Personnel is the Director of Personnel.]
 
 [Cross-references (1 March 2008): the IADoP's duties are:
   * hold election for office where contested (rule 2154)
-  * track stability of elected offices (rule 2217)
-  * attempt to change officeholders quarterly (rule 2217)
   * report officeholding (rule 2138)
   * award long service patent titles (rule 1922)]
 
