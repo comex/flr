@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6533
-Last change to this ruleset: by proposal 6533
+Last proposal with recorded effect on this ruleset: 6534
+Last change to this ruleset: by proposal 6534
 
 Last updated: 5 November 2009
 
@@ -5658,7 +5658,7 @@ Amended(3) by Proposal 6428 (BobTHJ), 18 August 2009
 
 ----------------------------------------------------------------------
 
-Rule 2259/4 (Power=2)
+Rule 2259/5 (Power=2)
 Hand Limits
 
       Every entity has an integer Hand Limit (default 7 for
@@ -5672,11 +5672,11 @@ Hand Limits
       player is audited, that player gains one Rest for each 5 Cards
       or portion thereof which e owns in excess of eir Hand Limit.
       When any other entity is audited, the auditing entity (or, if
-      there is none, the Accountor) CAN and SHALL by announcement
-      destroy X of eir cards, selected at random, where X is one-half
-      rounded up of the number of cards e owns in excess of eir Hand
-      Limit. Position Cards are not considered Cards for the purposes
-      of this rule.
+      there is none, the Accountor) CAN and SHALL as soon as possible
+      (by announcement) destroy X of eir cards, selected at random,
+      where X is one-half rounded up of the number of cards e owns in
+      excess of eir Hand Limit. Position Cards are not considered
+      Cards for the purposes of this rule.
 
       As soon as possible after the beginning of each month, each
       dealer of a basic deck SHALL by announcement audit each entity
@@ -5691,6 +5691,7 @@ Title changed by Proposal 6459 (coppro), 1 September 2009
 Amended(2) by Proposal 6487 (coppro), 18 September 2009
 Amended(3) by Proposal 6488 (Murphy), 18 September 2009
 Amended(4) by Proposal 6527 (BobTHJ; disi.), 23 October 2009
+Amended(5) by Proposal 6534 (BobTHJ; disi.), 4 November 2009
 
 ----------------------------------------------------------------------
 
