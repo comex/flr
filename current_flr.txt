@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6534
-Last change to this ruleset: by proposal 6534
+Last proposal with recorded effect on this ruleset: 6535
+Last change to this ruleset: by proposal 6535
 
 Last updated: 5 November 2009
 
@@ -1933,13 +1933,17 @@ Amended(4) by Proposal 5535 (Murphy), 7 June 2008
 
 ----------------------------------------------------------------------
 
-Rule 1023/25 (Power=2)
+Rule 1023/26 (Power=2)
 Common Definitions
 
       The following terms are defined:
 
       (a) The phrases "in a timely fashion" and "as soon as possible"
-          mean "within seven days".
+          mean "within seven days".  A requirement to perform an
+          action at an exact instant (e.g.  "when X, Y SHALL Z"), but
+          not "in the same message", is instead interpreted as a
+          requirement to perform that action in a timely fashion after
+          that instant.
 
       (b) Agoran epochs:
 
@@ -1991,6 +1995,7 @@ Amended(22) by Proposal 5081 (Zefram; disi.), 1 August 2007
 Amended(23) by Proposal 5408 (root), 22 January 2008
 Amended(24) by Proposal 6046 (comex), 13 January 2009
 Amended(25) by Proposal 6321 (Murphy; disi.), 26 May 2009
+Amended(26) by Proposal 6535 (Murphy), 4 November 2009
 
 ----------------------------------------------------------------------
 
