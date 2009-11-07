@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6542
-Last change to this ruleset: by proposal 6542
+Last proposal with recorded effect on this ruleset: 6546
+Last change to this ruleset: by proposal 6546
 
 Last updated: 5 November 2009
 
@@ -2060,7 +2060,7 @@ Power changed from 2 to 3 by Proposal 5701 (ais523), 1 October 2008
 
 ----------------------------------------------------------------------
 
-Rule 2161/5 (Power=1)
+Rule 2161/6 (Power=1)
 ID Numbers
 
       If a rule defines a type of entity as having ID numbers, then:
@@ -2074,9 +2074,9 @@ ID Numbers
           number (expressed as a decimal literal with at most 14
           digits) distinct from any ID number previously assigned to
           an entity of that type, and (if the type of entity is
-          defined by the rules as strictly ordered) greater than any
-          orderly ID number so assigned.  The player SHOULD select the
-          smallest number possible.
+          defined by the rules as strictly ordered) ILLEGAL unless the
+          number is greater than any orderly ID number so assigned.
+          The player SHOULD select the smallest number possible.
 
       (c) Each ID number is either orderly (default) or chaotic.  Upon
           a judicial finding that an ID number is unreasonably large,
@@ -2101,6 +2101,7 @@ Amended(3) by Proposal 5723 (Murphy), 7 October 2008
 Power changed from 2 to 1 by Proposal 5947 (ais523), 15 November 2008
 Amended(4) by Proposal 5994 (Murphy), 7 December 2008
 Amended(5) by Proposal 6489 (Murphy; disi.), 18 September 2009
+Amended(6) by Proposal 6546 (comex), 7 November 2009
 
 ----------------------------------------------------------------------
 
