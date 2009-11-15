@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6563
-Last change to this ruleset: by proposal 6563
+Last proposal with recorded effect on this ruleset: 6564
+Last change to this ruleset: by proposal 6564
 
 Last updated: 5 November 2009
 
@@ -1659,7 +1659,7 @@ Amended(13) by Proposal 6319 (Murphy; disi.), 26 May 2009
 
 ----------------------------------------------------------------------
 
-Rule 2215/2 (Power=1)
+Rule 2215/3 (Power=1)
 Truthiness
 
       A person SHALL NOT make a public statement on a matter relevant
@@ -1675,6 +1675,11 @@ Truthiness
        b) Any conditional clause or other qualifier attached to a
           statement constitutes part of the statement; the nature of
           the whole is what is significant.
+
+      The above notwithstanding, a person stating that e intends to
+      perform an action in the future does not thereby violate this
+      rule, as such a statement is often a requirement to keep eir
+      options open.
 
 [CFJ 1739 (called 29 August 2007): A quotation can result in a
 violation of rule 2215 (then 2149), depending on the context of the
@@ -1698,6 +1703,7 @@ Created by Proposal 5789 (Murphy, Zefram, Michael, Goethe), 22 October
 Power changed from 2 to 1 by Proposal 5947 (ais523), 15 November 2008
 Amended(1) by Proposal 6248 (Wooble), 9 May 2009
 Amended(2) by Proposal 6537 (Walker; disi.), 4 November 2009
+Amended(3) by Proposal 6564 (Murphy), 13 November 2009
 
 ----------------------------------------------------------------------
 
