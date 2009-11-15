@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6549
-Last change to this ruleset: by proposal 6549
+Last proposal with recorded effect on this ruleset: 6550
+Last change to this ruleset: by proposal 6550
 
 Last updated: 5 November 2009
 
@@ -3772,14 +3772,14 @@ Amended(1) by Proposal 6453 (C-walker), 27 August 2009
 
 ----------------------------------------------------------------------
 
-Rule 1607/27 (Power=2)
+Rule 1607/28 (Power=2)
 The Promotor
 
       The Promotor is an office; its holder is responsible for
       receiving and distributing proposals.
 
-      Distributability is a switch possessed by proposals that have
-      not been distributed, tracked by the Promotor, with values
+      Distributability is switch possessed by proposals in the
+      proposal pool, tracked by the Promotor, with values
       Undistributable (default) and Distributable.
 
       In a given Agoran week, the Promotor CAN and SHALL, as part of
@@ -3876,6 +3876,7 @@ Amended(24) by Proposal 6406 (C-walker), 7 August 2009
 Amended(25) by Proposal 6500 (coppro; disi.), 26 September 2009
 Amended(26) by Proposal 6531 (Walker), 23 October 2009
 Amended(27) by Proposal 6541 (Murphy), 4 November 2009
+Amended(28) by Proposal 6550 (Tiger; disi.), 13 November 2009
 
 ----------------------------------------------------------------------
 
