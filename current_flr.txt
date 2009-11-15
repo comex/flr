@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6550
-Last change to this ruleset: by proposal 6550
+Last proposal with recorded effect on this ruleset: 6557
+Last change to this ruleset: by proposal 6557
 
 Last updated: 5 November 2009
 
@@ -4583,7 +4583,7 @@ Amended(13) by Proposal 6427 (BobTHJ), 18 August 2009
 
 ----------------------------------------------------------------------
 
-Rule 1504/45 (Power=2)
+Rule 1504/46 (Power=2)
 Criminal Cases
 
       Criminal cases are a subclass of judicial cases.  Any
@@ -4647,7 +4647,7 @@ Criminal Cases
 
       * SILENCE with a positive number less than 15 (X). If a
         judgement of SILENCE has been in effect continuously for one
-        week (or longer), any player CAN create a number of Rests
+        week (or longer), any player CAN once create a number of Rests
         equal to X in the possession of the ninny, by announcement.
 
       * FINE with an amount of one class of asset, appropriate for
@@ -4765,6 +4765,7 @@ Amended(42) by Proposal 6401 (Murphy), 17 July 2009
 Amended(43) by Proposal 6463 (C-walker), 15 September 2009
 Amended(44) by Proposal 6522 (Walker), 23 October 2009
 Amended(45) by Proposal 6535 (Murphy), 4 November 2009
+Amended(46) by Proposal 6557 (BobTHJ; disi.), 13 November 2009
 
 ----------------------------------------------------------------------
 
