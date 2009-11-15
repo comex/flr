@@ -1,25 +1,25 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6546
-Last change to this ruleset: by proposal 6546
+Last proposal with recorded effect on this ruleset: 6549
+Last change to this ruleset: by proposal 6549
 
 Last updated: 5 November 2009
 
 Rule ID numbers:
-      highest orderly: 2278
+      highest orderly: 2279
       chaotic: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 154
+Current total number of rules: 155
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
       33 with Power=3
-      58 with Power=2
+      59 with Power=2
        5 with Power=1.7
        7 with Power=1.5
       49 with Power=1
@@ -137,6 +137,7 @@ Index of Rules
       Rule 2267: Judge's Proposals
       Rule 1950: Voting on Democratic Decisions
       Rule 2156: Voting on Ordinary Decisions
+      Rule 2279: Base Voting Limits
       Rule 2142: Support Democracy
       Rule 2137: The Assessor
       Rule 1450: Separation of Powers
@@ -3947,7 +3948,7 @@ Amended(20) by Proposal 5418 (root), 2 February 2008
 
 ----------------------------------------------------------------------
 
-Rule 2156/14 (Power=2)
+Rule 2156/15 (Power=2)
 Voting on Ordinary Decisions
 
       Chamber is a proposal switch, possessed only by proposals which
@@ -3971,23 +3972,12 @@ Voting on Ordinary Decisions
       voting period of the decision.
 
       The eligible voters on an ordinary decision are the players who
-      were active at the start of its voting period. The initial
-      voting limit of a player on an ordinary decision is as follows,
-      except that it is increased by one for each Extra Vote Card the
-      player owns and decreased by one for each positive multiple of
-      two Rests the player owns:
-
-      - For a Green ordinary decision, the Green players have a base
-      voting limit of 5, the Red players have a base voting limit of 2
-      and the Purple players have a base voting limit of 1.
-
-      - For a Red ordinary decision, the Red players have a base
-      voting limit of 5, the Purple players have a base voting limit
-      of 2 and the Green players have a base voting limit of 1.
-
-      - For a Purple ordinary decision, the Purple players have a base
-      voting limit of 5, the Green players have a base voting limit of
-      2 and the Red players have a base voting limit of 1.
+      were active at the start of its voting period.  The voting limit
+      of a player on an ordinary decision is eir base  voting limit on
+      that decision (as defined elsewhere in the rules), plus one for
+      each Extra Vote card e owns, minus one for each positive
+      multiple of two Rests the player owns. This rule defers to other
+      rules of equal power in the determination of voting limits.
 
 History:
 Created by Proposal 5078 (Zefram), 18 July 2007
@@ -4008,6 +3998,27 @@ Amended(11) by Proposal 6010 (ais523, Goethe, Murphy, comex,
 Amended(12) by cleaning (Murphy), 16 August 2009
 Amended(13) by Proposal 6499 (Wooble; disi.), 26 September 2009
 Amended(14) by Proposal 6531 (Walker), 23 October 2009
+Amended(15) twice by Proposal 6549 (coppro; disi.), 13 November 2009
+
+----------------------------------------------------------------------
+
+Rule 2279/0 (Power=2)
+Base Voting Limits
+
+      - For a Green ordinary decision, the Green players have a base
+      voting limit of 5, the Red players have a base voting limit of 2
+      and the Purple players have a base voting limit of 1.
+
+      - For a Red ordinary decision, the Red players have a base
+      voting limit of 5, the Purple players have a base voting limit
+      of 2 and the Green players have a base voting limit of 1.
+
+      - For a Purple ordinary decision, the Purple players have a base
+      voting limit of 5, the Green players have a base voting limit of
+      2 and the Red players have a base voting limit of 1.
+
+History:
+Created by Proposal 6549 (coppro; disi.), 13 November 2009
 
 ----------------------------------------------------------------------
 
