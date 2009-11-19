@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6564
-Last change to this ruleset: by proposal 6564
+Last proposal with recorded effect on this ruleset: 6565
+Last change to this ruleset: by proposal 6565
 
 Last updated: 5 November 2009
 
@@ -13,13 +13,13 @@ Rule ID numbers:
 
 Statistics
 
-Current total number of rules: 155
+Current total number of rules: 154
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
       33 with Power=3
-      59 with Power=2
+      58 with Power=2
        5 with Power=1.7
        7 with Power=1.5
       49 with Power=1
@@ -143,7 +143,6 @@ Index of Rules
       Rule 1450: Separation of Powers
       Rule 1698: Agora Is a Nomic
       Rule 2134: Win by Clout
-      Rule 2211: The Grand Poobah
       Rule 2188: Win by Proposal
 
       * Adjudication
@@ -4141,21 +4140,6 @@ Amended(3) by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
 Amended(4) by Proposal 5418 (root), 2 February 2008
 Amended(5) by Proposal 5625 (Murphy, OscarMeyr, Ivan Hope), 29 July
   2008
-
-----------------------------------------------------------------------
-
-Rule 2211/4 (Power=2)
-The Grand Poobah
-
-      The Grand Poobah is an office; its holder is responsible for
-      tracking the Deck of Government.
-
-History:
-Created by Proposal 5625 (Murphy, OscarMeyr, Ivan Hope), 29 July 2008
-Amended(1) by Proposal 5680 (Goethe), 3 September 2008
-Amended(2) by Proposal 5696 (Goethe), 20 September 2008
-Amended(3) by Proposal 6077 (Murphy), 22 February 2009
-Amended(4) by Proposal 6531 (Walker), 23 October 2009
 
 ----------------------------------------------------------------------
 
