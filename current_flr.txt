@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6565
-Last change to this ruleset: by proposal 6565
+Last proposal with recorded effect on this ruleset: 6566
+Last change to this ruleset: by proposal 6566
 
 Last updated: 5 November 2009
 
@@ -13,7 +13,7 @@ Rule ID numbers:
 
 Statistics
 
-Current total number of rules: 154
+Current total number of rules: 153
 
 Power distribution:
        1 with Power=4
@@ -22,7 +22,7 @@ Power distribution:
       58 with Power=2
        5 with Power=1.7
        7 with Power=1.5
-      49 with Power=1
+      48 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -69,7 +69,6 @@ Index of Rules
       Rule 1681: The Logical Rulesets
       Rule 1051: The Rulekeepor
       Rule 2221: Cleanliness
-      Rule 2216: The Repeal-o-Matic
       Rule 1750: Read the Ruleset Week
       Rule 2223: Win by Junta
 
@@ -1153,34 +1152,6 @@ History:
 Created by Proposal 5975 (Murphy), 25 November 2008
 Amended(1) by Proposal 6098 (comex), 22 February 2009
 Amended(2) by Proposal 6291 (Murphy), 19 May 2009
-
-----------------------------------------------------------------------
-
-Rule 2216/1 (Power=1)
-The Repeal-o-Matic
-
-      The Anarchist is an office; its holder is responsible for
-      proposing the repeal of rules.
-
-      The Anarchist's weekly duties include picking one or more rules
-      and submitting proposals to repeal each of those rules. The
-      Anarchist SHOULD include in eir proposals other relevant changes
-      so as not to have negative effects on the Rules. The Anarchist
-      SHALL NOT submit a proposal to repeal a rule for which e already
-      submitted a proposal to repeal within the last month. The
-      adoption index of each of the Anarchist's proposals is equal to
-      the maximum power of the rule e is to amend.
-
-      The Anarchist's monthly report includes a list of the titles and
-      texts of the proposals e submitted as part of eir weekly duties
-      in the preceding month.
-
-[Cross-references (28 October 2008): the Anarchist's duties are:
-  * propose repeal of rules (rule 2216)]
-
-History:
-Created by Proposal 5794 (Murphy, Swann), 26 October 2008
-Amended(1) by Proposal 6250 (Yally), 9 May 2009
 
 ----------------------------------------------------------------------
 
