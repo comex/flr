@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6571
-Last change to this ruleset: by proposal 6571
+Last proposal with recorded effect on this ruleset: 6575
+Last change to this ruleset: by proposal 6575
 
 Last updated: 5 November 2009
 
@@ -1685,7 +1685,7 @@ Amended(3) by Proposal 6564 (Murphy), 13 November 2009
 
 ----------------------------------------------------------------------
 
-Rule 2228/4 (Power=2)
+Rule 2228/5 (Power=2)
 Rests
 
       Rests are a fixed currency.  The creation and destruction of
@@ -1694,7 +1694,7 @@ Rests
       explicitly stating methods by which rests in particular CAN be
       destroyed.
 
-      The Insulator is an office, and the recordkeepor of Rests.
+      The Herald is the recordkeepor of Rests.
 
       Ownership of Rests is restricted to first-class persons. If, in
       the absence of this restriction, a number (N) of Rests would be
@@ -1705,9 +1705,6 @@ Rests
       A first-class player CAN create Rests in eir own possession by
       announcement.
 
-[Cross-references (15 March 2009): the Insulator's duties are:
-  * recordkeepor of rests (rule 2228)
-  * announce whether a notice of violation is valid (rule 2230)]
 History:
 Created by Proposal 6010 (ais523, Goethe, Murphy, comex, OscarMeyr),
   14 December 2008
@@ -1717,10 +1714,11 @@ Amended(1) by Proposal 6060 (Wooble, comex, Goethe), 4 February 2009
 Amended(2) by Proposal 6066 (comex, Goethe; disi.), 4 February 2009
 Amended(3) by Proposal 6171 (Murphy), 7 April 2009
 Amended(4) by Proposal 6394 (Goethe), 10 July 2009
+Amended(5) by Proposal 6575 (G.; disi.), 28 November 2009
 
 ----------------------------------------------------------------------
 
-Rule 2229/3 (Power=2)
+Rule 2229/4 (Power=2)
 Just Resting
 
       Owning one or more Rests is a Losing Condition.
@@ -1731,8 +1729,8 @@ Just Resting
       Rests, CANNOT register, rules to the contrary notwithstanding.
 
       A person who has one or more rests but is not a player is a
-      Fugitive.  The Insulator's monthly report shall include a list
-      of all Fugitives.  At the beginning of each month, half of each
+      Fugitive.  The Herald's monthly report shall include a list of
+      all Fugitives.  At the beginning of each month, half of each
       Fugitive's rests (rounded down) are destroyed.
 
 History:
@@ -1743,6 +1741,7 @@ Assigned to Committee on Crime by Proposal 6053 (Murphy, woggle,
 Amended(1) by Proposal 6175 (Yally), 7 April 2009
 Amended(2) by Proposal 6308 (coppro), 26 May 2009
 Amended(3) by Proposal 6394 (Goethe), 10 July 2009
+Amended(4) by Proposal 6575 (G.; disi.), 28 November 2009
 
 ----------------------------------------------------------------------
 
@@ -4486,7 +4485,7 @@ Amended(31) by Proposal 6571 (ais523), 28 November 2009
 
 ----------------------------------------------------------------------
 
-Rule 2230/13 (Power=2)
+Rule 2230/14 (Power=2)
 Notices of Violation
 
       A player CAN publish a Notice of Violation (with N support,
@@ -4523,9 +4522,9 @@ Notices of Violation
 
       As soon as possible after a player makes an announcement that is
       reasonably recognizable as an attempt to issue such a notice,
-      the Insulator SHALL announce whether the Notice was valid.  Such
-      an announcement is self-ratifying.  Affirming the validity of
-      the notice does not in itself certify the correctness of the
+      the Herald SHALL announce whether the Notice was valid.  Such an
+      announcement is self-ratifying.  Affirming the validity of the
+      notice does not in itself certify the correctness of the
       allegation.
 
       A valid Notice of Violation is initially Uncontested unless a
@@ -4547,7 +4546,7 @@ Notices of Violation
       Contested, these Rests remain, but CAN be later destroyed by
       judicial processes as described elsewhere.
 
-      Valid NOVs have ID numbers, to be assigned by the Insulator.
+      Valid NOVs have ID numbers, to be assigned by the Herald.
 
 History:
 Created by Proposal 6010 (ais523, Goethe, Murphy, comex, OscarMeyr),
@@ -4567,6 +4566,7 @@ Amended(10) by Proposal 6138 (Murphy), 15 March 2009
 Amended(11) by Proposal 6307 (BobTHJ; disi.), 26 May 2009
 Amended(12) by Proposal 6327 (Murphy), 29 May 2009
 Amended(13) by Proposal 6427 (BobTHJ), 18 August 2009
+Amended(14) by Proposal 6575 (G.; disi.), 28 November 2009
 
 ----------------------------------------------------------------------
 
@@ -6164,7 +6164,9 @@ meaning, it is correct to say that that person "is an X".]
   * announce award or revocation of Patent Title (rule 649)
   * award patent title of Champion (rule 1922)
   * report the manner of wins (rule 1922)
-  * report title dates for Ministers Without Portfolio (rule 402)]
+  * report title dates for Ministers Without Portfolio (rule 402)
+  * recordkeepor of rests (rule 2228)
+  * announce whether a notice of violation is valid (rule 2230)]
 
 History:
 Created by Proposal 649 (Wes), ca. Oct. 22 1993
