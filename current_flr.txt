@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6577
-Last change to this ruleset: by proposal 6577
+Last proposal with recorded effect on this ruleset: 6579
+Last change to this ruleset: by proposal 6579
 
 Last updated: 5 November 2009
 
@@ -5785,14 +5785,14 @@ Amended(7) by Proposal 6539 (coppro), 4 November 2009
 
 ----------------------------------------------------------------------
 
-Rule 2261/8 (Power=2)
+Rule 2261/9 (Power=2)
 The Deck of Change
 
       When a proposal authored by a player is adopted and takes
       effect, that player Earns a number of Draws from the Change Deck
       equal to the Interest Index of the proposal and, if the proposal
       was interested, its coauthors, if players, each Earn one Draw
-      from the Change Deck. These Draws are tracked by the IADoP.
+      from the Change Deck. These Draws are tracked by the Assessor.
 
       The Deck of Change is a Basic Deck consisting of the following
       cards, listed by title followed by Exploit (default) or Effect
@@ -5859,6 +5859,7 @@ Amended(5) by Proposal 6454 (BobTHJ), 1 September 2009
 Amended(6) by Proposal 6530 (C-walker), 23 October 2009
 Amended(7) by Proposal 6538 (coppro; disi.), 4 November 2009
 Amended(8) by Proposal 6539 (coppro), 4 November 2009
+Amended(9) by Proposal 6579 (coppro; disi.), 28 November 2009
 
 ----------------------------------------------------------------------
 
