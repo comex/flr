@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6566
-Last change to this ruleset: by proposal 6566
+Last proposal with recorded effect on this ruleset: 6567
+Last change to this ruleset: by proposal 6567
 
 Last updated: 5 November 2009
 
@@ -19,10 +19,10 @@ Power distribution:
        1 with Power=4
        1 with Power=3.2
       33 with Power=3
-      58 with Power=2
+      59 with Power=2
        5 with Power=1.7
        7 with Power=1.5
-      48 with Power=1
+      47 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -1447,7 +1447,7 @@ Amended(8) by Proposal 6320 (Goethe), 26 May 2009
 
 ----------------------------------------------------------------------
 
-Rule 2139/2 (Power=1)
+Rule 2139/3 (Power=2)
 The Registrar
 
       The Registrar is an office; its holder is responsible for
@@ -1455,13 +1455,18 @@ The Registrar
 
       The Registrar's report includes:
 
-      a) Information sufficient to identify and contact each player.
+      a) A list of all players, including information sufficient to
+         identify and contact each player.
       b) The date on which each player most recently became a player.
       c) The Activity of each player, and when each Inactive player
          became Inactive.
       d) For each former player for which the information is
          reasonably available, the dates on which e registered and
          deregistered.
+
+      The portion of a public message purporting to be a Registrar's
+      report that lists each player implies that no players other than
+      those listed exist and is self-ratifying.
 
 [CFJ 1703 (called 13 July 2007): A player cannot change eir nickname
 by announcement if the new nickname that e specifies is the current
@@ -1497,6 +1502,8 @@ History:
 Created by Proposal 4939 (Murphy), 29 April 2007
 Amended(1) by Proposal 5172 (Murphy), 29 August 2007
 Amended(2) by Proposal 6322 (Wooble), 26 May 2009
+Amended(3) twice by Proposal 6567 (Walker), 28 November 2009
+Power changed from 1 to 2 by Proposal 6567 (Walker), 28 November 2009
 
 ----------------------------------------------------------------------
 
