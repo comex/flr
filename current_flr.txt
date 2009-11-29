@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6570
-Last change to this ruleset: by proposal 6570
+Last proposal with recorded effect on this ruleset: 6571
+Last change to this ruleset: by proposal 6571
 
 Last updated: 5 November 2009
 
@@ -1288,7 +1288,7 @@ Created by Proposal 5274 (Murphy), 7 November 2007
 
 ----------------------------------------------------------------------
 
-Rule 2170/5 (Power=3)
+Rule 2170/6 (Power=3)
 Who Am I?
 
       Rules regarding persons pertain to those persons directly, not
@@ -1311,8 +1311,8 @@ Who Am I?
       (hereafter the Sock Puppet) was not a person, if any of those
       claims have already self-ratified, then the judge SHALL as soon
       as possible publish a judicial declaration that the Sock Puppet
-      was a person during one or more time periods, which SHOULD
-      correspond to general belief prior to that finding.
+      was a person during one or more time periods, and SHOULD ensure
+      that it corresponds to general belief prior to that finding.
 
       The Executor of a public message is the first-class person who
       sends it, or who most directly and immediately causes it to be
@@ -1334,6 +1334,7 @@ Amended(2) by Proposal 5671 (Murphy, Pavrita), 12 August 2008
 Amended(3) by Proposal 5716 (Murphy), 7 October 2008
 Amended(4) by Proposal 5717 (Murphy), 7 October 2008
 Amended(5) by Proposal 5741 (Murphy), 16 October 2008
+Amended(6) by Proposal 6571 (ais523), 28 November 2009
 
 ----------------------------------------------------------------------
 
@@ -1751,7 +1752,7 @@ Definitions
       widely used and do not readily fall into any other category.
 ----------------------------------------------------------------------
 
-Rule 754/10 (Power=3)
+Rule 754/11 (Power=3)
 Definition Definitions
 
       Regularity of communication being essential for the healthy
@@ -1768,7 +1769,8 @@ Definition Definitions
           the rules.
 
           The following clauses, where X and Y are both nouns or noun
-          phrases, SHOULD be interpreted as "X is/are defined as Y":
+          phrases, mean "X is/are defined as Y" unless they obviously
+          have a different meaning:
 
             a) "X is/are Y"
             b) "Y is/are known as X"
@@ -1783,7 +1785,10 @@ Definition Definitions
       In determining the ordinary-language meaning of a term,
       definitions contained in lower-powered Rules, followed by
       definitions used in contracts or other Agoran legal documents,
-      SHOULD be used for guidance.
+      are relevant and may provide guidance in helping to determine
+      the meaning of a rule, but are not binding (especially if they
+      differ greatly from the definitions that would be used
+      otherwise).
 
       This rule takes precedence over any other rules which dictate
       terminology or grammar.
@@ -1866,18 +1871,20 @@ Amended(7) by Proposal 5038 (Zefram), 28 June 2007
 Amended(8) by Proposal 5834 (Goethe), 12 November 2008
 Amended(9) by Proposal 6021 (Murphy), 22 December 2008
 Amended(10) by Proposal 6384 (Murphy), 3 July 2009
+Amended(11) by Proposal 6571 (ais523), 28 November 2009
 
 ----------------------------------------------------------------------
 
-Rule 2152/4 (Power=3)
+Rule 2152/5 (Power=3)
 Mother, May I?
 
       The following terms are defined.  These definitions are used
-      when a rule includes a term in all caps, and SHOULD be used when
-      a rule includes a term otherwise.  Earlier definitions take
-      precedence over later ones.  If a rule specifies one or more
-      persons in connection with a term, then the term applies only to
-      the specified person(s).
+      when a rule includes a term in all caps, and provide guidance in
+      determining the ordinary-language meaning of a term when a rule
+      includes a term otherwise.  Earlier definitions take precedence
+      over later ones.  If a rule specifies one or more persons in
+      connection with a term, then the term applies only to the
+      specified person(s).
 
       1. CANNOT, IMPOSSIBLE, INEFFECTIVE, INVALID:  Attempts to
          perform the described action are unsuccessful.
@@ -1899,7 +1906,8 @@ Mother, May I?
 
       7. SHOULD, ENCOURAGED, RECOMMENDED:  Before failing to perform
          the described action, the full implications of failing to
-         perform it should be understood and carefully weighed.
+         perform it should (in the ordinary-language sense) be
+         understood and carefully weighed.
 
 [CFJ 1990 (called 7 June 2008): "Allowed" may refer to either
 possibility or permissibility depending on context.]
@@ -1917,6 +1925,7 @@ Power changed from 2 to 3 by Proposal 5247 (AFO), 14 October 2007
 Amended(2) by Proposal 5353 (Murphy; disi.), 16 December 2007
 Amended(3) by Proposal 5354 (Murphy), 16 December 2007
 Amended(4) by Proposal 5535 (Murphy), 7 June 2008
+Amended(5) by Proposal 6571 (ais523), 28 November 2009
 
 ----------------------------------------------------------------------
 
@@ -2089,12 +2098,13 @@ Amended(6) by Proposal 6546 (comex), 7 November 2009
 
 ----------------------------------------------------------------------
 
-Rule 2153/2 (Power=1)
+Rule 2153/3 (Power=1)
 Interest Index
 
       An entity's interest index is an integer from 0 to 3, default
-      value 1.  An entity's interest index SHOULD be proportional to
-      its complexity.
+      value 1.  When altering an entity's interest index, a person
+      SHOULD try to pick a new value which reflects the complexity of
+      that entity.
 
       "Disinterested" is a synonym for "interest index 0".
 
@@ -2103,6 +2113,7 @@ Created by Proposal 5056 (Murphy), 5 July 2007
 Retitled by Proposal 5176 (Murphy), 29 August 2007
 Amended(1) by Proposal 5176 (Murphy), 29 August 2007
 Amended(2) by Proposal 5970 (Murphy), 20 November 2008
+Amended(3) by Proposal 6571 (ais523), 28 November 2009
 
 ----------------------------------------------------------------------
 
@@ -3627,14 +3638,15 @@ Proposals
       which changes are made to the game.
 ----------------------------------------------------------------------
 
-Rule 106/23 (Power=3)
+Rule 106/24 (Power=3)
 Adopting Proposals
 
-      A proposal is a fixed body of text which has been made into a
-      proposal using a process specifically described in the Rules.  A
-      proposal SHOULD outline changes to be made to Agora, including
-      enacting, repealing, or amending rules, or making other explicit
-      changes to the gamestate.
+      When creating proposals, the person who creates them SHOULD
+      ensure that the proposal outlines changes to be made to Agora,
+      such as enacting, repealing, or amending rules, or making other
+      explicit changes to the gamestate. When a proposal that includes
+      such explicit changes takes effect, those changes are applied to
+      the gamestate.
 
       A player CAN create a proposal by publishing ("submitting") a
       body of text with a clear indication that it is intended to
@@ -3737,10 +3749,11 @@ Amended(20) by Proposal 6222 (coppro), 27 April 2009
 Amended(21) by Proposal 6398 (C-walker; disi.), 17 July 2009
 Amended(22) by Proposal 6414 (C-walker), 8 August 2009
 Amended(23) by Proposal 6469 (coppro; disi.), 15 September 2009
+Amended(24) by Proposal 6571 (ais523), 28 November 2009
 
 ----------------------------------------------------------------------
 
-Rule 2224/1 (Power=1)
+Rule 2224/2 (Power=1)
 Interest Index of Proposals
 
       Each proposal has an interest index, which CAN be set by its
@@ -3748,12 +3761,14 @@ Interest Index of Proposals
       undistributed) by any player without 2 objections, or by the
       Promotor or Assessor without 3 objections.
 
-      A proposal SHOULD be disinterested if and only if its effects
-      are limited to correcting errors and/or ambiguities.
+      The submitter of a proposal SHOULD set its interest index to 0
+      if and only if the proposal's effects are limited to correcting
+      errors and/or ambiguities.
 
 History:
 Created by Proposal 5970 (Murphy), 20 November 2008
 Amended(1) by Proposal 6453 (C-walker), 27 August 2009
+Amended(2) by Proposal 6571 (ais523), 28 November 2009
 
 ----------------------------------------------------------------------
 
@@ -4338,7 +4353,7 @@ Amended(9) by Proposal 6404 (Murphy; disi.), 30 July 2009
 
 ----------------------------------------------------------------------
 
-Rule 591/30 (Power=1.7)
+Rule 591/31 (Power=1.7)
 Inquiry Cases
 
       Inquiry cases are a subclass of judicial cases.  An inquiry
@@ -4386,12 +4401,13 @@ Inquiry Cases
         ordinary-language sense; however, a compound statement (e.g.
         "X and Y", "X or Y") counts as a single statement
 
-      The judgement of the question in an inquiry case, and the
-      reasoning by which it was reached, SHOULD guide future play
-      (including future judgements), but do not directly affect the
-      veracity of the statement.  The Rulekeepor is ENCOURAGED to
-      annotate rules to draw attention to relevant inquiry case
-      judgements.
+      Players SHOULD take the judgement of the question in an inquiry
+      case, and the reasoning by which it was reached, into account
+      when attempting to determine what is possible and/or legal in
+      future play (including when making future judgements); but the
+      judgement does not directly affect the veracity of the
+      statement.  The Rulekeepor is ENCOURAGED to annotate rules to
+      draw attention to relevant inquiry case judgements.
 
 [CFJ 1835 (called 18 December 2007): A question cannot generally take
 the place of a statement in initiating an inquiry case.]
@@ -4466,6 +4482,7 @@ Amended(29) by Proposal 6024 (Murphy), 22 December 2008
 Amended(30) by Proposal 6044 (Goethe), 13 January 2009
 Assigned to Committee on the Judiciary by Proposal 6053 (Murphy,
   woggle, ais523), 23 January 2009
+Amended(31) by Proposal 6571 (ais523), 28 November 2009
 
 ----------------------------------------------------------------------
 
@@ -4765,7 +4782,7 @@ Created by Proposal 6536 (Murphy), 4 November 2009
 
 ----------------------------------------------------------------------
 
-Rule 2169/13 (Power=1.7)
+Rule 2169/14 (Power=1.7)
 Equity Cases
 
       Equity cases are a subclass of judicial cases. An equity case's
@@ -4831,10 +4848,11 @@ Equity Cases
       An appeal concerning any assignment of judgement in an equity
       case CAN be initiated by any party to the contract in question
       by announcement.  If the judgement is Enforceable when it is
-      appealed, the Appeals Court SHOULD assume that the judgement was
-      fundamentally fair when made, and SHALL restrict its appeals
-      judgement to nullifying terms of the judgement which are no
-      longer applicable due to changed circumstances.
+      appealed, the members of the relevant judicial panel SHOULD
+      assume that the judgement was fundamentally fair when made, and
+      SHALL restrict its appeals judgement to nullifying terms of the
+      judgement which are no longer applicable due to changed
+      circumstances.
 
       If an announcement claiming to initiate an equity case regarding
       a private contract would otherwise be invalid solely because the
@@ -4867,10 +4885,11 @@ Assigned to Committee on Small Business and Entrepreneurship by
   Proposal 6053 (Murphy, woggle, ais523), 23 January 2009
 Amended(12) by Proposal 6255 (Murphy), 9 May 2009
 Amended(13) by Proposal 6316 (comex), 26 May 2009
+Amended(14) by Proposal 6571 (ais523), 28 November 2009
 
 ----------------------------------------------------------------------
 
-Rule 2205/1 (Power=1)
+Rule 2205/2 (Power=1)
 Judicial Arguments and Evidence
 
       Each of the following participants in a judicial case SHOULD
@@ -4887,12 +4906,14 @@ Judicial Arguments and Evidence
 
       4) The judge, when delivering judgement.
 
-      Matters of legal interpretation SHOULD be classified as
-      arguments; matters of fact SHOULD be classified as evidence.
+      When submitting arguments and/or evidence, a player SHOULD
+      classify matters of legal interpretation as arguments, and
+      matters of fact as evidence.
 
 History:
 Created by Proposal 5487 (Murphy), 9 April 2008
 Amended(1) by Proposal 5526 (Murphy), 2 June 2008
+Amended(2) by Proposal 6571 (ais523), 28 November 2009
 
 ----------------------------------------------------------------------
 
@@ -4934,7 +4955,7 @@ Assigned to Committee on the Judiciary by Proposal 6053 (Murphy,
 
 ----------------------------------------------------------------------
 
-Rule 911/33 (Power=1.7)
+Rule 911/34 (Power=1.7)
 Appeal Cases
 
       Appeal cases are a subclass of judicial cases.  An appeal case's
@@ -4972,9 +4993,9 @@ Appeal Cases
 
       * REMAND, appropriate if there is serious doubt about the
         appropriateness of the prior judgement; the prior question is
-        rendered open again; this judgement SHOULD be assigned if the
-        judge believes that the judge of the prior case will make a
-        better judgement if given a new opportunity
+        rendered open again; the judge SHOULD assign this judgement if
+        the judge believes that the judge of the prior case will make
+        a better judgement if given a new opportunity
 
       * REASSIGN, appropriate if there is serious doubt about the
         appropriateness of the prior judgement, or if the prior judge
@@ -4983,8 +5004,8 @@ Appeal Cases
         arising merely due to a difference of opinion or a wholly
         incidental material benefit common among many players); the
         judge of the prior case (if any) is recused, and the prior
-        question is rendered open again; this judgement SHOULD be
-        assigned if the judge believes that the judge of the prior
+        question is rendered open again; the judge SHOULD assign this
+        judgement if the judge believes that the judge of the prior
         case will not make a better judgement if given a new
         opportunity
 
@@ -5043,7 +5064,8 @@ Appeal Cases
       In the week after the panel publishes a valid judgement, any
       panel member CAN publish a formal Dissenting Opinion with
       Support.  This Dissenting Opinion becomes a part of the record
-      of the case, and SHOULD aid in interpreting the decision.
+      of the case; it can be used as an aid to help interpret the
+      decision.
 
       The judge of a previously-appealed question SHALL NOT assign the
       same judgement to it without new reasoning that addresses the
@@ -5101,6 +5123,7 @@ Amended(30) by Proposal 6334 (Goethe, ais523), 29 May 2009
 Amended(31) by Proposal 6376 (Murphy), 23 June 2009
 Amended(32) by Proposal 6510 (Murphy), 3 October 2009
 Amended(33) by Proposal 6542 (Murphy), 7 November 2009
+Amended(34) twice by Proposal 6571 (ais523), 28 November 2009
 
 ----------------------------------------------------------------------
 
@@ -6361,7 +6384,7 @@ Amended(13) by Proposal 6257 (coppro), 11 May 2009
 
 ----------------------------------------------------------------------
 
-Rule 2231/1 (Power=2)
+Rule 2231/2 (Power=2)
 Order of the Hero of Agora Nomic
 
       The set of patent titles defined in this rule constitute the
@@ -6371,9 +6394,10 @@ Order of the Hero of Agora Nomic
 
       Heroic titles are Agora's premier titles of distinction, and may
       be awarded to persons for meritorious service only by a proposal
-      of power 3 or greater.  Heroic titles SHOULD NOT be revoked.
-      Heroes are entitled to use the abbreviation of eir title as
-      post-nomial letters in Agora communications and reports.
+      of power 3 or greater.  Players SHOULD NOT cause heroic titles
+      to be revoked.  Heroes are entitled to use the abbreviation of
+      eir title as post-nomial letters in Agora communications and
+      reports.
 
       The Heroic titles in decreasing precedence are:
 
@@ -6390,6 +6414,7 @@ Order of the Hero of Agora Nomic
 History:
 Created by Proposal 6016 (OscarMeyr), 18 December 2008
 Amended(1) by cleaning (Murphy), 16 August 2009
+Amended(2) by Proposal 6571 (ais523), 28 November 2009
 
 ----------------------------------------------------------------------
 
