@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6579
-Last change to this ruleset: by proposal 6579
+Last proposal with recorded effect on this ruleset: 6581
+Last change to this ruleset: by proposal 6581
 
 Last updated: 5 November 2009
 
@@ -253,7 +253,7 @@ The Game of Agora
       entities.
 ----------------------------------------------------------------------
 
-Rule 2105/3 (Power=1)
+Rule 2105/4 (Power=1)
 The Map of Agora
 
                                ____  _        /|
@@ -275,29 +275,36 @@ The Map of Agora
        /                    |                |             | <-'
        \      O <- LT. ANNE MOORE            |        __  _\
         \                   |                |_______/  \/ |  LORD
-         |                __/\      <- TARCOOLA           /   HOWE ->
+         |                __/\      <- TARACOOLA          /   HOWE ->
          \  PERTH      __/    \_             /           /
           | <-'  _  __/         |   /| IVANHOE ->       | <-.
           /    _/ \/             \ / /       |         /  WOLLONGONG
          |_   /     <- ESPERANTO  v /__     |_        / <- CANBERRA
            \_/                         \    | \_    _|
-                  __   __              |    |   \__/
-                 __ \ / __              \___=_  ___|
-                /  \ | /  \     MANUBOURNE -> \/
-                    \|/
-               _,.---v---._                 /\__
-      /\__/\  /            \                |   |
-      \_  _/ /              \                |  /
-        \ \_|           @ __|                \_/ <- HOBART
-         \                \_
-          \     ,__/       /
-        ~~~`~~~~~~~~~~~~~~/~~~~
+                  __   __              |    |   \__/           \_
+                 __ \ / __              \___=_  ___|            \_
+                /  \ | /  \     MANUBOURNE -> \/      NEW C.LAND \}
+                    \|/                                           \)
+               _,.---v---._                 /\__                   )`-']
+      /\__/\  /            \                |   |  COPPRO STRAIGHT(    !
+      \_  _/ /              \                |  /      MICHAELTON->)  /
+        \ \_|           @ __|                \_/ <- HOBART    |^\  (_/
+         \                \_                                 (  |
+          \     ,__/       /                                 /  *
+        ~~~`~~~~~~~~~~~~~~/~~~~                  BREE_523->/~   /
+                                            MURPHENDELL--> #   /
+                                                         /   |BOBCHURCH
+                                             PAVRITTON->/  _|
+                                                       {__/
+                                                     /  @
+                                    WOOBLEING HEIGHTS
 
 History:
 Created by Proposal 4735 (Maud), 5 May 2005
 Amended(1) by Proposal 4807 (Sherlock), 15 June 2005
 Amended(2) by Proposal 4866 (Goethe), 27 August 2006
 Amended(3) by Proposal 4946 (Zefram), 3 May 2007
+Amended(4) by Proposal 6581 (G.), 28 November 2009
 
 ----------------------------------------------------------------------
 
