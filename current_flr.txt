@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6576
-Last change to this ruleset: by proposal 6576
+Last proposal with recorded effect on this ruleset: 6577
+Last change to this ruleset: by proposal 6577
 
 Last updated: 5 November 2009
 
@@ -13,7 +13,7 @@ Rule ID numbers:
 
 Statistics
 
-Current total number of rules: 153
+Current total number of rules: 152
 
 Power distribution:
        1 with Power=4
@@ -22,7 +22,7 @@ Power distribution:
       59 with Power=2
        5 with Power=1.7
        7 with Power=1.5
-      47 with Power=1
+      46 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -101,7 +101,6 @@ Index of Rules
       Rule 1728: Dependent Actions
       Rule 2124: Agoran Satisfaction
       Rule 2166: Assets
-      Rule 2181: The Accountor
 
       * Offices
       Rule 1006: Offices
@@ -2640,34 +2639,6 @@ Amended(10) by Proposal 6161 (Murphy), 31 March 2009
 Amended(11) by Proposal 6253 (Quazie), 9 May 2009
 Amended(12) by cleaning (Murphy), 16 August 2009
 Amended(13) by Proposal 6430 (coppro; disi.), 18 August 2009
-
-----------------------------------------------------------------------
-
-Rule 2181/9 (Power=1)
-The Accountor
-
-      The Accountor is an office; its holder is responsible for
-      keeping track of classes of assets.
-
-      The Accountor's monthly report includes a list of all public
-      classes of assets and their backing documents and recordkeepors.
-
-[Cross-references (28 May 2008): the Accountor's duties are:
-  * report classes of assets (rule 2181)]
-
-History:
-Created by Proposal 5363 (Murphy; disi.), 20 December 2007
-Amended(1) by Proposal 5482 (Murphy), 2 April 2008
-Amended(2) by Proposal 5508 (Murphy), 28 May 2008
-Amended(3) by Proposal 5527 (Murphy), 2 June 2008
-Amended(4) by Proposal 5598 (Wooble; disi.), 29 June 2008
-Amended(5) by Proposal 5600 (Murphy), 29 July 2008
-Amended(6) by Proposal 5833 (Murphy, Taral), 12 November 2008
-Amended(7) by Proposal 5840 (root), 12 November 2008
-Assigned to Committee on Finance by Proposal 6053 (Murphy, woggle,
-  ais523), 23 January 2009
-Amended(8) by Proposal 6175 (Yally), 7 April 2009
-Amended(9) by Proposal 6175 (Yally), 7 April 2009
 
 ----------------------------------------------------------------------
 
