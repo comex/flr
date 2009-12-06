@@ -1,24 +1,24 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6581
-Last change to this ruleset: by proposal 6581
+Last proposal with recorded effect on this ruleset: 6585
+Last change to this ruleset: by proposal 6585
 
 Last updated: 5 November 2009
 
 Rule ID numbers:
-      highest orderly: 2279
+      highest orderly: 2280
       chaotic: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 152
+Current total number of rules: 153
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
-      33 with Power=3
+      34 with Power=3
       59 with Power=2
        5 with Power=1.7
        7 with Power=1.5
@@ -120,6 +120,7 @@ Index of Rules
       Rule  683: Voting on Agoran Decisions
       Rule 2196: Standard Classes of Agoran Decisions
       Rule 2127: Conditional Votes
+      Rule 2280: Implicit Votes
       Rule 2222: Maximum Voting Limits
       Rule 2168: Extending the voting period
       Rule  208: Resolving Agoran decisions
@@ -3366,6 +3367,19 @@ Amended(3) by Proposal 5746 (Murphy), 16 October 2008
 Amended(4) by Proposal 6331 (Murphy), 29 May 2009
 Amended(5) by Proposal 6383 (Murphy), 3 July 2009
 Amended(6) by Proposal 6403 (coppro), 30 July 2009
+
+----------------------------------------------------------------------
+
+Rule 2280/0 (Power=3)
+Implicit Votes
+
+      When an eligible voter on an Agoran decision attempts to cast
+      ballots without explicitly specifying the number of ballots to
+      be cast (e.g. "FOR" instead of "FOR*1" or "FOR*3"), e casts a
+      number of ballots equal to eir voting limit on that decision.
+
+History:
+Created by Proposal 6585 (c.; disi.), 6 December 2009
 
 ----------------------------------------------------------------------
 
