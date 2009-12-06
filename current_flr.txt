@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6585
-Last change to this ruleset: by proposal 6585
+Last proposal with recorded effect on this ruleset: 6589
+Last change to this ruleset: by proposal 6589
 
 Last updated: 5 November 2009
 
@@ -309,7 +309,7 @@ Amended(4) by Proposal 6581 (G.), 28 November 2009
 
 ----------------------------------------------------------------------
 
-Rule 101/12 (Power=3)
+Rule 101/13 (Power=3)
 The Rights of Agorans
 
       WHEREAS Agora, since its inception, has functioned not only as a
@@ -355,8 +355,10 @@ The Rights of Agorans
             penalty with a different but comparable penalty, e.g. when
             the rules governing penalties are amended.
 
-       vii. Every player has the right to deregister rather than
-            continue to play.
+       vii. Every player has the right to deregister; e may continue
+            to accrue obligations and penalties after deregistration
+            but, if e wishes to ignore the game, such penalties shall
+            not unduly harass em.
 
       Please treat Agora right good forever.
 
@@ -420,6 +422,7 @@ Amended(9) by Proposal 5769 (Goethe), 17 October 2008
 Amended(10) by Proposal 5773 (Goethe), 17 October 2008
 Amended(11) by Proposal 6028 (Murphy), 8 January 2009
 Amended(12) by Proposal 6158 (Goethe), 31 March 2009
+Amended(13) by Proposal 6589 (c.; disi.), 6 December 2009
 
 ----------------------------------------------------------------------
 
