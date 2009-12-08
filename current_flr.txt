@@ -5851,7 +5851,7 @@ The Deck of Change
 
       * Change Ball     - If you hold an "X Ball" card (where X is the
                           name of a Basic Deck) for each other Basic
-                          Deck you satisfy  the winning condition of
+                          Deck you satisfy the winning condition of
                           Win by Lotto. Cleanup Procedure: For each
                           other basic deck one such corresponding Ball
                           card is destroyed.
@@ -5920,7 +5920,7 @@ The Deck of Justice
 
        * Justice Ball     - If you hold an "X Ball" card (where X is
                             the name of a Basic Deck) for each other
-                            Basic Deck you satisfy  the winning
+                            Basic Deck you satisfy the winning
                             condition of Win by Lotto. Cleanup
                             Procedure: For each other basic deck one
                             such corresponding Ball card is destroyed.
