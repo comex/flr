@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6594
-Last change to this ruleset: by proposal 6594
+Last proposal with recorded effect on this ruleset: 6595
+Last change to this ruleset: by proposal 6595
 
 Last updated: 5 November 2009
 
@@ -6048,7 +6048,7 @@ Created by Proposal 6490 (coppro), 18 September 2009
 
 ----------------------------------------------------------------------
 
-Rule 2272/0 (Power=1)
+Rule 2272/1 (Power=1)
 Leadership Tokens
 
       Leadership Tokens are a currency tracked by the Assessor. A
@@ -6060,14 +6060,16 @@ Leadership Tokens
         (b) A player CAN redeem 1 Leadership Token in eir possession
             to earn two draws from each defined Basic Deck.
         (c) A player CAN redeem 1 Leadership Token in eir possession
-            to be awarded 20+20i points.
+            to earn five draws from a single defined Basic Deck,
+            chosen at the time of redemption.
         (d) A player CAN redeem 1 Leadership Token in eir possession
-            to increase eir own caste by two ranks.
+            to be awarded 20+20i points.
         (e) A player CAN redeem 1 Leadership Token in eir possession
             to destroy up to 6 Rests e owns.
 
 History:
 Created by Proposal 6490 (coppro), 18 September 2009
+Amended(1) by Proposal 6595 (coppro), 14 December 2009
 
 ----------------------------------------------------------------------
 
