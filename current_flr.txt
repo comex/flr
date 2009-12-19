@@ -1,24 +1,24 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6598
-Last change to this ruleset: by proposal 6598
+Last proposal with recorded effect on this ruleset: 6599
+Last change to this ruleset: by proposal 6599
 
 Last updated: 5 November 2009
 
 Rule ID numbers:
-      highest orderly: 2280
+      highest orderly: 2281
       chaotic: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 149
+Current total number of rules: 150
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
-      34 with Power=3
+      35 with Power=3
       59 with Power=2
        5 with Power=1.7
        7 with Power=1.5
@@ -130,6 +130,7 @@ Index of Rules
 
       * Proposals
       Rule  106: Adopting Proposals
+      Rule 2281: Proposal Cleanup
       Rule 2224: Interest Index of Proposals
       Rule 1607: The Promotor
       Rule 2250: Officer's Proposals
@@ -3741,6 +3742,18 @@ Amended(21) by Proposal 6398 (C-walker; disi.), 17 July 2009
 Amended(22) by Proposal 6414 (C-walker), 8 August 2009
 Amended(23) by Proposal 6469 (coppro; disi.), 15 September 2009
 Amended(24) by Proposal 6571 (ais523), 28 November 2009
+
+----------------------------------------------------------------------
+
+Rule 2281/0 (Power=3)
+Proposal Cleanup
+
+      The Promotor can, by announcement, remove a proposal from the
+      Proposal Pool if it is Undistributable and has been in the
+      Proposal Pool for in excess of one month.
+
+History:
+Created by Proposal 6599 (coppro), 14 December 2009
 
 ----------------------------------------------------------------------
 
