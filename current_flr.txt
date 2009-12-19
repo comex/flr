@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6592
-Last change to this ruleset: by proposal 6592
+Last proposal with recorded effect on this ruleset: 6593
+Last change to this ruleset: by proposal 6593
 
 Last updated: 5 November 2009
 
@@ -5884,14 +5884,15 @@ Amended(9) by Proposal 6579 (coppro; disi.), 28 November 2009
 
 ----------------------------------------------------------------------
 
-Rule 2262/9 (Power=2)
+Rule 2262/10 (Power=2)
 The Deck of Justice
 
       When a judge judges an interested case within its time limit, e
       earns a draw from the Deck of Justice.  These Draws are tracked
       by the CotC. If a judge's judgement is OVERTURNED on appeal, one
-      justice on the appeals panel CAN destroy one Justice card e
-      indicates in the judge's possession by announcement.
+      justice on the appeals panel CAN, in a timely fashion, destroy
+      one Justice card e indicates in the judge's possession by
+      announcement.
 
       The Deck of Justice is a Basic Deck consisting of the following
       cards, listed by title followed by Exploit (default) or Effect
@@ -5952,6 +5953,7 @@ Amended(6) by Proposal 6517 (BobTHJ), 19 October 2009
 Amended(7) by Proposal 6526 (ais523), 23 October 2009
 Amended(8) by Proposal 6539 (coppro), 4 November 2009
 Amended(9) by Proposal 6563 (Wooble), 13 November 2009
+Amended(10) by Proposal 6593 (Yally), 14 December 2009
 
 ----------------------------------------------------------------------
 
