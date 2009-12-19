@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6589
-Last change to this ruleset: by proposal 6589
+Last proposal with recorded effect on this ruleset: 6590
+Last change to this ruleset: by proposal 6590
 
 Last updated: 5 November 2009
 
@@ -5639,7 +5639,7 @@ Amended(2) by Proposal 6539 (coppro), 4 November 2009
 
 ----------------------------------------------------------------------
 
-Rule 2258/4 (Power=2)
+Rule 2258/5 (Power=2)
 Decks, Draws, and Salaries
 
       Some Decks may be Basic Decks, as defined by the Rules.
@@ -5656,8 +5656,8 @@ Decks, Draws, and Salaries
 
       At the end of each month, each first-class player Earns a number
       of Draws from each Basic Deck equal to the number of times that
-      deck appeared in eir salary switch at the beginning of the
-      month. These Draws are tracked by the Registrar.
+      deck appears in eir salary. These Draws are tracked by the
+      Registrar.
 
       Office Salary is a switch for each office, tracked by the IADoP,
       with possible values being the names of each Basic Deck (default
@@ -5677,6 +5677,7 @@ Power changed from 1 to 2 by Proposal 6409 (G.; disi.), 7 August 2009
 Amended(2) by cleaning (Murphy), 16 August 2009
 Amended(3) by Proposal 6428 (BobTHJ), 18 August 2009
 Amended(4) by Proposal 6539 (coppro), 4 November 2009
+Amended(5) by Proposal 6590 (coppro; disi.), 14 December 2009
 
 ----------------------------------------------------------------------
 
