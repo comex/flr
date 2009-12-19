@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6595
-Last change to this ruleset: by proposal 6595
+Last proposal with recorded effect on this ruleset: 6598
+Last change to this ruleset: by proposal 6598
 
 Last updated: 5 November 2009
 
@@ -5959,24 +5959,26 @@ Amended(10) by Proposal 6593 (Yally), 14 December 2009
 
 ----------------------------------------------------------------------
 
-Rule 2269/0 (Power=2)
+Rule 2269/1 (Power=2)
 Couple Coups
 
       A coup is either a coup d'etat, a coup de grace, or a chicken
       coup.
 
       When the Admiral of the Navy begins a coup, the coup is a coup
-      d'etat if it has been at least two months since the Speaker last
-      Formed the Government and since the last coup d'etat ended and
-      if the Admiral of the Navy is not the Speaker, a coup de grace
-      if there is an ongoing coup d'etat and e did not already begin a
-      coup de grace in the same week, and a chicken coup otherwise.
+      d'etat if it has been at least two months since a player last
+      Formed the Government (if ever) and since the last coup d'etat
+      ended (if there was one) and if the Admiral of the Navy is not
+      the Speaker, a coup de grace if there is an ongoing coup d'etat
+      and e did not already begin a coup de grace in the same week,
+      and a chicken coup otherwise.
 
       The effects of the various varieties of coup are defined
       elsewhere in the rules.
 
 History:
 Created by Proposal 6490 (coppro), 18 September 2009
+Amended(1) by Proposal 6598 (coppro; disi.), 14 December 2009
 
 ----------------------------------------------------------------------
 
