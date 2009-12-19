@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6593
-Last change to this ruleset: by proposal 6593
+Last proposal with recorded effect on this ruleset: 6594
+Last change to this ruleset: by proposal 6594
 
 Last updated: 5 November 2009
 
@@ -5533,7 +5533,7 @@ Amended(2) by Proposal 6539 (coppro), 4 November 2009
 
 ----------------------------------------------------------------------
 
-Rule 2275/0 (Power=1)
+Rule 2275/1 (Power=1)
 Government
 
       When allowed to by the rules, a player Forms a Government by
@@ -5552,10 +5552,12 @@ Government
       to the player specified, or if the card does not exist, it is
       created in that player's possession.
 
-      The Government is the set of entities owning Major Arcana cards.
+      The Government is the set of entities, other than the Lost and
+      Found Department, owning Major Arcana cards.
 
 History:
 Created by Proposal 6490 (coppro), 18 September 2009
+Amended(1) by Proposal 6594 (coppro; disi.), 14 December 2009
 
 ----------------------------------------------------------------------
 
