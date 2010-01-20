@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6599
-Last change to this ruleset: by proposal 6599
+Last proposal with recorded effect on this ruleset: 6605
+Last change to this ruleset: by proposal 6605
 
 Last updated: 5 November 2009
 
@@ -4960,7 +4960,7 @@ Assigned to Committee on the Judiciary by Proposal 6053 (Murphy,
 
 ----------------------------------------------------------------------
 
-Rule 911/34 (Power=1.7)
+Rule 911/35 (Power=1.7)
 Appeal Cases
 
       Appeal cases are a subclass of judicial cases.  An appeal case's
@@ -5057,14 +5057,15 @@ Appeal Cases
         deliver a judgement of either REMAND or REASSIGN, whichever e
         feels is most appropriate.
 
-      A panel CAN publish a concurring opinion when judging AFFIRM,
-      and SHALL do so if and only if the reasoning by which the prior
-      judge reached eir judgement was incorrect in whole or part.
-      Each concurring opinion SHALL explain the nature of the error(s)
-      in the prior judge's reasoning.  Each concurring opinion has an
-      error rating, an integer from 1 to 99; it CAN be specified by
-      the panel when the concurring opinion is published, or else
-      defaults to 50.
+      Any panel member CAN publish a formal Concurring Opinion with
+      panel member support, provided that the panel has judged AFFIRM,
+      and SHOULD do so if and only if the reasoning by which the prior
+      judge reached eir judgement was incorrect in whole or part.  A
+      Concurring Opinion SHOULD explain the nature of the error(s) in
+      the prior judge's reasoning.  Each Concurring Opinion has an
+      error rating, an integer from 1 to 99, with larger numbers
+      corresponding to larger errors in reasoning; it CAN be specified
+      in the announcement of intent, or else defaults to 50.
 
       In the week after the panel publishes a valid judgement, any
       panel member CAN publish a formal Dissenting Opinion with
@@ -5129,6 +5130,7 @@ Amended(31) by Proposal 6376 (Murphy), 23 June 2009
 Amended(32) by Proposal 6510 (Murphy), 3 October 2009
 Amended(33) by Proposal 6542 (Murphy), 7 November 2009
 Amended(34) twice by Proposal 6571 (ais523), 28 November 2009
+Amended(35) by Proposal 6605 (Murphy), 19 January 2010
 
 ----------------------------------------------------------------------
 
