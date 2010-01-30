@@ -1,25 +1,25 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6610
-Last change to this ruleset: by proposal 6610
+Last proposal with recorded effect on this ruleset: 6616
+Last change to this ruleset: by proposal 6616
 
 Last updated: 5 November 2009
 
 Rule ID numbers:
-      highest orderly: 2281
+      highest orderly: 2284
       chaotic: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 149
+Current total number of rules: 141
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
       35 with Power=3
-      59 with Power=2
+      51 with Power=2
        5 with Power=1.7
        7 with Power=1.5
       41 with Power=1
@@ -36,7 +36,7 @@ Index of Categories
       * Agoran Decisions
       * Proposals
       * Adjudication
-      * Cards
+      * Cards and Energy
       * Patent Titles and Degrees
       * Contract Law
       * Foreign Relations
@@ -167,20 +167,12 @@ Index of Rules
       Rule 2164: Judicial Self-Recusal and Case Transfer
       Rule 2212: Judicial Declarations
 
-      * Cards
-      Rule 2253: Cards
-      Rule 2254: Position Cards
-      Rule 2255: Major Arcana
+      * Cards and Energy
+      Rule 2282: Energy
+      Rule 2283: Fees
+      Rule 2284: Fee-based actions
+      Rule 2255: Cards
       Rule 2275: Government
-      Rule 2256: Exploit Cards
-      Rule 2266: Effect Cards
-      Rule 2257: Dealing Cards
-      Rule 2258: Decks, Draws, and Salaries
-      Rule 2278: Earning Draws
-      Rule 2259: Hand Limits
-      Rule 2260: The Deck of Government
-      Rule 2261: The Deck of Change
-      Rule 2262: The Deck of Justice
       Rule 2269: Couple Coups
       Rule 2270: Coups D'etat
       Rule 2271: Ongoing Change
@@ -3940,7 +3932,7 @@ Amended(20) by Proposal 5418 (root), 2 February 2008
 
 ----------------------------------------------------------------------
 
-Rule 2156/15 (Power=2)
+Rule 2156/16 (Power=2)
 Voting on Ordinary Decisions
 
       Chamber is a proposal switch, possessed only by proposals which
@@ -3966,10 +3958,10 @@ Voting on Ordinary Decisions
       The eligible voters on an ordinary decision are the players who
       were active at the start of its voting period.  The voting limit
       of a player on an ordinary decision is eir base  voting limit on
-      that decision (as defined elsewhere in the rules), plus one for
-      each Extra Vote card e owns, minus one for each positive
-      multiple of two Rests the player owns. This rule defers to other
-      rules of equal power in the determination of voting limits.
+      that decision (as defined elsewhere in the rules), minus one for
+      each positive multiple of two Rests the player owns. This rule
+      defers to other rules of equal power in the determination of
+      voting limits.
 
 History:
 Created by Proposal 5078 (Zefram), 18 July 2007
@@ -3991,6 +3983,7 @@ Amended(12) by cleaning (Murphy), 16 August 2009
 Amended(13) by Proposal 6499 (Wooble; disi.), 26 September 2009
 Amended(14) by Proposal 6531 (Walker), 23 October 2009
 Amended(15) twice by Proposal 6549 (coppro; disi.), 13 November 2009
+Amended(16) by Proposal 6616 (G., coppro, c., Murphy), 30 January 2010
 
 ----------------------------------------------------------------------
 
@@ -5429,76 +5422,124 @@ Created by Proposal 5715 (Murphy), 7 October 2008
 ----------------------------------------------------------------------
 
 ======================================================================
-Cards
-      A category concerning the economic subgame defined by the Rules.
+Cards and Energy
+      A category concerning the economy.
 ----------------------------------------------------------------------
 
-Rule 2253/5 (Power=2)
-Cards
+Rule 2282/0 (Power=2)
+Energy
 
-      Cards are any class of assets defined by the Rules to be cards.
-      For the rules to define a class of assets to be a card, the
-      Rules must define its Title, its Deck, and one of: its Exploit,
-      its Position, or its Effect.  Card instances of the same class
-      are fungible.  Ownership of cards is restricted to players and
-      contests, and may be further restricted by the Rule defining a
-      given variety of Card.
+      Ergs are a class of fixed assets and a measure of each Player's
+      energy; to increase or decrease an entity's energy is to change
+      the number of ergs in eir possession.  Ownership of Ergs is
+      restricted to players.
 
-      The Dealor is an office, and the Recordkeepor of Cards.
+      At the beginning of each week:
+       (a) All the ergs in existence are destroyed; then
+       (b) P ergs are created in the possession of each player, where
+           P for a player equals 4 plus the sum of the interest
+           indices of offices that e holds.
 
-      The Dealor CAN, by announcement:
-       * create a Card in the possession of any entity qualified to
-         own that Card;
-       * destroy any Card;
-       * transfer a Card between any two entities;
-      however e SHALL only perform these actions as explicitly
-      required by the Rules, or as would be POSSIBLE and LEGAL for em
-      to do were e not the Dealor.
+      The Power Station Manager (PSM) is an office and the
+      recordkeepor of ergs.  Eir weekly report shall include a list of
+      all erg transactions of the previous week.
 
-      The maximum FINE amount for each card is two, except where
-      specified otherwise.
+[Cross-references (30 January 2010): the Power Station Manager's
+duties are:
+  * recordkeepor of ergs (rule 2282)]
 
 History:
-Created by Proposal 6394 (Goethe), 10 July 2009
-Amended(1) by Proposal 6408 (coppro), 7 August 2009
-Amended(2) by Proposal 6438 (coppro; disi.), 18 August 2009
-Amended(3) by Proposal 6454 (BobTHJ), 1 September 2009
-Amended(4) by Proposal 6463 (C-walker), 15 September 2009
-Amended(5) by Proposal 6539 (coppro), 4 November 2009
+Created by Proposal 6616 (G., coppro, c., Murphy), 30 January 2010
 
 ----------------------------------------------------------------------
 
-Rule 2254/0 (Power=2)
-Position Cards
+Rule 2283/0 (Power=2)
+Fees
 
-      If a card class has a position, it CANNOT be destroyed except
-      as described in this Rule, nor CAN more than a single instance
-      come into existence, rules to the contrary notwithstanding.
+      If the Rules associate a non-negative cost, price, charge, or
+      fee with an action, that action is a fee-based action.  If the
+      specified cost is not an integer, the actual fee is the next
+      highest integer.
 
-      If a CFJ determines that the possessor of the instance can't be
-      determined by reasonable effort, then that card's dealer SHALL,
+      To perform a fee-based action, a Player (the Actor) who is not
+      otherwise forbidden to perform the action CAN perform it by
+      announcing that e is performing the action while also announcing
+      that there is a fee for that action.  Upon said announcement, if
+      the Player has sufficient energy, then the action is performed,
+      and a number of ergs in the Actor's possession equal to the fee
+      are destroyed.
+
+      An attempt to performed a fee-based action is also implicitly a
+      claim to be in possession of sufficient ergs to perform the
+      action, and such a claim is self-ratifying.  If the claim is
+      erroneous but self-ratifies, then the action is deemed to have
+      occurred and destroyed all ergs in the possession of the
+      claimant.  Making such a claim falsely is the Class-2 Crime of
+      Assaulting the Batteries, but it is generally appropriate to
+      DISCHARGE such a crime if it is disputed within four days.
+
+History:
+Created by Proposal 6616 (G., coppro, c., Murphy), 30 January 2010
+
+----------------------------------------------------------------------
+
+Rule 2284/0 (Power=2)
+Fee-based actions
+
+      - A player CAN increase eir voting limit on a specified decision
+        to adopt a proposal in its voting period by 2Q, by paying a
+        fee of Q.  This rule defers to other Rules that define maximum
+        voting limits.
+
+      - A player CAN make a proposal Distributable for a charge of 1
+        erg.
+
+      - A player CAN make a proposal Undistributable for a charge of 2
+        ergs.
+
+      - A player CAN destroy a Rest in the possession of another
+        player for a charge of 2 ergs.  A player CAN destroy one of
+        eir own Rests for a charge of 3 ergs.
+
+      - A player CAN make an ongoing Ordinary decision Democratic for
+        a charge of 3 ergs.
+
+      - A player CAN initiate an election for a specified Office for a
+        charge of 3 ergs.
+
+      - A player CAN change the chamber of an ongoing ordinary
+        decision for a charge of 2 ergs.
+
+      - A player CAN veto or rubberstamp an ongoing ordinary decision
+        for a charge of 3 ergs.
+
+History:
+Created by Proposal 6616 (G., coppro, c., Murphy), 30 January 2010
+
+----------------------------------------------------------------------
+
+Rule 2255/3 (Power=2)
+Cards
+
+      Each of the items listed in this rule by a title and position is
+      an asset tracked by the Herald.  Collectively these assets are
+      known as Cards.
+
+      Cards CANNOT be destroyed except as described in this Rule, nor
+      CAN more than a single instance of each particular card come
+      into existence, rules to the contrary notwithstanding.  If a CFJ
+      determines that the possessor of the instance can't be
+      determined by reasonable effort, then that Herald CAN and SHALL,
       as soon as possible, destroy any instance of that card that
       might exist and create that card in the possession of an active
       player who holds the Patent Title Champion, chosen at random.
 
-      If a card has a Position, and the holder of the card is a
-      Player, the holder of that card is considered to be the holder
-      of that position, and have the powers and duties described by
-      the Rules for that position.
+      If the holder of a particular card is a Player, the holder of
+      that card is considered to be the holder of its listed position,
+      and have the powers and duties described by the Rules for that
+      position.
 
-History:
-Created by Proposal 6394 (Goethe), 10 July 2009
-Power changed from 1 to 2 by Proposal 6409 (G.; disi.), 7 August 2009
-
-----------------------------------------------------------------------
-
-Rule 2255/2 (Power=2)
-Major Arcana
-
-      The Major Arcana is a deck of Position cards  The following
-      Major Arcana cards are defined:
-
-      Title: Minister without Portfolio.
+      Title: Minister without Portfolio
       Position: The Minister without Portfolio CAN become holder of a
       specified vacant elected office by announcement, unless e is
       prevented from holding that office on an ongoing basis.
@@ -5515,8 +5556,8 @@ Major Arcana
       notwithstanding.
 
       Title: Chief Whip.
-      Position:  The Chief Whip's voting limit on an Ordinary
-      proposal is 1.5 times what it would otherwise be.
+      Position:  The Chief Whip's voting limit on an Ordinary proposal
+      is 1.5 times what it would otherwise be.
 
       Title: Justiciar.
       Position: The Justiciar may be granted particular abilities or
@@ -5532,432 +5573,37 @@ History:
 Created by Proposal 6394 (Goethe), 10 July 2009
 Amended(1) by cleaning (Murphy), 16 August 2009
 Amended(2) by Proposal 6539 (coppro), 4 November 2009
+Amended(3) and retitled by Proposal 6616 (G., coppro, c., Murphy),
+  30 January 2010
 
 ----------------------------------------------------------------------
 
-Rule 2275/1 (Power=1)
+Rule 2275/2 (Power=1)
 Government
 
       When allowed to by the rules, a player Forms a Government by
-      publishing a defined list of every Major Arcana card and, for each
-      card, a different active player. The players chosen in
-      this manner must contain a maximal number of players holding the
-      patent title Champion; this requirement defers to any requirements
-      imposed by other rules on the Formation of a Government.
+      publishing a defined list of every card and, for each card, a
+      different active player. The players chosen in this manner must
+      contain a maximal number of players holding the patent title
+      Champion; this requirement defers to any requirements imposed by
+      other rules on the Formation of a Government.
 
       The Formation of a Government constitutes a self-ratifying
       declaration that the player Forming the Government is capable of
-      doing so, and that all the Major Arcana cards are successfully
-      created or transferred to the players specified.
+      doing so, and that all the cards are successfully created or
+      transferred to the players specified.
 
-      When a Government is Formed, each Major Arcana card is transferred
-      to the player specified, or if the card does not exist, it is
-      created in that player's possession.
+      When a Government is Formed, each card is transferred to the
+      player specified, or if the card does not exist, it is created
+      in that player's possession.
 
       The Government is the set of entities, other than the Lost and
-      Found Department, owning Major Arcana cards.
+      Found Department, owning cards.
 
 History:
 Created by Proposal 6490 (coppro), 18 September 2009
 Amended(1) by Proposal 6594 (coppro; disi.), 14 December 2009
-
-----------------------------------------------------------------------
-
-Rule 2256/1 (Power=2)
-Exploit Cards
-
-      A player CAN play a card in eir possession which has an Exploit,
-      by announcing that e plays the card, while also announcing any
-      further information required by the exploit.  The card is
-      destroyed, and if possible, the effects of the exploit take
-      place.  In an exploit, the term "you" refers to the entity who
-      plays the card.
-
-      If the information is incorrect, or the exploit is IMPOSSIBLE or
-      otherwise fails, or the card has no exploit, an attempt made by
-      the player to play a card in eir possession has no effect and
-      the card remains in the player's possession.
-
-      A card is not an instrument; the instrument that causes the
-      change described by a card's exploit is the Rule that describes
-      that exploit, regardless of whether the exploit describes the
-      agent performing the change as "you", the card, or another
-      entity.
-
-History:
-Created by Proposal 6394 (Goethe), 10 July 2009
-Amended(1) by Proposal 6407 (Wooble), 7 August 2009
-Power changed from 1 to 2 by Proposal 6409 (G.; disi.), 7 August 2009
-
-----------------------------------------------------------------------
-
-Rule 2266/0 (Power=2)
-Effect Cards
-
-      If a card has an Effect, the results of that effect are
-      continuously applied to the owner of that card for as long as e
-      hold the card.  Any reference to "you" in the card's effect
-      refers to the owner of that card.
-
-History:
-Created by Proposal 6454 (BobTHJ), 1 September 2009
-
-----------------------------------------------------------------------
-
-Rule 2257/2 (Power=2)
-Dealing Cards
-
-      Each defined Exploit or Effect card type shall have a Frequency,
-      which is a non-negative integer defaulting to 0.
-      The Frequency of each card type is part of the Dealor's weekly
-      report.
-
-      Changing the frequency of each card type is secured, and the
-      frequency of a card type CAN be changed:
-          * by the Dealor without 2 objections;
-          * by any player with Agoran Consent;
-          * as soon as possible after a player wins an election for
-            Dealor, if e publicly stated that e intended to change a
-            given Card's Frequency to a certain value if elected, e
-            CAN and CALL change that Card's Frequency by announcement,
-            and SHALL NOT deal a card before e does so.
-
-      Whenever the rules indicate that the Dealer SHALL deal a Card to
-      from a Deck an entity, the Dealor SHALL, as soon as possible,
-      create a Card from that Deck in the possession of that entity,
-      with the Card chosen at random from among Cards in that Deck,
-      with the relative probability of a particular Card being chosen
-      chosen being the Frequency of that Card. If no Card from the
-      specified Deck has a positive Frequency, or if the entity is not
-      eligible to own the Card selected, the Dealor SHALL, rather than
-      create a Card, announce why e cannot.
-
-History:
-Created by Proposal 6394 (Goethe), 10 July 2009
-Amended(1) by Proposal 6458 (coppro; disi.), 1 September 2009
-Amended(2) by Proposal 6539 (coppro), 4 November 2009
-
-----------------------------------------------------------------------
-
-Rule 2258/5 (Power=2)
-Decks, Draws, and Salaries
-
-      Some Decks may be Basic Decks, as defined by the Rules.
-
-      Salary is a first-class player switch, tracked by the Registrar,
-      with possible values N,M,O,P where each letter is replaced with
-      a defined Basic Deck.  The default value for this switch is
-      Change,Change,Justice,Government. Ordering of N,M,O,P is not a
-      significant differentiating aspect of the switch value, only the
-      number of times each deck type is listed within the switch.
-
-      A player CAN change the value of eir own Salary switch by
-      announcement.
-
-      At the end of each month, each first-class player Earns a number
-      of Draws from each Basic Deck equal to the number of times that
-      deck appears in eir salary. These Draws are tracked by the
-      Registrar.
-
-      Office Salary is a switch for each office, tracked by the IADoP,
-      with possible values being the names of each Basic Deck (default
-      Government).  The holder of each OFFICE CAN change that office's
-      salary by announcement. At the end of each week, each holder of
-      an office Earns a number of Draws from the Deck indicated by the
-      office's Office Salary to the interest index for that office.
-      These Draws are tracked by the IADoP.
-
-      When a first-class player registers, e Earns two Draws from each
-      Basic Deck. These Draws are tracked by the Registrar.
-
-History:
-Created by Proposal 6394 (Goethe), 10 July 2009
-Amended(1) by Proposal 6408 (coppro), 7 August 2009
-Power changed from 1 to 2 by Proposal 6409 (G.; disi.), 7 August 2009
-Amended(2) by cleaning (Murphy), 16 August 2009
-Amended(3) by Proposal 6428 (BobTHJ), 18 August 2009
-Amended(4) by Proposal 6539 (coppro), 4 November 2009
-Amended(5) by Proposal 6590 (coppro; disi.), 14 December 2009
-
-----------------------------------------------------------------------
-
-Rule 2278/0 (Power=2)
-Earning Draws
-
-      The Rules may state that a player Earns a Draw from a given Deck
-      for various reasons. The Rule stating that a player
-      Earns a Draw may also state an office responsible for tracking
-      tracking that Draw; if not specified, the Dealor tracks that
-      Draw.
-
-      After the end of each week, the officers so responsible SHALL,
-      as soon as possible, publicly post a listing of each Draw Earned
-      (for which e is responsible to track) during the previous week
-      and by whom and from which Deck it was Earned.
-
-      As soon as possible as a report of Draws Earned for a given week
-      is issued, the Dealor SHALL, as soon as possible, deal to each
-      entity named in the report the approrpiate number of cards from
-      the appropriate deck.
-
-History:
-Created by Proposal 6539 (coppro), 4 November 2009
-
-----------------------------------------------------------------------
-
-Rule 2259/5 (Power=2)
-Hand Limits
-
-      Every entity has an integer Hand Limit (default 7 for
-      first-class players, 3 for contests, 0 for all others). Changes
-      to Hand Limit are secured. If an entity's Hand Limit would be
-      set to a number less than 0, it is instead set to 0. The
-      Dealor's report includes a list of all entities whose Hand
-      Limit is set to a non-default value.
-
-      Any entity CAN audit itself by announcement. When a first-class
-      player is audited, that player gains one Rest for each 5 Cards
-      or portion thereof which e owns in excess of eir Hand Limit.
-      When any other entity is audited, the auditing entity (or, if
-      there is none, the Dealor) CAN and SHALL as soon as possible
-      (by announcement) destroy X of eir cards, selected at random,
-      where X is one-half rounded up of the number of cards e owns in
-      excess of eir Hand Limit. Position Cards are not considered
-      Cards for the purposes of this rule.
-
-      As soon as possible after the beginning of each month, the
-      Dealor CAN and SHALL by announcement audit, for each Basic Deck,
-      the entity or entities who owned the most Cards from that Deck
-      at the beginning of the month.
-
-History:
-Created by Proposal 6394 (Goethe), 10 July 2009
-Power changed from 1 to 2 by Proposal 6409 (G.; disi.), 7 August 2009
-Amended(1) by Proposal 6448 (BobTHJ), 27 August 2009
-Title changed by Proposal 6459 (coppro), 1 September 2009
-Amended(2) by Proposal 6487 (coppro), 18 September 2009
-Amended(3) by Proposal 6488 (Murphy), 18 September 2009
-Amended(4) by Proposal 6527 (BobTHJ; disi.), 23 October 2009
-Amended(5) by Proposal 6534 (BobTHJ; disi.), 4 November 2009
-
-----------------------------------------------------------------------
-
-Rule 2260/7 (Power=2)
-The Deck of Government
-
-      When a player wins an election, e Earns two Draws from the
-      Government Deck. These Draws are tracked by the IADoP.
-
-      The Deck of Government is a Basic Deck consisting of the
-      following cards, listed by title followed by Exploit (default)
-      or Effect (if marked as such).
-
-      * Debate-o-Matic  - Indicate an ongoing ordinary Agoran Decision.
-                          It becomes democratic.
-
-      * On the Nod      - Indicate an ongoing ordinary Agoran Decision
-                          that has not been filibustered. That
-                          Decision is rubberstamped.
-
-      * Kill Bill       - Indicate an ongoing ordinary Agoran Decision.
-                          That Decision is vetoed.
-
-      * No Confidence   - Indicate an office. If there is an ongoing
-                          election for that office, it is canceled
-                          (there is no change in its holder). An
-                          election for that office is initiated.  one.
-
-      * Goverment Ball  - If you hold an "X Ball" card (where X is the
-                          name of a Basic Deck) for each other Basic
-                          Deck you satisfy the winning condition of
-                          Win by Lotto. Cleanup Procedure: For each
-                          other basic deck one such corresponding Ball
-                          card is destroyed.
-
-      * Extra Vote      - (Effect) This card affects voting limits on
-                          ordinary decisions, as described in other
-                          Rules.
-
-      * Local Election  - Indicate a player who owns an Extra Vote
-                          card. One Extra Vote Card in that player's
-                          possession is destroyed.
-
-      * Cross the Lobby - Indicate an ongoing ordinary decision and
-                          specify a Chamber value. That ordinary
-                          decision's colour is changed to the
-                          specified Chamber value.
-
-[Note (9 August 2009): Current frequencies:
- * Debate-o-Matic   5
- * On the Nod      29
- * Kill Bill       10
- * No Confidence    5
- * Goverment Ball   1
- * Extra Vote      20
- * Local Election  20
- * Cross the Lobby 10]
-
-History:
-Created by Proposal 6394 (Goethe), 10 July 2009
-Amended(1) by Proposal 6407 (Wooble), 7 August 2009
-Power changed from 1 to 2 by Proposal 6409 (G.; disi.), 7 August 2009
-Amended(2) 7 times by Proposal 6425 (coppro; disi.), 16 August 2009
-Amended(3) by Proposal 6419 (BobTHJ), 16 August 2009
-Amended(4) by Proposal 6454 (BobTHJ), 1 September 2009
-Amended(5) by Proposal 6519 (Wooble; disi.), 19 October 2009
-Amended(6) by Proposal 6531 (Walker), 23 October 2009
-Amended(7) by Proposal 6539 (coppro), 4 November 2009
-
-----------------------------------------------------------------------
-
-Rule 2261/9 (Power=2)
-The Deck of Change
-
-      When a proposal authored by a player is adopted and takes
-      effect, that player Earns a number of Draws from the Change Deck
-      equal to the Interest Index of the proposal and, if the proposal
-      was interested, its coauthors, if players, each Earn one Draw
-      from the Change Deck. These Draws are tracked by the Assessor.
-
-      The Deck of Change is a Basic Deck consisting of the following
-      cards, listed by title followed by Exploit (default) or Effect
-      (if marked as such).
-
-      * Distrib-u-Matic - Indicate an Undistributable proposal. That
-                          proposal becomes Distributable
-
-      * Committee       - Indicate a Distributable proposal. That
-                          proposal becomes Undistributable, and CANNOT
-                          be made Distributable again for one week
-                          after the Committee is spent, Rules to the
-                          contrary notwithstanding.
-
-      * Your Turn       - Indicate a player.  E SHOULD destroy at
-                          least one card in eir possession in the next
-                          72 hours. If e fails to do so, you CAN once
-                          destroy a card in eir possession by
-                          announcement in the subsequent week.
-
-      * Presto!         - Indicate an entity and a card held by that
-                          entity.  That card is transferred to your
-                          hand.
-
-      * Not Your Turn  -  Indicate a given playing of a card that
-                          occurred in the last 24 hours. That play is
-                          canceled and did not occur. If this would
-                          lead at any time in the 24 hours after the
-                          playing of this card to a paradox which
-                          would prevent its play, its play is
-                          unsuccessful.
-
-      * Change Ball     - If you hold an "X Ball" card (where X is the
-                          name of a Basic Deck) for each other Basic
-                          Deck you satisfy the winning condition of
-                          Win by Lotto. Cleanup Procedure: For each
-                          other basic deck one such corresponding Ball
-                          card is destroyed.
-
-      * Supersize Me    - Specify an entity. That entity's Hand Limit
-                          is increased by 1.
-
-      * Shrink Potion   - Specify an entity. That entity's Hand Limit
-                          is decreased by 10% (rounded up).
-
-[Note (9 August 2009): Current frequencies:
- * Distrib-u-Matic  100
- * Committee         15
- * Your Turn         20
- * Presto!            3
- * Not Your Turn      1
- * Change Ball        1
- * Supersize Me      40
- * Shrink Potion     20]
-
-History:
-Created by Proposal 6394 (Goethe), 10 July 2009
-Power changed from 1 to 2 by Proposal 6409 (G.; disi.), 7 August 2009
-Amended(1) by Proposal 6419 (BobTHJ), 16 August 2009
-Amended(2) by cleaning (Murphy), 16 August 2009
-Amended(3) 4 times by Proposal 6435 (coppro; disi.), 18 August 2009
-Amended(4) by Proposal 6448 (BobTHJ), 27 August 2009
-Amended(5) by Proposal 6454 (BobTHJ), 1 September 2009
-Amended(6) by Proposal 6530 (C-walker), 23 October 2009
-Amended(7) by Proposal 6538 (coppro; disi.), 4 November 2009
-Amended(8) by Proposal 6539 (coppro), 4 November 2009
-Amended(9) by Proposal 6579 (coppro; disi.), 28 November 2009
-
-----------------------------------------------------------------------
-
-Rule 2262/10 (Power=2)
-The Deck of Justice
-
-      When a judge judges an interested case within its time limit, e
-      earns a draw from the Deck of Justice.  These Draws are tracked
-      by the CotC. If a judge's judgement is OVERTURNED on appeal, one
-      justice on the appeals panel CAN, in a timely fashion, destroy
-      one Justice card e indicates in the judge's possession by
-      announcement.
-
-      The Deck of Justice is a Basic Deck consisting of the following
-      cards, listed by title followed by Exploit (default) or Effect
-      (if marked as such).
-
-       * Absolv-o-Matic   - Indicate a player with at least one Rest.
-                            A Rest in that player's possession
-                            destroyed.
-
-       * Stool Pigeon     - Indicate a first-class player who has not
-                            been indicated for this card within the
-                            last 72 hours. A Rest is created in that
-                            player's possession.
-
-       * Drop your Weapon - Indicate an entity and a card held by that
-                            entity. That card is destroyed.
-
-       * Discard Picking  - Indicate a type of Exploit card, other
-                            than Presto!, where at least one card of
-                            that type was destroyed in the past 72
-                            hours; a card of that type is created in
-                            your possession.
-
-       * Justice Ball     - If you hold an "X Ball" card (where X is
-                            the name of a Basic Deck) for each other
-                            Basic Deck you satisfy the winning
-                            condition of Win by Lotto. Cleanup
-                            Procedure: For each other basic deck one
-                            such corresponding Ball card is destroyed.
-
-       * Penalty Box      - Specify an entity. That entity is audited.
-
-       * Dunce Cap        - (Effect) Holding this card is a Losing
-                            Condition.  The holder of this card CAN
-                            NOT voluntarily destroy it by
-                            announcement, and CAN NOT transfer it
-                            unless e has held it for at least one
-                            week.
-
-[Note (9 August 2009): Current frequencies:
- * Absolv-o-Matic   30
- * Stool Pigeon      5
- * Drop your Weapon 20
- * Discard Picking  15
- * Justice Ball      1
- * Penalty Box       5
- * Dunce Cap         2]
-
-History:
-Created by Proposal 6394 (Goethe), 10 July 2009
-Power changed from 1 to 2 by Proposal 6409 (G.; disi.), 7 August 2009
-Amended(1) by Proposal 6419 (BobTHJ), 16 August 2009
-Amended(2) 4 times by Proposal 6431 (coppro; disi.), 18 August 2009
-Amended(3) by Proposal 6448 (BobTHJ), 27 August 2009
-Amended(4) twice by Proposal 6454 (BobTHJ), 1 September 2009
-Amended(5) by Proposal 6483 (Pavitra), 18 September 2009
-Amended(6) by Proposal 6517 (BobTHJ), 19 October 2009
-Amended(7) by Proposal 6526 (ais523), 23 October 2009
-Amended(8) by Proposal 6539 (coppro), 4 November 2009
-Amended(9) by Proposal 6563 (Wooble), 13 November 2009
-Amended(10) by Proposal 6593 (Yally), 14 December 2009
+Amended(2) by Proposal 6616 (G., coppro, c., Murphy), 30 January 2010
 
 ----------------------------------------------------------------------
 
@@ -6077,18 +5723,18 @@ Amended(1) by Proposal 6595 (coppro), 14 December 2009
 
 ----------------------------------------------------------------------
 
-Rule 2273/0 (Power=1)
+Rule 2273/1 (Power=1)
 Coups de Grace
 
       When a coup de grace is begun, the Admiral of the Navy CAN and
       SHALL in the same message choose a member of the Government and,
-      for each Major Arcana card in that player's possession, choose a
-      different active player who is neither a member of the
-      Government nor of the Government in Exile, such that e chooses a
-      maximal number of players with the patent title Champion to
-      receive the cards. Each of those cards is transferred to the
-      specified player, and the player originally chosen by the
-      Admiral of the Navy becomes a member of the Government in Exile.
+      for each card in that player's possession, choose a different
+      active player who is neither a member of the Government nor of
+      the Government in Exile, such that e chooses a maximal number of
+      players with the patent title Champion to receive the cards.
+      Each of those cards is transferred to the specified player, and
+      the player originally chosen by the Admiral of the Navy becomes
+      a member of the Government in Exile.
 
       If, somehow, a coup de grace is begun when there is no ongoing
       coup d'etat, the coup de grace is actually a chicken coup, rules
@@ -6096,6 +5742,7 @@ Coups de Grace
 
 History:
 Created by Proposal 6490 (coppro), 18 September 2009
+Amended(1) by Proposal 6616 (G., coppro, c., Murphy), 30 January 2010
 
 ----------------------------------------------------------------------
 
