@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6605
-Last change to this ruleset: by proposal 6605
+Last proposal with recorded effect on this ruleset: 6610
+Last change to this ruleset: by proposal 6610
 
 Last updated: 5 November 2009
 
@@ -13,7 +13,7 @@ Rule ID numbers:
 
 Statistics
 
-Current total number of rules: 150
+Current total number of rules: 149
 
 Power distribution:
        1 with Power=4
@@ -22,7 +22,7 @@ Power distribution:
       59 with Power=2
        5 with Power=1.7
        7 with Power=1.5
-      42 with Power=1
+      41 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -74,7 +74,6 @@ Index of Rules
 
       * Players
       Rule  869: How to Join and Leave Agora
-      Rule 2174: Aliens
       Rule 2170: Who Am I?
       Rule 2150: Personhood
       Rule 2268: Entanglement
@@ -1281,18 +1280,6 @@ Amended(27) by Proposal 5973 (woggle), 25 November 2008
 Amended(28) by Proposal 6099 (Pavitra), 22 February 2009
 Amended(29) by Proposal 6349 (Pavitra), 17 June 2009
 Amended(30) by Proposal 6382 (Murphy), 3 July 2009
-
-----------------------------------------------------------------------
-
-Rule 2174/0 (Power=1)
-Aliens
-
-      An alien is a non-player who is a member of the basis of one or
-      more contracts (hereafter eir visas).  A resident alien is an
-      alien with one or more registered visas.
-
-History:
-Created by Proposal 5274 (Murphy), 7 November 2007
 
 ----------------------------------------------------------------------
 
