@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6638
-Last change to this ruleset: by proposal 6638
+Last proposal with recorded effect on this ruleset: 6639
+Last change to this ruleset: by proposal 6639
 
 Last updated: 21 February 2010
 
@@ -5941,7 +5941,7 @@ Foreign Relations
       other nomics.
 ----------------------------------------------------------------------
 
-Rule 402/30 (Power=1)
+Rule 402/31 (Power=1)
 Identity of the Speaker
 
       The List of Succession is a list of the five active players who
@@ -5950,8 +5950,8 @@ Identity of the Speaker
       part of the list, is part of the Herald's monthly report.
 
       The Speaker is the active player on the List of Succession who
-      became part of the list the longest time ago.  The Herald SHALL
-      announce the ascension of a new Speaker asap after it occurs.
+      won the game most recently. The Herald SHALL announce the
+      ascension of a new Speaker as soon as possible after it occurs.
 
 [Cross-references (10 July 2009): the Speaker's duties are:
   * form a government (rule 402)
@@ -5996,6 +5996,7 @@ Amended(27) by Proposal 6175 (Yally), 7 April 2009
 Amended(28) by Proposal 6267 (Yally), 11 May 2009
 Amended(29) by Proposal 6394 (Goethe), 10 July 2009
 Amended(30) by Proposal 6490 (coppro), 18 September 2009
+Amended(31) by Proposal 6639 (Yally), 20 February 2010
 
 ----------------------------------------------------------------------
 
