@@ -1,28 +1,28 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6633
-Last change to this ruleset: by proposal 6633
+Last proposal with recorded effect on this ruleset: 6635
+Last change to this ruleset: by proposal 6635
 
 Last updated: 21 February 2010
 
 Rule ID numbers:
-      highest orderly: 2284
+      highest orderly: 2285
       chaotic: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 141
+Current total number of rules: 126
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
       36 with Power=3
-      50 with Power=2
-       5 with Power=1.7
+      42 with Power=2
+       4 with Power=1.7
        7 with Power=1.5
-      41 with Power=1
+      35 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -38,7 +38,6 @@ Index of Categories
       * Adjudication
       * Cards and Energy
       * Patent Titles and Degrees
-      * Contract Law
       * Foreign Relations
       * Trophies
 
@@ -77,7 +76,6 @@ Index of Rules
       Rule 2170: Who Am I?
       Rule 2150: Personhood
       Rule 2268: Entanglement
-      Rule 2145: Partnerships
       Rule 2139: The Registrar
       Rule 1789: Cantus Cygneus
       Rule 2130: Activity
@@ -100,6 +98,7 @@ Index of Rules
       Rule 1728: Dependent Actions
       Rule 2124: Agoran Satisfaction
       Rule 2166: Assets
+      Rule 2285: Contracts
 
       * Offices
       Rule 1006: Offices
@@ -153,7 +152,6 @@ Index of Rules
       Rule 2230: Notices of Violation
       Rule 1504: Criminal Cases
       Rule 2277: Appeals of Criminal Cases
-      Rule 2169: Equity Cases
       Rule 2205: Judicial Arguments and Evidence
       Rule 2157: Judicial Panels
       Rule  911: Appeal Cases
@@ -185,22 +183,6 @@ Index of Rules
       Rule 1922: Defined Regular Patent Titles
       Rule 1367: Degrees
       Rule 2231: Order of the Hero of Agora Nomic
-
-      * Contract Law
-      Rule 1742: Contracts
-      Rule 2264: Permission to Act on Behalf
-      Rule 2197: Defining Contract Changes
-      Rule 2198: Making Contract Changes
-      Rule 2178: Contract Switches
-      Rule 2173: The Notary
-      Rule 2191: Pledges
-      Rule 2179: Points
-      Rule 2136: Contests
-      Rule 2232: Contest Axes
-      Rule 2233: Awarding and Revoking Points
-      Rule 2242: Champion's Contests
-      Rule 2234: Rewarding Contestmasters
-      Rule 2187: Win by High Score
 
       * Foreign Relations
       Rule  402: Identity of the Speaker
@@ -575,7 +557,6 @@ Victory
 [Cross-references (9 January 2008): list of Winning Conditions:
   * Clout (rule 2134)
   * Dictatorship (rule 2223)
-  * High Score (rule 2187)
   * Legislation (rule 2188)
   * Paradox (rule 2110)
   * Renaissance (rule 2199)
@@ -1371,68 +1352,6 @@ Entanglement
 
 History:
 Created by Proposal 6485 (Murphy), 18 September 2009
-
-----------------------------------------------------------------------
-
-Rule 2145/8 (Power=2)
-Partnerships
-
-      A partnership is a contract that devolves each of its legal
-      obligations onto at least one of its parties, but does not
-      devolve all of them solely onto one of its parties.  The members
-      of a partnership are those parties onto whom the partnership's
-      legal obligations are collectively devolved.  A partnership's
-      identity and partnershiphood are not disrupted by changes to its
-      membership provided that it continues to meet the definition of
-      a partnership.
-
-      A partnership's basis is the set consisting of the union of the
-      the bases of each of its members.  Where circularity occurs in
-      this definition, it is resolved by using the minimum basis sets
-      that provide consistency.
-
-      A public Legalistic partnership whose basis has contained at
-      least three active first-class players simultaneously at some
-      point in the past seven days is a person, and SHALL act as
-      specified by itself.
-
-      If a judge finds a partnership guilty in a criminal proceedings,
-      e may sentence one or more members of the partnership for the
-      crime rather than the partnership itself.  To be an appropriate
-      sentence in this case, the judge SHOULD use the text of the
-      partnership as a guide to the devolution of sentencing but is
-      not bound to follow the text if it is unclear on the subject or
-      would not adequately apply responsibility.
-
-[CFJ 1701 (called 11 July 2007): To qualify as a member of a
-partnership it is not necessary to be responsible for all of the
-partnership's obligations.]
-
-[CFJ 1864 (called 12 January 2008): The devolution of a partnership's
-legal obligations onto its members may be achieved by means of a
-contract other than the partnership.]
-
-[CFJ 1750 (called 24 September 2007): Partnerships can have non-player
-members and nothing in the rules causes a member to cease being so due
-to deregistration.]
-
-[CFJ 1855 (called 29 December 2007): A person who is not a party to a
-partnership contract cannot have obligations placed on em by that
-contract, and so cannot be a member of the partnership.]
-
-History:
-Created by Proposal 4977 (BobTHJ), 31 May 2007
-Amended(1) by Proposal 5041 (BobTHJ), 28 June 2007
-Power changed from 1 to 2 by Proposal 5061 (Zefram), 9 July 2007
-Amended(2) by Proposal 5061 (Zefram), 9 July 2007
-Amended(3) by Proposal 5303 (root), 24 November 2007
-Amended(4) by Proposal 5381 (Goethe), 1 January 2008
-Amended(5) by Proposal 5776 (Goethe), 17 October 2008
-Amended(6) by Proposal 6025 (Murphy), 22 December 2008
-Assigned to Committee on Small Business and Entrepreneurship by
-  Proposal 6053 (Murphy, woggle, ais523), 23 January 2009
-Amended(7) by Proposal 6197 (Murphy), 27 April 2009
-Amended(8) by Proposal 6320 (Goethe), 26 May 2009
 
 ----------------------------------------------------------------------
 
@@ -2633,6 +2552,17 @@ Amended(10) by Proposal 6161 (Murphy), 31 March 2009
 Amended(11) by Proposal 6253 (Quazie), 9 May 2009
 Amended(12) by cleaning (Murphy), 16 August 2009
 Amended(13) by Proposal 6430 (coppro; disi.), 18 August 2009
+
+----------------------------------------------------------------------
+
+Rule 2285/0 (Power=3)
+Contracts
+
+      For greater certainty, no entity is a contract for the purposes
+      of Rules.
+
+History:
+Created by Proposal 6635 (coppro), 20 February 2010
 
 ----------------------------------------------------------------------
 
@@ -4205,8 +4135,7 @@ are:
   * track player posture (rule 1871)
   * rotate the bench (rule 1871)
   * track player hawkishness (rule 2203)
-  * recuse tardy judge (rule 2158)
-  * inform defendant in equity case (rule 2169)]
+  * recuse tardy judge (rule 2158)]
 
 History:
 Initial Mutable Rule 213, Jun. 30 1993
@@ -4782,113 +4711,6 @@ Appeals of Criminal Cases
 
 History:
 Created by Proposal 6536 (Murphy), 4 November 2009
-
-----------------------------------------------------------------------
-
-Rule 2169/14 (Power=1.7)
-Equity Cases
-
-      Equity cases are a subclass of judicial cases. An equity case's
-      purpose is to correct a potential injustice in the operation of
-      a particular Equitable contract.  An equity case CAN be
-      initiated by any party to the contract, by announcement which
-      clearly identifies the contract and a state of affairs whereby
-      events have not proceeded as envisioned by the contract (such
-      as, but not limited to, a party acting in contravention of eir
-      contractual obligations).  This announcement SHALL also clearly
-      identify the set of parties to the contract.
-
-      For the purpose of this rule, the parties to a contract are
-      measured as of the time the case was initiated; however, if the
-      initiating message specifies a different time that falls within
-      the week before the case was initiated, then that time is used
-      instead.
-
-      The initiation of an equity case begins its pre-trial phase.  In
-      the pre-trial phase the CotC SHALL in a timely fashion inform
-      all the contracting parties of the case and invite them to
-      submit arguments regarding the equitability of the situation.
-      The pre-trial phase ends one week after the parties have been so
-      informed, or immediately when all parties have announced that
-      they wish to terminate the pre-trial phase.
-
-      The initiator is unqualified to be assigned as judge of the
-      case.  All other members of the bases of the parties to the
-      contract are also unqualified, except while this would result in
-      all entities being unqualified.
-
-      An equity case has a judicial question on equation, which is
-      applicable at all times following the pre-trial phase.  The
-      valid judgements for this question are the possible agreements
-      that the parties could make that would be governed by the rules.
-      A judgement is appropriate if and only if it is a reasonably
-      equitable resolution of the situation at hand with respect to
-      the matters raised in the initiation of the case and by the
-      parties in the course of the case.
-
-      When an applicable question on equation in an equity case has a
-      judgement, and has had that judgement continuously for the past
-      week (or all parties to the contract have approved that
-      judgement), the judgement becomes Enforceable as a set of
-      regulated requirements imposed by this Rule.
-
-      Every party to the contract SHALL act to ensure the terms of an
-      enforceable equity judgement specific to that party are
-      satisfied, though this requirement does not create the ability
-      to perform regulated actions that the party CANNOT otherwise
-      perform.
-
-      If a party fails to act as specified, e is in violation of this
-      Rule; in such a situation, the judge CAN act on the party's
-      behalf to fulfill said obligations Without 3 Objections, or the
-      party may be subjected to a criminal punishment other than
-      DISCHARGE for violating this Rule, but not both.
-
-      The judge CAN, Without Objection from the parties, nullify a
-      specified term or terms of the judgement, thereby removing the
-      requirement of parties to act as specified.
-
-      An appeal concerning any assignment of judgement in an equity
-      case CAN be initiated by any party to the contract in question
-      by announcement.  If the judgement is Enforceable when it is
-      appealed, the members of the relevant judicial panel SHOULD
-      assume that the judgement was fundamentally fair when made, and
-      SHALL restrict its appeals judgement to nullifying terms of the
-      judgement which are no longer applicable due to changed
-      circumstances.
-
-      If an announcement claiming to initiate an equity case regarding
-      a private contract would otherwise be invalid solely because the
-      contract does not exist or the initiator is not party to it,
-      then it is valid, but its judge SHALL assign it a null
-      judgement.
-
-      For the purpose of an equity case regarding a scam, it is
-      generally equitable to let the scammers retain at least some
-      absolute gains as reward for their cleverness, while
-      compensating others for at least some absolute losses.
-
-[CFJ 1772 (called 28 October 2007): An equity case cannot be initiated
-with the rules as the subject contract.]
-
-History:
-Created by Proposal 5194 (Zefram), 6 September 2007
-Amended(1) by Proposal 5355 (Murphy; disi.), 16 December 2007
-Amended(2) by Proposal 5371 (Zefram), 20 December 2007
-Amended(3) by Proposal 5387 (Murphy), 1 January 2008
-Amended(4) by Proposal 5436 (Murphy), 13 February 2008
-Amended(5) by Proposal 5507 (root), 10 May 2008
-Amended(6) by Proposal 5638 (Murphy), 29 July 2008
-Amended(7) by Proposal 5675 (Goethe), 3 September 2008
-Amended(8) by Proposal 5812 (Murphy), 1 November 2008
-Amended(9) by Proposal 5826 (Murphy), 6 November 2008
-Amended(10) by Proposal 6006 (Murphy), 10 December 2008
-Amended(11) by Proposal 6024 (Murphy), 22 December 2008
-Assigned to Committee on Small Business and Entrepreneurship by
-  Proposal 6053 (Murphy, woggle, ais523), 23 January 2009
-Amended(12) by Proposal 6255 (Murphy), 9 May 2009
-Amended(13) by Proposal 6316 (comex), 26 May 2009
-Amended(14) by Proposal 6571 (ais523), 28 November 2009
 
 ----------------------------------------------------------------------
 
@@ -6089,573 +5911,6 @@ Amended(1) by cleaning (Murphy), 16 August 2009
 Amended(2) by Proposal 6571 (ais523), 28 November 2009
 Power changed from 2 to 3 by Proposal 6626 (Murphy), 20 February 2010
 Amended(3) by Proposal 6626 (Murphy), 20 February 2010
-
-----------------------------------------------------------------------
-
-======================================================================
-Contract Law
-      A category concerning binding agreements that can be adjudicated
-      within this nomic.
-----------------------------------------------------------------------
-
-Rule 1742/18 (Power=2)
-Contracts
-
-      Contracts are binding agreements governed by the rules.
-
-      Each contract requires a certain number of parties (two if not
-      otherwise specified by the rules).  Any agreement made by one or
-      more persons, with the intention that it be binding on them and
-      governed by the rules, becomes a contract when it comes to have
-      at least the required number of parties, and terminates when it
-      comes to have less than the required number of parties.
-
-      Parties to a contract SHALL act in accordance with that
-      contract.  This obligation is not impaired by contradiction
-      between the contract and any other contract, or between the
-      contract and the rules.  However, if a player is found GUILTY
-      of violating this rule by failing to act in accordance with
-      an Equitable contract, then the only appropriate sentence is
-      DISCHARGE, unless the failure pertains to a previously-imposed
-      equity judgement.
-
-[CFJ 1892 (called 2 February 2008): An agreement that is not binding
-is thereby not a contract.]
-
-[CFJ 1901 (called 4 February 2008): An agreement that is binding is
-thereby a contract, even if it doesn't impose any obligations.]
-
-[CFJ 1892 (called 2 February 2008): An agreement's text can disclaim
-contract/binding status, thereby nullifying itself, by explicitly
-describing itself as a non-contract or as non-binding.]
-
-[CFJ 1872 (called 15 January 2008): Being a player is not a
-prerequisite for becoming party to a contract.]
-
-[CFJ 1796 (called 14 November 2007): If a person announces that e
-agrees to be bound by a particular text as a contract, without saying
-who this agreement is with, and the contract text does not regulate
-who can become a party to it, then any person can become a party to
-the contract by announcement.]
-
-[CFJ 1455 (called 14 March 2003): A contract cannot cause an
-otherwise-insignificant action by a non-party to constitute consent to
-be bound by the contract.]
-
-[CFJ 1856 (called 29 December 2007): A contract is null and void if
-the courts do not have sufficient evidence that a person's
-contract-related rights (in rule 101) are not being infringed.  This
-includes evidence that the party to the contract has reviewed the
-rules and has direct prior knowledge of the fora.]
-
-[CFJ 1686 (called 7 June 2007): A person who is not a party to an
-agreement categorically cannot violate it.]
-
-[CFJ 1752 (called 28 September 2007): Deregistration does not
-implicitly cause the ex-player to leave a contract.]
-
-[CFJ 1842 (called 20 December 2007): A contract may use retroactive
-operations internally for the purposes of determining obligations of
-the parties, but such legal fictions do not affect Agora as a whole.]
-
-[CFJ 1836 (called 18 December 2007): A contract cannot have
-retroactive effect.]
-
-[CFJ 1843 (called 20 December 2007): Becoming a party to a contract
-cannot occur retroactively, for the purposes of determining
-justiciability of the contract.]
-
-[CFJ 1816 (called 2 December 2007): A contract is not generally able
-to define terms used by the rules.]
-
-[CFJ 1819 (called 3 December 2007): A contract is not able to create
-new ways of winning the game.]
-
-[CFJ 1835 (called 18 December 2007): An authorisation granted by a
-party in a contract takes precedence over a unilateral statement by
-that party that purports to cancel that authorisation.]
-
-[CFJ 1921 (called 2 April 2008): Agreements with informal phrasing can
-be considered contracts, but only when made in a medium where lying is
-against the Rules (i.e. a public forum).]
-
-History:
-Created by Proposal 3558 (General Chaos), Oct. 24 1997
-Amended(1) by Proposal 3704 (General Chaos), Mar. 19 1998
-Amended(2) by Proposal 4018 (Kelly), Jun. 21 2000
-Amended(3) by Proposal 4533 (Murphy), 26 October 2003
-Amended(4) by Proposal 4867 (Goethe), 27 August 2006
-Retitled by Proposal 4987 (BobTHJ), 6 June 2007
-Amended(5) by Proposal 4987 (BobTHJ), 6 June 2007
-Amended(6) by Proposal 5009 (Zefram), 18 June 2007
-Amended(7) by Proposal 5028 (Zefram), 28 June 2007
-Amended(8) by Proposal 5040 (Zefram), 28 June 2007
-Retitled by Proposal 5086 (Zefram), 1 August 2007
-Power changed from 1 to 1.5 by Proposal 5086 (Zefram), 1 August 2007
-Amended(9) by Proposal 5086 (Zefram), 1 August 2007
-Amended(10) by Proposal 5254 (AFO), 18 October 2007
-Amended(11) by Proposal 5362 (root), 20 December 2007
-Amended(12) by Proposal 5403 (Murphy, Goethe), 16 January 2008
-Amended(13) by Proposal 5420 (Wooble), 2 February 2008
-Amended(14) by Proposal 5423 (woggle; disi.), 6 February 2008
-Amended(15) by Proposal 5640 (Goethe), 29 July 2008
-Amended(16) by Proposal 5663 (Murphy), 9 August 2008
-Power changed from 1.5 to 2 by Proposal 5703 (root; disi.), 1 October
-  2008
-Amended(17) by Proposal 5759 (comex), 16 October 2008
-Assigned to Committee on Small Business and Entrepreneurship by
-  Proposal 6053 (Murphy, woggle, ais523), 23 January 2009
-Amended(18) by Proposal 6197 (Murphy), 27 April 2009
-
-----------------------------------------------------------------------
-
-Rule 2264/0 (Power=3)
-Permission to Act on Behalf
-
-      A person CAN act on behalf of a partnership (if it is a person)
-      as unambiguously permitted by that partnership's text.
-
-      A person CAN act on behalf of another person when unambiguously
-      permitted by a public contract to which the grantor is a party.
-
-      If permitted by rules with power at least 1.7, a judge in an
-      equity or criminal case CAN act on behalf of a party or
-      defendant without not more than 5 objections.
-
-History:
-Created by Proposal 6402 (woggle), 17 July 2009
-
-----------------------------------------------------------------------
-
-Rule 2197/2 (Power=2)
-Defining Contract Changes
-
-      The following are Contract Changes:
-
-        a) Becoming party to a contract.
-        b) Ceasing to be a party to a contract.
-        c) Amending a contract.
-        d) Terminating a contract.
-        e) Flipping a contract switch.
-
-History:
-Created by Proposal 5423 (woggle; disi.), 6 February 2008
-Amended(1) by Proposal 5502 (Pavitra; disi.), 26 April 2008
-Power changed from 1.5 to 2 by Proposal 5704 (root; disi.), 1 October
-  2008
-Assigned to Committee on Small Business and Entrepreneurship by
-  Proposal 6053 (Murphy, woggle, ais523), 23 January 2009
-Amended(2) by Proposal 6197 (Murphy), 27 April 2009
-
-----------------------------------------------------------------------
-
-Rule 2198/6 (Power=2)
-Making Contract Changes
-
-      Contract Changes CAN be performed as follows:
-
-        a) By agreement between all parties, if the contract's minimum
-           number of parties is at least two.
-
-        b) By a party without objection (any other party CAN object),
-           if the contract's minimum number of parties is less than
-           two.
-
-        c) Using a mechanism specified by the contract.
-
-        d) By the contract by announcement, if it is a person.
-
-      If a contract does not purport to regulate becoming a party to
-      it, then any person CAN become a party to it by announcement.
-
-      Upon creation or contract change, if a contract comes to state
-      that one or more of its switches have certain values, then they
-      are flipped to those values unless such flips would be illegal
-      or impossible.
-
-      The rest of this rule notwithstanding, if the nature and/or
-      permissibility of a Contract Changes is ambiguous, then it has
-      no effect.
-
-      Contract changes are secured.
-
-[CFJ 1876 (called 18 January 2008): "Agreement between all parties"
-can only exist if there are at least two parties.]
-
-[CFJ 1770 (called 23 October 2007): Agreement between all the parties,
-to modify or terminate a contract, can be manifested by a contract
-between all the parties, including the contract being modified or
-terminated.]
-
-History:
-Created by Proposal 5423 (woggle; disi.), 6 February 2008
-Amended(1) by Proposal 5502 (Pavitra; disi.), 26 April 2008
-Amended(2) by Proposal 5677 (ihope; disi.), 3 September 2008
-Amended(3) by Proposal 5686 (Goethe; disi.), 13 September 2008
-Assigned to Committee on Small Business and Entrepreneurship by
-  Proposal 6053 (Murphy, woggle, ais523), 23 January 2009
-Amended(4) by cleaning (comex), 12 February 2009
-Amended(5) by Proposal 6197 (Murphy), 27 April 2009
-Amended(6) by Proposal 6388 (Tiger), 10 July 2009
-
-----------------------------------------------------------------------
-
-Rule 2178/8 (Power=2)
-Contract Switches
-
-      Disclosure is a contract switch, tracked by the Notary, with
-      values Private (default) and Public.  Rules to the contrary
-      notwithstanding:
-
-        a) A contract's Disclosure CANNOT be flipped to Public unless
-           its text and list of parties are simultaneously published.
-
-        b) A contract's Disclosure CANNOT be flipped away from Public.
-
-        c) Contract Changes to a public contract do not become
-           effective until published.
-
-      Sentiment is a contract switch, tracked by the Notary, with
-      values Equitable (default) and Legalistic.  Rules to the
-      contrary notwithstanding, a contract's Sentiment CANNOT be
-      flipped away from Legalistic.
-
-History:
-Created by Proposal 5328 (Goethe), 5 December 2007
-Amended(1) by Proposal 5380 (Goethe), 1 January 2008
-Power changed from 1 to 1.5 by Proposal 5403 (Murphy, Goethe),
-  16 January 2008
-Amended(2) by Proposal 5403 (Murphy, Goethe), 16 January 2008
-Power changed from 1.5 to 2 by Proposal 5804 (woggle; disi.),
-  29 October 2008
-Amended(3) by Proposal 5835 (Goethe), 12 November 2008
-Amended(4) by Proposal 5972 (root), 25 November 2008
-Amended(5) by Proposal 6025 (Murphy), 22 December 2008
-Assigned to Committee on Small Business and Entrepreneurship by
-  Proposal 6053 (Murphy, woggle, ais523), 23 January 2009
-Amended(6) by Proposal 6197 (Murphy), 27 April 2009
-Amended(7) by Proposal 6288 (coppro), 19 May 2009
-Amended(8) by Proposal 6444 (BobTHJ; disi.), 27 August 2009
-
-----------------------------------------------------------------------
-
-Rule 2173/4 (Power=2)
-The Notary
-
-      The Notary is an office; its holder is responsible for keeping
-      track of contracts.
-
-      The parties to a public contract SHALL keep the Notary informed
-      of its text and set of parties.  The Notary's weekly report
-      includes a list of all public contracts; the Notary's monthly
-      report includes each public contract's text and set of parties.
-
-      The parties to a private contract SHOULD keep the Notary
-      informed of its text and set of parties.  The Notary SHALL
-      disclose this information (to the extent that e has been
-      informed of it) to the judge of an equity case pertaining to
-      that contract.  The Notary SHALL NOT disclose it otherwise,
-      except as explicitly allowed by the contract, or with the
-      explicit consent of all parties.
-
-      The Notary CAN terminate any contract without objection.
-
-      The Notary tracks all contract switches not assigned to another
-      officer.
-
-[CFJ 1786 (called 6 November 2007): The notary is not prohibited from
-disclosing eir knowledge or guesses about the historical or current
-text and parties of a private contract where e has no privileged
-knowledge.]
-
-History:
-Created by Proposal 5254 (AFO), 18 October 2007
-Amended(1) by Proposal 5551 (BobTHJ), 21 June 2008
-Amended(2) by Proposal 5578 (Murphy), 16 July 2008
-Amended(3) by Proposal 5628 (Murphy), 29 July 2008
-Power changed from 1 to 2 by Proposal 5703 (root; disi.), 1 October
-  2008
-Assigned to Committee on Small Business and Entrepreneurship by
-  Proposal 6053 (Murphy, woggle, ais523), 23 January 2009
-Amended(4) by Proposal 6300 (Murphy), 19 May 2009
-
-----------------------------------------------------------------------
-
-Rule 2191/4 (Power=2)
-Pledges
-
-      A pledge is a public contract identifying itself as such.  A
-      pledge requires at least one party.
-
-      An equity case regarding a pledge CAN be initiated by a
-      non-party, provided that all other requirements for initiating
-      an equity case are met.  The initiator of such a case is
-      considered to be a party to the pledge for the purpose of that
-      case.
-
-      If a pledge does not impose any ongoing or unsatisfied
-      obligations on its current parties, and will not do so in the
-      future in its current form, then any person CAN terminate it by
-      announcing that it is obsolete.
-
-History:
-Created by Proposal 5395 (Murphy), 16 January 2008
-Amended(1) by Proposal 5423 (woggle; disi.), 6 February 2008
-Amended(2) by Proposal 5423 (woggle; disi.), 6 February 2008
-Amended(3) by Proposal 5578 (Murphy, comex), 16 July 2008
-Power changed from 1.5 to 2 by Proposal 5703 (root; disi.), 1 October
-  2008
-Amended(4) by Proposal 5817 (Murphy), 1 November 2008
-Assigned to Committee on Small Business and Entrepreneurship by
-  Proposal 6053 (Murphy, woggle, ais523), 23 January 2009
-
-----------------------------------------------------------------------
-
-Rule 2179/8 (Power=1)
-Points
-
-      For each point axis:
-
-        a) <axis> Points is a currency.
-
-        b) A player's <axis> coordinate (syn. <axis> score) is the
-           number of <axis> points e owns.
-
-      There are two point axes, X and Y.  A player's score is x + yi,
-      where x is eir X coordinate and y is eir Y coordinate.
-
-      Ownership of points is restricted to players.  If winning is
-      secured, then changes to point holdings are secured with the
-      same power threshold.
-
-      The Scorekeepor is an office, and the recordkeepor of points.
-
-      Players generally CAN transfer points they own to other players,
-      subject to the restrictions that no more than 5 points can be
-      transferred this way to any one player, nor from any one player,
-      per week.
-
-[Cross-references (16 January 2008): the Scorekeepor's duties are:
-  * recordkeepor of points (rule 2179)]
-
-History:
-Created by Proposal 5328 (Goethe), 5 December 2007
-Amended(1) by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
-  16 January 2008
-Power changed from 1 to 2 by Proposal 5793 (root), 22 October 2008
-Amended(2) by Proposal 5793 (root), 22 October 2008
-Amended(3) by Proposal 5802 (Murphy; disi.), 3 November 2008
-Amended(4) by Proposal 6020 (Murphy, root), 22 November 2008
-Assigned to Committee on Indian Affairs by Proposal 6053 (Murphy,
-  woggle, ais523), 23 January 2009
-Amended(5) by Proposal 6061 (ais523), 4 February 2009
-Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
-Amended(6) by Proposal 6233 (Yally; disi.), 4 May 2009
-Amended(7) by Proposal 6380 (Wooble; disi.), 3 July 2009
-Amended(8) by cleaning (comex), 17 August 2009
-
-----------------------------------------------------------------------
-
-Rule 2136/31 (Power=2)
-Contests
-
-      Contestmaster is a public contract switch, tracked by the
-      Scorekeepor, with values 'none' (default) and all first-class
-      parties to that contract.  A contest is a public contract whose
-      contestmaster is not 'none'.
-
-      A contract's contestmaster CAN be flipped by any player without
-      3 objections, or, if it is a contest, as specified by the
-      contract.  Rules to the contrary notwithstanding, it CANNOT be
-      flipped (or initialized to a non-'none' value) in any other way,
-      and CANNOT be flipped to a given player if any of the following
-      are true:
-
-        a) The player has not explicitly consented to be contestmaster
-           of that contest.  (Intent to flip a contract's contestmaster
-           to oneself constitutes explicit consent to be contestmaster
-           of that contest.)
-
-        b) A member of that player's basis has already become a
-           contestmaster within the past seven days.
-
-History:
-Created by Proposal 4935 (Murphy), 29 April 2007
-Amended(1) by Proposal 4960 (OscarMeyr), 3 June 2007
-Amended(2) by Proposal 5062 (Zefram; disi.), 11 July 2007
-Amended(3) by Proposal 5063 (Zefram; disi.), 11 July 2007
-Amended(4) by Proposal 5064 (Zefram; disi.), 11 July 2007
-Amended(5) by Proposal 5065 (Zefram; disi.), 11 July 2007
-Amended(6) by Proposal 5076 (Murphy), 18 July 2007
-Amended(7) by Proposal 5076 (Murphy), 18 July 2007
-Amended(8) by Proposal 5173 (Murphy), 29 August 2007
-Amended(9) by Proposal 5192 (root), 6 September 2007
-Amended(10) by Proposal 5234 (Levi, Zefram), 3 October 2007
-Amended(11) by Proposal 5293 (Goethe), 22 November 2007
-Amended(12) by Proposal 5304 (root; disi.), 24 November 2007
-Amended(13) by Proposal 5305 (comex, Goethe), 24 November 2007
-Amended(14) by Proposal 5302 (Zefram), 28 November 2007
-Amended(15) by Proposal 5328 (Goethe), 5 December 2007
-Amended(16) by Proposal 5362 (root), 20 December 2007
-Amended(17) by Proposal 5397 (Murphy), 16 January 2008
-Amended(18) by Proposal 5423 (woggle; disi.), 6 February 2008
-Amended(19) by Proposal 5511 (Goethe), 28 May 2008
-Amended(20) by Proposal 5566 (ais523, root), 29 June 2008
-Amended(21) by Proposal 5784 (Pavitra, Murphy, comex), 22 October 2008
-Power changed from 1 to 2 by Proposal 5793 (root), 22 October 2008
-Amended(22) by Proposal 5943 (woggle), 15 November 2008
-Amended(23) by Proposal 5971 (Elysion), 20 November 2008
-Amended(24) by Proposal 5972 (root), 25 November 2008
-Amended(25) by Proposal 5989 (Wooble), 7 December 2008
-Amended(26) by Proposal 6020 (Murphy, root), 22 December 2008
-Amended(27) by Proposal 6037 (Goethe), 13 January 2009
-Amended(28) by Proposal 6049 (Murphy; disi.), 13 January 2009
-Assigned to Committee on Indian Affairs by Proposal 6053 (Murphy,
-  woggle, ais523), 23 January 2009
-Amended(29) by Proposal 6197 (Murphy), 27 April 2009
-Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
-Amended(30) by Proposal 6271 (Tiger), 13 May 2009
-Power changed from 1 to 2 by Proposal 6300 (Murphy), 19 May 2009
-Amended(31) by Proposal 6382 (Murphy), 3 July 2009
-
-----------------------------------------------------------------------
-
-Rule 2232/1 (Power=1)
-Contest Axes
-
-      Each contest has one or more axes, defaulting to {X}.
-
-      An axis can be added to or removed from a contest as follows:
-
-       a) by any player without 3 objections, or
-
-       b) by any mechanism specified by that contest for changing its
-          axes.
-
-History:
-Created by Proposal 6020 (Murphy, root), 22 December 2008
-Assigned to Committee on Indian Affairs by Proposal 6053 (Murphy,
-  woggle, ais523), 23 January 2009
-Amended(1) by Proposal 6192 (Murphy), 17 April 2009
-Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
-
-----------------------------------------------------------------------
-
-Rule 2233/4 (Power=1)
-Awarding and Revoking Points
-
-      Each contest has a threshold index (default: 5). Any player CAN
-      set a contest's threshold index to any non-negative integer
-      value without three objections.
-
-      The contestmaster of a contest CAN and SHALL award and revoke
-      points as directed by that contract, except that e CANNOT thus
-      cause either the total number awarded or the total number
-      revoked on any axis due to that contest in a given week to
-      exceed that contest's threshold index.
-
-History:
-Created by Proposal 6020 (Murphy, root), 22 December 2008
-Assigned to Committee on Indian Affairs by Proposal 6053 (Murphy,
-  woggle, ais523), 23 January 2009
-Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
-Amended(1) by Proposal 6227 (Murphy, comex), 4 May 2009
-Amended(2) by Proposal 6369 (BobTHJ), 23 June 2009
-Amended(3) by cleaning (Wooble), 16 August 2009
-Amended(4) by Proposal 6508 (Murphy), 3 October 2009
-
-----------------------------------------------------------------------
-
-Rule 2242/1 (Power=1)
-Champion's Contests
-
-      Medals are a type of asset, tracked by the Scorekeepor;
-      ownership of Medals is limited to contests and to non-contest
-      players. Medals can only be transferred, created, and destroyed
-      as defined in this rule.
-
-      A contest's contestmaster CAN create a Medal in that contest's
-      possession without 2 objections. While a contest owns a Medal,
-      it is known as a Champion's Contest.
-
-      A contest's contestmaster CAN transfer ownership of or destroy a
-      Medal in that contest's possession, but only as explicitly
-      described by the contest's text. A Medal CANNOT be transferred
-      from a contest to a player who is not a party to that contest,
-      nor to its contestmaster.
-
-      A Medal is automatically destroyed if the text of a contest
-      owning it changes.
-
-      Upon a win announcement that a specified non-contest player owns
-      a Medal, that player satisfies the Winning Condition of
-      Championship.
-
-      Cleanup procedure: One Medal owned by that player is destroyed.
-
-History:
-Created by Proposal 6121 (ais523), 15 March 2009
-Amended(1) by Proposal 6153 (coppro), 31 March 2009
-Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
-
-----------------------------------------------------------------------
-
-Rule 2234/3 (Power=1)
-Rewarding Contestmasters
-
-      As soon as possible after the end of a month, for each contest,
-      the player (if any) who was its contestmaster for at least 16
-      days during that month MAY once announce that e performed duties
-      related to that contest in a timely manner during that month,
-      subject to other rules regarding truthfulness.  Upon making such
-      an announcement that player is awarded 5+5i points.
-
-History:
-Created by Proposal 6020 (Murphy, root), 22 December 2008
-Amended(1) by Proposal 6140 (Goethe), 23 March 2009
-Amended(2) by Proposal 6194 (root), 17 April 2009
-Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
-Amended(3) by Proposal 6370 (BobTHJ), 23 June 2009
-
-----------------------------------------------------------------------
-
-Rule 2187/6 (Power=1)
-Win by High Score
-
-      Upon a win announcement that one or more players have a score x
-      + yi such that xy >= 5000 (specifying all such players), all
-      those players satisfy the Winning Condition of High Score.
-
-      Cleanup procedure:  All those players have their scores set to
-      0 + 0i.  Within one week afterward, any player CAN declare a
-      skunk with Agoran Consent.  If no player does so within the
-      allowed week, then all players have each of eir coordinates set
-      to floor(P*S/10), where P is eir previous coordinate along that
-      axis and S is the Score Index.
-
-      The Score Index is an integer from 0 to 5, and part of the
-      Scorekeepor's report.  The Scorekeepor CAN change the Score
-      Index with Agoran consent.
-
-      If no players have won by High Score in the past four months,
-      then any Player may place Agora into Overtime with 3 Support.
-      When Agora is in overtime, any announcement awarding or revoking
-      points that is authorized by another Rule awards or revokes
-      double the amount of the announcement.  Agora ceases being in
-      overtime when someone wins by High Score.
-
-History:
-Created by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
-  16 January 2008
-Amended(1) by Proposal 5525 (Murphy), 2 June 2008
-Amended(2) by Proposal 5558 (root; disi.), 25 June 2008
-Amended(3) by Proposal 5585 (Goethe), 29 July 2008
-Amended(4) by Proposal 6020 (Murphy, root), 22 December 2008
-Assigned to Committee on Indian Affairs by Proposal 6053 (Murphy,
-  woggle, ais523), 23 January 2009
-Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
-Amended(5) by Proposal 6254 (root), 9 May 2009
-Amended(6) by Proposal 6371 (Yally), 23 June 2009
 
 ----------------------------------------------------------------------
 
