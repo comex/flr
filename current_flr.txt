@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6630
-Last change to this ruleset: by proposal 6630
+Last proposal with recorded effect on this ruleset: 6633
+Last change to this ruleset: by proposal 6633
 
 Last updated: 21 February 2010
 
@@ -5501,7 +5501,7 @@ Created by Proposal 6616 (G., coppro, c., Murphy), 30 January 2010
 
 ----------------------------------------------------------------------
 
-Rule 2284/1 (Power=2)
+Rule 2284/2 (Power=2)
 Fee-based actions
 
       - A player CAN increase eir voting limit on a specified decision
@@ -5523,7 +5523,8 @@ Fee-based actions
         a charge of 3 ergs.
 
       - A player CAN initiate an election for a specified Office for a
-        charge of 3 ergs.
+        charge of 3 ergs unless there is an ongoing election for that
+        office.
 
       - A player CAN change the chamber of an ongoing ordinary
         decision for a charge of 2 ergs.
@@ -5531,6 +5532,7 @@ Fee-based actions
 History:
 Created by Proposal 6616 (G., coppro, c., Murphy), 30 January 2010
 Amended(1) by Proposal 6630 (Yally; disi.), 20 February 2010
+Amended(2) by Proposal 6633 (coppro; disi.), 20 February 2010
 
 ----------------------------------------------------------------------
 
