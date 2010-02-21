@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6636
-Last change to this ruleset: by proposal 6636
+Last proposal with recorded effect on this ruleset: 6638
+Last change to this ruleset: by proposal 6638
 
 Last updated: 21 February 2010
 
@@ -5324,7 +5324,7 @@ Created by Proposal 6616 (G., coppro, c., Murphy), 30 January 2010
 
 ----------------------------------------------------------------------
 
-Rule 2284/2 (Power=2)
+Rule 2284/3 (Power=2)
 Fee-based actions
 
       - A player CAN increase eir voting limit on a specified decision
@@ -5352,10 +5352,15 @@ Fee-based actions
       - A player CAN change the chamber of an ongoing ordinary
         decision for a charge of 2 ergs.
 
+      - A player CAN destroy an erg in the possession of a specified
+        player for a charge of 2 ergs. The PSM SHALL note such a
+        destruction in eir report.
+
 History:
 Created by Proposal 6616 (G., coppro, c., Murphy), 30 January 2010
 Amended(1) by Proposal 6630 (Yally; disi.), 20 February 2010
 Amended(2) by Proposal 6633 (coppro; disi.), 20 February 2010
+Amended(3) by Proposal 6638 (Yally), 20 February 2010
 
 ----------------------------------------------------------------------
 
