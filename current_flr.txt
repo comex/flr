@@ -1,25 +1,25 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6635
-Last change to this ruleset: by proposal 6635
+Last proposal with recorded effect on this ruleset: 6636
+Last change to this ruleset: by proposal 6636
 
 Last updated: 21 February 2010
 
 Rule ID numbers:
-      highest orderly: 2285
+      highest orderly: 2286
       chaotic: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 126
+Current total number of rules: 127
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
       36 with Power=3
-      42 with Power=2
+      43 with Power=2
        4 with Power=1.7
        7 with Power=1.5
       35 with Power=1
@@ -170,6 +170,7 @@ Index of Rules
       Rule 2283: Fees
       Rule 2284: Fee-based actions
       Rule 2255: Cards
+      Rule 2286: Veto and Rubberstamp
       Rule 2275: Government
       Rule 2269: Couple Coups
       Rule 2270: Coups D'etat
@@ -5358,7 +5359,7 @@ Amended(2) by Proposal 6633 (coppro; disi.), 20 February 2010
 
 ----------------------------------------------------------------------
 
-Rule 2255/3 (Power=2)
+Rule 2255/4 (Power=2)
 Cards
 
       Each of the items listed in this rule by a title and position is
@@ -5384,16 +5385,13 @@ Cards
       specified vacant elected office by announcement, unless e is
       prevented from holding that office on an ongoing basis.
 
-      Title:  Majority Leader.
-      Position: The Majority Leader CAN veto a specified ordinary
-      decision in its voting period by announcement; this increases
-      its Adoption Index by 1 and makes it Democratic.
+      Title: Majority Leader.
+      Position: The Majority Leader CAN veto a specified decision by
+      announcement.
 
       Title: Cabinet Secretary.
-      Position: the Cabinet Secretary CAN rubberstamp an ordinary,
-      non-filibustered decision in its voting period by indicating the
-      decision; this decreases its quorum to 3, rules to the contrary
-      notwithstanding.
+      Position: the Cabinet Secretary CAN rubberstamp a specified
+      decision by announcement.
 
       Title: Chief Whip.
       Position:  The Chief Whip's voting limit on an Ordinary proposal
@@ -5415,6 +5413,24 @@ Amended(1) by cleaning (Murphy), 16 August 2009
 Amended(2) by Proposal 6539 (coppro), 4 November 2009
 Amended(3) and retitled by Proposal 6616 (G., coppro, c., Murphy),
   30 January 2010
+Amended(4) by Proposal 6636 (Murphy; disi.), 20 February 2010
+
+----------------------------------------------------------------------
+
+Rule 2286/0 (Power=2)
+Veto and Rubberstamp
+
+      Vetoing an ordinary decision during its voting period increases
+      its adoption index by 1 and makes it Democratic.  Vetoing a
+      decision under other circumstances has no effect.
+
+      Rubberstamping an ordinary, non-filibustered decision during its
+      voting period decreases its quorum to 3, rules to the contrary
+      notwithstanding.  Rubberstamping a decision under other
+      circumstances has no effect.
+
+History:
+Created by Proposal 6636 (Murphy; disi.), 20 February 2010
 
 ----------------------------------------------------------------------
 
