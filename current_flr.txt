@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6624
-Last change to this ruleset: by proposal 6624
+Last proposal with recorded effect on this ruleset: 6625
+Last change to this ruleset: by proposal 6625
 
 Last updated: 21 February 2010
 
@@ -3620,7 +3620,7 @@ Proposals
       which changes are made to the game.
 ----------------------------------------------------------------------
 
-Rule 106/24 (Power=3)
+Rule 106/25 (Power=3)
 Adopting Proposals
 
       When creating proposals, the person who creates them SHOULD
@@ -3670,9 +3670,13 @@ Adopting Proposals
       its adoption index, and then it takes effect.  It does not
       otherwise take effect.
 
-      Preventing a proposal from taking effect is a secured change.
-      This rule takes precedence over any rule which would permit a
-      proposal to take effect.
+      Preventing a proposal from taking effect is a secured change;
+      this does not apply to generally preventing changes to specified
+      areas of the gamestate, nor to a proposal preventing itself from
+      taking effect (its no-effect clause is generally interpreted as
+      applying only to the rest of the proposal).  This rule takes
+      precedence over any rule which would permit a proposal to take
+      effect.
 
 [CFJ 1647 (called 30 April 2007): Preceding a proposal-like text with
 the heading "Proposal:" and a title can be sufficient to clearly
@@ -3732,6 +3736,7 @@ Amended(21) by Proposal 6398 (C-walker; disi.), 17 July 2009
 Amended(22) by Proposal 6414 (C-walker), 8 August 2009
 Amended(23) by Proposal 6469 (coppro; disi.), 15 September 2009
 Amended(24) by Proposal 6571 (ais523), 28 November 2009
+Amended(25) by Proposal 6625 (Murphy), 20 February 2010
 
 ----------------------------------------------------------------------
 
