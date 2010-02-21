@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6622
-Last change to this ruleset: by proposal 6622
+Last proposal with recorded effect on this ruleset: 6624
+Last change to this ruleset: by proposal 6624
 
 Last updated: 21 February 2010
 
@@ -4104,13 +4104,14 @@ Amended(1) by Proposal 5536 (Murphy), 7 June 2008
 
 ----------------------------------------------------------------------
 
-Rule 2134/5 (Power=2)
+Rule 2134/6 (Power=2)
 Win by Clout
 
       Upon a win announcement that a specified player's voting limit
-      on an ordinary decision initiated at that time would exceed the
-      combined voting limits of all other players on that decision,
-      the specified player satisfies the Winning Condition of Clout.
+      on an ordinary decision with a specified Chamber initiated at
+      that time would exceed the combined voting limits of all other
+      players on that decision, the specified player satisfies the
+      Winning Condition of Clout.
 
       Cleanup procedure:  Each player's caste is set to its default
       value, and no player satisfies this Winning Condition again (the
@@ -4130,6 +4131,7 @@ Amended(3) by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
 Amended(4) by Proposal 5418 (root), 2 February 2008
 Amended(5) by Proposal 5625 (Murphy, OscarMeyr, Ivan Hope), 29 July
   2008
+Amended(6) by Proposal 6624 (Murphy), 20 February 2010
 
 ----------------------------------------------------------------------
 
