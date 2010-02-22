@@ -5676,7 +5676,8 @@ meaning, it is correct to say that that person "is an X".]
   * report title dates for Ministers Without Portfolio (rule 402)
   * recordkeepor of rests (rule 2228)
   * recordkeepor of ribbons (rule 2199)
-  * announce whether a notice of violation is valid (rule 2230)]
+  * announce whether a notice of violation is valid (rule 2230)
+  * assign ID numbers to valid notices of violation (rule 2230)]
 
 History:
 Created by Proposal 649 (Wes), ca. Oct. 22 1993
