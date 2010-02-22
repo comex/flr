@@ -5827,7 +5827,7 @@ Amended(36) by cleaning (Murphy), 16 August 2009
 
 ----------------------------------------------------------------------
 
-Rule 1367/13 (Power=1)
+Rule 1367/14 (Power=1)
 Degrees
 
       Certain patent titles are known as degrees.  The degrees are
@@ -5858,12 +5858,10 @@ Degrees
        - The eligible voters are each active player at the time the
          decision is initiated.
 
-       - Each player's voting limit on the decision is thrice what
-         their voting limit would have been on an ordinary decision
-         initiated at the same time as this one, plus five for each
-         degree e held at that time (the high limit is so as to allow
-         a player to cast votes for different titles and ensure that
-         an inappropriate title is not awarded).
+       - Each player's voting limit on the decision is three, plus
+         five for each  degree e held at that time (the high limit is
+         so as to allow a player to cast votes for different titles
+         and ensure that an inappropriate title is not awarded).
 
        - The specific thesis for which the degree is to be awarded is
          an essential parameter of the decision (but not the text of
@@ -5893,6 +5891,7 @@ Power changed from 1.5 to 1 by Proposal 5947 (ais523), 15 November
 Amended(12) by Proposal 5955 (ais523, Elysion, Murphy; disi.), 18
   November 2008
 Amended(13) by Proposal 6257 (coppro), 11 May 2009
+Amended(14) by Proposal 6624 (Murphy), 20 February 2010
 
 ----------------------------------------------------------------------
 
