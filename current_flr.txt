@@ -3,7 +3,7 @@ THE FULL LOGICAL RULESET
 Last proposal with recorded effect on this ruleset: 6639
 Last change to this ruleset: by proposal 6639
 
-Last updated: 21 February 2010
+Last updated: 28 February 2010
 
 Rule ID numbers:
       highest orderly: 2286
@@ -5264,7 +5264,7 @@ Cards and Energy
       A category concerning the economy.
 ----------------------------------------------------------------------
 
-Rule 2282/0 (Power=2)
+Rule 2282/1 (Power=2)
 Energy
 
       Ergs are a class of fixed assets and a measure of each Player's
@@ -5275,8 +5275,8 @@ Energy
       At the beginning of each week:
        (a) All the ergs in existence are destroyed; then
        (b) P ergs are created in the possession of each player, where
-           P for a player equals 4 plus the sum of the interest
-           indices of offices that e holds.
+           P equals the sum of the interest indices of offices that e
+           holds, plus 4 if e is a first-class player.
 
       The Power Station Manager (PSM) is an office and the
       recordkeepor of ergs.  Eir weekly report shall include a list of
@@ -5288,6 +5288,7 @@ duties are:
 
 History:
 Created by Proposal 6616 (G., coppro, c., Murphy), 30 January 2010
+Amended(1) by Proposal 6632 (Yally), 20 February 2010
 
 ----------------------------------------------------------------------
 
