@@ -1591,11 +1591,11 @@ Amended(3) by Proposal 6564 (Murphy), 13 November 2009
 
 ----------------------------------------------------------------------
 
-Rule 2228/5 (Power=2)
+Rule 2228/6 (Power=2)
 Rests
 
       Rests are a fixed currency.  The creation and destruction of
-      Rests is secured with a power threshold of 1.7, a person
+      Rests is secured with a power threshold of 1.7; a person
       generally CANNOT destroy rests except as permitted by Rules
       explicitly stating methods by which rests in particular CAN be
       destroyed.
@@ -1621,6 +1621,7 @@ Amended(2) by Proposal 6066 (comex, Goethe; disi.), 4 February 2009
 Amended(3) by Proposal 6171 (Murphy), 7 April 2009
 Amended(4) by Proposal 6394 (Goethe), 10 July 2009
 Amended(5) by Proposal 6575 (G.; disi.), 28 November 2009
+Amended(6) by cleaning (Murphy), 6 March 2010
 
 ----------------------------------------------------------------------
 
@@ -2570,7 +2571,7 @@ Offices
       within the game.
 ----------------------------------------------------------------------
 
-Rule 1006/30 (Power=2)
+Rule 1006/31 (Power=2)
 Offices
 
       An office is a role defined as such by the rules.  Each office
@@ -2591,7 +2592,7 @@ Offices
       then the designee CAN, in the week following the officer's
       announcement, make emself the holder of the office by
       announcement; the IADoP SHALL initiate an election for the office
-      asap after such an office change.
+      ASAP after such an office change.
 
 [CFJ 1660 (called 13 May 2007): This rule does not define the meaning
 of the term "office", in the sense meant by rule 754, but rather
@@ -2642,10 +2643,11 @@ Assigned to Committee on Administration by Proposal 6053 (Murphy,
 Amended(28) by Proposal 6372 (G.), 23 June 2009
 Amended(29) by cleaning (Murphy), 16 August 2009
 Amended(30) by Proposal 6482 (c.), 18 September 2009
+Amended(31) by cleaning (Murphy), 6 March 2010
 
 ----------------------------------------------------------------------
 
-Rule 2143/10 (Power=1)
+Rule 2143/11 (Power=1)
 Official Reports and Duties
 
       For each office:
@@ -2669,7 +2671,7 @@ Official Reports and Duties
       Any information defined by the rules as part of an office's
       report, without specifying which one, is part of its weekly
       report.  Failure of the holder of an office to perform any duty
-      required of that office within the alloted time is the Class-N
+      required of that office within the allotted time is the Class-N
       crime of Tardiness, where N in the Interest Index of that
       office.
 
@@ -2697,6 +2699,7 @@ Amended(7) by Proposal 6224 (comex), 27 April 2009
 Amended(8) by Proposal 6322 (Wooble), 26 May 2009
 Amended(9) by Proposal 6368 (C-walker), 23 June 2009
 Amended(10) by Proposal 6428 (BobTHJ), 18 August 2009
+Amended(11) by cleaning (Murphy), 6 March 2010
 
 ----------------------------------------------------------------------
 
@@ -4500,7 +4503,7 @@ Amended(14) by Proposal 6575 (G.; disi.), 28 November 2009
 
 ----------------------------------------------------------------------
 
-Rule 1504/46 (Power=2)
+Rule 1504/47 (Power=2)
 Criminal Cases
 
       Criminal cases are a subclass of judicial cases.  Any
@@ -4532,13 +4535,13 @@ Criminal Cases
            greater severity.
 
       * NOT GUILTY, appropriate if GUILTY is not appropriate.  In
-        delivering this verdict, the judge SHOULD indicate which of of
+        delivering this verdict, the judge SHOULD indicate which of
         the sub-requirements for a finding of guilty were not found to
         be true beyond a reasonable doubt.
 
       When a judicial question on culpability is judged after a number
-      of rests have been created in the Accused's posession due to the
-      associated notice, those rests are destroyed.
+      of rests have been created in the Accused's possession due to
+      the associated notice, those rests are destroyed.
 
       A criminal case has a judicial question on sentencing, which is
       applicable if the question on culpability is applicable and has
@@ -4683,6 +4686,7 @@ Amended(43) by Proposal 6463 (C-walker), 15 September 2009
 Amended(44) by Proposal 6522 (Walker), 23 October 2009
 Amended(45) by Proposal 6535 (Murphy), 4 November 2009
 Amended(46) by Proposal 6557 (BobTHJ; disi.), 13 November 2009
+Amended(47) by cleaning (Murphy), 6 March 2010
 
 ----------------------------------------------------------------------
 
@@ -4778,7 +4782,7 @@ Assigned to Committee on the Judiciary by Proposal 6053 (Murphy,
 
 ----------------------------------------------------------------------
 
-Rule 911/35 (Power=1.7)
+Rule 911/36 (Power=1.7)
 Appeal Cases
 
       Appeal cases are a subclass of judicial cases.  An appeal case's
@@ -4949,6 +4953,7 @@ Amended(32) by Proposal 6510 (Murphy), 3 October 2009
 Amended(33) by Proposal 6542 (Murphy), 7 November 2009
 Amended(34) twice by Proposal 6571 (ais523), 28 November 2009
 Amended(35) by Proposal 6605 (Murphy), 19 January 2010
+Amended(36) by cleaning (Murphy), 6 March 2010
 
 ----------------------------------------------------------------------
 
@@ -5490,7 +5495,7 @@ Amended(1) by Proposal 6598 (coppro; disi.), 14 December 2009
 
 ----------------------------------------------------------------------
 
-Rule 2270/0 (Power=2)
+Rule 2270/1 (Power=2)
 Coups D'etat
 
       When a coup d'etat is begun, the current Admiral of the Navy
@@ -5517,7 +5522,7 @@ Coups D'etat
       Forming the government at the start of the coup), in which case
       it ends unsuccessfully. The initiator of a coup d'etat SHALL
       NOT, directly or indirectly, intentionally cause the coup to end
-      unsucessfully.  Doing so is the Class-6 Crime of Playing Both
+      unsuccessfully.  Doing so is the Class-6 Crime of Playing Both
       Sides.
 
       Upon the unsuccessful conclusion of a coup d'etat, the Speaker
@@ -5536,6 +5541,7 @@ Coups D'etat
 
 History:
 Created by Proposal 6490 (coppro), 18 September 2009
+Amended(1) by cleaning (Murphy), 6 March 2010
 
 ----------------------------------------------------------------------
 
