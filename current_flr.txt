@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
 Last proposal with recorded effect on this ruleset: 6639
-Last change to this ruleset: by proposal 6639
+Last change to this ruleset: by cleaning
 
-Last updated: 28 February 2010
+Last updated: 6 March 2010
 
 Rule ID numbers:
       highest orderly: 2286
@@ -5362,7 +5362,7 @@ Amended(3) by Proposal 6638 (Yally), 20 February 2010
 
 ----------------------------------------------------------------------
 
-Rule 2255/4 (Power=2)
+Rule 2255/5 (Power=2)
 Cards
 
       Each of the items listed in this rule by a title and position is
@@ -5373,7 +5373,7 @@ Cards
       CAN more than a single instance of each particular card come
       into existence, rules to the contrary notwithstanding.  If a CFJ
       determines that the possessor of the instance can't be
-      determined by reasonable effort, then that Herald CAN and SHALL,
+      determined by reasonable effort, then the Herald CAN and SHALL,
       as soon as possible, destroy any instance of that card that
       might exist and create that card in the possession of an active
       player who holds the Patent Title Champion, chosen at random.
@@ -5417,6 +5417,7 @@ Amended(2) by Proposal 6539 (coppro), 4 November 2009
 Amended(3) and retitled by Proposal 6616 (G., coppro, c., Murphy),
   30 January 2010
 Amended(4) by Proposal 6636 (Murphy; disi.), 20 February 2010
+Amended(5) by cleaning (Murphy), 6 March 2010
 
 ----------------------------------------------------------------------
 
