@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6647
-Last change to this ruleset: by proposal 6647
+Last proposal with recorded effect on this ruleset: 6648
+Last change to this ruleset: by proposal 6648
 
 Last updated: 11 March 2010
 
@@ -5866,7 +5866,7 @@ Amended(36) by cleaning (Murphy), 16 August 2009
 
 ----------------------------------------------------------------------
 
-Rule 1367/14 (Power=1)
+Rule 1367/15 (Power=1)
 Degrees
 
       Certain patent titles are known as degrees.  The degrees are
@@ -5909,7 +5909,6 @@ Degrees
       When the Herald resolves the decision, e CAN and SHALL award the
       author the degree selected by Agora, or no degree if FAILING
       GRADE was the outcome.
-
 History:
 Created by Proposal 1367, Jan. 5 1995
 Infected and Amended(1) by Rule 1454, Feb. 12 1996
