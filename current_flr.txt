@@ -5350,12 +5350,12 @@ Amended(3) by Proposal 6638 (Yally), 20 February 2010
 
 ----------------------------------------------------------------------
 
-Rule 2255/5 (Power=2)
+Rule 2255/6 (Power=2)
 Cards
 
       Each of the items listed in this rule by a title and position is
       an asset tracked by the Herald.  Collectively these assets are
-      known as Cards.
+      known as Cards.  Ownership of cards is restricted to players.
 
       Cards CANNOT be destroyed except as described in this Rule, nor
       CAN more than a single instance of each particular card come
@@ -5406,6 +5406,7 @@ Amended(3) and retitled by Proposal 6616 (G., coppro, c., Murphy),
   30 January 2010
 Amended(4) by Proposal 6636 (Murphy; disi.), 20 February 2010
 Amended(5) by cleaning (Murphy), 6 March 2010
+Amended(6) by Proposal 6654 (Murphy), 10 March 2010
 
 ----------------------------------------------------------------------
 
