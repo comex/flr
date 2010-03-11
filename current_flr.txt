@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6657
-Last change to this ruleset: by proposal 6657
+Last proposal with recorded effect on this ruleset: 6658
+Last change to this ruleset: by proposal 6658
 
 Last updated: 11 March 2010
 
@@ -651,7 +651,7 @@ Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
 
 ----------------------------------------------------------------------
 
-Rule 2199/10 (Power=1)
+Rule 2199/11 (Power=1)
 Ribbons
 
       Ribbons are a class of fixed assets.  If winning is secured,
@@ -716,9 +716,12 @@ Ribbons
            Ribbon.
 
       If this rule mentions at least six different specific colors for
-      Ribbons, then a player CAN destroy one Ribbon of each such color
-      in eir possession to satisfy the Winning Condition of
-      Renaissance.
+      Ribbons, then upon a win announcement that one or more players
+      each possess at least one Ribbon of each such color, all those
+      players satisfy the Winning Condition of Renaissance.
+
+      Cleanup procedure:  For each of those players, one Ribbon of
+      each such color in eir possession is destroyed.
 
 [Note (30 August 2007): here is a set of colors with convenient
 abbreviating letters, suggested for future inventions of new types of
@@ -742,6 +745,7 @@ Amended(7) by Proposal 6347 (coppro; disi.), 17 June 2009
 Amended(8) by Proposal 6483 (Pavitra), 18 September 2009
 Amended(9) by Proposal 6576 (G.; disi.), 28 November 2009
 Amended(10) by Proposal 6650 (coppro), 10 March 2010
+Amended(11) by Proposal 6658 (Murphy; disi), 10 March 2010
 
 ----------------------------------------------------------------------
 
