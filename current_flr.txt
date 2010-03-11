@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6655
-Last change to this ruleset: by proposal 6655
+Last proposal with recorded effect on this ruleset: 6657
+Last change to this ruleset: by proposal 6657
 
 Last updated: 11 March 2010
 
@@ -536,20 +536,31 @@ Assigned to Committee on Rules by Proposal 6053 (Murphy, woggle,
 
 ----------------------------------------------------------------------
 
-Rule 2186/7 (Power=2)
+Rule 2186/8 (Power=2)
 Victory
 
       Winning Conditions and Losing Conditions are conditions defined
-      as such by the rules.  When one or more persons satisfy at least
-      one Winning Condition and do not satisfy any Losing Conditions,
-      all such persons win the game.  The game CANNOT be won in any
-      other way, rules to the contrary notwithstanding.
+      as such by the rules.  If such a condition is defined by the
+      rules as being satisfied when an event occurs (as opposed to
+      being satisfied while certain other conditions hold), then it
+      thereafter continues to be satisfied until the rules explicitly
+      say otherwise.
+
+      When one or more persons satisfy at least one Winning Condition
+      and do not satisfy any Losing Conditions, all such persons win
+      the game.  The game CANNOT be won in any other way, rules to the
+      contrary notwithstanding.
 
       Each Winning Condition should (if needed) specify a cleanup
       procedure to prevent an arbitrary number of wins arising from
       essentially the same conditions.  When one or more persons win
-      the game, for each Winning Condition satisfied by at least one
-      of those persons, its cleanup procedure occurs.
+      the game:
+
+        a) For each Winning Condition satisfied by at least one of
+           those persons, its cleanup procedure (if any) occurs.
+
+        b) Each of those persons ceases to satisfy any Winning
+           Conditions.
 
       A win announcement is a factually correct announcement
       explicitly labeled as a win announcement and/or clearly stating
@@ -573,6 +584,7 @@ Amended(4) by Proposal 6052 (Murphy), 23 January 2009
 Amended(5) by Proposal 6083 (ais523), 22 February 2009
 Amended(6) by Proposal 6198 (Murphy), 27 April 2009
 Amended(7) by Proposal 6433 (coppro; disi.), 18 August 2009
+Amended(8) by Proposal 6657 (Murphy), 10 March 2010
 
 ----------------------------------------------------------------------
 
