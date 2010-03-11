@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6650
-Last change to this ruleset: by proposal 6650
+Last proposal with recorded effect on this ruleset: 6656
+Last change to this ruleset: by proposal 6656
 
 Last updated: 11 March 2010
 
@@ -3532,15 +3532,16 @@ Proposals
       which changes are made to the game.
 ----------------------------------------------------------------------
 
-Rule 106/25 (Power=3)
+Rule 106/26 (Power=3)
 Adopting Proposals
 
       When creating proposals, the person who creates them SHOULD
       ensure that the proposal outlines changes to be made to Agora,
       such as enacting, repealing, or amending rules, or making other
       explicit changes to the gamestate. When a proposal that includes
-      such explicit changes takes effect, those changes are applied to
-      the gamestate.
+      such explicit changes takes effect, it applies those changes to
+      the gamestate. If the proposal cannot make some such changes,
+      this does not preclude the other changes from taking place.
 
       A player CAN create a proposal by publishing ("submitting") a
       body of text with a clear indication that it is intended to
@@ -3649,6 +3650,7 @@ Amended(22) by Proposal 6414 (C-walker), 8 August 2009
 Amended(23) by Proposal 6469 (coppro; disi.), 15 September 2009
 Amended(24) by Proposal 6571 (ais523), 28 November 2009
 Amended(25) by Proposal 6625 (Murphy), 20 February 2010
+Amended(26) by Proposal 6656 (coppro), 1 March 2010
 
 ----------------------------------------------------------------------
 
