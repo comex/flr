@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6659
-Last change to this ruleset: by proposal 6659
+Last proposal with recorded effect on this ruleset: 6660
+Last change to this ruleset: by proposal 6660
 
 Last updated: 11 March 2010
 
@@ -13,7 +13,7 @@ Rule ID numbers:
 
 Statistics
 
-Current total number of rules: 126
+Current total number of rules: 125
 
 Power distribution:
        1 with Power=4
@@ -22,7 +22,7 @@ Power distribution:
       43 with Power=2
        4 with Power=1.7
        7 with Power=1.5
-      36 with Power=1
+      35 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -53,7 +53,6 @@ Index of Rules
       Rule 1688: Power
       Rule 2140: Power Controls Mutability
       Rule 2186: Victory
-      Rule 2244: The Games of Agora
       Rule 2245: Win by Not Losing
       Rule 2110: Win by Paradox
       Rule 2199: Ribbons
@@ -585,21 +584,6 @@ Amended(5) by Proposal 6083 (ais523), 22 February 2009
 Amended(6) by Proposal 6198 (Murphy), 27 April 2009
 Amended(7) by Proposal 6433 (coppro; disi.), 18 August 2009
 Amended(8) by Proposal 6657 (Murphy), 10 March 2010
-
-----------------------------------------------------------------------
-
-Rule 2244/1 (Power=1)
-The Games of Agora
-
-      When used as a period of time, a "game" is the period of time
-      between one instant at which at least one person won the game,
-      and the next such instant.  The "first game" was the period of
-      time between June 30, 1993, 00:04:30 GMT +1200, and the first
-      instant at which a person won the game.
-
-History:
-Created by Proposal 6198 (Murphy), 27 April 2009
-Amended(1) by Proposal 6352 (Murphy; disi.), 17 June 2009
 
 ----------------------------------------------------------------------
 
@@ -1847,7 +1831,7 @@ Amended(5) by Proposal 6571 (ais523), 28 November 2009
 
 ----------------------------------------------------------------------
 
-Rule 1023/26 (Power=2)
+Rule 1023/27 (Power=2)
 Common Definitions
 
       The following terms are defined:
@@ -1873,6 +1857,12 @@ Common Definitions
 
           (5) Agoran years begin when the Agoran month of January
               begins.
+
+          (5) A pivot is either the instant at which Agora Nomic began
+              (June 30, 1993, 00:04:30 GMT +1200) or an instant at
+              which at least one person won the game.  When used as a
+              period of time, a "game" is the period of time between a
+              pivot and the next pivot.
 
           These definitions do not apply to relative durations (e.g.
           "within <number> days after <event>").
@@ -1910,6 +1900,7 @@ Amended(23) by Proposal 5408 (root), 22 January 2008
 Amended(24) by Proposal 6046 (comex), 13 January 2009
 Amended(25) by Proposal 6321 (Murphy; disi.), 26 May 2009
 Amended(26) by Proposal 6535 (Murphy), 4 November 2009
+Amended(27) by Proposal 6660 (Murphy; disi.), 10 March 2010
 
 ----------------------------------------------------------------------
 
@@ -2292,7 +2283,7 @@ Amended(22) by Proposal 5291 (root), 14 November 2007
 Amended(23) by Proposal 5535 (Murphy), 7 June 2008
 Amended(24) by Proposal 5613 (Quazie), 29 July 2008
 Amended(25) by Proposal 5639 (Murphy), 29 July 2008
-Amended(26) by proposal 5818 (comex), 1 November 2008
+Amended(26) by Proposal 5818 (comex), 1 November 2008
 Amended(27) by Proposal 6022 (Murphy), 22 December 2008
 
 ----------------------------------------------------------------------
