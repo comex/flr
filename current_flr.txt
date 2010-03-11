@@ -1,19 +1,19 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6639
-Last change to this ruleset: by cleaning
+Last proposal with recorded effect on this ruleset: 6647
+Last change to this ruleset: by proposal 6647
 
-Last updated: 6 March 2010
+Last updated: 11 March 2010
 
 Rule ID numbers:
-      highest orderly: 2286
+      highest orderly: 2287
       chaotic: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 127
+Current total number of rules: 128
 
 Power distribution:
        1 with Power=4
@@ -22,7 +22,7 @@ Power distribution:
       43 with Power=2
        4 with Power=1.7
        7 with Power=1.5
-      35 with Power=1
+      36 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ Index of Categories
       * Agoran Decisions
       * Proposals
       * Adjudication
-      * Cards and Energy
+      * Cards, Energy, Props
       * Patent Titles and Degrees
       * Foreign Relations
       * Trophies
@@ -165,7 +165,7 @@ Index of Rules
       Rule 2164: Judicial Self-Recusal and Case Transfer
       Rule 2212: Judicial Declarations
 
-      * Cards and Energy
+      * Cards, Energy, Props
       Rule 2282: Energy
       Rule 2283: Fees
       Rule 2284: Fee-based actions
@@ -178,6 +178,7 @@ Index of Rules
       Rule 2272: Leadership Tokens
       Rule 2273: Coups de Grace
       Rule 2274: Chicken Coups
+      Rule 2287: Props
 
       * Patent Titles and Degrees
       Rule  649: Patent Titles
@@ -5265,7 +5266,7 @@ Created by Proposal 5715 (Murphy), 7 October 2008
 ----------------------------------------------------------------------
 
 ======================================================================
-Cards and Energy
+Cards, Energy, Props
       A category concerning the economy.
 ----------------------------------------------------------------------
 
@@ -5623,6 +5624,35 @@ Chicken Coups
 History:
 Created by Proposal 6490 (coppro), 18 September 2009
 Amended(1) by Proposal 6520 (ais523), 19 October 2009
+
+----------------------------------------------------------------------
+
+Rule 2287/0 (Power=1)
+Props
+
+      Props are a currency.
+
+      The Air Traffic Controller is an office and the recordkeepor of
+      props.
+
+      Ownership of props is limited to first-class players.  Props
+      CANNOT be created, transferred, or destroyed except as allowed
+      by this rule or required by the rules in general.
+
+      When a first-class player registers, 14 props are created in eir
+      possession.  When a first-class player deregisters, eir props
+      are destroyed.
+
+      Once per week, each player CAN transfer a prop from one player
+      to another, provided that e explains why e chose each player,
+      and does not transfer it to emself.
+
+      Players with at least 23 props are Pilots; the Pilot with the
+      most props (if any) is the Captain. Players with less than 5
+      props are Marines.
+
+History:
+Created by Proposal 6647 (Murphy), 6 March 2010
 
 ----------------------------------------------------------------------
 
