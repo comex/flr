@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6651
-Last change to this ruleset: by proposal 6651
+Last proposal with recorded effect on this ruleset: 6655
+Last change to this ruleset: by proposal 6655
 
 Last updated: 11 March 2010
 
@@ -13,12 +13,12 @@ Rule ID numbers:
 
 Statistics
 
-Current total number of rules: 127
+Current total number of rules: 126
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
-      35 with Power=3
+      34 with Power=3
       43 with Power=2
        4 with Power=1.7
        7 with Power=1.5
@@ -94,7 +94,6 @@ Index of Rules
       Rule 2146: Indices
       Rule 2162: Switches
       Rule  478: Fora
-      Rule 2263: Acting on Behalf
       Rule 1728: Dependent Actions
       Rule 2124: Agoran Satisfaction
       Rule 2166: Assets
@@ -2279,30 +2278,6 @@ Amended(24) by Proposal 5613 (Quazie), 29 July 2008
 Amended(25) by Proposal 5639 (Murphy), 29 July 2008
 Amended(26) by proposal 5818 (comex), 1 November 2008
 Amended(27) by Proposal 6022 (Murphy), 22 December 2008
-
-----------------------------------------------------------------------
-
-Rule 2263/1 (Power=3)
-Acting on Behalf
-
-      Acting on behalf of (syn. send messages on behalf of) a person
-      (the grantor) with a specified message is equivalent to sending
-      a public message authored by the grantor.
-
-      Acting on behalf of a person is secured, with power threshold 3
-      for first-class grantors and power threshold 2 for second-class
-      grantors.
-
-      Rules to the contrary notwithstanding, acting on behalf of a
-      person is INVALID if not published. Such publication is INVALID
-      unless it specified the text of the simulated message by:
-      (a) clearly stating the text of a message;
-      (b) clearly specifying an action (the message states the grantor
-          performs the action); or
-
-History:
-Created by Proposal 6402 (woggle), 17 July 2009
-Amended(1) by Proposal 6650 (coppro), 10 March 2010
 
 ----------------------------------------------------------------------
 
