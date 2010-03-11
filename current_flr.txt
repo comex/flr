@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6648
-Last change to this ruleset: by proposal 6648
+Last proposal with recorded effect on this ruleset: 6650
+Last change to this ruleset: by proposal 6650
 
 Last updated: 11 March 2010
 
@@ -13,12 +13,12 @@ Rule ID numbers:
 
 Statistics
 
-Current total number of rules: 128
+Current total number of rules: 127
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
-      36 with Power=3
+      35 with Power=3
       43 with Power=2
        4 with Power=1.7
        7 with Power=1.5
@@ -98,7 +98,6 @@ Index of Rules
       Rule 1728: Dependent Actions
       Rule 2124: Agoran Satisfaction
       Rule 2166: Assets
-      Rule 2285: Contracts
 
       * Offices
       Rule 1006: Offices
@@ -443,13 +442,13 @@ Amended(7) by Proposal 6327 (Murphy), 29 May 2009
 
 ----------------------------------------------------------------------
 
-Rule 1586/6 (Power=2)
+Rule 1586/7 (Power=2)
 Definition and Continuity of Entities
 
-      If multiple rules or contracts (hereafter documents) attempt to
-      define an entity with the same name, then they refer to the same
-      entity.  A document-defined entity's name CANNOT be changed to
-      be the same as another document-defined entity's name.
+      If multiple rules (hereafter documents) attempt to define an
+      entity with the same name, then they refer to the same entity.
+      A document-defined entity's name CANNOT be changed to be the
+      same as another document-defined entity's name.
 
       A document referring to an entity by name refers to the entity
       that had that name when the document first came to include that
@@ -482,6 +481,7 @@ Amended(3) by Proposal 5077 (Murphy), 18 July 2007
 Amended(4) by Proposal 5723 (Murphy), 7 October 2008
 Amended(5) by Proposal 5836 (Murphy), 12 October 2008
 Amended(6) by cleaning (comex), 26 January 2009
+Amended(7) by Proposal 6650 (coppro), 10 March 2010
 
 ----------------------------------------------------------------------
 
@@ -640,7 +640,7 @@ Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
 
 ----------------------------------------------------------------------
 
-Rule 2199/9 (Power=1)
+Rule 2199/10 (Power=1)
 Ribbons
 
       Ribbons are a class of fixed assets.  If winning is secured,
@@ -704,10 +704,6 @@ Ribbons
       (+I) When a player is awarded a degree, e earns an Indigo
            Ribbon.
 
-      (+Y) At the end of each month, for each contest that awarded
-           points to at least three different contestants during that
-           month, the contestmaster earns a Yellow Ribbon
-
       If this rule mentions at least six different specific colors for
       Ribbons, then a player CAN destroy one Ribbon of each such color
       in eir possession to satisfy the Winning Condition of
@@ -734,6 +730,7 @@ Amended(6) by Proposal 6346 (coppro), 17 June 2009
 Amended(7) by Proposal 6347 (coppro; disi.), 17 June 2009
 Amended(8) by Proposal 6483 (Pavitra), 18 September 2009
 Amended(9) by Proposal 6576 (G.; disi.), 28 November 2009
+Amended(10) by Proposal 6650 (coppro), 10 March 2010
 
 ----------------------------------------------------------------------
 
@@ -1659,7 +1656,7 @@ Definitions
       widely used and do not readily fall into any other category.
 ----------------------------------------------------------------------
 
-Rule 754/11 (Power=3)
+Rule 754/12 (Power=3)
 Definition Definitions
 
       Regularity of communication being essential for the healthy
@@ -1690,12 +1687,10 @@ Definition Definitions
           by default has its ordinary-language meaning.
 
       In determining the ordinary-language meaning of a term,
-      definitions contained in lower-powered Rules, followed by
-      definitions used in contracts or other Agoran legal documents,
-      are relevant and may provide guidance in helping to determine
-      the meaning of a rule, but are not binding (especially if they
-      differ greatly from the definitions that would be used
-      otherwise).
+      definitions contained in lower-powered Rules, are relevant and
+      may provide guidance in helping to determine the meaning of a
+      rule, but are not binding (especially if they differ greatly
+      from the definitions that would be used otherwise).
 
       This rule takes precedence over any other rules which dictate
       terminology or grammar.
@@ -1779,6 +1774,7 @@ Amended(8) by Proposal 5834 (Goethe), 12 November 2008
 Amended(9) by Proposal 6021 (Murphy), 22 December 2008
 Amended(10) by Proposal 6384 (Murphy), 3 July 2009
 Amended(11) by Proposal 6571 (ais523), 28 November 2009
+Amended(12) by Proposal 6650 (coppro), 10 March 2010
 
 ----------------------------------------------------------------------
 
@@ -2286,7 +2282,7 @@ Amended(27) by Proposal 6022 (Murphy), 22 December 2008
 
 ----------------------------------------------------------------------
 
-Rule 2263/0 (Power=3)
+Rule 2263/1 (Power=3)
 Acting on Behalf
 
       Acting on behalf of (syn. send messages on behalf of) a person
@@ -2303,22 +2299,19 @@ Acting on Behalf
       (a) clearly stating the text of a message;
       (b) clearly specifying an action (the message states the grantor
           performs the action); or
-      (c) performing by announcement an action defined in a public
-          contract's text to (clearly and unambiguously) include
-          causing the grantor to perform a specific action (the
-          message states the grantor performs the action)
 
 History:
 Created by Proposal 6402 (woggle), 17 July 2009
+Amended(1) by Proposal 6650 (coppro), 10 March 2010
 
 ----------------------------------------------------------------------
 
-Rule 1728/29 (Power=3)
+Rule 1728/30 (Power=3)
 Dependent Actions
 
-      A rule or contract which purports to allow a person (the
-      performer) to perform an action by a set of one or more of the
-      following methods (N is 1 unless otherwise specified):
+      A rule which purports to allow a person (the performer) to
+      perform an action by a set of one or more of the following
+      methods (N is 1 unless otherwise specified):
 
        1) Without N Objections, where N is a positive integer no
           greater than 8.
@@ -2402,6 +2395,7 @@ Amended(26) by Proposal 6448 (BobTHJ), 27 August 2009
 Amended(27) by Proposal 6474 (c.), 15 September 2009
 Amended(28) by Proposal 6512 (c.; disi.), 3 October 2009
 Amended(29) by Proposal 6619 (Murphy; disi.), 4 February 2010
+Amended(30) by Proposal 6650 (coppro), 10 March 2010
 
 ----------------------------------------------------------------------
 
@@ -2466,12 +2460,12 @@ Amended(15) by Proposal 6512 (c.; disi.), 3 October 2009
 
 ----------------------------------------------------------------------
 
-Rule 2166/13 (Power=2)
+Rule 2166/14 (Power=2)
 Assets
 
-      An asset is an entity defined as such by a rule or contract
-      (hereafter its backing document), and existing solely because
-      its backing document defines its existence.
+      An asset is an entity defined as such by a rule (hereafter its
+      backing document), and existing solely because its backing
+      document defines its existence.
 
       Each asset has exactly one owner.  If an asset would otherwise
       lack an owner, it is owned by the Lost and Found Department.  If
@@ -2515,10 +2509,6 @@ Assets
       document.  Instances of a currency with the same owner are
       fungible.
 
-      A public class of assets is a class of assets whose backing
-      document is a rule or a public contract.  All others are
-      private.
-
 [CFJs 1790-1791 (called 11 November 2007): The self-ratifying asset
 report is the complete list of ownerships of assets of that class; a
 partial list does not self-ratify.]
@@ -2552,17 +2542,7 @@ Amended(10) by Proposal 6161 (Murphy), 31 March 2009
 Amended(11) by Proposal 6253 (Quazie), 9 May 2009
 Amended(12) by cleaning (Murphy), 16 August 2009
 Amended(13) by Proposal 6430 (coppro; disi.), 18 August 2009
-
-----------------------------------------------------------------------
-
-Rule 2285/0 (Power=3)
-Contracts
-
-      For greater certainty, no entity is a contract for the purposes
-      of Rules.
-
-History:
-Created by Proposal 6635 (coppro), 20 February 2010
+Amended(14) twice by Proposal 6650 (coppro), 10 March 2010
 
 ----------------------------------------------------------------------
 
