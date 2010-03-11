@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6656
-Last change to this ruleset: by proposal 6656
+Last proposal with recorded effect on this ruleset: 6651
+Last change to this ruleset: by proposal 6651
 
 Last updated: 11 March 2010
 
@@ -2742,7 +2742,7 @@ Amended(7) by Proposal 6482 (c.), 18 September 2009
 
 ----------------------------------------------------------------------
 
-Rule 2154/28 (Power=2)
+Rule 2154/29 (Power=2)
 Election Procedure
 
       A player CAN initiate an election for a specified elected office
@@ -2779,8 +2779,7 @@ Election Procedure
                Session.
 
           The set of candidates can change after the decision is
-          initiated.  If the number of candidates falls below two,
-          PRESENT ceases to be a valid option.
+          initiated.
 
        2) If there is no Emergency Session at the time the decision is
           initiated, the eligible voters are the active first-class
@@ -2837,6 +2836,7 @@ Amended(25) by Proposal 6356 (Yally), 23 June 2009
 Amended(26) by Proposal 6396 (Yally), 17 July 2009
 Amended(27) by Proposal 6403 (coppro), 30 July 2009
 Amended(28) by Proposal 6411 (Yally), 30 July 2009
+Amended(29) by Proposal 6651 (coppro), 10 March 2010
 
 ----------------------------------------------------------------------
 
