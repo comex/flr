@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6662
-Last change to this ruleset: by proposal 6662
+Last proposal with recorded effect on this ruleset: 6664
+Last change to this ruleset: by proposal 6664
 
 Last updated: 11 March 2010
 
@@ -2610,7 +2610,7 @@ Amended(31) by cleaning (Murphy), 6 March 2010
 
 ----------------------------------------------------------------------
 
-Rule 2143/11 (Power=1)
+Rule 2143/12 (Power=1)
 Official Reports and Duties
 
       For each office:
@@ -2643,8 +2643,8 @@ Official Reports and Duties
       is inaccurate or misleading.
 
       Reports SHALL be published in plain text.  Tabular data must
-      line up properly when viewed in a monospaced font.  Publishing
-      reports that deviate from these regulations is the Class 2 Crime
+      line up properly when viewed in a monospaced font.  Publishing a
+      report that deviates from these regulations is the Class 2 Crime
       of Making My Eyes Bleed.
 
 History:
@@ -2663,6 +2663,7 @@ Amended(8) by Proposal 6322 (Wooble), 26 May 2009
 Amended(9) by Proposal 6368 (C-walker), 23 June 2009
 Amended(10) by Proposal 6428 (BobTHJ), 18 August 2009
 Amended(11) by cleaning (Murphy), 6 March 2010
+Amended(12) by Proposal 6664 (Murphy; disi.), 10 March 2010
 
 ----------------------------------------------------------------------
 
