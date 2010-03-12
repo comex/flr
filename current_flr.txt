@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6660
-Last change to this ruleset: by proposal 6660
+Last proposal with recorded effect on this ruleset: 6662
+Last change to this ruleset: by proposal 6662
 
 Last updated: 11 March 2010
 
@@ -1010,7 +1010,7 @@ Assigned to Committee on Rules by Proposal 6053 (Murphy, woggle,
 
 ----------------------------------------------------------------------
 
-Rule 1681/17 (Power=1)
+Rule 1681/18 (Power=1)
 The Logical Rulesets
 
       The Short Logical Ruleset (SLR) is a format of the ruleset.  In
@@ -1024,7 +1024,7 @@ The Logical Rulesets
       The listing of each rule in the SLR must include the rule's ID
       number, revision number, power, title, and text.
 
-      The Rulekeepor is strongly encouraged not to include any
+      The Rulekeepor is strongly DISCOURAGED from including any
       additional information in the SLR, except that which increases
       the readability of the SLR.
 
@@ -1035,9 +1035,8 @@ The Logical Rulesets
       historical annotations which the Rulekeepor is required to
       record.
 
-      The Rulekeepor is also free to include any other information
-      which e feels may be helpful in the use of the ruleset in the
-      FLR.
+      The Rulekeepor SHOULD also include any other information which e
+      feels may be helpful in the use of the ruleset in the FLR.
 
       Whenever a rule is changed in any way, the Rulekeepor SHALL
       record a historical annotation to the rule indicating:
@@ -1071,6 +1070,7 @@ Amended(14) by Proposal 6019 (Murphy), 22 December 2008
 Amended(15) by Proposal 6026 (Murphy), 22 December 2008
 Amended(16) by Proposal 6053 (Murphy, woggle, ais523), 23 January 2009
 Amended(17) by Proposal 6124 (ehird), 15 March 2009
+Amended(18) by Proposal 6662 (Murphy; disi.), 10 March 2010
 
 ----------------------------------------------------------------------
 
@@ -4127,7 +4127,7 @@ Assigned to Committee on the Judiciary by Proposal 6053 (Murphy,
 
 ----------------------------------------------------------------------
 
-Rule 2246/2 (Power=2)
+Rule 2246/3 (Power=2)
 Submitting a CFJ to the Justiciar
 
       A judicial case may be submitted to the Justiciar.  For such a
@@ -4148,7 +4148,7 @@ Submitting a CFJ to the Justiciar
       Justiciar. A player CAN deputize for Justiciar to perform these
       duties as if it were an office.
 
-      All persons are encouraged to submit a case to the Justiciar
+      All persons are ENCOURAGED to submit a case to the Justiciar
       only when there is a good reason not to submit it to the Clerk
       of the Courts.
 
@@ -4156,6 +4156,7 @@ History:
 Created by Proposal 6181 (comex), 7 April 2009
 Amended(1) by Proposal 6333 (coppro), 29 May 2009
 Amended(2) by Proposal 6496 (coppro), 26 September 2009
+Amended(3) by Proposal 6662 (Murphy; disi.), 10 March 2010
 
 ----------------------------------------------------------------------
 
