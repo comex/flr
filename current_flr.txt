@@ -5839,7 +5839,7 @@ Amended(36) by cleaning (Murphy), 16 August 2009
 
 ----------------------------------------------------------------------
 
-Rule 1367/15 (Power=1)
+Rule 1367/14 (Power=1)
 Degrees
 
       Certain patent titles are known as degrees.  The degrees are
