@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6669
-Last change to this ruleset: by proposal 6669
+Last proposal with recorded effect on this ruleset: 6670
+Last change to this ruleset: by proposal 6670
 
 Last updated: 17 March 2010
 
@@ -757,17 +757,17 @@ Rules
       processes of changing the rules.
 ----------------------------------------------------------------------
 
-Rule 2141/4 (Power=3)
+Rule 2141/5 (Power=3)
 Role and Attributes of Rules
 
-      A rule is a type of instrument with the capacity to govern
-      the game generally.  A rule's content takes the form of
-      a text, and is unlimited in scope.  In particular, a rule
-      may define in-game entities and regulate their behaviour,
-      make instantaneous changes to the state of in-game entities,
-      prescribe or proscribe certain player behaviour, modify the
-      rules or the application thereof, or do any of these things
-      in a conditional manner.
+      A rule is a type of instrument with the capacity to govern the
+      game generally, and is always taking effect.  A rule's content
+      takes the form of a text, and is unlimited in scope.  In
+      particular, a rule may define in-game entities and regulate
+      their behaviour, make instantaneous changes to the state of
+      in-game entities, prescribe or proscribe certain player
+      behaviour, modify the rules or the application thereof, or do
+      any of these things in a conditional manner.
 
       Every rule has power between one and four inclusive.  It is
       not possible for a rule to have a power outside this range.
@@ -801,6 +801,7 @@ Amended(1) by Proposal 5110 (Murphy), 2 August 2007
 Amended(2) by Proposal 5994 (Murphy), 7 December 2008
 Amended(3) by Proposal 6053 (Murphy, woggle, ais523), 23 January 2009
 Amended(4) by Proposal 6124 (ehird), 15 March 2009
+Amended(5) by Proposal 6670 (coppro), 14 March 2010
 
 ----------------------------------------------------------------------
 
