@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6676
-Last change to this ruleset: by proposal 6676
+Last proposal with recorded effect on this ruleset: 6677
+Last change to this ruleset: by proposal 6677
 
 Last updated: 5 April 2010
 
@@ -5625,7 +5625,7 @@ Amended(1) by Proposal 6520 (ais523), 19 October 2009
 
 ----------------------------------------------------------------------
 
-Rule 2287/1 (Power=1)
+Rule 2287/2 (Power=1)
 Props
 
       Props are a currency.
@@ -5651,12 +5651,13 @@ Props
       possessing less than fourteen props.
 
       Players with at least 23 props are Pilots; the Pilot with the
-      most props (if any) is the Captain. Players with less than 5
+      most props (if any) is the Captain. Players with less than 9
       props are Marines.
 
 History:
 Created by Proposal 6647 (Murphy), 6 March 2010
 Amended(1) by Proposal 6676 (coppro), 22 March 2010
+Amended(2) by Proposal 6677 (coppro), 22 March 2010
 
 ----------------------------------------------------------------------
 
