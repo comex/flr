@@ -1,25 +1,25 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6677
-Last change to this ruleset: by proposal 6677
+Last proposal with recorded effect on this ruleset: 6679
+Last change to this ruleset: by proposal 6679
 
 Last updated: 5 April 2010
 
 Rule ID numbers:
-      highest orderly: 2288
+      highest orderly: 2289
       chaotic: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 126
+Current total number of rules: 127
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
       35 with Power=3
-      43 with Power=2
+      44 with Power=2
        4 with Power=1.7
        7 with Power=1.5
       35 with Power=1
@@ -165,6 +165,7 @@ Index of Rules
 
       * Cards, Energy, Props
       Rule 2282: Energy
+      Rule 2289: Capacitors
       Rule 2283: Fees
       Rule 2284: Fee-based actions
       Rule 2255: Cards
@@ -5292,6 +5293,23 @@ duties are:
 History:
 Created by Proposal 6616 (G., coppro, c., Murphy), 30 January 2010
 Amended(1) by Proposal 6632 (Yally), 20 February 2010
+
+----------------------------------------------------------------------
+
+Rule 2289/0 (Power=2)
+Capacitors
+
+       Capacitors are a class of fixed assets tracked by the PSM;
+       their ownership is restricted to players.
+
+       When an event is described as earning a player a number of
+       farads, e CAN, once per such event and in a timely fashion,
+       award emself an equal number of capacitors by announcement, but
+       only if e cites the specific event allowing em to do so in the
+       announcement.
+
+History:
+Created by Proposal 6679 (coppro), 22 March 2010
 
 ----------------------------------------------------------------------
 
