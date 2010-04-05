@@ -1,24 +1,24 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6670
-Last change to this ruleset: by proposal 6670
+Last proposal with recorded effect on this ruleset: 6675
+Last change to this ruleset: by proposal 6675
 
-Last updated: 17 March 2010
+Last updated: 5 April 2010
 
 Rule ID numbers:
-      highest orderly: 2287
+      highest orderly: 2288
       chaotic: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 125
+Current total number of rules: 126
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
-      34 with Power=3
+      35 with Power=3
       43 with Power=2
        4 with Power=1.7
        7 with Power=1.5
@@ -94,6 +94,7 @@ Index of Rules
       Rule 2162: Switches
       Rule  478: Fora
       Rule 1728: Dependent Actions
+      Rule 2288: Induction
       Rule 2124: Agoran Satisfaction
       Rule 2166: Assets
 
@@ -2382,6 +2383,28 @@ Amended(27) by Proposal 6474 (c.), 15 September 2009
 Amended(28) by Proposal 6512 (c.; disi.), 3 October 2009
 Amended(29) by Proposal 6619 (Murphy; disi.), 4 February 2010
 Amended(30) by Proposal 6650 (coppro), 10 March 2010
+
+----------------------------------------------------------------------
+
+Rule 2288/0 (Power=3)
+Induction
+
+      If a person CAN perform an action by announcement, e CAN perform
+      it with N support, or without N objections, where N is a
+      positive integer.
+
+      If a person CAN perform an action with notice, e CAN perform it
+      without N objections, where N is a positive integer.
+
+      If a person CAN perform an action with M support, e CAN perform
+      it with N support, where N is a positive integer greater than M.
+
+      If a person CAN perform an action without M objections, e CAN
+      perform it without N objections, where N is a positive integer
+      less than M.
+
+History:
+Created by Proposal 6675 (comex), 22 March 2010
 
 ----------------------------------------------------------------------
 
