@@ -5934,6 +5934,7 @@ Degrees
       When the Herald resolves the decision, e CAN and SHALL award the
       author the degree selected by Agora, or no degree if FAILING
       GRADE was the outcome.
+
 History:
 Created by Proposal 1367, Jan. 5 1995
 Infected and Amended(1) by Rule 1454, Feb. 12 1996
