@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6702
-Last change to this ruleset: by proposal 6702
+Last proposal with recorded effect on this ruleset: 6703
+Last change to this ruleset: by proposal 6703
 
 Last updated: 25 April 2010
 
@@ -13,16 +13,16 @@ Rule ID numbers:
 
 Statistics
 
-Current total number of rules: 125
+Current total number of rules: 123
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
       35 with Power=3
-      45 with Power=2
+      44 with Power=2
        4 with Power=1.7
        7 with Power=1.5
-      32 with Power=1
+      31 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -186,8 +186,6 @@ Index of Rules
       * Foreign Relations
       Rule  402: Identity of the Speaker
       Rule  103: Role of the Speaker
-      Rule 2148: The Ambassador
-      Rule 2147: Protectorates
       Rule 2159: Protective Decrees
 
       * Trophies
@@ -6002,102 +6000,6 @@ Amended(4) by Proposal 5407 (root), 22 January 2008
 Power changed from 3 to 1 by Proposal 5947 (ais523), 15 November 2008
 Amended(5) by Proposal 6026 (Murphy), 22 December 2008
 Amended(6) by Proposal 6490 (coppro), 18 September 2009
-
-----------------------------------------------------------------------
-
-Rule 2148/5 (Power=1)
-The Ambassador
-
-      The ambassador is an office; its holder is responsible for
-      relations with foreign nomics.
-
-      A foreign nomic may grant certain powers (in the
-      ordinary-language sense) and privileges to Agora's ambassador.
-      If so, the ambassador shall generally exercise such powers in
-      such manner as e sees fit, subject to other rules and orders. If
-      a foreign nomic allows for Agora to take actions in it, the
-      ambassador MAY, with Agoran consent, take any action in it on
-      behalf of Agora, provided that the nomic is Protected, Friendly
-      or Neutral.
-
-      All players are prohibited from falsely claiming, to any nomic,
-      to be the ambassador.
-
-[Cross-references (16 January 2008): the Ambassador's duties are:
-  * exercise diplomatic privileges in foreign nomics (rule 2148)
-  * make foreign nomic a protectorate (rule 2147)
-  * check that protectorates still meet the criteria (rule 2147)
-  * report on protectorates (rule 2147)
-  * proclaim protective decree to target nomic (rule 2159)]
-
-History:
-Created by Proposal 4988 (BobTHJ), 6 June 2007
-Amended(1) by Proposal 5091 (Zefram), 25 July 2007
-Retitled by Proposal 5112 (Murphy), 2 August 2007
-Amended(2) by Proposal 5239 (AFO), 3 October 2007
-Power changed from 2 to 1 by Proposal 5947 (ais523), 15 November 2008
-Amended(3) by Proposal 6026 (Murphy), 22 December 2008
-Assigned to Committee on Foreign Relations by Proposal 6053 (Murphy,
-  woggle, ais523), 23 January 2009
-Amended(4) by Proposal 6175 (Yally), 7 April 2009
-Amended(5) by Proposal 6219 (Tiger), 27 April 2009
-
-----------------------------------------------------------------------
-
-Rule 2147/7 (Power=2)
-Protectorates
-
-      Whereas Agora, being the superpower of nomics, has an inherent
-      responsibility to lead the nomic world; and whereas Agora
-      desires to encourage growth and promotion of the nomic
-      community, be it hereby known that Agora shall serve as
-      benevolent protector to any nomic which requests such status
-      (hereafter referred to as the protectorate).
-
-      In order to become a protectorate, a nomic must specify in its
-      ruleset that it submits to Agora as its benevolent protector.
-      It must also have rules or other gamestate arranged such that
-      any protective decree proclaimed by the ambassador will take
-      full effect upon proclamation.  Any restriction whatsoever on
-      the content of a protective decree disqualifies the nomic from
-      being a protectorate.
-
-      If the criteria specified in the preceding paragraph are met,
-      the ambassador may make the nomic a protectorate without three
-      objections.  If a protectorate ever does not meet these
-      criteria, it ceases to be a protectorate.  The ambassador shall
-      check every month whether each protectorate continues to meet
-      the criteria, and shall announce whenever a protectorate has
-      ceased to be a protectorate.
-
-      The ambassador's monthly report includes a list of all
-      protectorates, with contact details for each, and for each the
-      forum in which it is most appropriate to proclaim protective
-      decrees that target that protectorate.
-
-[Note (25 July 2007): Suggested wording for a protectorate's ruleset:
-"Any protective decree of Agora that targets this nomic takes effect
-as specified by the rules of Agora.".]
-
-[CFJ 1707 (called 20 July 2007): If a nomic's ruleset contains a
-statement similar to "This nomic allows Agora unrestricted access to
-make changes to its ruleset.", this can be interpreted as "This
-nomic's rules change whenever the rules of Agora say they do.", thus
-satisfying the requirement to make protective decrees effective [at
-the time of CFJ 1707, the vaguer requirement to allow Agora to change
-its ruleset].]
-
-History:
-Created by Proposal 4988 (BobTHJ), 6 June 2007
-Amended(1) by Proposal 5091 (Zefram), 25 July 2007
-Amended(2) by Proposal 5127 (Zefram; disi.), 13 August 2007
-Amended(3) by Proposal 5237 (AFO; disi.), 3 October 2007
-Amended(4) by Proposal 5239 (AFO), 3 October 2007
-Amended(5) by Proposal 5391 (Murphy; disi.), 16 January 2008
-Assigned to Committee on Foreign Relations by Proposal 6053 (Murphy,
-  woggle, ais523), 23 January 2009
-Amended(6) by Proposal 6131 (comex), 15 March 2009
-Amended(7) by Proposal 6175 (Yally), 7 April 2009
 
 ----------------------------------------------------------------------
 
