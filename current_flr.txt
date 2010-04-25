@@ -1,25 +1,25 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6696
-Last change to this ruleset: by proposal 6696
+Last proposal with recorded effect on this ruleset: 6697
+Last change to this ruleset: by proposal 6697
 
 Last updated: 25 April 2010
 
 Rule ID numbers:
-      highest orderly: 2289
+      highest orderly: 2290
       chaotic: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 127
+Current total number of rules: 128
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
       35 with Power=3
-      44 with Power=2
+      45 with Power=2
        4 with Power=1.7
        7 with Power=1.5
       35 with Power=1
@@ -133,7 +133,8 @@ Index of Rules
       Rule 2267: Judge's Proposals
       Rule 1950: Voting on Democratic Decisions
       Rule 2156: Voting on Ordinary Decisions
-      Rule 2279: Base Voting Limits
+      Rule 2290: Chamber and Title
+      Rule 2279: Voting Limits on Ordinary Decisions
       Rule 2142: Support Democracy
       Rule 2137: The Assessor
       Rule 1450: Separation of Powers
@@ -3874,36 +3875,17 @@ Amended(20) by Proposal 5418 (root), 2 February 2008
 
 ----------------------------------------------------------------------
 
-Rule 2156/16 (Power=2)
+Rule 2156/17 (Power=2)
 Voting on Ordinary Decisions
 
-      Chamber is a proposal switch, possessed only by proposals which
-      are in the proposal pool or have an ongoing Agoran Decision to
-      adopt them, tracked by the Promotor, with values Green
-      (default), Red and Purple. In the same message in which a player
-      submits a proposal, e CAN set its Chamber by announcement;
-      otherwise it is set to eir Title.
-
-      Title is a player switch, tracked by the Assessor, with the same
-      values and default as Chamber. A player CAN change eir Title by
-      announcement, except if e has already done so before in the same
-      month. A player with a Title of Green is a 'Green player', a
-      player with a Title of Red is a 'Red player' and so on.
-
-      Changes to Title and Chamber are secured.
-
-      Each ordinary decision is either Green, Red or Purple; this
-      defaults to the Chamber of the proposal the decision is about,
-      but CAN be changed by Rules of Power 2 or higher during the
-      voting period of the decision.
-
       The eligible voters on an ordinary decision are the players who
-      were active at the start of its voting period.  The voting limit
-      of a player on an ordinary decision is eir base  voting limit on
-      that decision (as defined elsewhere in the rules), minus one for
-      each positive multiple of two Rests the player owns. This rule
-      defers to other rules of equal power in the determination of
-      voting limits.
+      were active at the start of its voting period. The voting limit
+      of a player on an ordinary decision is defined elsewhere in the
+      rules, but is fixed at the resolution of the Decision and
+      thereafter CANNOT change, rules to the contrary notwithstanding.
+      This restriction does not prevent a change that would change a
+      voting limit from occurring; it only prevents it from actually
+      effecting that limit.
 
 History:
 Created by Proposal 5078 (Zefram), 18 July 2007
@@ -3926,26 +3908,69 @@ Amended(13) by Proposal 6499 (Wooble; disi.), 26 September 2009
 Amended(14) by Proposal 6531 (Walker), 23 October 2009
 Amended(15) twice by Proposal 6549 (coppro; disi.), 13 November 2009
 Amended(16) by Proposal 6616 (G., coppro, c., Murphy), 30 January 2010
+Amended(17) by Proposal 6697 (coppro), 25 April 2010
 
 ----------------------------------------------------------------------
 
-Rule 2279/0 (Power=2)
-Base Voting Limits
+Rule 2290/0 (Power=2)
+Chamber and Title
 
-      - For a Green ordinary decision, the Green players have a base
-      voting limit of 5, the Red players have a base voting limit of 2
-      and the Purple players have a base voting limit of 1.
+      Chamber is a switch possessed by players, proposals in the
+      Proposal Pool, and ongoing Agoran Decisions to adopt Proposals.
+      The possible values for Chamber are Green, Red, and Purple.
+      Green is superior to Purple, Red is superior to Green, and
+      Purple is superior to Red; the opposite of superior is inferior.
 
-      - For a Red ordinary decision, the Red players have a base
-      voting limit of 5, the Purple players have a base voting limit
-      of 2 and the Green players have a base voting limit of 1.
+      The default is Green in case of players, the Chamber of the
+      author in case of proposals, and the Chamber of the proposal in
+      question in case of a Decision. These are not continuously
+      updated, but evaluated only as the entity comes into being.
 
-      - For a Purple ordinary decision, the Purple players have a base
-      voting limit of 5, the Green players have a base voting limit of
-      2 and the Red players have a base voting limit of 1.
+      A player CAN change eir Title by announcement if e has not
+      already done so previously in the same month. In the same
+      message in which a player submits a proposal, e CAN set its
+      Chamber by announcement. Changes to Title are secured.
+
+      The Assessor tracks the Chamber of players and the Promotor
+      tracks the Chamber of proposals.
+
+      The Chamber of a player may also be referred to as eir Title;
+      this does not extend to proposals or Decisions. A player may be
+      referred to as a "<foo> player", where <foo> is eir Chamber.
+
+History:
+Created by Proposal 6697 (coppro), 25 April 2010
+
+----------------------------------------------------------------------
+
+Rule 2279/1 (Power=2)
+Voting Limits on Ordinary Decisions
+
+      A player's voting limit on an Ordinary decision is the result of
+      performing the following steps, in order:
+
+          (1) Take the following value, depending on the relationship
+               between the player's Chamber and the Chamber of the
+               Decision:
+                  (a) If eir Chamber is superior, it is 2, else
+                  (b) If eir Chamber is inferior, it is 1, else
+                  (c) If the Chambers are identical, it is 5.
+
+          (2) Reduce the value by half the number of Rests owned by
+              the player.
+
+          (3) Apply any other adjustments defined in other rules, in
+              numerical order unless otherwise specified.
+
+          (4) Round the value to the nearest non-negative integer,
+              breaking ties upward.
+
+      This rule takes precedence over any other rule which would
+      modify a player's voting limit on an ordinary Decision.
 
 History:
 Created by Proposal 6549 (coppro; disi.), 13 November 2009
+Amended(1) by Proposal 6697 (coppro), 25 April 2010
 
 ----------------------------------------------------------------------
 
@@ -5383,7 +5408,7 @@ Amended(3) by Proposal 6638 (Yally), 20 February 2010
 
 ----------------------------------------------------------------------
 
-Rule 2255/6 (Power=2)
+Rule 2255/7 (Power=2)
 Cards
 
       Each of the items listed in this rule by a title and position is
@@ -5418,8 +5443,9 @@ Cards
       decision by announcement.
 
       Title: Chief Whip.
-      Position:  The Chief Whip's voting limit on an Ordinary proposal
-      is 1.5 times what it would otherwise be.
+      Position: The Chief Whip's voting limit on an ordinary Decision
+      is 1.5 times what it would otherwise be; this applies after
+      other calculations.
 
       Title: Justiciar.
       Position: The Justiciar may be granted particular abilities or
@@ -5440,6 +5466,7 @@ Amended(3) and retitled by Proposal 6616 (G., coppro, c., Murphy),
 Amended(4) by Proposal 6636 (Murphy; disi.), 20 February 2010
 Amended(5) by cleaning (Murphy), 6 March 2010
 Amended(6) by Proposal 6654 (Murphy), 10 March 2010
+Amended(7) by Proposal 6697 (coppro), 25 April 2010
 
 ----------------------------------------------------------------------
 
