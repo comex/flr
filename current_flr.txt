@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6682
-Last change to this ruleset: by proposal 6682
+Last proposal with recorded effect on this ruleset: 6696
+Last change to this ruleset: by proposal 6696
 
-Last updated: 5 April 2010
+Last updated: 25 April 2010
 
 Rule ID numbers:
       highest orderly: 2289
@@ -2753,7 +2753,7 @@ Amended(7) by Proposal 6482 (c.), 18 September 2009
 
 ----------------------------------------------------------------------
 
-Rule 2154/30 (Power=2)
+Rule 2154/31 (Power=2)
 Election Procedure
 
       A player CAN initiate an election for a specified elected office
@@ -2797,10 +2797,7 @@ Election Procedure
           decision is initiated, in which case the eligible voters are
           the active Senators.
 
-       3) Each eligible voter's voting limit is one. An ordered list
-          of multiple choices constitutes a conditional vote for the
-          first choice if it could be the outcome, otherwise the
-          second choice if it could be the outcome, and so forth.
+       3) Each eligible voter's voting limit is one.
 
        4) If there are no valid options for the Decision, instead of
           initiating the Decision, the IADoP SHALL, in place of
@@ -2849,6 +2846,7 @@ Amended(27) by Proposal 6403 (coppro), 30 July 2009
 Amended(28) by Proposal 6411 (Yally), 30 July 2009
 Amended(29) by Proposal 6651 (coppro), 10 March 2010
 Amended(30) by Proposal 6665 (Murphy; disi.), 10 March 2010
+Amended(31) by Proposal 6696 (coppro), 25 April 2010
 
 ----------------------------------------------------------------------
 
