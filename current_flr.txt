@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6705
-Last change to this ruleset: by proposal 6705
+Last proposal with recorded effect on this ruleset: 6707
+Last change to this ruleset: by proposal 6707
 
 Last updated: 25 April 2010
 
