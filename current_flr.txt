@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6703
-Last change to this ruleset: by proposal 6703
+Last proposal with recorded effect on this ruleset: 6704
+Last change to this ruleset: by proposal 6704
 
 Last updated: 25 April 2010
 
@@ -5158,7 +5158,7 @@ Amended(27) by Proposal 6483 (Pavitra), 18 September 2009
 
 ----------------------------------------------------------------------
 
-Rule 2203/1 (Power=1.5)
+Rule 2203/2 (Power=1.5)
 Hawkishness
 
       Hawkishness is a player switch, tracked by the Clerk of the
@@ -5168,8 +5168,7 @@ Hawkishness
         judge of any inquiry case.
 
       * Hugging.  Hugging players are unqualified to be assigned as
-        judge of any criminal case, and poorly qualified to be
-        assigned as judge of any equity case.
+        judge of any criminal case.
 
       * Hemming-and-Hawing (default).
 
@@ -5186,6 +5185,7 @@ Hawkishness
 History:
 Created by Proposal 5468 (Murphy), 13 March 2008
 Amended(1) by Proposal 6160 (Murphy), 31 March 2009
+Amended(2) by Proposal 6704 (coppro; disi.), 25 April 2010
 
 ----------------------------------------------------------------------
 
