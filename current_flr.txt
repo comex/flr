@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6704
-Last change to this ruleset: by proposal 6704
+Last proposal with recorded effect on this ruleset: 6705
+Last change to this ruleset: by proposal 6705
 
 Last updated: 25 April 2010
 
@@ -4799,7 +4799,7 @@ Assigned to Committee on the Judiciary by Proposal 6053 (Murphy,
 
 ----------------------------------------------------------------------
 
-Rule 911/36 (Power=1.7)
+Rule 911/37 (Power=1.7)
 Appeal Cases
 
       Appeal cases are a subclass of judicial cases.  An appeal case's
@@ -4827,22 +4827,30 @@ Appeal Cases
 
       An appeal case has a judicial question on disposition, which is
       applicable if and only if the prior question is applicable.  The
-      valid judgements for the question on disposition, and their
-      effects, are as follows, based on the appropriateness of the
-      prior judgement at the time it was delivered:
+      valid judgements for the question on disposition are of the form
+      "<action> with prejudice" or "<action> without prejudice".  Such
+      a judgement is generally appropriate if and only if
+      (1) the action is appropriate, and
+      (2) the judgement is with prejudice if and only if the prior
+          judge made an error in eir judgement which could have been
+          reasonably avoided, or generally inappropriately discharged
+          eir duties in the case.
+
+      The valid values of <action> and their associated effects are as
+      follows:
 
       * AFFIRM, appropriate if the prior judgement was appropriate for
         the prior question; the prior judgement is assigned to the
         prior question again
 
-      * REMAND, appropriate if there is serious doubt about the
-        appropriateness of the prior judgement; the prior question is
+      * REMAND, appropriate if there is serious doubt about whether
+        the prior judgement was appropriate; the prior question is
         rendered open again; the judge SHOULD assign this judgement if
         the judge believes that the judge of the prior case will make
         a better judgement if given a new opportunity
 
-      * REASSIGN, appropriate if there is serious doubt about the
-        appropriateness of the prior judgement, or if the prior judge
+      * REASSIGN, appropriate if there is serious doubt about whether
+        the prior judgement was appropriate, or if the prior judge
         exhibited corruptive self-interest (material, with a specific
         and obvious impact on eir judgement and arguments, and not
         arising merely due to a difference of opinion or a wholly
@@ -4858,6 +4866,9 @@ Appeal Cases
         in the prior question and the replacement judgement is
         appropriate for the prior question; the replacement judgement
         is assigned to the prior question
+
+      The appropriateness of the prior judgement is measured at the
+      time it was assigned.
 
       When an appeal case is initiated, the prior question is
       suspended, and remains so until the question on disposition in
@@ -4891,10 +4902,10 @@ Appeal Cases
         same as one panel member's as described above, then the panel
         delivers that judgement;
 
-      - otherwise, the CotC CAN and SHALL, asap after the
-        overtime period ends, act for the panel by announcement to
-        deliver a judgement of either REMAND or REASSIGN, whichever e
-        feels is most appropriate.
+      - otherwise, the CotC CAN and SHALL, asap after the overtime
+        period ends, act for the panel by announcement to judgement of
+        either REMAND or REASSIGN with or without prejudice, whichever
+        e feels is most appropriate.
 
       Any panel member CAN publish a formal Concurring Opinion with
       panel member support, provided that the panel has judged AFFIRM,
@@ -4971,6 +4982,7 @@ Amended(33) by Proposal 6542 (Murphy), 7 November 2009
 Amended(34) twice by Proposal 6571 (ais523), 28 November 2009
 Amended(35) by Proposal 6605 (Murphy), 19 January 2010
 Amended(36) by cleaning (Murphy), 6 March 2010
+Amended(37) by Proposal 6705 (comex), 25 April 2010
 
 ----------------------------------------------------------------------
 
@@ -5189,7 +5201,7 @@ Amended(2) by Proposal 6704 (coppro; disi.), 25 April 2010
 
 ----------------------------------------------------------------------
 
-Rule 2226/3 (Power=1.5)
+Rule 2226/4 (Power=1.5)
 Judicial Rank
 
       Judicial rank is a player switch, tracked by the Clerk of the
@@ -5202,8 +5214,9 @@ Judicial Rank
       announcement, unless eir rank was decreased due to an overrule
       within the past 30 days.
 
-      When a judgement is overruled on appeal, if the prior judge's
-      judicial rank is higher than 0, then it is decreased by 1.
+      When an appeal of a judicial case is judged with prejudice, if
+      the prior judge's judicial rank is higher than 0, then it is
+      decreased by 1.
 
       A player CAN flip eir judicial rank from 0 to 1 with 3 support.
 
@@ -5215,6 +5228,7 @@ Created by Proposal 5970 (Murphy), 20 November 2008
 Amended(1) by Proposal 6387 (Wooble), 10 July 2009
 Amended(2) by Proposal 6407 (Wooble), 7 August 2009
 Amended(3) by Proposal 6472 (Murphy), 15 September 2009
+Amended(4) by Proposal 6705 (comex), 25 April 2010
 
 ----------------------------------------------------------------------
 
