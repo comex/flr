@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6707
-Last change to this ruleset: by proposal 6707
+Last proposal with recorded effect on this ruleset: 6714
+Last change to this ruleset: by proposal 6714
 
-Last updated: 26 April 2010
+Last updated: 4 May 2010
 
 Rule ID numbers:
       highest orderly: 2290
@@ -5500,7 +5500,7 @@ Created by Proposal 6636 (Murphy; disi.), 20 February 2010
 
 ----------------------------------------------------------------------
 
-Rule 2275/2 (Power=1)
+Rule 2275/3 (Power=1)
 Government
 
       When allowed to by the rules, a player Forms a Government by
@@ -5522,10 +5522,13 @@ Government
       The Government is the set of entities, other than the Lost and
       Found Department, owning cards.
 
+      A Minister is any member of the Government.
+
 History:
 Created by Proposal 6490 (coppro), 18 September 2009
 Amended(1) by Proposal 6594 (coppro; disi.), 14 December 2009
 Amended(2) by Proposal 6616 (G., coppro, c., Murphy), 30 January 2010
+Amended(3) by Proposal 6714 (coppro; disi.), 4 May 2010
 
 ----------------------------------------------------------------------
 
