@@ -1,26 +1,27 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6718
-Last change to this ruleset: by proposal 6718
+Last proposal with recorded effect on this ruleset: 6708
+Last change to this ruleset: by proposal 6708
 
 Last updated: 4 May 2010
 
 Rule ID numbers:
-      highest orderly: 2290
+      highest orderly: 2293
       chaotic: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 123
+Current total number of rules: 126
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
       36 with Power=3
       44 with Power=2
-       4 with Power=1.7
+       2 with Power=1.9
+       5 with Power=1.7
        7 with Power=1.5
       30 with Power=1
 
@@ -36,7 +37,7 @@ Index of Categories
       * Agoran Decisions
       * Proposals
       * Adjudication
-      * Cards, Energy, Props
+      * Economy
       * Patent Titles and Degrees
       * Foreign Relations
       * Trophies
@@ -96,7 +97,6 @@ Index of Rules
       Rule 1728: Dependent Actions
       Rule 2288: Induction
       Rule 2124: Agoran Satisfaction
-      Rule 2166: Assets
 
       * Offices
       Rule 1006: Offices
@@ -126,6 +126,8 @@ Index of Rules
 
       * Proposals
       Rule  106: Adopting Proposals
+      Rule 2291: Fragments
+      Rule 2292: Defragmentation Proposals
       Rule 2281: Proposal Cleanup
       Rule 2224: Interest Index of Proposals
       Rule 1607: The Promotor
@@ -164,7 +166,8 @@ Index of Rules
       Rule 2164: Judicial Self-Recusal and Case Transfer
       Rule 2212: Judicial Declarations
 
-      * Cards, Energy, Props
+      * Economy
+      Rule 2166: Assets
       Rule 2282: Energy
       Rule 2289: Capacitors
       Rule 2283: Fees
@@ -176,6 +179,7 @@ Index of Rules
       Rule 2270: Coups D'etat
       Rule 2274: Chicken Coups
       Rule 2287: Props
+      Rule 2293: Leadership Tokens
 
       * Patent Titles and Degrees
       Rule  649: Patent Titles
@@ -2466,92 +2470,6 @@ Amended(15) by Proposal 6512 (c.; disi.), 3 October 2009
 
 ----------------------------------------------------------------------
 
-Rule 2166/14 (Power=2)
-Assets
-
-      An asset is an entity defined as such by a rule (hereafter its
-      backing document), and existing solely because its backing
-      document defines its existence.
-
-      Each asset has exactly one owner.  If an asset would otherwise
-      lack an owner, it is owned by the Lost and Found Department.  If
-      an asset's backing document restricts its ownership to a class
-      of entities, then that asset CANNOT be gained by or transferred
-      to an entity outside that class, and is transferred to the Lost
-      and Found Department if it is owned by an entity outside that
-      class.  If an asset is owned by the Lost and Found department
-      any player CAN transfer or destroy it without objection.
-
-      The Lost and Found department may own any asset, and have assets
-      transferred to and from it, regardless of the asset's backing
-      document or any Rule, Rules to the contrary notwithstanding.
-
-      The recordkeepor of a class of assets is the entity (if any)
-      defined as such by, and bound by, its backing document.  That
-      entity's report includes a list of all instances of that class
-      and their owners.  This portion of that entity's report is
-      self-ratifying.
-
-      An asset whose backing document is not a rule generally CAN be
-      created by its recordkeepor by announcement, subject to
-      modification by its backing document.  To "gain" an asset is to
-      have it created in one's possession; to "award" an asset to an
-      entity is to create it in that entity's possession.
-
-      An asset generally CAN be destroyed by its owner by
-      announcement, and an asset owned by the Lost and Found
-      Department generally CAN be destroyed by its recordkeepor by
-      announcement, subject to modification by its backing document.
-      To "lose" (syn. "spend") an asset is to have it destroyed from
-      one's possession; to "revoke" an asset from an entity is to
-      destroy it from that entity's possession.
-
-      An asset generally CAN be transferred by its owner to another
-      entity by announcement, subject to modification by its backing
-      document.  A fixed asset is one defined as such by its backing
-      document, and CANNOT be transferred; any other asset is liquid.
-
-      A currency is a class of asset defined as such by its backing
-      document.  Instances of a currency with the same owner are
-      fungible.
-
-[CFJs 1790-1791 (called 11 November 2007): The self-ratifying asset
-report is the complete list of ownerships of assets of that class; a
-partial list does not self-ratify.]
-
-[CFJ 1850 (called 22 December 2007): The general ability of the
-recordkeepor to create assets does not include an ability to determine
-who possesses them when created, so they are necessarily owned by the
-Lost and Found Department [at the time of CFJ 1850, the Bank] upon
-creation.]
-
-[CFJ 1910 (called 10 March 2008): When an existing entity is defined
-as an asset, the change of its owner from "undefined" to the Lost and
-Found Department [Bank at the time of CFJ 1910] counts as a transfer,
-and fails if the Lost and Found Department is outside of the class of
-objects that can own the entity.]
-
-History:
-Created by Proposal 5173 (Murphy), 29 August 2007
-Amended(1) by Proposal 5216 (Murphy), 13 September 2007
-Amended(2) by Proposal 5388 (Murphy), 1 January 2008
-Amended(3) by Proposal 5475 (Murphy), 24 March 2008
-Amended(4) by Proposal 5476 (Murphy; disi.), 27 March 2008
-Amended(5) by Proposal 5496 (Murphy), 23 April 2008
-Amended(6) by Proposal 5833 (Murphy, Taral), 12 November 2008
-Amended(7) by Proposal 5840 (root), 12 November 2008
-Amended(8) by Proposal 5974 (Murphy; disi.), 25 November 2008
-Amended(9) by Proposal 6023 (Murphy), 22 December 2008
-Assigned to Committee on Finance by Proposal 6053 (Murphy, woggle,
-  ais523), 23 January 2009
-Amended(10) by Proposal 6161 (Murphy), 31 March 2009
-Amended(11) by Proposal 6253 (Quazie), 9 May 2009
-Amended(12) by cleaning (Murphy), 16 August 2009
-Amended(13) by Proposal 6430 (coppro; disi.), 18 August 2009
-Amended(14) twice by Proposal 6650 (coppro), 10 March 2010
-
-----------------------------------------------------------------------
-
 ======================================================================
 Offices
       A category concerning administrative positions held by persons
@@ -3658,6 +3576,71 @@ Amended(23) by Proposal 6469 (coppro; disi.), 15 September 2009
 Amended(24) by Proposal 6571 (ais523), 28 November 2009
 Amended(25) by Proposal 6625 (Murphy), 20 February 2010
 Amended(26) by Proposal 6656 (coppro), 1 March 2010
+
+----------------------------------------------------------------------
+
+Rule 2291/0 (Power=1.9)
+Fragments
+
+      If
+        - e has not already done so, or
+        - if at least two other players done so so e last did so, or
+        - three days have passed since e last did so,
+      a player CAN publish a Fragment. A Fragment SHOULD be a short
+      (possibly as small as a sentence) body of text intended to
+      become a portion of a Rule. A new Fragment SHOULD bear some
+      relation to existing Fragments.
+
+      The Granulator is an office. Eir weekly report includes a
+      listing of all Fragments and their authors and is
+      self-ratifying.
+
+      Fragments have ID numbers, to be assigned by the Granulator.
+
+      The Granulator CAN, without 3 Objections, cause all Fragments to
+      cease to be Fragments.
+
+History:
+Created by Proposal 6708 (coppro, comex, woggle), 4 May 2010
+
+----------------------------------------------------------------------
+
+Rule 2292/0 (Power=1.9)
+Defragmentation Proposals
+
+      Some proposals are Defragmentation Proposals (D-Proposals).
+      D-Proposals are associated with a number of Fragments; these
+      Fragments make up the D-Proposal's Inode.
+
+      A Proposal's author CAN, in the same message in which a Proposal
+      is submitted, make it a D-Proposal if, e adds at least four
+      Fragments to its Inode in that message.
+
+      A player CAN, without objection from the Proposal's author (or
+      by announcement if e is emself the author), add a Fragment to a
+      D-Proposal's Inode. A Fragment SHALL only be added to a
+      D-Proposal's Inode if the D-Proposal's adoption would cause the
+      text of the Fragment (or substantially similar text) to be
+      included in the Ruleset.
+
+      On an Agoran Decision to adopt a D-Proposal, the list of
+      Fragments in the Proposal's Inode along with their authors is an
+      essential parameter. The Promotor's report shall include the
+      same information for each D-Proposal in the report.
+
+      When a D-Proposal is adopted, immediately before it takes
+      effect, the author of that Proposal is awarded a Leadership
+      Token.  Additionally, each player who authored one or more
+      Fragments in the Proposal's Inode is awarded Leadership Tokens
+      equal to one third the number of such Fragments e authored,
+      rounded up.  Lastly, all Fragments cease to be Fragments.
+
+      If a Fragment that is a member of a Defragmentation Proposal's
+      Inode ceases to be a Fragment, it is still treated as one for
+      the purpose of rules relating to that Proposal.
+
+History:
+Created by Proposal 6708 (coppro, comex, woggle), 4 May 2010
 
 ----------------------------------------------------------------------
 
@@ -5295,8 +5278,95 @@ Created by Proposal 5715 (Murphy), 7 October 2008
 ----------------------------------------------------------------------
 
 ======================================================================
-Cards, Energy, Props
-      A category concerning the economy.
+Economy
+      A category concerning the simplest style of competition between
+      players.
+----------------------------------------------------------------------
+
+Rule 2166/14 (Power=2)
+Assets
+
+      An asset is an entity defined as such by a rule (hereafter its
+      backing document), and existing solely because its backing
+      document defines its existence.
+
+      Each asset has exactly one owner.  If an asset would otherwise
+      lack an owner, it is owned by the Lost and Found Department.  If
+      an asset's backing document restricts its ownership to a class
+      of entities, then that asset CANNOT be gained by or transferred
+      to an entity outside that class, and is transferred to the Lost
+      and Found Department if it is owned by an entity outside that
+      class.  If an asset is owned by the Lost and Found department
+      any player CAN transfer or destroy it without objection.
+
+      The Lost and Found department may own any asset, and have assets
+      transferred to and from it, regardless of the asset's backing
+      document or any Rule, Rules to the contrary notwithstanding.
+
+      The recordkeepor of a class of assets is the entity (if any)
+      defined as such by, and bound by, its backing document.  That
+      entity's report includes a list of all instances of that class
+      and their owners.  This portion of that entity's report is
+      self-ratifying.
+
+      An asset whose backing document is not a rule generally CAN be
+      created by its recordkeepor by announcement, subject to
+      modification by its backing document.  To "gain" an asset is to
+      have it created in one's possession; to "award" an asset to an
+      entity is to create it in that entity's possession.
+
+      An asset generally CAN be destroyed by its owner by
+      announcement, and an asset owned by the Lost and Found
+      Department generally CAN be destroyed by its recordkeepor by
+      announcement, subject to modification by its backing document.
+      To "lose" (syn. "spend") an asset is to have it destroyed from
+      one's possession; to "revoke" an asset from an entity is to
+      destroy it from that entity's possession.
+
+      An asset generally CAN be transferred by its owner to another
+      entity by announcement, subject to modification by its backing
+      document.  A fixed asset is one defined as such by its backing
+      document, and CANNOT be transferred; any other asset is liquid.
+
+      A currency is a class of asset defined as such by its backing
+      document.  Instances of a currency with the same owner are
+      fungible.
+
+[CFJs 1790-1791 (called 11 November 2007): The self-ratifying asset
+report is the complete list of ownerships of assets of that class; a
+partial list does not self-ratify.]
+
+[CFJ 1850 (called 22 December 2007): The general ability of the
+recordkeepor to create assets does not include an ability to determine
+who possesses them when created, so they are necessarily owned by the
+Lost and Found Department [at the time of CFJ 1850, the Bank] upon
+creation.]
+
+[CFJ 1910 (called 10 March 2008): When an existing entity is defined
+as an asset, the change of its owner from "undefined" to the Lost and
+Found Department [Bank at the time of CFJ 1910] counts as a transfer,
+and fails if the Lost and Found Department is outside of the class of
+objects that can own the entity.]
+
+History:
+Created by Proposal 5173 (Murphy), 29 August 2007
+Amended(1) by Proposal 5216 (Murphy), 13 September 2007
+Amended(2) by Proposal 5388 (Murphy), 1 January 2008
+Amended(3) by Proposal 5475 (Murphy), 24 March 2008
+Amended(4) by Proposal 5476 (Murphy; disi.), 27 March 2008
+Amended(5) by Proposal 5496 (Murphy), 23 April 2008
+Amended(6) by Proposal 5833 (Murphy, Taral), 12 November 2008
+Amended(7) by Proposal 5840 (root), 12 November 2008
+Amended(8) by Proposal 5974 (Murphy; disi.), 25 November 2008
+Amended(9) by Proposal 6023 (Murphy), 22 December 2008
+Assigned to Committee on Finance by Proposal 6053 (Murphy, woggle,
+  ais523), 23 January 2009
+Amended(10) by Proposal 6161 (Murphy), 31 March 2009
+Amended(11) by Proposal 6253 (Quazie), 9 May 2009
+Amended(12) by cleaning (Murphy), 16 August 2009
+Amended(13) by Proposal 6430 (coppro; disi.), 18 August 2009
+Amended(14) twice by Proposal 6650 (coppro), 10 March 2010
+
 ----------------------------------------------------------------------
 
 Rule 2282/3 (Power=2)
@@ -5615,6 +5685,28 @@ History:
 Created by Proposal 6647 (Murphy), 6 March 2010
 Amended(1) by Proposal 6676 (coppro), 22 March 2010
 Amended(2) by Proposal 6677 (coppro), 22 March 2010
+
+----------------------------------------------------------------------
+
+Rule 2293/0 (Power=1.7)
+Leadership Tokens
+
+      Leadership Tokens are a currency tracked by the Granulator. A
+      player CANNOT destroy (redeem) Leadership Tokens in eir
+      possession except by announcement and for a specified one of the
+      following effects:
+
+        (a) A player CAN redeem 3 Leadership Tokens in eir possession
+            to satisfy the Winning Condition of Leadership.
+        (b) A player CAN redeem 1 Leadership Token in eir possession
+            to destroy up to 4 Rests e owns.
+        (c) A player CAN redeem 1 Leadership Token in eir possession
+            to award emself 7 ergs.
+
+History:
+Created by Proposal 6708 (coppro, comex, woggle), 4 May 2010
+Power changed from 1 to 1.7 by Proposal 6708 (coppro, comex, woggle),
+  4 May 2010
 
 ----------------------------------------------------------------------
 
