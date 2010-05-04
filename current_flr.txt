@@ -1,19 +1,19 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6708
-Last change to this ruleset: by proposal 6708
+Last proposal with recorded effect on this ruleset: 6709
+Last change to this ruleset: by proposal 6709
 
 Last updated: 4 May 2010
 
 Rule ID numbers:
-      highest orderly: 2293
+      highest orderly: 2294
       chaotic: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 126
+Current total number of rules: 127
 
 Power distribution:
        1 with Power=4
@@ -23,7 +23,7 @@ Power distribution:
        2 with Power=1.9
        5 with Power=1.7
        7 with Power=1.5
-      30 with Power=1
+      31 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -57,6 +57,7 @@ Index of Rules
       Rule 2245: Win by Not Losing
       Rule 2110: Win by Paradox
       Rule 2199: Ribbons
+      Rule 2294: The Chroniclor
       Rule  104: First Speaker
 
       * Rules
@@ -732,6 +733,18 @@ Amended(8) by Proposal 6483 (Pavitra), 18 September 2009
 Amended(9) by Proposal 6576 (G.; disi.), 28 November 2009
 Amended(10) by Proposal 6650 (coppro), 10 March 2010
 Amended(11) by Proposal 6658 (Murphy; disi), 10 March 2010
+
+----------------------------------------------------------------------
+
+Rule 2294/0 (Power=1)
+The Chroniclor
+
+      The Chroniclor is an office; eir weekly report includes a
+      concise summary of all goings-on in Agora in the prior Agoran
+      week.
+
+History:
+Created by Proposal 6709 (coppro), 4 May 2010
 
 ----------------------------------------------------------------------
 
