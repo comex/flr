@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6717
-Last change to this ruleset: by proposal 6717
+Last proposal with recorded effect on this ruleset: 6718
+Last change to this ruleset: by proposal 6718
 
 Last updated: 4 May 2010
 
@@ -4435,16 +4435,15 @@ Amended(31) by Proposal 6571 (ais523), 28 November 2009
 
 ----------------------------------------------------------------------
 
-Rule 2230/14 (Power=2)
+Rule 2230/15 (Power=2)
 Notices of Violation
 
-      A player CAN publish a Notice of Violation (with N support,
-      where N is the number of valid un-Closed Notices of Violation e
-      previously published during the same week, or by announcement if
-      N is zero) alleging that a single entity (the Accused) has
-      broken a Rule.  A notice of violation is invalid if it lacks any
-      of the following information, and the lack is correctly
-      identified within one week after the notice is published:
+      A player CAN publish a Notice of Violation (NoV) for a fee of N
+      ergs, where N is the one half of the number of valid NoVs e
+      previously published during the same week, rounded down. An NoV
+      is invalid if it lacks any of the following information, and the
+      lack is correctly identified within one week after the NoV is
+      published:
        (a) The identity of the Accused;
        (b) The allegedly illegal action/inaction in question;
        (c) The Rule that was allegedly broken;
@@ -4453,48 +4452,47 @@ Notices of Violation
            breach, then the name of that Crime and the value of N;
            otherwise, the Power of the Rule that was allegedly broken.
 
-      Knowingly issuing a Notice of Violation with incorrect
-      information is ILLEGAL, and the Class-4 Crime of Libel.
+      Knowingly issuing a NoV with incorrect information is ILLEGAL,
+      and the Class-4 Crime of Libel.
 
-      A Notice of Violation is valid if and only if:
-        (1) it clearly specifies the required information for a Notice
-            of Violation;
-        (2) no previous valid notice specified substantially identical
+      A NoV is valid if and only if:
+        (1) it clearly specifies the required information for a NoV;
+        (2) no previous valid NoV specified substantially identical
             information (i.e. the same violation for the same specific
             act).
         (3) when a crime is named, the crime is specified within the
             Rules.
 
-      Neither a Notice's incorrectness (i.e. whether its allegation is
+      Neither a NoV's incorrectness (i.e. whether its allegation is
       false) nor its unfairness (i.e. whether the punishment resulting
       from leaving it Uncontested would be manifestly unfair according
       to the guidance of the Rules) affects its validity.
 
       As soon as possible after a player makes an announcement that is
-      reasonably recognizable as an attempt to issue such a notice,
-      the Herald SHALL announce whether the Notice was valid.  Such an
+      reasonably recognizable as an attempt to issue such a NoV, the
+      Herald SHALL announce whether the NoV was valid.  Such an
       announcement is self-ratifying.  Affirming the validity of the
-      notice does not in itself certify the correctness of the
+      NoV does not in itself certify the correctness of the
       allegation.
 
-      A valid Notice of Violation is initially Uncontested unless a
-      Crime is named, Contested otherwise.  Within four days after the
-      publication of an Uncontested Notice, any player CAN make it
-      Contested by announcement; a player SHOULD do so if e believes
-      it is incorrect and/or unfair.  An Uncontested Notice becomes
-      Contested upon the initiation of a judicial case questioning its
+      A valid NoV is initially Uncontested unless a Crime is named,
+      Contested otherwise.  Within four days after the publication of
+      an Uncontested NoV, any player CAN make it Contested by
+      announcement; a player SHOULD do so if e believes it is
+      incorrect and/or unfair.  An Uncontested NoV becomes Contested
+      upon the initiation of a judicial case questioning its
       incorrectness and/or unfairness (but not merely by questioning
       its validity).
 
-      If a Notice is Uncontested and was published at least four days
+      If a NoV is Uncontested and was published at least four days
       ago, any player CAN cause it to become Closed by announcement.
-      Any player CAN cause a Notice specifying em as Accused to become
-      Closed by announcement. When a Notice becomes Closed, a number
-      of Rests are created in the possession of the Accused equal to
-      the Class of the specified Crime, or in its absence the Power of
-      the violated rule, rounded up.  If a Closed notice becomes
-      Contested, these Rests remain, but CAN be later destroyed by
-      judicial processes as described elsewhere.
+      Any player CAN cause a NoV specifying em as Accused to become
+      Closed by announcement. When a NoV becomes Closed, a number of
+      Rests are created in the possession of the Accused equal to the
+      Class of the specified Crime, or in its absence the Power of the
+      violated rule, rounded up.  If a Closed NoV becomes Contested,
+      these Rests remain, but CAN be later destroyed by judicial
+      processes as described elsewhere.
 
       Valid NOVs have ID numbers, to be assigned by the Herald.
 
@@ -4517,6 +4515,7 @@ Amended(11) by Proposal 6307 (BobTHJ; disi.), 26 May 2009
 Amended(12) by Proposal 6327 (Murphy), 29 May 2009
 Amended(13) by Proposal 6427 (BobTHJ), 18 August 2009
 Amended(14) by Proposal 6575 (G.; disi.), 28 November 2009
+Amended(15) by Proposal 6718 (coppro), 4 May 2010
 
 ----------------------------------------------------------------------
 
