@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6714
-Last change to this ruleset: by proposal 6714
+Last proposal with recorded effect on this ruleset: 6717
+Last change to this ruleset: by proposal 6717
 
 Last updated: 4 May 2010
 
@@ -18,11 +18,11 @@ Current total number of rules: 123
 Power distribution:
        1 with Power=4
        1 with Power=3.2
-      35 with Power=3
+      36 with Power=3
       44 with Power=2
        4 with Power=1.7
        7 with Power=1.5
-      31 with Power=1
+      30 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -5829,7 +5829,7 @@ Amended(36) by cleaning (Murphy), 16 August 2009
 
 ----------------------------------------------------------------------
 
-Rule 1367/14 (Power=1)
+Rule 1367/15 (Power=3)
 Degrees
 
       Certain patent titles are known as degrees.  The degrees are
@@ -5860,14 +5860,17 @@ Degrees
        - The eligible voters are each active player at the time the
          decision is initiated.
 
-       - Each player's voting limit on the decision is three, plus
-         five for each  degree e held at that time (the high limit is
-         so as to allow a player to cast votes for different titles
-         and ensure that an inappropriate title is not awarded).
+       - Each player's voting limit on the decision is one plus the
+         number of degrees e holds.
 
        - The specific thesis for which the degree is to be awarded is
          an essential parameter of the decision (but not the text of
          that thesis).
+
+       - The outcome is, rules to the contrary notwithstanding, the
+         highest-ranked degree such that more than half the votes cast
+         were for that degree or a higher degree, or FAILING GRADE if
+         there was no such degree.
 
       When the Herald resolves the decision, e CAN and SHALL award the
       author the degree selected by Agora, or no degree if FAILING
@@ -5894,6 +5897,8 @@ Amended(12) by Proposal 5955 (ais523, Elysion, Murphy; disi.), 18
   November 2008
 Amended(13) by Proposal 6257 (coppro), 11 May 2009
 Amended(14) by Proposal 6624 (Murphy), 20 February 2010
+Amended(15) by Proposal 6717 (coppro), 4 May 2010
+Power changed from 1 to 3 by Proposal 6717 (coppro), 4 May 2010
 
 ----------------------------------------------------------------------
 
