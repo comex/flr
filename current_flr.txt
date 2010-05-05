@@ -2272,7 +2272,11 @@ announcement.]
 celebrating and revealing things, can be taken by announcement.]
 
 [CFJ 2086 (called 15 July 2008): Message-based actions are always
-taken in some order, never precisely simultaneously.]
+taken in some order, never precisely simultaneously, possibly unless
+otherwise stated.]
+
+[CFJ 2179 (called 23 September 2008): An message-based action can be
+taken even if its sender cannot be identified.]
 
 History:
 Created by Proposal 478 (Jim Shea), Sep. 20 1993
@@ -2863,6 +2867,9 @@ Ratification
       attempted action.
 
       Ratifying a public document is secured.
+
+[CFJ 2165 (called 16 September 2008): Ratification can create legal
+fictions, but does not always.]
 
 History:
 Created by Proposal 2425, Jan. 30 1996
@@ -3554,6 +3561,13 @@ that is not in the proposal pool is not a violation of this rule.]
 
 [CFJ 1841 (called 20 December 2007): It is possible for a proposal to
 have retroactive effect.]
+
+[CFJ 2162 (called 14 September 2008): The retroactive effect of a
+proposal cannot actually alter the past.]
+
+[CFJ 2163 (called 14 September 2008): There is no possible proposal
+text that would cause a proposal to take effect without being
+adopted.]
 
 History:
 Initial Immutable Rule 106, Jun. 30 1993
@@ -4778,9 +4792,6 @@ Judicial Panels
       SHALL act collectively to ensure that the panel satisfies all of
       its obligations.
 
-[CFJ 1746 (called 21 September 2007): A judicial panel is not a
-person.]
-
 History:
 Created by Proposal 5086 (Zefram), 1 August 2007
 Amended(1) by Proposal 5134 (root), 17 August 2007
@@ -5360,6 +5371,9 @@ as an asset, the change of its owner from "undefined" to the Lost and
 Found Department [Bank at the time of CFJ 1910] counts as a transfer,
 and fails if the Lost and Found Department is outside of the class of
 objects that can own the entity.]
+
+[CFJ 2176 (called 22 September 2008): Entities may be fungible even if
+not defined as such by this rule.]
 
 History:
 Created by Proposal 5173 (Murphy), 29 August 2007
