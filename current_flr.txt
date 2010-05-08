@@ -1,25 +1,25 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6709
-Last change to this ruleset: by proposal 6709
+Last proposal with recorded effect on this ruleset: 6710
+Last change to this ruleset: by proposal 6710
 
 Last updated: 4 May 2010
 
 Rule ID numbers:
-      highest orderly: 2294
+      highest orderly: 2295
       chaotic: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 127
+Current total number of rules: 128
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
       36 with Power=3
-      44 with Power=2
+      45 with Power=2
        2 with Power=1.9
        5 with Power=1.7
        7 with Power=1.5
@@ -171,6 +171,7 @@ Index of Rules
       Rule 2166: Assets
       Rule 2282: Energy
       Rule 2289: Capacitors
+      Rule 2295: Rewards
       Rule 2283: Fees
       Rule 2284: Fee-based actions
       Rule 2255: Cards
@@ -5444,6 +5445,20 @@ Capacitors
 
 History:
 Created by Proposal 6679 (coppro), 22 March 2010
+
+----------------------------------------------------------------------
+
+Rule 2295/0 (Power=2)
+Rewards
+
+      Whenever a player judges a case, e earns an number of farads
+      equal to its interest index.
+
+      Whenever a proposal is adopted, its author earns a number of
+      farads equal to its interest index.
+
+History:
+Created by Proposal 6710 (coppro), 8 May 2010
 
 ----------------------------------------------------------------------
 
