@@ -5412,9 +5412,9 @@ Energy
        (c) For each player, that player is awarded 6 ergs if e is the
            Captain, 5 ergs if e is a Pilot, 3 ergs if e is a Marine,
            and 4 ergs otherwise; then
-
        (d) For each office, its holder is awarded a number of ergs
            equal to the interest index of that office.
+
       The Power Station Manager (PSM) is an office and the
       recordkeepor of ergs.  Eir weekly report shall include a list of
       all erg transactions of the previous week.
