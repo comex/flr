@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6710
-Last change to this ruleset: by proposal 6710
+Last proposal with recorded effect on this ruleset: 6721
+Last change to this ruleset: by proposal 6721
 
-Last updated: 4 May 2010
+Last updated: 22 May 2010
 
 Rule ID numbers:
       highest orderly: 2295
@@ -3478,7 +3478,7 @@ Proposals
       which changes are made to the game.
 ----------------------------------------------------------------------
 
-Rule 106/26 (Power=3)
+Rule 106/27 (Power=3)
 Adopting Proposals
 
       When creating proposals, the person who creates them SHOULD
@@ -3490,11 +3490,12 @@ Adopting Proposals
       this does not preclude the other changes from taking place.
 
       A player CAN create a proposal by publishing ("submitting") a
-      body of text with a clear indication that it is intended to
-      become a proposal, which places the proposal in the Proposal
-      Pool.  The author (syn. proposer) of a proposal is the player
-      who submitted it.  A player CAN remove (syn. retract, withdraw)
-      a proposal e authored from the Proposal Pool by announcement.
+      body of text and an associated title with a clear indication
+      that it is intended to become a proposal, which places the
+      proposal in the Proposal Pool.  The author (syn. proposer) of a
+      proposal is the player who submitted it.  A player CAN remove
+      (syn. retract, withdraw) a proposal e authored from the Proposal
+      Pool by announcement.
 
       A player specifically permitted by the Rules to distribute a
       Proposal CAN distribute the proposal by publishing it with the
@@ -3604,6 +3605,7 @@ Amended(23) by Proposal 6469 (coppro; disi.), 15 September 2009
 Amended(24) by Proposal 6571 (ais523), 28 November 2009
 Amended(25) by Proposal 6625 (Murphy), 20 February 2010
 Amended(26) by Proposal 6656 (coppro), 1 March 2010
+Amended(27) by Proposal 6721 (coppro; disi), 21 May 2010
 
 ----------------------------------------------------------------------
 
