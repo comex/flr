@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6722
-Last change to this ruleset: by proposal 6722
+Last proposal with recorded effect on this ruleset: 6725
+Last change to this ruleset: by proposal 6725
 
 Last updated: 22 May 2010
 
@@ -5466,7 +5466,7 @@ Created by Proposal 6710 (coppro), 8 May 2010
 
 ----------------------------------------------------------------------
 
-Rule 2283/0 (Power=2)
+Rule 2283/1 (Power=2)
 Fees
 
       If the Rules associate a non-negative cost, price, charge, or
@@ -5480,7 +5480,9 @@ Fees
       that there is a fee for that action.  Upon said announcement, if
       the Player has sufficient energy, then the action is performed,
       and a number of ergs in the Actor's possession equal to the fee
-      are destroyed.
+      are destroyed.  If the fee associated with a fee-based action is
+      zero, the action CAN be performed by announcement if it can
+      otherwise be performed by the procedure described above.
 
       An attempt to performed a fee-based action is also implicitly a
       claim to be in possession of sufficient ergs to perform the
@@ -5493,6 +5495,7 @@ Fees
 
 History:
 Created by Proposal 6616 (G., coppro, c., Murphy), 30 January 2010
+Amended(1) by Proposal 6725 (coppro; disi.), 22 May 2010
 
 ----------------------------------------------------------------------
 
