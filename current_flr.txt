@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6725
-Last change to this ruleset: by proposal 6725
+Last proposal with recorded effect on this ruleset: 6726
+Last change to this ruleset: by proposal 6726
 
 Last updated: 22 May 2010
 
@@ -4810,7 +4810,7 @@ Assigned to Committee on the Judiciary by Proposal 6053 (Murphy,
 
 ----------------------------------------------------------------------
 
-Rule 911/37 (Power=1.7)
+Rule 911/38 (Power=1.7)
 Appeal Cases
 
       Appeal cases are a subclass of judicial cases.  An appeal case's
@@ -4860,8 +4860,8 @@ Appeal Cases
         the judge believes that the judge of the prior case will make
         a better judgement if given a new opportunity
 
-      * REASSIGN, appropriate if there is serious doubt about whether
-        the prior judgement was appropriate, or if the prior judge
+      * REMIT, appropriate if there is serious doubt about whether the
+        prior judgement was appropriate, or if the prior judge
         exhibited corruptive self-interest (material, with a specific
         and obvious impact on eir judgement and arguments, and not
         arising merely due to a difference of opinion or a wholly
@@ -4915,8 +4915,8 @@ Appeal Cases
 
       - otherwise, the CotC CAN and SHALL, asap after the overtime
         period ends, act for the panel by announcement to judgement of
-        either REMAND or REASSIGN with or without prejudice, whichever
-        e feels is most appropriate.
+        either REMAND or REMIT with or without prejudice, whichever e
+        feels is most appropriate.
 
       Any panel member CAN publish a formal Concurring Opinion with
       panel member support, provided that the panel has judged AFFIRM,
@@ -4994,6 +4994,7 @@ Amended(34) twice by Proposal 6571 (ais523), 28 November 2009
 Amended(35) by Proposal 6605 (Murphy), 19 January 2010
 Amended(36) by cleaning (Murphy), 6 March 2010
 Amended(37) by Proposal 6705 (comex), 25 April 2010
+Amended(38) by Proposal 6726 (coppro), 22 May 2010
 
 ----------------------------------------------------------------------
 
