@@ -3483,6 +3483,8 @@ Proposals
 Rule 106/27 (Power=3)
 Adopting Proposals
 
+      A proposal is a fixed body of text which has been made into a
+      proposal using a process specifically described in the Rules.
       When creating proposals, the person who creates them SHOULD
       ensure that the proposal outlines changes to be made to Agora,
       such as enacting, repealing, or amending rules, or making other
