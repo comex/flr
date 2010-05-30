@@ -3,7 +3,7 @@ THE FULL LOGICAL RULESET
 Last proposal with recorded effect on this ruleset: 6726
 Last change to this ruleset: by proposal 6726
 
-Last updated: 22 May 2010
+Last updated: 29 May 2010
 
 Rule ID numbers:
       highest orderly: 2295
@@ -198,6 +198,8 @@ Index of Rules
       Rule 1727: Happy Birthday
       Rule 2029: Town Fountain
 
+      (Garbage Bin)
+
 ----------------------------------------------------------------------
 
 [Rules are listed as follows.  "nnnn" is the rule's ID number,
@@ -378,6 +380,19 @@ that official status.]
 
 [CFJs 1911-1914 (called 18 March 2008): Physical realities supersede
 the Rules by default.]
+
+[CFJ 2220 (called 11 October 2008): Consent to join a binding
+agreement may be an effect of another action, such as joining a
+foreign nomic, as long as the action is triggered by free will and the
+actor is reasonably aware of the effect.]
+
+[CFJ 2246 (called 30 October 2008): Joining a contract does not imply
+consent to be acted on behalf of simply because the contract might be
+amended in the future to allow it.]
+
+[CFJ 2264 (called 11 November 2008): The right to refuse to become
+party to an agreement does not apply to amendments to existing
+agreements.]
 
 History:
 Initial Immutable Rule 101, Jun. 30 1993
@@ -1779,6 +1794,9 @@ URI.]
 by default have no significance other than their functional role as
 part of the URI.]
 
+[CFJ 2258 (called 6 November 2008): Changes in whitespace are also
+inconsequential.]
+
 History:
 Created by Proposal 435 (Alexx), Aug. 30 1993
 Amended by Proposal 754 (KoJen), Dec. 1 1993
@@ -1840,6 +1858,12 @@ possibility or permissibility depending on context.]
 'within <time limit>, a player SHALL <action> by announcement' means
 that the player CAN perform the action, and SHALL do so within the
 time limit.]
+
+[CFJ 2230 (called 16 October 2008): In a statement of the form "an
+action that X may take", 'may' generally means 'might', i.e. CAN.]
+
+[CFJ 2282 (called 19 November 2008): To state that an entity "MUST"
+have certain properties refers to possibility, not legality.]
 
 History:
 Created by Proposal 5053 (Murphy), 5 July 2007
@@ -2161,6 +2185,10 @@ of game custom.]
 [CFJ 2211 (called 7 October 2008): It is generally possible for an IRC
 channel to be a public forum.
 
+[CFJ 2214 (called 7 October 2008): Some IRC messages, such as NICK,
+are sent to all members of an IRC channel but are not sent via that
+channel.]
+
 [CFJ 866 (called 8 April 1996): A message is "received" when the
 message enters the recipient's normal technical domain of control,
 whether this be eir private machine or eir private account on a shared
@@ -2280,6 +2308,13 @@ otherwise stated.]
 
 [CFJ 2179 (called 23 September 2008): An message-based action can be
 taken even if its sender cannot be identified.]
+
+[CFJ 2221 (called 13 October 2008): When an action is specified as
+"can do X in order to do Y", and a player does X without specifying
+intent to do Y, e does not do Y.]
+
+[CFJ 2238 (called 22 October 2008): The requirement of unambiguous
+specification applies to the parameters of an action.]
 
 History:
 Created by Proposal 478 (Jim Shea), Sep. 20 1993
@@ -2924,6 +2959,10 @@ be part of the official report, and not aspects that are incidentally
 reported on; in particular, ratification of an official report on
 certain parameters pertaining to each player does not ratify the list
 of players.]
+
+[CFJ 2289 (called 25 November 2008): Ratification Without Objection of
+a value inseparable from another value may change the latter value
+even if it is not directly part of the report being ratified.]
 
 History:
 Created by Proposal 5459 (Murphy), 9 March 2008
@@ -3574,6 +3613,9 @@ proposal cannot actually alter the past.]
 [CFJ 2163 (called 14 September 2008): There is no possible proposal
 text that would cause a proposal to take effect without being
 adopted.]
+
+[CFJ 2259 (called 6 November 2008): The possibility of the
+instantaneous effects of a proposal are governed by the rules.]
 
 History:
 Initial Immutable Rule 106, Jun. 30 1993
@@ -4406,6 +4448,10 @@ available.]
 particular office, and an inquiry case on a statement that that player
 holds that office is judged FALSE, that player still holds that
 office.]
+
+[CFJ 2281 (called 19 November 2008): For the purposes of determining
+the validity of an inquiry case, the term "statement" should be
+interpreted loosely.]
 
 History:
 Initial Mutable Rule 216, Jun. 30 1993
@@ -6316,6 +6362,86 @@ necessarily constitute a violation of this rule.]
 
 History:
 Created by Proposal 4329 (Goethe), 9 June 2002
+
+----------------------------------------------------------------------
+
+======================================================================
+Garbage Bin
+      CFJ annotations that do not currently apply to any specific
+      rules, but are likely to do so in the future, at which point
+      they can be reattached.
+----------------------------------------------------------------------
+
+Contracts / Binding Agreements
+
+[CFJ 1892 (called 2 February 2008): An agreement that is not binding
+is thereby not a contract.]
+
+[CFJ 1901 (called 4 February 2008): An agreement that is binding is
+thereby a contract, even if it doesn't impose any obligations.]
+
+[CFJ 1892 (called 2 February 2008): An agreement's text can disclaim
+contract/binding status, thereby nullifying itself, by explicitly
+describing itself as a non-contract or as non-binding.]
+
+[CFJ 1872 (called 15 January 2008): Being a player is not a
+prerequisite for becoming party to a contract.]
+
+[CFJ 1796 (called 14 November 2007): If a person announces that e
+agrees to be bound by a particular text as a contract, without saying
+who this agreement is with, and the contract text does not regulate
+who can become a party to it, then any person can become a party to
+the contract by announcement.]
+
+[CFJ 1455 (called 14 March 2003): A contract cannot cause an
+otherwise-insignificant action by a non-party to constitute consent to
+be bound by the contract.]
+
+[CFJ 1856 (called 29 December 2007): A contract is null and void if
+the courts do not have sufficient evidence that a person's
+contract-related rights (in rule 101) are not being infringed.  This
+includes evidence that the party to the contract has reviewed the
+rules and has direct prior knowledge of the fora.]
+
+[CFJ 1686 (called 7 June 2007): A person who is not a party to an
+agreement categorically cannot violate it.]
+
+[CFJ 1752 (called 28 September 2007): Deregistration does not
+implicitly cause the ex-player to leave a contract.]
+
+[CFJ 1842 (called 20 December 2007): A contract may use retroactive
+operations internally for the purposes of determining obligations of
+the parties, but such legal fictions do not affect Agora as a whole.]
+
+[CFJ 1836 (called 18 December 2007): A contract cannot have
+retroactive effect.]
+
+[CFJ 1843 (called 20 December 2007): Becoming a party to a contract
+cannot occur retroactively, for the purposes of determining
+justiciability of the contract.]
+
+[CFJ 1816 (called 2 December 2007): A contract is not generally able
+to define terms used by the rules.]
+
+[CFJ 1819 (called 3 December 2007): A contract is not able to create
+new ways of winning the game.]
+
+[CFJ 1835 (called 18 December 2007): An authorisation granted by a
+party in a contract takes precedence over a unilateral statement by
+that party that purports to cancel that authorisation.]
+
+[CFJ 1921 (called 2 April 2008): Agreements with informal phrasing can
+be considered contracts, but only when made in a medium where lying is
+against the Rules (i.e. a public forum).]
+
+----------------------------------------------------------------------
+
+Miscellaneous
+
+[CFJ 2276a (called 20 November 2008): When a rule allows, as an
+action, a quantity to be increased which is defined elsewhere as a
+fixed value, and that action is taken, the rule thereby redefines the
+quantity as one more than it would otherwise be.]
 
 ----------------------------------------------------------------------
 
