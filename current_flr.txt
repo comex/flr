@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6726
-Last change to this ruleset: by proposal 6726
+Last proposal with recorded effect on this ruleset: 6732
+Last change to this ruleset: by proposal 6732
 
-Last updated: 29 May 2010
+Last updated: 10 June 2010
 
 Rule ID numbers:
       highest orderly: 2295
@@ -943,7 +943,7 @@ Amended(1) by Proposal 6429 (Murphy), 18 August 2009
 
 ----------------------------------------------------------------------
 
-Rule 105/3 (Power=3)
+Rule 105/4 (Power=3)
 Rule Changes
 
       Where permitted by other rules, an instrument generally can,
@@ -971,11 +971,10 @@ Rule Changes
       A rule change is any effect that falls into the above classes.
       Rule changes always occur sequentially, never simultaneously.
 
-      Any ambiguity in the specification of a rule change causes
-      that change to be void and without effect.  A variation in
-      whitespace or capitalization in the quotation of an existing
-      rule does not constitute ambiguity for the purposes of this
-      rule, but any other variation does.
+      Any ambiguity in the specification of a rule change causes that
+      change to be void and without effect.  An inconsequential
+      variation in the quotation of an existing rule does not
+      constitute ambiguity for the purposes of this rule.
 
       This rule provides the only mechanism by which rules can be
       created, modified, or destroyed, or by which an entity can
@@ -1039,6 +1038,7 @@ Amended(2) by Proposal 4940 (Zefram), 29 April 2007
 Amended(3) by Proposal 5110 (Murphy), 2 August 2007
 Assigned to Committee on Rules by Proposal 6053 (Murphy, woggle,
   ais523), 23 January 2009
+Amended(4) by Proposal 6732 (comex), 6 June 2010
 
 ----------------------------------------------------------------------
 
@@ -1148,19 +1148,20 @@ Amended(18) by Proposal 5237 (AFO; disi.), 3 October 2007
 
 ----------------------------------------------------------------------
 
-Rule 2221/3 (Power=3)
+Rule 2221/4 (Power=3)
 Cleanliness
 
       Any player CAN clean a rule without objection by specifying one
-      or more corrections to spelling, grammar, and/or capitalization
-      in its text and/or title; the rule is amended by this rule as
-      specified by that person.
+      or more corrections to spelling, grammar, whitespace,
+      capitalization, and/or dialect in its text and/or title; the
+      rule is amended by this rule as specified by that person.
 
 History:
 Created by Proposal 5975 (Murphy), 25 November 2008
 Amended(1) by Proposal 6098 (comex), 22 February 2009
 Amended(2) by Proposal 6291 (Murphy), 19 May 2009
 Amended(3) by Proposal 6722 (Murphy), 21 May 2010
+Amended(4) by Proposal 6732 (comex), 6 June 2010
 
 ----------------------------------------------------------------------
 
@@ -1692,14 +1693,15 @@ Definitions
       widely used and do not readily fall into any other category.
 ----------------------------------------------------------------------
 
-Rule 754/12 (Power=3)
+Rule 754/13 (Power=3)
 Definition Definitions
 
       Regularity of communication being essential for the healthy
       function of any nomic, it is hereby resolved:
 
-      (1) A difference in spelling, grammar, or dialect, or the use of
-          a synonym or abbreviation in place of a word or phrase, is
+      (1) A difference in spelling, grammar, whitespace,
+          capitalization, or dialect, or the use of a synonym or
+          abbreviation in place of a word or phrase, is
           inconsequential in all forms of communication, as long as
           the difference does not create an ambiguity in meaning.
 
@@ -1814,6 +1816,7 @@ Amended(9) by Proposal 6021 (Murphy), 22 December 2008
 Amended(10) by Proposal 6384 (Murphy), 3 July 2009
 Amended(11) by Proposal 6571 (ais523), 28 November 2009
 Amended(12) by Proposal 6650 (coppro), 10 March 2010
+Amended(13) by Proposal 6732 (comex), 6 June 2010
 
 ----------------------------------------------------------------------
 
