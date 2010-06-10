@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6732
-Last change to this ruleset: by proposal 6732
+Last proposal with recorded effect on this ruleset: 6733
+Last change to this ruleset: by proposal 6733
 
 Last updated: 10 June 2010
 
@@ -1520,7 +1520,7 @@ Amended(11) by Proposal 6666 (Murphy), 10 March 2010
 
 ----------------------------------------------------------------------
 
-Rule 2177/14 (Power=2)
+Rule 2177/15 (Power=2)
 The Senate
 
       A Senator is any first-class player whose most recent
@@ -1545,15 +1545,16 @@ The Senate
       the roll call.  The Assessor's monthly report includes the roll
       call of the most recent emergency session.
 
-      During emergency session, any Senator CAN declare a filibuster
-      on a proposal in its voting period, with 2 supporting Senators,
-      provided no filibuster has been declared on that proposal in the
-      past.  Any Senator CAN end a filibuster on a proposal with 4
-      supporting Senators and without objection from a member of the
-      Government (any of whom CAN object).
-
-      While a proposal is in filibuster, its quorum is the number of
-      eligible voters plus one, rules to the contrary notwithstanding.
+      During emergency session, any Senator CAN, with 2 supporting
+      Senators, declare a specified non-Senator Ineligible to vote on
+      the decision to adopt a given proposal in its voting period.  A
+      player's voting limit on a decision for which e is Ineligible is
+      0 and cannot be modified, rules to the contrary notwithstanding.
+      Any Senator CAN cause an Ineligible player to cease to be
+      Ineligible to vote on a specified decision with 4 supporting
+      Senators and without objection from a member of the Government
+      (any of whom CAN object), restoring eir voting limit to what it
+      would be if e had never been made Ineligible.
 
       When an emergency session begins, all non-Senators' postures
       become supine, and non-Senators CANNOT flip their posture while
@@ -1575,6 +1576,7 @@ Amended(11) by Proposal 6199 (Murphy), 27 April 2009
 Amended(12) by Proposal 6266 (Murphy, ais523), 11 May 2009
 Amended(13) by Proposal 6319 (Murphy; disi.), 26 May 2009
 Amended(14) by Proposal 6618 (Murphy; disi.), 4 February 2010
+Amended(15) by Proposal 6733 (Wooble), 6 June 2010
 
 ----------------------------------------------------------------------
 
