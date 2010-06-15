@@ -1,19 +1,19 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6736
-Last change to this ruleset: by proposal 6736
+Last proposal with recorded effect on this ruleset: 6737
+Last change to this ruleset: by proposal 6737
 
 Last updated: 15 June 2010
 
 Rule ID numbers:
-      highest orderly: 2295
+      highest orderly: 2296
       chaotic: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 127
+Current total number of rules: 128
 
 Power distribution:
        1 with Power=4
@@ -23,7 +23,7 @@ Power distribution:
        2 with Power=1.9
        5 with Power=1.7
        7 with Power=1.5
-      31 with Power=1
+      32 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -90,6 +90,7 @@ Index of Rules
       Rule 2152: Mother, May I?
       Rule 1023: Common Definitions
       Rule 1769: Holidays
+      Rule 2296: Festival Days
       Rule 2161: ID Numbers
       Rule 2153: Interest Index
       Rule 2146: Indices
@@ -2009,6 +2010,30 @@ Amended(5) by Proposal 5086 (Zefram), 1 August 2007
 Amended(6) by Proposal 5484 (Murphy; disi.), 2 April 2008
 Amended(7) by Proposal 5535 (Murphy), 7 June 2008
 Power changed from 2 to 3 by Proposal 5701 (ais523), 1 October 2008
+
+----------------------------------------------------------------------
+
+Rule 2296/0 (Power=1)
+Festival Days
+
+      Agora Nomic recognizes and celebrates the following:
+
+        * January 12-14 - Agora's Unbirthday observed (as described
+          elsewhere)
+        * February 29 - St. Tib's Day
+        * March 19 - Mojoday
+        * April 1 - April Fool's Day
+        * May 25 - Towel Day
+        * June 30 - Agora's Birthday (as described elsewhere)
+        * July 15 - Confuflux
+        * August 12 - Zaraday
+        * September 26 - Bureflux
+        * October 24 - Maladay
+        * November 5 - Guy Fawkes Night
+        * December 8 - Afflux
+
+History:
+Created by Proposal 6737 (Murphy, David Nicol), 13 June 2010
 
 ----------------------------------------------------------------------
 
