@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6735
-Last change to this ruleset: by proposal 6735
+Last proposal with recorded effect on this ruleset: 6736
+Last change to this ruleset: by proposal 6736
 
 Last updated: 15 June 2010
 
@@ -13,13 +13,13 @@ Rule ID numbers:
 
 Statistics
 
-Current total number of rules: 128
+Current total number of rules: 127
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
       36 with Power=3
-      45 with Power=2
+      44 with Power=2
        2 with Power=1.9
        5 with Power=1.7
        7 with Power=1.5
@@ -192,7 +192,6 @@ Index of Rules
       * Foreign Relations
       Rule  402: Identity of the Speaker
       Rule  103: Role of the Speaker
-      Rule 2159: Protective Decrees
 
       * Trophies
       Rule 1727: Happy Birthday
@@ -6230,45 +6229,6 @@ Amended(4) by Proposal 5407 (root), 22 January 2008
 Power changed from 3 to 1 by Proposal 5947 (ais523), 15 November 2008
 Amended(5) by Proposal 6026 (Murphy), 22 December 2008
 Amended(6) by Proposal 6490 (coppro), 18 September 2009
-
-----------------------------------------------------------------------
-
-Rule 2159/3 (Power=2)
-Protective Decrees
-
-      A protective decree is an act of Agora whose intended effect is
-      to make explicit changes to the state of a protectorate nomic.
-      The changes may include enacting, repealing, or amending rules
-      of the protectorate, changing the set of players of the
-      protectorate, or any other instantaneous changes to the
-      protectorate's gamestate.
-
-      Initiating a protective decree is secured, and is INVALID unless
-      the initiating instrument unambiguously specifies the target
-      protectorate and the changes to be made to it.
-
-      As soon as possible after a protective decree has been
-      initiated, the ambassador SHALL proclaim it to the target nomic.
-      The decree takes effect upon this proclamation.
-
-      Protective decrees should be initiated only for the purpose of
-      assisting the protectorate in its growth and enabling its
-      longevity.  Protective decrees should always be benevolent.
-
-      All players are prohibited from falsely claiming, to any nomic,
-      that a document is a protective decree.
-
-[CFJ 1860 (called 8 January 2008): Falsely claiming, to an entity that
-is neither a nomic nor a means of contacting a nomic, that a document
-is a protective decree is not a violation of rule 2159.]
-
-History:
-Created by Proposal 5091 (Zefram), 25 July 2007
-Amended(1) by Proposal 5276 (Murphy, Pavitra, Zefram), 7 November 2007
-Amended(2) by Proposal 5391 (Murphy; disi.), 16 January 2008
-Amended(3) by Proposal 6023 (Murphy), 22 December 2008
-Assigned to Committee on Foreign Relations by Proposal 6053 (Murphy,
-  woggle, ais523), 23 January 2009
 
 ----------------------------------------------------------------------
 
