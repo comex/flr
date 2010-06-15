@@ -394,6 +394,10 @@ amended in the future to allow it.]
 party to an agreement does not apply to amendments to existing
 agreements.]
 
+[CFJ 2361 (called 26 January 2009): The withholding of a reward for
+doing something may or may not constitute a penalty for not doing it,
+depending on the circumstances.]
+
 History:
 Initial Immutable Rule 101, Jun. 30 1993
 Mutated from MI=Unanimity to MI=3 by Proposal 1480, Mar. 15 1995
@@ -1326,6 +1330,13 @@ Who Am I?
 containing a unique nickname is not a self-ratifying claim that its
 publisher is distinct from other generally-recognized persons.]
 
+[CFJ 2300 (called 5 December 2008): The Executor of a public message
+is not necessarily a person who took action at the time the message
+was sent.]
+
+[CFJ 2325 (called 5 January 2009): Only the selection of a nickname
+for the purposes of Agora is relevant to this rule.]
+
 History:
 Created by Proposal 5212 (Murphy), 8 September 2007
 Amended(1) by Proposal 5445 (Goethe, Murphy), 21 February 2008
@@ -1467,6 +1478,10 @@ Cantus Cygneus
 
 [CFJ 1594 (called 16 December 2006): Players can be deregistered due
 to this rule even if there is no Registrar.]
+
+[CFJ 2358 (called 26 January 2009): A document which is labeled as a
+Cantus Cygneus but does not actually detail grievances, etc. is not a
+Cantus Cygneus.]
 
 History:
 Created by Proposal 3705 (Crito), Mar. 9 1998
@@ -2278,6 +2293,9 @@ announcement on eir behalf.]
 arrangement cannot grant a player the capacity to act by announcement
 on behalf of another.]
 
+[CFJ 2322 (called 24 December 2008): The ability to act on behalf can
+be created by any willful agreement.]
+
 [CFJ 1336 (called 13 December 2001): A public statement that one
 wishes to perform an action that one can perform by announcement can
 constitute an announcement that performs that action.]
@@ -2344,6 +2362,9 @@ intent to do Y, e does not do Y.]
 
 [CFJ 2238 (called 22 October 2008): The requirement of unambiguous
 specification applies to the parameters of an action.]
+
+[CFJ 2363 (called 1 February 2009): "X can do Y by doing Z" does not
+imply that X can do Z.]
 
 History:
 Created by Proposal 478 (Jim Shea), Sep. 20 1993
@@ -5460,6 +5481,10 @@ objects that can own the entity.]
 [CFJ 2176 (called 22 September 2008): Entities may be fungible even if
 not defined as such by this rule.]
 
+[CFJ 2309 (called 11 December 2008): If two separate documents attempt
+to define an asset with the same name, they refer to the same entity,
+but the entity is not an asset.]
+
 History:
 Created by Proposal 5173 (Murphy), 29 August 2007
 Amended(1) by Proposal 5216 (Murphy), 13 September 2007
@@ -6428,6 +6453,11 @@ that party that purports to cancel that authorisation.]
 [CFJ 1921 (called 2 April 2008): Agreements with informal phrasing can
 be considered contracts, but only when made in a medium where lying is
 against the Rules (i.e. a public forum).]
+
+[CFJ 2302 (called 7 December 2008): The scope of the text of a
+contract is limited compared to that of a rule; in particular, a
+contract cannot cause a paradox by setting undecidable conditions on
+joining it.]
 
 ----------------------------------------------------------------------
 
