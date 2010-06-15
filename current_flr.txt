@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6734
-Last change to this ruleset: by proposal 6734
+Last proposal with recorded effect on this ruleset: 6735
+Last change to this ruleset: by proposal 6735
 
 Last updated: 15 June 2010
 
@@ -5555,7 +5555,7 @@ Amended(1) by Proposal 6725 (coppro; disi.), 22 May 2010
 
 ----------------------------------------------------------------------
 
-Rule 2284/3 (Power=2)
+Rule 2284/4 (Power=2)
 Fee-based actions
 
       - A player CAN increase eir voting limit on a specified decision
@@ -5587,11 +5587,14 @@ Fee-based actions
         player for a charge of 2 ergs. The PSM SHALL note such a
         destruction in eir report.
 
+      - A player CAN award emself a capacitor for a charge of 3 ergs.
+
 History:
 Created by Proposal 6616 (G., coppro, c., Murphy), 30 January 2010
 Amended(1) by Proposal 6630 (Yally; disi.), 20 February 2010
 Amended(2) by Proposal 6633 (coppro; disi.), 20 February 2010
 Amended(3) by Proposal 6638 (Yally), 20 February 2010
+Amended(4) by Proposal 6735 (coppro), 13 June 2010
 
 ----------------------------------------------------------------------
 
