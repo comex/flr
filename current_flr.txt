@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6741
-Last change to this ruleset: by proposal 6741
+Last proposal with recorded effect on this ruleset: 6744
+Last change to this ruleset: by proposal 6744
 
 Last updated: 1 July 2010
 
@@ -3030,7 +3030,7 @@ Amended(3) by Proposal 6340 (G.), 11 June 2009
 
 ----------------------------------------------------------------------
 
-Rule 2201/3 (Power=3)
+Rule 2201/4 (Power=3)
 Self-Ratification
 
       A public document defined by the rules as self-ratifying is
@@ -3044,11 +3044,14 @@ Self-Ratification
           interpretation.
 
        b) A claim of error, appropriate for matters of fact.  The
-          publisher of the original document SHALL as soon as possible
-          either deny the claim (causing it to cease to be a doubt),
-          publish a revision, or (if the subject is actually a matter
-          of law) initiate an inquiry case regarding the truth of the
-          claim.
+          publisher of the original document SHALL (if e was required
+          to publish that document) or SHOULD (otherwise) do one of
+          the following as soon as possible:
+
+              i) Deny the claim (causing it to cease to be a doubt).
+             ii) Publish a revision.
+            iii) Initiate an inquiry case regarding the truth of the
+                 claim (if the subject is actually a matter of law).
 
 [CFJ 1690 (called 19 June 2007): A challenge to a self-ratifying
 document [at the time of CFJ 1690, the resolution of an Agoran
@@ -3064,6 +3067,7 @@ Created by Proposal 5459 (Murphy), 9 March 2008
 Amended(1) by Proposal 6106 (Murphy, ais523), 22 February 2009
 Amended(2) by Proposal 6243 (Murphy), 9 May 2009
 Amended(3) by Proposal 6622 (Murphy), 20 February 2010
+Amended(4) by Proposal 6744 (Murphy), 1 July 2010
 
 ----------------------------------------------------------------------
 
