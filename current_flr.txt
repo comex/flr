@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6744
-Last change to this ruleset: by proposal 6744
+Last proposal with recorded effect on this ruleset: 6746
+Last change to this ruleset: by proposal 6746
 
 Last updated: 1 July 2010
 
@@ -3378,7 +3378,7 @@ Amended(6) by Proposal 6504 (Murphy; disi.), 3 October 2009
 
 ----------------------------------------------------------------------
 
-Rule 208/7 (Power=3)
+Rule 208/8 (Power=3)
 Resolving Agoran decisions
 
       The vote collector for an unresolved Agoran decision CAN resolve
@@ -3391,9 +3391,9 @@ Resolving Agoran decisions
 
       (b) It clearly identifies the matter to be resolved.
 
-      (c) It specifies which option was selected by Agora, as
-          described elsewhere, and provides a tally of the voters'
-          valid ballots on the various options.
+      (c) It specifies the outcome, as described elsewhere, and, if
+          there was more than one valid option, provides a tally of
+          the voters' valid ballots on the various options.
 
       Each Agoran decision has exactly one vote collector, defaulting
       to the initiator of the decision.  If the vote collector is
@@ -3431,6 +3431,7 @@ Amended(6) by Proposal 5450 (Murphy), 27 February 2008
 Amended(7) by Proposal 5453 (Murphy), 1 March 2008
 Assigned to Committee on Rules by Proposal 6053 (Murphy, woggle,
   ais523), 23 January 2009
+Amended(8) by Proposal 6746 (coppro; disi.), 1 July 2010
 
 ----------------------------------------------------------------------
 
