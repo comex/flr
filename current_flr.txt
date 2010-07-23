@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6749
-Last change to this ruleset: by proposal 6749
+Last proposal with recorded effect on this ruleset: 6750
+Last change to this ruleset: by proposal 6750
 
 Last updated: 23 July 2010
 
@@ -5583,17 +5583,18 @@ Created by Proposal 6679 (coppro), 22 March 2010
 
 ----------------------------------------------------------------------
 
-Rule 2295/0 (Power=2)
+Rule 2295/1 (Power=2)
 Rewards
 
-      Whenever a player judges a case, e earns an number of farads
-      equal to its interest index.
+      Whenever a player judges a case on time, e earns an number of
+      farads equal to its interest index.
 
       Whenever a proposal is adopted, its author earns a number of
       farads equal to its interest index.
 
 History:
 Created by Proposal 6710 (coppro), 8 May 2010
+Amended(1) by Proposal 6750 (Wooble; disi.), 20 July 2010
 
 ----------------------------------------------------------------------
 
