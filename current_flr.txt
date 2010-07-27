@@ -5861,7 +5861,7 @@ Props
       and one prop is created in the possession of each player
       possessing less than fourteen props.
 
-      Players with at least 23 props are Pilots; the Pilot with the
+      Players with at least 19 props are Pilots; the Pilot with the
       most props (if any) is the Captain. Players with less than 9
       props are Marines.
 
