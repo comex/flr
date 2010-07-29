@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
 Last proposal with recorded effect on this ruleset: 6750
-Last change to this ruleset: by proposal 6750
+Last change to this ruleset: by cleaning
 
 Last updated: 23 July 2010
 
@@ -2678,7 +2678,7 @@ Amended(31) by cleaning (Murphy), 6 March 2010
 
 ----------------------------------------------------------------------
 
-Rule 2143/12 (Power=1)
+Rule 2143/13 (Power=1)
 Official Reports and Duties
 
       For each office:
@@ -2703,7 +2703,7 @@ Official Reports and Duties
       report, without specifying which one, is part of its weekly
       report.  Failure of the holder of an office to perform any duty
       required of that office within the allotted time is the Class-N
-      crime of Tardiness, where N in the Interest Index of that
+      crime of Tardiness, where N is the Interest Index of that
       office.
 
       While performing weekly or monthly duties or publishing weekly
@@ -2732,6 +2732,7 @@ Amended(9) by Proposal 6368 (C-walker), 23 June 2009
 Amended(10) by Proposal 6428 (BobTHJ), 18 August 2009
 Amended(11) by cleaning (Murphy), 6 March 2010
 Amended(12) by Proposal 6664 (Murphy; disi.), 10 March 2010
+Amended(13) by cleaning (Murphy), 29 July 2010
 
 ----------------------------------------------------------------------
 
