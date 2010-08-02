@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6760
-Last change to this ruleset: by proposal 6760
+Last proposal with recorded effect on this ruleset: 6761
+Last change to this ruleset: by proposal 6761
 
 Last updated: 2 August 2010
 
@@ -2885,7 +2885,7 @@ Amended(31) by Proposal 6696 (coppro), 25 April 2010
 
 ----------------------------------------------------------------------
 
-Rule 2276/2 (Power=2)
+Rule 2276/3 (Power=2)
 Assumption of Vacant Offices
 
       Assumption is an elected office switch, tracked by the IADoP
@@ -2904,10 +2904,15 @@ Assumption of Vacant Offices
       one provided by this Rule, then the Assumption of that office is
       flipped to Postulated.
 
+      If a player has held an Assumed office continuously since the
+      last time it was Postulated, e can flip its Assumption to
+      Postulated by announcement.
+
 History:
 Created by Proposal 6506 (Pavitra), 3 October 2009
 Amended(1) by Proposal 6528 (coppro; disi.), 23 October 2009
 Amended(2) by Proposal 6529 (Pavitra; disi.), 23 October 2009
+Amended(3) by Proposal 6761 (coppro), 2 August 2010
 
 ----------------------------------------------------------------------
 
