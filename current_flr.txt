@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6754
-Last change to this ruleset: by proposal 6754
+Last proposal with recorded effect on this ruleset: 6758
+Last change to this ruleset: by proposal 6758
 
 Last updated: 2 August 2010
 
@@ -671,7 +671,7 @@ Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
 
 ----------------------------------------------------------------------
 
-Rule 2199/11 (Power=1)
+Rule 2199/12 (Power=1)
 Ribbons
 
       Ribbons are a class of fixed assets.  If winning is secured,
@@ -716,13 +716,6 @@ Ribbons
            Ribbon, unless e violated a requirement to submit that
            judgement within a time limit.
 
-      (+W) When a first-class person becomes a player for the first
-           time, e earns a White Ribbon.  When a first-class person
-           has been a player continuously for at least three months,
-           was never a player before that period, and names another
-           player as eir mentor (and has not named a mentor in this
-           fashion before), the named player earns a White Ribbon.
-
       (+M) When, during Agora's birthday, a player publicly
            acknowledges the occasion, e earns a Magenta Ribbon.
 
@@ -766,6 +759,7 @@ Amended(8) by Proposal 6483 (Pavitra), 18 September 2009
 Amended(9) by Proposal 6576 (G.; disi.), 28 November 2009
 Amended(10) by Proposal 6650 (coppro), 10 March 2010
 Amended(11) by Proposal 6658 (Murphy; disi), 10 March 2010
+Amended(12) by Proposal 6758 (coppro), 2 August 2010
 
 ----------------------------------------------------------------------
 
