@@ -4348,7 +4348,7 @@ Amended(3) by Proposal 6662 (Murphy; disi.), 10 March 2010
 
 ----------------------------------------------------------------------
 
-Rule 2225/3 (Power=1.5)
+Rule 2225/4 (Power=1.5)
 Interest Index of Judicial Cases
 
       Each judicial case has an interest index, which CAN be set by
@@ -4356,9 +4356,8 @@ Interest Index of Judicial Cases
       to zero.
 
       A player CAN, Without N Objections, increase or decrease the
-      interest index of a judicial case by 1, where N is the 4 minus
-      the interest index of that case immediately prior to that
-      change.
+      interest index of a judicial case by 1, where N is 4 minus the
+      interest index of that case immediately prior to that change.
 
       A player CAN set the interest index of a disinterested judicial
       case to 1 by announcement.
@@ -4373,6 +4372,7 @@ Created by Proposal 5970 (Murphy), 20 November 2008
 Amended(1) by Proposal 6176 (Murphy), 7 April 2009
 Amended(2) by Proposal 6259 (Quazie), 11 May 2009
 Amended(3) by Proposal 6483 (Pavitra), 18 September 2009
+Amended(4) by cleaning (Murphy), 2 August 2010
 
 ----------------------------------------------------------------------
 
