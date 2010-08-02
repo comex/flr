@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6752
-Last change to this ruleset: by proposal 6752
+Last proposal with recorded effect on this ruleset: 6754
+Last change to this ruleset: by proposal 6754
 
 Last updated: 2 August 2010
 
@@ -3001,16 +3001,14 @@ Amended(13) by Proposal 6570 (Murphy), 28 November 2009
 
 ----------------------------------------------------------------------
 
-Rule 2202/3 (Power=3)
+Rule 2202/4 (Power=3)
 Ratification Without Objection
 
-      An official document is a public document purported to be part
-      (possibly all) of an official report; this part is the
-      document's scope.  Any player CAN, without objection, ratify an
-      official document, specifying its scope.  The date of this
-      ratification and the scope of the ratified document become part
-      of the official report in question, until the same scope is
-      ratified at a later date.
+      Any player CAN, without objection, ratify a public document,
+      specifying its scope. If that document is an official report or
+      a substantial portion thereof, until such a time as that report
+      or portion is again ratified, the date and scope of the
+      ratification become a part of the report.
 
       Ratification Without Objection CANNOT cause the repeal,
       amendment, enactment, or mutation of any Rule, rules to the
@@ -3041,6 +3039,7 @@ Created by Proposal 5459 (Murphy), 9 March 2008
 Amended(1) by Proposal 6048 (Wooble), 13 January 2009
 Amended(2) by Proposal 6174 (woggle), 7 April 2009
 Amended(3) by Proposal 6340 (G.), 11 June 2009
+Amended(4) by Proposal 6754 (coppro; disi.), 2 August 2010
 
 ----------------------------------------------------------------------
 
