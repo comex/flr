@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6761
-Last change to this ruleset: by proposal 6761
+Last proposal with recorded effect on this ruleset: 6762
+Last change to this ruleset: by proposal 6762
 
 Last updated: 2 August 2010
 
@@ -6041,7 +6041,7 @@ Created by Proposal 6747 (Tiger), 1 July 2010
 
 ----------------------------------------------------------------------
 
-Rule 2298/1 (Power=1)
+Rule 2298/2 (Power=1)
 The Shuttle
 
       The Shuttle is an object In Space that houses the crew
@@ -6052,7 +6052,7 @@ The Shuttle
       Maximum hit points: 12
       Position: 1
       Delta: 1
-      Explosion: 0
+      Explosion value: 0
 
       Station is a switch possessed by all active players, with
       possible values Outside (default), Lower Deck, Engine Room and
@@ -6069,10 +6069,11 @@ The Shuttle
 History:
 Created by Proposal 6747 (Tiger), 1 July 2010
 Amended(1) by Proposal 6760 (coppro), 2 August 2010
+Amended(2) by Proposal 6762 (Yally; disi.), 2 August 2010
 
 ----------------------------------------------------------------------
 
-Rule 2299/0 (Power=1)
+Rule 2299/1 (Power=1)
 Journeys and the Enemy
 
       The Shuttle regularly makes journeys between the wormholes. If a
@@ -6089,9 +6090,10 @@ Journeys and the Enemy
 
       The Enemy can use these Threat Points to create Threats by
       defining the new Threat, paying its cost, and deploying it ready
-      to attack. The cost of a Threat (minimum 0) is calculated by the
-      following formula: H+|d|+e+a+s+10-|S-p| where the symbols denote
-      the following values:
+      to attack, so long as the Enemy's Threat Points would not then
+      fall below 0. The cost of a Threat (minimum 0) is calculated by
+      the following formula: H+|d|+e+a+s+10-|S-p| where the symbols
+      denote the following values:
       H = its Maximum hit points
       d = its delta
       e = its explosion value
@@ -6108,21 +6110,22 @@ Journeys and the Enemy
       start of the journey.
 
       If the Shuttle reaches the end of the journey and is warped,
-      each player aboard the Shuttle is rewarded a capacitor. If the
+      each player aboard the Shuttle is rewarded a farad. If the
       Shuttle is destroyed, the Enemy is rewarded a Leadership Token
       and can only initiate the next journey with three support
       (anyone else still only needs notice).
 
 History:
 Created by Proposal 6747 (Tiger), 1 July 2010
+Amended(1) by Proposal 6762 (Yally; disi.), 2 August 2010
 
 ----------------------------------------------------------------------
 
-Rule 2300/1 (Power=1)
+Rule 2300/2 (Power=1)
 Buttons
 
       The Shuttle holds many buttons that can be pushed, causing the
-      Shuttle to take certain actions at the start of he next day.
+      Shuttle to take certain actions at the start of the next day.
       Every player can push one button in eir Station once per day,
       and each button can be pushed once per day unless otherwise
       stated.
@@ -6147,8 +6150,9 @@ Buttons
          to any other object with a position within 2 AUs of the
          Shuttle's.
 
-         Missile Launch - Dispatches a Missile In Space. Its stats
-         are:
+         Missile Launch - Dispatches a Missile In Space. Whhen it
+         appears, it has the following stats:
+         Symbol: X
          Maximum hit points: 5
          Position: One less than that of the Shuttle
          Delta: -2
@@ -6164,7 +6168,7 @@ Buttons
          More Speed (1) - Increases the Shuttle's delta by one
          (maximum 5)
 
-         Turbo (2) - Increases the Shuttle's position b 2.
+         Turbo (2) - Increases the Shuttle's position by 2.
 
          Zero-Point Handbrake (1) - Reduces the Shuttle's delta to 0.
 
@@ -6196,17 +6200,18 @@ Buttons
 History:
 Created by Proposal 6747 (Tiger), 1 July 2010
 Amended(1) by Proposal 6760 (coppro), 2 August 2010
+Amended(2) by Proposal 6762 (Yally; disi.), 2 August 2010
 
 ----------------------------------------------------------------------
 
-Rule 2301/0 (Power=1)
+Rule 2301/1 (Power=1)
 Space Flight
 
       At the start of each day, the following procedure is performed:
 
         i) The Shuttle performs the action associated with the buttons
            pushed  during the previous day. These are performed in the
-           order the button were pushed. Any collisions occur.
+           order the button were pushed.
 
        ii) Each threat performs its attack. This does damage equal to
            its attack value to the closest  object in the direction it
@@ -6234,10 +6239,11 @@ Space Flight
 
 History:
 Created by Proposal 6747 (Tiger), 1 July 2010
+Amended(1) by Proposal 6762 (Yally; disi.), 2 August 2010
 
 ----------------------------------------------------------------------
 
-Rule 2302/0 (Power=1)
+Rule 2302/1 (Power=1)
 The Ship Computor
 
       The Ship Computor is an office, and tracks of the following:
@@ -6248,11 +6254,12 @@ The Ship Computor
       - The Difficulty of the current journey
       - The stats of the Shuttle and all Missiles
 
-      The Enemy is an imposed office, and tracks all Threats and their
-      respective stats.
+      The enemy is an imposed office; eir report includes information
+      on all Threats and their respective stats.
 
 History:
 Created by Proposal 6747 (Tiger), 1 July 2010
+Amended(1) by Proposal 6762 (Yally; disi.), 2 August 2010
 
 ----------------------------------------------------------------------
 
