@@ -1,25 +1,25 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6763
-Last change to this ruleset: by proposal 6763
+Last proposal with recorded effect on this ruleset: 6764
+Last change to this ruleset: by proposal 6764
 
 Last updated: 4 August 2010
 
 Rule ID numbers:
-      highest orderly: 2306
+      highest orderly: 2307
       chaotic: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 138
+Current total number of rules: 139
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
       36 with Power=3
-      45 with Power=2
+      46 with Power=2
        2 with Power=1.9
        5 with Power=1.7
        7 with Power=1.5
@@ -29,6 +29,7 @@ Power distribution:
 
 Index of Categories
 
+      * Temporary
       * The Game of Agora
       * Rules
       * Players
@@ -46,6 +47,9 @@ Index of Categories
 ----------------------------------------------------------------------
 
 Index of Rules
+
+      * Temporary
+      Rule 2307: Website Fixup
 
       * The Game of Agora
       Rule 2105: The Map of Agora
@@ -232,6 +236,53 @@ rulekeepor's discretion.  These annotations have no legal force.]
 History:
 Historical annotations required by rule 1681.
 An ellipsis (...) indicates that the history is incomplete.
+
+----------------------------------------------------------------------
+
+======================================================================
+Temporary
+      A temporary category containing a temporary rule.
+----------------------------------------------------------------------
+
+Rule 2307/0 (Power=2)
+Website Fixup
+
+       During the Submission Period, any player CAN, by announcement,
+       submit a Website Submission. A Website Submission is a document or
+       collection of documents intended to replace the web page at
+       http://agoranomic.org/. A player CAN by announcement withdraw a
+       Website Submission (causing it to cease to be a
+       Website Submission). Submitting a Website Submission causes any
+       earlier Website Submission authored by the same player to be
+       withdrawn.
+
+       Website Submissions have ID numbers, to be assigned by the
+       the Sysadmin. Rules to the contrary notwithstanding, the
+       Sysadmin has no report and has II 0. The Sysadmin is an imposed
+       office, its holder is coppro.
+
+       If the Submission Period has not began, Taral CAN, by
+       announcement, begin it, and e also CAN, by announcement, cause
+       this Rule to repeal itself. If the Submission Period has not began
+       and this Rule has been in the Ruleset for more than two weeks,
+       any player CAN, by announcement, cause this Rule to repeal itself.
+
+       Two weeks after the Submission Period begins, it ends. As soon as
+       possible thereafter, the Sysadmin SHALL initiate an Agoran
+       decision to pick the winning Website Sumbission; the options shall
+       be each Website Submission and NO WINNER. Each active player is
+       an eligible voter for this decision, as is Taral. Taral's voting
+       limit is 3, every other voter's limit is 1. The text of each
+       Website Submission is an essential parameter.
+
+       When the Agoran decision is resolved, if a Website Submission was
+       selected as the outcome, then its author is awarded two Leadership
+       Tokens and Taral SHOULD update http://agoranomic.org/ to reflect
+       the winning Website Submission. Regardless of the outcome, this
+       rule then repeals itself.
+
+History:
+Created by Proposal 6764 (coppro), 4 August 2010
 
 ----------------------------------------------------------------------
 
