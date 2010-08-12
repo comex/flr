@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6778
-Last change to this ruleset: by proposal 6778
+Last proposal with recorded effect on this ruleset: 6779
+Last change to this ruleset: by proposal 6779
 
 Last updated: 12 August 2010
 
@@ -801,6 +801,9 @@ Ribbons
 
       (+P) The Speaker qualifies for a Platinum Ribbon.
 
+      (+Y) Each player with 15 or more ergs qualifies for a Yellow
+           Ribbon.
+
       If this rule mentions at least six different specific colors for
       Ribbons, then upon a win announcement that one or more players
       each possess at least one Ribbon of each such color, all those
@@ -835,6 +838,7 @@ Amended(11) by Proposal 6658 (Murphy; disi), 10 March 2010
 Amended(12) by Proposal 6758 (coppro), 2 August 2010
 Amended(13) by Proposal 6777 (coppro), 11 August 2010
 Amended(14) by Proposal 6778 (coppro), 11 August 2010
+Amended(15) by Proposal 6779 (coppro), 11 August 2010
 
 ----------------------------------------------------------------------
 
