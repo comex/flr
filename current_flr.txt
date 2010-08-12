@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6764
-Last change to this ruleset: by proposal 6764
+Last proposal with recorded effect on this ruleset: 6767
+Last change to this ruleset: by proposal 6767
 
-Last updated: 4 August 2010
+Last updated: 12 August 2010
 
 Rule ID numbers:
       highest orderly: 2307
@@ -6129,17 +6129,17 @@ Amended(2) by Proposal 6762 (Yally; disi.), 2 August 2010
 
 ----------------------------------------------------------------------
 
-Rule 2299/1 (Power=1)
+Rule 2299/2 (Power=1)
 Journeys and the Enemy
 
       The Shuttle regularly makes journeys between the wormholes. If a
       journey is not in place, any player can with notice initiate a
       new journey. That player then becomes the Enemy, eir Station
       switch is flipped to Outside, the Station switches of all other
-      players are flipped to Bridge and all objects In Space are
-      destroyed. The Enemy shall then as soon as possible post the map
-      of the new journey, marking out only the two new wormholes and
-      the new Shuttle. The position of the second wormhole is
+      active players are flipped to Bridge and all objects In Space
+      are destroyed. The Enemy shall then as soon as possible post the
+      map of the new journey, marking out only the two new wormholes
+      and the new Shuttle. The position of the second wormhole is
       multiplied by the number of players on the Bridge to get the
       journey's Level, and the Enemy is awarded that many Threat
       Points (a non-tradeable currency).
@@ -6174,6 +6174,7 @@ Journeys and the Enemy
 History:
 Created by Proposal 6747 (Tiger), 1 July 2010
 Amended(1) by Proposal 6762 (Yally; disi.), 2 August 2010
+Amended(2) by Proposal 6767 (comex; disi.), 11 August 2010
 
 ----------------------------------------------------------------------
 
