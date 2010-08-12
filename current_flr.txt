@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6780
-Last change to this ruleset: by proposal 6780
+Last proposal with recorded effect on this ruleset: 6782
+Last change to this ruleset: by proposal 6782
 
 Last updated: 12 August 2010
 
@@ -622,7 +622,7 @@ Assigned to Committee on Rules by Proposal 6053 (Murphy, woggle,
 
 ----------------------------------------------------------------------
 
-Rule 2186/8 (Power=2)
+Rule 2186/9 (Power=2)
 Victory
 
       Winning Conditions and Losing Conditions are conditions defined
@@ -648,16 +648,29 @@ Victory
         b) Each of those persons ceases to satisfy any Winning
            Conditions.
 
-      A win announcement is a factually correct announcement
-      explicitly labeled as a win announcement and/or clearly stating
-      that one or more persons win the game.
+      A win announcement is an announcement meeting all of these
+      requirements:
+
+        a) It is factually correct.
+
+        b) It is explicitly labeled as a win announcement and/or
+           clearly states that one or more persons thereby win the
+           game.
+
+        c) If it was a win announcement, then it would cause one or
+           more Winning Conditions to be satisfied, as defined by
+           other rules.
 
 [Cross-references (9 January 2008): list of Winning Conditions:
+  * Applause (rule 2305)
   * Clout (rule 2134)
+  * Continuity (rule 2300)
   * Dictatorship (rule 2223)
+  * Leadership (rule 2293)
   * Legislation (rule 2188)
   * Paradox (rule 2110)
   * Renaissance (rule 2199)
+  * Respect (rule 2287)
   * Solitude (rule 2186)]
 
 History:
@@ -671,6 +684,7 @@ Amended(5) by Proposal 6083 (ais523), 22 February 2009
 Amended(6) by Proposal 6198 (Murphy), 27 April 2009
 Amended(7) by Proposal 6433 (coppro; disi.), 18 August 2009
 Amended(8) by Proposal 6657 (Murphy), 10 March 2010
+Amended(9) by Proposal 6782 (Murphy), 11 August 2010
 
 ----------------------------------------------------------------------
 
