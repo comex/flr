@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6771
-Last change to this ruleset: by proposal 6771
+Last proposal with recorded effect on this ruleset: 6772
+Last change to this ruleset: by proposal 6772
 
 Last updated: 12 August 2010
 
@@ -6102,13 +6102,14 @@ Amended(1) by Proposal 6768 (comex; disi.), 11 August 2010
 
 ----------------------------------------------------------------------
 
-Rule 2298/2 (Power=1)
+Rule 2298/3 (Power=1)
 The Shuttle
 
-      The Shuttle is an object In Space that houses the crew
-      consisting of almost all active players. It enters play through
-      the first wormhole and its objective is to reach the second one.
-      When it appears, it has the following stats:
+      The Shuttle, if it exists, is a singleton object In Space that
+      houses the crew consisting of almost all active players. It
+      enters play through the first wormhole and its objective is to
+      reach the second one.  When it appears, it has the following
+      stats:
       Symbol: >
       Maximum hit points: 12
       Position: 1
@@ -6131,23 +6132,25 @@ History:
 Created by Proposal 6747 (Tiger), 1 July 2010
 Amended(1) by Proposal 6760 (coppro), 2 August 2010
 Amended(2) by Proposal 6762 (Yally; disi.), 2 August 2010
+Amended(3) by Proposal 6772 (comex; disi.), 11 August 2010
 
 ----------------------------------------------------------------------
 
-Rule 2299/3 (Power=1)
+Rule 2299/4 (Power=1)
 Journeys and the Enemy
 
-      The Shuttle regularly makes journeys between the wormholes. If a
-      journey is not in place, any player can with notice initiate a
-      new journey. That player then becomes the Enemy, eir Station
-      switch is flipped to Outside, the Station switches of all other
-      active players are flipped to Bridge and all objects In Space
-      are destroyed.  The initiation of the journey is invalid unless,
-      in the same message, the Enemy posts the map of the new journey,
-      marking out the two new wormholes and the new Shuttle.  The
-      position of the second wormhole is multiplied by the number of
-      players on the Bridge to get the journey's Level, and the Enemy
-      is awarded that many Threat Points (a non-tradeable currency).
+      By default, there is no journey in place.  If a journey is not
+      in place, any player can with notice initiate a new journey.
+      That player then becomes the Enemy, eir Station switch is
+      flipped to Outside, the Station switches of all other active
+      players are flipped to Bridge and all objects In Space are
+      destroyed; then, a new Shuttle is created.  The initiation of
+      the journey is invalid unless, in the same message, the Enemy
+      posts the map of the new journey, marking out the two new
+      wormholes and the new Shuttle.  The position of the second
+      wormhole is multiplied by the number of players on the Bridge to
+      get the journey's Level, and the Enemy is awarded that many
+      Threat Points (a non-tradeable currency).
 
       The Enemy can use these Threat Points to create Threats by
       defining the new Threat, paying its cost, and deploying it ready
@@ -6181,6 +6184,7 @@ Created by Proposal 6747 (Tiger), 1 July 2010
 Amended(1) by Proposal 6762 (Yally; disi.), 2 August 2010
 Amended(2) by Proposal 6767 (comex; disi.), 11 August 2010
 Amended(3) by Proposal 6771 (comex; disi.), 11 August 2010
+Amended(4) by Proposal 6772 (comex; disi.), 11 August 2010
 
 ----------------------------------------------------------------------
 
