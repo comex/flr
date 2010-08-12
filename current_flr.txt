@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6775
-Last change to this ruleset: by proposal 6775
+Last proposal with recorded effect on this ruleset: 6777
+Last change to this ruleset: by proposal 6777
 
 Last updated: 12 August 2010
 
@@ -722,8 +722,21 @@ Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
 
 ----------------------------------------------------------------------
 
-Rule 2199/12 (Power=1)
+Rule 2199/13 (Power=1)
 Ribbons
+
+      While a player qualifies for a Ribbon, any person CAN, by
+      announcement, award that player a Ribbon of that color, unless e
+      already possesses one.
+
+      When a player earns a Ribbon, e thereafter qualifies for that
+      Ribbon until the opportunity expires, which occurs either when
+      it is used or at the time limit, which defaults to one week. An
+      opportunity is used when a player is awarded a Ribbon of that
+      colour, e does not qualify for that Ribbon except through earned
+      opportunities, and the opportunity is the one that will expire
+      first. In case of a tie, only one of the opportunities tied for
+      shortest duration is used.
 
       Ribbons are a class of fixed assets.  If winning is secured,
       then changes to Ribbon holdings are secured with the same power
@@ -760,12 +773,19 @@ Ribbons
       (+B) When a player assigns a judgement to a judicial question in
            an interested judicial case other than a question on
            sentencing, e earns a Blue Ribbon, unless e violated a
-           requirement to submit that judgement within a time limit.
+           requirement to submit that judgment within a time limit.
 
       (+K) When a player assigns a judgement to a judicial question in
            an interested judicial case on sentencing, e earns a Black
            Ribbon, unless e violated a requirement to submit that
-           judgement within a time limit.
+           judgment within a time limit.
+
+      (+W) A first-class player who has never owned a White Ribbon
+           qualifies for one. Additionally, when a first-class person
+           has been a player continuously for at least three months,
+           was never a player before that period, and names another
+           player as eir mentor (and has not named a mentor in this
+           fashion before), the named player earns a White Ribbon.
 
       (+M) When, during Agora's birthday, a player publicly
            acknowledges the occasion, e earns a Magenta Ribbon.
@@ -811,6 +831,7 @@ Amended(9) by Proposal 6576 (G.; disi.), 28 November 2009
 Amended(10) by Proposal 6650 (coppro), 10 March 2010
 Amended(11) by Proposal 6658 (Murphy; disi), 10 March 2010
 Amended(12) by Proposal 6758 (coppro), 2 August 2010
+Amended(13) by Proposal 6777 (coppro), 11 August 2010
 
 ----------------------------------------------------------------------
 
