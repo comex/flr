@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6767
-Last change to this ruleset: by proposal 6767
+Last proposal with recorded effect on this ruleset: 6768
+Last change to this ruleset: by proposal 6768
 
 Last updated: 12 August 2010
 
@@ -6064,7 +6064,7 @@ Space Alert
       A category concerning actual gameplay.
 ----------------------------------------------------------------------
 
-Rule 2297/0 (Power=1)
+Rule 2297/1 (Power=1)
 Objects In Space
 
       Some game objects are In Space. Objects In Space are represented
@@ -6090,10 +6090,15 @@ Objects In Space
       area or on a wormhole is warped and disappears.
 
       Other common stats include maximum hit points, current hit
-      points, attack value, explosion value and scouting value.
+      points, attack value, explosion value and scouting value.  By
+      default, the current hit points of an Object In Space is equal
+      to its maximum hit points.  To deal N damage an Object In Space
+      is to reduce its current hit points by N.  If an object does not
+      have positive current hit points, it is destroyed.
 
 History:
 Created by Proposal 6747 (Tiger), 1 July 2010
+Amended(1) by Proposal 6768 (comex; disi.), 11 August 2010
 
 ----------------------------------------------------------------------
 
