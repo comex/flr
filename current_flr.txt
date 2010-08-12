@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6773
-Last change to this ruleset: by proposal 6773
+Last proposal with recorded effect on this ruleset: 6775
+Last change to this ruleset: by proposal 6775
 
 Last updated: 12 August 2010
 
@@ -6272,7 +6272,7 @@ Amended(3) by Proposal 6769 (comex; disi.), 11 August 2010
 
 ----------------------------------------------------------------------
 
-Rule 2301/1 (Power=1)
+Rule 2301/2 (Power=1)
 Space Flight
 
       At the start of each day, the following procedure is performed:
@@ -6296,10 +6296,10 @@ Space Flight
            from the Shuttle that is available. If no such position
            exists, the Threat is destroyed.
 
-      A collision occurs when two objects have the same position. The
-      object with the least amount of remaining hit points is
-      destroyed, but causes the other object damage equal to its
-      explosion value times its remaining hit points prior to the
+      Collisions occur between two objects which have the same
+      position. The object with the least amount of remaining hit
+      points is destroyed, but causes the other object damage equal to
+      its explosion value times its remaining hit points prior to the
       collision. If both objects have the same amount of hit points,
       the one with the higher explosion value is destroyed. If they
       have the same explosion value, they cause 2 damage to each other
@@ -6308,6 +6308,7 @@ Space Flight
 History:
 Created by Proposal 6747 (Tiger), 1 July 2010
 Amended(1) by Proposal 6762 (Yally; disi.), 2 August 2010
+Amended(2) by Proposal 6775 (comex; disi.), 11 August 2010
 
 ----------------------------------------------------------------------
 
