@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6777
-Last change to this ruleset: by proposal 6777
+Last proposal with recorded effect on this ruleset: 6778
+Last change to this ruleset: by proposal 6778
 
 Last updated: 12 August 2010
 
@@ -722,7 +722,7 @@ Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
 
 ----------------------------------------------------------------------
 
-Rule 2199/13 (Power=1)
+Rule 2199/14 (Power=1)
 Ribbons
 
       While a player qualifies for a Ribbon, any person CAN, by
@@ -799,6 +799,8 @@ Ribbons
       (+I) When a player is awarded a degree, e earns an Indigo
            Ribbon.
 
+      (+P) The Speaker qualifies for a Platinum Ribbon.
+
       If this rule mentions at least six different specific colors for
       Ribbons, then upon a win announcement that one or more players
       each possess at least one Ribbon of each such color, all those
@@ -832,6 +834,7 @@ Amended(10) by Proposal 6650 (coppro), 10 March 2010
 Amended(11) by Proposal 6658 (Murphy; disi), 10 March 2010
 Amended(12) by Proposal 6758 (coppro), 2 August 2010
 Amended(13) by Proposal 6777 (coppro), 11 August 2010
+Amended(14) by Proposal 6778 (coppro), 11 August 2010
 
 ----------------------------------------------------------------------
 
