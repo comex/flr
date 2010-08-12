@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6768
-Last change to this ruleset: by proposal 6768
+Last proposal with recorded effect on this ruleset: 6769
+Last change to this ruleset: by proposal 6769
 
 Last updated: 12 August 2010
 
@@ -6183,7 +6183,7 @@ Amended(2) by Proposal 6767 (comex; disi.), 11 August 2010
 
 ----------------------------------------------------------------------
 
-Rule 2300/2 (Power=1)
+Rule 2300/3 (Power=1)
 Buttons
 
       The Shuttle holds many buttons that can be pushed, causing the
@@ -6243,9 +6243,9 @@ Buttons
          the Shuttle. The player pushing this button may choose to
          push it harder, which increses the Charge cost by 1, the
          damage caused by 3, and causes the Shuttle to reduce its
-         position by one.  Doing this when it causes the ship to
-         collide with anything is the class-1 crime of Hoisting One's
-         Own Petard.
+         position by one.  Doing this when it causes the ship to have
+         the same position as another object is the class-1 crime of
+         Hoisting One's Own Petard.
 
          Recording the Captain's Log (1) - Causes the Shuttle to
          activate the very fancy recording device for full hologram
@@ -6263,6 +6263,7 @@ History:
 Created by Proposal 6747 (Tiger), 1 July 2010
 Amended(1) by Proposal 6760 (coppro), 2 August 2010
 Amended(2) by Proposal 6762 (Yally; disi.), 2 August 2010
+Amended(3) by Proposal 6769 (comex; disi.), 11 August 2010
 
 ----------------------------------------------------------------------
 
