@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6772
-Last change to this ruleset: by proposal 6772
+Last proposal with recorded effect on this ruleset: 6773
+Last change to this ruleset: by proposal 6773
 
 Last updated: 12 August 2010
 
@@ -6064,7 +6064,7 @@ Space Alert
       A category concerning actual gameplay.
 ----------------------------------------------------------------------
 
-Rule 2297/1 (Power=1)
+Rule 2297/2 (Power=1)
 Objects In Space
 
       Some game objects are In Space. Objects In Space are represented
@@ -6082,12 +6082,11 @@ Objects In Space
       Objects In Space have a number of stats. All objects have a
       position value and a delta value. The position is the number of
       the segment it occupies, counting from the left with the first
-      wormhole as 0. At the beginning of each week, an object's
-      position is increased by its delta. If an object's delta is
-      positive or 0 it faces right, if negative it faces left. An
-      object's position must be between 0 and the position of the
-      second wormhole. Any object that finds itself outside of this
-      area or on a wormhole is warped and disappears.
+      wormhole as 0.  If an object's delta is positive or 0 it faces
+      right, if negative it faces left. An object's position must be
+      between 0 and the position of the second wormhole. Any object
+      that finds itself outside of this area or on a wormhole is
+      warped and disappears.
 
       Other common stats include maximum hit points, current hit
       points, attack value, explosion value and scouting value.  By
@@ -6099,6 +6098,7 @@ Objects In Space
 History:
 Created by Proposal 6747 (Tiger), 1 July 2010
 Amended(1) by Proposal 6768 (comex; disi.), 11 August 2010
+Amended(2) by Proposal 6773 (comex; disi.), 11 August 2010
 
 ----------------------------------------------------------------------
 
