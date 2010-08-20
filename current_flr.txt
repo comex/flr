@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
 Last proposal with recorded effect on this ruleset: 6782
-Last change to this ruleset: by proposal 6782
+Last change to this ruleset: by cleaning
 
-Last updated: 12 August 2010
+Last updated: 19 August 2010
 
 Rule ID numbers:
       highest orderly: 2307
@@ -2625,7 +2625,7 @@ Created by Proposal 6675 (comex), 22 March 2010
 
 ----------------------------------------------------------------------
 
-Rule 2124/15 (Power=2)
+Rule 2124/16 (Power=2)
 Agoran Satisfaction
 
       A Supporter of a dependent action is an eligible entity who has
@@ -2659,7 +2659,7 @@ Agoran Satisfaction
       hours, then Agora is not Satisfied with the intent.
 
       A person CANNOT support or object to an announcement of intent
-      before the intent is announced, or after e has withdrawn the.
+      before the intent is announced, or after e has withdrawn the
       same type of response.
 
 History:
@@ -2683,6 +2683,7 @@ Amended(12) by Proposal 6410 (coppro; disi.), 30 July 2009
 Amended(13) by Proposal 6448 (BobTHJ), 27 August 2009
 Amended(14) by Proposal 6475 (c.; disi.), 15 September 2009
 Amended(15) by Proposal 6512 (c.; disi.), 3 October 2009
+Amended(16) by cleaning (Keba), 20 August 2010
 
 ----------------------------------------------------------------------
 
