@@ -3,7 +3,7 @@ THE FULL LOGICAL RULESET
 Last proposal with recorded effect on this ruleset: 6782
 Last change to this ruleset: by cleaning
 
-Last updated: 19 August 2010
+Last updated: 20 August 2010
 
 Rule ID numbers:
       highest orderly: 2307
@@ -3829,12 +3829,13 @@ Amended(28) by Proposal 6732 (comex), 13 June 2010
 
 ----------------------------------------------------------------------
 
-Rule 2291/0 (Power=1.9)
+Rule 2291/1 (Power=1.9)
 Fragments
 
       If
         - e has not already done so, or
-        - if at least two other players done so so e last did so, or
+        - if at least two other players have done so since e last
+          did so, or
         - three days have passed since e last did so,
       a player CAN publish a Fragment. A Fragment SHOULD be a short
       (possibly as small as a sentence) body of text intended to
@@ -3852,6 +3853,7 @@ Fragments
 
 History:
 Created by Proposal 6708 (coppro, comex, woggle), 4 May 2010
+Amended(1) by cleaning (Murphy), 20 August 2010
 
 ----------------------------------------------------------------------
 
