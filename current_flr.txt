@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6785
-Last change to this ruleset: by proposal 6785
+Last proposal with recorded effect on this ruleset: 6787
+Last change to this ruleset: by proposal 6787
 
 Last updated: 22 August 2010
 
@@ -4317,21 +4317,22 @@ Amended(7) by Proposal 6659 (Murphy; disi.), 10 March 2010
 
 ----------------------------------------------------------------------
 
-Rule 2188/1 (Power=1)
+Rule 2188/2 (Power=1)
 Win by Proposal
 
       Upon a win announcement that a proposal awarding a win to one or
       more persons has been adopted, all those persons satisfy the
       Winning Condition of Legislation.
 
-      Cleanup procedure: The condition cannot be satisfied again for
-      the same proposal.
+      Cleanup procedure: None of those persons can satisfy the
+      condition again for the same proposal.
 
 History:
 Created by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
   16 January 2008
 Amended(1) by Proposal 6162 (comex), 31 March 2009
 Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
+Amended(2) by Proposal 6787 (Murphy; disi.), 22 August 2010
 
 ----------------------------------------------------------------------
 
