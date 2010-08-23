@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6782
-Last change to this ruleset: by cleaning
+Last proposal with recorded effect on this ruleset: 6784
+Last change to this ruleset: by proposal 6784
 
-Last updated: 20 August 2010
+Last updated: 22 August 2010
 
 Rule ID numbers:
       highest orderly: 2307
@@ -2163,7 +2163,7 @@ Created by Proposal 6737 (Murphy, David Nicol), 13 June 2010
 
 ----------------------------------------------------------------------
 
-Rule 2161/6 (Power=1)
+Rule 2161/7 (Power=1)
 ID Numbers
 
       If a rule defines a type of entity as having ID numbers, then:
@@ -2176,23 +2176,12 @@ ID Numbers
       (b) Such an assignment is INVALID unless the number is a natural
           number (expressed as a decimal literal with at most 14
           digits) distinct from any ID number previously assigned to
-          an entity of that type, and (if the type of entity is
-          defined by the rules as strictly ordered) ILLEGAL unless the
-          number is greater than any orderly ID number so assigned.
-          The player SHOULD select the smallest number possible.
+          an entity of that type, and ILLEGAL unless the number is one
+          greater than the greatest ID number so assigned.
 
-      (c) Each ID number is either orderly (default) or chaotic.  Upon
-          a judicial finding that an ID number is unreasonably large,
-          the ID number becomes chaotic.
+      (c) Once assigned, an ID number cannot be changed.
 
-      (d) Once assigned, an ID number cannot be changed.
-
-      (e) If an office is responsible for assigning ID numbers, then
-          that officer's report includes the greatest orderly ID
-          number, and a list of all chaotic ID numbers, previously
-          assigned to the type of entity.
-
-      (f) If an instance of that type has an ID number, then its name
+      (d) If an instance of that type has an ID number, then its name
           is the combination of its type and ID number.  Otherwise, it
           has no name.
 
@@ -2205,6 +2194,7 @@ Power changed from 2 to 1 by Proposal 5947 (ais523), 15 November 2008
 Amended(4) by Proposal 5994 (Murphy), 7 December 2008
 Amended(5) by Proposal 6489 (Murphy; disi.), 18 September 2009
 Amended(6) by Proposal 6546 (comex), 7 November 2009
+Amended(7) by Proposal 6784 (coppro), 22 August 2010
 
 ----------------------------------------------------------------------
 
