@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6784
-Last change to this ruleset: by proposal 6784
+Last proposal with recorded effect on this ruleset: 6785
+Last change to this ruleset: by proposal 6785
 
 Last updated: 22 August 2010
 
@@ -2269,7 +2269,7 @@ Amended(1) by Proposal 5271 (Murphy), 7 November 2007
 
 ----------------------------------------------------------------------
 
-Rule 478/27 (Power=3)
+Rule 478/28 (Power=3)
 Fora
 
       Freedom of speech being essential for the healthy functioning of
@@ -2297,14 +2297,18 @@ Fora
 
       A public message is a message sent via a public forum, or sent
       to all players and containing a clear designation of intent to
-      be public.  A person "publishes" or "announces" something by
-      sending a public message.
+      be public.  A rule can also designate that a part of one public
+      message is considered a public message in its own right. A
+      person "publishes" or "announces" something by sending a public
+      message,.
 
       Where the rules define an action that CAN be performed "by
       announcement", a person performs that action by unambiguously
       and clearly specifying the action and announcing that e performs
       it.  Any action performed by sending a message is performed at
-      the time date-stamped on that message.
+      the time date-stamped on that message. Actions in messages
+      (including sub-messages) are performed in the order they appear
+      in the message, unless otherwise specified.
 
 [CFJs 1451-1452 (called 6 March 2003): A message that is split into
 multiple email messages can qualify as a single message for game
@@ -2497,6 +2501,7 @@ Amended(24) by Proposal 5613 (Quazie), 29 July 2008
 Amended(25) by Proposal 5639 (Murphy), 29 July 2008
 Amended(26) by Proposal 5818 (comex), 1 November 2008
 Amended(27) by Proposal 6022 (Murphy), 22 December 2008
+Amended(28) by Proposal 6785 (coppro; disi.), 22 August 2010
 
 ----------------------------------------------------------------------
 
