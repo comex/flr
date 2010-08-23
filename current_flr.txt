@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6787
-Last change to this ruleset: by proposal 6787
+Last proposal with recorded effect on this ruleset: 6789
+Last change to this ruleset: by proposal 6789
 
 Last updated: 22 August 2010
 
@@ -13,7 +13,7 @@ Rule ID numbers:
 
 Statistics
 
-Current total number of rules: 139
+Current total number of rules: 138
 
 Power distribution:
        1 with Power=4
@@ -22,7 +22,7 @@ Power distribution:
       46 with Power=2
        2 with Power=1.9
        5 with Power=1.7
-       7 with Power=1.5
+       6 with Power=1.5
       41 with Power=1
 
 ----------------------------------------------------------------------
@@ -166,7 +166,6 @@ Index of Rules
       Rule 2175: Judicial Retraction and Excess
       Rule 1868: Judge Assignment Generally
       Rule 1871: The Standing Court
-      Rule 2203: Hawkishness
       Rule 2226: Judicial Rank
       Rule 2248: Second-Class Judges
       Rule 2204: Linked Assignments
@@ -4382,7 +4381,6 @@ are:
   * not assign a poorly qualified judge (rule 1868)
   * track player posture (rule 1871)
   * rotate the bench (rule 1871)
-  * track player hawkishness (rule 2203)
   * recuse tardy judge (rule 2158)]
 
 History:
@@ -5403,37 +5401,6 @@ Amended(24) by Proposal 5500 (Murphy; disi.), 26 April 2008
 Amended(25) by Proposal 5771 (root), 17 October 2008
 Amended(26) by Proposal 6400 (Murphy), 17 July 2009
 Amended(27) by Proposal 6483 (Pavitra), 18 September 2009
-
-----------------------------------------------------------------------
-
-Rule 2203/2 (Power=1.5)
-Hawkishness
-
-      Hawkishness is a player switch, tracked by the Clerk of the
-      Courts, with the following values:
-
-      * Hanging.  Hanging players are unqualified to be assigned as
-        judge of any inquiry case.
-
-      * Hugging.  Hugging players are unqualified to be assigned as
-        judge of any criminal case.
-
-      * Hemming-and-Hawing (default).
-
-      * Hovering.  Hovering players are poorly qualified to be
-        assigned as judge of any inquiry case, unless there is no
-        non-inquiry case requiring assignment, at least one inquiry
-        case requiring assignment, and no such inquiry case with any
-        non-Hovering player well-qualified to be assigned to it.
-
-      Changes to hawkishness are secured.
-
-      A player CAN flip eir hawkishness by announcement.
-
-History:
-Created by Proposal 5468 (Murphy), 13 March 2008
-Amended(1) by Proposal 6160 (Murphy), 31 March 2009
-Amended(2) by Proposal 6704 (coppro; disi.), 25 April 2010
 
 ----------------------------------------------------------------------
 
