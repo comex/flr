@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6802
-Last change to this ruleset: by proposal 6029
+Last proposal with recorded effect on this ruleset: 6803
+Last change to this ruleset: by proposal 6803
 
 Last updated: 29 August 2010
 
@@ -5918,13 +5918,13 @@ Amended(1) by Proposal 6520 (ais523), 19 October 2009
 
 ----------------------------------------------------------------------
 
-Rule 2287/4 (Power=1)
+Rule 2287/5 (Power=1)
 Props
 
       Props are a currency.
 
       The Air Traffic Controller is an office and the recordkeepor of
-      props.
+      props; prop records are part of eir monthly report.
 
       Ownership of props is limited to first-class players.  Props
       CANNOT be created, transferred, or destroyed except as allowed
@@ -5945,7 +5945,8 @@ Props
 
       Players with at least 19 props are Pilots; the Pilot with the
       most props (if any) is the Captain. Players with less than 9
-      props are Marines.
+      props are Marines.  As soon as possible after any of these
+      statuses change, the Air Traffic Controller SHALL announce it.
 
       Upon a win announcement that one or more players each possess at
       least 30 props, all those players satisfy the Winning Condition
@@ -5960,6 +5961,7 @@ Amended(1) by Proposal 6676 (coppro), 22 March 2010
 Amended(2) by Proposal 6677 (coppro), 22 March 2010
 Amended(3) by Proposal 6763 (Yally), 4 August 2010
 Amended(4) by Proposal 6799 (Keba; disi.), 27 August 2010
+Amended(5) by Proposal 6803 (Murphy; disi.), 27 August 2010
 
 ----------------------------------------------------------------------
 
