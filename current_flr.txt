@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6793
-Last change to this ruleset: by proposal 6793
+Last proposal with recorded effect on this ruleset: 6794
+Last change to this ruleset: by proposal 6794
 
 Last updated: 29 August 2010
 
@@ -727,7 +727,7 @@ Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
 
 ----------------------------------------------------------------------
 
-Rule 2199/16 (Power=1)
+Rule 2199/17 (Power=1)
 Ribbons
 
       While a player qualifies for a Ribbon, any person CAN, by
@@ -785,13 +785,6 @@ Ribbons
            Ribbon, unless e violated a requirement to submit that
            judgment within a time limit.
 
-      (+W) A first-class player who has never owned a White Ribbon
-           qualifies for one. Additionally, when a first-class person
-           has been a player continuously for at least three months,
-           was never a player before that period, and names another
-           player as eir mentor (and has not named a mentor in this
-           fashion before), the named player earns a White Ribbon.
-
       (+M) When, during Agora's birthday, a player publicly
            acknowledges the occasion, e earns a Magenta Ribbon.
 
@@ -847,6 +840,7 @@ Amended(13) by Proposal 6777 (coppro), 11 August 2010
 Amended(14) by Proposal 6778 (coppro), 11 August 2010
 Amended(15) by Proposal 6779 (coppro), 11 August 2010
 Amended(16) by Proposal 6780 (coppro), 11 August 2010
+Amended(17) by Proposal 6794 (coppro; disi.), 27 August 2010
 
 ----------------------------------------------------------------------
 
