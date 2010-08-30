@@ -13,7 +13,7 @@ Rule ID numbers:
 
 Statistics
 
-Current total number of rules: 134
+Current total number of rules: 133
 
 Power distribution:
        1 with Power=4
@@ -23,7 +23,7 @@ Power distribution:
        2 with Power=1.9
        5 with Power=1.7
        6 with Power=1.5
-      37 with Power=1
+      36 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -61,7 +61,6 @@ Index of Rules
       Rule 2245: Win by Not Losing
       Rule 2110: Win by Paradox
       Rule 2199: Ribbons
-      Rule 2294: The Chroniclor
       Rule  104: First Speaker
 
       * Rules
@@ -842,18 +841,6 @@ Amended(14) by Proposal 6778 (coppro), 11 August 2010
 Amended(15) by Proposal 6779 (coppro), 11 August 2010
 Amended(16) by Proposal 6780 (coppro), 11 August 2010
 Amended(17) by Proposal 6794 (coppro; disi.), 27 August 2010
-
-----------------------------------------------------------------------
-
-Rule 2294/0 (Power=1)
-The Chroniclor
-
-      The Chroniclor is an office; eir weekly report includes a
-      concise summary of all goings-on in Agora in the prior Agoran
-      week.
-
-History:
-Created by Proposal 6709 (coppro), 4 May 2010
 
 ----------------------------------------------------------------------
 
