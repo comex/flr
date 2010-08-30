@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6798
-Last change to this ruleset: by proposal 6798
+Last proposal with recorded effect on this ruleset: 6799
+Last change to this ruleset: by proposal 6799
 
 Last updated: 29 August 2010
 
@@ -5914,7 +5914,7 @@ Amended(1) by Proposal 6520 (ais523), 19 October 2009
 
 ----------------------------------------------------------------------
 
-Rule 2287/3 (Power=1)
+Rule 2287/4 (Power=1)
 Props
 
       Props are a currency.
@@ -5943,15 +5943,19 @@ Props
       most props (if any) is the Captain. Players with less than 9
       props are Marines.
 
-      A player with 30 or more props CAN destroy all eir props to
-      satisfy the Winning Condition of Respect. 14 props are then
-      created in that player's possession.
+      Upon a win announcement that one or more players each possess at
+      least 30 props, all those players satisfy the Winning Condition
+      of Respect.
+
+      Cleanup procedure: For each of those players, all props are
+      destroyed and 14 props are created in their possession.
 
 History:
 Created by Proposal 6647 (Murphy), 6 March 2010
 Amended(1) by Proposal 6676 (coppro), 22 March 2010
 Amended(2) by Proposal 6677 (coppro), 22 March 2010
 Amended(3) by Proposal 6763 (Yally), 4 August 2010
+Amended(4) by Proposal 6799 (Keba; disi.), 27 August 2010
 
 ----------------------------------------------------------------------
 
