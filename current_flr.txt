@@ -1,19 +1,19 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6799
-Last change to this ruleset: by proposal 6799
+Last proposal with recorded effect on this ruleset: 6802
+Last change to this ruleset: by proposal 6029
 
 Last updated: 29 August 2010
 
 Rule ID numbers:
-      highest orderly: 2309
+      highest orderly: 2310
       chaotic: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 133
+Current total number of rules: 134
 
 Power distribution:
        1 with Power=4
@@ -23,7 +23,7 @@ Power distribution:
        2 with Power=1.9
        5 with Power=1.7
        6 with Power=1.5
-      36 with Power=1
+      37 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -181,6 +181,7 @@ Index of Rules
       Rule 2255: Cards
       Rule 2286: Veto and Rubberstamp
       Rule 2275: Government
+      Rule 2310: Musical chairs
       Rule 2269: Couple Coups
       Rule 2270: Coups D'etat
       Rule 2274: Chicken Coups
@@ -5847,6 +5848,22 @@ Created by Proposal 6490 (coppro), 18 September 2009
 Amended(1) by Proposal 6594 (coppro; disi.), 14 December 2009
 Amended(2) by Proposal 6616 (G., coppro, c., Murphy), 30 January 2010
 Amended(3) by Proposal 6714 (coppro; disi.), 4 May 2010
+
+----------------------------------------------------------------------
+
+Rule 2310/0 (Power=1)
+Musical chairs
+
+     A Minister (the Humphrey) CAN trade cards with another Minister
+     (the Bernard) by announcement, provided that
+
+       a) the Humphrey has not traded cards within the past eight
+          weeks, and
+       b) the Bernard has held eir card continuously for at least two
+          weeks.
+
+History:
+Created by Proposal 6802 (Murphy), 27 August 2010
 
 ----------------------------------------------------------------------
 
