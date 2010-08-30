@@ -1,19 +1,19 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6794
-Last change to this ruleset: by proposal 6794
+Last proposal with recorded effect on this ruleset: 6798
+Last change to this ruleset: by proposal 6798
 
 Last updated: 29 August 2010
 
 Rule ID numbers:
-      highest orderly: 2308
+      highest orderly: 2309
       chaotic: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 133
+Current total number of rules: 134
 
 Power distribution:
        1 with Power=4
@@ -23,7 +23,7 @@ Power distribution:
        2 with Power=1.9
        5 with Power=1.7
        6 with Power=1.5
-      36 with Power=1
+      37 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -149,6 +149,7 @@ Index of Rules
       Rule 1698: Agora Is a Nomic
       Rule 2134: Win by Clout
       Rule 2188: Win by Proposal
+      Rule 2309: The Propose-O-Matic
 
       * Adjudication
       Rule  991: Judicial Cases Generally
@@ -4311,6 +4312,38 @@ Created by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
 Amended(1) by Proposal 6162 (comex), 31 March 2009
 Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
 Amended(2) by Proposal 6787 (Murphy; disi.), 22 August 2010
+
+----------------------------------------------------------------------
+
+Rule 2309/0 (Power=1)
+The Propose-O-Matic
+
+      The Fearmongor is an Office. Its holder is responsible for
+      ensuring the continuous change of the ruleset.
+
+      Each week, the Fearmongor SHALL do the following:
+
+         1) Select two rules at random.
+
+         2) For each of those rules, submit a disinterested proposal
+            with AI equal to that rules' power. One proposal SHALL
+            specify only to repeal its rule; the other SHALL specify
+            only to amend its rule.
+
+         3) Submit a disinterested proposal with AI 1. It shall
+            specify only the enactment of a rule which is identical to
+            a rule which was, at one point, part of the Ruleset, and
+            was not chosen for use in this clause in the prior six
+            months.
+
+         4) Make each of those proposals Distributable, clearly
+            specifying that e is doing so to fulfill eir duties.
+
+      Players MUST NOT make proposals submitted in accordance with
+      this rule Undistributable.
+
+History:
+Created by Proposal 6798 (coppro), 27 August 2010
 
 ----------------------------------------------------------------------
 
