@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6803
-Last change to this ruleset: by proposal 6803
+Last proposal with recorded effect on this ruleset: 6804
+Last change to this ruleset: by proposal 6804
 
 Last updated: 29 August 2010
 
@@ -5598,7 +5598,7 @@ Amended(15) by Proposal 6792 (omd), 27 August 2010
 
 ----------------------------------------------------------------------
 
-Rule 2282/3 (Power=2)
+Rule 2282/4 (Power=2)
 Energy
 
       Ergs are a class of fixed assets and a measure of each Player's
@@ -5616,6 +5616,8 @@ Energy
        (d) For each office, its holder is awarded a number of ergs
            equal to the interest index of that office.
 
+      When a player registers, e is awarded 7 ergs.
+
       The Power Station Manager (PSM) is an office and the
       recordkeepor of ergs.  Eir weekly report shall include a list of
       all erg transactions of the previous week.
@@ -5629,6 +5631,7 @@ Created by Proposal 6616 (G., coppro, c., Murphy), 30 January 2010
 Amended(1) by Proposal 6632 (Yally), 20 February 2010
 Amended(2) by Proposal 6682 (coppro), 5 April 2010
 Amended(3) by Proposal 6679 (coppro), 22 March 2010
+Amended(4) by Proposal 6804 (Murphy; disi.), 27 August 2010
 
 ----------------------------------------------------------------------
 
