@@ -2572,25 +2572,32 @@ Amended(30) by Proposal 6650 (coppro), 10 March 2010
 
 ----------------------------------------------------------------------
 
-Rule 2288/0 (Power=3)
+Rule 2288/1 (Power=3)
 Induction
 
       If a person CAN perform an action by announcement, e CAN perform
-      it with N support, or without N objections, where N is a
-      positive integer.
+      it with N support, without N objections, with N Agoran Consent,
+      or with notice, where N is a number appropriate for that form of
+      dependent action.
 
       If a person CAN perform an action with notice, e CAN perform it
-      without N objections, where N is a positive integer.
+      without N objections, where N is an appropriate number.
 
-      If a person CAN perform an action with M support, e CAN perform
-      it with N support, where N is a positive integer greater than M.
+      If a person CAN perform an action with M support, e CAN
+      perform it with N support, where N is an appropriate number
+      greater than M.
 
       If a person CAN perform an action without M objections, e CAN
-      perform it without N objections, where N is a positive integer
-      less than M.
+      perform it without N objections, where N is an appropriate
+      number less than M.
+
+      If a person CAN perform an action via multiple different means
+      of dependent actions, e CAN perform that action via multiple of
+      them at the same time.
 
 History:
 Created by Proposal 6675 (comex), 22 March 2010
+Amended(1) by Proposal 6807 (coppro), 27 August 2010
 
 ----------------------------------------------------------------------
 
