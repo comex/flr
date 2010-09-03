@@ -3,17 +3,17 @@ THE FULL LOGICAL RULESET
 Last proposal with recorded effect on this ruleset: 6804
 Last change to this ruleset: by proposal 6804
 
-Last updated: 29 August 2010
+Last updated: 3 September 2010
 
 Rule ID numbers:
-      highest orderly: 2310
+      highest orderly: 2311
       chaotic: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 134
+Current total number of rules: 135
 
 Power distribution:
        1 with Power=4
@@ -23,7 +23,7 @@ Power distribution:
        2 with Power=1.9
        5 with Power=1.7
        6 with Power=1.5
-      37 with Power=1
+      38 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -74,6 +74,7 @@ Index of Rules
       Rule 2221: Cleanliness
       Rule 1750: Read the Ruleset Week
       Rule 2223: Win by Junta
+      Rule 2311: Super Robot Powers
 
       * Players
       Rule  869: How to Join and Leave Agora
@@ -1281,6 +1282,18 @@ History:
 Created by Proposal 5982 (Murphy), 29 November 2008
 Amended(1) by Proposal 6162 (comex), 31 March 2009
 Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
+
+----------------------------------------------------------------------
+
+Rule 2311/0 (Power=1)
+Super Robot Powers
+
+      The Robot can, by announcement, cause this rule to amend any
+      other rule of equal power, provided that it does so in a message
+      of at least 1000 words.
+
+History:
+Created by Proposal 6808 (coppro), 27 August 2010
 
 ----------------------------------------------------------------------
 
