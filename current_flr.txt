@@ -6,19 +6,19 @@ Last change to this ruleset: by proposal 6804
 Last updated: 4 September 2010
 
 Rule ID numbers:
-      highest orderly: 2312
+      highest orderly: 2313
       chaotic: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 136
+Current total number of rules: 137
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
-      36 with Power=3
+      37 with Power=3
       46 with Power=2
        2 with Power=1.9
        6 with Power=1.7
@@ -133,6 +133,7 @@ Index of Rules
 
       * Proposals
       Rule  106: Adopting Proposals
+      Rule 2313: Urgent Proposals
       Rule 2291: Fragments
       Rule 2292: Defragmentation Proposals
       Rule 2281: Proposal Cleanup
@@ -3237,7 +3238,7 @@ Amended(14) by Proposal 6617 (Murphy; disi.), 4 February 2010
 
 ----------------------------------------------------------------------
 
-Rule 107/11 (Power=3)
+Rule 107/12 (Power=3)
 Initiating Agoran Decisions
 
       An Agoran decision is initiated when a person authorized to
@@ -3263,12 +3264,12 @@ Initiating Agoran Decisions
 
       The publication of such a valid notice initiates the voting
       period for the decision.  By default, the voting period lasts
-      for seven days.  Rules to the contrary notwithstanding, the
-      voting period for a decision with at least two options cannot be
-      shorter than seven days.  The vote collector for a decision with
-      less than two options CAN and SHALL end the voting period by
-      announcement, if it has not ended already, and provided that e
-      resolves the decision in the same message.
+      for seven days.  The voting period for a decision with at least
+      two options cannot be shorter than seven days.  The vote
+      collector for a decision with less than two options CAN and
+      SHALL end the voting period by announcement, if it has not ended
+      already, and provided that e resolves the decision in the same
+      message.
 
 [CFJ 1650 (called 6 May 2007): The intent to initiate the decision and
 the information required in the notice need not be explicit.]
@@ -3311,6 +3312,7 @@ Assigned to Committee on Rules by Proposal 6053 (Murphy, woggle,
   ais523), 23 January 2009
 Amended(11) by Proposal 6157 (Goethe, OscarMeyr, Wooble), 31 March
   2009
+Amended(12) by Proposal 6816 (G., Keba), 4 September 2010
 
 ----------------------------------------------------------------------
 
@@ -3835,6 +3837,27 @@ Amended(25) by Proposal 6625 (Murphy), 20 February 2010
 Amended(26) by Proposal 6656 (coppro), 1 March 2010
 Amended(27) by Proposal 6721 (coppro; disi), 21 May 2010
 Amended(28) by Proposal 6732 (comex), 13 June 2010
+
+----------------------------------------------------------------------
+
+Rule 2313/0 (Power=3)
+Urgent Proposals
+
+      A Proposal is Urgent if it is Interested and the text of the
+      message wherein it is submitted explicitly states that it is an
+      Urgent Proposal.
+
+      The Promotor CAN distribute an Urgent Proposal as soon as it
+      becomes Distributable, and e SHALL do so within four days unless
+      it becomes undistributable in the mean time.  Failure to do so
+      is the Class 1 Crime of Lack of Urgency.
+
+      Rules to the contrary notwithstanding, the Voting Period of an
+      Agoran Decision to adopt an Urgent Proposal is initially four
+      days, and cannot be shortened.
+
+History:
+Created by Proposal 6816 (G., Keba), 4 September 2010
 
 ----------------------------------------------------------------------
 
@@ -5754,7 +5777,7 @@ Amended(1) by Proposal 6725 (coppro; disi.), 22 May 2010
 
 ----------------------------------------------------------------------
 
-Rule 2284/4 (Power=2)
+Rule 2284/5 (Power=2)
 Fee-based actions
 
       - A player CAN increase eir voting limit on a specified decision
@@ -5762,8 +5785,11 @@ Fee-based actions
         fee of Q.  This rule defers to other Rules that define maximum
         voting limits.
 
-      - A player CAN make a proposal Distributable for a charge of 1
-        erg.
+      - A player CAN make a non-urgent proposal Distributable for a
+        charge of 1 erg.
+
+      - A player CAN make an urgent proposal Distributable for a
+        charge of 3 ergs.
 
       - A player CAN make a proposal Undistributable for a charge of 2
         ergs.
@@ -5794,6 +5820,7 @@ Amended(1) by Proposal 6630 (Yally; disi.), 20 February 2010
 Amended(2) by Proposal 6633 (coppro; disi.), 20 February 2010
 Amended(3) by Proposal 6638 (Yally), 20 February 2010
 Amended(4) by Proposal 6735 (coppro), 13 June 2010
+Amended(5) by Proposal 6816 (G., Keba), 4 September 2010
 
 ----------------------------------------------------------------------
 
