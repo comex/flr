@@ -5736,7 +5736,7 @@ Amended(1) by Proposal 6750 (Wooble; disi.), 20 July 2010
 
 ----------------------------------------------------------------------
 
-Rule 2283/1 (Power=2)
+Rule 2283/2 (Power=2)
 Fees
 
       If the Rules associate a non-negative cost, price, charge, or
@@ -5754,7 +5754,7 @@ Fees
       zero, the action CAN be performed by announcement if it can
       otherwise be performed by the procedure described above.
 
-      An attempt to performed a fee-based action is also implicitly a
+      An attempt to perform a fee-based action is also implicitly a
       claim to be in possession of sufficient ergs to perform the
       action, and such a claim is self-ratifying.  If the claim is
       erroneous but self-ratifies, then the action is deemed to have
@@ -5766,6 +5766,7 @@ Fees
 History:
 Created by Proposal 6616 (G., coppro, c., Murphy), 30 January 2010
 Amended(1) by Proposal 6725 (coppro; disi.), 22 May 2010
+Amended(2) by cleaning (Keba), 29 August 2010
 
 ----------------------------------------------------------------------
 
@@ -5968,7 +5969,7 @@ Created by Proposal 6749 (ais523), 20 July 2010
 
 ----------------------------------------------------------------------
 
-Rule 2305/0 (Power=2)
+Rule 2305/1 (Power=2)
 Fans
 
       Fans are a fixed asset, tracked by the Referee, whose ownership
@@ -5987,7 +5988,7 @@ Fans
       "being Promoted".
 
       Upon a win announcement that there are no Independent players
-      and a player has an Allegiance different from all other player's
+      and a player has an Allegiance different from all other players'
       Allegiances, then all players with a unique Allegiance among all
       players satisfy the Winning Condition of Applause. Cleanup
       procedure: All Teams are destroyed and two (empty) Teams are
@@ -5995,6 +5996,7 @@ Fans
 
 History:
 Created by Proposal 6749 (ais523), 20 July 2010
+Amended(1) by cleaning (Keba), 28 August 2010
 
 ----------------------------------------------------------------------
 
