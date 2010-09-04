@@ -6,14 +6,14 @@ Last change to this ruleset: by proposal 6804
 Last updated: 4 September 2010
 
 Rule ID numbers:
-      highest orderly: 2311
+      highest orderly: 2312
       chaotic: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 135
+Current total number of rules: 136
 
 Power distribution:
        1 with Power=4
@@ -21,7 +21,7 @@ Power distribution:
       36 with Power=3
       46 with Power=2
        2 with Power=1.9
-       5 with Power=1.7
+       6 with Power=1.7
        6 with Power=1.5
       38 with Power=1
 
@@ -88,6 +88,7 @@ Index of Rules
       Rule 2215: Truthiness
       Rule 2228: Rests
       Rule 2229: Just Resting
+      Rule 2312: The Pariah
 
       * Definitions
       Rule  754: Definition Definitions
@@ -1795,6 +1796,31 @@ Amended(1) by Proposal 6175 (Yally), 7 April 2009
 Amended(2) by Proposal 6308 (coppro), 26 May 2009
 Amended(3) by Proposal 6394 (Goethe), 10 July 2009
 Amended(4) by Proposal 6575 (G.; disi.), 28 November 2009
+
+----------------------------------------------------------------------
+
+Rule 2312/0 (Power=1.7)
+The Pariah
+
+      The Pariah is an elected office, with no reports. Whenever a
+      player becomes the Pariah, that player is awarded 23 Rests.
+
+      If more than 6 Rests are destroyed in the Pariah's possession in
+      any given week, the Pariah is awarded a sufficient number of
+      Rests in order to bring eir net Rest loss that week up to no
+      more than 6.
+
+      Players are ENCOURAGED to enforce penalties for rules breaches
+      against the Pariah, even really minor ones.
+
+      Upon a win announcement that the Pariah has ever continuously
+      had 0 Rests for an entire week whilst being the Pariah for all
+      of that time, then the Pariah satisfies the Winning Condition of
+      Cleanliness. Cleanup condition: The office of Pariah becomes
+      vacant.
+
+History:
+Created by Proposal 6814 (ais523), 4 September 2010
 
 ----------------------------------------------------------------------
 
