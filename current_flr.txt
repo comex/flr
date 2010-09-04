@@ -732,7 +732,7 @@ Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
 
 ----------------------------------------------------------------------
 
-Rule 2199/17 (Power=1)
+Rule 2199/18 (Power=1)
 Ribbons
 
       While a player qualifies for a Ribbon, any person CAN, by
@@ -809,6 +809,10 @@ Ribbons
 
       (+S) The Enemy qualifies for a Silver Ribbon.
 
+      (+L) A player qualifies for a Lime Ribbon, if e was the
+           co-author of at least three Proposals adopted in the
+           previous week.
+
       If this rule mentions at least six different specific colors for
       Ribbons, then upon a win announcement that one or more players
       each possess at least one Ribbon of each such color, all those
@@ -846,6 +850,7 @@ Amended(14) by Proposal 6778 (coppro), 11 August 2010
 Amended(15) by Proposal 6779 (coppro), 11 August 2010
 Amended(16) by Proposal 6780 (coppro), 11 August 2010
 Amended(17) by Proposal 6794 (coppro; disi.), 27 August 2010
+Amended(18) by Proposal 6817 (Keba, coppro), 4 September 2010
 
 ----------------------------------------------------------------------
 
