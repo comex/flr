@@ -3,7 +3,7 @@ THE FULL LOGICAL RULESET
 Last proposal with recorded effect on this ruleset: 6804
 Last change to this ruleset: by proposal 6804
 
-Last updated: 3 September 2010
+Last updated: 4 September 2010
 
 Rule ID numbers:
       highest orderly: 2311
@@ -5052,7 +5052,7 @@ Assigned to Committee on the Judiciary by Proposal 6053 (Murphy,
 
 ----------------------------------------------------------------------
 
-Rule 911/38 (Power=1.7)
+Rule 911/39 (Power=1.7)
 Appeal Cases
 
       Appeal cases are a subclass of judicial cases.  An appeal case's
@@ -5132,13 +5132,19 @@ Appeal Cases
       a valid judgement to assign to the case -- only the last such
       published opinion for each member is used to determine the
       outcome.  Each member SHOULD choose an appropriate judgement,
-      and include arguments for eir choice.  If, immediately after
-      either all members have so published or the time limit for so
-      publishing has ended, a majority of the members have opined for
-      the same judgement, the panel acts to deliver the judgement in
-      question.  If the panel publishes a valid judgement via another
-      mechanism specified in the Rules, the requirement for individual
-      members to publish individual opinions is waived.
+      and include arguments for eir choice.  If prejudice is not
+      explicitly specified, then an opinion indicating AFFIRM or
+      REMAND implicitly indicates without prejudice, while an opinion
+      indicating REMIT or OVERRULE implicitly indicates with
+      prejudice.
+
+      If, immediately after either all members have so published or
+      the time limit for so publishing has ended, a majority of the
+      members have opined for the same judgement, the panel acts to
+      deliver the judgement in question.  If the panel publishes a
+      valid judgement via another mechanism specified in the Rules,
+      the requirement for individual members to publish individual
+      opinions is waived.
 
       If the time period ends with no majority judgement, then:
 
@@ -5237,6 +5243,7 @@ Amended(35) by Proposal 6605 (Murphy), 19 January 2010
 Amended(36) by cleaning (Murphy), 6 March 2010
 Amended(37) by Proposal 6705 (comex), 25 April 2010
 Amended(38) by Proposal 6726 (coppro), 22 May 2010
+Amended(39) by Proposal 6811 (Murphy), 4 September 2010
 
 ----------------------------------------------------------------------
 
