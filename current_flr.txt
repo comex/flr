@@ -5828,8 +5828,8 @@ Amended(6) by Proposal 6821 (G., ais523), 4 September 2010
 Rule 2310/0 (Power=1)
 Musical chairs
 
-     A Minister (the Humphrey) CAN trade cards with another Minister
-     (the Bernard) by announcement, provided that
+      A Minister (the Humphrey) CAN trade cards with another Minister
+      (the Bernard) by announcement, provided that
 
        a) the Humphrey has not traded cards within the past eight
           weeks, and
