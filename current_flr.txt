@@ -6,24 +6,25 @@ Last change to this ruleset: by proposal 6804
 Last updated: 4 September 2010
 
 Rule ID numbers:
-      highest orderly: 2313
+      highest orderly: 2315
       chaotic: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 137
+Current total number of rules: 135
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
       37 with Power=3
-      46 with Power=2
+       1 with Power=2.1
+      47 with Power=2
        2 with Power=1.9
        6 with Power=1.7
        6 with Power=1.5
-      38 with Power=1
+      34 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -40,7 +41,7 @@ Index of Categories
       * Adjudication
       * Economy
       * Patent Titles and Degrees
-      * Foreign Relations
+      * The Court
       * Trophies
 
 ----------------------------------------------------------------------
@@ -49,6 +50,7 @@ Index of Rules
 
       * Temporary
       Rule 2307: Website Fixup
+      Rule 2315: Leader Bootstrap
 
       * The Game of Agora
       Rule 2105: The Map of Agora
@@ -143,7 +145,6 @@ Index of Rules
       Rule 2267: Judge's Proposals
       Rule 1950: Voting on Democratic Decisions
       Rule 2156: Voting on Ordinary Decisions
-      Rule 2290: Chamber and Title
       Rule 2279: Voting Limits on Ordinary Decisions
       Rule 2142: Support Democracy
       Rule 2137: The Assessor
@@ -181,13 +182,7 @@ Index of Rules
       Rule 2295: Rewards
       Rule 2283: Fees
       Rule 2284: Fee-based actions
-      Rule 2255: Cards
-      Rule 2286: Veto and Rubberstamp
-      Rule 2275: Government
       Rule 2310: Musical chairs
-      Rule 2269: Couple Coups
-      Rule 2270: Coups D'etat
-      Rule 2274: Chicken Coups
       Rule 2287: Props
       Rule 2293: Leadership Tokens
       Rule 2303: Teams
@@ -202,9 +197,13 @@ Index of Rules
       Rule 1367: Degrees
       Rule 2231: Order of the Hero of Agora Nomic
 
-      * Foreign Relations
+      * The Court
+      Rule 2314: The List of Succession
+      Rule 2255: The Court
       Rule  402: Identity of the Speaker
       Rule  103: Role of the Speaker
+      Rule 2270: Coups D'etat
+      Rule 2286: Veto and Rubberstamp
 
       * Trophies
       Rule 1727: Happy Birthday
@@ -236,7 +235,7 @@ An ellipsis (...) indicates that the history is incomplete.
 
 ======================================================================
 Temporary
-      A temporary category containing a temporary rule.
+      A temporary category containing temporary rules.
 ----------------------------------------------------------------------
 
 Rule 2307/0 (Power=2)
@@ -278,6 +277,26 @@ Website Fixup
 
 History:
 Created by Proposal 6764 (coppro), 4 August 2010
+
+----------------------------------------------------------------------
+
+Rule 2315/0 (Power=2.1)
+Leader Bootstrap
+
+      As soon as possible after this proposal takes effect, the Herald
+      SHALL publish a randomly-ordered list of all players except the
+      Speaker; this list becomes the List of Succession.
+
+      Any player CAN, by announcement, cause a player who won the game
+      in the six months prior to this rule taking effect, and who has
+      never been marked before, to become marked.  The Herald SHOULD
+      take the lead in marking all such winners of whom e is aware.
+
+      After this Rule has been in effect for 30 days, the Herald CAN
+      and SHALL, asap, cause it to repeal itself With Notice.
+
+History:
+Created by Proposal 6821 (G., ais523), 4 September 2010
 
 ----------------------------------------------------------------------
 
@@ -1637,7 +1656,7 @@ Amended(11) by Proposal 6666 (Murphy), 10 March 2010
 
 ----------------------------------------------------------------------
 
-Rule 2177/15 (Power=2)
+Rule 2177/16 (Power=2)
 The Senate
 
       A Senator is any first-class player whose most recent
@@ -1669,9 +1688,9 @@ The Senate
       0 and cannot be modified, rules to the contrary notwithstanding.
       Any Senator CAN cause an Ineligible player to cease to be
       Ineligible to vote on a specified decision with 4 supporting
-      Senators and without objection from a member of the Government
-      (any of whom CAN object), restoring eir voting limit to what it
-      would be if e had never been made Ineligible.
+      Senators and without objection from a member of the Court (any
+      of whom CAN object), restoring eir voting limit to what it would
+      be if e had never been made Ineligible.
 
       When an emergency session begins, all non-Senators' postures
       become supine, and non-Senators CANNOT flip their posture while
@@ -1694,6 +1713,7 @@ Amended(12) by Proposal 6266 (Murphy, ais523), 11 May 2009
 Amended(13) by Proposal 6319 (Murphy; disi.), 26 May 2009
 Amended(14) by Proposal 6618 (Murphy; disi.), 4 February 2010
 Amended(15) by Proposal 6733 (Wooble), 6 June 2010
+Amended(16) by Proposal 6821 (G., ais523), 4 September 2010
 
 ----------------------------------------------------------------------
 
@@ -4179,49 +4199,15 @@ Amended(17) by Proposal 6697 (coppro), 25 April 2010
 
 ----------------------------------------------------------------------
 
-Rule 2290/0 (Power=2)
-Chamber and Title
-
-      Chamber is a switch possessed by players, proposals in the
-      Proposal Pool, and ongoing Agoran Decisions to adopt Proposals.
-      The possible values for Chamber are Green, Red, and Purple.
-      Green is superior to Purple, Red is superior to Green, and
-      Purple is superior to Red; the opposite of superior is inferior.
-
-      The default is Green in case of players, the Chamber of the
-      author in case of proposals, and the Chamber of the proposal in
-      question in case of a Decision. These are not continuously
-      updated, but evaluated only as the entity comes into being.
-
-      A player CAN change eir Title by announcement if e has not
-      already done so previously in the same month. In the same
-      message in which a player submits a proposal, e CAN set its
-      Chamber by announcement. Changes to Title are secured.
-
-      The Assessor tracks the Chamber of players and the Promotor
-      tracks the Chamber of proposals.
-
-      The Chamber of a player may also be referred to as eir Title;
-      this does not extend to proposals or Decisions. A player may be
-      referred to as a "<foo> player", where <foo> is eir Chamber.
-
-History:
-Created by Proposal 6697 (coppro), 25 April 2010
-
-----------------------------------------------------------------------
-
-Rule 2279/1 (Power=2)
+Rule 2279/2 (Power=2)
 Voting Limits on Ordinary Decisions
 
       A player's voting limit on an Ordinary decision is the result of
       performing the following steps, in order:
 
-          (1) Take the following value, depending on the relationship
-               between the player's Chamber and the Chamber of the
-               Decision:
-                  (a) If eir Chamber is superior, it is 2, else
-                  (b) If eir Chamber is inferior, it is 1, else
-                  (c) If the Chambers are identical, it is 5.
+          (1) Take the Influence Level associated with the player's
+              position on the list of succession, or 5 if the player
+              is the Speaker.
 
           (2) Reduce the value by half the number of Rests owned by
               the player.
@@ -4238,6 +4224,7 @@ Voting Limits on Ordinary Decisions
 History:
 Created by Proposal 6549 (coppro; disi.), 13 November 2009
 Amended(1) by Proposal 6697 (coppro), 25 April 2010
+Amended(2) by Proposal 6821 (G., ais523), 4 September 2010
 
 ----------------------------------------------------------------------
 
@@ -5782,7 +5769,7 @@ Amended(1) by Proposal 6725 (coppro; disi.), 22 May 2010
 
 ----------------------------------------------------------------------
 
-Rule 2284/5 (Power=2)
+Rule 2284/6 (Power=2)
 Fee-based actions
 
       - A player CAN increase eir voting limit on a specified decision
@@ -5810,14 +5797,22 @@ Fee-based actions
         charge of 3 ergs unless there is an ongoing election for that
         office.
 
-      - A player CAN change the chamber of an ongoing ordinary
-        decision for a charge of 2 ergs.
-
       - A player CAN destroy an erg in the possession of a specified
         player for a charge of 2 ergs. The PSM SHALL note such a
         destruction in eir report.
 
       - A player CAN award emself a capacitor for a charge of 3 ergs.
+
+      - A player CAN move an indicated player an indicated number of
+        positions P on the list in an indicated direction (up or down)
+        for a charge equal to the sum of the Influence Levels of the
+        positions over which that player would jump and the position
+        the player is jumping to, as totaled prior to the jump.  If
+        the indicated player is unable to be so moved due to eir
+        position on the list, but can be moved at least one position
+        in the indicated direction, e is moved the maximum amount
+        possible and charged the appropriate partial fee.  If this
+        final fee CANNOT be paid in full, the entire action fails.
 
 History:
 Created by Proposal 6616 (G., coppro, c., Murphy), 30 January 2010
@@ -5826,117 +5821,7 @@ Amended(2) by Proposal 6633 (coppro; disi.), 20 February 2010
 Amended(3) by Proposal 6638 (Yally), 20 February 2010
 Amended(4) by Proposal 6735 (coppro), 13 June 2010
 Amended(5) by Proposal 6816 (G., Keba), 4 September 2010
-
-----------------------------------------------------------------------
-
-Rule 2255/7 (Power=2)
-Cards
-
-      Each of the items listed in this rule by a title and position is
-      an asset tracked by the Herald.  Collectively these assets are
-      known as Cards.  Ownership of cards is restricted to players.
-
-      Cards CANNOT be destroyed except as described in this Rule, nor
-      CAN more than a single instance of each particular card come
-      into existence, rules to the contrary notwithstanding.  If a CFJ
-      determines that the possessor of the instance can't be
-      determined by reasonable effort, then the Herald CAN and SHALL,
-      as soon as possible, destroy any instance of that card that
-      might exist and create that card in the possession of an active
-      player who holds the Patent Title Champion, chosen at random.
-
-      If the holder of a particular card is a Player, the holder of
-      that card is considered to be the holder of its listed position,
-      and have the powers and duties described by the Rules for that
-      position.
-
-      Title: Minister without Portfolio
-      Position: The Minister without Portfolio CAN become holder of a
-      specified vacant elected office by announcement, unless e is
-      prevented from holding that office on an ongoing basis.
-
-      Title: Majority Leader.
-      Position: The Majority Leader CAN veto a specified decision by
-      announcement.
-
-      Title: Cabinet Secretary.
-      Position: the Cabinet Secretary CAN rubberstamp a specified
-      decision by announcement.
-
-      Title: Chief Whip.
-      Position: The Chief Whip's voting limit on an ordinary Decision
-      is 1.5 times what it would otherwise be; this applies after
-      other calculations.
-
-      Title: Justiciar.
-      Position: The Justiciar may be granted particular abilities or
-      privileges associated with the judicial process as described
-      elsewhere in the Rules.
-
-      Title: Admiral of the Navy.
-      Position:  The Admiral of the Navy CAN begin a coup by
-      announcing the ceremonial shelling of the palace.  The effects
-      of the coup (if any) are as described elsewhere in the rules.
-
-History:
-Created by Proposal 6394 (Goethe), 10 July 2009
-Amended(1) by cleaning (Murphy), 16 August 2009
-Amended(2) by Proposal 6539 (coppro), 4 November 2009
-Amended(3) and retitled by Proposal 6616 (G., coppro, c., Murphy),
-  30 January 2010
-Amended(4) by Proposal 6636 (Murphy; disi.), 20 February 2010
-Amended(5) by cleaning (Murphy), 6 March 2010
-Amended(6) by Proposal 6654 (Murphy), 10 March 2010
-Amended(7) by Proposal 6697 (coppro), 25 April 2010
-
-----------------------------------------------------------------------
-
-Rule 2286/0 (Power=2)
-Veto and Rubberstamp
-
-      Vetoing an ordinary decision during its voting period increases
-      its adoption index by 1 and makes it Democratic.  Vetoing a
-      decision under other circumstances has no effect.
-
-      Rubberstamping an ordinary, non-filibustered decision during its
-      voting period decreases its quorum to 3, rules to the contrary
-      notwithstanding.  Rubberstamping a decision under other
-      circumstances has no effect.
-
-History:
-Created by Proposal 6636 (Murphy; disi.), 20 February 2010
-
-----------------------------------------------------------------------
-
-Rule 2275/3 (Power=1)
-Government
-
-      When allowed to by the rules, a player Forms a Government by
-      publishing a defined list of every card and, for each card, a
-      different active player. The players chosen in this manner must
-      contain a maximal number of players holding the patent title
-      Champion; this requirement defers to any requirements imposed by
-      other rules on the Formation of a Government.
-
-      The Formation of a Government constitutes a self-ratifying
-      declaration that the player Forming the Government is capable of
-      doing so, and that all the cards are successfully created or
-      transferred to the players specified.
-
-      When a Government is Formed, each card is transferred to the
-      player specified, or if the card does not exist, it is created
-      in that player's possession.
-
-      The Government is the set of entities, other than the Lost and
-      Found Department, owning cards.
-
-      A Minister is any member of the Government.
-
-History:
-Created by Proposal 6490 (coppro), 18 September 2009
-Amended(1) by Proposal 6594 (coppro; disi.), 14 December 2009
-Amended(2) by Proposal 6616 (G., coppro, c., Murphy), 30 January 2010
-Amended(3) by Proposal 6714 (coppro; disi.), 4 May 2010
+Amended(6) by Proposal 6821 (G., ais523), 4 September 2010
 
 ----------------------------------------------------------------------
 
@@ -5953,57 +5838,6 @@ Musical chairs
 
 History:
 Created by Proposal 6802 (Murphy), 27 August 2010
-
-----------------------------------------------------------------------
-
-Rule 2269/2 (Power=2)
-Couple Coups
-
-      A coup is either a coup d'etat or a chicken coup.
-
-      When a player begins a coup, the coup is a coup d'etat if it has
-      been at least one month since any player last Formed the
-      Government (if ever) and since the last coup d'etat (if ever)
-      and if the player beginning the coup is not the Speaker, a
-      chicken coup otherwise.
-
-      The effects of the various varieties of coup are defined
-      elsewhere in the rules.
-
-History:
-Created by Proposal 6490 (coppro), 18 September 2009
-Amended(1) by Proposal 6598 (coppro; disi.), 14 December 2009
-Amended(2) by Proposal 6702 (coppro), 25 April 2010
-
-----------------------------------------------------------------------
-
-Rule 2270/2 (Power=2)
-Coups D'etat
-
-      When a player begins a coup d'etat, an Emergency Session is
-      called. Rules to the contrary notwithstanding, the roll call of
-      this Emergency Session is the set of players who were Senators
-      and not Ministers when the Emergency Session is called, plus the
-      player who began the coup.
-
-History:
-Created by Proposal 6490 (coppro), 18 September 2009
-Amended(1) by cleaning (Murphy), 6 March 2010
-Amended(2) by Proposal 6702 (coppro), 25 April 2010
-
-----------------------------------------------------------------------
-
-Rule 2274/1 (Power=1)
-Chicken Coups
-
-      When a chicken coup is begun, the Admiral of the Navy SHALL, if
-      possible, and as soon as possible, perform the next action e is
-      explicitly and publicly instructed to perform by another player.
-      Failure to do so is the Class-3 Crime of Spreading Salmonella.
-
-History:
-Created by Proposal 6490 (coppro), 18 September 2009
-Amended(1) by Proposal 6520 (ais523), 19 October 2009
 
 ----------------------------------------------------------------------
 
@@ -6281,11 +6115,18 @@ meaning, it is correct to say that that person "is an X".]
   * announce award or revocation of Patent Title (rule 649)
   * award patent title of Champion (rule 1922)
   * report the manner of wins (rule 1922)
-  * report title dates for Ministers Without Portfolio (rule 402)
+  * report Destiny (rule 402)
+  * randomize coups (rule 2270)
+  * bootstrap List of Succession (rule 2315)
+  * report List of Succession (rule 2314)
+  * repeal rule 2315 (rule 2315)
   * recordkeepor of rests (rule 2228)
+  * list fugitives (rule 2229)
   * recordkeepor of ribbons (rule 2199)
   * announce whether a notice of violation is valid (rule 2230)
-  * assign ID numbers to valid notices of violation (rule 2230)]
+  * assign ID numbers to valid notices of violation (rule 2230)
+  * initiate decision for degree award (rule 1367)
+  * award degrees (rule 1367)]
 
 History:
 Created by Proposal 649 (Wes), ca. Oct. 22 1993
@@ -6547,33 +6388,127 @@ Amended(3) by Proposal 6626 (Murphy), 20 February 2010
 ----------------------------------------------------------------------
 
 ======================================================================
-Foreign Relations
-      A category concerning interaction with outside forces, including
-      other nomics.
+The Court
+      A category concerning bonus powers granted to players.
 ----------------------------------------------------------------------
 
-Rule 402/32 (Power=1)
+Rule 2314/0 (Power=2)
+The List of Succession
+
+      The List of Succession is an ordered list of all current players
+      except the current Speaker.  The first (1st) position is the
+      "highest" ("top") position on the list and the last (Nth
+      position, where N is the number of players on the list), is the
+      "lowest" ("bottom") position.  The List of Succession is part
+      of the Herald's weekly report, and is self-ratifying.
+
+      When a person is moved up P places on the list, they are moved
+      to be just above (immediately higher than) the person P places
+      ahead of em on the list - if there are not P players higher than
+      em, e is moved to the top of the list.  When a person is moved
+      down P places on the list, they are moved to be just below
+      (immediately lower than) the person B places behind em on the
+      list - if there are not B players lower than em, e is moved to
+      the bottom of the list.  Movement on the list is Secured.
+
+      Any attempt to move an entity not on the list on the list fails.
+
+      Whenever a player other than the Speaker is not on the list, or
+      eir position on the list is found by judicial declaration to be
+      unknown or ambiguous, e is added to the list below the lowest
+      player whose position on the list is known.
+
+History:
+Created by Proposal 6821 (G., ais523), 4 September 2010
+
+----------------------------------------------------------------------
+
+Rule 2255/8 (Power=2)
+The Court
+
+      A rule with a power equal to or greater than this rule may
+      associate a Position Name with a specific position on the List
+      of Succession.  The player occupying a named position on the
+      list is considered to be the holder of the names position and
+      have the powers and duties described by the Rules for that
+      position.  The holder of a so-named position is a Member of the
+      Court, (a Courtier).
+
+      Additionally, a rule with a power equal to or greater than this
+      rule may associate an integer Influence Level with a specific
+      position or positions on the List of Succession.
+
+      The following positions on the List of Succession are named, and
+      have indicated Influence Levels.  All other positions on the
+      list have an Influence Level of 2.
+
+      First Position:  Kitchen Staff Supervisor
+      Influence Level: 10
+      Position:  The Kitchen Staff Supervisor supervises the kitchen
+      staff.
+
+      Second Position: Justiciar.
+      Influence Level: 7
+      Position: The Justiciar is granted particular abilities or
+      privileges associated with the judicial process as described
+      elsewhere in the Rules.
+
+      Third Position: Grand Vizier
+      Influence Level: 5
+      Position: The Grand Vizier CAN, With Notice, perform any action
+      that an officer both CAN and MAY (or SHALL) perform by virtue of
+      holding that office.
+
+      Fourth Position: Head Gardener.
+      Influence Level: 5
+      Position: the Head Gardener CAN rubberstamp or veto a specified
+      decision by announcement.
+
+      Fifth Position: Crown Prince
+      Influence Level: 0
+      Position:  The Crown Prince CAN begin a coup by announcing the
+      ceremonial shelling of the palace, providing no coup has been
+      resolved in the last 14 days.  The effects of the coup (if any)
+      are as described elsewhere in the rules.
+
+History:
+Created by Proposal 6394 (Goethe), 10 July 2009
+Amended(1) by cleaning (Murphy), 16 August 2009
+Amended(2) by Proposal 6539 (coppro), 4 November 2009
+Amended(3) and retitled by Proposal 6616 (G., coppro, c., Murphy),
+  30 January 2010
+Amended(4) by Proposal 6636 (Murphy; disi.), 20 February 2010
+Amended(5) by cleaning (Murphy), 6 March 2010
+Amended(6) by Proposal 6654 (Murphy), 10 March 2010
+Amended(7) by Proposal 6697 (coppro), 25 April 2010
+Retitled and amended(8) by Proposal 6821 (G., ais523), 4 September
+  2010
+
+----------------------------------------------------------------------
+
+Rule 402/33 (Power=2)
 Identity of the Speaker
 
-      The List of Succession is a list of the five active players who
-      were most recently awarded the patent title Champion.  This
-      list, and the date on which each player on the list last became
-      part of the list, is part of the Herald's monthly report.
+      A Coronation (crowning) occurs when a player announces that a
+      specified player other than the Speaker is crowned as Speaker,
+      provided that the rules explicitly permit the announcing player
+      (the crowner) to crown the specified player (the Speaker-to-be).
 
-      The Speaker is the active player on the List of Succession who
-      won the game most recently. The Herald SHALL announce the
-      ascension of a new Speaker as soon as possible after it occurs.
+      When an Coronation occurs, the current Speaker is removed from
+      office and placed on the bottom of the list of succession, and
+      immediately thereafter the Speaker-to-be is removed from the
+      list of succession and becomes the Speaker.
 
-      For the purpose of this rule, multiple simultaneous wins are
-      treated as if they occurred in the same order as those players'
-      most recent registrations.
+      If no player has been crowned in the previous 90 days, or the
+      current Speaker is inactive or the office is vacant, than any
+      player CAN crown the highest active player on the List of
+      Succession.
 
-[Cross-references (10 July 2009): the Speaker's duties are:
-  * figurehead (rule 103)
-The other provisions governing the Speakership are:
-  * identity of the Speaker (rule 402)
-  * initial Speaker (rule 104) (provision spent)
-  * qualification for Platinum Ribbon (2199)]
+      Destiny is a player switch tracked by the Herald with values
+      Unmarked (default) and Marked.  When a player wins the game, e
+      becomes Marked.  If no player has been crowned in the previous
+      14 days, than any player CAN crown any single specified Marked
+      player.  When a player is crowned, e becomes Unmarked.
 
 History:
 Created by Proposal 402 (Alexx), ca. Sep. 3 1993
@@ -6613,18 +6548,30 @@ Amended(29) by Proposal 6394 (Goethe), 10 July 2009
 Amended(30) by Proposal 6490 (coppro), 18 September 2009
 Amended(31) by Proposal 6639 (Yally), 20 February 2010
 Amended(32) by Proposal 6707 (Murphy), 25 April 2010
+Power changed from 1 to 2 by Proposal 6821 (G., ais523), 4 September
+  2010
+Amended(33) by Proposal 6821 (G., ais523), 4 September 2010
 
 ----------------------------------------------------------------------
 
-Rule 103/6 (Power=1)
+Rule 103/7 (Power=2)
 Role of the Speaker
 
       The Speaker is an imposed office and a figurehead of Agora. The
       Speaker is a person who has proven themselves to be worthy of
       the title, and for a time can direct Agoran government affairs.
 
-      If e has not already done so this quarter, or if e hasn't done
-      so since e gained office, the Speaker CAN Form a Government.
+      If e has not already done so this month, or if e hasn't done so
+      since e gained office, the Speaker CAN Bestow Favors, by
+      announcement.  An announcement Bestowing Favors is a list of
+      other Players, one (different) name per Courtier position.  The
+      bestowing of favors has the effect of moving each named player
+      to the indicated courtier position on the List of Succession, in
+      the order they are listed in the announcement.
+
+[Cross-references (10 July 2009): the Speaker's duties are:
+  * figurehead (rule 103)
+  * bestow favors (rule 103)]
 
 History:
 Initial Immutable Rule 103, Jun. 30 1993
@@ -6638,6 +6585,70 @@ Amended(4) by Proposal 5407 (root), 22 January 2008
 Power changed from 3 to 1 by Proposal 5947 (ais523), 15 November 2008
 Amended(5) by Proposal 6026 (Murphy), 22 December 2008
 Amended(6) by Proposal 6490 (coppro), 18 September 2009
+Power changed from 1 to 2 by Proposal 6821 (G., ais523), 4 September
+  2010
+Amended(7) by Proposal 6821 (G., ais523), 4 September 2010
+
+----------------------------------------------------------------------
+
+Rule 2270/3 (Power=2)
+Coups D'etat
+
+      When a player begins a Coup D'etat (a coup) as explicitly
+      permitted by the Rules, the following events take place in
+      order:
+
+      (a) For a period of 4 days following the coup initiation,  any
+          player except the Speaker CAN announce themselves to be a
+          Rebel.  Once announced, this cannot be retracted.  The
+          initiator of the coup is automatically a Rebel.
+
+      (b) As soon as possible after this 4-day period ends, the
+          Herald SHALL select and announce a random integer between 1
+          and the number of players in the game.  If this number is
+          equal to or less than the number of declared rebels, than
+          the rebellion succeeds, otherwise it fails.  The
+          announcement of this number resolves the coup with the
+          following effects:
+
+         (i) If the rebellion fails, one Rest is created in the
+             possession of every Rebel, and one additional Rest is
+             created in the possession of the coup initiator, and a
+             Leadership Token is created in the possession of the
+             Speaker.
+
+        (ii) If the coup succeeds, all Rebels have all of their Rests
+             destroyed.  The coup initiator becomes the Speaker, and
+             the other Rebels are moved to the first R positions in
+             the List of Succession, placed on the list in the order
+             in which they declared themselves to be rebels (first
+             position in the list going to the first rebel, etc).
+             Rules to the contrary Notwithstanding, the new Speaker
+             CANNOT Bestow Favors until 30 days after so becoming
+             Speaker.
+
+History:
+Created by Proposal 6490 (coppro), 18 September 2009
+Amended(1) by cleaning (Murphy), 6 March 2010
+Amended(2) by Proposal 6702 (coppro), 25 April 2010
+Amended(3) by Proposal 6821 (G., ais523), 4 September 2010
+
+----------------------------------------------------------------------
+
+Rule 2286/0 (Power=2)
+Veto and Rubberstamp
+
+      Vetoing an ordinary decision during its voting period increases
+      its adoption index by 1 and makes it Democratic.  Vetoing a
+      decision under other circumstances has no effect.
+
+      Rubberstamping an ordinary, non-filibustered decision during its
+      voting period decreases its quorum to 3, rules to the contrary
+      notwithstanding.  Rubberstamping a decision under other
+      circumstances has no effect.
+
+History:
+Created by Proposal 6636 (Murphy; disi.), 20 February 2010
 
 ----------------------------------------------------------------------
 
