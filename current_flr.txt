@@ -241,39 +241,39 @@ Temporary
 Rule 2307/0 (Power=2)
 Website Fixup
 
-       During the Submission Period, any player CAN, by announcement,
-       submit a Website Submission. A Website Submission is a document or
-       collection of documents intended to replace the web page at
-       http://agoranomic.org/. A player CAN by announcement withdraw a
-       Website Submission (causing it to cease to be a
-       Website Submission). Submitting a Website Submission causes any
-       earlier Website Submission authored by the same player to be
-       withdrawn.
+      During the Submission Period, any player CAN, by announcement,
+      submit a Website Submission. A Website Submission is a document
+      or collection of documents intended to replace the web page at
+      http://agoranomic.org/. A player CAN by announcement withdraw a
+      Website Submission (causing it to cease to be a Website
+      Submission). Submitting a Website Submission causes any earlier
+      Website Submission authored by the same player to be withdrawn.
 
-       Website Submissions have ID numbers, to be assigned by the
-       the Sysadmin. Rules to the contrary notwithstanding, the
-       Sysadmin has no report and has II 0. The Sysadmin is an imposed
-       office, its holder is coppro.
+      Website Submissions have ID numbers, to be assigned by the the
+      Sysadmin. Rules to the contrary notwithstanding, the Sysadmin
+      has no report and has II 0. The Sysadmin is an imposed office,
+      its holder is coppro.
 
-       If the Submission Period has not began, Taral CAN, by
-       announcement, begin it, and e also CAN, by announcement, cause
-       this Rule to repeal itself. If the Submission Period has not began
-       and this Rule has been in the Ruleset for more than two weeks,
-       any player CAN, by announcement, cause this Rule to repeal itself.
+      If the Submission Period has not began, Taral CAN, by
+      announcement, begin it, and e also CAN, by announcement, cause
+      this Rule to repeal itself. If the Submission Period has not
+      began and this Rule has been in the Ruleset for more than two
+      weeks, any player CAN, by announcement, cause this Rule to
+      repeal itself.
 
-       Two weeks after the Submission Period begins, it ends. As soon as
-       possible thereafter, the Sysadmin SHALL initiate an Agoran
-       decision to pick the winning Website Sumbission; the options shall
-       be each Website Submission and NO WINNER. Each active player is
-       an eligible voter for this decision, as is Taral. Taral's voting
-       limit is 3, every other voter's limit is 1. The text of each
-       Website Submission is an essential parameter.
+      Two weeks after the Submission Period begins, it ends. As soon
+      as possible thereafter, the Sysadmin SHALL initiate an Agoran
+      decision to pick the winning Website Sumbission; the options
+      shall be each Website Submission and NO WINNER. Each active
+      player is an eligible voter for this decision, as is Taral.
+      Taral's voting limit is 3, every other voter's limit is 1. The
+      text of each Website Submission is an essential parameter.
 
-       When the Agoran decision is resolved, if a Website Submission was
-       selected as the outcome, then its author is awarded two Leadership
-       Tokens and Taral SHOULD update http://agoranomic.org/ to reflect
-       the winning Website Submission. Regardless of the outcome, this
-       rule then repeals itself.
+      When the Agoran decision is resolved, if a Website Submission
+      was selected as the outcome, then its author is awarded two
+      Leadership Tokens and Taral SHOULD update http://agoranomic.org/
+      to reflect the winning Website Submission. Regardless of the
+      outcome, this rule then repeals itself.
 
 History:
 Created by Proposal 6764 (coppro), 4 August 2010
@@ -564,23 +564,23 @@ Amended(7) by Proposal 6650 (coppro), 10 March 2010
 
 ----------------------------------------------------------------------
 
-Rule 1688/5 (Power=3)
+Rule 1688/6 (Power=3)
 Power
 
-       The Power of an entity is a non-negative rational number.
-       An Instrument is an entity with positive Power.
+      The Power of an entity is a non-negative rational number.  An
+      Instrument is an entity with positive Power.
 
-       The Power of an entity cannot be set or modified except as
-       stipulated by the Rules.  All entities have Power zero except
-       where specifically allowed by the rules.
+      The Power of an entity cannot be set or modified except as
+      stipulated by the Rules.  All entities have Power zero except
+      where specifically allowed by the rules.
 
-       A Rule that secures a change, action, or value (hereafter the
-       securing Rule) thereby makes it IMPOSSIBLE to perform that change
-       or action, or to modify that value, except as allowed by an
-       Instrument with Power greater than or equal to the change's Power
-       Threshold.  This Threshold defaults to the securing Rule's Power,
-       but CAN be lowered as allowed by that Rule (including by the Rule
-       itself).
+      A Rule that secures a change, action, or value (hereafter the
+      securing Rule) thereby makes it IMPOSSIBLE to perform that
+      change or action, or to set or modify that value, except as
+      allowed by an Instrument with Power greater than or equal to the
+      change's Power Threshold.  This Threshold defaults to the
+      securing Rule's Power, but CAN be lowered as allowed by that
+      Rule (including by the Rule itself).
 
 History:
 Created by Proposal 3445 (General Chaos), Mar. 26 1997
@@ -591,6 +591,7 @@ Amended(4) by Proposal 5276 (Murphy, Pavitra, Zefram), 7 November 2007
 Assigned to Committee on Rules by Proposal 6053 (Murphy, woggle,
   ais523), 23 January 2009
 Amended(5) by Proposal 6513 (coppro; disi.), 3 October 2009
+Amended(6) by Proposal 6815 (Murphy, ais523), 4 September 2010
 
 ----------------------------------------------------------------------
 
@@ -5691,14 +5692,14 @@ Amended(4) by Proposal 6804 (Murphy; disi.), 27 August 2010
 Rule 2289/0 (Power=2)
 Capacitors
 
-       Capacitors are a class of fixed assets tracked by the PSM;
-       their ownership is restricted to players.
+      Capacitors are a class of fixed assets tracked by the PSM; their
+      ownership is restricted to players.
 
-       When an event is described as earning a player a number of
-       farads, e CAN, once per such event and in a timely fashion,
-       award emself an equal number of capacitors by announcement, but
-       only if e cites the specific event allowing em to do so in the
-       announcement.
+      When an event is described as earning a player a number of
+      farads, e CAN, once per such event and in a timely fashion,
+      award emself an equal number of capacitors by announcement, but
+      only if e cites the specific event allowing em to do so in the
+      announcement.
 
 History:
 Created by Proposal 6679 (coppro), 22 March 2010
