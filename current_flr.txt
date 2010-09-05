@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6804
-Last change to this ruleset: by proposal 6804
+Last proposal with recorded effect on this ruleset: 6821
+Last change to this ruleset: by proposal 6821
 
-Last updated: 4 September 2010
+Last updated: 5 September 2010
 
 Rule ID numbers:
       highest orderly: 2315
