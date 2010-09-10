@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6828
-Last change to this ruleset: by proposal 6828
+Last proposal with recorded effect on this ruleset: 6829
+Last change to this ruleset: by proposal 6829
 
 Last updated: 10 September 2010
 
@@ -5827,13 +5827,13 @@ Created by Proposal 6802 (Murphy), 27 August 2010
 
 ----------------------------------------------------------------------
 
-Rule 2287/5 (Power=1)
+Rule 2287/6 (Power=1)
 Props
 
       Props are a currency.
 
       The Air Traffic Controller is an office and the recordkeepor of
-      props; prop records are part of eir monthly report.
+      props.
 
       Ownership of props is limited to first-class players.  Props
       CANNOT be created, transferred, or destroyed except as allowed
@@ -5871,6 +5871,7 @@ Amended(2) by Proposal 6677 (coppro), 22 March 2010
 Amended(3) by Proposal 6763 (Yally), 4 August 2010
 Amended(4) by Proposal 6799 (Keba; disi.), 27 August 2010
 Amended(5) by Proposal 6803 (Murphy; disi.), 27 August 2010
+Amended(6) by Proposal 6829 (Keba), 10 September 2010
 
 ----------------------------------------------------------------------
 
