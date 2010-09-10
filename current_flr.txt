@@ -1,19 +1,19 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6829
-Last change to this ruleset: by proposal 6829
+Last proposal with recorded effect on this ruleset: 6832
+Last change to this ruleset: by proposal 6832
 
 Last updated: 10 September 2010
 
 Rule ID numbers:
-      highest orderly: 2315
+      highest orderly: 2316
       chaotic: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 134
+Current total number of rules: 135
 
 Power distribution:
        1 with Power=4
@@ -24,7 +24,7 @@ Power distribution:
        2 with Power=1.9
        6 with Power=1.7
        6 with Power=1.5
-      33 with Power=1
+      34 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -201,6 +201,7 @@ Index of Rules
       Rule 2255: The Court
       Rule  402: Identity of the Speaker
       Rule  103: Role of the Speaker
+      Rule 2316: Church and State
       Rule 2270: Coups D'etat
       Rule 2286: Veto and Rubberstamp
 
@@ -6576,6 +6577,29 @@ Amended(6) by Proposal 6490 (coppro), 18 September 2009
 Power changed from 1 to 2 by Proposal 6821 (G., ais523), 4 September
   2010
 Amended(7) by Proposal 6821 (G., ais523), 4 September 2010
+
+----------------------------------------------------------------------
+
+Rule 2316/0 (Power=1)
+Church and State
+
+      A cardinal is an active, ready player who is neither the current
+      Speaker nor the Associate Director of Personnel.
+
+      While there is a pope, no other player may become a pope.
+      Whenever a pope is not a cardinal, e ceases being a pope.
+
+      A notice of papal succession declares that a specified player is
+      a pope.  The notice is valid only if it is published by the
+      Associate Director of Personnel and the specified player is
+      indeed a pope.
+
+      Upon publication of a valid notice of papal succession, the
+      current Speaker ceases to be Speaker, the pope becomes the new
+      Speaker, and the pope ceases to be a pope.
+
+History:
+Created by Proposal 6832 (coppro; disi.), 10 September 2010
 
 ----------------------------------------------------------------------
 
