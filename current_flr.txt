@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6821
-Last change to this ruleset: by proposal 6821
+Last proposal with recorded effect on this ruleset: 6822
+Last change to this ruleset: by proposal 6822
 
-Last updated: 5 September 2010
+Last updated: 10 September 2010
 
 Rule ID numbers:
       highest orderly: 2315
@@ -5704,7 +5704,7 @@ Amended(4) by Proposal 6804 (Murphy; disi.), 27 August 2010
 
 ----------------------------------------------------------------------
 
-Rule 2289/0 (Power=2)
+Rule 2289/1 (Power=2)
 Capacitors
 
       Capacitors are a class of fixed assets tracked by the PSM; their
@@ -5712,12 +5712,13 @@ Capacitors
 
       When an event is described as earning a player a number of
       farads, e CAN, once per such event and in a timely fashion,
-      award emself an equal number of capacitors by announcement, but
-      only if e cites the specific event allowing em to do so in the
-      announcement.
+      award emself an equal number of capacitors (or half as many
+      ergs, rounded down) by announcement, but only if e cites the
+      specific event allowing em to do so in the announcement.
 
 History:
 Created by Proposal 6679 (coppro), 22 March 2010
+Amended(1) by Proposal 6822 (Tanner L. Swett), 10 September 2010
 
 ----------------------------------------------------------------------
 
