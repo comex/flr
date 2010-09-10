@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6823
-Last change to this ruleset: by proposal 6823
+Last proposal with recorded effect on this ruleset: 6827
+Last change to this ruleset: by proposal 6827
 
 Last updated: 10 September 2010
 
@@ -751,7 +751,7 @@ Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
 
 ----------------------------------------------------------------------
 
-Rule 2199/18 (Power=1)
+Rule 2199/19 (Power=1)
 Ribbons
 
       While a player qualifies for a Ribbon, any person CAN, by
@@ -775,15 +775,10 @@ Ribbons
       are distinct, regardless of spectral proximity.  Each color of
       Ribbon is a currency.
 
-      The Herald is the recordkeepor of Ribbons.
+      A Ribbon may only be of a color mentioned in this rule; if a
+      Ribbon somehow has any other color, it is destroyed.
 
-      When a player earns a Ribbon as outlined below, any person CAN
-      once, in a timely manner (except for White Ribbons, which can be
-      awarded at any time within a month after they are earned),
-      create that Ribbon in the player's possession by announcement,
-      unless the player already possesses the color of Ribbon e earned
-      (earning a Ribbon more than once entitles the bearer to multiple
-      Ribbon awards, though capitalizing on this may be difficult):
+      The Herald is the recordkeepor of Ribbons.
 
       (+R) When an interested proposal is adopted and changes at least
            one rule with Power >= 3, its proposer earns a Red Ribbon.
@@ -870,6 +865,7 @@ Amended(15) by Proposal 6779 (coppro), 11 August 2010
 Amended(16) by Proposal 6780 (coppro), 11 August 2010
 Amended(17) by Proposal 6794 (coppro; disi.), 27 August 2010
 Amended(18) by Proposal 6817 (Keba, coppro), 4 September 2010
+Amended(19) by Proposal 6827 (coppro), 10 September 2010
 
 ----------------------------------------------------------------------
 
