@@ -1,19 +1,19 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6832
-Last change to this ruleset: by proposal 6832
+Last proposal with recorded effect on this ruleset: 6833
+Last change to this ruleset: by proposal 6833
 
 Last updated: 10 September 2010
 
 Rule ID numbers:
-      highest orderly: 2316
+      highest orderly: 2317
       chaotic: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 135
+Current total number of rules: 136
 
 Power distribution:
        1 with Power=4
@@ -24,7 +24,7 @@ Power distribution:
        2 with Power=1.9
        6 with Power=1.7
        6 with Power=1.5
-      34 with Power=1
+      35 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -135,6 +135,7 @@ Index of Rules
       * Proposals
       Rule  106: Adopting Proposals
       Rule 2313: Urgent Proposals
+      Rule 2317: Leet Leadership
       Rule 2291: Fragments
       Rule 2292: Defragmentation Proposals
       Rule 2281: Proposal Cleanup
@@ -3868,6 +3869,19 @@ Urgent Proposals
 
 History:
 Created by Proposal 6816 (G., Keba), 4 September 2010
+
+----------------------------------------------------------------------
+
+Rule 2317/0 (Power=1)
+Leet Leadership
+
+      When an interested proposal consisting of exact 1337 words
+      (excluding information like name, or adoption/interest index) is
+      enacted, its proposer CAN in a timely fashion award emself a
+      Leadership Token.
+
+History:
+Created by Proposal 6833 (Keba), 10 September 2010
 
 ----------------------------------------------------------------------
 
