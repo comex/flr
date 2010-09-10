@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6822
-Last change to this ruleset: by proposal 6822
+Last proposal with recorded effect on this ruleset: 6823
+Last change to this ruleset: by proposal 6823
 
 Last updated: 10 September 2010
 
@@ -3727,7 +3727,7 @@ Proposals
       which changes are made to the game.
 ----------------------------------------------------------------------
 
-Rule 106/28 (Power=3)
+Rule 106/29 (Power=3)
 Adopting Proposals
 
       A proposal is a fixed body of text which has been made into a
@@ -3757,9 +3757,9 @@ Adopting Proposals
       a proposal from the Pool by a means other than initiating an
       Agoran Decision to adopt it is secured.
 
-      If the Rules do not otherwise permit at least one current active
-      player to distribute a Proposal, then any player may do so
-      Without 3 Objections.
+      If there is a Proposal in the Pool that it would otherwise be
+      IMPOSSIBLE for any active player to distribute, then any player
+      CAN distribute that Proposal Without 3 Objections.
 
       A co-author of a proposal is a person (other than its author)
       unambiguously identified as such by its author when it was
@@ -3862,6 +3862,7 @@ Amended(25) by Proposal 6625 (Murphy), 20 February 2010
 Amended(26) by Proposal 6656 (coppro), 1 March 2010
 Amended(27) by Proposal 6721 (coppro; disi), 21 May 2010
 Amended(28) by Proposal 6732 (comex), 13 June 2010
+Amended(29) by Proposal 6823 (Murphy, omd), 10 September 2010
 
 ----------------------------------------------------------------------
 
