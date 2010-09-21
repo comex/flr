@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6833
-Last change to this ruleset: by proposal 6833
+Last proposal with recorded effect on this ruleset: 6840
+Last change to this ruleset: by proposal 6840
 
-Last updated: 10 September 2010
+Last updated: 21 September 2010
 
 Rule ID numbers:
       highest orderly: 2317
@@ -6617,12 +6617,13 @@ Created by Proposal 6832 (coppro; disi.), 10 September 2010
 
 ----------------------------------------------------------------------
 
-Rule 2270/3 (Power=2)
+Rule 2270/4 (Power=2)
 Coups D'etat
 
       When a player begins a Coup D'etat (a coup) as explicitly
       permitted by the Rules, the following events take place in
-      order:
+      order.  A coup CANNOT be begun if a previous coup has begun and
+      not been resolved.
 
       (a) For a period of 4 days following the coup initiation,  any
           player except the Speaker CAN announce themselves to be a
@@ -6653,11 +6654,14 @@ Coups D'etat
              CANNOT Bestow Favors until 30 days after so becoming
              Speaker.
 
+       (iii) All Rebels cease being Rebels.
+
 History:
 Created by Proposal 6490 (coppro), 18 September 2009
 Amended(1) by cleaning (Murphy), 6 March 2010
 Amended(2) by Proposal 6702 (coppro), 25 April 2010
 Amended(3) by Proposal 6821 (G., ais523), 4 September 2010
+Amended(4) by Proposal 6840 (G.), 21 September 2010
 
 ----------------------------------------------------------------------
 
