@@ -3,7 +3,7 @@ THE FULL LOGICAL RULESET
 Last proposal with recorded effect on this ruleset: 6840
 Last change to this ruleset: by proposal 6840
 
-Last updated: 21 September 2010
+Last updated: 26 September 2010
 
 Rule ID numbers:
       highest orderly: 2317
@@ -13,14 +13,14 @@ Rule ID numbers:
 
 Statistics
 
-Current total number of rules: 136
+Current total number of rules: 135
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
       37 with Power=3
        1 with Power=2.1
-      47 with Power=2
+      46 with Power=2
        2 with Power=1.9
        6 with Power=1.7
        6 with Power=1.5
@@ -49,7 +49,6 @@ Index of Categories
 Index of Rules
 
       * Temporary
-      Rule 2307: Website Fixup
       Rule 2315: Leader Bootstrap
 
       * The Game of Agora
@@ -237,48 +236,6 @@ An ellipsis (...) indicates that the history is incomplete.
 ======================================================================
 Temporary
       A temporary category containing temporary rules.
-----------------------------------------------------------------------
-
-Rule 2307/0 (Power=2)
-Website Fixup
-
-      During the Submission Period, any player CAN, by announcement,
-      submit a Website Submission. A Website Submission is a document
-      or collection of documents intended to replace the web page at
-      http://agoranomic.org/. A player CAN by announcement withdraw a
-      Website Submission (causing it to cease to be a Website
-      Submission). Submitting a Website Submission causes any earlier
-      Website Submission authored by the same player to be withdrawn.
-
-      Website Submissions have ID numbers, to be assigned by the the
-      Sysadmin. Rules to the contrary notwithstanding, the Sysadmin
-      has no report and has II 0. The Sysadmin is an imposed office,
-      its holder is coppro.
-
-      If the Submission Period has not began, Taral CAN, by
-      announcement, begin it, and e also CAN, by announcement, cause
-      this Rule to repeal itself. If the Submission Period has not
-      began and this Rule has been in the Ruleset for more than two
-      weeks, any player CAN, by announcement, cause this Rule to
-      repeal itself.
-
-      Two weeks after the Submission Period begins, it ends. As soon
-      as possible thereafter, the Sysadmin SHALL initiate an Agoran
-      decision to pick the winning Website Sumbission; the options
-      shall be each Website Submission and NO WINNER. Each active
-      player is an eligible voter for this decision, as is Taral.
-      Taral's voting limit is 3, every other voter's limit is 1. The
-      text of each Website Submission is an essential parameter.
-
-      When the Agoran decision is resolved, if a Website Submission
-      was selected as the outcome, then its author is awarded two
-      Leadership Tokens and Taral SHOULD update http://agoranomic.org/
-      to reflect the winning Website Submission. Regardless of the
-      outcome, this rule then repeals itself.
-
-History:
-Created by Proposal 6764 (coppro), 4 August 2010
-
 ----------------------------------------------------------------------
 
 Rule 2315/0 (Power=2.1)
