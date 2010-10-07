@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
 Last proposal with recorded effect on this ruleset: 6840
-Last change to this ruleset: by proposal 6840
+Last change to this ruleset: by cleaning
 
-Last updated: 26 September 2010
+Last updated: 7 October 2010
 
 Rule ID numbers:
       highest orderly: 2317
@@ -3421,11 +3421,11 @@ Created by Proposal 6585 (c.; disi.), 6 December 2009
 
 ----------------------------------------------------------------------
 
-Rule 2222/1 (Power=2)
+Rule 2222/2 (Power=2)
 Maximum Voting Limits
 
       Other rules to the contrary notwithstanding, no entity may have
-      greater a voting limit than as allowed by this rule.
+      greater a voting limit than allowed by this rule.
 
       The maximum voting limit for any entity on an ordinary decision
       is 12. The maximum voting limit for any entity on any other
@@ -3434,6 +3434,7 @@ Maximum Voting Limits
 History:
 Created by Proposal 5978 (Elysion), 25 November 2008
 Amended(1) by Proposal 6394 (Goethe), 10 July 2009
+Amended(2) by cleaning (Murphy), 3 October 2010
 
 ----------------------------------------------------------------------
 
