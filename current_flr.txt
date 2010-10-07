@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6840
-Last change to this ruleset: by cleaning
+Last proposal with recorded effect on this ruleset: 6845
+Last change to this ruleset: by proposal 6845
 
 Last updated: 7 October 2010
 
@@ -2862,7 +2862,7 @@ Amended(7) by Proposal 6482 (c.), 18 September 2009
 
 ----------------------------------------------------------------------
 
-Rule 2154/31 (Power=2)
+Rule 2154/32 (Power=2)
 Election Procedure
 
       A player CAN initiate an election for a specified elected office
@@ -2908,14 +2908,13 @@ Election Procedure
 
        3) Each eligible voter's voting limit is one.
 
-       4) If there are no valid options for the Decision, instead of
-          initiating the Decision, the IADoP SHALL, in place of
-          initiating the decision, announce this fact, ending the
-          election.  If there is exactly one valid option for the
-          Decision, the IADoP SHALL, in place of initiating the
-          Decision, announce the valid option (the candidate), thus
-          installing that candidate into the office and ending the
-          election.
+       4) If there are no valid options for the Decision, the IADoP
+          SHALL, in place of initiating the decision, announce this
+          fact, ending the election.  If there is exactly one valid
+          option for the Decision, the IADoP SHALL, in place of
+          initiating the Decision, announce the valid option (the
+          candidate), thus installing that candidate into the office
+          and ending the election.
 
       Upon the resolution of this decision, its outcome (if a
       candidate) is installed into the office, and the election ends.
@@ -2956,6 +2955,7 @@ Amended(28) by Proposal 6411 (Yally), 30 July 2009
 Amended(29) by Proposal 6651 (coppro), 10 March 2010
 Amended(30) by Proposal 6665 (Murphy; disi.), 10 March 2010
 Amended(31) by Proposal 6696 (coppro), 25 April 2010
+Amended(32) by Proposal 6845 (Tanner L. Swett), 3 October 2010
 
 ----------------------------------------------------------------------
 
