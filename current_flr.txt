@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6845
-Last change to this ruleset: by proposal 6845
+Last proposal with recorded effect on this ruleset: 6846
+Last change to this ruleset: by proposal 6846
 
-Last updated: 7 October 2010
+Last updated: 8 October 2010
 
 Rule ID numbers:
       highest orderly: 2317
@@ -13,7 +13,7 @@ Rule ID numbers:
 
 Statistics
 
-Current total number of rules: 135
+Current total number of rules: 134
 
 Power distribution:
        1 with Power=4
@@ -30,7 +30,6 @@ Power distribution:
 
 Index of Categories
 
-      * Temporary
       * The Game of Agora
       * Rules
       * Players
@@ -47,9 +46,6 @@ Index of Categories
 ----------------------------------------------------------------------
 
 Index of Rules
-
-      * Temporary
-      Rule 2315: Leader Bootstrap
 
       * The Game of Agora
       Rule 2105: The Map of Agora
@@ -230,31 +226,6 @@ rulekeepor's discretion.  These annotations have no legal force.]
 History:
 Historical annotations required by rule 1681.
 An ellipsis (...) indicates that the history is incomplete.
-
-----------------------------------------------------------------------
-
-======================================================================
-Temporary
-      A temporary category containing temporary rules.
-----------------------------------------------------------------------
-
-Rule 2315/0 (Power=2.1)
-Leader Bootstrap
-
-      As soon as possible after this proposal takes effect, the Herald
-      SHALL publish a randomly-ordered list of all players except the
-      Speaker; this list becomes the List of Succession.
-
-      Any player CAN, by announcement, cause a player who won the game
-      in the six months prior to this rule taking effect, and who has
-      never been marked before, to become marked.  The Herald SHOULD
-      take the lead in marking all such winners of whom e is aware.
-
-      After this Rule has been in effect for 30 days, the Herald CAN
-      and SHALL, asap, cause it to repeal itself With Notice.
-
-History:
-Created by Proposal 6821 (G., ais523), 4 September 2010
 
 ----------------------------------------------------------------------
 
@@ -6078,9 +6049,7 @@ meaning, it is correct to say that that person "is an X".]
   * report the manner of wins (rule 1922)
   * report Destiny (rule 402)
   * randomize coups (rule 2270)
-  * bootstrap List of Succession (rule 2315)
   * report List of Succession (rule 2314)
-  * repeal rule 2315 (rule 2315)
   * recordkeepor of rests (rule 2228)
   * list fugitives (rule 2229)
   * recordkeepor of ribbons (rule 2199)
