@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6846
-Last change to this ruleset: by proposal 6846
+Last proposal with recorded effect on this ruleset: 6861
+Last change to this ruleset: by proposal 6861
 
-Last updated: 8 October 2010
+Last updated: 18 October 2010
 
 Rule ID numbers:
       highest orderly: 2317
@@ -4293,7 +4293,7 @@ Amended(2) by Proposal 6787 (Murphy; disi.), 22 August 2010
 
 ----------------------------------------------------------------------
 
-Rule 2309/0 (Power=1)
+Rule 2309/1 (Power=1)
 The Propose-O-Matic
 
       The Fearmongor is an Office. Its holder is responsible for
@@ -4305,8 +4305,10 @@ The Propose-O-Matic
 
          2) For each of those rules, submit a disinterested proposal
             with AI equal to that rules' power. One proposal SHALL
-            specify only to repeal its rule; the other SHALL specify
-            only to amend its rule.
+            specify only to repeal its rule, and, if necessary, to
+            make a minimal set of other rule changes so that the game
+            is not broken by the repeal; the other SHALL specify only
+            to amend its rule.
 
          3) Submit a disinterested proposal with AI 1. It shall
             specify only the enactment of a rule which is identical to
@@ -4322,6 +4324,7 @@ The Propose-O-Matic
 
 History:
 Created by Proposal 6798 (coppro), 27 August 2010
+Amended(1) by Proposal 6861 (omd), 18 October 2010
 
 ----------------------------------------------------------------------
 
