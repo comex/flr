@@ -1,24 +1,24 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6869
-Last change to this ruleset: by proposal 6869
+Last proposal with recorded effect on this ruleset: 6870
+Last change to this ruleset: by proposal 6870
 
 Last updated: 11 November 2010
 
 Rule ID numbers:
-      highest orderly: 2318
+      highest orderly: 2319
       chaotic: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 135
+Current total number of rules: 136
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
-      37 with Power=3
+      38 with Power=3
        1 with Power=2.1
       46 with Power=2
        2 with Power=1.9
@@ -81,6 +81,7 @@ Index of Rules
       Rule 1789: Cantus Cygneus
       Rule 2130: Activity
       Rule 2177: The Senate
+      Rule 2319: Messy Statements
       Rule 2215: Truthiness
       Rule 2228: Rests
       Rule 2229: Just Resting
@@ -1628,6 +1629,21 @@ Amended(13) by Proposal 6319 (Murphy; disi.), 26 May 2009
 Amended(14) by Proposal 6618 (Murphy; disi.), 4 February 2010
 Amended(15) by Proposal 6733 (Wooble), 6 June 2010
 Amended(16) by Proposal 6821 (G., ais523), 4 September 2010
+
+----------------------------------------------------------------------
+
+Rule 2319/0 (Power=3)
+Messy Statements
+
+      A statement is messy if its truth value cannot be evaluated in a
+      top-down fashion without encountering some form of infinite
+      regress, such as (but not limited to) self-reference.
+
+      For the purposes of the rules, messy statements are considered
+      inaccurate and incorrect regardless of their truth value.
+
+History:
+Created by Proposal 6870 (omd), 8 November 2010
 
 ----------------------------------------------------------------------
 
