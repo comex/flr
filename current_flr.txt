@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6873
-Last change to this ruleset: by proposal 6873
+Last proposal with recorded effect on this ruleset: 6874
+Last change to this ruleset: by proposal 6874
 
 Last updated: 11 November 2010
 
@@ -13,7 +13,7 @@ Rule ID numbers:
 
 Statistics
 
-Current total number of rules: 137
+Current total number of rules: 136
 
 Power distribution:
        1 with Power=4
@@ -24,7 +24,7 @@ Power distribution:
        2 with Power=1.9
        7 with Power=1.7
        6 with Power=1.5
-      36 with Power=1
+      35 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -57,7 +57,6 @@ Index of Rules
       Rule 2186: Victory
       Rule 2245: Win by Not Losing
       Rule 2110: Win by Paradox
-      Rule 2199: Ribbons
       Rule  104: First Speaker
 
       * Rules
@@ -616,7 +615,6 @@ Victory
   * Leadership (rule 2293)
   * Legislation (rule 2188)
   * Paradox (rule 2110)
-  * Renaissance (rule 2199)
   * Respect (rule 2287)
   * Solitude (rule 2186)]
 
@@ -680,124 +678,6 @@ Amended(5) by Proposal 5451 (root, Murphy, Zefram), 1 March 2008
 Power changed from 3 to 2 by Proposal 5955 (ais523, Elysion, Murphy;
   disi.), 18 November 2008
 Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
-
-----------------------------------------------------------------------
-
-Rule 2199/19 (Power=1)
-Ribbons
-
-      While a player qualifies for a Ribbon, any person CAN, by
-      announcement, award that player a Ribbon of that color, unless e
-      already possesses one.
-
-      When a player earns a Ribbon, e thereafter qualifies for that
-      Ribbon until the opportunity expires, which occurs either when
-      it is used or at the time limit, which defaults to one week. An
-      opportunity is used when a player is awarded a Ribbon of that
-      colour, e does not qualify for that Ribbon except through earned
-      opportunities, and the opportunity is the one that will expire
-      first. In case of a tie, only one of the opportunities tied for
-      shortest duration is used.
-
-      Ribbons are a class of fixed assets.  If winning is secured,
-      then changes to Ribbon holdings are secured with the same power
-      threshold.  Ownership of Ribbons is restricted to players.
-
-      Each Ribbon has exactly one color.  Colors with different names
-      are distinct, regardless of spectral proximity.  Each color of
-      Ribbon is a currency.
-
-      A Ribbon may only be of a color mentioned in this rule; if a
-      Ribbon somehow has any other color, it is destroyed.
-
-      The Herald is the recordkeepor of Ribbons.
-
-      (+R) When an interested proposal is adopted and changes at least
-           one rule with Power >= 3, its proposer earns a Red Ribbon.
-
-      (+O) When an interested proposal is adopted by voting with no
-           valid votes AGAINST, its proposer earns an Orange Ribbon.
-
-      (+G) At the end of each month, each player who held at least one
-           office continuously during that month earns a Green Ribbon,
-           unless e failed to perform an official duty within a time
-           limit during that month.
-
-      (+C) When a player deputises for an office, e earns a Cyan
-           Ribbon.
-
-      (+B) When a player assigns a judgement to a judicial question in
-           an interested judicial case other than a question on
-           sentencing, e earns a Blue Ribbon, unless e violated a
-           requirement to submit that judgment within a time limit.
-
-      (+K) When a player assigns a judgement to a judicial question in
-           an interested judicial case on sentencing, e earns a Black
-           Ribbon, unless e violated a requirement to submit that
-           judgment within a time limit.
-
-      (+M) When, during Agora's birthday, a player publicly
-           acknowledges the occasion, e earns a Magenta Ribbon.
-
-      (+U) When a player is awarded the Patent Title Champion, e earns
-           an Ultraviolet Ribbon.
-
-      (+V) When a player is awarded a Patent Title, e earns a Violet
-           Ribbon, unless e earns a different Ribbon for the award.
-
-      (+I) When a player is awarded a degree, e earns an Indigo
-           Ribbon.
-
-      (+P) The Speaker qualifies for a Platinum Ribbon.
-
-      (+Y) Each player with 15 or more ergs qualifies for a Yellow
-           Ribbon.
-
-      (+S) The Enemy qualifies for a Silver Ribbon.
-
-      (+L) A player qualifies for a Lime Ribbon, if e was the
-           co-author of at least three Proposals adopted in the
-           previous week.
-
-      If this rule mentions at least six different specific colors for
-      Ribbons, then upon a win announcement that one or more players
-      each possess at least one Ribbon of each such color, all those
-      players satisfy the Winning Condition of Renaissance.
-
-      Cleanup procedure:  For each of those players, one Ribbon of
-      each such color in eir possession is destroyed.
-
-[Note (30 August 2007): here is a set of colors with convenient
-abbreviating letters, suggested for future inventions of new types of
-ribbon: Amber, Blue, Cyan, Denim, Emerald, Fern, Green, Heliotrope,
-Indigo, Jade, blacK, Lime, Magenta, iNfrared, Orange, Pink,
-aQuamarine, Red, Silver, Turquoise, Ultraviolet, Violet, White, flaX,
-Yellow, Zinnwaldite.]
-
-History:
-Created by Proposal 5424 (Zefram; disi.), 6 February 2008
-Amended(1) by Proposal 5485 (root), 9 April 2008
-Amended(2) by Proposal 5791 (Murphy), 22 October 2008
-Amended(3) by Proposal 6008 (PNP), 10 December 2008
-Assigned to Committee on Finance by Proposal 6053 (Murphy, woggle,
-  ais523), 23 January 2009
-Amended(4) by Proposal 6175 (Yally), 7 April 2009
-Amended(5) by Proposal 6196 (Wooble), 27 April 2009
-Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
-Amended(6) by Proposal 6346 (coppro), 17 June 2009
-Amended(7) by Proposal 6347 (coppro; disi.), 17 June 2009
-Amended(8) by Proposal 6483 (Pavitra), 18 September 2009
-Amended(9) by Proposal 6576 (G.; disi.), 28 November 2009
-Amended(10) by Proposal 6650 (coppro), 10 March 2010
-Amended(11) by Proposal 6658 (Murphy; disi), 10 March 2010
-Amended(12) by Proposal 6758 (coppro), 2 August 2010
-Amended(13) by Proposal 6777 (coppro), 11 August 2010
-Amended(14) by Proposal 6778 (coppro), 11 August 2010
-Amended(15) by Proposal 6779 (coppro), 11 August 2010
-Amended(16) by Proposal 6780 (coppro), 11 August 2010
-Amended(17) by Proposal 6794 (coppro; disi.), 27 August 2010
-Amended(18) by Proposal 6817 (Keba, coppro), 4 September 2010
-Amended(19) by Proposal 6827 (coppro), 10 September 2010
 
 ----------------------------------------------------------------------
 
@@ -6209,7 +6089,6 @@ meaning, it is correct to say that that person "is an X".]
   * report List of Succession (rule 2314)
   * recordkeepor of rests (rule 2228)
   * list fugitives (rule 2229)
-  * recordkeepor of ribbons (rule 2199)
   * announce whether a notice of violation is valid (rule 2230)
   * assign ID numbers to valid notices of violation (rule 2230)
   * initiate decision for degree award (rule 1367)
