@@ -1,19 +1,19 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6867
-Last change to this ruleset: by proposal 6867
+Last proposal with recorded effect on this ruleset: 6869
+Last change to this ruleset: by proposal 6869
 
 Last updated: 11 November 2010
 
 Rule ID numbers:
-      highest orderly: 2317
+      highest orderly: 2318
       chaotic: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 134
+Current total number of rules: 135
 
 Power distribution:
        1 with Power=4
@@ -22,7 +22,7 @@ Power distribution:
        1 with Power=2.1
       46 with Power=2
        2 with Power=1.9
-       6 with Power=1.7
+       7 with Power=1.7
        6 with Power=1.5
       35 with Power=1
 
@@ -160,6 +160,7 @@ Index of Rules
       Rule 2277: Appeals of Criminal Cases
       Rule 2205: Judicial Arguments and Evidence
       Rule 2157: Judicial Panels
+      Rule 2318: Motions to Reconsider
       Rule  911: Appeal Cases
       Rule 2175: Judicial Retraction and Excess
       Rule 1868: Judge Assignment Generally
@@ -5023,6 +5024,26 @@ Amended(5) by Proposal 5552 (Murphy, root), 21 June 2008
 Amended(6) by Proposal 6014 (Goethe), 18 December 2008
 Assigned to Committee on the Judiciary by Proposal 6053 (Murphy,
   woggle, ais523), 23 January 2009
+
+----------------------------------------------------------------------
+
+Rule 2318/0 (Power=1.7)
+Motions to Reconsider
+
+      If a non-Appeals judicial question (1) has a judgement that has
+      been in effect for less than seven days and not been appealed,
+      and (2) has not had a Motion to Reconsider filed for it at any
+      time while it has been assigned to its current judge, then any
+      Player CAN file a Motion to Reconsider the question with 2
+      Support.
+
+      When a Motion to Reconsider is so filed, the question is
+      rendered open again.  A player who files such a Motion SHOULD
+      include arguments as to why the question needs reconsideration,
+      and such arguments become part of the record of the case.
+
+History:
+Created by Proposal 6869 (G.), 8 November 2010
 
 ----------------------------------------------------------------------
 
