@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6874
-Last change to this ruleset: by proposal 6874
+Last proposal with recorded effect on this ruleset: 6876
+Last change to this ruleset: by proposal 6876
 
 Last updated: 11 November 2010
 
@@ -13,15 +13,13 @@ Rule ID numbers:
 
 Statistics
 
-Current total number of rules: 136
+Current total number of rules: 134
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
       38 with Power=3
-       1 with Power=2.1
       46 with Power=2
-       2 with Power=1.9
        7 with Power=1.7
        6 with Power=1.5
       35 with Power=1
@@ -131,8 +129,6 @@ Index of Rules
       Rule  106: Adopting Proposals
       Rule 2313: Urgent Proposals
       Rule 2317: Leet Leadership
-      Rule 2291: Fragments
-      Rule 2292: Defragmentation Proposals
       Rule 2281: Proposal Cleanup
       Rule 2224: Interest Index of Proposals
       Rule 1607: The Promotor
@@ -3713,73 +3709,6 @@ Created by Proposal 6833 (Keba), 10 September 2010
 
 ----------------------------------------------------------------------
 
-Rule 2291/1 (Power=1.9)
-Fragments
-
-      If
-        - e has not already done so, or
-        - if at least two other players have done so since e last
-          did so, or
-        - three days have passed since e last did so,
-      a player CAN publish a Fragment. A Fragment SHOULD be a short
-      (possibly as small as a sentence) body of text intended to
-      become a portion of a Rule. A new Fragment SHOULD bear some
-      relation to existing Fragments.
-
-      The Granulator is an office. Eir weekly report includes a
-      listing of all Fragments and their authors and is
-      self-ratifying.
-
-      Fragments have ID numbers, to be assigned by the Granulator.
-
-      The Granulator CAN, without 3 Objections, cause all Fragments to
-      cease to be Fragments.
-
-History:
-Created by Proposal 6708 (coppro, comex, woggle), 4 May 2010
-Amended(1) by cleaning (Murphy), 20 August 2010
-
-----------------------------------------------------------------------
-
-Rule 2292/0 (Power=1.9)
-Defragmentation Proposals
-
-      Some proposals are Defragmentation Proposals (D-Proposals).
-      D-Proposals are associated with a number of Fragments; these
-      Fragments make up the D-Proposal's Inode.
-
-      A Proposal's author CAN, in the same message in which a Proposal
-      is submitted, make it a D-Proposal if, e adds at least four
-      Fragments to its Inode in that message.
-
-      A player CAN, without objection from the Proposal's author (or
-      by announcement if e is emself the author), add a Fragment to a
-      D-Proposal's Inode. A Fragment SHALL only be added to a
-      D-Proposal's Inode if the D-Proposal's adoption would cause the
-      text of the Fragment (or substantially similar text) to be
-      included in the Ruleset.
-
-      On an Agoran Decision to adopt a D-Proposal, the list of
-      Fragments in the Proposal's Inode along with their authors is an
-      essential parameter. The Promotor's report shall include the
-      same information for each D-Proposal in the report.
-
-      When a D-Proposal is adopted, immediately before it takes
-      effect, the author of that Proposal is awarded a Leadership
-      Token.  Additionally, each player who authored one or more
-      Fragments in the Proposal's Inode is awarded Leadership Tokens
-      equal to one third the number of such Fragments e authored,
-      rounded up.  Lastly, all Fragments cease to be Fragments.
-
-      If a Fragment that is a member of a Defragmentation Proposal's
-      Inode ceases to be a Fragment, it is still treated as one for
-      the purpose of rules relating to that Proposal.
-
-History:
-Created by Proposal 6708 (coppro, comex, woggle), 4 May 2010
-
-----------------------------------------------------------------------
-
 Rule 2281/0 (Power=3)
 Proposal Cleanup
 
@@ -5741,13 +5670,13 @@ Amended(6) by Proposal 6829 (Keba), 10 September 2010
 
 ----------------------------------------------------------------------
 
-Rule 2293/0 (Power=1.7)
+Rule 2293/1 (Power=1.7)
 Leadership Tokens
 
-      Leadership Tokens are a currency tracked by the Granulator. A
-      player CANNOT destroy (redeem) Leadership Tokens in eir
-      possession except by announcement and for a specified one of the
-      following effects:
+      Leadership Tokens are a currency tracked by the Herald. A player
+      CANNOT destroy (redeem) Leadership Tokens in eir possession
+      except by announcement and for a specified one of the following
+      effects:
 
         (a) A player CAN redeem 3 Leadership Tokens in eir possession
             to satisfy the Winning Condition of Leadership.
@@ -5760,6 +5689,7 @@ History:
 Created by Proposal 6708 (coppro, comex, woggle), 4 May 2010
 Power changed from 1 to 1.7 by Proposal 6708 (coppro, comex, woggle),
   4 May 2010
+Amended(1) by Proposal 6876 (G.), 8 November 2010
 
 ----------------------------------------------------------------------
 
