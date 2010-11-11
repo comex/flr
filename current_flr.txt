@@ -1,19 +1,19 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6870
-Last change to this ruleset: by proposal 6870
+Last proposal with recorded effect on this ruleset: 6873
+Last change to this ruleset: by proposal 6873
 
 Last updated: 11 November 2010
 
 Rule ID numbers:
-      highest orderly: 2319
+      highest orderly: 2320
       chaotic: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 136
+Current total number of rules: 137
 
 Power distribution:
        1 with Power=4
@@ -24,7 +24,7 @@ Power distribution:
        2 with Power=1.9
        7 with Power=1.7
        6 with Power=1.5
-      35 with Power=1
+      36 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -187,6 +187,7 @@ Index of Rules
       Rule 2305: Fans
       Rule 2306: Team Tactics
       Rule 2308: Contests
+      Rule 2320: Auctions and the Default Auction Procedure
 
       * Patent Titles and Degrees
       Rule  649: Patent Titles
@@ -6030,6 +6031,121 @@ Contests
 
 History:
 Created by Proposal 6792 (omd), 27 August 2010
+
+----------------------------------------------------------------------
+
+Rule 2320/0 (Power=1)
+Auctions and the Default Auction Procedure
+
+      When an Auction is to be held and the procedure is not
+      specified, the Auctioneer may select a rules-defined Auction
+      Procedure. If e does not specify which procedure is to be used,
+      the Default Auction Procedure shall be used.
+
+      The Default Auction Procedure is as follows:
+
+      (a) Auctioneer: the Auctioneer is the Player who initiates the
+          Auction, and is responsible for collecting bids and
+          announcing the result of the Auction. If the Rules require
+          (or permit) an Auction to be initiated, but do not specify
+          which Player shall initiate it, then the Speaker shall (or
+          may) initiate it.
+
+      (b) Bidders: every active Player may bid in an Auction;
+          non-active Players may not bid. Activity is measured at the
+          time a Player sends eir bid.
+
+      (c) Auction Currency: each Auction is conducted in one
+          particular currency. The Rule providing for a particular
+          Auction must specify the currency to be used, or the Auction
+          cannot take place.
+
+      (d) Number of lots: each Auction is conducted for 1 or more
+          identical lots of identical items, which must all be owned
+          by the same entity. Throughout this Rule, N indicates the
+          number of lots up for bid in the Auction.
+
+      (e) Start of Auction: the Auction begins when the first
+          announcement that an Auction has begun is made by a Player
+          authorized to initiate the Auction. The announcement must
+          contain:
+          (1) the identity of the Auctioneer;
+          (2) the Auction Currency;
+          (3) the number of items being Auctioned; and
+          (4) the value of the Starting Bid.
+
+      (f) Errors in initiating Auctions: if one of the required
+          elements is missing from the announcement initiating the
+          Auction, or is incorrect, then the Auctioneer may let the
+          Auction stand Without 2 Objections. If the Auction stands,
+          then the announcement initiating the Auction is deemed to
+          have been legal and correct for the purposes of the Rules.
+          If the Auction does not stand, it is deemed not to have
+          occurred.
+
+      (g) Starting Bid: the Starting Bid is the minimum possible value
+          of a bid. If not otherwise specified, the Starting Bid is
+          equal to the MUQ of the Auction Currency.
+
+      (h) Bidding: a bid is a public message from a bidder identifying
+          the Auction e is bidding in, and specifying the amount of
+          eir bid. Each bidder may make as many bids as e likes during
+          the Auction.  A bid is only valid if it satisfies the
+          following conditions:
+          (1) it is made after the start of the Auction, and before
+              its end;
+          (2) the amount of the bid is a multiple of the MUQ of the
+              Auction Currency; and
+          (3) the amount of the bid is no less than the Starting Bid.
+
+      (i) Cancelling bids: a bidder may cancel eir bid while the
+          Auction is in progress by publically identifying the bid to
+          be cancelled.
+
+      (j) End of Auction: the Auction ends if any of the following
+          occur:
+          (1) one week has passed from the start of the Auction, and
+              no bids have been made; or
+          (2) a bid has been made in the Auction, and 72 hours have
+              passed without there being a change in the N highest
+              bids in the Auction; or
+          (3) 14 days have passed since the Auction began.
+
+      (k) Winning bids: when the Auction ends, the winning bids are
+          the N largest uncancelled valid bids in the Auction (or all
+          valid uncancelled Bids, if there were less than N valid
+          uncancelled bids). Ties shall be broken in favor of earlier-
+          submitted bids. If there were no bids in the Auction, then
+          the Auction has no winner.
+
+      (l) Final Auction Price: the Final Auction Price is either:
+          (1) the amount of the Nth highest bid, if there were N or
+              more valid uncancelled bids in the auction; or
+          (2) the Starting Bid, if there were greater than zero but
+              fewer than N valid uncancelled bids.
+
+      (m) Billing for winning bids: as soon as possible after the end
+          of the Auction, the Auctioneer shall announce the winning
+          bids and issue to each winning bidder a separate bill for
+          each of eir winning bids.
+
+      (n) Defaulting: a winning bidder has a week from the time e is
+          billed by the Auctioneer for a winning bid e made to satisfy
+          the debt arising from that bid. If e does not do so, e
+          commits the Class 2 Infraction of Defaulting (reportable by
+          the Auctioneer), and thereafter loses eir right to purchase
+          the Auctioned item by paying the debt arising from that bid.
+          As soon as possible after a winning bidder defaults on a
+          bid, the Auctioneer shall Order the owner of the items being
+          Auctioned to forgive the unsatisfied debt arising from the
+          bid.
+
+      (o) Unless specified otherwise, the owner of the Auctioned items
+          shall incur a debt of one Auctioned lot of items to the
+          winning bidder when the bill for that lot is paid.
+
+History:
+Created by Proposal 6873 (G.; disi.), 8 November 2010
 
 ----------------------------------------------------------------------
 
