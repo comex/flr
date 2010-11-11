@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6861
-Last change to this ruleset: by proposal 6861
+Last proposal with recorded effect on this ruleset: 6865
+Last change to this ruleset: by proposal 6865
 
-Last updated: 18 October 2010
+Last updated: 11 November 2010
 
 Rule ID numbers:
       highest orderly: 2317
@@ -5702,7 +5702,7 @@ Amended(2) by cleaning (Keba), 29 August 2010
 
 ----------------------------------------------------------------------
 
-Rule 2284/6 (Power=2)
+Rule 2284/7 (Power=2)
 Fee-based actions
 
       - A player CAN increase eir voting limit on a specified decision
@@ -5738,14 +5738,9 @@ Fee-based actions
 
       - A player CAN move an indicated player an indicated number of
         positions P on the list in an indicated direction (up or down)
-        for a charge equal to the sum of the Influence Levels of the
-        positions over which that player would jump and the position
-        the player is jumping to, as totaled prior to the jump.  If
-        the indicated player is unable to be so moved due to eir
-        position on the list, but can be moved at least one position
-        in the indicated direction, e is moved the maximum amount
-        possible and charged the appropriate partial fee.  If this
-        final fee CANNOT be paid in full, the entire action fails.
+        for a charge equal to one half (rounded down) of the sum of
+        the Influence Levels of all the positions between the
+        indicated player's starting and ending positions, inclusive.
 
 History:
 Created by Proposal 6616 (G., coppro, c., Murphy), 30 January 2010
@@ -5755,6 +5750,7 @@ Amended(3) by Proposal 6638 (Yally), 20 February 2010
 Amended(4) by Proposal 6735 (coppro), 13 June 2010
 Amended(5) by Proposal 6816 (G., Keba), 4 September 2010
 Amended(6) by Proposal 6821 (G., ais523), 4 September 2010
+Amended(7) by Proposal 6865 (G., coppro), 8 November 2010
 
 ----------------------------------------------------------------------
 
@@ -6325,7 +6321,7 @@ The Court
       A category concerning bonus powers granted to players.
 ----------------------------------------------------------------------
 
-Rule 2314/0 (Power=2)
+Rule 2314/1 (Power=2)
 The List of Succession
 
       The List of Succession is an ordered list of all current players
@@ -6346,17 +6342,21 @@ The List of Succession
 
       Any attempt to move an entity not on the list on the list fails.
 
-      Whenever a player other than the Speaker is not on the list, or
-      eir position on the list is found by judicial declaration to be
-      unknown or ambiguous, e is added to the list below the lowest
-      player whose position on the list is known.
+      Whenever a player other than the Speaker is not on the list, e
+      is added to the list below the lowest player whose position on
+      the list is known.  Upon a judicial finding that a player (other
+      than the Speaker) has a position on the list that is unknown or
+      ambiguous, the judge SHALL issue a judicial declaration to this
+      effect, which has the effect of placing the player on the list
+      below the lowest player whose position on the list is known.
 
 History:
 Created by Proposal 6821 (G., ais523), 4 September 2010
+Amended(1) by Proposal 6865 (G., coppro), 8 November 2010
 
 ----------------------------------------------------------------------
 
-Rule 2255/8 (Power=2)
+Rule 2255/9 (Power=2)
 The Court
 
       A rule with a power equal to or greater than this rule may
@@ -6388,9 +6388,17 @@ The Court
 
       Third Position: Grand Vizier
       Influence Level: 5
-      Position: The Grand Vizier CAN, With Notice, perform any action
-      that an officer both CAN and MAY (or SHALL) perform by virtue of
-      holding that office.
+      Position: The Grand Vizier CAN perform any action that an
+      officer both CAN and MAY (or SHALL) perform by virtue of holding
+      that office as follows:
+      (a)  If the rules specify that the officer CAN perform the
+           action in question by announcement, then the Grand Vizier
+           CAN perform that action With Notice, indicating also that e
+           is acting as Vizier;
+      (b)  If the rules specify a dependent action method for the
+           officer performing the action, then the Grand Vizier CAN
+           perform the action using the same dependent action method
+           with notice, indicating also that e is acting as Vizier.
 
       Fourth Position: Head Gardener.
       Influence Level: 5
@@ -6416,6 +6424,7 @@ Amended(6) by Proposal 6654 (Murphy), 10 March 2010
 Amended(7) by Proposal 6697 (coppro), 25 April 2010
 Retitled and amended(8) by Proposal 6821 (G., ais523), 4 September
   2010
+Amended(9) by Proposal 6865 (G., coppro), 8 November 2010
 
 ----------------------------------------------------------------------
 
