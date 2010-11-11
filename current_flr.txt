@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6866
-Last change to this ruleset: by proposal 6866
+Last proposal with recorded effect on this ruleset: 6867
+Last change to this ruleset: by proposal 6867
 
 Last updated: 11 November 2010
 
@@ -5669,7 +5669,7 @@ Amended(1) by Proposal 6750 (Wooble; disi.), 20 July 2010
 
 ----------------------------------------------------------------------
 
-Rule 2283/2 (Power=2)
+Rule 2283/3 (Power=2)
 Fees
 
       If the Rules associate a non-negative cost, price, charge, or
@@ -5677,15 +5677,18 @@ Fees
       specified cost is not an integer, the actual fee is the next
       highest integer.
 
-      To perform a fee-based action, a Player (the Actor) who is not
-      otherwise forbidden to perform the action CAN perform it by
-      announcing that e is performing the action while also announcing
-      that there is a fee for that action.  Upon said announcement, if
-      the Player has sufficient energy, then the action is performed,
-      and a number of ergs in the Actor's possession equal to the fee
-      are destroyed.  If the fee associated with a fee-based action is
-      zero, the action CAN be performed by announcement if it can
-      otherwise be performed by the procedure described above.
+      A rule which purports to allow a person to perform an action for
+      a fee thereby allows em to perform the action by announcement
+      provided that:
+
+         (a) in the announcement, e states that there is a fee for
+             that action, and
+
+         (b) the number of ergs in eir possession is greater than or
+             equal to the fee.
+
+      Upon such an announcement, a number of ergs equal to the fee is
+      destroyed in eir possession.
 
       An attempt to perform a fee-based action is also implicitly a
       claim to be in possession of sufficient ergs to perform the
@@ -5700,6 +5703,7 @@ History:
 Created by Proposal 6616 (G., coppro, c., Murphy), 30 January 2010
 Amended(1) by Proposal 6725 (coppro; disi.), 22 May 2010
 Amended(2) by cleaning (Keba), 29 August 2010
+Amended(3) by Proposal 6867 (omd; disi.), 8 November 2010
 
 ----------------------------------------------------------------------
 
