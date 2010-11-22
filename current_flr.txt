@@ -1,19 +1,19 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6889
-Last change to this ruleset: by proposal 6889
+Last proposal with recorded effect on this ruleset: 6890
+Last change to this ruleset: by proposal 6890
 
 Last updated: 22 November 2010
 
 Rule ID numbers:
-      highest orderly: 2321
+      highest orderly: 2322
       chaotic: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 134
+Current total number of rules: 135
 
 Power distribution:
        1 with Power=4
@@ -22,7 +22,7 @@ Power distribution:
       46 with Power=2
        7 with Power=1.7
        6 with Power=1.5
-      35 with Power=1
+      36 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -143,6 +143,7 @@ Index of Rules
       Rule 2134: Win by Clout
       Rule 2188: Win by Proposal
       Rule 2309: The Propose-O-Matic
+      Rule 2322: Groups
 
       * Adjudication
       Rule  991: Judicial Cases Generally
@@ -4157,6 +4158,34 @@ The Propose-O-Matic
 History:
 Created by Proposal 6798 (coppro), 27 August 2010
 Amended(1) by Proposal 6861 (omd), 18 October 2010
+
+----------------------------------------------------------------------
+
+Rule 2322/0 (Power=1)
+Groups
+
+      A Group is an Organization with an associated SLC called its
+      Ordinances. The Administrator for each Group is that Group's
+      Ordinancekeepor, the Executor is its Vizier, and the set of
+      Players within the Jurisdiction of its SLC is its Membership.
+
+      A Group's Membership may contain any Player who is not a Member
+      of any other Group. Initially, the Group's Membership must
+      contain at least three Foundors. The Ordinancekeepor and the
+      Vizier of a Group must, at all times, be Members of the Group;
+      if either ceases to be a Member of the Group, it dissolves.
+
+      Each Group has Mint Authority.
+
+      A Group's Voting Power on a Democratic Proposal is as follows:
+
+         (a) A Group containing fewer than three members: zero;
+         (b) A Group containing at least three members: the number of
+             Players divided by the number of Groups with at least
+             three members, rounded down.
+
+History:
+Created by Proposal 6890 (G.; disi.), 20 November 2010
 
 ----------------------------------------------------------------------
 
