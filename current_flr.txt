@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6882
-Last change to this ruleset: by proposal 6882
+Last proposal with recorded effect on this ruleset: 6886
+Last change to this ruleset: by proposal 6886
 
 Last updated: 22 November 2010
 
@@ -5626,7 +5626,7 @@ Created by Proposal 6802 (Murphy), 27 August 2010
 
 ----------------------------------------------------------------------
 
-Rule 2287/6 (Power=1)
+Rule 2287/7 (Power=1)
 Props
 
       Props are a currency.
@@ -5660,8 +5660,8 @@ Props
       least 30 props, all those players satisfy the Winning Condition
       of Respect.
 
-      Cleanup procedure: For each of those players, all props are
-      destroyed and 14 props are created in their possession.
+      Cleanup procedure: All props are destroyed and 14 props are
+      created in the possession of each player.
 
 History:
 Created by Proposal 6647 (Murphy), 6 March 2010
@@ -5671,6 +5671,7 @@ Amended(3) by Proposal 6763 (Yally), 4 August 2010
 Amended(4) by Proposal 6799 (Keba; disi.), 27 August 2010
 Amended(5) by Proposal 6803 (Murphy; disi.), 27 August 2010
 Amended(6) by Proposal 6829 (Keba), 10 September 2010
+Amended(7) by Proposal 6886 (Yally), 20 November 2010
 
 ----------------------------------------------------------------------
 
