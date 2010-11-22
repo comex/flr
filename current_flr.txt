@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6886
-Last change to this ruleset: by proposal 6886
+Last proposal with recorded effect on this ruleset: 6889
+Last change to this ruleset: by proposal 6889
 
 Last updated: 22 November 2010
 
@@ -5520,7 +5520,7 @@ Amended(1) by Proposal 6750 (Wooble; disi.), 20 July 2010
 
 ----------------------------------------------------------------------
 
-Rule 2283/3 (Power=2)
+Rule 2283/4 (Power=2)
 Fees
 
       If the Rules associate a non-negative cost, price, charge, or
@@ -5550,11 +5550,16 @@ Fees
       Assaulting the Batteries, but it is generally appropriate to
       DISCHARGE such a crime if it is disputed within four days.
 
+      If the cost is explicitly associated with a specific non-erg,
+      currently-existing currency, then the above applies with respect
+      to the specified currency instead of ergs.
+
 History:
 Created by Proposal 6616 (G., coppro, c., Murphy), 30 January 2010
 Amended(1) by Proposal 6725 (coppro; disi.), 22 May 2010
 Amended(2) by cleaning (Keba), 29 August 2010
 Amended(3) by Proposal 6867 (omd; disi.), 8 November 2010
+Amended(4) by Proposal 6889 (G.; disi.), 20 November 2010
 
 ----------------------------------------------------------------------
 
