@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6880
-Last change to this ruleset: by proposal 6880
+Last proposal with recorded effect on this ruleset: 6881
+Last change to this ruleset: by proposal 6881
 
 Last updated: 22 November 2010
 
@@ -13,7 +13,7 @@ Rule ID numbers:
 
 Statistics
 
-Current total number of rules: 135
+Current total number of rules: 134
 
 Power distribution:
        1 with Power=4
@@ -22,7 +22,7 @@ Power distribution:
       46 with Power=2
        7 with Power=1.7
        6 with Power=1.5
-      36 with Power=1
+      35 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -90,7 +90,6 @@ Index of Rules
       Rule 1023: Common Definitions
       Rule 1769: Holidays
       Rule 2296: Festival Days
-      Rule 2161: ID Numbers
       Rule 2153: Interest Index
       Rule 2146: Indices
       Rule 2162: Switches
@@ -209,10 +208,10 @@ Index of Rules
 ----------------------------------------------------------------------
 
 [Rules are listed as follows.  "nnnn" is the rule's ID number,
-mandated by rule 2141 and governed by rule 2161.  "r" is the revision
-number, which is not defined by the rules.  "p" is the rule's power,
-as defined by rule 1688 and governed by rule 2141.  Rule titles are
-governed by rule 2141.]
+mandated by rule 2141.  "r" is the revision number, which is not
+defined by the rules.  "p" is the rule's power, as defined by rule
+1688 and governed by rule 2141.  Rule titles are governed by rule
+2141.]
 
 Rule nnnn/r (Power=p)
 Title of Rule
@@ -2028,41 +2027,6 @@ Festival Days
 
 History:
 Created by Proposal 6737 (Murphy, David Nicol), 13 June 2010
-
-----------------------------------------------------------------------
-
-Rule 2161/7 (Power=1)
-ID Numbers
-
-      If a rule defines a type of entity as having ID numbers, then:
-
-      (a) Whenever an instance of that type does not have an ID
-          number, the player held responsible by that rule SHALL
-          assign an ID number to it by announcement as soon as
-          possible.
-
-      (b) Such an assignment is INVALID unless the number is a natural
-          number (expressed as a decimal literal with at most 14
-          digits) distinct from any ID number previously assigned to
-          an entity of that type, and ILLEGAL unless the number is one
-          greater than the greatest ID number so assigned.
-
-      (c) Once assigned, an ID number cannot be changed.
-
-      (d) If an instance of that type has an ID number, then its name
-          is the combination of its type and ID number.  Otherwise, it
-          has no name.
-
-History:
-Created by Proposal 5110 (Murphy), 2 August 2007
-Amended(1) by Proposal 5133 (Zefram), 13 August 2007
-Amended(2) by Proposal 5237 (AFO; disi.), 3 October 2007
-Amended(3) by Proposal 5723 (Murphy), 7 October 2008
-Power changed from 2 to 1 by Proposal 5947 (ais523), 15 November 2008
-Amended(4) by Proposal 5994 (Murphy), 7 December 2008
-Amended(5) by Proposal 6489 (Murphy; disi.), 18 September 2009
-Amended(6) by Proposal 6546 (comex), 7 November 2009
-Amended(7) by Proposal 6784 (coppro), 22 August 2010
 
 ----------------------------------------------------------------------
 
