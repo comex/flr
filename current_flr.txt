@@ -1,19 +1,19 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6876
-Last change to this ruleset: by proposal 6876
+Last proposal with recorded effect on this ruleset: 6880
+Last change to this ruleset: by proposal 6880
 
-Last updated: 11 November 2010
+Last updated: 22 November 2010
 
 Rule ID numbers:
-      highest orderly: 2320
+      highest orderly: 2321
       chaotic: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 134
+Current total number of rules: 135
 
 Power distribution:
        1 with Power=4
@@ -22,7 +22,7 @@ Power distribution:
       46 with Power=2
        7 with Power=1.7
        6 with Power=1.5
-      35 with Power=1
+      36 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -183,6 +183,7 @@ Index of Rules
       Rule 2306: Team Tactics
       Rule 2308: Contests
       Rule 2320: Auctions and the Default Auction Procedure
+      Rule 2321: Proposal Points
 
       * Patent Titles and Degrees
       Rule  649: Patent Titles
@@ -402,6 +403,13 @@ agreements.]
 [CFJ 2361 (called 26 January 2009): The withholding of a reward for
 doing something may or may not constitute a penalty for not doing it,
 depending on the circumstances.]
+
+[CFJ 2395 (called 1 March 2009): Even without this being explicitly
+specified in the rules, it is possible for a non-player to violate a
+rule by missing a deadline.]
+
+[CFJ 2410 (called 11 March 2009): Consent to join a binding agreement
+may be given privately.]
 
 History:
 Initial Immutable Rule 101, Jun. 30 1993
@@ -1286,6 +1294,9 @@ not know the organism's email address.]
 keyboard, stenographer, spokesman) may create a rebuttable presumption
 against personhood and against one having spoken on one's own behalf.]
 
+[CFJ 2398 (called 3 March 2009): Young children may or may not be
+considered persons, depending on their communication skills.]
+
 History:
 Created by Proposal 5007 (Zefram), 18 June 2007
 Amended(1) by Proposal 5061 (Zefram), 9 July 2007
@@ -1561,6 +1572,11 @@ be understood by any reasonable player.]
 
 [CFJ 2103 (called 21 July 2008): Making the statement "I lie." is not
 a violation of Rule 2215 if the author is lying down.]
+
+[CFJ 2399 (called 4 March 2009): Even if a type of behavior is likely
+to cause false statements to be accidentally published, a person does
+not violate rule 2215 by engaging in it if there is no specific
+statement e believes is false.]
 
 History:
 Created by Proposal 5789 (Murphy, Zefram, Michael, Goethe), 22 October
@@ -1843,6 +1859,10 @@ action that X may take", 'may' generally means 'might', i.e. CAN.]
 
 [CFJ 2282 (called 19 November 2008): To state that an entity "MUST"
 have certain properties refers to possibility, not legality.]
+
+[CFJ 2414 (called 14 March 2009): A rule of the form "X SHOULD be
+interpreted as Y" does not allow players to bypass the interpretation
+by failing to perform the described action.]
 
 History:
 Created by Proposal 5053 (Murphy), 5 July 2007
@@ -2246,6 +2266,10 @@ announcement on eir behalf.]
 arrangement cannot grant a player the capacity to act by announcement
 on behalf of another.]
 
+[CFJ 2397 (caled 3 March 2009): A player can grant or revoke
+permission at will for another player to act by announcement on eir
+behalf.]
+
 [CFJ 2322 (called 24 December 2008): The ability to act on behalf can
 be created by any willful agreement.]
 
@@ -2319,6 +2343,10 @@ specification applies to the parameters of an action.]
 [CFJ 2363 (called 1 February 2009): "X can do Y by doing Z" does not
 imply that X can do Z.]
 
+[CFJ 2441 (called 6 April 2009): Due to a limitation of the mailing
+list archives, attaching a message with a particular text does not
+count as publishing that text.]
+
 History:
 Created by Proposal 478 (Jim Shea), Sep. 20 1993
 Amended(1) by Proposal 1477, Mar. 8 1995
@@ -2372,10 +2400,9 @@ Dependent Actions
 
        a) A person (the initiator) announced intent to perform the
           action, unambiguously and clearly specifying the action and
-          method(s) (including the value of N for each method), at most
-          fourteen days earlier, and (if the action depends on
+          method(s) (including the value of N for each method), at
+          most fourteen days earlier, and (if the action depends on
           objections or notice) at least four days earlier.
-
        b) At least one of the following is true:
 
             1) The performer is the initiator.
@@ -2649,6 +2676,10 @@ Official Reports and Duties
       report that deviates from these regulations is the Class 2 Crime
       of Making My Eyes Bleed.
 
+[CFJ 2392 (called 27 February 2009): Publishing an intentionally
+incomplete report does not satisfy this rule's requirement to publish
+a report.]
+
 History:
 Created by Proposal 4970 (Zefram), 23 May 2007
 Amended(1) by Proposal 5239 (AFO), 3 October 2007
@@ -2711,6 +2742,10 @@ Deputisation
 [CFJ 1776 (called 1 November 2007): A requirement to perform an
 action, for the purposes of this rule, can be a logical implication
 from rules and circumstances, not just directly imposed by the rules.]
+
+[CFJ 2400 (called 6 March 2009): Deputisation is generally treated as
+if the deputy gained the office immediately before the action, and
+lost it immediately after.]
 
 History:
 Created by Proposal 5103 (Zefram), 1 August 2007
@@ -3262,6 +3297,9 @@ Conditional Votes
       conditionally casting a vote whose value is opposite to the most
       common value (if any) among that voter's valid votes on that
       decision.  FOR and AGAINST are opposites.
+
+[CFJ 2449 (called 14 April 2009): For an endorsement or denouncement,
+the identity of the voter in question is part of the condition.]
 
 History:
 Created by Proposal 4875 (Goethe), 1 December 2006
@@ -5956,6 +5994,19 @@ Auctions and the Default Auction Procedure
 
 History:
 Created by Proposal 6873 (G.; disi.), 8 November 2010
+
+----------------------------------------------------------------------
+
+Rule 2321/0 (Power=1)
+Proposal Points
+
+      Voters who voted against proposals which are adopted receive 10
+      points apiece.  Players whose proposals are adopted shall
+      receive a random number of points in the range 1-10 inclusive.
+      Players whose proposals are not adopted shall lose 10 points.
+
+History:
+Created by Proposal 6880 (G.; disi.), 20 November 2010
 
 ----------------------------------------------------------------------
 
