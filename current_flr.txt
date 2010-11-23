@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6892
-Last change to this ruleset: by proposal 6892
+Last proposal with recorded effect on this ruleset: 6894
+Last change to this ruleset: by proposal 6894
 
 Last updated: 22 November 2010
 
@@ -3726,7 +3726,7 @@ Created by Proposal 6599 (coppro), 14 December 2009
 
 ----------------------------------------------------------------------
 
-Rule 2224/3 (Power=1)
+Rule 2224/4 (Power=1)
 Interest Index of Proposals
 
       Each proposal has an interest index, which CAN be set by its
@@ -3736,13 +3736,15 @@ Interest Index of Proposals
 
       The submitter of a proposal SHALL set its interest index to 0 if
       and only if the proposal's effects are limited to correcting
-      errors and/or ambiguities.
+      errors and/or ambiguities, or if e is required by another rule
+      to submit a disinterested proposal.
 
 History:
 Created by Proposal 5970 (Murphy), 20 November 2008
 Amended(1) by Proposal 6453 (C-walker), 27 August 2009
 Amended(2) by Proposal 6571 (ais523), 28 November 2009
 Amended(3) by Proposal 6669 (Yally), 14 March 2010
+Amended(4) by Proposal 6894 (Wooble), 20 November 2010
 
 ----------------------------------------------------------------------
 
