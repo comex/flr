@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6891
-Last change to this ruleset: by proposal 6891
+Last proposal with recorded effect on this ruleset: 6892
+Last change to this ruleset: by proposal 6892
 
 Last updated: 22 November 2010
 
@@ -6584,7 +6584,7 @@ Created by Proposal 6832 (coppro; disi.), 10 September 2010
 
 ----------------------------------------------------------------------
 
-Rule 2270/4 (Power=2)
+Rule 2270/5 (Power=2)
 Coups D'etat
 
       When a player begins a Coup D'etat (a coup) as explicitly
@@ -6609,7 +6609,9 @@ Coups D'etat
              possession of every Rebel, and one additional Rest is
              created in the possession of the coup initiator, and a
              Leadership Token is created in the possession of the
-             Speaker.
+             Speaker.  Then, beginning with the rebel lowest in the
+             list and moving upward, each rebel on the list is moved
+             one position lower on the list.
 
         (ii) If the coup succeeds, all Rebels have all of their Rests
              destroyed.  The coup initiator becomes the Speaker, and
@@ -6623,12 +6625,16 @@ Coups D'etat
 
        (iii) All Rebels cease being Rebels.
 
+      The Herald SHALL publish the resulting List of Succession in the
+      same message in which e resolves the coup.
+
 History:
 Created by Proposal 6490 (coppro), 18 September 2009
 Amended(1) by cleaning (Murphy), 6 March 2010
 Amended(2) by Proposal 6702 (coppro), 25 April 2010
 Amended(3) by Proposal 6821 (G., ais523), 4 September 2010
 Amended(4) by Proposal 6840 (G.), 21 September 2010
+Amended(5) by Proposal 6892 (G.), 20 November 2010
 
 ----------------------------------------------------------------------
 
