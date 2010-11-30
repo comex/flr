@@ -4803,14 +4803,14 @@ Amended(47) by cleaning (Murphy), 6 March 2010
 
 ----------------------------------------------------------------------
 
-Rule 2277/0 (Power=2)
+Rule 2277/1 (Power=2)
 Appeals of Criminal Cases
 
-      An appeal concerning any assignment of judgment in a criminal
+      An appeal concerning any assignment of judgement in a criminal
       case within the past week CAN be initiated by the accused by
       announcement.
 
-      Unless otherwise specified, an appeal of a judgment in a
+      Unless otherwise specified, an appeal of a judgement in a
       criminal case is assumed to be appealing the question of
       culpability.
 
@@ -4826,6 +4826,7 @@ Appeals of Criminal Cases
 
 History:
 Created by Proposal 6536 (Murphy), 4 November 2009
+Amended(1) by cleaning (omd), 30 November 2010
 
 ----------------------------------------------------------------------
 
