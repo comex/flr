@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
 Last proposal with recorded effect on this ruleset: 6894
-Last change to this ruleset: by proposal 6894
+Last change to this ruleset: by cleaning
 
-Last updated: 22 November 2010
+Last updated: 30 November 2010
 
 Rule ID numbers:
       highest orderly: 2322
@@ -6381,7 +6381,7 @@ Amended(1) by Proposal 6865 (G., coppro), 8 November 2010
 
 ----------------------------------------------------------------------
 
-Rule 2255/10 (Power=2)
+Rule 2255/11 (Power=2)
 The Court
 
       A rule with a power equal to or greater than this rule may
@@ -6436,10 +6436,10 @@ The Court
       resolved in the last 14 days.  The effects of the coup (if any)
       are as described elsewhere in the rules.
 
-      Sixth Position: Puisine Justice
+      Sixth Position: Puisne Justice
       Influence Level: 3
       Position: As long as the Chief Justice is the Clerk of the
-      Courts, the Puisine Justice is the Justiciar.
+      Courts, the Puisne Justice is the Justiciar.
 
 History:
 Created by Proposal 6394 (Goethe), 10 July 2009
@@ -6455,6 +6455,7 @@ Retitled and amended(8) by Proposal 6821 (G., ais523), 4 September
   2010
 Amended(9) by Proposal 6865 (G., coppro), 8 November 2010
 Amended(10) by Proposal 6891 (coppro), 20 November 2010
+Amended(11) by cleaning (Yally), 30 November 2010
 
 ----------------------------------------------------------------------
 
