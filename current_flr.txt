@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6897
-Last change to this ruleset: by proposal 6897
+Last proposal with recorded effect on this ruleset: 6898
+Last change to this ruleset: by proposal 6898
 
 Last updated: 6 December 2010
 
@@ -13,7 +13,7 @@ Rule ID numbers:
 
 Statistics
 
-Current total number of rules: 135
+Current total number of rules: 132
 
 Power distribution:
        1 with Power=4
@@ -22,7 +22,7 @@ Power distribution:
       46 with Power=2
        7 with Power=1.7
        6 with Power=1.5
-      36 with Power=1
+      33 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -177,10 +177,7 @@ Index of Rules
       Rule 2310: Musical chairs
       Rule 2287: Props
       Rule 2293: Leadership Tokens
-      Rule 2303: Teams
-      Rule 2304: The Referee
       Rule 2305: Fans
-      Rule 2306: Team Tactics
       Rule 2308: Contests
       Rule 2320: Auctions and the Default Auction Procedure
       Rule 2321: Proposal Points
@@ -5743,64 +5740,6 @@ Amended(2) by Proposal 6897 (scshunt), 5 December 2010
 
 ----------------------------------------------------------------------
 
-Rule 2303/0 (Power=1)
-Teams
-
-      A Team is a sort of entity defined by the rules; creation and
-      destruction of Teams is secured. Each Team has a name, which if
-      not otherwise specified by a rule or proposal is initially
-      "Team " followed by the smallest positive integer that would
-      cause the team to have a unique name.
-
-      Allegiance is a player switch, tracked by the Referee, whose
-      values are "none" and all Teams, defaulting to "none". Players
-      whose Allegiance is "none" are said to be Independent;
-      otherwise, players are said to be "in" the team, and a "member"
-      of the team, which their Allegiance is set to. A Team is said to
-      be "empty" if no players are in that team.
-
-      To "distribute" a set of Independent players among a set of
-      empty Teams is to randomly assign each of those players to a
-      randomly selected Team in that set, then repeatedly as long as
-      one of those Teams has at least two more members than another,
-      change the assignment of a randomly selected player from the
-      team with most players assigned to it (choosing the first in
-      alphabetical order if more than one team fits this description)
-      to the team with least players assigned to it (again choosing
-      the first in alphabetical order if more than one team fits the
-      description); once these assignments have been calculated, then
-      simultaneously flip each player's Allegiance to the team they
-      were assigned to. (In other words, calculation of which player
-      is going to which team can take positive time, but the final
-      flipping of teams must be simultaneous and instant.)
-
-      If there is ever simultaneously one or more empty Teams, and two
-      or more Independent players, then any player CAN by
-      announcement, and the Referee SHALL as soon as possible unless
-      someone else does first, distribute all Independent players
-      among all empty teams.
-
-      If there is ever an Independent player, but no empty Teams, any
-      player CAN by announcement, and the Referee SHALL as soon as
-      possible unless someone else does first, flip that player's
-      Allegiance to a random Team.
-
-History:
-Created by Proposal 6749 (ais523), 20 July 2010
-
-----------------------------------------------------------------------
-
-Rule 2304/0 (Power=1)
-The Referee
-
-      The Referee is an office, which does most of the tracking
-      related to Teams. Eir report includes a list of all Teams.
-
-History:
-Created by Proposal 6749 (ais523), 20 July 2010
-
-----------------------------------------------------------------------
-
 Rule 2305/1 (Power=2)
 Fans
 
@@ -5829,24 +5768,6 @@ Fans
 History:
 Created by Proposal 6749 (ais523), 20 July 2010
 Amended(1) by cleaning (Keba), 28 August 2010
-
-----------------------------------------------------------------------
-
-Rule 2306/0 (Power=1)
-Team Tactics
-
-      A player can change the name of a Team without 2 objections from
-      members of that team.
-
-      A player can flip the Allegiance of a chosen player (the target
-      player) to an arbitrary Team without 2 objections from members
-      of the target player's Allegiance, and without 2 objections from
-      members of the desired new value for the target player's
-      Allegiance, unless the target player's Allegiance is a team with
-      no more than 2 members.
-
-History:
-Created by Proposal 6749 (ais523), 20 July 2010
 
 ----------------------------------------------------------------------
 
