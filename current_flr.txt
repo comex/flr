@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6894
-Last change to this ruleset: by cleaning
+Last proposal with recorded effect on this ruleset: 6897
+Last change to this ruleset: by proposal 6897
 
-Last updated: 30 November 2010
+Last updated: 6 December 2010
 
 Rule ID numbers:
       highest orderly: 2322
@@ -5716,7 +5716,7 @@ Amended(7) by Proposal 6886 (Yally), 20 November 2010
 
 ----------------------------------------------------------------------
 
-Rule 2293/1 (Power=1.7)
+Rule 2293/2 (Power=1.7)
 Leadership Tokens
 
       Leadership Tokens are a currency tracked by the Herald. A player
@@ -5730,12 +5730,16 @@ Leadership Tokens
             to destroy up to 4 Rests e owns.
         (c) A player CAN redeem 1 Leadership Token in eir possession
             to award emself 7 ergs.
+        (d) A player CAN redeem 1 Leadership Token in eir possession
+            to move any player up or down by up to 5 spots on the
+            List of Succession.
 
 History:
 Created by Proposal 6708 (coppro, comex, woggle), 4 May 2010
 Power changed from 1 to 1.7 by Proposal 6708 (coppro, comex, woggle),
   4 May 2010
 Amended(1) by Proposal 6876 (G.), 8 November 2010
+Amended(2) by Proposal 6897 (scshunt), 5 December 2010
 
 ----------------------------------------------------------------------
 
