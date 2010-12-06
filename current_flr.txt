@@ -1,19 +1,19 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6900
-Last change to this ruleset: by proposal 6900
+Last proposal with recorded effect on this ruleset: 6901
+Last change to this ruleset: by proposal 6901
 
 Last updated: 6 December 2010
 
 Rule ID numbers:
-      highest orderly: 2322
+      highest orderly: 2323
       chaotic: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 130
+Current total number of rules: 131
 
 Power distribution:
        1 with Power=4
@@ -22,7 +22,7 @@ Power distribution:
       45 with Power=2
        7 with Power=1.7
        6 with Power=1.5
-      32 with Power=1
+      33 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -178,6 +178,7 @@ Index of Rules
       Rule 2293: Leadership Tokens
       Rule 2308: Contests
       Rule 2320: Auctions and the Default Auction Procedure
+      Rule 2323: Fee-based auctions
       Rule 2321: Proposal Points
 
       * Patent Titles and Degrees
@@ -5765,7 +5766,7 @@ Created by Proposal 6792 (omd), 27 August 2010
 
 ----------------------------------------------------------------------
 
-Rule 2320/0 (Power=1)
+Rule 2320/1 (Power=1)
 Auctions and the Default Auction Procedure
 
       When an Auction is to be held and the procedure is not
@@ -5782,9 +5783,9 @@ Auctions and the Default Auction Procedure
           which Player shall initiate it, then the Speaker shall (or
           may) initiate it.
 
-      (b) Bidders: every active Player may bid in an Auction;
-          non-active Players may not bid. Activity is measured at the
-          time a Player sends eir bid.
+      (b) Bidders: every active Player, other than the Seller, may bid
+          in an Auction; non-active Players may not bid. Activity is
+          measured at the time a Player sends eir bid.
 
       (c) Auction Currency: each Auction is conducted in one
           particular currency. The Rule providing for a particular
@@ -5792,7 +5793,7 @@ Auctions and the Default Auction Procedure
           cannot take place.
 
       (d) Number of lots: each Auction is conducted for 1 or more
-          identical lots of identical items, which must all be owned
+          identical lots of identical assets, which must all be owned
           by the same entity. Throughout this Rule, N indicates the
           number of lots up for bid in the Auction.
 
@@ -5801,9 +5802,10 @@ Auctions and the Default Auction Procedure
           authorized to initiate the Auction. The announcement must
           contain:
           (1) the identity of the Auctioneer;
-          (2) the Auction Currency;
-          (3) the number of items being Auctioned; and
-          (4) the value of the Starting Bid.
+          (2) the identity of the Seller;
+          (3) the Auction Currency;
+          (4) the number of lots and the assets in each lot; and
+          (5) the value of the Starting Bid.
 
       (f) Errors in initiating Auctions: if one of the required
           elements is missing from the announcement initiating the
@@ -5857,26 +5859,42 @@ Auctions and the Default Auction Procedure
 
       (m) Billing for winning bids: as soon as possible after the end
           of the Auction, the Auctioneer shall announce the winning
-          bids and issue to each winning bidder a separate bill for
-          each of eir winning bids.
+          bids; when e does so, the winning bidder incurs a debt (the
+          bill) for each of eir winning bids to the Seller, unless
+          this has already occurred for that Auction.
 
       (n) Defaulting: a winning bidder has a week from the time e is
           billed by the Auctioneer for a winning bid e made to satisfy
-          the debt arising from that bid. If e does not do so, e
-          commits the Class 2 Infraction of Defaulting (reportable by
-          the Auctioneer), and thereafter loses eir right to purchase
-          the Auctioned item by paying the debt arising from that bid.
-          As soon as possible after a winning bidder defaults on a
-          bid, the Auctioneer shall Order the owner of the items being
-          Auctioned to forgive the unsatisfied debt arising from the
-          bid.
+          the debt arising from that bid.  If e does not do so, e
+          loses eir right to purchase the Auctioned item by paying
+          that debt.
 
       (o) Unless specified otherwise, the owner of the Auctioned items
           shall incur a debt of one Auctioned lot of items to the
           winning bidder when the bill for that lot is paid.
 
+      When an entity (the debtor) incurs a debt for something to
+      another entity (the creditor), e SHALL transfer it to that
+      entity as soon as possible, unless the debt has been forgiven;
+      failure to do so is the Class-3 Crime of Defaulting.  The
+      creditor of a debt CAN forgive it by announcement.
+
 History:
 Created by Proposal 6873 (G.; disi.), 8 November 2010
+Amended(1) by Proposal 6901 (omd), 5 December 2010
+
+----------------------------------------------------------------------
+
+Rule 2323/0 (Power=1)
+Fee-based auctions
+
+      A person CAN hold an auction with emself as Seller using the
+      Default Auction Procedure, specifying the Auction Currency, the
+      Starting Bid, and the number of lots and the assets in each lot,
+      for a fee of 3 ergs.
+
+History:
+Created by Proposal 6901 (omd), 5 December 2010
 
 ----------------------------------------------------------------------
 
