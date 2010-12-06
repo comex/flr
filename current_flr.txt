@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6899
-Last change to this ruleset: by proposal 6899
+Last proposal with recorded effect on this ruleset: 6900
+Last change to this ruleset: by proposal 6900
 
 Last updated: 6 December 2010
 
@@ -13,13 +13,13 @@ Rule ID numbers:
 
 Statistics
 
-Current total number of rules: 131
+Current total number of rules: 130
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
       38 with Power=3
-      46 with Power=2
+      45 with Power=2
        7 with Power=1.7
        6 with Power=1.5
       32 with Power=1
@@ -176,7 +176,6 @@ Index of Rules
       Rule 2284: Fee-based actions
       Rule 2287: Props
       Rule 2293: Leadership Tokens
-      Rule 2305: Fans
       Rule 2308: Contests
       Rule 2320: Auctions and the Default Auction Procedure
       Rule 2321: Proposal Points
@@ -608,7 +607,6 @@ Victory
            other rules.
 
 [Cross-references (9 January 2008): list of Winning Conditions:
-  * Applause (rule 2305)
   * Clout (rule 2134)
   * Dictatorship (rule 2223)
   * Game Club (rule 2308)
@@ -5720,37 +5718,6 @@ Power changed from 1 to 1.7 by Proposal 6708 (coppro, comex, woggle),
   4 May 2010
 Amended(1) by Proposal 6876 (G.), 8 November 2010
 Amended(2) by Proposal 6897 (scshunt), 5 December 2010
-
-----------------------------------------------------------------------
-
-Rule 2305/1 (Power=2)
-Fans
-
-      Fans are a fixed asset, tracked by the Referee, whose ownership
-      is limited to Teams. Creation and destruction of Fans are
-      secured with a power threshold of 1.
-
-      Rules to the contrary notwithstanding, the Referee's requirement
-      to report a list of all instances of Fans and their owners need
-      not reflect changes since the last PSM's report.
-
-      Whenever a non-Independent player gains an erg, that player's
-      Allegiance gains a Fan. Whenever a Team owns at least 300 Fans,
-      then that Team is destroyed and two (empty) Teams are created,
-      plus one extra Team if that Team had exactly 3 members
-      immediately before it was destroyed; this is known as that team
-      "being Promoted".
-
-      Upon a win announcement that there are no Independent players
-      and a player has an Allegiance different from all other players'
-      Allegiances, then all players with a unique Allegiance among all
-      players satisfy the Winning Condition of Applause. Cleanup
-      procedure: All Teams are destroyed and two (empty) Teams are
-      created.
-
-History:
-Created by Proposal 6749 (ais523), 20 July 2010
-Amended(1) by cleaning (Keba), 28 August 2010
 
 ----------------------------------------------------------------------
 
