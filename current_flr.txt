@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6898
-Last change to this ruleset: by proposal 6898
+Last proposal with recorded effect on this ruleset: 6899
+Last change to this ruleset: by proposal 6899
 
 Last updated: 6 December 2010
 
@@ -13,7 +13,7 @@ Rule ID numbers:
 
 Statistics
 
-Current total number of rules: 132
+Current total number of rules: 131
 
 Power distribution:
        1 with Power=4
@@ -22,7 +22,7 @@ Power distribution:
       46 with Power=2
        7 with Power=1.7
        6 with Power=1.5
-      33 with Power=1
+      32 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -174,7 +174,6 @@ Index of Rules
       Rule 2295: Rewards
       Rule 2283: Fees
       Rule 2284: Fee-based actions
-      Rule 2310: Musical chairs
       Rule 2287: Props
       Rule 2293: Leadership Tokens
       Rule 2305: Fans
@@ -5645,22 +5644,6 @@ Amended(4) by Proposal 6735 (coppro), 13 June 2010
 Amended(5) by Proposal 6816 (G., Keba), 4 September 2010
 Amended(6) by Proposal 6821 (G., ais523), 4 September 2010
 Amended(7) by Proposal 6865 (G., coppro), 8 November 2010
-
-----------------------------------------------------------------------
-
-Rule 2310/0 (Power=1)
-Musical chairs
-
-      A Minister (the Humphrey) CAN trade cards with another Minister
-      (the Bernard) by announcement, provided that
-
-       a) the Humphrey has not traded cards within the past eight
-          weeks, and
-       b) the Bernard has held eir card continuously for at least two
-          weeks.
-
-History:
-Created by Proposal 6802 (Murphy), 27 August 2010
 
 ----------------------------------------------------------------------
 
