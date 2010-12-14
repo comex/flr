@@ -1,19 +1,19 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6901
-Last change to this ruleset: by proposal 6901
+Last proposal with recorded effect on this ruleset: 6913
+Last change to this ruleset: by proposal 6913
 
-Last updated: 6 December 2010
+Last updated: 14 December 2010
 
 Rule ID numbers:
-      highest orderly: 2323
+      highest orderly: 2324
       chaotic: none
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 131
+Current total number of rules: 132
 
 Power distribution:
        1 with Power=4
@@ -22,7 +22,7 @@ Power distribution:
       45 with Power=2
        7 with Power=1.7
        6 with Power=1.5
-      33 with Power=1
+      34 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -199,6 +199,7 @@ Index of Rules
       * Trophies
       Rule 1727: Happy Birthday
       Rule 2029: Town Fountain
+      Rule 2324: Dictatorship
 
       (Garbage Bin)
 
@@ -5710,7 +5711,7 @@ Leadership Tokens
         (c) A player CAN redeem 1 Leadership Token in eir possession
             to award emself 7 ergs.
         (d) A player CAN redeem 1 Leadership Token in eir possession
-            to move any player up or down by up to 5 spots on the
+            to move any  player up or down by up to 5 spots on the
             List of Succession.
 
 History:
@@ -6652,6 +6653,17 @@ necessarily constitute a violation of this rule.]
 
 History:
 Created by Proposal 4329 (Goethe), 9 June 2002
+
+----------------------------------------------------------------------
+
+Rule 2324/0 (Power=1)
+Dictatorship
+
+      omd CAN cause this rule to make arbitrary gamestate changes by
+      announcement.
+
+History:
+Created by Proposal 6913 (omd), 1 December 2010
 
 ----------------------------------------------------------------------
 
