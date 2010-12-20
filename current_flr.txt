@@ -3,7 +3,7 @@ THE FULL LOGICAL RULESET
 Last proposal with recorded effect on this ruleset: 6913
 Last change to this ruleset: by proposal 6913
 
-Last updated: 14 December 2010
+Last updated: 20 December 2010
 
 Rule ID numbers:
       highest orderly: 2324
@@ -6459,7 +6459,7 @@ Amended(7) by Proposal 6821 (G., ais523), 4 September 2010
 
 ----------------------------------------------------------------------
 
-Rule 2316/0 (Power=1)
+Rule 2316/1 (Power=1)
 Church and State
 
       A cardinal is an active, ready player who is neither the current
@@ -6471,14 +6471,15 @@ Church and State
       A notice of papal succession declares that a specified player is
       a pope.  The notice is valid only if it is published by the
       Associate Director of Personnel and the specified player is
-      indeed a pope.
+      indeed a cardinal.
 
       Upon publication of a valid notice of papal succession, the
-      current Speaker ceases to be Speaker, the pope becomes the new
-      Speaker, and the pope ceases to be a pope.
+      current Speaker ceases to be Speaker, the previous pope becomes
+      the new Speaker, and the previous pope ceases to be a pope.
 
 History:
 Created by Proposal 6832 (coppro; disi.), 10 September 2010
+Amended(1) by Proposal 6893 (Flameshadowxeroshin), 20 November 2010
 
 ----------------------------------------------------------------------
 
