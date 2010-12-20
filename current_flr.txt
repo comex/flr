@@ -6657,14 +6657,20 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-Rule 2324/0 (Power=1)
+Rule 2324/1 (Power=1)
 Dictatorship
 
       omd CAN cause this rule to make arbitrary gamestate changes by
       announcement.
 
+      omd CAN ಠ_ಠ an Agoran decision by announcement.  This extends
+      the length of its voting period to 106 years, unless the
+      decision is to adopt an Urgent Proposal, in which case the new
+      length is only 53 years.
+
 History:
 Created by Proposal 6913 (omd), 1 December 2010
+Amended(1) by Rule 2324 (omd), 19 December 2010
 
 ----------------------------------------------------------------------
 
