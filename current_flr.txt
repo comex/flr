@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
 Last proposal with recorded effect on this ruleset: 6913
-Last change to this ruleset: by proposal 6913
+Last change to this ruleset: by Rule 2324
 
-Last updated: 20 December 2010
+Last updated: 21 December 2010
 
 Rule ID numbers:
       highest orderly: 2324
@@ -6657,7 +6657,7 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-Rule 2324/1 (Power=1)
+Rule 2324/2 (Power=1)
 Dictatorship
 
       omd CAN cause this rule to make arbitrary gamestate changes by
@@ -6668,9 +6668,16 @@ Dictatorship
       decision is to adopt an Urgent Proposal, in which case the new
       length is only 53 years.
 
+      This rule hereby specifies that, for the purposes of
+      Ratification Without Objection, N (as defined by Rule 1728) is
+      8.
+
+[! The power of this rule may actually be either 2 or 3.]
+
 History:
 Created by Proposal 6913 (omd), 1 December 2010
 Amended(1) by Rule 2324 (omd), 19 December 2010
+Amended(2) by Rule 2324 (omd), 21 December 2010
 
 ----------------------------------------------------------------------
 
