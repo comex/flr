@@ -1102,7 +1102,7 @@ Amended(3) by Proposal 6882 (G.; disi.), 20 November 2010
 
 ----------------------------------------------------------------------
 
-Rule 2223/1 (Power=1)
+Rule 2223/2 (Power=1)
 Win by Junta
 
       Upon a win announcement that a rule states that one or more
@@ -1113,12 +1113,14 @@ Win by Junta
       Cleanup procedure:  Those persons SHALL as soon as possible
       amend the rule so that it no longer states this, and SHOULD
       amend the rules to prevent this condition from being achieved
-      again in essentially the same way.
+      again in essentially the same way.  Also, the power of Rule 2324
+      is set to 2.
 
 History:
 Created by Proposal 5982 (Murphy), 29 November 2008
 Amended(1) by Proposal 6162 (comex), 31 March 2009
 Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
+Amended(2) by Rule 2324 (omd), 22 December 2010
 
 ----------------------------------------------------------------------
 
@@ -6657,7 +6659,7 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-Rule 2324/2 (Power=1)
+Rule 2324/3 (Power=1)
 Dictatorship
 
       omd CAN cause this rule to make arbitrary gamestate changes by
@@ -6672,12 +6674,16 @@ Dictatorship
       Ratification Without Objection, N (as defined by Rule 1728) is
       8.
 
+      coppro CAN cause this rule to make arbitrary rule changes by
+      announcement.
+
 [! The power of this rule may actually be either 2 or 3.]
 
 History:
 Created by Proposal 6913 (omd), 1 December 2010
 Amended(1) by Rule 2324 (omd), 19 December 2010
 Amended(2) by Rule 2324 (omd), 21 December 2010
+Amended(3) by Rule 2324 (omd), 22 December 2010
 
 ----------------------------------------------------------------------
 
