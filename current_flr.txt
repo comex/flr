@@ -6659,7 +6659,7 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-Rule 2324/3 (Power=1)
+Rule 2324/4 (Power=1)
 Dictatorship
 
       omd CAN cause this rule to make arbitrary gamestate changes by
@@ -6677,6 +6677,12 @@ Dictatorship
       coppro CAN cause this rule to make arbitrary rule changes by
       announcement.
 
+      The set of available options on the decision to adopt Proposal
+      6939 is { ADOPTED }.
+
+      The Assessor SHALL resolve that decision before the time this
+      text is added to a rule.
+
 [! The power of this rule may actually be either 2 or 3.]
 
 History:
@@ -6684,6 +6690,7 @@ Created by Proposal 6913 (omd), 1 December 2010
 Amended(1) by Rule 2324 (omd), 19 December 2010
 Amended(2) by Rule 2324 (omd), 21 December 2010
 Amended(3) by Rule 2324 (omd), 22 December 2010
+Amended(4) by Rule 2324 (omd), 22 December 2010
 
 ----------------------------------------------------------------------
 
