@@ -2368,6 +2368,7 @@ Dependent Actions
           method(s) (including the value of N for each method), at
           most fourteen days earlier, and (if the action depends on
           objections or notice) at least four days earlier.
+
        b) At least one of the following is true:
 
             1) The performer is the initiator.
