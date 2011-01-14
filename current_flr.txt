@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6931
-Last change to this ruleset: by proposal 6931
+Last proposal with recorded effect on this ruleset: 6932
+Last change to this ruleset: by proposal 6932
 
 Last updated: 13 January 2011
 
@@ -4643,7 +4643,7 @@ Amended(15) by Proposal 6718 (coppro), 4 May 2010
 
 ----------------------------------------------------------------------
 
-Rule 1504/47 (Power=2)
+Rule 1504/48 (Power=2)
 Criminal Cases
 
       Criminal cases are a subclass of judicial cases.  Any
@@ -4668,8 +4668,8 @@ Criminal Cases
            case, or punishment already applied through another
            uncontested notice of violation, with the same Accused, the
            same rule, and substantially the same alleged act;
-       (d) the Accused could not have reasonably believed that the
-           alleged act did not violate the specified rule;
+       (d) the Accused could have reasonably believed that the alleged
+           act did violate the specified rule;
        (e) the Accused could have reasonably avoided committing the
            breach without committing a different breach of equal or
            greater severity.
@@ -4827,6 +4827,7 @@ Amended(44) by Proposal 6522 (Walker), 23 October 2009
 Amended(45) by Proposal 6535 (Murphy), 4 November 2009
 Amended(46) by Proposal 6557 (BobTHJ; disi.), 13 November 2009
 Amended(47) by cleaning (Murphy), 6 March 2010
+Amended(48) by Proposal 6932 (scshunt), 2 January 2011
 
 ----------------------------------------------------------------------
 
