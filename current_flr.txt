@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6913
-Last change to this ruleset: by Rule 2324
+Last proposal with recorded effect on this ruleset: 6915
+Last change to this ruleset: by proposal 6915
 
-Last updated: 21 December 2010
+Last updated: 13 January 2011
 
 Rule ID numbers:
       highest orderly: 2324
@@ -6279,7 +6279,7 @@ Amended(1) by Proposal 6865 (G., coppro), 8 November 2010
 
 ----------------------------------------------------------------------
 
-Rule 2255/11 (Power=2)
+Rule 2255/12 (Power=2)
 The Court
 
       A rule with a power equal to or greater than this rule may
@@ -6322,9 +6322,9 @@ The Court
            perform the action using the same dependent action method
            with notice, indicating also that e is acting as Vizier.
 
-      Fourth Position: Head Gardener.
+      Fourth Position: Chief Gardener.
       Influence Level: 5
-      Position: the Head Gardener CAN rubberstamp or veto a specified
+      Position: the Chief Gardener CAN rubberstamp or veto a specified
       decision by announcement.
 
       Fifth Position: Crown Prince
@@ -6354,6 +6354,7 @@ Retitled and amended(8) by Proposal 6821 (G., ais523), 4 September
 Amended(9) by Proposal 6865 (G., coppro), 8 November 2010
 Amended(10) by Proposal 6891 (coppro), 20 November 2010
 Amended(11) by cleaning (Yally), 30 November 2010
+Amended(12) by Proposal 6915 (omd; disi.), 2 January 2011
 
 ----------------------------------------------------------------------
 
