@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6922
-Last change to this ruleset: by proposal 6922
+Last proposal with recorded effect on this ruleset: 6923
+Last change to this ruleset: by proposal 6923
 
 Last updated: 13 January 2011
 
@@ -5360,17 +5360,23 @@ Amended(3) by Proposal 6024 (Murphy), 22 December 2008
 
 ----------------------------------------------------------------------
 
-Rule 2212/0 (Power=1.7)
+Rule 2212/1 (Power=1.7)
 Judicial Declarations
 
-      A judicial declaration published by a judge as required by the
-      rules in conjunction with a judgement is self-ratifying,
-      provided that that judgement remains in effect.  Such a
-      judgement may be inappropriate due to the content of this
-      declaration, rules to the contrary notwithstanding.
+      A judicial declaration is a document labeled as such and
+      published by a person purporting to be the judge of a specific
+      judicial case, which contains only information e would be
+      required by the Rules, were e the judge, to publish in a
+      judicial declaration.
+
+      The author of a judicial declaration SHOULD attempt to ratify it
+      without objection immediately after publishing it; players
+      SHOULD NOT object to such an attempt unless the judicial
+      declaration was invalid or illegally published.
 
 History:
 Created by Proposal 5715 (Murphy), 7 October 2008
+Amended(1) by Proposal 6923 (omd, G.; disi.), 2 January 2011
 
 ----------------------------------------------------------------------
 
