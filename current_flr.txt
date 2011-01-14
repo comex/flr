@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6927
-Last change to this ruleset: by proposal 6927
+Last proposal with recorded effect on this ruleset: 6930
+Last change to this ruleset: by proposal 6930
 
 Last updated: 13 January 2011
 
@@ -2938,14 +2938,18 @@ Retitled and amended(12) by Proposal 6667 (Murphy), 10 March 2010
 
 ----------------------------------------------------------------------
 
-Rule 1551/13 (Power=3)
+Rule 1551/14 (Power=3)
 Ratification
 
       A public document is part (possibly all) of a public message.
 
-      When a public document is ratified, the gamestate is minimally
-      modified so that the ratified document was completely true and
-      accurate at the time it was published.  Nevertheless, the
+      When a public document is ratified, the gamestate is modified to
+      what it would be if the ratified document had, at the time of
+      its publication, minimally changed the gamestate to make that
+      document completely true and accurate (ignoring, for the
+      purposes of calculating the results of that hypothetical change,
+      restrictions on the document's abilities to make such changes
+      applied by the rules or similar documents).  Nevertheless, the
       ratification of a public document does not invalidate, reverse,
       alter, or cancel any messages or actions, even if they were
       unrecorded or overlooked, or change the legality of any
@@ -2973,6 +2977,7 @@ Amended(10) by Proposal 5275 (Murphy), 7 November 2007
 Amended(11) by Proposal 5315 (Murphy), 28 November 2007
 Amended(12) by Proposal 5459 (Murphy), 9 March 2008
 Amended(13) by Proposal 6570 (Murphy), 28 November 2009
+Amended(14) by Proposal 6930 (ais523), 2 January 2011
 
 ----------------------------------------------------------------------
 
