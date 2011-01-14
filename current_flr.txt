@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6917
-Last change to this ruleset: by proposal 6917
+Last proposal with recorded effect on this ruleset: 6918
+Last change to this ruleset: by proposal 6918
 
 Last updated: 13 January 2011
 
@@ -13,13 +13,13 @@ Rule ID numbers:
 
 Statistics
 
-Current total number of rules: 132
+Current total number of rules: 131
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
       38 with Power=3
-      45 with Power=2
+      44 with Power=2
        7 with Power=1.7
        6 with Power=1.5
       34 with Power=1
@@ -136,7 +136,6 @@ Index of Rules
       Rule 1950: Voting on Democratic Decisions
       Rule 2156: Voting on Ordinary Decisions
       Rule 2279: Voting Limits on Ordinary Decisions
-      Rule 2142: Support Democracy
       Rule 2137: The Assessor
       Rule 1450: Separation of Powers
       Rule 1698: Agora Is a Nomic
@@ -1459,7 +1458,7 @@ Amended(11) by Proposal 6666 (Murphy), 10 March 2010
 
 ----------------------------------------------------------------------
 
-Rule 2177/16 (Power=2)
+Rule 2177/17 (Power=2)
 The Senate
 
       A Senator is any first-class player whose most recent
@@ -1499,6 +1498,10 @@ The Senate
       become supine, and non-Senators CANNOT flip their posture while
       the session lasts.
 
+      During an emergency session, any Senator CAN, with 2 supporting
+      Senators, change an ordinary decision in its voting period to be
+      democratic.
+
 History:
 Created by Proposal 5309 (Goethe), 24 November 2007
 Amended(1) by Proposal 5331 (root), 5 December 2007
@@ -1517,6 +1520,7 @@ Amended(13) by Proposal 6319 (Murphy; disi.), 26 May 2009
 Amended(14) by Proposal 6618 (Murphy; disi.), 4 February 2010
 Amended(15) by Proposal 6733 (Wooble), 6 June 2010
 Amended(16) by Proposal 6821 (G., ais523), 4 September 2010
+Amended(17) by Proposal 6918 (Yally), 2 January 2011
 
 ----------------------------------------------------------------------
 
@@ -3987,23 +3991,6 @@ History:
 Created by Proposal 6549 (coppro; disi.), 13 November 2009
 Amended(1) by Proposal 6697 (coppro), 25 April 2010
 Amended(2) by Proposal 6821 (G., ais523), 4 September 2010
-
-----------------------------------------------------------------------
-
-Rule 2142/5 (Power=2)
-Support Democracy
-
-      A player CAN, with 2 support, change an ordinary decision in its
-      voting period to be democratic.
-
-History:
-Created by Proposal 4955 (Zefram), 7 May 2007
-Amended(1) by Proposal 5043 (root), 1 July 2007
-Power changed from 1.1 to 2 by Proposal 5044 (root), 1 July 2007
-Amended(2) by Proposal 5044 (root), 1 July 2007
-Amended(3) by Proposal 5210 (Murphy), 8 September 2007
-Amended(4) by Proposal 5418 (root), 2 February 2008
-Amended(5) by Proposal 6116 (Goethe), 1 March 2009
 
 ----------------------------------------------------------------------
 
