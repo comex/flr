@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6932
-Last change to this ruleset: by proposal 6932
+Last proposal with recorded effect on this ruleset: 6937
+Last change to this ruleset: by proposal 6937
 
 Last updated: 13 January 2011
 
@@ -1084,12 +1084,12 @@ Amended(5) by Proposal 6741 (comex; disi.), 1 July 2010
 
 ----------------------------------------------------------------------
 
-Rule 1750/3 (Power=1)
+Rule 1750/4 (Power=1)
 Read the Ruleset Week
 
       The first Agoran week each year which falls entirely in February
       is known as Read the Vladivostok Telephone Directory Week.
-      During this time, Agorans SHOULD read the Vladivostok Telephone
+      During this time, Agorans SHALL read the Vladivostok Telephone
       Directory.
 
 History:
@@ -1097,6 +1097,7 @@ Created by Proposal 3601 (Chuck), Dec. 9 1997
 Amended(1) by Proposal 4398 (harvel), 23 October 2002
 Amended(2) by Proposal 6026 (Murphy), 22 December 2008
 Amended(3) by Proposal 6882 (G.; disi.), 20 November 2010
+Amended(4) by Proposal 6937 (omd), 2 January 2011
 
 ----------------------------------------------------------------------
 
