@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6916
-Last change to this ruleset: by proposal 6916
+Last proposal with recorded effect on this ruleset: 6917
+Last change to this ruleset: by proposal 6917
 
 Last updated: 13 January 2011
 
@@ -5772,7 +5772,7 @@ Created by Proposal 6792 (omd), 27 August 2010
 
 ----------------------------------------------------------------------
 
-Rule 2320/1 (Power=1)
+Rule 2320/2 (Power=1)
 Auctions and the Default Auction Procedure
 
       When an Auction is to be held and the procedure is not
@@ -5881,13 +5881,15 @@ Auctions and the Default Auction Procedure
 
       When an entity (the debtor) incurs a debt for something to
       another entity (the creditor), e SHALL transfer it to that
-      entity as soon as possible, unless the debt has been forgiven;
-      failure to do so is the Class-3 Crime of Defaulting.  The
-      creditor of a debt CAN forgive it by announcement.
+      entity as soon as possible; failure to do so is the Class-N
+      Crime of Defaulting, where N is 3 if the debt has not been
+      forgiven and 0 if it has.  The creditor of a debt CAN forgive it
+      by announcement.
 
 History:
 Created by Proposal 6873 (G.; disi.), 8 November 2010
 Amended(1) by Proposal 6901 (omd), 5 December 2010
+Amended(2) by Proposal 6917 (omd; disi.), 2 January 2011
 
 ----------------------------------------------------------------------
 
