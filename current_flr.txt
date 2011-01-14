@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6938
-Last change to this ruleset: by proposal 6938
+Last proposal with recorded effect on this ruleset: 6941
+Last change to this ruleset: by Rule 2324
 
 Last updated: 13 January 2011
 
@@ -6723,31 +6723,14 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-Rule 2324/4 (Power=1)
+Rule 2324/5 (Power=1)
 Dictatorship
 
-      omd CAN cause this rule to make arbitrary gamestate changes by
-      announcement.
+      G. CAN cause this rule to make arbitrary gamestate changes,
+      except for any amendment of Rule 2223, by announcement.
 
-      omd CAN ಠ_ಠ an Agoran decision by announcement.  This extends
-      the length of its voting period to 106 years, unless the
-      decision is to adopt an Urgent Proposal, in which case the new
-      length is only 53 years.
-
-      This rule hereby specifies that, for the purposes of
-      Ratification Without Objection, N (as defined by Rule 1728) is
-      8.
-
-      coppro CAN cause this rule to make arbitrary rule changes by
-      announcement.
-
-      The set of available options on the decision to adopt Proposal
-      6939 is { ADOPTED }.
-
-      The Assessor SHALL resolve that decision before the time this
-      text is added to a rule.
-
-[! The power of this rule may actually be either 2 or 3.]
+[! It is possible that either the power of this rule is 2 or 3, or
+that it was repealed by proposal 6941.]
 
 History:
 Created by Proposal 6913 (omd), 1 December 2010
@@ -6755,6 +6738,7 @@ Amended(1) by Rule 2324 (omd), 19 December 2010
 Amended(2) by Rule 2324 (omd), 21 December 2010
 Amended(3) by Rule 2324 (omd), 22 December 2010
 Amended(4) by Rule 2324 (omd), 22 December 2010
+Amended(5) by Rule 2324 (omd), 6 January 2011
 
 ----------------------------------------------------------------------
 
