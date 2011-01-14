@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6923
-Last change to this ruleset: by proposal 6923
+Last proposal with recorded effect on this ruleset: 6925
+Last change to this ruleset: by proposal 6925
 
 Last updated: 13 January 2011
 
@@ -5901,16 +5901,28 @@ Created by Proposal 6901 (omd), 5 December 2010
 
 ----------------------------------------------------------------------
 
-Rule 2321/0 (Power=1)
+Rule 2321/1 (Power=1)
 Proposal Points
 
-      Voters who voted against proposals which are adopted receive 10
-      points apiece.  Players whose proposals are adopted shall
-      receive a random number of points in the range 1-10 inclusive.
-      Players whose proposals are not adopted shall lose 10 points.
+      Points are a liquid Currency tracked by the PSM.  When this text
+      first becomes a part of a Rule, each Player's points are set to
+      zero.
+
+      The following awards CAN and SHALL be created/destroyed in the
+      possession of the indicated players by the PSM, asap after
+      proposal results in question are announced:
+
+         - Voters who voted against proposals which are adopted
+           receive 10 points apiece.
+         - Players whose proposals are adopted shall receive a random
+           number of points (determined by the PSM) in the range 1-10
+           inclusive.
+         - Players whose proposals are not adopted shall lose 10
+           points.
 
 History:
 Created by Proposal 6880 (G.; disi.), 20 November 2010
+Amended(1) by Proposal 6925 (G.; disi.), 2 January 2101
 
 ----------------------------------------------------------------------
 
