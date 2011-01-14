@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6937
-Last change to this ruleset: by proposal 6937
+Last proposal with recorded effect on this ruleset: 6938
+Last change to this ruleset: by proposal 6938
 
 Last updated: 13 January 2011
 
@@ -2939,22 +2939,34 @@ Retitled and amended(12) by Proposal 6667 (Murphy), 10 March 2010
 
 ----------------------------------------------------------------------
 
-Rule 1551/14 (Power=3)
+Rule 1551/15 (Power=3)
 Ratification
 
       A public document is part (possibly all) of a public message.
 
-      When a public document is ratified, the gamestate is modified to
-      what it would be if the ratified document had, at the time of
-      its publication, minimally changed the gamestate to make that
-      document completely true and accurate (ignoring, for the
-      purposes of calculating the results of that hypothetical change,
-      restrictions on the document's abilities to make such changes
-      applied by the rules or similar documents).  Nevertheless, the
-      ratification of a public document does not invalidate, reverse,
-      alter, or cancel any messages or actions, even if they were
-      unrecorded or overlooked, or change the legality of any
-      attempted action.
+      When a public document is ratified, rules to the contrary
+      notwithstanding, the gamestate is modified to what it would be
+      if, at the time the ratified document was published, the
+      gamestate had been minimally modified to make the ratified
+      document as true and accurate as possible.  Such a modification
+      cannot add inconsistencies between the gamestate and the rules,
+      and it cannot include a rule change unless the ratified document
+      purports to include the text, title, and/or power of the rule
+      being changed.  If no such modification is possible, or
+      multiple substantially distinct possible modifications would be
+      equally appropriate, the ratification fails.
+
+      An internally inconsistent document generally cannot be
+      ratified; however, if such a document can be divided into a
+      summary section and a main section, where the only purpose of
+      the summary section is to summarize information in the main
+      section, and the main section is internally consistent,
+      ratification of the document proceeds as if it contained only
+      the main section.
+
+      Text purportedly about previous instances of ratification (e.g.
+      a report's date of last ratification) is excluded from
+      ratification.
 
       Ratifying a public document is secured.
 
@@ -2979,6 +2991,7 @@ Amended(11) by Proposal 5315 (Murphy), 28 November 2007
 Amended(12) by Proposal 5459 (Murphy), 9 March 2008
 Amended(13) by Proposal 6570 (Murphy), 28 November 2009
 Amended(14) by Proposal 6930 (ais523), 2 January 2011
+Amended(15) by Proposal 6938 (omd), 2 January 2011
 
 ----------------------------------------------------------------------
 
