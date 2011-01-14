@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6930
-Last change to this ruleset: by proposal 6930
+Last proposal with recorded effect on this ruleset: 6931
+Last change to this ruleset: by proposal 6931
 
 Last updated: 13 January 2011
 
@@ -4419,7 +4419,7 @@ Amended(9) by Proposal 6404 (Murphy; disi.), 30 July 2009
 
 ----------------------------------------------------------------------
 
-Rule 591/31 (Power=1.7)
+Rule 591/32 (Power=1.7)
 Inquiry Cases
 
       Inquiry cases are a subclass of judicial cases.  An inquiry
@@ -4453,7 +4453,9 @@ Inquiry Cases
       * IRRELEVANT, appropriate if the veracity of the statement is
         not relevant to the game or is an overly hypothetical
         extrapolation of the game or its rules to conditions that
-        don't actually exist
+        don't actually exist, or if it can be trivially determined
+        from the outcome of another (possibly still undecided)
+        judicial question which was not itself judged IRRELEVANT
 
       * UNDETERMINED, appropriate if the statement is nonsensical or
         too vague, or if the information available to the judge is
@@ -4553,6 +4555,7 @@ Amended(30) by Proposal 6044 (Goethe), 13 January 2009
 Assigned to Committee on the Judiciary by Proposal 6053 (Murphy,
   woggle, ais523), 23 January 2009
 Amended(31) by Proposal 6571 (ais523), 28 November 2009
+Amended(32) by Proposal 6931 (omd), 2 January 2011
 
 ----------------------------------------------------------------------
 
