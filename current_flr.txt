@@ -1,19 +1,17 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6925
-Last change to this ruleset: by proposal 6925
+Last proposal with recorded effect on this ruleset: 6926
+Last change to this ruleset: by proposal 6926
 
 Last updated: 13 January 2011
 
-Rule ID numbers:
-      highest orderly: 2324
-      chaotic: none
+Highest Rule ID number ever assigned: 2325
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 131
+Current total number of rules: 132
 
 Power distribution:
        1 with Power=4
@@ -22,7 +20,7 @@ Power distribution:
       44 with Power=2
        7 with Power=1.7
        6 with Power=1.5
-      34 with Power=1
+      35 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -97,6 +95,7 @@ Index of Rules
       Rule 1728: Dependent Actions
       Rule 2288: Induction
       Rule 2124: Agoran Satisfaction
+      Rule 2325: Zombies
 
       * Offices
       Rule 1006: Offices
@@ -2531,6 +2530,38 @@ Amended(13) by Proposal 6448 (BobTHJ), 27 August 2009
 Amended(14) by Proposal 6475 (c.; disi.), 15 September 2009
 Amended(15) by Proposal 6512 (c.; disi.), 3 October 2009
 Amended(16) by cleaning (Keba), 20 August 2010
+
+----------------------------------------------------------------------
+
+Rule 2325/0 (Power=1)
+Zombies
+
+      Each Player is always Noisy, Quiet, or Silent, but never more
+      than one of these.  Whenever a Player posts to a Public Forum,
+      or a new Player registers, that Player is Noisy.
+
+      Any Player who has not caused another Player to become Quiet
+      within the last 24 hours can cause another Active Noisy Player
+      to become Quiet by stating that e is doing so, and clearly
+      identifying that Player, in a Public Forum.  If a Player has
+      been Quiet continuously for two weeks, e becomes Silent.  If a
+      Player has been Inactive continuously for two months, e becomes
+      Silent.
+
+      Any Player can make a Silent Player a Zombie by publicly
+      alleging that the Silent Player has abandoned the game.  A
+      Player has abandoned the game if and only if e is Silent.  As
+      soon as possible after a public allegation that a Player has
+      abandoned the game, the Registrar shall publicly confirm or deny
+      that the Player is a Zombie.
+
+      If a Speaker has abandoned the game, e commits the Class 15
+      Crime of Speaker Abandonment, to be detected and reported by any
+      Player.  E ceases to be Speaker, and the Speaker-Elect becomes
+      Speaker.  The previous Speaker then becomes a Zombie.
+
+History:
+Created by Proposal 6926 (G.; disi.), 2 January 2011
 
 ----------------------------------------------------------------------
 
