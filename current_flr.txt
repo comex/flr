@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6945
-Last change to this ruleset: by proposal 6945
+Last proposal with recorded effect on this ruleset: 6946
+Last change to this ruleset: by proposal 6946
 
 Last updated: 16 January 2011
 
@@ -3735,7 +3735,7 @@ Amended(29) by Proposal 6823 (Murphy, omd), 10 September 2010
 
 ----------------------------------------------------------------------
 
-Rule 2313/0 (Power=3)
+Rule 2313/1 (Power=3)
 Urgent Proposals
 
       A Proposal is Urgent if it is Interested and the text of the
@@ -3747,12 +3747,13 @@ Urgent Proposals
       it becomes undistributable in the mean time.  Failure to do so
       is the Class 1 Crime of Lack of Urgency.
 
-      Rules to the contrary notwithstanding, the Voting Period of an
-      Agoran Decision to adopt an Urgent Proposal is initially four
-      days, and cannot be shortened.
+      Rules to the contrary notwithstanding, the minimum and initial
+      voting period of an Agoran decision to adopt an Urgent Proposal
+      is four days.
 
 History:
 Created by Proposal 6816 (G., Keba), 4 September 2010
+Amended(1) by Proposal 6946 (Murphy, omd; disi.), 16 January 2011
 
 ----------------------------------------------------------------------
 
