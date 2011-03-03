@@ -1,26 +1,26 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6946
-Last change to this ruleset: by proposal 6946
+Last proposal with recorded effect on this ruleset: 6961
+Last change to this ruleset: by proposal 6961
 
-Last updated: 16 January 2011
+Last updated: 3 March 2011
 
-Highest Rule ID number ever assigned: 2325
+Highest Rule ID number ever assigned: 2326
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 132
+Current total number of rules: 80
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
-      38 with Power=3
-      44 with Power=2
-       7 with Power=1.7
-       6 with Power=1.5
-      35 with Power=1
+      33 with Power=3
+      23 with Power=2
+       5 with Power=1.7
+       3 with Power=1.5
+      14 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -34,9 +34,7 @@ Index of Categories
       * Agoran Decisions
       * Proposals
       * Adjudication
-      * Economy
       * Patent Titles and Degrees
-      * The Court
       * Trophies
 
 ----------------------------------------------------------------------
@@ -50,10 +48,9 @@ Index of Rules
       Rule 1586: Definition and Continuity of Entities
       Rule 1688: Power
       Rule 2140: Power Controls Mutability
-      Rule 2186: Victory
-      Rule 2245: Win by Not Losing
-      Rule 2110: Win by Paradox
       Rule  104: First Speaker
+      Rule 2326: The President
+      Rule  103: The Speaker
 
       * Rules
       Rule 2141: Role and Attributes of Rules
@@ -63,31 +60,21 @@ Index of Rules
       Rule  105: Rule Changes
       Rule 1681: The Logical Rulesets
       Rule 1051: The Rulekeepor
-      Rule 2221: Cleanliness
       Rule 1750: Read the Ruleset Week
-      Rule 2223: Win by Junta
 
       * Players
       Rule  869: How to Join and Leave Agora
       Rule 2170: Who Am I?
       Rule 2150: Personhood
-      Rule 2268: Entanglement
       Rule 2139: The Registrar
       Rule 1789: Cantus Cygneus
       Rule 2130: Activity
-      Rule 2177: The Senate
-      Rule 2319: Messy Statements
-      Rule 2215: Truthiness
-      Rule 2228: Rests
-      Rule 2229: Just Resting
-      Rule 2312: The Pariah
 
       * Definitions
       Rule  754: Definition Definitions
       Rule 2152: Mother, May I?
       Rule 1023: Common Definitions
       Rule 1769: Holidays
-      Rule 2296: Festival Days
       Rule 2153: Interest Index
       Rule 2146: Indices
       Rule 2162: Switches
@@ -95,12 +82,11 @@ Index of Rules
       Rule 1728: Dependent Actions
       Rule 2288: Induction
       Rule 2124: Agoran Satisfaction
-      Rule 2325: Zombies
+      Rule 2166: Assets
 
       * Offices
       Rule 1006: Offices
       Rule 2143: Official Reports and Duties
-      Rule 2227: Interest Index of Offices
       Rule 2160: Deputisation
       Rule 2154: Election Procedure
       Rule 2276: Assumption of Vacant Offices
@@ -113,10 +99,8 @@ Index of Rules
       Rule  693: Agoran Decisions
       Rule  107: Initiating Agoran Decisions
       Rule  683: Voting on Agoran Decisions
-      Rule 2196: Standard Classes of Agoran Decisions
       Rule 2127: Conditional Votes
       Rule 2280: Implicit Votes
-      Rule 2222: Maximum Voting Limits
       Rule 2168: Extending the voting period
       Rule  208: Resolving Agoran decisions
       Rule  955: Determining the Will of Agora
@@ -125,28 +109,13 @@ Index of Rules
 
       * Proposals
       Rule  106: Adopting Proposals
-      Rule 2313: Urgent Proposals
-      Rule 2317: Leet Leadership
-      Rule 2281: Proposal Cleanup
-      Rule 2224: Interest Index of Proposals
       Rule 1607: The Promotor
-      Rule 2250: Officer's Proposals
-      Rule 2267: Judge's Proposals
       Rule 1950: Voting on Democratic Decisions
-      Rule 2156: Voting on Ordinary Decisions
-      Rule 2279: Voting Limits on Ordinary Decisions
       Rule 2137: The Assessor
-      Rule 1450: Separation of Powers
       Rule 1698: Agora Is a Nomic
-      Rule 2134: Win by Clout
-      Rule 2188: Win by Proposal
-      Rule 2309: The Propose-O-Matic
-      Rule 2322: Groups
 
       * Adjudication
       Rule  991: Judicial Cases Generally
-      Rule 2246: Submitting a CFJ to the Justiciar
-      Rule 2225: Interest Index of Judicial Cases
       Rule 2158: Judicial Questions
       Rule  591: Inquiry Cases
       Rule 2230: Notices of Violation
@@ -159,45 +128,18 @@ Index of Rules
       Rule 2175: Judicial Retraction and Excess
       Rule 1868: Judge Assignment Generally
       Rule 1871: The Standing Court
-      Rule 2226: Judicial Rank
-      Rule 2248: Second-Class Judges
       Rule 2204: Linked Assignments
       Rule 2164: Judicial Self-Recusal and Case Transfer
       Rule 2212: Judicial Declarations
 
-      * Economy
-      Rule 2166: Assets
-      Rule 2282: Energy
-      Rule 2289: Capacitors
-      Rule 2295: Rewards
-      Rule 2283: Fees
-      Rule 2284: Fee-based actions
-      Rule 2287: Props
-      Rule 2293: Leadership Tokens
-      Rule 2308: Contests
-      Rule 2320: Auctions and the Default Auction Procedure
-      Rule 2323: Fee-based auctions
-      Rule 2321: Proposal Points
-
       * Patent Titles and Degrees
       Rule  649: Patent Titles
-      Rule 1922: Defined Regular Patent Titles
       Rule 1367: Degrees
       Rule 2231: Order of the Hero of Agora Nomic
-
-      * The Court
-      Rule 2314: The List of Succession
-      Rule 2255: The Court
-      Rule  402: Identity of the Speaker
-      Rule  103: Role of the Speaker
-      Rule 2316: Church and State
-      Rule 2270: Coups D'etat
-      Rule 2286: Veto and Rubberstamp
 
       * Trophies
       Rule 1727: Happy Birthday
       Rule 2029: Town Fountain
-      Rule 2324: Dictatorship
 
       (Garbage Bin)
 
@@ -567,118 +509,6 @@ Assigned to Committee on Rules by Proposal 6053 (Murphy, woggle,
 
 ----------------------------------------------------------------------
 
-Rule 2186/9 (Power=2)
-Victory
-
-      Winning Conditions and Losing Conditions are conditions defined
-      as such by the rules.  If such a condition is defined by the
-      rules as being satisfied when an event occurs (as opposed to
-      being satisfied while certain other conditions hold), then it
-      thereafter continues to be satisfied until the rules explicitly
-      say otherwise.
-
-      When one or more persons satisfy at least one Winning Condition
-      and do not satisfy any Losing Conditions, all such persons win
-      the game.  The game CANNOT be won in any other way, rules to the
-      contrary notwithstanding.
-
-      Each Winning Condition should (if needed) specify a cleanup
-      procedure to prevent an arbitrary number of wins arising from
-      essentially the same conditions.  When one or more persons win
-      the game:
-
-        a) For each Winning Condition satisfied by at least one of
-           those persons, its cleanup procedure (if any) occurs.
-
-        b) Each of those persons ceases to satisfy any Winning
-           Conditions.
-
-      A win announcement is an announcement meeting all of these
-      requirements:
-
-        a) It is factually correct.
-
-        b) It is explicitly labeled as a win announcement and/or
-           clearly states that one or more persons thereby win the
-           game.
-
-        c) If it was a win announcement, then it would cause one or
-           more Winning Conditions to be satisfied, as defined by
-           other rules.
-
-[Cross-references (9 January 2008): list of Winning Conditions:
-  * Clout (rule 2134)
-  * Dictatorship (rule 2223)
-  * Game Club (rule 2308)
-  * Leadership (rule 2293)
-  * Legislation (rule 2188)
-  * Paradox (rule 2110)
-  * Respect (rule 2287)
-  * Solitude (rule 2186)]
-
-History:
-Created by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
-  16 January 2008
-Amended(1) by Proposal 5791 (Murphy), 22 October 2008
-Amended(2) by Proposal 5792 (Murphy), 22 October 2008
-Amended(3) by Proposal 6023 (Murphy), 22 December 2008
-Amended(4) by Proposal 6052 (Murphy), 23 January 2009
-Amended(5) by Proposal 6083 (ais523), 22 February 2009
-Amended(6) by Proposal 6198 (Murphy), 27 April 2009
-Amended(7) by Proposal 6433 (coppro; disi.), 18 August 2009
-Amended(8) by Proposal 6657 (Murphy), 10 March 2010
-Amended(9) by Proposal 6782 (Murphy), 11 August 2010
-
-----------------------------------------------------------------------
-
-Rule 2245/0 (Power=1)
-Win by Not Losing
-
-      While a player is the only active first-class player not to
-      satisfy at least one Losing Condition, e satisfies the Winning
-      Condition of Solitude.
-
-      Cleanup procedure:  The same person cannot satisfy this Winning
-      Condition again until at least one other player ceases to
-      satisfy any Losing Condition.
-
-History:
-Created by Proposal 6198 (Murphy), 27 April 2009
-
-----------------------------------------------------------------------
-
-Rule 2110/5 (Power=1)
-Win by Paradox
-
-      A tortoise is an inquiry case on the possibility or legality of
-      a rule-defined action (actual or hypothetical, but not arising
-      from that case itself, and not occurring after the initiation of
-      that case) for which the question of veracity is UNDECIDABLE.
-
-      Upon a win announcement that a tortoise has continuously been a
-      tortoise for no greater than four and no less than two weeks,
-      the initiator satisfies the Winning Condition of Paradox.
-
-      Cleanup procedure:  Each winner satisfying this Winning
-      Condition SHALL, as soon as possible, make a reasonable attempt
-      to resolve the paradox.  The same person can not satisfy this
-      Winning Condition again for the same tortoise or for any other
-      tortoise that was linked to it in assignment.
-
-History:
-Created by Proposal 4781 (Sherlock), 3 June 2005
-Amended(1) by Proposal 4891 (Murphy), 22 January 2007
-Amended(2) by Proposal 5195 (Zefram), 6 September 2007
-Amended(3) by Proposal 5297 (Murphy), 22 November 2007
-Amended(4) by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
-  16 January 2008
-Amended(5) by Proposal 5451 (root, Murphy, Zefram), 1 March 2008
-Power changed from 3 to 2 by Proposal 5955 (ais523, Elysion, Murphy;
-  disi.), 18 November 2008
-Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
-
-----------------------------------------------------------------------
-
 Rule 104/0 (Power=3)
 First Speaker
 
@@ -694,6 +524,62 @@ shall be Michael Norrish.]
 History:
 Initial Immutable Rule 104, Jun. 30 1993
 Mutated from MI=Unanimity to MI=3 by Proposal 1482, Mar. 15 1995
+
+----------------------------------------------------------------------
+
+Rule 2326/0 (Power=2)
+The President
+
+      The President is a second-class person.  The President CAN only
+      take actions as explicitly described/caused by a Rule or other
+      instrument of a power equal to or greater than the power of this
+      Rule.
+
+      A first-class Player CAN cause the President to take actions
+      Without Objection, or with Agoran Consent.
+
+History:
+Created by Proposal 6961 (G.), 3 March 2011
+
+----------------------------------------------------------------------
+
+Rule 103/8 (Power=2)
+The Speaker
+
+      The Speaker is an imposed office and a figurehead of Agora. The
+      Speaker is a person who has proven themselves to be worthy of
+      the title, and for a time can direct Agoran government affairs.
+
+      The Speaker is the single first-class player (if any) who holds
+      the most Postulated Offices.
+
+      The Speaker CAN, by announcement, cause the President to take
+      actions that are not otherwise IMPOSSIBLE, except for
+      deregistration.  Causing the President to perform ILLEGAL
+      actions in this manner is the Class-6 crime of Misleading the
+      Leader.
+
+[Cross-references (10 July 2009): the Speaker's duties are:
+  * figurehead (rule 103)
+  * bestow favors (rule 103)]
+
+History:
+Initial Immutable Rule 103, Jun. 30 1993
+Mutated from MI=Unanimity to MI=3 by Proposal 1481, Mar. 15 1995
+Amended(1) by Proposal 3829 (Steve), Feb. 8 1999
+Retitled by Proposal 4944 (Zefram), 3 May 2007
+Amended(2) by Proposal 4944 (Zefram), 3 May 2007
+Retitled by Proposal 5257 (AFO), 27 October 2007
+Amended(3) by Proposal 5257 (AFO), 27 October 2007
+Amended(4) by Proposal 5407 (root), 22 January 2008
+Power changed from 3 to 1 by Proposal 5947 (ais523), 15 November 2008
+Amended(5) by Proposal 6026 (Murphy), 22 December 2008
+Amended(6) by Proposal 6490 (coppro), 18 September 2009
+Power changed from 1 to 2 by Proposal 6821 (G., ais523), 4 September
+  2010
+Amended(7) by Proposal 6821 (G., ais523), 4 September 2010
+Retitled by Proposal 6961 (G.), 3 March 2011
+Amended(8) by Proposal 6961 (G.), 3 March 2011
 
 ----------------------------------------------------------------------
 
@@ -1065,25 +951,6 @@ Amended(18) by Proposal 5237 (AFO; disi.), 3 October 2007
 
 ----------------------------------------------------------------------
 
-Rule 2221/5 (Power=3)
-Cleanliness
-
-      Any player CAN clean a rule without objection by specifying one
-      or more corrections to spelling, grammar, capitalization, and/or
-      dialect, or to whether a synonym or abbreviation is used in
-      place of a word or phrase, in the rule's text and/or title; the
-      rule is amended by this rule as specified by that person.
-
-History:
-Created by Proposal 5975 (Murphy), 25 November 2008
-Amended(1) by Proposal 6098 (comex), 22 February 2009
-Amended(2) by Proposal 6291 (Murphy), 19 May 2009
-Amended(3) by Proposal 6722 (Murphy), 21 May 2010
-Amended(4) by Proposal 6732 (comex), 6 June 2010
-Amended(5) by Proposal 6741 (comex; disi.), 1 July 2010
-
-----------------------------------------------------------------------
-
 Rule 1750/4 (Power=1)
 Read the Ruleset Week
 
@@ -1098,28 +965,6 @@ Amended(1) by Proposal 4398 (harvel), 23 October 2002
 Amended(2) by Proposal 6026 (Murphy), 22 December 2008
 Amended(3) by Proposal 6882 (G.; disi.), 20 November 2010
 Amended(4) by Proposal 6937 (omd), 2 January 2011
-
-----------------------------------------------------------------------
-
-Rule 2223/2 (Power=1)
-Win by Junta
-
-      Upon a win announcement that a rule states that one or more
-      persons CAN cause it to make arbitrary rule changes by
-      announcement, all those persons satisfy the Winning Condition of
-      Dictatorship.
-
-      Cleanup procedure:  Those persons SHALL as soon as possible
-      amend the rule so that it no longer states this, and SHOULD
-      amend the rules to prevent this condition from being achieved
-      again in essentially the same way.  Also, the power of Rule 2324
-      is set to 2.
-
-History:
-Created by Proposal 5982 (Murphy), 29 November 2008
-Amended(1) by Proposal 6162 (comex), 31 March 2009
-Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
-Amended(2) by Rule 2324 (omd), 22 December 2010
 
 ----------------------------------------------------------------------
 
@@ -1308,17 +1153,6 @@ Amended(6) by Proposal 6022 (Murphy), 22 December 2008
 
 ----------------------------------------------------------------------
 
-Rule 2268/0 (Power=2)
-Entanglement
-
-      Two entities are entangled if and only if the intersection of
-      their bases is non-empty.
-
-History:
-Created by Proposal 6485 (Murphy), 18 September 2009
-
-----------------------------------------------------------------------
-
 Rule 2139/3 (Power=2)
 The Registrar
 
@@ -1358,7 +1192,6 @@ though it is not mentioned in the rules and no one is obliged to track
 or publish it.]
 
 [Cross-references (13 February 2008): the Registrar's duties are:
-  * report senators (rule 2177)
   * track citizenship (rule 869)
   * report players' identity and contact details (rule 2139)
   * report registration dates (rule 2139)
@@ -1367,8 +1200,7 @@ or publish it.]
   * track player activity and report change dates (rule 2130)
   * track forum publicity (rule 478)
   * report fora (rule 478)
-  * change the publicity of a forum (rule 478)
-  * award patent title of Left in a Huff (rule 1922)]
+  * change the publicity of a forum (rule 478)]
 
 History:
 Created by Proposal 4939 (Murphy), 29 April 2007
@@ -1455,227 +1287,6 @@ Amended(9) by Proposal 5271 (Murphy), 7 November 2007
 Power changed from 1 to 2 by Proposal 5947 (ais523), 15 November 2008
 Amended(10) by Proposal 6100 (Pavitra; disi.), 22 February 2009
 Amended(11) by Proposal 6666 (Murphy), 10 March 2010
-
-----------------------------------------------------------------------
-
-Rule 2177/17 (Power=2)
-The Senate
-
-      A Senator is any first-class player whose most recent
-      registration was at least sixty days ago.  The set of all
-      Senators is known as the Senate.  The Registrar's report
-      includes a list of all Senators.
-
-      A Senator CAN call an Emergency Session with 2 Senator
-      supporters, provided no other emergency session existed at any
-      time in the preceding 48 hours.  An emergency session lasts
-      until it is terminated.  An unterminated emergency session
-      terminates 21 days after it was called.  A Senator CAN terminate
-      an emergency session without 3 Senator objections.  Terminating
-      an emergency session is a secured change.  The Assessor's
-      monthly report includes the dates when the most recent emergency
-      session was called and terminated.
-
-      The roll call of an emergency session is the set of Senators at
-      the time the emergency session was called.  During emergency
-      session, the previous definition of Senator does not apply;
-      instead, a Senator is a first-class player who is a member of
-      the roll call.  The Assessor's monthly report includes the roll
-      call of the most recent emergency session.
-
-      During emergency session, any Senator CAN, with 2 supporting
-      Senators, declare a specified non-Senator Ineligible to vote on
-      the decision to adopt a given proposal in its voting period.  A
-      player's voting limit on a decision for which e is Ineligible is
-      0 and cannot be modified, rules to the contrary notwithstanding.
-      Any Senator CAN cause an Ineligible player to cease to be
-      Ineligible to vote on a specified decision with 4 supporting
-      Senators and without objection from a member of the Court (any
-      of whom CAN object), restoring eir voting limit to what it would
-      be if e had never been made Ineligible.
-
-      When an emergency session begins, all non-Senators' postures
-      become supine, and non-Senators CANNOT flip their posture while
-      the session lasts.
-
-      During an emergency session, any Senator CAN, with 2 supporting
-      Senators, change an ordinary decision in its voting period to be
-      democratic.
-
-History:
-Created by Proposal 5309 (Goethe), 24 November 2007
-Amended(1) by Proposal 5331 (root), 5 December 2007
-Amended(2) by Proposal 5332 (root), 5 December 2007
-Amended(3) by Proposal 5333 (root), 5 December 2007
-Amended(4) by Proposal 5333 (root), 5 December 2007
-Amended(5) by Proposal 5357 (root; disi.), 16 December 2007
-Amended(6) by Proposal 5944 (Taral, ais523), 15 November 2008
-Amended(7) by Proposal 5945 (root), 15 November 2008
-Amended(8) by Proposal 5979 (Murphy), 25 November 2008
-Amended(9) by Proposal 6023 (Murphy), 22 December 2008
-Amended(10) by cleaning (Yally), 5 March 2009
-Amended(11) by Proposal 6199 (Murphy), 27 April 2009
-Amended(12) by Proposal 6266 (Murphy, ais523), 11 May 2009
-Amended(13) by Proposal 6319 (Murphy; disi.), 26 May 2009
-Amended(14) by Proposal 6618 (Murphy; disi.), 4 February 2010
-Amended(15) by Proposal 6733 (Wooble), 6 June 2010
-Amended(16) by Proposal 6821 (G., ais523), 4 September 2010
-Amended(17) by Proposal 6918 (Yally), 2 January 2011
-
-----------------------------------------------------------------------
-
-Rule 2319/0 (Power=3)
-Messy Statements
-
-      A statement is messy if its truth value cannot be evaluated in a
-      top-down fashion without encountering some form of infinite
-      regress, such as (but not limited to) self-reference.
-
-      For the purposes of the rules, messy statements are considered
-      inaccurate and incorrect regardless of their truth value.
-
-History:
-Created by Proposal 6870 (omd), 8 November 2010
-
-----------------------------------------------------------------------
-
-Rule 2215/3 (Power=1)
-Truthiness
-
-      A person SHALL NOT make a public statement on a matter relevant
-      to the rules unless e reasonably believes that it is true (or,
-      in the case of a public statement that one performs an action,
-      that it is thereby effective).
-
-      For the purpose of this rule:
-
-       a) Merely quoting a statement does not constitute making that
-          statement.
-
-       b) Any conditional clause or other qualifier attached to a
-          statement constitutes part of the statement; the nature of
-          the whole is what is significant.
-
-      The above notwithstanding, a person stating that e intends to
-      perform an action in the future does not thereby violate this
-      rule, as such a statement is often a requirement to keep eir
-      options open.
-
-[CFJ 1739 (called 29 August 2007): A quotation can result in a
-violation of rule 2215 (then 2149), depending on the context of the
-rest of the message.]
-
-[CFJ 1849 (called 21 December 2007): Violation of rule 2215 (then
-2149) can occur without any intent to misdirect.]
-
-[CFJ 1887 (called 30 January 2008): Publicly making the statement
-"This statement is a lie." would most likely be a violation of rule
-2215 (then 2149), because it is logically indeterminate and so making
-it would not be telling the truth, and its logical indeterminacy would
-be understood by any reasonable player.]
-
-[CFJ 2103 (called 21 July 2008): Making the statement "I lie." is not
-a violation of Rule 2215 if the author is lying down.]
-
-[CFJ 2399 (called 4 March 2009): Even if a type of behavior is likely
-to cause false statements to be accidentally published, a person does
-not violate rule 2215 by engaging in it if there is no specific
-statement e believes is false.]
-
-History:
-Created by Proposal 5789 (Murphy, Zefram, Michael, Goethe), 22 October
-  2008
-Power changed from 2 to 1 by Proposal 5947 (ais523), 15 November 2008
-Amended(1) by Proposal 6248 (Wooble), 9 May 2009
-Amended(2) by Proposal 6537 (Walker; disi.), 4 November 2009
-Amended(3) by Proposal 6564 (Murphy), 13 November 2009
-
-----------------------------------------------------------------------
-
-Rule 2228/6 (Power=2)
-Rests
-
-      Rests are a fixed currency.  The creation and destruction of
-      Rests is secured with a power threshold of 1.7; a person
-      generally CANNOT destroy rests except as permitted by Rules
-      explicitly stating methods by which rests in particular CAN be
-      destroyed.
-
-      The Herald is the recordkeepor of Rests.
-
-      Ownership of Rests is restricted to first-class persons. If, in
-      the absence of this restriction, a number (N) of Rests would be
-      created in the ownership of a non-first-class person, then for
-      each member of that person's basis, N Rests are created in that
-      member's possession.
-
-      A first-class player CAN create Rests in eir own possession by
-      announcement.
-
-History:
-Created by Proposal 6010 (ais523, Goethe, Murphy, comex, OscarMeyr),
-  14 December 2008
-Assigned to Committee on Crime by Proposal 6053 (Murphy, woggle,
-  ais523), 23 January 2009
-Amended(1) by Proposal 6060 (Wooble, comex, Goethe), 4 February 2009
-Amended(2) by Proposal 6066 (comex, Goethe; disi.), 4 February 2009
-Amended(3) by Proposal 6171 (Murphy), 7 April 2009
-Amended(4) by Proposal 6394 (Goethe), 10 July 2009
-Amended(5) by Proposal 6575 (G.; disi.), 28 November 2009
-Amended(6) by cleaning (Murphy), 6 March 2010
-
-----------------------------------------------------------------------
-
-Rule 2229/4 (Power=2)
-Just Resting
-
-      Owning one or more Rests is a Losing Condition.
-
-      While a player owns at least 24 Rests, that player CAN be
-      deregistered by any player by announcement.  A person who owns
-      at least 6 Rests, or where every member of eir basis owns 6
-      Rests, CANNOT register, rules to the contrary notwithstanding.
-
-      A person who has one or more rests but is not a player is a
-      Fugitive.  The Herald's monthly report shall include a list of
-      all Fugitives.  At the beginning of each month, half of each
-      Fugitive's rests (rounded down) are destroyed.
-
-History:
-Created by Proposal 6010 (ais523, Goethe, Murphy, comex, OscarMeyr),
-  14 December 2008
-Assigned to Committee on Crime by Proposal 6053 (Murphy, woggle,
-  ais523), 23 January 2009
-Amended(1) by Proposal 6175 (Yally), 7 April 2009
-Amended(2) by Proposal 6308 (coppro), 26 May 2009
-Amended(3) by Proposal 6394 (Goethe), 10 July 2009
-Amended(4) by Proposal 6575 (G.; disi.), 28 November 2009
-
-----------------------------------------------------------------------
-
-Rule 2312/1 (Power=1.7)
-The Pariah
-
-      The Pariah is an elected office, with no reports. Whenever a
-      player becomes the Pariah, that player is awarded 23 Rests.
-
-      If more than 6 Rests are destroyed in the Pariah's possession in
-      any given week, the Pariah is awarded a sufficient number of
-      Rests in order to bring eir net Rest loss that week up to no
-      more than 6.
-
-      Players are ENCOURAGED to enforce penalties for rules breaches
-      against the Pariah, even really minor ones.
-
-      Upon a win announcement that the Pariah has ever continuously
-      had 0 Rests for an entire week whilst being the Pariah for all
-      of that time, then the Pariah satisfies the Winning Condition of
-      Cleanliness. Cleanup condition: The office of Pariah becomes
-      vacant and that player ceases to satisfy this Winning Condition.
-
-History:
-Created by Proposal 6814 (ais523), 4 September 2010
-Amended(1) by Proposal 6866 (coppro; disi.), 8 November 2010
 
 ----------------------------------------------------------------------
 
@@ -2008,30 +1619,6 @@ Amended(5) by Proposal 5086 (Zefram), 1 August 2007
 Amended(6) by Proposal 5484 (Murphy; disi.), 2 April 2008
 Amended(7) by Proposal 5535 (Murphy), 7 June 2008
 Power changed from 2 to 3 by Proposal 5701 (ais523), 1 October 2008
-
-----------------------------------------------------------------------
-
-Rule 2296/0 (Power=1)
-Festival Days
-
-      Agora Nomic recognizes and celebrates the following:
-
-        * January 12-14 - Agora's Unbirthday observed (as described
-          elsewhere)
-        * February 29 - St. Tib's Day
-        * March 19 - Mojoday
-        * April 1 - April Fool's Day
-        * May 25 - Towel Day
-        * June 30 - Agora's Birthday (as described elsewhere)
-        * July 15 - Confuflux
-        * August 12 - Zaraday
-        * September 26 - Bureflux
-        * October 24 - Maladay
-        * November 5 - Guy Fawkes Night
-        * December 8 - Afflux
-
-History:
-Created by Proposal 6737 (Murphy, David Nicol), 13 June 2010
 
 ----------------------------------------------------------------------
 
@@ -2534,35 +2121,99 @@ Amended(16) by cleaning (Keba), 20 August 2010
 
 ----------------------------------------------------------------------
 
-Rule 2325/0 (Power=1)
-Zombies
+Rule 2166/16 (Power=2)
+Assets
 
-      Each Player is always Noisy, Quiet, or Silent, but never more
-      than one of these.  Whenever a Player posts to a Public Forum,
-      or a new Player registers, that Player is Noisy.
+      An asset is an entity defined as such by a rule or contest
+      (hereafter its backing document), and existing solely because
+      its backing document defines its existence.
 
-      Any Player who has not caused another Player to become Quiet
-      within the last 24 hours can cause another Active Noisy Player
-      to become Quiet by stating that e is doing so, and clearly
-      identifying that Player, in a Public Forum.  If a Player has
-      been Quiet continuously for two weeks, e becomes Silent.  If a
-      Player has been Inactive continuously for two months, e becomes
-      Silent.
+      Each asset has exactly one owner.  If an asset would otherwise
+      lack an owner, it is owned by the Lost and Found Department.  If
+      an asset's backing document restricts its ownership to a class
+      of entities, then that asset CANNOT be gained by or transferred
+      to an entity outside that class, and is transferred to the Lost
+      and Found Department if it is owned by an entity outside that
+      class.  If an asset is owned by the Lost and Found department
+      any player CAN transfer or destroy it without objection.
 
-      Any Player can make a Silent Player a Zombie by publicly
-      alleging that the Silent Player has abandoned the game.  A
-      Player has abandoned the game if and only if e is Silent.  As
-      soon as possible after a public allegation that a Player has
-      abandoned the game, the Registrar shall publicly confirm or deny
-      that the Player is a Zombie.
+      The Lost and Found department may own any asset, and have assets
+      transferred to and from it, regardless of the asset's backing
+      document or any Rule, Rules to the contrary notwithstanding.
 
-      If a Speaker has abandoned the game, e commits the Class 15
-      Crime of Speaker Abandonment, to be detected and reported by any
-      Player.  E ceases to be Speaker, and the Speaker-Elect becomes
-      Speaker.  The previous Speaker then becomes a Zombie.
+      The recordkeepor of a class of assets is the entity (if any)
+      defined as such by, and bound by, its backing document.  That
+      entity's report includes a list of all instances of that class
+      and their owners.  This portion of that entity's report is
+      self-ratifying.
+
+      An asset whose backing document is not a rule generally CAN be
+      created by its recordkeepor by announcement, subject to
+      modification by its backing document.  To "gain" an asset is to
+      have it created in one's possession; to "award" an asset to an
+      entity is to create it in that entity's possession.
+
+      An asset generally CAN be destroyed by its owner by
+      announcement, and an asset owned by the Lost and Found
+      Department generally CAN be destroyed by its recordkeepor by
+      announcement, subject to modification by its backing document.
+      To "lose" (syn. "spend") an asset is to have it destroyed from
+      one's possession; to "revoke" an asset from an entity is to
+      destroy it from that entity's possession.
+
+      An asset generally CAN be transferred by its owner to another
+      entity by announcement, subject to modification by its backing
+      document.  A fixed asset is one defined as such by its backing
+      document, and CANNOT be transferred; any other asset is liquid.
+
+      A currency is a class of asset defined as such by its backing
+      document.  Instances of a currency with the same owner are
+      fungible.  The Minimum Unit Quantity (MUQ) of each currency is
+      one.
+
+[CFJs 1790-1791 (called 11 November 2007): The self-ratifying asset
+report is the complete list of ownerships of assets of that class; a
+partial list does not self-ratify.]
+
+[CFJ 1850 (called 22 December 2007): The general ability of the
+recordkeepor to create assets does not include an ability to determine
+who possesses them when created, so they are necessarily owned by the
+Lost and Found Department [at the time of CFJ 1850, the Bank] upon
+creation.]
+
+[CFJ 1910 (called 10 March 2008): When an existing entity is defined
+as an asset, the change of its owner from "undefined" to the Lost and
+Found Department [Bank at the time of CFJ 1910] counts as a transfer,
+and fails if the Lost and Found Department is outside of the class of
+objects that can own the entity.]
+
+[CFJ 2176 (called 22 September 2008): Entities may be fungible even if
+not defined as such by this rule.]
+
+[CFJ 2309 (called 11 December 2008): If two separate documents attempt
+to define an asset with the same name, they refer to the same entity,
+but the entity is not an asset.]
 
 History:
-Created by Proposal 6926 (G.; disi.), 2 January 2011
+Created by Proposal 5173 (Murphy), 29 August 2007
+Amended(1) by Proposal 5216 (Murphy), 13 September 2007
+Amended(2) by Proposal 5388 (Murphy), 1 January 2008
+Amended(3) by Proposal 5475 (Murphy), 24 March 2008
+Amended(4) by Proposal 5476 (Murphy; disi.), 27 March 2008
+Amended(5) by Proposal 5496 (Murphy), 23 April 2008
+Amended(6) by Proposal 5833 (Murphy, Taral), 12 November 2008
+Amended(7) by Proposal 5840 (root), 12 November 2008
+Amended(8) by Proposal 5974 (Murphy; disi.), 25 November 2008
+Amended(9) by Proposal 6023 (Murphy), 22 December 2008
+Assigned to Committee on Finance by Proposal 6053 (Murphy, woggle,
+  ais523), 23 January 2009
+Amended(10) by Proposal 6161 (Murphy), 31 March 2009
+Amended(11) by Proposal 6253 (Quazie), 9 May 2009
+Amended(12) by cleaning (Murphy), 16 August 2009
+Amended(13) by Proposal 6430 (coppro; disi.), 18 August 2009
+Amended(14) twice by Proposal 6650 (coppro), 10 March 2010
+Amended(15) by Proposal 6792 (omd), 27 August 2010
+Amended(16) by Proposal 6916 (omd; disi.), 2 January 2011
 
 ----------------------------------------------------------------------
 
@@ -2700,21 +2351,6 @@ Amended(10) by Proposal 6428 (BobTHJ), 18 August 2009
 Amended(11) by cleaning (Murphy), 6 March 2010
 Amended(12) by Proposal 6664 (Murphy; disi.), 10 March 2010
 Amended(13) by cleaning (Murphy), 29 July 2010
-
-----------------------------------------------------------------------
-
-Rule 2227/2 (Power=1)
-Interest Index of Offices
-
-      Each office has an interest index, tracked by the IADoP.
-
-      A player CAN set an office's interest index without 2
-      objections, or with Agoran Consent.
-
-History:
-Created by Proposal 5970 (Murphy), 20 November 2008
-Amended(1) by Proposal 6246 (coppro), 9 May 2009
-Amended(2) by Proposal 6413 (c-walker), 30 July 2009
 
 ----------------------------------------------------------------------
 
@@ -2916,8 +2552,7 @@ of Personnel is the Director of Personnel.]
 
 [Cross-references (1 March 2008): the IADoP's duties are:
   * hold election for office where contested (rule 2154)
-  * report officeholding (rule 2138)
-  * award long service patent titles (rule 1922)]
+  * report officeholding (rule 2138)]
 
 History:
 Created by Proposal 4939 (Murphy), 29 April 2007
@@ -3272,32 +2907,6 @@ Amended(15) by Proposal 6378 (Murphy), 3 July 2009
 
 ----------------------------------------------------------------------
 
-Rule 2196/5 (Power=3)
-Standard Classes of Agoran Decisions
-
-      An Agoran decision with an adoption index is either ordinary or
-      democratic.  All Agoran decisions with an adoption index are
-      ordinary by default.
-
-      If an Agoran decision has an adoption index, then the following
-      are essential parameters:
-
-      a) Its adoption index.
-      b) Whether it is ordinary or democratic.
-
-      For any Agoran decision with an adoption index, the available
-      options are FOR and AGAINST.
-
-History:
-Created by Proposal 5418 (root), 2 February 2008
-Amended(1) by Proposal 5455 (Murphy), 1 March 2008
-Amended(2) by Proposal 6110 (Murphy), 1 March 2009
-Amended(3) by Proposal 6403 (coppro), 30 July 2009
-Amended(4) by Proposal 6441 (Murphy; disi.), 27 August 2009
-Amended(5) by Proposal 6518 (BobTHJ), 19 October 2009
-
-----------------------------------------------------------------------
-
 Rule 2127/6 (Power=1)
 Conditional Votes
 
@@ -3344,23 +2953,6 @@ Implicit Votes
 
 History:
 Created by Proposal 6585 (c.; disi.), 6 December 2009
-
-----------------------------------------------------------------------
-
-Rule 2222/2 (Power=2)
-Maximum Voting Limits
-
-      Other rules to the contrary notwithstanding, no entity may have
-      greater a voting limit than allowed by this rule.
-
-      The maximum voting limit for any entity on an ordinary decision
-      is 12. The maximum voting limit for any entity on any other
-      decision is 1.
-
-History:
-Created by Proposal 5978 (Elysion), 25 November 2008
-Amended(1) by Proposal 6394 (Goethe), 10 July 2009
-Amended(2) by cleaning (Murphy), 3 October 2010
 
 ----------------------------------------------------------------------
 
@@ -3735,76 +3327,7 @@ Amended(29) by Proposal 6823 (Murphy, omd), 10 September 2010
 
 ----------------------------------------------------------------------
 
-Rule 2313/1 (Power=3)
-Urgent Proposals
-
-      A Proposal is Urgent if it is Interested and the text of the
-      message wherein it is submitted explicitly states that it is an
-      Urgent Proposal.
-
-      The Promotor CAN distribute an Urgent Proposal as soon as it
-      becomes Distributable, and e SHALL do so within four days unless
-      it becomes undistributable in the mean time.  Failure to do so
-      is the Class 1 Crime of Lack of Urgency.
-
-      Rules to the contrary notwithstanding, the minimum and initial
-      voting period of an Agoran decision to adopt an Urgent Proposal
-      is four days.
-
-History:
-Created by Proposal 6816 (G., Keba), 4 September 2010
-Amended(1) by Proposal 6946 (Murphy, omd; disi.), 16 January 2011
-
-----------------------------------------------------------------------
-
-Rule 2317/0 (Power=1)
-Leet Leadership
-
-      When an interested proposal consisting of exact 1337 words
-      (excluding information like name, or adoption/interest index) is
-      enacted, its proposer CAN in a timely fashion award emself a
-      Leadership Token.
-
-History:
-Created by Proposal 6833 (Keba), 10 September 2010
-
-----------------------------------------------------------------------
-
-Rule 2281/0 (Power=3)
-Proposal Cleanup
-
-      The Promotor can, by announcement, remove a proposal from the
-      Proposal Pool if it is Undistributable and has been in the
-      Proposal Pool for in excess of one month.
-
-History:
-Created by Proposal 6599 (coppro), 14 December 2009
-
-----------------------------------------------------------------------
-
-Rule 2224/4 (Power=1)
-Interest Index of Proposals
-
-      Each proposal has an interest index, which CAN be set by its
-      author at the time of submission, and CAN be changed (while
-      undistributed) by any player without 2 objections, or by the
-      Promotor or Assessor without 3 objections.
-
-      The submitter of a proposal SHALL set its interest index to 0 if
-      and only if the proposal's effects are limited to correcting
-      errors and/or ambiguities, or if e is required by another rule
-      to submit a disinterested proposal.
-
-History:
-Created by Proposal 5970 (Murphy), 20 November 2008
-Amended(1) by Proposal 6453 (C-walker), 27 August 2009
-Amended(2) by Proposal 6571 (ais523), 28 November 2009
-Amended(3) by Proposal 6669 (Yally), 14 March 2010
-Amended(4) by Proposal 6894 (Wooble), 20 November 2010
-
-----------------------------------------------------------------------
-
-Rule 1607/29 (Power=2)
+Rule 1607/30 (Power=2)
 The Promotor
 
       The Promotor is an office; its holder is responsible for
@@ -3812,7 +3335,7 @@ The Promotor
 
       Distributability is switch possessed by proposals in the
       proposal pool, tracked by the Promotor, with values
-      Undistributable (default) and Distributable.
+      Distributable (default) and Undistributable.
 
       The Promotor CAN distribute a proposal which is in the Proposal
       Pool at any time.  In a given Agoran week, the Promotor SHALL,
@@ -3820,19 +3343,6 @@ The Promotor
       the Proposal Pool and was Distributable at the beginning of that
       Agoran week.  The Promotor SHALL NOT distribute an
       Undistributable proposal.
-
-      A player CAN flip a specified Interested proposal to
-      Distributable without a number of objections equal to 4 - II
-      (where II is the Interest Index of the specified proposal).
-      A player CAN flip a specified Disinterested proposal to
-      Distributable by announcement.
-
-      For an Agoran decision of whether to adopt a proposal, the
-      following are essential parameters:
-
-      a) Its author (and co-authors, if any).
-      b) Its interest index.
-      c) Its Chamber.
 
       Distributed proposals have ID numbers, to be assigned by the
       Promotor.
@@ -3909,44 +3419,24 @@ Amended(26) by Proposal 6531 (Walker), 23 October 2009
 Amended(27) by Proposal 6541 (Murphy), 4 November 2009
 Amended(28) by Proposal 6550 (Tiger; disi.), 13 November 2009
 Amended(29) by Proposal 6793 (Wooble), 27 August 2010
+Amended(30) by Proposal 6961 (G.), 3 March 2011
 
 ----------------------------------------------------------------------
 
-Rule 2250/2 (Power=1)
-Officer's Proposals
-
-      If the submitter of a Proposal makes a claim that the proposal
-      is submitted as part of an officer's duties in the same message
-      in which the proposal was submitted, that proposal becomes
-      Distributable upon entering the Proposal Pool.  Falsely claiming
-      that a proposal is submitted as part of an officer's duties is
-      the Class 6 Crime of Official Distribunannigans.
-
-History:
-Created by Proposal 6342 (Quazie), 11 June 2009
-Amended(1) by Proposal 6393 (Wooble; disi.), 10 July 2009
-Amended(2) by Proposal 6480 (Murphy), 18 September 2009
-
-----------------------------------------------------------------------
-
-Rule 2267/0 (Power=1.5)
-Judge's Proposals
-
-      If the submitter of a Proposal makes a claim that the proposal
-      is directly relevant to a specified judgement delivered by em in
-      the same message, and does not make such a claim about any other
-      proposal in connection with the same judgement, then that
-      proposal becomes Distributable upon entering the Proposal Pool.
-      Falsely claiming that a proposal is relevant in this fashion is
-      the Class 6 Crime of Judicial Distribunannigans.
-
-History:
-Created by Proposal 6480 (Murphy), 18 September 2009
-
-----------------------------------------------------------------------
-
-Rule 1950/20 (Power=3)
+Rule 1950/21 (Power=3)
 Voting on Democratic Decisions
+
+      An Agoran decision with an adoption index is a Democratic
+      decision.
+
+      An Agoran decision with an adoption index has the following
+      essential parameters:
+
+      a) Its adoption index.
+      b) Its author (and co-authors, if any).
+
+      For any Agoran decision with an adoption index, the available
+      options are FOR and AGAINST.
 
       The eligible voters on a democratic decision are those entities
       that were active first-class players at the start of its voting
@@ -3978,72 +3468,7 @@ Retitled by Proposal 5078 (Zefram), 18 July 2007
 Amended(19) by Proposal 5078 (Zefram), 18 July 2007
 Retitled by Proposal 5418 (root), 2 February 2008
 Amended(20) by Proposal 5418 (root), 2 February 2008
-
-----------------------------------------------------------------------
-
-Rule 2156/17 (Power=2)
-Voting on Ordinary Decisions
-
-      The eligible voters on an ordinary decision are the players who
-      were active at the start of its voting period. The voting limit
-      of a player on an ordinary decision is defined elsewhere in the
-      rules, but is fixed at the resolution of the Decision and
-      thereafter CANNOT change, rules to the contrary notwithstanding.
-      This restriction does not prevent a change that would change a
-      voting limit from occurring; it only prevents it from actually
-      effecting that limit.
-
-History:
-Created by Proposal 5078 (Zefram), 18 July 2007
-Amended(1) by Proposal 5082 (Zefram), 1 August 2007
-Amended(2) by Proposal 5141 (Zefram), 19 August 2007
-Amended(3) by Proposal 5276 (Murphy, Pavitra, Zefram), 7 November 2007
-Amended(4) by Proposal 5358 (Murphy), 20 December 2007
-Retitled by Proposal 5418 (root), 2 February 2008
-Amended(5) by Proposal 5418 (root), 2 February 2008
-Amended(6) by Proposal 5447 (Pavitra), 24 February 2008
-Amended(7) by Proposal 5625 (Murphy, OscarMeyr, Ivan Hope), 29 July
-  2008
-Amended(8) by Proposal 5679 (BobTHJ), 3 September 2008
-Amended(9) by Proposal 5791 (Murphy), 22 October 2008
-Amended(10) by Proposal 5985 (Murphy), 7 December 2008
-Amended(11) by Proposal 6010 (ais523, Goethe, Murphy, comex,
-  OscarMeyr), 14 December 2008
-Amended(12) by cleaning (Murphy), 16 August 2009
-Amended(13) by Proposal 6499 (Wooble; disi.), 26 September 2009
-Amended(14) by Proposal 6531 (Walker), 23 October 2009
-Amended(15) twice by Proposal 6549 (coppro; disi.), 13 November 2009
-Amended(16) by Proposal 6616 (G., coppro, c., Murphy), 30 January 2010
-Amended(17) by Proposal 6697 (coppro), 25 April 2010
-
-----------------------------------------------------------------------
-
-Rule 2279/2 (Power=2)
-Voting Limits on Ordinary Decisions
-
-      A player's voting limit on an Ordinary decision is the result of
-      performing the following steps, in order:
-
-          (1) Take the Influence Level associated with the player's
-              position on the list of succession, or 5 if the player
-              is the Speaker.
-
-          (2) Reduce the value by half the number of Rests owned by
-              the player.
-
-          (3) Apply any other adjustments defined in other rules, in
-              numerical order unless otherwise specified.
-
-          (4) Round the value to the nearest non-negative integer,
-              breaking ties upward.
-
-      This rule takes precedence over any other rule which would
-      modify a player's voting limit on an ordinary Decision.
-
-History:
-Created by Proposal 6549 (coppro; disi.), 13 November 2009
-Amended(1) by Proposal 6697 (coppro), 25 April 2010
-Amended(2) by Proposal 6821 (G., ais523), 4 September 2010
+Amended(21) by Proposal 6961 (G.), 3 March 2011
 
 ----------------------------------------------------------------------
 
@@ -4057,8 +3482,7 @@ The Assessor
 hands, vote collection duties move with it.]
 
 [Cross-references (1 March 2008): the Assessor's duties are:
-  * report date of most recent emergency session (rule 2177)
-  * report roll call of most recent emergency session (rule 2177)]
+  * vote collector for proposals (rule 106)]
 
 History:
 Created by Proposal 4939 (Murphy), 29 April 2007
@@ -4066,36 +3490,6 @@ Amended(1) by Proposal 5078 (Zefram), 18 July 2007
 Amended(2) by Proposal 5453 (Murphy), 1 March 2008
 Assigned to Committee on Rules by Proposal 6053 (Murphy, woggle,
   ais523), 23 January 2009
-
-----------------------------------------------------------------------
-
-Rule 1450/10 (Power=2)
-Separation of Powers
-
-      Lest the entire proposal process fall under the control of a
-      single entity, any change that would result in the holders of
-      Promotor and Assessor being entangled is canceled and does not
-      occur, rules to the contrary notwithstanding.
-
-      Lest the entire judicial process fall under the control of a
-      single entity, any change that would result in the holder of
-      Clerk of the Courts and the owner of Justiciar being entangled
-      is canceled and does not occur, rules to the contrary
-      notwithstanding.
-
-History:
-Created by Proposal 1547, Apr. 14 1995
-Amended(1) by Proposal 2442, Feb. 6 1996
-Amended(2) by Proposal 3742 (Harlequin), May 8 1998
-Amended(3) by Proposal 4576 (root), 31 May 2004
-Amended(4) by Proposal 4592 (Murphy), 4 July 2004
-Amended(5) by Proposal 4868 (Goethe), 27 August 2006
-Power changed from 1 to 2 by Proposal 4868 (Goethe), 27 August 2006
-Amended(6) by Proposal 4939 (Murphy), 29 April 2007
-Amended(7) by Proposal 5106 (Zefram), 1 August 2007
-Amended(8) by Proposal 5476 (Murphy; disi.), 27 March 2008
-Amended(9) by Proposal 5602 (Murphy), 29 July 2008
-Amended(10) by Proposal 6485 (Murphy), 18 September 2009
 
 ----------------------------------------------------------------------
 
@@ -4113,120 +3507,6 @@ History:
 Created by Proposal 3465 (Steve), Apr. 26 1997
 Retitled by Proposal 5536 (Murphy), 7 June 2008
 Amended(1) by Proposal 5536 (Murphy), 7 June 2008
-
-----------------------------------------------------------------------
-
-Rule 2134/7 (Power=2)
-Win by Clout
-
-      Upon a win announcement that a specified player's voting limit
-      on an ordinary decision with a specified Chamber initiated at
-      that time would exceed the combined voting limits of all other
-      players on that decision, the specified player satisfies the
-      Winning Condition of Clout.
-
-      Cleanup procedure:  No player satisfies this Winning Condition
-      again during the same month, the remainder of this rule
-      notwithstanding.
-
-History:
-Created by Proposal 4930 (Goethe), 29 April 2007
-Retitled by Proposal 5222 (root; disi.), 30 September 2007
-Amended(1) by Proposal 5222 (root; disi.), 30 September 2007
-Amended(2) by Proposal 5343 (Murphy), 8 December 2007
-Retitled by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
-  16 January 2008
-Power changed from 1 to 2 by Proposal 5394 (Murphy, Goddess Eris,
-  OscarMeyr, Zefram), 16 January 2008
-Amended(3) by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
-  16 January 2008
-Amended(4) by Proposal 5418 (root), 2 February 2008
-Amended(5) by Proposal 5625 (Murphy, OscarMeyr, Ivan Hope), 29 July
-  2008
-Amended(6) by Proposal 6624 (Murphy), 20 February 2010
-Amended(7) by Proposal 6659 (Murphy; disi.), 10 March 2010
-
-----------------------------------------------------------------------
-
-Rule 2188/2 (Power=1)
-Win by Proposal
-
-      Upon a win announcement that a proposal awarding a win to one or
-      more persons has been adopted, all those persons satisfy the
-      Winning Condition of Legislation.
-
-      Cleanup procedure: None of those persons can satisfy the
-      condition again for the same proposal.
-
-History:
-Created by Proposal 5394 (Murphy, Goddess Eris, OscarMeyr, Zefram),
-  16 January 2008
-Amended(1) by Proposal 6162 (comex), 31 March 2009
-Power changed from 2 to 1 by Proposal 6198 (Murphy), 27 April 2009
-Amended(2) by Proposal 6787 (Murphy; disi.), 22 August 2010
-
-----------------------------------------------------------------------
-
-Rule 2309/1 (Power=1)
-The Propose-O-Matic
-
-      The Fearmongor is an Office. Its holder is responsible for
-      ensuring the continuous change of the ruleset.
-
-      Each week, the Fearmongor SHALL do the following:
-
-         1) Select two rules at random.
-
-         2) For each of those rules, submit a disinterested proposal
-            with AI equal to that rules' power. One proposal SHALL
-            specify only to repeal its rule, and, if necessary, to
-            make a minimal set of other rule changes so that the game
-            is not broken by the repeal; the other SHALL specify only
-            to amend its rule.
-
-         3) Submit a disinterested proposal with AI 1. It shall
-            specify only the enactment of a rule which is identical to
-            a rule which was, at one point, part of the Ruleset, and
-            was not chosen for use in this clause in the prior six
-            months.
-
-         4) Make each of those proposals Distributable, clearly
-            specifying that e is doing so to fulfill eir duties.
-
-      Players MUST NOT make proposals submitted in accordance with
-      this rule Undistributable.
-
-History:
-Created by Proposal 6798 (coppro), 27 August 2010
-Amended(1) by Proposal 6861 (omd), 18 October 2010
-
-----------------------------------------------------------------------
-
-Rule 2322/0 (Power=1)
-Groups
-
-      A Group is an Organization with an associated SLC called its
-      Ordinances. The Administrator for each Group is that Group's
-      Ordinancekeepor, the Executor is its Vizier, and the set of
-      Players within the Jurisdiction of its SLC is its Membership.
-
-      A Group's Membership may contain any Player who is not a Member
-      of any other Group. Initially, the Group's Membership must
-      contain at least three Foundors. The Ordinancekeepor and the
-      Vizier of a Group must, at all times, be Members of the Group;
-      if either ceases to be a Member of the Group, it dissolves.
-
-      Each Group has Mint Authority.
-
-      A Group's Voting Power on a Democratic Proposal is as follows:
-
-         (a) A Group containing fewer than three members: zero;
-         (b) A Group containing at least three members: the number of
-             Players divided by the number of Groups with at least
-             three members, rounded down.
-
-History:
-Created by Proposal 6890 (G.; disi.), 20 November 2010
 
 ----------------------------------------------------------------------
 
@@ -4298,75 +3578,6 @@ Amended(10) by Proposal 5317 (Murphy), 28 November 2007
 Amended(11) by Proposal 5464 (Murphy), 13 March 2008
 Assigned to Committee on the Judiciary by Proposal 6053 (Murphy,
   woggle, ais523), 23 January 2009
-
-----------------------------------------------------------------------
-
-Rule 2246/5 (Power=2)
-Submitting a CFJ to the Justiciar
-
-      The Justiciar is an imposed office. Its holder is defined else-
-      where in the rules.
-
-      The initiator of a judicial case CAN submit it to the Justiciar
-      by announcement.  For such a case, the Justiciar CAN, in a
-      timely manner, either accept or reject the case by announcement;
-      until this time limit expires or the Justiciar rejects the case,
-      the CotC CANNOT perform any of eir office's duties with regards
-      to the case and does not incur any of eir office's obligations
-      with regards to it.
-
-      If the Justiciar accepts the case, e switches places with the
-      CotC entirely with regards to that case; that is, e receives all
-      obligations and all powers that the CotC would otherwise receive
-      due to being CotC, and the CotC receives all obligations and
-      powers that the Justiciar would otherwise receive due to being
-      Justiciar. This includes any secondary duties required to
-      fulfill obligations (such as rotating the bench). This takes
-      precedence over Rules that would otherwise assign duties and
-      powers regarding a judicial case to the Clerk of the Courts or
-      the Justiciar due to holding one of those positions. A player
-      CAN deputize for Justiciar to perform these duties as if it were
-      an office.
-
-      All persons are ENCOURAGED to submit a case to the Justiciar
-      only when there is a good reason not to let it be processed by
-      the Clerk of the Courts as usual.
-
-History:
-Created by Proposal 6181 (comex), 7 April 2009
-Amended(1) by Proposal 6333 (coppro), 29 May 2009
-Amended(2) by Proposal 6496 (coppro), 26 September 2009
-Amended(3) by Proposal 6662 (Murphy; disi.), 10 March 2010
-Amended(4) by Proposal 6752 (Murphy), 2 August 2010
-Amended(5) by Proposal 6891 (coppro), 20 November 2010
-
-----------------------------------------------------------------------
-
-Rule 2225/4 (Power=1.5)
-Interest Index of Judicial Cases
-
-      Each judicial case has an interest index, which CAN be set by
-      its initiator at the time of initiation, or otherwise defaults
-      to zero.
-
-      A player CAN, Without N Objections, increase or decrease the
-      interest index of a judicial case by 1, where N is 4 minus the
-      interest index of that case immediately prior to that change.
-
-      A player CAN set the interest index of a disinterested judicial
-      case to 1 by announcement.
-
-      When a player recuses emself from a judicial case whose interest
-      index equals eir rank, the case's interest index is increased by
-      1 unless the recusing player announces in the same message that
-      it should not.
-
-History:
-Created by Proposal 5970 (Murphy), 20 November 2008
-Amended(1) by Proposal 6176 (Murphy), 7 April 2009
-Amended(2) by Proposal 6259 (Quazie), 11 May 2009
-Amended(3) by Proposal 6483 (Pavitra), 18 September 2009
-Amended(4) by cleaning (Murphy), 2 August 2010
 
 ----------------------------------------------------------------------
 
@@ -4574,7 +3785,7 @@ Amended(32) by Proposal 6931 (omd), 2 January 2011
 
 ----------------------------------------------------------------------
 
-Rule 2230/15 (Power=2)
+Rule 2230/16 (Power=2)
 Notices of Violation
 
       A player CAN publish a Notice of Violation (NoV) for a fee of N
@@ -4623,16 +3834,6 @@ Notices of Violation
       incorrectness and/or unfairness (but not merely by questioning
       its validity).
 
-      If a NoV is Uncontested and was published at least four days
-      ago, any player CAN cause it to become Closed by announcement.
-      Any player CAN cause a NoV specifying em as Accused to become
-      Closed by announcement. When a NoV becomes Closed, a number of
-      Rests are created in the possession of the Accused equal to the
-      Class of the specified Crime, or in its absence the Power of the
-      violated rule, rounded up.  If a Closed NoV becomes Contested,
-      these Rests remain, but CAN be later destroyed by judicial
-      processes as described elsewhere.
-
       Valid NOVs have ID numbers, to be assigned by the Herald.
 
 History:
@@ -4655,10 +3856,11 @@ Amended(12) by Proposal 6327 (Murphy), 29 May 2009
 Amended(13) by Proposal 6427 (BobTHJ), 18 August 2009
 Amended(14) by Proposal 6575 (G.; disi.), 28 November 2009
 Amended(15) by Proposal 6718 (coppro), 4 May 2010
+Amended(16) by Proposal 6961 (G.), 3 March 2011
 
 ----------------------------------------------------------------------
 
-Rule 1504/48 (Power=2)
+Rule 1504/49 (Power=2)
 Criminal Cases
 
       Criminal cases are a subclass of judicial cases.  Any
@@ -4694,10 +3896,6 @@ Criminal Cases
         the sub-requirements for a finding of guilty were not found to
         be true beyond a reasonable doubt.
 
-      When a judicial question on culpability is judged after a number
-      of rests have been created in the Accused's possession due to
-      the associated notice, those rests are destroyed.
-
       A criminal case has a judicial question on sentencing, which is
       applicable if the question on culpability is applicable and has
       a judgement of GUILTY.  If a criminal case has an applicable
@@ -4719,11 +3917,6 @@ Criminal Cases
         200 words, including all the prescribed words, explaining eir
         error, shame, remorse, and ardent desire for self-improvement.
         Failure to do so is a Class-3 Crime of Failure to Apologize.
-
-      * SILENCE with a positive number less than 15 (X). If a
-        judgement of SILENCE has been in effect continuously for one
-        week (or longer), any player CAN once create a number of Rests
-        equal to X in the possession of the ninny, by announcement.
 
       * FINE with an amount of one class of asset, appropriate for
         rule breaches of small consequence.  An amount is only valid
@@ -4843,10 +4036,11 @@ Amended(45) by Proposal 6535 (Murphy), 4 November 2009
 Amended(46) by Proposal 6557 (BobTHJ; disi.), 13 November 2009
 Amended(47) by cleaning (Murphy), 6 March 2010
 Amended(48) by Proposal 6932 (scshunt), 2 January 2011
+Amended(49) by Proposal 6961 (G.), 3 March 2011
 
 ----------------------------------------------------------------------
 
-Rule 2277/1 (Power=2)
+Rule 2277/2 (Power=2)
 Appeals of Criminal Cases
 
       An appeal concerning any assignment of judgement in a criminal
@@ -4857,11 +4051,6 @@ Appeals of Criminal Cases
       criminal case is assumed to be appealing the question of
       culpability.
 
-      If a verdict or sentence that led to the creation of Rests is
-      overruled, remanded, or reassigned, the Rests are still
-      considered to have been created, but any player CAN destroy any
-      Rests thus created by announcement.
-
       When a judgement on a criminal case's question of culpability is
       suspended, the judgement (if any) on its question of sentencing
       is also suspended.  Afterward, if the first judgement is
@@ -4870,6 +4059,7 @@ Appeals of Criminal Cases
 History:
 Created by Proposal 6536 (Murphy), 4 November 2009
 Amended(1) by cleaning (omd), 30 November 2010
+Amended(2) by Proposal 6961 (G.), 3 March 2011
 
 ----------------------------------------------------------------------
 
@@ -5178,7 +4368,7 @@ Amended(6) by Proposal 6944 (omd; disi.), 16 January 2011
 
 ----------------------------------------------------------------------
 
-Rule 1868/16 (Power=2)
+Rule 1868/17 (Power=2)
 Judge Assignment Generally
 
       At any time, a judicial case either has no judge assigned to it
@@ -5195,11 +4385,13 @@ Judge Assignment Generally
       announcement, and SHALL do so as soon as possible.
 
       The entities qualified to be assigned as judge of a judicial
-      case are the active players who have not previously been
-      assigned as its judge, subject to modification by other rules.
-      Being unqualified to be assigned as a judge does not inherently
-      prevent an entity from continuing to be judge of a case to which
-      e is already assigned.
+      case are the active first-class players who have not previously
+      been assigned as its judge, subject to modification by other
+      rules.  Being unqualified to be assigned as a judge does not
+      inherently prevent an entity from continuing to be judge of a
+      case to which e is already assigned.  Rules to the contrary
+      notwithstanding, second-class players are always unqualified to
+      judge.
 
       When a player is poorly qualified to be assigned as judge of a
       judicial case, the Clerk of the Courts SHALL not assign em to be
@@ -5248,6 +4440,7 @@ Assigned to Committee on the Judiciary by Proposal 6053 (Murphy,
 Amended(14) by Proposal 6264 (comex), 11 May 2009
 Amended(15) by Proposal 6279 (Murphy), 19 May 2009
 Amended(16) by Proposal 6510 (Murphy), 3 October 2009
+Amended(17) by Proposal 6961 (G.), 3 March 2011
 
 ----------------------------------------------------------------------
 
@@ -5336,50 +4529,6 @@ Amended(27) by Proposal 6483 (Pavitra), 18 September 2009
 
 ----------------------------------------------------------------------
 
-Rule 2226/4 (Power=1.5)
-Judicial Rank
-
-      Judicial rank is a player switch, tracked by the Clerk of the
-      Courts, with the same range and default as interest indices.
-
-      A player is poorly qualified to judge judicial cases whose
-      interest index exceeds eir judicial rank.
-
-      A player CAN flip eir judicial rank to any value by
-      announcement, unless eir rank was decreased due to an overrule
-      within the past 30 days.
-
-      When an appeal of a judicial case is judged with prejudice, if
-      the prior judge's judicial rank is higher than 0, then it is
-      decreased by 1.
-
-      A player CAN flip eir judicial rank from 0 to 1 with 3 support.
-
-      "Supreme", "Circuit", "District", and "Night" are synonymous
-      with judicial ranks 3, 2, 1, and 0, respectively.
-
-History:
-Created by Proposal 5970 (Murphy), 20 November 2008
-Amended(1) by Proposal 6387 (Wooble), 10 July 2009
-Amended(2) by Proposal 6407 (Wooble), 7 August 2009
-Amended(3) by Proposal 6472 (Murphy), 15 September 2009
-Amended(4) by Proposal 6705 (comex), 25 April 2010
-
-----------------------------------------------------------------------
-
-Rule 2248/0 (Power=2)
-Second-Class Judges
-
-      If any first-class member of a second-class person's basis would
-      be unqualified to judge a given judicial case, even if e were
-      registered, active, standing, hemming-and-hawing, and Supreme,
-      then that second-class person is unqualified to judge that case.
-
-History:
-Created by Proposal 6279 (Murphy), 19 May 2009
-
-----------------------------------------------------------------------
-
 Rule 2204/0 (Power=1.5)
 Linked Assignments
 
@@ -5437,552 +4586,6 @@ Amended(1) by Proposal 6923 (omd, G.; disi.), 2 January 2011
 ----------------------------------------------------------------------
 
 ======================================================================
-Economy
-      A category concerning the simplest style of competition between
-      players.
-----------------------------------------------------------------------
-
-Rule 2166/16 (Power=2)
-Assets
-
-      An asset is an entity defined as such by a rule or contest
-      (hereafter its backing document), and existing solely because
-      its backing document defines its existence.
-
-      Each asset has exactly one owner.  If an asset would otherwise
-      lack an owner, it is owned by the Lost and Found Department.  If
-      an asset's backing document restricts its ownership to a class
-      of entities, then that asset CANNOT be gained by or transferred
-      to an entity outside that class, and is transferred to the Lost
-      and Found Department if it is owned by an entity outside that
-      class.  If an asset is owned by the Lost and Found department
-      any player CAN transfer or destroy it without objection.
-
-      The Lost and Found department may own any asset, and have assets
-      transferred to and from it, regardless of the asset's backing
-      document or any Rule, Rules to the contrary notwithstanding.
-
-      The recordkeepor of a class of assets is the entity (if any)
-      defined as such by, and bound by, its backing document.  That
-      entity's report includes a list of all instances of that class
-      and their owners.  This portion of that entity's report is
-      self-ratifying.
-
-      An asset whose backing document is not a rule generally CAN be
-      created by its recordkeepor by announcement, subject to
-      modification by its backing document.  To "gain" an asset is to
-      have it created in one's possession; to "award" an asset to an
-      entity is to create it in that entity's possession.
-
-      An asset generally CAN be destroyed by its owner by
-      announcement, and an asset owned by the Lost and Found
-      Department generally CAN be destroyed by its recordkeepor by
-      announcement, subject to modification by its backing document.
-      To "lose" (syn. "spend") an asset is to have it destroyed from
-      one's possession; to "revoke" an asset from an entity is to
-      destroy it from that entity's possession.
-
-      An asset generally CAN be transferred by its owner to another
-      entity by announcement, subject to modification by its backing
-      document.  A fixed asset is one defined as such by its backing
-      document, and CANNOT be transferred; any other asset is liquid.
-
-      A currency is a class of asset defined as such by its backing
-      document.  Instances of a currency with the same owner are
-      fungible.  The Minimum Unit Quantity (MUQ) of each currency is
-      one.
-
-[CFJs 1790-1791 (called 11 November 2007): The self-ratifying asset
-report is the complete list of ownerships of assets of that class; a
-partial list does not self-ratify.]
-
-[CFJ 1850 (called 22 December 2007): The general ability of the
-recordkeepor to create assets does not include an ability to determine
-who possesses them when created, so they are necessarily owned by the
-Lost and Found Department [at the time of CFJ 1850, the Bank] upon
-creation.]
-
-[CFJ 1910 (called 10 March 2008): When an existing entity is defined
-as an asset, the change of its owner from "undefined" to the Lost and
-Found Department [Bank at the time of CFJ 1910] counts as a transfer,
-and fails if the Lost and Found Department is outside of the class of
-objects that can own the entity.]
-
-[CFJ 2176 (called 22 September 2008): Entities may be fungible even if
-not defined as such by this rule.]
-
-[CFJ 2309 (called 11 December 2008): If two separate documents attempt
-to define an asset with the same name, they refer to the same entity,
-but the entity is not an asset.]
-
-History:
-Created by Proposal 5173 (Murphy), 29 August 2007
-Amended(1) by Proposal 5216 (Murphy), 13 September 2007
-Amended(2) by Proposal 5388 (Murphy), 1 January 2008
-Amended(3) by Proposal 5475 (Murphy), 24 March 2008
-Amended(4) by Proposal 5476 (Murphy; disi.), 27 March 2008
-Amended(5) by Proposal 5496 (Murphy), 23 April 2008
-Amended(6) by Proposal 5833 (Murphy, Taral), 12 November 2008
-Amended(7) by Proposal 5840 (root), 12 November 2008
-Amended(8) by Proposal 5974 (Murphy; disi.), 25 November 2008
-Amended(9) by Proposal 6023 (Murphy), 22 December 2008
-Assigned to Committee on Finance by Proposal 6053 (Murphy, woggle,
-  ais523), 23 January 2009
-Amended(10) by Proposal 6161 (Murphy), 31 March 2009
-Amended(11) by Proposal 6253 (Quazie), 9 May 2009
-Amended(12) by cleaning (Murphy), 16 August 2009
-Amended(13) by Proposal 6430 (coppro; disi.), 18 August 2009
-Amended(14) twice by Proposal 6650 (coppro), 10 March 2010
-Amended(15) by Proposal 6792 (omd), 27 August 2010
-Amended(16) by Proposal 6916 (omd; disi.), 2 January 2011
-
-----------------------------------------------------------------------
-
-Rule 2282/4 (Power=2)
-Energy
-
-      Ergs are a class of fixed assets and a measure of each Player's
-      energy; to increase or decrease an entity's energy is to change
-      the number of ergs in eir possession.  Ownership of Ergs is
-      restricted to players.
-
-      At the beginning of each week:
-       (a) All ergs and capacitors are destroyed; then
-       (b) For each capacitor destroyed in item (a), an erg is awarded
-           to its former owner.
-       (c) For each player, that player is awarded 6 ergs if e is the
-           Captain, 5 ergs if e is a Pilot, 3 ergs if e is a Marine,
-           and 4 ergs otherwise; then
-       (d) For each office, its holder is awarded a number of ergs
-           equal to the interest index of that office.
-
-      When a player registers, e is awarded 7 ergs.
-
-      The Power Station Manager (PSM) is an office and the
-      recordkeepor of ergs.  Eir weekly report shall include a list of
-      all erg transactions of the previous week.
-
-[Cross-references (30 January 2010): the Power Station Manager's
-duties are:
-  * recordkeepor of ergs (rule 2282)]
-
-History:
-Created by Proposal 6616 (G., coppro, c., Murphy), 30 January 2010
-Amended(1) by Proposal 6632 (Yally), 20 February 2010
-Amended(2) by Proposal 6682 (coppro), 5 April 2010
-Amended(3) by Proposal 6679 (coppro), 22 March 2010
-Amended(4) by Proposal 6804 (Murphy; disi.), 27 August 2010
-
-----------------------------------------------------------------------
-
-Rule 2289/1 (Power=2)
-Capacitors
-
-      Capacitors are a class of fixed assets tracked by the PSM; their
-      ownership is restricted to players.
-
-      When an event is described as earning a player a number of
-      farads, e CAN, once per such event and in a timely fashion,
-      award emself an equal number of capacitors (or half as many
-      ergs, rounded down) by announcement, but only if e cites the
-      specific event allowing em to do so in the announcement.
-
-History:
-Created by Proposal 6679 (coppro), 22 March 2010
-Amended(1) by Proposal 6822 (Tanner L. Swett), 10 September 2010
-
-----------------------------------------------------------------------
-
-Rule 2295/1 (Power=2)
-Rewards
-
-      Whenever a player judges a case on time, e earns an number of
-      farads equal to its interest index.
-
-      Whenever a proposal is adopted, its author earns a number of
-      farads equal to its interest index.
-
-History:
-Created by Proposal 6710 (coppro), 8 May 2010
-Amended(1) by Proposal 6750 (Wooble; disi.), 20 July 2010
-
-----------------------------------------------------------------------
-
-Rule 2283/4 (Power=2)
-Fees
-
-      If the Rules associate a non-negative cost, price, charge, or
-      fee with an action, that action is a fee-based action.  If the
-      specified cost is not an integer, the actual fee is the next
-      highest integer.
-
-      A rule which purports to allow a person to perform an action for
-      a fee thereby allows em to perform the action by announcement
-      provided that:
-
-         (a) in the announcement, e states that there is a fee for
-             that action, and
-
-         (b) the number of ergs in eir possession is greater than or
-             equal to the fee.
-
-      Upon such an announcement, a number of ergs equal to the fee is
-      destroyed in eir possession.
-
-      An attempt to perform a fee-based action is also implicitly a
-      claim to be in possession of sufficient ergs to perform the
-      action, and such a claim is self-ratifying.  If the claim is
-      erroneous but self-ratifies, then the action is deemed to have
-      occurred and destroyed all ergs in the possession of the
-      claimant.  Making such a claim falsely is the Class-2 Crime of
-      Assaulting the Batteries, but it is generally appropriate to
-      DISCHARGE such a crime if it is disputed within four days.
-
-      If the cost is explicitly associated with a specific non-erg,
-      currently-existing currency, then the above applies with respect
-      to the specified currency instead of ergs.
-
-History:
-Created by Proposal 6616 (G., coppro, c., Murphy), 30 January 2010
-Amended(1) by Proposal 6725 (coppro; disi.), 22 May 2010
-Amended(2) by cleaning (Keba), 29 August 2010
-Amended(3) by Proposal 6867 (omd; disi.), 8 November 2010
-Amended(4) by Proposal 6889 (G.; disi.), 20 November 2010
-
-----------------------------------------------------------------------
-
-Rule 2284/7 (Power=2)
-Fee-based actions
-
-      - A player CAN increase eir voting limit on a specified decision
-        to adopt a proposal in its voting period by 2Q, by paying a
-        fee of Q.  This rule defers to other Rules that define maximum
-        voting limits.
-
-      - A player CAN make a non-urgent proposal Distributable for a
-        charge of 1 erg.
-
-      - A player CAN make an urgent proposal Distributable for a
-        charge of 3 ergs.
-
-      - A player CAN make a proposal Undistributable for a charge of 2
-        ergs.
-
-      - A player CAN destroy a Rest in the possession of another
-        player for a charge of 2 ergs.  A player CAN destroy one of
-        eir own Rests for a charge of 3 ergs.
-
-      - A player CAN make an ongoing Ordinary decision Democratic for
-        a charge of 3 ergs.
-
-      - A player CAN initiate an election for a specified Office for a
-        charge of 3 ergs unless there is an ongoing election for that
-        office.
-
-      - A player CAN destroy an erg in the possession of a specified
-        player for a charge of 2 ergs. The PSM SHALL note such a
-        destruction in eir report.
-
-      - A player CAN award emself a capacitor for a charge of 3 ergs.
-
-      - A player CAN move an indicated player an indicated number of
-        positions P on the list in an indicated direction (up or down)
-        for a charge equal to one half (rounded down) of the sum of
-        the Influence Levels of all the positions between the
-        indicated player's starting and ending positions, inclusive.
-
-History:
-Created by Proposal 6616 (G., coppro, c., Murphy), 30 January 2010
-Amended(1) by Proposal 6630 (Yally; disi.), 20 February 2010
-Amended(2) by Proposal 6633 (coppro; disi.), 20 February 2010
-Amended(3) by Proposal 6638 (Yally), 20 February 2010
-Amended(4) by Proposal 6735 (coppro), 13 June 2010
-Amended(5) by Proposal 6816 (G., Keba), 4 September 2010
-Amended(6) by Proposal 6821 (G., ais523), 4 September 2010
-Amended(7) by Proposal 6865 (G., coppro), 8 November 2010
-
-----------------------------------------------------------------------
-
-Rule 2287/7 (Power=1)
-Props
-
-      Props are a currency.
-
-      The Air Traffic Controller is an office and the recordkeepor of
-      props.
-
-      Ownership of props is limited to first-class players.  Props
-      CANNOT be created, transferred, or destroyed except as allowed
-      by this rule or required by the rules in general.
-
-      When a first-class player registers, 14 props are created in eir
-      possession.  When a first-class player deregisters, eir props
-      are destroyed.
-
-      Once per week, each player CAN transfer a prop from one player
-      to another, provided that e explains why e chose each player,
-      and does not transfer it to emself.
-
-      At the beginning of each quarter, one prop in the possession of
-      each player possessing more than fourteen props is destroyed,
-      and one prop is created in the possession of each player
-      possessing less than fourteen props.
-
-      Players with at least 19 props are Pilots; the Pilot with the
-      most props (if any) is the Captain. Players with less than 9
-      props are Marines.  As soon as possible after any of these
-      statuses change, the Air Traffic Controller SHALL announce it.
-
-      Upon a win announcement that one or more players each possess at
-      least 30 props, all those players satisfy the Winning Condition
-      of Respect.
-
-      Cleanup procedure: All props are destroyed and 14 props are
-      created in the possession of each player.
-
-History:
-Created by Proposal 6647 (Murphy), 6 March 2010
-Amended(1) by Proposal 6676 (coppro), 22 March 2010
-Amended(2) by Proposal 6677 (coppro), 22 March 2010
-Amended(3) by Proposal 6763 (Yally), 4 August 2010
-Amended(4) by Proposal 6799 (Keba; disi.), 27 August 2010
-Amended(5) by Proposal 6803 (Murphy; disi.), 27 August 2010
-Amended(6) by Proposal 6829 (Keba), 10 September 2010
-Amended(7) by Proposal 6886 (Yally), 20 November 2010
-
-----------------------------------------------------------------------
-
-Rule 2293/2 (Power=1.7)
-Leadership Tokens
-
-      Leadership Tokens are a currency tracked by the Herald. A player
-      CANNOT destroy (redeem) Leadership Tokens in eir possession
-      except by announcement and for a specified one of the following
-      effects:
-
-        (a) A player CAN redeem 3 Leadership Tokens in eir possession
-            to satisfy the Winning Condition of Leadership.
-        (b) A player CAN redeem 1 Leadership Token in eir possession
-            to destroy up to 4 Rests e owns.
-        (c) A player CAN redeem 1 Leadership Token in eir possession
-            to award emself 7 ergs.
-        (d) A player CAN redeem 1 Leadership Token in eir possession
-            to move any  player up or down by up to 5 spots on the
-            List of Succession.
-
-History:
-Created by Proposal 6708 (coppro, comex, woggle), 4 May 2010
-Power changed from 1 to 1.7 by Proposal 6708 (coppro, comex, woggle),
-  4 May 2010
-Amended(1) by Proposal 6876 (G.), 8 November 2010
-Amended(2) by Proposal 6897 (scshunt), 5 December 2010
-
-----------------------------------------------------------------------
-
-Rule 2308/0 (Power=1)
-Contests
-
-      A player CAN make a non-contest document into a contest without
-      3 objections; he then becomes that contest's contestmaster.  The
-      document should contain a list of instructions for the players
-      of Agora to play a type of subgame, which should be fair and
-      generally allow all players to join and participate on an equal
-      footing.  Anyone CAN cause a contest to cease to be a contest
-      with notice and with 3 support.
-
-      The contest's instructions should include conditions under which
-      persons "win the contest".  Upon an announcement by the
-      contestmaster that one or more persons satisfy those conditions,
-      all those persons satisfy the Winning Condition of Game Club.
-      Intentionally making a false such announcement is the Class-4
-      Crime of Gaming the System.
-
-      The contestmaster's weekly report contains all matters defined
-      by the instructions to be part of eir weekly report, as well as
-      the instructions.
-
-      The contestmaster is, prima facie, the adjudicator of contest
-      instructions and disputes.  Disputes should in general, be
-      resolved with the spirit of the instructions in mind.  For the
-      purpose of determining the internal gamestate of a contest
-      (including whether its contestmaster falsely announced that
-      persons won the contest), its instructions are generally
-      interpreted in the same manner as a rule, but the reasonable
-      opinion of the contestmaster takes precedence.  The
-      contestmaster CAN change the instructions, or any internal
-      gamestate defined by them, without 3 objections, but SHOULD only
-      do so to improve gameplay or resolve disputes within the spirit
-      of the original contest.  E can also appoint a new contestmaster
-      without objection.
-
-      An entity is bound by a contest if and only if it is its
-      contestmaster.
-
-History:
-Created by Proposal 6792 (omd), 27 August 2010
-
-----------------------------------------------------------------------
-
-Rule 2320/2 (Power=1)
-Auctions and the Default Auction Procedure
-
-      When an Auction is to be held and the procedure is not
-      specified, the Auctioneer may select a rules-defined Auction
-      Procedure. If e does not specify which procedure is to be used,
-      the Default Auction Procedure shall be used.
-
-      The Default Auction Procedure is as follows:
-
-      (a) Auctioneer: the Auctioneer is the Player who initiates the
-          Auction, and is responsible for collecting bids and
-          announcing the result of the Auction. If the Rules require
-          (or permit) an Auction to be initiated, but do not specify
-          which Player shall initiate it, then the Speaker shall (or
-          may) initiate it.
-
-      (b) Bidders: every active Player, other than the Seller, may bid
-          in an Auction; non-active Players may not bid. Activity is
-          measured at the time a Player sends eir bid.
-
-      (c) Auction Currency: each Auction is conducted in one
-          particular currency. The Rule providing for a particular
-          Auction must specify the currency to be used, or the Auction
-          cannot take place.
-
-      (d) Number of lots: each Auction is conducted for 1 or more
-          identical lots of identical assets, which must all be owned
-          by the same entity. Throughout this Rule, N indicates the
-          number of lots up for bid in the Auction.
-
-      (e) Start of Auction: the Auction begins when the first
-          announcement that an Auction has begun is made by a Player
-          authorized to initiate the Auction. The announcement must
-          contain:
-          (1) the identity of the Auctioneer;
-          (2) the identity of the Seller;
-          (3) the Auction Currency;
-          (4) the number of lots and the assets in each lot; and
-          (5) the value of the Starting Bid.
-
-      (f) Errors in initiating Auctions: if one of the required
-          elements is missing from the announcement initiating the
-          Auction, or is incorrect, then the Auctioneer may let the
-          Auction stand Without 2 Objections. If the Auction stands,
-          then the announcement initiating the Auction is deemed to
-          have been legal and correct for the purposes of the Rules.
-          If the Auction does not stand, it is deemed not to have
-          occurred.
-
-      (g) Starting Bid: the Starting Bid is the minimum possible value
-          of a bid. If not otherwise specified, the Starting Bid is
-          equal to the MUQ of the Auction Currency.
-
-      (h) Bidding: a bid is a public message from a bidder identifying
-          the Auction e is bidding in, and specifying the amount of
-          eir bid. Each bidder may make as many bids as e likes during
-          the Auction.  A bid is only valid if it satisfies the
-          following conditions:
-          (1) it is made after the start of the Auction, and before
-              its end;
-          (2) the amount of the bid is a multiple of the MUQ of the
-              Auction Currency; and
-          (3) the amount of the bid is no less than the Starting Bid.
-
-      (i) Cancelling bids: a bidder may cancel eir bid while the
-          Auction is in progress by publically identifying the bid to
-          be cancelled.
-
-      (j) End of Auction: the Auction ends if any of the following
-          occur:
-          (1) one week has passed from the start of the Auction, and
-              no bids have been made; or
-          (2) a bid has been made in the Auction, and 72 hours have
-              passed without there being a change in the N highest
-              bids in the Auction; or
-          (3) 14 days have passed since the Auction began.
-
-      (k) Winning bids: when the Auction ends, the winning bids are
-          the N largest uncancelled valid bids in the Auction (or all
-          valid uncancelled Bids, if there were less than N valid
-          uncancelled bids). Ties shall be broken in favor of earlier-
-          submitted bids. If there were no bids in the Auction, then
-          the Auction has no winner.
-
-      (l) Final Auction Price: the Final Auction Price is either:
-          (1) the amount of the Nth highest bid, if there were N or
-              more valid uncancelled bids in the auction; or
-          (2) the Starting Bid, if there were greater than zero but
-              fewer than N valid uncancelled bids.
-
-      (m) Billing for winning bids: as soon as possible after the end
-          of the Auction, the Auctioneer shall announce the winning
-          bids; when e does so, the winning bidder incurs a debt (the
-          bill) for each of eir winning bids to the Seller, unless
-          this has already occurred for that Auction.
-
-      (n) Defaulting: a winning bidder has a week from the time e is
-          billed by the Auctioneer for a winning bid e made to satisfy
-          the debt arising from that bid.  If e does not do so, e
-          loses eir right to purchase the Auctioned item by paying
-          that debt.
-
-      (o) Unless specified otherwise, the owner of the Auctioned items
-          shall incur a debt of one Auctioned lot of items to the
-          winning bidder when the bill for that lot is paid.
-
-      When an entity (the debtor) incurs a debt for something to
-      another entity (the creditor), e SHALL transfer it to that
-      entity as soon as possible; failure to do so is the Class-N
-      Crime of Defaulting, where N is 3 if the debt has not been
-      forgiven and 0 if it has.  The creditor of a debt CAN forgive it
-      by announcement.
-
-History:
-Created by Proposal 6873 (G.; disi.), 8 November 2010
-Amended(1) by Proposal 6901 (omd), 5 December 2010
-Amended(2) by Proposal 6917 (omd; disi.), 2 January 2011
-
-----------------------------------------------------------------------
-
-Rule 2323/0 (Power=1)
-Fee-based auctions
-
-      A person CAN hold an auction with emself as Seller using the
-      Default Auction Procedure, specifying the Auction Currency, the
-      Starting Bid, and the number of lots and the assets in each lot,
-      for a fee of 3 ergs.
-
-History:
-Created by Proposal 6901 (omd), 5 December 2010
-
-----------------------------------------------------------------------
-
-Rule 2321/1 (Power=1)
-Proposal Points
-
-      Points are a liquid Currency tracked by the PSM.  When this text
-      first becomes a part of a Rule, each Player's points are set to
-      zero.
-
-      The following awards CAN and SHALL be created/destroyed in the
-      possession of the indicated players by the PSM, asap after
-      proposal results in question are announced:
-
-         - Voters who voted against proposals which are adopted
-           receive 10 points apiece.
-         - Players whose proposals are adopted shall receive a random
-           number of points (determined by the PSM) in the range 1-10
-           inclusive.
-         - Players whose proposals are not adopted shall lose 10
-           points.
-
-History:
-Created by Proposal 6880 (G.; disi.), 20 November 2010
-Amended(1) by Proposal 6925 (G.; disi.), 2 January 2101
-
-----------------------------------------------------------------------
-
-======================================================================
 Patent Titles and Degrees
       A category concerning titles of honor and dishonor.
 ----------------------------------------------------------------------
@@ -6035,13 +4638,6 @@ meaning, it is correct to say that that person "is an X".]
 [Cross-references (9 February 2008): the Herald's duties are:
   * report Patent Titles (rule 649)
   * announce award or revocation of Patent Title (rule 649)
-  * award patent title of Champion (rule 1922)
-  * report the manner of wins (rule 1922)
-  * report Destiny (rule 402)
-  * randomize coups (rule 2270)
-  * report List of Succession (rule 2314)
-  * recordkeepor of rests (rule 2228)
-  * list fugitives (rule 2229)
   * announce whether a notice of violation is valid (rule 2230)
   * assign ID numbers to valid notices of violation (rule 2230)
   * initiate decision for degree award (rule 1367)
@@ -6086,113 +4682,6 @@ Amended(28) by Proposal 6047 (comex), 13 January 2009
 Amended(29) by Proposal 6175 (Yally), 7 April 2009
 Amended(30) by cleaning (Wooble), 13 April 2009
 Amended(31) by Proposal 6424 (Murphy), 16 August 2009
-
-----------------------------------------------------------------------
-
-Rule 1922/36 (Power=1)
-Defined Regular Patent Titles
-
-      The following are Patent Titles:
-
-      (a)  Scamster, which may be awarded to any Player who has shown
-           great enthusiasm, persistence, or skill in the perpetrating
-           of scams.  This title may not be declined, retracted, or
-           revoked.
-
-      (b)  A Patent Title (non-unique) now will
-           Be known as "Bard", and granted those with wit.
-           In order for the Title to be filled,
-           A level of Support must call for it.
-
-           Three players to a fourth may grant this name
-           If these three write as one, with two Support.
-           A current Bard may also grant the same,
-           Provided that a second Bard's a sport.
-
-           And so we don't the name of Bard debase,
-           A Player with three Supporters can conspire
-           To (from a Bard), this Title to erase:
-           Or Bard (plus two Bards) make a Bard retire.
-
-           But lest we ruin some poor minstrel's fun
-           No bard will be dis-bard for eir bad pun.
-
-      (c)  Three Months Long Service, Six Months Long Service, Nine
-           Months Long Service, Twelve Months Long Service, to be
-           awarded by the IADoP to any player who has held a
-           particular Office continuously for the specified duration.
-           Each of these titles shall be awarded only once per player.
-
-      (d)  Champion, to be awarded by the Herald to any person who
-           wins the game, along with a specification (possibly
-           implicit) of the method of victory.  The Herald's monthly
-           report includes how the player won. A message awarding
-           Champion to a player constitutes a self-ratifying claim
-           that the player in question won the game through that
-           method.
-
-      (e)  Left in a Huff, to be awarded by the Registrar to any
-           player who deregistered in a Writ of FAGE.
-
-      (f)  Elder Lurker, to be awarded to Persons who are true legends
-           that were involved in Agora in its early days and now
-           continue to grace us with their presence by lurking on the
-           lists to occasionally add tidbits of wisdom or insight to
-           discussions.
-
-      (g)  Cassandra, to be awarded to any player who noticed a scam,
-           thought up a way to stop it, warned everyone clearly, and
-           yet the scam happened anyway due to apathy on the part of
-           other players.
-
-      (h)  Missed Congeniality, to be awarded to persons who gain the
-           ability to make arbitrary changes to Rules with a power
-           less than 2 by announcement, but lose the ability before
-           gaining the ability to make such changes to higher-powered
-           rules.
-
-[CFJ 1865 (called 14 January 2008): The Patent Title of Champion
-CANNOT be awarded by announcement of the Herald to a person who has
-not won the game.]
-
-History:
-Created by Proposal 3916 (harvel), Sep. 27 1999
-Amended(1) by Proposal 4129 (Goethe), Mar. 28 2001
-Amended(2) by Proposal 4204 (Syllepsis), 28 August 2001
-Amended(3) by Proposal 4288 (OscarMeyr), 5 May 2002
-Amended(4) by Propsoal 4404 (Steve), 23 October 2002
-Amended(5) by Proposal 4453 (Sherlock), 22 February 2003
-Amended(6) by Proposal 4556 (Goethe), 22 March 2004
-Amended(7) by Proposal 4614 (Goethe), 21 September 2004
-Amended(8) by Proposal 4642 (Murphy), 12 March 2005
-Amended(9) by Proposal 4708 (OscarMeyr), 18 April 2005
-Amended(10) by Proposal 4865 (Goethe), 27 August 2006
-Amended(11) by Proposal 4878 (Goethe), 22 January 2007
-Amended(12) by Proposal 4891 (Murphy), 22 January 2007
-Amended(13) by Proposal 4975 (OscarMeyr), 23 May 2007
-Amended(14) by Proposal 5112 (Murphy), 2 August 2007
-Amended(15) by Proposal 5205 (Zefram), 8 September 2007
-Amended(16) by Proposal 5237 (AFO; disi.), 3 October 2007
-Amended(17) by Proposal 5239 (AFO), 3 October 2007
-Amended(18) by Proposal 5257 (AFO), 27 October 2007
-Amended(19) by Proposal 5290 (comex), 14 November 2007
-Amended(20) by Proposal 5300 (Murphy), 28 November 2007
-Amended(21) by Proposal 5341 (Goethe), 8 December 2007
-Amended(22) by Proposal 5389 (Goethe), 1 January 2008
-Amended(23) by Proposal 5434 (Murphy), 13 February 2008
-Amended(24) by Proposal 5559 (Quazie, BobTHJ), 25 June 2008
-Amended(25) by Proposal 5596 (Murphy), 29 July 2008
-Amended(26) by Proposal 5805 (Murphy, Zefram), 29 October 2008
-Amended(27) by Proposal 5815 (Pavitra, Murphy), 1 November 2008
-Amended(28) by Proposal 5967 (Murphy), 20 November 2008
-Amended(29) by Proposal 6009 (Sgeo), 10 December 2008
-Amended(30) by Proposal 6071 (ais523), 16 February 2009
-Amended(31) by Proposal 6084 (Goethe), 16 February 2009
-Amended(32) by Proposal 6175 (Yally), 7 April 2009
-Amended(33) by Proposal 6247 (Murphy), 9 May 2009
-Amended(34) by Proposal 6298 (coppro), 19 May 2009
-Amended(35) by Proposal 6394 (Goethe), 10 July 2009
-Amended(36) by cleaning (Murphy), 16 August 2009
 
 ----------------------------------------------------------------------
 
@@ -6307,322 +4796,6 @@ Amended(3) by Proposal 6626 (Murphy), 20 February 2010
 ----------------------------------------------------------------------
 
 ======================================================================
-The Court
-      A category concerning bonus powers granted to players.
-----------------------------------------------------------------------
-
-Rule 2314/1 (Power=2)
-The List of Succession
-
-      The List of Succession is an ordered list of all current players
-      except the current Speaker.  The first (1st) position is the
-      "highest" ("top") position on the list and the last (Nth
-      position, where N is the number of players on the list), is the
-      "lowest" ("bottom") position.  The List of Succession is part
-      of the Herald's weekly report, and is self-ratifying.
-
-      When a person is moved up P places on the list, they are moved
-      to be just above (immediately higher than) the person P places
-      ahead of em on the list - if there are not P players higher than
-      em, e is moved to the top of the list.  When a person is moved
-      down P places on the list, they are moved to be just below
-      (immediately lower than) the person B places behind em on the
-      list - if there are not B players lower than em, e is moved to
-      the bottom of the list.  Movement on the list is Secured.
-
-      Any attempt to move an entity not on the list on the list fails.
-
-      Whenever a player other than the Speaker is not on the list, e
-      is added to the list below the lowest player whose position on
-      the list is known.  Upon a judicial finding that a player (other
-      than the Speaker) has a position on the list that is unknown or
-      ambiguous, the judge SHALL issue a judicial declaration to this
-      effect, which has the effect of placing the player on the list
-      below the lowest player whose position on the list is known.
-
-History:
-Created by Proposal 6821 (G., ais523), 4 September 2010
-Amended(1) by Proposal 6865 (G., coppro), 8 November 2010
-
-----------------------------------------------------------------------
-
-Rule 2255/12 (Power=2)
-The Court
-
-      A rule with a power equal to or greater than this rule may
-      associate a Position Name with a specific position on the List
-      of Succession.  The player occupying a named position on the
-      list is considered to be the holder of the names position and
-      have the powers and duties described by the Rules for that
-      position.  The holder of a so-named position is a Member of the
-      Court, (a Courtier).
-
-      Additionally, a rule with a power equal to or greater than this
-      rule may associate an integer Influence Level with a specific
-      position or positions on the List of Succession.
-
-      The following positions on the List of Succession are named, and
-      have indicated Influence Levels.  All other positions on the
-      list have an Influence Level of 2.
-
-      First Position:  Kitchen Staff Supervisor
-      Influence Level: 10
-      Position:  The Kitchen Staff Supervisor supervises the kitchen
-      staff.
-
-      Second Position: Chief Justice.
-      Influence Level: 7
-      Position: As long as e is not the Clerk of the Courts, the Chief
-      Justice is the Justiciar.
-
-      Third Position: Grand Vizier
-      Influence Level: 5
-      Position: The Grand Vizier CAN perform any action that an
-      officer both CAN and MAY (or SHALL) perform by virtue of holding
-      that office as follows:
-      (a)  If the rules specify that the officer CAN perform the
-           action in question by announcement, then the Grand Vizier
-           CAN perform that action With Notice, indicating also that e
-           is acting as Vizier;
-      (b)  If the rules specify a dependent action method for the
-           officer performing the action, then the Grand Vizier CAN
-           perform the action using the same dependent action method
-           with notice, indicating also that e is acting as Vizier.
-
-      Fourth Position: Chief Gardener.
-      Influence Level: 5
-      Position: the Chief Gardener CAN rubberstamp or veto a specified
-      decision by announcement.
-
-      Fifth Position: Crown Prince
-      Influence Level: 0
-      Position:  The Crown Prince CAN begin a coup by announcing the
-      ceremonial shelling of the palace, providing no coup has been
-      resolved in the last 14 days.  The effects of the coup (if any)
-      are as described elsewhere in the rules.
-
-      Sixth Position: Puisne Justice
-      Influence Level: 3
-      Position: As long as the Chief Justice is the Clerk of the
-      Courts, the Puisne Justice is the Justiciar.
-
-History:
-Created by Proposal 6394 (Goethe), 10 July 2009
-Amended(1) by cleaning (Murphy), 16 August 2009
-Amended(2) by Proposal 6539 (coppro), 4 November 2009
-Amended(3) and retitled by Proposal 6616 (G., coppro, c., Murphy),
-  30 January 2010
-Amended(4) by Proposal 6636 (Murphy; disi.), 20 February 2010
-Amended(5) by cleaning (Murphy), 6 March 2010
-Amended(6) by Proposal 6654 (Murphy), 10 March 2010
-Amended(7) by Proposal 6697 (coppro), 25 April 2010
-Retitled and amended(8) by Proposal 6821 (G., ais523), 4 September
-  2010
-Amended(9) by Proposal 6865 (G., coppro), 8 November 2010
-Amended(10) by Proposal 6891 (coppro), 20 November 2010
-Amended(11) by cleaning (Yally), 30 November 2010
-Amended(12) by Proposal 6915 (omd; disi.), 2 January 2011
-
-----------------------------------------------------------------------
-
-Rule 402/33 (Power=2)
-Identity of the Speaker
-
-      A Coronation (crowning) occurs when a player announces that a
-      specified player other than the Speaker is crowned as Speaker,
-      provided that the rules explicitly permit the announcing player
-      (the crowner) to crown the specified player (the Speaker-to-be).
-
-      When an Coronation occurs, the current Speaker is removed from
-      office and placed on the bottom of the list of succession, and
-      immediately thereafter the Speaker-to-be is removed from the
-      list of succession and becomes the Speaker.
-
-      If no player has been crowned in the previous 90 days, or the
-      current Speaker is inactive or the office is vacant, than any
-      player CAN crown the highest active player on the List of
-      Succession.
-
-      Destiny is a player switch tracked by the Herald with values
-      Unmarked (default) and Marked.  When a player wins the game, e
-      becomes Marked.  If no player has been crowned in the previous
-      14 days, than any player CAN crown any single specified Marked
-      player.  When a player is crowned, e becomes Unmarked.
-
-History:
-Created by Proposal 402 (Alexx), ca. Sep. 3 1993
-...
-Amended(1) by Proposal 1421, Feb. 7 1995
-Amended(2) by Proposal 1700, Sep. 1 1995
-Amended(3) by Proposal 2661, Sep. 7 1996
-Infected and Amended(4) by Rule 1454, Feb. 23 1997, substantial
-  (unattributed)
-Amended(5) by Proposal 3452 (Steve), Apr. 7 1997, substantial
-Amended(6) by Proposal 3703 (Steve), Mar. 9 1998
-Amended(7) by Proposal 3974 (Elysion), Feb. 14 2000
-Amended(8) by Proposal 4053 (harvel), Aug. 21 2000
-Amended(9) by Proposal 4147 (Wes), 13 May 2001
-Amended(10) by Proposal 4576 (root), 31 May 2004
-Amended(11) by Proposal 4768 (root), 25 May 2005
-Amended(12) by Proposal 4798 (Maud, Goethe), 6 June 2005
-Amended(13) by Proposal 4836 (Goethe, Maud), 2 October 2005
-Amended(14) by Proposal 4853 (Goethe), 18 March 2006
-Amended(15) by Proposal 4861 (Goethe), 30 May 2006
-Amended(16) by Proposal 4868 (Goethe), 27 August 2006
-Amended(17) by Proposal 4878 (Goethe), 22 January 2007
-Amended(18) by Proposal 4887 (Murphy), 22 January 2007
-Retitled by Proposal 5070 (Zefram), 11 July 2007
-Amended(19) by Proposal 5070 (Zefram), 11 July 2007
-Amended(20) by Proposal 5144 (Zefram), 19 August 2007
-Amended(21) by Proposal 5182 (Zefram), 29 August 2007
-Retitled by Proposal 5257 (AFO), 27 October 2007
-Amended(22) by Proposal 5257 (AFO), 27 October 2007
-Amended(23) by Proposal 5270 (Murphy; disi.), 7 November 2007
-Amended(24) by Proposal 5430 (Goethe), 9 February 2008
-Amended(25) by Proposal 5593 (Goethe), 29 July 2008
-Amended(26) by Proposal 6026 (Murphy), 22 December 2008
-Amended(27) by Proposal 6175 (Yally), 7 April 2009
-Amended(28) by Proposal 6267 (Yally), 11 May 2009
-Amended(29) by Proposal 6394 (Goethe), 10 July 2009
-Amended(30) by Proposal 6490 (coppro), 18 September 2009
-Amended(31) by Proposal 6639 (Yally), 20 February 2010
-Amended(32) by Proposal 6707 (Murphy), 25 April 2010
-Power changed from 1 to 2 by Proposal 6821 (G., ais523), 4 September
-  2010
-Amended(33) by Proposal 6821 (G., ais523), 4 September 2010
-
-----------------------------------------------------------------------
-
-Rule 103/7 (Power=2)
-Role of the Speaker
-
-      The Speaker is an imposed office and a figurehead of Agora. The
-      Speaker is a person who has proven themselves to be worthy of
-      the title, and for a time can direct Agoran government affairs.
-
-      If e has not already done so this month, or if e hasn't done so
-      since e gained office, the Speaker CAN Bestow Favors, by
-      announcement.  An announcement Bestowing Favors is a list of
-      other Players, one (different) name per Courtier position.  The
-      bestowing of favors has the effect of moving each named player
-      to the indicated courtier position on the List of Succession, in
-      the order they are listed in the announcement.
-
-[Cross-references (10 July 2009): the Speaker's duties are:
-  * figurehead (rule 103)
-  * bestow favors (rule 103)]
-
-History:
-Initial Immutable Rule 103, Jun. 30 1993
-Mutated from MI=Unanimity to MI=3 by Proposal 1481, Mar. 15 1995
-Amended(1) by Proposal 3829 (Steve), Feb. 8 1999
-Retitled by Proposal 4944 (Zefram), 3 May 2007
-Amended(2) by Proposal 4944 (Zefram), 3 May 2007
-Retitled by Proposal 5257 (AFO), 27 October 2007
-Amended(3) by Proposal 5257 (AFO), 27 October 2007
-Amended(4) by Proposal 5407 (root), 22 January 2008
-Power changed from 3 to 1 by Proposal 5947 (ais523), 15 November 2008
-Amended(5) by Proposal 6026 (Murphy), 22 December 2008
-Amended(6) by Proposal 6490 (coppro), 18 September 2009
-Power changed from 1 to 2 by Proposal 6821 (G., ais523), 4 September
-  2010
-Amended(7) by Proposal 6821 (G., ais523), 4 September 2010
-
-----------------------------------------------------------------------
-
-Rule 2316/2 (Power=1)
-Church and State
-
-      A cardinal is an active, ready player who is neither the current
-      Speaker nor the Associate Director of Personnel.
-
-      While there is a pope, no other player may become a pope.
-      Whenever a pope is not a cardinal, e ceases being a pope.
-
-      A notice of papal succession declares that a specified player is
-      a pope.  The notice is valid only if it is published by the
-      Associate Director of Personnel and the specified player is
-      indeed a cardinal.
-
-History:
-Created by Proposal 6832 (coppro; disi.), 10 September 2010
-Amended(1) by Proposal 6893 (Flameshadowxeroshin), 20 November 2010
-Amended(2) by Proposal 6927 (G.), 2 January 2011
-
-----------------------------------------------------------------------
-
-Rule 2270/5 (Power=2)
-Coups D'etat
-
-      When a player begins a Coup D'etat (a coup) as explicitly
-      permitted by the Rules, the following events take place in
-      order.  A coup CANNOT be begun if a previous coup has begun and
-      not been resolved.
-
-      (a) For a period of 4 days following the coup initiation,  any
-          player except the Speaker CAN announce themselves to be a
-          Rebel.  Once announced, this cannot be retracted.  The
-          initiator of the coup is automatically a Rebel.
-
-      (b) As soon as possible after this 4-day period ends, the
-          Herald SHALL select and announce a random integer between 1
-          and the number of players in the game.  If this number is
-          equal to or less than the number of declared rebels, than
-          the rebellion succeeds, otherwise it fails.  The
-          announcement of this number resolves the coup with the
-          following effects:
-
-         (i) If the rebellion fails, one Rest is created in the
-             possession of every Rebel, and one additional Rest is
-             created in the possession of the coup initiator, and a
-             Leadership Token is created in the possession of the
-             Speaker.  Then, beginning with the rebel lowest in the
-             list and moving upward, each rebel on the list is moved
-             one position lower on the list.
-
-        (ii) If the coup succeeds, all Rebels have all of their Rests
-             destroyed.  The coup initiator becomes the Speaker, and
-             the other Rebels are moved to the first R positions in
-             the List of Succession, placed on the list in the order
-             in which they declared themselves to be rebels (first
-             position in the list going to the first rebel, etc).
-             Rules to the contrary Notwithstanding, the new Speaker
-             CANNOT Bestow Favors until 30 days after so becoming
-             Speaker.
-
-       (iii) All Rebels cease being Rebels.
-
-      The Herald SHALL publish the resulting List of Succession in the
-      same message in which e resolves the coup.
-
-History:
-Created by Proposal 6490 (coppro), 18 September 2009
-Amended(1) by cleaning (Murphy), 6 March 2010
-Amended(2) by Proposal 6702 (coppro), 25 April 2010
-Amended(3) by Proposal 6821 (G., ais523), 4 September 2010
-Amended(4) by Proposal 6840 (G.), 21 September 2010
-Amended(5) by Proposal 6892 (G.), 20 November 2010
-
-----------------------------------------------------------------------
-
-Rule 2286/0 (Power=2)
-Veto and Rubberstamp
-
-      Vetoing an ordinary decision during its voting period increases
-      its adoption index by 1 and makes it Democratic.  Vetoing a
-      decision under other circumstances has no effect.
-
-      Rubberstamping an ordinary, non-filibustered decision during its
-      voting period decreases its quorum to 3, rules to the contrary
-      notwithstanding.  Rubberstamping a decision under other
-      circumstances has no effect.
-
-History:
-Created by Proposal 6636 (Murphy; disi.), 20 February 2010
-
-----------------------------------------------------------------------
-
-======================================================================
 Trophies
       A category concerning commemoration and symbolism.
 ----------------------------------------------------------------------
@@ -6725,25 +4898,6 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-Rule 2324/5 (Power=1)
-Dictatorship
-
-      G. CAN cause this rule to make arbitrary gamestate changes,
-      except for any amendment of Rule 2223, by announcement.
-
-[! It is possible that either the power of this rule is 2 or 3, or
-that it was repealed by proposal 6941.]
-
-History:
-Created by Proposal 6913 (omd), 1 December 2010
-Amended(1) by Rule 2324 (omd), 19 December 2010
-Amended(2) by Rule 2324 (omd), 21 December 2010
-Amended(3) by Rule 2324 (omd), 22 December 2010
-Amended(4) by Rule 2324 (omd), 22 December 2010
-Amended(5) by Rule 2324 (omd), 6 January 2011
-
-----------------------------------------------------------------------
-
 ======================================================================
 Garbage Bin
       CFJ annotations that do not currently apply to any specific
@@ -6817,6 +4971,31 @@ against the Rules (i.e. a public forum).]
 contract is limited compared to that of a rule; in particular, a
 contract cannot cause a paradox by setting undecidable conditions on
 joining it.]
+
+----------------------------------------------------------------------
+
+Truthfulness
+
+[CFJ 1739 (called 29 August 2007): A quotation can result in a
+violation of rule 2215 (then 2149), depending on the context of the
+rest of the message.]
+
+[CFJ 1849 (called 21 December 2007): Violation of rule 2215 (then
+2149) can occur without any intent to misdirect.]
+
+[CFJ 1887 (called 30 January 2008): Publicly making the statement
+"This statement is a lie." would most likely be a violation of rule
+2215 (then 2149), because it is logically indeterminate and so making
+it would not be telling the truth, and its logical indeterminacy would
+be understood by any reasonable player.]
+
+[CFJ 2103 (called 21 July 2008): Making the statement "I lie." is not
+a violation of Rule 2215 if the author is lying down.]
+
+[CFJ 2399 (called 4 March 2009): Even if a type of behavior is likely
+to cause false statements to be accidentally published, a person does
+not violate rule 2215 by engaging in it if there is no specific
+statement e believes is false.]
 
 ----------------------------------------------------------------------
 
