@@ -1,17 +1,17 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6972
-Last change to this ruleset: by proposal 6972
+Last proposal with recorded effect on this ruleset: 6973
+Last change to this ruleset: by proposal 6973
 
 Last updated: 30 March 2011
 
-Highest Rule ID number ever assigned: 2326
+Highest Rule ID number ever assigned: 2327
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 78
+Current total number of rules: 79
 
 Power distribution:
        1 with Power=4
@@ -20,7 +20,7 @@ Power distribution:
       23 with Power=2
        5 with Power=1.7
        3 with Power=1.5
-      12 with Power=1
+      13 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -60,6 +60,7 @@ Index of Rules
       Rule  105: Rule Changes
       Rule 1681: The Logical Rulesets
       Rule 1051: The Rulekeepor
+      Rule 2327: Read the Ruleset Week
 
       * Players
       Rule  869: How to Join and Leave Agora
@@ -946,6 +947,17 @@ Amended(15) by Proposal 3902 (Murphy), Sep. 6 1999
 Amended(16) by Proposal 4002 (harvel), May 8 2000
 Amended(17) by Proposal 4250 (harvel), 19 February 2002
 Amended(18) by Proposal 5237 (AFO; disi.), 3 October 2007
+
+----------------------------------------------------------------------
+
+Rule 2327/0 (Power=1)
+Read the Ruleset Week
+
+      During Read the Ruleset Week (the first Agoran week each year
+      that begins in February), Agorans SHOULD do so.
+
+History:
+Created by Proposal 6973 (Murphy), 30 March 2011
 
 ----------------------------------------------------------------------
 
