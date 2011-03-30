@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6963
-Last change to this ruleset: by proposal 6963
+Last proposal with recorded effect on this ruleset: 6967
+Last change to this ruleset: by proposal 6967
 
 Last updated: 30 March 2011
 
@@ -11,16 +11,16 @@ Highest Rule ID number ever assigned: 2326
 
 Statistics
 
-Current total number of rules: 79
+Current total number of rules: 78
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
-      33 with Power=3
-      23 with Power=2
+      34 with Power=3
+      22 with Power=2
        5 with Power=1.7
        3 with Power=1.5
-      13 with Power=1
+      12 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -74,7 +74,6 @@ Index of Rules
       Rule 2152: Mother, May I?
       Rule 1023: Common Definitions
       Rule 1769: Holidays
-      Rule 2153: Interest Index
       Rule 2146: Indices
       Rule 2162: Switches
       Rule  478: Fora
@@ -1604,25 +1603,6 @@ Power changed from 2 to 3 by Proposal 5701 (ais523), 1 October 2008
 
 ----------------------------------------------------------------------
 
-Rule 2153/3 (Power=1)
-Interest Index
-
-      An entity's interest index is an integer from 0 to 3, default
-      value 1.  When altering an entity's interest index, a person
-      SHOULD try to pick a new value which reflects the complexity of
-      that entity.
-
-      "Disinterested" is a synonym for "interest index 0".
-
-History:
-Created by Proposal 5056 (Murphy), 5 July 2007
-Retitled by Proposal 5176 (Murphy), 29 August 2007
-Amended(1) by Proposal 5176 (Murphy), 29 August 2007
-Amended(2) by Proposal 5970 (Murphy), 20 November 2008
-Amended(3) by Proposal 6571 (ais523), 28 November 2009
-
-----------------------------------------------------------------------
-
 Rule 2146/1 (Power=2)
 Indices
 
@@ -2276,7 +2256,7 @@ Amended(32) by Proposal 6790 (Wooble), 27 August 2010
 
 ----------------------------------------------------------------------
 
-Rule 2143/13 (Power=1)
+Rule 2143/14 (Power=1)
 Official Reports and Duties
 
       For each office:
@@ -2300,9 +2280,8 @@ Official Reports and Duties
       Any information defined by the rules as part of an office's
       report, without specifying which one, is part of its weekly
       report.  Failure of the holder of an office to perform any duty
-      required of that office within the allotted time is the Class-N
-      crime of Tardiness, where N is the Interest Index of that
-      office.
+      required of that office within the allotted time is the Class-2
+      crime of Tardiness.
 
       While performing weekly or monthly duties or publishing weekly
       or monthly reports, officers SHALL NOT publish information that
@@ -2335,6 +2314,7 @@ Amended(10) by Proposal 6428 (BobTHJ), 18 August 2009
 Amended(11) by cleaning (Murphy), 6 March 2010
 Amended(12) by Proposal 6664 (Murphy; disi.), 10 March 2010
 Amended(13) by cleaning (Murphy), 29 July 2010
+Amended(14) by Proposal 6967 (Wooble), 20 March 2011
 
 ----------------------------------------------------------------------
 
@@ -3769,15 +3749,14 @@ Amended(32) by Proposal 6931 (omd), 2 January 2011
 
 ----------------------------------------------------------------------
 
-Rule 2230/16 (Power=2)
+Rule 2230/17 (Power=2)
 Notices of Violation
 
-      A player CAN publish a Notice of Violation (NoV) for a fee of N
-      ergs, where N is the one half of the number of valid NoVs e
-      previously published during the same week, rounded down. An NoV
-      is invalid if it lacks any of the following information, and the
-      lack is correctly identified within one week after the NoV is
-      published:
+      A player CAN publish a Notice of Violation (NoV) for N support,
+      where N is the one half of the number of valid NoVs e previously
+      published during the same week, rounded down. An NoV is invalid
+      if it lacks any of the following information, and the lack is
+      correctly identified within one week after the NoV is published:
        (a) The identity of the Accused;
        (b) The allegedly illegal action/inaction in question;
        (c) The Rule that was allegedly broken;
@@ -3841,6 +3820,7 @@ Amended(13) by Proposal 6427 (BobTHJ), 18 August 2009
 Amended(14) by Proposal 6575 (G.; disi.), 28 November 2009
 Amended(15) by Proposal 6718 (coppro), 4 May 2010
 Amended(16) by Proposal 6961 (G.), 3 March 2011
+Amended(17) by Proposal 6967 (Wooble), 20 March 2011
 
 ----------------------------------------------------------------------
 
@@ -4428,7 +4408,7 @@ Amended(17) by Proposal 6961 (G.), 3 March 2011
 
 ----------------------------------------------------------------------
 
-Rule 1871/27 (Power=1.5)
+Rule 1871/28 (Power=1.5)
 The Standing Court
 
       Posture is a player switch, tracked by the Clerk of the Courts,
@@ -4452,10 +4432,6 @@ The Standing Court
 
       When the CotC assigns a player as judge, that player becomes
       sitting.
-
-      A sitting player that assigns judgement in a disinterested
-      judicial case CAN and MAY become standing by announcement in the
-      same message in which e assigns judgement to that case.
 
       The CotC CAN rotate the bench (change all sitting players to
       standing) by announcement, but SHALL NOT do so unless, of the
@@ -4510,6 +4486,7 @@ Amended(24) by Proposal 5500 (Murphy; disi.), 26 April 2008
 Amended(25) by Proposal 5771 (root), 17 October 2008
 Amended(26) by Proposal 6400 (Murphy), 17 July 2009
 Amended(27) by Proposal 6483 (Pavitra), 18 September 2009
+Amended(28) by Proposal 6967 (Wooble), 20 March 2011
 
 ----------------------------------------------------------------------
 
