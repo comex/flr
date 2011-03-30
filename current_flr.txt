@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6967
-Last change to this ruleset: by proposal 6967
+Last proposal with recorded effect on this ruleset: 6968
+Last change to this ruleset: by proposal 6968
 
 Last updated: 30 March 2011
 
@@ -16,8 +16,8 @@ Current total number of rules: 78
 Power distribution:
        1 with Power=4
        1 with Power=3.2
-      34 with Power=3
-      22 with Power=2
+      33 with Power=3
+      23 with Power=2
        5 with Power=1.7
        3 with Power=1.5
       12 with Power=1
@@ -3152,18 +3152,17 @@ Proposals
       which changes are made to the game.
 ----------------------------------------------------------------------
 
-Rule 106/29 (Power=3)
+Rule 106/30 (Power=3)
 Adopting Proposals
 
       A proposal is a fixed body of text which has been made into a
       proposal using a process specifically described in the Rules.
-      When creating proposals, the person who creates them SHOULD
-      ensure that the proposal outlines changes to be made to Agora,
-      such as enacting, repealing, or amending rules, or making other
-      explicit changes to the gamestate. When a proposal that includes
-      such explicit changes takes effect, it applies those changes to
-      the gamestate. If the proposal cannot make some such changes,
-      this does not preclude the other changes from taking place.
+      When a person creates a proposal, e SHOULD ensure that it
+      specifies one or more changes to the gamestate.  Except as
+      prohibited by other rules, a proposal that takes effect CAN, as
+      part of its effect, apply the changes that it specifies.  If the
+      proposal cannot make some such changes, this does not preclude
+      the other changes from taking place.
 
       A player CAN create a proposal by publishing ("submitting") a
       body of text and an associated title with a clear indication
@@ -3288,6 +3287,7 @@ Amended(26) by Proposal 6656 (coppro), 1 March 2010
 Amended(27) by Proposal 6721 (coppro; disi), 21 May 2010
 Amended(28) by Proposal 6732 (comex), 13 June 2010
 Amended(29) by Proposal 6823 (Murphy, omd), 10 September 2010
+Amended(30) by Proposal 6968 (Murphy, scshunt, Wooble), 20 March 2011
 
 ----------------------------------------------------------------------
 
