@@ -1,23 +1,23 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6975
-Last change to this ruleset: by proposal 6975
+Last proposal with recorded effect on this ruleset: 6976
+Last change to this ruleset: by proposal 6976
 
 Last updated: 30 March 2011
 
-Highest Rule ID number ever assigned: 2327
+Highest Rule ID number ever assigned: 2328
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 79
+Current total number of rules: 80
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
       33 with Power=3
-      23 with Power=2
+      24 with Power=2
        5 with Power=1.7
        3 with Power=1.5
       13 with Power=1
@@ -66,6 +66,7 @@ Index of Rules
       Rule  869: How to Join and Leave Agora
       Rule 2170: Who Am I?
       Rule 2150: Personhood
+      Rule 2328: Public Agreements
       Rule 2139: The Registrar
       Rule 1789: Cantus Cygneus
       Rule 2130: Activity
@@ -1143,6 +1144,20 @@ Power changed from 2 to 3 by Proposal 5509 (root; disi.), 28 May 2008
 Amended(4) by Proposal 5760 (comex), 16 October 2008
 Amended(5) by Proposal 5790 (Murphy), 22 October 2008
 Amended(6) by Proposal 6022 (Murphy), 22 December 2008
+
+----------------------------------------------------------------------
+
+Rule 2328/0 (Power=2)
+Public Agreements
+
+      An agreement between two or more players is a person if all of
+      the following are true:
+
+        a) It clearly indicates that it is intended to be a person.
+        b) Its text has been published.
+
+History:
+Created by Proposal 6976 (Murphy, MRW and Associates), 30 March 2011
 
 ----------------------------------------------------------------------
 
