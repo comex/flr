@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6974
-Last change to this ruleset: by proposal 6974
+Last proposal with recorded effect on this ruleset: 6975
+Last change to this ruleset: by proposal 6975
 
 Last updated: 30 March 2011
 
@@ -89,7 +89,7 @@ Index of Rules
       Rule 2160: Deputisation
       Rule 2154: Election Procedure
       Rule 2276: Assumption of Vacant Offices
-      Rule 2138: The Interplanetary Associate Director of Personnel
+      Rule 2138: The Interstellar Associate Director of Personnel
       Rule 1551: Ratification
       Rule 2202: Ratification Without Objection
       Rule 2201: Self-Ratification
@@ -2506,10 +2506,10 @@ Amended(3) by Proposal 6761 (coppro), 2 August 2010
 
 ----------------------------------------------------------------------
 
-Rule 2138/12 (Power=1)
-The Interplanetary Associate Director of Personnel
+Rule 2138/13 (Power=1)
+The Interstellar Associate Director of Personnel
 
-      The Interplanetary Associate Director of Personnel (IADoP) is an
+      The Interstellar Associate Director of Personnel (IADoP) is an
       office; its holder is responsible for keeping track of officers
       and reports.
 
@@ -2524,8 +2524,8 @@ The Interplanetary Associate Director of Personnel
       The portion of a public message purporting to be an IADoP's
       report that lists the holder of each office is self-ratifying.
 
-[CFJ 1672 (called 18 May 2007): The Interplanetary Associate Director
-of Personnel is the Director of Personnel.]
+[CFJ 1672 (called 18 May 2007): The Interstellar Associate Director of
+Personnel is the Director of Personnel.]
 
 [Cross-references (1 March 2008): the IADoP's duties are:
   * hold election for office where contested (rule 2154)
@@ -2548,6 +2548,7 @@ Amended(10) and title changed by Proposal 6377 (coppro; disi.),
   3 July 2009
 Amended(11) by Proposal 6493 (coppro; disi.), 18 September 2009
 Retitled and amended(12) by Proposal 6667 (Murphy), 10 March 2010
+Retitled and amended(13) by Proposal 6975 (Murphy), 30 March 2011
 
 ----------------------------------------------------------------------
 
