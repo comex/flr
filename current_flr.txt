@@ -1,17 +1,17 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6976
-Last change to this ruleset: by proposal 6976
+Last proposal with recorded effect on this ruleset: 6977
+Last change to this ruleset: by proposal 6977
 
 Last updated: 30 March 2011
 
-Highest Rule ID number ever assigned: 2328
+Highest Rule ID number ever assigned: 2329
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 80
+Current total number of rules: 81
 
 Power distribution:
        1 with Power=4
@@ -20,7 +20,7 @@ Power distribution:
       24 with Power=2
        5 with Power=1.7
        3 with Power=1.5
-      13 with Power=1
+      14 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -76,6 +76,7 @@ Index of Rules
       Rule 2152: Mother, May I?
       Rule 1023: Common Definitions
       Rule 1769: Holidays
+      Rule 2329: Festival Days
       Rule 2146: Indices
       Rule 2162: Switches
       Rule  478: Fora
@@ -1628,6 +1629,24 @@ Amended(5) by Proposal 5086 (Zefram), 1 August 2007
 Amended(6) by Proposal 5484 (Murphy; disi.), 2 April 2008
 Amended(7) by Proposal 5535 (Murphy), 7 June 2008
 Power changed from 2 to 3 by Proposal 5701 (ais523), 1 October 2008
+
+----------------------------------------------------------------------
+
+Rule 2329/0 (Power=1)
+Festival Days
+
+      Agora Nomic recognizes and celebrates the following:
+
+        * January 12-14 - Agora's Unbirthday observed (as described
+          elsewhere)
+        * April 1 - April Fool's Day
+        * May 25 - Towel Day
+        * June 30 - Agora's Birthday (as described elsewhere)
+        * November 5 - Guy Fawkes Night
+        * December 23 - Festivus
+
+History:
+Created by Proposal 6977 (Murphy, David Nicol), 30 March 2011
 
 ----------------------------------------------------------------------
 
