@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6968
-Last change to this ruleset: by proposal 6968
+Last proposal with recorded effect on this ruleset: 6969
+Last change to this ruleset: by proposal 6969
 
 Last updated: 30 March 2011
 
@@ -2365,7 +2365,7 @@ Amended(7) by Proposal 6482 (c.), 18 September 2009
 
 ----------------------------------------------------------------------
 
-Rule 2154/32 (Power=2)
+Rule 2154/33 (Power=2)
 Election Procedure
 
       A player CAN initiate an election for a specified elected office
@@ -2396,18 +2396,12 @@ Election Procedure
                before the decision was initiated (self-nomination
                constitutes acceptance), and
 
-            b) did not decline a nomination for the office, and
-
-            c) are Senators if there is currently an Emergency
-               Session.
+            b) did not decline a nomination for the office.
 
           The set of candidates can change after the decision is
           initiated.
 
-       2) The eligible voters are the active first-class players,
-          unless there is an Emergency Session at the time the
-          decision is initiated, in which case the eligible voters are
-          the active Senators.
+       2) The eligible voters are the active first-class players.
 
        3) Each eligible voter's voting limit is one.
 
@@ -2459,6 +2453,7 @@ Amended(29) by Proposal 6651 (coppro), 10 March 2010
 Amended(30) by Proposal 6665 (Murphy; disi.), 10 March 2010
 Amended(31) by Proposal 6696 (coppro), 25 April 2010
 Amended(32) by Proposal 6845 (Tanner L. Swett), 3 October 2010
+Amended(33) by Proposal 6969 (Murphy), 20 March 2011
 
 ----------------------------------------------------------------------
 
@@ -3752,7 +3747,7 @@ Amended(32) by Proposal 6931 (omd), 2 January 2011
 Rule 2230/17 (Power=2)
 Notices of Violation
 
-      A player CAN publish a Notice of Violation (NoV) for N support,
+      A player CAN publish a Notice of Violation (NoV) with N support,
       where N is the one half of the number of valid NoVs e previously
       published during the same week, rounded down. An NoV is invalid
       if it lacks any of the following information, and the lack is
@@ -4110,7 +4105,7 @@ Created by Proposal 6869 (G.), 8 November 2010
 
 ----------------------------------------------------------------------
 
-Rule 911/39 (Power=1.7)
+Rule 911/40 (Power=1.7)
 Appeal Cases
 
       Appeal cases are a subclass of judicial cases.  An appeal case's
@@ -4204,25 +4199,10 @@ Appeal Cases
       the requirement for individual members to publish individual
       opinions is waived.
 
-      If the time period ends with no majority judgement, then:
-
-      - if the Justiciar has published an opinion on the case
-        clearly marked as the Justiciar's Opinion and indicating a
-        valid judgement, and that judgement is the same as one given
-        by at least one panel member (other than the Justiciar), then
-        the panel delivers that judgement;
-
-      - otherwise, the case enters an overtime period, which
-        lasts for four days.  The CotC SHOULD publicly remind the
-        Justiciar when an overtime period begins.  During this period,
-        if the Justiciar publishes a Justiciar's Opinion that is the
-        same as one panel member's as described above, then the panel
-        delivers that judgement;
-
-      - otherwise, the CotC CAN and SHALL, asap after the overtime
-        period ends, act for the panel by announcement to judgement of
-        either REMAND or REMIT with or without prejudice, whichever e
-        feels is most appropriate.
+      If the time period ends with no majority judgement, then the
+      CotC CAN, and SHALL as soon as possible, by announcement cause
+      the panel to judge either REMAND or REMIT with or without
+      prejudice, whichever e feels is most appropriate.
 
       Any panel member CAN publish a formal Concurring Opinion with
       panel member support, provided that the panel has judged AFFIRM,
@@ -4302,6 +4282,7 @@ Amended(36) by cleaning (Murphy), 6 March 2010
 Amended(37) by Proposal 6705 (comex), 25 April 2010
 Amended(38) by Proposal 6726 (coppro), 22 May 2010
 Amended(39) by Proposal 6811 (Murphy), 4 September 2010
+Amended(40) by Proposal 6969 (Murphy), 20 March 2011
 
 ----------------------------------------------------------------------
 
