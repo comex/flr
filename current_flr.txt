@@ -11,7 +11,7 @@ Highest Rule ID number ever assigned: 2326
 
 Statistics
 
-Current total number of rules: 80
+Current total number of rules: 79
 
 Power distribution:
        1 with Power=4
@@ -20,7 +20,7 @@ Power distribution:
       23 with Power=2
        5 with Power=1.7
        3 with Power=1.5
-      14 with Power=1
+      13 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -60,7 +60,6 @@ Index of Rules
       Rule  105: Rule Changes
       Rule 1681: The Logical Rulesets
       Rule 1051: The Rulekeepor
-      Rule 1750: Read the Ruleset Week
 
       * Players
       Rule  869: How to Join and Leave Agora
@@ -948,23 +947,6 @@ Amended(15) by Proposal 3902 (Murphy), Sep. 6 1999
 Amended(16) by Proposal 4002 (harvel), May 8 2000
 Amended(17) by Proposal 4250 (harvel), 19 February 2002
 Amended(18) by Proposal 5237 (AFO; disi.), 3 October 2007
-
-----------------------------------------------------------------------
-
-Rule 1750/4 (Power=1)
-Read the Ruleset Week
-
-      The first Agoran week each year which falls entirely in February
-      is known as Read the Vladivostok Telephone Directory Week.
-      During this time, Agorans SHALL read the Vladivostok Telephone
-      Directory.
-
-History:
-Created by Proposal 3601 (Chuck), Dec. 9 1997
-Amended(1) by Proposal 4398 (harvel), 23 October 2002
-Amended(2) by Proposal 6026 (Murphy), 22 December 2008
-Amended(3) by Proposal 6882 (G.; disi.), 20 November 2010
-Amended(4) by Proposal 6937 (omd), 2 January 2011
 
 ----------------------------------------------------------------------
 
