@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6973
-Last change to this ruleset: by proposal 6973
+Last proposal with recorded effect on this ruleset: 6974
+Last change to this ruleset: by proposal 6974
 
 Last updated: 30 March 2011
 
@@ -968,7 +968,7 @@ Players
       players.
 ----------------------------------------------------------------------
 
-Rule 869/31 (Power=2)
+Rule 869/32 (Power=2)
 How to Join and Leave Agora
 
       Citizenship is an entity switch with values Unregistered
@@ -994,10 +994,9 @@ How to Join and Leave Agora
       A non-person CANNOT be registered (or created in a Registered
       state), rules to the contrary notwithstanding.
 
-      A player CAN deregister by announcement. A person CANNOT
-      register within thirty days after being deregistered by any
-      means other than by a mechanism that the rules explicitly
-      describe as a means of honorable deregistration.
+      A player CAN deregister by announcement.  A person CANNOT
+      register within thirty days after being deregistered, unless
+      rules define the method of deregistration as passive.
 
       A player who is not a person and has never been a first-class
       person CAN be deregistered by any player by announcement.
@@ -1046,6 +1045,7 @@ Amended(28) by Proposal 6099 (Pavitra), 22 February 2009
 Amended(29) by Proposal 6349 (Pavitra), 17 June 2009
 Amended(30) by Proposal 6382 (Murphy), 3 July 2009
 Amended(31) by Proposal 6620 (Murphy; disi.), 4 February 2010
+Amended(32) by Proposal 6974 (Murphy), 30 March 2011
 
 ----------------------------------------------------------------------
 
@@ -1245,7 +1245,7 @@ Amended(7) by Proposal 6338 (Murphy), 29 May 2009
 
 ----------------------------------------------------------------------
 
-Rule 2130/11 (Power=2)
+Rule 2130/12 (Power=2)
 Activity
 
       Activity is a player switch with values Active (default) and
@@ -1261,7 +1261,7 @@ Activity
 
       A player who has been continuously Inactive for at least three
       months CAN be deregistered by any other player without
-      objection.  This is a means of honorable deregistration.
+      objection.  This is a passive method of deregistration.
 
       Having been inactive within the past week is a Losing Condition.
 
@@ -1280,6 +1280,7 @@ Amended(9) by Proposal 5271 (Murphy), 7 November 2007
 Power changed from 1 to 2 by Proposal 5947 (ais523), 15 November 2008
 Amended(10) by Proposal 6100 (Pavitra; disi.), 22 February 2009
 Amended(11) by Proposal 6666 (Murphy), 10 March 2010
+Amended(12) by Proposal 6974 (Murphy), 30 March 2011
 
 ----------------------------------------------------------------------
 
