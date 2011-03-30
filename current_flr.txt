@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6961
-Last change to this ruleset: by proposal 6961
+Last proposal with recorded effect on this ruleset: 6963
+Last change to this ruleset: by proposal 6963
 
-Last updated: 3 March 2011
+Last updated: 30 March 2011
 
 Highest Rule ID number ever assigned: 2326
 
@@ -1693,7 +1693,7 @@ Amended(1) by Proposal 5271 (Murphy), 7 November 2007
 
 ----------------------------------------------------------------------
 
-Rule 478/28 (Power=3)
+Rule 478/29 (Power=3)
 Fora
 
       Freedom of speech being essential for the healthy functioning of
@@ -1701,7 +1701,8 @@ Fora
       shall be prohibited from participating in the Fora.
 
       Publicity is a forum switch with values Public, Discussion, and
-      Foreign (default), tracked by the Registrar.
+      Foreign (default), tracked by the Registrar.  Changes to
+      publicity are secured.
 
       The Registrar's report includes, for each forum with non-Foreign
       publicity, sufficient instructions for players to receive
@@ -1934,6 +1935,7 @@ Amended(25) by Proposal 5639 (Murphy), 29 July 2008
 Amended(26) by Proposal 5818 (comex), 1 November 2008
 Amended(27) by Proposal 6022 (Murphy), 22 December 2008
 Amended(28) by Proposal 6785 (coppro; disi.), 22 August 2010
+Amended(29) by Proposal 6963 (Murphy), 20 March 2011
 
 ----------------------------------------------------------------------
 
