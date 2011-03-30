@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6969
-Last change to this ruleset: by proposal 6969
+Last proposal with recorded effect on this ruleset: 6972
+Last change to this ruleset: by proposal 6972
 
 Last updated: 30 March 2011
 
@@ -2369,15 +2369,15 @@ Amended(7) by Proposal 6482 (c.), 18 September 2009
 
 ----------------------------------------------------------------------
 
-Rule 2154/33 (Power=2)
+Rule 2154/34 (Power=2)
 Election Procedure
 
       A player CAN initiate an election for a specified elected office
       for which no election is already in progress
 
-       a) by announcement, if e is the IADoP, or the office is vacant,
-          or no election has been initiated for the office within 90
-          days before the announcement;
+       a) by announcement, if e is the IADoP, or the office is vacant
+          or assumed, or no election has been initiated for the office
+          within 90 days before the announcement;
 
        b) with 4 Supporters, otherwise.
 
@@ -2458,6 +2458,7 @@ Amended(30) by Proposal 6665 (Murphy; disi.), 10 March 2010
 Amended(31) by Proposal 6696 (coppro), 25 April 2010
 Amended(32) by Proposal 6845 (Tanner L. Swett), 3 October 2010
 Amended(33) by Proposal 6969 (Murphy), 20 March 2011
+Amended(34) by Proposal 6972 (G.), 30 March 2011
 
 ----------------------------------------------------------------------
 
