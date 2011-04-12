@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6977
-Last change to this ruleset: by proposal 6977
+Last proposal with recorded effect on this ruleset: 6981
+Last change to this ruleset: by proposal 6981
 
-Last updated: 30 March 2011
+Last updated: 12 April 2011
 
 Highest Rule ID number ever assigned: 2329
 
@@ -414,26 +414,25 @@ Amended(7) by Proposal 6327 (Murphy), 29 May 2009
 
 ----------------------------------------------------------------------
 
-Rule 1586/7 (Power=2)
+Rule 1586/8 (Power=2)
 Definition and Continuity of Entities
 
-      If multiple rules (hereafter documents) attempt to define an
-      entity with the same name, then they refer to the same entity.
-      A document-defined entity's name CANNOT be changed to be the
-      same as another document-defined entity's name.
+      If multiple rules attempt to define an entity with the same
+      name, then they refer to the same entity.  A rule-defined
+      entity's name CANNOT be changed to be the same as another
+      rule-defined entity's name.
 
-      A document referring to an entity by name refers to the entity
-      that had that name when the document first came to include that
+      A rule referring to an entity by name refers to the entity that
+      had that name when the rule first came to include that
       reference, even if the entity's name has since changed.
 
-      If the documents defining an entity are repealed or amended such
-      that they no longer define that entity, then that entity and its
-      properties cease to exist.
+      If the rules are amended such that they no longer define an
+      entity, then that entity and its attributes cease to exist.
 
-      If the documents defining an entity are amended such that they
-      still define that entity but with different properties, then
-      that entity and its properties continue to exist to whatever
-      extent is possible under the new definitions.
+      If the rules are amended such that they define an entity both
+      before and after the amendment, but with different attributes,
+      then that entity and its attributes continue to exist to
+      whatever extent is possible under the new definitions.
 
 [CFJ 1807 (called 25 November 2007): Rule-defined entities include
 pending timed events, which can therefore occur under modified rules
@@ -454,6 +453,7 @@ Amended(4) by Proposal 5723 (Murphy), 7 October 2008
 Amended(5) by Proposal 5836 (Murphy), 12 October 2008
 Amended(6) by cleaning (comex), 26 January 2009
 Amended(7) by Proposal 6650 (coppro), 10 March 2010
+Amended(8) by Proposal 6981 (Murphy, omd), 10 April 2011
 
 ----------------------------------------------------------------------
 
@@ -1306,7 +1306,7 @@ Definitions
       widely used and do not readily fall into any other category.
 ----------------------------------------------------------------------
 
-Rule 754/14 (Power=3)
+Rule 754/15 (Power=3)
 Definition Definitions
 
       Regularity of communication being essential for the healthy
@@ -1321,10 +1321,11 @@ Definition Definitions
           between two nonempty spans of whitespace is inconsequential
           in all forms of communication for all purposes.
 
-      (2) A term explicitly defined by the Rules by default has that
-          meaning when used in any Rule of equal or lesser power, as
-          do its ordinary-language synonyms not explicitly defined by
-          the rules.
+      (2) A term explicitly defined by the Rules, along with its
+          ordinary-language synonym not explicitly defined by the
+          rules, by default has that meaning when used in any Rule of
+          equal or lesser power, as well as any Rule of greater power
+          that is clearly intended to comply with that meaning.
 
           The following clauses, where X and Y are both nouns or noun
           phrases, mean "X is/are defined as Y" unless they obviously
@@ -1434,6 +1435,7 @@ Amended(11) by Proposal 6571 (ais523), 28 November 2009
 Amended(12) by Proposal 6650 (coppro), 10 March 2010
 Amended(13) by Proposal 6732 (comex), 6 June 2010
 Amended(14) by Proposal 6741 (comex; disi.), 1 July 2010
+Amended(15) by Proposal 6981 (Murphy, omd), 10 April 2011
 
 ----------------------------------------------------------------------
 
@@ -1948,7 +1950,7 @@ Amended(29) by Proposal 6963 (Murphy), 20 March 2011
 
 ----------------------------------------------------------------------
 
-Rule 1728/30 (Power=3)
+Rule 1728/31 (Power=3)
 Dependent Actions
 
       A rule which purports to allow a person (the performer) to
@@ -1956,8 +1958,10 @@ Dependent Actions
       methods (N is 1 unless otherwise specified):
 
        1) Without N Objections, where N is a positive integer no
-          greater than 8.
-       2) With N Supporters, where N is a positive integer.
+          greater than 8.  ("Without Objection" is shorthand for this
+          method with N = 1.)
+       2) With N Supporters, where N is a positive integer.  ("With
+          Support" is shorthand for this method with N = 1.)
        3) With N Agoran Consent, where N is an integer multiple of 0.1
           with a minimum of 1.
        4) With Notice.
@@ -2038,6 +2042,7 @@ Amended(27) by Proposal 6474 (c.), 15 September 2009
 Amended(28) by Proposal 6512 (c.; disi.), 3 October 2009
 Amended(29) by Proposal 6619 (Murphy; disi.), 4 February 2010
 Amended(30) by Proposal 6650 (coppro), 10 March 2010
+Amended(31) by Proposal 6981 (Murphy, omd), 10 April 2011
 
 ----------------------------------------------------------------------
 
@@ -2775,7 +2780,7 @@ Amended(14) by Proposal 6617 (Murphy; disi.), 4 February 2010
 
 ----------------------------------------------------------------------
 
-Rule 107/13 (Power=3)
+Rule 107/14 (Power=3)
 Initiating Agoran Decisions
 
       An Agoran decision is initiated when a person authorized to
@@ -2806,6 +2811,9 @@ Initiating Agoran Decisions
       decision with less than two options CAN and SHALL end the voting
       period by announcement, if it has not ended already, and
       provided that e resolves the decision in the same message.
+
+      The voting period for a decision cannot be set or changed to a
+      duration longer than fourteen days.
 
 [CFJ 1650 (called 6 May 2007): The intent to initiate the decision and
 the information required in the notice need not be explicit.]
@@ -2850,6 +2858,7 @@ Amended(11) by Proposal 6157 (Goethe, OscarMeyr, Wooble), 31 March
   2009
 Amended(12) by Proposal 6816 (G., Keba), 4 September 2010
 Amended(13) by Proposal 6945 (Murphy, omd; disi.), 16 January 2011
+Amended(14) by Proposal 6981 (Murphy, omd), 10 April 2011
 
 ----------------------------------------------------------------------
 
