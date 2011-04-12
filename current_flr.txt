@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6992
-Last change to this ruleset: by proposal 6992
+Last proposal with recorded effect on this ruleset: 6995
+Last change to this ruleset: by proposal 6995
 
 Last updated: 12 April 2011
 
@@ -962,14 +962,16 @@ Amended(18) by Proposal 5237 (AFO; disi.), 3 October 2007
 
 ----------------------------------------------------------------------
 
-Rule 2327/0 (Power=1)
+Rule 2327/1 (Power=1)
 Read the Ruleset Week
 
-      During Read the Ruleset Week (the first Agoran week each year
-      that begins in February), Agorans SHOULD do so.
+      The first Agoran week each year which falls entirely in February
+      is Read the Ruleset Week.  Agorans are encouraged to read the
+      ruleset during Read the Ruleset Week.
 
 History:
 Created by Proposal 6973 (Murphy), 30 March 2011
+Amended(1) by Proposal 6995 (omd, harvel), 10 April 2011
 
 ----------------------------------------------------------------------
 
