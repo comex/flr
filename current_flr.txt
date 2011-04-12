@@ -1,23 +1,23 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6985
-Last change to this ruleset: by proposal 6985
+Last proposal with recorded effect on this ruleset: 6989
+Last change to this ruleset: by proposal 6989
 
 Last updated: 12 April 2011
 
-Highest Rule ID number ever assigned: 2329
+Highest Rule ID number ever assigned: 2332
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 81
+Current total number of rules: 84
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
       33 with Power=3
-      24 with Power=2
+      27 with Power=2
        5 with Power=1.7
        3 with Power=1.5
       14 with Power=1
@@ -29,6 +29,7 @@ Index of Categories
       * The Game of Agora
       * Rules
       * Players
+      * Economy
       * Definitions
       * Offices
       * Agoran Decisions
@@ -71,6 +72,12 @@ Index of Rules
       Rule 1789: Cantus Cygneus
       Rule 2130: Activity
 
+      * Economy
+      Rule 2166: Assets
+      Rule 2330: Points
+      Rule 2331: Proposal Points
+      Rule 2332: Winning
+
       * Definitions
       Rule  754: Definition Definitions
       Rule 2152: Mother, May I?
@@ -83,7 +90,6 @@ Index of Rules
       Rule 1728: Dependent Actions
       Rule 2288: Induction
       Rule 2124: Agoran Satisfaction
-      Rule 2166: Assets
 
       * Offices
       Rule 1006: Offices
@@ -1300,6 +1306,156 @@ Amended(13) by Proposal 6984 (Murphy), 10 April 2011
 ----------------------------------------------------------------------
 
 ======================================================================
+Economy
+      A category concerning asset-based gameplay.
+----------------------------------------------------------------------
+
+Rule 2166/16 (Power=2)
+Assets
+
+      An asset is an entity defined as such by a rule or contest
+      (hereafter its backing document), and existing solely because
+      its backing document defines its existence.
+
+      Each asset has exactly one owner.  If an asset would otherwise
+      lack an owner, it is owned by the Lost and Found Department.  If
+      an asset's backing document restricts its ownership to a class
+      of entities, then that asset CANNOT be gained by or transferred
+      to an entity outside that class, and is transferred to the Lost
+      and Found Department if it is owned by an entity outside that
+      class.  If an asset is owned by the Lost and Found department
+      any player CAN transfer or destroy it without objection.
+
+      The Lost and Found department may own any asset, and have assets
+      transferred to and from it, regardless of the asset's backing
+      document or any Rule, Rules to the contrary notwithstanding.
+
+      The recordkeepor of a class of assets is the entity (if any)
+      defined as such by, and bound by, its backing document.  That
+      entity's report includes a list of all instances of that class
+      and their owners.  This portion of that entity's report is
+      self-ratifying.
+
+      An asset whose backing document is not a rule generally CAN be
+      created by its recordkeepor by announcement, subject to
+      modification by its backing document.  To "gain" an asset is to
+      have it created in one's possession; to "award" an asset to an
+      entity is to create it in that entity's possession.
+
+      An asset generally CAN be destroyed by its owner by
+      announcement, and an asset owned by the Lost and Found
+      Department generally CAN be destroyed by its recordkeepor by
+      announcement, subject to modification by its backing document.
+      To "lose" (syn. "spend") an asset is to have it destroyed from
+      one's possession; to "revoke" an asset from an entity is to
+      destroy it from that entity's possession.
+
+      An asset generally CAN be transferred by its owner to another
+      entity by announcement, subject to modification by its backing
+      document.  A fixed asset is one defined as such by its backing
+      document, and CANNOT be transferred; any other asset is liquid.
+
+      A currency is a class of asset defined as such by its backing
+      document.  Instances of a currency with the same owner are
+      fungible.  The Minimum Unit Quantity (MUQ) of each currency is
+      one.
+
+[CFJs 1790-1791 (called 11 November 2007): The self-ratifying asset
+report is the complete list of ownerships of assets of that class; a
+partial list does not self-ratify.]
+
+[CFJ 1850 (called 22 December 2007): The general ability of the
+recordkeepor to create assets does not include an ability to determine
+who possesses them when created, so they are necessarily owned by the
+Lost and Found Department [at the time of CFJ 1850, the Bank] upon
+creation.]
+
+[CFJ 1910 (called 10 March 2008): When an existing entity is defined
+as an asset, the change of its owner from "undefined" to the Lost and
+Found Department [Bank at the time of CFJ 1910] counts as a transfer,
+and fails if the Lost and Found Department is outside of the class of
+objects that can own the entity.]
+
+[CFJ 2176 (called 22 September 2008): Entities may be fungible even if
+not defined as such by this rule.]
+
+[CFJ 2309 (called 11 December 2008): If two separate documents attempt
+to define an asset with the same name, they refer to the same entity,
+but the entity is not an asset.]
+
+History:
+Created by Proposal 5173 (Murphy), 29 August 2007
+Amended(1) by Proposal 5216 (Murphy), 13 September 2007
+Amended(2) by Proposal 5388 (Murphy), 1 January 2008
+Amended(3) by Proposal 5475 (Murphy), 24 March 2008
+Amended(4) by Proposal 5476 (Murphy; disi.), 27 March 2008
+Amended(5) by Proposal 5496 (Murphy), 23 April 2008
+Amended(6) by Proposal 5833 (Murphy, Taral), 12 November 2008
+Amended(7) by Proposal 5840 (root), 12 November 2008
+Amended(8) by Proposal 5974 (Murphy; disi.), 25 November 2008
+Amended(9) by Proposal 6023 (Murphy), 22 December 2008
+Assigned to Committee on Finance by Proposal 6053 (Murphy, woggle,
+  ais523), 23 January 2009
+Amended(10) by Proposal 6161 (Murphy), 31 March 2009
+Amended(11) by Proposal 6253 (Quazie), 9 May 2009
+Amended(12) by cleaning (Murphy), 16 August 2009
+Amended(13) by Proposal 6430 (coppro; disi.), 18 August 2009
+Amended(14) twice by Proposal 6650 (coppro), 10 March 2010
+Amended(15) by Proposal 6792 (omd), 27 August 2010
+Amended(16) by Proposal 6916 (omd; disi.), 2 January 2011
+
+----------------------------------------------------------------------
+
+Rule 2330/0 (Power=2)
+Points
+
+      Points are a fixed currency. Ownership of points is restricted
+      to Players. A player's score is the number of points e owns.
+      Changes to point holdings are secured.
+
+      The Scorekeepor is an office, and the recordkeepor of points.
+
+History:
+Created by Proposal 6989 (Wooble), 10 April 2011
+
+----------------------------------------------------------------------
+
+Rule 2331/0 (Power=2)
+Proposal Points
+
+      When the Agoran Decision to adopt a proposal is resolved:
+
+      * if the outcome is ADOPTED, the author of the proposal gains 2
+        points for each valid vote FOR the proposal, less 1 point for
+        each valid vote AGAINST the proposal. Each co-author of the
+        proposal gains 2 points.
+
+      * if the outcome is REJECTED, the author of the proposal loses 2
+        points for each valid vote AGAINST the proposal, less 1 point
+        for each valid vote FOR the proposal. If e would lose fewer
+        than 2 points, e loses 2 points.
+
+      * if the outcome is FAILED QUORUM, the author of the proposal
+        gains 2 points.
+
+History:
+Created by Proposal 6989 (Wooble), 10 April 2011
+
+----------------------------------------------------------------------
+
+Rule 2332/0 (Power=2)
+Winning
+
+      A player CAN destroy 250 points in eir possession to win the
+      game. When a player wins the game, the Scorekeepor is authorized
+      to award em the patent title Champion.
+
+History:
+Created by Proposal 6989 (Wooble), 10 April 2011
+
+----------------------------------------------------------------------
+
+======================================================================
 Definitions
       A category of definitions of terms and procedures that are
       widely used and do not readily fall into any other category.
@@ -2138,102 +2294,6 @@ Amended(13) by Proposal 6448 (BobTHJ), 27 August 2009
 Amended(14) by Proposal 6475 (c.; disi.), 15 September 2009
 Amended(15) by Proposal 6512 (c.; disi.), 3 October 2009
 Amended(16) by cleaning (Keba), 20 August 2010
-
-----------------------------------------------------------------------
-
-Rule 2166/16 (Power=2)
-Assets
-
-      An asset is an entity defined as such by a rule or contest
-      (hereafter its backing document), and existing solely because
-      its backing document defines its existence.
-
-      Each asset has exactly one owner.  If an asset would otherwise
-      lack an owner, it is owned by the Lost and Found Department.  If
-      an asset's backing document restricts its ownership to a class
-      of entities, then that asset CANNOT be gained by or transferred
-      to an entity outside that class, and is transferred to the Lost
-      and Found Department if it is owned by an entity outside that
-      class.  If an asset is owned by the Lost and Found department
-      any player CAN transfer or destroy it without objection.
-
-      The Lost and Found department may own any asset, and have assets
-      transferred to and from it, regardless of the asset's backing
-      document or any Rule, Rules to the contrary notwithstanding.
-
-      The recordkeepor of a class of assets is the entity (if any)
-      defined as such by, and bound by, its backing document.  That
-      entity's report includes a list of all instances of that class
-      and their owners.  This portion of that entity's report is
-      self-ratifying.
-
-      An asset whose backing document is not a rule generally CAN be
-      created by its recordkeepor by announcement, subject to
-      modification by its backing document.  To "gain" an asset is to
-      have it created in one's possession; to "award" an asset to an
-      entity is to create it in that entity's possession.
-
-      An asset generally CAN be destroyed by its owner by
-      announcement, and an asset owned by the Lost and Found
-      Department generally CAN be destroyed by its recordkeepor by
-      announcement, subject to modification by its backing document.
-      To "lose" (syn. "spend") an asset is to have it destroyed from
-      one's possession; to "revoke" an asset from an entity is to
-      destroy it from that entity's possession.
-
-      An asset generally CAN be transferred by its owner to another
-      entity by announcement, subject to modification by its backing
-      document.  A fixed asset is one defined as such by its backing
-      document, and CANNOT be transferred; any other asset is liquid.
-
-      A currency is a class of asset defined as such by its backing
-      document.  Instances of a currency with the same owner are
-      fungible.  The Minimum Unit Quantity (MUQ) of each currency is
-      one.
-
-[CFJs 1790-1791 (called 11 November 2007): The self-ratifying asset
-report is the complete list of ownerships of assets of that class; a
-partial list does not self-ratify.]
-
-[CFJ 1850 (called 22 December 2007): The general ability of the
-recordkeepor to create assets does not include an ability to determine
-who possesses them when created, so they are necessarily owned by the
-Lost and Found Department [at the time of CFJ 1850, the Bank] upon
-creation.]
-
-[CFJ 1910 (called 10 March 2008): When an existing entity is defined
-as an asset, the change of its owner from "undefined" to the Lost and
-Found Department [Bank at the time of CFJ 1910] counts as a transfer,
-and fails if the Lost and Found Department is outside of the class of
-objects that can own the entity.]
-
-[CFJ 2176 (called 22 September 2008): Entities may be fungible even if
-not defined as such by this rule.]
-
-[CFJ 2309 (called 11 December 2008): If two separate documents attempt
-to define an asset with the same name, they refer to the same entity,
-but the entity is not an asset.]
-
-History:
-Created by Proposal 5173 (Murphy), 29 August 2007
-Amended(1) by Proposal 5216 (Murphy), 13 September 2007
-Amended(2) by Proposal 5388 (Murphy), 1 January 2008
-Amended(3) by Proposal 5475 (Murphy), 24 March 2008
-Amended(4) by Proposal 5476 (Murphy; disi.), 27 March 2008
-Amended(5) by Proposal 5496 (Murphy), 23 April 2008
-Amended(6) by Proposal 5833 (Murphy, Taral), 12 November 2008
-Amended(7) by Proposal 5840 (root), 12 November 2008
-Amended(8) by Proposal 5974 (Murphy; disi.), 25 November 2008
-Amended(9) by Proposal 6023 (Murphy), 22 December 2008
-Assigned to Committee on Finance by Proposal 6053 (Murphy, woggle,
-  ais523), 23 January 2009
-Amended(10) by Proposal 6161 (Murphy), 31 March 2009
-Amended(11) by Proposal 6253 (Quazie), 9 May 2009
-Amended(12) by cleaning (Murphy), 16 August 2009
-Amended(13) by Proposal 6430 (coppro; disi.), 18 August 2009
-Amended(14) twice by Proposal 6650 (coppro), 10 March 2010
-Amended(15) by Proposal 6792 (omd), 27 August 2010
-Amended(16) by Proposal 6916 (omd; disi.), 2 January 2011
 
 ----------------------------------------------------------------------
 
