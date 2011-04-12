@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6983
-Last change to this ruleset: by proposal 6983
+Last proposal with recorded effect on this ruleset: 6984
+Last change to this ruleset: by proposal 6984
 
 Last updated: 12 April 2011
 
@@ -1261,7 +1261,7 @@ Amended(7) by Proposal 6338 (Murphy), 29 May 2009
 
 ----------------------------------------------------------------------
 
-Rule 2130/12 (Power=2)
+Rule 2130/13 (Power=2)
 Activity
 
       Activity is a player switch with values Active (default) and
@@ -1279,8 +1279,6 @@ Activity
       months CAN be deregistered by any other player without
       objection.  This is a passive method of deregistration.
 
-      Having been inactive within the past week is a Losing Condition.
-
 History:
 Created by Proposal 4893 (Murphy), 12 February 2007
 Amended(1) by Proposal 4966 (Zefram), 3 June 2007
@@ -1297,6 +1295,7 @@ Power changed from 1 to 2 by Proposal 5947 (ais523), 15 November 2008
 Amended(10) by Proposal 6100 (Pavitra; disi.), 22 February 2009
 Amended(11) by Proposal 6666 (Murphy), 10 March 2010
 Amended(12) by Proposal 6974 (Murphy), 30 March 2011
+Amended(13) by Proposal 6984 (Murphy), 10 April 2011
 
 ----------------------------------------------------------------------
 
