@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6991
-Last change to this ruleset: by proposal 6991
+Last proposal with recorded effect on this ruleset: 6992
+Last change to this ruleset: by proposal 6992
 
 Last updated: 12 April 2011
 
@@ -495,7 +495,7 @@ Amended(6) by Proposal 6815 (Murphy, ais523), 4 September 2010
 
 ----------------------------------------------------------------------
 
-Rule 2140/0 (Power=3)
+Rule 2140/1 (Power=3)
 Power Controls Mutability
 
       No entity with power below the power of this rule can
@@ -505,8 +505,8 @@ Power Controls Mutability
       (b) adjust the power of an instrument with power greater than
           its own.
 
-      (c) modify any other substantive aspect of an instrument with
-          power greater than its own.  A "substantive" aspect of
+      (c) set or modify any other substantive aspect of an instrument
+          with power greater than its own.  A "substantive" aspect of
           an instrument is any aspect that affects the instrument's
           operation.
 
@@ -514,6 +514,7 @@ History:
 Created by Proposal 4940 (Zefram), 29 April 2007
 Assigned to Committee on Rules by Proposal 6053 (Murphy, woggle,
   ais523), 23 January 2009
+Amended(1) by Proposal 6992 (Murphy, omd), 10 April 2011
 
 ----------------------------------------------------------------------
 
@@ -597,7 +598,7 @@ Rules
       processes of changing the rules.
 ----------------------------------------------------------------------
 
-Rule 2141/5 (Power=3)
+Rule 2141/6 (Power=3)
 Role and Attributes of Rules
 
       A rule is a type of instrument with the capacity to govern the
@@ -612,16 +613,17 @@ Role and Attributes of Rules
       Every rule has power between one and four inclusive.  It is
       not possible for a rule to have a power outside this range.
 
-      Rules have ID numbers, to be assigned by the Rulekeepor, and are
-      strictly ordered.
+      Rules have ID numbers, to be assigned by the Rulekeepor.
 
       Every rule shall have a title to aid in identification.  If a
-      rule ever does not have a title, the Rulekeepor shall assign
-      a title to it by announcement as soon as possible.
+      rule ever does not have a title, the Rulekeepor SHALL assign a
+      title to it by announcement as soon as possible.
 
       For the purposes of rules governing modification of instruments,
       the text, power, ID number, and title of a rule are all
-      substantive aspects of the rule.
+      substantive aspects of the rule.  However, rules to the contrary
+      notwithstanding, the Rulekeepor CAN set rule aspects as
+      described elsewhere in this rule.
 
 [CFJ 1498 (called 12 April 2004): A rule's title is not strictly a
 name for the rule, and so rule titles are not subject to the
@@ -642,6 +644,7 @@ Amended(2) by Proposal 5994 (Murphy), 7 December 2008
 Amended(3) by Proposal 6053 (Murphy, woggle, ais523), 23 January 2009
 Amended(4) by Proposal 6124 (ehird), 15 March 2009
 Amended(5) by Proposal 6670 (coppro), 14 March 2010
+Amended(6) by Proposal 6992 (Murphy, omd), 10 April 2011
 
 ----------------------------------------------------------------------
 
