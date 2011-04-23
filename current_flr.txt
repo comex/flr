@@ -1,23 +1,23 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7006
-Last change to this ruleset: by proposal 7006
+Last proposal with recorded effect on this ruleset: 7007
+Last change to this ruleset: by proposal 7007
 
 Last updated: 23 April 2011
 
-Highest Rule ID number ever assigned: 2334
+Highest Rule ID number ever assigned: 2335
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 86
+Current total number of rules: 87
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
       33 with Power=3
-      28 with Power=2
+      29 with Power=2
        5 with Power=1.7
        3 with Power=1.5
       15 with Power=1
@@ -76,6 +76,7 @@ Index of Rules
       Rule 2166: Assets
       Rule 2330: Points
       Rule 2331: Proposal Points
+      Rule 2335: Judge Points
       Rule 2332: Winning
 
       * Definitions
@@ -1449,6 +1450,26 @@ Proposal Points
 
 History:
 Created by Proposal 6989 (Wooble), 10 April 2011
+
+----------------------------------------------------------------------
+
+Rule 2335/0 (Power=2)
+Judge Points
+
+      When a judge assigns a judgement to a non-appeal judicial case
+      within any time limits for doing so, e gains 5 points.
+
+      If an appeals panel assigns a judgement with prejudice, then any
+      member of the panel CAN, within a week of the disposition
+      judgement being assigned, by announcement, destroy any points
+      the prior judge earned for judging the case.
+
+      When an appeals panel assigns a judgement to a case within any
+      time limits for doing so, each member of the panel gains 2
+      points.
+
+History:
+Created by Proposal 7007 (Walker), 20 April 2011
 
 ----------------------------------------------------------------------
 
