@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7002
-Last change to this ruleset: by proposal 7002
+Last proposal with recorded effect on this ruleset: 7005
+Last change to this ruleset: by proposal 7005
 
 Last updated: 23 April 2011
 
@@ -4014,7 +4014,7 @@ Amended(17) by Proposal 6967 (Wooble), 20 March 2011
 
 ----------------------------------------------------------------------
 
-Rule 1504/50 (Power=2)
+Rule 1504/51 (Power=2)
 Criminal Cases
 
       Criminal cases are a subclass of judicial cases.  Any
@@ -4105,6 +4105,11 @@ Criminal Cases
         specified amount.  While a player is inactive, eir stasis
         timer is counting down.  While a player's stasis timer is
         positive, e SHALL NOT become active.
+
+      * EXILE, appropriate for rule breaches of the highest severity.
+        When a judgement of EXILE has been in effect continuously for
+        one week, the ninny is deregistered and CANNOT register for
+        two months after that time.
 
       Players SHOULD NOT create rules defining Crimes of a Class
       greater than 14.
@@ -4197,6 +4202,7 @@ Amended(47) by cleaning (Murphy), 6 March 2010
 Amended(48) by Proposal 6932 (scshunt), 2 January 2011
 Amended(49) by Proposal 6961 (G.), 3 March 2011
 Amended(50) by Proposal 7002 (Murphy), 20 April 2011
+Amended(51) by Proposal 7005 (Walker, Yally, G.), 20 April 2011
 
 ----------------------------------------------------------------------
 
