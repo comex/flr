@@ -1,23 +1,23 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7008
-Last change to this ruleset: by proposal 7008
+Last proposal with recorded effect on this ruleset: 7009
+Last change to this ruleset: by proposal 7009
 
 Last updated: 23 April 2011
 
-Highest Rule ID number ever assigned: 2335
+Highest Rule ID number ever assigned: 2336
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 87
+Current total number of rules: 88
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
       33 with Power=3
-      29 with Power=2
+      30 with Power=2
        5 with Power=1.7
        3 with Power=1.5
       15 with Power=1
@@ -77,6 +77,7 @@ Index of Rules
       Rule 2330: Points
       Rule 2331: Proposal Points
       Rule 2335: Judge Points
+      Rule 2336: Officer Points
       Rule 2332: Winning
 
       * Definitions
@@ -1473,6 +1474,27 @@ Judge Points
 
 History:
 Created by Proposal 7007 (Walker), 20 April 2011
+
+----------------------------------------------------------------------
+
+Rule 2336/0 (Power=2)
+Officer Points
+
+      Weekly Salary is an office switch, tracked by the IADoP, with
+      values of the non-negative integers (default zero). At the
+      beginning of each week, each officer gains a number of points
+      equal to the Weekly Salary of eir office.
+
+      Monthly Salary is an office switch, tracked by the IADoP, with
+      values of the non-negative integers (default zero). At the
+      beginning of each month, each officer gains a number of points
+      equal to the Monthly Salary of eir office.
+
+      Players can change the Weekly or Monthly Salary of an office
+      without two objections or with Agoran Consent.
+
+History:
+Created by Proposal 7009 (Walker), 20 April 2011
 
 ----------------------------------------------------------------------
 
