@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7010
-Last change to this ruleset: by proposal 7010
+Last proposal with recorded effect on this ruleset: 7011
+Last change to this ruleset: by proposal 7011
 
 Last updated: 23 April 2011
 
@@ -1417,11 +1417,11 @@ Amended(16) by Proposal 6916 (omd; disi.), 2 January 2011
 
 ----------------------------------------------------------------------
 
-Rule 2330/1 (Power=2)
+Rule 2330/2 (Power=2)
 Points
 
-      Points are a fixed currency. Ownership of points is restricted
-      to Players. A player's score is the number of points e owns.
+      Points are a currency. Ownership of points is restricted to
+      Players. A player's score is the number of points e owns.
       Changes to point holdings are secured.
 
       The Scorekeepor is an office, and the recordkeepor of points.
@@ -1431,6 +1431,7 @@ Points
 History:
 Created by Proposal 6989 (Wooble), 10 April 2011
 Amended(1) by Proposal 7008 (Walker), 20 April 2011
+Amended(2) by Proposal 7011 (G.), 20 April 2011
 
 ----------------------------------------------------------------------
 
