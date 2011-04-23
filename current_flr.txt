@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7011
-Last change to this ruleset: by proposal 7011
+Last proposal with recorded effect on this ruleset: 7012
+Last change to this ruleset: by proposal 7012
 
 Last updated: 23 April 2011
 
@@ -4074,7 +4074,7 @@ Amended(18) by Proposal 7010 (Walker), 20 April 2011
 
 ----------------------------------------------------------------------
 
-Rule 1504/52 (Power=2)
+Rule 1504/53 (Power=2)
 Criminal Cases
 
       Criminal cases are a subclass of judicial cases.  Any
@@ -4169,7 +4169,7 @@ Criminal Cases
         to be in effect, eir stasis timer is decreased by the
         specified amount.  While a player is inactive, eir stasis
         timer is counting down.  While a player's stasis timer is
-        positive, e SHALL NOT become active.
+        positive, e CANNOT become active.
 
       * EXILE, appropriate for rule breaches of the highest severity.
         When a judgement of EXILE has been in effect continuously for
@@ -4269,6 +4269,7 @@ Amended(49) by Proposal 6961 (G.), 3 March 2011
 Amended(50) by Proposal 7002 (Murphy), 20 April 2011
 Amended(51) by Proposal 7005 (Walker, Yally, G.), 20 April 2011
 Amended(52) by Proposal 7010 (Walker), 20 April 2011
+Amended(53) by Proposal 7012 (Walker), 20 April 2011
 
 ----------------------------------------------------------------------
 
