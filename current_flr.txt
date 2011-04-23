@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7009
-Last change to this ruleset: by proposal 7009
+Last proposal with recorded effect on this ruleset: 7010
+Last change to this ruleset: by proposal 7010
 
 Last updated: 23 April 2011
 
@@ -3987,7 +3987,7 @@ Amended(32) by Proposal 6931 (omd), 2 January 2011
 
 ----------------------------------------------------------------------
 
-Rule 2230/17 (Power=2)
+Rule 2230/18 (Power=2)
 Notices of Violation
 
       A player CAN publish a Notice of Violation (NoV) with N support,
@@ -4035,7 +4035,17 @@ Notices of Violation
       incorrectness and/or unfairness (but not merely by questioning
       its validity).
 
-      Valid NOVs have ID numbers, to be assigned by the Herald.
+      If a NoV is Uncontested and was published at least four days
+      ago, any player CAN cause it to become Closed by announcement.
+      Any player CAN cause a NoV specifying em as Accused to become
+      Closed by announcement. When a NoV becomes Closed, a number of
+      points in the Accused's possession are destroyed equal to the
+      Class of the specified Crime, or in its absence the Power of the
+      violated rule, rounded up.  If a Closed NoV becomes Contested,
+      the points are still destroyed, but CAN be later recreated by
+      judicial processes as described elsewhere.
+
+      Valid NOVs have ID numbers, to be assigned by the CotC.
 
 History:
 Created by Proposal 6010 (ais523, Goethe, Murphy, comex, OscarMeyr),
@@ -4059,10 +4069,11 @@ Amended(14) by Proposal 6575 (G.; disi.), 28 November 2009
 Amended(15) by Proposal 6718 (coppro), 4 May 2010
 Amended(16) by Proposal 6961 (G.), 3 March 2011
 Amended(17) by Proposal 6967 (Wooble), 20 March 2011
+Amended(18) by Proposal 7010 (Walker), 20 April 2011
 
 ----------------------------------------------------------------------
 
-Rule 1504/51 (Power=2)
+Rule 1504/52 (Power=2)
 Criminal Cases
 
       Criminal cases are a subclass of judicial cases.  Any
@@ -4097,6 +4108,11 @@ Criminal Cases
         delivering this verdict, the judge SHOULD indicate which of
         the sub-requirements for a finding of guilty were not found to
         be true beyond a reasonable doubt.
+
+      When a judicial question on culpability is judged after a number
+      of the Accused's points have been destroyed due to the
+      associated notice, the Accused CAN recreate those points in eir
+      possession by announcement.
 
       A criminal case has a judicial question on sentencing, which is
       applicable if the question on culpability is applicable and has
@@ -4251,6 +4267,7 @@ Amended(48) by Proposal 6932 (scshunt), 2 January 2011
 Amended(49) by Proposal 6961 (G.), 3 March 2011
 Amended(50) by Proposal 7002 (Murphy), 20 April 2011
 Amended(51) by Proposal 7005 (Walker, Yally, G.), 20 April 2011
+Amended(52) by Proposal 7010 (Walker), 20 April 2011
 
 ----------------------------------------------------------------------
 
