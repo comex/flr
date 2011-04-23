@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7007
-Last change to this ruleset: by proposal 7007
+Last proposal with recorded effect on this ruleset: 7008
+Last change to this ruleset: by proposal 7008
 
 Last updated: 23 April 2011
 
@@ -1416,7 +1416,7 @@ Amended(16) by Proposal 6916 (omd; disi.), 2 January 2011
 
 ----------------------------------------------------------------------
 
-Rule 2330/0 (Power=2)
+Rule 2330/1 (Power=2)
 Points
 
       Points are a fixed currency. Ownership of points is restricted
@@ -1425,8 +1425,11 @@ Points
 
       The Scorekeepor is an office, and the recordkeepor of points.
 
+      The maximum FINE amount for points is 25.
+
 History:
 Created by Proposal 6989 (Wooble), 10 April 2011
+Amended(1) by Proposal 7008 (Walker), 20 April 2011
 
 ----------------------------------------------------------------------
 
