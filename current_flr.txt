@@ -1,23 +1,23 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 6995
-Last change to this ruleset: by proposal 6995
+Last proposal with recorded effect on this ruleset: 7002
+Last change to this ruleset: by proposal 7002
 
-Last updated: 12 April 2011
+Last updated: 23 April 2011
 
-Highest Rule ID number ever assigned: 2333
+Highest Rule ID number ever assigned: 2334
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 85
+Current total number of rules: 86
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
       33 with Power=3
-      27 with Power=2
+      28 with Power=2
        5 with Power=1.7
        3 with Power=1.5
       15 with Power=1
@@ -91,6 +91,7 @@ Index of Rules
       Rule 2288: Induction
       Rule 2124: Agoran Satisfaction
       Rule 2333: Contests
+      Rule 2334: Timers
 
       * Offices
       Rule 1006: Offices
@@ -2347,6 +2348,28 @@ Created by Proposal 6991 (omd), 10 April 2011
 
 ----------------------------------------------------------------------
 
+Rule 2334/0 (Power=2)
+Timers
+
+      A timer is a switch whose values are the non-negative integers
+      (default zero), representing a number of seconds.  Timer values
+      and changes can be expressed in terms of larger durations (e.g.
+      "1 day" is equivalent to "86400 seconds").
+
+      Each timer is either counting down or not counting down.  When a
+      timer has been continuously counting down for 1 second since its
+      last change, it decreases by 1.
+
+      When reporting a timer value, it is sufficient to provide enough
+      information that its value at the time of the report can be
+      calculated with reasonable effort (e.g. "<value> as of <date>
+      00:00:00 UTC and has been counting down since then").
+
+History:
+Created by Proposal 7002 (Murphy), 20 April 2011
+
+----------------------------------------------------------------------
+
 ======================================================================
 Offices
       A category concerning administrative positions held by persons
@@ -3991,7 +4014,7 @@ Amended(17) by Proposal 6967 (Wooble), 20 March 2011
 
 ----------------------------------------------------------------------
 
-Rule 1504/49 (Power=2)
+Rule 1504/50 (Power=2)
 Criminal Cases
 
       Criminal cases are a subclass of judicial cases.  Any
@@ -4074,9 +4097,14 @@ Criminal Cases
         the prescribed tasks (as soon as possible, unless a different
         time limit is specified).
 
-      * TIME OUT with a number of days between 7 and 21. The ninny
-        becomes inactive, and SHALL NOT become active for the number
-        of days specified, as long as the sentence remains in effect.
+      * TIME OUT with a number of days between 7 and 21.  Stasis is a
+        player timer, tracked by the Registrar.  When a sentence of
+        TIME OUT goes into effect, the ninny becomes inactive, and eir
+        stasis timer increases by the specified amount; when it ceases
+        to be in effect, eir stasis timer is decreased by the
+        specified amount.  While a player is inactive, eir stasis
+        timer is counting down.  While a player's stasis timer is
+        positive, e SHALL NOT become active.
 
       Players SHOULD NOT create rules defining Crimes of a Class
       greater than 14.
@@ -4168,6 +4196,7 @@ Amended(46) by Proposal 6557 (BobTHJ; disi.), 13 November 2009
 Amended(47) by cleaning (Murphy), 6 March 2010
 Amended(48) by Proposal 6932 (scshunt), 2 January 2011
 Amended(49) by Proposal 6961 (G.), 3 March 2011
+Amended(50) by Proposal 7002 (Murphy), 20 April 2011
 
 ----------------------------------------------------------------------
 
