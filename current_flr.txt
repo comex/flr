@@ -1,23 +1,23 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7013
-Last change to this ruleset: by proposal 7013
+Last proposal with recorded effect on this ruleset: 7015
+Last change to this ruleset: by proposal 7015
 
 Last updated: 23 April 2011
 
-Highest Rule ID number ever assigned: 2336
+Highest Rule ID number ever assigned: 2338
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 88
+Current total number of rules: 90
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
       33 with Power=3
-      30 with Power=2
+      32 with Power=2
        5 with Power=1.7
        3 with Power=1.5
       15 with Power=1
@@ -79,6 +79,8 @@ Index of Rules
       Rule 2335: Judge Points
       Rule 2336: Officer Points
       Rule 2332: Winning
+      Rule 2337: Promises
+      Rule 2338: Cashing Promises
 
       * Definitions
       Rule  754: Definition Definitions
@@ -1508,6 +1510,62 @@ Winning
 
 History:
 Created by Proposal 6989 (Wooble), 10 April 2011
+
+----------------------------------------------------------------------
+
+Rule 2337/0 (Power=2)
+Promises
+
+      Promises are a class of assets.  Horton is an Office and the
+      recordkeepor for promises; Horton's weekly report includes the
+      text, author, conditions, and owner of all existing promises.
+      The Tree is an entity for holding promises.  Ownership of
+      promises is limited to persons and the Tree.
+
+      A Player (the promise's author) CAN create a promise in eir
+      possession by announcement, clearly specifying its text.
+      Optionally, the author CAN, in the creating message, specify a
+      set of conditions required to be true for the promise to be
+      cashed.  The default is that the promise has no conditions.
+
+      Promises with the same text, author, and conditions are
+      fungible.
+
+      The creation, transferring, cashing, and destruction of promises
+      is secured.
+
+History:
+Created by Proposal 7015 (G., ais523), 23 April 2011
+
+----------------------------------------------------------------------
+
+Rule 2338/0 (Power=2)
+Cashing Promises
+
+      A Player CAN cash a promise in eir possession by announcing that
+      e does so, provided either that the promise has no conditions,
+      or all of the conditions of the promise are true.  To do so, e
+      must clearly and unambiguously identify the promise and SHOULD
+      publish its text.
+
+      When a promise is cashed, the text of the promise is interpreted
+      as if it were published by its author as a standalone statement;
+      if that statement requires additional context, that context MUST
+      be supplied within the body of the message indicating the
+      cashing.  Cashing a promise destroys it, unless the conditions
+      of the promise explicitly and clearly include conditions under
+      which the promise is not so destroyed, and these conditions are
+      true.
+
+      If a promise is possessed by the Tree, any player except the
+      promise's author CAN transfer it to emself by announcement, if e
+      cashes the promise in the same message in which e transfers it
+      to emself.
+
+      Horton CAN destroy any promise Without Objection.
+
+History:
+Created by Proposal 7015 (G., ais523), 23 April 2011
 
 ----------------------------------------------------------------------
 
