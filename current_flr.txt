@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7012
-Last change to this ruleset: by proposal 7012
+Last proposal with recorded effect on this ruleset: 7013
+Last change to this ruleset: by proposal 7013
 
 Last updated: 23 April 2011
 
@@ -121,7 +121,7 @@ Index of Rules
       * Proposals
       Rule  106: Adopting Proposals
       Rule 1607: The Promotor
-      Rule 1950: Voting on Democratic Decisions
+      Rule 1950: Decisions with Adoption Indices
       Rule 2137: The Assessor
       Rule 1698: Agora Is a Nomic
 
@@ -3391,7 +3391,7 @@ Proposals
       which changes are made to the game.
 ----------------------------------------------------------------------
 
-Rule 106/30 (Power=3)
+Rule 106/31 (Power=3)
 Adopting Proposals
 
       A proposal is a fixed body of text which has been made into a
@@ -3428,15 +3428,13 @@ Adopting Proposals
       unambiguously identified as such by its author when it was
       submitted.
 
-      The adoption index of a proposal is an integral multiple of 0.1
-      from 1.0 to 9.9.  It may be set by the proposer at the time of
-      submission, or otherwise defaults to 1.0.
-
       Determining whether to adopt a proposal is an Agoran decision.
-      The adoption index of this decision is set to the adoption index
-      of the proposal at the initiation of the decision. Changing the
-      adoption index of the decision is secured with a power threshold
-      of 2.  The vote collector for this decision is the Assessor.
+      By default, this decision has an adoption index of 1.0 and is
+      Ordinary; if the proposer specified valid, non-"none" values for
+      the adoption index and/or Chamber when submitting the proposal,
+      those values are set at the initiation of the decision.
+      Changing either value is secured with a power threshold of 2.
+      The vote collector for this decision is the Assessor.
 
       If the option selected by Agora on this decision is ADOPTED,
       then the proposal is adopted, and unless other rules prevent it
@@ -3527,6 +3525,7 @@ Amended(27) by Proposal 6721 (coppro; disi), 21 May 2010
 Amended(28) by Proposal 6732 (comex), 13 June 2010
 Amended(29) by Proposal 6823 (Murphy, omd), 10 September 2010
 Amended(30) by Proposal 6968 (Murphy, scshunt, Wooble), 20 March 2011
+Amended(31) by Proposal 7013 (omd), 23 April 2011
 
 ----------------------------------------------------------------------
 
@@ -3626,25 +3625,31 @@ Amended(30) by Proposal 6961 (G.), 3 March 2011
 
 ----------------------------------------------------------------------
 
-Rule 1950/21 (Power=3)
-Voting on Democratic Decisions
+Rule 1950/22 (Power=3)
+Decisions with Adoption Indices
 
-      An Agoran decision with an adoption index is a Democratic
-      decision.
+      Adoption index is a switch possessed by Agoran decisions, whose
+      value is either "none" (default) or an integral multiple of 0.1
+      from 1.0 to 9.9.
+
+      Chamber is a switch possessed by Agoran decisions with adoption
+      indices, with values Ordinary (default) and Democratic.
 
       An Agoran decision with an adoption index has the following
       essential parameters:
 
       a) Its adoption index.
       b) Its author (and co-authors, if any).
+      c) Its Chamber.
 
       For any Agoran decision with an adoption index, the available
       options are FOR and AGAINST.
 
-      The eligible voters on a democratic decision are those entities
-      that were active first-class players at the start of its voting
-      period.  The voting limit of each eligible voter on a democratic
-      decision is one.
+      The eligible voters on a decision with an adoption index are
+      those entities that were active first-class players at the start
+      of its voting period.  Setting an entity's voting limit on such
+      a decision is secured with a power threshold of 2 if the
+      decision is Ordinary, or 3 otherwise.
 
 History:
 Created by Proposal 4032 (t), Jul. 24 2000
@@ -3672,6 +3677,7 @@ Amended(19) by Proposal 5078 (Zefram), 18 July 2007
 Retitled by Proposal 5418 (root), 2 February 2008
 Amended(20) by Proposal 5418 (root), 2 February 2008
 Amended(21) by Proposal 6961 (G.), 3 March 2011
+Retitled and amended(22) by Proposal 7013 (omd), 23 April 2011
 
 ----------------------------------------------------------------------
 
