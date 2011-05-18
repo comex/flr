@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7045
-Last change to this ruleset: by Proposal 7045
+Last proposal with recorded effect on this ruleset: 7049
+Last change to this ruleset: by Proposal 7049
 
 Last updated: 17 May 2011
 
@@ -4595,7 +4595,7 @@ Created by Proposal 6869 (G.), 8 November 2010
 
 ----------------------------------------------------------------------
 
-Rule 911/42 (Power=1.7)
+Rule 911/43 (Power=1.7)
 Appeal Cases
 
       Appeal cases are a subclass of judicial cases.  An appeal case's
@@ -4675,6 +4675,10 @@ Appeal Cases
       prohibition is the Class-N Crime of Lazy Judging, where N is the
       judge's rank when e so judged.
 
+      A person SHALL NOT appeal a judgement (except on a question of
+      sentencing) unless e reasonably believes that the judgement
+      might be inappropriate.
+
 [CFJ 1597 (called 22 December 2006): It is possible to appeal a
 judgement even if it is not certain that the judgement exists.]
 
@@ -4734,6 +4738,7 @@ Amended(39) by Proposal 6811 (Murphy), 4 September 2010
 Amended(40) by Proposal 6969 (Murphy), 20 March 2011
 Amended(41) by Proposal 7038 (scshunt), 16 May 2011
 Amended(42) by Proposal 7042 (Murphy; disi.), 16 May 2011
+Amended(43) by Proposal 7049 (omd), 16 May 2011
 
 ----------------------------------------------------------------------
 
