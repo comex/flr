@@ -1,17 +1,17 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7021
-Last change to this ruleset: by proposal 7021
+Last proposal with recorded effect on this ruleset: 7022
+Last change to this ruleset: by proposal 7022
 
-Last updated: 23 April 2011
+Last updated: 17 May 2011
 
-Highest Rule ID number ever assigned: 2339
+Highest Rule ID number ever assigned: 2340
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 91
+Current total number of rules: 92
 
 Power distribution:
        1 with Power=4
@@ -20,7 +20,7 @@ Power distribution:
       32 with Power=2
        5 with Power=1.7
        3 with Power=1.5
-      16 with Power=1
+      17 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -61,6 +61,7 @@ Index of Rules
       Rule 2240: No Cretans Need Apply
       Rule  105: Rule Changes
       Rule 1681: The Logical Rulesets
+      Rule 2340: Notability
       Rule 1051: The Rulekeepor
       Rule 2327: Read the Ruleset Week
 
@@ -159,23 +160,26 @@ Index of Rules
 
 ----------------------------------------------------------------------
 
-[Rules are listed as follows.  "nnnn" is the rule's ID number,
-mandated by rule 2141.  "r" is the revision number, which is not
-defined by the rules.  "p" is the rule's power, as defined by rule
-1688 and governed by rule 2141.  Rule titles are governed by rule
-2141.]
+Rules are listed as follows.  "nnnn" is the rule's ID number, loosely
+regulated by Rule 2141; ID numbers are assigned in increasing order
+and are never reused.  "r" is the rule's revision number, not defined
+by the rules; any amendment (but not retitling or mutation) increases
+this number.  History entries are required by Rule 1681; an ellipsis
+(...) indicates that the history is incomplete.
 
 Rule nnnn/r (Power=p)
 Title of Rule
 
       Text of rule.
 
-[Annotations in square brackets are unofficial, added at the
-rulekeepor's discretion.  These annotations have no legal force.]
-
 History:
-Historical annotations required by rule 1681.
-An ellipsis (...) indicates that the history is incomplete.
+List of changes to the rule.
+
+Annotations in square brackets are unofficial and have no legal force.
+They are added at the Rulekeepor's discrection, except for
+annotations starting with a CFJ number, which are mandated by Rule
+2340.  A judicial case is Notable if and only if it has such an
+annotation in this document.
 
 ----------------------------------------------------------------------
 
@@ -935,6 +939,23 @@ Amended(15) by Proposal 6026 (Murphy), 22 December 2008
 Amended(16) by Proposal 6053 (Murphy, woggle, ais523), 23 January 2009
 Amended(17) by Proposal 6124 (ehird), 15 March 2009
 Amended(18) by Proposal 6662 (Murphy; disi.), 10 March 2010
+
+----------------------------------------------------------------------
+
+Rule 2340/0 (Power=1)
+Notability
+
+      Notability is a judicial case switch with values Incidental
+      (default) and Notable, tracked by the Rulekeepor in eir monthly
+      report. A player CAN, with two support, make a case Notable. A
+      player CAN, without two objections, make a case Incidental.
+
+      The Rulekeepor SHALL annotate the FLR to draw attention to
+      Notable cases, specifying the ID number of the case and
+      including a brief description of the precedent it sets.
+
+History:
+Created by Proposal 7022 (Walker, Murphy, omd), 5 May 2011
 
 ----------------------------------------------------------------------
 
@@ -3923,7 +3944,7 @@ Amended(9) by Proposal 6404 (Murphy; disi.), 30 July 2009
 
 ----------------------------------------------------------------------
 
-Rule 591/32 (Power=1.7)
+Rule 591/33 (Power=1.7)
 Inquiry Cases
 
       Inquiry cases are a subclass of judicial cases.  An inquiry
@@ -3978,8 +3999,7 @@ Inquiry Cases
       when attempting to determine what is possible and/or legal in
       future play (including when making future judgements); but the
       judgement does not directly affect the veracity of the
-      statement.  The Rulekeepor is ENCOURAGED to annotate rules to
-      draw attention to relevant inquiry case judgements.
+      statement.
 
 [CFJ 1835 (called 18 December 2007): A question cannot generally take
 the place of a statement in initiating an inquiry case.]
@@ -4060,6 +4080,7 @@ Assigned to Committee on the Judiciary by Proposal 6053 (Murphy,
   woggle, ais523), 23 January 2009
 Amended(31) by Proposal 6571 (ais523), 28 November 2009
 Amended(32) by Proposal 6931 (omd), 2 January 2011
+Amended(33) by Proposal 7022 (Walker, Murphy, omd), 5 May 2011
 
 ----------------------------------------------------------------------
 
