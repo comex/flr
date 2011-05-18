@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7042
-Last change to this ruleset: by Proposal 7042
+Last proposal with recorded effect on this ruleset: 7043
+Last change to this ruleset: by Proposal 7043
 
 Last updated: 17 May 2011
 
@@ -1517,11 +1517,12 @@ Amended(1) by Proposal 7025 (Murphy), 5 May 2011
 
 ----------------------------------------------------------------------
 
-Rule 2335/0 (Power=2)
+Rule 2335/1 (Power=2)
 Judge Points
 
       When a judge assigns a judgement to a non-appeal judicial case
-      within any time limits for doing so, e gains 5 points.
+      within any time limits for doing so, e gains 5 points, unless e
+      has already assigned judgement to the same case before.
 
       If an appeals panel assigns a judgement with prejudice, then any
       member of the panel CAN, within a week of the disposition
@@ -1534,6 +1535,7 @@ Judge Points
 
 History:
 Created by Proposal 7007 (Walker), 20 April 2011
+Amended(1) by Proposal 7043 (Walker), 16 May 2011
 
 ----------------------------------------------------------------------
 
