@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7040
-Last change to this ruleset: by Proposal 7040
+Last proposal with recorded effect on this ruleset: 7042
+Last change to this ruleset: by Proposal 7042
 
 Last updated: 17 May 2011
 
@@ -4477,7 +4477,7 @@ Created by Proposal 6869 (G.), 8 November 2010
 
 ----------------------------------------------------------------------
 
-Rule 911/41 (Power=1.7)
+Rule 911/42 (Power=1.7)
 Appeal Cases
 
       Appeal cases are a subclass of judicial cases.  An appeal case's
@@ -4496,11 +4496,10 @@ Appeal Cases
       appeal has already been initiated.
 
       The entities qualified to be assigned as judge of an appeal case
-      are the judicial panels consisting of max(3,1+2*R) members
-      (where R is the rank of the prior case), where each of the
-      members is qualified to be assigned as judge of the prior case
-      and none is the prior judge.  If possible, the CotC SHALL assign
-      a panel where each of the members is well qualified to be
+      are the judicial panels consisting of three members, where each
+      of the members is qualified to be assigned as judge of the prior
+      case and none is the prior judge.  If possible, the CotC SHALL
+      assign a panel where each of the members is well qualified to be
       assigned as judge of the prior case.
 
       An appeal case has a judicial question on disposition, which is
@@ -4616,6 +4615,7 @@ Amended(38) by Proposal 6726 (coppro), 22 May 2010
 Amended(39) by Proposal 6811 (Murphy), 4 September 2010
 Amended(40) by Proposal 6969 (Murphy), 20 March 2011
 Amended(41) by Proposal 7038 (scshunt), 16 May 2011
+Amended(42) by Proposal 7042 (Murphy; disi.), 16 May 2011
 
 ----------------------------------------------------------------------
 
