@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7034
-Last change to this ruleset: by Proposal 7034
+Last proposal with recorded effect on this ruleset: 7035
+Last change to this ruleset: by Proposal 7035
 
 Last updated: 17 May 2011
 
@@ -1519,16 +1519,16 @@ Created by Proposal 7007 (Walker), 20 April 2011
 
 ----------------------------------------------------------------------
 
-Rule 2336/0 (Power=2)
+Rule 2336/1 (Power=2)
 Officer Points
 
-      Weekly Salary is an office switch, tracked by the IADoP, with
-      values of the non-negative integers (default zero). At the
+      Weekly Salary is an office switch, tracked by the Scorekeepor,
+      with values of the non-negative integers (default zero). At the
       beginning of each week, each officer gains a number of points
       equal to the Weekly Salary of eir office.
 
-      Monthly Salary is an office switch, tracked by the IADoP, with
-      values of the non-negative integers (default zero). At the
+      Monthly Salary is an office switch, tracked by the Scorekeepor,
+      with values of the non-negative integers (default zero). At the
       beginning of each month, each officer gains a number of points
       equal to the Monthly Salary of eir office.
 
@@ -1537,6 +1537,7 @@ Officer Points
 
 History:
 Created by Proposal 7009 (Walker), 20 April 2011
+Amended(1) by Proposal 7035 (scshunt), 16 May 2011
 
 ----------------------------------------------------------------------
 
