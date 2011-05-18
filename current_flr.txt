@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7030
-Last change to this ruleset: by Proposal 7030
+Last proposal with recorded effect on this ruleset: 7033
+Last change to this ruleset: by Proposal 7033
 
 Last updated: 17 May 2011
 
@@ -3631,22 +3631,17 @@ Amended(31) by Proposal 7013 (omd), 23 April 2011
 
 ----------------------------------------------------------------------
 
-Rule 1607/30 (Power=2)
+Rule 1607/31 (Power=2)
 The Promotor
 
       The Promotor is an office; its holder is responsible for
       receiving and distributing proposals.
 
-      Distributability is switch possessed by proposals in the
-      proposal pool, tracked by the Promotor, with values
-      Distributable (default) and Undistributable.
-
       The Promotor CAN distribute a proposal which is in the Proposal
       Pool at any time.  In a given Agoran week, the Promotor SHALL,
-      as part of eir weekly duties, distribute any proposal that is in
-      the Proposal Pool and was Distributable at the beginning of that
-      Agoran week.  The Promotor SHALL NOT distribute an
-      Undistributable proposal.
+      as part of eir weekly duties, distribute all proposals in the
+      Proposal Pool that were in the Pool at the beginning of that
+      week.
 
       Distributed proposals have ID numbers, to be assigned by the
       Promotor.
@@ -3724,6 +3719,7 @@ Amended(27) by Proposal 6541 (Murphy), 4 November 2009
 Amended(28) by Proposal 6550 (Tiger; disi.), 13 November 2009
 Amended(29) by Proposal 6793 (Wooble), 27 August 2010
 Amended(30) by Proposal 6961 (G.), 3 March 2011
+Amended(31) by Proposal 7033 (omd), 16 May 2011
 
 ----------------------------------------------------------------------
 
