@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7022
-Last change to this ruleset: by proposal 7022
+Last proposal with recorded effect on this ruleset: 7024
+Last change to this ruleset: by proposal 7024
 
 Last updated: 17 May 2011
 
@@ -4084,7 +4084,7 @@ Amended(33) by Proposal 7022 (Walker, Murphy, omd), 5 May 2011
 
 ----------------------------------------------------------------------
 
-Rule 2230/18 (Power=2)
+Rule 2230/19 (Power=2)
 Notices of Violation
 
       A player CAN publish a Notice of Violation (NoV) with N support,
@@ -4118,7 +4118,7 @@ Notices of Violation
 
       As soon as possible after a player makes an announcement that is
       reasonably recognizable as an attempt to issue such a NoV, the
-      Herald SHALL announce whether the NoV was valid.  Such an
+      CotC SHALL announce whether the NoV was valid.  Such an
       announcement is self-ratifying.  Affirming the validity of the
       NoV does not in itself certify the correctness of the
       allegation.
@@ -4167,6 +4167,7 @@ Amended(15) by Proposal 6718 (coppro), 4 May 2010
 Amended(16) by Proposal 6961 (G.), 3 March 2011
 Amended(17) by Proposal 6967 (Wooble), 20 March 2011
 Amended(18) by Proposal 7010 (Walker), 20 April 2011
+Amended(19) by Proposal 7024 (Murphy), 5 May 2011
 
 ----------------------------------------------------------------------
 
