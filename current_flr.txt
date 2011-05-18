@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7025
-Last change to this ruleset: by proposal 7025
+Last proposal with recorded effect on this ruleset: 7026
+Last change to this ruleset: by proposal 7026
 
 Last updated: 17 May 2011
 
@@ -1550,7 +1550,7 @@ Created by Proposal 6989 (Wooble), 10 April 2011
 
 ----------------------------------------------------------------------
 
-Rule 2337/0 (Power=2)
+Rule 2337/1 (Power=2)
 Promises
 
       Promises are a class of assets.  Horton is an Office and the
@@ -1561,9 +1561,10 @@ Promises
 
       A Player (the promise's author) CAN create a promise in eir
       possession by announcement, clearly specifying its text.
-      Optionally, the author CAN, in the creating message, specify a
-      set of conditions required to be true for the promise to be
-      cashed.  The default is that the promise has no conditions.
+      Optionally, the author CAN, in the creating message, specify one
+      or more conditions required to be true for the promise to be
+      cashed, and/or one or more conditions required to be true for
+      the promise not to be destroyed when cashed.
 
       Promises with the same text, author, and conditions are
       fungible.
@@ -1573,26 +1574,26 @@ Promises
 
 History:
 Created by Proposal 7015 (G., ais523), 23 April 2011
+Amended(1) by Proposal 7026 (Murphy, omd; disi.), 5 May 2011
 
 ----------------------------------------------------------------------
 
-Rule 2338/0 (Power=2)
+Rule 2338/1 (Power=2)
 Cashing Promises
 
       A Player CAN cash a promise in eir possession by announcing that
-      e does so, provided either that the promise has no conditions,
-      or all of the conditions of the promise are true.  To do so, e
-      must clearly and unambiguously identify the promise and SHOULD
-      publish its text.
+      e does so, provided either that all conditions required to be
+      true for the promise to be cashed are true, or it has no such
+      conditions.  To do so, e must clearly and unambiguously identify
+      the promise and SHOULD publish its text.
 
       When a promise is cashed, the text of the promise is interpreted
       as if it were published by its author as a standalone statement;
       if that statement requires additional context, that context MUST
       be supplied within the body of the message indicating the
-      cashing.  Cashing a promise destroys it, unless the conditions
-      of the promise explicitly and clearly include conditions under
-      which the promise is not so destroyed, and these conditions are
-      true.
+      cashing.  Cashing a promise destroys it, unless the promise has
+      at least one condition required to be true for it not to be
+      destroyed when cashed, and all such conditions are true.
 
       If a promise is possessed by the Tree, any player except the
       promise's author CAN transfer it to emself by announcement, if e
@@ -1603,6 +1604,7 @@ Cashing Promises
 
 History:
 Created by Proposal 7015 (G., ais523), 23 April 2011
+Amended(1) by Proposal 7026 (Murphy, omd; disi.), 5 May 2011
 
 ----------------------------------------------------------------------
 
