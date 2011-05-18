@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7029
-Last change to this ruleset: by Proposal 7029
+Last proposal with recorded effect on this ruleset: 7030
+Last change to this ruleset: by Proposal 7030
 
 Last updated: 17 May 2011
 
@@ -546,7 +546,7 @@ Mutated from MI=Unanimity to MI=3 by Proposal 1482, Mar. 15 1995
 
 ----------------------------------------------------------------------
 
-Rule 2326/1 (Power=2)
+Rule 2326/2 (Power=2)
 The President
 
       The President is a second-class person.  Causing the President
@@ -555,9 +555,13 @@ The President
       A first-class Player CAN cause the President to take actions
       Without Objection, or with Agoran Consent.
 
+      Should the President incur obligations under the Rules, then the
+      Speaker SHALL act to satisfy these obligations.
+
 History:
 Created by Proposal 6961 (G.), 3 March 2011
 Amended(1) by Proposal 7029 (Walker), 16 May 2011
+Amended(2) by Proposal 7030 (Walker), 16 May 2011
 
 ----------------------------------------------------------------------
 
