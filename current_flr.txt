@@ -1,23 +1,23 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7044
-Last change to this ruleset: by Proposal 7044
+Last proposal with recorded effect on this ruleset: 7045
+Last change to this ruleset: by Proposal 7045
 
 Last updated: 17 May 2011
 
-Highest Rule ID number ever assigned: 2346
+Highest Rule ID number ever assigned: 2347
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 97
+Current total number of rules: 98
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
       35 with Power=3
-      29 with Power=2
+      30 with Power=2
        8 with Power=1.7
        3 with Power=1.5
       20 with Power=1
@@ -92,6 +92,7 @@ Index of Rules
       Rule  754: Definition Definitions
       Rule 2152: Mother, May I?
       Rule 1023: Common Definitions
+      Rule 2347: Speed
       Rule 1769: Holidays
       Rule 2329: Festival Days
       Rule 2146: Indices
@@ -1958,17 +1959,19 @@ Amended(6) by Proposal 6983 (Murphy), 10 April 2011
 
 ----------------------------------------------------------------------
 
-Rule 1023/27 (Power=2)
+Rule 1023/28 (Power=2)
 Common Definitions
 
       The following terms are defined:
 
       (a) The phrases "in a timely fashion" and "as soon as possible"
-          mean "within seven days".  A requirement to perform an
-          action at an exact instant (e.g.  "when X, Y SHALL Z"), but
-          not "in the same message", is instead interpreted as a
-          requirement to perform that action in a timely fashion after
-          that instant.
+          mean "within X days", where X is 14 when the Speed is Slow,
+          7 when it is Normal and 5 when it is Fast. This time period
+          is set when the requirement is created (ie. X days before
+          the limit ends). A requirement to perform an action at an
+          exact instant (e.g.  "when X, Y SHALL Z"), but not "in the
+          same message", is instead interpreted as a requirement to
+          perform that action in a timely fashion after that instant.
 
       (b) Agoran epochs:
 
@@ -2028,6 +2031,25 @@ Amended(24) by Proposal 6046 (comex), 13 January 2009
 Amended(25) by Proposal 6321 (Murphy; disi.), 26 May 2009
 Amended(26) by Proposal 6535 (Murphy), 4 November 2009
 Amended(27) by Proposal 6660 (Murphy; disi.), 10 March 2010
+Amended(28) by Proposal 7045 (Walker), 16 May 2011
+
+----------------------------------------------------------------------
+
+Rule 2347/0 (Power=2)
+Speed
+
+      The Speed switch is a single switch, tracked by the Assessor,
+      with values of Slow, Normal (default) and Fast. The Speed switch
+      is secured.
+
+      When the Speed has not been changed in the past month, the
+      President CAN flip the Speed to Normal or Fast by announcement.
+      At any time, players CAN flip it to a given value with Agoran
+      Consent. In case of a lull, players CAN flip it to Slow without
+      objection.
+
+History:
+Created by Proposal 7045 (Walker), 16 May 2011
 
 ----------------------------------------------------------------------
 
@@ -2405,7 +2427,7 @@ Amended(29) by Proposal 6963 (Murphy), 20 March 2011
 
 ----------------------------------------------------------------------
 
-Rule 1728/31 (Power=3)
+Rule 1728/32 (Power=3)
 Dependent Actions
 
       A rule which purports to allow a person (the performer) to
@@ -2428,7 +2450,9 @@ Dependent Actions
           action, unambiguously and clearly specifying the action and
           method(s) (including the value of N for each method), at
           most fourteen days earlier, and (if the action depends on
-          objections or notice) at least four days earlier.
+          objections or notice) at least X days earlier, where X is a
+          number which depends on the Speed at the time of intention
+          as follows: Slow: 5, Normal: 4, Fast: 2.
 
        b) At least one of the following is true:
 
@@ -2498,6 +2522,7 @@ Amended(28) by Proposal 6512 (c.; disi.), 3 October 2009
 Amended(29) by Proposal 6619 (Murphy; disi.), 4 February 2010
 Amended(30) by Proposal 6650 (coppro), 10 March 2010
 Amended(31) by Proposal 6981 (Murphy, omd), 10 April 2011
+Amended(32) by Proposal 7045 (Walker), 16 May 2011
 
 ----------------------------------------------------------------------
 
@@ -2737,18 +2762,19 @@ Amended(32) by Proposal 6790 (Wooble), 27 August 2010
 
 ----------------------------------------------------------------------
 
-Rule 2143/14 (Power=1)
+Rule 2143/15 (Power=1)
 Official Reports and Duties
 
       For each office:
 
       a) If any task is defined by the rules as part of that office's
          weekly duties, then the holder of that office SHALL perform
-         it at least once each week.  If any information is defined by
-         the rules as part of that office's weekly report, then the
-         holder of that office SHALL maintain all such information,
-         and the publication of all such information is part of that
-         office's weekly duties.
+         it at least once each week, except if the Speed is Slow, in
+         which case the duties SHALL be completed once each fortnight.
+         If any information is defined by the rules as part of that
+         office's weekly report, then the holder of that office SHALL
+         maintain all such information, and the publication of all
+         such information is part of that office's weekly duties.
 
       b) If any task is defined by the rules as part of that office's
          monthly duties, then the holder of that office SHALL perform
@@ -2796,6 +2822,7 @@ Amended(11) by cleaning (Murphy), 6 March 2010
 Amended(12) by Proposal 6664 (Murphy; disi.), 10 March 2010
 Amended(13) by cleaning (Murphy), 29 July 2010
 Amended(14) by Proposal 6967 (Wooble), 20 March 2011
+Amended(15) by Proposal 7045 (Walker), 16 May 2011
 
 ----------------------------------------------------------------------
 
@@ -3205,7 +3232,7 @@ Amended(14) by Proposal 6617 (Murphy; disi.), 4 February 2010
 
 ----------------------------------------------------------------------
 
-Rule 107/14 (Power=3)
+Rule 107/15 (Power=3)
 Initiating Agoran Decisions
 
       An Agoran decision is initiated when a person authorized to
@@ -3230,9 +3257,11 @@ Initiating Agoran Decisions
           parameters.
 
       The publication of such a valid notice initiates the voting
-      period for the decision.  By default, the voting period lasts
-      for seven days.  The minimum voting period for a decision with
-      at least two options is seven days.  The vote collector for a
+      period for the decision. Where {X, Y} is a given Speed followed
+      by a number of days, the voting period lasts for Y days when the
+      Speed is X at the time of initiation: {Slow, 14}, {Normal, 7},
+      {Fast, 5}. The minimum voting period for a decision with at
+      least two options is five days.  The vote collector for a
       decision with less than two options CAN and SHALL end the voting
       period by announcement, if it has not ended already, and
       provided that e resolves the decision in the same message.
@@ -3284,6 +3313,7 @@ Amended(11) by Proposal 6157 (Goethe, OscarMeyr, Wooble), 31 March
 Amended(12) by Proposal 6816 (G., Keba), 4 September 2010
 Amended(13) by Proposal 6945 (Murphy, omd; disi.), 16 January 2011
 Amended(14) by Proposal 6981 (Murphy, omd), 10 April 2011
+Amended(15) by Proposal 7045 (Walker), 16 May 2011
 
 ----------------------------------------------------------------------
 
@@ -3402,13 +3432,14 @@ Created by Proposal 6585 (c.; disi.), 6 December 2009
 
 ----------------------------------------------------------------------
 
-Rule 2168/6 (Power=1)
+Rule 2168/7 (Power=1)
 Extending the voting period
 
       Whenever the voting period of an Agoran decision would end, and
       the result would be FAILED QUORUM, the length of the voting
-      period for that decision is instead doubled, provided this has
-      not already happened for the decision in question.
+      period for that decision is instead increased to 14 days, except
+      if it is already that length, provided this has not already
+      happened for the decision in question.
 
       Upon such an occurrence, the vote collector for the decision
       SHALL issue a humiliating public reminder to the slackers who
@@ -3427,6 +3458,7 @@ Amended(3) by Proposal 6294 (Yally), 19 May 2009
 Amended(4) by Proposal 6328 (Murphy), 29 May 2009
 Amended(5) by Proposal 6329 (Murphy), 29 May 2009
 Amended(6) by Proposal 6504 (Murphy; disi.), 3 October 2009
+Amended(7) by Proposal 7045 (Walker), 16 May 2011
 
 ----------------------------------------------------------------------
 
