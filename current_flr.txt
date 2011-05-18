@@ -1,24 +1,24 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7038
-Last change to this ruleset: by Proposal 7038
+Last proposal with recorded effect on this ruleset: 7039
+Last change to this ruleset: by Proposal 7039
 
 Last updated: 17 May 2011
 
-Highest Rule ID number ever assigned: 2342
+Highest Rule ID number ever assigned: 2343
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 93
+Current total number of rules: 94
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
       35 with Power=3
       29 with Power=2
-       7 with Power=1.7
+       8 with Power=1.7
        3 with Power=1.5
       17 with Power=1
 
@@ -80,7 +80,8 @@ Index of Rules
       Rule 2331: Proposal Points
       Rule 2335: Judge Points
       Rule 2336: Officer Points
-      Rule 2332: Winning
+      Rule 2343: Victory Cases
+      Rule 2332: Winning by Points
       Rule 2337: Promises
       Rule 2338: Cashing Promises
 
@@ -1543,15 +1544,52 @@ Amended(1) by Proposal 7035 (scshunt), 16 May 2011
 
 ----------------------------------------------------------------------
 
-Rule 2332/0 (Power=2)
-Winning
+Rule 2343/0 (Power=1.7)
+Victory Cases
 
-      A player CAN destroy 250 points in eir possession to win the
-      game. When a player wins the game, the Scorekeepor is authorized
-      to award em the patent title Champion.
+      Victory cases are a subclass of judicial cases. Any person
+      believing emself to have satisfied a Victory Condition may
+      initiate a victory case with support, indicating the precise
+      Victory Condition which e believes to have satisfied and how e
+      believes e satisfied it.
+
+      The entities eligible to be assigned as judges of a victory case
+      are those judicial panels consisting of three first-class
+      players, none of them having called the case or been
+      disqualified as below. A player can be disqualified from judging
+      a victory case with Agoran Consent. The CotC SHOULD NOT assign a
+      panel to a victory case if there is a pending intent to
+      disqualify one of its members unless it is clear that the intent
+      will fail. Players SHOULD be disqualified only if they have a
+      vested interest in the victory, such as having been a
+      co-scammer.
+
+      A victory case has a judicial question on ascendancy, which is
+      always applicable. The valid judgments for this question are
+      GLORY, appropriate if the Victory Condition was satisfied as
+      described and a judgment of GLORY has not already been reached
+      on an earlier case over substantially the same victory, and
+      SHAME, appropriate otherwise.
+
+      When a judgment of GLORY has continuously been in effect for two
+      weeks, the caller is deemed to have won the game as specified.
+      The Herald shall forthwith award the patent title Champion to
+      the winner. Winning the game does not cause Agora to end.
+
+History:
+Created by Proposal 7039 (scshunt), 16 May 2011
+
+----------------------------------------------------------------------
+
+Rule 2332/1 (Power=2)
+Winning by Points
+
+      A player CAN destroy 250 points in eir possession to satisfy the
+      Victory Condition of Accumulation.
 
 History:
 Created by Proposal 6989 (Wooble), 10 April 2011
+Retitled and amended(1) by Proposal 7039 (scshunt), 16 May 2011
 
 ----------------------------------------------------------------------
 
