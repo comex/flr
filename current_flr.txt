@@ -3318,12 +3318,12 @@ Amended(15) by Proposal 7045 (Walker), 16 May 2011
 
 ----------------------------------------------------------------------
 
-Rule 683/15 (Power=3)
+Rule 683/16 (Power=3)
 Voting on Agoran Decisions
 
       An eligible voter on a particular Agoran decision submits a
       ballot to the vote collector by publishing a valid notice
-      indicating which one of the available options e selects.  To be
+      indicating which two of the available options e selects.  To be
       valid, the ballot must satisfy the following conditions:
 
       (a) The ballot is submitted during the voting period for the
@@ -3344,7 +3344,7 @@ Voting on Agoran Decisions
       entity's voting limit on that decision.  The voting limit of an
       entity that is not an eligible voter on an Agoran decision is
       zero.  The voting limit of an eligible voter on an Agoran
-      decision is one, except where rules say otherwise.
+      decision is two, except where rules say otherwise.
 
       The strength of an option is the number of valid ballots
       selecting that option.
@@ -3381,6 +3381,7 @@ Amended(14) by Proposal 5078 (Zefram), 18 July 2007
 Assigned to Committee on Rules by Proposal 6053 (Murphy, woggle,
   ais523), 23 January 2009
 Amended(15) by Proposal 6378 (Murphy), 3 July 2009
+Amended(16) by Proposal 7032 (omd), 16 May 2011
 
 ----------------------------------------------------------------------
 
