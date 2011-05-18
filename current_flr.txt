@@ -1,24 +1,24 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7035
-Last change to this ruleset: by Proposal 7035
+Last proposal with recorded effect on this ruleset: 7038
+Last change to this ruleset: by Proposal 7038
 
 Last updated: 17 May 2011
 
-Highest Rule ID number ever assigned: 2340
+Highest Rule ID number ever assigned: 2342
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 91
+Current total number of rules: 93
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
       35 with Power=3
       29 with Power=2
-       5 with Power=1.7
+       7 with Power=1.7
        3 with Power=1.5
       17 with Power=1
 
@@ -137,8 +137,10 @@ Index of Rules
       Rule 2277: Appeals of Criminal Cases
       Rule 2205: Judicial Arguments and Evidence
       Rule 2157: Judicial Panels
+      Rule 2341: Judgements by Judicial Panels
       Rule 2318: Motions to Reconsider
       Rule  911: Appeal Cases
+      Rule 2342: Judicial Appeals Panels
       Rule 2175: Judicial Retraction and Excess
       Rule 1868: Judge Assignment Generally
       Rule 1871: The Standing Court
@@ -4373,6 +4375,35 @@ Assigned to Committee on the Judiciary by Proposal 6053 (Murphy,
 
 ----------------------------------------------------------------------
 
+Rule 2341/0 (Power=1.7)
+Judgements by Judicial Panels
+
+      As soon as possible after a judicial panel is assigned to a
+      case, each member of the panel SHALL publish an opinion
+      indicating a valid judgement to assign to the case -- only the
+      last such published opinion for each member is used to determine
+      the outcome.  Each member SHOULD choose an appropriate
+      judgement, and include arguments for eir choice.
+
+      If, immediately after either all members have so published or
+      the time limit for so publishing has ended, a majority of the
+      members have opined for the same judgement, the panel acts to
+      deliver the judgement in question.  If the panel publishes a
+      valid judgement via another mechanism specified in the Rules,
+      the requirement for individual members to publish individual
+      opinions is waived.
+
+      If an open case is assigned to a judicial panel, and one of its
+      members previously published an opinion for that case as part of
+      the same or a different judicial panel, then that opinion stands
+      for the newly-assigned panel unless the case was judged and
+      reopened in the meanwhile.
+
+History:
+Created by Proposal 7038 (scshunt), 16 May 011
+
+----------------------------------------------------------------------
+
 Rule 2318/0 (Power=1.7)
 Motions to Reconsider
 
@@ -4393,7 +4424,7 @@ Created by Proposal 6869 (G.), 8 November 2010
 
 ----------------------------------------------------------------------
 
-Rule 911/40 (Power=1.7)
+Rule 911/41 (Power=1.7)
 Appeal Cases
 
       Appeal cases are a subclass of judicial cases.  An appeal case's
@@ -4468,46 +4499,6 @@ Appeal Cases
       suspended, and remains so until the question on disposition in
       the appeal case is judged.
 
-      As soon as possible after a judicial panel is assigned, each
-      member of the panel SHALL publish an appeals opinion indicating
-      a valid judgement to assign to the case -- only the last such
-      published opinion for each member is used to determine the
-      outcome.  Each member SHOULD choose an appropriate judgement,
-      and include arguments for eir choice.  If prejudice is not
-      explicitly specified, then an opinion indicating AFFIRM or
-      REMAND implicitly indicates without prejudice, while an opinion
-      indicating REMIT or OVERRULE implicitly indicates with
-      prejudice.
-
-      If, immediately after either all members have so published or
-      the time limit for so publishing has ended, a majority of the
-      members have opined for the same judgement, the panel acts to
-      deliver the judgement in question.  If the panel publishes a
-      valid judgement via another mechanism specified in the Rules,
-      the requirement for individual members to publish individual
-      opinions is waived.
-
-      If the time period ends with no majority judgement, then the
-      CotC CAN, and SHALL as soon as possible, by announcement cause
-      the panel to judge either REMAND or REMIT with or without
-      prejudice, whichever e feels is most appropriate.
-
-      Any panel member CAN publish a formal Concurring Opinion with
-      panel member support, provided that the panel has judged AFFIRM,
-      and SHOULD do so if and only if the reasoning by which the prior
-      judge reached eir judgement was incorrect in whole or part.  A
-      Concurring Opinion SHOULD explain the nature of the error(s) in
-      the prior judge's reasoning.  Each Concurring Opinion has an
-      error rating, an integer from 1 to 99, with larger numbers
-      corresponding to larger errors in reasoning; it CAN be specified
-      in the announcement of intent, or else defaults to 50.
-
-      In the week after the panel publishes a valid judgement, any
-      panel member CAN publish a formal Dissenting Opinion with
-      Support.  This Dissenting Opinion becomes a part of the record
-      of the case; it can be used as an aid to help interpret the
-      decision.
-
       The judge of a previously-appealed question SHALL NOT assign the
       same judgement to it without new reasoning that addresses the
       serious doubt about its appropriateness.  Violating this
@@ -4571,6 +4562,24 @@ Amended(37) by Proposal 6705 (comex), 25 April 2010
 Amended(38) by Proposal 6726 (coppro), 22 May 2010
 Amended(39) by Proposal 6811 (Murphy), 4 September 2010
 Amended(40) by Proposal 6969 (Murphy), 20 March 2011
+Amended(41) by Proposal 7038 (scshunt), 16 May 2011
+
+----------------------------------------------------------------------
+
+Rule 2342/0 (Power=1.7)
+Judicial Appeals Panels
+
+      If the time period for judging an appeals case ends with no
+      majority opinion among members of the panel assigned to it, then
+      the CotC CAN, and SHALL as soon as possible, by announcement
+      cause the panel to judge either REMAND or REMIT with or without
+      prejudice, whichever e feels is most appropriate. E SHALL NOT
+      assign the case to another panel solely due to its failure to
+      judge. These requirements are waived if the panel delivers a
+      judgment in the meanwhile.
+
+History:
+Created by Proposal 7038 (scshunt), 16 May 011
 
 ----------------------------------------------------------------------
 
