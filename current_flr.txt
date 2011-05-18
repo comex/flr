@@ -1,17 +1,17 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7015
-Last change to this ruleset: by proposal 7015
+Last proposal with recorded effect on this ruleset: 7021
+Last change to this ruleset: by proposal 7021
 
 Last updated: 23 April 2011
 
-Highest Rule ID number ever assigned: 2338
+Highest Rule ID number ever assigned: 2339
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 90
+Current total number of rules: 91
 
 Power distribution:
        1 with Power=4
@@ -20,7 +20,7 @@ Power distribution:
       32 with Power=2
        5 with Power=1.7
        3 with Power=1.5
-      15 with Power=1
+      16 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -52,6 +52,7 @@ Index of Rules
       Rule  104: First Speaker
       Rule 2326: The President
       Rule  103: The Speaker
+      Rule 2339: Intention
 
       * Rules
       Rule 2141: Role and Attributes of Rules
@@ -596,6 +597,16 @@ Amended(7) by Proposal 6821 (G., ais523), 4 September 2010
 Retitled by Proposal 6961 (G.), 3 March 2011
 Amended(8) by Proposal 6961 (G.), 3 March 2011
 Amended(9) by Proposal 7006 (Walker), 20 April 2011
+
+----------------------------------------------------------------------
+
+Rule 2339/0 (Power=1)
+Intention
+
+      Agora Nomic is intended to be a person.
+
+History:
+Created by Proposal 7021 (Walker), 5 May 2011
 
 ----------------------------------------------------------------------
 
