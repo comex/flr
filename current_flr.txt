@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7026
-Last change to this ruleset: by proposal 7026
+Last proposal with recorded effect on this ruleset: 7027
+Last change to this ruleset: by Proposal 7027
 
 Last updated: 17 May 2011
 
@@ -16,8 +16,8 @@ Current total number of rules: 92
 Power distribution:
        1 with Power=4
        1 with Power=3.2
-      33 with Power=3
-      32 with Power=2
+      35 with Power=3
+      30 with Power=2
        5 with Power=1.7
        3 with Power=1.5
       17 with Power=1
@@ -580,8 +580,8 @@ The Speaker
       Leader.
 
 [Cross-references (10 July 2009): the Speaker's duties are:
-  * figurehead (rule 103)
-  * bestow favors (rule 103)]
+  * figurehead (Rule 103)
+  * bestow favors (Rule 103)]
 
 History:
 Initial Immutable Rule 103, Jun. 30 1993
@@ -970,12 +970,12 @@ The Rulekeepor
       Logical Ruleset.
 
 [Cross-references (2 August 2007): the Rulekeepor's duties are:
-  * manage ID numbers of rules (rule 2141)
-  * assign title to rule (rule 2141)
-  * report ruleset in two formats (rule 1051)
-  * manage Logical Ruleset categories (rule 1681)
-  * annotate the Full Logical Ruleset (rule 1681)
-  * maintain historical rule annotations (rule 1681)]
+  * manage ID numbers of rules (Rule 2141)
+  * assign title to rule (Rule 2141)
+  * report ruleset in two formats (Rule 1051)
+  * manage Logical Ruleset categories (Rule 1681)
+  * annotate the Full Logical Ruleset (Rule 1681)
+  * maintain historical rule annotations (Rule 1681)]
 
 History:
 ...
@@ -1252,15 +1252,15 @@ though it is not mentioned in the rules and no one is obliged to track
 or publish it.]
 
 [Cross-references (13 February 2008): the Registrar's duties are:
-  * track citizenship (rule 869)
-  * report players' identity and contact details (rule 2139)
-  * report registration dates (rule 2139)
-  * issue Writ of FAGE (rule 1789)
-  * report deregistration by Writ of FAGE (rule 1789)
-  * track player activity and report change dates (rule 2130)
-  * track forum publicity (rule 478)
-  * report fora (rule 478)
-  * change the publicity of a forum (rule 478)]
+  * track citizenship (Rule 869)
+  * report players' identity and contact details (Rule 2139)
+  * report registration dates (Rule 2139)
+  * issue Writ of FAGE (Rule 1789)
+  * report deregistration by Writ of FAGE (Rule 1789)
+  * track player activity and report change dates (Rule 2130)
+  * track forum publicity (Rule 478)
+  * report fora (Rule 478)
+  * change the publicity of a forum (Rule 478)]
 
 History:
 Created by Proposal 4939 (Murphy), 29 April 2007
@@ -1550,7 +1550,7 @@ Created by Proposal 6989 (Wooble), 10 April 2011
 
 ----------------------------------------------------------------------
 
-Rule 2337/1 (Power=2)
+Rule 2337/1 (Power=3)
 Promises
 
       Promises are a class of assets.  Horton is an Office and the
@@ -1575,10 +1575,11 @@ Promises
 History:
 Created by Proposal 7015 (G., ais523), 23 April 2011
 Amended(1) by Proposal 7026 (Murphy, omd; disi.), 5 May 2011
+Power changed from 2 to 3 by Proposal 7027 (omd), 5 May 2011
 
 ----------------------------------------------------------------------
 
-Rule 2338/1 (Power=2)
+Rule 2338/1 (Power=3)
 Cashing Promises
 
       A Player CAN cash a promise in eir possession by announcing that
@@ -1605,6 +1606,7 @@ Cashing Promises
 History:
 Created by Proposal 7015 (G., ais523), 23 April 2011
 Amended(1) by Proposal 7026 (Murphy, omd; disi.), 5 May 2011
+Power changed from 2 to 3 by Proposal 7027 (omd), 5 May 2011
 
 ----------------------------------------------------------------------
 
@@ -1921,10 +1923,10 @@ Holidays
       after 2 January is a Holiday.
 
 [CFJ 1434 (called 24 January 2003): The registration of a player is an
-event for the purposes of rule 1769.]
+event for the purposes of Rule 1769.]
 
 [CFJ 1434 (called 24 January 2003): The expiration of a rule-defined
-period is an event for the purposes of rule 1769.]
+period is an event for the purposes of Rule 1769.]
 
 [CFJ 1480 (called 5 January 2004): An automatic event specified to
 occur at regular calendar intervals, for example quarterly, happens at
@@ -2538,7 +2540,7 @@ Offices
       become vacant without objection.
 
 [CFJ 1660 (called 13 May 2007): This rule does not define the meaning
-of the term "office", in the sense meant by rule 754, but rather
+of the term "office", in the sense meant by Rule 754, but rather
 references the usual English definition of "office" and governs
 offices as thus defined.]
 
@@ -2846,8 +2848,8 @@ The Interstellar Associate Director of Personnel
 Personnel is the Director of Personnel.]
 
 [Cross-references (1 March 2008): the IADoP's duties are:
-  * hold election for office where contested (rule 2154)
-  * report officeholding (rule 2138)]
+  * hold election for office where contested (Rule 2154)
+  * report officeholding (Rule 2138)]
 
 History:
 Created by Proposal 4939 (Murphy), 29 April 2007
@@ -3366,7 +3368,7 @@ Determining the Will of Agora
 
 [CFJs 1673-1675 (called 20 May 2007): Quorum for an Agoran decision is
 determined at the time the vote collector makes the calculations
-described in rule 955.]
+described in Rule 955.]
 
 History:
 Initial Mutable Rule 209, Jun. 30 1993
@@ -3679,10 +3681,10 @@ seriously different from any proposal in the pool, then the new
 proposal has no author.]
 
 [Cross-references (2 August 2007): the Promotor's duties are:
-  * not distribute proposals during holiday (rule 1769)
-  * distribute proposals (rule 1607)
-  * manage ID numbers of distributed proposals (rule 1607)
-  * report proposal pool (rule 1607)]
+  * not distribute proposals during holiday (Rule 1769)
+  * distribute proposals (Rule 1607)
+  * manage ID numbers of distributed proposals (Rule 1607)
+  * report proposal pool (Rule 1607)]
 
 History:
 Created by Proposal 2522, Mar. 10 1996
@@ -3788,7 +3790,7 @@ The Assessor
 hands, vote collection duties move with it.]
 
 [Cross-references (1 March 2008): the Assessor's duties are:
-  * vote collector for proposals (rule 106)]
+  * vote collector for proposals (Rule 106)]
 
 History:
 Created by Proposal 4939 (Murphy), 29 April 2007
@@ -3854,15 +3856,15 @@ it is possible for a title to be assigned to a CFJ informally.]
 
 [Cross-references (28 May 2008): the Clerk of the Courts' duties
 are:
-  * not assign judges during holiday (rule 1769)
-  * report open judicial cases (rule 991)
-  * manage ID numbers of non-appeal judicial cases (rule 991)
-  * refuse excess CFJ (rule 2175)
-  * assign judge to judicial case (rule 1868)
-  * not assign a poorly qualified judge (rule 1868)
-  * track player posture (rule 1871)
-  * rotate the bench (rule 1871)
-  * recuse tardy judge (rule 2158)]
+  * not assign judges during holiday (Rule 1769)
+  * report open judicial cases (Rule 991)
+  * manage ID numbers of non-appeal judicial cases (Rule 991)
+  * refuse excess CFJ (Rule 2175)
+  * assign judge to judicial case (Rule 1868)
+  * not assign a poorly qualified judge (Rule 1868)
+  * track player posture (Rule 1871)
+  * rotate the bench (Rule 1871)
+  * recuse tardy judge (Rule 2158)]
 
 History:
 Initial Mutable Rule 213, Jun. 30 1993
@@ -4954,12 +4956,12 @@ title X, and X is not also defined by the rules to have some special
 meaning, it is correct to say that that person "is an X".]
 
 [Cross-references (9 February 2008): the Herald's duties are:
-  * report Patent Titles (rule 649)
-  * announce award or revocation of Patent Title (rule 649)
-  * announce whether a notice of violation is valid (rule 2230)
-  * assign ID numbers to valid notices of violation (rule 2230)
-  * initiate decision for degree award (rule 1367)
-  * award degrees (rule 1367)]
+  * report Patent Titles (Rule 649)
+  * announce award or revocation of Patent Title (Rule 649)
+  * announce whether a notice of violation is valid (Rule 2230)
+  * assign ID numbers to valid notices of violation (Rule 2230)
+  * initiate decision for degree award (Rule 1367)
+  * award degrees (Rule 1367)]
 
 History:
 Created by Proposal 649 (Wes), ca. Oct. 22 1993
@@ -5250,7 +5252,7 @@ be bound by the contract.]
 
 [CFJ 1856 (called 29 December 2007): A contract is null and void if
 the courts do not have sufficient evidence that a person's
-contract-related rights (in rule 101) are not being infringed.  This
+contract-related rights (in Rule 101) are not being infringed.  This
 includes evidence that the party to the contract has reviewed the
 rules and has direct prior knowledge of the fora.]
 
@@ -5295,10 +5297,10 @@ joining it.]
 Truthfulness
 
 [CFJ 1739 (called 29 August 2007): A quotation can result in a
-violation of rule 2215 (then 2149), depending on the context of the
+violation of Rule 2215 (then 2149), depending on the context of the
 rest of the message.]
 
-[CFJ 1849 (called 21 December 2007): Violation of rule 2215 (then
+[CFJ 1849 (called 21 December 2007): Violation of Rule 2215 (then
 2149) can occur without any intent to misdirect.]
 
 [CFJ 1887 (called 30 January 2008): Publicly making the statement
@@ -5312,7 +5314,7 @@ a violation of Rule 2215 if the author is lying down.]
 
 [CFJ 2399 (called 4 March 2009): Even if a type of behavior is likely
 to cause false statements to be accidentally published, a person does
-not violate rule 2215 by engaging in it if there is no specific
+not violate Rule 2215 by engaging in it if there is no specific
 statement e believes is false.]
 
 ----------------------------------------------------------------------
