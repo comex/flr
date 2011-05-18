@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7024
-Last change to this ruleset: by proposal 7024
+Last proposal with recorded effect on this ruleset: 7025
+Last change to this ruleset: by proposal 7025
 
 Last updated: 17 May 2011
 
@@ -1469,7 +1469,7 @@ Amended(2) by Proposal 7011 (G.), 20 April 2011
 
 ----------------------------------------------------------------------
 
-Rule 2331/0 (Power=2)
+Rule 2331/1 (Power=2)
 Proposal Points
 
       When the Agoran Decision to adopt a proposal is resolved:
@@ -1487,8 +1487,13 @@ Proposal Points
       * if the outcome is FAILED QUORUM, the author of the proposal
         gains 2 points.
 
+      However, if the author clearly identified the proposal as
+      disinterested when e submitted it, then no one gains or loses
+      any points due to its outcome.
+
 History:
 Created by Proposal 6989 (Wooble), 10 April 2011
+Amended(1) by Proposal 7025 (Murphy), 5 May 2011
 
 ----------------------------------------------------------------------
 
