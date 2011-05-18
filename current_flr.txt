@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7033
-Last change to this ruleset: by Proposal 7033
+Last proposal with recorded effect on this ruleset: 7034
+Last change to this ruleset: by Proposal 7034
 
 Last updated: 17 May 2011
 
@@ -11,13 +11,13 @@ Highest Rule ID number ever assigned: 2340
 
 Statistics
 
-Current total number of rules: 92
+Current total number of rules: 91
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
       35 with Power=3
-      30 with Power=2
+      29 with Power=2
        5 with Power=1.7
        3 with Power=1.5
       17 with Power=1
@@ -133,7 +133,6 @@ Index of Rules
       Rule  991: Judicial Cases Generally
       Rule 2158: Judicial Questions
       Rule  591: Inquiry Cases
-      Rule 2230: Notices of Violation
       Rule 1504: Criminal Cases
       Rule 2277: Appeals of Criminal Cases
       Rule 2205: Judicial Arguments and Evidence
@@ -4092,103 +4091,19 @@ Amended(33) by Proposal 7022 (Walker, Murphy, omd), 5 May 2011
 
 ----------------------------------------------------------------------
 
-Rule 2230/19 (Power=2)
-Notices of Violation
-
-      A player CAN publish a Notice of Violation (NoV) with N support,
-      where N is the one half of the number of valid NoVs e previously
-      published during the same week, rounded down. An NoV is invalid
-      if it lacks any of the following information, and the lack is
-      correctly identified within one week after the NoV is published:
-       (a) The identity of the Accused;
-       (b) The allegedly illegal action/inaction in question;
-       (c) The Rule that was allegedly broken;
-       (d) If the Rules specify exactly one Class-N Crime (where N is
-           a positive integer) as being associated with the alleged
-           breach, then the name of that Crime and the value of N;
-           otherwise, the Power of the Rule that was allegedly broken.
-
-      Knowingly issuing a NoV with incorrect information is ILLEGAL,
-      and the Class-4 Crime of Libel.
-
-      A NoV is valid if and only if:
-        (1) it clearly specifies the required information for a NoV;
-        (2) no previous valid NoV specified substantially identical
-            information (i.e. the same violation for the same specific
-            act).
-        (3) when a crime is named, the crime is specified within the
-            Rules.
-
-      Neither a NoV's incorrectness (i.e. whether its allegation is
-      false) nor its unfairness (i.e. whether the punishment resulting
-      from leaving it Uncontested would be manifestly unfair according
-      to the guidance of the Rules) affects its validity.
-
-      As soon as possible after a player makes an announcement that is
-      reasonably recognizable as an attempt to issue such a NoV, the
-      CotC SHALL announce whether the NoV was valid.  Such an
-      announcement is self-ratifying.  Affirming the validity of the
-      NoV does not in itself certify the correctness of the
-      allegation.
-
-      A valid NoV is initially Uncontested unless a Crime is named,
-      Contested otherwise.  Within four days after the publication of
-      an Uncontested NoV, any player CAN make it Contested by
-      announcement; a player SHOULD do so if e believes it is
-      incorrect and/or unfair.  An Uncontested NoV becomes Contested
-      upon the initiation of a judicial case questioning its
-      incorrectness and/or unfairness (but not merely by questioning
-      its validity).
-
-      If a NoV is Uncontested and was published at least four days
-      ago, any player CAN cause it to become Closed by announcement.
-      Any player CAN cause a NoV specifying em as Accused to become
-      Closed by announcement. When a NoV becomes Closed, a number of
-      points in the Accused's possession are destroyed equal to the
-      Class of the specified Crime, or in its absence the Power of the
-      violated rule, rounded up.  If a Closed NoV becomes Contested,
-      the points are still destroyed, but CAN be later recreated by
-      judicial processes as described elsewhere.
-
-      Valid NOVs have ID numbers, to be assigned by the CotC.
-
-History:
-Created by Proposal 6010 (ais523, Goethe, Murphy, comex, OscarMeyr),
-  14 December 2008
-Amended(1) by Proposal 6036 (ais523, Wooble; disi.), 13 January 2009
-Assigned to Committee on Crime by Proposal 6053 (Murphy, woggle,
-  ais523), 23 January 2009
-Amended(2) by Proposal 6056 (Taral), 23 January 2009
-Amended(3) by Proposal 6057 (Taral), 23 January 2009
-Amended(4) by Proposal 6063 (Taral; disi.), 4 February 2009
-Amended(5) by Proposal 6093 (Murphy), 22 February 2009
-Amended(6) by Proposal 6094 (ais523), 22 February 2009
-Amended(7) by Proposal 6103 (Murphy), 22 February 2009
-Amended(8) by Proposal 6079 (Murphy), 22 February 2009
-Amended(9) by Proposal 6120 (Murphy), 5 March 2009
-Amended(10) by Proposal 6138 (Murphy), 15 March 2009
-Amended(11) by Proposal 6307 (BobTHJ; disi.), 26 May 2009
-Amended(12) by Proposal 6327 (Murphy), 29 May 2009
-Amended(13) by Proposal 6427 (BobTHJ), 18 August 2009
-Amended(14) by Proposal 6575 (G.; disi.), 28 November 2009
-Amended(15) by Proposal 6718 (coppro), 4 May 2010
-Amended(16) by Proposal 6961 (G.), 3 March 2011
-Amended(17) by Proposal 6967 (Wooble), 20 March 2011
-Amended(18) by Proposal 7010 (Walker), 20 April 2011
-Amended(19) by Proposal 7024 (Murphy), 5 May 2011
-
-----------------------------------------------------------------------
-
-Rule 1504/53 (Power=2)
+Rule 1504/54 (Power=2)
 Criminal Cases
 
-      Criminal cases are a subclass of judicial cases.  Any
-      first-class person can initiate a criminal case by an
-      announcement calling for judgement on the circumstances
-      surrounding a specified valid Notice of Violation alleging a
-      rules breach by a single entity (the Accused).  The initiator
-      and each member of the Accused's basis are unqualified to be
-      assigned as judge of the case.
+      Criminal cases are a subclass of judicial cases.  Any person can
+      initiate a criminal case by announcement, specifying:
+
+      (a) a person (the Accused),
+      (b) an action the Accused allegedly performed or failed to
+          perform, and
+      (c) a rule allegedly violated by that action/inaction.
+
+      The initiator and each member of the Accused's basis are
+      unqualified to be assigned as judge of the case.
 
       A criminal case has a judicial question on culpability, which is
       applicable at all times following the call for judgement.  The
@@ -4201,9 +4116,8 @@ Criminal Cases
        (b) the breach occurred within 90 days prior to the case being
            initiated;
        (c) judgement has not already been reached in another criminal
-           case, or punishment already applied through another
-           uncontested notice of violation, with the same Accused, the
-           same rule, and substantially the same alleged act;
+           case with the same Accused, the same rule, and
+           substantially the same alleged act;
        (d) the Accused could have reasonably believed that the alleged
            act did violate the specified rule;
        (e) the Accused could have reasonably avoided committing the
@@ -4214,11 +4128,6 @@ Criminal Cases
         delivering this verdict, the judge SHOULD indicate which of
         the sub-requirements for a finding of guilty were not found to
         be true beyond a reasonable doubt.
-
-      When a judicial question on culpability is judged after a number
-      of the Accused's points have been destroyed due to the
-      associated notice, the Accused CAN recreate those points in eir
-      possession by announcement.
 
       A criminal case has a judicial question on sentencing, which is
       applicable if the question on culpability is applicable and has
@@ -4375,6 +4284,7 @@ Amended(50) by Proposal 7002 (Murphy), 20 April 2011
 Amended(51) by Proposal 7005 (Walker, Yally, G.), 20 April 2011
 Amended(52) by Proposal 7010 (Walker), 20 April 2011
 Amended(53) by Proposal 7012 (Walker), 20 April 2011
+Amended(54) by Proposal 7034 (omd), 16 May 2011
 
 ----------------------------------------------------------------------
 
@@ -4957,8 +4867,6 @@ meaning, it is correct to say that that person "is an X".]
 [Cross-references (9 February 2008): the Herald's duties are:
   * report Patent Titles (Rule 649)
   * announce award or revocation of Patent Title (Rule 649)
-  * announce whether a notice of violation is valid (Rule 2230)
-  * assign ID numbers to valid notices of violation (Rule 2230)
   * initiate decision for degree award (Rule 1367)
   * award degrees (Rule 1367)]
 
