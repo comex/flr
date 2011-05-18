@@ -1,17 +1,17 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7043
-Last change to this ruleset: by Proposal 7043
+Last proposal with recorded effect on this ruleset: 7044
+Last change to this ruleset: by Proposal 7044
 
 Last updated: 17 May 2011
 
-Highest Rule ID number ever assigned: 2344
+Highest Rule ID number ever assigned: 2346
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 95
+Current total number of rules: 97
 
 Power distribution:
        1 with Power=4
@@ -20,7 +20,7 @@ Power distribution:
       29 with Power=2
        8 with Power=1.7
        3 with Power=1.5
-      18 with Power=1
+      20 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -85,6 +85,8 @@ Index of Rules
       Rule 2332: Winning by Points
       Rule 2337: Promises
       Rule 2338: Cashing Promises
+      Rule 2345: Bets
+      Rule 2346: Betting Markets
 
       * Definitions
       Rule  754: Definition Definitions
@@ -1667,6 +1669,88 @@ History:
 Created by Proposal 7015 (G., ais523), 23 April 2011
 Amended(1) by Proposal 7026 (Murphy, omd; disi.), 5 May 2011
 Power changed from 2 to 3 by Proposal 7027 (omd), 5 May 2011
+
+----------------------------------------------------------------------
+
+Rule 2345/0 (Power=1)
+Bets
+
+      The betting period for a decision on the adoption of a proposal
+      or a degree begins when the proposal or thesis is submitted; the
+      betting period for an election begins when the nomination period
+      begins. The betting period for each decision ends when the
+      decision is initiated.
+
+      During the betting period for a given Agoran Decision, each
+      active player (the Better) CAN submit a Bet privately to the
+      vote collector for that decision.
+
+      To be valid, a Bet must
+      a) consist of an indication of which outcome the Better thinks
+         Agora will select in a specified decision,
+      b) clearly indicate the number of Points staked in the Bet - a
+         number of Points less than or equal to the number of Points
+         the Better owns,
+      c) not be sent to anyone other than the Better and the vote
+         collector,
+      d) not be submitted by the vote collector, and
+      e) be submitted during the betting period for the decision.
+
+      The validity of a Bet is measured when its betting market is
+      resolved. Only the last Bet submitted by each player (which
+      would otherwise be valid) is valid.
+
+      Players SHALL NOT reveal the existence or details of any Bet to
+      any person other than the vote collector before the betting
+      period has finished, except where allowed by this Rule;
+      violating this requirement is the Class-6 Crime of Collusion.
+
+      If the vote collector for a decision changes before the decision
+      has been resolved, and one or more Bets have been submitted for
+      the decision, then the previous vote collector SHALL inform the
+      new collector of these Bets and their contents privately, before
+      the decision is resolved. The previous vote collector becomes
+      eligible to submit Bets for the decision if the betting period
+      has not ended, and any previous Bets submitted by the new vote
+      collector become invalid.
+
+History:
+Created by Proposal 7044 (Walker), 16 May 2011
+
+----------------------------------------------------------------------
+
+Rule 2346/0 (Power=1)
+Betting Markets
+
+      There is a betting market on a decision if
+      a) more than one player has submitted a valid Bet on the
+         decision,
+      b) more than one outcome was Betted on, and
+      c) at least one of the Bets was for the correct outcome.
+
+      After a decision has been resolved, the vote collector CAN
+      resolve the betting market (if any) on the decision, and SHALL
+      do so as soon as possible.
+
+      The resolution of a betting market reveals the outcome betted on
+      by each Better, and the number of Points they staked, in valid
+      Bets. Upon the valid resolution of a betting market
+      a) any Points staked on an incorrect outcome are destroyed
+      b) an equal (or less due to rounding) number of Points are
+         awarded to the player(s) who Betted on the correct outcome,
+         such that the proportion of Points gained by each winning
+         Better is directly proportional to the number of Points they
+         staked, rounded down as necessary.
+
+      To be valid, the resolution must specify how many Points are
+      lost and gained by each Better.
+
+      The resolution of a betting market constitutes a self-ratifying
+      claim that the Bets in the resolution are valid, and that no
+      other valid Bets were submitted for the decision.
+
+History:
+Created by Proposal 7044 (Walker), 16 May 2011
 
 ----------------------------------------------------------------------
 
