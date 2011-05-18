@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7049
-Last change to this ruleset: by Proposal 7049
+Last proposal with recorded effect on this ruleset: 7050
+Last change to this ruleset: by Proposal 7050
 
 Last updated: 17 May 2011
 
@@ -136,7 +136,7 @@ Index of Rules
 
       * Adjudication
       Rule  991: Judicial Cases Generally
-      Rule 2158: Judicial Questions
+      Rule 2158: Judges
       Rule  591: Inquiry Cases
       Rule 1504: Criminal Cases
       Rule 2277: Appeals of Criminal Cases
@@ -2053,7 +2053,7 @@ Created by Proposal 7045 (Walker), 16 May 2011
 
 ----------------------------------------------------------------------
 
-Rule 1769/7 (Power=3)
+Rule 1769/8 (Power=3)
 Holidays
 
       A Holiday is a period of time designated as such by the Rules.
@@ -2061,7 +2061,7 @@ Holidays
       During a Holiday, the Promotor SHALL NOT distribute any
       proposals, and judges SHALL NOT be assigned to any judicial
       case, and judges SHALL NOT assign judgement to any judicial
-      question.
+      case.
 
       If some Rule requires that an action be done prior to a given
       time, and that given time falls during a Holiday, or within the
@@ -2108,6 +2108,7 @@ Amended(5) by Proposal 5086 (Zefram), 1 August 2007
 Amended(6) by Proposal 5484 (Murphy; disi.), 2 April 2008
 Amended(7) by Proposal 5535 (Murphy), 7 June 2008
 Power changed from 2 to 3 by Proposal 5701 (ais523), 1 October 2008
+Amended(8) by Proposal 7050 (omd), 16 May 2011
 
 ----------------------------------------------------------------------
 
@@ -3996,7 +3997,7 @@ Adjudication
       controversy are resolved.
 ----------------------------------------------------------------------
 
-Rule 991/11 (Power=2)
+Rule 991/12 (Power=2)
 Judicial Cases Generally
 
       A judicial case, also known as a call for judgement (CFJ), is a
@@ -4011,8 +4012,7 @@ Judicial Cases Generally
 
       The Clerk of the Courts (CotC) is an office, responsible for
       managing judicial activity.  The CotC's report includes the
-      status of all judicial cases that either require a judge or have
-      at least one applicable judicial question that has no judgement.
+      status of all judicial cases without a judgement.
 
       Judicial cases (other than appeal cases, which have historically
       been identified by reference to the prior case) have ID numbers,
@@ -4058,47 +4058,36 @@ Amended(10) by Proposal 5317 (Murphy), 28 November 2007
 Amended(11) by Proposal 5464 (Murphy), 13 March 2008
 Assigned to Committee on the Judiciary by Proposal 6053 (Murphy,
   woggle, ais523), 23 January 2009
+Amended(12) by Proposal 7050 (omd), 16 May 2011
 
 ----------------------------------------------------------------------
 
-Rule 2158/9 (Power=2)
-Judicial Questions
+Rule 2158/10 (Power=2)
+Judges
 
-      A judicial question is a question that arises within a judicial
-      case.  Judicial questions arise only as defined by the rules.
-      Defining a judicial question is secured, with a power threshold
-      of 1.7.
-
-      At any time, each judicial question is either inapplicable
-      (default) or applicable.  This is not a persistent status, but
-      is evaluated instantaneously.
-
-      At any time, each judicial question is either open (default),
+      At any time, each judicial case is either open (default),
       suspended, or has exactly one judgement.  This is a persistent
       status that changes only according to the rules.  The possible
-      types of judgement for a judicial question depend on the type of
-      question.
+      types of judgement for a judicial case depend on the type of
+      case.
 
-      When a judicial question is applicable and open, its case
-      requires a judge.
+      When a judicial case is open and has a judge assigned to it, the
+      judge CAN assign a valid judgement to it by announcement, and
+      SHALL do so as soon as possible, unless e is recused from the
+      case before the time limit for doing so has expired.  A judge
+      SHOULD NOT assign an inappropriate judgement to any judicial
+      case.  A judgement is valid and/or appropriate only as defined
+      by the rules.  Defining these things is secured, with a power
+      threshold of 1.7.  If more than one judgement is valid and
+      appropriate, then the choice between them is left to the judge's
+      discretion.
 
-      When a judicial question is applicable and open, and its case
-      has a judge assigned to it, the judge CAN assign a valid
-      judgement to it by announcement, and SHALL do so as soon as
-      possible, unless e is recused from the case before the time
-      limit for doing so has expired.  A judge SHOULD NOT assign an
-      inappropriate judgement to any judicial question.  A judgement
-      is valid and/or appropriate only as defined by the rules.
-      Defining these things is secured, with a power threshold of 1.7.
-      If more than one judgement is valid and appropriate, then the
-      choice between them is left to the judge's discretion.
-
-      When a judicial question on a non-appeal case is applicable and
-      open, and its judge has violated a time limit to assign a
-      judgement to it, or is not an active player, the Clerk of the
-      Courts SHALL recuse that judge with cause by announcement as
-      soon as possible; however, this requirement is waived if the
-      judge assigns a judgement to it first.
+      When a non-appeal judicial case is open, and its judge has
+      violated a time limit to assign a judgement to it, or is not an
+      active player, the Clerk of the Courts SHALL recuse that judge
+      with cause by announcement as soon as possible; however, this
+      requirement is waived if the judge assigns a judgement to it
+      first.
 
 [CFJ 1804 (called 19 November 2007): A judge should give the judgement
 that e believes is appropriate, and if e does so in good faith then e
@@ -4122,10 +4111,11 @@ Assigned to Committee on the Judiciary by Proposal 6053 (Murphy,
 Amended(7) by Proposal 6391 (Murphy), 10 July 2009
 Amended(8) by Proposal 6399 (Wooble), 17 July 2009
 Amended(9) by Proposal 6404 (Murphy; disi.), 30 July 2009
+Amended(10) by Proposal 7050 (omd), 16 May 2011
 
 ----------------------------------------------------------------------
 
-Rule 591/33 (Power=1.7)
+Rule 591/34 (Power=1.7)
 Inquiry Cases
 
       Inquiry cases are a subclass of judicial cases.  An inquiry
@@ -4141,10 +4131,9 @@ Inquiry Cases
       case, and in the initiating announcement e CAN disqualify one
       person from assignment as judge of the case.
 
-      An inquiry case has a judicial question on veracity, which is
-      always applicable.  The valid judgements for this question are
-      as follows, based on the truth or falsity of the statement at
-      the time the inquiry case was initiated:
+      The valid judgements for an inquiry case are as follows, based
+      on the truth or falsity of the statement at the time the inquiry
+      case was initiated:
 
       * FALSE, appropriate if the statement was factually and
         logically false
@@ -4161,7 +4150,7 @@ Inquiry Cases
         extrapolation of the game or its rules to conditions that
         don't actually exist, or if it can be trivially determined
         from the outcome of another (possibly still undecided)
-        judicial question which was not itself judged IRRELEVANT
+        judicial case
 
       * UNDETERMINED, appropriate if the statement is nonsensical or
         too vague, or if the information available to the judge is
@@ -4262,10 +4251,11 @@ Assigned to Committee on the Judiciary by Proposal 6053 (Murphy,
 Amended(31) by Proposal 6571 (ais523), 28 November 2009
 Amended(32) by Proposal 6931 (omd), 2 January 2011
 Amended(33) by Proposal 7022 (Walker, Murphy, omd), 5 May 2011
+Amended(34) by Proposal 7050 (omd), 16 May 2011
 
 ----------------------------------------------------------------------
 
-Rule 1504/54 (Power=2)
+Rule 1504/55 (Power=2)
 Criminal Cases
 
       Criminal cases are a subclass of judicial cases.  Any person can
@@ -4279,12 +4269,10 @@ Criminal Cases
       The initiator and each member of the Accused's basis are
       unqualified to be assigned as judge of the case.
 
-      A criminal case has a judicial question on culpability, which is
-      applicable at all times following the call for judgement.  The
-      valid judgements for this question are:
+      The valid judgements for a criminal case are as follows:
 
-      * GUILTY, appropriate if the judge finds, beyond a reasonable
-        doubt, that ALL of the following are true:
+      * GUILTY with a valid sentence, appropriate if the judge finds,
+        beyond a reasonable doubt, that ALL of the following are true:
        (a) the Accused breached the specified rule via the specified
            act;
        (b) the breach occurred within 90 days prior to the case being
@@ -4303,12 +4291,8 @@ Criminal Cases
         the sub-requirements for a finding of guilty were not found to
         be true beyond a reasonable doubt.
 
-      A criminal case has a judicial question on sentencing, which is
-      applicable if the question on culpability is applicable and has
-      a judgement of GUILTY.  If a criminal case has an applicable
-      question on sentencing which has a judgement, the Accused is
-      hereafter known as the ninny, the judgement in the question on
-      sentencing is known as the sentence, and the sentence is in
+      When a sentence has been assigned as part of a GUILTY judgement,
+      the Accused is known as the ninny, and the sentence is in
       effect.
 
       The valid sentences are:
@@ -4334,9 +4318,9 @@ Criminal Cases
         maximum.  When in effect, the ninny SHALL, as soon as
         possible, either destroy this amount of eir asset or transfer
         it to the Lost and Found Department. The ninny is only obliged
-        to perform one destruction or transfer per question on
-        sentencing, even if sentences of this type are assigned more
-        than once or go into effect more than once.
+        to perform one destruction or transfer per case, even if
+        sentences of this type are assigned more than once or go into
+        effect more than once.
 
       * COMMUNITY SERVICE with a set of up to five tasks (the
         prescribed tasks) that the ninny CAN reasonably and legally
@@ -4459,29 +4443,22 @@ Amended(51) by Proposal 7005 (Walker, Yally, G.), 20 April 2011
 Amended(52) by Proposal 7010 (Walker), 20 April 2011
 Amended(53) by Proposal 7012 (Walker), 20 April 2011
 Amended(54) by Proposal 7034 (omd), 16 May 2011
+Amended(55) by Proposal 7050 (omd), 16 May 2011
 
 ----------------------------------------------------------------------
 
-Rule 2277/2 (Power=2)
+Rule 2277/3 (Power=2)
 Appeals of Criminal Cases
 
       An appeal concerning any assignment of judgement in a criminal
       case within the past week CAN be initiated by the accused by
       announcement.
 
-      Unless otherwise specified, an appeal of a judgement in a
-      criminal case is assumed to be appealing the question of
-      culpability.
-
-      When a judgement on a criminal case's question of culpability is
-      suspended, the judgement (if any) on its question of sentencing
-      is also suspended.  Afterward, if the first judgement is
-      assigned again, then so is the second.
-
 History:
 Created by Proposal 6536 (Murphy), 4 November 2009
 Amended(1) by cleaning (omd), 30 November 2010
 Amended(2) by Proposal 6961 (G.), 3 March 2011
+Amended(3) by Proposal 7050 (omd), 16 May 2011
 
 ----------------------------------------------------------------------
 
@@ -4575,32 +4552,32 @@ Created by Proposal 7038 (scshunt), 16 May 011
 
 ----------------------------------------------------------------------
 
-Rule 2318/0 (Power=1.7)
+Rule 2318/1 (Power=1.7)
 Motions to Reconsider
 
-      If a non-Appeals judicial question (1) has a judgement that has
-      been in effect for less than seven days and not been appealed,
-      and (2) has not had a Motion to Reconsider filed for it at any
-      time while it has been assigned to its current judge, then any
-      Player CAN file a Motion to Reconsider the question with 2
-      Support.
+      If a non-Appeals judicial case (1) has a judgement that has been
+      in effect for less than seven days and not been appealed, and
+      (2) has not had a Motion to Reconsider filed for it at any time
+      while it has been assigned to its current judge, then any Player
+      CAN file a Motion to Reconsider the case with 2 Support.
 
-      When a Motion to Reconsider is so filed, the question is
-      rendered open again.  A player who files such a Motion SHOULD
-      include arguments as to why the question needs reconsideration,
-      and such arguments become part of the record of the case.
+      When a Motion to Reconsider is so filed, the case is rendered
+      open again.  A player who files such a Motion SHOULD include
+      arguments as to why the case needs reconsideration, and such
+      arguments become part of the record of the case.
 
 History:
 Created by Proposal 6869 (G.), 8 November 2010
+Amended(1) by Proposal 7050 (omd), 16 May 2011
 
 ----------------------------------------------------------------------
 
-Rule 911/43 (Power=1.7)
+Rule 911/44 (Power=1.7)
 Appeal Cases
 
       Appeal cases are a subclass of judicial cases.  An appeal case's
       purpose is to determine the appropriateness of a judgement that
-      has been assigned to a judicial question, and make remedy if the
+      has been assigned to a judicial case, and make remedy if the
       judgement was poorly chosen.  The assignment of judgement being
       questioned (appealed against, or appealed) is referred to as the
       prior assignment; the word "prior" in this rule is used to refer
@@ -4620,9 +4597,7 @@ Appeal Cases
       assign a panel where each of the members is well qualified to be
       assigned as judge of the prior case.
 
-      An appeal case has a judicial question on disposition, which is
-      applicable if and only if the prior question is applicable.  The
-      valid judgements for the question on disposition are of the form
+      The valid judgements for an appeal case are of the form
       "<action> with prejudice" or "<action> without prejudice".  Such
       a judgement is generally appropriate if and only if
       (1) the action is appropriate, and
@@ -4635,11 +4610,11 @@ Appeal Cases
       follows:
 
       * AFFIRM, appropriate if the prior judgement was appropriate for
-        the prior question; the prior judgement is assigned to the
-        prior question again
+        the prior case; the prior judgement is assigned to the prior
+        case again
 
       * REMAND, appropriate if there is serious doubt about whether
-        the prior judgement was appropriate; the prior question is
+        the prior judgement was appropriate; the prior case is
         rendered open again; the judge SHOULD assign this judgement if
         the judge believes that the judge of the prior case will make
         a better judgement if given a new opportunity
@@ -4651,23 +4626,22 @@ Appeal Cases
         arising merely due to a difference of opinion or a wholly
         incidental material benefit common among many players); the
         judge of the prior case (if any) is recused, and the prior
-        question is rendered open again; the judge SHOULD assign this
+        case is rendered open again; the judge SHOULD assign this
         judgement if the judge believes that the judge of the prior
         case will not make a better judgement if given a new
         opportunity
 
       * OVERRULE with a valid replacement judgement for the prior
-        question, appropriate if the prior judgement was inappropriate
-        in the prior question and the replacement judgement is
-        appropriate for the prior question; the replacement judgement
-        is assigned to the prior question
+        case, appropriate if the prior judgement was inappropriate in
+        the prior case and the replacement judgement is appropriate
+        for the prior case; the replacement judgement is assigned to
+        the prior case
 
       The appropriateness of the prior judgement is measured at the
       time it was assigned.
 
-      When an appeal case is initiated, the prior question is
-      suspended, and remains so until the question on disposition in
-      the appeal case is judged.
+      When an appeal case is initiated, the prior case is suspended,
+      and remains so until the the appeal case is judged.
 
       The judge of a previously-appealed question SHALL NOT assign the
       same judgement to it without new reasoning that addresses the
@@ -4739,6 +4713,7 @@ Amended(40) by Proposal 6969 (Murphy), 20 March 2011
 Amended(41) by Proposal 7038 (scshunt), 16 May 2011
 Amended(42) by Proposal 7042 (Murphy; disi.), 16 May 2011
 Amended(43) by Proposal 7049 (omd), 16 May 2011
+Amended(44) by Proposal 7050 (omd), 16 May 2011
 
 ----------------------------------------------------------------------
 
@@ -4786,7 +4761,7 @@ Amended(6) by Proposal 6944 (omd; disi.), 16 January 2011
 
 ----------------------------------------------------------------------
 
-Rule 1868/17 (Power=2)
+Rule 1868/18 (Power=2)
 Judge Assignment Generally
 
       At any time, a judicial case either has no judge assigned to it
@@ -4794,13 +4769,9 @@ Judge Assignment Generally
       This is a persistent status that changes only according to the
       rules.
 
-      At any time, a judicial case either does not require a judge
-      (default) or requires a judge.  This is not a persistent status,
-      but is evaluated instantaneously.
-
-      When a judicial case requires a judge and has no judge assigned,
-      the CotC CAN assign a qualified entity to be its judge by
-      announcement, and SHALL do so as soon as possible.
+      When a judicial case is open and has no judge assigned, the CotC
+      CAN assign a qualified entity to be its judge by announcement,
+      and SHALL do so as soon as possible.
 
       The entities qualified to be assigned as judge of a judicial
       case are the active first-class players who have not previously
@@ -4859,6 +4830,7 @@ Amended(14) by Proposal 6264 (comex), 11 May 2009
 Amended(15) by Proposal 6279 (Murphy), 19 May 2009
 Amended(16) by Proposal 6510 (Murphy), 3 October 2009
 Amended(17) by Proposal 6961 (G.), 3 March 2011
+Amended(18) by Proposal 7050 (omd), 16 May 2011
 
 ----------------------------------------------------------------------
 
@@ -4958,7 +4930,7 @@ Created by Proposal 5468 (Murphy), 13 March 2008
 
 ----------------------------------------------------------------------
 
-Rule 2164/3 (Power=1)
+Rule 2164/4 (Power=1)
 Judicial Self-Recusal and Case Transfer
 
       The judge of a judicial case CAN recuse emself from it at any
@@ -4969,14 +4941,14 @@ Judicial Self-Recusal and Case Transfer
       judge of a judicial case (the transferor), assign emself as the
       new judge of that case, provided that e is qualified to be
       assigned as judge of that case, and e immediately (in the same
-      announcement) assigns a judgement to a judicial question in that
-      case.
+      announcement) assigns a judgement to that case.
 
 History:
 Created by Proposal 5131 (Zefram), 13 August 2007
 Amended(1) by Proposal 5151 (root), 29 August 2007
 Amended(2) by Proposal 5465 (Murphy), 13 March 2008
 Amended(3) by Proposal 6024 (Murphy), 22 December 2008
+Amended(4) by Proposal 7050 (omd), 16 May 2011
 
 ----------------------------------------------------------------------
 
@@ -5005,7 +4977,7 @@ Patent Titles and Degrees
       A category concerning titles of honor and dishonor.
 ----------------------------------------------------------------------
 
-Rule 649/31 (Power=1.5)
+Rule 649/32 (Power=1.5)
 Patent Titles
 
       A Patent Title is a legal item given in recognition of a
@@ -5015,7 +4987,7 @@ Patent Titles
       A person specifically authorized by the rules to award (revoke)
       a Patent Title SHALL do so as soon as possible after the
       conditions authorizing em to do so are announced, unless there
-      is an open judicial question contesting the validity of those
+      is an open judicial case contesting the validity of those
       conditions.  Awarding or revoking a Patent Title by any other
       method is secured.
 
@@ -5095,6 +5067,7 @@ Amended(28) by Proposal 6047 (comex), 13 January 2009
 Amended(29) by Proposal 6175 (Yally), 7 April 2009
 Amended(30) by cleaning (Wooble), 13 April 2009
 Amended(31) by Proposal 6424 (Murphy), 16 August 2009
+Amended(32) by Proposal 7050 (omd), 16 May 2011
 
 ----------------------------------------------------------------------
 
