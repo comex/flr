@@ -2393,6 +2393,10 @@ imply that X can do Z.]
 list archives, attaching a message with a particular text does not
 count as publishing that text.]
 
+[CFJ 3025 (called 15 May 2011): If it is clear what he did, then it
+must be clear what he did; if it is not clear what he did, then it is
+not clear what he did.]
+
 History:
 Created by Proposal 478 (Jim Shea), Sep. 20 1993
 Amended(1) by Proposal 1477, Mar. 8 1995
