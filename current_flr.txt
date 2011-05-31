@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7050
-Last change to this ruleset: by Proposal 7050
+Last proposal with recorded effect on this ruleset: 7053
+Last change to this ruleset: by Proposal 7053
 
-Last updated: 17 May 2011
+Last updated: 31 May 2011
 
 Highest Rule ID number ever assigned: 2347
 
@@ -1492,31 +1492,19 @@ Amended(2) by Proposal 7011 (G.), 20 April 2011
 
 ----------------------------------------------------------------------
 
-Rule 2331/1 (Power=2)
+Rule 2331/2 (Power=2)
 Proposal Points
 
-      When the Agoran Decision to adopt a proposal is resolved:
-
-      * if the outcome is ADOPTED, the author of the proposal gains 2
-        points for each valid vote FOR the proposal, less 1 point for
-        each valid vote AGAINST the proposal. Each co-author of the
-        proposal gains 2 points.
-
-      * if the outcome is REJECTED, the author of the proposal loses 2
-        points for each valid vote AGAINST the proposal, less 1 point
-        for each valid vote FOR the proposal. If e would lose fewer
-        than 2 points, e loses 2 points.
-
-      * if the outcome is FAILED QUORUM, the author of the proposal
-        gains 2 points.
-
-      However, if the author clearly identified the proposal as
-      disinterested when e submitted it, then no one gains or loses
-      any points due to its outcome.
+      When the Agoran Decision to adopt a proposal is resolved, if the
+      outcome is ADOPTED, the author of the proposal gains 2  points
+      for each valid vote FOR the proposal, less 1 point for each
+      valid vote AGAINST the proposal. Each co-author of the proposal
+      gains 2 points.
 
 History:
 Created by Proposal 6989 (Wooble), 10 April 2011
 Amended(1) by Proposal 7025 (Murphy), 5 May 2011
+Amended(2) by Proposal 7053 (omd), 26 May 2011
 
 ----------------------------------------------------------------------
 
