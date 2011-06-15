@@ -2844,7 +2844,8 @@ Deputisation
 
 [CFJ 1776 (called 1 November 2007): A requirement to perform an
 action, for the purposes of this rule, can be a logical implication
-from rules and circumstances, not just directly imposed by the rules.]
+from rules and circumstances, not just directly imposed by the rules.
+In particular, it is possible to deputise to rotate the bench.]
 
 [CFJ 2400 (called 6 March 2009): Deputisation is generally treated as
 if the deputy gained the office immediately before the action, and
