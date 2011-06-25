@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7053
-Last change to this ruleset: by Proposal 7053
+Last proposal with recorded effect on this ruleset: 7061
+Last change to this ruleset: by Proposal 7061
 
-Last updated: 31 May 2011
+Last updated: 25 June 2011
 
 Highest Rule ID number ever assigned: 2347
 
@@ -1589,15 +1589,17 @@ Created by Proposal 7039 (scshunt), 16 May 2011
 
 ----------------------------------------------------------------------
 
-Rule 2332/1 (Power=2)
+Rule 2332/2 (Power=2)
 Winning by Points
 
-      A player CAN destroy 250 points in eir possession to satisfy the
+      A player CAN destroy 250 points in the possession of any
+      indicated player to cause the indicated player to satisfy the
       Victory Condition of Accumulation.
 
 History:
 Created by Proposal 6989 (Wooble), 10 April 2011
 Retitled and amended(1) by Proposal 7039 (scshunt), 16 May 2011
+Amended(2) by Proposal 7061 (G.), 16 June 2011
 
 ----------------------------------------------------------------------
 
