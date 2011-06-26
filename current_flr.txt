@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7067
-Last change to this ruleset: by Proposal 7067
+Last proposal with recorded effect on this ruleset: 7072
+Last change to this ruleset: by Proposal 7072
 
 Last updated: 25 June 2011
 
@@ -4591,7 +4591,7 @@ Amended(2) by Proposal 7065 (scshunt), 16 June 2011
 
 ----------------------------------------------------------------------
 
-Rule 911/44 (Power=1.7)
+Rule 911/45 (Power=1.7)
 Appeal Cases
 
       Appeal cases are a subclass of judicial cases.  An appeal case's
@@ -4665,8 +4665,7 @@ Appeal Cases
       The judge of a previously-appealed question SHALL NOT assign the
       same judgement to it without new reasoning that addresses the
       serious doubt about its appropriateness.  Violating this
-      prohibition is the Class-N Crime of Lazy Judging, where N is the
-      judge's rank when e so judged.
+      prohibition is the Class-2 Crime of Lazy Judging.
 
       A person SHALL NOT appeal a judgement (except on a question of
       sentencing) unless e reasonably believes that the judgement
@@ -4733,6 +4732,7 @@ Amended(41) by Proposal 7038 (scshunt), 16 May 2011
 Amended(42) by Proposal 7042 (Murphy; disi.), 16 May 2011
 Amended(43) by Proposal 7049 (omd), 16 May 2011
 Amended(44) by Proposal 7050 (omd), 16 May 2011
+Amended(45) by Proposal 7072 (woggle), 16 June 2011
 
 ----------------------------------------------------------------------
 
