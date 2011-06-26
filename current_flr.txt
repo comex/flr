@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7062
-Last change to this ruleset: by Proposal 7062
+Last proposal with recorded effect on this ruleset: 7063
+Last change to this ruleset: by Proposal 7063
 
 Last updated: 25 June 2011
 
@@ -2030,12 +2030,12 @@ Amended(28) by Proposal 7045 (Walker), 16 May 2011
 
 ----------------------------------------------------------------------
 
-Rule 2347/0 (Power=2)
+Rule 2347/1 (Power=2)
 Speed
 
-      The Speed switch is a single switch, tracked by the Assessor,
-      with values of Slow, Normal (default) and Fast. The Speed switch
-      is secured.
+      The Speed switch is an Agora Nomic switch, tracked by the
+      Assessor, with values of Slow, Normal (default) and Fast. The
+      Speed switch is secured.
 
       When the Speed has not been changed in the past month, the
       President CAN flip the Speed to Normal or Fast by announcement.
@@ -2045,6 +2045,7 @@ Speed
 
 History:
 Created by Proposal 7045 (Walker), 16 May 2011
+Amended(1) by Proposal 7063 (G.), 16 June 2011
 
 ----------------------------------------------------------------------
 
