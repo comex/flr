@@ -1,17 +1,17 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7065
-Last change to this ruleset: by Proposal 7065
+Last proposal with recorded effect on this ruleset: 7067
+Last change to this ruleset: by Proposal 7067
 
 Last updated: 25 June 2011
 
-Highest Rule ID number ever assigned: 2347
+Highest Rule ID number ever assigned: 2348
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 98
+Current total number of rules: 99
 
 Power distribution:
        1 with Power=4
@@ -20,7 +20,7 @@ Power distribution:
       30 with Power=2
        8 with Power=1.7
        3 with Power=1.5
-      20 with Power=1
+      21 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -51,6 +51,7 @@ Index of Rules
       Rule 2140: Power Controls Mutability
       Rule  104: First Speaker
       Rule 2326: The President
+      Rule 2348: Presidential Power
       Rule 2344: Anarchy
       Rule  103: The Speaker
       Rule 2339: Intention
@@ -568,6 +569,16 @@ History:
 Created by Proposal 6961 (G.), 3 March 2011
 Amended(1) by Proposal 7029 (Walker), 16 May 2011
 Amended(2) by Proposal 7030 (Walker), 16 May 2011
+
+----------------------------------------------------------------------
+
+Rule 2348/0 (Power=1)
+Presidential Power
+
+      The President's power is equal to the power of this Rule.
+
+History:
+Created by Proposal 7067 (G.), 16 June 2011
 
 ----------------------------------------------------------------------
 
