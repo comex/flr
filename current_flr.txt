@@ -1,23 +1,23 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7076
-Last change to this ruleset: by Proposal 7076
+Last proposal with recorded effect on this ruleset: 7074
+Last change to this ruleset: by Proposal 7074
 
 Last updated: 25 June 2011
 
-Highest Rule ID number ever assigned: 2348
+Highest Rule ID number ever assigned: 2349
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 99
+Current total number of rules: 100
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
       35 with Power=3
-      30 with Power=2
+      31 with Power=2
        8 with Power=1.7
        3 with Power=1.5
       21 with Power=1
@@ -79,6 +79,7 @@ Index of Rules
       * Economy
       Rule 2166: Assets
       Rule 2330: Points
+      Rule 2349: Spending Points
       Rule 2331: Proposal Points
       Rule 2335: Judge Points
       Rule 2336: Officer Points
@@ -1504,6 +1505,28 @@ History:
 Created by Proposal 6989 (Wooble), 10 April 2011
 Amended(1) by Proposal 7008 (Walker), 20 April 2011
 Amended(2) by Proposal 7011 (G.), 20 April 2011
+
+----------------------------------------------------------------------
+
+Rule 2349/0 (Power=2)
+Spending Points
+
+      Where the Rules state that a player CAN perform an action 'as a
+      Spending Action', this means that the player CAN perform this
+      action by destroying a number of Points in eir possession equal
+      to the cost of that action, provided they have enough Points.
+      Each Point can only count towards one Spending Action. If a
+      player CAN perform an action by spending 0 points, e CAN perform
+      it by announcement.
+
+      Each spending action has a base cost, which is a non-negative
+      integer defaulting to five. The base cost of each spending
+      action is tracked by the Scorekeepor, and players CAN change it
+      without two objections. The cost of a spending action is
+      generally its base cost, subject to modification by other Rules.
+
+History:
+Created by Proposal 7074 (Walker), 16 June 2011
 
 ----------------------------------------------------------------------
 
