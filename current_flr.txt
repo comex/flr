@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7078
-Last change to this ruleset: by Proposal 7078
+Last proposal with recorded effect on this ruleset: 7080
+Last change to this ruleset: by Proposal 7080
 
 Last updated: 25 June 2011
 
@@ -2662,7 +2662,7 @@ Amended(16) by cleaning (Keba), 20 August 2010
 
 ----------------------------------------------------------------------
 
-Rule 2333/0 (Power=1)
+Rule 2333/1 (Power=1)
 Contests
 
       A player CAN make a non-contest document into a contest without
@@ -2674,11 +2674,9 @@ Contests
       with notice and with 3 support.
 
       The contest's instructions should include conditions under which
-      persons "win the contest".  Upon an announcement by the
-      contestmaster that one or more persons satisfy those conditions,
-      all those persons win the game of Agora.  (This does not end the
-      game.)  Intentionally making a false such announcement is the
-      Class-4 Crime of Gaming the System.
+      one or more persons win the contest. When one or more persons
+      win a contest, those persons satisfy the Victory Condition of
+      Victory.
 
       The contestmaster's weekly report contains all matters defined
       by the instructions to be part of eir weekly report, as well as
@@ -2703,6 +2701,7 @@ Contests
 
 History:
 Created by Proposal 6991 (omd), 10 April 2011
+Amended(1) by Proposal 7080 (scshunt), 16 June 2011
 
 ----------------------------------------------------------------------
 
