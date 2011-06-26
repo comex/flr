@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7077
-Last change to this ruleset: by Proposal 7077
+Last proposal with recorded effect on this ruleset: 7078
+Last change to this ruleset: by Proposal 7078
 
 Last updated: 25 June 2011
 
@@ -1590,7 +1590,7 @@ Amended(1) by Proposal 7035 (scshunt), 16 May 2011
 
 ----------------------------------------------------------------------
 
-Rule 2343/0 (Power=1.7)
+Rule 2343/1 (Power=1.7)
 Victory Cases
 
       Victory cases are a subclass of judicial cases. Any person
@@ -1610,12 +1610,11 @@ Victory Cases
       vested interest in the victory, such as having been a
       co-scammer.
 
-      A victory case has a judicial question on ascendancy, which is
-      always applicable. The valid judgments for this question are
-      GLORY, appropriate if the Victory Condition was satisfied as
-      described and a judgment of GLORY has not already been reached
-      on an earlier case over substantially the same victory, and
-      SHAME, appropriate otherwise.
+      The valid judgements for a victory case are GLORY, appropriate
+      if the Victory Condition was satisfied as described and a
+      judgment of GLORY has not already been reached on an earlier
+      case over substantially the same victory, and SHAME, appropriate
+      otherwise.
 
       When a judgment of GLORY has continuously been in effect for two
       weeks, the caller is deemed to have won the game as specified.
@@ -1624,6 +1623,7 @@ Victory Cases
 
 History:
 Created by Proposal 7039 (scshunt), 16 May 2011
+Amended(1) by Proposal 7078 (omd), 16 June 2011
 
 ----------------------------------------------------------------------
 
@@ -4178,7 +4178,7 @@ Amended(10) by Proposal 7050 (omd), 16 May 2011
 
 ----------------------------------------------------------------------
 
-Rule 591/34 (Power=1.7)
+Rule 591/35 (Power=1.7)
 Inquiry Cases
 
       Inquiry cases are a subclass of judicial cases.  An inquiry
@@ -4213,7 +4213,7 @@ Inquiry Cases
         extrapolation of the game or its rules to conditions that
         don't actually exist, or if it can be trivially determined
         from the outcome of another (possibly still undecided)
-        judicial case
+        judicial case that was not itself judged IRRELEVANT
 
       * UNDETERMINED, appropriate if the statement is nonsensical or
         too vague, or if the information available to the judge is
@@ -4315,6 +4315,7 @@ Amended(31) by Proposal 6571 (ais523), 28 November 2009
 Amended(32) by Proposal 6931 (omd), 2 January 2011
 Amended(33) by Proposal 7022 (Walker, Murphy, omd), 5 May 2011
 Amended(34) by Proposal 7050 (omd), 16 May 2011
+Amended(35) by Proposal 7078 (omd), 16 June 2011
 
 ----------------------------------------------------------------------
 
@@ -4637,7 +4638,7 @@ Amended(2) by Proposal 7065 (scshunt), 16 June 2011
 
 ----------------------------------------------------------------------
 
-Rule 911/45 (Power=1.7)
+Rule 911/46 (Power=1.7)
 Appeal Cases
 
       Appeal cases are a subclass of judicial cases.  An appeal case's
@@ -4708,14 +4709,14 @@ Appeal Cases
       When an appeal case is initiated, the prior case is suspended,
       and remains so until the the appeal case is judged.
 
-      The judge of a previously-appealed question SHALL NOT assign the
+      The judge of a previously-appealed case SHALL NOT assign the
       same judgement to it without new reasoning that addresses the
       serious doubt about its appropriateness.  Violating this
       prohibition is the Class-2 Crime of Lazy Judging.
 
-      A person SHALL NOT appeal a judgement (except on a question of
-      sentencing) unless e reasonably believes that the judgement
-      might be inappropriate.
+      A person SHALL NOT appeal a judgement (except on a criminal
+      case) unless e reasonably believes that the judgement might be
+      inappropriate.
 
 [CFJ 1597 (called 22 December 2006): It is possible to appeal a
 judgement even if it is not certain that the judgement exists.]
@@ -4779,6 +4780,7 @@ Amended(42) by Proposal 7042 (Murphy; disi.), 16 May 2011
 Amended(43) by Proposal 7049 (omd), 16 May 2011
 Amended(44) by Proposal 7050 (omd), 16 May 2011
 Amended(45) by Proposal 7072 (woggle), 16 June 2011
+Amended(46) by Proposal 7078 (omd), 16 June 2011
 
 ----------------------------------------------------------------------
 
