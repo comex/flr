@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7064
-Last change to this ruleset: by Proposal 7064
+Last proposal with recorded effect on this ruleset: 7065
+Last change to this ruleset: by Proposal 7065
 
 Last updated: 25 June 2011
 
@@ -4558,14 +4558,15 @@ Created by Proposal 7038 (scshunt), 16 May 011
 
 ----------------------------------------------------------------------
 
-Rule 2318/1 (Power=1.7)
+Rule 2318/2 (Power=1.7)
 Motions to Reconsider
 
       If a non-Appeals judicial case (1) has a judgement that has been
       in effect for less than seven days and not been appealed, and
       (2) has not had a Motion to Reconsider filed for it at any time
       while it has been assigned to its current judge, then any Player
-      CAN file a Motion to Reconsider the case with 2 Support.
+      CAN file a Motion to Reconsider the case with 2 Support, or by
+      announcement if e is that case's judge.
 
       When a Motion to Reconsider is so filed, the case is rendered
       open again.  A player who files such a Motion SHOULD include
@@ -4575,6 +4576,7 @@ Motions to Reconsider
 History:
 Created by Proposal 6869 (G.), 8 November 2010
 Amended(1) by Proposal 7050 (omd), 16 May 2011
+Amended(2) by Proposal 7065 (scshunt), 16 June 2011
 
 ----------------------------------------------------------------------
 
