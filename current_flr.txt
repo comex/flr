@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7075
-Last change to this ruleset: by Proposal 7075
+Last proposal with recorded effect on this ruleset: 7076
+Last change to this ruleset: by Proposal 7076
 
 Last updated: 25 June 2011
 
@@ -1683,7 +1683,7 @@ Power changed from 2 to 3 by Proposal 7027 (omd), 5 May 2011
 
 ----------------------------------------------------------------------
 
-Rule 2345/0 (Power=1)
+Rule 2345/1 (Power=1)
 Bets
 
       The betting period for a decision on the adoption of a proposal
@@ -1711,10 +1711,10 @@ Bets
       resolved. Only the last Bet submitted by each player (which
       would otherwise be valid) is valid.
 
-      Players SHALL NOT reveal the existence or details of any Bet to
-      any person other than the vote collector before the betting
-      period has finished, except where allowed by this Rule;
-      violating this requirement is the Class-6 Crime of Collusion.
+      Players SHALL NOT reveal the details of any Bet to any person
+      other than the vote collector before the betting period has
+      finished, except where allowed by this Rule; violating this
+      requirement is the Class-6 Crime of Collusion.
 
       If the vote collector for a decision changes before the decision
       has been resolved, and one or more Bets have been submitted for
@@ -1727,6 +1727,7 @@ Bets
 
 History:
 Created by Proposal 7044 (Walker), 16 May 2011
+Amended(1) by Proposal 7076 (omd), 16 June 2011
 
 ----------------------------------------------------------------------
 
