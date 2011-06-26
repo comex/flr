@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7073
-Last change to this ruleset: by Proposal 7073
+Last proposal with recorded effect on this ruleset: 7075
+Last change to this ruleset: by Proposal 7075
 
 Last updated: 25 June 2011
 
@@ -3992,7 +3992,7 @@ Assigned to Committee on Rules by Proposal 6053 (Murphy, woggle,
 
 ----------------------------------------------------------------------
 
-Rule 1698/1 (Power=3)
+Rule 1698/2 (Power=3)
 Agora Is a Nomic
 
       In the interest of safeguarding Agora's nomic-ness, if a change
@@ -4002,10 +4002,17 @@ Agora Is a Nomic
       that change is canceled and does not occur, any rule to the
       contrary notwithstanding.
 
+      For the purposes of this rule, the effects of a single proposal,
+      including any actions performed automatically as a consequence
+      of the proposal's adpotion, constitute a single change to the
+      gamestate and will all be canceled if the proposal would leave
+      the game as something other than a Nomic.
+
 History:
 Created by Proposal 3465 (Steve), Apr. 26 1997
 Retitled by Proposal 5536 (Murphy), 7 June 2008
 Amended(1) by Proposal 5536 (Murphy), 7 June 2008
+Amended(2) by Proposal 7075 (scshunt), 16 June 2011
 
 ----------------------------------------------------------------------
 
