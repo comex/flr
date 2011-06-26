@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7072
-Last change to this ruleset: by Proposal 7072
+Last proposal with recorded effect on this ruleset: 7073
+Last change to this ruleset: by Proposal 7073
 
 Last updated: 25 June 2011
 
@@ -2193,7 +2193,7 @@ Amended(1) by Proposal 5271 (Murphy), 7 November 2007
 
 ----------------------------------------------------------------------
 
-Rule 478/29 (Power=3)
+Rule 478/30 (Power=3)
 Fora
 
       Freedom of speech being essential for the healthy functioning of
@@ -2225,7 +2225,7 @@ Fora
       be public.  A rule can also designate that a part of one public
       message is considered a public message in its own right. A
       person "publishes" or "announces" something by sending a public
-      message,.
+      message.
 
       Where the rules define an action that CAN be performed "by
       announcement", a person performs that action by unambiguously
@@ -2440,6 +2440,7 @@ Amended(26) by Proposal 5818 (comex), 1 November 2008
 Amended(27) by Proposal 6022 (Murphy), 22 December 2008
 Amended(28) by Proposal 6785 (coppro; disi.), 22 August 2010
 Amended(29) by Proposal 6963 (Murphy), 20 March 2011
+Amended(30) by Proposal 7073 (woggle), 16 June 2011
 
 ----------------------------------------------------------------------
 
