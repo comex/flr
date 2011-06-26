@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7074
-Last change to this ruleset: by Proposal 7074
+Last proposal with recorded effect on this ruleset: 7069
+Last change to this ruleset: by Proposal 7069
 
 Last updated: 25 June 2011
 
@@ -3847,17 +3847,29 @@ Amended(31) by Proposal 7013 (omd), 23 April 2011
 
 ----------------------------------------------------------------------
 
-Rule 1607/31 (Power=2)
+Rule 1607/32 (Power=2)
 The Promotor
 
       The Promotor is an office; its holder is responsible for
       receiving and distributing proposals.
 
+      Priority is an undistributed proposal switch with values of the
+      integers (default zero), tracked by the Promotor. A player CAN,
+      as a Spending Action, increase or decrease the Priority of a
+      specified proposal by one.
+
+      The Legislative Volume is 5 when the Speed is Slow, 10 when it
+      is Normal and 20 when it is Fast.
+
       The Promotor CAN distribute a proposal which is in the Proposal
       Pool at any time.  In a given Agoran week, the Promotor SHALL,
-      as part of eir weekly duties, distribute all proposals in the
-      Proposal Pool that were in the Pool at the beginning of that
-      week.
+      as part of eir weekly duties, out of all of the proposals which
+      were in the pool at the beginning of the week, distribute the X
+      proposals with the greatest Priority, breaking ties in favour of
+      those proposals which were submitted first, where X is the
+      minimum of the Legislative Volume and the number of such
+      proposals. The Promotor SHALL NOT distribute any other
+      proposals.
 
       Distributed proposals have ID numbers, to be assigned by the
       Promotor.
@@ -3936,6 +3948,7 @@ Amended(28) by Proposal 6550 (Tiger; disi.), 13 November 2009
 Amended(29) by Proposal 6793 (Wooble), 27 August 2010
 Amended(30) by Proposal 6961 (G.), 3 March 2011
 Amended(31) by Proposal 7033 (omd), 16 May 2011
+Amended(32) by Proposal 7069 (Walker), 16 June 2011
 
 ----------------------------------------------------------------------
 
