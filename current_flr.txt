@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7080
-Last change to this ruleset: by Proposal 7080
+Last proposal with recorded effect on this ruleset: 7081
+Last change to this ruleset: by Proposal 7081
 
-Last updated: 25 June 2011
+Last updated: 4 July 2011
 
 Highest Rule ID number ever assigned: 2349
 
@@ -3709,17 +3709,17 @@ Proposals
       which changes are made to the game.
 ----------------------------------------------------------------------
 
-Rule 106/31 (Power=3)
+Rule 106/32 (Power=3)
 Adopting Proposals
 
       A proposal is a fixed body of text which has been made into a
       proposal using a process specifically described in the Rules.
       When a person creates a proposal, e SHOULD ensure that it
       specifies one or more changes to the gamestate.  Except as
-      prohibited by other rules, a proposal that takes effect CAN, as
-      part of its effect, apply the changes that it specifies.  If the
-      proposal cannot make some such changes, this does not preclude
-      the other changes from taking place.
+      prohibited by other rules, a proposal that takes effect CAN and
+      does, as part of its effect, apply the changes that it
+      specifies.  If the proposal cannot make some such changes, this
+      does not preclude the other changes from taking place.
 
       A player CAN create a proposal by publishing ("submitting") a
       body of text and an associated title with a clear indication
@@ -3844,6 +3844,7 @@ Amended(28) by Proposal 6732 (comex), 13 June 2010
 Amended(29) by Proposal 6823 (Murphy, omd), 10 September 2010
 Amended(30) by Proposal 6968 (Murphy, scshunt, Wooble), 20 March 2011
 Amended(31) by Proposal 7013 (omd), 23 April 2011
+Amended(32) by Proposal 7081 (Murphy), 4 July 2011
 
 ----------------------------------------------------------------------
 
