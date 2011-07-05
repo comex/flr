@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7081
-Last change to this ruleset: by Proposal 7081
+Last proposal with recorded effect on this ruleset: 7082
+Last change to this ruleset: by Proposal 7082
 
 Last updated: 4 July 2011
 
@@ -1646,7 +1646,7 @@ Amended(3) by Proposal 7062 (G.), 16 June 2011
 
 ----------------------------------------------------------------------
 
-Rule 2337/1 (Power=3)
+Rule 2337/2 (Power=3)
 Promises
 
       Promises are a class of assets.  Horton is an Office and the
@@ -1665,13 +1665,15 @@ Promises
       Promises with the same text, author, and conditions are
       fungible.
 
-      The creation, transferring, cashing, and destruction of promises
-      is secured.
+      Creating and cashing promises is secured with power threshold 3;
+      any other modifications to promise holdings are secured with
+      power threshold 2.
 
 History:
 Created by Proposal 7015 (G., ais523), 23 April 2011
 Amended(1) by Proposal 7026 (Murphy, omd; disi.), 5 May 2011
 Power changed from 2 to 3 by Proposal 7027 (omd), 5 May 2011
+Amended(2) by Proposal 7082 (omd, Pavitra), 4 July 2011
 
 ----------------------------------------------------------------------
 
