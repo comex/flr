@@ -1,23 +1,23 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7082
-Last change to this ruleset: by Proposal 7082
+Last proposal with recorded effect on this ruleset: 7083
+Last change to this ruleset: by Proposal 7083
 
-Last updated: 4 July 2011
+Last updated: 5 July 2011
 
-Highest Rule ID number ever assigned: 2349
+Highest Rule ID number ever assigned: 2350
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 100
+Current total number of rules: 101
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
-      35 with Power=3
-      31 with Power=2
+      37 with Power=3
+      30 with Power=2
        8 with Power=1.7
        3 with Power=1.5
       21 with Power=1
@@ -130,8 +130,10 @@ Index of Rules
       Rule 2034: Vote Protection and Cutoff for Challenges
 
       * Proposals
+      Rule 2350: Proposals
       Rule  106: Adopting Proposals
-      Rule 1607: The Promotor
+      Rule 1607: Distribution
+      The Promotor
       Rule 1950: Decisions with Adoption Indices
       Rule 2137: The Assessor
       Rule 1698: Agora Is a Nomic
@@ -3711,17 +3713,17 @@ Proposals
       which changes are made to the game.
 ----------------------------------------------------------------------
 
-Rule 106/32 (Power=3)
-Adopting Proposals
+Rule 2350/0 (Power=3)
+Proposals
 
       A proposal is a fixed body of text which has been made into a
       proposal using a process specifically described in the Rules.
       When a person creates a proposal, e SHOULD ensure that it
       specifies one or more changes to the gamestate.  Except as
-      prohibited by other rules, a proposal that takes effect CAN and
-      does, as part of its effect, apply the changes that it
-      specifies.  If the proposal cannot make some such changes, this
-      does not preclude the other changes from taking place.
+      prohibited by other rules, a proposal that takes effect CAN, as
+      part of its effect, apply the changes that it specifies.  If the
+      proposal cannot make some such changes, this does not preclude
+      the other changes from taking place.
 
       A player CAN create a proposal by publishing ("submitting") a
       body of text and an associated title with a clear indication
@@ -3731,35 +3733,23 @@ Adopting Proposals
       (syn. retract, withdraw) a proposal e authored from the Proposal
       Pool by announcement.
 
-      A player specifically permitted by the Rules to distribute a
-      Proposal CAN distribute the proposal by publishing it with the
-      clear intent of distributing it.  When a proposal is
-      distributed, it is removed from the Proposal Pool.  The
-      distribution of a proposal initiates the Agoran decision of
-      whether to adopt the proposal, as described elsewhere.  Removing
-      a proposal from the Pool by a means other than initiating an
-      Agoran Decision to adopt it is secured.
-
-      If there is a Proposal in the Pool that it would otherwise be
-      IMPOSSIBLE for any active player to distribute, then any player
-      CAN distribute that Proposal Without 3 Objections.
-
       A co-author of a proposal is a person (other than its author)
       unambiguously identified as such by its author when it was
       submitted.
 
-      Determining whether to adopt a proposal is an Agoran decision.
-      By default, this decision has an adoption index of 1.0 and is
-      Ordinary; if the proposer specified valid, non-"none" values for
-      the adoption index and/or Chamber when submitting the proposal,
-      those values are set at the initiation of the decision.
-      Changing either value is secured with a power threshold of 2.
-      The vote collector for this decision is the Assessor.
+History:
+Created by Proposal 7083 (Walker), 4 July 2011
 
-      If the option selected by Agora on this decision is ADOPTED,
-      then the proposal is adopted, and unless other rules prevent it
-      from taking effect, its power is set to the minimum of four and
-      its adoption index, and then it takes effect.
+----------------------------------------------------------------------
+
+Rule 106/33 (Power=3)
+Adopting Proposals
+
+      If the option selected by Agora on a decision about whether to
+      adopt a proposal is ADOPTED, then the proposal in question is
+      adopted, and unless other rules prevent it from taking effect,
+      its power is set to the minimum of four and its adoption index,
+      and then it takes effect.
 
       A proposal with a decision on which the option selected by Agora
       is not ADOPTED does not take effect, rules to the contrary
@@ -3847,35 +3837,37 @@ Amended(29) by Proposal 6823 (Murphy, omd), 10 September 2010
 Amended(30) by Proposal 6968 (Murphy, scshunt, Wooble), 20 March 2011
 Amended(31) by Proposal 7013 (omd), 23 April 2011
 Amended(32) by Proposal 7081 (Murphy), 4 July 2011
+Amended(33) by Proposal 7083 (Walker), 4 July 2011
 
 ----------------------------------------------------------------------
 
-Rule 1607/32 (Power=2)
-The Promotor
+Rule 1607/33 (Power=3)
+Distribution
 
       The Promotor is an office; its holder is responsible for
       receiving and distributing proposals.
 
-      Priority is an undistributed proposal switch with values of the
-      integers (default zero), tracked by the Promotor. A player CAN,
-      as a Spending Action, increase or decrease the Priority of a
-      specified proposal by one.
-
-      The Legislative Volume is 5 when the Speed is Slow, 10 when it
-      is Normal and 20 when it is Fast.
+      A player specifically permitted by the Rules to distribute a
+      Proposal CAN distribute the proposal by publishing it with the
+      clear intent of distributing it.  When a proposal is
+      distributed, it is removed from the Proposal Pool.  The
+      distribution of a proposal initiates the Agoran decision of
+      whether to adopt the proposal, as described elsewhere.  Removing
+      a proposal from the Pool by a means other than initiating an
+      Agoran Decision to adopt it is secured.
 
       The Promotor CAN distribute a proposal which is in the Proposal
       Pool at any time.  In a given Agoran week, the Promotor SHALL,
-      as part of eir weekly duties, out of all of the proposals which
-      were in the pool at the beginning of the week, distribute the X
-      proposals with the greatest Priority, breaking ties in favour of
-      those proposals which were submitted first, where X is the
-      minimum of the Legislative Volume and the number of such
-      proposals. The Promotor SHALL NOT distribute any other
-      proposals.
+      as part of eir weekly duties, distribute all proposals in the
+      Proposal Pool that were in the Pool at the beginning of that
+      week.
 
       Distributed proposals have ID numbers, to be assigned by the
       Promotor.
+
+      If there is a Proposal in the Pool that it would otherwise be
+      IMPOSSIBLE for any active player to distribute, then any player
+      CAN distribute that Proposal Without 3 Objections.
 
       The Promotor's report includes a list of all proposals in the
       Proposal Pool.
@@ -3952,10 +3944,11 @@ Amended(29) by Proposal 6793 (Wooble), 27 August 2010
 Amended(30) by Proposal 6961 (G.), 3 March 2011
 Amended(31) by Proposal 7033 (omd), 16 May 2011
 Amended(32) by Proposal 7069 (Walker), 16 June 2011
+Amended(33) by Proposal 7083 (Walker), 4 July 2011
 
 ----------------------------------------------------------------------
 
-Rule 1950/22 (Power=3)
+Rule 1950/23 (Power=3)
 Decisions with Adoption Indices
 
       Adoption index is a switch possessed by Agoran decisions, whose
@@ -3965,6 +3958,14 @@ Decisions with Adoption Indices
       Chamber is a switch possessed by Agoran decisions with adoption
       indices, with values Ordinary (default) and Democratic.
 
+      Determining whether to adopt a proposal is an Agoran decision.
+      By default, this decision has an adoption index of 1.0 and is
+      Ordinary; if the proposer specified valid, non-"none" values for
+      the adoption index and/or Chamber when submitting the proposal,
+      those values are set at the initiation of the decision. Changing
+      either value is secured with a power threshold of 2. The vote
+      collector for this decision is the Assessor.
+
       An Agoran decision with an adoption index has the following
       essential parameters:
 
@@ -3972,14 +3973,14 @@ Decisions with Adoption Indices
       b) Its author (and co-authors, if any).
       c) Its Chamber.
 
-      For any Agoran decision with an adoption index, the available
-      options are FOR and AGAINST.
-
       The eligible voters on a decision with an adoption index are
       those entities that were active first-class players at the start
-      of its voting period.  Setting an entity's voting limit on such
-      a decision is secured with a power threshold of 2 if the
-      decision is Ordinary, or 3 otherwise.
+      of its voting period.  Setting or changing an entity's voting
+      limit on such a decision is secured with a power threshold of 2
+      if the decision is Ordinary, or 3 otherwise.
+
+      For any Agoran decision with an adoption index, the available
+      options are FOR and AGAINST.
 
 History:
 Created by Proposal 4032 (t), Jul. 24 2000
@@ -4008,6 +4009,7 @@ Retitled by Proposal 5418 (root), 2 February 2008
 Amended(20) by Proposal 5418 (root), 2 February 2008
 Amended(21) by Proposal 6961 (G.), 3 March 2011
 Retitled and amended(22) by Proposal 7013 (omd), 23 April 2011
+Amended(23) by Proposal 7083 (Walker), 4 July 2011
 
 ----------------------------------------------------------------------
 
