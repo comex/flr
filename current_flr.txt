@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7097
-Last change to this ruleset: by Proposal 7097
+Last proposal with recorded effect on this ruleset: 7098
+Last change to this ruleset: by Proposal 7098
 
 Last updated: 31 July 2011
 
@@ -1608,14 +1608,14 @@ Amended(1) by Proposal 7035 (scshunt), 16 May 2011
 
 ----------------------------------------------------------------------
 
-Rule 2343/1 (Power=1.7)
+Rule 2343/2 (Power=1.7)
 Victory Cases
 
-      Victory cases are a subclass of judicial cases. Any person
-      believing emself to have satisfied a Victory Condition may
-      initiate a victory case with support, indicating the precise
-      Victory Condition which e believes to have satisfied and how e
-      believes e satisfied it.
+      Victory cases are a subclass of judicial cases. Any person CAN
+      initiate a victory case by announcement, specifying a person
+      (the Enlaureled) that allegedly satisfied a Victory Condition,
+      the Victory Condition allegedly satisfied, and the means by
+      which it was allegedly satisfied.
 
       The entities eligible to be assigned as judges of a victory case
       are those judicial panels consisting of three first-class
@@ -1635,13 +1635,19 @@ Victory Cases
       otherwise.
 
       When a judgment of GLORY has continuously been in effect for two
-      weeks, the caller is deemed to have won the game as specified.
-      The Herald shall forthwith award the patent title Champion to
-      the winner. Winning the game does not cause Agora to end.
+      weeks, the Enlaureled is deemed to have won the game as
+      specified.  The Herald shall forthwith award the patent title
+      Champion to the winner. Winning the game does not cause Agora to
+      end.
+
+      An appeal concerning any assignment of judgement in a victory
+      case within the past week CAN be initiated by the Enlaureled by
+      announcement.
 
 History:
 Created by Proposal 7039 (scshunt), 16 May 2011
 Amended(1) by Proposal 7078 (omd), 16 June 2011
+Amended(2) by Proposal 7098 (omd), 23 July 2011
 
 ----------------------------------------------------------------------
 
