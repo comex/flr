@@ -1,17 +1,17 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7098
-Last change to this ruleset: by Proposal 7098
+Last proposal with recorded effect on this ruleset: 7099
+Last change to this ruleset: by Proposal 7099
 
 Last updated: 31 July 2011
 
-Highest Rule ID number ever assigned: 2352
+Highest Rule ID number ever assigned: 2353
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 103
+Current total number of rules: 104
 
 Power distribution:
        1 with Power=4
@@ -20,7 +20,7 @@ Power distribution:
       30 with Power=2
        8 with Power=1.7
        3 with Power=1.5
-      22 with Power=1
+      23 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -115,6 +115,7 @@ Index of Rules
       Rule 2276: Assumption of Vacant Offices
       Rule 2138: The Interstellar Associate Director of Personnel
       Rule 2352: The Ambassador
+      Rule 2353: The Conductor
       Rule 1551: Ratification
       Rule 2202: Ratification Without Objection
       Rule 2201: Self-Ratification
@@ -3125,6 +3126,18 @@ The Ambassador
 
 History:
 Created by Proposal 7097 (omd), 23 July 2011
+
+----------------------------------------------------------------------
+
+Rule 2353/0 (Power=1)
+The Conductor
+
+      The Conductor is an office; its holder is responsible for
+      tracking any switches that would otherwise lack an officer to
+      track them.
+
+History:
+Created by Proposal 7099 (Murphy), 23 July 2011
 
 ----------------------------------------------------------------------
 
