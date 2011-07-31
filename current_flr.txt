@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7083
-Last change to this ruleset: by Proposal 7083
+Last proposal with recorded effect on this ruleset: 7084
+Last change to this ruleset: by Proposal 7084
 
-Last updated: 5 July 2011
+Last updated: 31 July 2011
 
 Highest Rule ID number ever assigned: 2350
 
@@ -599,16 +599,16 @@ Created by Proposal 7040 (scshunt), 16 May 2011
 
 ----------------------------------------------------------------------
 
-Rule 103/9 (Power=2)
+Rule 103/10 (Power=2)
 The Speaker
 
       The Speaker is an imposed office and a figurehead of Agora. The
       Speaker is a person who has proven themselves to be worthy of
       the title, and for a time can direct Agoran government affairs.
 
-      The Speaker is the single first-class player who holds the most
-      Postulated Offices, or if there is no such player, the player
-      who was most recently Speaker.
+      The Speaker is the single player who holds the most Postulated
+      Offices, or if there is no such player, the player who was most
+      recently Speaker.
 
       The Speaker CAN, by announcement, cause the President to take
       actions that are not otherwise IMPOSSIBLE, except for
@@ -638,6 +638,7 @@ Amended(7) by Proposal 6821 (G., ais523), 4 September 2010
 Retitled by Proposal 6961 (G.), 3 March 2011
 Amended(8) by Proposal 6961 (G.), 3 March 2011
 Amended(9) by Proposal 7006 (Walker), 20 April 2011
+Amended(10) by Proposal 7084 (omd), 23 July 2011
 
 ----------------------------------------------------------------------
 
