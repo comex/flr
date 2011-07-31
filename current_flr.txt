@@ -1,17 +1,17 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7095
-Last change to this ruleset: by Proposal 7095
+Last proposal with recorded effect on this ruleset: 7097
+Last change to this ruleset: by Proposal 7097
 
 Last updated: 31 July 2011
 
-Highest Rule ID number ever assigned: 2351
+Highest Rule ID number ever assigned: 2352
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 102
+Current total number of rules: 103
 
 Power distribution:
        1 with Power=4
@@ -20,7 +20,7 @@ Power distribution:
       30 with Power=2
        8 with Power=1.7
        3 with Power=1.5
-      21 with Power=1
+      22 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -114,6 +114,7 @@ Index of Rules
       Rule 2154: Election Procedure
       Rule 2276: Assumption of Vacant Offices
       Rule 2138: The Interstellar Associate Director of Personnel
+      Rule 2352: The Ambassador
       Rule 1551: Ratification
       Rule 2202: Ratification Without Objection
       Rule 2201: Self-Ratification
@@ -3103,6 +3104,21 @@ Amended(10) and title changed by Proposal 6377 (coppro; disi.),
 Amended(11) by Proposal 6493 (coppro; disi.), 18 September 2009
 Retitled and amended(12) by Proposal 6667 (Murphy), 10 March 2010
 Retitled and amended(13) by Proposal 6975 (Murphy), 30 March 2011
+
+----------------------------------------------------------------------
+
+Rule 2352/0 (Power=1)
+The Ambassador
+
+      The Ambassador is an office; its holder is responsible for
+      managing the affairs of state of Agora.
+
+      When the office of Ambassador first becomes filled, the holder
+      SHALL as soon as possible attempt to cause Agora to become a
+      player of BlogNomic.
+
+History:
+Created by Proposal 7097 (omd), 23 July 2011
 
 ----------------------------------------------------------------------
 
