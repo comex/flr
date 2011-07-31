@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7087
-Last change to this ruleset: by Proposal 7087
+Last proposal with recorded effect on this ruleset: 7088
+Last change to this ruleset: by Proposal 7088
 
 Last updated: 31 July 2011
 
@@ -136,7 +136,7 @@ Index of Rules
       The Promotor
       Rule 1950: Decisions with Adoption Indices
       Rule 2137: The Assessor
-      Rule 1698: Agora Is a Nomic
+      Rule 1698: Agora Is A Nomic
 
       * Adjudication
       Rule  991: Judicial Cases Generally
@@ -4038,27 +4038,26 @@ Assigned to Committee on Rules by Proposal 6053 (Murphy, woggle,
 
 ----------------------------------------------------------------------
 
-Rule 1698/2 (Power=3)
-Agora Is a Nomic
+Rule 1698/3 (Power=3)
+Agora Is A Nomic
 
-      In the interest of safeguarding Agora's nomic-ness, if a change
-      to the gamestate would otherwise make it IMPOSSIBLE to make
-      arbitrary rule changes and/or adopt arbitrary proposals within a
-      four-week period by any combinations of actions by players, then
-      that change is canceled and does not occur, any rule to the
-      contrary notwithstanding.
+      Agora is ossified if it is IMPOSSIBLE for any reasonable
+      combination of actions by players to cause arbitrary rule
+      changes to be made and/or arbitrary proposals to be adopted
+      within a four-week period.
 
-      For the purposes of this rule, the effects of a single proposal,
-      including any actions performed automatically as a consequence
-      of the proposal's adpotion, constitute a single change to the
-      gamestate and will all be canceled if the proposal would leave
-      the game as something other than a Nomic.
+      If, but for this rule, the net effect of a proposal would cause
+      Agora to become ossified, it cannot take effect, rules to the
+      contrary notwithstanding.  If any other single change to the
+      gamestate would cause Agora to become ossified, it is cancelled
+      and does not occur, rules to the contrary notwithstanding.
 
 History:
 Created by Proposal 3465 (Steve), Apr. 26 1997
 Retitled by Proposal 5536 (Murphy), 7 June 2008
 Amended(1) by Proposal 5536 (Murphy), 7 June 2008
 Amended(2) by Proposal 7075 (scshunt), 16 June 2011
+Amended(3) by Proposal 7088 (omd), 23 July 2011
 
 ----------------------------------------------------------------------
 
