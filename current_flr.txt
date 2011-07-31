@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7084
-Last change to this ruleset: by Proposal 7084
+Last proposal with recorded effect on this ruleset: 7086
+Last change to this ruleset: by Proposal 7086
 
 Last updated: 31 July 2011
 
@@ -3714,17 +3714,11 @@ Proposals
       which changes are made to the game.
 ----------------------------------------------------------------------
 
-Rule 2350/0 (Power=3)
+Rule 2350/1 (Power=3)
 Proposals
 
       A proposal is a fixed body of text which has been made into a
       proposal using a process specifically described in the Rules.
-      When a person creates a proposal, e SHOULD ensure that it
-      specifies one or more changes to the gamestate.  Except as
-      prohibited by other rules, a proposal that takes effect CAN, as
-      part of its effect, apply the changes that it specifies.  If the
-      proposal cannot make some such changes, this does not preclude
-      the other changes from taking place.
 
       A player CAN create a proposal by publishing ("submitting") a
       body of text and an associated title with a clear indication
@@ -3740,21 +3734,26 @@ Proposals
 
 History:
 Created by Proposal 7083 (Walker), 4 July 2011
+Amended(1) by Proposal 7086 (G., omd), 23 July 2011
 
 ----------------------------------------------------------------------
 
-Rule 106/33 (Power=3)
+Rule 106/34 (Power=3)
 Adopting Proposals
 
       If the option selected by Agora on a decision about whether to
       adopt a proposal is ADOPTED, then the proposal in question is
       adopted, and unless other rules prevent it from taking effect,
       its power is set to the minimum of four and its adoption index,
-      and then it takes effect.
+      and then it takes effect.  Except as prohibited by other rules,
+      a proposal that takes effect CAN and does, as part of its
+      effect, apply the changes that it specifies.  If the proposal
+      cannot make some such changes, this does not preclude the other
+      changes from taking place.
 
-      A proposal with a decision on which the option selected by Agora
-      is not ADOPTED does not take effect, rules to the contrary
-      notwithstanding.
+      If there is no Agoran Decision to adopt a particular proposal
+      that has an outcome of ADOPTED, that proposal CANNOT take
+      effect, rules to the contrary notwithstanding.
 
       Preventing a proposal from taking effect is a secured change;
       this does not apply to generally preventing changes to specified
@@ -3839,6 +3838,7 @@ Amended(30) by Proposal 6968 (Murphy, scshunt, Wooble), 20 March 2011
 Amended(31) by Proposal 7013 (omd), 23 April 2011
 Amended(32) by Proposal 7081 (Murphy), 4 July 2011
 Amended(33) by Proposal 7083 (Walker), 4 July 2011
+Amended(34) by Propossal 7086 (G., omd), 23 July 2011
 
 ----------------------------------------------------------------------
 
