@@ -1,22 +1,22 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7088
-Last change to this ruleset: by Proposal 7088
+Last proposal with recorded effect on this ruleset: 7095
+Last change to this ruleset: by Proposal 7095
 
 Last updated: 31 July 2011
 
-Highest Rule ID number ever assigned: 2350
+Highest Rule ID number ever assigned: 2351
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 101
+Current total number of rules: 102
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
-      37 with Power=3
+      38 with Power=3
       30 with Power=2
        8 with Power=1.7
        3 with Power=1.5
@@ -55,6 +55,7 @@ Index of Rules
       Rule 2344: Anarchy
       Rule  103: The Speaker
       Rule 2339: Intention
+      Rule 2351: Agora, Adult
 
       * Rules
       Rule 2141: Role and Attributes of Rules
@@ -133,7 +134,6 @@ Index of Rules
       Rule 2350: Proposals
       Rule  106: Adopting Proposals
       Rule 1607: Distribution
-      The Promotor
       Rule 1950: Decisions with Adoption Indices
       Rule 2137: The Assessor
       Rule 1698: Agora Is A Nomic
@@ -649,6 +649,20 @@ Intention
 
 History:
 Created by Proposal 7021 (Walker), 5 May 2011
+
+----------------------------------------------------------------------
+
+Rule 2351/0 (Power=3)
+Agora, Adult
+
+      Agora can make its own decisions. If, at any time, Agora wishes
+      to counteract a decision, then that decision, rules to the
+      contrary notwithstanding, has no effect. The game of Agora, but
+      not any player of it, can make arbitrary changes to the
+      gamestate.
+
+History:
+Created by Proposal 7095 (Yally), 23 July 2011
 
 ----------------------------------------------------------------------
 
