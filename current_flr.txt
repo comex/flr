@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7100
-Last change to this ruleset: by Proposal 7100
+Last proposal with recorded effect on this ruleset: 7101
+Last change to this ruleset: by Proposal 7101
 
 Last updated: 31 July 2011
 
@@ -1671,7 +1671,7 @@ Amended(3) by Proposal 7062 (G.), 16 June 2011
 
 ----------------------------------------------------------------------
 
-Rule 2337/3 (Power=3)
+Rule 2337/4 (Power=3)
 Promises
 
       Promises are a class of assets.  Horton is an Office and the
@@ -1687,6 +1687,9 @@ Promises
       cashed, and/or one or more conditions required to be true for
       the promise not to be destroyed when cashed.
 
+      To submit a promise means to create that promise and then
+      transfer it to the Tree.
+
       Promises with the same text, author, and conditions are
       fungible.
 
@@ -1700,6 +1703,7 @@ Amended(1) by Proposal 7026 (Murphy, omd; disi.), 5 May 2011
 Power changed from 2 to 3 by Proposal 7027 (omd), 5 May 2011
 Amended(2) by Proposal 7082 (omd, Pavitra), 4 July 2011
 Amended(3) by Proposal 7100 (ais523), 23 July 2011
+Amended(4) by Proposal 7101 (Pavitra), 23 July 2011
 
 ----------------------------------------------------------------------
 
