@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7118
-Last change to this ruleset: by Proposal 7118
+Last proposal with recorded effect on this ruleset: 7114
+Last change to this ruleset: by Proposal 7114
 
 Last updated: 20 August 2011
 
@@ -11,13 +11,13 @@ Highest Rule ID number ever assigned: 2354
 
 Statistics
 
-Current total number of rules: 105
+Current total number of rules: 104
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
       38 with Power=3
-      30 with Power=2
+      29 with Power=2
        8 with Power=1.7
        3 with Power=1.5
       24 with Power=1
@@ -85,7 +85,6 @@ Index of Rules
       Rule 2335: Judge Points
       Rule 2336: Officer Points
       Rule 2343: Victory Cases
-      Rule 2332: Winning by Points
       Rule 2337: Promises
       Rule 2338: Cashing Promises
       Rule 2345: Bets
@@ -1654,25 +1653,6 @@ History:
 Created by Proposal 7039 (scshunt), 16 May 2011
 Amended(1) by Proposal 7078 (omd), 16 June 2011
 Amended(2) by Proposal 7098 (omd), 23 July 2011
-
-----------------------------------------------------------------------
-
-Rule 2332/3 (Power=2)
-Winning by Points
-
-      A player CAN destroy 250 points in the possession of any
-      indicated player to cause the indicated player to satisfy the
-      Victory Condition of Accumulation.
-
-      When a player satisfies the Victory Condition of Accumulation,
-      half of every other player's points (rounded down) are
-      destroyed.
-
-History:
-Created by Proposal 6989 (Wooble), 10 April 2011
-Retitled and amended(1) by Proposal 7039 (scshunt), 16 May 2011
-Amended(2) by Proposal 7061 (G.), 16 June 2011
-Amended(3) by Proposal 7062 (G.), 16 June 2011
 
 ----------------------------------------------------------------------
 
