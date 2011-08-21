@@ -1,17 +1,17 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7112
-Last change to this ruleset: by Proposal 7112
+Last proposal with recorded effect on this ruleset: 7117
+Last change to this ruleset: by Proposal 7117
 
 Last updated: 20 August 2011
 
-Highest Rule ID number ever assigned: 2353
+Highest Rule ID number ever assigned: 2354
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 104
+Current total number of rules: 105
 
 Power distribution:
        1 with Power=4
@@ -20,7 +20,7 @@ Power distribution:
       30 with Power=2
        8 with Power=1.7
        3 with Power=1.5
-      23 with Power=1
+      24 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -90,6 +90,7 @@ Index of Rules
       Rule 2338: Cashing Promises
       Rule 2345: Bets
       Rule 2346: Betting Markets
+      Rule 2354: Costs
 
       * Definitions
       Rule  754: Definition Definitions
@@ -1823,6 +1824,30 @@ Betting Markets
 
 History:
 Created by Proposal 7044 (Walker), 16 May 2011
+
+----------------------------------------------------------------------
+
+Rule 2354/0 (Power=1)
+Costs
+
+      The documents defining the conditions for performing an action
+      can specify another action as a cost; paying the cost becomes a
+      condition for performing the original action.  A person has paid
+      the cost for an attempt to perform an action if e performed each
+      action so defined as a cost:
+
+      (1) in the same message as the attempt,
+      (2) clearly indicating that the action was a payment of that
+          cost for that attempt, and
+      (3) not indicating that it was a payment for any other cost or
+          attempt.
+
+      If the cost is defined in assets, the required action is
+      destroying those assets, or, if the documents specify a
+      recipient entity, transferring them to that entity.
+
+History:
+Created by Proposal 7117 (omd), 20 August 2011
 
 ----------------------------------------------------------------------
 
