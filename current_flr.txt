@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7101
-Last change to this ruleset: by Proposal 7101
+Last proposal with recorded effect on this ruleset: 7112
+Last change to this ruleset: by Proposal 7112
 
-Last updated: 31 July 2011
+Last updated: 20 August 2011
 
 Highest Rule ID number ever assigned: 2353
 
@@ -644,13 +644,17 @@ Amended(10) by Proposal 7084 (omd), 23 July 2011
 
 ----------------------------------------------------------------------
 
-Rule 2339/0 (Power=1)
+Rule 2339/1 (Power=1)
 Intention
 
       Agora Nomic is intended to be a person.
 
+      When Agora Nomic is a person, any player CAN cause em to take
+      actions without objection or with Agoran Consent.
+
 History:
 Created by Proposal 7021 (Walker), 5 May 2011
+Amended(1) by Proposal 7112 (Walker), 20 August 2011
 
 ----------------------------------------------------------------------
 
