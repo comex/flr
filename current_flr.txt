@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7117
-Last change to this ruleset: by Proposal 7117
+Last proposal with recorded effect on this ruleset: 7118
+Last change to this ruleset: by Proposal 7118
 
 Last updated: 20 August 2011
 
@@ -4410,7 +4410,7 @@ Amended(35) by Proposal 7078 (omd), 16 June 2011
 
 ----------------------------------------------------------------------
 
-Rule 1504/55 (Power=2)
+Rule 1504/56 (Power=2)
 Criminal Cases
 
       Criminal cases are a subclass of judicial cases.  Any person can
@@ -4430,7 +4430,7 @@ Criminal Cases
         beyond a reasonable doubt, that ALL of the following are true:
        (a) the Accused breached the specified rule via the specified
            act;
-       (b) the breach occurred within 90 days prior to the case being
+       (b) the breach occurred within 30 days prior to the case being
            initiated;
        (c) judgement has not already been reached in another criminal
            case with the same Accused, the same rule, and
@@ -4599,6 +4599,7 @@ Amended(52) by Proposal 7010 (Walker), 20 April 2011
 Amended(53) by Proposal 7012 (Walker), 20 April 2011
 Amended(54) by Proposal 7034 (omd), 16 May 2011
 Amended(55) by Proposal 7050 (omd), 16 May 2011
+Amended(56) by Proposal 7118 (scshunt), 20 August 2011
 
 ----------------------------------------------------------------------
 
