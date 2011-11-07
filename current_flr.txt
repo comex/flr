@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7128
-Last change to this ruleset: by Proposal 7128
+Last proposal with recorded effect on this ruleset: 7131
+Last change to this ruleset: by Proposal 7131
 
 Last updated: 6 November 2011
 
@@ -11,16 +11,16 @@ Highest Rule ID number ever assigned: 2355
 
 Statistics
 
-Current total number of rules: 105
+Current total number of rules: 98
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
       38 with Power=3
-      29 with Power=2
+      24 with Power=2
        8 with Power=1.7
        3 with Power=1.5
-      24 with Power=1
+      22 with Power=1
        1 with Power=1.1
 
 ----------------------------------------------------------------------
@@ -80,16 +80,9 @@ Index of Rules
 
       * Economy
       Rule 2166: Assets
-      Rule 2330: Points
-      Rule 2349: Spending Points
-      Rule 2331: Proposal Points
-      Rule 2335: Judge Points
-      Rule 2336: Officer Points
       Rule 2343: Victory Cases
       Rule 2337: Promises
       Rule 2338: Cashing Promises
-      Rule 2345: Bets
-      Rule 2346: Betting Markets
       Rule 2354: Costs
 
       * Definitions
@@ -1516,106 +1509,6 @@ Amended(16) by Proposal 6916 (omd; disi.), 2 January 2011
 
 ----------------------------------------------------------------------
 
-Rule 2330/2 (Power=2)
-Points
-
-      Points are a currency. Ownership of points is restricted to
-      Players. A player's score is the number of points e owns.
-      Changes to point holdings are secured.
-
-      The Scorekeepor is an office, and the recordkeepor of points.
-
-      The maximum FINE amount for points is 25.
-
-History:
-Created by Proposal 6989 (Wooble), 10 April 2011
-Amended(1) by Proposal 7008 (Walker), 20 April 2011
-Amended(2) by Proposal 7011 (G.), 20 April 2011
-
-----------------------------------------------------------------------
-
-Rule 2349/0 (Power=2)
-Spending Points
-
-      Where the Rules state that a player CAN perform an action 'as a
-      Spending Action', this means that the player CAN perform this
-      action by destroying a number of Points in eir possession equal
-      to the cost of that action, provided they have enough Points.
-      Each Point can only count towards one Spending Action. If a
-      player CAN perform an action by spending 0 points, e CAN perform
-      it by announcement.
-
-      Each spending action has a base cost, which is a non-negative
-      integer defaulting to five. The base cost of each spending
-      action is tracked by the Scorekeepor, and players CAN change it
-      without two objections. The cost of a spending action is
-      generally its base cost, subject to modification by other Rules.
-
-History:
-Created by Proposal 7074 (Walker), 16 June 2011
-
-----------------------------------------------------------------------
-
-Rule 2331/2 (Power=2)
-Proposal Points
-
-      When the Agoran Decision to adopt a proposal is resolved, if the
-      outcome is ADOPTED, the author of the proposal gains 2  points
-      for each valid vote FOR the proposal, less 1 point for each
-      valid vote AGAINST the proposal. Each co-author of the proposal
-      gains 2 points.
-
-History:
-Created by Proposal 6989 (Wooble), 10 April 2011
-Amended(1) by Proposal 7025 (Murphy), 5 May 2011
-Amended(2) by Proposal 7053 (omd), 26 May 2011
-
-----------------------------------------------------------------------
-
-Rule 2335/1 (Power=2)
-Judge Points
-
-      When a judge assigns a judgement to a non-appeal judicial case
-      within any time limits for doing so, e gains 5 points, unless e
-      has already assigned judgement to the same case before.
-
-      If an appeals panel assigns a judgement with prejudice, then any
-      member of the panel CAN, within a week of the disposition
-      judgement being assigned, by announcement, destroy any points
-      the prior judge earned for judging the case.
-
-      When an appeals panel assigns a judgement to a case within any
-      time limits for doing so, each member of the panel gains 2
-      points.
-
-History:
-Created by Proposal 7007 (Walker), 20 April 2011
-Amended(1) by Proposal 7043 (Walker), 16 May 2011
-
-----------------------------------------------------------------------
-
-Rule 2336/1 (Power=2)
-Officer Points
-
-      Weekly Salary is an office switch, tracked by the Scorekeepor,
-      with values of the non-negative integers (default zero). At the
-      beginning of each week, each officer gains a number of points
-      equal to the Weekly Salary of eir office.
-
-      Monthly Salary is an office switch, tracked by the Scorekeepor,
-      with values of the non-negative integers (default zero). At the
-      beginning of each month, each officer gains a number of points
-      equal to the Monthly Salary of eir office.
-
-      Players can change the Weekly or Monthly Salary of an office
-      without two objections or with Agoran Consent.
-
-History:
-Created by Proposal 7009 (Walker), 20 April 2011
-Amended(1) by Proposal 7035 (scshunt), 16 May 2011
-
-----------------------------------------------------------------------
-
 Rule 2343/2 (Power=1.7)
 Victory Cases
 
@@ -1724,89 +1617,6 @@ Created by Proposal 7015 (G., ais523), 23 April 2011
 Amended(1) by Proposal 7026 (Murphy, omd; disi.), 5 May 2011
 Power changed from 2 to 3 by Proposal 7027 (omd), 5 May 2011
 Amended(2) by Proposal 7100 (ais523), 23 July 2011
-
-----------------------------------------------------------------------
-
-Rule 2345/1 (Power=1)
-Bets
-
-      The betting period for a decision on the adoption of a proposal
-      or a degree begins when the proposal or thesis is submitted; the
-      betting period for an election begins when the nomination period
-      begins. The betting period for each decision ends when the
-      decision is initiated.
-
-      During the betting period for a given Agoran Decision, each
-      active player (the Better) CAN submit a Bet privately to the
-      vote collector for that decision.
-
-      To be valid, a Bet must
-      a) consist of an indication of which outcome the Better thinks
-         Agora will select in a specified decision,
-      b) clearly indicate the number of Points staked in the Bet - a
-         number of Points less than or equal to the number of Points
-         the Better owns,
-      c) not be sent to anyone other than the Better and the vote
-         collector,
-      d) not be submitted by the vote collector, and
-      e) be submitted during the betting period for the decision.
-
-      The validity of a Bet is measured when its betting market is
-      resolved. Only the last Bet submitted by each player (which
-      would otherwise be valid) is valid.
-
-      Players SHALL NOT reveal the details of any Bet to any person
-      other than the vote collector before the betting period has
-      finished, except where allowed by this Rule; violating this
-      requirement is the Class-6 Crime of Collusion.
-
-      If the vote collector for a decision changes before the decision
-      has been resolved, and one or more Bets have been submitted for
-      the decision, then the previous vote collector SHALL inform the
-      new collector of these Bets and their contents privately, before
-      the decision is resolved. The previous vote collector becomes
-      eligible to submit Bets for the decision if the betting period
-      has not ended, and any previous Bets submitted by the new vote
-      collector become invalid.
-
-History:
-Created by Proposal 7044 (Walker), 16 May 2011
-Amended(1) by Proposal 7076 (omd), 16 June 2011
-
-----------------------------------------------------------------------
-
-Rule 2346/0 (Power=1)
-Betting Markets
-
-      There is a betting market on a decision if
-      a) more than one player has submitted a valid Bet on the
-         decision,
-      b) more than one outcome was Betted on, and
-      c) at least one of the Bets was for the correct outcome.
-
-      After a decision has been resolved, the vote collector CAN
-      resolve the betting market (if any) on the decision, and SHALL
-      do so as soon as possible.
-
-      The resolution of a betting market reveals the outcome betted on
-      by each Better, and the number of Points they staked, in valid
-      Bets. Upon the valid resolution of a betting market
-      a) any Points staked on an incorrect outcome are destroyed
-      b) an equal (or less due to rounding) number of Points are
-         awarded to the player(s) who Betted on the correct outcome,
-         such that the proportion of Points gained by each winning
-         Better is directly proportional to the number of Points they
-         staked, rounded down as necessary.
-
-      To be valid, the resolution must specify how many Points are
-      lost and gained by each Better.
-
-      The resolution of a betting market constitutes a self-ratifying
-      claim that the Bets in the resolution are valid, and that no
-      other valid Bets were submitted for the decision.
-
-History:
-Created by Proposal 7044 (Walker), 16 May 2011
 
 ----------------------------------------------------------------------
 
