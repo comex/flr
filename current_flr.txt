@@ -1,17 +1,17 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7131
-Last change to this ruleset: by Proposal 7131
+Last proposal with recorded effect on this ruleset: 7132
+Last change to this ruleset: by Proposal 7132
 
 Last updated: 6 November 2011
 
-Highest Rule ID number ever assigned: 2355
+Highest Rule ID number ever assigned: 2356
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 98
+Current total number of rules: 99
 
 Power distribution:
        1 with Power=4
@@ -20,7 +20,7 @@ Power distribution:
       24 with Power=2
        8 with Power=1.7
        3 with Power=1.5
-      22 with Power=1
+      23 with Power=1
        1 with Power=1.1
 
 ----------------------------------------------------------------------
@@ -83,6 +83,7 @@ Index of Rules
       Rule 2343: Victory Cases
       Rule 2337: Promises
       Rule 2338: Cashing Promises
+      Rule 2356: Naughtiness
       Rule 2354: Costs
 
       * Definitions
@@ -1617,6 +1618,18 @@ Created by Proposal 7015 (G., ais523), 23 April 2011
 Amended(1) by Proposal 7026 (Murphy, omd; disi.), 5 May 2011
 Power changed from 2 to 3 by Proposal 7027 (omd), 5 May 2011
 Amended(2) by Proposal 7100 (ais523), 23 July 2011
+
+----------------------------------------------------------------------
+
+Rule 2356/0 (Power=1)
+Naughtiness
+
+      A person CAN taunt the police by announcement specifying an
+      integer from 1 to 14 inclusive. Doing so is the Class-N Crime of
+      Naughtiness, where N is the specified integer.
+
+History:
+Created by Proposal 7132 (Pavitra), 6 November 2011
 
 ----------------------------------------------------------------------
 
