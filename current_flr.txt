@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7132
-Last change to this ruleset: by Proposal 7132
+Last proposal with recorded effect on this ruleset: 7133
+Last change to this ruleset: by Proposal 7133
 
 Last updated: 6 November 2011
 
@@ -2955,18 +2955,19 @@ Retitled and amended(13) by Proposal 6975 (Murphy), 30 March 2011
 
 ----------------------------------------------------------------------
 
-Rule 2352/0 (Power=1)
+Rule 2352/1 (Power=1)
 The Ambassador
 
       The Ambassador is an office; its holder is responsible for
       managing the affairs of state of Agora.
 
-      When the office of Ambassador first becomes filled, the holder
-      SHALL as soon as possible attempt to cause Agora to become a
-      player of BlogNomic.
+      Any player CAN, with Agoran Consent, cause Agora to post a blog
+      post (specifying its title, text, and list of categories) or
+      comment (specifying its text) to BlogNomic.
 
 History:
 Created by Proposal 7097 (omd), 23 July 2011
+Amended(1) by Proposal 7133 (omd), 6 November 2011
 
 ----------------------------------------------------------------------
 
