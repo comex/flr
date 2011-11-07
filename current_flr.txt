@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7134
-Last change to this ruleset: by Proposal 7134
+Last proposal with recorded effect on this ruleset: 7135
+Last change to this ruleset: by Proposal 7135
 
 Last updated: 6 November 2011
 
@@ -81,7 +81,7 @@ Index of Rules
 
       * Economy
       Rule 2166: Assets
-      Rule 2343: Victory Cases
+      Rule 2343: Victory Conditions
       Rule 2337: Promises
       Rule 2338: Cashing Promises
       Rule 2356: Naughtiness
@@ -1535,46 +1535,42 @@ Amended(16) by Proposal 6916 (omd; disi.), 2 January 2011
 
 ----------------------------------------------------------------------
 
-Rule 2343/2 (Power=1.7)
-Victory Cases
+Rule 2343/3 (Power=1.7)
+Victory Conditions
 
-      Victory cases are a subclass of judicial cases. Any person CAN
-      initiate a victory case by announcement, specifying a person
-      (the Enlaureled) that allegedly satisfied a Victory Condition,
-      the Victory Condition allegedly satisfied, and the means by
-      which it was allegedly satisfied.
+      A Victory Condition is a condition explicitly defined by the
+      rules as a victory condition.  A Victory Announcement is a
+      published statement labeled as a Victory Announcement that
+      states clearly that a specified person or persons have satisfied
+      a specified and rules-defined victory condition (and explicitly
+      and clearly states which persons and which victory condition).
+      A Victory Announcement is self-ratifying.
 
-      The entities eligible to be assigned as judges of a victory case
-      are those judicial panels consisting of three first-class
-      players, none of them having called the case or been
-      disqualified as below. A player can be disqualified from judging
-      a victory case with Agoran Consent. The CotC SHOULD NOT assign a
-      panel to a victory case if there is a pending intent to
-      disqualify one of its members unless it is clear that the intent
-      will fail. Players SHOULD be disqualified only if they have a
-      vested interest in the victory, such as having been a
-      co-scammer.
+      When a Victory Announcement ratifies, or a judgement confirming
+      the veracity of a victory announcement has been in effect and
+      unappealed for one week, and provided the person(s) named have
+      not already won via the same events, the person(s) Win the Game.
+      There is no other method of winning the game.  Winning the game
+      does not cause Agora to end.
 
-      The valid judgements for a victory case are GLORY, appropriate
-      if the Victory Condition was satisfied as described and a
-      judgment of GLORY has not already been reached on an earlier
-      case over substantially the same victory, and SHAME, appropriate
-      otherwise.
+      The Herald SHALL award the Patent Title Champion to any person
+      who wins the game, as soon as possible after the win.  The
+      Herald SHOULD note the method of winning in eir report.
 
-      When a judgment of GLORY has continuously been in effect for two
-      weeks, the Enlaureled is deemed to have won the game as
-      specified.  The Herald shall forthwith award the patent title
-      Champion to the winner. Winning the game does not cause Agora to
-      end.
-
-      An appeal concerning any assignment of judgement in a victory
-      case within the past week CAN be initiated by the Enlaureled by
-      announcement.
+      Any person who wins the game while knowingly breaking a Rule, or
+      while willingly and knowingly being a party to a Rules breach,
+      where the breach is directly and substantially responsible for
+      the win, commits the Class-4 Crime of Poor Sportsmanship.  If
+      any party is found GUILTY of this crime, then, as soon as
+      possible after the judgement has been in effect for one week,
+      the Herald SHALL, as part of the punishment, revoke any Champion
+      title awarded to the guilty parties as a result of the win.
 
 History:
 Created by Proposal 7039 (scshunt), 16 May 2011
 Amended(1) by Proposal 7078 (omd), 16 June 2011
 Amended(2) by Proposal 7098 (omd), 23 July 2011
+Amended(3) by Proposal 7135 (G.), 6 November 2011
 
 ----------------------------------------------------------------------
 
