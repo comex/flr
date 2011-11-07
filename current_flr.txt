@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7120
-Last change to this ruleset: by Proposal 7120
+Last proposal with recorded effect on this ruleset: 7128
+Last change to this ruleset: by Proposal 7128
 
-Last updated: 16 October 2011
+Last updated: 6 November 2011
 
 Highest Rule ID number ever assigned: 2355
 
@@ -660,17 +660,18 @@ Amended(1) by Proposal 7112 (Walker), 20 August 2011
 
 ----------------------------------------------------------------------
 
-Rule 2351/0 (Power=3)
+Rule 2351/1 (Power=3)
 Agora, Adult
 
       Agora can make its own decisions. If, at any time, Agora wishes
       to counteract a decision, then that decision, rules to the
       contrary notwithstanding, has no effect. The game of Agora, but
-      not any player of it, can make arbitrary changes to the
+      not any other player of it, can make arbitrary changes to the
       gamestate.
 
 History:
 Created by Proposal 7095 (Yally), 23 July 2011
+Amended(1) by Proposal 7128 (scshunt), 6 November 2011
 
 ----------------------------------------------------------------------
 
