@@ -1,17 +1,17 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7136
-Last change to this ruleset: by Proposal 7136
+Last proposal with recorded effect on this ruleset: 7138
+Last change to this ruleset: by Proposal 7138
 
 Last updated: 7 December 2011
 
-Highest Rule ID number ever assigned: 2357
+Highest Rule ID number ever assigned: 2358
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 99
+Current total number of rules: 100
 
 Power distribution:
        1 with Power=4
@@ -20,7 +20,7 @@ Power distribution:
       25 with Power=2
        8 with Power=1.7
        3 with Power=1.5
-      22 with Power=1
+      23 with Power=1
        1 with Power=1.1
 
 ----------------------------------------------------------------------
@@ -58,6 +58,7 @@ Index of Rules
       Rule 2339: Intention
       Rule 2351: Agora, Adult
       Rule 2357: Wisdom of the Elders
+      Rule 2358: Win by Paradox
 
       * Rules
       Rule 2141: Role and Attributes of Rules
@@ -690,6 +691,22 @@ Wisdom of the Elders
 
 History:
 Created by Proposal 7134 (ais523), 6 November 2011
+
+----------------------------------------------------------------------
+
+Rule 2358/0 (Power=1)
+Win by Paradox
+
+      A turtle is an inquiry case on the possibility or legality of a
+      rule-defined action (actual or hypothetical, but not arising
+      from that case itself, and not occurring after the initiation of
+      that case) which has the judgement UNDECIDABLE.
+
+      When a turtle has continuously been a turtle for one week, its
+      initiator satisfies the Victory Condition of Paradox.
+
+History:
+Created by Proposal 7138 (omd), 19 November 2011
 
 ----------------------------------------------------------------------
 
