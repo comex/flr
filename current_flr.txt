@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7138
-Last change to this ruleset: by Proposal 7138
+Last proposal with recorded effect on this ruleset: 7139
+Last change to this ruleset: by Proposal 7139
 
 Last updated: 7 December 2011
 
@@ -1551,11 +1551,12 @@ Amended(16) by Proposal 6916 (omd; disi.), 2 January 2011
 
 ----------------------------------------------------------------------
 
-Rule 2343/3 (Power=1.7)
+Rule 2343/4 (Power=1.7)
 Victory Conditions
 
       A Victory Condition is a condition explicitly defined by the
-      rules as a victory condition.  A Victory Announcement is a
+      rules as a victory condition.  Victory Conditions are satisfied
+      instantaneously, not continuously.  A Victory Announcement is a
       published statement labeled as a Victory Announcement that
       states clearly that a specified person or persons have satisfied
       a specified and rules-defined victory condition (and explicitly
@@ -1587,6 +1588,7 @@ Created by Proposal 7039 (scshunt), 16 May 2011
 Amended(1) by Proposal 7078 (omd), 16 June 2011
 Amended(2) by Proposal 7098 (omd), 23 July 2011
 Amended(3) by Proposal 7135 (G.), 6 November 2011
+Amended(4) by Proposal 7139 (omd), 19 November 2011
 
 ----------------------------------------------------------------------
 
