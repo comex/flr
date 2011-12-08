@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7139
-Last change to this ruleset: by Proposal 7139
+Last proposal with recorded effect on this ruleset: 7141
+Last change to this ruleset: by Proposal 7141
 
 Last updated: 7 December 2011
 
@@ -1313,7 +1313,7 @@ Created by Proposal 6976 (Murphy, MRW and Associates), 30 March 2011
 
 ----------------------------------------------------------------------
 
-Rule 2139/3 (Power=2)
+Rule 2139/4 (Power=2)
 The Registrar
 
       The Registrar is an office; its holder is responsible for
@@ -1333,6 +1333,9 @@ The Registrar
       The portion of a public message purporting to be a Registrar's
       report that lists each player implies that no players other than
       those listed exist and is self-ratifying.
+
+      The Registrar is also responsible for tracking any switches that
+      would otherwise lack an officer to track them.
 
 [CFJ 1703 (called 13 July 2007): A player cannot change eir nickname
 by announcement if the new nickname that e specifies is the current
@@ -1368,6 +1371,7 @@ Amended(1) by Proposal 5172 (Murphy), 29 August 2007
 Amended(2) by Proposal 6322 (Wooble), 26 May 2009
 Amended(3) twice by Proposal 6567 (Walker), 28 November 2009
 Power changed from 1 to 2 by Proposal 6567 (Walker), 28 November 2009
+Amended(4) by Proposal 7141 (G.), 19 November 2011
 
 ----------------------------------------------------------------------
 
