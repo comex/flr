@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7146
-Last change to this ruleset: by Proposal 7146
+Last proposal with recorded effect on this ruleset: 7147
+Last change to this ruleset: by Proposal 7147
 
 Last updated: 29 January 2012
 
@@ -1555,7 +1555,7 @@ Amended(16) by Proposal 6916 (omd; disi.), 2 January 2011
 
 ----------------------------------------------------------------------
 
-Rule 2343/5 (Power=1.7)
+Rule 2343/6 (Power=1.7)
 Victory Conditions
 
       Victory Conditions and Losing Conditions are conditions
@@ -1572,9 +1572,9 @@ Victory Conditions
       When a Victory Announcement ratifies, or a judgement confirming
       the veracity of a victory announcement has been in effect and
       unappealed for one week, and provided the person(s) named have
-      not already won via the same events, the person(s) Win the Game.
-      There is no other method of winning the game.  Winning the game
-      does not cause Agora to end.
+      not already won via substantially the same events, the person(s)
+      Win the Game.  There is no other method of winning the game.
+      Winning the game does not cause Agora to end.
 
       The Herald SHALL award the Patent Title Champion to any person
       who wins the game, as soon as possible after the win.  The
@@ -1596,6 +1596,7 @@ Amended(2) by Proposal 7098 (omd), 23 July 2011
 Amended(3) by Proposal 7135 (G.), 6 November 2011
 Amended(4) by Proposal 7139 (omd), 19 November 2011
 Amended(5) by Proposal 7146 (omd), 25 January 2012
+Amended(6) by Proposal 7147 (Murphy), 25 January 2012
 
 ----------------------------------------------------------------------
 
