@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7141
-Last change to this ruleset: by Proposal 7141
+Last proposal with recorded effect on this ruleset: 7146
+Last change to this ruleset: by Proposal 7146
 
-Last updated: 7 December 2011
+Last updated: 29 January 2012
 
 Highest Rule ID number ever assigned: 2358
 
@@ -1555,17 +1555,19 @@ Amended(16) by Proposal 6916 (omd; disi.), 2 January 2011
 
 ----------------------------------------------------------------------
 
-Rule 2343/4 (Power=1.7)
+Rule 2343/5 (Power=1.7)
 Victory Conditions
 
-      A Victory Condition is a condition explicitly defined by the
-      rules as a victory condition.  Victory Conditions are satisfied
-      instantaneously, not continuously.  A Victory Announcement is a
-      published statement labeled as a Victory Announcement that
-      states clearly that a specified person or persons have satisfied
-      a specified and rules-defined victory condition (and explicitly
-      and clearly states which persons and which victory condition).
-      A Victory Announcement is self-ratifying.
+      Victory Conditions and Losing Conditions are conditions
+      explicitly defined as such by the Rules.  Such conditions are
+      generally satisfied instantaneously, not continuously.
+
+      A Victory Announcement is a published statement labeled as a
+      Victory Announcement that states clearly that a specified person
+      or persons have satisfied a specified Victory Condition while
+      not satisfying any Losing Conditions (and explicitly and clearly
+      states which persons and which victory condition).  A Victory
+      Announcement is self-ratifying.
 
       When a Victory Announcement ratifies, or a judgement confirming
       the veracity of a victory announcement has been in effect and
@@ -1593,6 +1595,7 @@ Amended(1) by Proposal 7078 (omd), 16 June 2011
 Amended(2) by Proposal 7098 (omd), 23 July 2011
 Amended(3) by Proposal 7135 (G.), 6 November 2011
 Amended(4) by Proposal 7139 (omd), 19 November 2011
+Amended(5) by Proposal 7146 (omd), 25 January 2012
 
 ----------------------------------------------------------------------
 
@@ -4248,7 +4251,7 @@ Amended(35) by Proposal 7078 (omd), 16 June 2011
 
 ----------------------------------------------------------------------
 
-Rule 1504/56 (Power=2)
+Rule 1504/57 (Power=2)
 Criminal Cases
 
       Criminal cases are a subclass of judicial cases.  Any person can
@@ -4339,7 +4342,9 @@ Criminal Cases
       * EXILE, appropriate for rule breaches of the highest severity.
         When a judgement of EXILE has been in effect continuously for
         one week, the ninny is deregistered and CANNOT register for
-        two months after that time.
+        two months after that time.  During this period, e is known as
+        a Fugitive.  Being a Fugitive is the Losing Condition of
+        Seeking Asylum.
 
       Players SHOULD NOT create rules defining Crimes of a Class
       greater than 14.
@@ -4438,6 +4443,7 @@ Amended(53) by Proposal 7012 (Walker), 20 April 2011
 Amended(54) by Proposal 7034 (omd), 16 May 2011
 Amended(55) by Proposal 7050 (omd), 16 May 2011
 Amended(56) by Proposal 7118 (scshunt), 20 August 2011
+Amended(57) by Proposal 7146 (omd), 25 January 2012
 
 ----------------------------------------------------------------------
 
