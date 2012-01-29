@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7147
-Last change to this ruleset: by Proposal 7147
+Last proposal with recorded effect on this ruleset: 7148
+Last change to this ruleset: by Proposal 7148
 
 Last updated: 29 January 2012
 
@@ -1555,7 +1555,7 @@ Amended(16) by Proposal 6916 (omd; disi.), 2 January 2011
 
 ----------------------------------------------------------------------
 
-Rule 2343/6 (Power=1.7)
+Rule 2343/7 (Power=1.7)
 Victory Conditions
 
       Victory Conditions and Losing Conditions are conditions
@@ -1568,6 +1568,16 @@ Victory Conditions
       not satisfying any Losing Conditions (and explicitly and clearly
       states which persons and which victory condition).  A Victory
       Announcement is self-ratifying.
+
+      The remainder of this rule notwithstanding, if an event's
+      Victory Deadline has passed, then a person CANNOT Win the Game
+      due to that event, and its Victory Deadline CANNOT be extended.
+      An event's Victory Deadline is initially 28 days after the
+      event, and CANNOT be extended except as specified by this rule.
+      If it is within 28 days of passing, then anyone CAN extend it by
+      28 days by announcement.  (Initiating, assigning a judge to, or
+      judging a judicial case substantially relevant to the event
+      implicitly counts as such an announcement.)
 
       When a Victory Announcement ratifies, or a judgement confirming
       the veracity of a victory announcement has been in effect and
@@ -1597,6 +1607,7 @@ Amended(3) by Proposal 7135 (G.), 6 November 2011
 Amended(4) by Proposal 7139 (omd), 19 November 2011
 Amended(5) by Proposal 7146 (omd), 25 January 2012
 Amended(6) by Proposal 7147 (Murphy), 25 January 2012
+Amended(7) by Proposal 7148 (Murphy), 25 January 2012
 
 ----------------------------------------------------------------------
 
