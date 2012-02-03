@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7150
-Last change to this ruleset: by Proposal 7150
+Last proposal with recorded effect on this ruleset: 7151
+Last change to this ruleset: by Proposal 7151
 
 Last updated: 2 February 2012
 
@@ -2014,10 +2014,14 @@ Amended(1) by Proposal 7063 (G.), 16 June 2011
 
 ----------------------------------------------------------------------
 
-Rule 1769/9 (Power=3)
+Rule 1769/10 (Power=3)
 Holidays
 
       A Holiday is a period of time designated as such by the Rules.
+
+      The period each year from midnight GMT on the morning of 24
+      December to the beginning of the first Agoran week to begin
+      after 2 January is a Holiday.
 
       During a Holiday, the Promotor SHALL NOT distribute any
       proposals, and the Clerk of the Courts SHALL NOT assign a judge
@@ -2045,10 +2049,6 @@ Holidays
       timing of events, and over all Rules which require events to be
       performed before a specified time.
 
-      The period each year from midnight GMT on the morning of 24
-      December to the beginning of the first Agoran week to begin
-      after 2 January is a Holiday.
-
 [CFJ 1434 (called 24 January 2003): The registration of a player is an
 event for the purposes of Rule 1769.]
 
@@ -2071,6 +2071,7 @@ Amended(7) by Proposal 5535 (Murphy), 7 June 2008
 Power changed from 2 to 3 by Proposal 5701 (ais523), 1 October 2008
 Amended(8) by Proposal 7050 (omd), 16 May 2011
 Amended(9) by Proposal 7150 (Murphy), 25 January 2012
+Amended(10) by Proposal 7151 (Murphy), 25 January 2012
 
 ----------------------------------------------------------------------
 
