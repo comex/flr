@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7151
-Last change to this ruleset: by Proposal 7151
+Last proposal with recorded effect on this ruleset: 7152
+Last change to this ruleset: by Proposal 7152
 
 Last updated: 2 February 2012
 
@@ -4589,7 +4589,7 @@ Amended(2) by Proposal 7065 (scshunt), 16 June 2011
 
 ----------------------------------------------------------------------
 
-Rule 911/46 (Power=1.7)
+Rule 911/47 (Power=1.7)
 Appeal Cases
 
       Appeal cases are a subclass of judicial cases.  An appeal case's
@@ -4658,7 +4658,7 @@ Appeal Cases
       time it was assigned.
 
       When an appeal case is initiated, the prior case is suspended,
-      and remains so until the the appeal case is judged.
+      and remains so until the appeal case is judged.
 
       The judge of a previously-appealed case SHALL NOT assign the
       same judgement to it without new reasoning that addresses the
@@ -4732,6 +4732,7 @@ Amended(43) by Proposal 7049 (omd), 16 May 2011
 Amended(44) by Proposal 7050 (omd), 16 May 2011
 Amended(45) by Proposal 7072 (woggle), 16 June 2011
 Amended(46) by Proposal 7078 (omd), 16 June 2011
+Amended(47) by Proposal 7152 (Murphy), 25 January 2012
 
 ----------------------------------------------------------------------
 
