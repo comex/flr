@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7148
-Last change to this ruleset: by Proposal 7148
+Last proposal with recorded effect on this ruleset: 7149
+Last change to this ruleset: by Proposal 7149
 
-Last updated: 29 January 2012
+Last updated: 2 February 2012
 
 Highest Rule ID number ever assigned: 2358
 
@@ -2588,7 +2588,7 @@ Amended(16) by cleaning (Keba), 20 August 2010
 
 ----------------------------------------------------------------------
 
-Rule 2333/2 (Power=1)
+Rule 2333/3 (Power=1)
 Contests
 
       A player CAN make a non-contest document into a contest without
@@ -2600,7 +2600,7 @@ Contests
       with notice and with 3 support.
 
       The contest's instructions should include conditions under which
-      persons "win the contest".  Upon an announcement by the
+      persons "win the contest".  Upon a true announcement by the
       contestmaster that one or more persons satisfy those conditions,
       all those persons satisfy the Victory Condition of Victory.
       Intentionally making a false such announcement is the Class-4
@@ -2631,6 +2631,7 @@ History:
 Created by Proposal 6991 (omd), 10 April 2011
 Amended(1) by Proposal 7080 (scshunt), 16 June 2011
 Amended(2) by Proposal 7087 (omd), 23 July 2011
+Amended(3) by Proposal 7149 (G.), 25 January 2012
 
 ----------------------------------------------------------------------
 
