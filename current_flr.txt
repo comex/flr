@@ -1,17 +1,17 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7159
-Last change to this ruleset: by Proposal 7159
+Last proposal with recorded effect on this ruleset: 7160
+Last change to this ruleset: by Proposal 7160
 
 Last updated: 5 February 2012
 
-Highest Rule ID number ever assigned: 2358
+Highest Rule ID number ever assigned: 2359
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 100
+Current total number of rules: 101
 
 Power distribution:
        1 with Power=4
@@ -20,8 +20,8 @@ Power distribution:
       25 with Power=2
        8 with Power=1.7
        3 with Power=1.5
-      23 with Power=1
        1 with Power=1.1
+      24 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -56,6 +56,7 @@ Index of Rules
       Rule 2344: Anarchy
       Rule  103: The Speaker
       Rule 2339: Intention
+      Rule 2359: The Power Of Agora
       Rule 2351: Agora, Adult
       Rule 2357: Wisdom of the Elders
       Rule 2358: Win by Paradox
@@ -652,6 +653,17 @@ Intention
 History:
 Created by Proposal 7021 (Walker), 5 May 2011
 Amended(1) by Proposal 7112 (Walker), 20 August 2011
+
+----------------------------------------------------------------------
+
+Rule 2359/0 (Power=1)
+The Power Of Agora
+
+      If Agora is a person, Agora has power equal to the power of this
+      rule.
+
+History:
+Created by Proposal 7160 (441344), 5 February 2012
 
 ----------------------------------------------------------------------
 
