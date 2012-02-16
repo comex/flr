@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7164
-Last change to this ruleset: by Proposal 7164
+Last proposal with recorded effect on this ruleset: 7167
+Last change to this ruleset: by Proposal 7167
 
 Last updated: 16 February 2012
 
@@ -682,7 +682,7 @@ Amended(1) by Proposal 7128 (scshunt), 6 November 2011
 
 ----------------------------------------------------------------------
 
-Rule 2357/1 (Power=2)
+Rule 2357/2 (Power=2)
 Wisdom of the Elders
 
       An Elder is a player who has been registered continuously for at
@@ -700,10 +700,15 @@ Wisdom of the Elders
           they can;
         * Any Elder, with 4 Elder Support, CAN set the Adoption Index
           of any Agoran Decision with an Adoption Index to 8.
+        * If 5 or more Elders are Objectors to an intent, Agora is not
+          Satisfied with that intent, rules to the contrary
+          notwithstanding. Any Elder is eligible to object to any
+          intent, rules to the contrary notwithstanding.
 
 History:
 Created by Proposal 7134 (ais523), 6 November 2011
 Amended(1) by Proposal 7164 (Murphy, Arkady), 16 February 2012
+Amended(2) by Proposal 7167 (441344), 16 February 2012
 
 ----------------------------------------------------------------------
 
