@@ -1,23 +1,23 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7167
-Last change to this ruleset: by Proposal 7167
+Last proposal with recorded effect on this ruleset: 7171
+Last change to this ruleset: by Proposal 7171
 
 Last updated: 16 February 2012
 
-Highest Rule ID number ever assigned: 2359
+Highest Rule ID number ever assigned: 2361
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 101
+Current total number of rules: 103
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
       38 with Power=3
-      25 with Power=2
+      27 with Power=2
        8 with Power=1.7
        3 with Power=1.5
        1 with Power=1.1
@@ -88,6 +88,8 @@ Index of Rules
       Rule 2338: Cashing Promises
       Rule 2356: Naughtiness
       Rule 2354: Costs
+      Rule 2360: Golems
+      Rule 2361: Slave Golems
 
       * Definitions
       Rule  754: Definition Definitions
@@ -1730,6 +1732,38 @@ Costs
 
 History:
 Created by Proposal 7117 (omd), 20 August 2011
+
+----------------------------------------------------------------------
+
+Rule 2360/0 (Power=2)
+Golems
+
+      Golems are a class of second-class persons and a class of
+      assets.  Golemkeepor is an elected Office. The Golemkeepor is
+      the recordkeepor for Golems. Causing a Golem to act is secured.
+      The Golemkeepor CAN destroy any Golem Without Objection. When a
+      Golem is destroyed, all entities in eir possession are
+      destroyed. When a Golem ceases to be a person, it is destroyed.
+
+History:
+Created by Proposal 7171 (441344), 16 February 2012
+
+----------------------------------------------------------------------
+
+Rule 2361/0 (Power=2)
+Slave Golems
+
+      Slave Golems are a class of Golems and a class of second-class
+      players.  Any player CAN create a Slave Golem in eir possession
+      by announcement, specifying its name. The owner of a Slave Golem
+      CAN cause it to take actions that are not otherwise IMPOSSIBLE
+      by announcement. For all N, causing a Slave Golem to perform a
+      Class-N Crime in this manner is the Class-N Crime of Not Doing
+      Your Own Dirty Work. When a Slave Golem ceases to be a player,
+      it is destroyed.
+
+History:
+Created by Proposal 7171 (441344), 16 February 2012
 
 ----------------------------------------------------------------------
 
