@@ -1442,7 +1442,7 @@ Activity
       Activity is a player switch with values Active (default) and
       Inactive, tracked by the Registrar.  The Registrar's report
       includes the date on which each non-Active player's activity
-      last changed.
+      last changed.  Changes to Activity are Secured.
 
       A player CAN flip eir activity by announcement.  "To go on hold"
       is to become Inactive; "to come off hold" is to become Active.
@@ -1469,6 +1469,7 @@ Amended(9) by Proposal 5271 (Murphy), 7 November 2007
 Power changed from 1 to 2 by Proposal 5947 (ais523), 15 November 2008
 Amended(10) by Proposal 6100 (Pavitra; disi.), 22 February 2009
 Amended(11) by Proposal 6666 (Murphy), 10 March 2010
+Amended by Proposal 6959 (G.), 31 January 2011
 Amended(12) by Proposal 6974 (Murphy), 30 March 2011
 Amended(13) by Proposal 6984 (Murphy), 10 April 2011
 
@@ -2726,7 +2727,7 @@ Offices
       within the game.
 ----------------------------------------------------------------------
 
-Rule 1006/32 (Power=2)
+Rule 1006/33 (Power=2)
 Offices
 
       An office is a role defined as such by the rules.  Each office
@@ -2735,7 +2736,9 @@ Offices
       referred to by the name of that office.
 
       An imposed office is an office described as such by the rule
-      defining it.  All others are elected.
+      defining it.  All others are elected.  A person CANNOT be made
+      the holder of an elected office without eir explicit or
+      reasonably implied consent.
 
       The holder of an elected office CAN resign it by announcement,
       causing it to become vacant.  Any player CAN cause an office to
@@ -2792,6 +2795,7 @@ Amended(29) by cleaning (Murphy), 16 August 2009
 Amended(30) by Proposal 6482 (c.), 18 September 2009
 Amended(31) by cleaning (Murphy), 6 March 2010
 Amended(32) by Proposal 6790 (Wooble), 27 August 2010
+Amended(33) by Proposal 6959 (G.), 31 January 2011
 
 ----------------------------------------------------------------------
 
