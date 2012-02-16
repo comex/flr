@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7171
-Last change to this ruleset: by Proposal 7171
+Last proposal with recorded effect on this ruleset: 7172
+Last change to this ruleset: by Proposal 7172
 
 Last updated: 16 February 2012
 
@@ -3068,16 +3068,41 @@ Retitled and amended(13) by Proposal 6975 (Murphy), 30 March 2011
 
 ----------------------------------------------------------------------
 
-Rule 2352/2 (Power=1)
+Rule 2352/3 (Power=1)
 The Ambassador
 
       The Ambassador is an office; its holder is responsible for
       managing the affairs of state of Agora.
 
+      Any player CAN (with Agoran Consent, or without 3 objections if
+      e is the Ambassador) authorize emself to perform a specified
+      action on Agora's behalf in another nomic.  Acting on Agora's
+      behalf in another nomic is effective only if:
+
+        a) The actor authorized emself to perform that action on
+           Agora's behalf (as described above) no more than one week
+           earlier.
+
+        b) The actor clearly indicates to that nomic that e is acting
+           on Agora's behalf, and clearly identifies the Ambassador
+           (or that it is vacant) to the best of eir knowledge.
+
+        c) That nomic's rules acknowledge that Agora is a person, and
+           that the actor is acting on Agora's behalf.
+
+      Upon an ineffective claim to act on Agora's behalf in another
+      nomic, the Ambassador SHALL inform that nomic of the situation
+      as soon as possible.
+
+      A player SHALL NOT make an ineffective claim to act on Agora's
+      behalf in another nomic.  Doing so is the Class-7 Crime of
+      Inciting Foreign Aggression.
+
 History:
 Created by Proposal 7097 (omd), 23 July 2011
 Amended(1) by Proposal 7133 (omd), 6 November 2011
 Amended(2) by Proposal 7159 (441344), 5 February 2012
+Amended(3) by Proposal 7172 (Murphy), 16 February 2012
 
 ----------------------------------------------------------------------
 
