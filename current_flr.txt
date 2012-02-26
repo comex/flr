@@ -1,17 +1,17 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7178
-Last change to this ruleset: by Proposal 7178
+Last proposal with recorded effect on this ruleset: 7179
+Last change to this ruleset: by Proposal 7179
 
 Last updated: 26 February 2012
 
-Highest Rule ID number ever assigned: 2361
+Highest Rule ID number ever assigned: 2364
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 103
+Current total number of rules: 106
 
 Power distribution:
        1 with Power=4
@@ -21,7 +21,7 @@ Power distribution:
        8 with Power=1.7
        3 with Power=1.5
        1 with Power=1.1
-      24 with Power=1
+      27 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -90,6 +90,9 @@ Index of Rules
       Rule 2354: Costs
       Rule 2360: Golems
       Rule 2361: Slave Golems
+      Rule 2362: Rubles
+      Rule 2363: Poll Fees
+      Rule 2364: Ballot Fees
 
       * Definitions
       Rule  754: Definition Definitions
@@ -1775,6 +1778,45 @@ Slave Golems
 
 History:
 Created by Proposal 7171 (441344), 16 February 2012
+
+----------------------------------------------------------------------
+
+Rule 2362/0 (Power=1)
+Rubles
+
+      Rubles are a currency.  Ownership of rubles is restricted to
+      persons.  The General Secretary is an office, and the
+      recordkeepor  of rubles.
+
+      At the start of each week, half of each person's rubles (rounded
+      down to the nearest integer) are destroyed, then two rubles are
+      created in the possession of each player.
+
+History:
+Created by Proposal 7179 (Murphy), 26 February 2012
+
+----------------------------------------------------------------------
+
+Rule 2363/0 (Power=1)
+Poll Fees
+
+      A player CAN initiate an election for a specified elected office
+      for which no election is already in progress for a cost of 1
+      ruble.
+
+History:
+Created by Proposal 7179 (Murphy), 26 February 2012
+
+----------------------------------------------------------------------
+
+Rule 2364/0 (Power=1)
+Ballot Fees
+
+      A player CAN change eir voting limit on a specified Agoran
+      decision to twice its original value for a cost of 1 ruble.
+
+History:
+Created by Proposal 7179 (Murphy), 26 February 2012
 
 ----------------------------------------------------------------------
 
