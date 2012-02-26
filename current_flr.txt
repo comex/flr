@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7173
-Last change to this ruleset: by Proposal 7173
+Last proposal with recorded effect on this ruleset: 7178
+Last change to this ruleset: by Proposal 7178
 
-Last updated: 16 February 2012
+Last updated: 26 February 2012
 
 Highest Rule ID number ever assigned: 2361
 
@@ -1222,7 +1222,7 @@ Amended(32) by Proposal 6974 (Murphy), 30 March 2011
 
 ----------------------------------------------------------------------
 
-Rule 2170/6 (Power=3)
+Rule 2170/7 (Power=3)
 Who Am I?
 
       Rules regarding persons pertain to those persons directly, not
@@ -1233,8 +1233,8 @@ Who Am I?
       others as to the identity of its publisher.
 
       A player SHALL NOT select a confusing nickname, including but
-      not limited to a name that has generally been used to refer to
-      another entity within the past three months.
+      not limited to a name that has generally been used within Agoran
+      fora to refer to another entity within the past three months.
 
       A public message's (possibly implicit) claim as to the identity
       of its publisher is self-ratifying, provided that the claim is
@@ -1276,6 +1276,7 @@ Amended(3) by Proposal 5716 (Murphy), 7 October 2008
 Amended(4) by Proposal 5717 (Murphy), 7 October 2008
 Amended(5) by Proposal 5741 (Murphy), 16 October 2008
 Amended(6) by Proposal 6571 (ais523), 28 November 2009
+Amended(7) by Proposal 7178 (G.), 26 February 2012
 
 ----------------------------------------------------------------------
 
