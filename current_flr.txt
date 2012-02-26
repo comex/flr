@@ -1,17 +1,17 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7179
-Last change to this ruleset: by Proposal 7179
+Last proposal with recorded effect on this ruleset: 7180
+Last change to this ruleset: by Proposal 7180
 
 Last updated: 26 February 2012
 
-Highest Rule ID number ever assigned: 2364
+Highest Rule ID number ever assigned: 2365
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 106
+Current total number of rules: 107
 
 Power distribution:
        1 with Power=4
@@ -21,7 +21,7 @@ Power distribution:
        8 with Power=1.7
        3 with Power=1.5
        1 with Power=1.1
-      27 with Power=1
+      28 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -93,6 +93,7 @@ Index of Rules
       Rule 2362: Rubles
       Rule 2363: Poll Fees
       Rule 2364: Ballot Fees
+      Rule 2365: Pool Fees
 
       * Definitions
       Rule  754: Definition Definitions
@@ -1817,6 +1818,18 @@ Ballot Fees
 
 History:
 Created by Proposal 7179 (Murphy), 26 February 2012
+
+----------------------------------------------------------------------
+
+Rule 2365/0 (Power=1)
+Pool Fees
+
+      Rules to the contrary notwithstanding, if at least five
+      proposals have been created earlier in the week, then creating a
+      proposal has a cost of 1 ruble.
+
+History:
+Created by Proposal 7180 (Murphy), 26 February 2012
 
 ----------------------------------------------------------------------
 
