@@ -1792,7 +1792,7 @@ Rubles
 
       Rubles are a currency.  Ownership of rubles is restricted to
       persons.  The General Secretary is an office, and the
-      recordkeepor  of rubles.
+      recordkeepor of rubles.
 
       At the start of each week, half of each person's rubles (rounded
       down to the nearest integer) are destroyed, then two rubles are
