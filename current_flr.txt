@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7215
-Last change to this ruleset: by Proposal 7215
+Last proposal with recorded effect on this ruleset: 7216
+Last change to this ruleset: by Proposal 7216
 
 Last updated: 4 May 2012
 
@@ -3812,27 +3812,26 @@ Proposals
       which changes are made to the game.
 ----------------------------------------------------------------------
 
-Rule 2350/1 (Power=3)
+Rule 2350/2 (Power=3)
 Proposals
 
-      A proposal is a fixed body of text which has been made into a
-      proposal using a process specifically described in the Rules.
+      A proposal is a type of entity consisting of a body of text.  A
+      player CAN create a proposal by announcement, specifying its
+      text and optionally specifying the following attributes:
 
-      A player CAN create a proposal by publishing ("submitting") a
-      body of text and an associated title with a clear indication
-      that it is intended to become a proposal, which places the
-      proposal in the Proposal Pool.  The author (syn. proposer) of a
-      proposal is the player who submitted it.  A player CAN remove
-      (syn. retract, withdraw) a proposal e authored from the Proposal
-      Pool by announcement.
+      * An associated title.
+      * A list of co-authors (which must be persons other than the
+        author).
+      * An adoption index and Chamber.
 
-      A co-author of a proposal is a person (other than its author)
-      unambiguously identified as such by its author when it was
-      submitted.
+      Once a proposal is created, none of its attributes can be
+      changed.  The author (syn. proposer) of a proposal is the person
+      who submitted it.
 
 History:
 Created by Proposal 7083 (Walker), 4 July 2011
 Amended(1) by Proposal 7086 (G., omd), 23 July 2011
+Amended(2) by Proposal 7216 (omd), 4 May 2012
 
 [CFJ 1647 (called 30 April 2007): Preceding a proposal-like text with
 the heading "Proposal:" and a title can be sufficient to clearly
@@ -4046,23 +4045,24 @@ Amended(33) by Proposal 7083 (Walker), 4 July 2011
 
 ----------------------------------------------------------------------
 
-Rule 1950/23 (Power=3)
+Rule 1950/24 (Power=3)
 Decisions with Adoption Indices
 
-      Adoption index is a switch possessed by Agoran decisions, whose
-      value is either "none" (default) or an integral multiple of 0.1
-      from 1.0 to 9.9.
+      Adoption index is a switch possessed by Agoran decisions and
+      proposals, whose value is either "none" (default) or an integral
+      multiple of 0.1 from 1.0 to 9.9.
 
       Chamber is a switch possessed by Agoran decisions with adoption
-      indices, with values Ordinary (default) and Democratic.
+      indices and proposals, with values Ordinary (default) and
+      Democratic.
+
+      Adoption index and Chamber are secured with a power threshold of
+      2.
 
       Determining whether to adopt a proposal is an Agoran decision.
-      By default, this decision has an adoption index of 1.0 and is
-      Ordinary; if the proposer specified valid, non-"none" values for
-      the adoption index and/or Chamber when submitting the proposal,
-      those values are set at the initiation of the decision. Changing
-      either value is secured with a power threshold of 2. The vote
-      collector for this decision is the Assessor.
+      For this decision, the vote collector is the Assessor, and the
+      adoption index and Chamber are initially the same as the
+      corresponding values from the proposal.
 
       An Agoran decision with an adoption index has the following
       essential parameters:
@@ -4112,6 +4112,7 @@ Amended(20) by Proposal 5418 (root), 2 February 2008
 Amended(21) by Proposal 6961 (G.), 3 March 2011
 Retitled and amended(22) by Proposal 7013 (omd), 23 April 2011
 Amended(23) by Proposal 7083 (Walker), 4 July 2011
+Amended(24) by Proposal 7216 (omd), 4 May 2012
 
 ----------------------------------------------------------------------
 
