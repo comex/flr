@@ -1,23 +1,23 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7216
-Last change to this ruleset: by Proposal 7216
+Last proposal with recorded effect on this ruleset: 7217
+Last change to this ruleset: by Proposal 7217
 
 Last updated: 4 May 2012
 
-Highest Rule ID number ever assigned: 2365
+Highest Rule ID number ever assigned: 2366
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 106
+Current total number of rules: 107
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
       38 with Power=3
-      27 with Power=2
+      28 with Power=2
        8 with Power=1.7
        3 with Power=1.5
        1 with Power=1.1
@@ -141,6 +141,7 @@ Index of Rules
       Rule 1950: Decisions with Adoption Indices
       Rule 2137: The Assessor
       Rule 1698: Agora Is A Nomic
+      Rule 2366: Veto and Rubberstamp
 
       * Adjudication
       Rule  991: Judicial Cases Generally
@@ -4157,6 +4158,22 @@ Retitled by Proposal 5536 (Murphy), 7 June 2008
 Amended(1) by Proposal 5536 (Murphy), 7 June 2008
 Amended(2) by Proposal 7075 (scshunt), 16 June 2011
 Amended(3) by Proposal 7088 (omd), 23 July 2011
+
+----------------------------------------------------------------------
+
+Rule 2366/0 (Power=2)
+Veto and Rubberstamp
+
+      The Speaker CAN Veto an Ordinary decision with AI <= 3 by
+      announcement; this sets its AI to 3.
+
+      The Speaker CAN Rubberstamp an Ordinary decision with AI <= 2 by
+      announcement; this sets its AI to 2, and among the
+      otherwise-valid votes on a decision that has been Rubberstamped,
+      only the first AGAINST vote per voter is valid.
+
+History:
+Created by Proposal 7217 (omd), 4 May 2012
 
 ----------------------------------------------------------------------
 
