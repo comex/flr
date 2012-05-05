@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7209
-Last change to this ruleset: by Proposal 7209
+Last proposal with recorded effect on this ruleset: 7210
+Last change to this ruleset: by Proposal 7210
 
 Last updated: 4 May 2012
 
@@ -205,7 +205,7 @@ The Game of Agora
       entities.
 ----------------------------------------------------------------------
 
-Rule 2105/4 (Power=1)
+Rule 2105/5 (Power=1)
 The Map of Agora
 
                                ____  _        /|
@@ -238,7 +238,7 @@ The Map of Agora
                 /  \ | /  \     MANUBOURNE -> \/      NEW C.LAND \}
                     \|/                                           \)
                _,.---v---._                 /\__                   )`-']
-      /\__/\  /            \                |   |  COPPRO STRAIGHT(    !
+      /\__/\  /            \                |   |  COOK SCSTRAIGHT(    !
       \_  _/ /              \                |  /      MICHAELTON->)  /
         \ \_|           @ __|                \_/ <- HOBART    |^\  (_/
          \                \_                                 (  |
@@ -257,6 +257,7 @@ Amended(1) by Proposal 4807 (Sherlock), 15 June 2005
 Amended(2) by Proposal 4866 (Goethe), 27 August 2006
 Amended(3) by Proposal 4946 (Zefram), 3 May 2007
 Amended(4) by Proposal 6581 (G.), 28 November 2009
+Amended(5) by Proposal 7210 (scshunt), 4 May 2012
 
 ----------------------------------------------------------------------
 
