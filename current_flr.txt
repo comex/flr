@@ -3,7 +3,7 @@ THE FULL LOGICAL RULESET
 Last proposal with recorded effect on this ruleset: 7185
 Last change to this ruleset: by Proposal 7185
 
-Last updated: 30 March 2012
+Last updated: 4 May 2012
 
 Highest Rule ID number ever assigned: 2365
 
@@ -552,9 +552,11 @@ Power Controls Mutability
           an instrument is any aspect that affects the instrument's
           operation.
 
-[CFJ 2981 (called 21 March 2011): An instrument is not "modified" when an initial value is set for an attribute.]
+[CFJ 2981 (called 21 March 2011): An instrument is not "modified" when
+an initial value is set for an attribute.]
 
-[CFJ 2945 (called 22 December 2010): An instrument is "modified" when an attribute is removed.]
+[CFJ 2945 (called 22 December 2010): An instrument is "modified" when
+an attribute is removed.]
 
 History:
 Created by Proposal 4940 (Zefram), 29 April 2007
@@ -3895,7 +3897,6 @@ Adopting Proposals
       taking effect (its no-effect clause is generally interpreted as
       applying only to the rest of the proposal).
 
-
 [CFJ 1639 (called 29 April 2007): Where a proposal attempts two
 separate amendments of the text of the same rule, if one of the
 attempted amendments is not possible and the other is then the
@@ -5015,7 +5016,8 @@ time that the Judge is selected, regardless of whether that Player was
 qualified at the time that the CFJ was actually called for or when the
 identity of that Player is announced.]
 
-[CFJ 3009 (called 24 April 2011): An entity poorly qualified to judge a case is necessarily qualified to judge that case.]
+[CFJ 3009 (called 24 April 2011): An entity poorly qualified to judge
+a case is necessarily qualified to judge that case.]
 
 History:
 Created by Proposal 3816 (Repeal-O-Matic), Dec. 21 1998
