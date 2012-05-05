@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7185
-Last change to this ruleset: by Proposal 7185
+Last proposal with recorded effect on this ruleset: 7209
+Last change to this ruleset: by Proposal 7209
 
 Last updated: 4 May 2012
 
@@ -11,7 +11,7 @@ Highest Rule ID number ever assigned: 2365
 
 Statistics
 
-Current total number of rules: 107
+Current total number of rules: 106
 
 Power distribution:
        1 with Power=4
@@ -21,7 +21,7 @@ Power distribution:
        8 with Power=1.7
        3 with Power=1.5
        1 with Power=1.1
-      28 with Power=1
+      27 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -118,7 +118,6 @@ Index of Rules
       Rule 2154: Election Procedure
       Rule 2276: Assumption of Vacant Offices
       Rule 2138: The Interstellar Associate Director of Personnel
-      Rule 2352: The Ambassador
       Rule 1551: Ratification
       Rule 2202: Ratification Without Objection
       Rule 2201: Self-Ratification
@@ -3171,44 +3170,6 @@ Amended(10) and title changed by Proposal 6377 (coppro; disi.),
 Amended(11) by Proposal 6493 (coppro; disi.), 18 September 2009
 Retitled and amended(12) by Proposal 6667 (Murphy), 10 March 2010
 Retitled and amended(13) by Proposal 6975 (Murphy), 30 March 2011
-
-----------------------------------------------------------------------
-
-Rule 2352/3 (Power=1)
-The Ambassador
-
-      The Ambassador is an office; its holder is responsible for
-      managing the affairs of state of Agora.
-
-      Any player CAN (with Agoran Consent, or without 3 objections if
-      e is the Ambassador) authorize emself to perform a specified
-      action on Agora's behalf in another nomic.  Acting on Agora's
-      behalf in another nomic is effective only if:
-
-        a) The actor authorized emself to perform that action on
-           Agora's behalf (as described above) no more than one week
-           earlier.
-
-        b) The actor clearly indicates to that nomic that e is acting
-           on Agora's behalf, and clearly identifies the Ambassador
-           (or that it is vacant) to the best of eir knowledge.
-
-        c) That nomic's rules acknowledge that Agora is a person, and
-           that the actor is acting on Agora's behalf.
-
-      Upon an ineffective claim to act on Agora's behalf in another
-      nomic, the Ambassador SHALL inform that nomic of the situation
-      as soon as possible.
-
-      A player SHALL NOT make an ineffective claim to act on Agora's
-      behalf in another nomic.  Doing so is the Class-7 Crime of
-      Inciting Foreign Aggression.
-
-History:
-Created by Proposal 7097 (omd), 23 July 2011
-Amended(1) by Proposal 7133 (omd), 6 November 2011
-Amended(2) by Proposal 7159 (441344), 5 February 2012
-Amended(3) by Proposal 7172 (Murphy), 16 February 2012
 
 ----------------------------------------------------------------------
 
