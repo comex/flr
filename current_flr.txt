@@ -3,7 +3,7 @@ THE FULL LOGICAL RULESET
 Last proposal with recorded effect on this ruleset: 7185
 Last change to this ruleset: by Proposal 7185
 
-Last updated: 26 February 2012
+Last updated: 30 March 2012
 
 Highest Rule ID number ever assigned: 2365
 
@@ -363,6 +363,10 @@ that official status.]
 [CFJs 1911-1914 (called 18 March 2008): Physical realities supersede
 the Rules by default.]
 
+[CFJ 2101 (called 20 July 2008): Consent to join a binding agreement
+implies consent to join later agreements created through currently
+existing rule-defined processes.]
+
 [CFJ 2220 (called 11 October 2008): Consent to join a binding
 agreement may be an effect of another action, such as joining a
 foreign nomic, as long as the action is triggered by free will and the
@@ -386,6 +390,12 @@ rule by missing a deadline.]
 
 [CFJ 2410 (called 11 March 2009): Consent to join a binding agreement
 may be given privately.]
+
+[CFJ 2761 (called 7 February 2010): The termination of a contract
+through processes it explicitly envisions (including a rule-defined
+mechanism, if the contract is intended to be governed under Agoran
+law) is akin to a natural death, and does not generally constitute a
+restriction of its rights as a person.]
 
 History:
 Initial Immutable Rule 101, Jun. 30 1993
@@ -541,6 +551,10 @@ Power Controls Mutability
           with power greater than its own.  A "substantive" aspect of
           an instrument is any aspect that affects the instrument's
           operation.
+
+[CFJ 2981 (called 21 March 2011): An instrument is not "modified" when an initial value is set for an attribute.]
+
+[CFJ 2945 (called 22 December 2010): An instrument is "modified" when an attribute is removed.]
 
 History:
 Created by Proposal 4940 (Zefram), 29 April 2007
@@ -1563,6 +1577,9 @@ not defined as such by this rule.]
 to define an asset with the same name, they refer to the same entity,
 but the entity is not an asset.]
 
+[CFJ 3016 (called 30 April 2011): "CAN recreate" means "CAN once
+recreate".]
+
 History:
 Created by Proposal 5173 (Murphy), 29 August 2007
 Amended(1) by Proposal 5216 (Murphy), 13 September 2007
@@ -2485,6 +2502,17 @@ count as publishing that text.]
 must be clear what he did; if it is not clear what he did, then it is
 not clear what he did.]
 
+[CFJ 3106 (called 19 October 2011): When a person announces that "e
+performs" an action, the referent of "e" (i.e. eir identity) must be
+clear.]
+
+[CFJ 3002 (called 19 April 2011): A message of the form "This
+statement causes [action]" is ineffective as a way to perform
+[action], and may be an attempt to act on behalf of the statement.]
+
+[CFJ 2899 (called 12 November 2010): A player's real name does not
+necessary identify em.]
+
 History:
 Created by Proposal 478 (Jim Shea), Sep. 20 1993
 Amended(1) by Proposal 1477, Mar. 8 1995
@@ -3216,6 +3244,10 @@ Ratification
 [CFJ 2165 (called 16 September 2008): Ratification can create legal
 fictions, but does not always.]
 
+[CFJ 3155 (called 26 January 2012): A "recent history" section of a
+report is not considered binding as a complete list of certain types
+of events during a certain date range.]
+
 History:
 Created by Proposal 2425, Jan. 30 1996
 Infected and Amended(1) by Rule 1454, Feb. 4 1997, substantial
@@ -3829,6 +3861,15 @@ History:
 Created by Proposal 7083 (Walker), 4 July 2011
 Amended(1) by Proposal 7086 (G., omd), 23 July 2011
 
+[CFJ 1647 (called 30 April 2007): Preceding a proposal-like text with
+the heading "Proposal:" and a title can be sufficient to clearly
+indicate that it is intended to become a proposal, but is not if it
+can be interpreted as quoting an existing proposal.]
+
+[CFJ 1717 (called 8 August 2007): Preceding a proposal-like text with
+the question "What is the title of this proposal?" can be sufficient
+to clearly indicate that it is intended to become a proposal.]
+
 ----------------------------------------------------------------------
 
 Rule 106/34 (Power=3)
@@ -3854,18 +3895,6 @@ Adopting Proposals
       taking effect (its no-effect clause is generally interpreted as
       applying only to the rest of the proposal).
 
-[CFJ 1647 (called 30 April 2007): Preceding a proposal-like text with
-the heading "Proposal:" and a title can be sufficient to clearly
-indicate that it is intended to become a proposal, but is not if it
-can be interpreted as quoting an existing proposal.]
-
-[CFJ 1717 (called 8 August 2007): Preceding a proposal-like text with
-the question "What is the title of this proposal?" can be sufficient
-to clearly indicate that it is intended to become a proposal.]
-
-[CFJ 1885 (called 26 January 2008): "AGAINT" is a variant spelling of
-"AGAINST", not a customary synonym for "FOR", despite its former
-private usage with the latter meaning.]
 
 [CFJ 1639 (called 29 April 2007): Where a proposal attempts two
 separate amendments of the text of the same rule, if one of the
@@ -3995,6 +4024,9 @@ creates a new proposal by distribution, and the new proposal is
 seriously different from any proposal in the pool, then the new
 proposal has no author.]
 
+[CFJ 2733 (called 14 November 2009): This rule defines a separate
+method of distribution from the one defined in Rule 107.]
+
 [Cross-references (2 August 2007): the Promotor's duties are:
   * not distribute proposals during holiday (Rule 1769)
   * distribute proposals (Rule 1607)
@@ -4075,6 +4107,10 @@ Decisions with Adoption Indices
 
       For any Agoran decision with an adoption index, the available
       options are FOR and AGAINST.
+
+[CFJ 1885 (called 26 January 2008): "AGAINT" is a variant spelling of
+"AGAINST", not a customary synonym for "FOR", despite its former
+private usage with the latter meaning.]
 
 History:
 Created by Proposal 4032 (t), Jul. 24 2000
@@ -4541,6 +4577,9 @@ words, words do not need to be a standard part of the language.]
 [CFJ 1924 (called 10 April 2008): A duration need not be a fixed
 amount of time.]
 
+[CFJ 3126 (called 19 November 2011): Committing an action defined as a
+Crime is a violation of the rule so defining it.]
+
 History:
 Created by Proposal 1682, Aug. 22 1995
 Amended(1) by Proposal 2570, Apr. 12 1996
@@ -4975,6 +5014,8 @@ a Judge who is qualified ["eligible" at the time of CFJ 1186] at the
 time that the Judge is selected, regardless of whether that Player was
 qualified at the time that the CFJ was actually called for or when the
 identity of that Player is announced.]
+
+[CFJ 3009 (called 24 April 2011): An entity poorly qualified to judge a case is necessarily qualified to judge that case.]
 
 History:
 Created by Proposal 3816 (Repeal-O-Matic), Dec. 21 1998
