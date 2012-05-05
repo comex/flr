@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7210
-Last change to this ruleset: by Proposal 7210
+Last proposal with recorded effect on this ruleset: 7211
+Last change to this ruleset: by Proposal 7211
 
 Last updated: 4 May 2012
 
@@ -1806,19 +1806,21 @@ Created by Proposal 7171 (441344), 16 February 2012
 
 ----------------------------------------------------------------------
 
-Rule 2362/0 (Power=1)
+Rule 2362/1 (Power=1)
 Rubles
 
       Rubles are a currency.  Ownership of rubles is restricted to
       persons.  The General Secretary is an office, and the
       recordkeepor of rubles.
 
-      At the start of each week, half of each person's rubles (rounded
-      down to the nearest integer) are destroyed, then two rubles are
-      created in the possession of each player.
+      At the start of each week, half of each first-class person's
+      rubles (rounded down to the nearest integer) are destroyed, then
+      two rubles are created in the possession of each first-class
+      player.
 
 History:
 Created by Proposal 7179 (Murphy), 26 February 2012
+Amended(1) by Proposal 7211 (441344), 4 May 2012
 
 ----------------------------------------------------------------------
 
