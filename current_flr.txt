@@ -553,11 +553,11 @@ Power Controls Mutability
           an instrument is any aspect that affects the instrument's
           operation.
 
-[CFJ 2981 (called 21 March 2011): An instrument is not "modified" when
-an initial value is set for an attribute.]
+[CFJ 2981 (called 21 March 2011): An attribute of an instrument is not
+"modified" when an initial value is set for it.]
 
-[CFJ 2945 (called 22 December 2010): An instrument is "modified" when
-an attribute is removed.]
+[CFJ 2945 (called 22 December 2010): An attribute of an entity is
+"changed" when it is removed/unset.]
 
 History:
 Created by Proposal 4940 (Zefram), 29 April 2007
