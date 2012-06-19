@@ -1,22 +1,22 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7247
-Last change to this ruleset: by Proposal 7247
+Last proposal with recorded effect on this ruleset: 7249
+Last change to this ruleset: by Proposal 7249
 
 Last updated: 18 June 2012
 
-Highest Rule ID number ever assigned: 2366
+Highest Rule ID number ever assigned: 2367
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 105
+Current total number of rules: 106
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
-      38 with Power=3
+      39 with Power=3
       28 with Power=2
        8 with Power=1.7
        3 with Power=1.5
@@ -159,6 +159,7 @@ Index of Rules
       Rule 2204: Linked Assignments
       Rule 2164: Judicial Self-Recusal and Case Transfer
       Rule 2212: Judicial Declarations
+      Rule 2367: Messy Statements
 
       * Patent Titles and Degrees
       Rule  649: Patent Titles
@@ -5157,6 +5158,21 @@ Judicial Declarations
 History:
 Created by Proposal 5715 (Murphy), 7 October 2008
 Amended(1) by Proposal 6923 (omd, G.; disi.), 2 January 2011
+
+----------------------------------------------------------------------
+
+Rule 2367/0 (Power=3)
+Messy Statements
+
+      A statement is messy if its truth value cannot be evaluated in a
+      top-down fashion without encountering some form of infinite
+      regress, such as (but not limited to) self-reference.
+
+      For the purposes of the rules, messy statements are considered
+      inaccurate and incorrect regardless of their truth value.
+
+History:
+Created by Proposal 7249 (omd), 10 June 2012
 
 ----------------------------------------------------------------------
 
