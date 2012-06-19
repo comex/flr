@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7230
-Last change to this ruleset: by Proposal 7230
+Last proposal with recorded effect on this ruleset: 7232
+Last change to this ruleset: by Proposal 7232
 
 Last updated: 18 June 2012
 
@@ -11,7 +11,7 @@ Highest Rule ID number ever assigned: 2366
 
 Statistics
 
-Current total number of rules: 107
+Current total number of rules: 106
 
 Power distribution:
        1 with Power=4
@@ -21,7 +21,7 @@ Power distribution:
        8 with Power=1.7
        3 with Power=1.5
        1 with Power=1.1
-      26 with Power=1
+      25 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -53,7 +53,6 @@ Index of Rules
       Rule  104: First Speaker
       Rule 2326: The President
       Rule 2348: Presidential Power
-      Rule 2344: Anarchy
       Rule  103: The Speaker
       Rule 2339: Intention
       Rule 2359: The Power Of Agora
@@ -611,20 +610,6 @@ Presidential Power
 
 History:
 Created by Proposal 7067 (G.), 16 June 2011
-
-----------------------------------------------------------------------
-
-Rule 2344/0 (Power=1)
-Anarchy
-
-      If a player causes the President to cease to be a player, then
-      that player satisfies the Victory Condition of Anarchy.
-
-      If the President is ever not a player, any person may register
-      em by announcement.
-
-History:
-Created by Proposal 7040 (scshunt), 16 May 2011
 
 ----------------------------------------------------------------------
 
