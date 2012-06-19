@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7246
-Last change to this ruleset: by Proposal 7246
+Last proposal with recorded effect on this ruleset: 7247
+Last change to this ruleset: by Proposal 7247
 
 Last updated: 18 June 2012
 
@@ -2242,7 +2242,7 @@ Created by Proposal 6977 (Murphy, David Nicol), 30 March 2011
 
 ----------------------------------------------------------------------
 
-Rule 2162/1 (Power=2)
+Rule 2162/2 (Power=2)
 Switches
 
       A type of switch is a property that the rules define as a
@@ -2255,9 +2255,10 @@ Switches
          exactly one of which is designated as the default.  No other
          values are possible for instances of that switch.
 
-      c) Exactly one officer who tracks instances of that switch.
-         That officer's report includes the value of each instance of
-         that switch whose value is not its default value.
+      c) Optionally, exactly one office whose holder tracks instances
+         of that switch.  That officer's report includes the value of
+         each instance of that switch whose value is not its default
+         value.
 
       At any given time, each instance of a switch has exactly one
       possible value for that type of switch.  If an instance of a
@@ -2273,6 +2274,7 @@ Switches
 History:
 Created by Proposal 5111 (Murphy), 2 August 2007
 Amended(1) by Proposal 5271 (Murphy), 7 November 2007
+Amended(2) by Proposal 7247 (omd), 10 June 2012
 
 ----------------------------------------------------------------------
 
