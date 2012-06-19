@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7223
-Last change to this ruleset: by Proposal 7223
+Last proposal with recorded effect on this ruleset: 7224
+Last change to this ruleset: by Proposal 7224
 
 Last updated: 18 June 2012
 
@@ -1778,18 +1778,20 @@ Created by Proposal 7117 (omd), 20 August 2011
 
 ----------------------------------------------------------------------
 
-Rule 2360/0 (Power=2)
+Rule 2360/1 (Power=2)
 Golems
 
       Golems are a class of second-class persons and a class of
-      assets.  Golemkeepor is an elected Office. The Golemkeepor is
-      the recordkeepor for Golems. Causing a Golem to act is secured.
-      The Golemkeepor CAN destroy any Golem Without Objection. When a
+      assets. Golemkeepor is an elected Office. The Golemkeepor is the
+      recordkeepor for Golems. Causing a Golem to act is secured.  The
+      Golemkeepor CAN destroy any Golem Without Objection. A Golem is
+      eligible to Object to any such intent to destroy it. When a
       Golem is destroyed, all entities in eir possession are
       destroyed. When a Golem ceases to be a person, it is destroyed.
 
 History:
 Created by Proposal 7171 (441344), 16 February 2012
+Amended(1) by Proposal 7224 (omd, BuckyBot, Bucky), 10 June 2012
 
 ----------------------------------------------------------------------
 
