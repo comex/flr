@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7235
-Last change to this ruleset: by Proposal 7235
+Last proposal with recorded effect on this ruleset: 7238
+Last change to this ruleset: by Proposal 7238
 
 Last updated: 18 June 2012
 
@@ -11,13 +11,13 @@ Highest Rule ID number ever assigned: 2366
 
 Statistics
 
-Current total number of rules: 106
+Current total number of rules: 105
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
       38 with Power=3
-      29 with Power=2
+      28 with Power=2
        8 with Power=1.7
        3 with Power=1.5
        1 with Power=1.1
@@ -101,7 +101,6 @@ Index of Rules
       Rule 2347: Speed
       Rule 1769: Holidays
       Rule 2329: Festival Days
-      Rule 2146: Indices
       Rule 2162: Switches
       Rule  478: Fora
       Rule 1728: Dependent Actions
@@ -2243,24 +2242,6 @@ Created by Proposal 6977 (Murphy, David Nicol), 30 March 2011
 
 ----------------------------------------------------------------------
 
-Rule 2146/1 (Power=2)
-Indices
-
-      Indices are elements of the extended real numbers, which is a
-      total order consisting of the real numbers plus a minimum
-      element, called negative infinity, and a maximum element, called
-      positive infinity or unanimity.
-
-      The ratio of a positive index to zero is positive infinity.  The
-      ratio of a negative index to zero is negative infinity.  The
-      ratio of zero to any index is zero.
-
-History:
-Created by Proposal 4979 (Zefram, Maud), 31 May 2007
-Amended(1) by Proposal 5113 (Murphy, Maud), 2 August 2007
-
-----------------------------------------------------------------------
-
 Rule 2162/1 (Power=2)
 Switches
 
@@ -3662,7 +3643,7 @@ Amended(8) by Proposal 6746 (coppro; disi.), 1 July 2010
 
 ----------------------------------------------------------------------
 
-Rule 955/17 (Power=3)
+Rule 955/18 (Power=3)
 Determining the Will of Agora
 
       After an Agoran Decision's voting period ends, it has an outcome
@@ -3674,11 +3655,12 @@ Determining the Will of Agora
           remainder of this rule.  Otherwise, the decision achieved
           quorum.
 
-      (b) If the decision has an adoption index, then the voting index
-          is the ratio of the strength of FOR to the strength of
-          AGAINST.  If the voting index is greater than 1, and greater
-          than or equal to the decision's adoption index, then the
-          outcome is ADOPTED; otherwise, the outcome is REJECTED.
+      (b) If the decision has an adoption index, then if the strength
+          of FOR is greater than the strength of AGAINST, and the
+          ratio of the strength of FOR to the strength of AGAINST is
+          greater than or equal to the decision's adoption index (or
+          the strength of AGAINST is zero), then the outcome is
+          ADOPTED; otherwise, the outcome is REJECTED.
 
       (c) Otherwise, the outcome is the option with the most votes.
           In case of a tie, the vote collector SHALL select one of the
@@ -3717,6 +3699,7 @@ Assigned to Committee on Rules by Proposal 6053 (Murphy, woggle,
   ais523), 23 January 2009
 Amended(16) by Proposal 6336 (coppro; disi.), 29 May 2009
 Amended(17) by Proposal 6403 (coppro), 30 July 2009
+Amended(18) by Proposal 7238 (omd), 10 June 2012
 
 ----------------------------------------------------------------------
 
