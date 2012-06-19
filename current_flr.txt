@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7245
-Last change to this ruleset: by Proposal 7245
+Last proposal with recorded effect on this ruleset: 7246
+Last change to this ruleset: by Proposal 7246
 
 Last updated: 18 June 2012
 
@@ -3834,18 +3834,18 @@ to clearly indicate that it is intended to become a proposal.]
 
 ----------------------------------------------------------------------
 
-Rule 106/34 (Power=3)
+Rule 106/35 (Power=3)
 Adopting Proposals
 
-      If the option selected by Agora on a decision about whether to
-      adopt a proposal is ADOPTED, then the proposal in question is
-      adopted, and unless other rules prevent it from taking effect,
-      its power is set to the minimum of four and its adoption index,
-      and then it takes effect.  Except as prohibited by other rules,
-      a proposal that takes effect CAN and does, as part of its
-      effect, apply the changes that it specifies.  If the proposal
-      cannot make some such changes, this does not preclude the other
-      changes from taking place.
+      When a decision about whether to adopt a proposal is resolved,
+      if the option selected by Agora is ADOPTED, then the proposal in
+      question is adopted, and unless other rules prevent it from
+      taking effect, its power is set to the minimum of four and its
+      adoption index, and then it takes effect.  Except as prohibited
+      by other rules, a proposal that takes effect CAN and does, as
+      part of its effect, apply the changes that it specifies.  If the
+      proposal cannot make some such changes, this does not preclude
+      the other changes from taking place.
 
       If there is no Agoran Decision to adopt a particular proposal
       that has an outcome of ADOPTED, that proposal CANNOT take
@@ -3917,7 +3917,8 @@ Amended(30) by Proposal 6968 (Murphy, scshunt, Wooble), 20 March 2011
 Amended(31) by Proposal 7013 (omd), 23 April 2011
 Amended(32) by Proposal 7081 (Murphy), 4 July 2011
 Amended(33) by Proposal 7083 (Walker), 4 July 2011
-Amended(34) by Propossal 7086 (G., omd), 23 July 2011
+Amended(34) by Proposal 7086 (G., omd), 23 July 2011
+Amended(35) by Proposal 7246 (omd), 10 June 2012
 
 ----------------------------------------------------------------------
 
