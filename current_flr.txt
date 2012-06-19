@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7233
-Last change to this ruleset: by Proposal 7233
+Last proposal with recorded effect on this ruleset: 7234
+Last change to this ruleset: by Proposal 7234
 
 Last updated: 18 June 2012
 
@@ -1077,13 +1077,13 @@ Amended(18) by Proposal 6662 (Murphy; disi.), 10 March 2010
 
 ----------------------------------------------------------------------
 
-Rule 2340/1 (Power=1)
+Rule 2340/2 (Power=1)
 Notability
 
       Notability is a judicial case switch with values Incidental
       (default) and Notable, tracked by the Rulekeepor in eir monthly
-      report. A player CAN, with two support, make a case Notable. A
-      player CAN, without two objections, make a case Incidental.
+      report. A player CAN, without two objections, flip the
+      Notability of a  specified case.
 
       The Rulekeepor SHALL annotate the FLR to draw attention to
       Notable cases, specifying the ID number of the case and
@@ -1095,6 +1095,7 @@ Notability
 History:
 Created by Proposal 7022 (Walker, Murphy, omd), 5 May 2011
 Amended(1) by Proposal 7064 (Murphy), 16 June 2011
+Amended(2) by Proposal 7234 (omd), 10 June 2012
 
 ----------------------------------------------------------------------
 
