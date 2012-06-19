@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7225
-Last change to this ruleset: by Proposal 7225
+Last proposal with recorded effect on this ruleset: 7226
+Last change to this ruleset: by Proposal 7226
 
 Last updated: 18 June 2012
 
@@ -3940,7 +3940,7 @@ Amended(34) by Propossal 7086 (G., omd), 23 July 2011
 
 ----------------------------------------------------------------------
 
-Rule 1607/33 (Power=3)
+Rule 1607/34 (Power=3)
 Distribution
 
       The Promotor is an office; its holder is responsible for
@@ -3969,7 +3969,8 @@ Distribution
       CAN distribute that Proposal Without 3 Objections.
 
       The Promotor's report includes a list of all proposals in the
-      Proposal Pool.
+      Proposal Pool.  This portion of a public message purporting to
+      be a Promotor's report is self-ratifying.
 
 [CFJ 1546 (called 14 April 2005), CFJ 1669 (called 16 May 2007): If a
 proposal is purportedly distributed with a text that differs from the
@@ -4047,6 +4048,7 @@ Amended(30) by Proposal 6961 (G.), 3 March 2011
 Amended(31) by Proposal 7033 (omd), 16 May 2011
 Amended(32) by Proposal 7069 (Walker), 16 June 2011
 Amended(33) by Proposal 7083 (Walker), 4 July 2011
+Amended(34) by Proposal 7226 (omd), 10 June 2012
 
 ----------------------------------------------------------------------
 
