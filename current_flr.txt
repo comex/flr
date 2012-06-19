@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7217
-Last change to this ruleset: by Proposal 7217
+Last proposal with recorded effect on this ruleset: 7218
+Last change to this ruleset: by Proposal 7218
 
-Last updated: 4 May 2012
+Last updated: 18 June 2012
 
 Highest Rule ID number ever assigned: 2366
 
@@ -713,12 +713,12 @@ Amended(1) by Proposal 7128 (scshunt), 6 November 2011
 
 ----------------------------------------------------------------------
 
-Rule 2357/2 (Power=2)
+Rule 2357/3 (Power=2)
 Wisdom of the Elders
 
-      An Elder is a player who has been registered continuously for at
-      least 32 days, and also registered for at least 128 days total
-      (not necessarily contiguously).
+      An Elder is a first-class player who has been registered
+      continuously for at least 32 days, and also registered for at
+      least 128 days total (not necessarily contiguously).
 
       An Elder can declare a Gerontocracy with 3 Elder support, unless
       a Gerontocracy was declared within the preceding 28 days.
@@ -740,6 +740,7 @@ History:
 Created by Proposal 7134 (ais523), 6 November 2011
 Amended(1) by Proposal 7164 (Murphy, Arkady), 16 February 2012
 Amended(2) by Proposal 7167 (441344), 16 February 2012
+Amended(3) by Proposal 7218 (BuckyBot, Bucky), 10 June 2012
 
 ----------------------------------------------------------------------
 
