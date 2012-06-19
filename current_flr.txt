@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7218
-Last change to this ruleset: by Proposal 7218
+Last proposal with recorded effect on this ruleset: 7220
+Last change to this ruleset: by Proposal 7220
 
 Last updated: 18 June 2012
 
@@ -17,11 +17,11 @@ Power distribution:
        1 with Power=4
        1 with Power=3.2
       38 with Power=3
-      28 with Power=2
+      29 with Power=2
        8 with Power=1.7
        3 with Power=1.5
        1 with Power=1.1
-      27 with Power=1
+      26 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -1845,7 +1845,7 @@ Created by Proposal 7179 (Murphy), 26 February 2012
 
 ----------------------------------------------------------------------
 
-Rule 2364/1 (Power=1)
+Rule 2364/1 (Power=2)
 Ballot Fees
 
       A player CAN change eir voting limit on a specified Agoran
@@ -1855,6 +1855,7 @@ Ballot Fees
 History:
 Created by Proposal 7179 (Murphy), 26 February 2012
 Amended(1) by Proposal 7182 (Murphy, Machiavelli), 26 February 2012
+Power changed from 1 to 2 by Proposal 7220 (omd, Murphy), 10 June 2012
 
 ----------------------------------------------------------------------
 
