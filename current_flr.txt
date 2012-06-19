@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7224
-Last change to this ruleset: by Proposal 7224
+Last proposal with recorded effect on this ruleset: 7225
+Last change to this ruleset: by Proposal 7225
 
 Last updated: 18 June 2012
 
@@ -3818,17 +3818,19 @@ Proposals
       which changes are made to the game.
 ----------------------------------------------------------------------
 
-Rule 2350/2 (Power=3)
+Rule 2350/3 (Power=3)
 Proposals
 
-      A proposal is a type of entity consisting of a body of text.  A
-      player CAN create a proposal by announcement, specifying its
-      text and optionally specifying the following attributes:
+      A proposal is a type of entity consisting of a body of text and
+      other attributes.  A player CAN create a proposal by
+      announcement, specifying its text and optionally specifying any
+      of the following attributes:
 
       * An associated title.
       * A list of co-authors (which must be persons other than the
         author).
-      * An adoption index and Chamber.
+      * An adoption index.
+      * A Chamber.
 
       Once a proposal is created, none of its attributes can be
       changed.  The author (syn. proposer) of a proposal is the person
@@ -3838,6 +3840,7 @@ History:
 Created by Proposal 7083 (Walker), 4 July 2011
 Amended(1) by Proposal 7086 (G., omd), 23 July 2011
 Amended(2) by Proposal 7216 (omd), 4 May 2012
+Amended(3) by Proposal 7225 (omd), 10 June 2012
 
 [CFJ 1647 (called 30 April 2007): Preceding a proposal-like text with
 the heading "Proposal:" and a title can be sufficient to clearly
