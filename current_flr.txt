@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7239
-Last change to this ruleset: by Proposal 7239
+Last proposal with recorded effect on this ruleset: 7241
+Last change to this ruleset: by Proposal 7241
 
 Last updated: 18 June 2012
 
@@ -3792,7 +3792,7 @@ Proposals
       which changes are made to the game.
 ----------------------------------------------------------------------
 
-Rule 2350/3 (Power=3)
+Rule 2350/4 (Power=3)
 Proposals
 
       A proposal is a type of entity consisting of a body of text and
@@ -3810,11 +3810,16 @@ Proposals
       changed.  The author (syn. proposer) of a proposal is the person
       who submitted it.
 
+      If a decision of whether to adopt a proposal was resolved as
+      FAILED QUORUM in the last seven days, the Promotor CAN once add
+      the proposal back to the Proposal Pool by announcement.
+
 History:
 Created by Proposal 7083 (Walker), 4 July 2011
 Amended(1) by Proposal 7086 (G., omd), 23 July 2011
 Amended(2) by Proposal 7216 (omd), 4 May 2012
 Amended(3) by Proposal 7225 (omd), 10 June 2012
+Amended(4) by Proposal 7241 (omd), 10 June 2012
 
 [CFJ 1647 (called 30 April 2007): Preceding a proposal-like text with
 the heading "Proposal:" and a title can be sufficient to clearly
