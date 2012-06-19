@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7232
-Last change to this ruleset: by Proposal 7232
+Last proposal with recorded effect on this ruleset: 7233
+Last change to this ruleset: by Proposal 7233
 
 Last updated: 18 June 2012
 
@@ -584,11 +584,14 @@ Mutated from MI=Unanimity to MI=3 by Proposal 1482, Mar. 15 1995
 
 ----------------------------------------------------------------------
 
-Rule 2326/2 (Power=2)
+Rule 2326/3 (Power=2)
 The President
 
       The President is a second-class person.  Causing the President
       to act is secured.
+
+      Rules to the contrary notwithstanding, the President CANNOT be
+      deregistered.
 
       A first-class Player CAN cause the President to take actions
       Without Objection, or with Agoran Consent.
@@ -600,6 +603,7 @@ History:
 Created by Proposal 6961 (G.), 3 March 2011
 Amended(1) by Proposal 7029 (Walker), 16 May 2011
 Amended(2) by Proposal 7030 (Walker), 16 May 2011
+Amended(3) by Proposal 7233 (441344), 10 June 2012
 
 ----------------------------------------------------------------------
 
