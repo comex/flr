@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7234
-Last change to this ruleset: by Proposal 7234
+Last proposal with recorded effect on this ruleset: 7235
+Last change to this ruleset: by Proposal 7235
 
 Last updated: 18 June 2012
 
@@ -831,7 +831,7 @@ Amended(6) by Proposal 5105 (Zefram), 1 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 1030/9 (Power=3.2)
+Rule 1030/10 (Power=3.2)
 Precedence between Rules
 
       In a conflict between Rules, the conflict shall be resolved by
@@ -840,7 +840,7 @@ Precedence between Rules
 
       - In a conflict between Rules with different Power, the Rule
         with the higher Power takes precedence over the Rule with the
-        lower Power ; otherwise,
+        lower Power; otherwise,
 
       - If all of the Rules in conflict explicitly say that their
         precedence relations are determined by some other Rule for
@@ -896,6 +896,7 @@ Amended(8) by Proposal 6292 (Goethe), 19 May 2009
 Title changed by Proposal 6292 (Goethe), 19 May 2009
 Power changed from 3 to 3.2 by Proposal 6292 (Goethe), 19 May 2009
 Amended(9) by cleaning (Murphy), 16 August 2009
+Amended(10) by Proposal 7235 (omd), 10 June 2012
 
 ----------------------------------------------------------------------
 
