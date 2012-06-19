@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7220
-Last change to this ruleset: by Proposal 7220
+Last proposal with recorded effect on this ruleset: 7223
+Last change to this ruleset: by Proposal 7223
 
 Last updated: 18 June 2012
 
@@ -1859,15 +1859,16 @@ Power changed from 1 to 2 by Proposal 7220 (omd, Murphy), 10 June 2012
 
 ----------------------------------------------------------------------
 
-Rule 2365/0 (Power=1)
+Rule 2365/1 (Power=1)
 Pool Fees
 
-      Rules to the contrary notwithstanding, if at least five
-      proposals have been created earlier in the week, then creating a
-      proposal has a cost of 1 ruble.
+      Rules to the contrary notwithstanding, if at least ten proposals
+      are in the Proposal Pool, then creating a proposal has a cost of
+      1 ruble.
 
 History:
 Created by Proposal 7180 (Murphy), 26 February 2012
+Amended(1) by Proposal 7223 (omd), 10 June 2012
 
 ----------------------------------------------------------------------
 
