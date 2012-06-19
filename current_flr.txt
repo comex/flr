@@ -1,7 +1,7 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7227
-Last change to this ruleset: by Proposal 7227
+Last proposal with recorded effect on this ruleset: 7230
+Last change to this ruleset: by Proposal 7230
 
 Last updated: 18 June 2012
 
@@ -1812,16 +1812,15 @@ Created by Proposal 7171 (441344), 16 February 2012
 
 ----------------------------------------------------------------------
 
-Rule 2362/3 (Power=1)
+Rule 2362/4 (Power=1)
 Rubles
 
       Rubles are a currency.  The General Secretary is an office, and
       the recordkeepor of rubles.
 
-      At the start of each week, half of each first-class person's
-      rubles (rounded down to the nearest integer) are destroyed, then
-      two rubles are created in the possession of each first-class
-      player.
+      At the start of each week, half of each person's rubles (rounded
+      up to the nearest integer) are destroyed, then two rubles are
+      created in the possession of each first-class player.
 
       At the start of each month (after weekly destruction, if it
       coincides with the start of a week), each player gains a ruble
@@ -1832,6 +1831,7 @@ Created by Proposal 7179 (Murphy), 26 February 2012
 Amended(1) by Proposal 7211 (441344), 4 May 2012
 Amended(2) by Proposal 7215 (omd), 4 May 2012
 Amended(3) by Proposal 7215 (omd), 4 May 2012
+Amended(4) by Proposal 7230 (omd), 10 June 2012
 
 ----------------------------------------------------------------------
 
