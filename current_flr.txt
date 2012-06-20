@@ -3,7 +3,7 @@ THE FULL LOGICAL RULESET
 Last proposal with recorded effect on this ruleset: 7250
 Last change to this ruleset: by Proposal 7250
 
-Last updated: 18 June 2012
+Last updated: 19 June 2012
 
 Highest Rule ID number ever assigned: 2367
 
@@ -11,13 +11,13 @@ Highest Rule ID number ever assigned: 2367
 
 Statistics
 
-Current total number of rules: 106
+Current total number of rules: 107
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
       39 with Power=3
-      28 with Power=2
+      29 with Power=2
        8 with Power=1.7
        3 with Power=1.5
        1 with Power=1.1
@@ -131,6 +131,7 @@ Index of Rules
       Rule  955: Determining the Will of Agora
       Rule  879: Quorum
       Rule 2034: Vote Protection and Cutoff for Challenges
+      Rule 2142: Support Democracy
 
       * Proposals
       Rule 2350: Proposals
@@ -2219,6 +2220,9 @@ Amended(5) by Proposal 5086 (Zefram), 1 August 2007
 Amended(6) by Proposal 5484 (Murphy; disi.), 2 April 2008
 Amended(7) by Proposal 5535 (Murphy), 7 June 2008
 Power changed from 2 to 3 by Proposal 5701 (ais523), 1 October 2008
+Amended(7.1) by Proposal 6607 (coppro; disi.), 1 February 2010
+Amended(7.2) by SLR ratification (Proposal 6806; coppro), 27 August
+  2010
 Amended(8) by Proposal 7050 (omd), 16 May 2011
 Amended(9) by Proposal 7150 (Murphy), 25 January 2012
 Amended(10) by Proposal 7151 (Murphy), 25 January 2012
@@ -3219,8 +3223,11 @@ Amended(10) by Proposal 5275 (Murphy), 7 November 2007
 Amended(11) by Proposal 5315 (Murphy), 28 November 2007
 Amended(12) by Proposal 5459 (Murphy), 9 March 2008
 Amended(13) by Proposal 6570 (Murphy), 28 November 2009
+Power changed from 3 to 3.1 by Proposal 6806 (coppro), 27 August 2010
 Amended(14) by Proposal 6930 (ais523), 2 January 2011
 Amended(15) by Proposal 6938 (omd), 2 January 2011
+Power changed from 3.1 to 3 by SLR ratification (Proposal 6839; omd),
+  2 January 2011
 
 ----------------------------------------------------------------------
 
@@ -3786,6 +3793,26 @@ Amended(3) by Proposal 5212 (Murphy), 8 September 2007
 Amended(4) by Proposal 5275 (Murphy), 7 November 2007
 Amended(5) by Proposal 6139 (Murphy), 15 March 2009
 Amended(6) by Proposal 6180 (Murphy; disi.), 7 April 2009
+
+----------------------------------------------------------------------
+
+Rule 2142/5 (Power=2)
+Support Democracy
+
+      A player CAN, with 2 support, change an ordinary decision in its
+      voting period to be democratic.
+
+History:
+Created by Proposal 4955 (Zefram), 7 May 2007
+Amended(1) by Proposal 5043 (root), 1 July 2007
+Power changed from 1.1 to 2 by Proposal 5044 (root), 1 July 2007
+Amended(2) by Proposal 5044 (root), 1 July 2007
+Amended(3) by Proposal 5210 (Murphy), 8 September 2007
+Amended(4) by Proposal 5418 (root), 2 February 2008
+Amended(5) by Proposal 6116 (Goethe), 1 March 2009
+
+[Note: This rule was missing from the ruleset from 2 January 2011 to
+20 June 2012.]
 
 ----------------------------------------------------------------------
 
@@ -4969,8 +4996,8 @@ Judge Assignment Generally
       rules.  Being unqualified to be assigned as a judge does not
       inherently prevent an entity from continuing to be judge of a
       case to which e is already assigned.  Rules to the contrary
-      notwithstanding, second-class players are always unqualified to
-      judge.
+      notwithstanding, entities other than first-class players are
+      always unqualified to judge.
 
       When a player is poorly qualified to be assigned as judge of a
       judicial case, the Clerk of the Courts SHALL not assign em to be
@@ -5023,6 +5050,7 @@ Amended(14) by Proposal 6264 (comex), 11 May 2009
 Amended(15) by Proposal 6279 (Murphy), 19 May 2009
 Amended(16) by Proposal 6510 (Murphy), 3 October 2009
 Amended(17) by Proposal 6961 (G.), 3 March 2011
+Amended(17.1) by Proposal 7019 (Murphy), 16 May 2011
 Amended(18) by Proposal 7050 (omd), 16 May 2011
 
 ----------------------------------------------------------------------
@@ -5279,7 +5307,7 @@ Amended(32) by Proposal 7050 (omd), 16 May 2011
 
 ----------------------------------------------------------------------
 
-Rule 1367/15 (Power=3)
+Rule 1367/16 (Power=3)
 Degrees
 
       Certain patent titles are known as degrees.  The degrees are
@@ -5347,8 +5375,10 @@ Amended(12) by Proposal 5955 (ais523, Elysion, Murphy; disi.), 18
   November 2008
 Amended(13) by Proposal 6257 (coppro), 11 May 2009
 Amended(14) by Proposal 6624 (Murphy), 20 February 2010
-Amended(15) by Proposal 6717 (coppro), 4 May 2010
+Amended(15) by Proposal 6671 (Yally; disi.), 22 March 2010
 Power changed from 1 to 3 by Proposal 6717 (coppro), 4 May 2010
+Amended(16) by SLR ratification (Proposal 6806; coppro), 27 August
+  2010
 
 ----------------------------------------------------------------------
 
