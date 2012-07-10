@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 9 July 2012
 
-Last proposal with recorded effect on this ruleset: 7259
-Last change to this ruleset: by Proposal 7259
+Last proposal with recorded effect on this ruleset: 7260
+Last change to this ruleset: by Proposal 7260
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -1900,7 +1900,7 @@ Amended(1) by Proposal 7224 (omd, BuckyBot, Bucky), 10 June 2012
 
 ----------------------------------------------------------------------
 
-Rule 2361/0 (Power=2)
+Rule 2361/1 (Power=2)
 Slave Golems
 
       Slave Golems are a class of Golems and a class of second-class
@@ -1908,12 +1908,12 @@ Slave Golems
       by announcement, specifying its name. The owner of a Slave Golem
       CAN cause it to take actions that are not otherwise IMPOSSIBLE
       by announcement. For all N, causing a Slave Golem to perform a
-      Class-N Crime in this manner is the Class-N Crime of Not Doing
-      Your Own Dirty Work. When a Slave Golem ceases to be a player,
-      it is destroyed.
+      Class-N Crime is the Class-N Crime of Not Doing Your Own Dirty
+      Work. When a Slave Golem ceases to be a player, it is destroyed.
 
 History:
 Created by Proposal 7171 (441344), 16 February 2012
+Amended(1) by Proposal 7260 (Murphy, Bucky), 7 July 2012
 
 ----------------------------------------------------------------------
 
