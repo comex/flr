@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 9 July 2012
 
-Last proposal with recorded effect on this ruleset: 7258
-Last change to this ruleset: by Proposal 7258
+Last proposal with recorded effect on this ruleset: 7259
+Last change to this ruleset: by Proposal 7259
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -3709,7 +3709,7 @@ Amended(7) by Proposal 7045 (Walker), 16 May 2011
 
 ----------------------------------------------------------------------
 
-Rule 208/8 (Power=3)
+Rule 208/9 (Power=3)
 Resolving Agoran decisions
 
       The vote collector for an unresolved Agoran decision CAN resolve
@@ -3734,6 +3734,9 @@ Resolving Agoran decisions
 
       This rule takes precedence over any rule that would provide
       another mechanism by which an Agoran decision may be resolved.
+
+      In general, changes to the gamestate due to the outcome of an
+      Agoran decision take effect when the decision is resolved.
 
 [CFJ 1711 (called 1 August 2007): If a purported resolution notice
 refers via a References: header to a previous notice with an
@@ -3763,6 +3766,7 @@ Amended(7) by Proposal 5453 (Murphy), 1 March 2008
 Assigned to Committee on Rules by Proposal 6053 (Murphy, woggle,
   ais523), 23 January 2009
 Amended(8) by Proposal 6746 (coppro; disi.), 1 July 2010
+Amended(9) by Proposal 7259 (Murphy), 6 July 2012
 
 ----------------------------------------------------------------------
 
