@@ -1,17 +1,20 @@
 THE FULL LOGICAL RULESET
 
-Last proposal with recorded effect on this ruleset: 7250
-Last change to this ruleset: by Proposal 7250
+Last updated: 9 July 2012
 
-Last updated: 19 June 2012
+Last proposal with recorded effect on this ruleset: 7256
+Last change to this ruleset: by Proposal 7256
 
-Highest Rule ID number ever assigned: 2367
+Last ratification: Short Logical Ruleset of 24 June 2012
+Last ratification date: 7 July 2012
+
+Highest Rule ID number ever assigned: 2370
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 107
+Current total number of rules: 110
 
 Power distribution:
        1 with Power=4
@@ -21,23 +24,7 @@ Power distribution:
        8 with Power=1.7
        3 with Power=1.5
        1 with Power=1.1
-      25 with Power=1
-
-----------------------------------------------------------------------
-
-Index of Categories
-
-      * The Game of Agora
-      * Rules
-      * Players
-      * Economy
-      * Definitions
-      * Offices
-      * Agoran Decisions
-      * Proposals
-      * Adjudication
-      * Patent Titles and Degrees
-      * Trophies
+      28 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -79,6 +66,11 @@ Index of Rules
       Rule 2139: The Registrar
       Rule 1789: Cantus Cygneus
       Rule 2130: Activity
+
+      * Foreign Relations
+      Rule 2368: Nomic Definitions
+      Rule 2369: Foreign Relations
+      Rule 2370: The Ambassador-At-Large
 
       * Economy
       Rule 2166: Assets
@@ -1494,6 +1486,86 @@ Amended(11) by Proposal 6666 (Murphy), 10 March 2010
 Amended by Proposal 6959 (G.), 31 January 2011
 Amended(12) by Proposal 6974 (Murphy), 30 March 2011
 Amended(13) by Proposal 6984 (Murphy), 10 April 2011
+
+----------------------------------------------------------------------
+
+======================================================================
+Foreign Relations
+      A category concerning interaction with other nomics.
+----------------------------------------------------------------------
+
+Rule 2368/0 (Power=1)
+Nomic Definitions
+
+      A nomic is a system of rules that provides means for itself to
+      be amended arbitrarily. Nomics can be games, micronations,
+      simulations, and/or sovereign states.
+
+      A foreign nomic is a nomic other than this one, even if it has
+      the same name as this one.
+
+      A protectorate is a foreign nomic which specifies in its ruleset
+      that it is a Protectorate Of Agora and which allows Agora to
+      make arbitrary amendments to it.
+
+History:
+Created by Proposal 7256 (441344, ais523, BobTHJ, Murphy, Pavitra,
+  Tiger, woggle, Yally, Zefram), 7 July 2012
+
+----------------------------------------------------------------------
+
+Rule 2369/0 (Power=1)
+Foreign Relations
+
+      Recognition is a foreign nomic switch, tracked by the
+      Ambassador, with values Unknown (default), Protected, Friendly,
+      Neutral, Sanctioned, Hostile, and Abandoned. Players SHOULD not
+      violate the rules of Protected or Friendly nomics.
+
+      When a non-Unknown foreign nomic becomes a Protectorate, it's
+      recognition becomes Protected.  When a foreign nomic ceases to
+      be a Protectorate, its Recognition becomes Unknown. Any person
+      may flip an Unknown Protectorate's Recognition to Protected by
+      announcement.  A foreign nomic's Recognition CANNOT change to or
+      from Protected in any other way.
+
+      The Ambassador-At-Large CAN, with Agoran Consent, flip a foreign
+      nomic's Recognition to any value (subject to the above
+      restriction).  E SHALL inform that nomic of the change as soon
+      as possible.
+
+History:
+Created by Proposal 7256 (441344, ais523, BobTHJ, Murphy, Pavitra,
+  Tiger, woggle, Yally, Zefram), 7 July 2012
+
+----------------------------------------------------------------------
+
+Rule 2370/0 (Power=1)
+The Ambassador-At-Large
+
+      The Ambassador-At-Large is an office; its holder is responsible
+      for relations with foreign nomics.
+
+      A foreign nomic may grant certain powers (in the
+      ordinary-language sense) and privileges to Agora's ambassadors.
+      It is ILLEGAL to use or attempt to use such powers or privileges
+      except as allowed by the rules of Agora. The Ambassador-At-Large
+      CAN and MAY, with Agoran Consent, authorize emself to use such
+      powers or priviliges in a specified way, in a specified nomic,
+      in a specified timeframe of length not exceeding two weeks. If a
+      foreign nomic allows for Agora to take actions in it, the
+      ambassador CAN and MAY, with Agoran consent, take a specified
+      action or series of actions in it on behalf of Agora, provided
+      that the nomic is Protected, Friendly, or Neutral.
+
+      It is ILLEGAL to falsely claim, to any nomic, to be an
+      ambassador of Agora. The Ambassador-At-Large SHALL inform any
+      nomic that recieves such a claim of its falsehood as soon as
+      possible.
+
+History:
+Created by Proposal 7256 (441344, ais523, BobTHJ, Murphy, Pavitra,
+  Tiger, woggle, Yally, Zefram), 7 July 2012
 
 ----------------------------------------------------------------------
 
