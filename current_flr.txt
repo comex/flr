@@ -14,14 +14,14 @@ Highest Rule ID number ever assigned: 2372
 
 Statistics
 
-Current total number of rules: 112
+Current total number of rules: 111
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
        1 with Power=3.1
       38 with Power=3
-      30 with Power=2
+      29 with Power=2
        8 with Power=1.7
        3 with Power=1.5
        1 with Power=1.1
@@ -126,7 +126,6 @@ Index of Rules
       Rule  955: Determining the Will of Agora
       Rule  879: Quorum
       Rule 2034: Vote Protection and Cutoff for Challenges
-      Rule 2142: Support Democracy
 
       * Proposals
       Rule 2350: Proposals
@@ -3913,26 +3912,6 @@ Amended(3) by Proposal 5212 (Murphy), 8 September 2007
 Amended(4) by Proposal 5275 (Murphy), 7 November 2007
 Amended(5) by Proposal 6139 (Murphy), 15 March 2009
 Amended(6) by Proposal 6180 (Murphy; disi.), 7 April 2009
-
-----------------------------------------------------------------------
-
-Rule 2142/5 (Power=2)
-Support Democracy
-
-      A player CAN, with 2 support, change an ordinary decision in its
-      voting period to be democratic.
-
-History:
-Created by Proposal 4955 (Zefram), 7 May 2007
-Amended(1) by Proposal 5043 (root), 1 July 2007
-Power changed from 1.1 to 2 by Proposal 5044 (root), 1 July 2007
-Amended(2) by Proposal 5044 (root), 1 July 2007
-Amended(3) by Proposal 5210 (Murphy), 8 September 2007
-Amended(4) by Proposal 5418 (root), 2 February 2008
-Amended(5) by Proposal 6116 (Goethe), 1 March 2009
-
-[Note: This rule was missing from the ruleset from 2 January 2011 to
-20 June 2012.]
 
 ----------------------------------------------------------------------
 
