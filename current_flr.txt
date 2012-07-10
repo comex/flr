@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 9 July 2012
 
-Last proposal with recorded effect on this ruleset: 7260
-Last change to this ruleset: by Proposal 7260
+Last proposal with recorded effect on this ruleset: 7262
+Last change to this ruleset: by Proposal 7262
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -19,7 +19,8 @@ Current total number of rules: 112
 Power distribution:
        1 with Power=4
        1 with Power=3.2
-      39 with Power=3
+       1 with Power=3.1
+      38 with Power=3
       30 with Power=2
        8 with Power=1.7
        3 with Power=1.5
@@ -2278,7 +2279,7 @@ Amended(1) by Proposal 7063 (G.), 16 June 2011
 
 ----------------------------------------------------------------------
 
-Rule 1769/10 (Power=3)
+Rule 1769/11 (Power=3)
 Holidays
 
       A Holiday is a period of time designated as such by the Rules.
@@ -2305,9 +2306,9 @@ Holidays
          which that Holiday ends shall be used instead for the purpose
          of determining the time of the future event.
 
-      b) the future event would occur during a Holiday, then the
-         future event occurs 72 hours after the end of that Holiday
-         instead.
+      b) the future event would occur during a Holiday or during the
+         72 hours immediately following a Holiday, then the future
+         event occurs 72 hours after the end of that Holiday instead.
 
       This Rule takes precedence over all Rules pertaining to the
       timing of events, and over all Rules which require events to be
@@ -2339,6 +2340,7 @@ Amended(7.2) by SLR ratification (Proposal 6806; coppro), 27 August
 Amended(8) by Proposal 7050 (omd), 16 May 2011
 Amended(9) by Proposal 7150 (Murphy), 25 January 2012
 Amended(10) by Proposal 7151 (Murphy), 25 January 2012
+Amended(11) by Proposal 7262 (omd), 7 July 2012
 
 ----------------------------------------------------------------------
 
@@ -3281,7 +3283,7 @@ Retitled and amended(13) by Proposal 6975 (Murphy), 30 March 2011
 
 ----------------------------------------------------------------------
 
-Rule 1551/15 (Power=3)
+Rule 1551/15 (Power=3.1)
 Ratification
 
       A public document is part (possibly all) of a public message.
@@ -3341,6 +3343,7 @@ Amended(14) by Proposal 6930 (ais523), 2 January 2011
 Amended(15) by Proposal 6938 (omd), 2 January 2011
 Power changed from 3.1 to 3 by SLR ratification (Proposal 6839; omd),
   2 January 2011
+Power changed from 3 to 3.1 by Proposal 7262 (omd), 7 July 2012
 
 ----------------------------------------------------------------------
 
