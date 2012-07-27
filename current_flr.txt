@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 27 July 2012
 
-Last proposal with recorded effect on this ruleset: 7265
-Last change to this ruleset: by Proposal 7265
+Last proposal with recorded effect on this ruleset: 7266
+Last change to this ruleset: by Proposal 7266
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -4424,17 +4424,17 @@ Amended(10) by Proposal 7050 (omd), 16 May 2011
 
 ----------------------------------------------------------------------
 
-Rule 591/35 (Power=1.7)
+Rule 591/36 (Power=1.7)
 Inquiry Cases
 
       Inquiry cases are a subclass of judicial cases.  An inquiry
       case's purpose is to determine the veracity of a particular
-      statement.  An inquiry case CAN be initiated by any first-class
-      person, by announcement which includes the statement to be
-      inquired into.  (Including a yes/no question is equivalent to
-      including a statement that the answer to that question is yes,
-      and for such a case, YES and NO are synonymous with the
-      judgements TRUE and FALSE respectively.)
+      statement.  Any first-class person CAN initiate an inquiry case
+      by announcement, specifying a block of text which SHOULD
+      represent a statement to be inquired into.  (Including a yes/no
+      question is equivalent to including a statement that the answer
+      to that question is yes, and for such a case, YES and NO are
+      synonymous with the judgements TRUE and FALSE respectively.)
 
       The initiator is unqualified to be assigned as judge of the
       case, and in the initiating announcement e CAN disqualify one
@@ -4562,6 +4562,7 @@ Amended(32) by Proposal 6931 (omd), 2 January 2011
 Amended(33) by Proposal 7022 (Walker, Murphy, omd), 5 May 2011
 Amended(34) by Proposal 7050 (omd), 16 May 2011
 Amended(35) by Proposal 7078 (omd), 16 June 2011
+Amended(36) by Proposal 7266 (omd), 25 July 2012
 
 ----------------------------------------------------------------------
 
