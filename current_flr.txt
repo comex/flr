@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 27 July 2012
 
-Last proposal with recorded effect on this ruleset: 7266
-Last change to this ruleset: by Proposal 7266
+Last proposal with recorded effect on this ruleset: 7269
+Last change to this ruleset: by Proposal 7269
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -1157,7 +1157,7 @@ Players
       players.
 ----------------------------------------------------------------------
 
-Rule 869/32 (Power=2)
+Rule 869/33 (Power=2)
 How to Join and Leave Agora
 
       Citizenship is an entity switch with values Unregistered
@@ -1189,6 +1189,9 @@ How to Join and Leave Agora
 
       A player who is not a person and has never been a first-class
       person CAN be deregistered by any player by announcement.
+
+      Initiating a frivolous judicial case on the success or failure
+      of a registration attempt is the Class-3 crime of Hazing.
 
 [CFJ 1275 (called 19 February 2001): An entity is a Player if the
 Rules cannot distinguish that entity from a Player.]
@@ -1235,6 +1238,7 @@ Amended(29) by Proposal 6349 (Pavitra), 17 June 2009
 Amended(30) by Proposal 6382 (Murphy), 3 July 2009
 Amended(31) by Proposal 6620 (Murphy; disi.), 4 February 2010
 Amended(32) by Proposal 6974 (Murphy), 30 March 2011
+Amended(33) by Proposal 7269 (FKA441344, G.), 25 July 2012
 
 ----------------------------------------------------------------------
 
