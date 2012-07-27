@@ -4698,6 +4698,10 @@ amount of time.]
 [CFJ 3126 (called 19 November 2011): Committing an action defined as a
 Crime is a violation of the rule so defining it.]
 
+[CFJ 3128 (called 19 November 2011): An allegation that a person
+committed a crime, mentioning the rule that defines the crime, is an
+allegation that e violated that rule.]
+
 History:
 Created by Proposal 1682, Aug. 22 1995
 Amended(1) by Proposal 2570, Apr. 12 1996
