@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 26 August 2012
 
-Last proposal with recorded effect on this ruleset: 7279
-Last change to this ruleset: by Proposal 7279
+Last proposal with recorded effect on this ruleset: 7280
+Last change to this ruleset: by Proposal 7280
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -1936,7 +1936,7 @@ Amended(1) by Proposal 7260 (Murphy, Bucky), 7 July 2012
 
 ----------------------------------------------------------------------
 
-Rule 2362/4 (Power=1)
+Rule 2362/5 (Power=1)
 Rubles
 
       Rubles are a currency.  The General Secretary is an office, and
@@ -1948,7 +1948,9 @@ Rubles
 
       At the start of each month (after weekly destruction, if it
       coincides with the start of a week), each player gains a ruble
-      for each Postulated office e holds.
+      for each Postulated office e holds, and each player whose
+      Posture has not been supine or leaning at any time during the
+      past month gains a ruble.
 
 History:
 Created by Proposal 7179 (Murphy), 26 February 2012
@@ -1956,6 +1958,7 @@ Amended(1) by Proposal 7211 (441344), 4 May 2012
 Amended(2) by Proposal 7215 (omd), 4 May 2012
 Amended(3) by Proposal 7215 (omd), 4 May 2012
 Amended(4) by Proposal 7230 (omd), 10 June 2012
+Amended(5) by Proposal 7280 (FKA441344), 14 August 2012
 
 ----------------------------------------------------------------------
 
