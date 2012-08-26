@@ -2,19 +2,19 @@ THE FULL LOGICAL RULESET
 
 Last updated: 26 August 2012
 
-Last proposal with recorded effect on this ruleset: 7276
-Last change to this ruleset: by Proposal 7276
+Last proposal with recorded effect on this ruleset: 7277
+Last change to this ruleset: by Proposal 7277
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
 
-Highest Rule ID number ever assigned: 2375
+Highest Rule ID number ever assigned: 2376
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 114
+Current total number of rules: 115
 
 Power distribution:
        1 with Power=4
@@ -25,7 +25,7 @@ Power distribution:
        8 with Power=1.7
        3 with Power=1.5
        1 with Power=1.1
-      29 with Power=1
+      30 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -88,6 +88,7 @@ Index of Rules
       Rule 2363: Poll Fees
       Rule 2364: Ballot Fees
       Rule 2365: Pool Fees
+      Rule 2376: Props
 
       * Definitions
       Rule  754: Definition Definitions
@@ -1992,6 +1993,39 @@ Pool Fees
 History:
 Created by Proposal 7180 (Murphy), 26 February 2012
 Amended(1) by Proposal 7223 (omd), 10 June 2012
+
+----------------------------------------------------------------------
+
+Rule 2376/0 (Power=1)
+Props
+
+      Props are a currency.
+
+      The Air Traffic Controller is an office and the recordkeepor of
+      props.
+
+      Ownership of Props is restricted to first-class Players. Props
+      CANNOT be created, transferred, or destroyed except as allowed
+      by this rule or required by the rules in general.
+
+      When a first-class player registers, 14 props are created in eir
+      possession.  When a player deregisters, eir props are destroyed.
+
+      Once per week, each first-class player CAN transfer a prop from
+      one entity to another, provided that e explains why e chose each
+      entity, and does not transfer it to emself.
+
+      At the beginning of each week, one prop in the possession of
+      each entity possessing more than fourteen props is destroyed,
+      and one prop is created in the possession of each first-class
+      player possessing less than fourteen props.
+
+      Entities with at least 19 props are Pilots; the Pilot with the
+      most props (if any) is the Captain. Entities with less than 9
+      props are Marines.
+
+History:
+Created by Proposal 7277 (FKA441344), 14 Augut 2012
 
 ----------------------------------------------------------------------
 
