@@ -2,25 +2,25 @@ THE FULL LOGICAL RULESET
 
 Last updated: 26 August 2012
 
-Last proposal with recorded effect on this ruleset: 7273
-Last change to this ruleset: by Proposal 7273
+Last proposal with recorded effect on this ruleset: 7274
+Last change to this ruleset: by Proposal 7274
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
 
-Highest Rule ID number ever assigned: 2372
+Highest Rule ID number ever assigned: 2374
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 111
+Current total number of rules: 113
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
        1 with Power=3.1
-      38 with Power=3
+      40 with Power=3
       29 with Power=2
        8 with Power=1.7
        3 with Power=1.5
@@ -131,10 +131,12 @@ Index of Rules
       Rule 2350: Proposals
       Rule  106: Adopting Proposals
       Rule 1607: Distribution
+      Rule 2373: Voting Chambers
       Rule 1950: Decisions with Adoption Indices
       Rule 2137: The Assessor
       Rule 1698: Agora Is A Nomic
       Rule 2366: Veto and Rubberstamp
+      Rule 2374: Democratization
 
       * Adjudication
       Rule  991: Judicial Cases Generally
@@ -4181,7 +4183,20 @@ Amended(35) by Proposal 7239 (omd), 10 June 2012
 
 ----------------------------------------------------------------------
 
-Rule 1950/25 (Power=3)
+Rule 2373/0 (Power=3)
+Voting Chambers
+
+      Voting Chambers are a class of entity. Ordinary is a Voting
+      Chamber.  Democratic is a Voting Chamber. Creating a Voting
+      Chamber or making an entity a Voting Chamber is Secured with
+      power 2.
+
+History:
+Created by Proposal 7274 (FKA441344, ehird), 14 August 2012
+
+----------------------------------------------------------------------
+
+Rule 1950/26 (Power=3)
 Decisions with Adoption Indices
 
       Adoption index is a switch possessed by Agoran decisions and
@@ -4189,8 +4204,8 @@ Decisions with Adoption Indices
       multiple of 0.1 from 1.0 to 9.9.
 
       Chamber is a switch possessed by Agoran decisions with adoption
-      indices and proposals, with values Ordinary (default) and
-      Democratic.
+      indices and proposals, with values any Voting Chamber, by
+      default Ordinary.
 
       Adoption index and Chamber are secured with a power threshold of
       2.
@@ -4245,6 +4260,7 @@ Retitled and amended(22) by Proposal 7013 (omd), 23 April 2011
 Amended(23) by Proposal 7083 (Walker), 4 July 2011
 Amended(24) by Proposal 7216 (omd), 4 May 2012
 Amended(25) by Proposal 7239 (omd), 10 June 2012
+Amended(26) by Proposal 7274 (FKA441344), 14 August 2012
 
 ----------------------------------------------------------------------
 
@@ -4305,6 +4321,17 @@ Veto and Rubberstamp
 
 History:
 Created by Proposal 7217 (omd), 4 May 2012
+
+----------------------------------------------------------------------
+
+Rule 2374/0 (Power=3)
+Democratization
+
+      If the Chamber of an entity is not Democratic, any first-class
+      Player CAN set it to Democratic with 3 Agoran Consent.
+
+History:
+Created by Proposal 7274 (FKA441344), 14 August 2012
 
 ----------------------------------------------------------------------
 
