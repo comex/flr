@@ -2,26 +2,26 @@ THE FULL LOGICAL RULESET
 
 Last updated: 26 August 2012
 
-Last proposal with recorded effect on this ruleset: 7274
-Last change to this ruleset: by Proposal 7274
+Last proposal with recorded effect on this ruleset: 7276
+Last change to this ruleset: by Proposal 7276
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
 
-Highest Rule ID number ever assigned: 2374
+Highest Rule ID number ever assigned: 2375
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 113
+Current total number of rules: 114
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
        1 with Power=3.1
       40 with Power=3
-      29 with Power=2
+      30 with Power=2
        8 with Power=1.7
        3 with Power=1.5
        1 with Power=1.1
@@ -132,6 +132,7 @@ Index of Rules
       Rule  106: Adopting Proposals
       Rule 1607: Distribution
       Rule 2373: Voting Chambers
+      Rule 2375: Plutocratic Chamber
       Rule 1950: Decisions with Adoption Indices
       Rule 2137: The Assessor
       Rule 1698: Agora Is A Nomic
@@ -4193,6 +4194,19 @@ Voting Chambers
 
 History:
 Created by Proposal 7274 (FKA441344, ehird), 14 August 2012
+
+----------------------------------------------------------------------
+
+Rule 2375/0 (Power=2)
+Plutocratic Chamber
+
+      Plutocratic is a Voting Chamber. The default voting limit of an
+      entity on a Plutocratic Decision is zero. Any entity may spend a
+      Ruble to increase an entity's voting limit on a Plutocratic
+      Decision by 1.
+
+History:
+Created by Proposal 7276 (FKA441344), 14 August 2012
 
 ----------------------------------------------------------------------
 
