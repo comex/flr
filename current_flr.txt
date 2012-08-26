@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 26 August 2012
 
-Last proposal with recorded effect on this ruleset: 7282
-Last change to this ruleset: by Proposal 7282
+Last proposal with recorded effect on this ruleset: 7283
+Last change to this ruleset: by Proposal 7283
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -14,7 +14,7 @@ Highest Rule ID number ever assigned: 2378
 
 Statistics
 
-Current total number of rules: 117
+Current total number of rules: 116
 
 Power distribution:
        1 with Power=4
@@ -25,7 +25,7 @@ Power distribution:
        8 with Power=1.7
        4 with Power=1.5
        1 with Power=1.1
-      30 with Power=1
+      29 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -87,7 +87,6 @@ Index of Rules
       Rule 2362: Rubles
       Rule 2363: Poll Fees
       Rule 2364: Ballot Fees
-      Rule 2365: Pool Fees
       Rule 2376: Props
 
       * Definitions
@@ -1989,19 +1988,6 @@ History:
 Created by Proposal 7179 (Murphy), 26 February 2012
 Amended(1) by Proposal 7182 (Murphy, Machiavelli), 26 February 2012
 Power changed from 1 to 2 by Proposal 7220 (omd, Murphy), 10 June 2012
-
-----------------------------------------------------------------------
-
-Rule 2365/1 (Power=1)
-Pool Fees
-
-      Rules to the contrary notwithstanding, if at least ten proposals
-      are in the Proposal Pool, then creating a proposal has a cost of
-      1 ruble.
-
-History:
-Created by Proposal 7180 (Murphy), 26 February 2012
-Amended(1) by Proposal 7223 (omd), 10 June 2012
 
 ----------------------------------------------------------------------
 
