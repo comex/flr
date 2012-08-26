@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last updated: 27 July 2012
+Last updated: 26 August 2012
 
-Last proposal with recorded effect on this ruleset: 7269
-Last change to this ruleset: by Proposal 7269
+Last proposal with recorded effect on this ruleset: 7271
+Last change to this ruleset: by Proposal 7271
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -728,19 +728,21 @@ Amended(3) by Proposal 7218 (BuckyBot, Bucky), 10 June 2012
 
 ----------------------------------------------------------------------
 
-Rule 2358/0 (Power=1)
+Rule 2358/1 (Power=1)
 Win by Paradox
 
       A turtle is an inquiry case on the possibility or legality of a
-      rule-defined action (actual or hypothetical, but not arising
-      from that case itself, and not occurring after the initiation of
-      that case) which has the judgement UNDECIDABLE.
+      rule-defined action (actually either occurring, performed, or
+      attempted, but not arising from that case itself, and not
+      occurring after the initiation of that case) which has the
+      judgement UNDECIDABLE.
 
       When a turtle has continuously been a turtle for one week, its
       initiator satisfies the Victory Condition of Paradox.
 
 History:
 Created by Proposal 7138 (omd), 19 November 2011
+Amended(1) by Proposal 7271 (G.), 14 August 2012
 
 ----------------------------------------------------------------------
 
