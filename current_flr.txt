@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 26 August 2012
 
-Last proposal with recorded effect on this ruleset: 7271
-Last change to this ruleset: by Proposal 7271
+Last proposal with recorded effect on this ruleset: 7272
+Last change to this ruleset: by Proposal 7272
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -2940,7 +2940,7 @@ Offices
       within the game.
 ----------------------------------------------------------------------
 
-Rule 1006/33 (Power=2)
+Rule 1006/34 (Power=2)
 Offices
 
       An office is a role defined as such by the rules.  Each office
@@ -2955,7 +2955,7 @@ Offices
 
       The holder of an elected office CAN resign it by announcement,
       causing it to become vacant.  Any player CAN cause an office to
-      become vacant without objection.
+      become vacant without 2 objections or with 3 Agoran consent.
 
 [CFJ 1660 (called 13 May 2007): This rule does not define the meaning
 of the term "office", in the sense meant by Rule 754, but rather
@@ -3009,6 +3009,7 @@ Amended(30) by Proposal 6482 (c.), 18 September 2009
 Amended(31) by cleaning (Murphy), 6 March 2010
 Amended(32) by Proposal 6790 (Wooble), 27 August 2010
 Amended(33) by Proposal 6959 (G.), 31 January 2011
+Amended(34) by Proposal 7272 (FKA441344), 14 August 2012
 
 ----------------------------------------------------------------------
 
