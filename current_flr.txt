@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 14 September 2012
 
-Last proposal with recorded effect on this ruleset: 7297
-Last change to this ruleset: by Proposal 7297
+Last proposal with recorded effect on this ruleset: 7298
+Last change to this ruleset: by Proposal 7298
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -1637,7 +1637,7 @@ Economy
       A category concerning asset-based gameplay.
 ----------------------------------------------------------------------
 
-Rule 2166/16 (Power=2)
+Rule 2166/17 (Power=2)
 Assets
 
       An asset is an entity defined as such by a rule or contest
@@ -1651,7 +1651,8 @@ Assets
       to an entity outside that class, and is transferred to the Lost
       and Found Department if it is owned by an entity outside that
       class.  If an asset is owned by the Lost and Found department
-      any player CAN transfer or destroy it without objection.
+      any player CAN transfer or destroy it with 1.5 Agoran consent or
+      without 2 objections.
 
       The Lost and Found department may own any asset, and have assets
       transferred to and from it, regardless of the asset's backing
@@ -1733,6 +1734,7 @@ Amended(13) by Proposal 6430 (coppro; disi.), 18 August 2009
 Amended(14) twice by Proposal 6650 (coppro), 10 March 2010
 Amended(15) by Proposal 6792 (omd), 27 August 2010
 Amended(16) by Proposal 6916 (omd; disi.), 2 January 2011
+Amended(17) by Proposal 7298 (FKA441344), 9 September 2012
 
 ----------------------------------------------------------------------
 
