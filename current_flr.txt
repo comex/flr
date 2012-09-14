@@ -1,20 +1,20 @@
 THE FULL LOGICAL RULESET
 
-Last updated: 26 August 2012
+Last updated: 14 September 2012
 
-Last proposal with recorded effect on this ruleset: 7283
-Last change to this ruleset: by Proposal 7283
+Last proposal with recorded effect on this ruleset: 7286
+Last change to this ruleset: by Proposal 7286
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
 
-Highest Rule ID number ever assigned: 2378
+Highest Rule ID number ever assigned: 2379
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 116
+Current total number of rules: 117
 
 Power distribution:
        1 with Power=4
@@ -25,7 +25,7 @@ Power distribution:
        8 with Power=1.7
        4 with Power=1.5
        1 with Power=1.1
-      29 with Power=1
+      30 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -107,6 +107,7 @@ Index of Rules
       * Offices
       Rule 1006: Offices
       Rule 2143: Official Reports and Duties
+      Rule 2379: No News Is Some News
       Rule 2160: Deputisation
       Rule 2154: Election Procedure
       Rule 2276: Assumption of Vacant Offices
@@ -3107,6 +3108,18 @@ Amended(12) by Proposal 6664 (Murphy; disi.), 10 March 2010
 Amended(13) by cleaning (Murphy), 29 July 2010
 Amended(14) by Proposal 6967 (Wooble), 20 March 2011
 Amended(15) by Proposal 7045 (Walker), 16 May 2011
+
+----------------------------------------------------------------------
+
+Rule 2379/0 (Power=1)
+No News Is Some News
+
+      If the rules define a report as including a list, then while
+      that list is empty, that report includes the fact that it is
+      empty.
+
+History:
+Created by Proposal 7286 (FKA441344), 9 September 2012
 
 ----------------------------------------------------------------------
 
