@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 14 September 2012
 
-Last proposal with recorded effect on this ruleset: 7296
-Last change to this ruleset: by Proposal 7296
+Last proposal with recorded effect on this ruleset: 7297
+Last change to this ruleset: by Proposal 7297
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -2001,7 +2001,7 @@ Power changed from 1 to 2 by Proposal 7220 (omd, Murphy), 10 June 2012
 
 ----------------------------------------------------------------------
 
-Rule 2376/0 (Power=1)
+Rule 2376/1 (Power=1)
 Props
 
       Props are a currency.
@@ -2020,7 +2020,7 @@ Props
       one entity to another, provided that e explains why e chose each
       entity, and does not transfer it to emself.
 
-      At the beginning of each week, one prop in the possession of
+      At the beginning of each month, one prop in the possession of
       each entity possessing more than fourteen props is destroyed,
       and one prop is created in the possession of each first-class
       player possessing less than fourteen props.
@@ -2031,6 +2031,7 @@ Props
 
 History:
 Created by Proposal 7277 (FKA441344), 14 Augut 2012
+Amended(1) by Proposal 7297 (scshunt), 9 September 2012
 
 ----------------------------------------------------------------------
 
