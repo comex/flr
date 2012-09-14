@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 14 September 2012
 
-Last proposal with recorded effect on this ruleset: 7293
-Last change to this ruleset: by Proposal 7293
+Last proposal with recorded effect on this ruleset: 7296
+Last change to this ruleset: by Proposal 7296
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -4291,7 +4291,7 @@ Created by Proposal 7278 (FKA441344), 14 August 2012
 
 ----------------------------------------------------------------------
 
-Rule 1950/26 (Power=3)
+Rule 1950/27 (Power=3)
 Decisions with Adoption Indices
 
       Adoption index is a switch possessed by Agoran decisions and
@@ -4315,8 +4315,7 @@ Decisions with Adoption Indices
       The eligible voters on a decision with an adoption index are
       those entities that were active first-class players at the start
       of its voting period.  Setting or changing an entity's voting
-      limit on such a decision is secured with a power threshold of 2
-      if the decision is Ordinary, or 3 otherwise.
+      limit on such a decision is secured with a power threshold of 2.
 
       For any Agoran decision with an adoption index, the available
       options are FOR and AGAINST.
@@ -4356,6 +4355,7 @@ Amended(23) by Proposal 7083 (Walker), 4 July 2011
 Amended(24) by Proposal 7216 (omd), 4 May 2012
 Amended(25) by Proposal 7239 (omd), 10 June 2012
 Amended(26) by Proposal 7274 (FKA441344), 14 August 2012
+Amended(27) by Proposal 7296 (scshunt), 9 September 2012
 
 ----------------------------------------------------------------------
 
@@ -4419,14 +4419,17 @@ Created by Proposal 7217 (omd), 4 May 2012
 
 ----------------------------------------------------------------------
 
-Rule 2374/0 (Power=3)
+Rule 2374/1 (Power=3)
 Democratization
 
       If the Chamber of an entity is not Democratic, any first-class
-      Player CAN set it to Democratic with 3 Agoran Consent.
+      Player CAN set it to Democratic with 3 Agoran Consent.  Changing
+      the voting limit of an entity on a Democratic decision is
+      secured with power threshold 3.
 
 History:
 Created by Proposal 7274 (FKA441344), 14 August 2012
+Amended(1) by Proposal 7296 (scshunt), 9 September 2012
 
 ----------------------------------------------------------------------
 
