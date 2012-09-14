@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 14 September 2012
 
-Last proposal with recorded effect on this ruleset: 7287
-Last change to this ruleset: by Proposal 7287
+Last proposal with recorded effect on this ruleset: 7289
+Last change to this ruleset: by Proposal 7289
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -1828,14 +1828,14 @@ Amended(4) by Proposal 7101 (Pavitra), 23 July 2011
 
 ----------------------------------------------------------------------
 
-Rule 2338/2 (Power=3)
+Rule 2338/3 (Power=3)
 Cashing Promises
 
       An entity CAN cash a promise in eir possession by announcing
       that e does so, provided either that all conditions required to
-      be true for the promise to be cashed are true, or it has no such
-      conditions.  To do so, e must clearly and unambiguously identify
-      the promise and SHOULD publish its text.
+      be true for the promise to be cashed are true and determinate,
+      or it has no such conditions.  To do so, e must clearly and
+      unambiguously identify the promise and SHOULD publish its text.
 
       When a promise is cashed, the text of the promise is interpreted
       as if it were published by its author as a standalone statement;
@@ -1843,7 +1843,8 @@ Cashing Promises
       be supplied within the body of the message indicating the
       cashing.  Cashing a promise destroys it, unless the promise has
       at least one condition required to be true for it not to be
-      destroyed when cashed, and all such conditions are true.
+      destroyed when cashed, and all such conditions are true and
+      determinate.
 
       If a promise is possessed by the Tree, any player except the
       promise's author CAN transfer it to emself by announcement, if e
@@ -1857,6 +1858,7 @@ Created by Proposal 7015 (G., ais523), 23 April 2011
 Amended(1) by Proposal 7026 (Murphy, omd; disi.), 5 May 2011
 Power changed from 2 to 3 by Proposal 7027 (omd), 5 May 2011
 Amended(2) by Proposal 7100 (ais523), 23 July 2011
+Amended(3) by Proposal 7289 (G.), 9 September 2012
 
 ----------------------------------------------------------------------
 
@@ -2229,7 +2231,7 @@ Amended(6) by Proposal 6983 (Murphy), 10 April 2011
 
 ----------------------------------------------------------------------
 
-Rule 1023/28 (Power=2)
+Rule 1023/29 (Power=2)
 Common Definitions
 
       The following terms are defined:
@@ -2267,6 +2269,14 @@ Common Definitions
           These definitions do not apply to relative durations (e.g.
           "within <number> days after <event>").
 
+      (c) If a regulated value, or the value of a conditional, or a
+          value otherwise required to determine the outcome of a
+          regulated action, CANNOT be reasonably determined (without
+          circularity or paradox) from information reasonably
+          available, or if it alternates instantaneously and
+          indefinitely between values, then the value is considered to
+          be Indeterminate, otherwise it is Determinate.
+
 History:
 Created by Proposal 805, ca. Jan. or Feb. 1994
 Amended by Proposal 907, ca. Apr. or May 1994
@@ -2302,6 +2312,7 @@ Amended(25) by Proposal 6321 (Murphy; disi.), 26 May 2009
 Amended(26) by Proposal 6535 (Murphy), 4 November 2009
 Amended(27) by Proposal 6660 (Murphy; disi.), 10 March 2010
 Amended(28) by Proposal 7045 (Walker), 16 May 2011
+Amended(29) by Proposal 7289 (G.), 9 September 2012
 
 ----------------------------------------------------------------------
 
@@ -2407,7 +2418,7 @@ Created by Proposal 6977 (Murphy, David Nicol), 30 March 2011
 
 ----------------------------------------------------------------------
 
-Rule 2162/2 (Power=2)
+Rule 2162/3 (Power=2)
 Switches
 
       A type of switch is a property that the rules define as a
@@ -2436,10 +2447,16 @@ Switches
       exactly one of the subject's switches) is to flip that switch to
       X.
 
+      If an action or set of actions would cause the value of an
+      instance of a switch to become indeterminate, the instance
+      instead takes on its last determinate and possible value, if
+      any, otherwise it takes on its default value.
+
 History:
 Created by Proposal 5111 (Murphy), 2 August 2007
 Amended(1) by Proposal 5271 (Murphy), 7 November 2007
 Amended(2) by Proposal 7247 (omd), 10 June 2012
+Amended(3) by Proposal 7289 (G.), 9 September 2012
 
 ----------------------------------------------------------------------
 
@@ -3691,17 +3708,16 @@ Amended(17) by Proposal 7077 (omd), 16 June 2011
 
 ----------------------------------------------------------------------
 
-Rule 2127/6 (Power=1)
+Rule 2127/7 (Power=1)
 Conditional Votes
 
       If a vote on an Agoran decision is submitted conditionally (e.g.
       "FOR if <X> is true, otherwise AGAINST"), then the selected
       option is evaluated based on the value of the condition(s) at
       the end of the voting period, and is clearly specified if and
-      only if the value of the condition(s) can be reasonably
-      determined (without circularity or paradox) from information
-      reasonably available during the voting period.  If the option
-      cannot be clearly identified, a vote of PRESENT is cast.
+      only if the value of the condition(s) is/are determinate at  the
+      end of the voting period.  If the option cannot be clearly
+      identified, a vote of PRESENT is cast.
 
       Casting a vote endorsing another voter is equivalent to
       conditionally casting a vote whose value is the same as the most
@@ -3724,6 +3740,7 @@ Amended(3) by Proposal 5746 (Murphy), 16 October 2008
 Amended(4) by Proposal 6331 (Murphy), 29 May 2009
 Amended(5) by Proposal 6383 (Murphy), 3 July 2009
 Amended(6) by Proposal 6403 (coppro), 30 July 2009
+Amended(7) by Proposal 7289 (G.), 9 September 2012
 
 ----------------------------------------------------------------------
 
