@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 27 September 2012
 
-Last proposal with recorded effect on this ruleset: 7312
-Last change to this ruleset: by Proposal 7312
+Last proposal with recorded effect on this ruleset: 7313
+Last change to this ruleset: by Proposal 7313
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -3094,36 +3094,34 @@ Amended(34) by Proposal 7272 (FKA441344), 14 August 2012
 
 ----------------------------------------------------------------------
 
-Rule 2143/15 (Power=1)
+Rule 2143/16 (Power=1)
 Official Reports and Duties
 
-      For each office:
+      For each person:
 
-      a) If any task is defined by the rules as part of that office's
-         weekly duties, then the holder of that office SHALL perform
-         it at least once each week, except if the Speed is Slow, in
-         which case the duties SHALL be completed once each fortnight.
-         If any information is defined by the rules as part of that
-         office's weekly report, then the holder of that office SHALL
-         maintain all such information, and the publication of all
-         such information is part of that office's weekly duties.
+      a) If any task is defined by the rules as part of that person's
+         weekly duties, then e SHALL perform it at least once each
+         week, except if the Speed is Slow, in which case the duties
+         SHALL be completed once each fortnight.  If any information
+         is defined by the rules as part of that person's weekly
+         report, then e SHALL maintain all such information, and the
+         publication of all such information is part of eir weekly
+         duties.
 
-      b) If any task is defined by the rules as part of that office's
-         monthly duties, then the holder of that office SHALL perform
-         it at least once each month.  If any information is defined
-         by the rules as part of that office's monthly report, then
-         the holder of that office SHALL maintain all such
+      b) If any task is defined by the rules as part of that person's
+         monthly duties, then e SHALL perform it at least once each
+         month.  If any information is defined by the rules as part of
+         that person's monthly report, then e SHALL maintain all such
          information, and the publication of all such information is
-         part of that office's monthly duties.
+         part of eir monthly duties.
 
-      Any information defined by the rules as part of an office's
-      report, without specifying which one, is part of its weekly
-      report.  Failure of the holder of an office to perform any duty
-      required of that office within the allotted time is the Class-2
-      crime of Tardiness.
+      Any information defined by the rules as part of a person's
+      report, without specifying which one, is part of eir weekly
+      report.  Failure of a person to perform any duty required of em
+      within the allotted time is the Class-2 crime of Tardiness.
 
       While performing weekly or monthly duties or publishing weekly
-      or monthly reports, officers SHALL NOT publish information that
+      or monthly reports, persons SHALL NOT publish information that
       is inaccurate or misleading.
 
       Reports SHALL be published in plain text.  Tabular data must
@@ -3155,6 +3153,7 @@ Amended(12) by Proposal 6664 (Murphy; disi.), 10 March 2010
 Amended(13) by cleaning (Murphy), 29 July 2010
 Amended(14) by Proposal 6967 (Wooble), 20 March 2011
 Amended(15) by Proposal 7045 (Walker), 16 May 2011
+Amended(16) by Proposal 7313 (Machiavelli), 27 September 2012
 
 ----------------------------------------------------------------------
 
