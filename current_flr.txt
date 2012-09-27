@@ -2,19 +2,19 @@ THE FULL LOGICAL RULESET
 
 Last updated: 27 September 2012
 
-Last proposal with recorded effect on this ruleset: 7310
-Last change to this ruleset: by Proposal 7310
+Last proposal with recorded effect on this ruleset: 7312
+Last change to this ruleset: by Proposal 7312
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
 
-Highest Rule ID number ever assigned: 2380
+Highest Rule ID number ever assigned: 2381
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 118
+Current total number of rules: 119
 
 Power distribution:
        1 with Power=4
@@ -22,7 +22,7 @@ Power distribution:
        1 with Power=3.1
       40 with Power=3
       32 with Power=2
-       8 with Power=1.7
+       9 with Power=1.7
        3 with Power=1.5
        1 with Power=1.1
       31 with Power=1
@@ -140,6 +140,7 @@ Index of Rules
       Rule 1698: Agora Is A Nomic
       Rule 2366: Veto and Rubberstamp
       Rule 2374: Democratization
+      Rule 2381: Win by Clout
 
       * Adjudication
       Rule  991: Judicial Cases Generally
@@ -4456,6 +4457,24 @@ Democratization
 History:
 Created by Proposal 7274 (FKA441344), 14 August 2012
 Amended(1) by Proposal 7296 (scshunt), 9 September 2012
+
+----------------------------------------------------------------------
+
+Rule 2381/0 (Power=1.7)
+Win by Clout
+
+      If a single Player has a voting limit on an Agoran Decision that
+      has a Chamber, and that voting limit, at the end of the
+      Decision's voting period, is greater than the combined voting
+      limits of all other entities on that decision, that player
+      satisfies the Victory Condition of Clout.
+
+      If a correct Victory Announcement is made for such a win, this
+      Victory Condition ceases to be a Victory Condition for Decisions
+      in the same Chamber for 21 days following the announcement.
+
+History:
+Created by Proposal 7312 (G.), 27 September 2012
 
 ----------------------------------------------------------------------
 
