@@ -2,19 +2,19 @@ THE FULL LOGICAL RULESET
 
 Last updated: 27 September 2012
 
-Last proposal with recorded effect on this ruleset: 7309
-Last change to this ruleset: by Proposal 7309
+Last proposal with recorded effect on this ruleset: 7310
+Last change to this ruleset: by Proposal 7310
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
 
-Highest Rule ID number ever assigned: 2379
+Highest Rule ID number ever assigned: 2380
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 117
+Current total number of rules: 118
 
 Power distribution:
        1 with Power=4
@@ -25,7 +25,7 @@ Power distribution:
        8 with Power=1.7
        3 with Power=1.5
        1 with Power=1.1
-      30 with Power=1
+      31 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -171,6 +171,7 @@ Index of Rules
       Rule 1727: Happy Birthday
       Rule 2355: For It Was Not To B
       Rule 2029: Town Fountain
+      Rule 2380: (untitled)
 
       (Garbage Bin)
 
@@ -5872,6 +5873,17 @@ necessarily constitute a violation of this rule.]
 
 History:
 Created by Proposal 4329 (Goethe), 9 June 2002
+
+----------------------------------------------------------------------
+
+Rule 2380/0 (Power=1)
+(untitled)
+
+      scshunt CAN, by announcement, cause this rule to perform a
+      specified Rule Change.
+
+History:
+Created by Proposal 7310 (scshunt), 27 September 2012
 
 ----------------------------------------------------------------------
 
