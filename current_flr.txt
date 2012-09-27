@@ -133,13 +133,13 @@ Index of Rules
       Rule  106: Adopting Proposals
       Rule 1607: Distribution
       Rule 2373: Voting Chambers
+      Rule 2374: Democratization
       Rule 2375: Plutocratic Chamber
       Rule 2377: Aerocratic Chamber
       Rule 1950: Decisions with Adoption Indices
       Rule 2137: The Assessor
       Rule 1698: Agora Is A Nomic
       Rule 2366: Veto and Rubberstamp
-      Rule 2374: Democratization
       Rule 2381: Win by Clout
 
       * Adjudication
@@ -4290,6 +4290,20 @@ Created by Proposal 7274 (FKA441344, ehird), 14 August 2012
 
 ----------------------------------------------------------------------
 
+Rule 2374/1 (Power=3)
+Democratization
+
+      If the Chamber of an entity is not Democratic, any first-class
+      Player CAN set it to Democratic with 3 Agoran Consent.  Changing
+      the voting limit of an entity on a Democratic decision is
+      secured with power threshold 3.
+
+History:
+Created by Proposal 7274 (FKA441344), 14 August 2012
+Amended(1) by Proposal 7296 (scshunt), 9 September 2012
+
+----------------------------------------------------------------------
+
 Rule 2375/0 (Power=2)
 Plutocratic Chamber
 
@@ -4443,20 +4457,6 @@ Veto and Rubberstamp
 
 History:
 Created by Proposal 7217 (omd), 4 May 2012
-
-----------------------------------------------------------------------
-
-Rule 2374/1 (Power=3)
-Democratization
-
-      If the Chamber of an entity is not Democratic, any first-class
-      Player CAN set it to Democratic with 3 Agoran Consent.  Changing
-      the voting limit of an entity on a Democratic decision is
-      secured with power threshold 3.
-
-History:
-Created by Proposal 7274 (FKA441344), 14 August 2012
-Amended(1) by Proposal 7296 (scshunt), 9 September 2012
 
 ----------------------------------------------------------------------
 
