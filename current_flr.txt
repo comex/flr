@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 27 September 2012
 
-Last proposal with recorded effect on this ruleset: 7303
-Last change to this ruleset: by Proposal 7303
+Last proposal with recorded effect on this ruleset: 7309
+Last change to this ruleset: by Proposal 7309
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -731,7 +731,6 @@ Wisdom of the Elders
           intent, rules to the contrary notwithstanding.
         * Any Elder CAN, with 2 Elder Support, set the Chamber of an
           entity to Gerontocratic
-
 
 History:
 Created by Proposal 7134 (ais523), 6 November 2011
@@ -1802,7 +1801,7 @@ Amended(7) by Proposal 7148 (Murphy), 25 January 2012
 
 ----------------------------------------------------------------------
 
-Rule 2337/4 (Power=3)
+Rule 2337/5 (Power=3)
 Promises
 
       Promises are a class of assets.  Horton is an Office and the
@@ -1813,10 +1812,16 @@ Promises
 
       A Player (the promise's author) CAN create a promise in eir
       possession by announcement, clearly specifying its text.
-      Optionally, the author CAN, in the creating message, specify one
-      or more conditions required to be true for the promise to be
-      cashed, and/or one or more conditions required to be true for
-      the promise not to be destroyed when cashed.
+      Optionally, the author CAN, in the creating message specify one
+      or more of the following:
+
+         a) a title
+         b) one or more conditions required to be true for the promise
+            to be cashed;
+         c) one or more conditions required to be true for the promise
+            not to be destroyed when cashed; and
+         d) one or more conditions under which the author of the
+            promise can destroy it.
 
       To submit a promise means to create that promise and then
       transfer it to the Tree.
@@ -1828,6 +1833,10 @@ Promises
       any other modifications to promise holdings are secured with
       power threshold 2.
 
+      If a promise has one or more conditions under which the author
+      of the promise can destroy it, and they are all satisfied, then
+      the author CAN destroy that promise with notice.
+
 History:
 Created by Proposal 7015 (G., ais523), 23 April 2011
 Amended(1) by Proposal 7026 (Murphy, omd; disi.), 5 May 2011
@@ -1835,6 +1844,7 @@ Power changed from 2 to 3 by Proposal 7027 (omd), 5 May 2011
 Amended(2) by Proposal 7082 (omd, Pavitra), 4 July 2011
 Amended(3) by Proposal 7100 (ais523), 23 July 2011
 Amended(4) by Proposal 7101 (Pavitra), 23 July 2011
+Amended(5) by Proposal 7309 (scshunt), 27 September 2012
 
 ----------------------------------------------------------------------
 
