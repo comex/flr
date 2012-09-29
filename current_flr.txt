@@ -1,27 +1,27 @@
 THE FULL LOGICAL RULESET
 
-Last updated: 27 September 2012
+Last updated: 29 September 2012
 
-Last proposal with recorded effect on this ruleset: 7313
-Last change to this ruleset: by Proposal 7313
+Last proposal with recorded effect on this ruleset: 7314
+Last change to this ruleset: by Proposal 7314
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
 
-Highest Rule ID number ever assigned: 2381
+Highest Rule ID number ever assigned: 2384
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 119
+Current total number of rules: 122
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
        1 with Power=3.1
-      40 with Power=3
-      32 with Power=2
+      42 with Power=3
+      33 with Power=2
        9 with Power=1.7
        3 with Power=1.5
        1 with Power=1.1
@@ -173,6 +173,9 @@ Index of Rules
       Rule 2355: For It Was Not To B
       Rule 2029: Town Fountain
       Rule 2380: (untitled)
+      Rule 2382: Win by Junta
+      Rule 2383: Open It Up
+      Rule 2384: King of the Hill
 
       (Garbage Bin)
 
@@ -5894,14 +5897,59 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-Rule 2380/0 (Power=1)
+Rule 2380/1 (Power=1)
 (untitled)
 
       scshunt CAN, by announcement, cause this rule to perform a
-      specified Rule Change.
+      specified Rule Change.  scshunt CAN, by announcement, cause a
+      proposal to take effect.
 
 History:
 Created by Proposal 7310 (scshunt), 27 September 2012
+Amended(1) by Rule 2380 (scshunt), 28 September 2012
+
+----------------------------------------------------------------------
+
+Rule 2382/0 (Power=2)
+Win by Junta
+
+      When a rule comes to state that one or more persons CAN cause it
+      to make arbitrary rule changes by announcement, all those
+      persons satisfy the Winning Condition of Dictatorship.
+
+      Cleanup procedure:  Those persons SHALL as soon as possible
+      amend the rule so that it no longer states this, and SHOULD
+      amend the rules to prevent this condition from being achieved
+      again in essentially the same way.
+
+History:
+Created by Proposal 5982 (Murphy; re-enacted by scshunt; disputed), 28
+  September 2012
+
+----------------------------------------------------------------------
+
+Rule 2383/0 (Power=3)
+Open It Up
+
+      If a rule (other than this one) exists that mentions the
+      possibility of a player causing a rule to make rule changes by
+      announcement, any player can cause that rule to amend itself by
+      announcement.
+
+History:
+Created by Proposal 6130 (ais523, Goethe; re-enacted by scshunt;
+  disputed), 28 September 2012
+
+----------------------------------------------------------------------
+
+Rule 2384/0 (Power=3)
+King of the Hill
+
+      scshunt CAN cause this Rule to make arbitrary changes to the
+      gamestate by announcement.
+
+History:
+Created by Proposal 7314 (scshunt; disputed), 28 September 2012
 
 ----------------------------------------------------------------------
 
