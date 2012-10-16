@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last updated: 29 September 2012
+Last updated: 16 October 2012
 
 Last proposal with recorded effect on this ruleset: 7314
 Last change to this ruleset: by Rule 2382
@@ -14,18 +14,18 @@ Highest Rule ID number ever assigned: 2384
 
 Statistics
 
-Current total number of rules: 120
+Current total number of rules: 119
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
        1 with Power=3.1
-      41 with Power=3
-      33 with Power=2
+      40 with Power=3
+      32 with Power=2
        9 with Power=1.7
        3 with Power=1.5
        1 with Power=1.1
-      30 with Power=1
+      31 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -172,8 +172,7 @@ Index of Rules
       Rule 1727: Happy Birthday
       Rule 2355: For It Was Not To B
       Rule 2029: Town Fountain
-      Rule 2382: Win by Junta
-      Rule 2384: King of the Hill
+      Rule 2380: Richard Potato Boat
 
       (Garbage Bin)
 
@@ -5895,28 +5894,17 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-Rule 2382/1 (Power=2)
-Win by Junta
+Rule 2380/1 (Power=1)
+Richard Potato Boat
 
-      scshunt CAN, by announcement, make any arbitrary change to the
-      game state, including a Rule Change. For greater certainty, any
-      action taken by scshunt is part of eir effect.
-
-History:
-Created by Proposal 5982 (Murphy; re-enacted by scshunt; disputed), 28
-  September 2012
-Amended(1) by Rule 2382 (scshunt), 28 September 2012
-
-----------------------------------------------------------------------
-
-Rule 2384/0 (Power=3)
-King of the Hill
-
-      scshunt CAN cause this Rule to make arbitrary changes to the
-      gamestate by announcement.
+      scshunt CAN, by announcement, cause this rule to perform a
+      specified Rule Change.  scshunt CAN, by announcement, cause a
+      proposal to take effect.
 
 History:
-Created by Proposal 7314 (scshunt; disputed), 28 September 2012
+Created by Proposal 7310 (scshunt), 27 September 2012
+Amended(1) by Rule 2380 (scshunt), 28 September 2012
+Title changed by Rulekeepor, 16 October 2012
 
 ----------------------------------------------------------------------
 
