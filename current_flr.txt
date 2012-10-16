@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 16 October 2012
 
-Last proposal with recorded effect on this ruleset: 7314
-Last change to this ruleset: by Rule 2382
+Last proposal with recorded effect on this ruleset: 7315
+Last change to this ruleset: by Proposal 7315
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -5543,7 +5543,7 @@ Patent Titles and Degrees
       A category concerning titles of honor and dishonor.
 ----------------------------------------------------------------------
 
-Rule 649/32 (Power=1.5)
+Rule 649/33 (Power=1.5)
 Patent Titles
 
       A Patent Title is a legal item given in recognition of a
@@ -5556,6 +5556,10 @@ Patent Titles
       is an open judicial case contesting the validity of those
       conditions.  Awarding or revoking a Patent Title by any other
       method is secured.
+
+      The Herald CAN award a specified Patent Title not already
+      defined by any Rule or held by any entity to a specified player
+      With 2 Agoran Consent.
 
       While a Patent Title has been awarded to (and not revoked from)
       an entity, that entity is said to Bear that Patent Title.  The
@@ -5634,6 +5638,7 @@ Amended(29) by Proposal 6175 (Yally), 7 April 2009
 Amended(30) by cleaning (Wooble), 13 April 2009
 Amended(31) by Proposal 6424 (Murphy), 16 August 2009
 Amended(32) by Proposal 7050 (omd), 16 May 2011
+Amended(33) by Proposal 7315 (omd), 16 October 2012
 
 ----------------------------------------------------------------------
 
