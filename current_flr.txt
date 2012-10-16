@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 16 October 2012
 
-Last proposal with recorded effect on this ruleset: 7315
-Last change to this ruleset: by Proposal 7315
+Last proposal with recorded effect on this ruleset: 7316
+Last change to this ruleset: by Proposal 7316
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -4276,30 +4276,32 @@ Amended(35) by Proposal 7239 (omd), 10 June 2012
 
 ----------------------------------------------------------------------
 
-Rule 2373/0 (Power=3)
+Rule 2373/1 (Power=3)
 Voting Chambers
 
       Voting Chambers are a class of entity. Ordinary is a Voting
-      Chamber.  Democratic is a Voting Chamber. Creating a Voting
-      Chamber or making an entity a Voting Chamber is Secured with
-      power 2.
+      Chamber.  Creating a Voting Chamber or making an entity a Voting
+      Chamber is Secured with power 2.
 
 History:
 Created by Proposal 7274 (FKA441344, ehird), 14 August 2012
+Amended(1) by Proposal 7316 (omd), 16 October 2012
 
 ----------------------------------------------------------------------
 
-Rule 2374/1 (Power=3)
+Rule 2374/2 (Power=3)
 Democratization
 
-      If the Chamber of an entity is not Democratic, any first-class
-      Player CAN set it to Democratic with 3 Agoran Consent.  Changing
-      the voting limit of an entity on a Democratic decision is
-      secured with power threshold 3.
+      Democratic is a Voting Chamber.  If the Chamber of an entity is
+      not Democratic, any first-class Player CAN set it to Democratic
+      with 3 Agoran Consent.  Rules to the contrary notwithstanding,
+      the voting limit of an eligible voter on a Democratic decision
+      is 1.
 
 History:
 Created by Proposal 7274 (FKA441344), 14 August 2012
 Amended(1) by Proposal 7296 (scshunt), 9 September 2012
+Retitled and amended(2) by Proposal 7316 (omd), 16 October 2012
 
 ----------------------------------------------------------------------
 
