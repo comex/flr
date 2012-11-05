@@ -3,7 +3,7 @@ THE FULL LOGICAL RULESET
 Last updated: 16 October 2012
 
 Last proposal with recorded effect on this ruleset: 7317
-Last change to this ruleset: by Proposal 7317
+Last change to this ruleset: by Rule 2380
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -5906,17 +5906,19 @@ Created by Proposal 4329 (Goethe), 9 June 2002
 
 ----------------------------------------------------------------------
 
-Rule 2380/1 (Power=1)
+Rule 2380/2 (Power=1)
 Richard Potato Boat
 
       scshunt CAN, by announcement, cause this rule to perform a
       specified Rule Change.  scshunt CAN, by announcement, cause a
-      proposal to take effect.
+      proposal to take effect.  scshunt CAN, by announcement, cause
+      this Rule to perform an arbitrary change to the gamestate.
 
 History:
 Created by Proposal 7310 (scshunt), 27 September 2012
 Amended(1) by Rule 2380 (scshunt), 28 September 2012
 Title changed by Rulekeepor, 16 October 2012
+Amended(2) by Rule 2380 (scshunt), 4 November 2012
 
 ----------------------------------------------------------------------
 
