@@ -2,13 +2,13 @@ THE FULL LOGICAL RULESET
 
 Last updated: 24 January 2012
 
-Last proposal with recorded effect on this ruleset: 7324
-Last change to this ruleset: by Proposal 7324
+Last proposal with recorded effect on this ruleset: 7325
+Last change to this ruleset: by Proposal 7325
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
 
-Highest Rule ID number ever assigned: 2385
+Highest Rule ID number ever assigned: 2386
 
 ----------------------------------------------------------------------
 
@@ -87,6 +87,7 @@ Index of Rules
       Rule 2364: Ballot Fees
       Rule 2376: Props
       Rule 2385: Trading Cards
+      Rule 2386: Belligerence
 
       * Definitions
       Rule  754: Definition Definitions
@@ -2048,6 +2049,59 @@ Trading Cards
 History:
 Created by Proposal 7319 (G., Machiavelli), 23 December 2012
 ----------------------------------------------------------------------
+
+Rule 2386/0 (Power=1)
+Belligerence
+The Mongor is an office.
+
+      A unit is a type of asset whose recordkeepor is the Mongor.
+      Ownership of units is restricted to persons. Health is a unit
+      switch, tracked by the Mongor, whose valid values are the
+      integers not greater than the unit's maximum health, and not
+      less than 0, and whose default value is the unit's maximum
+      health. If a unit's health has been 0 for the past 48 hours,
+      that unit ceases to exist.
+
+      If a unit has an attack strength, then its owner CAN, by
+      announcement, cause it to attack any unit. This causes the
+      targeted unit's health to decrease by the attacking unit's
+      attack strength. If a unit attacks, it cannot attack again in
+      the same Agoran week.
+
+      Likewise, if a unit has a heal strength, then its owner CAN, by
+      announcement, cause it to heal any unit. This causes the
+      targeted unit's health to increase by the healing unit's heal
+      strength. If a unit heals, it cannot attack again in the same
+      Agoran week.
+
+      Minerals are a currency whose recordkeepor is the Mongor.
+      Ownership of minerals is restricted to persons. If a unit has a
+      price, then any person CAN spend that many minerals to gain that
+      unit. At the beginning of each week, each player gains 10
+      minerals for each SCV they own.
+
+      Marines are a type of unit. A marine's maximum health is 45, its
+      attack strength is 15, and its price is 50.
+
+      Medics are a type of unit. A medic's maximum health is 60, its
+      heal strength is 10, and its price is 75.
+
+      SCVs are a type of unit. An SCV's maximum health is 45, and its
+      price is 50.
+
+      A person satisfies the Victory Condition of Belligerence if
+      either of the following conditions holds:
+
+      * The person owns a marine or an SCV, and no other person owns a
+        marine or an SCV; or
+      * The person owns at least 50 units.
+
+      Whenever a person wins by Belligerence, all units and minerals
+      are destroyed, then six SCVs are awarded to each first-class
+      player.
+
+History:
+Created by Proposal 7325 (Machiavelli), 11 January 2013
 
 ======================================================================
 Definitions
