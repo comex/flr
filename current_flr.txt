@@ -39,8 +39,6 @@ Index of Rules
       Rule 1688: Power
       Rule 2140: Power Controls Mutability
       Rule  104: First Speaker
-      Rule 2326: The President
-      Rule 2348: Presidential Power
       Rule  103: The Speaker
       Rule 2339: Intention
       Rule 2359: The Power Of Agora
@@ -585,41 +583,6 @@ shall be Michael Norrish.]
 History:
 Initial Immutable Rule 104, Jun. 30 1993
 Mutated from MI=Unanimity to MI=3 by Proposal 1482, Mar. 15 1995
-
-----------------------------------------------------------------------
-
-Rule 2326/3 (Power=2)
-The President
-
-      The President is a second-class person.  Causing the President
-      to act is secured.
-
-      Rules to the contrary notwithstanding, the President CANNOT be
-      deregistered.
-
-      A first-class Player CAN cause the President to take actions
-      Without Objection, or with Agoran Consent.
-
-      Should the President incur obligations under the Rules, then the
-      Speaker SHALL act to satisfy these obligations.
-
-History:
-Created by Proposal 6961 (G.), 3 March 2011
-Amended(1) by Proposal 7029 (Walker), 16 May 2011
-Amended(2) by Proposal 7030 (Walker), 16 May 2011
-Amended(3) by Proposal 7233 (441344), 10 June 2012
-Repealed by Proposal 7323 (Machiavelli), 11 January 2013
-
-----------------------------------------------------------------------
-
-Rule 2348/0 (Power=1)
-Presidential Power
-
-      The President's power is equal to the power of this Rule.
-
-History:
-Created by Proposal 7067 (G.), 16 June 2011
-Repealed by Proposal 7323 (Machiavelli), 11 January 2013
 
 ----------------------------------------------------------------------
 
