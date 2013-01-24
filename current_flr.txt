@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 24 January 2012
 
-Last proposal with recorded effect on this ruleset: 7319
-Last change to this ruleset: by Proposal 2385
+Last proposal with recorded effect on this ruleset: 7321
+Last change to this ruleset: by Proposal 7321
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -5338,7 +5338,9 @@ Judge Assignment Generally
       A player CAN favor or disfavor a judicial case by announcement.
       When assigning a judge to a judicial case, the CotC, if
       possible, SHALL assign a player who has favored it and SHALL NOT
-      assign a player who has disfavored it.
+      assign a player who has disfavored it. For appeals cases, if
+      possible, e SHALL assign a panel maximizing the number of members
+      who have favored it and minimizing the number who have disfavored it.
 
 [CFJ 1186: The Clerk of the Courts is required by Rule 1868 to select
 a Judge who is qualified ["eligible" at the time of CFJ 1186] at the
@@ -5374,6 +5376,7 @@ Amended(16) by Proposal 6510 (Murphy), 3 October 2009
 Amended(17) by Proposal 6961 (G.), 3 March 2011
 Amended(17.1) by Proposal 7019 (Murphy), 16 May 2011
 Amended(18) by Proposal 7050 (omd), 16 May 2011
+Amended(19) by Proposal 7321 (Murphy, scshunt), 23 December 2012
 
 ----------------------------------------------------------------------
 
