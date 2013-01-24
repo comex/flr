@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 24 January 2012
 
-Last proposal with recorded effect on this ruleset: 7321
-Last change to this ruleset: by Proposal 7321
+Last proposal with recorded effect on this ruleset: 7323
+Last change to this ruleset: by Proposal 7323
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -608,6 +608,7 @@ Created by Proposal 6961 (G.), 3 March 2011
 Amended(1) by Proposal 7029 (Walker), 16 May 2011
 Amended(2) by Proposal 7030 (Walker), 16 May 2011
 Amended(3) by Proposal 7233 (441344), 10 June 2012
+Repealed by Proposal 7323 (Machiavelli), 11 January 2013
 
 ----------------------------------------------------------------------
 
@@ -618,10 +619,11 @@ Presidential Power
 
 History:
 Created by Proposal 7067 (G.), 16 June 2011
+Repealed by Proposal 7323 (Machiavelli), 11 January 2013
 
 ----------------------------------------------------------------------
 
-Rule 103/10 (Power=2)
+Rule 103/11 (Power=2)
 The Speaker
 
       The Speaker is an imposed office and a figurehead of Agora. The
@@ -663,6 +665,7 @@ Retitled by Proposal 6961 (G.), 3 March 2011
 Amended(8) by Proposal 6961 (G.), 3 March 2011
 Amended(9) by Proposal 7006 (Walker), 20 April 2011
 Amended(10) by Proposal 7084 (omd), 23 July 2011
+Amended(11) by Proposal 7323 (Machiavelli), 11 January 2013
 
 ----------------------------------------------------------------------
 
@@ -2371,15 +2374,13 @@ Amended(29) by Proposal 7289 (G.), 9 September 2012
 
 ----------------------------------------------------------------------
 
-Rule 2347/1 (Power=2)
+Rule 2347/2 (Power=2)
 Speed
 
       The Speed switch is an Agora Nomic switch, tracked by the
       Assessor, with values of Slow, Normal (default) and Fast. The
       Speed switch is secured.
 
-      When the Speed has not been changed in the past month, the
-      President CAN flip the Speed to Normal or Fast by announcement.
       At any time, players CAN flip it to a given value with Agoran
       Consent. In case of a lull, players CAN flip it to Slow without
       objection.
@@ -2387,6 +2388,7 @@ Speed
 History:
 Created by Proposal 7045 (Walker), 16 May 2011
 Amended(1) by Proposal 7063 (G.), 16 June 2011
+Amended(2) by Proposal 7323 (Machiavelli), 11 January 2013
 
 ----------------------------------------------------------------------
 
