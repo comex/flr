@@ -2,13 +2,13 @@ THE FULL LOGICAL RULESET
 
 Last updated: 24 January 2012
 
-Last proposal with recorded effect on this ruleset: 7325
-Last change to this ruleset: by Proposal 7325
+Last proposal with recorded effect on this ruleset: 7326
+Last change to this ruleset: by Proposal 7326
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
 
-Highest Rule ID number ever assigned: 2386
+Highest Rule ID number ever assigned: 2387
 
 ----------------------------------------------------------------------
 
@@ -88,6 +88,7 @@ Index of Rules
       Rule 2376: Props
       Rule 2385: Trading Cards
       Rule 2386: Belligerence
+      Rule 2387: Ribbons
 
       * Definitions
       Rule  754: Definition Definitions
@@ -2052,7 +2053,8 @@ Created by Proposal 7319 (G., Machiavelli), 23 December 2012
 
 Rule 2386/0 (Power=1)
 Belligerence
-The Mongor is an office.
+
+      The Mongor is an office.
 
       A unit is a type of asset whose recordkeepor is the Mongor.
       Ownership of units is restricted to persons. Health is a unit
@@ -2102,6 +2104,82 @@ The Mongor is an office.
 
 History:
 Created by Proposal 7325 (Machiavelli), 11 January 2013
+----------------------------------------------------------------------
+
+Rule 2387/0 (Power=1)
+Ribbons
+
+      Ribbons are a class of fixed assets.  If winning is secured,
+      then changes to Ribbon holdings are secured with the same power
+      threshold.  Ownership of Ribbons is restricted to players.
+
+      Each Ribbon has exactly one color.  Colors with different names
+      are distinct, regardless of spectral proximity.  It is possible
+      for a Ribbon to have a color not defined in this rule.  Each
+      color of Ribbon is a currency.
+
+      The Herald is the recordkeepor of Ribbons.
+
+      When a player earns a Ribbon as outlined below, any person CAN
+      once, in a timely manner, create that Ribbon in the player's
+      possession by announcement, unless the player already possesses
+      the color of Ribbon e earned (earning a Ribbon more than once
+      entitles the bearer to multiple Ribbon awards, though
+      capitalizing on this may be difficult):
+
+      (+B) When a player assigns a judgement to a judicial question in
+           a judicial case other than a question on sentencing, e
+           earns a Blue Ribbon, unless e violated a requirement to
+           submit that judgment within a time limit.
+
+      (+C) When a player deputises for an office, e earns a Cyan
+           Ribbon.
+
+      (+G) At the end of each month, each player who held at least one
+           office continuously during that month earns a Green Ribbon,
+           unless e failed to perform an official duty within a time
+           limit during that month.
+
+      (+I) When a player is awarded a degree, e earns an Indigo
+           Ribbon.
+
+      (+K) When a player assigns a judgement to a judicial question in
+           an interested judicial case on sentencing, e earns a Black
+           Ribbon, unless e violated a requirement to submit that
+           judgment within a time limit.
+
+      (+L) A player qualifies for a Lime Ribbon, if e was the
+           co-author of at least three Proposals adopted in the
+           previous week.
+
+      (+M) When, during Agora's birthday, a player publicly
+           acknowledges the occasion, e earns a Magenta Ribbon.
+
+      (+O) When a proposal is adopted by voting with no valid votes
+           AGAINST, its proposer earns an Orange Ribbon.
+
+      (+P) The Speaker qualifies for a Platinum Ribbon.
+
+      (+R) When an interested proposal is adopted and changes at least
+           one rule with Power >= 3, its proposer earns a Red Ribbon.
+
+      (+T) When a player registers, if e does not possess the Patent
+           Title Renascent, e earns a Transparent Ribbon.
+
+      (+U) When a player is awarded the Patent Title Champion, e earns
+           an Ultraviolet Ribbon.
+
+      (+V) When a player is awarded a Patent Title other than
+           Renascent, e earns a Violet Ribbon, unless e earns a
+           different Ribbon for the award.
+
+      Any player CAN, by announcement, destroy nine Ribbons in eir
+      possession, each of a different color, to satisfy the Victory
+      Condition of Renaissance and award emself the Patent Title
+      Renascent.
+
+History:
+Created by Proposal 2387 (Machiavelli).
 
 ======================================================================
 Definitions
