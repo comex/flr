@@ -2078,6 +2078,8 @@ Trading Cards
       trading cards are created in the possession of each first-class
       player, with that first-class player as their Subject. 
 
+History:
+Created by Proposal 7319 (G., Machiavelli), 23 December 2012
 ----------------------------------------------------------------------
 
 ======================================================================
