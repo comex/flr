@@ -1,20 +1,20 @@
 THE FULL LOGICAL RULESET
 
-Last updated: 16 October 2012
+Last updated: 24 January 2012
 
-Last proposal with recorded effect on this ruleset: 7317
-Last change to this ruleset: by Rule 2380
+Last proposal with recorded effect on this ruleset: 7319
+Last change to this ruleset: by Proposal 2385
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
 
-Highest Rule ID number ever assigned: 2384
+Highest Rule ID number ever assigned: 2385
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 119
+Current total number of rules: 120
 
 Power distribution:
        1 with Power=4
@@ -88,6 +88,7 @@ Index of Rules
       Rule 2363: Poll Fees
       Rule 2364: Ballot Fees
       Rule 2376: Props
+      Rule 2385: Trading Cards
 
       * Definitions
       Rule  754: Definition Definitions
@@ -2054,6 +2055,28 @@ Props
 History:
 Created by Proposal 7277 (FKA441344), 14 Augut 2012
 Amended(1) by Proposal 7297 (scshunt), 9 September 2012
+
+----------------------------------------------------------------------
+
+Rule 2385/0 (Power=1)
+Trading Cards
+
+      Trading cards are a class of asset.  Each trading card has a
+      Subject, which is a first-class player.  Whenever an entity
+      becomes a first-class player, 15 trading cards are created in eir
+      possession with emself as their Subject.  If the Subject of a
+      trading card ceases to be a first-class player, that trading
+      card is destroyed. Trading cards with the same Subject are
+      fungible.
+
+      Comic Book Guy is an Office, and the recordkeepor of Trading
+      Cards.
+
+      Any person CAN spend 12 trading cards, no two of which have
+      the same Subject, to fulfill the Victory Condition of Mint Set.
+      When this happens, all trading cards are destroyed, and 15
+      trading cards are created in the possession of each first-class
+      player, with that first-class player as their Subject. 
 
 ----------------------------------------------------------------------
 
