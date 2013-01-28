@@ -2043,12 +2043,13 @@ Trading Cards
 
 History:
 Created by Proposal 7319 (G., Machiavelli), 23 December 2012
+
 ----------------------------------------------------------------------
 
 Rule 2386/0 (Power=1)
 Belligerence
 
-      The Mongor is an office.
+     The Mongor is an office.
 
       A unit is a type of asset whose recordkeepor is the Mongor.
       Ownership of units is restricted to persons. Health is a unit
@@ -2098,6 +2099,7 @@ Belligerence
 
 History:
 Created by Proposal 7325 (Machiavelli), 11 January 2013
+
 ----------------------------------------------------------------------
 
 Rule 2387/0 (Power=1)
@@ -2174,6 +2176,7 @@ Ribbons
 
 History:
 Created by Proposal 2387 (Machiavelli).
+
 ----------------------------------------------------------------------
 
 ======================================================================
