@@ -2,13 +2,13 @@ THE FULL LOGICAL RULESET
 
 Last updated: 24 January 2012
 
-Last proposal with recorded effect on this ruleset: 7326
-Last change to this ruleset: by Proposal 7326
+Last proposal with recorded effect on this ruleset: 7331
+Last change to this ruleset: by Proposal 7331
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
 
-Highest Rule ID number ever assigned: 2387
+Highest Rule ID number ever assigned: 2388
 
 ----------------------------------------------------------------------
 
@@ -104,6 +104,7 @@ Index of Rules
       Rule 2124: Agoran Satisfaction
       Rule 2333: Contests
       Rule 2334: Timers
+      Rule 2388: The Dictionary
 
       * Offices
       Rule 1006: Offices
@@ -2021,16 +2022,17 @@ Amended(1) by Proposal 7297 (scshunt), 9 September 2012
 
 ----------------------------------------------------------------------
 
-Rule 2385/0 (Power=1)
+Rule 2385/1 (Power=1)
 Trading Cards
 
-      Trading cards are a class of asset.  Each trading card has a
-      Subject, which is a first-class player.  Whenever an entity
-      becomes a first-class player, 15 trading cards are created in
-      eir possession with emself as their Subject.  If the Subject
-      of a trading card ceases to be a first-class player, that
-      trading card is destroyed. Trading cards with the same
-      Subject are fungible.
+      Trading cards are a class of asset. Ownership of trading cards
+      is restricted to players. Each trading card has a Subject,
+      which is a first-class player.  Whenever an entity becomes a
+      first-class player, 15 trading cards are created in eir
+      possession with emself as their Subject.  If the Subject of a
+      trading card ceases to be a first-class player, that trading
+      card is destroyed. Trading cards with the same Subject are
+      fungible.
 
       Comic Book Guy is an Office, and the recordkeepor of Trading
       Cards.
@@ -2043,62 +2045,7 @@ Trading Cards
 
 History:
 Created by Proposal 7319 (G., Machiavelli), 23 December 2012
-
-----------------------------------------------------------------------
-
-Rule 2386/0 (Power=1)
-Belligerence
-
-     The Mongor is an office.
-
-      A unit is a type of asset whose recordkeepor is the Mongor.
-      Ownership of units is restricted to persons. Health is a unit
-      switch, tracked by the Mongor, whose valid values are the
-      integers not greater than the unit's maximum health, and not
-      less than 0, and whose default value is the unit's maximum
-      health. If a unit's health has been 0 for the past 48 hours,
-      that unit ceases to exist.
-
-      If a unit has an attack strength, then its owner CAN, by
-      announcement, cause it to attack any unit. This causes the
-      targeted unit's health to decrease by the attacking unit's
-      attack strength. If a unit attacks, it cannot attack again in
-      the same Agoran week.
-
-      Likewise, if a unit has a heal strength, then its owner CAN, by
-      announcement, cause it to heal any unit. This causes the
-      targeted unit's health to increase by the healing unit's heal
-      strength. If a unit heals, it cannot attack again in the same
-      Agoran week.
-
-      Minerals are a currency whose recordkeepor is the Mongor.
-      Ownership of minerals is restricted to persons. If a unit has a
-      price, then any person CAN spend that many minerals to gain that
-      unit. At the beginning of each week, each player gains 10
-      minerals for each SCV they own.
-
-      Marines are a type of unit. A marine's maximum health is 45, its
-      attack strength is 15, and its price is 50.
-
-      Medics are a type of unit. A medic's maximum health is 60, its
-      heal strength is 10, and its price is 75.
-
-      SCVs are a type of unit. An SCV's maximum health is 45, and its
-      price is 50.
-
-      A person satisfies the Victory Condition of Belligerence if
-      either of the following conditions holds:
-
-      * The person owns a marine or an SCV, and no other person owns a
-        marine or an SCV; or
-      * The person owns at least 50 units.
-
-      Whenever a person wins by Belligerence, all units and minerals
-      are destroyed, then six SCVs are awarded to each first-class
-      player.
-
-History:
-Created by Proposal 7325 (Machiavelli), 11 January 2013
+Amended(1) by Proposal 7329 (Machiavelli), 9 February 2013
 
 ----------------------------------------------------------------------
 
@@ -3133,6 +3080,32 @@ Timers
 
 History:
 Created by Proposal 7002 (Murphy), 20 April 2011
+
+----------------------------------------------------------------------
+
+Rule 2338/1 (Power=1)
+
+      The Dictionary is a list of common terms and shorthands used in
+      playing Agora and their definitions. A player CAN add a
+      definition to the Dictionary with 2 support, and a player CAN
+      remove a definition from the Dictionary without 2 objections.
+ 
+      When, in a public message, an entity uses a term defined in the
+      Dictionary, unless there is explicit indication otherwise, the
+      message is to be interpreted using the definition in the
+      Dictionary.  Terms defined in the Dictionary have no effect on
+      the interpretation of the rules, insofar as they may lead to the
+      formation game custom.
+
+      A definition in The Dictionary cannot cause a message to result
+      in an action or other consequence that would not be possible
+      without that definition.
+
+      The Lexicographor is an office; the Dictionary is included in
+      its monthly report.
+
+History:
+Created by Proposal 7328 (Murphy, scshunt), 9 Febraury 2013
 
 ----------------------------------------------------------------------
 
