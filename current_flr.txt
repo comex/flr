@@ -3086,16 +3086,18 @@ Created by Proposal 7002 (Murphy), 20 April 2011
 Rule 2338/1 (Power=1)
 
       The Dictionary is a list of common terms and shorthands used in
-      playing Agora and their definitions. A player CAN add a
-      definition to the Dictionary with 2 support, and a player CAN
-      remove a definition from the Dictionary without 2 objections.
- 
+      playing Agora and their definitions.  A player CAN add a
+      definition to the Dictionary without objection, and a player CAN
+      remove a definition from the Dictionary with Agoran Consent.
+      Persons SHOULD NOT object to the addition of a definition unless
+      the definition is pointless or disruptive.
+
       When, in a public message, an entity uses a term defined in the
       Dictionary, unless there is explicit indication otherwise, the
       message is to be interpreted using the definition in the
       Dictionary.  Terms defined in the Dictionary have no effect on
-      the interpretation of the rules, insofar as they may lead to the
-      formation game custom.
+      the interpretation of the rules, except insofar as they may lead
+      to the formation of game custom.
 
       A definition in The Dictionary cannot cause a message to result
       in an action or other consequence that would not be possible
@@ -3106,6 +3108,7 @@ Rule 2338/1 (Power=1)
 
 History:
 Created by Proposal 7328 (Murphy, scshunt), 9 Febraury 2013
+Amended(1) by Proposal 7331 (Machiavelli), 9 February 2013
 
 ----------------------------------------------------------------------
 
