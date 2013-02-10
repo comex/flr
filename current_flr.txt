@@ -87,7 +87,6 @@ Index of Rules
       Rule 2364: Ballot Fees
       Rule 2376: Props
       Rule 2385: Trading Cards
-      Rule 2386: Belligerence
       Rule 2387: Ribbons
 
       * Definitions
@@ -3083,7 +3082,8 @@ Created by Proposal 7002 (Murphy), 20 April 2011
 
 ----------------------------------------------------------------------
 
-Rule 2338/1 (Power=1)
+Rule 2388/1 (Power=1)
+The Dictionary
 
       The Dictionary is a list of common terms and shorthands used in
       playing Agora and their definitions.  A player CAN add a
