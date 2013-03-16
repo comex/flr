@@ -25,7 +25,8 @@ Power distribution:
        9 with Power=1.7
        3 with Power=1.5
        1 with Power=1.1
-      33 with Power=1
+      32 with Power=1
+       1 with Power=0.5
 
 ----------------------------------------------------------------------
 
@@ -2105,8 +2106,7 @@ Ribbons
       (+R) When an interested proposal is adopted and results in a net
            decrease in both the number of rules in the Ruleset and the
            length (in characters) of the Ruleset, its proposer earns a
-           Red Ribbon. 
-
+           Red Ribbon.
 
       (+T) When a player registers, if e does not possess the Patent
            Title Renascent, e earns a Transparent Ribbon.
