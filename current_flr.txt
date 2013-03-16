@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last updated: 9 February 2013
+Last updated: 10 February 2013
 
 Last proposal with recorded effect on this ruleset: 7331
 Last change to this ruleset: by Proposal 7331
@@ -2048,7 +2048,7 @@ Amended(1) by Proposal 7329 (Machiavelli), 9 February 2013
 
 ----------------------------------------------------------------------
 
-Rule 2387/0 (Power=1)
+Rule 2387/1 (Power=1)
 Ribbons
 
       Ribbons are a class of fixed assets.  If winning is secured,
@@ -2102,8 +2102,11 @@ Ribbons
 
       (+P) The Speaker qualifies for a Platinum Ribbon.
 
-      (+R) When an interested proposal is adopted and changes at least
-           one rule with Power >= 3, its proposer earns a Red Ribbon.
+      (+R) When an interested proposal is adopted and results in a net
+           decrease in both the number of rules in the Ruleset and the
+           length (in characters) of the Ruleset, its proposer earns a
+           Red Ribbon. 
+
 
       (+T) When a player registers, if e does not possess the Patent
            Title Renascent, e earns a Transparent Ribbon.
@@ -2121,7 +2124,8 @@ Ribbons
       Renascent.
 
 History:
-Created by Proposal 2387 (Machiavelli).
+Created by Proposal 7326 (Machiavelli).
+Amended(1) by Proposal 7349 (G.).
 
 ----------------------------------------------------------------------
 
