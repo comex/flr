@@ -2124,8 +2124,8 @@ Ribbons
       Renascent.
 
 History:
-Created by Proposal 7326 (Machiavelli).
-Amended(1) by Proposal 7349 (G.).
+Created by Proposal 7326 (Machiavelli), 11 Jaunuary 2013.
+Amended(1) by Proposal 7349 (G.), 11 March 2013.
 
 ----------------------------------------------------------------------
 
@@ -3086,7 +3086,7 @@ Created by Proposal 7002 (Murphy), 20 April 2011
 
 ----------------------------------------------------------------------
 
-Rule 2388/1 (Power=1)
+Rule 2388/2 (Power=0.5)
 The Dictionary
 
       The Dictionary is a list of common terms and shorthands used in
@@ -3111,8 +3111,9 @@ The Dictionary
       its monthly report.
 
 History:
-Created by Proposal 7328 (Murphy, scshunt), 9 Febraury 2013
-Amended(1) by Proposal 7331 (Machiavelli), 9 February 2013
+Created by Proposal 7320 (scshunt), 23 December 2012
+Amended(1) by Proposal 7328 (Murphy, scshunt), 9 Febraury 2013
+Amended(2) by Proposal 7331 (Machiavelli), 9 February 2013
 
 ----------------------------------------------------------------------
 
