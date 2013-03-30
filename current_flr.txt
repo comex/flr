@@ -4298,6 +4298,7 @@ Amended(1) by Proposal 7316 (omd), 16 October 2012
 ----------------------------------------------------------------------
 
 Rule 2389/0 (Power=2)
+Ordinary Chamber
 
       VVLOP is a player switch, tracked by the Assessor, whose
       possible values are the non-negative integers, and whose default
