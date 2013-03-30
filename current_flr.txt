@@ -2,13 +2,13 @@ THE FULL LOGICAL RULESET
 
 Last updated: 30 March 2013
 
-Last proposal with recorded effect on this ruleset: 7345
-Last change to this ruleset: by Proposal 7345
+Last proposal with recorded effect on this ruleset: 7348
+Last change to this ruleset: by Proposal 7348
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
 
-Highest Rule ID number ever assigned: 2388
+Highest Rule ID number ever assigned: 2389
 
 ----------------------------------------------------------------------
 
@@ -135,6 +135,7 @@ Index of Rules
       Rule  106: Adopting Proposals
       Rule 1607: Distribution
       Rule 2373: Voting Chambers
+      Rule 2389: Ordinary Chamber
       Rule 2374: Democratization
       Rule 2375: Plutocratic Chamber
       Rule 2377: Aerocratic Chamber
@@ -159,7 +160,7 @@ Index of Rules
       Rule 2175: Judicial Retraction and Excess
       Rule 1868: Judge Assignment Generally
       Rule 1871: The Standing Court
-      Rule 2378: The Justiciar
+      Rule 2378: Court Protector
       Rule 2204: Linked Assignments
       Rule 2164: Judicial Self-Recusal and Case Transfer
       Rule 2212: Judicial Declarations
@@ -4396,6 +4397,34 @@ Voting Chambers
 History:
 Created by Proposal 7274 (FKA441344, ehird), 14 August 2012
 Amended(1) by Proposal 7316 (omd), 16 October 2012
+
+----------------------------------------------------------------------
+
+Rule 2389/0 (Power=2)
+
+      VVLOP is a player switch, tracked by the Assessor, whose
+      possible values are the non-negative integers, and whose default
+      value is four for first-class players and zero for second-class
+      players.  The voting limit of an entity on an Ordinary Decision
+      is eir VVLOP.
+
+      Voting Credits (or VCs) are a fixed currency whose recordkeepor
+      is the Promotor. Whenever a proposal is adopted, its author
+      gains a number of VCs equal to the integer part of the
+      proposal's adoption index, and each of the proposal's co-authors
+      who is a first-class player gains one VC.
+
+      A person may spend two VCs to increase any player's VVLOP by
+      one. A first-class person may spend one VC to increase any other
+      first-class player's VVLOP by one. A person may spend two VCs to
+      decrease any other player's VVLOP by one.
+
+      Whenever a person's VVLOP becomes 12 or greater, or the total
+      VVLOP of all second-class players is greater than the total
+      VVLOP of all first-class players, all VVLOPs are set to their
+      default values, and all VCs are destroyed. 
+
+Created by Proposal 7348 (Machiavelli, Bucky, BuckyBot), 27 March 2013.
 
 ----------------------------------------------------------------------
 
