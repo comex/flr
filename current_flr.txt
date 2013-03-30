@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 30 March 2013
 
-Last proposal with recorded effect on this ruleset: 7351
-Last change to this ruleset: by Proposal 7351
+Last proposal with recorded effect on this ruleset: 7352
+Last change to this ruleset: by Proposal 7352
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -2028,7 +2028,7 @@ Amended(1) by Proposal 7329 (Machiavelli), 9 February 2013
 
 ----------------------------------------------------------------------
 
-Rule 2387/2 (Power=1)
+Rule 2387/3 (Power=1)
 Ribbons
 
       Ribbons are a class of fixed assets.  If winning is secured,
@@ -2089,8 +2089,8 @@ Ribbons
            length (in characters) of the Ruleset, its proposer earns a
            Red Ribbon.
 
-      (+T) When a player registers, if e does not possess the Patent
-           Title Renascent, e earns a Transparent Ribbon.
+      (+T) If a player does not possess the Patent Title Renascent, e
+           CAN earn a Transparent Ribbon by announcement. 
 
       (+U) When a player is awarded the Patent Title Champion, e earns
            an Ultraviolet Ribbon.
@@ -2108,6 +2108,7 @@ History:
 Created by Proposal 7326 (Machiavelli), 11 Jaunuary 2013.
 Amended(1) by Proposal 7349 (G.), 11 March 2013.
 Amended(2) by Proposal 7335 (Machiavelli), 27 March 2013.
+Amended(3) by Proposal 7352 (Machiavelli), 27 March 2013.
 
 ----------------------------------------------------------------------
 
@@ -2115,29 +2116,6 @@ Amended(2) by Proposal 7335 (Machiavelli), 27 March 2013.
 Definitions
       A category of definitions of terms and procedures that are
       widely used and do not readily fall into any other category.
-----------------------------------------------------------------------
-
-History:
-Created by Proposal 435 (Alexx), Aug. 30 1993
-Amended by Proposal 754 (KoJen), Dec. 1 1993
-Amended by Rule 750, Dec. 1 1993
-Amended(1) by Proposal 2042, Dec. 11 1995
-Infected and Amended(2) by Rule 1454, Dec. 17 1995
-Amended(3) by Proposal 3452 (Steve), Apr. 7 1997, substantial
-Amended(4) by Proposal 3915 (harvel), Sep. 27 1999
-Power changed from 1 to 3 by Proposal 4507 (Murphy), 20 June 2003
-Amended(5) by Proposal 4507 (Murphy), 20 June 2003
-Amended(6) by Proposal 4866 (Goethe), 27 August 2006
-Amended(7) by Proposal 5038 (Zefram), 28 June 2007
-Amended(8) by Proposal 5834 (Goethe), 12 November 2008
-Amended(9) by Proposal 6021 (Murphy), 22 December 2008
-Amended(10) by Proposal 6384 (Murphy), 3 July 2009
-Amended(11) by Proposal 6571 (ais523), 28 November 2009
-Amended(12) by Proposal 6650 (coppro), 10 March 2010
-Amended(13) by Proposal 6732 (comex), 6 June 2010
-Amended(14) by Proposal 6741 (comex; disi.), 1 July 2010
-Amended(15) by Proposal 6981 (Murphy, omd), 10 April 2011
-
 ----------------------------------------------------------------------
 
 Rule 2152/6 (Power=3)
