@@ -21,7 +21,7 @@ Power distribution:
        1 with Power=3.2
        1 with Power=3.1
       41 with Power=3
-      30 with Power=2
+      31 with Power=2
        9 with Power=1.7
        3 with Power=1.5
        1 with Power=1.1
@@ -811,7 +811,7 @@ Amended(6) by Proposal 5105 (Zefram), 1 August 2007
 
 ----------------------------------------------------------------------
 
-Rule 1030/10 (Power=3.2)
+Rule 1030/11 (Power=3.2)
 Precedence between Rules
 
       In a conflict between Rules, the conflict shall be resolved by
@@ -834,7 +834,10 @@ Precedence between Rules
         such provisions shall be used to resolve the conflict, unless
         they lead to contradictions between each other; otherwise,
 
-      - The Rule with the lower ID number takes precedence.
+      - If any of the rules in conflict have ID numbers, then the Rule
+        with the lowest ID number takes precedence; otherwise,
+
+      - The Rule enacted earliest takes precedence.
 
       Clauses in any other rule that broadly claim precedence (e.g.
       over "all rules" of a certain class) shall be, prima facie,
@@ -877,6 +880,7 @@ Title changed by Proposal 6292 (Goethe), 19 May 2009
 Power changed from 3 to 3.2 by Proposal 6292 (Goethe), 19 May 2009
 Amended(9) by cleaning (Murphy), 16 August 2009
 Amended(10) by Proposal 7235 (omd), 10 June 2012
+Amended(11) by Proposal 7334 (woggle), 27 March 2013
 
 ----------------------------------------------------------------------
 
