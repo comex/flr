@@ -4272,6 +4272,7 @@ Ordinary Chamber
       VVLOP of all first-class players, all VVLOPs are set to their
       default values, and all VCs are destroyed.
 
+History:
 Created by Proposal 7348 (Machiavelli, Bucky, BuckyBot), 27 March 2013
 
 ----------------------------------------------------------------------
@@ -4298,6 +4299,7 @@ Ordinary Chamber
       Whenever a person's VVLOP becomes 12 or greater, all VVLOPs are
       set to their default values, and all VCs are destroyed.
 
+History:
 Created by Proposal 7342 (Machiavelli), 27 March 2013
 
 ----------------------------------------------------------------------
