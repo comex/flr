@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 30 March 2013
 
-Last proposal with recorded effect on this ruleset: 7342
-Last change to this ruleset: by Proposal 7342
+Last proposal with recorded effect on this ruleset: 7351
+Last change to this ruleset: by Proposal 7351
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -20,7 +20,7 @@ Power distribution:
        1 with Power=4
        1 with Power=3.2
        1 with Power=3.1
-      41 with Power=3
+      40 with Power=3
       27 with Power=2
        9 with Power=1.7
        3 with Power=1.5
@@ -729,7 +729,7 @@ Amended(6) by Proposal 6992 (Murphy, omd), 10 April 2011
 
 ----------------------------------------------------------------------
 
-Rule 217/6 (Power=3)
+Rule 217/7 (Power=3)
 Interpreting the Rules
 
       When interpreting and applying the rules, the text of the rules
@@ -737,6 +737,85 @@ Interpreting the Rules
       unclear, it is to be augmented by game custom, common sense,
       past judgements, and consideration of the best interests of the
       game.
+
+      A term explicitly defined by the Rules, along with any of its
+      ordinary-language synonyms not otherwise so defined, has that
+      meaning when used in any Rule of equal or lesser power, or when
+      used in a Rule of greater power that is clearly intended to
+      comply with that meaning.  Otherwise, terms have their ordinary-
+      language meanings; with definitions contained in lower-powered
+      Rules providing non-binding guidance.
+
+      Differences in spelling, grammar, capitalization, whitespace,
+      dialect, or the use of synonyms or abbreviations, are generally
+      inconsequential in interpreting rules or communications, as long
+      they do not create ambiguity in meaning.
+
+[CFJ 1439 (called 20 February 2003): A difference in language
+qualifies as a difference in dialect; it is possible to take game
+actions by messages in languages other than English.]
+
+[CFJ 1460 (called 4 April 2003): If a message is in a language other
+than English, and its intended audience does not understand the
+language, this constitutes gross unclarity that makes the message
+ineffective.]
+
+[CFJ 712: Referring to a Player by a method other than eir name or
+nickname is acceptable, as long as it is unambiguous.]
+
+[CFJ 1861 (called 8 January 2008): A player's legal name (legal in eir
+country of residence) is not necessarily an acceptable way to refer to
+em.]
+
+[CFJ 1782 (called 4 November 2007): Referring to a player by the name
+of an office that e holds suffices to identify em uniquely as a
+person, if there is no doubt regarding who holds that office.]
+
+[CFJ 1460 (called 4 April 2003): Extremely complex synonyms, requiring
+extensive effort to interpret correctly, can constitute a sufficient
+degree of unclarity as to render the message ineffective.]
+
+[CFJ 1840 (called 20 December 2007): A proper noun that has not been
+explicitly defined does not adequately refer to any entity, and is not
+implicitly defined by the context in which it is used.]
+
+[CFJ 1580 (called 12 January 2006): Base64 encoding of (part of) a
+message, other than in the context of MIME with appropriate headers,
+can render a message ineffective for unclarity, because the decoding
+step requires unreasonable effort within the meaning of CFJ 1460.]
+
+[CFJ 1741 (called 11 September 2007): HTML encoding (including
+numerical character entity encoding) does not render a message
+ineffective for unclarity if a suitable MIME type is indicated by a
+header.]
+
+[CFJ 1741 (called 11 September 2007): An email message does not need
+the RFC-required "MIME-Version:" header in order for it to be
+interpreted in the MIME way.]
+
+[CFJ 1536 (called 13 March 2005): The phrase "AOL!" is not a
+sufficiently clear synonym for "Me too!".]
+
+[CFJ 1770 (called 23 October 2007): A contract can redefine a
+rule-defined term in its own way, and the contract's definition will
+then apply in situations governed by the contract.]
+
+[CFJ 1885 (called 26 January 2008): A word or phrase can acquire a
+meaning by custom, provided that it is a reasonable meaning and does
+not unreasonably change the meaning of phrases that already have a
+meaning.]
+
+[CFJ 1831 (called 10 December 2007): Mentioning a URI, without
+surrounding text stating its significance, does not incorporate
+anything identified by that URI into the message that mentions the
+URI.]
+
+[CFJ 1831 (called 10 December 2007): Character sequences within a URI
+by default have no significance other than their functional role as
+part of the URI.]
+
+[CFJ 2258 (called 6 November 2008): Changes in whitespace are also
+inconsequential.]
 
 [CFJ 1139: Interpretations [judgements at the time of CFJ 1139] need
 not necessarily accord with the reasoning and arguments of Judges or
@@ -752,6 +831,7 @@ Power changed from 1 to 3 by Proposal 4867 (Goethe), 27 August 2006
 Amended(5) by Proposal 4867 (Goethe), 27 August 2006
 Retitled by Proposal 5105 (Zefram), 1 August 2007
 Amended(6) by Proposal 5105 (Zefram), 1 August 2007
+Amended(7) by Proposal 7351 (G., ais523, Machiavelli), 27 March 2013
 
 ----------------------------------------------------------------------
 
@@ -2036,116 +2116,6 @@ Definitions
       A category of definitions of terms and procedures that are
       widely used and do not readily fall into any other category.
 ----------------------------------------------------------------------
-
-Rule 754/15 (Power=3)
-Definition Definitions
-
-      Regularity of communication being essential for the healthy
-      function of any nomic, it is hereby resolved:
-
-      (1) A difference in spelling, grammar, capitalization, or
-          dialect, or the use of a synonym or abbreviation in place of
-          a word or phrase is inconsequential in all forms of
-          communication, as long as the difference does not create an
-          ambiguity in meaning, except for the purpose of reporting on
-          or quoting the text of a legal document.  A difference
-          between two nonempty spans of whitespace is inconsequential
-          in all forms of communication for all purposes.
-
-      (2) A term explicitly defined by the Rules, along with its
-          ordinary-language synonym not explicitly defined by the
-          rules, by default has that meaning when used in any Rule of
-          equal or lesser power, as well as any Rule of greater power
-          that is clearly intended to comply with that meaning.
-
-          The following clauses, where X and Y are both nouns or noun
-          phrases, mean "X is/are defined as Y" unless they obviously
-          have a different meaning:
-
-            a) "X is/are Y"
-            b) "Y is/are known as X"
-
-      (3) Any term primarily used in mathematical or legal contexts,
-          and not addressed by previous provisions of this Rule, by
-          default has the meaning it has in those contexts.
-
-      (4) Any term not addressed by previous provisions of this Rule
-          by default has its ordinary-language meaning.
-
-      In determining the ordinary-language meaning of a term,
-      definitions contained in lower-powered Rules, are relevant and
-      may provide guidance in helping to determine the meaning of a
-      rule, but are not binding (especially if they differ greatly
-      from the definitions that would be used otherwise).
-
-      This rule takes precedence over any other rules which dictate
-      terminology or grammar.
-
-[CFJ 1439 (called 20 February 2003): A difference in language
-qualifies as a difference in dialect; it is possible to take game
-actions by messages in languages other than English.]
-
-[CFJ 1460 (called 4 April 2003): If a message is in a language other
-than English, and its intended audience does not understand the
-language, this constitutes gross unclarity that makes the message
-ineffective.]
-
-[CFJ 712: Referring to a Player by a method other than eir name or
-nickname is acceptable, as long as it is unambiguous.]
-
-[CFJ 1861 (called 8 January 2008): A player's legal name (legal in eir
-country of residence) is not necessarily an acceptable way to refer to
-em.]
-
-[CFJ 1782 (called 4 November 2007): Referring to a player by the name
-of an office that e holds suffices to identify em uniquely as a
-person, if there is no doubt regarding who holds that office.]
-
-[CFJ 1460 (called 4 April 2003): Extremely complex synonyms, requiring
-extensive effort to interpret correctly, can constitute a sufficient
-degree of unclarity as to render the message ineffective.]
-
-[CFJ 1840 (called 20 December 2007): A proper noun that has not been
-explicitly defined does not adequately refer to any entity, and is not
-implicitly defined by the context in which it is used.]
-
-[CFJ 1580 (called 12 January 2006): Base64 encoding of (part of) a
-message, other than in the context of MIME with appropriate headers,
-can render a message ineffective for unclarity, because the decoding
-step requires unreasonable effort within the meaning of CFJ 1460.]
-
-[CFJ 1741 (called 11 September 2007): HTML encoding (including
-numerical character entity encoding) does not render a message
-ineffective for unclarity if a suitable MIME type is indicated by a
-header.]
-
-[CFJ 1741 (called 11 September 2007): An email message does not need
-the RFC-required "MIME-Version:" header in order for it to be
-interpreted in the MIME way.]
-
-[CFJ 1536 (called 13 March 2005): The phrase "AOL!" is not a
-sufficiently clear synonym for "Me too!".]
-
-[CFJ 1770 (called 23 October 2007): A contract can redefine a
-rule-defined term in its own way, and the contract's definition will
-then apply in situations governed by the contract.]
-
-[CFJ 1885 (called 26 January 2008): A word or phrase can acquire a
-meaning by custom, provided that it is a reasonable meaning and does
-not unreasonably change the meaning of phrases that already have a
-meaning.]
-
-[CFJ 1831 (called 10 December 2007): Mentioning a URI, without
-surrounding text stating its significance, does not incorporate
-anything identified by that URI into the message that mentions the
-URI.]
-
-[CFJ 1831 (called 10 December 2007): Character sequences within a URI
-by default have no significance other than their functional role as
-part of the URI.]
-
-[CFJ 2258 (called 6 November 2008): Changes in whitespace are also
-inconsequential.]
 
 History:
 Created by Proposal 435 (Alexx), Aug. 30 1993
