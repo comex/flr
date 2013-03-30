@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 30 March 2013
 
-Last proposal with recorded effect on this ruleset: 7336
-Last change to this ruleset: by Proposal 7336
+Last proposal with recorded effect on this ruleset: 7340
+Last change to this ruleset: by Proposal 7340
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -21,11 +21,11 @@ Power distribution:
        1 with Power=3.2
        1 with Power=3.1
       41 with Power=3
-      29 with Power=2
+      27 with Power=2
        9 with Power=1.7
        3 with Power=1.5
        1 with Power=1.1
-      31 with Power=1
+      29 with Power=1
        1 with Power=0.5
 
 ----------------------------------------------------------------------
@@ -41,9 +41,6 @@ Index of Rules
       Rule 2140: Power Controls Mutability
       Rule  104: First Speaker
       Rule  103: The Speaker
-      Rule 2339: Intention
-      Rule 2359: The Power Of Agora
-      Rule 2351: Agora, Adult
       Rule 2357: Wisdom of the Elders
       Rule 2358: Win by Paradox
 
@@ -139,7 +136,6 @@ Index of Rules
       Rule 1950: Decisions with Adoption Indices
       Rule 2137: The Assessor
       Rule 1698: Agora Is A Nomic
-      Rule 2366: Veto and Rubberstamp
       Rule 2381: Win by Clout
 
       * Adjudication
@@ -587,18 +583,10 @@ Mutated from MI=Unanimity to MI=3 by Proposal 1482, Mar. 15 1995
 
 ----------------------------------------------------------------------
 
-Rule 103/12 (Power=2)
+Rule 103/13 (Power=2)
 The Speaker
 
-      The Speaker is an imposed office and a figurehead of Agora. The
-      Speaker is a person who has proven themselves to be worthy of
-      the title, and for a time can direct Agoran government affairs.
-
-      The office of the Speaker is vacant.
-
-[Cross-references (10 July 2009): the Speaker's duties are:
-  * figurehead (Rule 103)
-  * bestow favors (Rule 103)]
+      Agora has no Speaker.  Agora needs no Speaker.  
 
 History:
 Initial Immutable Rule 103, Jun. 30 1993
@@ -621,46 +609,7 @@ Amended(9) by Proposal 7006 (Walker), 20 April 2011
 Amended(10) by Proposal 7084 (omd), 23 July 2011
 Amended(11) by Proposal 7323 (Machiavelli), 11 January 2013
 Amended(12) by Proposal 7336 (woggle), 27 March 2013
-
-----------------------------------------------------------------------
-
-Rule 2339/1 (Power=1)
-Intention
-
-      Agora Nomic is intended to be a person.
-
-      When Agora Nomic is a person, any player CAN cause em to take
-      actions without objection or with Agoran Consent.
-
-History:
-Created by Proposal 7021 (Walker), 5 May 2011
-Amended(1) by Proposal 7112 (Walker), 20 August 2011
-
-----------------------------------------------------------------------
-
-Rule 2359/0 (Power=1)
-The Power Of Agora
-
-      If Agora is a person, Agora has power equal to the power of this
-      rule.
-
-History:
-Created by Proposal 7160 (441344), 5 February 2012
-
-----------------------------------------------------------------------
-
-Rule 2351/1 (Power=3)
-Agora, Adult
-
-      Agora can make its own decisions. If, at any time, Agora wishes
-      to counteract a decision, then that decision, rules to the
-      contrary notwithstanding, has no effect. The game of Agora, but
-      not any other player of it, can make arbitrary changes to the
-      gamestate.
-
-History:
-Created by Proposal 7095 (Yally), 23 July 2011
-Amended(1) by Proposal 7128 (scshunt), 6 November 2011
+Amended(13) by Proposal 7340 (G.), 27 March 2013
 
 ----------------------------------------------------------------------
 
@@ -4529,22 +4478,6 @@ Retitled by Proposal 5536 (Murphy), 7 June 2008
 Amended(1) by Proposal 5536 (Murphy), 7 June 2008
 Amended(2) by Proposal 7075 (scshunt), 16 June 2011
 Amended(3) by Proposal 7088 (omd), 23 July 2011
-
-----------------------------------------------------------------------
-
-Rule 2366/0 (Power=2)
-Veto and Rubberstamp
-
-      The Speaker CAN Veto an Ordinary decision with AI <= 3 by
-      announcement; this sets its AI to 3.
-
-      The Speaker CAN Rubberstamp an Ordinary decision with AI <= 2 by
-      announcement; this sets its AI to 2, and among the
-      otherwise-valid votes on a decision that has been Rubberstamped,
-      only the first AGAINST vote per voter is valid.
-
-History:
-Created by Proposal 7217 (omd), 4 May 2012
 
 ----------------------------------------------------------------------
 
