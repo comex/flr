@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 30 March 2013
 
-Last proposal with recorded effect on this ruleset: 7352
-Last change to this ruleset: by Proposal 7352
+Last proposal with recorded effect on this ruleset: 7353
+Last change to this ruleset: by Proposal 7353
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -2092,8 +2092,9 @@ Ribbons
       (+T) If a player does not possess the Patent Title Renascent, e
            CAN earn a Transparent Ribbon by announcement. 
 
-      (+U) When a player is awarded the Patent Title Champion, e earns
-           an Ultraviolet Ribbon.
+      (+U) When a player is awarded the Patent Title Champion, if e
+           does not possess the Patent Title Renascent, e earns an
+           Ultraviolet Ribbon.
 
       (+V) When a player is awarded a Patent Title other than
            Renascent, e earns a Violet Ribbon, unless e earns a
@@ -2109,6 +2110,7 @@ Created by Proposal 7326 (Machiavelli), 11 Jaunuary 2013.
 Amended(1) by Proposal 7349 (G.), 11 March 2013.
 Amended(2) by Proposal 7335 (Machiavelli), 27 March 2013.
 Amended(3) by Proposal 7352 (Machiavelli), 27 March 2013.
+Amended(4) by Proposal 7353 (Machiavelli), 27 March 2013.
 
 ----------------------------------------------------------------------
 
