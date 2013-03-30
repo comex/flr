@@ -14,18 +14,18 @@ Highest Rule ID number ever assigned: 2390
 
 Statistics
 
-Current total number of rules: 120
+Current total number of rules: 114
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
        1 with Power=3.1
-      40 with Power=3
-      27 with Power=2
+      39 with Power=3
+      30 with Power=2
        9 with Power=1.7
        3 with Power=1.5
        1 with Power=1.1
-      29 with Power=1
+      28 with Power=1
        1 with Power=0.5
 
 ----------------------------------------------------------------------
@@ -85,7 +85,6 @@ Index of Rules
       Rule 2387: Ribbons
 
       * Definitions
-      Rule  754: Definition Definitions
       Rule 2152: Mother, May I?
       Rule 1023: Common Definitions
       Rule 2347: Speed
@@ -587,7 +586,7 @@ Mutated from MI=Unanimity to MI=3 by Proposal 1482, Mar. 15 1995
 Rule 103/13 (Power=2)
 The Speaker
 
-      Agora has no Speaker.  Agora needs no Speaker.  
+      Agora has no Speaker.  Agora needs no Speaker.
 
 History:
 Initial Immutable Rule 103, Jun. 30 1993
@@ -2028,7 +2027,7 @@ Amended(1) by Proposal 7329 (Machiavelli), 9 February 2013
 
 ----------------------------------------------------------------------
 
-Rule 2387/3 (Power=1)
+Rule 2387/4 (Power=1)
 Ribbons
 
       Ribbons are a class of fixed assets.  If winning is secured,
@@ -2090,7 +2089,7 @@ Ribbons
            Red Ribbon.
 
       (+T) If a player does not possess the Patent Title Renascent, e
-           CAN earn a Transparent Ribbon by announcement. 
+           CAN earn a Transparent Ribbon by announcement.
 
       (+U) When a player is awarded the Patent Title Champion, if e
            does not possess the Patent Title Renascent, e earns an
@@ -4271,7 +4270,7 @@ Ordinary Chamber
       Whenever a person's VVLOP becomes 12 or greater, or the total
       VVLOP of all second-class players is greater than the total
       VVLOP of all first-class players, all VVLOPs are set to their
-      default values, and all VCs are destroyed. 
+      default values, and all VCs are destroyed.
 
 Created by Proposal 7348 (Machiavelli, Bucky, BuckyBot), 27 March 2013
 
@@ -5453,8 +5452,8 @@ Court Protector
       submit it to the Clerk of the Courts.
 
       If the Clerk of the Courts ever holds the office of
-      Ambassador-At- Large, then, rules to the contrary
-      notwithstanding, the Ambassador- At-Large becomes Assumed. 
+      Ambassador-At-Large, then, rules to the contrary
+      notwithstanding, the Ambassador- At-Large becomes Assumed.
 
 History:
 Created by Proposal 7279 (FKA441344), 14 August 2012
