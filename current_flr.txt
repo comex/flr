@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 30 March 2013
 
-Last proposal with recorded effect on this ruleset: 7335
-Last change to this ruleset: by Proposal 7335
+Last proposal with recorded effect on this ruleset: 7336
+Last change to this ruleset: by Proposal 7336
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -21,11 +21,11 @@ Power distribution:
        1 with Power=3.2
        1 with Power=3.1
       41 with Power=3
-      31 with Power=2
+      29 with Power=2
        9 with Power=1.7
        3 with Power=1.5
        1 with Power=1.1
-      32 with Power=1
+      31 with Power=1
        1 with Power=0.5
 
 ----------------------------------------------------------------------
@@ -83,9 +83,6 @@ Index of Rules
       Rule 2354: Costs
       Rule 2360: Golems
       Rule 2361: Slave Golems
-      Rule 2362: Rubles
-      Rule 2363: Poll Fees
-      Rule 2364: Ballot Fees
       Rule 2376: Props
       Rule 2385: Trading Cards
       Rule 2387: Ribbons
@@ -590,18 +587,14 @@ Mutated from MI=Unanimity to MI=3 by Proposal 1482, Mar. 15 1995
 
 ----------------------------------------------------------------------
 
-Rule 103/11 (Power=2)
+Rule 103/12 (Power=2)
 The Speaker
 
       The Speaker is an imposed office and a figurehead of Agora. The
       Speaker is a person who has proven themselves to be worthy of
       the title, and for a time can direct Agoran government affairs.
 
-      Each player has a Speaker Account.  The office of Speaker is
-      held by the single player whose Speaker Account owns more rubles
-      than any other, or is vacant if there is no such player.  At the
-      start of each week, each Speaker Account which owns at least as
-      many rubles as any other loses one ruble (if it has any).
+      The office of the Speaker is vacant.
 
 [Cross-references (10 July 2009): the Speaker's duties are:
   * figurehead (Rule 103)
@@ -627,6 +620,7 @@ Amended(8) by Proposal 6961 (G.), 3 March 2011
 Amended(9) by Proposal 7006 (Walker), 20 April 2011
 Amended(10) by Proposal 7084 (omd), 23 July 2011
 Amended(11) by Proposal 7323 (Machiavelli), 11 January 2013
+Amended(12) by Proposal 7336 (woggle), 27 March 2013
 
 ----------------------------------------------------------------------
 
@@ -1940,59 +1934,6 @@ History:
 Created by Proposal 7171 (441344), 16 February 2012
 Amended(1) by Proposal 7260 (Murphy, Bucky), 7 July 2012
 Amended(2) by Proposal 7324 (Machiavelli), 11 January 2013
-
-----------------------------------------------------------------------
-
-Rule 2362/6 (Power=1)
-Rubles
-
-      Rubles are a currency.  The General Secretary is an office, and
-      the recordkeepor of rubles.
-
-      At the start of each week, half of each person's rubles (rounded
-      up to the nearest integer) are destroyed, then two rubles are
-      created in the possession of each first-class player.
-
-      At the start of each month (after weekly destruction, if it
-      coincides with the start of a week), each player gains a ruble
-      for each Postulated office e holds, and  each active first-class
-      player whose Posture has not been supine or leaning at any time
-      during the past month gains a ruble.
-
-History:
-Created by Proposal 7179 (Murphy), 26 February 2012
-Amended(1) by Proposal 7211 (441344), 4 May 2012
-Amended(2) by Proposal 7215 (omd), 4 May 2012
-Amended(3) by Proposal 7215 (omd), 4 May 2012
-Amended(4) by Proposal 7230 (omd), 10 June 2012
-Amended(5) by Proposal 7280 (FKA441344), 14 August 2012
-Amended(6) by Proposal 7282 (FKA441344), 23 August 2012
-
-----------------------------------------------------------------------
-
-Rule 2363/0 (Power=1)
-Poll Fees
-
-      A player CAN initiate an election for a specified elected office
-      for which no election is already in progress for a cost of 1
-      ruble.
-
-History:
-Created by Proposal 7179 (Murphy), 26 February 2012
-
-----------------------------------------------------------------------
-
-Rule 2364/1 (Power=2)
-Ballot Fees
-
-      A player CAN change eir voting limit on a specified Agoran
-      decision to twice its value at the start of that decision's
-      voting period for a cost of 1 ruble.
-
-History:
-Created by Proposal 7179 (Murphy), 26 February 2012
-Amended(1) by Proposal 7182 (Murphy, Machiavelli), 26 February 2012
-Power changed from 1 to 2 by Proposal 7220 (omd, Murphy), 10 June 2012
 
 ----------------------------------------------------------------------
 
