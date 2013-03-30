@@ -705,6 +705,7 @@ Amended(1) by Proposal 7164 (Murphy, Arkady), 16 February 2012
 Amended(2) by Proposal 7167 (441344), 16 February 2012
 Amended(3) by Proposal 7218 (BuckyBot, Bucky), 10 June 2012
 Amended(4) by Proposal 7303 (FKA441344), 27 September 2012
+Power changed from 2 to 3 by Proposal 7345, 27 March 2013
 Amended(5) by Proposal 7345 (woggle), 27 March 2013
 
 ----------------------------------------------------------------------
@@ -5551,34 +5552,27 @@ Amended(30) by Proposal 7287 (G.), 9 September 2012
 
 ----------------------------------------------------------------------
 
-Rule 2378/1 (Power=2)
-The Justiciar
+Rule 2378/2 (Power=2)
+Court Protector
 
-      The Justiciar is an office; its holder is responsible for hot
-      and cold running justice.
+      A CFJ may be submitted to the Ambassador-At-Large.  For such a
+      CFJ, the Ambassador-At-Large shall perform all duties and
+      fulfill all roles that would otherwise be assigned to the Clerk
+      of the Courts.  This takes precedence over Rules that would
+      otherwise assign duties and roles regarding a CFJ to the Clerk
+      of the Courts.  All persons are encouraged to submit a CFJ to
+      the Ambassador-At-Large only when there is a good reason not to
+      submit it to the Clerk of the Courts.
 
-      Rules to the contrary notwithstanding, the Clerk of the Courts
-      CANNOT assume or be nominated for the office of Justiciar, and
-      the Justiciar CANNOT assume or be nominated for the office of
-      Clerk of the Courts.
-
-      A CFJ may be submitted to the Justiciar.  For such a CFJ, the
-      Justiciar shall perform all duties and fulfill all roles that
-      would otherwise be assigned to the Clerk of the Courts. This
-      takes precedence over Rules that would otherwise assign duties
-      and roles regarding a CFJ to the Clerk of the Courts.
-
-      All persons are encouraged to submit a CFJ to the Justiciar only
-      when there is a good reason not to submit it to the Clerk of the
-      Courts.
-
-      If the Justiciar's Posture is neither Standing nor Sitting, then
-      it is flipped to Sitting.
+      If the Clerk of the Courts ever holds the office of
+      Ambassador-At- Large, then, rules to the contrary
+      notwithstanding, the Ambassador- At-Large becomes Assumed. 
 
 History:
 Created by Proposal 7279 (FKA441344), 14 August 2012
 Power changed from 1.5 to 2 by Proposal 7287 (G.), 9 September 2012
 Amended(1) by Proposal 7287 (G.), 9 September 2012
+Amended(2) by Porposal 7347 (G.), 27 March 2013.
 
 ----------------------------------------------------------------------
 
