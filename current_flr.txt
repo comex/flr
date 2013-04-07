@@ -3949,7 +3949,7 @@ Amended(28) by Proposal 7317 (omd), 16 October 2012
 
 ----------------------------------------------------------------------
 
-Rule 2034/6 (Power=3)
+Rule 2034/7 (Power=3)
 Vote Protection and Cutoff for Challenges
 
       Any proposal that would otherwise change the validity of any
