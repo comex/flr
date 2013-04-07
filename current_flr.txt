@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last updated: 30 March 2013
+Last updated: 7 April 2013
 
-Last proposal with recorded effect on this ruleset: 7353
-Last change to this ruleset: by Proposal 7353
+Last proposal with recorded effect on this ruleset: 7355
+Last change to this ruleset: by Proposal 7355
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -3963,7 +3963,7 @@ Vote Protection and Cutoff for Challenges
       changed in any way, rules to the contrary notwithstanding.  This
       does not prevent correcting errors in reporting its resolution.
 
-      A public document purporting to resolve an Agoran decision
+      A public message purporting to resolve an Agoran decision
       constitutes self-ratifying claims that
 
        a) such a decision existed,
@@ -3979,6 +3979,7 @@ Amended(3) by Proposal 5212 (Murphy), 8 September 2007
 Amended(4) by Proposal 5275 (Murphy), 7 November 2007
 Amended(5) by Proposal 6139 (Murphy), 15 March 2009
 Amended(6) by Proposal 6180 (Murphy; disi.), 7 April 2009
+Amended(7) by Proposal 7355 (ais523), 7 April 2013
 
 ----------------------------------------------------------------------
 
