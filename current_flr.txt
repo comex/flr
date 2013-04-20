@@ -2,13 +2,13 @@ THE FULL LOGICAL RULESET
 
 Last updated: 20 April 2013
 
-Last proposal with recorded effect on this ruleset: 7358
-Last change to this ruleset: by Proposal 7358
+Last proposal with recorded effect on this ruleset: 7361
+Last change to this ruleset: by Proposal 7361
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
 
-Highest Rule ID number ever assigned: 2390
+Highest Rule ID number ever assigned: 2393
 
 ----------------------------------------------------------------------
 
@@ -74,6 +74,7 @@ Index of Rules
       * Economy
       Rule 2166: Assets
       Rule 2343: Victory Conditions
+      Rule 2393: Auctions
       Rule 2337: Promises
       Rule 2338: Cashing Promises
       Rule 2356: Naughtiness
@@ -1797,6 +1798,66 @@ Amended(4) by Proposal 7139 (omd), 19 November 2011
 Amended(5) by Proposal 7146 (omd), 25 January 2012
 Amended(6) by Proposal 7147 (Murphy), 25 January 2012
 Amended(7) by Proposal 7148 (Murphy), 25 January 2012
+
+----------------------------------------------------------------------
+
+Rule 2393/0 (Power=2)
+Auctions
+
+      An Auction begins when the first announcement that an Auction
+      has begun is made by a Player (the Auctioneer) authorized by the
+      Rules to initiate that Auction.  The announcement must contain:
+      (1) the identity of the Auctioneer;
+      (2) the Auction Currency;
+      (3) the Starting Bid, in positive whole units of the Auction
+          Currency;
+      (4) the identity and the number of items being Auctioned;
+      (5) the Seller, if any.
+
+      Each Auction is conducted for 1 or more (N) identical lots of
+      identical assets, which must all be owned by the same entity.
+
+      While an auction is in progress, every active first-class Player
+      CAN submit as many Auction Bids as e likes by announcement;
+      non-active Players CANNOT submit bids.  An auction bid must
+      specify the auction, and the amount of the bid, which must be
+      (a) in positive whole units of the auction currency and (b) be
+      equal to or greater than the Starting Bid.  A bidder may cancel
+      eir bid while the auction is in progress by announcing the bid
+      to be cancelled.
+
+      The Auction ends if any of the following occur:
+      (1) one week has passed from the start of the Auction, and
+          no bids have been made; or
+      (2) a bid has been made in the Auction, and 72 hours have
+          passed without there being a change in the N highest
+          bids in the Auction; or
+      (3) 14 days have passed since the Auction began.
+
+      When the Auction ends, the winning bids are the N largest
+      uncancelled valid bids in the Auction (or all valid uncancelled
+      Bids, if there were less than N valid uncancelled bids). Ties
+      shall be broken in favor of earlier-submitted bids. If there
+      were no bids in the Auction, then the Auction has no winner.
+
+      The Final Auction Price is either:
+      (1) the amount of the Nth highest bid, if there were N or
+          more valid uncancelled bids in the auction; or
+      (2) The Starting Bid, if there were greater
+          than zero but fewer than N valid uncancelled bids.
+
+      As soon as possible after the end of the Auction, the Auctioneer
+      SHALL announce the winning bids and Final Auction Price.  As
+      soon as possible after such an announcement, each bid winner,
+      for each of eir winning bids, CAN and SHALL transfer one of the
+      lots from its owner to emself by paying a cost equal to the Final
+      Auction Price.  If the auction has a Seller, the recipient entity
+      for the cost is the Seller.  Failing to pay costs in a timely
+      manner is the Class 2 Crime of Defaulting, and a Defaulter in an
+      auction CANNOT so transfer the lot from that auction to emself. 
+
+History:
+Created by Proposal 7361 (G.), 14 April 2013.
 
 ----------------------------------------------------------------------
 
