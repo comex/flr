@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 20 April 2013
 
-Last proposal with recorded effect on this ruleset: 7356
-Last change to this ruleset: by Proposal 7356
+Last proposal with recorded effect on this ruleset: 7357
+Last change to this ruleset: by Proposal 7357
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -82,6 +82,7 @@ Index of Rules
       Rule 2361: Slave Golems
       Rule 2376: Props
       Rule 2385: Trading Cards
+      Rule 2391: Controlling Interest
       Rule 2387: Ribbons
 
       * Definitions
@@ -2024,6 +2025,19 @@ Trading Cards
 History:
 Created by Proposal 7319 (G., Machiavelli), 23 December 2012
 Amended(1) by Proposal 7329 (Machiavelli), 9 February 2013
+
+----------------------------------------------------------------------
+
+Rule 2391/0 (Power=3)
+Controlling Interest 
+
+       If a first-class player (hereafter the Shareholder) holds
+       the majority of existing trading cards that have a single,
+       other first-class player as their Subject, then that
+       Shareholder holds a Controlling Interest in that Subject.
+
+History:
+Created by Proposal 7357 (G.), 14 April 2013.
 
 ----------------------------------------------------------------------
 
