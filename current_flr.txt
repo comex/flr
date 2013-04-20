@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last updated: 7 April 2013
+Last updated: 20 April 2013
 
-Last proposal with recorded effect on this ruleset: 7355
-Last change to this ruleset: by Proposal 7355
+Last proposal with recorded effect on this ruleset: 7356
+Last change to this ruleset: by Proposal 7356
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -5351,7 +5351,7 @@ Amended(19) by Proposal 7321 (Murphy, scshunt), 23 December 2012
 
 ----------------------------------------------------------------------
 
-Rule 1871/30 (Power=1.5)
+Rule 1871/31 (Power=1.5)
 The Standing Court
 
       Posture is a player switch, tracked by the Clerk of the Courts,
@@ -5391,10 +5391,9 @@ The Standing Court
       that player's posture to supine by announcement in a timely
       fashion.
 
-      Initial Posture is an Agora Nomic switch, tracked by the
-      Justiciar in eir monthly report, with the same values as Posture
-      and a default value of Supine.  The Justiciar CAN flip Initial
-      Posture with Support.
+      Initial Posture is an Agora Nomic switch, tracked by the CotC in
+      eir report, with the same values as Posture and a default value
+      of Supine.  The Justiciar CAN flip Initial Posture with Support.
 
 [CFJ 1765 (called 16 October 2007): When the CotC is obliged to change
 a player's posture due to recusal, this rule makes em capable of doing
@@ -5439,6 +5438,7 @@ Amended(27) by Proposal 6483 (Pavitra), 18 September 2009
 Amended(28) by Proposal 6967 (Wooble), 20 March 2011
 Amended(29) by Proposal 7279 (FKA441344), 14 August 2012
 Amended(30) by Proposal 7287 (G.), 9 September 2012
+Amended(31) by Proposal 7356 (G.), 14 April 2013
 
 ----------------------------------------------------------------------
 
