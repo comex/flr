@@ -14,18 +14,18 @@ Highest Rule ID number ever assigned: 2393
 
 Statistics
 
-Current total number of rules: 114
+Current total number of rules: 116
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
        1 with Power=3.1
-      39 with Power=3
+      40 with Power=3
       30 with Power=2
        9 with Power=1.7
        3 with Power=1.5
        1 with Power=1.1
-      28 with Power=1
+      29 with Power=1
        1 with Power=0.5
 
 ----------------------------------------------------------------------
@@ -1849,11 +1849,12 @@ Auctions
       SHALL announce the winning bids and Final Auction Price.  As
       soon as possible after such an announcement, each bid winner,
       for each of eir winning bids, CAN and SHALL transfer one of the
-      lots from its owner to emself by paying a cost equal to the Final
-      Auction Price.  If the auction has a Seller, the recipient entity
-      for the cost is the Seller.  Failing to pay costs in a timely
-      manner is the Class 2 Crime of Defaulting, and a Defaulter in an
-      auction CANNOT so transfer the lot from that auction to emself. 
+      lots from its owner to emself by paying a cost equal to the
+      Final Auction Price.  If the auction has a Seller, the recipient
+      entity for the cost is the Seller.  Failing to pay costs in a
+      timely manner is the Class 2 Crime of Defaulting, and a
+      Defaulter in an auction CANNOT so transfer the lot from that
+      auction to emself.
 
 History:
 Created by Proposal 7361 (G.), 14 April 2013.
@@ -2090,7 +2091,7 @@ Amended(1) by Proposal 7329 (Machiavelli), 9 February 2013
 ----------------------------------------------------------------------
 
 Rule 2391/0 (Power=3)
-Controlling Interest 
+Controlling Interest
 
        If a first-class player (hereafter the Shareholder) holds
        the majority of existing trading cards that have a single,
