@@ -585,10 +585,15 @@ Mutated from MI=Unanimity to MI=3 by Proposal 1482, Mar. 15 1995
 
 ----------------------------------------------------------------------
 
-Rule 103/13 (Power=2)
+Rule 103/14 (Power=2)
 The Speaker
 
-      Agora has no Speaker.  Agora needs no Speaker.
+       Whenever a person Wins the Game, e CAN, in a timely fashion,
+       award emself the Patent Title Pope.
+ 
+       Speaker is an imposed office.  Any Pope CAN, by announcement,
+       take the office of Speaker; this causes the Patent Title Pope to
+       be revoked from em.
 
 History:
 Initial Immutable Rule 103, Jun. 30 1993
@@ -612,6 +617,7 @@ Amended(10) by Proposal 7084 (omd), 23 July 2011
 Amended(11) by Proposal 7323 (Machiavelli), 11 January 2013
 Amended(12) by Proposal 7336 (woggle), 27 March 2013
 Amended(13) by Proposal 7340 (G.), 27 March 2013
+Amended(14) by Proposal 7375 (G.), 20 April 2013
 
 ----------------------------------------------------------------------
 
