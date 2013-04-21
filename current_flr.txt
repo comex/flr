@@ -2015,6 +2015,7 @@ Golems
 History:
 Created by Proposal 7171 (441344), 16 February 2012
 Amended(1) by Proposal 7224 (omd, BuckyBot, Bucky), 10 June 2012
+Repealed by Proposal 7386 (scshunt), 20 April 2013
 
 ----------------------------------------------------------------------
 
@@ -2033,6 +2034,7 @@ History:
 Created by Proposal 7171 (441344), 16 February 2012
 Amended(1) by Proposal 7260 (Murphy, Bucky), 7 July 2012
 Amended(2) by Proposal 7324 (Machiavelli), 11 January 2013
+Repealed by Proposal 7386 (scshunt), 20 April 2013
 
 ----------------------------------------------------------------------
 
