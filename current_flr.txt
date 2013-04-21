@@ -21,7 +21,7 @@ Power distribution:
        1 with Power=3.2
        1 with Power=3.1
       40 with Power=3
-      27 with Power=2
+      26 with Power=2
        9 with Power=1.7
        3 with Power=1.5
        1 with Power=1.1
@@ -68,7 +68,6 @@ Index of Rules
       Rule 2368: Nomic Definitions
       Rule 2369: Foreign Relations
       Rule 2370: The Ambassador-At-Large
-      Rule 2371: Personhood and Playerhood of Nomics
       Rule 2372: Ambassadors Extraordinary And Plenipotentiary
 
       * Economy
@@ -1604,20 +1603,6 @@ Created by Proposal 7256 (441344, ais523, BobTHJ, Murphy, Pavitra,
 
 ----------------------------------------------------------------------
 
-Rule 2371/0 (Power=2)
-Personhood and Playerhood of Nomics
-
-      Nomics are second-class persons. Rules to the contrary
-      notwithstanding, Nomics with a Recognition of Sanctioned or
-      Hostile are not players, CANNOT be players, and are immediately
-      deregistered if they are players.
-
-History:
-Created by Proposal 7257 (441344), 7 July 2012
-Repealed by Proposal 7388 (scshunt), 20 April 2013
-
-----------------------------------------------------------------------
-
 Rule 2372/0 (Power=1)
 Ambassadors Extraordinary And Plenipotentiary
 
@@ -2031,6 +2016,7 @@ Props
 History:
 Created by Proposal 7277 (FKA441344), 14 Augut 2012
 Amended(1) by Proposal 7297 (scshunt), 9 September 2012
+Repealed by Proposal 7390 (scshunt), 20 April 2013
 
 ----------------------------------------------------------------------
 
@@ -4374,6 +4360,7 @@ Aerocratic Chamber
 
 History:
 Created by Proposal 7278 (FKA441344), 14 August 2012
+Repealed by Proposal 7390 (scshunt), 20 April 2013
 
 ----------------------------------------------------------------------
 
