@@ -2,13 +2,13 @@ THE FULL LOGICAL RULESET
 
 Last updated: 21 April 2013
 
-Last proposal with recorded effect on this ruleset: 7364
-Last change to this ruleset: by Proposal 7364
+Last proposal with recorded effect on this ruleset: 7368
+Last change to this ruleset: by Proposal 7368
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
 
-Highest Rule ID number ever assigned: 2393
+Highest Rule ID number ever assigned: 2394
 
 ----------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ Power distribution:
        1 with Power=3.2
        1 with Power=3.1
       40 with Power=3
-      30 with Power=2
+      29 with Power=2
        9 with Power=1.7
        3 with Power=1.5
        1 with Power=1.1
@@ -133,7 +133,6 @@ Index of Rules
       Rule 2373: Voting Chambers
       Rule 2390: Ordinary Chamber
       Rule 2374: Democratization
-      Rule 2375: Plutocratic Chamber
       Rule 2377: Aerocratic Chamber
       Rule 1950: Decisions with Adoption Indices
       Rule 2137: The Assessor
@@ -160,6 +159,7 @@ Index of Rules
       Rule 2164: Judicial Self-Recusal and Case Transfer
       Rule 2212: Judicial Declarations
       Rule 2367: Messy Statements
+      Rule 2394: Crime by Proxy
 
       * Patent Titles and Degrees
       Rule  649: Patent Titles
@@ -1537,13 +1537,14 @@ Created by Proposal 7256 (441344, ais523, BobTHJ, Murphy, Pavitra,
 
 ----------------------------------------------------------------------
 
-Rule 2369/2 (Power=1)
+Rule 2369/3 (Power=1)
 Foreign Relations
 
       Recognition is a foreign nomic switch, tracked by the
       Ambassador-At-Large, with values Unknown (default), Protected,
       Friendly, Neutral, Sanctioned, Hostile, and Abandoned. Players
       SHOULD not violate the rules of Protected or Friendly nomics.
+      Recognition is part of the Ambassador-At-Large's monthly report. 
 
       When a non-Unknown foreign nomic becomes a Protectorate, it's
       recognition becomes Protected.  When a foreign nomic ceases to
@@ -1567,6 +1568,7 @@ Created by Proposal 7256 (441344, ais523, BobTHJ, Murphy, Pavitra,
   Tiger, woggle, Yally, Zefram), 7 July 2012
 Amended(1) by Proposal 7258 (441344), 7 July 2012
 Amended(2) by Proposal 7273 (FKA441344), 14 August 2012
+Amended(3) by Proposal 7372 (G.), 20 April 2013
 
 ----------------------------------------------------------------------
 
@@ -4391,20 +4393,6 @@ Retitled and amended(2) by Proposal 7316 (omd), 16 October 2012
 
 ----------------------------------------------------------------------
 
-Rule 2375/0 (Power=2)
-Plutocratic Chamber
-
-      Plutocratic is a Voting Chamber. The default voting limit of an
-      entity on a Plutocratic Decision is zero. Any entity may spend a
-      Ruble to increase an entity's voting limit on a Plutocratic
-      Decision by 1.
-
-History:
-Created by Proposal 7276 (FKA441344), 14 August 2012
-Repealed by Proposal 7368 (Wes), 21 April 2013
-
-----------------------------------------------------------------------
-
 Rule 2377/0 (Power=2)
 Aerocratic Chamber
 
@@ -5605,6 +5593,18 @@ Messy Statements
 
 History:
 Created by Proposal 7249 (omd), 10 June 2012
+
+----------------------------------------------------------------------
+
+Rule 2394/0 (Power=1)
+Crime by Proxy
+
+       Being the Executor of a message in which another person commits
+       the Class-N Crime of X (for any values of N and X) is the
+       Class-N Crime of X By Proxy
+
+History:
+Created by Propoasl 7369 (BuckyBot, Bucky), 20 April 2013
 
 ----------------------------------------------------------------------
 
