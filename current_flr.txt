@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 21 April 2013
 
-Last proposal with recorded effect on this ruleset: 7391
-Last change to this ruleset: by Proposal 7391
+Last proposal with recorded effect on this ruleset: 7395
+Last change to this ruleset: by Proposal 7395
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -5485,7 +5485,7 @@ Amended(1) by Proposal 6923 (omd, G.; disi.), 2 January 2011
 
 ----------------------------------------------------------------------
 
-Rule 2367/0 (Power=3)
+Rule 2367/1 (Power=3)
 Messy Statements
 
       A statement is messy if its truth value cannot be evaluated in a
@@ -5493,10 +5493,11 @@ Messy Statements
       regress, such as (but not limited to) self-reference.
 
       For the purposes of the rules, messy statements are considered
-      inaccurate and incorrect regardless of their truth value.
+      nonsensical and meaningless regardless of their truth value.
 
 History:
 Created by Proposal 7249 (omd), 10 June 2012
+Amended(1) by Proposal 7395 (Machiavelli), 20 April 2013
 
 ----------------------------------------------------------------------
 
