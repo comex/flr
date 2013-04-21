@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 21 April 2013
 
-Last proposal with recorded effect on this ruleset: 7390
-Last change to this ruleset: by Proposal 7390
+Last proposal with recorded effect on this ruleset: 7391
+Last change to this ruleset: by Proposal 7391
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -2035,7 +2035,7 @@ Created by Proposal 7358 (G.), 14 April 2013.
 
 ----------------------------------------------------------------------
 
-Rule 2387/5 (Power=1)
+Rule 2387/6 (Power=1)
 Ribbons
 
       Ribbons are a class of fixed assets.  If winning is secured,
@@ -2059,9 +2059,9 @@ Ribbons
       capitalizing on this may be difficult):
 
       (+B) When a player assigns a judgement to a judicial question in
-           a judicial case other than a question on sentencing, e
-           earns a Blue Ribbon, unless e violated a requirement to
-           submit that judgment within a time limit.
+           a judicial case other than a criminal case, e earns a Blue
+           Ribbon, unless e violated a requirement to submit that
+           judgment within a time limit.
 
       (+C) When a player deputises for an office, e earns a Cyan
            Ribbon.
@@ -2074,10 +2074,10 @@ Ribbons
       (+I) When a player is awarded a degree, e earns an Indigo
            Ribbon.
 
-      (+K) When a player assigns a judgement to a judicial question in
-           an interested judicial case on sentencing, e earns a Black
-           Ribbon, unless e violated a requirement to submit that
-           judgment within a time limit.
+      (+K) When a player assigns a judgment of GUILTY with some
+           sentence to a judicial question., e earns a Black Ribbon,
+           unless e violated a requirement to submit that judgment
+           within a time limit.
 
       (+L) A player qualifies for a Lime Ribbon, if e was the
            co-author of at least three Proposals adopted in the
@@ -2091,17 +2091,17 @@ Ribbons
 
       (+P) The Speaker qualifies for a Platinum Ribbon.
 
-      (+R) When an interested proposal is adopted and results in a net
-           decrease in both the number of rules in the Ruleset and the
-           length (in characters) of the Ruleset, its proposer earns a
+      (+R) When an proposal is adopted and results in a net decrease
+           in both the number of rules in the Ruleset and the length
+           (in characters) of the Ruleset, its proposer earns a
            Red Ribbon.
 
       (+T) If a player does not possess the Patent Title Renascent, e
            CAN earn a Transparent Ribbon by announcement.
 
-      (+U) When a player is awarded the Patent Title Champion, if e
-           does not possess the Patent Title Renascent, e earns an
-           Ultraviolet Ribbon.
+      (+U) When a player is awarded the Patent Title Champion, if it
+           was for satisfying a Victory Condition other than
+           Renaissance, e earns an Ultraviolet Ribbon.
 
       (+V) When a player is awarded a Patent Title other than
            Renascent, e earns a Violet Ribbon, unless e earns a
@@ -2130,6 +2130,7 @@ Amended(2) by Proposal 7335 (Machiavelli), 27 March 2013.
 Amended(3) by Proposal 7352 (Machiavelli), 27 March 2013.
 Amended(4) by Proposal 7353 (Machiavelli), 27 March 2013.
 Amended(5) by Proposal 7364 (G.), 20 April 2013.
+Amended(6) by Proposal 7391 (scshunt), 20 April 2013.
 
 ----------------------------------------------------------------------
 
