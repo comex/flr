@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 21 April 2013
 
-Last proposal with recorded effect on this ruleset: 7380
-Last change to this ruleset: by Proposal 7380
+Last proposal with recorded effect on this ruleset: 7390
+Last change to this ruleset: by Proposal 7390
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -21,11 +21,11 @@ Power distribution:
        1 with Power=3.2
        1 with Power=3.1
       40 with Power=3
-      26 with Power=2
+      25 with Power=2
        9 with Power=1.7
        3 with Power=1.5
        1 with Power=1.1
-      28 with Power=1
+      27 with Power=1
        1 with Power=0.5
 
 ----------------------------------------------------------------------
@@ -78,7 +78,6 @@ Index of Rules
       Rule 2338: Cashing Promises
       Rule 2356: Naughtiness
       Rule 2354: Costs
-      Rule 2376: Props
       Rule 2385: Trading Cards
       Rule 2391: Controlling Interest
       Rule 2392: Proxy Victory
@@ -130,7 +129,6 @@ Index of Rules
       Rule 2373: Voting Chambers
       Rule 2390: Ordinary Chamber
       Rule 2374: Democratization
-      Rule 2377: Aerocratic Chamber
       Rule 1950: Decisions with Adoption Indices
       Rule 2137: The Assessor
       Rule 1698: Agora Is A Nomic
@@ -1982,41 +1980,6 @@ Costs
 
 History:
 Created by Proposal 7117 (omd), 20 August 2011
-
-----------------------------------------------------------------------
-
-Rule 2376/1 (Power=1)
-Props
-
-      Props are a currency.
-
-      The Air Traffic Controller is an office and the recordkeepor of
-      props.
-
-      Ownership of Props is restricted to first-class Players. Props
-      CANNOT be created, transferred, or destroyed except as allowed
-      by this rule or required by the rules in general.
-
-      When a first-class player registers, 14 props are created in eir
-      possession.  When a player deregisters, eir props are destroyed.
-
-      Once per week, each first-class player CAN transfer a prop from
-      one entity to another, provided that e explains why e chose each
-      entity, and does not transfer it to emself.
-
-      At the beginning of each month, one prop in the possession of
-      each entity possessing more than fourteen props is destroyed,
-      and one prop is created in the possession of each first-class
-      player possessing less than fourteen props.
-
-      Entities with at least 19 props are Pilots; the Pilot with the
-      most props (if any) is the Captain. Entities with less than 9
-      props are Marines.
-
-History:
-Created by Proposal 7277 (FKA441344), 14 Augut 2012
-Amended(1) by Proposal 7297 (scshunt), 9 September 2012
-Repealed by Proposal 7390 (scshunt), 20 April 2013
 
 ----------------------------------------------------------------------
 
@@ -4345,22 +4308,6 @@ History:
 Created by Proposal 7274 (FKA441344), 14 August 2012
 Amended(1) by Proposal 7296 (scshunt), 9 September 2012
 Retitled and amended(2) by Proposal 7316 (omd), 16 October 2012
-
-----------------------------------------------------------------------
-
-Rule 2377/0 (Power=2)
-Aerocratic Chamber
-
-      Aerocratic is a Voting Chamber. The voting limit of an entity on
-      an Aerocratic Decision is:
-      *If that entity is the Captain, 5
-      *otherwise, if that entity is a Pilot, 3
-      *otherwise, if that entity is not a Marine, 1
-      *otherwise, 0
-
-History:
-Created by Proposal 7278 (FKA441344), 14 August 2012
-Repealed by Proposal 7390 (scshunt), 20 April 2013
 
 ----------------------------------------------------------------------
 
