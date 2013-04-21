@@ -21,7 +21,7 @@ Power distribution:
        1 with Power=3.2
        1 with Power=3.1
       40 with Power=3
-      29 with Power=2
+      27 with Power=2
        9 with Power=1.7
        3 with Power=1.5
        1 with Power=1.1
@@ -79,8 +79,6 @@ Index of Rules
       Rule 2338: Cashing Promises
       Rule 2356: Naughtiness
       Rule 2354: Costs
-      Rule 2360: Golems
-      Rule 2361: Slave Golems
       Rule 2376: Props
       Rule 2385: Trading Cards
       Rule 2391: Controlling Interest
@@ -1998,43 +1996,6 @@ Costs
 
 History:
 Created by Proposal 7117 (omd), 20 August 2011
-
-----------------------------------------------------------------------
-
-Rule 2360/1 (Power=2)
-Golems
-
-      Golems are a class of second-class persons and a class of
-      assets. Golemkeepor is an elected Office. The Golemkeepor is the
-      recordkeepor for Golems. Causing a Golem to act is secured.  The
-      Golemkeepor CAN destroy any Golem Without Objection. A Golem is
-      eligible to Object to any such intent to destroy it. When a
-      Golem is destroyed, all entities in eir possession are
-      destroyed. When a Golem ceases to be a person, it is destroyed.
-
-History:
-Created by Proposal 7171 (441344), 16 February 2012
-Amended(1) by Proposal 7224 (omd, BuckyBot, Bucky), 10 June 2012
-Repealed by Proposal 7386 (scshunt), 20 April 2013
-
-----------------------------------------------------------------------
-
-Rule 2361/2 (Power=2)
-Slave Golems
-
-      Slave Golems are a class of Golems and a class of second-class
-      players.  Any player CAN create a Slave Golem in eir possession
-      by announcement, specifying its name. The owner of a Slave Golem
-      CAN publish messages on its behalf. For all N, causing a Slave
-      Golem to perform a Class-N Crime is the Class-N Crime of Not
-      Doing Your Own Dirty Work. When a Slave Golem ceases to be a
-      player, it is destroyed.
-
-History:
-Created by Proposal 7171 (441344), 16 February 2012
-Amended(1) by Proposal 7260 (Murphy, Bucky), 7 July 2012
-Amended(2) by Proposal 7324 (Machiavelli), 11 January 2013
-Repealed by Proposal 7386 (scshunt), 20 April 2013
 
 ----------------------------------------------------------------------
 
