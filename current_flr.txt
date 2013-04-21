@@ -14,7 +14,7 @@ Highest Rule ID number ever assigned: 2394
 
 Statistics
 
-Current total number of rules: 116
+Current total number of rules: 110
 
 Power distribution:
        1 with Power=4
@@ -25,7 +25,7 @@ Power distribution:
        9 with Power=1.7
        3 with Power=1.5
        1 with Power=1.1
-      27 with Power=1
+      28 with Power=1
        1 with Power=0.5
 
 ----------------------------------------------------------------------
@@ -584,10 +584,10 @@ The Speaker
 
        Whenever a person Wins the Game, e CAN, in a timely fashion,
        award emself the Patent Title Pope.
- 
+
        Speaker is an imposed office.  Any Pope CAN, by announcement,
-       take the office of Speaker; this causes the Patent Title Pope to
-       be revoked from em.
+       take the office of Speaker; this causes the Patent Title
+       Pope to be revoked from em.
 
 History:
 Initial Immutable Rule 103, Jun. 30 1993
@@ -1544,7 +1544,8 @@ Foreign Relations
       Ambassador-At-Large, with values Unknown (default), Protected,
       Friendly, Neutral, Sanctioned, Hostile, and Abandoned. Players
       SHOULD not violate the rules of Protected or Friendly nomics.
-      Recognition is part of the Ambassador-At-Large's monthly report. 
+      Recognition is part of the Ambassador-At-Large's monthly
+      report.
 
       When a non-Unknown foreign nomic becomes a Protectorate, it's
       recognition becomes Protected.  When a foreign nomic ceases to
@@ -2107,8 +2108,8 @@ Ribbons
            Renascent, e earns a Violet Ribbon, unless e earns a
            different Ribbon for the award.
 
-      (+W) A Player CANNOT earn a White Ribbon.  A Player CANNOT earn
-           a White Ribbon if e holds the Patent Title Renascent. 
+      (+W) A Player CANNOT earn a White Ribbon. A Player CANNOT earn
+           a White Ribbon if e holds the Patent Title Renascent.
 
       Any player CAN, by announcement, destroy nine Ribbons in eir
       possession, each of a different color, to satisfy the Victory
@@ -2121,7 +2122,6 @@ Ribbons
       a White Ribbon if e holds the Patent Title Renascent." with a
       different, specified sentence that solely contains a means for
       earning a White Ribbon.
-      
 
 History:
 Created by Proposal 7326 (Machiavelli), 11 Jaunuary 2013.
