@@ -3247,7 +3247,7 @@ Amended(34) by Proposal 6972 (G.), 30 March 2011
 
 ----------------------------------------------------------------------
 
-Rule 2276/4 (Power=2)
+Rule 2276/5 (Power=2)
 Assumption of Vacant Offices
 
       Assumption is an elected office switch, tracked by the IADoP
@@ -3257,6 +3257,8 @@ Assumption of Vacant Offices
       provided that the office is either vacant or Assumed.  
 
       Upon doing so, the office's Assumption is flipped to Assumed.
+      Whenever a vacant office is Postulated, its Assumption is flipped
+      to Assumed.
 
       When the holder of an office ceases to be an active player, the
       office's Assumption is flipped to Assumed.
@@ -3276,6 +3278,7 @@ Amended(1) by Proposal 6528 (coppro; disi.), 23 October 2009
 Amended(2) by Proposal 6529 (Pavitra; disi.), 23 October 2009
 Amended(3) by Proposal 6761 (coppro), 2 August 2010
 Amended(4) by Proposal 7403 (omd), 27 April 2013
+Amended(5) by Proposal 7410 (Machiavelli), 27 April 2013
 
 ----------------------------------------------------------------------
 
