@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 28 April 2013
 
-Last proposal with recorded effect on this ruleset: 7395
-Last change to this ruleset: by Proposal 7395
+Last proposal with recorded effect on this ruleset: 7402
+Last change to this ruleset: by Proposal 7402
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -4273,7 +4273,7 @@ Amended(1) by Proposal 7316 (omd), 16 October 2012
 
 ----------------------------------------------------------------------
 
-Rule 2389/0 (Power=2)
+Rule 2389/2 (Power=2)
 Ordinary Chamber
 
       VVLOP is a player switch, tracked by the Assessor, whose
@@ -4286,7 +4286,9 @@ Ordinary Chamber
       is the Promotor. Whenever a proposal is adopted, its author
       gains a number of VCs equal to the integer part of the
       proposal's adoption index, and each of the proposal's co-authors
-      who is a first-class player gains one VC.
+      who is a first-class player gains one VC. At the end of each week,
+      the person (if any) who held each office for the entire week gains
+      two VCs.
 
       A person may spend two VCs to increase any player's VVLOP by
       one. A first-class person may spend one VC to increase any other
@@ -4298,9 +4300,15 @@ Ordinary Chamber
       VVLOP of all first-class players, all VVLOPs are set to their
       default values, and all VCs are destroyed.
 
+      The maximum FINE amount of VCs is 2.
+
 History:
 Created by Proposal 7348 (Machiavelli, Bucky, BuckyBot), 27 March 2013
+Amended(1) by Proposal 7400 (scshunt), 27 April 2013
+Amended(2) by Proposal 7402 (omd), 27 April 2013
 
+
+----------------------------------------------------------------------
 
 Rule 2374/2 (Power=3)
 Democratization
