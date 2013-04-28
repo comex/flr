@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 28 April 2013
 
-Last proposal with recorded effect on this ruleset: 7402
-Last change to this ruleset: by Proposal 7402
+Last proposal with recorded effect on this ruleset: 7407
+Last change to this ruleset: by Proposal 7407
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -18,7 +18,7 @@ repealed rule 2389. This error has been corrected in this version.]
 
 Statistics
 
-Current total number of rules: 110
+Current total number of rules: 109
 
 Power distribution:
        1 with Power=4
@@ -29,7 +29,7 @@ Power distribution:
        9 with Power=1.7
        3 with Power=1.5
        1 with Power=1.1
-      28 with Power=1
+      27 with Power=1
        1 with Power=0.5
 
 ----------------------------------------------------------------------
@@ -98,7 +98,6 @@ Index of Rules
       Rule 1728: Dependent Actions
       Rule 2288: Induction
       Rule 2124: Agoran Satisfaction
-      Rule 2333: Contests
       Rule 2334: Timers
       Rule 2388: The Dictionary
 
@@ -2890,53 +2889,6 @@ Amended(13) by Proposal 6448 (BobTHJ), 27 August 2009
 Amended(14) by Proposal 6475 (c.; disi.), 15 September 2009
 Amended(15) by Proposal 6512 (c.; disi.), 3 October 2009
 Amended(16) by cleaning (Keba), 20 August 2010
-
-----------------------------------------------------------------------
-
-Rule 2333/3 (Power=1)
-Contests
-
-      A player CAN make a non-contest document into a contest without
-      3 objections; he then becomes that contest's contestmaster.  The
-      document should contain a list of instructions for the players
-      of Agora to play a type of subgame, which should be fair and
-      generally allow all players to join and participate on an equal
-      footing.  Anyone CAN cause a contest to cease to be a contest
-      with notice and with 3 support.
-
-      The contest's instructions should include conditions under which
-      persons "win the contest".  Upon a true announcement by the
-      contestmaster that one or more persons satisfy those conditions,
-      all those persons satisfy the Victory Condition of Victory.
-      Intentionally making a false such announcement is the Class-4
-      Crime of Gaming the System.
-
-      The contestmaster's weekly report contains all matters defined
-      by the instructions to be part of eir weekly report, as well as
-      the instructions.
-
-      The contestmaster is, prima facie, the adjudicator of contest
-      instructions and disputes.  Disputes should in general, be
-      resolved with the spirit of the instructions in mind.  For the
-      purpose of determining the internal gamestate of a contest
-      (including whether its contestmaster falsely announced that
-      persons won the contest), its instructions are generally
-      interpreted in the same manner as a rule, but the reasonable
-      opinion of the contestmaster takes precedence.  The
-      contestmaster CAN change the instructions, or any internal
-      gamestate defined by them, without 3 objections, but SHOULD only
-      do so to improve gameplay or resolve disputes within the spirit
-      of the original contest.  E can also appoint a new contestmaster
-      without objection.
-
-      An entity is bound by a contest if and only if it is its
-      contestmaster.
-
-History:
-Created by Proposal 6991 (omd), 10 April 2011
-Amended(1) by Proposal 7080 (scshunt), 16 June 2011
-Amended(2) by Proposal 7087 (omd), 23 July 2011
-Amended(3) by Proposal 7149 (G.), 25 January 2012
 
 ----------------------------------------------------------------------
 
