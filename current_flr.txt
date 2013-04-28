@@ -4277,7 +4277,7 @@ Amended(1) by Proposal 7316 (omd), 16 October 2012
 
 ----------------------------------------------------------------------
 
-Rule 2389/2 (Power=2)
+Rule 2389/3 (Power=2)
 Ordinary Chamber
 
       VVLOP is a player switch, tracked by the Assessor, whose
@@ -4287,12 +4287,12 @@ Ordinary Chamber
       is eir VVLOP.
 
       Voting Credits (or VCs) are a fixed currency whose recordkeepor
-      is the Promotor. Whenever a proposal is adopted, its author
-      gains a number of VCs equal to the integer part of the
-      proposal's adoption index, and each of the proposal's co-authors
-      who is a first-class player gains one VC. At the end of each week,
-      the person (if any) who held each office for the entire week gains
-      two VCs.
+      is the Promotor. VC holdings are secured. Whenever a proposal is
+      adopted, its author gains a number of VCs equal to the integer
+      part of the proposal's adoption index, and each of the proposal's
+      co-authors who is a first-class player gains one VC. At the end of
+      each week, the person (if any) who held each office for the entire
+      week gains two VCs.
 
       A person may spend two VCs to increase any player's VVLOP by
       one. A first-class person may spend one VC to increase any other
@@ -4310,7 +4310,7 @@ History:
 Created by Proposal 7348 (Machiavelli, Bucky, BuckyBot), 27 March 2013
 Amended(1) by Proposal 7400 (scshunt), 27 April 2013
 Amended(2) by Proposal 7402 (omd), 27 April 2013
-
+Amended(3) by Proposal 7404 (omd), 27 April 2013
 
 ----------------------------------------------------------------------
 
