@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last updated: 21 April 2013
+Last updated: 28 April 2013
 
 Last proposal with recorded effect on this ruleset: 7395
 Last change to this ruleset: by Proposal 7395
@@ -9,6 +9,10 @@ Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
 
 Highest Rule ID number ever assigned: 2394
+
+[Note: A previous verison of this ruleset incorrectly reported the
+effects of Proposal 7362, which repealed rule 2390 and instead
+repealed rule 2389. This error has been corrected in this version.]
 
 ----------------------------------------------------------------------
 
@@ -4269,32 +4273,34 @@ Amended(1) by Proposal 7316 (omd), 16 October 2012
 
 ----------------------------------------------------------------------
 
-Rule 2390/0 (Power=2)
+Rule 2389/0 (Power=2)
 Ordinary Chamber
 
       VVLOP is a player switch, tracked by the Assessor, whose
       possible values are the non-negative integers, and whose default
-      value is four.  The voting limit of an entity on an Ordinary
-      Decision is eir VVLOP.
+      value is four for first-class players and zero for second-class
+      players.  The voting limit of an entity on an Ordinary Decision
+      is eir VVLOP.
 
       Voting Credits (or VCs) are a fixed currency whose recordkeepor
       is the Promotor. Whenever a proposal is adopted, its author
       gains a number of VCs equal to the integer part of the
       proposal's adoption index, and each of the proposal's co-authors
-      gains one VC.
+      who is a first-class player gains one VC.
 
-      A player may spend two VCs to increase eir own VVLOP by one. A
-      person may spend one VC to increase any other player's VVLOP by
-      one. A person may spend two VCs to decrease any other player's
-      VVLOP by one.
+      A person may spend two VCs to increase any player's VVLOP by
+      one. A first-class person may spend one VC to increase any other
+      first-class player's VVLOP by one. A person may spend two VCs to
+      decrease any other player's VVLOP by one.
 
-      Whenever a person's VVLOP becomes 12 or greater, all VVLOPs are
-      set to their default values, and all VCs are destroyed.
+      Whenever a person's VVLOP becomes 12 or greater, or the total
+      VVLOP of all second-class players is greater than the total
+      VVLOP of all first-class players, all VVLOPs are set to their
+      default values, and all VCs are destroyed.
 
 History:
-Created by Proposal 7342 (Machiavelli), 27 March 2013
+Created by Proposal 7348 (Machiavelli, Bucky, BuckyBot), 27 March 2013
 
-----------------------------------------------------------------------
 
 Rule 2374/2 (Power=3)
 Democratization
