@@ -2999,7 +2999,7 @@ Offices
       within the game.
 ----------------------------------------------------------------------
 
-Rule 1006/34 (Power=2)
+Rule 1006/35 (Power=2)
 Offices
 
       An office is a role defined as such by the rules.  Each office
@@ -3013,7 +3013,8 @@ Offices
       reasonably implied consent.
 
       The holder of an elected office CAN resign it by announcement,
-      causing it to become vacant.  Any player CAN cause an office to
+      causing it to become vacant, unless e assumed the office within
+      the last 24 hours.  Any player CAN cause an office to
       become vacant without 2 objections or with 3 Agoran consent.
 
 [CFJ 1660 (called 13 May 2007): This rule does not define the meaning
@@ -3069,6 +3070,7 @@ Amended(31) by cleaning (Murphy), 6 March 2010
 Amended(32) by Proposal 6790 (Wooble), 27 August 2010
 Amended(33) by Proposal 6959 (G.), 31 January 2011
 Amended(34) by Proposal 7272 (FKA441344), 14 August 2012
+Amended(35) by Proposal 7403 (omd), 27 Apirl 2013
 
 ----------------------------------------------------------------------
 
@@ -3161,7 +3163,7 @@ Deputisation
             performing the action.
 
         (b) A time limit by which the rules require the action to be
-            performed has expired, or the office is vacant.
+            performed has expired.
 
         (c) If the office is filled, then the deputy announced between
             two and fourteen days earlier that e intended to deputise
@@ -3196,6 +3198,7 @@ Amended(5) by Proposal 6144 (Wooble), 23 March 2009
 Amended(6) by Proposal 6218 (Murphy), 27 April 2009
 Amended(7) by Proposal 6482 (c.), 18 September 2009
 Amended(8) by Proposal 7300 (scshunt), 27 September 2012
+Amended(9) by Proposal 7403 (omd), 27 April 2013
 
 ----------------------------------------------------------------------
 
@@ -3292,14 +3295,14 @@ Amended(34) by Proposal 6972 (G.), 30 March 2011
 
 ----------------------------------------------------------------------
 
-Rule 2276/3 (Power=2)
+Rule 2276/4 (Power=2)
 Assumption of Vacant Offices
 
       Assumption is an elected office switch, tracked by the IADoP
       with values Postulated (default) and Assumed. Changes to
-      Assumption are secured.  An active first-class player can make
-      emself the holder of an elected office by announcement, provided
-      that the office is either vacant or Assumed.
+      Assumption are secured.  An active first-class player can assume
+      an office by announcement, causing em to become its holder,
+      provided that the office is either vacant or Assumed.  
 
       Upon doing so, the office's Assumption is flipped to Assumed.
 
@@ -3320,6 +3323,7 @@ Created by Proposal 6506 (Pavitra), 3 October 2009
 Amended(1) by Proposal 6528 (coppro; disi.), 23 October 2009
 Amended(2) by Proposal 6529 (Pavitra; disi.), 23 October 2009
 Amended(3) by Proposal 6761 (coppro), 2 August 2010
+Amended(4) by Proposal 7403 (omd), 27 April 2013
 
 ----------------------------------------------------------------------
 
