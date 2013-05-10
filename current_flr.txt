@@ -1,18 +1,14 @@
 THE FULL LOGICAL RULESET
 
-Last updated: 28 April 2013
+Last updated: 10 May 2013
 
-Last proposal with recorded effect on this ruleset: 7407
-Last change to this ruleset: by Proposal 7407
+Last proposal with recorded effect on this ruleset: 7410
+Last change to this ruleset: by Proposal 7410
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
 
 Highest Rule ID number ever assigned: 2394
-
-[Note: A previous verison of this ruleset incorrectly reported the
-effects of Proposal 7362, which repealed rule 2390 and instead
-repealed rule 2389. This error has been corrected in this version.]
 
 ----------------------------------------------------------------------
 
@@ -130,7 +126,7 @@ Index of Rules
       Rule  106: Adopting Proposals
       Rule 1607: Distribution
       Rule 2373: Voting Chambers
-      Rule 2390: Ordinary Chamber
+      Rule 2389: Ordinary Chamber
       Rule 2374: Democratization
       Rule 1950: Decisions with Adoption Indices
       Rule 2137: The Assessor
@@ -3101,7 +3097,7 @@ Created by Proposal 7286 (FKA441344), 9 September 2012
 
 ----------------------------------------------------------------------
 
-Rule 2160/8 (Power=3)
+Rule 2160/9 (Power=3)
 Deputisation
 
       Any player (a deputy) CAN perform an action as if e held a
@@ -3254,11 +3250,11 @@ Assumption of Vacant Offices
       with values Postulated (default) and Assumed. Changes to
       Assumption are secured.  An active first-class player can assume
       an office by announcement, causing em to become its holder,
-      provided that the office is either vacant or Assumed.  
+      provided that the office is either vacant or Assumed.
 
       Upon doing so, the office's Assumption is flipped to Assumed.
-      Whenever a vacant office is Postulated, its Assumption is flipped
-      to Assumed.
+      Whenever a vacant office is Postulated, its Assumption is
+      flipped to Assumed.
 
       When the holder of an office ceases to be an active player, the
       office's Assumption is flipped to Assumed.
@@ -4242,12 +4238,10 @@ Ordinary Chamber
       is eir VVLOP.
 
       Voting Credits (or VCs) are a fixed currency whose recordkeepor
-      is the Promotor. VC holdings are secured. Whenever a proposal is
-      adopted, its author gains a number of VCs equal to the integer
-      part of the proposal's adoption index, and each of the proposal's
-      co-authors who is a first-class player gains one VC. At the end of
-      each week, the person (if any) who held each office for the entire
-      week gains two VCs.
+      is the Promotor. VC holdings are secured. Whenever a proposal
+      is adopted, its author gains one VC.  At the end of each week,
+      the person (if any) who held each office for the entire week
+      gains one VCs.
 
       A person may spend two VCs to increase any player's VVLOP by
       one. A first-class person may spend one VC to increase any other
@@ -4266,6 +4260,7 @@ Created by Proposal 7348 (Machiavelli, Bucky, BuckyBot), 27 March 2013
 Amended(1) by Proposal 7400 (scshunt), 27 April 2013
 Amended(2) by Proposal 7402 (omd), 27 April 2013
 Amended(3) by Proposal 7404 (omd), 27 April 2013
+Amended(4) by Proposal 7405 (omd), 5 May 2013
 
 ----------------------------------------------------------------------
 
