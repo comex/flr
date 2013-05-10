@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 10 May 2013
 
-Last proposal with recorded effect on this ruleset: 7410
-Last change to this ruleset: by Proposal 7410
+Last proposal with recorded effect on this ruleset: 7415
+Last change to this ruleset: by Proposal 7415
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -2035,7 +2035,7 @@ Created by Proposal 7358 (G.), 14 April 2013.
 
 ----------------------------------------------------------------------
 
-Rule 2387/6 (Power=1)
+Rule 2387/7 (Power=1)
 Ribbons
 
       Ribbons are a class of fixed assets.  If winning is secured,
@@ -2079,9 +2079,11 @@ Ribbons
            unless e violated a requirement to submit that judgment
            within a time limit.
 
-      (+L) A player qualifies for a Lime Ribbon, if e was the
-           co-author of at least three Proposals adopted in the
-           previous week.
+      (+L) If a proposal is adopted, and if only one Player
+           other that the proposal's author cast (and did not
+           retract) one or more valid votes AGAINST the proposal,
+           than both the casting player and the author of the
+           proposal earn a Lime Ribbon.
 
       (+M) When, during Agora's birthday, a player publicly
            acknowledges the occasion, e earns a Magenta Ribbon.
@@ -2130,6 +2132,7 @@ Amended(3) by Proposal 7352 (Machiavelli), 27 March 2013.
 Amended(4) by Proposal 7353 (Machiavelli), 27 March 2013.
 Amended(5) by Proposal 7364 (G.), 20 April 2013.
 Amended(6) by Proposal 7391 (scshunt), 20 April 2013.
+Amended(7) by Proposal 7415 (G.), 5 May 2013
 
 ----------------------------------------------------------------------
 
@@ -4228,7 +4231,7 @@ Amended(1) by Proposal 7316 (omd), 16 October 2012
 
 ----------------------------------------------------------------------
 
-Rule 2389/3 (Power=2)
+Rule 2389/4 (Power=2)
 Ordinary Chamber
 
       VVLOP is a player switch, tracked by the Assessor, whose
