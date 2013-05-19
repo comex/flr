@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 10 May 2013
 
-Last proposal with recorded effect on this ruleset: 7415
-Last change to this ruleset: by Proposal 7415
+Last proposal with recorded effect on this ruleset: 7416
+Last change to this ruleset: by Proposal 7416
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -1369,7 +1369,7 @@ Created by Proposal 6976 (Murphy, MRW and Associates), 30 March 2011
 
 ----------------------------------------------------------------------
 
-Rule 2139/4 (Power=2)
+Rule 2139/5 (Power=2)
 The Registrar
 
       The Registrar is an office; its holder is responsible for
@@ -1391,7 +1391,8 @@ The Registrar
       those listed exist and is self-ratifying.
 
       The Registrar is also responsible for tracking any switches that
-      would otherwise lack an officer to track them.
+      would otherwise lack an officer to track them, unless the switch
+      is defined as untracked.
 
 [CFJ 1703 (called 13 July 2007): A player cannot change eir nickname
 by announcement if the new nickname that e specifies is the current
@@ -1428,6 +1429,7 @@ Amended(2) by Proposal 6322 (Wooble), 26 May 2009
 Amended(3) twice by Proposal 6567 (Walker), 28 November 2009
 Power changed from 1 to 2 by Proposal 6567 (Walker), 28 November 2009
 Amended(4) by Proposal 7141 (G.), 19 November 2011
+Amended(5) by Proposal 7416 (omd), 12 May 2013
 
 ----------------------------------------------------------------------
 
@@ -1572,7 +1574,7 @@ Amended(3) by Proposal 7372 (G.), 20 April 2013
 
 ----------------------------------------------------------------------
 
-Rule 2370/0 (Power=1)
+Rule 2370/1 (Power=1)
 The Ambassador-At-Large
 
       The Ambassador-At-Large is an office; its holder is responsible
@@ -1591,13 +1593,15 @@ The Ambassador-At-Large
       that the nomic is Protected, Friendly, or Neutral.
 
       It is ILLEGAL to falsely claim, to any nomic, to be an
-      ambassador of Agora. The Ambassador-At-Large SHALL inform any
-      nomic that recieves such a claim of its falsehood as soon as
-      possible.
+      ambassador of Agora. The Ambassador-At-Large SHALL, as soon as
+      possible after he becomes aware of such a claim, make a
+      reasonable effort to inform any nomic that received it of its
+      falsehood.
 
 History:
 Created by Proposal 7256 (441344, ais523, BobTHJ, Murphy, Pavitra,
   Tiger, woggle, Yally, Zefram), 7 July 2012
+Amended(1) by Proposal 7417 (Roujo), 12 May 2013
 
 ----------------------------------------------------------------------
 
@@ -4244,7 +4248,7 @@ Ordinary Chamber
       is the Promotor. VC holdings are secured. Whenever a proposal
       is adopted, its author gains one VC.  At the end of each week,
       the person (if any) who held each office for the entire week
-      gains one VCs.
+      gains one VC.
 
       A person may spend two VCs to increase any player's VVLOP by
       one. A first-class person may spend one VC to increase any other
@@ -4283,12 +4287,12 @@ Retitled and amended(2) by Proposal 7316 (omd), 16 October 2012
 
 ----------------------------------------------------------------------
 
-Rule 1950/27 (Power=3)
+Rule 1950/28 (Power=3)
 Decisions with Adoption Indices
 
-      Adoption index is a switch possessed by Agoran decisions and
-      proposals, whose value is either "none" (default) or an integral
-      multiple of 0.1 from 1.0 to 9.9.
+      Adoption index is an untracked switch possessed by Agoran
+      decisions and proposals, whose value is either "none" (default)
+      or an integral multiple of 0.1 from 1.0 to 9.9.
 
       Chamber is a switch possessed by Agoran decisions with adoption
       indices and proposals, with values any Voting Chamber, by
@@ -4348,6 +4352,7 @@ Amended(24) by Proposal 7216 (omd), 4 May 2012
 Amended(25) by Proposal 7239 (omd), 10 June 2012
 Amended(26) by Proposal 7274 (FKA441344), 14 August 2012
 Amended(27) by Proposal 7296 (scshunt), 9 September 2012
+Amended(28) by Proposal 7416 (omd), 12 May 2013
 
 ----------------------------------------------------------------------
 
