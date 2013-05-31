@@ -2,13 +2,13 @@ THE FULL LOGICAL RULESET
 
 Last updated: 30 May 2013
 
-Last proposal with recorded effect on this ruleset: 7428
-Last change to this ruleset: by Proposal 7428
+Last proposal with recorded effect on this ruleset: 7430
+Last change to this ruleset: by Proposal 7430
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
 
-Highest Rule ID number ever assigned: 2396
+Highest Rule ID number ever assigned: 2397
 
 ----------------------------------------------------------------------
 
@@ -70,6 +70,7 @@ Index of Rules
       Rule 2369: Foreign Relations
       Rule 2370: The Ambassador-At-Large
       Rule 2372: Ambassadors Extraordinary And Plenipotentiary
+      Rule 2397: The Envoy
 
       * Economy
       Rule 2166: Assets
@@ -1642,6 +1643,22 @@ Ambassadors Extraordinary And Plenipotentiary
 
 History:
 Created by Proposal 7258 (441344), 7 July 2012
+
+----------------------------------------------------------------------
+
+Rule 2397/0 (Power=1)
+The Envoy
+
+      The person who is most responsible for advertising Agora and
+      soliciting new Players, in the opinion of the Speaker, shall be
+      known as the Envoy.  Any changes in the identity of the Envoy
+      shall take effect when announced publicly by the Speaker.
+ 
+      The Envoy shall advertise Agora on a regular basis in any
+      non-Agoran public forums e deems appropriate.
+
+History:
+Created by Proposal 7430 (omd, Zefram), 26 May 2013.
 
 ----------------------------------------------------------------------
 
