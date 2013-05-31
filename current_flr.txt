@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 30 May 2013
 
-Last proposal with recorded effect on this ruleset: 7433
-Last change to this ruleset: by Proposal 7433
+Last proposal with recorded effect on this ruleset: 7418
+Last change to this ruleset: by Proposal 7418
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -4281,14 +4281,17 @@ Amended(1) by Proposal 7316 (omd), 16 October 2012
 
 ----------------------------------------------------------------------
 
-Rule 2389/4 (Power=2)
+Rule 2389/5 (Power=2)
 Ordinary Chamber
 
-      VVLOP is a player switch, tracked by the Assessor, whose
-      possible values are the non-negative integers, and whose default
-      value is four for first-class players and zero for second-class
-      players.  The voting limit of an entity on an Ordinary Decision
-      is eir VVLOP.
+      VVLOP is a player switch, tracked by the Assessor, whose value
+      is a non-negative integer; the default value for a player's
+      VVLOP is eir DVLOP.  The voting limit of an entity on an
+      Ordinary Decision is eir VVLOP.
+
+      DVLOP is a player switch, tracked by the Assessor, whose value
+      is a non-negative integer, and whose default value is four for
+      first-class players and zero for second-class players.
 
       Voting Credits (or VCs) are a fixed currency whose recordkeepor
       is the Promotor. VC holdings are secured. Whenever a proposal
@@ -4301,10 +4304,11 @@ Ordinary Chamber
       first-class player's VVLOP by one. A person may spend two VCs to
       decrease any other player's VVLOP by one.
 
-      Whenever a person's VVLOP becomes 12 or greater, or the total
-      VVLOP of all second-class players is greater than the total
-      VVLOP of all first-class players, all VVLOPs are set to their
-      default values, and all VCs are destroyed.
+      Whenever a person's VVLOP becomes 12 or greater, all VVLOPs are
+      set to their default values, all VCs are destroyed, and that
+      person's DVLOP is increased by 1.  If eir DVLOP would thus
+      become 12 or greater, e instead satisfies the Victory Condition
+      of Influence, and all DVLOPs are set to their default values.
 
       The maximum FINE amount of VCs is 2.
 
@@ -4314,6 +4318,7 @@ Amended(1) by Proposal 7400 (scshunt), 27 April 2013
 Amended(2) by Proposal 7402 (omd), 27 April 2013
 Amended(3) by Proposal 7404 (omd), 27 April 2013
 Amended(4) by Proposal 7405 (omd), 5 May 2013
+Amended(5) by Proposal 7418 (omd), 27 May 2013
 
 ----------------------------------------------------------------------
 
