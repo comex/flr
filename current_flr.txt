@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 30 May 2013
 
-Last proposal with recorded effect on this ruleset: 7430
-Last change to this ruleset: by Proposal 7430
+Last proposal with recorded effect on this ruleset: 7433
+Last change to this ruleset: by Proposal 7433
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -936,20 +936,22 @@ Amended(1) by Proposal 6429 (Murphy), 18 August 2009
 
 ----------------------------------------------------------------------
 
-Rule 105/5 (Power=3)
+Rule 105/6 (Power=3)
 Rule Changes
 
       Where permitted by other rules, an instrument generally can,
       as part of its effect,
 
+
       (a) enact a rule.  The new rule has power equal to the minimum
           of the power specified by the enacting instrument,
           defaulting to one if the enacting instrument does not
-          specify, and the maximum power permitted by other rules.
-          The enacting instrument may specify a title for the new
-          rule, which if present shall prevail.  The ID number of the
-          new rule cannot be specified by the enacting instrument; any
-          attempt to so specify is null and void.
+          specify or if it specifies a power less than one, and the
+          maximum power permitted by other rules.  The enacting
+          instrument may specify a title for the new rule, which if
+          present shall prevail.  The ID number of the new rule cannot
+          be specified by the enacting instrument; any attempt to so
+          specify is null and void.
 
       (b) repeal a rule.  When a rule is repealed, it ceases to be a
           rule, and the Rulekeepor need no longer maintain a record
@@ -1034,6 +1036,7 @@ Assigned to Committee on Rules by Proposal 6053 (Murphy, woggle,
   ais523), 23 January 2009
 Amended(4) by Proposal 6734 (comex), 6 June 2010
 Amended(5) by Proposal 6741 (comex; disi.), 1 July 2010
+Amended(6) by Proposal 7433 (Walker), 26 May 2013
 
 ----------------------------------------------------------------------
 
