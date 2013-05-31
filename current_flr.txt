@@ -953,7 +953,6 @@ Rule Changes
       Where permitted by other rules, an instrument generally can,
       as part of its effect,
 
-
       (a) enact a rule.  The new rule has power equal to the minimum
           of the power specified by the enacting instrument,
           defaulting to one if the enacting instrument does not
@@ -1670,6 +1669,7 @@ Created by Proposal 7256 (441344, ais523, BobTHJ, Murphy, Pavitra,
   Tiger, woggle, Yally, Zefram), 7 July 2012
 Amended(1) by Proposal 7417 (Roujo), 12 May 2013
 Amended(2) by Proposal 7420 (omd), 27 May 2013
+
 ----------------------------------------------------------------------
 
 Rule 2372/0 (Power=1)
