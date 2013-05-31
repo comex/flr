@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 30 May 2013
 
-Last proposal with recorded effect on this ruleset: 7420
-Last change to this ruleset: by Proposal 7420
+Last proposal with recorded effect on this ruleset: 7424
+Last change to this ruleset: by Proposal 7424
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -1673,7 +1673,7 @@ Economy
       A category concerning asset-based gameplay.
 ----------------------------------------------------------------------
 
-Rule 2166/17 (Power=2)
+Rule 2166/18 (Power=2)
 Assets
 
       An asset is an entity defined as such by a rule or contest
@@ -1721,8 +1721,7 @@ Assets
 
       A currency is a class of asset defined as such by its backing
       document.  Instances of a currency with the same owner are
-      fungible.  The Minimum Unit Quantity (MUQ) of each currency is
-      one.
+      fungible.
 
 [CFJs 1790-1791 (called 11 November 2007): The self-ratifying asset
 report is the complete list of ownerships of assets of that class; a
@@ -1771,6 +1770,7 @@ Amended(14) twice by Proposal 6650 (coppro), 10 March 2010
 Amended(15) by Proposal 6792 (omd), 27 August 2010
 Amended(16) by Proposal 6916 (omd; disi.), 2 January 2011
 Amended(17) by Proposal 7298 (FKA441344), 9 September 2012
+Amended(18) by Proposal 7420 (omd), 27 May 2013
 
 ----------------------------------------------------------------------
 
