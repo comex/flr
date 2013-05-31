@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 30 May 2013
 
-Last proposal with recorded effect on this ruleset: 7418
-Last change to this ruleset: by Proposal 7418
+Last proposal with recorded effect on this ruleset: 7420
+Last change to this ruleset: by Proposal 7420
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -694,7 +694,7 @@ Rules
       processes of changing the rules.
 ----------------------------------------------------------------------
 
-Rule 2141/6 (Power=3)
+Rule 2141/7 (Power=3)
 Role and Attributes of Rules
 
       A rule is a type of instrument with the capacity to govern the
@@ -713,7 +713,7 @@ Role and Attributes of Rules
 
       Every rule shall have a title to aid in identification.  If a
       rule ever does not have a title, the Rulekeepor SHALL assign a
-      title to it by announcement as soon as possible.
+      title to it by announcement in a timely fashion.
 
       For the purposes of rules governing modification of instruments,
       the text, power, ID number, and title of a rule are all
@@ -741,6 +741,7 @@ Amended(3) by Proposal 6053 (Murphy, woggle, ais523), 23 January 2009
 Amended(4) by Proposal 6124 (ehird), 15 March 2009
 Amended(5) by Proposal 6670 (coppro), 14 March 2010
 Amended(6) by Proposal 6992 (Murphy, omd), 10 April 2011
+Amended(7) by Proposal 7420 (omd), 27 March 2013
 
 ----------------------------------------------------------------------
 
@@ -1276,7 +1277,7 @@ Amended(33) by Proposal 7269 (FKA441344, G.), 25 July 2012
 
 ----------------------------------------------------------------------
 
-Rule 2170/8 (Power=3)
+Rule 2170/9 (Power=3)
 Who Am I?
 
       Rules regarding persons pertain to those persons directly, not
@@ -1295,8 +1296,8 @@ Who Am I?
       within one month before its publication.  Upon a judicial
       finding that the claimed publisher of one or more messages
       (hereafter the Sock Puppet) was not a person, if any of those
-      claims have already self-ratified, then the judge SHALL as soon
-      as possible publish a judicial declaration that the Sock Puppet
+      claims have already self-ratified, then the judge SHALL in a timely
+      fashion publish a judicial declaration that the Sock Puppet
       was a person during one or more time periods, and SHOULD ensure
       that it corresponds to general belief prior to that finding.
 
@@ -1304,7 +1305,7 @@ Who Am I?
       sends it, or who most directly and immediately causes it to be
       sent.  (Upon a judicial finding that the Executor of a public
       message cannot otherwise be determined within reasonable effort,
-      the judge SHALL as soon as possible publish a judicial
+      the judge SHALL in a timely fashion publish a judicial
       declaration specifying the identity of that message's Executor.)
       The executor of an action performed by announcement is the
       executor of the announcement.
@@ -1330,6 +1331,7 @@ Amended(5) by Proposal 5741 (Murphy), 16 October 2008
 Amended(6) by Proposal 6571 (ais523), 28 November 2009
 Amended(7) by Proposal 7178 (G.), 26 February 2012
 Amended(8) by Proposal 7185 (441344), 26 February 2012
+Amended(9) by Proposal 7420 (omd), 27 May 2013
 
 ----------------------------------------------------------------------
 
@@ -1556,7 +1558,7 @@ Created by Proposal 7256 (441344, ais523, BobTHJ, Murphy, Pavitra,
 
 ----------------------------------------------------------------------
 
-Rule 2369/3 (Power=1)
+Rule 2369/4 (Power=1)
 Foreign Relations
 
       Recognition is a foreign nomic switch, tracked by the
@@ -1575,13 +1577,13 @@ Foreign Relations
 
       The Ambassador-At-Large CAN, with Agoran Consent, flip a foreign
       nomic's Recognition to any value (subject to the above
-      restriction).  E SHALL inform that nomic of the change as soon
-      as possible.
+      restriction).  E SHALL inform that nomic of the change in a timely 
+      fashion.
 
       Any Ambassador Extraordinary And Plenipotentiary to a foreign
       nomic CAN by announcement flip its Recognition to any value
       (subject to the above restriction).  E SHALL inform that nomic
-      of the change as soon as possible.
+      of the change in a timely fashion.
 
 History:
 Created by Proposal 7256 (441344, ais523, BobTHJ, Murphy, Pavitra,
@@ -1589,10 +1591,11 @@ Created by Proposal 7256 (441344, ais523, BobTHJ, Murphy, Pavitra,
 Amended(1) by Proposal 7258 (441344), 7 July 2012
 Amended(2) by Proposal 7273 (FKA441344), 14 August 2012
 Amended(3) by Proposal 7372 (G.), 20 April 2013
+Amended(4) by Proposal 7420 (omd), 27 May 2013
 
 ----------------------------------------------------------------------
 
-Rule 2370/1 (Power=1)
+Rule 2370/2 (Power=1)
 The Ambassador-At-Large
 
       The Ambassador-At-Large is an office; its holder is responsible
@@ -1611,8 +1614,8 @@ The Ambassador-At-Large
       that the nomic is Protected, Friendly, or Neutral.
 
       It is ILLEGAL to falsely claim, to any nomic, to be an
-      ambassador of Agora. The Ambassador-At-Large SHALL, as soon as
-      possible after he becomes aware of such a claim, make a
+      ambassador of Agora. The Ambassador-At-Large SHALL, in a timely
+      fashion after he becomes aware of such a claim, make a
       reasonable effort to inform any nomic that received it of its
       falsehood.
 
@@ -1620,7 +1623,7 @@ History:
 Created by Proposal 7256 (441344, ais523, BobTHJ, Murphy, Pavitra,
   Tiger, woggle, Yally, Zefram), 7 July 2012
 Amended(1) by Proposal 7417 (Roujo), 12 May 2013
-
+Amended(2) by Proposal 7420 (omd), 27 May 2013
 ----------------------------------------------------------------------
 
 Rule 2372/0 (Power=1)
@@ -1771,7 +1774,7 @@ Amended(17) by Proposal 7298 (FKA441344), 9 September 2012
 
 ----------------------------------------------------------------------
 
-Rule 2343/7 (Power=1.7)
+Rule 2343/8 (Power=1.7)
 Victory Conditions
 
       Victory Conditions and Losing Conditions are conditions
@@ -1803,15 +1806,15 @@ Victory Conditions
       Winning the game does not cause Agora to end.
 
       The Herald SHALL award the Patent Title Champion to any person
-      who wins the game, as soon as possible after the win.  The
+      who wins the game, in a timely fashion after the win.  The
       Herald SHOULD note the method of winning in eir report.
 
       Any person who wins the game while knowingly breaking a Rule, or
       while willingly and knowingly being a party to a Rules breach,
       where the breach is directly and substantially responsible for
       the win, commits the Class-4 Crime of Poor Sportsmanship.  If
-      any party is found GUILTY of this crime, then, as soon as
-      possible after the judgement has been in effect for one week,
+      any party is found GUILTY of this crime, then, in a timely
+      fashion after the judgement has been in effect for one week,
       the Herald SHALL, as part of the punishment, revoke any Champion
       title awarded to the guilty parties as a result of the win.
 
@@ -1824,6 +1827,7 @@ Amended(4) by Proposal 7139 (omd), 19 November 2011
 Amended(5) by Proposal 7146 (omd), 25 January 2012
 Amended(6) by Proposal 7147 (Murphy), 25 January 2012
 Amended(7) by Proposal 7148 (Murphy), 25 January 2012
+Amended(8) by Proposla 7420 (omd), 27 May 2013
 
 ----------------------------------------------------------------------
 
@@ -2245,19 +2249,19 @@ Amended(6) by Proposal 6983 (Murphy), 10 April 2011
 
 ----------------------------------------------------------------------
 
-Rule 1023/29 (Power=2)
+Rule 1023/30 (Power=2)
 Common Definitions
 
       The following terms are defined:
 
-      (a) The phrases "in a timely fashion" and "as soon as possible"
-          mean "within X days", where X is 14 when the Speed is Slow,
-          7 when it is Normal and 5 when it is Fast. This time period
-          is set when the requirement is created (ie. X days before
-          the limit ends). A requirement to perform an action at an
-          exact instant (e.g.  "when X, Y SHALL Z"), but not "in the
-          same message", is instead interpreted as a requirement to
-          perform that action in a timely fashion after that instant.
+      (a) The phrase "in a timely fashion" means "within X days",
+          where X is 14 when the Speed is Slow, 7 when it is Normal
+          and 5 when it is Fast. This time period is set when the
+          requirement is created (ie. X days before the limit ends).
+          A requirement to perform an action at an exact instant
+          (e.g.  "when X, Y SHALL Z"), but not "in the same message",
+          is instead interpreted as a requirement to perform that
+          action in a timely fashion after that instant.
 
       (b) Agoran epochs:
 
@@ -2327,6 +2331,7 @@ Amended(26) by Proposal 6535 (Murphy), 4 November 2009
 Amended(27) by Proposal 6660 (Murphy; disi.), 10 March 2010
 Amended(28) by Proposal 7045 (Walker), 16 May 2011
 Amended(29) by Proposal 7289 (G.), 9 September 2012
+Amended(30) by Proposal 7420 (omd), 27 May 2013
 
 ----------------------------------------------------------------------
 
@@ -3471,7 +3476,7 @@ Amended(4) by Proposal 6754 (coppro; disi.), 2 August 2010
 
 ----------------------------------------------------------------------
 
-Rule 2201/5 (Power=3)
+Rule 2201/6 (Power=3)
 Self-Ratification
 
       A public document defined by the rules as self-ratifying is
@@ -3487,7 +3492,7 @@ Self-Ratification
        b) A claim of error, appropriate for matters of fact.  The
           publisher of the original document SHALL (if e was required
           to publish that document) or SHOULD (otherwise) do one of
-          the following as soon as possible:
+          the following in a timely fashion:
 
               i) Deny the claim (causing it to cease to be a doubt).
              ii) Publish a revision.
@@ -3511,6 +3516,7 @@ Amended(2) by Proposal 6243 (Murphy), 9 May 2009
 Amended(3) by Proposal 6622 (Murphy), 20 February 2010
 Amended(4) by Proposal 6744 (Murphy), 1 July 2010
 Amended(5) by Proposal 6922 (Murphy; disi.), 2 January 2011
+Amended(6) by Proposal 7420 (omd), 27 May 2013
 
 ----------------------------------------------------------------------
 
@@ -3806,13 +3812,13 @@ Amended(7) by Proposal 7045 (Walker), 16 May 2011
 
 ----------------------------------------------------------------------
 
-Rule 208/9 (Power=3)
+Rule 208/10 (Power=3)
 Resolving Agoran decisions
 
       The vote collector for an unresolved Agoran decision CAN resolve
       it by announcement, indicating the option selected by Agora.  If
-      it was required to be initiated, then e SHALL resolve it as soon
-      as possible after the end of the voting period.  To be valid,
+      it was required to be initiated, then e SHALL resolve it in a
+      timely fashion after the end of the voting period.  To be valid,
       this announcement must satisfy the following conditions:
 
       (a) It is published after the voting period has ended.
@@ -3864,6 +3870,7 @@ Assigned to Committee on Rules by Proposal 6053 (Murphy, woggle,
   ais523), 23 January 2009
 Amended(8) by Proposal 6746 (coppro; disi.), 1 July 2010
 Amended(9) by Proposal 7259 (Murphy), 6 July 2012
+Amended(10) by Proposal 7420 (omd), 27 May 2013
 
 ----------------------------------------------------------------------
 
@@ -4540,7 +4547,7 @@ Amended(12) by Proposal 7050 (omd), 16 May 2011
 
 ----------------------------------------------------------------------
 
-Rule 2158/10 (Power=2)
+Rule 2158/11 (Power=2)
 Judges
 
       At any time, each judicial case is either open (default),
@@ -4551,7 +4558,7 @@ Judges
 
       When a judicial case is open and has a judge assigned to it, the
       judge CAN assign a valid judgement to it by announcement, and
-      SHALL do so as soon as possible, unless e is recused from the
+      SHALL do so in a timely fashion, unless e is recused from the
       case before the time limit for doing so has expired.  A judge
       SHOULD NOT assign an inappropriate judgement to any judicial
       case.  A judgement is valid and/or appropriate only as defined
@@ -4563,7 +4570,7 @@ Judges
       When a non-appeal judicial case is open, and its judge has
       violated a time limit to assign a judgement to it, or is not an
       active player, the Clerk of the Courts SHALL recuse that judge
-      with cause by announcement as soon as possible; however, this
+      with cause by announcement in a timely fashion; however, this
       requirement is waived if the judge assigns a judgement to it
       first.
 
@@ -4590,6 +4597,7 @@ Amended(7) by Proposal 6391 (Murphy), 10 July 2009
 Amended(8) by Proposal 6399 (Wooble), 17 July 2009
 Amended(9) by Proposal 6404 (Murphy; disi.), 30 July 2009
 Amended(10) by Proposal 7050 (omd), 16 May 2011
+Amended(11) by Proposal 7420 (omd), 27 May 2013
 
 ----------------------------------------------------------------------
 
@@ -4737,7 +4745,7 @@ Amended(37) by Proposal 7293 (Murphy), 9 September 2012
 
 ----------------------------------------------------------------------
 
-Rule 1504/58 (Power=2)
+Rule 1504/59 (Power=2)
 Criminal Cases
 
       Criminal cases are a subclass of judicial cases.  Any person can
@@ -4786,7 +4794,7 @@ Criminal Cases
       * APOLOGY with a set of up to ten prescribed words (the empty
         set if none is explicitly specified), appropriate for rule
         breaches of small consequence.  When in effect, the ninny
-        SHALL as soon as possible publish a formal apology of at least
+        SHALL in a timely fashion publish a formal apology of at least
         200 words, including all the prescribed words, explaining eir
         error, shame, remorse, and ardent desire for self-improvement.
         Failure to do so is a Class-3 Crime of Failure to Apologize.
@@ -4797,8 +4805,8 @@ Criminal Cases
         are considered to bind all players) or the ninny has this
         amount of the asset, and the backing document specifies a
         maximum FINE amount, and the amount is no greater than the
-        maximum.  When in effect, the ninny SHALL, as soon as
-        possible, either destroy this amount of eir asset or transfer
+        maximum.  When in effect, the ninny SHALL, in a timely
+        fashion, either destroy this amount of eir asset or transfer
         it to the Lost and Found Department. The ninny is only obliged
         to perform one destruction or transfer per case, even if
         sentences of this type are assigned more than once or go into
@@ -4813,7 +4821,7 @@ Criminal Cases
         unjust or insufficient.  The balance between compensatory and
         punitive service is left to the judge's discretion.  While a
         sentence of this type is in effect, the ninny SHALL perform
-        the prescribed tasks (as soon as possible, unless a different
+        the prescribed tasks (in a timely fashion, unless a different
         time limit is specified).
 
       * TIME OUT with a number of days between 7 and 21.  Stasis is a
@@ -4938,6 +4946,7 @@ Amended(55) by Proposal 7050 (omd), 16 May 2011
 Amended(56) by Proposal 7118 (scshunt), 20 August 2011
 Amended(57) by Proposal 7146 (omd), 25 January 2012
 Amended(58) by Proposal 7265 (ais523), 25 July 2012
+Amended(59) by Proposal 7420 (omd), 27 May 2013
 
 ----------------------------------------------------------------------
 
@@ -5216,12 +5225,12 @@ Amended(47) by Proposal 7152 (Murphy), 25 January 2012
 
 ----------------------------------------------------------------------
 
-Rule 2342/0 (Power=1.7)
+Rule 2342/1 (Power=1.7)
 Judicial Appeals Panels
 
       If the time period for judging an appeals case ends with no
       majority opinion among members of the panel assigned to it, then
-      the CotC CAN, and SHALL as soon as possible, by announcement
+      the CotC CAN, and SHALL in a timely fashion, by announcement
       cause the panel to judge either REMAND or REMIT with or without
       prejudice, whichever e feels is most appropriate. E SHALL NOT
       assign the case to another panel solely due to its failure to
@@ -5229,7 +5238,8 @@ Judicial Appeals Panels
       judgment in the meanwhile.
 
 History:
-Created by Proposal 7038 (scshunt), 16 May 011
+Created by Proposal 7038 (scshunt), 16 May 2011
+Amended(1) by Proposal 7420 (omd), 27 May 2013
 
 ----------------------------------------------------------------------
 
@@ -5260,7 +5270,7 @@ Amended(6) by Proposal 6944 (omd; disi.), 16 January 2011
 
 ----------------------------------------------------------------------
 
-Rule 1868/19 (Power=2)
+Rule 1868/20 (Power=2)
 Judge Assignment Generally
 
       At any time, a judicial case either has no judge assigned to it
@@ -5270,7 +5280,7 @@ Judge Assignment Generally
 
       When a judicial case is open and has no judge assigned, the CotC
       CAN assign a qualified entity to be its judge by announcement,
-      and SHALL do so as soon as possible.
+      and SHALL do so in a timely fashion.
 
       The entities qualified to be assigned as judge of a judicial
       case are the active first-class players who have not previously
@@ -5338,6 +5348,7 @@ Amended(17) by Proposal 6961 (G.), 3 March 2011
 Amended(17.1) by Proposal 7019 (Murphy), 16 May 2011
 Amended(18) by Proposal 7050 (omd), 16 May 2011
 Amended(19) by Proposal 7321 (Murphy, scshunt), 23 December 2012
+Amended(20) by Proposal 7420 (omd), 27 May 2013
 
 ----------------------------------------------------------------------
 
@@ -5545,7 +5556,7 @@ Patent Titles and Degrees
       A category concerning titles of honor and dishonor.
 ----------------------------------------------------------------------
 
-Rule 649/33 (Power=1.5)
+Rule 649/34 (Power=1.5)
 Patent Titles
 
       A Patent Title is a legal item given in recognition of a
@@ -5553,7 +5564,7 @@ Patent Titles
       responsible for tracking Patent Titles.
 
       A person specifically authorized by the rules to award (revoke)
-      a Patent Title SHALL do so as soon as possible after the
+      a Patent Title SHALL do so in a timely fashion after the
       conditions authorizing em to do so are announced, unless there
       is an open judicial case contesting the validity of those
       conditions.  Awarding or revoking a Patent Title by any other
@@ -5570,7 +5581,7 @@ Patent Titles
       includes a list of each Patent Title that at least one entity
       Bears, with a list of which entities Bear it.
 
-      As soon as possible after a patent title is awarded or revoked,
+      In a timely fashion after a patent title is awarded or revoked,
       the herald SHALL announce the award or revocation.
 
       When a patent title is used as a noun to refer to bearers of the
@@ -5641,10 +5652,11 @@ Amended(30) by cleaning (Wooble), 13 April 2009
 Amended(31) by Proposal 6424 (Murphy), 16 August 2009
 Amended(32) by Proposal 7050 (omd), 16 May 2011
 Amended(33) by Proposal 7315 (omd), 16 October 2012
+Amended(34) by Proposal 7420 (omd), 27 May 2013
 
 ----------------------------------------------------------------------
 
-Rule 1367/16 (Power=3)
+Rule 1367/17 (Power=3)
 Degrees
 
       Certain patent titles are known as degrees.  The degrees are
@@ -5664,7 +5676,7 @@ Degrees
 
       After a player publishes a suitable thesis with explicit intent
       to qualify for a degree (the specific degree need not be
-      mentioned), the Herald SHALL, as soon as possible, initiate an
+      mentioned), the Herald SHALL, in a timely fashion, initiate an
       Agoran Decision to award that player (the author) a degree as
       follows:
 
@@ -5716,6 +5728,7 @@ Amended(15) by Proposal 6671 (Yally; disi.), 22 March 2010
 Power changed from 1 to 3 by Proposal 6717 (coppro), 4 May 2010
 Amended(16) by SLR ratification (Proposal 6806; coppro), 27 August
   2010
+Amended(17) by Proposal 7420 (omd), 27 May 2013
 
 ----------------------------------------------------------------------
 
