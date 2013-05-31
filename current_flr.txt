@@ -2,26 +2,26 @@ THE FULL LOGICAL RULESET
 
 Last updated: 30 May 2013
 
-Last proposal with recorded effect on this ruleset: 7424
-Last change to this ruleset: by Proposal 7424
+Last proposal with recorded effect on this ruleset: 7425
+Last change to this ruleset: by Proposal 7425
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
 
-Highest Rule ID number ever assigned: 2397
+Highest Rule ID number ever assigned: 2406
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 112
+Current total number of rules: 121
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
        1 with Power=3.1
       40 with Power=3
-      25 with Power=2
+      34 with Power=2
        9 with Power=1.7
        3 with Power=1.5
        1 with Power=1.1
@@ -64,6 +64,7 @@ Index of Rules
       Rule 2139: The Registrar
       Rule 1789: Cantus Cygneus
       Rule 2130: Activity
+      Rule 2401: Registration Yaks
 
       * Foreign Relations
       Rule 2368: Nomic Definitions
@@ -75,6 +76,9 @@ Index of Rules
       * Economy
       Rule 2166: Assets
       Rule 2343: Victory Conditions
+      Rule 2398: Yaks
+      Rule 2399: Budget Switches
+      Rule 2400: Tax
       Rule 2393: Auctions
       Rule 2337: Promises
       Rule 2338: Cashing Promises
@@ -111,6 +115,7 @@ Index of Rules
       Rule 2202: Ratification Without Objection
       Rule 2201: Self-Ratification
       Rule 2395: Government Waste
+      Rule 2402: Office Salary
 
       * Agoran Decisions
       Rule  693: Agoran Decisions
@@ -123,11 +128,14 @@ Index of Rules
       Rule  955: Determining the Will of Agora
       Rule  879: Quorum
       Rule 2034: Vote Protection and Cutoff for Challenges
+      Rule 2406: Veto and Rubberstamp
 
       * Proposals
       Rule 2350: Proposals
       Rule  106: Adopting Proposals
       Rule 1607: Distribution
+      Rule 2404: Proposal Fees
+      Rule 2405: Distributability
       Rule 2373: Voting Chambers
       Rule 2389: Ordinary Chamber
       Rule 2374: Democratization
@@ -157,6 +165,7 @@ Index of Rules
       Rule 2212: Judicial Declarations
       Rule 2367: Messy Statements
       Rule 2394: Crime by Proxy
+      Rule 2403: Judicial Fees
 
       * Patent Titles and Degrees
       Rule  649: Patent Titles
@@ -423,6 +432,7 @@ Agoran Arms
       and an axe in saltire, proper, and in the chief a capital letter
       A, gules.
 
+History:
 Created by Proposal 7428 (omd, Zefram, GreyKnight), 27 May 2013
 
 ----------------------------------------------------------------------
@@ -1296,10 +1306,11 @@ Who Am I?
       within one month before its publication.  Upon a judicial
       finding that the claimed publisher of one or more messages
       (hereafter the Sock Puppet) was not a person, if any of those
-      claims have already self-ratified, then the judge SHALL in a timely
-      fashion publish a judicial declaration that the Sock Puppet
-      was a person during one or more time periods, and SHOULD ensure
-      that it corresponds to general belief prior to that finding.
+      claims have already self-ratified, then the judge SHALL in a
+      timely fashion publish a judicial declaration that the Sock
+      Puppet was a person during one or more time periods, and
+      SHOULD ensure that it corresponds to general belief prior to
+      that finding.
 
       The Executor of a public message is the first-class person who
       sends it, or who most directly and immediately causes it to be
@@ -1533,6 +1544,41 @@ Amended(13) by Proposal 6984 (Murphy), 10 April 2011
 
 ----------------------------------------------------------------------
 
+Rule 2401/0 (Power=2)
+Registration Yaks
+
+      The Registrar CAN award Yaks by announcement, but SHALL NOT do
+      so except as required by the Rules.
+
+      The registration reward is a Budget Switch. As soon as possible
+      after a first-class person registers, the Registrar SHALL award
+      em N Yaks, where N is the value of the registration reward.
+
+      The activity wage is a Budget Switch. As soon as possible after
+      the beginning of each month, the Registrar SHALL award N Yaks to
+      each first-class player who
+       a) was active at the beginning of the month, and
+       b) voted on the last Agoran decision to be resolved in the
+          previous month
+      where N is equal to the activity wage.
+
+      If a first-class person (the recruit), within one week of
+      registering, announces that exactly one player other than emself
+      (the recruitor) recruited em to Agora, then if one month after
+      this announcement the recruit was active and had voted on at
+      least one Agoran decision, the recruitor CAN announce a
+      Recruitment, specifying the identify of the recruit.
+
+      The recruitment reward is a Budget Switch. As soon as possible
+      after a valid announcement of a Recruitment, the Registrar SHALL
+      award N Yaks each to the recruit and the recruitor, where N is
+      the value of the recruitment reward.
+
+History:
+Created by Proposal 7425 (Walker, G., Murphy, omd), 27 May 2013
+
+----------------------------------------------------------------------
+
 ======================================================================
 Foreign Relations
       A category concerning interaction with other nomics.
@@ -1577,8 +1623,8 @@ Foreign Relations
 
       The Ambassador-At-Large CAN, with Agoran Consent, flip a foreign
       nomic's Recognition to any value (subject to the above
-      restriction).  E SHALL inform that nomic of the change in a timely 
-      fashion.
+      restriction).  E SHALL inform that nomic of the change in a
+      timely fashion.
 
       Any Ambassador Extraordinary And Plenipotentiary to a foreign
       nomic CAN by announcement flip its Recognition to any value
@@ -1828,6 +1874,71 @@ Amended(5) by Proposal 7146 (omd), 25 January 2012
 Amended(6) by Proposal 7147 (Murphy), 25 January 2012
 Amended(7) by Proposal 7148 (Murphy), 25 January 2012
 Amended(8) by Proposla 7420 (omd), 27 May 2013
+
+----------------------------------------------------------------------
+
+Rule 2398/0 (Power=2)
+Yaks
+
+      Yaks, with currency symbol 'Y', are a currency; their ownership
+      is restricted to players. The Yak Herdor is an office and
+      recordkeepor of Yaks.
+
+      The maximum FINE amount for Yaks is the value of the Yak FINE
+      Budget Switch.
+
+History:
+Created by Proposal 7425 (Walker, G., Murphy, omd), 27 May 2013
+
+----------------------------------------------------------------------
+
+Rule 2399/0 (Power=2)
+Budget Switches
+
+      A Budget Switch is a switch defined as such by the Rules.
+
+      During the nomination period of an election for an office which
+      is required to track at least one Budget Switch, the candidates
+      CAN publish eir Proposed Budgets, which consist of proposed
+      values of each of the relevant Budget Switches, by announcement.
+      Upon the resolution of such an election, if the winning
+      candidate has a Proposed Budget, the Budget Switches the officer
+      is required to track flip to the values in eir Proposed Budget.
+
+      A player CAN flip a Budget Switch without objection; an officer
+      required to track a particular Budget Switch CAN flip it without
+      three objections, or with Agoran Consent.
+
+      Unless specified otherwise by the Rules, a Budget Switch is a
+      singular natural switch tracked by the Yak Herdor.
+
+History:
+Created by Proposal 7425 (Walker, G., Murphy, omd), 27 May 2013
+
+----------------------------------------------------------------------
+
+Rule 2400/0 (Power=2)
+Tax
+
+      The Yak Herdor CAN destroy other players' Yaks by announcement,
+      but SHALL NOT do so except as explicitly required by the Rules;
+      violating this is the Class 7 Crime of Administrative Error.
+
+      As soon as possible after the beginning of each quarter, the Yak
+      Herdor SHALL:
+       a) destroy N of each first-class player's Yaks, where N is
+          (A/100) * the number of Yaks greater than B they owned at
+          the beginning of the quarter, rounded down, and
+       b) destroy M of each second-class player's Yaks, where M is
+          (C/100) * the number of Yaks greater than D they owned at
+          the beginning of the quarter, rounded down, where
+       1) A is equal to the first-class Tax Rate Budget Switch,
+       2) B is equal to the first-class Tax Threshold Budget Switch,
+       3) C is equal to the second-class Tax Rate Budget Switch, and
+       4) D is equal to the second-class Tax Threshold Budget Switch.
+
+History:
+Created by Proposal 7425 (Walker, G., Murphy, omd), 27 May 2013
 
 ----------------------------------------------------------------------
 
@@ -2436,7 +2547,7 @@ Created by Proposal 6977 (Murphy, David Nicol), 30 March 2011
 
 ----------------------------------------------------------------------
 
-Rule 2162/3 (Power=2)
+Rule 2162/4 (Power=2)
 Switches
 
       A type of switch is a property that the rules define as a
@@ -2470,11 +2581,21 @@ Switches
       instead takes on its last determinate and possible value, if
       any, otherwise it takes on its default value.
 
+      A natural switch is a switch with a default value of 0, unless
+      the rules explicitly specify a different default value.  If the
+      rules define an upper limit for the switch, then the possible
+      values are non-negative integers not greater than that limit,
+      otherwise the values are the non-negative integers.
+
+      A singleton switch is a switch for which Agora Nomic is the only
+      entity possessing an instance of that switch.
+
 History:
 Created by Proposal 5111 (Murphy), 2 August 2007
 Amended(1) by Proposal 5271 (Murphy), 7 November 2007
 Amended(2) by Proposal 7247 (omd), 10 June 2012
 Amended(3) by Proposal 7289 (G.), 9 September 2012
+Amended(4) by Proposal 7425 (Walker, G., Murphy, omd), 27 May 2013
 
 ----------------------------------------------------------------------
 
@@ -3196,17 +3317,20 @@ Amended(9) by Proposal 7403 (omd), 27 April 2013
 
 ----------------------------------------------------------------------
 
-Rule 2154/34 (Power=2)
+Rule 2154/35 (Power=2)
 Election Procedure
 
       A player CAN initiate an election for a specified elected office
       for which no election is already in progress
 
-       a) by announcement, if e is the IADoP, or the office is vacant
-          or assumed, or no election has been initiated for the office
-          within 90 days before the announcement;
+      a) by announcement, if e is the IADoP, or the office is vacant
+         or assumed, or no election has been initiated for the office
+         within 90 days before the announcement;
 
-       b) with 4 Supporters, otherwise.
+      b) by announcement, for a cost of N Yaks, where N is the value
+         of the Election Fee, a Budget Switch;
+
+      c) with 4 Supporters, otherwise.
 
       When an election is initiated, the current holder of the office
       (if any) is initially considered to have been nominated and have
@@ -3286,6 +3410,7 @@ Amended(31) by Proposal 6696 (coppro), 25 April 2010
 Amended(32) by Proposal 6845 (Tanner L. Swett), 3 October 2010
 Amended(33) by Proposal 6969 (Murphy), 20 March 2011
 Amended(34) by Proposal 6972 (G.), 30 March 2011
+Amended(35) by Proposal 7425 (Walker, G., Murphy, omd), 27 May 2013
 
 ----------------------------------------------------------------------
 
@@ -3529,6 +3654,42 @@ Government Waste
 
 History:
 Created by Proposal 7426 (omd, pikhq), 27 May 2013
+
+----------------------------------------------------------------------
+
+Rule 2402/0 (Power=2)
+Office Salary
+
+      Salary is a natural office (non-singular) Budget Switch, tracked
+      by the IADoP.
+
+      The IADoP CAN award Yaks by announcement, but SHALL NOT do so
+      except as required by the Rules.
+
+      During the nomination period of an election, each candidate CAN
+      set their proposed salary, a possible value of the office's
+      salary switch, by announcement. If they fail to do so before the
+      end of the nomination period, their proposed salary is set to
+      100. The proposed salaries for each candidate are essential
+      parameters for the Agoran decision to decide the officeholder.
+      The proposed salary of the winning candidate becomes the salary
+      of the office upon the resolution of the relevant decision.
+
+      A player CAN flip the salary of an office without two
+      objections. The holder of a Postulated office CAN decrease its
+      salary by announcement.
+
+      As soon as possible after the beginning of each month, the IADoP
+      SHALL award each officeholder a number of Yaks equal to the sum
+      of the salaries of eir offices for which:
+       a) the officeholder held the office for at least two weeks
+          continuously in the previous month, and
+       b) the officeholder completed all duties required of em as a
+          result of holding the office during the time e held it,
+          within any time limits for doing so.
+
+History:
+Created by Proposal 7425 (Walker, G., Murphy, omd), 27 May 2013
 
 ----------------------------------------------------------------------
 
@@ -4023,6 +4184,24 @@ Amended(7) by Proposal 7355 (ais523), 7 April 2013
 
 ----------------------------------------------------------------------
 
+Rule 2406/0 (Power=2)
+Veto and Rubberstamp
+
+      A player CAN Veto an Ordinary decision with AI <= 3 for a cost
+      of A Yaks by announcement, where A is the value of the Veto Fee,
+      a Budget Switch; this sets its AI to 3.
+
+      A player CAN Rubberstamp an Ordinary decision with AI <= 2 for a
+      cost of B Yaks by announcement, where B is the value of the
+      Rubberstamp Fee, a Budget Switch; this sets its AI to 2, and
+      among the otherwise-valid votes on a decision that has been
+      Rubberstamped, only the first AGAINST vote per voter is valid.
+
+History:
+Created by Proposal 7425 (Walker, G., Murphy, omd), 27 May 2013
+
+----------------------------------------------------------------------
+
 ======================================================================
 Proposals
       A category concerning the primary and plenipotent system by
@@ -4272,6 +4451,56 @@ Amended(32) by Proposal 7069 (Walker), 16 June 2011
 Amended(33) by Proposal 7083 (Walker), 4 July 2011
 Amended(34) by Proposal 7226 (omd), 10 June 2012
 Amended(35) by Proposal 7239 (omd), 10 June 2012
+
+----------------------------------------------------------------------
+
+Rule 2404/0 (Power=2)
+Proposal Fees
+
+      Proposal fee is a natural undistributed proposal switch, tracked
+      by the Promotor.
+
+      The Assessor CAN award Yaks by announcement, but SHALL NOT do so
+      except as required by the Rules.
+
+      The author of a proposal CAN set its proposal fee by
+      announcement upon its submission. Subsequently, it CAN be set by
+      any player without two objections.
+
+      The proposal fee is an essential parameter for an Agoran
+      decision on whether to adopt the proposal. As soon as possible
+      after a proposal is adopted, the Assessor SHALL award a number
+      of Yaks equal to the value of its fee immediately before it was
+      distributed to its author, and one-third this amount, rounded
+      down, to each of the proposal's co-authors.
+
+History:
+Created by Proposal 7425 (Walker, G., Murphy, omd), 27 May 2013
+
+----------------------------------------------------------------------
+
+Rule 2405/0 (Power=2)
+Distributability
+
+      Distributability is a natural undistributed proposal switch
+      tracked by the Promotor. A player CAN, by announcement, increase
+      the Distributability of a proposal by one for a cost of A Yaks;
+      a player CAN, by announcement, decrease the Distributability of
+      a proposal by two for a cost of B Yaks, where
+      a) A is the value of the Distributability Fee, a Budget Switch,
+         and
+      b) B is the value of the Undistributability Fee, a Budget
+         Switch.
+
+      A disinterested proposal is a proposal identified as such when
+      submitted. If a proposal is disinterested, this is an essential
+      parameter of the decision of whether to adopt it. The remainder
+      of the rules notwithstanding, the proposal fee of a
+      disinterested proposal is 0 and CANNOT be set or changed to any
+      other value.
+
+History:
+Created by Proposal 7425 (Walker, G., Murphy, omd), 27 May 2013
 
 ----------------------------------------------------------------------
 
@@ -5548,6 +5777,26 @@ Crime by Proxy
 
 History:
 Created by Propoasl 7369 (BuckyBot, Bucky), 20 April 2013
+
+----------------------------------------------------------------------
+
+Rule 2403/0 (Power=2)
+Judicial Fees
+
+      The CotC CAN award Yaks by announcement, but SHALL NOT do so
+      except as required by the Rules.
+
+      As soon as possible after a player or an appeals panel judges a
+      judicial case within any time limits for doing so, the CotC
+      SHALL award A Yaks to the player or B Yaks to each member of the
+      judicial panel, where
+      a) A is equal to the value of the Standard Case Fee, a Budget
+         Switch, and
+      b) B is equal to the value of the Standard Appeal Fee, a Budget
+         Switch.
+
+History:
+Created by Proposal 7425 (Walker, G., Murphy, omd), 27 May 2013
 
 ----------------------------------------------------------------------
 
