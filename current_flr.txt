@@ -1,14 +1,14 @@
 THE FULL LOGICAL RULESET
 
-Last updated: 19 May 2013
+Last updated: 30 May 2013
 
-Last proposal with recorded effect on this ruleset: 7417
-Last change to this ruleset: by Proposal 7417
+Last proposal with recorded effect on this ruleset: 7426
+Last change to this ruleset: by Proposal 7426
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
 
-Highest Rule ID number ever assigned: 2394
+Highest Rule ID number ever assigned: 2395
 
 ----------------------------------------------------------------------
 
@@ -108,6 +108,7 @@ Index of Rules
       Rule 1551: Ratification
       Rule 2202: Ratification Without Objection
       Rule 2201: Self-Ratification
+      Rule 2395: Government Waste
 
       * Agoran Decisions
       Rule  693: Agoran Decisions
@@ -3477,6 +3478,18 @@ Amended(2) by Proposal 6243 (Murphy), 9 May 2009
 Amended(3) by Proposal 6622 (Murphy), 20 February 2010
 Amended(4) by Proposal 6744 (Murphy), 1 July 2010
 Amended(5) by Proposal 6922 (Murphy; disi.), 2 January 2011
+
+----------------------------------------------------------------------
+
+Rule 2395/0 (Power=1)
+Government Waste
+
+    There exists an office of Governmental Waste. This office shall
+    have no duties, shall make no reports, and shall exist as the
+    sole result of governmental waste.
+
+History:
+Created by Proposal 7426 (omd, pikhq), 26 May 2013.
 
 ----------------------------------------------------------------------
 
