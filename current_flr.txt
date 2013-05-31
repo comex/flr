@@ -2,13 +2,13 @@ THE FULL LOGICAL RULESET
 
 Last updated: 30 May 2013
 
-Last proposal with recorded effect on this ruleset: 7426
-Last change to this ruleset: by Proposal 7426
+Last proposal with recorded effect on this ruleset: 7428
+Last change to this ruleset: by Proposal 7428
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
 
-Highest Rule ID number ever assigned: 2395
+Highest Rule ID number ever assigned: 2396
 
 ----------------------------------------------------------------------
 
@@ -35,6 +35,7 @@ Index of Rules
       * The Game of Agora
       Rule 2105: The Map of Agora
       Rule  101: The Rights of Agorans
+      Rule 2396: Agoran Arms
       Rule 2125: Regulation Regulations
       Rule 1586: Definition and Continuity of Entities
       Rule 1688: Power
@@ -410,6 +411,18 @@ Amended(11) by Proposal 6028 (Murphy), 8 January 2009
 Amended(12) by Proposal 6158 (Goethe), 31 March 2009
 Amended(13) by Proposal 6589 (c.; disi.), 6 December 2009
 Amended(14) by Proposal 7183 (G.), 26 February 2012
+
+----------------------------------------------------------------------
+
+Rule 2396/0 (Power=1)
+Agoran Arms
+
+      The escutcheon of Agora is defined by the following blazon:
+      Tierced palewise sable, argent, and sable, charged with a quill
+      and an axe in saltire, proper, and in the chief a capital letter
+      A, gules.
+
+Created by Proposal 7428 (omd, Zefram, GreyKnight), 26 May 2013.
 
 ----------------------------------------------------------------------
 
