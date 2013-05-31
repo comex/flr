@@ -14,7 +14,7 @@ Highest Rule ID number ever assigned: 2397
 
 Statistics
 
-Current total number of rules: 109
+Current total number of rules: 112
 
 Power distribution:
        1 with Power=4
@@ -25,7 +25,7 @@ Power distribution:
        9 with Power=1.7
        3 with Power=1.5
        1 with Power=1.1
-      27 with Power=1
+      30 with Power=1
        1 with Power=0.5
 
 ----------------------------------------------------------------------
@@ -423,7 +423,7 @@ Agoran Arms
       and an axe in saltire, proper, and in the chief a capital letter
       A, gules.
 
-Created by Proposal 7428 (omd, Zefram, GreyKnight), 26 May 2013.
+Created by Proposal 7428 (omd, Zefram, GreyKnight), 27 May 2013
 
 ----------------------------------------------------------------------
 
@@ -1036,7 +1036,7 @@ Assigned to Committee on Rules by Proposal 6053 (Murphy, woggle,
   ais523), 23 January 2009
 Amended(4) by Proposal 6734 (comex), 6 June 2010
 Amended(5) by Proposal 6741 (comex; disi.), 1 July 2010
-Amended(6) by Proposal 7433 (Walker), 26 May 2013
+Amended(6) by Proposal 7433 (Walker), 27 May 2013
 
 ----------------------------------------------------------------------
 
@@ -1656,12 +1656,12 @@ The Envoy
       soliciting new Players, in the opinion of the Speaker, shall be
       known as the Envoy.  Any changes in the identity of the Envoy
       shall take effect when announced publicly by the Speaker.
- 
+
       The Envoy shall advertise Agora on a regular basis in any
       non-Agoran public forums e deems appropriate.
 
 History:
-Created by Proposal 7430 (omd, Zefram), 26 May 2013.
+Created by Proposal 7430 (omd, Zefram), 27 May 2013.
 
 ----------------------------------------------------------------------
 
@@ -3522,7 +3522,7 @@ Government Waste
     sole result of governmental waste.
 
 History:
-Created by Proposal 7426 (omd, pikhq), 26 May 2013.
+Created by Proposal 7426 (omd, pikhq), 27 May 2013
 
 ----------------------------------------------------------------------
 
