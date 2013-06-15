@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 15 June 2013
 
-Last proposal with recorded effect on this ruleset: 7444
-Last change to this ruleset: by Proposal 7444
+Last proposal with recorded effect on this ruleset: 7445
+Last change to this ruleset: by Proposal 7445
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -2050,14 +2050,15 @@ Amended(5) by Proposal 7309 (scshunt), 27 September 2012
 
 ----------------------------------------------------------------------
 
-Rule 2338/4 (Power=3)
+Rule 2338/5 (Power=3)
 Cashing Promises
 
-      An entity CAN cash a promise in eir possession by announcing
-      that e does so, provided either that all conditions required to
-      be true for the promise to be cashed are true and determinate,
-      or it has no such conditions.  To do so, e must clearly and
-      unambiguously identify the promise and SHOULD publish its text.
+      An entity CAN cash a promise in eir possession, or in the Tree's
+      possession if e is not its author, by announcing that e does so,
+      provided either that all conditions required to be true for the
+      promise to be cashed are true and determinate, or it has no such
+      conditions.  To do so, e must clearly and unambiguously identify
+      the promise and SHOULD publish its text.
 
       When a promise is cashed, the text of the promise is interpreted
       as if it were published by its author as a standalone statement;
@@ -2074,11 +2075,6 @@ Cashing Promises
       (other provisions of this or other rules notwithstanding) it
       CANNOT be cashed.
 
-      If a promise is possessed by the Tree, any player except the
-      promise's author CAN transfer it to emself by announcement, if e
-      cashes the promise in the same message in which e transfers it
-      to emself.
-
       Horton CAN destroy any promise Without Objection.
 
 History:
@@ -2088,6 +2084,7 @@ Power changed from 2 to 3 by Proposal 7027 (omd), 5 May 2011
 Amended(2) by Proposal 7100 (ais523), 23 July 2011
 Amended(3) by Proposal 7289 (G.), 9 September 2012
 Amended(4) by Proposal 7290 (G.), 9 September 2012
+Amended(5) by Proposal 7445 (omd), 10 June 2013
 
 ----------------------------------------------------------------------
 
