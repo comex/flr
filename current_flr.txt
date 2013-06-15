@@ -2,13 +2,13 @@ THE FULL LOGICAL RULESET
 
 Last updated: 15 June 2013
 
-Last proposal with recorded effect on this ruleset: 7447
-Last change to this ruleset: by Proposal 7447
+Last proposal with recorded effect on this ruleset: 7450
+Last change to this ruleset: by Proposal 7450
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
 
-Highest Rule ID number ever assigned: 2406
+Highest Rule ID number ever assigned: 2407
 
 ----------------------------------------------------------------------
 
@@ -87,6 +87,8 @@ Index of Rules
       Rule 2385: Trading Cards
       Rule 2391: Controlling Interest
       Rule 2392: Proxy Victory
+      Rule 2407: Alliances
+      Rule 2408: Okinawa
       Rule 2387: Ribbons
 
       * Definitions
@@ -1441,7 +1443,7 @@ published with the registrar's report, is part of the game state, even
 though it is not mentioned in the rules and no one is obliged to track
 or publish it.]
 
-[Cross-references (13 February 2008): the Registrar's duties are:
+[Cross-references (15 June 2013): the Registrar's duties are:
   * track citizenship (Rule 869)
   * report players' identity and contact details (Rule 2139)
   * report registration dates (Rule 2139)
@@ -1450,7 +1452,11 @@ or publish it.]
   * track player activity and report change dates (Rule 2130)
   * track forum publicity (Rule 478)
   * report fora (Rule 478)
-  * change the publicity of a forum (Rule 478)]
+  * change the publicity of a forum (Rule 478)
+  * track alliances (Rule 2407)
+  * track switches without an explicit recordkeepor (Rule 478)
+  * track Stasis timers (Rule 1504)
+  * award Registration Yaks (Rule 2401)]
 
 History:
 Created by Proposal 4939 (Murphy), 29 April 2007
@@ -2182,6 +2188,75 @@ Proxy Victory
 
 History:
 Created by Proposal 7358 (G.), 14 April 2013.
+
+----------------------------------------------------------------------
+
+Rule 2407/0 (Power=1)
+Alliances
+
+      An alliance is a set of persons.  Each person is in exactly one
+      alliance.  By default, each person is in an alliance that
+      contains no other persons.  A person CAN join an alliance With
+      the Support of all its existing members; this causes em to cease
+      to be a member of eir previous alliance.  A person CAN leave eir
+      alliance by announcement; this causes em to become a member of a
+      new alliance containing no other persons.  If an alliance is
+      ever empty, it ceases to exist.  The Registrar's report includes
+      all alliances that have more than one member.
+ 
+History:
+Created by Proposal 7450 (Machiavelli), 15 June 2013
+
+----------------------------------------------------------------------
+
+Rule 2408/0 (Power=1)
+Okinawa
+
+      The Sensei is an office; its holder is responsible for keeping
+      track of what's going on in Okinawa.
+
+      Stones are a fixed asset whose recordkeepor is the Sensei.  At
+      the beginning of each week, every active first-class player is
+      awarded 3 Stones.  If a person ever owns more than 10 airborne
+      Stones, they lose airborne Stones until they have only 10.
+
+      Okinawa is an entity consisting of a nine-by-nine grid of Plots
+      of Land.  Every Plot has a Latitude and a Longitude, each
+      ranging from -4 (indicating extreme south or west) to 4
+      (indicating extreme north or east).
+
+      Position is a Stone switch, tracked by the Sensei, whose
+      possible values are "airborne" (default) and every Plot.  It is
+      IMPOSSIBLE for two Stones to occupy the same Plot.  The Sensei
+      SHALL report the Positions of non-airborne Stones by publishing
+      a map of Okinawa.
+
+      Airborne Stones with the same owner are fungible.
+
+      A person CAN, by announcement, Play any Stone that e owns on
+      any unoccupied Plot.
+
+      Two Stones are connected if they are orthogonally adjacent and
+      owned by the same Alliance.  A chain is a connected component of
+      Stones.  A chain is in jeopardy if there are no unoccupied Plots
+      orthogonally adjacent to it.  If a person owns a Stone that is
+      part of a chain that is in jeopardy, then e CANNOT place a Stone
+      on a Plot, the above notwithstanding.  If a chain is in
+      jeopardy, then any person who owns a Stone in it CAN capture the
+      chain by announcement.  If a chain is not in jeopardy, and then
+      a Stone is played causing it to come into jeopardy (without
+      changing the extents of the chain), then the chain is
+      immediately captured.  When a chain is captured, all Stones in
+      it are destroyed.
+
+      If a player has at least seven Stones in Okinawa, and no other
+      player has at least seven Stones in Okinawa, then that player
+      satisfies the Victory Condition of Shouri, and all Stones are
+      destroyed.  When this happens, the Sensei SHOULD announce who
+      the winner was.
+
+History:
+Created by Proposal 7450 (Machiavelli), 15 June 2013
 
 ----------------------------------------------------------------------
 
