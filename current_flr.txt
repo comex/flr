@@ -4504,21 +4504,23 @@ Created by Proposal 7425 (Walker, G., Murphy, omd), 27 May 2013
 
 ----------------------------------------------------------------------
 
-Rule 2373/1 (Power=3)
+Rule 2373/2 (Power=3)
 Voting Chambers
 
-      Voting Chambers are a class of entity. Ordinary is a Voting
-      Chamber.  Creating a Voting Chamber or making an entity a Voting
-      Chamber is Secured with power 2.
+      Voting Chambers are a class of entity. Creating a Voting Chamber
+      or making an entity a Voting Chamber is Secured with power 2.
 
 History:
 Created by Proposal 7274 (FKA441344, ehird), 14 August 2012
 Amended(1) by Proposal 7316 (omd), 16 October 2012
+Amended(2) by Proposal 7446 (omd), 10 June 2013
 
 ----------------------------------------------------------------------
 
-Rule 2389/5 (Power=2)
+Rule 2389/6 (Power=2)
 Ordinary Chamber
+
+      Ordinary is a Voting Chamber.
 
       VVLOP is a player switch, tracked by the Assessor, whose value
       is a non-negative integer; the default value for a player's
@@ -4555,11 +4557,12 @@ Amended(2) by Proposal 7402 (omd), 27 April 2013
 Amended(3) by Proposal 7404 (omd), 27 April 2013
 Amended(4) by Proposal 7405 (omd), 5 May 2013
 Amended(5) by Proposal 7418 (omd), 27 May 2013
+Amended(6) by Proposal 7446 (omd), 10 June 2013
 
 ----------------------------------------------------------------------
 
-Rule 2374/2 (Power=3)
-Democratization
+Rule 2374/3 (Power=3)
+Democratic Chamber
 
       Democratic is a Voting Chamber.  If the Chamber of an entity is
       not Democratic, any first-class Player CAN set it to Democratic
@@ -4571,6 +4574,7 @@ History:
 Created by Proposal 7274 (FKA441344), 14 August 2012
 Amended(1) by Proposal 7296 (scshunt), 9 September 2012
 Retitled and amended(2) by Proposal 7316 (omd), 16 October 2012
+Retitled(3) by Proposal 7446, 10 June 2013
 
 ----------------------------------------------------------------------
 
