@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 15 June 2013
 
-Last proposal with recorded effect on this ruleset: 7445
-Last change to this ruleset: by Proposal 7445
+Last proposal with recorded effect on this ruleset: 7447
+Last change to this ruleset: by Proposal 7447
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -3891,16 +3891,17 @@ Amended(17) by Proposal 7077 (omd), 16 June 2011
 
 ----------------------------------------------------------------------
 
-Rule 2127/7 (Power=1)
+Rule 2127/8 (Power=3)
 Conditional Votes
 
       If a vote on an Agoran decision is submitted conditionally (e.g.
       "FOR if <X> is true, otherwise AGAINST"), then the selected
       option is evaluated based on the value of the condition(s) at
-      the end of the voting period, and is clearly specified if and
-      only if the value of the condition(s) is/are determinate at  the
-      end of the voting period.  If the option cannot be clearly
-      identified, a vote of PRESENT is cast.
+      the end of the voting period, and, rules to the contrary
+      notwithstanding, is clearly specified if and only if the value
+      of the condition(s) is/are determinate at the end of the voting
+      period.  If the option cannot be clearly identified, a vote of
+      PRESENT is cast.
 
       Casting a vote endorsing another voter is equivalent to
       conditionally casting a vote whose value is the same as the most
@@ -3924,6 +3925,7 @@ Amended(4) by Proposal 6331 (Murphy), 29 May 2009
 Amended(5) by Proposal 6383 (Murphy), 3 July 2009
 Amended(6) by Proposal 6403 (coppro), 30 July 2009
 Amended(7) by Proposal 7289 (G.), 9 September 2012
+Power changed and amended(8) by Proposal 7447 (omd), 10 June 2013
 
 ----------------------------------------------------------------------
 
