@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 15 June 2013
 
-Last proposal with recorded effect on this ruleset: 7450
-Last change to this ruleset: by Proposal 7450
+Last proposal with recorded effect on this ruleset: 7451
+Last change to this ruleset: by Proposal 7451
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -20,7 +20,7 @@ Power distribution:
        1 with Power=4
        1 with Power=3.2
        1 with Power=3.1
-      40 with Power=3
+      39 with Power=3
       34 with Power=2
        9 with Power=1.7
        3 with Power=1.5
@@ -3261,7 +3261,7 @@ Amended(35) by Proposal 7403 (omd), 27 Apirl 2013
 
 ----------------------------------------------------------------------
 
-Rule 2143/16 (Power=1)
+Rule 2143/17 (Power=1)
 Official Reports and Duties
 
       For each person:
@@ -3289,7 +3289,7 @@ Official Reports and Duties
 
       While performing weekly or monthly duties or publishing weekly
       or monthly reports, persons SHALL NOT publish information that
-      is inaccurate or misleading.
+      is Indeterminate, inaccurate or misleading.
 
       Reports SHALL be published in plain text.  Tabular data must
       line up properly when viewed in a monospaced font.  Publishing a
@@ -3321,6 +3321,7 @@ Amended(13) by cleaning (Murphy), 29 July 2010
 Amended(14) by Proposal 6967 (Wooble), 20 March 2011
 Amended(15) by Proposal 7045 (Walker), 16 May 2011
 Amended(16) by Proposal 7313 (Machiavelli), 27 September 2012
+Amended(17) by Proposal 7451 (omd), 10 June 2013
 
 ----------------------------------------------------------------------
 
@@ -3631,7 +3632,7 @@ Power changed from 3 to 3.1 by Proposal 7262 (omd), 7 July 2012
 
 ----------------------------------------------------------------------
 
-Rule 2202/4 (Power=3)
+Rule 2202/5 (Power=3)
 Ratification Without Objection
 
       Any player CAN, without objection, ratify a public document,
@@ -3646,12 +3647,13 @@ Ratification Without Objection
 
       A player SHALL NOT knowingly use or announce intent to use
       Ratification Without Objection to ratify a (prior to
-      ratification) incorrect document when a corrected document could
-      be produced with reasonable effort, unless the general nature of
-      the document's error and reason for ratifying it is clearly and
-      plainly described in the announcement of intent.  Such
-      ratification or announcement of intent to ratify is the Class-8
-      Crime of Endorsing Forgery.
+      ratification) document containing incorrect or Indeterminate
+      information when a corrected document could be produced with
+      reasonable effort, unless the general nature of the document's
+      error and reason for ratifying it is clearly and plainly
+      described in the announcement of intent.  Such ratification
+      or announcement of intent to ratify is the Class-8 Crime of
+      Endorsing Forgery.
 
 [CFJ 1836 (called 18 December 2007): Ratification of an official
 document affects only those aspects of gamestate that are defined to
@@ -3670,6 +3672,7 @@ Amended(1) by Proposal 6048 (Wooble), 13 January 2009
 Amended(2) by Proposal 6174 (woggle), 7 April 2009
 Amended(3) by Proposal 6340 (G.), 11 June 2009
 Amended(4) by Proposal 6754 (coppro; disi.), 2 August 2010
+Amended(5) by Proposal 7451 (omd), 10 June 2013
 
 ----------------------------------------------------------------------
 
@@ -4768,7 +4771,7 @@ Amended(3) by Proposal 7088 (omd), 23 July 2011
 
 ----------------------------------------------------------------------
 
-Rule 2381/0 (Power=1.7)
+Rule 2381/1 (Power=1.7)
 Win by Clout
 
       If a single Player has a voting limit on an Agoran Decision that
@@ -4777,12 +4780,14 @@ Win by Clout
       limits of all other entities on that decision, that player
       satisfies the Victory Condition of Clout.
 
-      If a correct Victory Announcement is made for such a win, this
-      Victory Condition ceases to be a Victory Condition for Decisions
-      in the same Chamber for 21 days following the announcement.
+      If a correct and Determinate Victory Announcement is made for
+      such a win, this Victory Condition ceases to be a Victory
+      Condition for Decisions in the same Chamber for 21 days
+      following the announcement.
 
 History:
 Created by Proposal 7312 (G.), 27 September 2012
+Amended(1) by Proposal 7451 (omd), 10 June 2013
 
 ----------------------------------------------------------------------
 
@@ -5830,22 +5835,6 @@ Judicial Declarations
 History:
 Created by Proposal 5715 (Murphy), 7 October 2008
 Amended(1) by Proposal 6923 (omd, G.; disi.), 2 January 2011
-
-----------------------------------------------------------------------
-
-Rule 2367/1 (Power=3)
-Messy Statements
-
-      A statement is messy if its truth value cannot be evaluated in a
-      top-down fashion without encountering some form of infinite
-      regress, such as (but not limited to) self-reference.
-
-      For the purposes of the rules, messy statements are considered
-      nonsensical and meaningless regardless of their truth value.
-
-History:
-Created by Proposal 7249 (omd), 10 June 2012
-Amended(1) by Proposal 7395 (Machiavelli), 20 April 2013
 
 ----------------------------------------------------------------------
 
