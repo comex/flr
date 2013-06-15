@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last updated: 30 May 2013
+Last updated: 15 June 2013
 
-Last proposal with recorded effect on this ruleset: 7425
-Last change to this ruleset: by Proposal 7425
+Last proposal with recorded effect on this ruleset: 7444
+Last change to this ruleset: by Proposal 7444
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -1873,7 +1873,7 @@ Amended(4) by Proposal 7139 (omd), 19 November 2011
 Amended(5) by Proposal 7146 (omd), 25 January 2012
 Amended(6) by Proposal 7147 (Murphy), 25 January 2012
 Amended(7) by Proposal 7148 (Murphy), 25 January 2012
-Amended(8) by Proposla 7420 (omd), 27 May 2013
+Amended(8) by Proposal 7420 (omd), 27 May 2013
 
 ----------------------------------------------------------------------
 
@@ -3930,16 +3930,19 @@ Amended(7) by Proposal 7289 (G.), 9 September 2012
 
 ----------------------------------------------------------------------
 
-Rule 2280/0 (Power=3)
+Rule 2280/1 (Power=3)
 Implicit Votes
 
       When an eligible voter on an Agoran decision attempts to cast
       ballots without explicitly specifying the number of ballots to
       be cast (e.g. "FOR" instead of "FOR*1" or "FOR*3"), e casts a
-      number of ballots equal to eir voting limit on that decision.
+      an implicit vote. At resolution time, rules to the contrary
+      notwithstanding, an implicit vote is treated as if it were a
+      number of identical votes equal to eir voting limit.
 
 History:
 Created by Proposal 6585 (c.; disi.), 6 December 2009
+Amended by Proposal 7444 (omd), 10 June 2013
 
 ----------------------------------------------------------------------
 
@@ -5830,7 +5833,7 @@ Patent Titles
       includes a list of each Patent Title that at least one entity
       Bears, with a list of which entities Bear it.
 
-      In a timely fashion after a patent title is awarded or revoked,
+      As soon as possible after a patent title is awarded or revoked,
       the herald SHALL announce the award or revocation.
 
       When a patent title is used as a noun to refer to bearers of the
