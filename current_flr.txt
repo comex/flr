@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 15 June 2013
 
-Last proposal with recorded effect on this ruleset: 7452
-Last change to this ruleset: by Proposal 7451
+Last proposal with recorded effect on this ruleset: 7435
+Last change to this ruleset: by Proposal 7435
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -2009,14 +2009,14 @@ Created by Proposal 7361 (G.), 14 April 2013.
 
 ----------------------------------------------------------------------
 
-Rule 2337/5 (Power=3)
+Rule 2337/6 (Power=3)
 Promises
 
       Promises are a class of assets.  Horton is an Office and the
       recordkeepor for promises; Horton's weekly report includes the
       text, author, conditions, and owner of all existing promises.
       The Tree is an entity for holding promises.  Ownership of
-      promises is limited to persons, judicial panels, and the Tree.
+      promises is limited to players, judicial panels, and the Tree.
 
       A Player (the promise's author) CAN create a promise in eir
       possession by announcement, clearly specifying its text.
@@ -2053,6 +2053,7 @@ Amended(2) by Proposal 7082 (omd, Pavitra), 4 July 2011
 Amended(3) by Proposal 7100 (ais523), 23 July 2011
 Amended(4) by Proposal 7101 (Pavitra), 23 July 2011
 Amended(5) by Proposal 7309 (scshunt), 27 September 2012
+Amended(6) by Proposal 7436 (scshunt), 10 June 2013
 
 ----------------------------------------------------------------------
 
