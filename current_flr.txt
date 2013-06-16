@@ -2,13 +2,13 @@ THE FULL LOGICAL RULESET
 
 Last updated: 15 June 2013
 
-Last proposal with recorded effect on this ruleset: 7451
+Last proposal with recorded effect on this ruleset: 7452
 Last change to this ruleset: by Proposal 7451
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
 
-Highest Rule ID number ever assigned: 2407
+Highest Rule ID number ever assigned: 2409
 
 ----------------------------------------------------------------------
 
@@ -20,12 +20,12 @@ Power distribution:
        1 with Power=4
        1 with Power=3.2
        1 with Power=3.1
-      39 with Power=3
+      40 with Power=3
       34 with Power=2
        9 with Power=1.7
        3 with Power=1.5
        1 with Power=1.1
-      30 with Power=1
+      32 with Power=1
        1 with Power=0.5
 
 ----------------------------------------------------------------------
@@ -140,7 +140,8 @@ Index of Rules
       Rule 2405: Distributability
       Rule 2373: Voting Chambers
       Rule 2389: Ordinary Chamber
-      Rule 2374: Democratization
+      Rule 2374: Democratic Chamber
+      Rule 2409: Star Chamber
       Rule 1950: Decisions with Adoption Indices
       Rule 2137: The Assessor
       Rule 1698: Agora Is A Nomic
@@ -4655,6 +4656,65 @@ Created by Proposal 7274 (FKA441344), 14 August 2012
 Amended(1) by Proposal 7296 (scshunt), 9 September 2012
 Retitled and amended(2) by Proposal 7316 (omd), 16 October 2012
 Retitled(3) by Proposal 7446, 10 June 2013
+
+----------------------------------------------------------------------
+
+Rule 2409/0 (Power=3)
+Star Chamber
+
+      Star is a Voting Chamber.  The voting limit of an eligible voter
+      on a decision in the Star Chamber is 1.  Submitting a proposal
+      in the Star Chamber has a cost of A Yaks, where A is the value
+      of the Insanity Fee, a Budget Switch.
+
+      The Chamber of a decision CANNOT become Star except by being
+      initialized to that value when the decision is initiated.  If
+      the set of options of a decision in the Star Chamber changes, or
+      such a decision is initiated with more than 1000 options or
+      eligible voters, it automatically becomes Democratic.
+
+      Otherwise, within 24 hours after a decision is initiated in the
+      Star Chamber, the initiator SHALL once, for each eligible voter:
+      - construct a document (the Codebook) clearly listing a distinct
+        code for each option, randomly chosen from a reasonably large
+        universe of possible codes;
+      - publish its SHA-1 hash, clearly labeled as the hash of eir
+        Codebook for that decision; then
+      - privately send it to that voter, clearly labeled as eir
+        Codebook for that decision.
+
+      A player's Codebook for a decision is the first document whose
+      hash has been published as described.  The initiator SHALL NOT
+      mislabel any document as a Codebook or the hash of a Codebook.
+      The initiator SHOULD follow these steps immediately after
+      initiating the decision; if e fails to do so within the time
+      limit, players SHOULD make the decision Democratic.
+
+      Rules to the contrary notwithstanding, when submitting a ballot
+      on a decision in the Star Chamber, an eligible voter must select
+      an option by clearly identifying the code for that option listed
+      in eir Codebook rather than the option itself.
+
+      Within 4 days after the end of such a decision's voting period,
+      the initiator SHALL publish each of its Codebooks, clearly
+      labeled as such; when e does so at any time, the decision
+      becomes Collapsed.  If e does not do so in a timely fashion
+      after the end of the voting period, then all ballots on that
+      decision become invalid and the decision becomes Collapsed.
+      Rules to the contrary notwithstanding, the decision can only be
+      resolved after the decision becomes Collapsed; if the vote
+      collector is required to resolve the decision, e need only do so
+      in a timely fashion after this occurs.
+
+      The initiator of a decision in the Star Chamber SHALL NOT
+      disclose any of its codes, or otherwise allow them to become
+      known to other persons, before the end of the voting period,
+      except as previously described, and SHOULD take measures to
+      assign the codes automatically without em personally seeing
+      them.
+
+History:
+Craeted by Proposal 7452 (omd), 10 June 2013
 
 ----------------------------------------------------------------------
 
