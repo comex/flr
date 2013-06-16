@@ -14,18 +14,18 @@ Highest Rule ID number ever assigned: 2409
 
 Statistics
 
-Current total number of rules: 121
+Current total number of rules: 123
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
        1 with Power=3.1
-      40 with Power=3
+      41 with Power=3
       34 with Power=2
        9 with Power=1.7
        3 with Power=1.5
        1 with Power=1.1
-      32 with Power=1
+      31 with Power=1
        1 with Power=0.5
 
 ----------------------------------------------------------------------
@@ -166,7 +166,6 @@ Index of Rules
       Rule 2204: Linked Assignments
       Rule 2164: Judicial Self-Recusal and Case Transfer
       Rule 2212: Judicial Declarations
-      Rule 2367: Messy Statements
       Rule 2394: Crime by Proxy
       Rule 2403: Judicial Fees
 
@@ -2204,7 +2203,7 @@ Alliances
       new alliance containing no other persons.  If an alliance is
       ever empty, it ceases to exist.  The Registrar's report includes
       all alliances that have more than one member.
- 
+
 History:
 Created by Proposal 7450 (Machiavelli), 15 June 2013
 
@@ -4020,7 +4019,7 @@ Implicit Votes
 
 History:
 Created by Proposal 6585 (c.; disi.), 6 December 2009
-Amended by Proposal 7444 (omd), 10 June 2013
+Amended(1) by Proposal 7444 (omd), 10 June 2013
 
 ----------------------------------------------------------------------
 
@@ -4655,7 +4654,7 @@ History:
 Created by Proposal 7274 (FKA441344), 14 August 2012
 Amended(1) by Proposal 7296 (scshunt), 9 September 2012
 Retitled and amended(2) by Proposal 7316 (omd), 16 October 2012
-Retitled(3) by Proposal 7446, 10 June 2013
+Retitled(3) by Proposal 7446 (omd), 10 June 2013
 
 ----------------------------------------------------------------------
 
@@ -4714,7 +4713,7 @@ Star Chamber
       them.
 
 History:
-Craeted by Proposal 7452 (omd), 10 June 2013
+Created by Proposal 7452 (omd), 10 June 2013
 
 ----------------------------------------------------------------------
 
