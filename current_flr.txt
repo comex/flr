@@ -5434,6 +5434,9 @@ Crime is a violation of the rule so defining it.]
 committed a crime, mentioning the rule that defines the crime, is an
 allegation that e violated that rule.]
 
+[CFJ 3336 (called 10 June 2013): Multiple very similar, simulatenous
+violations can be adjudicated as a single action in a single case.]
+
 History:
 Created by Proposal 1682, Aug. 22 1995
 Amended(1) by Proposal 2570, Apr. 12 1996
