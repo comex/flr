@@ -2,13 +2,13 @@ THE FULL LOGICAL RULESET
 
 Last updated: 15 June 2013
 
-Last proposal with recorded effect on this ruleset: 7462
-Last change to this ruleset: by Proposal 746
+Last proposal with recorded effect on this ruleset: 7465
+Last change to this ruleset: by Proposal 7465
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
 
-Highest Rule ID number ever assigned: 2409
+Highest Rule ID number ever assigned: 2410
 
 ----------------------------------------------------------------------
 
@@ -41,7 +41,6 @@ Index of Rules
       Rule 1688: Power
       Rule 2140: Power Controls Mutability
       Rule  104: First Speaker
-      Rule  103: The Speaker
       Rule 2357: Wisdom of the Elders
       Rule 2358: Win by Paradox
 
@@ -87,7 +86,6 @@ Index of Rules
       Rule 2385: Trading Cards
       Rule 2391: Controlling Interest
       Rule 2392: Proxy Victory
-      Rule 2407: Alliances
       Rule 2408: Okinawa
       Rule 2387: Ribbons
 
@@ -118,6 +116,14 @@ Index of Rules
       Rule 2201: Self-Ratification
       Rule 2395: Government Waste
       Rule 2402: Office Salary
+
+      * Party Politics
+      Rule 2410: Parties
+      Rule 2407: Alliances
+      Rule 2411: Whipping
+      Rule  103: The Speaker
+      Rule 2412: Government
+      Rule 2413: General Elections
 
       * Agoran Decisions
       Rule  693: Agoran Decisions
@@ -601,42 +607,6 @@ shall be Michael Norrish.]
 History:
 Initial Immutable Rule 104, Jun. 30 1993
 Mutated from MI=Unanimity to MI=3 by Proposal 1482, Mar. 15 1995
-
-----------------------------------------------------------------------
-
-Rule 103/14 (Power=2)
-The Speaker
-
-       Whenever a person Wins the Game, e CAN, in a timely fashion,
-       award emself the Patent Title Pope.
-
-       Speaker is an imposed office.  Any Pope CAN, by announcement,
-       take the office of Speaker; this causes the Patent Title
-       Pope to be revoked from em.
-
-History:
-Initial Immutable Rule 103, Jun. 30 1993
-Mutated from MI=Unanimity to MI=3 by Proposal 1481, Mar. 15 1995
-Amended(1) by Proposal 3829 (Steve), Feb. 8 1999
-Retitled by Proposal 4944 (Zefram), 3 May 2007
-Amended(2) by Proposal 4944 (Zefram), 3 May 2007
-Retitled by Proposal 5257 (AFO), 27 October 2007
-Amended(3) by Proposal 5257 (AFO), 27 October 2007
-Amended(4) by Proposal 5407 (root), 22 January 2008
-Power changed from 3 to 1 by Proposal 5947 (ais523), 15 November 2008
-Amended(5) by Proposal 6026 (Murphy), 22 December 2008
-Amended(6) by Proposal 6490 (coppro), 18 September 2009
-Power changed from 1 to 2 by Proposal 6821 (G., ais523), 4 September
-  2010
-Amended(7) by Proposal 6821 (G., ais523), 4 September 2010
-Retitled by Proposal 6961 (G.), 3 March 2011
-Amended(8) by Proposal 6961 (G.), 3 March 2011
-Amended(9) by Proposal 7006 (Walker), 20 April 2011
-Amended(10) by Proposal 7084 (omd), 23 July 2011
-Amended(11) by Proposal 7323 (Machiavelli), 11 January 2013
-Amended(12) by Proposal 7336 (woggle), 27 March 2013
-Amended(13) by Proposal 7340 (G.), 27 March 2013
-Amended(14) by Proposal 7375 (G.), 20 April 2013
 
 ----------------------------------------------------------------------
 
@@ -2185,24 +2155,6 @@ Created by Proposal 7358 (G.), 14 April 2013.
 
 ----------------------------------------------------------------------
 
-Rule 2407/0 (Power=1)
-Alliances
-
-      An alliance is a set of persons.  Each person is in exactly one
-      alliance.  By default, each person is in an alliance that
-      contains no other persons.  A person CAN join an alliance With
-      the Support of all its existing members; this causes em to cease
-      to be a member of eir previous alliance.  A person CAN leave eir
-      alliance by announcement; this causes em to become a member of a
-      new alliance containing no other persons.  If an alliance is
-      ever empty, it ceases to exist.  The Registrar's report includes
-      all alliances that have more than one member.
-
-History:
-Created by Proposal 7450 (Machiavelli), 15 June 2013
-
-----------------------------------------------------------------------
-
 Rule 2408/0 (Power=1)
 Okinawa
 
@@ -3384,7 +3336,7 @@ Amended(9) by Proposal 7403 (omd), 27 April 2013
 
 ----------------------------------------------------------------------
 
-Rule 2154/35 (Power=2)
+Rule 2154/36 (Power=2)
 Election Procedure
 
       A player CAN initiate an election for a specified elected office
@@ -3435,6 +3387,9 @@ Election Procedure
           candidate), thus installing that candidate into the office
           and ending the election.
 
+       5) The party of each candidate and the Whips, if any, of each
+          party on the decision are essential parameters.
+
       Upon the resolution of this decision, its outcome (if a
       candidate) is installed into the office, and the election ends.
 
@@ -3478,6 +3433,7 @@ Amended(32) by Proposal 6845 (Tanner L. Swett), 3 October 2010
 Amended(33) by Proposal 6969 (Murphy), 20 March 2011
 Amended(34) by Proposal 6972 (G.), 30 March 2011
 Amended(35) by Proposal 7425 (Walker, G., Murphy, omd), 27 May 2013
+Amended(36) by Proposal 7465 (Walker), 17 June 2013
 
 ----------------------------------------------------------------------
 
@@ -3516,7 +3472,7 @@ Amended(5) by Proposal 7410 (Machiavelli), 27 April 2013
 
 ----------------------------------------------------------------------
 
-Rule 2138/13 (Power=1)
+Rule 2138/14 (Power=1)
 The Interstellar Associate Director of Personnel
 
       The Interstellar Associate Director of Personnel (IADoP) is an
@@ -3525,7 +3481,7 @@ The Interstellar Associate Director of Personnel
 
       The IADoP's report includes the following:
 
-      a) The holder of each office.
+      a) The holder of each office, and eir party.
       b) The date on which each holder last came to hold that office.
       c) The date when the most recent nomination period for that
          office began.
@@ -3559,6 +3515,7 @@ Amended(10) and title changed by Proposal 6377 (coppro; disi.),
 Amended(11) by Proposal 6493 (coppro; disi.), 18 September 2009
 Retitled and amended(12) by Proposal 6667 (Murphy), 10 March 2010
 Retitled and amended(13) by Proposal 6975 (Murphy), 30 March 2011
+Amended(14) by Proposal 7465 (Walker), 17 June 2013
 
 ----------------------------------------------------------------------
 
@@ -3759,6 +3716,216 @@ Office Salary
 
 History:
 Created by Proposal 7425 (Walker, G., Murphy, omd), 27 May 2013
+
+----------------------------------------------------------------------
+
+======================================================================
+Party Politics
+      A category concerning means for players to ally themselves as a
+      group.
+----------------------------------------------------------------------
+
+Rule 2410/0 (Power=2)
+Parties
+
+      A party is a type of second-class person and a player; Rules to
+      the contrary notwithstanding, parties CANNOT be deregistered
+      except through their dissolution. The Returning Officer is an
+      office; eir report includes a list of all parties.
+
+      Party membership is a first-class Voter switch, tracked by the
+      Returning Officer, with values of each party and Independent
+      (default). A player CAN flip eir party membership by
+      announcement, provided that e satisfies any determinate
+      conditions for doing so in the constitutions of the prior party
+      (if any) and the new party (if any).
+
+      Each party has a constitution which CAN be amended by any of its
+      members without objection from another member. A party member
+      CAN amend eir party's constitution by announcement when
+      authorised to do so by eir party's constitution. Party members
+      SHALL obey their party's constitution. The Returning Officer's
+      monthly report contains the text of each party's constitution.
+
+      Leader and Deputy Leader are party switches, tracked by the
+      Returning Officer, with values of each of the party's members
+      and none (default). A member of a party CAN flip its Leader or
+      Deputy Leader without objection from another party member. A
+      party member CAN flip its Leader or Deputy Leader by
+      announcement when authorised to do so by the party constitution.
+
+      A Independent player CAN create a party with two Independent
+      support, specifying the text of the new party's constitution.
+      Upon the creation of the party the party membership of its
+      creator and each Supporter flips to the new party.
+
+      A player CAN dissolve (destroy) a party without three
+      objections.
+
+Created by Proposal 7465 (Walker), 17 June 2013
+
+----------------------------------------------------------------------
+
+Rule 2407/0 (Power=1)
+Alliances
+
+      An alliance is a set of persons.  Each person is in exactly one
+      alliance.  By default, each person is in an alliance that
+      contains no other persons.  A person CAN join an alliance With
+      the Support of all its existing members; this causes em to cease
+      to be a member of eir previous alliance.  A person CAN leave eir
+      alliance by announcement; this causes em to become a member of a
+      new alliance containing no other persons.  If an alliance is
+      ever empty, it ceases to exist.  The Registrar's report includes
+      all alliances that have more than one member.
+
+History:
+Created by Proposal 7450 (Machiavelli), 15 June 2013
+
+----------------------------------------------------------------------
+
+Rule 2411/0 (Power=1)
+Whipping
+
+      A party's constitution can specify the Rebellion Fines to be
+      paid, in Yaks, for defying each of a One, Two and Three Line
+      Whip.
+
+      When authorised to do so by eir party's constitution, a party
+      member CAN set eir party's Whip on a specified proposal in the
+      Proposal Pool by announcement, specifying one of FOR or AGAINST
+      and whether the Whip is One, Two or Three Lines.
+
+      When authorised to do so by eir party's constitution, a party
+      member CAN, by announcement, set eir party's Whip on an election
+      during its nomination period, specifying one of the candidates
+      and whether the Whip is One, Two or Three Lines.
+
+      Party members SHOULD vote according to their party's Whip on an
+      Agoran decision. If they fail to do so, ey SHALL transfer the
+      relevant Rebellion Fine (if any) to their party in a timely
+      manner afterwards.
+
+      For an Agoran decision on a proposal the party of the proposal's
+      author and the Whips of each party, if any, on the proposal are
+      essential parameters.
+
+History:
+Created by Proposal 7465 (Walker), 17 June 2013
+
+----------------------------------------------------------------------
+
+Rule 103/15 (Power=2)
+The Speaker
+
+      The Speaker is an imposed office and a figurehead of Agora. The
+      Speaker is a person who has proven themselves to be worthy of
+      the title, and for a time can direct Agoran government affairs.
+ 
+      At any time, each player shall be either a Voter or the Speaker;
+      no player may simultaneously be a Voter and a Speaker.  At
+      any time there shall be exactly one Speaker.  The term "player"
+      in the rules shall specifically include both the Voters and
+      the Speaker.
+
+History:
+Initial Immutable Rule 103, Jun. 30 1993
+Mutated from MI=Unanimity to MI=3 by Proposal 1481, Mar. 15 1995
+Amended(1) by Proposal 3829 (Steve), Feb. 8 1999
+Retitled by Proposal 4944 (Zefram), 3 May 2007
+Amended(2) by Proposal 4944 (Zefram), 3 May 2007
+Retitled by Proposal 5257 (AFO), 27 October 2007
+Amended(3) by Proposal 5257 (AFO), 27 October 2007
+Amended(4) by Proposal 5407 (root), 22 January 2008
+Power changed from 3 to 1 by Proposal 5947 (ais523), 15 November 2008
+Amended(5) by Proposal 6026 (Murphy), 22 December 2008
+Amended(6) by Proposal 6490 (coppro), 18 September 2009
+Power changed from 1 to 2 by Proposal 6821 (G., ais523), 4 September
+  2010
+Amended(7) by Proposal 6821 (G., ais523), 4 September 2010
+Retitled by Proposal 6961 (G.), 3 March 2011
+Amended(8) by Proposal 6961 (G.), 3 March 2011
+Amended(9) by Proposal 7006 (Walker), 20 April 2011
+Amended(10) by Proposal 7084 (omd), 23 July 2011
+Amended(11) by Proposal 7323 (Machiavelli), 11 January 2013
+Amended(12) by Proposal 7336 (woggle), 27 March 2013
+Amended(13) by Proposal 7340 (G.), 27 March 2013
+Amended(14) by Proposal 7375 (G.), 20 April 2013
+Amended(15) by Proposal 7465 (Walker) 17 June 2013
+
+----------------------------------------------------------------------
+
+Rule 2412/0 (Power=2)
+Government
+
+      The following are imposed offices, collectively termed the
+      Ministries:
+      a) Majority Leader. The Majority Leader CAN, if e has not
+         already done so to the same decision, veto a specified
+         ordinary decision in its voting period by announcement; this
+         increases its Adoption Index by 1.
+      b) Minority Leader. The Minority Leader CAN filibuster a
+         specified ordinary decision in its voting period by
+         announcement; this makes it Democratic and sets its quorum to
+         half the number of eligible voters, except if that would
+         decrease the quorum, Rules to the contrary notwithstanding.
+      c) Cabinet Secretary. The Cabinet Secretary CAN rubberstamp a
+         specified ordinary decision in its voting period by
+         announcement. Amongst the otherwise valid AGAINST votes on a
+         rubberstamped ordinary decision, only the first cast by each
+         player is valid.
+      e) Chief Whip. The Chief Whip's voting limit on an Ordinary
+         decision is 1.5 times what it would otherwise be, rounded
+         down.
+      f) Chancellor of the Exchequer. When the Yak Herdor is required
+         to destroy a number of the Chancellor's Yaks, e is only
+         required to destroy half the number e would otherwise be
+         required to, rounded down, Rules to the contrary
+         notwithstanding.
+      g) Committee Chairman. The Committee Chairman CAN, if e has not
+         already done so to a given proposal, subject a specified
+         proposal in the Proposal Pool to Death by Committee by
+         announcement; this flips the proposal's Distributability to
+         0. If e has not already done so in the current week, the
+         Committee Chairman CAN give a specified proposal in the
+         Proposal Pool Committee Approval by announcement; this
+         doubles the proposal's Distributability.
+
+      If e has not already done in the current month, or if e has not
+      done so since e gained office, the Speaker CAN form a Government
+      by announcement.
+
+      A valid announcement of the formation of a Government assigns
+      exactly one active player to each of the Ministries; no player
+      can be assigned to more than one Ministry. Upon the formation of
+      a Government, each of the Ministries comes to be held by the
+      player assigned to it by the Speaker.
+
+History:
+Created by Proposal 7465 (Walker), 17 June 2013
+
+----------------------------------------------------------------------
+
+Rule 2412/0 (Power=2)
+General Elections
+
+     If there has not been a General Election in the current Agoran
+     Quarter, then any Party Leader CAN Call a General Election by
+     announcement. In a timely fashion after a General Election is
+     Called, the Returning Officer CAN and SHALL initiate the Agoran
+     decision to elect the Speaker. For this decision:
+
+     1) The valid options are the Party Leaders and NO CHANGE,
+     2) The eligible voters are the active players other than the
+        Speaker, and
+     3) Each eligible voter's voting limit is eir VVLOP, or twice eir
+        VVLOP if e holds a Ministry.
+
+     Upon the resolution of this decision, if the outcome is a party
+     leader, e becomes the Speaker.
+
+History:
+Created by Proposal 7465 (Walker), 17 June 2013
 
 ----------------------------------------------------------------------
 
