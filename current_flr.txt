@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 15 June 2013
 
-Last proposal with recorded effect on this ruleset: 7465
-Last change to this ruleset: by Proposal 7465
+Last proposal with recorded effect on this ruleset: 7470
+Last change to this ruleset: by Proposal 7470
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -1432,7 +1432,7 @@ Amended(5) by Proposal 7416 (omd), 12 May 2013
 
 ----------------------------------------------------------------------
 
-Rule 1789/7 (Power=2)
+Rule 1789/8 (Power=2)
 Cantus Cygneus
 
       Whenever a Player feels that e has been treated so egregiously
@@ -1441,7 +1441,7 @@ Cantus Cygneus
       a Cantus Cygneus, detailing eir grievances and expressing eir
       reproach for those who e feels have treated em so badly.
 
-      As soon as possible after receiving a Cantus Cygneus, the
+      In a timely fashion after receiving a Cantus Cygneus, the
       Registrar shall publish this document along with a Writ of
       Fugere Agorae Grandissima Exprobratione, commanding the Player
       to be deregistered. The Registrar shall note the method of
@@ -1470,6 +1470,7 @@ Amended(4) by Proposal 5815 (Pavitra, Murphy), 1 November 2008
 Amended(5) by Proposal 5991 (Elysion), 7 December 2008
 Amended(6) by Proposal 6099 (Pavitra), 22 February 2009
 Amended(7) by Proposal 6338 (Murphy), 29 May 2009
+Amended(8) by Proposal 7470 (woggle; disi.), 17 June 2013
 
 ----------------------------------------------------------------------
 
@@ -1911,7 +1912,7 @@ Created by Proposal 7425 (Walker, G., Murphy, omd), 27 May 2013
 
 ----------------------------------------------------------------------
 
-Rule 2393/0 (Power=2)
+Rule 2393/1 (Power=2)
 Auctions
 
       An Auction begins when the first announcement that an Auction
@@ -1968,7 +1969,8 @@ Auctions
       auction to emself.
 
 History:
-Created by Proposal 7361 (G.), 14 April 2013.
+Created by Proposal 7361 (G.), 14 April 2013
+Amended(1) by Proposal 7470 (woggle; disi.), 17 May 2013
 
 ----------------------------------------------------------------------
 
@@ -3336,7 +3338,7 @@ Amended(9) by Proposal 7403 (omd), 27 April 2013
 
 ----------------------------------------------------------------------
 
-Rule 2154/36 (Power=2)
+Rule 2154/37 (Power=2)
 Election Procedure
 
       A player CAN initiate an election for a specified elected office
@@ -3359,7 +3361,7 @@ Election Procedure
       period), any player CAN by announcement nominate one or more
       active players.
 
-      As soon as possible after the nomination period ends, the IADoP
+      In a timely fashion after the nomination period ends, the IADoP
       SHALL initiate an Agoran decision to determine the new
       officeholder. For this decision:
 
@@ -3434,6 +3436,7 @@ Amended(33) by Proposal 6969 (Murphy), 20 March 2011
 Amended(34) by Proposal 6972 (G.), 30 March 2011
 Amended(35) by Proposal 7425 (Walker, G., Murphy, omd), 27 May 2013
 Amended(36) by Proposal 7465 (Walker), 17 June 2013
+Amended(37) by Proposal 7470 (woggle; disi.), 17 June 2013
 
 ----------------------------------------------------------------------
 
@@ -5581,10 +5584,10 @@ Assigned to Committee on the Judiciary by Proposal 6053 (Murphy,
 
 ----------------------------------------------------------------------
 
-Rule 2341/0 (Power=1.7)
+Rule 2341/1 (Power=1.7)
 Judgements by Judicial Panels
 
-      As soon as possible after a judicial panel is assigned to a
+      In a timely fashion after a judicial panel is assigned to a
       case, each member of the panel SHALL publish an opinion
       indicating a valid judgement to assign to the case -- only the
       last such published opinion for each member is used to determine
@@ -5606,7 +5609,8 @@ Judgements by Judicial Panels
       reopened in the meanwhile.
 
 History:
-Created by Proposal 7038 (scshunt), 16 May 011
+Created by Proposal 7038 (scshunt), 16 May 2011
+Amended(1) by Proposal 7470 (woggle; disi.), 17 June 2013
 
 ----------------------------------------------------------------------
 
@@ -6094,7 +6098,7 @@ Patent Titles and Degrees
       A category concerning titles of honor and dishonor.
 ----------------------------------------------------------------------
 
-Rule 649/34 (Power=1.5)
+Rule 649/35 (Power=1.5)
 Patent Titles
 
       A Patent Title is a legal item given in recognition of a
@@ -6119,7 +6123,7 @@ Patent Titles
       includes a list of each Patent Title that at least one entity
       Bears, with a list of which entities Bear it.
 
-      As soon as possible after a patent title is awarded or revoked,
+      In a timely fashion after a patent title is awarded or revoked,
       the herald SHALL announce the award or revocation.
 
       When a patent title is used as a noun to refer to bearers of the
@@ -6191,6 +6195,7 @@ Amended(31) by Proposal 6424 (Murphy), 16 August 2009
 Amended(32) by Proposal 7050 (omd), 16 May 2011
 Amended(33) by Proposal 7315 (omd), 16 October 2012
 Amended(34) by Proposal 7420 (omd), 27 May 2013
+Amended(35) by Proposal 7470 (woggle; disi.), 17 June 2013
 
 ----------------------------------------------------------------------
 
