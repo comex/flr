@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 15 June 2013
 
-Last proposal with recorded effect on this ruleset: 7461
-Last change to this ruleset: by Proposal 7461
+Last proposal with recorded effect on this ruleset: 7462
+Last change to this ruleset: by Proposal 746
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -4649,20 +4649,23 @@ Amended(8) by Proposal 7459 (Walker), 17 June 2013
 
 ----------------------------------------------------------------------
 
-Rule 2374/3 (Power=3)
+Rule 2374/4 (Power=3)
 Democratic Chamber
 
       Democratic is a Voting Chamber.  If the Chamber of an entity is
       not Democratic, any first-class Player CAN set it to Democratic
       with 3 Agoran Consent.  Rules to the contrary notwithstanding,
       the voting limit of an eligible voter on a Democratic decision
-      is 1.
+      is 1. Any player CAN, by announcement, set the Chamber of an
+      entity to Democratic for a cost of N Yaks, where N is equal to
+      the value of the Democratization Fee, a Budget Switch.
 
 History:
 Created by Proposal 7274 (FKA441344), 14 August 2012
 Amended(1) by Proposal 7296 (scshunt), 9 September 2012
 Retitled and amended(2) by Proposal 7316 (omd), 16 October 2012
 Retitled(3) by Proposal 7446 (omd), 10 June 2013
+Amended(4) by Proposal 7462 (Walker), 17 June 2013
 
 ----------------------------------------------------------------------
 
