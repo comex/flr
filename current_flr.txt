@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 15 June 2013
 
-Last proposal with recorded effect on this ruleset: 7436
-Last change to this ruleset: by Proposal 7436
+Last proposal with recorded effect on this ruleset: 7455
+Last change to this ruleset: by Proposal 7455
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -165,7 +165,6 @@ Index of Rules
       Rule 2378: Court Protector
       Rule 2204: Linked Assignments
       Rule 2164: Judicial Self-Recusal and Case Transfer
-      Rule 2212: Judicial Declarations
       Rule 2394: Crime by Proxy
       Rule 2403: Judicial Fees
 
@@ -1288,7 +1287,7 @@ Amended(33) by Proposal 7269 (FKA441344, G.), 25 July 2012
 
 ----------------------------------------------------------------------
 
-Rule 2170/9 (Power=3)
+Rule 2170/10 (Power=3)
 Who Am I?
 
       Rules regarding persons pertain to those persons directly, not
@@ -1304,14 +1303,7 @@ Who Am I?
       of its publisher is self-ratifying, provided that the claim is
       neither ambiguous nor self-contradictory, and no challenge of
       identity pertaining to the claimed publisher has been issued
-      within one month before its publication.  Upon a judicial
-      finding that the claimed publisher of one or more messages
-      (hereafter the Sock Puppet) was not a person, if any of those
-      claims have already self-ratified, then the judge SHALL in a
-      timely fashion publish a judicial declaration that the Sock
-      Puppet was a person during one or more time periods, and
-      SHOULD ensure that it corresponds to general belief prior to
-      that finding.
+      within one month before its publication.
 
       The Executor of a public message is the first-class person who
       sends it, or who most directly and immediately causes it to be
@@ -1344,6 +1336,7 @@ Amended(6) by Proposal 6571 (ais523), 28 November 2009
 Amended(7) by Proposal 7178 (G.), 26 February 2012
 Amended(8) by Proposal 7185 (441344), 26 February 2012
 Amended(9) by Proposal 7420 (omd), 27 May 2013
+Amended(10) by Proposal 7455 (omd), 17 June 2013
 
 ----------------------------------------------------------------------
 
@@ -5875,26 +5868,6 @@ Amended(1) by Proposal 5151 (root), 29 August 2007
 Amended(2) by Proposal 5465 (Murphy), 13 March 2008
 Amended(3) by Proposal 6024 (Murphy), 22 December 2008
 Amended(4) by Proposal 7050 (omd), 16 May 2011
-
-----------------------------------------------------------------------
-
-Rule 2212/1 (Power=1.7)
-Judicial Declarations
-
-      A judicial declaration is a document labeled as such and
-      published by a person purporting to be the judge of a specific
-      judicial case, which contains only information e would be
-      required by the Rules, were e the judge, to publish in a
-      judicial declaration.
-
-      The author of a judicial declaration SHOULD attempt to ratify it
-      without objection immediately after publishing it; players
-      SHOULD NOT object to such an attempt unless the judicial
-      declaration was invalid or illegally published.
-
-History:
-Created by Proposal 5715 (Murphy), 7 October 2008
-Amended(1) by Proposal 6923 (omd, G.; disi.), 2 January 2011
 
 ----------------------------------------------------------------------
 
