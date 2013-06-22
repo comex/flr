@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 15 June 2013
 
-Last proposal with recorded effect on this ruleset: 7460
-Last change to this ruleset: by Proposal 7460
+Last proposal with recorded effect on this ruleset: 7461
+Last change to this ruleset: by Proposal 7461
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -4416,7 +4416,7 @@ Amended(35) by Proposal 7246 (omd), 10 June 2012
 
 ----------------------------------------------------------------------
 
-Rule 1607/35 (Power=3)
+Rule 1607/36 (Power=3)
 Distribution
 
       The Promotor is an office; its holder is responsible for
@@ -4430,11 +4430,24 @@ Distribution
       is known as distribution, and removes the proposal from the
       Proposal Pool.
 
+      The Mutability Index (MI) is a Budget Switch.
+
+      A proposal that was in the Proposal Pool at the beginning of a
+      given week is a pending proposal.
+
       The Promotor CAN distribute a proposal which is in the Proposal
-      Pool at any time.  In a given Agoran week, the Promotor SHALL,
-      as part of eir weekly duties, distribute all proposals in the
-      Proposal Pool that were in the Pool at the beginning of that
-      week.
+      Pool at any time.
+
+      In a given Agoran week, the Promotor SHALL, as part of eir
+      weekly duties:
+      a) distribute no more than MI pending proposals with such that
+         the sum of the Distributabilities of the distributed
+         proposals is maximised, breaking ties in favour of proposals
+         which were submitted first, and
+      b) distribute all disinterested pending proposals.
+
+      The Promotor SHALL NOT distribute more than MI interested
+      proposals in a given week.
 
       Distributed proposals have ID numbers, to be assigned by the
       Promotor.
@@ -4525,6 +4538,7 @@ Amended(32) by Proposal 7069 (Walker), 16 June 2011
 Amended(33) by Proposal 7083 (Walker), 4 July 2011
 Amended(34) by Proposal 7226 (omd), 10 June 2012
 Amended(35) by Proposal 7239 (omd), 10 June 2012
+Amended(36) by Proposal 7461 (Walker), 17 June 2013
 
 ----------------------------------------------------------------------
 
