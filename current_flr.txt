@@ -3765,6 +3765,7 @@ Parties
       A player CAN dissolve (destroy) a party without three
       objections.
 
+History:
 Created by Proposal 7465 (Walker), 17 June 2013
 
 ----------------------------------------------------------------------
