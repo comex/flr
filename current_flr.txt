@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 15 June 2013
 
-Last proposal with recorded effect on this ruleset: 7459
-Last change to this ruleset: by Proposal 7459
+Last proposal with recorded effect on this ruleset: 7460
+Last change to this ruleset: by Proposal 7460
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -5113,7 +5113,7 @@ Amended(37) by Proposal 7293 (Murphy), 9 September 2012
 
 ----------------------------------------------------------------------
 
-Rule 1504/59 (Power=2)
+Rule 1504/60 (Power=2)
 Criminal Cases
 
       Criminal cases are a subclass of judicial cases.  Any person can
@@ -5136,8 +5136,9 @@ Criminal Cases
        (b) the breach occurred within 30 days prior to the case being
            initiated;
        (c) judgement has not already been reached in another criminal
-           case with the same Accused, the same rule, and
-           substantially the same alleged act;
+           case initiated between the breach and the initiation of this
+           case with the same Accused, the same rule, and substantially
+           the same alleged act;
        (d) the Accused should have reasonably believed that the
            alleged act did violate the specified rule;
        (e) the Accused could have reasonably avoided committing the
@@ -5315,6 +5316,7 @@ Amended(56) by Proposal 7118 (scshunt), 20 August 2011
 Amended(57) by Proposal 7146 (omd), 25 January 2012
 Amended(58) by Proposal 7265 (ais523), 25 July 2012
 Amended(59) by Proposal 7420 (omd), 27 May 2013
+Amended(70) by Proposal 7460 (omd), 17 June 2013
 
 ----------------------------------------------------------------------
 
