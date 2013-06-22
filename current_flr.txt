@@ -8,24 +8,24 @@ Last change to this ruleset: by Proposal 7470
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
 
-Highest Rule ID number ever assigned: 2410
+Highest Rule ID number ever assigned: 2413
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 123
+Current total number of rules: 126
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
        1 with Power=3.1
       41 with Power=3
-      34 with Power=2
-       9 with Power=1.7
+      37 with Power=2
+       8 with Power=1.7
        3 with Power=1.5
        1 with Power=1.1
-      31 with Power=1
+      32 with Power=1
        1 with Power=0.5
 
 ----------------------------------------------------------------------
@@ -3824,7 +3824,7 @@ The Speaker
       The Speaker is an imposed office and a figurehead of Agora. The
       Speaker is a person who has proven themselves to be worthy of
       the title, and for a time can direct Agoran government affairs.
- 
+
       At any time, each player shall be either a Voter or the Speaker;
       no player may simultaneously be a Voter and a Speaker.  At
       any time there shall be exactly one Speaker.  The term "player"
@@ -3909,7 +3909,7 @@ Created by Proposal 7465 (Walker), 17 June 2013
 
 ----------------------------------------------------------------------
 
-Rule 2412/0 (Power=2)
+Rule 2413/0 (Power=2)
 General Elections
 
      If there has not been a General Election in the current Agoran
@@ -5323,9 +5323,9 @@ Criminal Cases
        (b) the breach occurred within 30 days prior to the case being
            initiated;
        (c) judgement has not already been reached in another criminal
-           case initiated between the breach and the initiation of this
-           case with the same Accused, the same rule, and substantially
-           the same alleged act;
+           case initiated between the breach and the initiation of
+           this case with the same Accused, the same rule, and
+           substantially the same alleged act;
        (d) the Accused should have reasonably believed that the
            alleged act did violate the specified rule;
        (e) the Accused could have reasonably avoided committing the
@@ -5503,7 +5503,7 @@ Amended(56) by Proposal 7118 (scshunt), 20 August 2011
 Amended(57) by Proposal 7146 (omd), 25 January 2012
 Amended(58) by Proposal 7265 (ais523), 25 July 2012
 Amended(59) by Proposal 7420 (omd), 27 May 2013
-Amended(70) by Proposal 7460 (omd), 17 June 2013
+Amended(60) by Proposal 7460 (omd), 17 June 2013
 
 ----------------------------------------------------------------------
 
