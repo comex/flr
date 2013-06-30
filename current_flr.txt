@@ -2298,7 +2298,7 @@ Ribbons
       earning a White Ribbon.
 
 History:
-Created by Proposal 7326 (Machiavelli), 11 Jaunuary 2013.
+Created by Proposal 7326 (Machiavelli), 11 January 2013.
 Amended(1) by Proposal 7349 (G.), 11 March 2013.
 Amended(2) by Proposal 7335 (Machiavelli), 27 March 2013.
 Amended(3) by Proposal 7352 (Machiavelli), 27 March 2013.
@@ -5956,7 +5956,7 @@ The Standing Court
 
       Initial Posture is an Agora Nomic switch, tracked by the CotC in
       eir report, with the same values as Posture and a default value
-      of Supine.  The Justiciar CAN flip Initial Posture with Support.
+      of Supine.  The CotC CAN flip Initial Posture with Support.
 
 [CFJ 1765 (called 16 October 2007): When the CotC is obliged to change
 a player's posture due to recusal, this rule makes em capable of doing
