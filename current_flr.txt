@@ -3123,7 +3123,7 @@ The Dictionary
 
 History:
 Created by Proposal 7320 (scshunt), 23 December 2012
-Amended(1) by Proposal 7328 (Murphy, scshunt), 9 Febraury 2013
+Amended(1) by Proposal 7328 (Murphy, scshunt), 9 February 2013
 Amended(2) by Proposal 7331 (Machiavelli), 9 February 2013
 
 ----------------------------------------------------------------------
