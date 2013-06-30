@@ -3205,7 +3205,7 @@ Amended(31) by cleaning (Murphy), 6 March 2010
 Amended(32) by Proposal 6790 (Wooble), 27 August 2010
 Amended(33) by Proposal 6959 (G.), 31 January 2011
 Amended(34) by Proposal 7272 (FKA441344), 14 August 2012
-Amended(35) by Proposal 7403 (omd), 27 Apirl 2013
+Amended(35) by Proposal 7403 (omd), 27 April 2013
 
 ----------------------------------------------------------------------
 
