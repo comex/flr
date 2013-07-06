@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 6 July 2013
 
-Last proposal with recorded effect on this ruleset: 7479
-Last change to this ruleset: by Proposal 7479
+Last proposal with recorded effect on this ruleset: 7480
+Last change to this ruleset: by Proposal 7480
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -4689,7 +4689,7 @@ Amended(36) by Proposal 7461 (Walker), 17 June 2013
 
 ----------------------------------------------------------------------
 
-Rule 2404/0 (Power=2)
+Rule 2404/1 (Power=2)
 Proposal Fees
 
       Proposal fee is a natural undistributed proposal switch, tracked
@@ -4699,8 +4699,7 @@ Proposal Fees
       except as required by the Rules.
 
       The author of a proposal CAN set its proposal fee by
-      announcement upon its submission. Subsequently, it CAN be set by
-      any player without two objections.
+      announcement upon its submission.
 
       The proposal fee is an essential parameter for an Agoran
       decision on whether to adopt the proposal. As soon as possible
@@ -4709,12 +4708,16 @@ Proposal Fees
       distributed to its author, and one-third this amount, rounded
       down, to each of the proposal's co-authors.
 
+      A proposal with a proposal fee of 0 is disinterested; proposals
+      with positive proposal fees are interested.
+
 History:
 Created by Proposal 7425 (Walker, G., Murphy, omd), 27 May 2013
+Amended(1) by Proposal 7480 (scshunt, omd), 29 June 2013
 
 ----------------------------------------------------------------------
 
-Rule 2405/0 (Power=2)
+Rule 2405/1 (Power=2)
 Distributability
 
       Distributability is a natural undistributed proposal switch
@@ -4727,15 +4730,9 @@ Distributability
       b) B is the value of the Undistributability Fee, a Budget
          Switch.
 
-      A disinterested proposal is a proposal identified as such when
-      submitted. If a proposal is disinterested, this is an essential
-      parameter of the decision of whether to adopt it. The remainder
-      of the rules notwithstanding, the proposal fee of a
-      disinterested proposal is 0 and CANNOT be set or changed to any
-      other value.
-
 History:
 Created by Proposal 7425 (Walker, G., Murphy, omd), 27 May 2013
+Amended(1) by Proposal 7480 (scshunt, omd), 29 June 2013
 
 ----------------------------------------------------------------------
 
