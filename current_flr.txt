@@ -3662,7 +3662,7 @@ Created by Proposal 7426 (omd, pikhq), 27 May 2013
 
 ----------------------------------------------------------------------
 
-Rule 2402/0 (Power=2)
+Rule 2402/1 (Power=2)
 Office Salary
 
       Salary is a natural office (non-singular) Budget Switch, tracked
@@ -3690,11 +3690,12 @@ Office Salary
        a) the officeholder held the office for at least two weeks
           continuously in the previous month, and
        b) the officeholder completed all duties required of em as a
-          result of holding the office during the time e held it,
-          within any time limits for doing so.
+          result of holding the office during that month, within any
+          time limits for doing so.
 
 History:
 Created by Proposal 7425 (Walker, G., Murphy, omd), 27 May 2013
+Amended(1) by Proposal 7481 (scshunt), 29 June 2013
 
 ----------------------------------------------------------------------
 
