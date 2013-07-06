@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 6 July 2013
 
-Last proposal with recorded effect on this ruleset: 7478
-Last change to this ruleset: by Proposal 7478
+Last proposal with recorded effect on this ruleset: 7479
+Last change to this ruleset: by Proposal 7479
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -5277,7 +5277,7 @@ Amended(37) by Proposal 7293 (Murphy), 9 September 2012
 
 ----------------------------------------------------------------------
 
-Rule 1504/60 (Power=2)
+Rule 1504/61 (Power=2)
 Criminal Cases
 
       Criminal cases are a subclass of judicial cases.  Any person can
@@ -5357,14 +5357,15 @@ Criminal Cases
         the prescribed tasks (in a timely fashion, unless a different
         time limit is specified).
 
-      * TIME OUT with a number of days between 7 and 21.  Stasis is a
-        player timer, tracked by the Registrar.  When a sentence of
-        TIME OUT goes into effect, the ninny becomes inactive, and eir
-        stasis timer increases by the specified amount; when it ceases
-        to be in effect, eir stasis timer is decreased by the
-        specified amount.  While a player is inactive, eir stasis
-        timer is counting down.  While a player's stasis timer is
-        positive, e CANNOT become active.
+      * TIME OUT with a number of days between 7 and 21, appropriate
+        for rue breaches of moderate consequence.  Stasis is a player
+        timer, tracked by the Registrar.  When a sentence of TIME OUT
+        goes into effect, the ninny becomes inactive, and eir stasis
+        timer increases by the specified amount; when it ceases to be
+        in effect, eir stasis timer is decreased by the specified
+        amount.  While a player is inactive, eir stasis timer is
+        counting down.  While a player's stasis timer is positive, e
+        CANNOT become active.
 
       * EXILE, appropriate for rule breaches of the highest severity.
         When a judgement of EXILE has been in effect continuously for
@@ -5484,6 +5485,7 @@ Amended(57) by Proposal 7146 (omd), 25 January 2012
 Amended(58) by Proposal 7265 (ais523), 25 July 2012
 Amended(59) by Proposal 7420 (omd), 27 May 2013
 Amended(60) by Proposal 7460 (omd), 17 June 2013
+Amended(61) by Proposal 7479 (scshunt), 29 June 2013
 
 ----------------------------------------------------------------------
 
