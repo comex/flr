@@ -101,7 +101,6 @@ Index of Rules
       Rule 2288: Induction
       Rule 2124: Agoran Satisfaction
       Rule 2334: Timers
-      Rule 2388: The Dictionary
 
       * Offices
       Rule 1006: Offices
@@ -1974,7 +1973,7 @@ Amended(1) by Proposal 7470 (woggle; disi.), 17 May 2013
 
 ----------------------------------------------------------------------
 
-Rule 2337/6 (Power=3)
+Rule 2337/7 (Power=3)
 Promises
 
       Promises are a class of assets.  Horton is an Office and the
@@ -2009,6 +2008,10 @@ Promises
       If a promise has one or more conditions under which the author
       of the promise can destroy it, and they are all satisfied, then
       the author CAN destroy that promise with notice.
+      
+      A persistent promise is one whose conditions for destruction on
+      cashing is {false}.  A revocable promise is one whose set of
+      conditions for author destruction is {true}.
 
 History:
 Created by Proposal 7015 (G., ais523), 23 April 2011
@@ -2019,6 +2022,7 @@ Amended(3) by Proposal 7100 (ais523), 23 July 2011
 Amended(4) by Proposal 7101 (Pavitra), 23 July 2011
 Amended(5) by Proposal 7309 (scshunt), 27 September 2012
 Amended(6) by Proposal 7436 (scshunt), 10 June 2013
+Amended(7) by Proposal 7475 (omd), 29 June 2013
 
 ----------------------------------------------------------------------
 
@@ -3094,38 +3098,6 @@ Timers
 
 History:
 Created by Proposal 7002 (Murphy), 20 April 2011
-
-----------------------------------------------------------------------
-
-Rule 2388/2 (Power=0.5)
-The Dictionary
-
-      The Dictionary is a list of common terms and shorthands used in
-      playing Agora and their definitions.  A player CAN add a
-      definition to the Dictionary without objection, and a player CAN
-      remove a definition from the Dictionary with Agoran Consent.
-      Persons SHOULD NOT object to the addition of a definition unless
-      the definition is pointless or disruptive.
-
-      When, in a public message, an entity uses a term defined in the
-      Dictionary, unless there is explicit indication otherwise, the
-      message is to be interpreted using the definition in the
-      Dictionary.  Terms defined in the Dictionary have no effect on
-      the interpretation of the rules, except insofar as they may lead
-      to the formation of game custom.
-
-      A definition in The Dictionary cannot cause a message to result
-      in an action or other consequence that would not be possible
-      without that definition.
-
-      The Lexicographor is an office; the Dictionary is included in
-      its monthly report.
-
-History:
-Created by Proposal 7320 (scshunt), 23 December 2012
-Amended(1) by Proposal 7328 (Murphy, scshunt), 9 Febraury 2013
-Amended(2) by Proposal 7331 (Machiavelli), 9 February 2013
-Repealed by Proposal 7475 (omd), 29 June 2013
 
 ----------------------------------------------------------------------
 
