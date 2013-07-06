@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 6 July 2013
 
-Last proposal with recorded effect on this ruleset: 7477
-Last change to this ruleset: by Proposal 7477
+Last proposal with recorded effect on this ruleset: 7478
+Last change to this ruleset: by Proposal 7478
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -1572,7 +1572,7 @@ Created by Proposal 7256 (441344, ais523, BobTHJ, Murphy, Pavitra,
 
 ----------------------------------------------------------------------
 
-Rule 2369/4 (Power=1)
+Rule 2369/5 (Power=1)
 Foreign Relations
 
       Recognition is a foreign nomic switch, tracked by the
@@ -1596,8 +1596,9 @@ Foreign Relations
 
       Any Ambassador Extraordinary And Plenipotentiary to a foreign
       nomic CAN by announcement flip its Recognition to any value
-      (subject to the above restriction).  E SHALL inform that nomic
-      of the change in a timely fashion.
+      (subject to the above restriction).  Unless its new recognition
+      is Abandoned, E SHALL inform that nomic of the change in a
+      timely fashion.
 
 History:
 Created by Proposal 7256 (441344, ais523, BobTHJ, Murphy, Pavitra,
@@ -1606,6 +1607,7 @@ Amended(1) by Proposal 7258 (441344), 7 July 2012
 Amended(2) by Proposal 7273 (FKA441344), 14 August 2012
 Amended(3) by Proposal 7372 (G.), 20 April 2013
 Amended(4) by Proposal 7420 (omd), 27 May 2013
+Amended(5) by Proposal 7478 (scshunt), 29 June 2013
 
 ----------------------------------------------------------------------
 
