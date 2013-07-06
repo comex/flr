@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last updated: 15 June 2013
+Last updated: 6 July 2013
 
-Last proposal with recorded effect on this ruleset: 7470
-Last change to this ruleset: by Proposal 7470
+Last proposal with recorded effect on this ruleset: 7475
+Last change to this ruleset: by Proposal 7475
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 7 July 2012
@@ -2298,7 +2298,7 @@ Ribbons
       earning a White Ribbon.
 
 History:
-Created by Proposal 7326 (Machiavelli), 11 January 2013.
+Created by Proposal 7326 (Machiavelli), 11 Jaunuary 2013.
 Amended(1) by Proposal 7349 (G.), 11 March 2013.
 Amended(2) by Proposal 7335 (Machiavelli), 27 March 2013.
 Amended(3) by Proposal 7352 (Machiavelli), 27 March 2013.
@@ -3123,8 +3123,9 @@ The Dictionary
 
 History:
 Created by Proposal 7320 (scshunt), 23 December 2012
-Amended(1) by Proposal 7328 (Murphy, scshunt), 9 February 2013
+Amended(1) by Proposal 7328 (Murphy, scshunt), 9 Febraury 2013
 Amended(2) by Proposal 7331 (Machiavelli), 9 February 2013
+Repealed by Proposal 7475 (omd), 29 June 2013
 
 ----------------------------------------------------------------------
 
@@ -3205,7 +3206,7 @@ Amended(31) by cleaning (Murphy), 6 March 2010
 Amended(32) by Proposal 6790 (Wooble), 27 August 2010
 Amended(33) by Proposal 6959 (G.), 31 January 2011
 Amended(34) by Proposal 7272 (FKA441344), 14 August 2012
-Amended(35) by Proposal 7403 (omd), 27 April 2013
+Amended(35) by Proposal 7403 (omd), 27 Apirl 2013
 
 ----------------------------------------------------------------------
 
