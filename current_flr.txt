@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 13 July 2013
 
-Last proposal with recorded effect on this ruleset: 7502
-Last change to this ruleset: by Proposal 7502
+Last proposal with recorded effect on this ruleset: 7499
+Last change to this ruleset: by Proposal 7499
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 13 July 2012
@@ -2315,7 +2315,7 @@ Amended(4) by Proposal 7353 (Machiavelli), 27 March 2013
 Amended(5) by Proposal 7364 (G.), 20 April 2013
 Amended(6) by Proposal 7391 (scshunt), 20 April 2013
 Amended(7) by Proposal 7415 (G.), 5 May 2013
-Amended(8) by Proposal 7499 (scshunt), 8 May 2013
+Amended(8) by Proposal 7499 (scshunt), 8 July 2013
 
 ----------------------------------------------------------------------
 
