@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 13 July 2013
 
-Last proposal with recorded effect on this ruleset: 7503
-Last change to this ruleset: by Proposal 7503
+Last proposal with recorded effect on this ruleset: 7507
+Last change to this ruleset: by Proposal 7507
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 13 July 2012
@@ -5172,7 +5172,7 @@ Amended(37) by Proposal 7293 (Murphy), 9 September 2012
 
 ----------------------------------------------------------------------
 
-Rule 1504/62 (Power=2)
+Rule 1504/63 (Power=2)
 Criminal Cases
 
       Criminal cases are a subclass of judicial cases.  Any person can
@@ -5238,7 +5238,11 @@ Criminal Cases
         it to the Lost and Found Department. The ninny is only obliged
         to perform one destruction or transfer per case, even if
         sentences of this type are assigned more than once or go into
-        effect more than once.
+        effect more than once. When the sentence has been in effect
+        for seven days continuously, any player CAN, if the fine has
+        not already been paid and no player has already done so,
+        destroy the specified amount of assets in the possession of
+        the ninny by announcement.
 
       * COMMUNITY SERVICE with a set of up to five tasks (the
         prescribed tasks) that the ninny CAN reasonably and legally
@@ -5382,6 +5386,7 @@ Amended(59) by Proposal 7420 (omd), 27 May 2013
 Amended(60) by Proposal 7460 (omd), 17 June 2013
 Amended(61) by Proposal 7479 (scshunt), 29 June 2013
 Amended(62) by Proposal 7485 (omd), 9 July 2013
+Amended(63) by Proposal 7507 (Walker), 12 July 2013
 
 ----------------------------------------------------------------------
 
