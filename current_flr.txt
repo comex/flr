@@ -2217,7 +2217,7 @@ Amended(1) by Proposal 7477 (Machiavelli), 29 June 2013
 
 ----------------------------------------------------------------------
 
-Rule 2387/8 (Power=1)
+Rule 2387/9 (Power=1)
 Ribbons
 
       Ribbons are a class of fixed assets.  If winning is secured,
@@ -2317,6 +2317,7 @@ Amended(5) by Proposal 7364 (G.), 20 April 2013
 Amended(6) by Proposal 7391 (scshunt), 20 April 2013
 Amended(7) by Proposal 7415 (G.), 5 May 2013
 Amended(8) by Proposal 7499 (scshunt), 9 July 2013
+Repealed(9) as Power=1 Rule "Ribbons" by Proposal 7498 (omd), 9 July 2013
 
 ----------------------------------------------------------------------
 
