@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 13 July 2013
 
-Last proposal with recorded effect on this ruleset: 7507
-Last change to this ruleset: by Proposal 7507
+Last proposal with recorded effect on this ruleset: 7509
+Last change to this ruleset: by Proposal 7509
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 13 July 2012
@@ -5172,7 +5172,7 @@ Amended(37) by Proposal 7293 (Murphy), 9 September 2012
 
 ----------------------------------------------------------------------
 
-Rule 1504/63 (Power=2)
+Rule 1504/64 (Power=2)
 Criminal Cases
 
       Criminal cases are a subclass of judicial cases.  Any person can
@@ -5256,7 +5256,7 @@ Criminal Cases
         the prescribed tasks (in a timely fashion, unless a different
         time limit is specified).
 
-      * TIME OUT with a number of days between 7 and 21, appropriate
+      * TIME OUT with a number of days between 4 and 21, appropriate
         for rue breaches of moderate consequence.  Stasis is a player
         timer, tracked by the Registrar.  When a sentence of TIME OUT
         goes into effect, the ninny becomes inactive, and eir stasis
@@ -5387,6 +5387,7 @@ Amended(60) by Proposal 7460 (omd), 17 June 2013
 Amended(61) by Proposal 7479 (scshunt), 29 June 2013
 Amended(62) by Proposal 7485 (omd), 9 July 2013
 Amended(63) by Proposal 7507 (Walker), 12 July 2013
+Amended(63) by Proposal 7509 (Walker), 12 July 2013
 
 ----------------------------------------------------------------------
 
