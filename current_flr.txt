@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 13 July 2013
 
-Last proposal with recorded effect on this ruleset: 7498
-Last change to this ruleset: by Proposal 7498
+Last proposal with recorded effect on this ruleset: 7497
+Last change to this ruleset: by Proposal 7497
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 13 July 2012
@@ -2136,6 +2136,7 @@ Trading Cards
 History:
 Created by Proposal 7319 (G., Machiavelli), 23 December 2012
 Amended(1) by Proposal 7329 (Machiavelli), 9 February 2013
+Repealed(2) as Power=1 Rule "Trading Cards" by Proposal 7497 (Walker), 12 July 2013
 
 ----------------------------------------------------------------------
 
