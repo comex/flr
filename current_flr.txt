@@ -8,13 +8,13 @@ Last change to this ruleset: by Proposal 7514
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 13 July 2012
 
-Highest Rule ID number ever assigned: 2413
+Highest Rule ID number ever assigned: 2414
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 126
+Current total number of rules: 123
 
 Power distribution:
        1 with Power=4
@@ -26,7 +26,6 @@ Power distribution:
        3 with Power=1.5
        1 with Power=1.1
       30 with Power=1
-       1 with Power=0.5
 
 ----------------------------------------------------------------------
 
@@ -1513,7 +1512,7 @@ Amended(13) by Proposal 6984 (Murphy), 10 April 2011
 Rule 2401/1 (Power=2)
 Registration Yaks
 
-      The Registrars a Yak Master. 
+      The Registrars a Yak Master.
 
       The registration reward is a Budget Switch. When a first-class
       person registers, the Registrar is impelled to award em N Yaks,
@@ -1535,8 +1534,8 @@ Registration Yaks
       Recruitment, specifying the identify of the recruit.
 
       The recruitment reward is a Budget Switch. When a valid
-      announcement of a Recruitment, the Registrar is impelled to award
-      N Yaks each to the recruit and the recruitor, where N is
+      announcement of a Recruitment, the Registrar is impelled to
+      award N Yaks each to the recruit and the recruitor, where N is
       the value of the recruitment reward.
 
 History:
@@ -2015,7 +2014,7 @@ Promises
       If a promise has one or more conditions under which the author
       of the promise can destroy it, and they are all satisfied, then
       the author CAN destroy that promise with notice.
-      
+
       A persistent promise is one whose conditions for destruction on
       cashing is {false}.  A revocable promise is one whose set of
       conditions for author destruction is {true}.
@@ -2162,7 +2161,7 @@ Okinawa
 
       If a player has at least seven Stones in Okinawa, and no other
       player has Stones in Okinawa, then that player satisfies the
-      Victory Condition of Shouri, and all Stones are destroyed. 
+      Victory Condition of Shouri, and all Stones are destroyed.
       When this happens, the Sensei SHOULD announce who the winner
       was.
 
@@ -4561,10 +4560,10 @@ Proposal Fees
 
       The proposal fee is an essential parameter for an Agoran
       decision on whether to adopt the proposal. When a proposal is
-      adopted, the Assessor is impelled to award a number of Yaks equal
-      to the value of its fee immediately before it was distributed to
-      its author, and one-third this amount, rounded down, to each of
-      the proposal's co-authors.
+      adopted, the Assessor is impelled to award a number of Yaks
+      equal to the value of its fee immediately before it was
+      distributed to its author, and one-third this amount, rounded
+      down, to each of the proposal's co-authors.
 
       A proposal with a proposal fee of 0 is disinterested; proposals
       with positive proposal fees are interested.
@@ -4741,8 +4740,9 @@ Amended(1) by Proposal 7502 (Fool), 8 July 2013
 Rule 2414/0 (Power=1)
 Terrible Stars
 
-      When a decision in the Star Chamber is resolved with no votes FOR,
-      then its author satisfies the Victory Condition of Kangaroo.
+      When a decision in the Star Chamber is resolved with no votes
+      FOR, then its author satisfies the Victory Condition of
+      Kangaroo.
 
       Players SHALL NOT discuss eir votes on proposals in the Star
       Chamber. Doing so is the Class-4 Crime of Contempt for the
@@ -5370,7 +5370,7 @@ Amended(60) by Proposal 7460 (omd), 17 June 2013
 Amended(61) by Proposal 7479 (scshunt), 29 June 2013
 Amended(62) by Proposal 7485 (omd), 9 July 2013
 Amended(63) by Proposal 7507 (Walker), 12 July 2013
-Amended(63) by Proposal 7509 (Walker), 12 July 2013
+Amended(64) by Proposal 7509 (Walker), 12 July 2013
 
 ----------------------------------------------------------------------
 
