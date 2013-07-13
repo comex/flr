@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 13 July 2013
 
-Last proposal with recorded effect on this ruleset: 7485
-Last change to this ruleset: by Proposal 7485
+Last proposal with recorded effect on this ruleset: 7486
+Last change to this ruleset: by Proposal 7486
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 13 July 2012
@@ -3804,18 +3804,12 @@ Created by Proposal 7465 (Walker), 17 June 2013
 
 ----------------------------------------------------------------------
 
-Rule 103/15 (Power=2)
+Rule 103/16 (Power=2)
 The Speaker
 
       The Speaker is an imposed office and a figurehead of Agora. The
       Speaker is a person who has proven themselves to be worthy of
       the title, and for a time can direct Agoran government affairs.
-
-      At any time, each player shall be either a Voter or the Speaker;
-      no player may simultaneously be a Voter and a Speaker.  At
-      any time there shall be exactly one Speaker.  The term "player"
-      in the rules shall specifically include both the Voters and
-      the Speaker.
 
 History:
 Initial Immutable Rule 103, Jun. 30 1993
@@ -3841,6 +3835,7 @@ Amended(12) by Proposal 7336 (woggle), 27 March 2013
 Amended(13) by Proposal 7340 (G.), 27 March 2013
 Amended(14) by Proposal 7375 (G.), 20 April 2013
 Amended(15) by Proposal 7465 (Walker) 17 June 2013
+Amended(16) by Proposal 7486 (scshunt), 9 July 2013
 
 ----------------------------------------------------------------------
 
