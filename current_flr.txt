@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 13 July 2013
 
-Last proposal with recorded effect on this ruleset: 7499
-Last change to this ruleset: by Proposal 7499
+Last proposal with recorded effect on this ruleset: 7485
+Last change to this ruleset: by Proposal 7485
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 13 July 2012
@@ -2315,7 +2315,7 @@ Amended(4) by Proposal 7353 (Machiavelli), 27 March 2013
 Amended(5) by Proposal 7364 (G.), 20 April 2013
 Amended(6) by Proposal 7391 (scshunt), 20 April 2013
 Amended(7) by Proposal 7415 (G.), 5 May 2013
-Amended(8) by Proposal 7499 (scshunt), 8 July 2013
+Amended(8) by Proposal 7499 (scshunt), 9 July 2013
 
 ----------------------------------------------------------------------
 
@@ -3454,7 +3454,7 @@ Amended(5) by Proposal 7410 (Machiavelli), 27 April 2013
 
 ----------------------------------------------------------------------
 
-Rule 2138/14 (Power=1)
+Rule 2138/15 (Power=1)
 The Interstellar Associate Director of Personnel
 
       The Interstellar Associate Director of Personnel (IADoP) is an
@@ -3471,6 +3471,10 @@ The Interstellar Associate Director of Personnel
 
       The portion of a public message purporting to be an IADoP's
       report that lists the holder of each office is self-ratifying.
+
+      Any player CAN, with Agoran Consent, cause this Rule to amend
+      itself by replacing "Interstellar" with an yother single word
+      beginning with "Inter" in its text and title.
 
 [CFJ 1672 (called 18 May 2007): The Interstellar Associate Director of
 Personnel is the Director of Personnel.]
@@ -3498,6 +3502,7 @@ Amended(11) by Proposal 6493 (coppro; disi.), 18 September 2009
 Retitled and amended(12) by Proposal 6667 (Murphy), 10 March 2010
 Retitled and amended(13) by Proposal 6975 (Murphy), 30 March 2011
 Amended(14) by Proposal 7465 (Walker), 17 June 2013
+Amended(15) by Proposal 7483 (scshunt), 9 July 2013
 
 ----------------------------------------------------------------------
 
@@ -5281,35 +5286,35 @@ Amended(37) by Proposal 7293 (Murphy), 9 September 2012
 
 ----------------------------------------------------------------------
 
-Rule 1504/61 (Power=2)
+Rule 1504/62 (Power=2)
 Criminal Cases
 
       Criminal cases are a subclass of judicial cases.  Any person can
       initiate a criminal case by announcement, specifying:
 
-      (a) a person (the Accused),
-      (b) an action the Accused allegedly performed or failed to
+      (a) a person (the defendant),
+      (b) an action the defendant allegedly performed or failed to
           perform, and
       (c) a rule allegedly violated by that action/inaction.
 
-      The initiator and each member of the Accused's basis are
+      The initiator and each member of the defendant's basis are
       unqualified to be assigned as judge of the case.
 
       The valid judgements for a criminal case are as follows:
 
       * GUILTY with a valid sentence, appropriate if the judge finds,
         beyond a reasonable doubt, that ALL of the following are true:
-       (a) the Accused breached the specified rule via the specified
+       (a) the defendant breached the specified rule via the specified
            act;
        (b) the breach occurred within 30 days prior to the case being
            initiated;
        (c) judgement has not already been reached in another criminal
            case initiated between the breach and the initiation of
-           this case with the same Accused, the same rule, and
+           this case with the same defendant, the same rule, and
            substantially the same alleged act;
-       (d) the Accused should have reasonably believed that the
+       (d) the defendant should have reasonably believed that the
            alleged act did violate the specified rule;
-       (e) the Accused could have reasonably avoided committing the
+       (e) the defendant could have reasonably avoided committing the
            breach without committing a different breach of equal or
            greater severity.
 
@@ -5319,7 +5324,7 @@ Criminal Cases
         be true beyond a reasonable doubt.
 
       When a sentence has been assigned as part of a GUILTY judgement,
-      the Accused is known as the ninny, and the sentence is in
+      the defendant is known as the ninny, and the sentence is in
       effect.
 
       The valid sentences are:
@@ -5490,14 +5495,15 @@ Amended(58) by Proposal 7265 (ais523), 25 July 2012
 Amended(59) by Proposal 7420 (omd), 27 May 2013
 Amended(60) by Proposal 7460 (omd), 17 June 2013
 Amended(61) by Proposal 7479 (scshunt), 29 June 2013
+Amended(62) by Proposal 7485 (omd), 9 July 2013
 
 ----------------------------------------------------------------------
 
-Rule 2277/3 (Power=2)
+Rule 2277/4 (Power=2)
 Appeals of Criminal Cases
 
       An appeal concerning any assignment of judgement in a criminal
-      case within the past week CAN be initiated by the accused by
+      case within the past week CAN be initiated by the defendant by
       announcement.
 
 History:
@@ -5505,6 +5511,7 @@ Created by Proposal 6536 (Murphy), 4 November 2009
 Amended(1) by cleaning (omd), 30 November 2010
 Amended(2) by Proposal 6961 (G.), 3 March 2011
 Amended(3) by Proposal 7050 (omd), 16 May 2011
+Amended(4) by Proposal 7485 (omd), 9 July 2013
 
 ----------------------------------------------------------------------
 
