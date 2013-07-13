@@ -25,7 +25,7 @@ Power distribution:
        8 with Power=1.7
        3 with Power=1.5
        1 with Power=1.1
-      31 with Power=1
+      30 with Power=1
        1 with Power=0.5
 
 ----------------------------------------------------------------------
@@ -81,7 +81,6 @@ Index of Rules
       Rule 2393: Auctions
       Rule 2337: Promises
       Rule 2338: Cashing Promises
-      Rule 2356: Naughtiness
       Rule 2354: Costs
       Rule 2391: Controlling Interest
       Rule 2392: Proxy Victory
@@ -2064,21 +2063,6 @@ Amended(2) by Proposal 7100 (ais523), 23 July 2011
 Amended(3) by Proposal 7289 (G.), 9 September 2012
 Amended(4) by Proposal 7290 (G.), 9 September 2012
 Amended(5) by Proposal 7445 (omd), 10 June 2013
-
-----------------------------------------------------------------------
-
-Rule 2356/2 (Power=1)
-Naughtiness
-
-      A person CAN taunt the police by announcement specifying an
-      integer from 1 to 14 inclusive. Doing so is the Class-N Crime
-      of Naughtiness, where N is the specified integer.
-
-History:
-Created by Proposal 7132 (Pavitra), 6 November 2011
-Amended(1) by Proposal 7173 (omd), 16 February 2012
-Amended(2) by Proposal 7511 (scshunt), 12 July 2013
-Repealed(3) as Power=1 Rule "Naughtiness" by Proposal 7512, 12 July 2013
 
 ----------------------------------------------------------------------
 
