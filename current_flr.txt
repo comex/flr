@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 13 July 2013
 
-Last proposal with recorded effect on this ruleset: 7497
-Last change to this ruleset: by Proposal 7497
+Last proposal with recorded effect on this ruleset: 7503
+Last change to this ruleset: by Proposal 7503
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 13 July 2012
@@ -1863,7 +1863,7 @@ Created by Proposal 7425 (Walker, G., Murphy, omd), 27 May 2013
 
 ----------------------------------------------------------------------
 
-Rule 2399/0 (Power=2)
+Rule 2399/1 (Power=2)
 Budget Switches
 
       A Budget Switch is a switch defined as such by the Rules.
@@ -1881,10 +1881,11 @@ Budget Switches
       three objections, or with Agoran Consent.
 
       Unless specified otherwise by the Rules, a Budget Switch is a
-      singular natural switch tracked by the Yak Herdor.
+      singleton natural switch tracked by the Yak Herdor.
 
 History:
 Created by Proposal 7425 (Walker, G., Murphy, omd), 27 May 2013
+Amended(1) by Proposal 7503 (Walker), 12 July 2013
 
 ----------------------------------------------------------------------
 
@@ -3539,11 +3540,11 @@ Created by Proposal 7426 (omd, pikhq), 27 May 2013
 
 ----------------------------------------------------------------------
 
-Rule 2402/1 (Power=2)
+Rule 2402/3 (Power=2)
 Office Salary
 
-      Salary is a natural office (non-singular) Budget Switch, tracked
-      by the IADoP.
+      Salary is a natural office (i.e., non-singleton) Budget Switch,
+      tracked by the IADoP.
 
       The IADoP CAN award Yaks by announcement, but SHALL NOT do so
       except as required by the Rules.
@@ -3552,10 +3553,11 @@ Office Salary
       set their proposed salary, a possible value of the office's
       salary switch, by announcement. If they fail to do so before the
       end of the nomination period, their proposed salary is set to
-      100. The proposed salaries for each candidate are essential
-      parameters for the Agoran decision to decide the officeholder.
-      The proposed salary of the winning candidate becomes the salary
-      of the office upon the resolution of the relevant decision.
+      the current salary of the office. The proposed salaries for each
+      candidate are essential parameters for the Agoran decision to
+      decide the officeholder. The proposed salary of the winning
+      candidate becomes the salary of the office upon the resolution
+      of the relevant decision.
 
       A player CAN flip the salary of an office without two
       objections. The holder of a Postulated office CAN decrease its
@@ -3573,6 +3575,8 @@ Office Salary
 History:
 Created by Proposal 7425 (Walker, G., Murphy, omd), 27 May 2013
 Amended(1) by Proposal 7481 (scshunt), 29 June 2013
+Amended(2) by Proposal 7503 (Walker), 12 July 2013
+Amended(3) by Proposal 7503 (Walker), 12 July 2013
 
 ----------------------------------------------------------------------
 
@@ -4562,11 +4566,10 @@ Amended(36) by Proposal 7461 (Walker), 17 June 2013
 
 ----------------------------------------------------------------------
 
-Rule 2404/1 (Power=2)
+Rule 2404/2 (Power=2)
 Proposal Fees
 
-      Proposal fee is a natural undistributed proposal switch, tracked
-      by the Promotor.
+      Proposal Pool and tracked by the Promotor.
 
       The Assessor CAN award Yaks by announcement, but SHALL NOT do so
       except as required by the Rules.
@@ -4587,17 +4590,19 @@ Proposal Fees
 History:
 Created by Proposal 7425 (Walker, G., Murphy, omd), 27 May 2013
 Amended(1) by Proposal 7480 (scshunt, omd), 29 June 2013
+Amended(2) by Proposal 7503 (Walker), 12 July 2013
 
 ----------------------------------------------------------------------
 
-Rule 2405/1 (Power=2)
+Rule 2405/3 (Power=2)
 Distributability
 
-      Distributability is a natural undistributed proposal switch
-      tracked by the Promotor. A player CAN, by announcement, increase
-      the Distributability of a proposal by one for a cost of A Yaks;
-      a player CAN, by announcement, decrease the Distributability of
-      a proposal by two for a cost of B Yaks, where
+      Distributability is a natural switch possessed by proposals in
+      the Proposal Pool and tracked by the Promotor. A player CAN,
+      by announcement, increase the Distributability of a proposal by
+      one for a cost of A Yaks; a player CAN, by announcement,
+      decrease the Distributability of a proposal by one for a cost
+      of B Yaks, where
       a) A is the value of the Distributability Fee, a Budget Switch,
          and
       b) B is the value of the Undistributability Fee, a Budget
@@ -4606,6 +4611,8 @@ Distributability
 History:
 Created by Proposal 7425 (Walker, G., Murphy, omd), 27 May 2013
 Amended(1) by Proposal 7480 (scshunt, omd), 29 June 2013
+Amended(2) by Proposal 7503 (Walker), 12 July 2013
+Amended(3) by Proposal 7503 (Walker), 12 July 2013
 
 ----------------------------------------------------------------------
 
