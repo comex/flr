@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 6 July 2013
 
-Last proposal with recorded effect on this ruleset: 7499
-Last change to this ruleset: by Proposal 7499
+Last proposal with recorded effect on this ruleset: 7500
+Last change to this ruleset: by Proposal 7500
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 13 July 2012
@@ -1572,15 +1572,15 @@ Created by Proposal 7256 (441344, ais523, BobTHJ, Murphy, Pavitra,
 
 ----------------------------------------------------------------------
 
-Rule 2369/5 (Power=1)
+Rule 2369/6 (Power=1)
 Foreign Relations
 
       Recognition is a foreign nomic switch, tracked by the
       Ambassador-At-Large, with values Unknown (default), Protected,
-      Friendly, Neutral, Sanctioned, Hostile, and Abandoned. Players
-      SHOULD not violate the rules of Protected or Friendly nomics.
-      Recognition is part of the Ambassador-At-Large's monthly
-      report.
+      Friendly, Neutral, Sanctioned, Hostile, Abandoned, and Over.
+      Players SHOULD not violate the rules of Protected or Friendly
+      nomics. Recognition is part of the Ambassador-At-Large's
+      monthly report.
 
       When a non-Unknown foreign nomic becomes a Protectorate, it's
       recognition becomes Protected.  When a foreign nomic ceases to
@@ -1608,6 +1608,7 @@ Amended(2) by Proposal 7273 (FKA441344), 14 August 2012
 Amended(3) by Proposal 7372 (G.), 20 April 2013
 Amended(4) by Proposal 7420 (omd), 27 May 2013
 Amended(5) by Proposal 7478 (scshunt), 29 June 2013
+Amended(6) by Proposal 7500 (Fool), 8 July 2013
 
 ----------------------------------------------------------------------
 
