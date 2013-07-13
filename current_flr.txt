@@ -2,11 +2,11 @@ THE FULL LOGICAL RULESET
 
 Last updated: 6 July 2013
 
-Last proposal with recorded effect on this ruleset: 7480
-Last change to this ruleset: by Proposal 7480
+Last proposal with recorded effect on this ruleset: 7499
+Last change to this ruleset: by Proposal 7499
 
 Last ratification: Short Logical Ruleset of 24 June 2012
-Last ratification date: 7 July 2012
+Last ratification date: 13 July 2012
 
 Highest Rule ID number ever assigned: 2413
 
@@ -2215,7 +2215,7 @@ Amended(1) by Proposal 7477 (Machiavelli), 29 June 2013
 
 ----------------------------------------------------------------------
 
-Rule 2387/7 (Power=1)
+Rule 2387/8 (Power=1)
 Ribbons
 
       Ribbons are a class of fixed assets.  If winning is secured,
@@ -2294,8 +2294,9 @@ Ribbons
 
       Any player CAN, by announcement, destroy nine Ribbons in eir
       possession, each of a different color, to satisfy the Victory
-      Condition of Renaissance and award emself the Patent Title
-      Renascent.
+      Condition of Renaissance. The Herald is authorized to award the
+      Patent Title Renascent to any player who wins the game in this
+      fashion.
 
       A Player who holds the Patent Title Renascent, CAN, with 2
       Support, if e has never done so, cause this rule to amend itself
@@ -2305,14 +2306,15 @@ Ribbons
       earning a White Ribbon.
 
 History:
-Created by Proposal 7326 (Machiavelli), 11 Jaunuary 2013.
-Amended(1) by Proposal 7349 (G.), 11 March 2013.
-Amended(2) by Proposal 7335 (Machiavelli), 27 March 2013.
-Amended(3) by Proposal 7352 (Machiavelli), 27 March 2013.
-Amended(4) by Proposal 7353 (Machiavelli), 27 March 2013.
-Amended(5) by Proposal 7364 (G.), 20 April 2013.
-Amended(6) by Proposal 7391 (scshunt), 20 April 2013.
+Created by Proposal 7326 (Machiavelli), 11 Jaunuary 2013
+Amended(1) by Proposal 7349 (G.), 11 March 2013
+Amended(2) by Proposal 7335 (Machiavelli), 27 March 2013
+Amended(3) by Proposal 7352 (Machiavelli), 27 March 2013
+Amended(4) by Proposal 7353 (Machiavelli), 27 March 2013
+Amended(5) by Proposal 7364 (G.), 20 April 2013
+Amended(6) by Proposal 7391 (scshunt), 20 April 2013
 Amended(7) by Proposal 7415 (G.), 5 May 2013
+Amended(8) by Proposal 7499 (scshunt), 8 May 2013
 
 ----------------------------------------------------------------------
 
