@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last updated: 6 July 2013
+Last updated: 13 July 2013
 
-Last proposal with recorded effect on this ruleset: 7500
-Last change to this ruleset: by Proposal 7500
+Last proposal with recorded effect on this ruleset: 7502
+Last change to this ruleset: by Proposal 7502
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 13 July 2012
@@ -4817,7 +4817,7 @@ Amended(4) by Proposal 7462 (Walker), 17 June 2013
 
 ----------------------------------------------------------------------
 
-Rule 2409/0 (Power=3)
+Rule 2409/1 (Power=3)
 Star Chamber
 
       Star is a Voting Chamber.  The voting limit of an eligible voter
@@ -4851,7 +4851,9 @@ Star Chamber
       Rules to the contrary notwithstanding, when submitting a ballot
       on a decision in the Star Chamber, an eligible voter must select
       an option by clearly identifying the code for that option listed
-      in eir Codebook rather than the option itself.
+      in eir Codebook rather than the option itself. If a voter
+      selects a code not listed in eir Codebook, e thereby votes
+      PRESENT.
 
       Within 4 days after the end of such a decision's voting period,
       the initiator SHALL publish each of its Codebooks, clearly
@@ -4873,6 +4875,7 @@ Star Chamber
 
 History:
 Created by Proposal 7452 (omd), 10 June 2013
+Amended(1) by Proposal 7502 (Fool), 8 July 2013
 
 ----------------------------------------------------------------------
 
