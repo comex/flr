@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 13 July 2013
 
-Last proposal with recorded effect on this ruleset: 7513
-Last change to this ruleset: by Proposal 7513
+Last proposal with recorded effect on this ruleset: 7514
+Last change to this ruleset: by Proposal 7514
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 13 July 2012
@@ -1570,7 +1570,7 @@ Created by Proposal 7256 (441344, ais523, BobTHJ, Murphy, Pavitra,
 
 ----------------------------------------------------------------------
 
-Rule 2369/6 (Power=1)
+Rule 2369/7 (Power=1)
 Foreign Relations
 
       Recognition is a foreign nomic switch, tracked by the
@@ -1587,10 +1587,10 @@ Foreign Relations
       announcement.  A foreign nomic's Recognition CANNOT change to or
       from Protected in any other way.
 
-      The Ambassador-At-Large CAN, with Agoran Consent, flip a foreign
-      nomic's Recognition to any value (subject to the above
-      restriction).  E SHALL inform that nomic of the change in a
-      timely fashion.
+      The Ambassador-At-Large CAN, with Agoran Consent, or without 2
+      objections, flip a foreign nomic's Recognition to any value
+      (subject to the above restriction).  E SHALL inform that nomic
+      of the change in a timely fashion.
 
       Any Ambassador Extraordinary And Plenipotentiary to a foreign
       nomic CAN by announcement flip its Recognition to any value
@@ -1607,6 +1607,7 @@ Amended(3) by Proposal 7372 (G.), 20 April 2013
 Amended(4) by Proposal 7420 (omd), 27 May 2013
 Amended(5) by Proposal 7478 (scshunt), 29 June 2013
 Amended(6) by Proposal 7500 (Fool), 8 July 2013
+Amended(7) by Proposal 7514 (Walker), 12 July 2013
 
 ----------------------------------------------------------------------
 
