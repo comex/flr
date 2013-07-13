@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 13 July 2013
 
-Last proposal with recorded effect on this ruleset: 7509
-Last change to this ruleset: by Proposal 7509
+Last proposal with recorded effect on this ruleset: 7511
+Last change to this ruleset: by Proposal 7511
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 13 July 2012
@@ -2067,24 +2067,17 @@ Amended(5) by Proposal 7445 (omd), 10 June 2013
 
 ----------------------------------------------------------------------
 
-Rule 2356/1 (Power=1)
+Rule 2356/2 (Power=1)
 Naughtiness
 
-      The Police Vigilance Number (PVN) is an integer tracked by the
-      CotC.  Virtue is a person switch tracked by the CotC, with
-      values Virtuous (default) and Unvirtuous.
-
       A person CAN taunt the police by announcement specifying an
-      integer from 1 to 14 inclusive. Doing so makes that person
-      Unvirtuous and increases the PVN by N, and is the Class-N Crime
+      integer from 1 to 14 inclusive. Doing so is the Class-N Crime
       of Naughtiness, where N is the specified integer.
-
-      When the PVN comes to exceed 50, all Virtuous players satisfy
-      the Victory Condition of Clean Nose.
 
 History:
 Created by Proposal 7132 (Pavitra), 6 November 2011
 Amended(1) by Proposal 7173 (omd), 16 February 2012
+Amended(2) by Proposal 7511 (scshunt), 12 July 2013
 
 ----------------------------------------------------------------------
 
