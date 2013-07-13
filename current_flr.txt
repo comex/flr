@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 13 July 2013
 
-Last proposal with recorded effect on this ruleset: 7511
-Last change to this ruleset: by Proposal 7511
+Last proposal with recorded effect on this ruleset: 7512
+Last change to this ruleset: by Proposal 7512
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 13 July 2012
@@ -2078,6 +2078,7 @@ History:
 Created by Proposal 7132 (Pavitra), 6 November 2011
 Amended(1) by Proposal 7173 (omd), 16 February 2012
 Amended(2) by Proposal 7511 (scshunt), 12 July 2013
+Repealed(3) as Power=1 Rule "Naughtiness" by Proposal 7512, 12 July 2013
 
 ----------------------------------------------------------------------
 
