@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 13 July 2013
 
-Last proposal with recorded effect on this ruleset: 7512
-Last change to this ruleset: by Proposal 7512
+Last proposal with recorded effect on this ruleset: 7513
+Last change to this ruleset: by Proposal 7513
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 13 July 2012
@@ -1510,19 +1510,18 @@ Amended(13) by Proposal 6984 (Murphy), 10 April 2011
 
 ----------------------------------------------------------------------
 
-Rule 2401/0 (Power=2)
+Rule 2401/1 (Power=2)
 Registration Yaks
 
-      The Registrar CAN award Yaks by announcement, but SHALL NOT do
-      so except as required by the Rules.
+      The Registrars a Yak Master. 
 
-      The registration reward is a Budget Switch. As soon as possible
-      after a first-class person registers, the Registrar SHALL award
-      em N Yaks, where N is the value of the registration reward.
+      The registration reward is a Budget Switch. When a first-class
+      person registers, the Registrar is impelled to award em N Yaks,
+      where N is the value of the registration reward.
 
-      The activity wage is a Budget Switch. As soon as possible after
-      the beginning of each month, the Registrar SHALL award N Yaks to
-      each first-class player who
+      The activity wage is a Budget Switch. When the beginning of each
+      month, the Registrar is impelled to award N Yaks to each
+      first-class player who
        a) was active at the beginning of the month, and
        b) voted on the last Agoran decision to be resolved in the
           previous month
@@ -1535,13 +1534,14 @@ Registration Yaks
       least one Agoran decision, the recruitor CAN announce a
       Recruitment, specifying the identify of the recruit.
 
-      The recruitment reward is a Budget Switch. As soon as possible
-      after a valid announcement of a Recruitment, the Registrar SHALL
-      award N Yaks each to the recruit and the recruitor, where N is
+      The recruitment reward is a Budget Switch. When a valid
+      announcement of a Recruitment, the Registrar is impelled to award
+      N Yaks each to the recruit and the recruitor, where N is
       the value of the recruitment reward.
 
 History:
 Created by Proposal 7425 (Walker, G., Murphy, omd), 27 May 2013
+Amended(1) by Proposal 2401 (omd), 12 July 2013
 
 ----------------------------------------------------------------------
 
@@ -1847,7 +1847,7 @@ Amended(8) by Proposal 7420 (omd), 27 May 2013
 
 ----------------------------------------------------------------------
 
-Rule 2398/0 (Power=2)
+Rule 2398/1 (Power=2)
 Yaks
 
       Yaks, with currency symbol 'Y', are a currency; their ownership
@@ -1857,8 +1857,15 @@ Yaks
       The maximum FINE amount for Yaks is the value of the Yak FINE
       Budget Switch.
 
+      Yak Masters CAN award and destroy Yaks by announcement, but
+      doing so except as otherwise made POSSIBLE by the Rules, or as
+      follows, is the Class-7 Crime of Administrative Error: After a
+      Yak Master is impelled to make an award or destruction, e MAY
+      once do so, and SHALL do so in a timely fashion.
+
 History:
 Created by Proposal 7425 (Walker, G., Murphy, omd), 27 May 2013
+Amended(1) by Proposal 7513 (omd), 12 July 2013
 
 ----------------------------------------------------------------------
 
@@ -1888,15 +1895,11 @@ Amended(1) by Proposal 7503 (Walker), 12 July 2013
 
 ----------------------------------------------------------------------
 
-Rule 2400/0 (Power=2)
+Rule 2400/1 (Power=2)
 Tax
 
-      The Yak Herdor CAN destroy other players' Yaks by announcement,
-      but SHALL NOT do so except as explicitly required by the Rules;
-      violating this is the Class 7 Crime of Administrative Error.
-
-      As soon as possible after the beginning of each quarter, the Yak
-      Herdor SHALL:
+      The Yak Herdor is a Yak Master.  At the beginning of each
+      quarter, the Yak Herdor is impelled to:
        a) destroy N of each first-class player's Yaks, where N is
           (A/100) * the number of Yaks greater than B they owned at
           the beginning of the quarter, rounded down, and
@@ -1910,6 +1913,7 @@ Tax
 
 History:
 Created by Proposal 7425 (Walker, G., Murphy, omd), 27 May 2013
+Amended(1) by Proposal 7513 (omd), 12 July 2013
 
 ----------------------------------------------------------------------
 
@@ -3518,14 +3522,13 @@ Created by Proposal 7426 (omd, pikhq), 27 May 2013
 
 ----------------------------------------------------------------------
 
-Rule 2402/3 (Power=2)
+Rule 2402/4 (Power=2)
 Office Salary
 
       Salary is a natural office (i.e., non-singleton) Budget Switch,
       tracked by the IADoP.
 
-      The IADoP CAN award Yaks by announcement, but SHALL NOT do so
-      except as required by the Rules.
+      The IADoP is a Yak Master.
 
       During the nomination period of an election, each candidate CAN
       set their proposed salary, a possible value of the office's
@@ -3541,9 +3544,9 @@ Office Salary
       objections. The holder of a Postulated office CAN decrease its
       salary by announcement.
 
-      As soon as possible after the beginning of each month, the IADoP
-      SHALL award each officeholder a number of Yaks equal to the sum
-      of the salaries of eir offices for which:
+      When the beginning of each month, the IADoP is impelled to award
+      each officeholder a number of Yaks equal to the sum of the
+      salaries of eir offices for which:
        a) the officeholder held the office for at least two weeks
           continuously in the previous month, and
        b) the officeholder completed all duties required of em as a
@@ -3555,6 +3558,7 @@ Created by Proposal 7425 (Walker, G., Murphy, omd), 27 May 2013
 Amended(1) by Proposal 7481 (scshunt), 29 June 2013
 Amended(2) by Proposal 7503 (Walker), 12 July 2013
 Amended(3) by Proposal 7503 (Walker), 12 July 2013
+Amended(4) by Proposal 7513 (omd), 12 July 2013
 
 ----------------------------------------------------------------------
 
@@ -4544,23 +4548,22 @@ Amended(36) by Proposal 7461 (Walker), 17 June 2013
 
 ----------------------------------------------------------------------
 
-Rule 2404/2 (Power=2)
+Rule 2404/3 (Power=2)
 Proposal Fees
 
       Proposal Pool and tracked by the Promotor.
 
-      The Assessor CAN award Yaks by announcement, but SHALL NOT do so
-      except as required by the Rules.
+      The Assessor is a Yak Master.
 
       The author of a proposal CAN set its proposal fee by
       announcement upon its submission.
 
       The proposal fee is an essential parameter for an Agoran
-      decision on whether to adopt the proposal. As soon as possible
-      after a proposal is adopted, the Assessor SHALL award a number
-      of Yaks equal to the value of its fee immediately before it was
-      distributed to its author, and one-third this amount, rounded
-      down, to each of the proposal's co-authors.
+      decision on whether to adopt the proposal. When a proposal is
+      adopted, the Assessor is impelled to award a number of Yaks equal
+      to the value of its fee immediately before it was distributed to
+      its author, and one-third this amount, rounded down, to each of
+      the proposal's co-authors.
 
       A proposal with a proposal fee of 0 is disinterested; proposals
       with positive proposal fees are interested.
@@ -4569,6 +4572,7 @@ History:
 Created by Proposal 7425 (Walker, G., Murphy, omd), 27 May 2013
 Amended(1) by Proposal 7480 (scshunt, omd), 29 June 2013
 Amended(2) by Proposal 7503 (Walker), 12 July 2013
+Amended(3) by Proposal 7513 (omd), 12 July 2013
 
 ----------------------------------------------------------------------
 
@@ -5936,16 +5940,15 @@ Created by Propoasl 7369 (BuckyBot, Bucky), 20 April 2013
 
 ----------------------------------------------------------------------
 
-Rule 2403/1 (Power=2)
+Rule 2403/2 (Power=2)
 Judicial Fees
 
-     The CotC CAN award Yaks by announcement, but SHALL NOT do so
-     except as required by the Rules.
+     The CotC is a Yak Master.
 
-     As soon as possible after a player or an appeals panel judges a
-     judicial case within any time limits for doing so, the CotC
-     SHALL award A Yaks to the player or B Yaks to each member of the
-     judicial panel, where
+     When a player or an appeals panel judges a judicial case within
+     any time limits for doing so, the CotC is impelled to award
+     A Yaks to the player or B Yaks to each member of the judicial
+     panel, where
      a) A is equal to the value of the Standard Case Fee, a Budget
         Switch, and
      b) B is equal to the value of the Standard Appeal Fee, a Budget
@@ -5961,6 +5964,7 @@ Judicial Fees
 History:
 Created by Proposal 7425 (Walker, G., Murphy, omd), 27 May 2013
 Amended(1) by Proposal 7492 (Walker), 9 July 2013
+Amended(2) by Proposal 7413 (omd), 12 July 2013
 
 ----------------------------------------------------------------------
 
