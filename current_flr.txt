@@ -25,7 +25,7 @@ Power distribution:
        8 with Power=1.7
        3 with Power=1.5
        1 with Power=1.1
-      32 with Power=1
+      31 with Power=1
        1 with Power=0.5
 
 ----------------------------------------------------------------------
@@ -83,7 +83,6 @@ Index of Rules
       Rule 2338: Cashing Promises
       Rule 2356: Naughtiness
       Rule 2354: Costs
-      Rule 2385: Trading Cards
       Rule 2391: Controlling Interest
       Rule 2392: Proxy Victory
       Rule 2408: Okinawa
@@ -2109,34 +2108,6 @@ Costs
 
 History:
 Created by Proposal 7117 (omd), 20 August 2011
-
-----------------------------------------------------------------------
-
-Rule 2385/1 (Power=1)
-Trading Cards
-
-      Trading cards are a class of asset. Ownership of trading cards
-      is restricted to players. Each trading card has a Subject,
-      which is a first-class player.  Whenever an entity becomes a
-      first-class player, 15 trading cards are created in eir
-      possession with emself as their Subject.  If the Subject of a
-      trading card ceases to be a first-class player, that trading
-      card is destroyed. Trading cards with the same Subject are
-      fungible.
-
-      Comic Book Guy is an Office, and the recordkeepor of Trading
-      Cards.
-
-      Any person CAN spend 12 trading cards, no two of which have
-      the same Subject, to fulfill the Victory Condition of Mint Set.
-      When this happens, all trading cards are destroyed, and 15
-      trading cards are created in the possession of each first-class
-      player, with that first-class player as their Subject.
-
-History:
-Created by Proposal 7319 (G., Machiavelli), 23 December 2012
-Amended(1) by Proposal 7329 (Machiavelli), 9 February 2013
-Repealed(2) as Power=1 Rule "Trading Cards" by Proposal 7497 (Walker), 12 July 2013
 
 ----------------------------------------------------------------------
 
