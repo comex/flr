@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 13 July 2013
 
-Last proposal with recorded effect on this ruleset: 7490
-Last change to this ruleset: by Proposal 7490
+Last proposal with recorded effect on this ruleset: 7492
+Last change to this ruleset: by Proposal 7492
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 13 July 2012
@@ -6077,23 +6077,31 @@ Created by Propoasl 7369 (BuckyBot, Bucky), 20 April 2013
 
 ----------------------------------------------------------------------
 
-Rule 2403/0 (Power=2)
+Rule 2403/1 (Power=2)
 Judicial Fees
 
-      The CotC CAN award Yaks by announcement, but SHALL NOT do so
-      except as required by the Rules.
+     The CotC CAN award Yaks by announcement, but SHALL NOT do so
+     except as required by the Rules.
 
-      As soon as possible after a player or an appeals panel judges a
-      judicial case within any time limits for doing so, the CotC
-      SHALL award A Yaks to the player or B Yaks to each member of the
-      judicial panel, where
-      a) A is equal to the value of the Standard Case Fee, a Budget
-         Switch, and
-      b) B is equal to the value of the Standard Appeal Fee, a Budget
-         Switch.
+     As soon as possible after a player or an appeals panel judges a
+     judicial case within any time limits for doing so, the CotC
+     SHALL award A Yaks to the player or B Yaks to each member of the
+     judicial panel, where
+     a) A is equal to the value of the Standard Case Fee, a Budget
+        Switch, and
+     b) B is equal to the value of the Standard Appeal Fee, a Budget
+        Switch,
+     except if the judge in question has already assigned a judgement
+     to the same case previously.
+
+     In the week after a judgement is assigned to an appeals case of
+     the form "<action> with prejudice", any player CAN destroy any
+     Yaks the prior judge was awarded for the prior judgement by
+     announcement; the CotC is ENCOURAGED to do so.
 
 History:
 Created by Proposal 7425 (Walker, G., Murphy, omd), 27 May 2013
+Amended(1) by Proposal 7492 (Walker), 9 July 2013
 
 ----------------------------------------------------------------------
 
