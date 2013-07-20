@@ -1512,7 +1512,7 @@ Amended(13) by Proposal 6984 (Murphy), 10 April 2011
 Rule 2401/1 (Power=2)
 Registration Yaks
 
-      The Registrars a Yak Master.
+      The Registrar is a Yak Master.
 
       The registration reward is a Budget Switch. When a first-class
       person registers, the Registrar is impelled to award em N Yaks,
@@ -1540,7 +1540,7 @@ Registration Yaks
 
 History:
 Created by Proposal 7425 (Walker, G., Murphy, omd), 27 May 2013
-Amended(1) by Proposal 2401 (omd), 12 July 2013
+Amended(1) by Proposal 7513 (omd), 12 July 2013
 
 ----------------------------------------------------------------------
 
