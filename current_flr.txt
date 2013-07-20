@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 13 July 2013
 
-Last proposal with recorded effect on this ruleset: 7520
-Last change to this ruleset: by Proposal 7520
+Last proposal with recorded effect on this ruleset: 7523
+Last change to this ruleset: by Proposal 7523
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 13 July 2012
@@ -1264,7 +1264,7 @@ Amended(33) by Proposal 7269 (FKA441344, G.), 25 July 2012
 
 ----------------------------------------------------------------------
 
-Rule 2170/10 (Power=3)
+Rule 2170/11 (Power=3)
 Who Am I?
 
       Rules regarding persons pertain to those persons directly, not
@@ -1286,10 +1286,9 @@ Who Am I?
       sends it, or who most directly and immediately causes it to be
       sent.  (Upon a judicial finding that the Executor of a public
       message cannot otherwise be determined within reasonable effort,
-      the judge SHALL in a timely fashion publish a judicial
-      declaration specifying the identity of that message's Executor.)
-      The executor of an action performed by announcement is the
-      executor of the announcement.
+      the judge SHOULD attempt to ratify a document specifying eir
+      identity.) The executor of an action performed by announcement
+      is the executor of the announcement.
 
 [CFJs 2184-2192 (called 24 September 2008): A message signature
 containing a unique nickname is not a self-ratifying claim that its
@@ -1314,6 +1313,7 @@ Amended(7) by Proposal 7178 (G.), 26 February 2012
 Amended(8) by Proposal 7185 (441344), 26 February 2012
 Amended(9) by Proposal 7420 (omd), 27 May 2013
 Amended(10) by Proposal 7455 (omd), 17 June 2013
+Amended(11) by Proposal 7523 (omd), 19 July 2013
 
 ----------------------------------------------------------------------
 
