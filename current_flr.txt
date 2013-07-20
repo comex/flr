@@ -174,7 +174,7 @@ Index of Rules
       Rule  649: Patent Titles
       Rule 1367: Degrees
       Rule 2231: Order of the Hero of Agora Nomic
-      Rule 2315: Badges
+      Rule 2415: Badges
 
       * Trophies
       Rule 1727: Happy Birthday
@@ -6201,8 +6201,8 @@ Amended(3) by Proposal 6626 (Murphy), 20 February 2010
 
 ----------------------------------------------------------------------
 
-Rule 2315/0 (Power=1.5)
-Order of the Hero of Agora Nomic
+Rule 2415/0 (Power=1.5)
+Badges
 
       A Badge is any patent title with the word 'badge' as part of
       its name.  A badge SHOULD be used to award multiple persons for
