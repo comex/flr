@@ -14,7 +14,7 @@ Highest Rule ID number ever assigned: 2415
 
 Statistics
 
-Current total number of rules: 123
+Current total number of rules: 124
 
 Power distribution:
        1 with Power=4
@@ -23,7 +23,7 @@ Power distribution:
       41 with Power=3
       37 with Power=2
        8 with Power=1.7
-       3 with Power=1.5
+       4 with Power=1.5
        1 with Power=1.1
       30 with Power=1
 
