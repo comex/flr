@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last updated: 13 July 2013
+Last updated: 20 July 2013
 
 Last proposal with recorded effect on this ruleset: 7524
 Last change to this ruleset: by Proposal 7524
