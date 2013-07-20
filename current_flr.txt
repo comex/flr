@@ -2,13 +2,13 @@ THE FULL LOGICAL RULESET
 
 Last updated: 13 July 2013
 
-Last proposal with recorded effect on this ruleset: 7514
-Last change to this ruleset: by Proposal 7514
+Last proposal with recorded effect on this ruleset: 7516
+Last change to this ruleset: by Proposal 7516
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 13 July 2012
 
-Highest Rule ID number ever assigned: 2414
+Highest Rule ID number ever assigned: 2415
 
 ----------------------------------------------------------------------
 
@@ -174,6 +174,7 @@ Index of Rules
       Rule  649: Patent Titles
       Rule 1367: Degrees
       Rule 2231: Order of the Hero of Agora Nomic
+      Rule 2315: Badges
 
       * Trophies
       Rule 1727: Happy Birthday
@@ -6185,6 +6186,21 @@ Amended(1) by cleaning (Murphy), 16 August 2009
 Amended(2) by Proposal 6571 (ais523), 28 November 2009
 Power changed from 2 to 3 by Proposal 6626 (Murphy), 20 February 2010
 Amended(3) by Proposal 6626 (Murphy), 20 February 2010
+
+----------------------------------------------------------------------
+
+Rule 2315/0 (Power=1.5)
+Order of the Hero of Agora Nomic
+
+      A Badge is any patent title with the word 'badge' as part of
+      its name.  A badge SHOULD be used to award multiple persons for
+      participating in specific event of note within Agora.  Any
+      player CAN award a badge that does not yet exist to three or
+      more persons simultaneously, with Agoran Consent.  The Herald
+      CAN award an existing badge to persons Without Objection.
+
+History:
+Created by Proposal 7516 (G.), 19 July 2013
 
 ----------------------------------------------------------------------
 
