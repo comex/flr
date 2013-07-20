@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 13 July 2013
 
-Last proposal with recorded effect on this ruleset: 7517
-Last change to this ruleset: by Proposal 7517
+Last proposal with recorded effect on this ruleset: 7520
+Last change to this ruleset: by Proposal 7520
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 13 July 2012
@@ -732,7 +732,7 @@ Amended(7) by Proposal 7420 (omd), 27 March 2013
 
 ----------------------------------------------------------------------
 
-Rule 217/7 (Power=3)
+Rule 217/8 (Power=3)
 Interpreting the Rules
 
       When interpreting and applying the rules, the text of the rules
@@ -750,9 +750,9 @@ Interpreting the Rules
       Rules providing non-binding guidance.
 
       Differences in spelling, grammar, capitalization, whitespace,
-      dialect, or the use of synonyms or abbreviations, are generally
-      inconsequential in interpreting rules or communications, as long
-      they do not create ambiguity in meaning.
+      or dialect, and the use of synonyms or abbreviations, are
+      generally inconsequential in interpreting rules or
+      communications, as long they do not create ambiguity in meaning.
 
 [CFJ 1439 (called 20 February 2003): A difference in language
 qualifies as a difference in dialect; it is possible to take game
@@ -835,6 +835,7 @@ Amended(5) by Proposal 4867 (Goethe), 27 August 2006
 Retitled by Proposal 5105 (Zefram), 1 August 2007
 Amended(6) by Proposal 5105 (Zefram), 1 August 2007
 Amended(7) by Proposal 7351 (G., ais523, Machiavelli), 27 March 2013
+Amended(8) by Proposal 7520 (omd), 19 July 2013
 
 ----------------------------------------------------------------------
 
@@ -4747,19 +4748,20 @@ Amended(1) by Proposal 7502 (Fool), 8 July 2013
 
 ----------------------------------------------------------------------
 
-Rule 2414/0 (Power=1)
+Rule 2414/1 (Power=1)
 Terrible Stars
 
       When a decision in the Star Chamber is resolved with no votes
       FOR, then its author satisfies the Victory Condition of
       Kangaroo.
 
-      Players SHALL NOT discuss eir votes on proposals in the Star
+      Players SHALL NOT discuss their votes on proposals in the Star
       Chamber. Doing so is the Class-4 Crime of Contempt for the
       Contempted.
 
 History:
 Created by Proposal 7490 (scshunt), 9 July 2013
+Amended(1) by Proposal 7520 (omd), 19 July 2013
 
 ----------------------------------------------------------------------
 
