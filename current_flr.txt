@@ -428,7 +428,7 @@ Amended(14) by Proposal 7183 (G.), 26 February 2012
 
 ----------------------------------------------------------------------
 
-Rule 2396/0 (Power=1)
+Rule 2396/1 (Power=1)
 Agoran Arms
 
       The escutcheon of Agora is defined by the following blazon:
@@ -436,8 +436,11 @@ Agoran Arms
       and an axe in saltire, proper, and in the chief a capital letter
       A, gules.
 
+      The official flavour of Agora is 'bitter'.
+
 History:
 Created by Proposal 7428 (omd, Zefram, GreyKnight), 27 May 2013
+Amended(1) by Proposal 7517 (Lindar), 19 July 2013
 
 ----------------------------------------------------------------------
 
