@@ -1520,7 +1520,7 @@ Amended(13) by Proposal 6984 (Murphy), 10 April 2011
 
 ----------------------------------------------------------------------
 
-Rule 2401/1 (Power=2)
+Rule 2401/2 (Power=2)
 Registration Yaks
 
       The Registrar is a Yak Master.
@@ -1529,7 +1529,7 @@ Registration Yaks
       person registers, the Registrar is impelled to award em N Yaks,
       where N is the value of the registration reward.
 
-      The activity wage is a Budget Switch. When the beginning of each
+      The activity wage is a Budget Switch. At the beginning of each
       month, the Registrar is impelled to award N Yaks to each
       first-class player who
        a) was active at the beginning of the month, and
@@ -1544,7 +1544,7 @@ Registration Yaks
       least one Agoran decision, the recruitor CAN announce a
       Recruitment, specifying the identify of the recruit.
 
-      The recruitment reward is a Budget Switch. When a valid
+      The recruitment reward is a Budget Switch. Upon a valid
       announcement of a Recruitment, the Registrar is impelled to
       award N Yaks each to the recruit and the recruitor, where N is
       the value of the recruitment reward.
@@ -1552,6 +1552,7 @@ Registration Yaks
 History:
 Created by Proposal 7425 (Walker, G., Murphy, omd), 27 May 2013
 Amended(1) by Proposal 7513 (omd), 12 July 2013
+Amended(2) by Proposal 7526 (woggle), 22 July 2013
 
 ----------------------------------------------------------------------
 
@@ -3534,7 +3535,7 @@ Created by Proposal 7426 (omd, pikhq), 27 May 2013
 
 ----------------------------------------------------------------------
 
-Rule 2402/4 (Power=2)
+Rule 2402/5 (Power=2)
 Office Salary
 
       Salary is a natural office (i.e., non-singleton) Budget Switch,
@@ -3556,7 +3557,7 @@ Office Salary
       objections. The holder of a Postulated office CAN decrease its
       salary by announcement.
 
-      When the beginning of each month, the IADoP is impelled to award
+      At the beginning of each month, the IADoP is impelled to award
       each officeholder a number of Yaks equal to the sum of the
       salaries of eir offices for which:
        a) the officeholder held the office for at least two weeks
@@ -3571,6 +3572,7 @@ Amended(1) by Proposal 7481 (scshunt), 29 June 2013
 Amended(2) by Proposal 7503 (Walker), 12 July 2013
 Amended(3) by Proposal 7503 (Walker), 12 July 2013
 Amended(4) by Proposal 7513 (omd), 12 July 2013
+Amended(5) by Proposal 7526 (woggle), 27 Jul 2013
 
 ----------------------------------------------------------------------
 
