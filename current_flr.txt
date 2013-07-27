@@ -3572,7 +3572,7 @@ Amended(1) by Proposal 7481 (scshunt), 29 June 2013
 Amended(2) by Proposal 7503 (Walker), 12 July 2013
 Amended(3) by Proposal 7503 (Walker), 12 July 2013
 Amended(4) by Proposal 7513 (omd), 12 July 2013
-Amended(5) by Proposal 7526 (woggle), 27 Jul 2013
+Amended(5) by Proposal 7526 (woggle), 27 July 2013
 
 ----------------------------------------------------------------------
 
