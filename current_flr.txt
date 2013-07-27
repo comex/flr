@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last updated: 20 July 2013
+Last updated: 27 July 2013
 
 Last proposal with recorded effect on this ruleset: 7524
 Last change to this ruleset: by Proposal 7524
@@ -4563,6 +4563,7 @@ Amended(36) by Proposal 7461 (Walker), 17 June 2013
 Rule 2404/3 (Power=2)
 Proposal Fees
 
+      Proposal fee is a natural switch possessed by proposals in the
       Proposal Pool and tracked by the Promotor.
 
       The Assessor is a Yak Master.
