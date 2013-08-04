@@ -2,26 +2,26 @@ THE FULL LOGICAL RULESET
 
 Last updated: 3 August 2013
 
-Last proposal with recorded effect on this ruleset: 7541
-Last change to this ruleset: by Proposal 7541
+Last proposal with recorded effect on this ruleset: 7542
+Last change to this ruleset: by Proposal 7542
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 13 July 2012
 
-Highest Rule ID number ever assigned: 2415
+Highest Rule ID number ever assigned: 2416
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 124
+Current total number of rules: 125
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
        1 with Power=3.1
       41 with Power=3
-      38 with Power=2
+      39 with Power=2
        8 with Power=1.7
        4 with Power=1.5
        1 with Power=1.1
@@ -154,6 +154,7 @@ Index of Rules
       Rule 2158: Judges
       Rule  591: Inquiry Cases
       Rule 1504: Criminal Cases
+      Rule 2416: Infraction Cases and Rewards
       Rule 2277: Appeals of Criminal Cases
       Rule 2205: Judicial Arguments and Evidence
       Rule 2157: Judicial Panels
@@ -5177,7 +5178,7 @@ Amended(37) by Proposal 7293 (Murphy), 9 September 2012
 
 ----------------------------------------------------------------------
 
-Rule 1504/65 (Power=2)
+Rule 1504/66 (Power=2)
 Criminal Cases
 
       Criminal cases are a subclass of judicial cases.  Any person can
@@ -5232,22 +5233,16 @@ Criminal Cases
         error, shame, remorse, and ardent desire for self-improvement.
         Failure to do so is a Class-3 Crime of Failure to Apologize.
 
-      * FINE with an amount of one class of asset, appropriate for
-        rule breaches of small consequence.  An amount is only valid
-        if the currency's backing document binds the ninny (the Rules
-        are considered to bind all players) or the ninny has this
-        amount of the asset, and the backing document specifies a
-        maximum FINE amount, and the amount is no greater than the
-        maximum.  When in effect, the ninny SHALL, in a timely
-        fashion, either destroy this amount of eir asset or transfer
-        it to the Lost and Found Department. The ninny is only obliged
-        to perform one destruction or transfer per case, even if
-        sentences of this type are assigned more than once or go into
-        effect more than once. When the sentence has been in effect
-        for seven days continuously, any player CAN, if the fine has
-        not already been paid and no player has already done so,
-        destroy the specified amount of assets in the possession of
-        the ninny by announcement.
+      * FINE with an amount of one currency, appropriate for rule
+        breaches of small consequence.  An amount is only valid if the
+        rules specify a maximum FINE amount for that currency, and the
+        amount is no greater than the maximum.  When in effect, unless
+        a fine for that case has already been satisfied, the ninny
+        SHALL pay a cost of that amount of currency to satisfy the
+        fine in a timely fashion; if e fails to do so within four
+        days, and has at least that amount, then any player CAN
+        destroy that amount from eir possession by announcement to
+        satisfy the fine.
 
       * COMMUNITY SERVICE with a set of up to five tasks (the
         prescribed tasks) that the ninny CAN reasonably and legally
@@ -5393,6 +5388,30 @@ Amended(62) by Proposal 7485 (omd), 9 July 2013
 Amended(63) by Proposal 7507 (Walker), 12 July 2013
 Amended(64) by Proposal 7509 (Walker), 12 July 2013
 Amended(65) by Proposal 7540 (omd), 30 July 2013
+Amended(66) by Proposal 7542 (omd), 30 July 2013
+
+----------------------------------------------------------------------
+
+Rule 2416/0 (Power=2)
+Infraction Cases and Rewards
+
+      An infraction case is a subclass of criminal case; infraction
+      cases need not be assigned ID numbers.  A player CAN initiate an
+      infraction case in the same manner as an ordinary criminal case,
+      unless the alleged action or inaction is defined as a Crime of
+      at least Class 3.  A player CAN contest an infraction case by
+      announcement, which causes it to be rendered open and become an
+      ordinary criminal case.  When an infraction case has existed for
+      at least four days, a judgement of GUILTY, FINE YN goes into
+      effect, where YN is the Standard Infraction Penalty, a Budget
+      Switch; rules to the contrary notwithstanding, this judgement
+      CANNOT be appealed (but the case can still be contested).
+
+      When a fine is paid in a criminal case, its initiator gains the
+      Standard Infraction Reward, a Budget Switch.
+
+History:
+Created by Proposal 7542 (omd), 30 July 2013
 
 ----------------------------------------------------------------------
 
