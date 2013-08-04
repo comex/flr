@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 3 August 2013
 
-Last proposal with recorded effect on this ruleset: 7544
-Last change to this ruleset: by Proposal 7544
+Last proposal with recorded effect on this ruleset: 7546
+Last change to this ruleset: by Proposal 7546
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 13 July 2012
@@ -3524,7 +3524,7 @@ Amended(1) by Proposal 7536 (G., Lindar), 30 July 2013
 
 ----------------------------------------------------------------------
 
-Rule 2402/5 (Power=2)
+Rule 2402/6 (Power=2)
 Office Salary
 
       Salary is a natural office (i.e., non-singleton) Budget Switch,
@@ -3548,12 +3548,9 @@ Office Salary
 
       At the beginning of each month, the IADoP is impelled to award
       each officeholder a number of Yaks equal to the sum of the
-      salaries of eir offices for which:
-       a) the officeholder held the office for at least two weeks
-          continuously in the previous month, and
-       b) the officeholder completed all duties required of em as a
-          result of holding the office during that month, within any
-          time limits for doing so.
+      salaries of eir offices for which the officeholder held the
+      office for at least two weeks continuously in the previous
+      month.
 
 History:
 Created by Proposal 7425 (Walker, G., Murphy, omd), 27 May 2013
@@ -3562,6 +3559,7 @@ Amended(2) by Proposal 7503 (Walker), 12 July 2013
 Amended(3) by Proposal 7503 (Walker), 12 July 2013
 Amended(4) by Proposal 7513 (omd), 12 July 2013
 Amended(5) by Proposal 7526 (woggle), 22 July 2013
+Amended(6) by Proposal 7546 (Walker), 30 July 2013
 
 ----------------------------------------------------------------------
 
