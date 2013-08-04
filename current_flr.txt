@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 3 August 2013
 
-Last proposal with recorded effect on this ruleset: 7536
-Last change to this ruleset: by Proposal 7536
+Last proposal with recorded effect on this ruleset: 7540
+Last change to this ruleset: by Proposal 7540
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 13 July 2012
@@ -3535,7 +3535,7 @@ Government Waste
 
 History:
 Created by Proposal 7426 (omd, pikhq), 27 May 2013
-Amended(1) by Proposal 7536 (G., Lindar), 30 August 2013
+Amended(1) by Proposal 7536 (G., Lindar), 30 July 2013
 
 ----------------------------------------------------------------------
 
@@ -5176,7 +5176,7 @@ Amended(37) by Proposal 7293 (Murphy), 9 September 2012
 
 ----------------------------------------------------------------------
 
-Rule 1504/64 (Power=2)
+Rule 1504/65 (Power=2)
 Criminal Cases
 
       Criminal cases are a subclass of judicial cases.  Any person can
@@ -5262,13 +5262,12 @@ Criminal Cases
 
       * TIME OUT with a number of days between 4 and 21, appropriate
         for rue breaches of moderate consequence.  Stasis is a player
-        timer, tracked by the Registrar.  When a sentence of TIME OUT
-        goes into effect, the ninny becomes inactive, and eir stasis
-        timer increases by the specified amount; when it ceases to be
-        in effect, eir stasis timer is decreased by the specified
-        amount.  While a player is inactive, eir stasis timer is
-        counting down.  While a player's stasis timer is positive, e
-        CANNOT become active.
+        timer, tracked by the Registrar. When a sentence of TIME OUT
+        has been in effect continuously for one week, the ninny
+        becomes inactive, and eir stasis timer increases by the
+        specified amount.  While a player is inactive, eir stasis
+        timer is counting down.  While a player's stasis timer is
+        positive, e CANNOT become active.
 
       * EXILE, appropriate for rule breaches of the highest severity.
         When a judgement of EXILE has been in effect continuously for
@@ -5392,6 +5391,7 @@ Amended(61) by Proposal 7479 (scshunt), 29 June 2013
 Amended(62) by Proposal 7485 (omd), 9 July 2013
 Amended(63) by Proposal 7507 (Walker), 12 July 2013
 Amended(64) by Proposal 7509 (Walker), 12 July 2013
+Amended(65) by Proposal 7540 (omd), 30 July 2013
 
 ----------------------------------------------------------------------
 
