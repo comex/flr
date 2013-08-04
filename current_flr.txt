@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 3 August 2013
 
-Last proposal with recorded effect on this ruleset: 7542
-Last change to this ruleset: by Proposal 7542
+Last proposal with recorded effect on this ruleset: 7543
+Last change to this ruleset: by Proposal 7543
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 13 July 2012
@@ -1930,65 +1930,44 @@ Amended(1) by Proposal 7513 (omd), 12 July 2013
 
 ----------------------------------------------------------------------
 
-Rule 2393/1 (Power=2)
+Rule 2393/2 (Power=2)
 Auctions
 
-      An Auction begins when the first announcement that an Auction
-      has begun is made by a Player (the Auctioneer) authorized by the
-      Rules to initiate that Auction.  The announcement must contain:
-      (1) the identity of the Auctioneer;
-      (2) the Auction Currency;
-      (3) the Starting Bid, in positive whole units of the Auction
-          Currency;
-      (4) the identity and the number of items being Auctioned;
-      (5) the Seller, if any.
 
-      Each Auction is conducted for 1 or more (N) identical lots of
-      identical assets, which must all be owned by the same entity.
+      A person authorized by the rules to initiate an Auction (the
+      Auctioneer) CAN do so by announcement, specifying its Auction
+      Currency, Starting Bid, and Minimum Increment.  The initiation
+      of an Auction initiates its bidding period.
 
-      While an auction is in progress, every active first-class Player
-      CAN submit as many Auction Bids as e likes by announcement;
-      non-active Players CANNOT submit bids.  An auction bid must
-      specify the auction, and the amount of the bid, which must be
-      (a) in positive whole units of the auction currency and (b) be
-      equal to or greater than the Starting Bid.  A bidder may cancel
-      eir bid while the auction is in progress by announcing the bid
-      to be cancelled.
+      While an Auction is in progress, each active player has a
+      current bid in units of the Auction Currency, initially 0, and
+      CAN bid a specified amount by announcement, if the amount is at
+      least the Starting Bid and at least the Minimum Increment more
+      than the highest current bid, and e possesses at least the
+      difference between the amount and eir current bid, which e
+      SHOULD specify; this causes the difference to be destroyed from
+      eir possession and the new amount to become eir current bid.
+      The prospective winner of an Auction is the player (if any) with
+      the highest current bid.
 
-      The Auction ends if any of the following occur:
-      (1) one week has passed from the start of the Auction, and
-          no bids have been made; or
-      (2) a bid has been made in the Auction, and 72 hours have
-          passed without there being a change in the N highest
-          bids in the Auction; or
-      (3) 14 days have passed since the Auction began.
+      The bidding period ends when any of the following occur:
+      (1) one week has passed from the start of the Auction, and there
+          is no prospective winner; or
+      (2) there is a prospective winner, and 72 hours have passed
+          since eir identity last changed; or
+      (3) two weeks have passed since the start of the Auction.
 
-      When the Auction ends, the winning bids are the N largest
-      uncancelled valid bids in the Auction (or all valid uncancelled
-      Bids, if there were less than N valid uncancelled bids). Ties
-      shall be broken in favor of earlier-submitted bids. If there
-      were no bids in the Auction, then the Auction has no winner.
-
-      The Final Auction Price is either:
-      (1) the amount of the Nth highest bid, if there were N or
-          more valid uncancelled bids in the auction; or
-      (2) The Starting Bid, if there were greater
-          than zero but fewer than N valid uncancelled bids.
-
-      As soon as possible after the end of the Auction, the Auctioneer
-      SHALL announce the winning bids and Final Auction Price.  As
-      soon as possible after such an announcement, each bid winner,
-      for each of eir winning bids, CAN and SHALL transfer one of the
-      lots from its owner to emself by paying a cost equal to the
-      Final Auction Price.  If the auction has a Seller, the recipient
-      entity for the cost is the Seller.  Failing to pay costs in a
-      timely manner is the Class 2 Crime of Defaulting, and a
-      Defaulter in an auction CANNOT so transfer the lot from that
-      auction to emself.
+      After the bidding period ends, the Auctioneer CAN once resolve
+      the Auction by announcement, specifying each nonzero current bid
+      and the prospective winner, and SHALL do so in a timely fashion.
+      When an Auction is resolved, the prospective winner becomes the
+      winner, each entity with a current bid other than the winner
+      gains that amount of the Auction Currency, and the Auction ends.
 
 History:
 Created by Proposal 7361 (G.), 14 April 2013
 Amended(1) by Proposal 7470 (woggle; disi.), 17 May 2013
+Amended(2) by Proposal 7543 (omd), 30 July 2013
 
 ----------------------------------------------------------------------
 
@@ -4632,36 +4611,27 @@ Amended(2) by Proposal 7446 (omd), 10 June 2013
 
 ----------------------------------------------------------------------
 
-Rule 2389/8 (Power=2)
+Rule 2389/9 (Power=2)
 Ordinary Chamber
 
-      Ordinary is a Voting Chamber.
+      Voting Tokens are a class of assets tracked by the Assessor.
+      Each Voting Token has an ID number and an Expiration Date, upon
+      which it is automatically destroyed.
 
-      VVLOP is a player switch, tracked by the Assessor, whose value
-      is a non-negative integer; the default value for a player's
-      VVLOP is eir DVLOP.  The voting limit of an entity on an
-      Ordinary Decision is eir VVLOP.
+      Ordinary is a Voting Chamber.  The voting limit of an entity on
+      an Ordinary Decision is two times the number of Voting Tokens in
+      eir possession, plus three if e is a first-class person.
 
-      DVLOP is a player switch, tracked by the Assessor, whose value
-      is a non-negative integer, and whose default value is four for
-      first-class players and zero for second-class players.
-
-      Voting Credits (or VCs) are a fixed currency, tracked by the
-      Assessor. VC holdings are secured. Whenever a proposal is
-      adopted, its author gains one VC.
-
-      A person may spend two VCs to increase any player's VVLOP by
-      one. A first-class person may spend one VC to increase any other
-      first-class player's VVLOP by one. A person may spend two VCs to
-      decrease any other player's VVLOP by one.
-
-      Whenever a person's VVLOP becomes 12 or greater, all VVLOPs are
-      set to their default values, all VCs are destroyed, and that
-      person's DVLOP is increased by 1.  If eir DVLOP would thus
-      become 12 or greater, e instead satisfies the Victory Condition
-      of Influence, and all DVLOPs are set to their default values.
-
-      The maximum FINE amount of VCs is 2.
+      A VT Auction is a type of Auction with an Auction Currency of
+      Yaks, a Starting Bid of the Minimum VT Fee, a Budget Switch, and
+      a Minimum Increment of Y5.  In a timely fashion after the
+      beginning of each month, the Assessor CAN and SHALL initiate
+      four VT Auctions.  When initiating the Auction, e must specify a
+      Lifetime from 2 to 12 weeks, and for this purpose SHALL use a
+      reasonably publicly verifiable method to make a random selection
+      of 2d6.  At the end of the Auction, the winner (if any) gains
+      one VT whose Expiration Date is the date of creation plus that
+      Lifetime.
 
 History:
 Created by Proposal 7348 (Machiavelli, Bucky, BuckyBot), 27 March 2013
@@ -4673,6 +4643,7 @@ Amended(5) by Proposal 7418 (omd), 27 May 2013
 Amended(6) by Proposal 7446 (omd), 10 June 2013
 Amended(7) by Proposal 7458 (Walker), 17 June 2013
 Amended(8) by Proposal 7459 (Walker), 17 June 2013
+Amended(9) by Proposal 7543 (omd), 30 July 2013
 
 ----------------------------------------------------------------------
 
