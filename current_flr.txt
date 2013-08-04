@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 3 August 2013
 
-Last proposal with recorded effect on this ruleset: 7543
-Last change to this ruleset: by Proposal 7543
+Last proposal with recorded effect on this ruleset: 7544
+Last change to this ruleset: by Proposal 7544
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 13 July 2012
@@ -3032,7 +3032,7 @@ Amended(35) by Proposal 7403 (omd), 27 Apirl 2013
 
 ----------------------------------------------------------------------
 
-Rule 2143/17 (Power=1)
+Rule 2143/18 (Power=1)
 Official Reports and Duties
 
       For each person:
@@ -3067,6 +3067,10 @@ Official Reports and Duties
       report that deviates from these regulations is the Class 2 Crime
       of Making My Eyes Bleed.
 
+      Officers SHOULD maintain a publicly visible copy of their
+      reports on the World Wide Web, and they SHOULD publish the
+      address of this copy along with their published reports.
+
 [CFJ 2392 (called 27 February 2009): Publishing an intentionally
 incomplete report does not satisfy this rule's requirement to publish
 a report.]
@@ -3093,6 +3097,7 @@ Amended(14) by Proposal 6967 (Wooble), 20 March 2011
 Amended(15) by Proposal 7045 (Walker), 16 May 2011
 Amended(16) by Proposal 7313 (Machiavelli), 27 September 2012
 Amended(17) by Proposal 7451 (omd), 10 June 2013
+Amended(18) by Proposal 7544 (Machiavelli), 30 July 2013
 
 ----------------------------------------------------------------------
 
