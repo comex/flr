@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last updated: 27 July 2013
+Last updated: 3 August 2013
 
-Last proposal with recorded effect on this ruleset: 7527
-Last change to this ruleset: by Proposal 7527
+Last proposal with recorded effect on this ruleset: 7536
+Last change to this ruleset: by Proposal 7536
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 13 July 2012
@@ -21,11 +21,11 @@ Power distribution:
        1 with Power=3.2
        1 with Power=3.1
       41 with Power=3
-      37 with Power=2
+      38 with Power=2
        8 with Power=1.7
        4 with Power=1.5
        1 with Power=1.1
-      30 with Power=1
+      29 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -3523,15 +3523,19 @@ Amended(6) by Proposal 7420 (omd), 27 May 2013
 
 ----------------------------------------------------------------------
 
-Rule 2395/0 (Power=1)
+Rule 2395/1 (Power=2)
 Government Waste
 
     There exists an office of Governmental Waste. This office shall
     have no duties, shall make no reports, and shall exist as the
     sole result of governmental waste.
 
+    This office becomes Assumed whenever it is held by the holder of
+    another elected office.
+
 History:
 Created by Proposal 7426 (omd, pikhq), 27 May 2013
+Amended(1) by Proposal 7536 (G., Lindar), 30 August 2013
 
 ----------------------------------------------------------------------
 
