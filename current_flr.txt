@@ -1933,7 +1933,6 @@ Amended(1) by Proposal 7513 (omd), 12 July 2013
 Rule 2393/2 (Power=2)
 Auctions
 
-
       A person authorized by the rules to initiate an Auction (the
       Auctioneer) CAN do so by announcement, specifying its Auction
       Currency, Starting Bid, and Minimum Increment.  The initiation
