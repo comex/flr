@@ -3510,12 +3510,12 @@ Amended(6) by Proposal 7420 (omd), 27 May 2013
 Rule 2395/1 (Power=2)
 Government Waste
 
-    There exists an office of Governmental Waste. This office shall
-    have no duties, shall make no reports, and shall exist as the
-    sole result of governmental waste.
+      There exists an office of Governmental Waste. This office shall
+      have no duties, shall make no reports, and shall exist as the
+      sole result of governmental waste.
 
-    This office becomes Assumed whenever it is held by the holder of
-    another elected office.
+      This office becomes Assumed whenever it is held by the holder of
+      another elected office.
 
 History:
 Created by Proposal 7426 (omd, pikhq), 27 May 2013
