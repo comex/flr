@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 25 August 2013
 
-Last proposal with recorded effect on this ruleset: 7563
-Last change to this ruleset: by Proposal 7563
+Last proposal with recorded effect on this ruleset: 7566
+Last change to this ruleset: by Proposal 7566
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 13 July 2012
@@ -3253,7 +3253,7 @@ Amended(5) by Proposal 7410 (Machiavelli), 27 April 2013
 
 ----------------------------------------------------------------------
 
-Rule 2138/16 (Power=1)
+Rule 2138/17 (Power=1)
 The Interstellar Associate Director of Personnel
 
       The Interstellar Associate Director of Personnel (IADoP) is an
@@ -3264,9 +3264,7 @@ The Interstellar Associate Director of Personnel
 
       a) The holder of each office.
       b) The date on which each holder last came to hold that office.
-      c) The date when the most recent nomination period for that
-         office began.
-      d) The date when that office's reports were last published.
+      c) The date when that office's reports were last published.
 
       The portion of a public message purporting to be an IADoP's
       report that lists the holder of each office is self-ratifying.
@@ -3303,6 +3301,7 @@ Retitled and amended(13) by Proposal 6975 (Murphy), 30 March 2011
 Amended(14) by Proposal 7465 (Walker), 17 June 2013
 Amended(15) by Proposal 7483 (scshunt), 9 July 2013
 Amended(16) by Proposal 7524 (scshunt), 19 July 2013
+Amended(17) by Proposal 7566 (Walker), 24 August 2013
 
 ----------------------------------------------------------------------
 
