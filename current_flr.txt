@@ -25,7 +25,7 @@ Power distribution:
        8 with Power=1.7
        4 with Power=1.5
        1 with Power=1.1
-      27 with Power=1
+      26 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -111,7 +111,6 @@ Index of Rules
 
       * Party Politics
       Rule 2410: Parties
-      Rule 2407: Alliances
       Rule 2411: Whipping
       Rule  103: The Speaker
       Rule 2412: Government
@@ -3558,15 +3557,6 @@ Parties
 History:
 Created by Proposal 7465 (Walker), 17 June 2013
 Amended(1) by Proposal 7541 (Fool), 30 July 2013
-
-----------------------------------------------------------------------
-
-Rule 2407/1 (Power=1)
-Alliances
-
-History:
-Created by Proposal 7450 (Machiavelli), 15 June 2013
-Repealed by Proposal 7561 (Machiavelli), 24 August 2013
 
 ----------------------------------------------------------------------
 
