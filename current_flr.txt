@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 25 August 2013
 
-Last proposal with recorded effect on this ruleset: 7579
-Last change to this ruleset: by Proposal 7579
+Last proposal with recorded effect on this ruleset: 7580
+Last change to this ruleset: by Proposal 7580
 
 Last ratification: Short Logical Ruleset of 27 July 2013
 Last ratification date: 24 August 2013
@@ -4547,7 +4547,7 @@ Amended(2) by Proposal 7446 (omd), 10 June 2013
 
 ----------------------------------------------------------------------
 
-Rule 2389/9 (Power=2)
+Rule 2389/10 (Power=2)
 Ordinary Chamber
 
       Voting Tokens are a class of assets tracked by the Assessor.
@@ -4562,10 +4562,10 @@ Ordinary Chamber
       Yaks, a Starting Bid of the Minimum VT Fee, a Budget Switch, and
       a Minimum Increment of Y5.  In a timely fashion after the
       beginning of each month, the Assessor CAN and SHALL initiate
-      four VT Auctions.  When initiating the Auction, e must specify a
+      four VT Auctions.  When initiating each Auction, e must specify a
       Lifetime from 2 to 12 weeks, and for this purpose SHALL use a
       reasonably publicly verifiable method to make a random selection
-      of 2d6.  At the end of the Auction, the winner (if any) gains
+      of 2d6; at the end of the Auction, the winner (if any) gains
       one VT whose Expiration Date is the date of creation plus that
       Lifetime.
 
@@ -4580,6 +4580,7 @@ Amended(6) by Proposal 7446 (omd), 10 June 2013
 Amended(7) by Proposal 7458 (Walker), 17 June 2013
 Amended(8) by Proposal 7459 (Walker), 17 June 2013
 Amended(9) by Proposal 7543 (omd), 30 July 2013
+Amended(10) by Proposal 7580 (omd), 24 August 2013
 
 ----------------------------------------------------------------------
 
