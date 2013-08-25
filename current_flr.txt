@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 25 August 2013
 
-Last proposal with recorded effect on this ruleset: 7554
-Last change to this ruleset: by Proposal 7554
+Last proposal with recorded effect on this ruleset: 7557
+Last change to this ruleset: by Proposal 7557
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 13 July 2012
@@ -25,7 +25,7 @@ Power distribution:
        8 with Power=1.7
        4 with Power=1.5
        1 with Power=1.1
-      28 with Power=1
+      27 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -68,7 +68,6 @@ Index of Rules
       Rule 2368: Nomic Definitions
       Rule 2369: Foreign Relations
       Rule 2370: The Ambassador-At-Large
-      Rule 2372: Ambassadors Extraordinary And Plenipotentiary
       Rule 2397: The Envoy
 
       * Economy
@@ -1646,16 +1645,6 @@ Created by Proposal 7256 (441344, ais523, BobTHJ, Murphy, Pavitra,
   Tiger, woggle, Yally, Zefram), 7 July 2012
 Amended(1) by Proposal 7417 (Roujo), 12 May 2013
 Amended(2) by Proposal 7420 (omd), 27 May 2013
-
-----------------------------------------------------------------------
-
-Rule 2372/0 (Power=1)
-Ambassadors Extraordinary And Plenipotentiary
-
-
-History:
-Created by Proposal 7258 (441344), 7 July 2012
-Repealed by Proposal 7557 (omd), 24 August 2013
 
 ----------------------------------------------------------------------
 
