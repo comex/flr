@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 25 August 2013
 
-Last proposal with recorded effect on this ruleset: 7570
-Last change to this ruleset: by Proposal 7570
+Last proposal with recorded effect on this ruleset: 7579
+Last change to this ruleset: by Proposal 7579
 
 Last ratification: Short Logical Ruleset of 27 July 2013
 Last ratification date: 24 August 2013
@@ -5299,26 +5299,28 @@ Amended(66) by Proposal 7542 (omd), 30 July 2013
 
 ----------------------------------------------------------------------
 
-Rule 2416/0 (Power=2)
+Rule 2416/1 (Power=2)
 Infraction Cases and Rewards
 
       An infraction case is a subclass of criminal case; infraction
       cases need not be assigned ID numbers.  A player CAN initiate an
       infraction case in the same manner as an ordinary criminal case,
       unless the alleged action or inaction is defined as a Crime of
-      at least Class 3.  A player CAN contest an infraction case by
-      announcement, which causes it to be rendered open and become an
-      ordinary criminal case.  When an infraction case has existed for
-      at least four days, a judgement of GUILTY, FINE YN goes into
-      effect, where YN is the Standard Infraction Penalty, a Budget
-      Switch; rules to the contrary notwithstanding, this judgement
-      CANNOT be appealed (but the case can still be contested).
+      at least Class 3; the case is inititally suspended.  A player
+      CAN contest an infraction case by announcement, which causes it
+      to be rendered open and become an ordinary criminal case.  When
+      an infraction case has existed for at least four days, a
+      judgement of GUILTY, FINE YN goes into effect, where YN is the
+      Standard Infraction Penalty, a Budget Switch; rules to the
+      contrary notwithstanding, this judgement CANNOT be appealed
+      (but the case can still be contested).
 
       When a fine is paid in a criminal case, its initiator gains the
       Standard Infraction Reward, a Budget Switch.
 
 History:
 Created by Proposal 7542 (omd), 30 July 2013
+Amended(1) by Proposal 7579 (omd), 24 August 2013
 
 ----------------------------------------------------------------------
 
