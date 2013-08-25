@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 25 August 2013
 
-Last proposal with recorded effect on this ruleset: 7584
-Last change to this ruleset: by Proposal 7584
+Last proposal with recorded effect on this ruleset: 7585
+Last change to this ruleset: by Proposal 7585
 
 Last ratification: Short Logical Ruleset of 27 July 2013
 Last ratification date: 24 August 2013
@@ -4171,19 +4171,8 @@ Amended(29) by Proposal 7552 (omd), 24 August 2013
 
 ----------------------------------------------------------------------
 
-Rule 2034/7 (Power=3)
+Rule 2034/8 (Power=3)
 Vote Protection and Cutoff for Challenges
-
-      Any proposal that would otherwise change the validity of any
-      existing vote on any specific unresolved Agoran decision is
-      wholly without effect, rules to the contrary notwithstanding.
-      This does not prevent amendment of the rules governing the
-      validity of votes on Agoran decisions in general.
-
-      Once an Agoran decision has been resolved, votes on it CANNOT be
-      validly submitted or retracted, and its outcome CANNOT be
-      changed in any way, rules to the contrary notwithstanding.  This
-      does not prevent correcting errors in reporting its resolution.
 
       A public message purporting to resolve an Agoran decision
       constitutes self-ratifying claims that
@@ -4202,6 +4191,7 @@ Amended(4) by Proposal 5275 (Murphy), 7 November 2007
 Amended(5) by Proposal 6139 (Murphy), 15 March 2009
 Amended(6) by Proposal 6180 (Murphy; disi.), 7 April 2009
 Amended(7) by Proposal 7355 (ais523), 7 April 2013
+Amended(8) by Proposal 7585 (omd), 24 August 2013
 
 ----------------------------------------------------------------------
 
