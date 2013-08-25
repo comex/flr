@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 25 August 2013
 
-Last proposal with recorded effect on this ruleset: 7585
-Last change to this ruleset: by Proposal 7585
+Last proposal with recorded effect on this ruleset: 7586
+Last change to this ruleset: by Proposal 7586
 
 Last ratification: Short Logical Ruleset of 27 July 2013
 Last ratification date: 24 August 2013
@@ -654,7 +654,7 @@ Amended(6) by Proposal 7519 (omd, Walker), 19 July 1013
 
 ----------------------------------------------------------------------
 
-Rule 2358/1 (Power=1)
+Rule 2358/2 (Power=1)
 Win by Paradox
 
       A turtle is an inquiry case on the possibility or legality of a
@@ -663,12 +663,15 @@ Win by Paradox
       occurring after the initiation of that case) which has the
       judgement UNDECIDABLE.
 
-      When a turtle has continuously been a turtle for one week, its
+      When a turtle has continuously been a turtle for one week, and
+      this condition has not been satisfied in the last 30 days for
+      any turtle regarding substantially identical events, its
       initiator satisfies the Victory Condition of Paradox.
 
 History:
 Created by Proposal 7138 (omd), 19 November 2011
 Amended(1) by Proposal 7271 (G.), 14 August 2012
+Amended(2) by Proposal 7586 (omd), 24 August 2013
 
 ----------------------------------------------------------------------
 
@@ -1376,7 +1379,7 @@ Created by Proposal 6976 (Murphy, MRW and Associates), 30 March 2011
 
 ----------------------------------------------------------------------
 
-Rule 2139/5 (Power=2)
+Rule 2139/6 (Power=2)
 The Registrar
 
       The Registrar is an office; its holder is responsible for
@@ -1392,10 +1395,6 @@ The Registrar
       d) For each former player for which the information is
          reasonably available, the dates on which e registered and
          deregistered.
-
-      The portion of a public message purporting to be a Registrar's
-      report that lists each player implies that no players other than
-      those listed exist and is self-ratifying.
 
       The Registrar is also responsible for tracking any switches that
       would otherwise lack an officer to track them, unless the switch
@@ -1441,6 +1440,7 @@ Amended(3) twice by Proposal 6567 (Walker), 28 November 2009
 Power changed from 1 to 2 by Proposal 6567 (Walker), 28 November 2009
 Amended(4) by Proposal 7141 (G.), 19 November 2011
 Amended(5) by Proposal 7416 (omd), 12 May 2013
+Amended(6) by Proposal 7586 (omd), 24 August 2013
 
 ----------------------------------------------------------------------
 
@@ -1676,7 +1676,7 @@ Economy
       A category concerning asset-based gameplay.
 ----------------------------------------------------------------------
 
-Rule 2166/18 (Power=2)
+Rule 2166/19 (Power=2)
 Assets
 
       An asset is an entity defined as such by a rule or contest
@@ -1700,8 +1700,8 @@ Assets
       The recordkeepor of a class of assets is the entity (if any)
       defined as such by, and bound by, its backing document.  That
       entity's report includes a list of all instances of that class
-      and their owners.  This portion of that entity's report is
-      self-ratifying.
+      and their owners.  This portion of a public document purporting
+      to be that entity's report is self-ratifying.
 
       An asset whose backing document is not a rule generally CAN be
       created by its recordkeepor by announcement, subject to
@@ -1774,32 +1774,31 @@ Amended(15) by Proposal 6792 (omd), 27 August 2010
 Amended(16) by Proposal 6916 (omd; disi.), 2 January 2011
 Amended(17) by Proposal 7298 (FKA441344), 9 September 2012
 Amended(18) by Proposal 7420 (omd), 27 May 2013
+Amended(19) by Proposal 7586 (omd), 24 August 2013
 
 ----------------------------------------------------------------------
 
-Rule 2343/8 (Power=1.7)
+Rule 2343/9 (Power=1.7)
 Victory Conditions
 
       Victory Conditions and Losing Conditions are conditions
       explicitly defined as such by the Rules.  Such conditions are
       generally satisfied instantaneously, not continuously.
 
-      A Victory Announcement is a published statement labeled as a
-      Victory Announcement that states clearly that a specified person
-      or persons have satisfied a specified Victory Condition while
-      not satisfying any Losing Conditions (and explicitly and clearly
-      states which persons and which victory condition).  A Victory
-      Announcement is self-ratifying.
+      A person CAN declare a victory without objection or with 2
+      Agoran Consent, specifying a person (the Champion) and a
+      instance of eir satisfying a specified Victory Condition while
+      not satisfying any Losing Conditions, as long as no victory has
+      previously been declared for the same event.  When this occurs,
+      the Champion Wins the Game.  There is no other method of winning
+      the game.  Winning the game does not cause Agora to end.
 
-      The remainder of this rule notwithstanding, if an event's
-      Victory Deadline has passed, then a person CANNOT Win the Game
-      due to that event, and its Victory Deadline CANNOT be extended.
-      An event's Victory Deadline is initially 28 days after the
-      event, and CANNOT be extended except as specified by this rule.
-      If it is within 28 days of passing, then anyone CAN extend it by
-      28 days by announcement.  (Initiating, assigning a judge to, or
-      judging a judicial case substantially relevant to the event
-      implicitly counts as such an announcement.)
+      A person SHOULD NOT declare a victory for events older than one
+      month, and players SHOULD object to intents to do so, unless the
+      validity of the victory has continuously been in question since
+      less than a month after the event.  Players SHALL NOT object to
+      intents to declare a victory unless they are inaccurate or
+      pertain to events older than one month.
 
       When a Victory Announcement ratifies, or a judgement confirming
       the veracity of a victory announcement has been in effect and
@@ -1831,6 +1830,7 @@ Amended(5) by Proposal 7146 (omd), 25 January 2012
 Amended(6) by Proposal 7147 (Murphy), 25 January 2012
 Amended(7) by Proposal 7148 (Murphy), 25 January 2012
 Amended(8) by Proposal 7420 (omd), 27 May 2013
+Amended(9) by Proposal 7586 (omd), 24 August 2013
 
 ----------------------------------------------------------------------
 
@@ -2913,13 +2913,14 @@ Offices
       within the game.
 ----------------------------------------------------------------------
 
-Rule 1006/35 (Power=2)
+Rule 1006/36 (Power=2)
 Offices
 
-      An office is a role defined as such by the rules.  Each office
-      is either vacant (default) or filled (held) by exactly one
-      player.  An officer is the holder of an office, who may be
-      referred to by the name of that office.
+      Officeholder is an office switch tracked by the IADoP, with
+      possible values of any person or "vacant".  An officer is the
+      holder of an office, who may be referred to by the name of that
+      office.  If the holder of an office is ever not a player, it
+      becomes vacant.
 
       An imposed office is an office described as such by the rule
       defining it.  All others are elected.  A person CANNOT be made
@@ -2984,7 +2985,8 @@ Amended(31) by cleaning (Murphy), 6 March 2010
 Amended(32) by Proposal 6790 (Wooble), 27 August 2010
 Amended(33) by Proposal 6959 (G.), 31 January 2011
 Amended(34) by Proposal 7272 (FKA441344), 14 August 2012
-Amended(35) by Proposal 7403 (omd), 27 Apirl 2013
+Amended(35) by Proposal 7403 (omd), 27 April 2013
+Amended(36) by Proposal 7586 (omd), 24 August 2013
 
 ----------------------------------------------------------------------
 
@@ -3124,15 +3126,15 @@ Amended(9) by Proposal 7403 (omd), 27 April 2013
 
 ----------------------------------------------------------------------
 
-Rule 2154/37 (Power=2)
+Rule 2154/38 (Power=2)
 Election Procedure
 
       A player CAN initiate an election for a specified elected office
       for which no election is already in progress
 
-      a) by announcement, if e is the IADoP, or the office is vacant
-         or assumed, or no election has been initiated for the office
-         within 90 days before the announcement;
+      a) by announcement, if e is the IADoP, or the office is Assumed,
+         or no election has been initiated for the office within 90
+         days before the announcement;
 
       b) by announcement, for a cost of N Yaks, where N is the value
          of the Election Fee, a Budget Switch;
@@ -3223,24 +3225,21 @@ Amended(34) by Proposal 6972 (G.), 30 March 2011
 Amended(35) by Proposal 7425 (Walker, G., Murphy, omd), 27 May 2013
 Amended(36) by Proposal 7465 (Walker), 17 June 2013
 Amended(37) by Proposal 7470 (woggle; disi.), 17 June 2013
+Amended(37) by Proposal 7586 (omd), 24 August 2013
 
 ----------------------------------------------------------------------
 
-Rule 2276/5 (Power=2)
+Rule 2276/6 (Power=2)
 Assumption of Vacant Offices
 
       Assumption is an elected office switch, tracked by the IADoP
       with values Postulated (default) and Assumed. Changes to
-      Assumption are secured.  An active first-class player can assume
+      Assumption are secured. An active first-class player can assume
       an office by announcement, causing em to become its holder,
-      provided that the office is either vacant or Assumed.
-
-      Upon doing so, the office's Assumption is flipped to Assumed.
-      Whenever a vacant office is Postulated, its Assumption is
-      flipped to Assumed.
-
-      When the holder of an office ceases to be an active player, the
-      office's Assumption is flipped to Assumed.
+      provided that the office is Assumed.
+ 
+      Whenever a Postulated office is not held by an active player, it
+      becomes Assumed.
 
       When a person comes to hold an office, or would come to hold an
       office if e did not hold it already, by a means other than the
@@ -3258,6 +3257,7 @@ Amended(2) by Proposal 6529 (Pavitra; disi.), 23 October 2009
 Amended(3) by Proposal 6761 (coppro), 2 August 2010
 Amended(4) by Proposal 7403 (omd), 27 April 2013
 Amended(5) by Proposal 7410 (Machiavelli), 27 April 2013
+Amended(6) by Proposal 7586 (omd), 24 August 2013
 
 ----------------------------------------------------------------------
 
@@ -3313,7 +3313,7 @@ Amended(17) by Proposal 7566 (Walker), 24 August 2013
 
 ----------------------------------------------------------------------
 
-Rule 1551/16 (Power=3.1)
+Rule 1551/17 (Power=3.1)
 Ratification
 
       A public document is part (possibly all) of a public message.
@@ -3340,7 +3340,10 @@ Ratification
 
       Text purportedly about previous instances of ratification (e.g.
       a report's date of last ratification) is excluded from
-      ratification.
+      ratification. The rules may define additional information that
+      is considered to be part of the document for the purposes of
+      ratification; such definitions are secured at a Power
+      Threshold of 3.
 
       Ratifying a public document is secured with power threshold 3.
 
@@ -3375,6 +3378,7 @@ Power changed from 3.1 to 3 by SLR ratification (Proposal 6839; omd),
   2 January 2011
 Power changed from 3 to 3.1 by Proposal 7262 (omd), 7 July 2012
 Amended(16) by Proposal 7568 (omd, Fool), 24 August 2013
+Amended(17) by Proposal 7586 (omd), 24 August 2013
 
 ----------------------------------------------------------------------
 
@@ -4353,7 +4357,7 @@ Amended(35) by Proposal 7246 (omd), 10 June 2012
 
 ----------------------------------------------------------------------
 
-Rule 1607/37 (Power=3)
+Rule 1607/38 (Power=3)
 Distribution
 
       The Promotor is an office; its holder is responsible for
@@ -4393,8 +4397,9 @@ Distribution
       CAN distribute that Proposal Without 3 Objections.
 
       The Promotor's report includes a list of all proposals in the
-      Proposal Pool.  This portion of a public message purporting to
-      be a Promotor's report is self-ratifying.
+      Proposal Pool, along with their text and attributes.  This
+      portion of a public document purporting to be a Promotor's
+      report is self-ratifying.
 
 [CFJ 1546 (called 14 April 2005), CFJ 1669 (called 16 May 2007): If a
 proposal is purportedly distributed with a text that differs from the
@@ -4476,6 +4481,7 @@ Amended(34) by Proposal 7226 (omd), 10 June 2012
 Amended(35) by Proposal 7239 (omd), 10 June 2012
 Amended(36) by Proposal 7461 (Walker), 17 June 2013
 Amended(37) by Proposal 7569 (omd, scshunt), 24 August 2013
+Amended(38) by Proposal 7586 (omd), 24 August 2013
 
 ----------------------------------------------------------------------
 
@@ -4795,23 +4801,21 @@ Amended(3) by Proposal 7088 (omd), 23 July 2011
 
 ----------------------------------------------------------------------
 
-Rule 2381/1 (Power=1.7)
+Rule 2381/2 (Power=1.7)
 Win by Clout
 
       If a single Player has a voting limit on an Agoran Decision that
       has a Chamber, and that voting limit, at the end of the
       Decision's voting period, is greater than the combined voting
-      limits of all other entities on that decision, that player
-      satisfies the Victory Condition of Clout.
-
-      If a correct and Determinate Victory Announcement is made for
-      such a win, this Victory Condition ceases to be a Victory
-      Condition for Decisions in the same Chamber for 21 days
-      following the announcement.
+      limits of all other entities on that decision, and no entity has
+      satisfied this condition in the last 30 days for a decision in
+      the same Chamber, that player satisfies the Victory Condition of
+      Clout.
 
 History:
 Created by Proposal 7312 (G.), 27 September 2012
 Amended(1) by Proposal 7451 (omd), 10 June 2013
+Amended(2) by Proposal 7586 (omd), 24 August 2013
 
 ----------------------------------------------------------------------
 
