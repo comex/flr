@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 25 August 2013
 
-Last proposal with recorded effect on this ruleset: 7549
-Last change to this ruleset: by Proposal 7549
+Last proposal with recorded effect on this ruleset: 7552
+Last change to this ruleset: by Proposal 7552
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 13 July 2012
@@ -4177,17 +4177,14 @@ Amended(18) by Proposal 7238 (omd), 10 June 2012
 
 ----------------------------------------------------------------------
 
-Rule 879/28 (Power=2)
+Rule 879/29 (Power=2)
 Quorum
 
-      Quorum for an Agoran decision is as follows, where N is the
+
+      Quorum for an Agoran decision is N/3 rounded up, where N is the
       number of eligible voters with a positive voting limit on that
-      decision:
-
-      - if the decision is Plutocratic, N/2 rounded up;
-
-      - otherwise, N/3 rounded up, with a minimum of five (unless this
-        is greater than N, in which case quorum is N).
+      decision, with a minimum of five (unless this is greater than
+      N, in which case quorum is N).
 
 [CFJ 1562 (called 3 May 2005): A cancelled vote on a Proposal does not
 count towards quorum.]
@@ -4229,6 +4226,7 @@ Amended(25) by Proposal 5000 (Murphy), 12 June 2007
 Amended(26) by Proposal 5113 (Murphy, Maud), 2 August 2007
 Amended(27) by Proposal 5445 (Goethe, Murphy), 21 February 2008
 Amended(28) by Proposal 7317 (omd), 16 October 2012
+Amended(29) by Proposal 7552 (omd), 24 August 2013
 
 ----------------------------------------------------------------------
 
