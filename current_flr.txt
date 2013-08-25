@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 25 August 2013
 
-Last proposal with recorded effect on this ruleset: 7569
-Last change to this ruleset: by Proposal 7569
+Last proposal with recorded effect on this ruleset: 7570
+Last change to this ruleset: by Proposal 7570
 
 Last ratification: Short Logical Ruleset of 27 July 2013
 Last ratification date: 24 August 2013
@@ -4481,7 +4481,7 @@ Amended(37) by Proposal 7569 (omd, scshunt), 24 August 2013
 
 ----------------------------------------------------------------------
 
-Rule 2404/3 (Power=2)
+Rule 2404/4 (Power=2)
 Proposal Fees
 
       Proposal fee is a natural switch possessed by proposals in the
@@ -4499,36 +4499,38 @@ Proposal Fees
       distributed to its author, and one-third this amount, rounded
       down, to each of the proposal's co-authors.
 
-      A proposal with a proposal fee of 0 is disinterested; proposals
-      with positive proposal fees are interested.
-
 History:
 Created by Proposal 7425 (Walker, G., Murphy, omd), 27 May 2013
 Amended(1) by Proposal 7480 (scshunt, omd), 29 June 2013
 Amended(2) by Proposal 7503 (Walker), 12 July 2013
 Amended(3) by Proposal 7513 (omd), 12 July 2013
+Amended(4) by Proposal 7570 (Walker), 24 August 2013
 
 ----------------------------------------------------------------------
 
-Rule 2405/3 (Power=2)
+Rule 2405/4 (Power=2)
 Distributability
 
       Distributability is a natural switch possessed by proposals in
       the Proposal Pool and tracked by the Promotor. A player CAN,
       by announcement, increase the Distributability of a proposal by
-      one for a cost of A Yaks; a player CAN, by announcement,
-      decrease the Distributability of a proposal by one for a cost
-      of B Yaks, where
-      a) A is the value of the Distributability Fee, a Budget Switch,
-         and
-      b) B is the value of the Undistributability Fee, a Budget
-         Switch.
+      one for a cost of A Yaks, where
+      a) A is the value of the Distributability Fee, a Budget Switch.
+
+      All proposals are initially interested; a player CAN make a
+      proposal disinterested by announcement if e has not already done
+      so in the current week. A player CAN also make a proposal
+      disinterested without two objections. If a player CAN make a
+      proposal disinterested by announcement due to an intent to do
+      so without two objections, then the Promotor CAN also do so, and
+      SHALL do so before distributing any proposals.
 
 History:
 Created by Proposal 7425 (Walker, G., Murphy, omd), 27 May 2013
 Amended(1) by Proposal 7480 (scshunt, omd), 29 June 2013
 Amended(2) by Proposal 7503 (Walker), 12 July 2013
 Amended(3) by Proposal 7503 (Walker), 12 July 2013
+Amended(4) by Proposal 7570 (Walker), 24 August 2013
 
 ----------------------------------------------------------------------
 
