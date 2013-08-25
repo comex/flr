@@ -20,12 +20,12 @@ Power distribution:
        1 with Power=4
        1 with Power=3.2
        1 with Power=3.1
-      41 with Power=3
+      40 with Power=3
       39 with Power=2
        8 with Power=1.7
        4 with Power=1.5
        1 with Power=1.1
-      29 with Power=1
+      28 with Power=1
 
 ----------------------------------------------------------------------
 
