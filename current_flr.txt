@@ -2052,7 +2052,7 @@ Created by Proposal 7117 (omd), 20 August 2011
 
 ----------------------------------------------------------------------
 
-Rule 2408/1 (Power=1)
+Rule 2408/2 (Power=1)
 Okinawa
 
       The Sensei is an office; its holder is responsible for keeping
@@ -2060,19 +2060,21 @@ Okinawa
 
       Stones are a fixed asset whose recordkeepor is the Sensei.  At
       the beginning of each week, every active first-class player is
-      awarded 3 Stones.  If a person ever owns more than 10 airborne
+      awarded 2 Stones.  If a person ever owns more than 10 airborne
       Stones, they lose airborne Stones until they have only 10.
 
       Okinawa is an entity consisting of a nine-by-nine grid of Plots
       of Land.  Every Plot has a Latitude and a Longitude, each
       ranging from -4 (indicating extreme south or west) to 4
-      (indicating extreme north or east).
+      (indicating extreme north or east). When referring to Plots,
+      the words "row" and "column" are synonyms for "Latitude" and
+      "Longitude", respectively.
 
       Position is a Stone switch, tracked by the Sensei, whose
       possible values are "airborne" (default) and every Plot.  It is
       IMPOSSIBLE for two Stones to occupy the same Plot.  The Sensei
       SHALL report the Positions of non-airborne Stones by publishing
-      a map of Okinawa.
+      a map of Okinawa, and SHOULD include a compass rose.
 
       Airborne Stones with the same owner are fungible.
 
@@ -2080,27 +2082,33 @@ Okinawa
       any unoccupied Plot.
 
       Two Stones are connected if they are orthogonally adjacent and
-      owned by the same Alliance.  A chain is a connected component of
-      Stones.  A chain is in jeopardy if there are no unoccupied Plots
-      orthogonally adjacent to it.  If a person owns a Stone that is
-      part of a chain that is in jeopardy, then e CANNOT place a Stone
-      on a Plot, the above notwithstanding.  If a chain is in
-      jeopardy, then any person who owns a Stone in it CAN capture the
-      chain by announcement.  If a chain is not in jeopardy, and then
-      a Stone is played causing it to come into jeopardy (without
-      changing the extents of the chain), then the chain is
-      immediately captured.  When a chain is captured, all Stones in
-      it are destroyed.
+      have the same owner.  A chain is a connected component of
+      Stones.
 
-      If a player has at least seven Stones in Okinawa, and no other
-      player has Stones in Okinawa, then that player satisfies the
-      Victory Condition of Shouri, and all Stones are destroyed.
-      When this happens, the Sensei SHOULD announce who the winner
-      was.
+      An exterior liberty of a chain owned by some player A is an
+      unoccupied Plot orthogonally adjacent to that chain with the
+      following property: there exist paths from the unoccupied Plot
+      to two different corners of the board, such that neither path
+      contains any Stone owned by A.  For this purpose, a "path" is a
+      sequence of Stones, each orthogonally adjacent to the next.  (It
+      isn't about eyes any more.)
+
+      If a chain has no exterior liberties, then any person CAN
+      capture it by announcement.  This causes all Stones in it to be
+      destroyed.
+
+      If a player owns a chain that has at least one Stone on two
+      opposite edges of the board, then that player satisfies the
+      Victory Condition of Shouri, and all Stones are destroyed.  When
+      this happens, the Sensei SHALL, as soon as possible, announce
+      that this has happened, and who satisfied the Victory Condition.
+      The Sensei SHOULD announce this in the form of a Victory
+      Announcement.
 
 History:
 Created by Proposal 7450 (Machiavelli), 15 June 2013
 Amended(1) by Proposal 7477 (Machiavelli), 29 June 2013
+Amended(2) by Proposal 7561 (Machiavelli), 24 August 2013
 
 ----------------------------------------------------------------------
 
@@ -3553,21 +3561,12 @@ Amended(1) by Proposal 7541 (Fool), 30 July 2013
 
 ----------------------------------------------------------------------
 
-Rule 2407/0 (Power=1)
+Rule 2407/1 (Power=1)
 Alliances
-
-      An alliance is a set of persons.  Each person is in exactly one
-      alliance.  By default, each person is in an alliance that
-      contains no other persons.  A person CAN join an alliance With
-      the Support of all its existing members; this causes em to cease
-      to be a member of eir previous alliance.  A person CAN leave eir
-      alliance by announcement; this causes em to become a member of a
-      new alliance containing no other persons.  If an alliance is
-      ever empty, it ceases to exist.  The Registrar's report includes
-      all alliances that have more than one member.
 
 History:
 Created by Proposal 7450 (Machiavelli), 15 June 2013
+Repealed by Proposal 7561 (Machiavelli), 24 August 2013
 
 ----------------------------------------------------------------------
 
