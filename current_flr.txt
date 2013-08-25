@@ -4124,7 +4124,6 @@ Amended(18) by Proposal 7238 (omd), 10 June 2012
 Rule 879/29 (Power=2)
 Quorum
 
-
       Quorum for an Agoran decision is N/3 rounded up, where N is the
       number of eligible voters with a positive voting limit on that
       decision, with a minimum of five (unless this is greater than
