@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 25 August 2013
 
-Last proposal with recorded effect on this ruleset: 7557
-Last change to this ruleset: by Proposal 7557
+Last proposal with recorded effect on this ruleset: 7563
+Last change to this ruleset: by Proposal 7563
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 13 July 2012
@@ -2980,7 +2980,7 @@ Amended(35) by Proposal 7403 (omd), 27 Apirl 2013
 
 ----------------------------------------------------------------------
 
-Rule 2143/18 (Power=1)
+Rule 2143/19 (Power=1)
 Official Reports and Duties
 
       For each person:
@@ -3006,9 +3006,10 @@ Official Reports and Duties
       report.  Failure of a person to perform any duty required of em
       within the allotted time is the Class-2 crime of Tardiness.
 
-      While performing weekly or monthly duties or publishing weekly
-      or monthly reports, persons SHALL NOT publish information that
-      is Indeterminate, inaccurate or misleading.
+      A person SHALL NOT publish information that is Indeterminate,
+      inaccurate or misleading while performing a weekly or monthly
+      duty, or within a document purporting to be part of any person
+      or office's weekly or monthly report.
 
       Reports SHALL be published in plain text.  Tabular data must
       line up properly when viewed in a monospaced font.  Publishing a
@@ -3046,6 +3047,7 @@ Amended(15) by Proposal 7045 (Walker), 16 May 2011
 Amended(16) by Proposal 7313 (Machiavelli), 27 September 2012
 Amended(17) by Proposal 7451 (omd), 10 June 2013
 Amended(18) by Proposal 7544 (Machiavelli), 30 July 2013
+Amended(19) by Proposal 7563 (omd), 24 August 2013
 
 ----------------------------------------------------------------------
 
