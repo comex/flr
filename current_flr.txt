@@ -3627,7 +3627,7 @@ Amended(16) by Proposal 7486 (scshunt), 9 July 2013
 
 ----------------------------------------------------------------------
 
-Rule 2412/0 (Power=2)
+Rule 2412/1 (Power=2)
 Government
 
       The following are imposed offices, collectively termed the
@@ -3644,8 +3644,8 @@ Government
       c) Cabinet Secretary. The Cabinet Secretary CAN rubberstamp a
          specified ordinary decision in its voting period by
          announcement. Amongst the otherwise valid AGAINST votes on a
-         rubberstamped ordinary decision, only the first cast by each
-         player is valid.
+         rubberstamped ordinary decision, only the first two cast by
+         each player are valid.
       e) Chief Whip. The Chief Whip's voting limit on an Ordinary
          decision is 1.5 times what it would otherwise be, rounded
          down.
