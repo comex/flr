@@ -2084,24 +2084,6 @@ Created by Proposal 7117 (omd), 20 August 2011
 
 ----------------------------------------------------------------------
 
-Rule 2391/1 (Power=3)
-Controlling Interest
-
-History:
-Created by Proposal 7357 (G.), 14 April 2013.
-Repealed by Proposal 7554 (omd), 24 August 2013
-
-----------------------------------------------------------------------
-
-Rule 2392/1 (Power=1)
-Proxy Victory
-
-History:
-Created by Proposal 7358 (G.), 14 April 2013.
-Repealed by Proposal 7554 (omd), 24 August 2013
-
-----------------------------------------------------------------------
-
 Rule 2408/1 (Power=1)
 Okinawa
 
