@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last updated: 3 August 2013
+Last updated: 25 August 2013
 
-Last proposal with recorded effect on this ruleset: 7546
-Last change to this ruleset: by Proposal 7546
+Last proposal with recorded effect on this ruleset: 7549
+Last change to this ruleset: by Proposal 7549
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 13 July 2012
@@ -1521,7 +1521,7 @@ Amended(13) by Proposal 6984 (Murphy), 10 April 2011
 
 ----------------------------------------------------------------------
 
-Rule 2401/2 (Power=2)
+Rule 2401/3 (Power=2)
 Registration Yaks
 
       The Registrar is a Yak Master.
@@ -1547,13 +1547,14 @@ Registration Yaks
 
       The recruitment reward is a Budget Switch. Upon a valid
       announcement of a Recruitment, the Registrar is impelled to
-      award N Yaks each to the recruit and the recruitor, where N is
-      the value of the recruitment reward.
+      award N Yaks to the recruitor, where N is the value of the
+      recruitment reward.
 
 History:
 Created by Proposal 7425 (Walker, G., Murphy, omd), 27 May 2013
 Amended(1) by Proposal 7513 (omd), 12 July 2013
 Amended(2) by Proposal 7526 (woggle), 22 July 2013
+Amended(3) by Proposal 7549 (Walker), 24 August 2013
 
 ----------------------------------------------------------------------
 
