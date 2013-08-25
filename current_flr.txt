@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 25 August 2013
 
-Last proposal with recorded effect on this ruleset: 7568
-Last change to this ruleset: by Proposal 7568
+Last proposal with recorded effect on this ruleset: 7569
+Last change to this ruleset: by Proposal 7569
 
 Last ratification: Short Logical Ruleset of 27 July 2013
 Last ratification date: 24 August 2013
@@ -4355,7 +4355,7 @@ Amended(35) by Proposal 7246 (omd), 10 June 2012
 
 ----------------------------------------------------------------------
 
-Rule 1607/36 (Power=3)
+Rule 1607/37 (Power=3)
 Distribution
 
       The Promotor is an office; its holder is responsible for
@@ -4379,10 +4379,9 @@ Distribution
 
       In a given Agoran week, the Promotor SHALL, as part of eir
       weekly duties:
-      a) distribute no more than MI pending proposals with such that
-         the sum of the Distributabilities of the distributed
-         proposals is maximised, breaking ties in favour of proposals
-         which were submitted first, and
+      a) distribute MI pending proposals (or all, if there are fewer than
+         MI of them) such that the sum of the Distributabilities of the
+         distributed proposals is maximised, and
       b) distribute all disinterested pending proposals.
 
       The Promotor SHALL NOT distribute more than MI interested
@@ -4478,6 +4477,7 @@ Amended(33) by Proposal 7083 (Walker), 4 July 2011
 Amended(34) by Proposal 7226 (omd), 10 June 2012
 Amended(35) by Proposal 7239 (omd), 10 June 2012
 Amended(36) by Proposal 7461 (Walker), 17 June 2013
+Amended(37) by Proposal 7569 (omd, scshunt), 24 August 2013
 
 ----------------------------------------------------------------------
 
