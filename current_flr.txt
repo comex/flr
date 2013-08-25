@@ -14,7 +14,7 @@ Highest Rule ID number ever assigned: 2416
 
 Statistics
 
-Current total number of rules: 125
+Current total number of rules: 121
 
 Power distribution:
        1 with Power=4
@@ -1427,7 +1427,6 @@ or publish it.]
   * track forum publicity (Rule 478)
   * report fora (Rule 478)
   * change the publicity of a forum (Rule 478)
-  * track alliances (Rule 2407)
   * track switches without an explicit recordkeepor (Rule 478)
   * track Stasis timers (Rule 1504)
   * award Registration Yaks (Rule 2401)]
@@ -3225,7 +3224,7 @@ Amended(34) by Proposal 6972 (G.), 30 March 2011
 Amended(35) by Proposal 7425 (Walker, G., Murphy, omd), 27 May 2013
 Amended(36) by Proposal 7465 (Walker), 17 June 2013
 Amended(37) by Proposal 7470 (woggle; disi.), 17 June 2013
-Amended(37) by Proposal 7586 (omd), 24 August 2013
+Amended(38) by Proposal 7586 (omd), 24 August 2013
 
 ----------------------------------------------------------------------
 
@@ -3237,7 +3236,7 @@ Assumption of Vacant Offices
       Assumption are secured. An active first-class player can assume
       an office by announcement, causing em to become its holder,
       provided that the office is Assumed.
- 
+
       Whenever a Postulated office is not held by an active player, it
       becomes Assumed.
 
@@ -4381,9 +4380,10 @@ Distribution
 
       In a given Agoran week, the Promotor SHALL, as part of eir
       weekly duties:
-      a) distribute MI pending proposals (or all, if there are fewer than
-         MI of them) such that the sum of the Distributabilities of the
-         distributed proposals is maximised, and
+      a) distribute MI pending proposals (or all, if there are
+         fewer than MI of them) such that the sum of the
+         Distributabilities of the distributed proposals is
+         maximised, and
       b) distribute all disinterested pending proposals.
 
       The Promotor SHALL NOT distribute more than MI interested
@@ -4566,8 +4566,8 @@ Ordinary Chamber
       Yaks, a Starting Bid of the Minimum VT Fee, a Budget Switch, and
       a Minimum Increment of Y5.  In a timely fashion after the
       beginning of each month, the Assessor CAN and SHALL initiate
-      four VT Auctions.  When initiating each Auction, e must specify a
-      Lifetime from 2 to 12 weeks, and for this purpose SHALL use a
+      four VT Auctions.  When initiating each Auction, e must specify
+      a Lifetime from 2 to 12 weeks, and for this purpose SHALL use a
       reasonably publicly verifiable method to make a random selection
       of 2d6; at the end of the Auction, the winner (if any) gains
       one VT whose Expiration Date is the date of creation plus that
