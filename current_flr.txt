@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 25 August 2013
 
-Last proposal with recorded effect on this ruleset: 7552
-Last change to this ruleset: by Proposal 7552
+Last proposal with recorded effect on this ruleset: 7554
+Last change to this ruleset: by Proposal 7554
 
 Last ratification: Short Logical Ruleset of 24 June 2012
 Last ratification date: 13 July 2012
@@ -81,8 +81,6 @@ Index of Rules
       Rule 2337: Promises
       Rule 2338: Cashing Promises
       Rule 2354: Costs
-      Rule 2391: Controlling Interest
-      Rule 2392: Proxy Victory
       Rule 2408: Okinawa
 
       * Definitions
@@ -2086,28 +2084,21 @@ Created by Proposal 7117 (omd), 20 August 2011
 
 ----------------------------------------------------------------------
 
-Rule 2391/0 (Power=3)
+Rule 2391/1 (Power=3)
 Controlling Interest
-
-       If a first-class player (hereafter the Shareholder) holds
-       the majority of existing trading cards that have a single,
-       other first-class player as their Subject, then that
-       Shareholder holds a Controlling Interest in that Subject.
 
 History:
 Created by Proposal 7357 (G.), 14 April 2013.
+Repealed by Proposal 7554 (omd), 24 August 2013
 
 ----------------------------------------------------------------------
 
-Rule 2392/0 (Power=1)
+Rule 2392/1 (Power=1)
 Proxy Victory
-
-       Holding a Controlling Interest in a Subject who satisfies
-       a Victory Condition other than this one satisfies the
-       Victory Condition of Proximation.
 
 History:
 Created by Proposal 7358 (G.), 14 April 2013.
+Repealed by Proposal 7554 (omd), 24 August 2013
 
 ----------------------------------------------------------------------
 
