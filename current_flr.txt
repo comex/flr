@@ -1362,15 +1362,6 @@ Amended(6) by Proposal 6022 (Murphy), 22 December 2008
 
 ----------------------------------------------------------------------
 
-Rule 2328/1 (Power=2)
-Public Agreements
-
-History:
-Created by Proposal 6976 (Murphy, MRW and Associates), 30 March 2011
-Repealed(1) by Proposal 7589 (G.), 11 September 2013
-
-----------------------------------------------------------------------
-
 Rule 2139/6 (Power=2)
 The Registrar
 
@@ -1932,39 +1923,6 @@ History:
 Created by Proposal 7361 (G.), 14 April 2013
 Amended(1) by Proposal 7470 (woggle; disi.), 17 May 2013
 Amended(2) by Proposal 7543 (omd), 30 July 2013
-
-----------------------------------------------------------------------
-
-Rule 2337/8 (Power=3)
-Promises
-
-
-History:
-Created by Proposal 7015 (G., ais523), 23 April 2011
-Amended(1) by Proposal 7026 (Murphy, omd; disi.), 5 May 2011
-Power changed from 2 to 3 by Proposal 7027 (omd), 5 May 2011
-Amended(2) by Proposal 7082 (omd, Pavitra), 4 July 2011
-Amended(3) by Proposal 7100 (ais523), 23 July 2011
-Amended(4) by Proposal 7101 (Pavitra), 23 July 2011
-Amended(5) by Proposal 7309 (scshunt), 27 September 2012
-Amended(6) by Proposal 7436 (scshunt), 10 June 2013
-Amended(7) by Proposal 7475 (omd), 29 June 2013
-Repealed(8) by Proposal 7589 (G.), 11 September 2013
-
-----------------------------------------------------------------------
-
-Rule 2338/6 (Power=3)
-Cashing Promises
-
-History:
-Created by Proposal 7015 (G., ais523), 23 April 2011
-Amended(1) by Proposal 7026 (Murphy, omd; disi.), 5 May 2011
-Power changed from 2 to 3 by Proposal 7027 (omd), 5 May 2011
-Amended(2) by Proposal 7100 (ais523), 23 July 2011
-Amended(3) by Proposal 7289 (G.), 9 September 2012
-Amended(4) by Proposal 7290 (G.), 9 September 2012
-Amended(5) by Proposal 7445 (omd), 10 June 2013
-Repealed(6) by Proposal 7589 (G.), 11 September 2013
 
 ----------------------------------------------------------------------
 
