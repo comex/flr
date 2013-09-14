@@ -8,13 +8,13 @@ Last change to this ruleset: by Proposal 7596
 Last ratification: Short Logical Ruleset of 27 July 2013
 Last ratification date: 24 August 2013
 
-Highest Rule ID number ever assigned: 2416
+Highest Rule ID number ever assigned: 2417
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 117
+Current total number of rules: 118
 
 Power distribution:
        1 with Power=4
@@ -25,7 +25,7 @@ Power distribution:
        8 with Power=1.7
        4 with Power=1.5
        1 with Power=1.1
-      25 with Power=1
+      26 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -62,6 +62,7 @@ Index of Rules
       Rule 1789: Cantus Cygneus
       Rule 2130: Activity
       Rule 2401: Registration Yaks
+      Rule 2417: Flair
 
       * Foreign Relations
       Rule 2368: Nomic Definitions
@@ -1546,6 +1547,22 @@ Created by Proposal 7425 (Walker, G., Murphy, omd), 27 May 2013
 Amended(1) by Proposal 7513 (omd), 12 July 2013
 Amended(2) by Proposal 7526 (woggle), 22 July 2013
 Amended(3) by Proposal 7549 (Walker), 24 August 2013
+
+----------------------------------------------------------------------
+
+Rule 2417/0 (Power=1)
+Flair
+
+      Flair is a player switch tracked by the Registrar, whose value
+      is up to 50 glyphs of text, default empty.  A player CAN set eir
+      flair by announcement, and should choose a string that
+      represents eir perceived or desired role in Agora.
+
+      (The precise definition of "text" is generally left to the
+      Registrar's discretion, but should be conservative; no emoji.)
+
+History:
+Created by Proposal 7597 (omd), 12 September 2013
 
 ----------------------------------------------------------------------
 
