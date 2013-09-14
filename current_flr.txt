@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 14 September 2013
 
-Last proposal with recorded effect on this ruleset: 7589
-Last change to this ruleset: by Proposal 7589
+Last proposal with recorded effect on this ruleset: 7591
+Last change to this ruleset: by Proposal 7591
 
 Last ratification: Short Logical Ruleset of 27 July 2013
 Last ratification date: 24 August 2013
@@ -5915,7 +5915,7 @@ Amended(35) by Proposal 7470 (woggle; disi.), 17 June 2013
 
 ----------------------------------------------------------------------
 
-Rule 1367/17 (Power=3)
+Rule 1367/18 (Power=3)
 Degrees
 
       Certain patent titles are known as degrees.  The degrees are
@@ -5943,8 +5943,8 @@ Degrees
          the author does not have. The available options can change
          during the voting period.
 
-       - The eligible voters are each active player at the time the
-         decision is initiated.
+       - The eligible voters are the active players, other than the
+         author, at the time the decision is initiated.
 
        - Each player's voting limit on the decision is one plus the
          number of degrees e holds.
