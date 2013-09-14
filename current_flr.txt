@@ -424,7 +424,7 @@ Amended(11) by Proposal 6028 (Murphy), 8 January 2009
 Amended(12) by Proposal 6158 (Goethe), 31 March 2009
 Amended(13) by Proposal 6589 (c.; disi.), 6 December 2009
 Amended(14) by Proposal 7183 (G.), 26 February 2012
-Amended(15) by Proposal 7596 (omd), 12 September 2013
+Amended(15) by Proposal 7596 (omd), 14 September 2013
 
 ----------------------------------------------------------------------
 
@@ -1562,7 +1562,7 @@ Flair
       Registrar's discretion, but should be conservative; no emoji.)
 
 History:
-Created by Proposal 7597 (omd), 12 September 2013
+Created by Proposal 7597 (omd), 14 September 2013
 
 ----------------------------------------------------------------------
 
@@ -5950,7 +5950,7 @@ Power changed from 1 to 3 by Proposal 6717 (coppro), 4 May 2010
 Amended(16) by SLR ratification (Proposal 6806; coppro), 27 August
   2010
 Amended(17) by Proposal 7420 (omd), 27 May 2013
-Amended(18) by Proposal 7591 (scshunt), 12 September 2013
+Amended(18) by Proposal 7591 (scshunt), 14 September 2013
 
 ----------------------------------------------------------------------
 
