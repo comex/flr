@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 14 September 2013
 
-Last proposal with recorded effect on this ruleset: 7587
-Last change to this ruleset: by Proposal 7587
+Last proposal with recorded effect on this ruleset: 7588
+Last change to this ruleset: by Proposal 7588
 
 Last ratification: Short Logical Ruleset of 27 July 2013
 Last ratification date: 24 August 2013
@@ -3639,7 +3639,7 @@ Amended(16) by Proposal 7486 (scshunt), 9 July 2013
 
 ----------------------------------------------------------------------
 
-Rule 2412/1 (Power=2)
+Rule 2412/2 (Power=2)
 Government
 
       The following are imposed offices, collectively termed the
@@ -3675,9 +3675,8 @@ Government
          Proposal Pool Committee Approval by announcement; this
          doubles the proposal's Distributability.
 
-      If e has not already done in the current month, or if e has not
-      done so since e gained office, the Speaker CAN form a Government
-      by announcement.
+      In a timely fashion after the start of each month, the Speaker
+      CAN and SHALL form a Government by announcement.
 
       A valid announcement of the formation of a Government assigns
       exactly one active player to each of the Ministries; no player
@@ -3688,6 +3687,7 @@ Government
 History:
 Created by Proposal 7465 (Walker), 17 June 2013
 Amended(1) by Proposal 7567 (Walker), 24 August 2013
+Amended(2) by Proposal 7588 (G.), 11 September 2013
 
 ----------------------------------------------------------------------
 
