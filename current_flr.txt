@@ -14,7 +14,7 @@ Highest Rule ID number ever assigned: 2416
 
 Statistics
 
-Current total number of rules: 118
+Current total number of rules: 117
 
 Power distribution:
        1 with Power=4
@@ -25,7 +25,7 @@ Power distribution:
        8 with Power=1.7
        4 with Power=1.5
        1 with Power=1.1
-      26 with Power=1
+      25 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -1946,17 +1946,6 @@ Costs
 
 History:
 Created by Proposal 7117 (omd), 20 August 2011
-
-----------------------------------------------------------------------
-
-Rule 2408/3 (Power=1)
-Okinawa
-
-History:
-Created by Proposal 7450 (Machiavelli), 15 June 2013
-Amended(1) by Proposal 7477 (Machiavelli), 29 June 2013
-Amended(2) by Proposal 7561 (Machiavelli), 24 August 2013
-Repealed(3) by Proposal 7592 (scshunt), 12 September 2013
 
 ----------------------------------------------------------------------
 
@@ -5938,6 +5927,7 @@ Power changed from 1 to 3 by Proposal 6717 (coppro), 4 May 2010
 Amended(16) by SLR ratification (Proposal 6806; coppro), 27 August
   2010
 Amended(17) by Proposal 7420 (omd), 27 May 2013
+Amended(18) by Proposal 7591 (scshunt), 12 September 2013
 
 ----------------------------------------------------------------------
 
