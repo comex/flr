@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last updated: 25 August 2013
+Last updated: 14 September 2013
 
-Last proposal with recorded effect on this ruleset: 7586
-Last change to this ruleset: by Proposal 7586
+Last proposal with recorded effect on this ruleset: 7587
+Last change to this ruleset: by Proposal 7587
 
 Last ratification: Short Logical Ruleset of 27 July 2013
 Last ratification date: 24 August 2013
@@ -5730,7 +5730,7 @@ Amended(20) by Proposal 7420 (omd), 27 May 2013
 
 ----------------------------------------------------------------------
 
-Rule 1871/31 (Power=1.5)
+Rule 1871/32 (Power=1.5)
 The Standing Court
 
       Posture is a player switch, tracked by the Clerk of the Courts,
@@ -5745,9 +5745,7 @@ The Standing Court
       * Leaning.  Leaning players are poorly qualified to judge, but
         are generally qualified to serve on appeal panels.
 
-      * Supine (default if the current value of Initial Posture is
-        undefined; otherwise the current value of Initial Posture is
-        the default).  Supine players are unqualified to judge.
+      * Supine (default).  Supine players are unqualified to judge.
 
       Changes to posture are secured.
 
@@ -5818,6 +5816,7 @@ Amended(28) by Proposal 6967 (Wooble), 20 March 2011
 Amended(29) by Proposal 7279 (FKA441344), 14 August 2012
 Amended(30) by Proposal 7287 (G.), 9 September 2012
 Amended(31) by Proposal 7356 (G.), 14 April 2013
+Amneded(32) by Proposal 7587 (G.), 11 September 2013
 
 ----------------------------------------------------------------------
 
