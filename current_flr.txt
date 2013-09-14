@@ -5704,8 +5704,8 @@ Amended(28) by Proposal 6967 (Wooble), 20 March 2011
 Amended(29) by Proposal 7279 (FKA441344), 14 August 2012
 Amended(30) by Proposal 7287 (G.), 9 September 2012
 Amended(31) by Proposal 7356 (G.), 14 April 2013
-Amneded(32) by Proposal 7587 (G.), 11 September 2013
-Amneded(33) by Proposal 7587 (G.), 11 September 2013
+Amended(32) by Proposal 7587 (G.), 11 September 2013
+Amended(33) by Proposal 7587 (G.), 11 September 2013
 
 ----------------------------------------------------------------------
 
