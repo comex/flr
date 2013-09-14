@@ -5768,10 +5768,6 @@ The Standing Court
       that player's posture to supine by announcement in a timely
       fashion.
 
-      Initial Posture is an Agora Nomic switch, tracked by the CotC in
-      eir report, with the same values as Posture and a default value
-      of Supine.  The CotC CAN flip Initial Posture with Support.
-
 [CFJ 1765 (called 16 October 2007): When the CotC is obliged to change
 a player's posture due to recusal, this rule makes em capable of doing
 so.]
@@ -5817,6 +5813,7 @@ Amended(29) by Proposal 7279 (FKA441344), 14 August 2012
 Amended(30) by Proposal 7287 (G.), 9 September 2012
 Amended(31) by Proposal 7356 (G.), 14 April 2013
 Amneded(32) by Proposal 7587 (G.), 11 September 2013
+Amneded(33) by Proposal 7587 (G.), 11 September 2013
 
 ----------------------------------------------------------------------
 
