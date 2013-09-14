@@ -2,19 +2,23 @@ THE FULL LOGICAL RULESET
 
 Last updated: 14 September 2013
 
-Last proposal with recorded effect on this ruleset: 7598
-Last change to this ruleset: by Proposal 7598
+Last proposal with recorded effect on this ruleset: 7599
+Last change to this ruleset: by Proposal 7599
 
 Last ratification: Short Logical Ruleset of 27 July 2013
 Last ratification date: 24 August 2013
 
-Highest Rule ID number ever assigned: 2417
+Highest Rule ID number ever assigned: 2418
+
+Online version:
+  https://www.eecs.berkeley.edu/~charles/agora/current_flr.txt (FLR)
+  https://www.eecs.berkeley.edu/~charles/agora/current_slr.txt (SLR)
 
 ----------------------------------------------------------------------
 
 Statistics
 
-Current total number of rules: 118
+Current total number of rules: 119
 
 Power distribution:
        1 with Power=4
@@ -25,7 +29,7 @@ Power distribution:
        8 with Power=1.7
        4 with Power=1.5
        1 with Power=1.1
-      26 with Power=1
+      27 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -63,6 +67,7 @@ Index of Rules
       Rule 2130: Activity
       Rule 2401: Registration Yaks
       Rule 2417: Flair
+      Rule 2418: Helpor
 
       * Foreign Relations
       Rule 2368: Nomic Definitions
@@ -1039,7 +1044,7 @@ Amended(6) by Proposal 7433 (Walker), 27 May 2013
 
 ----------------------------------------------------------------------
 
-Rule 1681/18 (Power=1)
+Rule 1681/19 (Power=1)
 The Logical Rulesets
 
       The Short Logical Ruleset (SLR) is a format of the ruleset.  In
@@ -1079,6 +1084,36 @@ The Logical Rulesets
       d) If the rule was changed due to a proposal, then that
          proposal's ID number, author, and co-author(s) (if any).
 
+      The Helpful Logical Ruleset (HLR) is a format of the ruleset and
+      part of the Rulekeepor's monthly report. In this format, rules
+      are assigned to categories and ordered within categories in a
+      way intended to be helpful to new players. For example, rules
+      defining gameplay and commom game actions ought to be placed
+      earlier in the HLR, and rules containing high level definitions
+      and definitions only of interest to officers ought to be placed
+      later in the HLR. HLR categories may also take into account the
+      different areas of the game e.g. the economy, the judicial
+      system, proposals.
+
+      Each rule in the HLR shall be annotated to explain its meaning
+      and purpose to new players using as few rules-defined terms as
+      possible and explaining rules-defined terms when they are used.
+      The Rulekeepor may amend these annotations as e sees fit; e
+      SHALL update them each month to ensure that they are true,
+      accurate and not misleading.
+
+      The Rulekeepor SHALL also maintain a format known as the
+      Semantic Logical Ruleset (SeLR). The SeLR shall be in a
+      screen-reader-friendly format, include hyperlinks from terms to
+      the rules which define them and the annotation of each rule
+      shall include hyperlinks to related rules. The Rulekeepor need
+      not publish this format each month: it suffices to publish
+      information which allows each player to access a copy of it.
+
+      In a timely fashion after a person registers, the Rulekeepor
+      SHALL send em copies of each ruleset format, or send em
+      information allowing em to access them.
+
 History:
 Created by Proposal 2783 (Chuck), Jan 15 1997
 Amended(1) by Proposal 3500 (Crito), Jun. 3 1997, substantial
@@ -1100,6 +1135,7 @@ Amended(15) by Proposal 6026 (Murphy), 22 December 2008
 Amended(16) by Proposal 6053 (Murphy, woggle, ais523), 23 January 2009
 Amended(17) by Proposal 6124 (ehird), 15 March 2009
 Amended(18) by Proposal 6662 (Murphy; disi.), 10 March 2010
+Amended(19) by Proposal 7599 (Walker), 14 September 2013
 
 ----------------------------------------------------------------------
 
@@ -1563,6 +1599,32 @@ Flair
 
 History:
 Created by Proposal 7597 (omd), 14 September 2013
+
+----------------------------------------------------------------------
+
+Rule 2418/0 (Power=1)
+Helpor
+
+      The Helpor is an office. Its holder is responsible for helping
+      new players get the hang of Agora.
+
+      The FAQ, the Players' Guide and the Glossary are documents and
+      part of the Helpor's monthly report. The Helpor may amend them
+      as e sees fit; other players CAN instruct the Helpor to make a
+      specified amendment without objection. The Helpor SHALL ensure
+      that these documents contain accurate and up-to-date information
+      and are clear and readable.
+
+      In a timely fashion after a first-class person (the newbie)
+      registers the Helpor SHALL:
+      - send a public message welcoming the newbie to Agora,
+      - send the newbie copies of the FAQ, the Players' Guide and the
+        Glossary, and
+      - offer to answer any questions the newbie might have about
+        Agora, or refer em to a player who can.
+
+History:
+Created by Proposal 7599 (Walker), 14 September 2013
 
 ----------------------------------------------------------------------
 
@@ -2843,7 +2905,7 @@ Amended(36) by Proposal 7586 (omd), 24 August 2013
 
 ----------------------------------------------------------------------
 
-Rule 2143/19 (Power=1)
+Rule 2143/20 (Power=1)
 Official Reports and Duties
 
       For each person:
@@ -2883,6 +2945,9 @@ Official Reports and Duties
       reports on the World Wide Web, and they SHOULD publish the
       address of this copy along with their published reports.
 
+      If an officer maintains an online copy of eir report, then e
+      SHALL publish the URI of this copy along with each report.
+
 [CFJ 2392 (called 27 February 2009): Publishing an intentionally
 incomplete report does not satisfy this rule's requirement to publish
 a report.]
@@ -2911,6 +2976,7 @@ Amended(16) by Proposal 7313 (Machiavelli), 27 September 2012
 Amended(17) by Proposal 7451 (omd), 10 June 2013
 Amended(18) by Proposal 7544 (Machiavelli), 30 July 2013
 Amended(19) by Proposal 7563 (omd), 24 August 2013
+Amended(20) by Proposal 7599 (Walker), 14 September 2013
 
 ----------------------------------------------------------------------
 
