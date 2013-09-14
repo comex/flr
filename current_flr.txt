@@ -5622,7 +5622,7 @@ Amended(20) by Proposal 7420 (omd), 27 May 2013
 
 ----------------------------------------------------------------------
 
-Rule 1871/32 (Power=1.5)
+Rule 1871/33 (Power=1.5)
 The Standing Court
 
       Posture is a player switch, tracked by the Clerk of the Courts,
