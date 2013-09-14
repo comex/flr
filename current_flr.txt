@@ -1908,7 +1908,7 @@ Amended(1) by Proposal 7513 (omd), 12 July 2013
 
 ----------------------------------------------------------------------
 
-Rule 2393/2 (Power=2)
+Rule 2393/3 (Power=2)
 Auctions
 
       A person authorized by the rules to initiate an Auction (the
@@ -1927,12 +1927,11 @@ Auctions
       The prospective winner of an Auction is the player (if any) with
       the highest current bid.
 
-      The bidding period ends when any of the following occur:
-      (1) one week has passed from the start of the Auction, and there
-          is no prospective winner; or
-      (2) there is a prospective winner, and 72 hours have passed
-          since eir identity last changed; or
-      (3) two weeks have passed since the start of the Auction.
+      The bidding period ends when either:
+      (1) four days have passed since the start of the Auction, and
+          the identity of the prospective winner (if any) has not
+          changed for 36 hours, or
+      (2) ten days have passed since the start of the Auction.
 
       After the bidding period ends, the Auctioneer CAN once resolve
       the Auction by announcement, specifying each nonzero current bid
@@ -1945,6 +1944,7 @@ History:
 Created by Proposal 7361 (G.), 14 April 2013
 Amended(1) by Proposal 7470 (woggle; disi.), 17 May 2013
 Amended(2) by Proposal 7543 (omd), 30 July 2013
+Amended(3) by Proposal 7598 (omd), 14 September 2013
 
 ----------------------------------------------------------------------
 
