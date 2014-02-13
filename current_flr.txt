@@ -1095,32 +1095,48 @@ Economy
       A category concerning asset-based gameplay.
 ----------------------------------------------------------------------
 
-Rule 2419/0 (Power=1)
+Rule 2419/1 (Power=1)
 Winning
+
+      The Operations Manual is a Document with Mint Authority,
+      maintained by the Herald.  Changes to the Operations Manual CAN
+      be made with Agoran Consent.  Failure to act in accordance with
+      the operations manual is considered a breach of this rule.
 
       A player's Score is a complex number, tracked by the Herald.  If
       a player's score has not been previously changed by the Rules,
       or cannot be determined by reasonable effort, it is 0.  If a
-      person ceases being a player, eir score is set to 0.  Changes to
-      score can only be made as specified by the rules.
+      person ceases being a player, eir score is set to 0.  The Herald
+      CAN always round a player's score to 5 decimal places by
+      announcement.  Scores CAN be changed as described in the
+      Operations Manual.
+
+      Quadrant is a player switch tracked by the Herald, with values
+      Alpha (default), Beta, Gamma, and Delta, synonymous to quadrants
+      1-4 in the complex plane, respectively.  A player's quadrant CAN
+      be changed as described in the Operations Manual.
 
       A player has achieved Escape Velocity any time the magnitude of
-      eir score is 100 or greater.  Upon a true announcement that one
-      or more specified players have achieved escape velocity, then
-      all such players win the game, and all players' scores are set
-      to 0.
+      eir score is 1,000,000 or greater, and eir score is in eir
+      quadrant (scores exactly on the border of one or more quadrants
+      are considered to be in each such quadrant).  Upon a true
+      announcement that one or more specified players have achieved
+      escape velocity, then all such players win the game, and all
+      players' scores are set to 0.
 
 History:
 Created by Proposal 7609 (G.), 13 December 2013
+Amended(1) by Proposal 7617 (G.), 16 January 2014
 
 ----------------------------------------------------------------------
 
-Rule 2166/19 (Power=2)
+Rule 2166/20 (Power=2)
 Assets
 
-      An asset is an entity defined as such by a rule or contest
-      (hereafter its backing document), and existing solely because
-      its backing document defines its existence.
+      An asset is an entity defined as such by a rule or by a document
+      to which the rules grant Mint Authority (hereafter its backing
+      document), and existing solely because its backing document
+      defines its existence.
 
       Each asset has exactly one owner.  If an asset would otherwise
       lack an owner, it is owned by the Lost and Found Department.  If
@@ -1214,6 +1230,7 @@ Amended(16) by Proposal 6916 (omd; disi.), 2 January 2011
 Amended(17) by Proposal 7298 (FKA441344), 9 September 2012
 Amended(18) by Proposal 7420 (omd), 27 May 2013
 Amended(19) by Proposal 7586 (omd), 24 August 2013
+Amended(20) by Proposal 7617 (G.), 16 January 2014
 
 ----------------------------------------------------------------------
 
