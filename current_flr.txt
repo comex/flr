@@ -1,14 +1,14 @@
 THE FULL LOGICAL RULESET
 
-Last updated: 12 February 2014
+Last updated: 14 September 2013
 
-Last proposal with recorded effect on this ruleset: 7604
-Last change to this ruleset: by Proposal 7604
+Last proposal with recorded effect on this ruleset: 7605
+Last change to this ruleset: by Proposal 7605
 
 Last ratification: Short Logical Ruleset of 27 July 2013
 Last ratification date: 24 August 2013
 
-Highest Rule ID number ever assigned: 2418
+Highest Rule ID number ever assigned: 2416
 
 Online version:
   https://www.eecs.berkeley.edu/~charles/agora/current_flr.txt (FLR)
@@ -18,7 +18,7 @@ Online version:
 
 Statistics
 
-Current total number of rules: 119
+Current total number of rules: 110
 
 Power distribution:
        1 with Power=4
@@ -29,7 +29,7 @@ Power distribution:
        8 with Power=1.7
        4 with Power=1.5
        1 with Power=1.1
-      27 with Power=1
+      18 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -38,7 +38,6 @@ Index of Rules
       * The Game of Agora
       Rule 2105: The Map of Agora
       Rule  101: The Rights of Agorans
-      Rule 2396: Agoran Arms
       Rule 2125: Regulation Regulations
       Rule 1586: Definition and Continuity of Entities
       Rule 1688: Power
@@ -66,14 +65,6 @@ Index of Rules
       Rule 1789: Cantus Cygneus
       Rule 2130: Activity
       Rule 2401: Registration Yaks
-      Rule 2417: Flair
-      Rule 2418: Helpor
-
-      * Foreign Relations
-      Rule 2368: Nomic Definitions
-      Rule 2369: Foreign Relations
-      Rule 2370: The Ambassador-At-Large
-      Rule 2397: The Envoy
 
       * Economy
       Rule 2166: Assets
@@ -89,7 +80,6 @@ Index of Rules
       Rule 1023: Common Definitions
       Rule 2347: Speed
       Rule 1769: Holidays
-      Rule 2329: Festival Days
       Rule 2162: Switches
       Rule  478: Fora
       Rule 1728: Dependent Actions
@@ -113,7 +103,6 @@ Index of Rules
 
       * Party Politics
       Rule 2410: Parties
-      Rule 2411: Whipping
       Rule  103: The Speaker
       Rule 2412: Government
       Rule 2413: General Elections
@@ -214,7 +203,7 @@ The Game of Agora
       entities.
 ----------------------------------------------------------------------
 
-Rule 2105/5 (Power=1)
+Rule 2105/6 (Power=1)
 The Map of Agora
 
                                ____  _        /|
@@ -267,6 +256,7 @@ Amended(2) by Proposal 4866 (Goethe), 27 August 2006
 Amended(3) by Proposal 4946 (Zefram), 3 May 2007
 Amended(4) by Proposal 6581 (G.), 28 November 2009
 Amended(5) by Proposal 7210 (scshunt), 4 May 2012
+Amended(6) by Proposal 7605 (G.), 13 December 2013
 
 ----------------------------------------------------------------------
 
@@ -430,22 +420,6 @@ Amended(12) by Proposal 6158 (Goethe), 31 March 2009
 Amended(13) by Proposal 6589 (c.; disi.), 6 December 2009
 Amended(14) by Proposal 7183 (G.), 26 February 2012
 Amended(15) by Proposal 7596 (omd), 14 September 2013
-
-----------------------------------------------------------------------
-
-Rule 2396/1 (Power=1)
-Agoran Arms
-
-      The escutcheon of Agora is defined by the following blazon:
-      Tierced palewise sable, argent, and sable, charged with a quill
-      and an axe in saltire, proper, and in the chief a capital letter
-      A, gules.
-
-      The official flavour of Agora is 'bitter'.
-
-History:
-Created by Proposal 7428 (omd, Zefram, GreyKnight), 27 May 2013
-Amended(1) by Proposal 7517 (Lindar), 19 July 2013
 
 ----------------------------------------------------------------------
 
@@ -1557,157 +1531,6 @@ Amended(3) by Proposal 7549 (Walker), 24 August 2013
 
 ----------------------------------------------------------------------
 
-Rule 2417/0 (Power=1)
-Flair
-
-      Flair is a player switch tracked by the Registrar, whose value
-      is up to 50 glyphs of text, default empty.  A player CAN set eir
-      flair by announcement, and should choose a string that
-      represents eir perceived or desired role in Agora.
-
-      (The precise definition of "text" is generally left to the
-      Registrar's discretion, but should be conservative; no emoji.)
-
-History:
-Created by Proposal 7597 (omd), 14 September 2013
-
-----------------------------------------------------------------------
-
-Rule 2418/0 (Power=1)
-Helpor
-
-      The Helpor is an office. Its holder is responsible for helping
-      new players get the hang of Agora.
-
-      The FAQ, the Players' Guide and the Glossary are documents and
-      part of the Helpor's monthly report. The Helpor may amend them
-      as e sees fit; other players CAN instruct the Helpor to make a
-      specified amendment without objection. The Helpor SHALL ensure
-      that these documents contain accurate and up-to-date information
-      and are clear and readable.
-
-      In a timely fashion after a first-class person (the newbie)
-      registers the Helpor SHALL:
-      - send a public message welcoming the newbie to Agora,
-      - send the newbie copies of the FAQ, the Players' Guide and the
-        Glossary, and
-      - offer to answer any questions the newbie might have about
-        Agora, or refer em to a player who can.
-
-History:
-Created by Proposal 7599 (Walker), 14 September 2013
-
-----------------------------------------------------------------------
-
-======================================================================
-Foreign Relations
-      A category concerning interaction with other nomics.
-----------------------------------------------------------------------
-
-Rule 2368/0 (Power=1)
-Nomic Definitions
-
-      A nomic is a system of rules that provides means for itself to
-      be amended arbitrarily. Nomics can be games, micronations,
-      simulations, and/or sovereign states.
-
-      A foreign nomic is a nomic other than this one, even if it has
-      the same name as this one.
-
-      A protectorate is a foreign nomic which specifies in its ruleset
-      that it is a Protectorate Of Agora and which allows Agora to
-      make arbitrary amendments to it.
-
-History:
-Created by Proposal 7256 (441344, ais523, BobTHJ, Murphy, Pavitra,
-  Tiger, woggle, Yally, Zefram), 7 July 2012
-
-----------------------------------------------------------------------
-
-Rule 2369/8 (Power=1)
-Foreign Relations
-
-      Recognition is a foreign nomic switch, tracked by the
-      Ambassador-At-Large, with values Unknown (default), Protected,
-      Friendly, Neutral, Sanctioned, Hostile, Abandoned, and Over.
-      Players SHOULD not violate the rules of Protected or Friendly
-      nomics. Recognition is part of the Ambassador-At-Large's
-      monthly report.
-
-      When a non-Unknown foreign nomic becomes a Protectorate, it's
-      recognition becomes Protected.  When a foreign nomic ceases to
-      be a Protectorate, its Recognition becomes Unknown. Any person
-      CAN flip an Unknown Protectorate's Recognition to Protected by
-      announcement.  A foreign nomic's Recognition CANNOT change to or
-      from Protected in any other way.
-
-      The Ambassador-At-Large CAN, with Agoran Consent, or without 2
-      objections, flip a foreign nomic's Recognition to any value
-      (subject to the above restriction).  E SHALL inform that nomic
-      of the change in a timely fashion.
-
-History:
-Created by Proposal 7256 (441344, ais523, BobTHJ, Murphy, Pavitra,
-  Tiger, woggle, Yally, Zefram), 7 July 2012
-Amended(1) by Proposal 7258 (441344), 7 July 2012
-Amended(2) by Proposal 7273 (FKA441344), 14 August 2012
-Amended(3) by Proposal 7372 (G.), 20 April 2013
-Amended(4) by Proposal 7420 (omd), 27 May 2013
-Amended(5) by Proposal 7478 (scshunt), 29 June 2013
-Amended(6) by Proposal 7500 (Fool), 8 July 2013
-Amended(7) by Proposal 7514 (Walker), 12 July 2013
-Amended(8) by Proposal 7557 (omd), 24 August 2013
-
-----------------------------------------------------------------------
-
-Rule 2370/2 (Power=1)
-The Ambassador-At-Large
-
-      The Ambassador-At-Large is an office; its holder is responsible
-      for relations with foreign nomics.
-
-      A foreign nomic may grant certain powers (in the
-      ordinary-language sense) and privileges to Agora's ambassadors.
-      It is ILLEGAL to use or attempt to use such powers or privileges
-      except as allowed by the rules of Agora. The Ambassador-At-Large
-      CAN and MAY, with Agoran Consent, authorize emself to use such
-      powers or priviliges in a specified way, in a specified nomic,
-      in a specified timeframe of length not exceeding two weeks. If a
-      foreign nomic allows for Agora to take actions in it, the
-      ambassador CAN and MAY, with Agoran consent, take a specified
-      action or series of actions in it on behalf of Agora, provided
-      that the nomic is Protected, Friendly, or Neutral.
-
-      It is ILLEGAL to falsely claim, to any nomic, to be an
-      ambassador of Agora. The Ambassador-At-Large SHALL, in a timely
-      fashion after he becomes aware of such a claim, make a
-      reasonable effort to inform any nomic that received it of its
-      falsehood.
-
-History:
-Created by Proposal 7256 (441344, ais523, BobTHJ, Murphy, Pavitra,
-  Tiger, woggle, Yally, Zefram), 7 July 2012
-Amended(1) by Proposal 7417 (Roujo), 12 May 2013
-Amended(2) by Proposal 7420 (omd), 27 May 2013
-
-----------------------------------------------------------------------
-
-Rule 2397/0 (Power=1)
-The Envoy
-
-      The person who is most responsible for advertising Agora and
-      soliciting new Players, in the opinion of the Speaker, shall be
-      known as the Envoy.  Any changes in the identity of the Envoy
-      shall take effect when announced publicly by the Speaker.
-
-      The Envoy shall advertise Agora on a regular basis in any
-      non-Agoran public forums e deems appropriate.
-
-History:
-Created by Proposal 7430 (omd, Zefram), 27 May 2013.
-
-----------------------------------------------------------------------
-
 ======================================================================
 Economy
       A category concerning asset-based gameplay.
@@ -2242,24 +2065,6 @@ Amended(8) by Proposal 7050 (omd), 16 May 2011
 Amended(9) by Proposal 7150 (Murphy), 25 January 2012
 Amended(10) by Proposal 7151 (Murphy), 25 January 2012
 Amended(11) by Proposal 7262 (omd), 7 July 2012
-
-----------------------------------------------------------------------
-
-Rule 2329/0 (Power=1)
-Festival Days
-
-      Agora Nomic recognizes and celebrates the following:
-
-        * January 12-14 - Agora's Unbirthday observed (as described
-          elsewhere)
-        * April 1 - April Fool's Day
-        * May 25 - Towel Day
-        * June 30 - Agora's Birthday (as described elsewhere)
-        * November 5 - Guy Fawkes Night
-        * December 23 - Festivus
-
-History:
-Created by Proposal 6977 (Murphy, David Nicol), 30 March 2011
 
 ----------------------------------------------------------------------
 
@@ -3461,37 +3266,6 @@ Parties
 History:
 Created by Proposal 7465 (Walker), 17 June 2013
 Amended(1) by Proposal 7541 (Fool), 30 July 2013
-
-----------------------------------------------------------------------
-
-Rule 2411/0 (Power=1)
-Whipping
-
-      A party's constitution can specify the Rebellion Fines to be
-      paid, in Yaks, for defying each of a One, Two and Three Line
-      Whip.
-
-      When authorised to do so by eir party's constitution, a party
-      member CAN set eir party's Whip on a specified proposal in the
-      Proposal Pool by announcement, specifying one of FOR or AGAINST
-      and whether the Whip is One, Two or Three Lines.
-
-      When authorised to do so by eir party's constitution, a party
-      member CAN, by announcement, set eir party's Whip on an election
-      during its nomination period, specifying one of the candidates
-      and whether the Whip is One, Two or Three Lines.
-
-      Party members SHOULD vote according to their party's Whip on an
-      Agoran decision. If they fail to do so, ey SHALL transfer the
-      relevant Rebellion Fine (if any) to their party in a timely
-      manner afterwards.
-
-      For an Agoran decision on a proposal the party of the proposal's
-      author and the Whips of each party, if any, on the proposal are
-      essential parameters.
-
-History:
-Created by Proposal 7465 (Walker), 17 June 2013
 
 ----------------------------------------------------------------------
 
