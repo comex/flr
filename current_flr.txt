@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 12 February 2014
 
-Last proposal with recorded effect on this ruleset: 7618
-Last change to this ruleset: by Proposal 7618
+Last proposal with recorded effect on this ruleset: 7619
+Last change to this ruleset: by Proposal 7619
 
 Last ratification: Short Logical Ruleset of 27 July 2013
 Last ratification date: 24 August 2013
@@ -881,7 +881,7 @@ Players
       players.
 ----------------------------------------------------------------------
 
-Rule 869/35 (Power=3)
+Rule 869/36 (Power=3)
 How to Join and Leave Agora
 
       Any organism that is generally capable of freely originating and
@@ -896,9 +896,9 @@ How to Join and Leave Agora
       rules) register by publishing a message that indicates
       reasonably clearly and reasonably unambiguously that e intends
       to become a player at that time.  A person, by registering,
-      agrees to abide by the Rules.  The Rules SHALL NOT otherwise
-      bind a person to abide by any agreement without that person's
-      willful consent.
+      agrees to abide by the Rules.  The Rules CANNOT otherwise bind a
+      person to abide by any agreement without that person's willful
+      consent.
 
       A player CAN deregister (cease being a player) by announcement.
       If e does so, e CANNOT register by announcement for 30 days.
@@ -956,6 +956,7 @@ Amended(33) by Proposal 7269 (FKA441344, G.), 25 July 2012
 Amended(34) by Proposal 7610 (G.), 22 December 2013
 Power changed from 2 to 3 by Proposal 7610 (G.), 22 December 2013
 Amended(35) by Proposal 7614 (G.), 13 January 2014
+Amended(36) by Proposal 7619 (woggle), 24 January 2014
 
 ----------------------------------------------------------------------
 
