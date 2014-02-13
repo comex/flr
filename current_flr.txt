@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 12 February 2014
 
-Last proposal with recorded effect on this ruleset: 7616
-Last change to this ruleset: by Proposal 7616
+Last proposal with recorded effect on this ruleset: 7618
+Last change to this ruleset: by Proposal 7618
 
 Last ratification: Short Logical Ruleset of 27 July 2013
 Last ratification date: 24 August 2013
@@ -3132,7 +3132,7 @@ Amended(35) by Proposal 7246 (omd), 10 June 2012
 
 ----------------------------------------------------------------------
 
-Rule 1607/39 (Power=3)
+Rule 1607/40 (Power=3)
 Distribution
 
       The Promotor is an office; its holder is responsible for
@@ -3153,8 +3153,7 @@ Distribution
       Pool at any time.
 
       In a given Agoran week, the Promotor SHALL, as part of eir
-      weekly duties, distribute all pending proposals.  The Promotor
-      SHALL NOT distribute any proposals that are not pending.
+      weekly duties, distribute all pending proposals.
 
       Distributed proposals have ID numbers, to be assigned by the
       Promotor.
@@ -3244,6 +3243,7 @@ Amended(36) by Proposal 7461 (Walker), 17 June 2013
 Amended(37) by Proposal 7569 (omd, scshunt), 24 August 2013
 Amended(38) by Proposal 7586 (omd), 24 August 2013
 Amended(39) by Proposal 7610 (G.), 22 December 2013
+Amended(40) by Proposal 7618 (omd), 24 January 2014
 
 ----------------------------------------------------------------------
 
