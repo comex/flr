@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 12 February 2014
 
-Last proposal with recorded effect on this ruleset: 7610
-Last change to this ruleset: by Proposal 7610
+Last proposal with recorded effect on this ruleset: 7611
+Last change to this ruleset: by Proposal 7611
 
 Last ratification: Short Logical Ruleset of 27 July 2013
 Last ratification date: 24 August 2013
@@ -3960,7 +3960,7 @@ Amended(38) by Proposal 7610 (G.), 22 December 2013
 
 ----------------------------------------------------------------------
 
-Rule 1504/66 (Power=2)
+Rule 1504/67 (Power=2)
 Criminal Cases
 
       Criminal cases are a subclass of judicial cases.  Any person can
@@ -3989,8 +3989,8 @@ Criminal Cases
        (d) the defendant should have reasonably believed that the
            alleged act did violate the specified rule;
        (e) the defendant could have reasonably avoided committing the
-           breach without committing a different breach of equal or
-           greater severity.
+           breach without thereby committing a different breach of
+           equal or greater severity.
 
       * NOT GUILTY, appropriate if GUILTY is not appropriate.  In
         delivering this verdict, the judge SHOULD indicate which of
@@ -4171,6 +4171,8 @@ Amended(63) by Proposal 7507 (Walker), 12 July 2013
 Amended(64) by Proposal 7509 (Walker), 12 July 2013
 Amended(65) by Proposal 7540 (omd), 30 July 2013
 Amended(66) by Proposal 7542 (omd), 30 July 2013
+Amended(67) by Proposal 7611 (Murphy, Bayushi, ais523),
+  11 January 2014
 
 ----------------------------------------------------------------------
 
