@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 12 February 2014
 
-Last proposal with recorded effect on this ruleset: 7611
-Last change to this ruleset: by Proposal 7611
+Last proposal with recorded effect on this ruleset: 7613
+Last change to this ruleset: by Proposal 7613
 
 Last ratification: Short Logical Ruleset of 27 July 2013
 Last ratification date: 24 August 2013
@@ -1400,7 +1400,7 @@ Definitions
       widely used and do not readily fall into any other category.
 ----------------------------------------------------------------------
 
-Rule 2152/6 (Power=3)
+Rule 2152/7 (Power=3)
 Mother, May I?
 
       The following terms are defined.  These definitions are used
@@ -1417,19 +1417,22 @@ Mother, May I?
       2. MUST NOT, MAY NOT, SHALL NOT, ILLEGAL, PROHIBITED: Performing
          the described action violates the rule in question.
 
-      3. SHOULD NOT, DISCOURAGED, DEPRECATED:  Before performing the
+      3. NEED NOT, OPTIONAL:  Failing to perform the  described action
+         does not violate the rules.
+
+      4. SHOULD NOT, DISCOURAGED, DEPRECATED:  Before performing the
          described action, the full implications of performing it
          should be understood and carefully weighed.
 
-      4. CAN: Attempts to perform the described action are successful.
+      5. CAN: Attempts to perform the described action are successful.
 
-      5. MAY: Performing the described action does not violate the
+      6. MAY: Performing the described action does not violate the
          rules.
 
-      6. MUST, SHALL, REQUIRED, MANDATORY:  Failing to perform the
+      7. MUST, SHALL, REQUIRED, MANDATORY:  Failing to perform the
          described action violates the rule in question.
 
-      7. SHOULD, ENCOURAGED, RECOMMENDED:  Before failing to perform
+      8. SHOULD, ENCOURAGED, RECOMMENDED:  Before failing to perform
          the described action, the full implications of failing to
          perform it should (in the ordinary-language sense) be
          understood and carefully weighed.
@@ -1462,6 +1465,7 @@ Amended(3) by Proposal 5354 (Murphy), 16 December 2007
 Amended(4) by Proposal 5535 (Murphy), 7 June 2008
 Amended(5) by Proposal 6571 (ais523), 28 November 2009
 Amended(6) by Proposal 6983 (Murphy), 10 April 2011
+Amended(7) by Proposal 7613 (Arufonsu), 11 January 2014
 
 ----------------------------------------------------------------------
 
