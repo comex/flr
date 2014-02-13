@@ -2,13 +2,13 @@ THE FULL LOGICAL RULESET
 
 Last updated: 12 February 2014
 
-Last proposal with recorded effect on this ruleset: 7607
-Last change to this ruleset: by Proposal 7607
+Last proposal with recorded effect on this ruleset: 7609
+Last change to this ruleset: by Proposal 7609
 
 Last ratification: Short Logical Ruleset of 27 July 2013
 Last ratification date: 24 August 2013
 
-Highest Rule ID number ever assigned: 2416
+Highest Rule ID number ever assigned: 2419
 
 Online version:
   https://www.eecs.berkeley.edu/~charles/agora/current_flr.txt (FLR)
@@ -18,7 +18,7 @@ Online version:
 
 Statistics
 
-Current total number of rules: 109
+Current total number of rules: 106
 
 Power distribution:
        1 with Power=4
@@ -26,10 +26,10 @@ Power distribution:
        1 with Power=3.1
       38 with Power=3
       37 with Power=2
-       8 with Power=1.7
+       6 with Power=1.7
        4 with Power=1.5
        1 with Power=1.1
-      18 with Power=1
+      17 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -44,7 +44,6 @@ Index of Rules
       Rule 2140: Power Controls Mutability
       Rule  104: First Speaker
       Rule 2357: Wisdom of the Elders
-      Rule 2358: Win by Paradox
 
       * Rules
       Rule 2141: Role and Attributes of Rules
@@ -67,8 +66,8 @@ Index of Rules
       Rule 2401: Registration Yaks
 
       * Economy
+      Rule 2419: Winning
       Rule 2166: Assets
-      Rule 2343: Victory Conditions
       Rule 2398: Yaks
       Rule 2399: Budget Switches
       Rule 2400: Tax
@@ -129,11 +128,9 @@ Index of Rules
       Rule 2389: Ordinary Chamber
       Rule 2374: Democratic Chamber
       Rule 2409: Star Chamber
-      Rule 2414: Terrible Stars
       Rule 1950: Decisions with Adoption Indices
       Rule 2137: The Assessor
       Rule 1698: Agora Is A Nomic
-      Rule 2381: Win by Clout
 
       * Adjudication
       Rule  991: Judicial Cases Generally
@@ -632,27 +629,6 @@ Amended(4) by Proposal 7303 (FKA441344), 27 September 2012
 Power changed from 2 to 3 by Proposal 7345, 27 March 2013
 Amended(5) by Proposal 7345 (woggle), 27 March 2013
 Amended(6) by Proposal 7519 (omd, Walker), 19 July 1013
-
-----------------------------------------------------------------------
-
-Rule 2358/2 (Power=1)
-Win by Paradox
-
-      A turtle is an inquiry case on the possibility or legality of a
-      rule-defined action (actually either occurring, performed, or
-      attempted, but not arising from that case itself, and not
-      occurring after the initiation of that case) which has the
-      judgement UNDECIDABLE.
-
-      When a turtle has continuously been a turtle for one week, and
-      this condition has not been satisfied in the last 30 days for
-      any turtle regarding substantially identical events, its
-      initiator satisfies the Victory Condition of Paradox.
-
-History:
-Created by Proposal 7138 (omd), 19 November 2011
-Amended(1) by Proposal 7271 (G.), 14 August 2012
-Amended(2) by Proposal 7586 (omd), 24 August 2013
 
 ----------------------------------------------------------------------
 
@@ -1545,6 +1521,26 @@ Economy
       A category concerning asset-based gameplay.
 ----------------------------------------------------------------------
 
+Rule 2419/0 (Power=1)
+Winning
+
+      A player's Score is a complex number, tracked by the Herald.  If
+      a player's score has not been previously changed by the Rules,
+      or cannot be determined by reasonable effort, it is 0.  If a
+      person ceases being a player, eir score is set to 0.  Changes to
+      score can only be made as specified by the rules.
+
+      A player has achieved Escape Velocity any time the magnitude of
+      eir score is 100 or greater.  Upon a true announcement that one
+      or more specified players have achieved escape velocity, then
+      all such players win the game, and all players' scores are set
+      to 0.
+
+History:
+Created by Proposal 7609 (G.), 13 December 2013
+
+----------------------------------------------------------------------
+
 Rule 2166/19 (Power=2)
 Assets
 
@@ -1644,62 +1640,6 @@ Amended(16) by Proposal 6916 (omd; disi.), 2 January 2011
 Amended(17) by Proposal 7298 (FKA441344), 9 September 2012
 Amended(18) by Proposal 7420 (omd), 27 May 2013
 Amended(19) by Proposal 7586 (omd), 24 August 2013
-
-----------------------------------------------------------------------
-
-Rule 2343/9 (Power=1.7)
-Victory Conditions
-
-      Victory Conditions and Losing Conditions are conditions
-      explicitly defined as such by the Rules.  Such conditions are
-      generally satisfied instantaneously, not continuously.
-
-      A person CAN declare a victory without objection or with 2
-      Agoran Consent, specifying a person (the Champion) and a
-      instance of eir satisfying a specified Victory Condition while
-      not satisfying any Losing Conditions, as long as no victory has
-      previously been declared for the same event.  When this occurs,
-      the Champion Wins the Game.  There is no other method of winning
-      the game.  Winning the game does not cause Agora to end.
-
-      A person SHOULD NOT declare a victory for events older than one
-      month, and players SHOULD object to intents to do so, unless the
-      validity of the victory has continuously been in question since
-      less than a month after the event.  Players SHALL NOT object to
-      intents to declare a victory unless they are inaccurate or
-      pertain to events older than one month.
-
-      When a Victory Announcement ratifies, or a judgement confirming
-      the veracity of a victory announcement has been in effect and
-      unappealed for one week, and provided the person(s) named have
-      not already won via substantially the same events, the person(s)
-      Win the Game.  There is no other method of winning the game.
-      Winning the game does not cause Agora to end.
-
-      The Herald SHALL award the Patent Title Champion to any person
-      who wins the game, in a timely fashion after the win.  The
-      Herald SHOULD note the method of winning in eir report.
-
-      Any person who wins the game while knowingly breaking a Rule, or
-      while willingly and knowingly being a party to a Rules breach,
-      where the breach is directly and substantially responsible for
-      the win, commits the Class-4 Crime of Poor Sportsmanship.  If
-      any party is found GUILTY of this crime, then, in a timely
-      fashion after the judgement has been in effect for one week,
-      the Herald SHALL, as part of the punishment, revoke any Champion
-      title awarded to the guilty parties as a result of the win.
-
-History:
-Created by Proposal 7039 (scshunt), 16 May 2011
-Amended(1) by Proposal 7078 (omd), 16 June 2011
-Amended(2) by Proposal 7098 (omd), 23 July 2011
-Amended(3) by Proposal 7135 (G.), 6 November 2011
-Amended(4) by Proposal 7139 (omd), 19 November 2011
-Amended(5) by Proposal 7146 (omd), 25 January 2012
-Amended(6) by Proposal 7147 (Murphy), 25 January 2012
-Amended(7) by Proposal 7148 (Murphy), 25 January 2012
-Amended(8) by Proposal 7420 (omd), 27 May 2013
-Amended(9) by Proposal 7586 (omd), 24 August 2013
 
 ----------------------------------------------------------------------
 
@@ -4322,24 +4262,6 @@ Amended(1) by Proposal 7502 (Fool), 8 July 2013
 
 ----------------------------------------------------------------------
 
-Rule 2414/2 (Power=1)
-Terrible Stars
-
-      When a decision in the Star Chamber is resolved with no votes
-      FOR, then its author satisfies the Victory Condition of
-      Kangaroo.
-
-      Players SHALL NOT discuss their votes on a proposal in the Star
-      Chamber before the end of that proposal's voting period. Doing
-      so is the Class-4 Crime of Contempt for the Contempted.
-
-History:
-Created by Proposal 7490 (scshunt), 9 July 2013
-Amended(1) by Proposal 7520 (omd), 19 July 2013
-Amended(2) by proposal 7527 (Murphy), 22 July 2013
-
-----------------------------------------------------------------------
-
 Rule 1950/28 (Power=3)
 Decisions with Adoption Indices
 
@@ -4450,24 +4372,6 @@ Retitled by Proposal 5536 (Murphy), 7 June 2008
 Amended(1) by Proposal 5536 (Murphy), 7 June 2008
 Amended(2) by Proposal 7075 (scshunt), 16 June 2011
 Amended(3) by Proposal 7088 (omd), 23 July 2011
-
-----------------------------------------------------------------------
-
-Rule 2381/2 (Power=1.7)
-Win by Clout
-
-      If a single Player has a voting limit on an Agoran Decision that
-      has a Chamber, and that voting limit, at the end of the
-      Decision's voting period, is greater than the combined voting
-      limits of all other entities on that decision, and no entity has
-      satisfied this condition in the last 30 days for a decision in
-      the same Chamber, that player satisfies the Victory Condition of
-      Clout.
-
-History:
-Created by Proposal 7312 (G.), 27 September 2012
-Amended(1) by Proposal 7451 (omd), 10 June 2013
-Amended(2) by Proposal 7586 (omd), 24 August 2013
 
 ----------------------------------------------------------------------
 
