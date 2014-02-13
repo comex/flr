@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last updated: 14 September 2013
+Last updated: 12 February 2014
 
-Last proposal with recorded effect on this ruleset: 7599
-Last change to this ruleset: by Proposal 7599
+Last proposal with recorded effect on this ruleset: 7604
+Last change to this ruleset: by Proposal 7604
 
 Last ratification: Short Logical Ruleset of 27 July 2013
 Last ratification date: 24 August 2013
@@ -1044,7 +1044,7 @@ Amended(6) by Proposal 7433 (Walker), 27 May 2013
 
 ----------------------------------------------------------------------
 
-Rule 1681/19 (Power=1)
+Rule 1681/20 (Power=1)
 The Logical Rulesets
 
       The Short Logical Ruleset (SLR) is a format of the ruleset.  In
@@ -1084,36 +1084,6 @@ The Logical Rulesets
       d) If the rule was changed due to a proposal, then that
          proposal's ID number, author, and co-author(s) (if any).
 
-      The Helpful Logical Ruleset (HLR) is a format of the ruleset and
-      part of the Rulekeepor's monthly report. In this format, rules
-      are assigned to categories and ordered within categories in a
-      way intended to be helpful to new players. For example, rules
-      defining gameplay and commom game actions ought to be placed
-      earlier in the HLR, and rules containing high level definitions
-      and definitions only of interest to officers ought to be placed
-      later in the HLR. HLR categories may also take into account the
-      different areas of the game e.g. the economy, the judicial
-      system, proposals.
-
-      Each rule in the HLR shall be annotated to explain its meaning
-      and purpose to new players using as few rules-defined terms as
-      possible and explaining rules-defined terms when they are used.
-      The Rulekeepor may amend these annotations as e sees fit; e
-      SHALL update them each month to ensure that they are true,
-      accurate and not misleading.
-
-      The Rulekeepor SHALL also maintain a format known as the
-      Semantic Logical Ruleset (SeLR). The SeLR shall be in a
-      screen-reader-friendly format, include hyperlinks from terms to
-      the rules which define them and the annotation of each rule
-      shall include hyperlinks to related rules. The Rulekeepor need
-      not publish this format each month: it suffices to publish
-      information which allows each player to access a copy of it.
-
-      In a timely fashion after a person registers, the Rulekeepor
-      SHALL send em copies of each ruleset format, or send em
-      information allowing em to access them.
-
 History:
 Created by Proposal 2783 (Chuck), Jan 15 1997
 Amended(1) by Proposal 3500 (Crito), Jun. 3 1997, substantial
@@ -1136,6 +1106,7 @@ Amended(16) by Proposal 6053 (Murphy, woggle, ais523), 23 January 2009
 Amended(17) by Proposal 6124 (ehird), 15 March 2009
 Amended(18) by Proposal 6662 (Murphy; disi.), 10 March 2010
 Amended(19) by Proposal 7599 (Walker), 14 September 2013
+Amended(20) by Proposal 7604 (G.), 13 December 2013
 
 ----------------------------------------------------------------------
 
