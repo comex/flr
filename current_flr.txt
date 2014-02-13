@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 12 February 2014
 
-Last proposal with recorded effect on this ruleset: 7613
-Last change to this ruleset: by Proposal 7613
+Last proposal with recorded effect on this ruleset: 7612
+Last change to this ruleset: by Proposal 7612
 
 Last ratification: Short Logical Ruleset of 27 July 2013
 Last ratification date: 24 August 2013
@@ -3133,13 +3133,12 @@ Amended(18) by Proposal 7238 (omd), 10 June 2012
 
 ----------------------------------------------------------------------
 
-Rule 879/29 (Power=2)
+Rule 879/30 (Power=2)
 Quorum
 
-      Quorum for an Agoran decision is N/3 rounded up, where N is the
-      number of eligible voters with a positive voting limit on that
-      decision, with a minimum of five (unless this is greater than
-      N, in which case quorum is N).
+      Quorum for an Agoran Decision is equal to the number of
+      currently active  players who voted on the most recently
+      resolved Agoran Decision to adopt a proposal, minus 3.
 
 [CFJ 1562 (called 3 May 2005): A cancelled vote on a Proposal does not
 count towards quorum.]
@@ -3182,6 +3181,7 @@ Amended(26) by Proposal 5113 (Murphy, Maud), 2 August 2007
 Amended(27) by Proposal 5445 (Goethe, Murphy), 21 February 2008
 Amended(28) by Proposal 7317 (omd), 16 October 2012
 Amended(29) by Proposal 7552 (omd), 24 August 2013
+Amended(30) by Proposal 7612 (ais523), 11 January 2014
 
 ----------------------------------------------------------------------
 
