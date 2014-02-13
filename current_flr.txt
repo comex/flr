@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 12 February 2014
 
-Last proposal with recorded effect on this ruleset: 7614
-Last change to this ruleset: by Proposal 7614
+Last proposal with recorded effect on this ruleset: 7616
+Last change to this ruleset: by Proposal 7616
 
 Last ratification: Short Logical Ruleset of 27 July 2013
 Last ratification date: 24 August 2013
@@ -18,17 +18,17 @@ Online version:
 
 Statistics
 
-Current total number of rules: 83
+Current total number of rules: 69
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
        1 with Power=3.1
       36 with Power=3
-      20 with Power=2
-       6 with Power=1.7
-       4 with Power=1.5
-      14 with Power=1
+      15 with Power=2
+       2 with Power=1.7
+       2 with Power=1.5
+      11 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -112,24 +112,10 @@ Index of Rules
       Rule 1698: Agora Is A Nomic
 
       * Adjudication
-      Rule  991: Judicial Cases Generally
-      Rule 2158: Judges
-      Rule  591: Inquiry Cases
-      Rule 1504: Criminal Cases
-      Rule 2277: Appeals of Criminal Cases
-      Rule 2205: Judicial Arguments and Evidence
-      Rule 2157: Judicial Panels
-      Rule 2341: Judgements by Judicial Panels
-      Rule 2318: Motions to Reconsider
-      Rule  911: Appeal Cases
-      Rule 2342: Judicial Appeals Panels
+      Rule  991: Calls for Judgement
+      Rule  591: Delivering Judgements
+      Rule  911: Motions and Moots
       Rule 2175: Judicial Retraction and Excess
-      Rule 1868: Judge Assignment Generally
-      Rule 1871: The Standing Court
-      Rule 2378: Court Protector
-      Rule 2204: Linked Assignments
-      Rule 2164: Judicial Self-Recusal and Case Transfer
-      Rule 2394: Crime by Proxy
 
       * Patent Titles and Degrees
       Rule  649: Patent Titles
@@ -3480,26 +3466,23 @@ Adjudication
       controversy are resolved.
 ----------------------------------------------------------------------
 
-Rule 991/12 (Power=2)
-Judicial Cases Generally
+Rule 991/13 (Power=2)
+Calls for Judgement
 
-      A judicial case, also known as a call for judgement (CFJ), is a
-      procedure to settle a matter of controversy.
+      Any person (the initiator) can initiate a Call for Judgement
+      (CFJ, syn. Judicial Case) by announcement, specifying a
+      statement to be inquired into.  E may optionally bar one person
+      from the case.
 
-      Each judicial case has exactly one subclass, with particular
-      features as defined by other rules.  Subclasses of judicial case
-      exist only as defined by the rules.  Defining a subclass of
-      judicial case is secured, with a power threshold of 1.7.  A
-      judicial case's subclass CAN be specified by its initiator, or
-      otherwise defaults to inquiry.
+      At any time, each CFJ is either open (default), or has exactly
+      one judgement.
 
-      The Clerk of the Courts (CotC) is an office, responsible for
-      managing judicial activity.  The CotC's report includes the
-      status of all judicial cases without a judgement.
-
-      Judicial cases (other than appeal cases, which have historically
-      been identified by reference to the prior case) have ID numbers,
-      to be assigned by the Clerk of the Courts.
+      When a CFJ has no judge assigned, the Speaker CAN assign any
+      player to be its judge by announcement, and SHALL do so within a
+      week.  The players eligible to be assigned as judge are all
+      players except the initiator and the person barred (if any).
+      The Speaker SHALL assign judges over time such that all
+      interested players have reasonably equal opportunities to judge.
 
 [CFJs 1692-1693 (called 20 June 2007): A CFJ can be unambiguously
 referenced by using the customarily-assigned sequence numbers, even if
@@ -3508,18 +3491,6 @@ involved accept it as unambiguous at the time.]
 
 [CFJ 1355 (called 28 April 2002): Titles for CFJs are unregulated, so
 it is possible for a title to be assigned to a CFJ informally.]
-
-[Cross-references (28 May 2008): the Clerk of the Courts' duties
-are:
-  * not assign judges during holiday (Rule 1769)
-  * report open judicial cases (Rule 991)
-  * manage ID numbers of non-appeal judicial cases (Rule 991)
-  * refuse excess CFJ (Rule 2175)
-  * assign judge to judicial case (Rule 1868)
-  * not assign a poorly qualified judge (Rule 1868)
-  * track player posture (Rule 1871)
-  * rotate the bench (Rule 1871)
-  * recuse tardy judge (Rule 2158)]
 
 History:
 Initial Mutable Rule 213, Jun. 30 1993
@@ -3542,119 +3513,25 @@ Amended(11) by Proposal 5464 (Murphy), 13 March 2008
 Assigned to Committee on the Judiciary by Proposal 6053 (Murphy,
   woggle, ais523), 23 January 2009
 Amended(12) by Proposal 7050 (omd), 16 May 2011
+Retitled and amended(13) by Proposal 7616 (G.), 16 January 2014
 
 ----------------------------------------------------------------------
 
-Rule 2158/11 (Power=2)
-Judges
+Rule 591/39 (Power=1.7)
+Delivering Judgements
 
-      At any time, each judicial case is either open (default),
-      suspended, or has exactly one judgement.  This is a persistent
-      status that changes only according to the rules.  The possible
-      types of judgement for a judicial case depend on the type of
-      case.
+      When a CFJ becomes open and is assigned to a judge, that judge
+      SHALL assign a valid judgement to the case within a week of
+      assignment, by announcement.  If e does not, the Speaker CAN
+      remove em from being the judge of that case by announcement.
 
-      When a judicial case is open and has a judge assigned to it, the
-      judge CAN assign a valid judgement to it by announcement, and
-      SHALL do so in a timely fashion, unless e is recused from the
-      case before the time limit for doing so has expired.  A judge
-      SHOULD NOT assign an inappropriate judgement to any judicial
-      case.  A judgement is valid and/or appropriate only as defined
-      by the rules.  Defining these things is secured, with a power
-      threshold of 1.7.  If more than one judgement is valid and
-      appropriate, then the choice between them is left to the judge's
-      discretion.
-
-      When a non-appeal judicial case is open, and its judge has
-      violated a time limit to assign a judgement to it, or is not an
-      active player, the Clerk of the Courts SHALL recuse that judge
-      with cause by announcement in a timely fashion; however, this
-      requirement is waived if the judge assigns a judgement to it
-      first.
-
-[CFJ 1804 (called 19 November 2007): A judge should give the judgement
-that e believes is appropriate, and if e does so in good faith then e
-can be EXCUSED if the judgement is later found to have been
-inappropriate.]
-
-[CFJ 1871 (called 15 January 2008): The appropriateness of a judgement
-is determined solely by the facts of the case, and is independent of
-the reasoning used by a judge to decide on the judgement.]
-
-History:
-Created by Proposal 5086 (Zefram), 1 August 2007
-Amended(1) by Proposal 5151 (root), 29 August 2007
-Amended(2) by Proposal 5317 (Murphy), 28 November 2007
-Amended(3) by Proposal 5429 (Zefram), 9 February 2008
-Amended(4) by Proposal 5464 (Murphy), 13 March 2008
-Amended(5) by Proposal 5474 (Murphy), 24 March 2008
-Amended(6) by Proposal 6045 (Taral), 13 January 2009
-Assigned to Committee on the Judiciary by Proposal 6053 (Murphy,
-  woggle, ais523), 23 January 2009
-Amended(7) by Proposal 6391 (Murphy), 10 July 2009
-Amended(8) by Proposal 6399 (Wooble), 17 July 2009
-Amended(9) by Proposal 6404 (Murphy; disi.), 30 July 2009
-Amended(10) by Proposal 7050 (omd), 16 May 2011
-Amended(11) by Proposal 7420 (omd), 27 May 2013
-
-----------------------------------------------------------------------
-
-Rule 591/38 (Power=1.7)
-Inquiry Cases
-
-      Inquiry cases are a subclass of judicial cases.  An inquiry
-      case's purpose is to determine the veracity of a particular
-      statement.  Any person CAN initiate an inquiry case by
-      announcement, specifying a block of text which SHOULD represent
-      a statement to be inquired into.  (Including a yes/no question
-      is equivalent to including a statement that the answer to that
-      question is yes, and for such a case, YES and NO are synonymous
-      with the judgements TRUE and FALSE respectively.)
-
-      The initiator is unqualified to be assigned as judge of the
-      case, and in the initiating announcement e CAN disqualify one
-      person from assignment as judge of the case.
-
-      The valid judgements for an inquiry case are as follows, based
-      on the truth or falsity of the statement at the time the inquiry
-      case was initiated (if its truth value changed at that time,
-      then its initial truth value is used):
-
-      * FALSE, appropriate if the statement was factually and
-        logically false
-
-      * TRUE, appropriate if the statement was factually and logically
-        true
-
-      * UNDECIDABLE, appropriate if the statement was logically
-        undecidable or otherwise not capable of being accurately
-        described as either false or true
-
-      * IRRELEVANT, appropriate if the veracity of the statement is
-        not relevant to the game or is an overly hypothetical
-        extrapolation of the game or its rules to conditions that
-        don't actually exist, or if it can be trivially determined
-        from the outcome of another (possibly still undecided)
-        judicial case that was not itself judged IRRELEVANT
-
-      * UNDETERMINED, appropriate if the statement is nonsensical or
-        too vague, or if the information available to the judge is
-        insufficient to determine which of the FALSE, TRUE, and
-        UNDECIDABLE judgements is appropriate; however, uncertainty as
-        to how to interpret or apply the rules cannot constitute
-        insufficiency of information for this purpose
-
-      * MALFORMED, appropriate if the text identified by the initiator
-        as the statement cannot be parsed as a single statement in the
-        ordinary-language sense; however, a compound statement (e.g.
-        "X and Y", "X or Y") counts as a single statement
-
-      Players SHOULD take the judgement of the question in an inquiry
-      case, and the reasoning by which it was reached, into account
-      when attempting to determine what is possible and/or legal in
-      future play (including when making future judgements); but the
-      judgement does not directly affect the veracity of the
-      statement.
+      The valid judgements, based on the facts of the case at the
+      statement at the time the CFJ was initiated, are TRUE, FALSE,
+      and DISMISS.  DISMISS is appropriate if the statement is
+      malformed, undecidable, irrelevant to the game, if insufficient
+      information exists to make a judgement with reasonable effort,
+      or the statement is otherwise not able to be answered TRUE or
+      FALSE.
 
 [CFJ 1835 (called 18 December 2007): A question cannot generally take
 the place of a statement in initiating an inquiry case.]
@@ -3741,434 +3618,36 @@ Amended(35) by Proposal 7078 (omd), 16 June 2011
 Amended(36) by Proposal 7266 (omd), 25 July 2012
 Amended(37) by Proposal 7293 (Murphy), 9 September 2012
 Amended(38) by Proposal 7610 (G.), 22 December 2013
+Retitled and amended(39) by Proposal 7616 (G.), 16 January 2014
 
 ----------------------------------------------------------------------
 
-Rule 1504/67 (Power=2)
-Criminal Cases
-
-      Criminal cases are a subclass of judicial cases.  Any person can
-      initiate a criminal case by announcement, specifying:
-
-      (a) a person (the defendant),
-      (b) an action the defendant allegedly performed or failed to
-          perform, and
-      (c) a rule allegedly violated by that action/inaction.
-
-      The initiator and each member of the defendant's basis are
-      unqualified to be assigned as judge of the case.
-
-      The valid judgements for a criminal case are as follows:
-
-      * GUILTY with a valid sentence, appropriate if the judge finds,
-        beyond a reasonable doubt, that ALL of the following are true:
-       (a) the defendant breached the specified rule via the specified
-           act;
-       (b) the breach occurred within 30 days prior to the case being
-           initiated;
-       (c) judgement has not already been reached in another criminal
-           case initiated between the breach and the initiation of
-           this case with the same defendant, the same rule, and
-           substantially the same alleged act;
-       (d) the defendant should have reasonably believed that the
-           alleged act did violate the specified rule;
-       (e) the defendant could have reasonably avoided committing the
-           breach without thereby committing a different breach of
-           equal or greater severity.
-
-      * NOT GUILTY, appropriate if GUILTY is not appropriate.  In
-        delivering this verdict, the judge SHOULD indicate which of
-        the sub-requirements for a finding of guilty were not found to
-        be true beyond a reasonable doubt.
-
-      When a sentence has been assigned as part of a GUILTY judgement,
-      the defendant is known as the ninny, and the sentence is in
-      effect.
-
-      The valid sentences are:
-
-      * DISCHARGE, appropriate only in extraordinary circumstances, if
-        any available non-null punishment would be manifestly unjust.
-        Has no effect.
-
-      * APOLOGY with a set of up to ten prescribed words (the empty
-        set if none is explicitly specified), appropriate for rule
-        breaches of small consequence.  When in effect, the ninny
-        SHALL in a timely fashion publish a formal apology of at least
-        200 words, including all the prescribed words, explaining eir
-        error, shame, remorse, and ardent desire for self-improvement.
-        Failure to do so is a Class-3 Crime of Failure to Apologize.
-
-      * FINE with an amount of one currency, appropriate for rule
-        breaches of small consequence.  An amount is only valid if the
-        rules specify a maximum FINE amount for that currency, and the
-        amount is no greater than the maximum.  When in effect, unless
-        a fine for that case has already been satisfied, the ninny
-        SHALL pay a cost of that amount of currency to satisfy the
-        fine in a timely fashion; if e fails to do so within four
-        days, and has at least that amount, then any player CAN
-        destroy that amount from eir possession by announcement to
-        satisfy the fine.
-
-      * COMMUNITY SERVICE with a set of up to five tasks (the
-        prescribed tasks) that the ninny CAN reasonably and legally
-        perform, appropriate for rule breaches of moderate consequence
-        if the severity of the rule breach is reasonably correlated
-        with the consequences of performing the tasks, and especially
-        if any other available non-null punishment would be either
-        unjust or insufficient.  The balance between compensatory and
-        punitive service is left to the judge's discretion.  While a
-        sentence of this type is in effect, the ninny SHALL perform
-        the prescribed tasks (in a timely fashion, unless a different
-        time limit is specified).
-
-      * TIME OUT with a number of days between 4 and 21, appropriate
-        for rue breaches of moderate consequence.  Stasis is a player
-        timer, tracked by the Registrar. When a sentence of TIME OUT
-        has been in effect continuously for one week, the ninny
-        becomes inactive, and eir stasis timer increases by the
-        specified amount.  While a player is inactive, eir stasis
-        timer is counting down.  While a player's stasis timer is
-        positive, e CANNOT become active.
-
-      * EXILE, appropriate for rule breaches of the highest severity.
-        When a judgement of EXILE has been in effect continuously for
-        one week, the ninny is deregistered and CANNOT register for
-        two months after that time.  During this period, e is known as
-        a Fugitive.  Being a Fugitive is the Losing Condition of
-        Seeking Asylum.
-
-      Players SHOULD NOT create rules defining Crimes of a Class
-      greater than 14.
-
-[CFJ 1720 (called 12 August 2007): Where a criminal charge is
-expressed in the form "violating rule NNNN by XXX", the alleged act
-for the purposes of the rules is only "XXX".]
-
-[CFJ 1845 (called 20 December 2007): Mentioning a rule in a section
-labelled "arguments" in a message that attempts to initiate a criminal
-case does not constitute clearly specifying the rule allegedly
-breached.]
-
-[CFJs 1857-1858 (called 31 December 2007): Ignorance of the law is not
-appropriate grounds for a verdict of UNAWARE.]
-
-[CFJ 1804 (called 19 November 2007): A verdict of EXCUSED is
-appropriate where a person mistakenly, in good faith, believes that
-eir action is legal when it is not.]
-
-[CFJs 1808-1809 (called 28 November 2007): Sentencing a ninny to
-"APOLOGY" without explicitly giving a set of prescribed words
-constitutes sentencing the ninny to APOLOGY with the empty set of
-prescribed words.]
-
-[CFJ 1846 (called 20 December 2007): For the purposes of prescribed
-words, words do not need to be a standard part of the language.]
-
-[CFJ 1924 (called 10 April 2008): A duration need not be a fixed
-amount of time.]
-
-[CFJ 3126 (called 19 November 2011): Committing an action defined as a
-Crime is a violation of the rule so defining it.]
-
-[CFJ 3128 (called 19 November 2011): An allegation that a person
-committed a crime, mentioning the rule that defines the crime, is an
-allegation that e violated that rule.]
-
-[CFJ 3336 (called 10 June 2013): Multiple very similar, simulatenous
-violations can be adjudicated as a single action in a single case.]
-
-History:
-Created by Proposal 1682, Aug. 22 1995
-Amended(1) by Proposal 2570, Apr. 12 1996
-Amended(2) by Proposal 2677, Sep. 26 1996
-Infected and Amended(3) by Rule 1454, Jan. 8 1997, substantial
-  (unattributed)
-Amended(4) by Proposal 3452 (Steve), Apr. 7 1997, substantial
-Amended(5) by Proposal 3533 (General Chaos), Jul. 15 1997, substantial
-Amended(6) by Proposal 3704 (General Chaos), Mar. 19 1998
-Amended(7) by Proposal 4406 (Murphy), 30 October 2002
-Amended(8) by Proposal 4867 (Goethe), 27 August 2006
-Amended(9) by Proposal 4887 (Murphy), 22 January 2007
-Retitled by Proposal 5086 (Zefram), 1 August 2007
-Power changed from 1 to 1.7 by Proposal 5086 (Zefram), 1 August 2007
-Amended(10) by Proposal 5086 (Zefram), 1 August 2007
-Amended(11) by Proposal 5109 (Zefram; disi.), 2 August 2007
-Amended(12) by Proposal 5132 (Zefram), 13 August 2007
-Amended(13) by Proposal 5135 (Wooble), 17 August 2007
-Amended(14) by Proposal 5153 (Murphy), 29 August 2007
-Amended(15) by Proposal 5155 (root), 29 August 2007
-Amended(16) by Proposal 5223 (root), 30 September 2007
-Amended(17) by Proposal 5294 (Murphy), 22 November 2007
-Amended(18) by Proposal 5349 (Murphy), 13 December 2007
-Amended(19) by Proposal 5371 (Zefram), 20 December 2007
-Amended(20) by Proposal 5386 (Murphy, Zefram), 1 January 2008
-Amended(21) by Proposal 5404 (Murphy, pikhq, root), 16 January 2008
-Amended(22) by Proposal 5436 (Murphy), 13 February 2008
-Amended(23) by Proposal 5493 (Murphy), 23 April 2008
-Amended(24) by Proposal 5631 (BobTHJ), 29 July 2008
-Amended(25) by Proposal 5634 (Taral), 29 July 2008
-Amended(26) by Proposal 5642 (Sgeo, ais523, root,
-BobTHJ, Wooble, Murphy, Zefram, Goethe, Pavitra),
-  29 July 2008
-Amended(27) by Proposal 5624 (Murphy), 29 July 2008
-Amended(28) by Proposal 5650 (Pavrita), 29 July 2008
-Amended(29) by Proposal 5711 (Murphy, woggle), 7 October 2008
-Power changed from 1.7 to 2 by Proposal 5728 (ihope), 7 October 2008
-Amended(30) by Proposal 5728 (ihope), 7 October 2008
-Amended(31) by Proposal 5808 (Murphy; disi.), 1 November 2008
-Amended(32) by Proposal 6000 (Murphy), 7 December 2008
-Amended(33) by Proposal 6010 (ais523, Goethe, Murphy, comex,
-  OscarMeyr), 14 December 2008
-Amended(34) by Proposal 6024 (Murphy), 22 December 2008
-Assigned to Committee on Crime by Proposal 6053 (Murphy, woggle,
-  ais523), 23 January 2009
-Amended(35) by Proposal 6054 (Wooble), 23 January 2009
-Amended(36) by Proposal 6112 (Taral), 1 March 2009
-Amended(37) by Proposal 6119 (Goethe), 1 March 2009
-Amended(38) by Proposal 6146 (Murphy), 23 March 2009
-Amended(39) by Proposal 6206 (coppro), 27 April 2009
-Amended(40) by Proposal 6354 (ais523), 17 June 2009
-Amended(41) by Proposal 6355 (Yally), 23 June 2009
-Amended(42) by Proposal 6401 (Murphy), 17 July 2009
-Amended(43) by Proposal 6463 (C-walker), 15 September 2009
-Amended(44) by Proposal 6522 (Walker), 23 October 2009
-Amended(45) by Proposal 6535 (Murphy), 4 November 2009
-Amended(46) by Proposal 6557 (BobTHJ; disi.), 13 November 2009
-Amended(47) by cleaning (Murphy), 6 March 2010
-Amended(48) by Proposal 6932 (scshunt), 2 January 2011
-Amended(49) by Proposal 6961 (G.), 3 March 2011
-Amended(50) by Proposal 7002 (Murphy), 20 April 2011
-Amended(51) by Proposal 7005 (Walker, Yally, G.), 20 April 2011
-Amended(52) by Proposal 7010 (Walker), 20 April 2011
-Amended(53) by Proposal 7012 (Walker), 20 April 2011
-Amended(54) by Proposal 7034 (omd), 16 May 2011
-Amended(55) by Proposal 7050 (omd), 16 May 2011
-Amended(56) by Proposal 7118 (scshunt), 20 August 2011
-Amended(57) by Proposal 7146 (omd), 25 January 2012
-Amended(58) by Proposal 7265 (ais523), 25 July 2012
-Amended(59) by Proposal 7420 (omd), 27 May 2013
-Amended(60) by Proposal 7460 (omd), 17 June 2013
-Amended(61) by Proposal 7479 (scshunt), 29 June 2013
-Amended(62) by Proposal 7485 (omd), 9 July 2013
-Amended(63) by Proposal 7507 (Walker), 12 July 2013
-Amended(64) by Proposal 7509 (Walker), 12 July 2013
-Amended(65) by Proposal 7540 (omd), 30 July 2013
-Amended(66) by Proposal 7542 (omd), 30 July 2013
-Amended(67) by Proposal 7611 (Murphy, Bayushi, ais523),
-  11 January 2014
-
-----------------------------------------------------------------------
-
-Rule 2277/4 (Power=2)
-Appeals of Criminal Cases
-
-      An appeal concerning any assignment of judgement in a criminal
-      case within the past week CAN be initiated by the defendant by
-      announcement.
-
-History:
-Created by Proposal 6536 (Murphy), 4 November 2009
-Amended(1) by cleaning (omd), 30 November 2010
-Amended(2) by Proposal 6961 (G.), 3 March 2011
-Amended(3) by Proposal 7050 (omd), 16 May 2011
-Amended(4) by Proposal 7485 (omd), 9 July 2013
-
-----------------------------------------------------------------------
-
-Rule 2205/4 (Power=1)
-Judicial Arguments and Evidence
-
-      Each of the following participants in a judicial case SHOULD
-      present such arguments and/or evidence (explicitly labeled)
-      relevant to that case as e is reasonably able to collect:
-
-      1) The initiator, when initiating the case.
-
-      2) For a criminal case, the defendant, before judgement is
-         delivered.
-
-      3) The judge, when delivering judgement.
-
-      When submitting arguments and/or evidence, a player SHOULD
-      classify matters of legal interpretation as arguments, and
-      matters of fact as evidence.
-
-History:
-Created by Proposal 5487 (Murphy), 9 April 2008
-Amended(1) by Proposal 5526 (Murphy), 2 June 2008
-Amended(2) by Proposal 6571 (ais523), 28 November 2009
-Amended(3) by Proposal 6985 (Walker), 10 April 2011
-Amended(4) by Proposal 7227 (omd), 10 June 2012
-
-----------------------------------------------------------------------
-
-Rule 2157/6 (Power=1.7)
-Judicial Panels
-
-      A judicial panel is a structure whereby a group of two or more
-      persons (its members) act together for the purpose of judging
-      judicial cases.  A judicial panel's membership cannot change,
-      and if two panels have the same membership then they are the
-      same panel.  Judicial panels exist implicitly, without any
-      specific act of formation.
-
-      A judicial panel CAN send messages by means of any of its
-      members sending a message identified as being from the panel,
-      with the unanimous Support of the panel's other members.  By
-      this mechanism a judicial panel can act, in situations where the
-      rules state that an action is performed by sending a message.
-      The rules may specify other mechanisms by which the judicial
-      panel CAN act.
-
-      A judicial panel can incur obligations.  The members of a panel
-      SHALL act collectively to ensure that the panel satisfies all of
-      its obligations.
-
-History:
-Created by Proposal 5086 (Zefram), 1 August 2007
-Amended(1) by Proposal 5134 (root), 17 August 2007
-Amended(2) by Proposal 5361 (Goethe), 20 December 2007
-Amended(3) by Proposal 5439 (Murphy), 13 February 2008
-Amended(4) by Proposal 5498 (Goethe), 23 April 2008
-Amended(5) by Proposal 5552 (Murphy, root), 21 June 2008
-Amended(6) by Proposal 6014 (Goethe), 18 December 2008
-Assigned to Committee on the Judiciary by Proposal 6053 (Murphy,
-  woggle, ais523), 23 January 2009
-
-----------------------------------------------------------------------
-
-Rule 2341/1 (Power=1.7)
-Judgements by Judicial Panels
-
-      In a timely fashion after a judicial panel is assigned to a
-      case, each member of the panel SHALL publish an opinion
-      indicating a valid judgement to assign to the case -- only the
-      last such published opinion for each member is used to determine
-      the outcome.  Each member SHOULD choose an appropriate
-      judgement, and include arguments for eir choice.
-
-      If, immediately after either all members have so published or
-      the time limit for so publishing has ended, a majority of the
-      members have opined for the same judgement, the panel acts to
-      deliver the judgement in question.  If the panel publishes a
-      valid judgement via another mechanism specified in the Rules,
-      the requirement for individual members to publish individual
-      opinions is waived.
-
-      If an open case is assigned to a judicial panel, and one of its
-      members previously published an opinion for that case as part of
-      the same or a different judicial panel, then that opinion stands
-      for the newly-assigned panel unless the case was judged and
-      reopened in the meanwhile.
-
-History:
-Created by Proposal 7038 (scshunt), 16 May 2011
-Amended(1) by Proposal 7470 (woggle; disi.), 17 June 2013
-
-----------------------------------------------------------------------
-
-Rule 2318/2 (Power=1.7)
-Motions to Reconsider
-
-      If a non-Appeals judicial case (1) has a judgement that has been
-      in effect for less than seven days and not been appealed, and
-      (2) has not had a Motion to Reconsider filed for it at any time
-      while it has been assigned to its current judge, then any Player
-      CAN file a Motion to Reconsider the case with 2 Support, or by
-      announcement if e is that case's judge.
-
-      When a Motion to Reconsider is so filed, the case is rendered
-      open again.  A player who files such a Motion SHOULD include
-      arguments as to why the case needs reconsideration, and such
-      arguments become part of the record of the case.
-
-History:
-Created by Proposal 6869 (G.), 8 November 2010
-Amended(1) by Proposal 7050 (omd), 16 May 2011
-Amended(2) by Proposal 7065 (scshunt), 16 June 2011
-
-----------------------------------------------------------------------
-
-Rule 911/47 (Power=1.7)
-Appeal Cases
-
-      Appeal cases are a subclass of judicial cases.  An appeal case's
-      purpose is to determine the appropriateness of a judgement that
-      has been assigned to a judicial case, and make remedy if the
-      judgement was poorly chosen.  The assignment of judgement being
-      questioned (appealed against, or appealed) is referred to as the
-      prior assignment; the word "prior" in this rule is used to refer
-      to the circumstances of the prior assignment.
-
-      An appeal concerning any assignment of judgement in a non-appeal
-      case within the past two weeks CAN be initiated by any player
-      with 2 support.  However, rules to the contrary notwithstanding,
-      an appeal CANNOT be initiated concerning an assignment caused by
-      a judgement in an appeal case, nor an assignment for which an
-      appeal has already been initiated.
-
-      The entities qualified to be assigned as judge of an appeal case
-      are the judicial panels consisting of three members, where each
-      of the members is qualified to be assigned as judge of the prior
-      case and none is the prior judge.  If possible, the CotC SHALL
-      assign a panel where each of the members is well qualified to be
-      assigned as judge of the prior case.
-
-      The valid judgements for an appeal case are of the form
-      "<action> with prejudice" or "<action> without prejudice".  Such
-      a judgement is generally appropriate if and only if
-      (1) the action is appropriate, and
-      (2) the judgement is with prejudice if and only if the prior
-          judge made an error in eir judgement which could have been
-          reasonably avoided, or generally inappropriately discharged
-          eir duties in the case.
-
-      The valid values of <action> and their associated effects are as
-      follows:
-
-      * AFFIRM, appropriate if the prior judgement was appropriate for
-        the prior case; the prior judgement is assigned to the prior
-        case again
-
-      * REMAND, appropriate if there is serious doubt about whether
-        the prior judgement was appropriate; the prior case is
-        rendered open again; the judge SHOULD assign this judgement if
-        the judge believes that the judge of the prior case will make
-        a better judgement if given a new opportunity
-
-      * REMIT, appropriate if there is serious doubt about whether the
-        prior judgement was appropriate, or if the prior judge
-        exhibited corruptive self-interest (material, with a specific
-        and obvious impact on eir judgement and arguments, and not
-        arising merely due to a difference of opinion or a wholly
-        incidental material benefit common among many players); the
-        judge of the prior case (if any) is recused, and the prior
-        case is rendered open again; the judge SHOULD assign this
-        judgement if the judge believes that the judge of the prior
-        case will not make a better judgement if given a new
-        opportunity
-
-      * OVERRULE with a valid replacement judgement for the prior
-        case, appropriate if the prior judgement was inappropriate in
-        the prior case and the replacement judgement is appropriate
-        for the prior case; the replacement judgement is assigned to
-        the prior case
-
-      The appropriateness of the prior judgement is measured at the
-      time it was assigned.
-
-      When an appeal case is initiated, the prior case is suspended,
-      and remains so until the appeal case is judged.
-
-      The judge of a previously-appealed case SHALL NOT assign the
-      same judgement to it without new reasoning that addresses the
-      serious doubt about its appropriateness.  Violating this
-      prohibition is the Class-2 Crime of Lazy Judging.
-
-      A person SHALL NOT appeal a judgement (except on a criminal
-      case) unless e reasonably believes that the judgement might be
-      inappropriate.
+Rule 911/48 (Power=1.7)
+Motions and Moots
+
+      If a CFJ (1) has a judgement that has been in effect for less
+      than seven days and not been appealed, and (2) has not had a
+      Motion to Reconsider filed for it at any time while it has been
+      assigned to its current judge, then any Player CAN file a Motion
+      to Reconsider the case with 2 Support, or by announcement if e
+      is that case's judge.  When a Motion to Reconsider is so filed,
+      the case is rendered open again.
+
+      A judgement assigned to any CFJ within the past two weeks CAN be
+      entered into Moot by any Player, with 2 support, unless that
+      judgement has already been entered into Moot.
+
+      Entering a Judgement into Moot is considered to be the
+      publication of notice of intent by the Speaker, to resolve the
+      Moot with Notice.  The Speaker SHALL follow through in resolving
+      the Moot.
+
+      During a Moot, any player CAN publish or retract eir Brief
+      concerning the judgement, clearly recommending a valid
+      judgement.  The Speaker resolves the Moot by assigning a valid
+      judgement to the CFJ from among the judgements that received the
+      most unretracted recommendations, if any; otherwise the Speaker
+      SHALL assign a valid judgement of eir choice.
 
 [CFJ 1597 (called 22 December 2006): It is possible to appeal a
 judgement even if it is not certain that the judgement exists.]
@@ -4234,24 +3713,7 @@ Amended(44) by Proposal 7050 (omd), 16 May 2011
 Amended(45) by Proposal 7072 (woggle), 16 June 2011
 Amended(46) by Proposal 7078 (omd), 16 June 2011
 Amended(47) by Proposal 7152 (Murphy), 25 January 2012
-
-----------------------------------------------------------------------
-
-Rule 2342/1 (Power=1.7)
-Judicial Appeals Panels
-
-      If the time period for judging an appeals case ends with no
-      majority opinion among members of the panel assigned to it, then
-      the CotC CAN, and SHALL in a timely fashion, by announcement
-      cause the panel to judge either REMAND or REMIT with or without
-      prejudice, whichever e feels is most appropriate. E SHALL NOT
-      assign the case to another panel solely due to its failure to
-      judge. These requirements are waived if the panel delivers a
-      judgment in the meanwhile.
-
-History:
-Created by Proposal 7038 (scshunt), 16 May 2011
-Amended(1) by Proposal 7420 (omd), 27 May 2013
+Retitled and amended(48) by Proposal 7616 (G.), 16 January 2014
 
 ----------------------------------------------------------------------
 
@@ -4279,247 +3741,6 @@ Amended(3) by Proposal 5768 (Murphy), 17 October 2008
 Amended(4) by Proposal 6024 (Murphy), 22 December 2008
 Amended(5) by Proposal 6445 (coppro; disi.), 27 August 2009
 Amended(6) by Proposal 6944 (omd; disi.), 16 January 2011
-
-----------------------------------------------------------------------
-
-Rule 1868/21 (Power=2)
-Judge Assignment Generally
-
-      At any time, a judicial case either has no judge assigned to it
-      (default) or has exactly one entity assigned to it as judge.
-      This is a persistent status that changes only according to the
-      rules.
-
-      When a judicial case is open and has no judge assigned, the CotC
-      CAN assign a qualified entity to be its judge by announcement,
-      and SHALL do so in a timely fashion.
-
-      The entities qualified to be assigned as judge of a judicial
-      case are the active players who have not previously been
-      assigned as its judge, subject to modification by other rules.
-      Being unqualified to be assigned as a judge does not inherently
-      prevent an entity from continuing to be judge of a case to which
-      e is already assigned.  Rules to the contrary notwithstanding,
-      entities other than players are always unqualified to judge.
-
-      When a player is poorly qualified to be assigned as judge of a
-      judicial case, the Clerk of the Courts SHALL not assign em to be
-      the judge of that case; if e has done so, and that player is
-      still the judge of that case, then e CAN recuse that judge from
-      that case by announcement.
-
-      Making an entity unqualified or poorly qualified to judge is
-      secured, with a power threshold of 1.5.
-
-      To recuse a judge from a case is to deassign em as its judge.
-      Assigning a judge to a case implicitly recuses its existing
-      judge, if any.  A recusal "with cause" is a recusal defined as
-      such by the rules.
-
-      A player CAN favor or disfavor a judicial case by announcement.
-      When assigning a judge to a judicial case, the CotC, if
-      possible, SHALL assign a player who has favored it and SHALL NOT
-      assign a player who has disfavored it. For appeals cases, if
-      possible, e SHALL assign a panel maximizing the number of
-      members who have favored it and minimizing the number who have
-      disfavored it.
-
-[CFJ 1186: The Clerk of the Courts is required by Rule 1868 to select
-a Judge who is qualified ["eligible" at the time of CFJ 1186] at the
-time that the Judge is selected, regardless of whether that Player was
-qualified at the time that the CFJ was actually called for or when the
-identity of that Player is announced.]
-
-[CFJ 3009 (called 24 April 2011): An entity poorly qualified to judge
-a case is necessarily qualified to judge that case.]
-
-History:
-Created by Proposal 3816 (Repeal-O-Matic), Dec. 21 1998
-Amended(1) by Proposal 3962 (Wes), Jan. 20 2000
-Amended(2) by Proposal 4166 (Elysion), 11 June 2001
-Amended(3) by Proposal 4298 (Murphy), 17 May 2002
-Amended(4) by Proposal 4867 (Goethe), 27 August 2006
-Amended(5) by Proposal 5040 (Zefram), 28 June 2007
-Amended(6) by Proposal 5069 (Zefram), 11 July 2007
-Retitled by Proposal 5086 (Zefram), 1 August 2007
-Power changed from 1 to 2 by Proposal 5086 (Zefram), 1 August 2007
-Amended(7) by Proposal 5086 (Zefram), 1 August 2007
-Amended(8) by Proposal 5151 (root), 29 August 2007
-Amended(9) by Proposal 5217 (Murphy; disi.), 13 September 2007
-Amended(10) by Proposal 5248 (AFO; disi.), 14 October 2007
-Amended(11) by Proposal 5277 (Murphy, Zefram), 7 November 2007
-Amended(12) by Proposal 5317 (Murphy), 28 November 2007
-Amended(13) by Proposal 6024 (Murphy), 22 December 2008
-Assigned to Committee on the Judiciary by Proposal 6053 (Murphy,
-  woggle, ais523), 23 January 2009
-Amended(14) by Proposal 6264 (comex), 11 May 2009
-Amended(15) by Proposal 6279 (Murphy), 19 May 2009
-Amended(16) by Proposal 6510 (Murphy), 3 October 2009
-Amended(17) by Proposal 6961 (G.), 3 March 2011
-Amended(17.1) by Proposal 7019 (Murphy), 16 May 2011
-Amended(18) by Proposal 7050 (omd), 16 May 2011
-Amended(19) by Proposal 7321 (Murphy, scshunt), 23 December 2012
-Amended(20) by Proposal 7420 (omd), 27 May 2013
-Amended(21) by Proposal 7610 (G.), 22 December 2013
-
-----------------------------------------------------------------------
-
-Rule 1871/33 (Power=1.5)
-The Standing Court
-
-      Posture is a player switch, tracked by the Clerk of the Courts,
-      with the following values:
-
-      * Standing.  Standing players are generally qualified to judge.
-
-      * Sitting.  Sitting players are poorly qualified to judge, but
-        will generally become qualified when the CotC rotates the
-        bench.
-
-      * Leaning.  Leaning players are poorly qualified to judge, but
-        are generally qualified to serve on appeal panels.
-
-      * Supine (default).  Supine players are unqualified to judge.
-
-      Changes to posture are secured.
-
-      A player CAN flip eir posture to any non-standing value by
-      announcement.
-
-      When the CotC assigns a player as judge, that player becomes
-      sitting.
-
-      The CotC CAN rotate the bench (change all sitting players to
-      standing) by announcement, but SHALL NOT do so unless, of the
-      judicial cases requiring assignment:
-
-       a) no entity is well-qualified to be assigned to any of them;
-
-       b) e immediately afterwards (in the same announcement) assigns
-          a judge to at least one of them.
-
-      When the CotC recuses a non-supine player with cause, e CAN flip
-      that player's posture to supine by announcement in a timely
-      fashion.
-
-[CFJ 1765 (called 16 October 2007): When the CotC is obliged to change
-a player's posture due to recusal, this rule makes em capable of doing
-so.]
-
-[CFJ 1766 (called 16 October 2007): When the CotC is obliged to change
-a player's posture due to recusal, eir capability to do so exists as
-long as the obligation does, and this obligation does not terminate
-due to the time limit running out.]
-
-History:
-Created by Proposal 3821 (Blob), Jan. 12 1999
-Amended(1) by Proposal 4298 (Murphy), 17 May 2002
-Amended(2) by Proposal 4342 (root), 8 July 2002
-Amended(3) by Proposal 4523 (Murphy), 28 August 2003
-Amended(4) by Proposal 4563 (OscarMeyr), 6 April 2004
-Amended(5) by Proposal 4596 (Murphy), 4 July 2004
-Amended(6) by Proposal 4648 (Kolja), 22 March 2005
-Amended(7) by Proposal 4691 (root), 18 April 2005
-Amended(8) by Proposal 4867 (Goethe), 27 August 2006
-Amended(9) by Proposal 4912 (Murphy), 21 March 2007
-Amended(10) by Proposal 4958 (Murphy), 3 June 2007
-Retitled by Proposal 4991 (Murphy), 6 June 2007
-Amended(11) by Proposal 4991 (Murphy), 6 June 2007
-Amended(12) by Proposal 5069 (Zefram), 11 July 2007
-Power changed from 1 to 1.5 by Proposal 5086 (Zefram), 1 August 2007
-Amended(13) by Proposal 5086 (Zefram), 1 August 2007
-Amended(14) by Proposal 5111 (Murphy), 2 August 2007
-Amended(15) by Proposal 5248 (AFO; disi.), 14 October 2007
-Amended(16) by Proposal 5249 (AFO), 14 October 2007
-Amended(17) by Proposal 5250 (AFO), 14 October 2007
-Amended(18) by Proposal 5251 (Goddess Eris), 14 October 2007
-Amended(19) by Proposal 5259 (Zefram), 27 October 2007
-Amended(20) by Proposal 5261 (root; disi.), 31 October 2007
-Amended(21) by Proposal 5456 (Goddess Eris), 9 March 2008
-Amended(22) by Proposal 5468 (Murphy), 13 March 2008
-Amended(23) by Proposal 5474 (Murphy), 24 March 2008
-Amended(24) by Proposal 5500 (Murphy; disi.), 26 April 2008
-Amended(25) by Proposal 5771 (root), 17 October 2008
-Amended(26) by Proposal 6400 (Murphy), 17 July 2009
-Amended(27) by Proposal 6483 (Pavitra), 18 September 2009
-Amended(28) by Proposal 6967 (Wooble), 20 March 2011
-Amended(29) by Proposal 7279 (FKA441344), 14 August 2012
-Amended(30) by Proposal 7287 (G.), 9 September 2012
-Amended(31) by Proposal 7356 (G.), 14 April 2013
-Amended(32) by Proposal 7587 (G.), 11 September 2013
-Amended(33) by Proposal 7587 (G.), 11 September 2013
-
-----------------------------------------------------------------------
-
-Rule 2378/2 (Power=2)
-Court Protector
-
-      A CFJ may be submitted to the Ambassador-At-Large.  For such a
-      CFJ, the Ambassador-At-Large shall perform all duties and
-      fulfill all roles that would otherwise be assigned to the Clerk
-      of the Courts.  This takes precedence over Rules that would
-      otherwise assign duties and roles regarding a CFJ to the Clerk
-      of the Courts.  All persons are encouraged to submit a CFJ to
-      the Ambassador-At-Large only when there is a good reason not to
-      submit it to the Clerk of the Courts.
-
-      If the Clerk of the Courts ever holds the office of
-      Ambassador-At-Large, then, rules to the contrary
-      notwithstanding, the Ambassador- At-Large becomes Assumed.
-
-History:
-Created by Proposal 7279 (FKA441344), 14 August 2012
-Power changed from 1.5 to 2 by Proposal 7287 (G.), 9 September 2012
-Amended(1) by Proposal 7287 (G.), 9 September 2012
-Amended(2) by Porposal 7347 (G.), 27 March 2013.
-
-----------------------------------------------------------------------
-
-Rule 2204/0 (Power=1.5)
-Linked Assignments
-
-      When the Clerk of the Courts assigns a player as judge of two or
-      more judicial cases consecutively in the same announcement, that
-      player only becomes sitting upon the last such assignment, rules
-      to the contrary notwithstanding.  The CotC SHOULD NOT do this
-      unless those cases are closely related in their subject matter.
-
-History:
-Created by Proposal 5468 (Murphy), 13 March 2008
-
-----------------------------------------------------------------------
-
-Rule 2164/4 (Power=1)
-Judicial Self-Recusal and Case Transfer
-
-      The judge of a judicial case CAN recuse emself from it at any
-      time by announcement.  Such a recusal is with cause if and only
-      if e has been assigned to the case for at least four days.
-
-      An entity (the transferee) CAN, with consent from the current
-      judge of a judicial case (the transferor), assign emself as the
-      new judge of that case, provided that e is qualified to be
-      assigned as judge of that case, and e immediately (in the same
-      announcement) assigns a judgement to that case.
-
-History:
-Created by Proposal 5131 (Zefram), 13 August 2007
-Amended(1) by Proposal 5151 (root), 29 August 2007
-Amended(2) by Proposal 5465 (Murphy), 13 March 2008
-Amended(3) by Proposal 6024 (Murphy), 22 December 2008
-Amended(4) by Proposal 7050 (omd), 16 May 2011
-
-----------------------------------------------------------------------
-
-Rule 2394/0 (Power=1)
-Crime by Proxy
-
-       Being the Executor of a message in which another person commits
-       the Class-N Crime of X (for any values of N and X) is the
-       Class-N Crime of X By Proxy
-
-History:
-Created by Propoasl 7369 (BuckyBot, Bucky), 20 April 2013
 
 ----------------------------------------------------------------------
 
