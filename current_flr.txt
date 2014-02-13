@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 12 February 2014
 
-Last proposal with recorded effect on this ruleset: 7612
-Last change to this ruleset: by Proposal 7612
+Last proposal with recorded effect on this ruleset: 7614
+Last change to this ruleset: by Proposal 7614
 
 Last ratification: Short Logical Ruleset of 27 July 2013
 Last ratification date: 24 August 2013
@@ -18,14 +18,14 @@ Online version:
 
 Statistics
 
-Current total number of rules: 85
+Current total number of rules: 83
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
        1 with Power=3.1
-      37 with Power=3
-      21 with Power=2
+      36 with Power=3
+      20 with Power=2
        6 with Power=1.7
        4 with Power=1.5
       14 with Power=1
@@ -35,9 +35,9 @@ Power distribution:
 Index of Rules
 
       * The Game of Agora
-      Rule  101: The Rights of Agorans
+      Rule  101: The Game of Agora
       Rule 2125: Regulation Regulations
-      Rule 1586: Definition and Continuity of Entities
+      Rule 2152: Mother, May I?
       Rule 1688: Power
       Rule 2140: Power Controls Mutability
       Rule  104: First Speaker
@@ -54,7 +54,6 @@ Index of Rules
 
       * Players
       Rule  869: How to Join and Leave Agora
-      Rule 2170: Who Am I?
       Rule 2139: The Registrar
       Rule 1789: Cantus Cygneus
       Rule 2130: Activity
@@ -64,7 +63,6 @@ Index of Rules
       Rule 2166: Assets
 
       * Definitions
-      Rule 2152: Mother, May I?
       Rule 1023: Common Definitions
       Rule 1769: Holidays
       Rule 2162: Switches
@@ -163,10 +161,7 @@ History:
 List of changes to the rule.
 
 Annotations in square brackets are unofficial and have no legal force.
-They are added at the Rulekeepor's discrection, except for
-annotations starting with a CFJ number, which are mandated by Rule
-2340.  A judicial case is Notable if and only if it has such an
-annotation in this document.
+They are added at the Rulekeepor's discrection.
 
 ----------------------------------------------------------------------
 
@@ -177,68 +172,14 @@ The Game of Agora
       entities.
 ----------------------------------------------------------------------
 
-Rule 101/15 (Power=3)
-The Rights of Agorans
+Rule 101/16 (Power=3)
+The Game of Agora
 
-      WHEREAS Agora, since its inception, has functioned not only as a
-      game but as a society, and WHEREAS a society, to function, must
-      balance its Rules with the natural rights of its participants,
-      BE IT HEREBY PROCLAIMED that no interpretation of Agoran law or
-      binding agreement may substantially limit or remove a person's
-      rights as defined by this Rule, except through the explicit and
-      legal amendment of this Rule.  For the purposes of this Rule, a
-      "person" is defined strictly as any unique biological organism
-      that is generally capable of initiating the communication of
-      independent thought, and a "player" is any such organism that is
-      also a player of Agora.
+      Agora is a game of Nomic, wherein Persons, acting in accordance
+      with the Rules, communicate their game Actions and/or results of
+      these actions via Fora in order to play the game.
 
-      This rule takes precedence over any rule which would allow or
-      mandate restrictions of the rights contained herein.
-
-         i. Every person has the right, though not necessarily the
-            ability, to perform actions that are not prohibited or
-            regulated by the Rules, with the sole exception of
-            changing the Rules, which is permitted only when the Rules
-            explicitly or implicitly permit it.
-
-        ii. Every person has the right to initiate a formal process to
-            resolve matters of controversy, in the reasonable
-            expectation that the controversy will thereby be resolved.
-            Every person has the right to cause formal reconsideration
-            of any judicial determination that e should be punished.
-
-       iii. Every person has the right to refuse to become party to
-            a binding agreement.  The absence of a person's explicit,
-            willful consent shall be considered a refusal.
-
-        iv. Every person has the right to not be considered bound by
-            an agreement, or an amendment to an agreement, or a Rule
-            Change, which e has not had the reasonable opportunity to
-            review.  For the purpose of protecting this right, a rule
-            change which would otherwise take effect without its
-            substance being subject to general player review through a
-            reasonably public process is wholly prevented from taking
-            effect.
-
-         v. Every player has the right of participation in the fora.
-
-        vi. Every person has the right to not be penalized more than
-            once for any single action or inaction.  However, this
-            right is not violated by replacing part or all of a
-            penalty with a different but comparable penalty, e.g. when
-            the rules governing penalties are amended.
-
-       vii. Every player has the right to deregister; e may continue
-            to accrue obligations and penalties after deregistration
-            but, if e wishes to ignore the game, such penalties shall
-            not unduly harass em.
-
-       viii. The players of Agora have the right not to be
-             deregistered en masse.  A person has the right to
-             register and to remain a player except where forbidden
-             due to eir own prior actions.
-
-      Please treat Agora right good forever.
+      Please treat Agora Right Good Forever.
 
 [CFJ 24: Players must obey the Rules even in out-of-game actions.]
 
@@ -253,70 +194,8 @@ any retroactive changes made in the future.]
 who play the game in the broader sense, regardless of whether they
 have the rule-defined status of "player".]
 
-[CFJ 1132: A Player failing to perform a duty required by the Rules
-within a reasonable time may be in violation of the Rules, even if the
-Rules do not provide a time limit for the performance of that duty.]
-
-[CFJ 1488 (called 11 February 2004): Engineering a situation in which
-other players are unable to follow a particular rule is not in itself
-a violation of that rule.]
-
-[CFJ 1856 (called 29 December 2007): The requirement that "no
-interpretation of Agoran law may abridge ... a person's defined
-rights" means that it must be feasible, given the practical limits of
-Agoran evidence-gathering, to remain reasonably sure that a person's
-defined rights are not being limited.]
-
-[CFJ 1768 (called 22 October 2007): The right of participation in the
-fora is the right to participate in them for their intended purposes,
-and is not necessarily infringed by regulations regarding the manner
-and type of participation.]
-
-[CFJ 1738 (called 29 August 2007): An obligation on a player to not
-publish statements that e believes are true would conflict with the
-right of participation in the fora.]
-
-[CFJ 1753 (called 28 September 2007): The right to cease playing
-applies only to those who have the rule-defined status of "player",
-not to those who play the game in the broader sense without having
-that official status.]
-
 [CFJs 1911-1914 (called 18 March 2008): Physical realities supersede
 the Rules by default.]
-
-[CFJ 2101 (called 20 July 2008): Consent to join a binding agreement
-implies consent to join later agreements created through currently
-existing rule-defined processes.]
-
-[CFJ 2220 (called 11 October 2008): Consent to join a binding
-agreement may be an effect of another action, such as joining a
-foreign nomic, as long as the action is triggered by free will and the
-actor is reasonably aware of the effect.]
-
-[CFJ 2246 (called 30 October 2008): Joining a contract does not imply
-consent to be acted on behalf of simply because the contract might be
-amended in the future to allow it.]
-
-[CFJ 2264 (called 11 November 2008): The right to refuse to become
-party to an agreement does not apply to amendments to existing
-agreements.]
-
-[CFJ 2361 (called 26 January 2009): The withholding of a reward for
-doing something may or may not constitute a penalty for not doing it,
-depending on the circumstances.]
-
-[CFJ 2395 (called 1 March 2009): Even without this being explicitly
-specified in the rules, it is possible for a non-player to violate a
-rule by missing a deadline.]
-
-[CFJ 2410 (called 11 March 2009): Consent to join a binding agreement
-may be given privately.]
-
-[CFJ 2761 (called 7 February 2010): The termination of a contract
-through processes it explicitly envisions (including a rule-defined
-mechanism, if the contract is intended to be governed under Agoran
-law) is akin to a natural death, and does not generally constitute a
-restriction of its rights as a person.]
 
 History:
 Initial Immutable Rule 101, Jun. 30 1993
@@ -337,41 +216,22 @@ Amended(12) by Proposal 6158 (Goethe), 31 March 2009
 Amended(13) by Proposal 6589 (c.; disi.), 6 December 2009
 Amended(14) by Proposal 7183 (G.), 26 February 2012
 Amended(15) by Proposal 7596 (omd), 14 September 2013
+Retitled and amended(16) by Proposal 7614 (G.), 13 January 2014
 
 ----------------------------------------------------------------------
 
-Rule 2125/7 (Power=3)
+Rule 2125/8 (Power=3)
 Regulation Regulations
 
-      A regulated action is an action satisfying any of the following:
+      An action is regulated if: (1) the Rules limit, allow, enable,
+      or permit its performance; (2) describe the circumstances under
+      which the action would succeed or fail; or (3) the action would,
+      as part of its effect, modify information for which some player
+      is required to be a recordkeepor.
 
-      a) It is IMPOSSIBLE.
-
-      b) It is ILLEGAL.
-
-      c) The rules explicitly state that it CAN be performed while
-         certain conditions are satisfied.  Such an action CANNOT be
-         performed except as allowed by the rules.  In particular, if
-         the action in question is publishing a type of document, then
-         a public message is not that type of document (even if it is
-         labeled as such) except as allowed by the rules.
-
-      d) The rules explicitly state that it MAY be performed while
-         certain conditions are satisfied.  Except as allowed by the
-         rules, performing such an action is the Class-N Crime of
-         Restricted Behavior, where N is the maximum power of the
-         rules explicitly allowing it (rounded up as needed to become
-         a valid Class of Crime).
-
-      e) It would, as part of its effect, modify information for which
-         some player is required to be a recordkeepor.  Such an action
-         CANNOT modify that information except as allowed by the
-         rules.
-
-      f) A judicial finding has determined that it is regulated, and
-         has not been superseded by subsequent legislation.
-
-      A person SHOULD NOT violate a rule.
+      Regulated Actions CAN only be performed as described by the
+      Rules.  The Rules SHALL NOT be interpreted so as to proscribe
+      unregulated actions.
 
 History:
 Created by Proposal 4866 (Goethe), 27 August 2006
@@ -382,49 +242,88 @@ Amended(4) by Proposal 6022 (Murphy), 22 December 2008
 Amended(5) by Proposal 6251 (Murphy), 9 May 2009
 Amended(6) by Proposal 6269 (Pavitra), 11 May 2009
 Amended(7) by Proposal 6327 (Murphy), 29 May 2009
+Amended(8) by Proposal 7614 (G.), 13 January 2014
 
 ----------------------------------------------------------------------
 
-Rule 1586/8 (Power=2)
-Definition and Continuity of Entities
+Rule 2152/7 (Power=3)
+Mother, May I?
 
-      If multiple rules attempt to define an entity with the same
-      name, then they refer to the same entity.  A rule-defined
-      entity's name CANNOT be changed to be the same as another
-      rule-defined entity's name.
+      The following terms are defined.  These definitions are used
+      when a rule includes a term in all caps, and provide guidance in
+      determining the ordinary-language meaning of a term when a rule
+      includes a term otherwise.  Earlier definitions take precedence
+      over later ones.  If a rule specifies one or more persons in
+      connection with a term, then the term applies only to the
+      specified person(s).
 
-      A rule referring to an entity by name refers to the entity that
-      had that name when the rule first came to include that
-      reference, even if the entity's name has since changed.
+      1. CANNOT, IMPOSSIBLE, INEFFECTIVE, INVALID:  Attempts to
+         perform the described action are unsuccessful.
 
-      If the rules are amended such that they no longer define an
-      entity, then that entity and its attributes cease to exist.
+      2. MUST NOT, MAY NOT, SHALL NOT, ILLEGAL, PROHIBITED: Performing
+         the described action violates the rule in question.
 
-      If the rules are amended such that they define an entity both
-      before and after the amendment, but with different attributes,
-      then that entity and its attributes continue to exist to
-      whatever extent is possible under the new definitions.
+      3. NEED NOT, OPTIONAL:  Failing to perform the  described action
+         does not violate the rules.
 
-[CFJ 1807 (called 25 November 2007): Rule-defined entities include
-pending timed events, which can therefore occur under modified rules
-even if the events that originally triggered them would not trigger
-them under the new rules.]
+      4. SHOULD NOT, DISCOURAGED, DEPRECATED:  Before performing the
+         described action, the full implications of performing it
+         should be understood and carefully weighed.
 
-[CFJ 1922 (called 4 April 2008): Without legislation to the contrary,
-documents attempting to define an entity with the same name define
-distinct entities.]
+      5. CAN: Attempts to perform the described action are successful.
+
+      6. MAY: Performing the described action does not violate the
+         rules.
+
+      7. MUST, SHALL, REQUIRED, MANDATORY:  Failing to perform the
+         described action violates the rule in question.
+
+      8. SHOULD, ENCOURAGED, RECOMMENDED:  Before failing to perform
+         the described action, the full implications of failing to
+         perform it should (in the ordinary-language sense) be
+         understood and carefully weighed.
+
+[CFJ 1132: A Player failing to perform a duty required by the Rules
+within a reasonable time may be in violation of the Rules, even if the
+Rules do not provide a time limit for the performance of that duty.]
+
+[CFJ 1488 (called 11 February 2004): Engineering a situation in which
+other players are unable to follow a particular rule is not in itself
+a violation of that rule.]
+
+[CFJ 2395 (called 1 March 2009): Even without this being explicitly
+specified in the rules, it is possible for a non-player to violate a
+rule by missing a deadline.]
+
+[CFJ 1990 (called 7 June 2008): "Allowed" may refer to either
+possibility or permissibility depending on context.]
+
+[CFJs 2120-2121 (called 4 August 2008): A requirement of the form
+'within <time limit>, a player SHALL <action> by announcement' means
+that the player CAN perform the action, and SHALL do so within the
+time limit.]
+
+[CFJ 2230 (called 16 October 2008): In a statement of the form "an
+action that X may take", 'may' generally means 'might', i.e. CAN.]
+
+[CFJ 2282 (called 19 November 2008): To state that an entity "MUST"
+have certain properties refers to possibility, not legality.]
+
+[CFJ 2414 (called 14 March 2009): A rule of the form "X SHOULD be
+interpreted as Y" does not allow players to bypass the interpretation
+by failing to perform the described action.]
 
 History:
-Created by Proposal 2481, Feb. 16 1996
-Amended(1) by Proposal 2795 (Andre), Jan. 30 1997, substantial
-Amended(2) by Proposal 3999 (harvel), May 2 2000
-Power changed from 1 to 2 by Proposal 3999 (harvel), May 2 2000
-Amended(3) by Proposal 5077 (Murphy), 18 July 2007
-Amended(4) by Proposal 5723 (Murphy), 7 October 2008
-Amended(5) by Proposal 5836 (Murphy), 12 October 2008
-Amended(6) by cleaning (comex), 26 January 2009
-Amended(7) by Proposal 6650 (coppro), 10 March 2010
-Amended(8) by Proposal 6981 (Murphy, omd), 10 April 2011
+Created by Proposal 5053 (Murphy), 5 July 2007
+Power changed from 1 to 2 by Proposal 5054 (Murphy), 5 July 2007
+Amended(1) by Proposal 5189 (Levi), 3 September 2007
+Power changed from 2 to 3 by Proposal 5247 (AFO), 14 October 2007
+Amended(2) by Proposal 5353 (Murphy; disi.), 16 December 2007
+Amended(3) by Proposal 5354 (Murphy), 16 December 2007
+Amended(4) by Proposal 5535 (Murphy), 7 June 2008
+Amended(5) by Proposal 6571 (ais523), 28 November 2009
+Amended(6) by Proposal 6983 (Murphy), 10 April 2011
+Amended(7) by Proposal 7613 (Arufonsu), 11 January 2014
 
 ----------------------------------------------------------------------
 
@@ -512,17 +411,12 @@ Rules
       processes of changing the rules.
 ----------------------------------------------------------------------
 
-Rule 2141/7 (Power=3)
+Rule 2141/8 (Power=3)
 Role and Attributes of Rules
 
       A rule is a type of instrument with the capacity to govern the
       game generally, and is always taking effect.  A rule's content
-      takes the form of a text, and is unlimited in scope.  In
-      particular, a rule may define in-game entities and regulate
-      their behaviour, make instantaneous changes to the state of
-      in-game entities, prescribe or proscribe certain player
-      behaviour, modify the rules or the application thereof, or do
-      any of these things in a conditional manner.
+      takes the form of a text, and is unlimited in scope.
 
       Every rule has power between one and four inclusive.  It is
       not possible for a rule to have a power outside this range.
@@ -560,37 +454,34 @@ Amended(4) by Proposal 6124 (ehird), 15 March 2009
 Amended(5) by Proposal 6670 (coppro), 14 March 2010
 Amended(6) by Proposal 6992 (Murphy, omd), 10 April 2011
 Amended(7) by Proposal 7420 (omd), 27 March 2013
+Amended(8) by Proposal 7614 (G.), 13 January 2014
 
 ----------------------------------------------------------------------
 
-Rule 217/9 (Power=3)
+Rule 217/10 (Power=3)
 Interpreting the Rules
 
       When interpreting and applying the rules, the text of the rules
-      takes precedence.  Where the text is silent, inconsistent, or
+      takes precedence,   Where the text is silent, inconsistent, or
       unclear, it is to be augmented by game custom, common sense,
       past judgements, and consideration of the best interests of the
       game.
 
-      A term explicitly defined by the Rules, along with any of its
-      ordinary-language synonyms not otherwise so defined, has that
-      meaning when used in any Rule of equal or lesser power, or when
-      used in a Rule of greater power that is clearly intended to
-      comply with that meaning.  Otherwise, terms have their ordinary-
-      language meanings; with definitions contained in lower-powered
-      Rules providing non-binding guidance.
-
-      Differences in spelling, grammar, capitalization, whitespace,
-      or dialect, and the use of synonyms or abbreviations, are
-      generally inconsequential in interpreting rules or
-      communications, as long they do not create ambiguity in meaning.
-
-      In general, the gamestate only changes as explicitly stated in
-      the Rules.  Definitions and prescriptions in the rules are only
-      to be applied using direct, forward reasoning; in particular, an
+      Definitions and prescriptions in the rules are only to be
+      applied using direct, forward reasoning; in particular, an
       absurdity that can be concluded from the assumption that a
-      statement about rule-defined concepts is false does not
-      constitute proof that it is true.
+      statement about rule- defined concepts is false does not
+      constitute proof that it is true.  Definitions in lower-powered
+      Rules do not overrule common- sense interpretations or common
+      definitions of terms in higher- powered rules.
+
+      Rules to the contrary notwithstanding, any rule change that
+      would (1) prevent a person from initiating a formal process to
+      resolve matters of controversy, in the reasonable expectation
+      that the controversy will thereby be resolved; or (2) prevent a
+      person from causing formal reconsideration of any judicial
+      determination that e should be punished, is wholly void and
+      without effect.
 
 [CFJ 1439 (called 20 February 2003): A difference in language
 qualifies as a difference in dialect; it is possible to take game
@@ -675,6 +566,7 @@ Amended(6) by Proposal 5105 (Zefram), 1 August 2007
 Amended(7) by Proposal 7351 (G., ais523, Machiavelli), 27 March 2013
 Amended(8) by Proposal 7520 (omd), 19 July 2013
 Amended(9) by Proposal 7584 (omd), 24 August 2013
+Amended(10) by Proposal 7614 (G.), 13 January 2014
 
 ----------------------------------------------------------------------
 
@@ -764,7 +656,7 @@ Amended(1) by Proposal 6429 (Murphy), 18 August 2009
 
 ----------------------------------------------------------------------
 
-Rule 105/7 (Power=3)
+Rule 105/8 (Power=3)
 Rule Changes
 
       Where permitted by other rules, an instrument generally can,
@@ -807,6 +699,11 @@ Rule Changes
       variation in the quotation of an existing rule does not
       constitute ambiguity for the purposes of this rule, but any
       other variation does.
+
+      A rule change which would otherwise take effect without its
+      substance being subject to general player review through a
+      reasonably public process is wholly prevented from taking
+      effect.
 
       This rule provides the only mechanism by which rules can be
       created, modified, or destroyed, or by which an entity can
@@ -874,6 +771,7 @@ Amended(4) by Proposal 6734 (comex), 6 June 2010
 Amended(5) by Proposal 6741 (comex; disi.), 1 July 2010
 Amended(6) by Proposal 7433 (Walker), 27 May 2013
 Amended(7) by Proposal 7607 (OscarMeyr), 13 December 2013
+Amended(8) by Proposal 7614 (G.), 13 January 2014
 
 ----------------------------------------------------------------------
 
@@ -997,39 +895,31 @@ Players
       players.
 ----------------------------------------------------------------------
 
-Rule 869/34 (Power=3)
+Rule 869/35 (Power=3)
 How to Join and Leave Agora
 
-      Any biological organism that is generally capable of
-      communicating by email in English (including via a translation
-      service) is a person.  Rules to the contrary notwithstanding, no
-      other entities are persons.
+      Any organism that is generally capable of freely originating and
+      communicating independent thoughts and ideas is a person.  Rules
+      to the contrary notwithstanding, no other entities are persons.
 
       Citizenship is a person switch with values Unregistered
-      (default) and Registered, tracked by the registrar.  A player is
-      a person whose citizenship is Registered.  Changes to
-      citizenship are secured.
-
-      The verb "to be registered" means to become a player (i.e., to
-      have one's citizenship changed from Unregistered to Registered),
-      and the verb "to be deregistered" means to cease to be a player
-      (i.e., to have one's citizenship changed from Registered to
-      Unregistered).
+      (default) and Registered, tracked by the registrar.  Changes to
+      citizenship are secured.  A registered person is a Player.
 
       A person CAN (unless explicitly forbidden or prevented by the
       rules) register by publishing a message that indicates
       reasonably clearly and reasonably unambiguously that e intends
-      to become a player at that time.
+      to become a player at that time.  A person, by registering,
+      agrees to abide by the Rules.  The Rules SHALL NOT otherwise
+      bind a person to abide by any agreement without that person's
+      willful consent.
 
-      A non-person CANNOT be registered (or created in a Registered
-      state), rules to the contrary notwithstanding.
+      A player CAN deregister (cease being a player) by announcement.
+      If e does so, e CANNOT register by announcement for 30 days.
 
-      A player CAN deregister by announcement.  A person CANNOT
-      register within thirty days after being deregistered, unless
-      rules define the method of deregistration as passive.
-
-      Initiating a frivolous judicial case on the success or failure
-      of a registration attempt is the Class-3 crime of Hazing.
+      The Rules CANNOT compel non-players to act, nor compel players
+      to unduly harass non-players.  A non-person CANNOT be a player,
+      rules to the contrary notwithstanding.
 
 [CFJ 1275 (called 19 February 2001): An entity is a Player if the
 Rules cannot distinguish that entity from a Player.]
@@ -1079,60 +969,7 @@ Amended(32) by Proposal 6974 (Murphy), 30 March 2011
 Amended(33) by Proposal 7269 (FKA441344, G.), 25 July 2012
 Amended(34) by Proposal 7610 (G.), 22 December 2013
 Power changed from 2 to 3 by Proposal 7610 (G.), 22 December 2013
-
-----------------------------------------------------------------------
-
-Rule 2170/12 (Power=3)
-Who Am I?
-
-      Rules regarding persons pertain to those persons directly, not
-      to rule-defined avatars or other entities representing those
-      persons within Agora.
-
-      A person SHALL NOT make a public statement intended to mislead
-      others as to the identity of its publisher.
-
-      A player SHALL NOT select a confusing nickname.
-
-      A public message's (possibly implicit) claim as to the identity
-      of its publisher is self-ratifying, provided that the claim is
-      neither ambiguous nor self-contradictory, and no challenge of
-      identity pertaining to the claimed publisher has been issued
-      within one month before its publication.
-
-      The Executor of a public message is the person who sends it, or
-      who most directly and immediately causes it to be sent.  (Upon a
-      judicial finding that the Executor of a public message cannot
-      otherwise be determined within reasonable effort, the judge
-      SHOULD attempt to ratify a document specifying eir identity.)
-      The executor of an action performed by announcement is the
-      executor of the announcement.
-
-[CFJs 2184-2192 (called 24 September 2008): A message signature
-containing a unique nickname is not a self-ratifying claim that its
-publisher is distinct from other generally-recognized persons.]
-
-[CFJ 2300 (called 5 December 2008): The Executor of a public message
-is not necessarily a person who took action at the time the message
-was sent.]
-
-[CFJ 2325 (called 5 January 2009): Only the selection of a nickname
-for the purposes of Agora is relevant to this rule.]
-
-History:
-Created by Proposal 5212 (Murphy), 8 September 2007
-Amended(1) by Proposal 5445 (Goethe, Murphy), 21 February 2008
-Amended(2) by Proposal 5671 (Murphy, Pavrita), 12 August 2008
-Amended(3) by Proposal 5716 (Murphy), 7 October 2008
-Amended(4) by Proposal 5717 (Murphy), 7 October 2008
-Amended(5) by Proposal 5741 (Murphy), 16 October 2008
-Amended(6) by Proposal 6571 (ais523), 28 November 2009
-Amended(7) by Proposal 7178 (G.), 26 February 2012
-Amended(8) by Proposal 7185 (441344), 26 February 2012
-Amended(9) by Proposal 7420 (omd), 27 May 2013
-Amended(10) by Proposal 7455 (omd), 17 June 2013
-Amended(11) by Proposal 7523 (omd), 19 July 2013
-Amended(12) by Proposal 7610 (G.), 22 December 2013
+Amended(35) by Proposal 7614 (G.), 13 January 2014
 
 ----------------------------------------------------------------------
 
@@ -1400,75 +1237,6 @@ Definitions
       widely used and do not readily fall into any other category.
 ----------------------------------------------------------------------
 
-Rule 2152/7 (Power=3)
-Mother, May I?
-
-      The following terms are defined.  These definitions are used
-      when a rule includes a term in all caps, and provide guidance in
-      determining the ordinary-language meaning of a term when a rule
-      includes a term otherwise.  Earlier definitions take precedence
-      over later ones.  If a rule specifies one or more persons in
-      connection with a term, then the term applies only to the
-      specified person(s).
-
-      1. CANNOT, IMPOSSIBLE, INEFFECTIVE, INVALID:  Attempts to
-         perform the described action are unsuccessful.
-
-      2. MUST NOT, MAY NOT, SHALL NOT, ILLEGAL, PROHIBITED: Performing
-         the described action violates the rule in question.
-
-      3. NEED NOT, OPTIONAL:  Failing to perform the  described action
-         does not violate the rules.
-
-      4. SHOULD NOT, DISCOURAGED, DEPRECATED:  Before performing the
-         described action, the full implications of performing it
-         should be understood and carefully weighed.
-
-      5. CAN: Attempts to perform the described action are successful.
-
-      6. MAY: Performing the described action does not violate the
-         rules.
-
-      7. MUST, SHALL, REQUIRED, MANDATORY:  Failing to perform the
-         described action violates the rule in question.
-
-      8. SHOULD, ENCOURAGED, RECOMMENDED:  Before failing to perform
-         the described action, the full implications of failing to
-         perform it should (in the ordinary-language sense) be
-         understood and carefully weighed.
-
-[CFJ 1990 (called 7 June 2008): "Allowed" may refer to either
-possibility or permissibility depending on context.]
-
-[CFJs 2120-2121 (called 4 August 2008): A requirement of the form
-'within <time limit>, a player SHALL <action> by announcement' means
-that the player CAN perform the action, and SHALL do so within the
-time limit.]
-
-[CFJ 2230 (called 16 October 2008): In a statement of the form "an
-action that X may take", 'may' generally means 'might', i.e. CAN.]
-
-[CFJ 2282 (called 19 November 2008): To state that an entity "MUST"
-have certain properties refers to possibility, not legality.]
-
-[CFJ 2414 (called 14 March 2009): A rule of the form "X SHOULD be
-interpreted as Y" does not allow players to bypass the interpretation
-by failing to perform the described action.]
-
-History:
-Created by Proposal 5053 (Murphy), 5 July 2007
-Power changed from 1 to 2 by Proposal 5054 (Murphy), 5 July 2007
-Amended(1) by Proposal 5189 (Levi), 3 September 2007
-Power changed from 2 to 3 by Proposal 5247 (AFO), 14 October 2007
-Amended(2) by Proposal 5353 (Murphy; disi.), 16 December 2007
-Amended(3) by Proposal 5354 (Murphy), 16 December 2007
-Amended(4) by Proposal 5535 (Murphy), 7 June 2008
-Amended(5) by Proposal 6571 (ais523), 28 November 2009
-Amended(6) by Proposal 6983 (Murphy), 10 April 2011
-Amended(7) by Proposal 7613 (Arufonsu), 11 January 2014
-
-----------------------------------------------------------------------
-
 Rule 1023/31 (Power=2)
 Common Definitions
 
@@ -1652,12 +1420,14 @@ Amended(4) by Proposal 7425 (Walker, G., Murphy, omd), 27 May 2013
 
 ----------------------------------------------------------------------
 
-Rule 478/30 (Power=3)
+Rule 478/31 (Power=3)
 Fora
 
       Freedom of speech being essential for the healthy functioning of
       any non-Imperial nomic, it is hereby resolved that no Player
-      shall be prohibited from participating in the Fora.
+      shall be prohibited from participating in the Fora, nor shall
+      any person create physical or technological obstacles that
+      unduly favor some players' fora access over others.
 
       Publicity is a forum switch with values Public, Discussion, and
       Foreign (default), tracked by the Registrar.  Changes to
@@ -1768,6 +1538,15 @@ headers.]
 can't directly send email, can participate in the fora by means of its
 members sending messages on its behalf, if its governing agreement
 says so.]
+
+[CFJ 1768 (called 22 October 2007): The right of participation in the
+fora is the right to participate in them for their intended purposes,
+and is not necessarily infringed by regulations regarding the manner
+and type of participation.]
+
+[CFJ 1738 (called 29 August 2007): An obligation on a player to not
+publish statements that e believes are true would conflict with the
+right of participation in the fora.]
 
 [CFJ 1719 (called 12 August 2007): A player can, if e intends, have
 public messages sent on eir behalf, including via a web form that
@@ -1911,6 +1690,7 @@ Amended(27) by Proposal 6022 (Murphy), 22 December 2008
 Amended(28) by Proposal 6785 (coppro; disi.), 22 August 2010
 Amended(29) by Proposal 6963 (Murphy), 20 March 2011
 Amended(30) by Proposal 7073 (woggle), 16 June 2011
+Amended(31) by Proposal 7614 (G.), 13 January 2014
 
 ----------------------------------------------------------------------
 
@@ -5145,6 +4925,32 @@ contract is limited compared to that of a rule; in particular, a
 contract cannot cause a paradox by setting undecidable conditions on
 joining it.]
 
+[CFJ 2101 (called 20 July 2008): Consent to join a binding agreement
+implies consent to join later agreements created through currently
+existing rule-defined processes.]
+
+[CFJ 2220 (called 11 October 2008): Consent to join a binding
+agreement may be an effect of another action, such as joining a
+foreign nomic, as long as the action is triggered by free will and the
+actor is reasonably aware of the effect.]
+
+[CFJ 2246 (called 30 October 2008): Joining a contract does not imply
+consent to be acted on behalf of simply because the contract might be
+amended in the future to allow it.]
+
+[CFJ 2264 (called 11 November 2008): The right to refuse to become
+party to an agreement does not apply to amendments to existing
+agreements.]
+
+[CFJ 2410 (called 11 March 2009): Consent to join a binding agreement
+may be given privately.]
+
+[CFJ 2761 (called 7 February 2010): The termination of a contract
+through processes it explicitly envisions (including a rule-defined
+mechanism, if the contract is intended to be governed under Agoran
+law) is akin to a natural death, and does not generally constitute a
+restriction of its rights as a person.]
+
 ----------------------------------------------------------------------
 
 Truthfulness
@@ -5178,6 +4984,16 @@ Miscellaneous
 action, a quantity to be increased which is defined elsewhere as a
 fixed value, and that action is taken, the rule thereby redefines the
 quantity as one more than it would otherwise be.]
+
+[CFJ 1856 (called 29 December 2007): The requirement that "no
+interpretation of Agoran law may abridge ... a person's defined
+rights" means that it must be feasible, given the practical limits of
+Agoran evidence-gathering, to remain reasonably sure that a person's
+defined rights are not being limited.]
+
+[CFJ 2361 (called 26 January 2009): The withholding of a reward for
+doing something may or may not constitute a penalty for not doing it,
+depending on the circumstances.]
 
 ----------------------------------------------------------------------
 
