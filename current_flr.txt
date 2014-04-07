@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 7 April 2014
 
-Last proposal with recorded effect on this ruleset: 7623
-Last change to this ruleset: by Proposal 7623
+Last proposal with recorded effect on this ruleset: 7626
+Last change to this ruleset: by Proposal 7626
 
 Last ratification: Short Logical Ruleset of 27 July 2013
 Last ratification date: 24 August 2013
@@ -1096,7 +1096,7 @@ Economy
       A category concerning asset-based gameplay.
 ----------------------------------------------------------------------
 
-Rule 2419/1 (Power=1)
+Rule 2419/2 (Power=1)
 Winning
 
       The Operations Manual is a Document with Mint Authority,
@@ -1125,9 +1125,13 @@ Winning
       escape velocity, then all such players win the game, and all
       players' scores are set to 0.
 
+      After a person wins the game, the Herald CAN once award em the
+      Patent Title Champion by announcement.
+
 History:
 Created by Proposal 7609 (G.), 13 December 2013
 Amended(1) by Proposal 7617 (G.), 16 January 2014
+Amended(2) by Proposal 7626 (omd), 23 February 2014
 
 ----------------------------------------------------------------------
 
