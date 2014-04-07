@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 7 April 2014
 
-Last proposal with recorded effect on this ruleset: 7621
-Last change to this ruleset: by Proposal 7621
+Last proposal with recorded effect on this ruleset: 7623
+Last change to this ruleset: by Proposal 7623
 
 Last ratification: Short Logical Ruleset of 27 July 2013
 Last ratification date: 24 August 2013
@@ -3735,7 +3735,7 @@ Retitled and amended(48) by Proposal 7616 (G.), 16 January 2014
 
 ----------------------------------------------------------------------
 
-Rule 2175/6 (Power=1)
+Rule 2175/7 (Power=1)
 Judicial Retraction and Excess
 
       A new case is a judicial case (other than an appeal case) that
@@ -3745,10 +3745,10 @@ Judicial Retraction and Excess
 
       An excess case is a new case whose initiator previously
       initiated five or more cases during the same week as that case.
-      A person SHALL NOT initiate an excess case.  The Clerk of the
-      Courts CAN refuse an excess case by  announcement, thus causing
-      it to cease to be a judicial case.  When e does so, e fulfills
-      any obligations with regards to that case.
+      A person SHALL NOT initiate an excess case.  The Speaker CAN
+      refuse an excess case by  announcement, thus causing it to cease
+      to be a judicial case.  When e does so, e fulfills any
+      obligations with regards to that case.
 
 History:
 Created by Proposal 5284 (root, pikhq), 7 November 2007
@@ -3759,6 +3759,7 @@ Amended(3) by Proposal 5768 (Murphy), 17 October 2008
 Amended(4) by Proposal 6024 (Murphy), 22 December 2008
 Amended(5) by Proposal 6445 (coppro; disi.), 27 August 2009
 Amended(6) by Proposal 6944 (omd; disi.), 16 January 2011
+Amended(7) by Proposal 7623 (G.), 23 February 2014
 
 ----------------------------------------------------------------------
 
