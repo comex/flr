@@ -2,13 +2,13 @@ THE FULL LOGICAL RULESET
 
 Last updated: 7 April 2014
 
-Last proposal with recorded effect on this ruleset: 7628
-Last change to this ruleset: by Proposal 7628
+Last proposal with recorded effect on this ruleset: 7629
+Last change to this ruleset: by Proposal 7629
 
 Last ratification: Short Logical Ruleset of 27 July 2013
 Last ratification date: 24 August 2013
 
-Highest Rule ID number ever assigned: 2419
+Highest Rule ID number ever assigned: 2422
 
 Online version:
   http://agora.qoid.us/current_flr.txt (FLR)
@@ -18,14 +18,14 @@ Online version:
 
 Statistics
 
-Current total number of rules: 69
+Current total number of rules: 63
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
        1 with Power=3.1
-      36 with Power=3
-      15 with Power=2
+      32 with Power=3
+      13 with Power=2
        2 with Power=1.7
        2 with Power=1.5
       11 with Power=1
@@ -60,7 +60,8 @@ Index of Rules
 
       * Economy
       Rule 2419: Winning
-      Rule 2166: Assets
+      Rule 2420: Score
+      Rule 2421: Points Awards
 
       * Definitions
       Rule 1023: Common Definitions
@@ -68,7 +69,6 @@ Index of Rules
       Rule 2162: Switches
       Rule  478: Fora
       Rule 1728: Dependent Actions
-      Rule 2288: Induction
       Rule 2124: Agoran Satisfaction
 
       * Offices
@@ -77,12 +77,10 @@ Index of Rules
       Rule 2379: No News Is Some News
       Rule 2160: Deputisation
       Rule 2154: Election Procedure
-      Rule 2276: Assumption of Vacant Offices
       Rule 2138: The Interstellar Associate Director of Personnel
       Rule 1551: Ratification
       Rule 2202: Ratification Without Objection
       Rule 2201: Self-Ratification
-      Rule 2395: Government Waste
 
       * Party Politics
       Rule  103: The Speaker
@@ -91,8 +89,8 @@ Index of Rules
       Rule  693: Agoran Decisions
       Rule  107: Initiating Agoran Decisions
       Rule  683: Voting on Agoran Decisions
+      Rule 2422: Voting Strength
       Rule 2127: Conditional Votes
-      Rule 2280: Implicit Votes
       Rule 2168: Extending the voting period
       Rule  208: Resolving Agoran decisions
       Rule  955: Determining the Will of Agora
@@ -103,10 +101,6 @@ Index of Rules
       Rule 2350: Proposals
       Rule  106: Adopting Proposals
       Rule 1607: Distribution
-      Rule 2373: Voting Chambers
-      Rule 2389: Ordinary Chamber
-      Rule 2374: Democratic Chamber
-      Rule 2409: Star Chamber
       Rule 1950: Decisions with Adoption Indices
       Rule 2137: The Assessor
       Rule 1698: Agora Is A Nomic
@@ -1096,146 +1090,62 @@ Economy
       A category concerning asset-based gameplay.
 ----------------------------------------------------------------------
 
-Rule 2419/2 (Power=1)
+Rule 2419/3 (Power=2)
 Winning
 
-      The Operations Manual is a Document with Mint Authority,
-      maintained by the Herald.  Changes to the Operations Manual CAN
-      be made with Agoran Consent.  Failure to act in accordance with
-      the operations manual is considered a breach of this rule.
+      If any player has a score of at least 250, then any player who
+      has at least as much score as any other player can make an
+      announcement naming all players with the highest score and
+      indicating that they have won Agora.
 
-      A player's Score is a complex number, tracked by the Herald.  If
-      a player's score has not been previously changed by the Rules,
-      or cannot be determined by reasonable effort, it is 0.  If a
-      person ceases being a player, eir score is set to 0.  The Herald
-      CAN always round a player's score to 5 decimal places by
-      announcement.  Scores CAN be changed as described in the
-      Operations Manual.
-
-      Quadrant is a player switch tracked by the Herald, with values
-      Alpha (default), Beta, Gamma, and Delta, synonymous to quadrants
-      1-4 in the complex plane, respectively.  A player's quadrant CAN
-      be changed as described in the Operations Manual.
-
-      A player has achieved Escape Velocity any time the magnitude of
-      eir score is 1,000,000 or greater, and eir score is in eir
-      quadrant (scores exactly on the border of one or more quadrants
-      are considered to be in each such quadrant).  Upon a true
-      announcement that one or more specified players have achieved
-      escape velocity, then all such players win the game, and all
-      players' scores are set to 0.
-
-      After a person wins the game, the Herald CAN once award em the
-      Patent Title Champion by announcement.
+      Upon such an announcement, if it is true, then all such players
+      win the game and a new game begins. All players' scores are
+      reset to default. The beginning of a new game does not cause any
+      changes to the game state not specified by the rules; in
+      particular, Agora does not end and the ruleset remains
+      unchanged. The Herald is then authorized to award those players
+      the Patent Title of Champion.
 
 History:
 Created by Proposal 7609 (G.), 13 December 2013
 Amended(1) by Proposal 7617 (G.), 16 January 2014
 Amended(2) by Proposal 7626 (omd), 23 February 2014
+Amended(3) by Proposal 7629 (scshunt), 7 April 2014
+Power changed from 1 to 2 by Proposal 7629 (scshunt), 7 April 2014
 
 ----------------------------------------------------------------------
 
-Rule 2166/20 (Power=2)
-Assets
+Rule 2420/0 (Power=2)
+Score
 
-      An asset is an entity defined as such by a rule or by a document
-      to which the rules grant Mint Authority (hereafter its backing
-      document), and existing solely because its backing document
-      defines its existence.
+      Score is a player switch, with default 0 and possible values all
+      non-negative integers.
 
-      Each asset has exactly one owner.  If an asset would otherwise
-      lack an owner, it is owned by the Lost and Found Department.  If
-      an asset's backing document restricts its ownership to a class
-      of entities, then that asset CANNOT be gained by or transferred
-      to an entity outside that class, and is transferred to the Lost
-      and Found Department if it is owned by an entity outside that
-      class.  If an asset is owned by the Lost and Found department
-      any player CAN transfer or destroy it with 1.5 Agoran consent or
-      without 2 objections.
+      The Scorekeepor is an office and the recordkeeper of score.
 
-      The Lost and Found department may own any asset, and have assets
-      transferred to and from it, regardless of the asset's backing
-      document or any Rule, Rules to the contrary notwithstanding.
+      To award a player a number of points is to increase their score
+      by that number.
 
-      The recordkeepor of a class of assets is the entity (if any)
-      defined as such by, and bound by, its backing document.  That
-      entity's report includes a list of all instances of that class
-      and their owners.  This portion of a public document purporting
-      to be that entity's report is self-ratifying.
-
-      An asset whose backing document is not a rule generally CAN be
-      created by its recordkeepor by announcement, subject to
-      modification by its backing document.  To "gain" an asset is to
-      have it created in one's possession; to "award" an asset to an
-      entity is to create it in that entity's possession.
-
-      An asset generally CAN be destroyed by its owner by
-      announcement, and an asset owned by the Lost and Found
-      Department generally CAN be destroyed by its recordkeepor by
-      announcement, subject to modification by its backing document.
-      To "lose" (syn. "spend") an asset is to have it destroyed from
-      one's possession; to "revoke" an asset from an entity is to
-      destroy it from that entity's possession.
-
-      An asset generally CAN be transferred by its owner to another
-      entity by announcement, subject to modification by its backing
-      document.  A fixed asset is one defined as such by its backing
-      document, and CANNOT be transferred; any other asset is liquid.
-
-      A currency is a class of asset defined as such by its backing
-      document.  Instances of a currency with the same owner are
-      fungible.
-
-[CFJs 1790-1791 (called 11 November 2007): The self-ratifying asset
-report is the complete list of ownerships of assets of that class; a
-partial list does not self-ratify.]
-
-[CFJ 1850 (called 22 December 2007): The general ability of the
-recordkeepor to create assets does not include an ability to determine
-who possesses them when created, so they are necessarily owned by the
-Lost and Found Department [at the time of CFJ 1850, the Bank] upon
-creation.]
-
-[CFJ 1910 (called 10 March 2008): When an existing entity is defined
-as an asset, the change of its owner from "undefined" to the Lost and
-Found Department [Bank at the time of CFJ 1910] counts as a transfer,
-and fails if the Lost and Found Department is outside of the class of
-objects that can own the entity.]
-
-[CFJ 2176 (called 22 September 2008): Entities may be fungible even if
-not defined as such by this rule.]
-
-[CFJ 2309 (called 11 December 2008): If two separate documents attempt
-to define an asset with the same name, they refer to the same entity,
-but the entity is not an asset.]
-
-[CFJ 3016 (called 30 April 2011): "CAN recreate" means "CAN once
-recreate".]
+      Score is secured at power 1.
 
 History:
-Created by Proposal 5173 (Murphy), 29 August 2007
-Amended(1) by Proposal 5216 (Murphy), 13 September 2007
-Amended(2) by Proposal 5388 (Murphy), 1 January 2008
-Amended(3) by Proposal 5475 (Murphy), 24 March 2008
-Amended(4) by Proposal 5476 (Murphy; disi.), 27 March 2008
-Amended(5) by Proposal 5496 (Murphy), 23 April 2008
-Amended(6) by Proposal 5833 (Murphy, Taral), 12 November 2008
-Amended(7) by Proposal 5840 (root), 12 November 2008
-Amended(8) by Proposal 5974 (Murphy; disi.), 25 November 2008
-Amended(9) by Proposal 6023 (Murphy), 22 December 2008
-Assigned to Committee on Finance by Proposal 6053 (Murphy, woggle,
-  ais523), 23 January 2009
-Amended(10) by Proposal 6161 (Murphy), 31 March 2009
-Amended(11) by Proposal 6253 (Quazie), 9 May 2009
-Amended(12) by cleaning (Murphy), 16 August 2009
-Amended(13) by Proposal 6430 (coppro; disi.), 18 August 2009
-Amended(14) twice by Proposal 6650 (coppro), 10 March 2010
-Amended(15) by Proposal 6792 (omd), 27 August 2010
-Amended(16) by Proposal 6916 (omd; disi.), 2 January 2011
-Amended(17) by Proposal 7298 (FKA441344), 9 September 2012
-Amended(18) by Proposal 7420 (omd), 27 May 2013
-Amended(19) by Proposal 7586 (omd), 24 August 2013
-Amended(20) by Proposal 7617 (G.), 16 January 2014
+Created by Proposal 7629 (scshunt), 7 April 2014
+
+----------------------------------------------------------------------
+
+Rule 2421/0 (Power=1)
+Points Awards
+
+      Whenever a proposal is adopted, its author earns a number of
+      points equal to its adoption index, rounded down. A given player
+      cannot earn more than 15 points this way in a single Agoran
+      week.
+
+      At the beginning of each Agoran week, the holder of each office
+      is awarded 10 points.
+
+History:
+Created by Proposal 7629 (scshunt), 7 April 2014
 
 ----------------------------------------------------------------------
 
@@ -1800,39 +1710,6 @@ Amended(33) by Proposal 7606 (G.), 13 December 2013
 
 ----------------------------------------------------------------------
 
-Rule 2288/2 (Power=3)
-Induction
-
-      If a person CAN perform an action by announcement, e CAN perform
-      it with N support, without N objections, with N Agoran Consent,
-      or with notice, where N is a number appropriate for that form of
-      dependent action.
-
-      If a person CAN perform an action with notice, e CAN perform it
-      without N objections, where N is an appropriate number.
-
-      If a person CAN perform an action with M support, e CAN
-      perform it with N support, where N is an appropriate number
-      greater than M.
-
-      If a person CAN perform an action without M objections, e CAN
-      perform it without N objections, where N is an appropriate
-      number less than M.
-
-      If a person CAN perform an action via multiple different means
-      of dependent actions, e CAN perform that action via multiple of
-      them at the same time.
-
-      If a player CAN perform an action with 0 support, then e CAN
-      perform it by announcement.
-
-History:
-Created by Proposal 6675 (comex), 22 March 2010
-Amended(1) by Proposal 6807 (coppro), 27 August 2010
-Amended(2) by Proposal 6969 (Murphy), 20 March 2011
-
-----------------------------------------------------------------------
-
 Rule 2124/17 (Power=2)
 Agoran Satisfaction
 
@@ -1902,7 +1779,7 @@ Offices
       within the game.
 ----------------------------------------------------------------------
 
-Rule 1006/36 (Power=2)
+Rule 1006/37 (Power=2)
 Offices
 
       Officeholder is an office switch tracked by the IADoP, with
@@ -1917,9 +1794,8 @@ Offices
       reasonably implied consent.
 
       The holder of an elected office CAN resign it by announcement,
-      causing it to become vacant, unless e assumed the office within
-      the last 24 hours.  Any player CAN cause an office to
-      become vacant without 2 objections or with 3 Agoran consent.
+      causing it to become vacant. Any player CAN cause an office to
+      become vacant without 2 objections.
 
 [CFJ 1660 (called 13 May 2007): This rule does not define the meaning
 of the term "office", in the sense meant by Rule 754, but rather
@@ -1976,6 +1852,7 @@ Amended(33) by Proposal 6959 (G.), 31 January 2011
 Amended(34) by Proposal 7272 (FKA441344), 14 August 2012
 Amended(35) by Proposal 7403 (omd), 27 April 2013
 Amended(36) by Proposal 7586 (omd), 24 August 2013
+Amended(37) by Proposal 7629 (scshunt), 7 April 2014
 
 ----------------------------------------------------------------------
 
@@ -2065,7 +1942,7 @@ Created by Proposal 7286 (FKA441344), 9 September 2012
 
 ----------------------------------------------------------------------
 
-Rule 2160/9 (Power=3)
+Rule 2160/10 (Power=3)
 Deputisation
 
       Any player (a deputy) CAN perform an action as if e held a
@@ -2091,6 +1968,9 @@ Deputisation
         (e) The deputy, when performing the action, announces that e
             is doing so by deputisation.
 
+      When a player deputises for an office, e becomes the holder of
+      that office.
+
 [CFJ 1776 (called 1 November 2007): A requirement to perform an
 action, for the purposes of this rule, can be a logical implication
 from rules and circumstances, not just directly imposed by the rules.
@@ -2115,18 +1995,19 @@ Amended(6) by Proposal 6218 (Murphy), 27 April 2009
 Amended(7) by Proposal 6482 (c.), 18 September 2009
 Amended(8) by Proposal 7300 (scshunt), 27 September 2012
 Amended(9) by Proposal 7403 (omd), 27 April 2013
+Amended(10) by Proposal 7629 (scshunt), 7 April 2014
 
 ----------------------------------------------------------------------
 
-Rule 2154/41 (Power=2)
+Rule 2154/42 (Power=2)
 Election Procedure
 
       A player CAN initiate an election for a specified elected office
       for which no election is already in progress
 
-      a) by announcement, if e is the IADoP, or the office is Assumed,
-         or no election has been initiated for the office within 90
-         days before the announcement;
+      a) by announcement, if e is the IADoP, or no election has been
+         initiated for the office within 90 days before the
+         announcement;
 
       b) with 4 Supporters, otherwise.
 
@@ -2154,11 +2035,7 @@ Election Procedure
           The set of candidates can change after the decision is
           initiated.
 
-       2) The eligible voters are the active players.
-
-       3) Each eligible voter's voting limit is one.
-
-       4) If there are no valid options for the Decision, the IADoP
+       3) If there are no valid options for the Decision, the IADoP
           SHALL, in place of initiating the decision, announce this
           fact, ending the election.  If there is exactly one valid
           option for the Decision, the IADoP SHALL, in place of
@@ -2215,54 +2092,22 @@ Amended(38) by Proposal 7586 (omd), 24 August 2013
 Amended(39) by Proposal 7610 (G.), 22 December 2013
 Amended(40) by Proposal 7610 (G.), 22 December 2013
 Amended(41) by Proposal 7610 (G.), 22 December 2013
+Amended(42) by Proposal 7629 (scshunt), 7 April 2014
 
 ----------------------------------------------------------------------
 
-Rule 2276/7 (Power=2)
-Assumption of Vacant Offices
-
-      Assumption is an elected office switch, tracked by the IADoP
-      with values Postulated (default) and Assumed. Changes to
-      Assumption are secured. An active player can assume an office by
-      announcement, causing em to become its holder, provided that the
-      office is Assumed.
-
-      Whenever a Postulated office is not held by an active player, it
-      becomes Assumed.
-
-      When a person comes to hold an office, or would come to hold an
-      office if e did not hold it already, by a means other than the
-      one provided by this Rule, then the Assumption of that office is
-      flipped to Postulated.
-
-      If a player has held an Assumed office continuously since the
-      last time it was Postulated, e can flip its Assumption to
-      Postulated by announcement.
-
-History:
-Created by Proposal 6506 (Pavitra), 3 October 2009
-Amended(1) by Proposal 6528 (coppro; disi.), 23 October 2009
-Amended(2) by Proposal 6529 (Pavitra; disi.), 23 October 2009
-Amended(3) by Proposal 6761 (coppro), 2 August 2010
-Amended(4) by Proposal 7403 (omd), 27 April 2013
-Amended(5) by Proposal 7410 (Machiavelli), 27 April 2013
-Amended(6) by Proposal 7586 (omd), 24 August 2013
-Amended(7) by Proposal 7610 (G.), 22 December 2013
-
-----------------------------------------------------------------------
-
-Rule 2138/17 (Power=1)
+Rule 2138/18 (Power=1)
 The Interstellar Associate Director of Personnel
 
       The Interstellar Associate Director of Personnel (IADoP) is an
-      office; its holder is responsible for keeping track of officers
-      and reports.
+      office; its holder is responsible for keeping track of officers.
 
       The IADoP's report includes the following:
 
       a) The holder of each office.
       b) The date on which each holder last came to hold that office.
-      c) The date when that office's reports were last published.
+      c) The date on which the most recent election for that office
+         was initiated.
 
       The portion of a public message purporting to be an IADoP's
       report that lists the holder of each office is self-ratifying.
@@ -2296,6 +2141,7 @@ Amended(14) by Proposal 7465 (Walker), 17 June 2013
 Amended(15) by Proposal 7483 (scshunt), 9 July 2013
 Amended(16) by Proposal 7524 (scshunt), 19 July 2013
 Amended(17) by Proposal 7566 (Walker), 24 August 2013
+Amended(18) by Proposal 7629 (scshunt), 7 April 2014
 
 ----------------------------------------------------------------------
 
@@ -2456,22 +2302,6 @@ Amended(6) by Proposal 7420 (omd), 27 May 2013
 
 ----------------------------------------------------------------------
 
-Rule 2395/1 (Power=2)
-Government Waste
-
-      There exists an office of Governmental Waste. This office shall
-      have no duties, shall make no reports, and shall exist as the
-      sole result of governmental waste.
-
-      This office becomes Assumed whenever it is held by the holder of
-      another elected office.
-
-History:
-Created by Proposal 7426 (omd, pikhq), 27 May 2013
-Amended(1) by Proposal 7536 (G., Lindar), 30 July 2013
-
-----------------------------------------------------------------------
-
 ======================================================================
 Party Politics
       A category concerning means for players to ally themselves as a
@@ -2563,7 +2393,7 @@ Amended(14) by Proposal 6617 (Murphy; disi.), 4 February 2010
 
 ----------------------------------------------------------------------
 
-Rule 107/16 (Power=3)
+Rule 107/17 (Power=3)
 Initiating Agoran Decisions
 
       An Agoran decision is initiated when a person authorized to
@@ -2575,16 +2405,11 @@ Initiating Agoran Decisions
       (a) The matter to be decided (for example, "the adoption of
           proposal 4781").
 
-      (b) A description of the class of eligible voters sufficient to
-          enable public agreement on which persons are eligible.  In
-          particular, an explicit list of the eligible voters is
-          always sufficient for this purpose.
+      (b) A clear indication of the options available.
 
-      (c) A clear indication of the options available.
+      (c) The identity of the vote collector.
 
-      (d) The identity of the vote collector.
-
-      (e) Any additional information defined by the rules as essential
+      (d) Any additional information defined by the rules as essential
           parameters.
 
       The publication of such a valid notice initiates the voting
@@ -2644,43 +2469,38 @@ Amended(13) by Proposal 6945 (Murphy, omd; disi.), 16 January 2011
 Amended(14) by Proposal 6981 (Murphy, omd), 10 April 2011
 Amended(15) by Proposal 7045 (Walker), 16 May 2011
 Amended(16) by Proposal 7606 (G.), 13 December 2013
+Amended(17) by Proposal 7629 (scshunt), 7 April 2014
 
 ----------------------------------------------------------------------
 
-Rule 683/17 (Power=3)
+Rule 683/18 (Power=3)
 Voting on Agoran Decisions
 
-      An eligible voter on a particular Agoran decision submits a
-      ballot to the vote collector by publishing a valid notice
-      indicating which one of the available options e selects.  To be
-      valid, the ballot must satisfy the following conditions:
+      An entity submits  a ballot on an Agoran decision by publishing
+      a valid notice indicating which one of the available options e
+      selects.  To be valid, the ballot must satisfy the following
+      conditions:
 
       (a) The ballot is submitted during the voting period for the
-          decision, and the submitter is an eligible voter at the
-          time of submission.
+          decision.
 
-      (b) The ballot clearly identifies the matter to be decided.
+      (b) The entity casting the ballot (the voter) was, at the
+          initiation of the decision, an active player.
 
-      (c) The ballot clearly identifies the option selected by the
+      (c) The ballot clearly identifies the matter to be decided.
+
+      (d) The ballot clearly identifies the option selected by the
           voter.
 
-      (d) The voter has not publicly retracted the ballot during the
+      (e) The voter has not publicly retracted the ballot during the
           voting period.  ("Changing" a vote is equivalent to
           retracting it and casting a vote with the new value.)
 
-      Among the otherwise-valid votes on an Agoran decision, only the
-      first N submitted by each entity are valid, where N is the
-      entity's voting limit on that decision.  The voting limit of an
-      entity that is not an eligible voter on an Agoran decision is
-      zero.  The voting limit of an eligible voter on an Agoran
-      decision is two, except where rules say otherwise.
+      (f) At the time of the submission of the ballot, the voter did
+          not have another valid ballot on the same decision.
 
-      The strength of an option is the number of valid ballots
-      selecting that option.
-
-      Other rules may place further constraints on the validity of
-      ballots.  This rule takes precedence over any rule that would
-      loosen the constraints specified by this rule.
+      The strength of an option is the total voting strength of all
+      voters with valid ballots cast for that option.
 
 [CFJ 1609 (called 13 January 2007): To "clearly identif[y] the matter
 to be decided" does not necessarily require specifying it in detail.]
@@ -2712,6 +2532,19 @@ Assigned to Committee on Rules by Proposal 6053 (Murphy, woggle,
 Amended(15) by Proposal 6378 (Murphy), 3 July 2009
 Amended(16) by Proposal 7032 (omd), 16 May 2011
 Amended(17) by Proposal 7077 (omd), 16 June 2011
+Amended(18) by Proposal 7629 (scshunt), 7 April 2014
+
+----------------------------------------------------------------------
+
+Rule 2422/0 (Power=3)
+Voting Strength
+
+      The voting strength of an entity is an integer between 1 and 5
+      inclusive, defined by rules of power 2 or greater. If not
+      otherwise specified, the voting strength of an entity is 1.
+
+History:
+Created by Proposal 7629 (scshunt), 7 April 2014
 
 ----------------------------------------------------------------------
 
@@ -2750,22 +2583,6 @@ Amended(5) by Proposal 6383 (Murphy), 3 July 2009
 Amended(6) by Proposal 6403 (coppro), 30 July 2009
 Amended(7) by Proposal 7289 (G.), 9 September 2012
 Power changed and amended(8) by Proposal 7447 (omd), 10 June 2013
-
-----------------------------------------------------------------------
-
-Rule 2280/1 (Power=3)
-Implicit Votes
-
-      When an eligible voter on an Agoran decision attempts to cast
-      ballots without explicitly specifying the number of ballots to
-      be cast (e.g. "FOR" instead of "FOR*1" or "FOR*3"), e casts a
-      an implicit vote. At resolution time, rules to the contrary
-      notwithstanding, an implicit vote is treated as if it were a
-      number of identical votes equal to eir voting limit.
-
-History:
-Created by Proposal 6585 (c.; disi.), 6 December 2009
-Amended(1) by Proposal 7444 (omd), 10 June 2013
 
 ----------------------------------------------------------------------
 
@@ -3137,7 +2954,7 @@ Amended(35) by Proposal 7246 (omd), 10 June 2012
 
 ----------------------------------------------------------------------
 
-Rule 1607/40 (Power=3)
+Rule 1607/41 (Power=3)
 Distribution
 
       The Promotor is an office; its holder is responsible for
@@ -3145,8 +2962,8 @@ Distribution
 
       Determining whether to adopt a proposal is an Agoran decision.
       For this decision, the vote collector is the Assessor, the
-      adoption index and Chamber are initially the same as the
-      corresponding values from the proposal, and the text of the
+      adoption index is initially the adoption index of the proposal,
+      or 1.0 if the proposal does not have one, and the text of the
       proposal is an essential parameter.  Initiating such a decision
       is known as distribution, and removes the proposal from the
       Proposal Pool.
@@ -3249,153 +3066,24 @@ Amended(37) by Proposal 7569 (omd, scshunt), 24 August 2013
 Amended(38) by Proposal 7586 (omd), 24 August 2013
 Amended(39) by Proposal 7610 (G.), 22 December 2013
 Amended(40) by Proposal 7618 (omd), 24 January 2014
+Amended(41) by Proposal 7629 (scshunt), 7 April 2014
 
 ----------------------------------------------------------------------
 
-Rule 2373/2 (Power=3)
-Voting Chambers
-
-      Voting Chambers are a class of entity. Creating a Voting Chamber
-      or making an entity a Voting Chamber is Secured with power 2.
-
-History:
-Created by Proposal 7274 (FKA441344, ehird), 14 August 2012
-Amended(1) by Proposal 7316 (omd), 16 October 2012
-Amended(2) by Proposal 7446 (omd), 10 June 2013
-
-----------------------------------------------------------------------
-
-Rule 2389/12 (Power=2)
-Ordinary Chamber
-
-      Ordinary is a Voting Chamber.  The voting limit of an eligible
-      voter on an Ordinary Decision is initially the same as eir Base
-      Vote.
-
-History:
-Created by Proposal 7348 (Machiavelli, Bucky, BuckyBot), 27 March 2013
-Amended(1) by Proposal 7400 (scshunt), 27 April 2013
-Amended(2) by Proposal 7402 (omd), 27 April 2013
-Amended(3) by Proposal 7404 (omd), 27 April 2013
-Amended(4) by Proposal 7405 (omd), 5 May 2013
-Amended(5) by Proposal 7418 (omd), 27 May 2013
-Amended(6) by Proposal 7446 (omd), 10 June 2013
-Amended(7) by Proposal 7458 (Walker), 17 June 2013
-Amended(8) by Proposal 7459 (Walker), 17 June 2013
-Amended(9) by Proposal 7543 (omd), 30 July 2013
-Amended(10) by Proposal 7580 (omd), 24 August 2013
-Amended(11) by Proposal 7610 (G.), 22 December 2013
-Amended(12) by Proposal 7610 (G.), 22 December 2013
-
-----------------------------------------------------------------------
-
-Rule 2374/6 (Power=3)
-Democratic Chamber
-
-      Democratic is a Voting Chamber.  If the Chamber of an entity is
-      not Democratic, any first-class Player CAN set it to Democratic
-      with 3 Agoran Consent.  Rules to the contrary notwithstanding,
-      the voting limit of an eligible voter on a Democratic decision
-      (eir Base Vote) is 1, plus 1 if e holds one or more postulated
-      offices, plus 2 if e holds the office of Speaker.
-
-History:
-Created by Proposal 7274 (FKA441344), 14 August 2012
-Amended(1) by Proposal 7296 (scshunt), 9 September 2012
-Retitled and amended(2) by Proposal 7316 (omd), 16 October 2012
-Retitled by Proposal 7446 (omd), 10 June 2013
-Amended(4) by Proposal 7462 (Walker), 17 June 2013
-Amended(5) by Proposal 7610 (G.), 22 December 2013
-Amended(6) by Proposal 7610 (G.), 22 December 2013
-
-----------------------------------------------------------------------
-
-Rule 2409/2 (Power=3)
-Star Chamber
-
-      Star is a Voting Chamber.  The voting limit of an eligible voter
-      on an Star Decision is initially the same as eir Base Vote.
-
-      The Chamber of a decision CANNOT become Star except by being
-      initialized to that value when the decision is initiated.  If
-      the set of options of a decision in the Star Chamber changes, or
-      such a decision is initiated with more than 1000 options or
-      eligible voters, it automatically becomes Democratic.
-
-      Otherwise, within 24 hours after a decision is initiated in the
-      Star Chamber, the initiator SHALL once, for each eligible voter:
-      - construct a document (the Codebook) clearly listing a distinct
-        code for each option, randomly chosen from a reasonably large
-        universe of possible codes;
-      - publish its SHA-1 hash, clearly labeled as the hash of eir
-        Codebook for that decision; then
-      - privately send it to that voter, clearly labeled as eir
-        Codebook for that decision.
-
-      A player's Codebook for a decision is the first document whose
-      hash has been published as described.  The initiator SHALL NOT
-      mislabel any document as a Codebook or the hash of a Codebook.
-      The initiator SHOULD follow these steps immediately after
-      initiating the decision; if e fails to do so within the time
-      limit, players SHOULD make the decision Democratic.
-
-      Rules to the contrary notwithstanding, when submitting a ballot
-      on a decision in the Star Chamber, an eligible voter must select
-      an option by clearly identifying the code for that option listed
-      in eir Codebook rather than the option itself. If a voter
-      selects a code not listed in eir Codebook, e thereby votes
-      PRESENT.
-
-      Within 4 days after the end of such a decision's voting period,
-      the initiator SHALL publish each of its Codebooks, clearly
-      labeled as such; when e does so at any time, the decision
-      becomes Collapsed.  If e does not do so in a timely fashion
-      after the end of the voting period, then all ballots on that
-      decision become invalid and the decision becomes Collapsed.
-      Rules to the contrary notwithstanding, the decision can only be
-      resolved after the decision becomes Collapsed; if the vote
-      collector is required to resolve the decision, e need only do so
-      in a timely fashion after this occurs.
-
-      The initiator of a decision in the Star Chamber SHALL NOT
-      disclose any of its codes, or otherwise allow them to become
-      known to other persons, before the end of the voting period,
-      except as previously described, and SHOULD take measures to
-      assign the codes automatically without em personally seeing
-      them.
-
-History:
-Created by Proposal 7452 (omd), 10 June 2013
-Amended(1) by Proposal 7502 (Fool), 8 July 2013
-Amended(2) by Proposal 7610 (G.), 22 December 2013
-
-----------------------------------------------------------------------
-
-Rule 1950/29 (Power=3)
+Rule 1950/30 (Power=3)
 Decisions with Adoption Indices
 
       Adoption index is an untracked switch possessed by Agoran
       decisions and proposals, whose value is either "none" (default)
       or an integral multiple of 0.1 from 1.0 to 9.9.
 
-      Chamber is a switch possessed by Agoran decisions with adoption
-      indices and proposals, with values any Voting Chamber, by
-      default Ordinary.
-
-      Adoption index and Chamber are secured with a power threshold of
-      2.
+      Adoption index is secured with a power threshold of 2.
 
       An Agoran decision with an adoption index has the following
       essential parameters:
 
       a) Its adoption index.
       b) Its author (and co-authors, if any).
-      c) Its Chamber.
-
-      The eligible voters on a decision with an adoption index are
-      those entities that were active players at the start of its
-      voting period.  Setting or changing an entity's voting limit on
-      such a decision is secured with a power threshold of 2.
 
       For any Agoran decision with an adoption index, the available
       options are FOR and AGAINST.
@@ -3438,6 +3126,7 @@ Amended(26) by Proposal 7274 (FKA441344), 14 August 2012
 Amended(27) by Proposal 7296 (scshunt), 9 September 2012
 Amended(28) by Proposal 7416 (omd), 12 May 2013
 Amended(29) by Proposal 7610 (G.), 22 December 2013
+Amended(30) by Proposal 7629 (scshunt), 7 April 2014
 
 ----------------------------------------------------------------------
 
@@ -3491,7 +3180,7 @@ Adjudication
       controversy are resolved.
 ----------------------------------------------------------------------
 
-Rule 991/13 (Power=2)
+Rule 991/14 (Power=2)
 Calls for Judgement
 
       Any person (the initiator) can initiate a Call for Judgement
@@ -3502,11 +3191,15 @@ Calls for Judgement
       At any time, each CFJ is either open (default), or has exactly
       one judgement.
 
-      When a CFJ has no judge assigned, the Speaker CAN assign any
+      The Arbitor is an office, responsible for the administration of
+      justice in a manner that is fair for emself, if not for the rest
+      of Agora
+
+      When a CFJ has no judge assigned, the Arbitor CAN assign any
       player to be its judge by announcement, and SHALL do so within a
       week.  The players eligible to be assigned as judge are all
       players except the initiator and the person barred (if any).
-      The Speaker SHALL assign judges over time such that all
+      The Arbitor SHALL assign judges over time such that all
       interested players have reasonably equal opportunities to judge.
 
 [CFJs 1692-1693 (called 20 June 2007): A CFJ can be unambiguously
@@ -3539,15 +3232,16 @@ Assigned to Committee on the Judiciary by Proposal 6053 (Murphy,
   woggle, ais523), 23 January 2009
 Amended(12) by Proposal 7050 (omd), 16 May 2011
 Retitled and amended(13) by Proposal 7616 (G.), 16 January 2014
+Amended(14) by Proposal 7629 (scshunt), 7 April 2014
 
 ----------------------------------------------------------------------
 
-Rule 591/39 (Power=1.7)
+Rule 591/40 (Power=1.7)
 Delivering Judgements
 
       When a CFJ becomes open and is assigned to a judge, that judge
       SHALL assign a valid judgement to the case within a week of
-      assignment, by announcement.  If e does not, the Speaker CAN
+      assignment, by announcement.  If e does not, the Arbitor CAN
       remove em from being the judge of that case by announcement.
 
       The valid judgements, based on the facts of the case at the
@@ -3644,10 +3338,11 @@ Amended(36) by Proposal 7266 (omd), 25 July 2012
 Amended(37) by Proposal 7293 (Murphy), 9 September 2012
 Amended(38) by Proposal 7610 (G.), 22 December 2013
 Retitled and amended(39) by Proposal 7616 (G.), 16 January 2014
+Amended(40) by Proposal 7629 (scshunt), 7 April 2014
 
 ----------------------------------------------------------------------
 
-Rule 911/48 (Power=1.7)
+Rule 911/49 (Power=1.7)
 Motions and Moots
 
       If a CFJ (1) has a judgement that has been in effect for less
@@ -3663,15 +3358,15 @@ Motions and Moots
       judgement has already been entered into Moot.
 
       Entering a Judgement into Moot is considered to be the
-      publication of notice of intent by the Speaker, to resolve the
-      Moot with Notice.  The Speaker SHALL follow through in resolving
+      publication of notice of intent by the Arbitor, to resolve the
+      Moot with Notice.  The Arbitor SHALL follow through in resolving
       the Moot.
 
       During a Moot, any player CAN publish or retract eir Brief
       concerning the judgement, clearly recommending a valid
-      judgement.  The Speaker resolves the Moot by assigning a valid
+      judgement.  The Arbitor resolves the Moot by assigning a valid
       judgement to the CFJ from among the judgements that received the
-      most unretracted recommendations, if any; otherwise the Speaker
+      most unretracted recommendations, if any; otherwise the Arbitor
       SHALL assign a valid judgement of eir choice.
 
 [CFJ 1597 (called 22 December 2006): It is possible to appeal a
@@ -3739,10 +3434,11 @@ Amended(45) by Proposal 7072 (woggle), 16 June 2011
 Amended(46) by Proposal 7078 (omd), 16 June 2011
 Amended(47) by Proposal 7152 (Murphy), 25 January 2012
 Retitled and amended(48) by Proposal 7616 (G.), 16 January 2014
+Amended(49) by Proposal 7629 (scshunt), 7 April 2014
 
 ----------------------------------------------------------------------
 
-Rule 2175/7 (Power=1)
+Rule 2175/8 (Power=1)
 Judicial Retraction and Excess
 
       A new case is a judicial case (other than an appeal case) that
@@ -3752,7 +3448,7 @@ Judicial Retraction and Excess
 
       An excess case is a new case whose initiator previously
       initiated five or more cases during the same week as that case.
-      A person SHALL NOT initiate an excess case.  The Speaker CAN
+      A person SHALL NOT initiate an excess case.  The Arbitor CAN
       refuse an excess case by  announcement, thus causing it to cease
       to be a judicial case.  When e does so, e fulfills any
       obligations with regards to that case.
@@ -3767,6 +3463,7 @@ Amended(4) by Proposal 6024 (Murphy), 22 December 2008
 Amended(5) by Proposal 6445 (coppro; disi.), 27 August 2009
 Amended(6) by Proposal 6944 (omd; disi.), 16 January 2011
 Amended(7) by Proposal 7623 (G.), 23 February 2014
+Amended(8) by Proposal 7629 (scshunt), 7 April 2014
 
 ----------------------------------------------------------------------
 
