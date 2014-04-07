@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last updated: 12 February 2014
+Last updated: 7 April 2014
 
-Last proposal with recorded effect on this ruleset: 7620
-Last change to this ruleset: by Proposal 7620
+Last proposal with recorded effect on this ruleset: 7621
+Last change to this ruleset: by Proposal 7621
 
 Last ratification: Short Logical Ruleset of 27 July 2013
 Last ratification date: 24 August 2013
@@ -3767,37 +3767,23 @@ Patent Titles and Degrees
       A category concerning titles of honor and dishonor.
 ----------------------------------------------------------------------
 
-Rule 649/35 (Power=1.5)
+Rule 649/36 (Power=1.5)
 Patent Titles
 
-      A Patent Title is a legal item given in recognition of a
-      person's distinction.  The Herald is an office; its holder is
-      responsible for tracking Patent Titles.
+      A Patent Title is a legal title given to a person in recognition
+      of the person's distinction.  The Herald is an office; its
+      holder is responsible for tracking Patent Titles in eir monthly
+      report.
 
-      A person specifically authorized by the rules to award (revoke)
-      a Patent Title SHALL do so in a timely fashion after the
-      conditions authorizing em to do so are announced, unless there
-      is an open judicial case contesting the validity of those
-      conditions.  Awarding or revoking a Patent Title by any other
-      method is secured.
+      Awarding or revoking a Patent Title is secured.  A person
+      permitted and enabled to award (revoke) a Patent Title SHALL do
+      so in a timely fashion after the conditions authorizing em to do
+      so are announced, unless there is an open judicial case
+      contesting the validity of those conditions.
 
       The Herald CAN award a specified Patent Title not already
       defined by any Rule or held by any entity to a specified player
       With 2 Agoran Consent.
-
-      While a Patent Title has been awarded to (and not revoked from)
-      an entity, that entity is said to Bear that Patent Title.  The
-      status of Bearing a Patent Title can only be changed as
-      explicitly set out in the Rules.  The Herald's monthly report
-      includes a list of each Patent Title that at least one entity
-      Bears, with a list of which entities Bear it.
-
-      In a timely fashion after a patent title is awarded or revoked,
-      the herald SHALL announce the award or revocation.
-
-      When a patent title is used as a noun to refer to bearers of the
-      patent title, it is assumed to refer only to persons who Bear
-      that patent title unless context clearly indicates otherwise.
 
 [CFJ 1525 (called 15 November 2004): If a patent title is defined by
 the rules, and previously the rules defined a patent title with the
@@ -3859,6 +3845,7 @@ Amended(32) by Proposal 7050 (omd), 16 May 2011
 Amended(33) by Proposal 7315 (omd), 16 October 2012
 Amended(34) by Proposal 7420 (omd), 27 May 2013
 Amended(35) by Proposal 7470 (woggle; disi.), 17 June 2013
+Amended(36) by Proposal 7621 (G.), 23 February 2014
 
 ----------------------------------------------------------------------
 
@@ -3916,21 +3903,14 @@ Amended(19) by Proposal 7620 (omd), 24 January 2014
 
 ----------------------------------------------------------------------
 
-Rule 2231/3 (Power=3)
+Rule 2231/4 (Power=3)
 Order of the Hero of Agora Nomic
 
-      The set of patent titles defined in this rule constitute the
-      Order of the Hero of Agora Nomic; the titles may be collectively
-      referred to as "Heroic titles" and a Bearer of a Heroic title as
-      a Hero.
-
-      Heroic titles are Agora's premier titles of distinction, and CAN
-      be awarded to persons for meritorious service only by a proposal
-      of power 3 or greater, which SHOULD explain why those persons
-      are qualified.  Players SHOULD NOT cause heroic titles to be
-      revoked.  Heroes are entitled to use the abbreviation of eir
-      title as post-nomial letters in Agora communications and
-      reports.
+      Heroic titles are Agora's premier patent titles of distinction,
+      and CAN be awarded to persons for meritorious service only by a
+      proposal of power 3 or greater, which SHOULD explain why those
+      persons are qualified.  Bearers of heroic titles (Heros)
+      constitute the Order of the Hero of Agora Nomic.
 
       The Heroic titles in decreasing precedence are:
 
@@ -3950,6 +3930,7 @@ Amended(1) by cleaning (Murphy), 16 August 2009
 Amended(2) by Proposal 6571 (ais523), 28 November 2009
 Power changed from 2 to 3 by Proposal 6626 (Murphy), 20 February 2010
 Amended(3) by Proposal 6626 (Murphy), 20 February 2010
+Amended(4) by Proposal 7621 (G.), 23 February 2014
 
 ----------------------------------------------------------------------
 
