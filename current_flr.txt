@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last updated: 7 April 2014
+Last updated: 13 April 2014
 
-Last proposal with recorded effect on this ruleset: 7629
-Last change to this ruleset: by Proposal 7629
+Last proposal with recorded effect on this ruleset: 7631
+Last change to this ruleset: by Proposal 7631
 
 Last ratification: Short Logical Ruleset of 27 July 2013
 Last ratification date: 24 August 2013
@@ -2308,13 +2308,15 @@ Party Politics
       group.
 ----------------------------------------------------------------------
 
-Rule 103/17 (Power=2)
+Rule 103/18 (Power=2)
 The Speaker
 
       The Speaker is an elected office and a figurehead of Agora. The
       Speaker SHOULD be a person who has proven themselves to be
       worthy of the title, and for a time can direct Agoran government
-      affairs.
+      affairs.  The holder of the office of Speaker has voting
+      strength one greater than e would have if e did not hold the
+      office.
 
 History:
 Initial Immutable Rule 103, Jun. 30 1993
@@ -2342,6 +2344,7 @@ Amended(14) by Proposal 7375 (G.), 20 April 2013
 Amended(15) by Proposal 7465 (Walker) 17 June 2013
 Amended(16) by Proposal 7486 (scshunt), 9 July 2013
 Amended(17) by Proposal 7610 (G.), 22 December 2013
+Amended(18) by Proposal 7631 (scshunt), 14 April 2014
 
 ----------------------------------------------------------------------
 
