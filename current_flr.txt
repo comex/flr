@@ -243,7 +243,7 @@ Mother, May I?
       2. MUST NOT, MAY NOT, SHALL NOT, ILLEGAL, PROHIBITED: Performing
          the described action violates the rule in question.
 
-      3. NEED NOT, OPTIONAL:  Failing to perform the  described action
+      3. NEED NOT, OPTIONAL:  Failing to perform the described action
          does not violate the rules.
 
       4. SHOULD NOT, DISCOURAGED, DEPRECATED:  Before performing the
@@ -657,7 +657,7 @@ Rule Changes
           of it.
 
       (c) reenact a rule.  A repealed rule identified by its most
-          recent  rule number may be reenacted with the same ID number
+          recent rule number may be reenacted with the same ID number
           and the next change identifier.  If no text is specified,
           the rule is reenacted with the same text it had when it was
           most recently repealed.  If the reenacting proposal provides
@@ -2479,7 +2479,7 @@ Amended(17) by Proposal 7629 (scshunt), 7 April 2014
 Rule 683/18 (Power=3)
 Voting on Agoran Decisions
 
-      An entity submits  a ballot on an Agoran decision by publishing
+      An entity submits a ballot on an Agoran decision by publishing
       a valid notice indicating which one of the available options e
       selects.  To be valid, the ballot must satisfy the following
       conditions:
@@ -2745,7 +2745,7 @@ Rule 879/30 (Power=2)
 Quorum
 
       Quorum for an Agoran Decision is equal to the number of
-      currently active  players who voted on the most recently
+      currently active players who voted on the most recently
       resolved Agoran Decision to adopt a proposal, minus 3.
 
 [CFJ 1562 (called 3 May 2005): A cancelled vote on a Proposal does not
@@ -3452,7 +3452,7 @@ Judicial Retraction and Excess
       An excess case is a new case whose initiator previously
       initiated five or more cases during the same week as that case.
       A person SHALL NOT initiate an excess case.  The Arbitor CAN
-      refuse an excess case by  announcement, thus causing it to cease
+      refuse an excess case by announcement, thus causing it to cease
       to be a judicial case.  When e does so, e fulfills any
       obligations with regards to that case.
 
