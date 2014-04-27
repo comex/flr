@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last updated: 13 April 2014
+Last updated: 26 April 2014
 
 Last proposal with recorded effect on this ruleset: 7631
 Last change to this ruleset: by Proposal 7631
@@ -10,9 +10,10 @@ Last ratification date: 24 August 2013
 
 Highest Rule ID number ever assigned: 2422
 
-Online version:
+Online documents:
   http://agora.qoid.us/current_flr.txt (FLR)
   http://agora.qoid.us/current_slr.txt (SLR)
+  http://agora.qoid.us/current_flr.txt,v (RCS history from 2001-)
 
 ----------------------------------------------------------------------
 
