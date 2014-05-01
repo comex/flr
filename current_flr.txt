@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last updated: 26 April 2014
+Last updated: 1 May 2014
 
-Last proposal with recorded effect on this ruleset: 7631
-Last change to this ruleset: by Proposal 7631
+Last proposal with recorded effect on this ruleset: 7632
+Last change to this ruleset: by Proposal 7632
 
 Last ratification: Short Logical Ruleset of 27 July 2013
 Last ratification date: 24 August 2013
@@ -57,7 +57,7 @@ Index of Rules
       Rule  869: How to Join and Leave Agora
       Rule 2139: The Registrar
       Rule 1789: Cantus Cygneus
-      Rule 2130: Activity
+      Rule 2130: How to be Shown the Door
 
       * Economy
       Rule 2419: Winning
@@ -955,7 +955,7 @@ Amended(36) by Proposal 7619 (woggle), 24 January 2014
 
 ----------------------------------------------------------------------
 
-Rule 2139/6 (Power=2)
+Rule 2139/7 (Power=2)
 The Registrar
 
       The Registrar is an office; its holder is responsible for
@@ -966,9 +966,7 @@ The Registrar
       a) A list of all players, including information sufficient to
          identify and contact each player.
       b) The date on which each player most recently became a player.
-      c) The Activity of each player, and when each Inactive player
-         became Inactive.
-      d) For each former player for which the information is
+      c) For each former player for which the information is
          reasonably available, the dates on which e registered and
          deregistered.
 
@@ -1002,6 +1000,7 @@ Power changed from 1 to 2 by Proposal 6567 (Walker), 28 November 2009
 Amended(4) by Proposal 7141 (G.), 19 November 2011
 Amended(5) by Proposal 7416 (omd), 12 May 2013
 Amended(6) by Proposal 7586 (omd), 24 August 2013
+Amended(7) by Proposal 7632 (scshunt), 1 May 2014
 
 ----------------------------------------------------------------------
 
@@ -1047,23 +1046,11 @@ Amended(8) by Proposal 7470 (woggle; disi.), 17 June 2013
 
 ----------------------------------------------------------------------
 
-Rule 2130/13 (Power=2)
-Activity
+Rule 2130/14 (Power=2)
+How to be Shown the Door
 
-      Activity is a player switch with values Active (default) and
-      Inactive, tracked by the Registrar.  The Registrar's report
-      includes the date on which each non-Active player's activity
-      last changed.  Changes to Activity are Secured.
-
-      A player CAN flip eir activity by announcement.  "To go on hold"
-      is to become Inactive; "to come off hold" is to become Active.
-
-      A player CAN flip another player's activity to Inactive without
-      objection.
-
-      A player who has been continuously Inactive for at least three
-      months CAN be deregistered by any other player without
-      objection.  This is a passive method of deregistration.
+      If a player has not sent a message to a public forum in the last
+      month, then any player CAN deregister em without objection.
 
 History:
 Created by Proposal 4893 (Murphy), 12 February 2007
@@ -1083,6 +1070,7 @@ Amended(11) by Proposal 6666 (Murphy), 10 March 2010
 Amended by Proposal 6959 (G.), 31 January 2011
 Amended(12) by Proposal 6974 (Murphy), 30 March 2011
 Amended(13) by Proposal 6984 (Murphy), 10 April 2011
+Retitled and amended(14) by Proposal 7632 (scshunt), 1 May 2014
 
 ----------------------------------------------------------------------
 
@@ -1339,7 +1327,7 @@ Amended(4) by Proposal 7425 (Walker, G., Murphy, omd), 27 May 2013
 
 ----------------------------------------------------------------------
 
-Rule 478/31 (Power=3)
+Rule 478/32 (Power=3)
 Fora
 
       Freedom of speech being essential for the healthy functioning of
@@ -1365,8 +1353,8 @@ Fora
           the Registrar makes that forum public is sent to all
           existing public fora.
 
-      Each active player should ensure e can receive messages via each
-      public forum.
+      Each player should ensure e can receive messages via each public
+      forum.
 
       A public message is a message sent via a public forum, or sent
       to all players and containing a clear designation of intent to
@@ -1610,6 +1598,7 @@ Amended(28) by Proposal 6785 (coppro; disi.), 22 August 2010
 Amended(29) by Proposal 6963 (Murphy), 20 March 2011
 Amended(30) by Proposal 7073 (woggle), 16 June 2011
 Amended(31) by Proposal 7614 (G.), 13 January 2014
+Amended(32) by Proposal 7632 (scshunt), 1 May 2014
 
 ----------------------------------------------------------------------
 
@@ -2000,7 +1989,7 @@ Amended(10) by Proposal 7629 (scshunt), 7 April 2014
 
 ----------------------------------------------------------------------
 
-Rule 2154/42 (Power=2)
+Rule 2154/43 (Power=2)
 Election Procedure
 
       A player CAN initiate an election for a specified elected office
@@ -2018,14 +2007,14 @@ Election Procedure
 
       During the first four days of the election (the nomination
       period), any player CAN by announcement nominate one or more
-      active players.
+      players.
 
       In a timely fashion after the nomination period ends, the IADoP
       SHALL initiate an Agoran decision to determine the new
       officeholder. For this decision:
 
-       1) The valid options are the active players (hereafter the
-          candidates) who, during the election,
+       1) The valid options are the players (hereafter the candidates)
+          who, during the election,
 
             a) received and accepted a nomination for the office
                before the decision was initiated (self-nomination
@@ -2094,6 +2083,7 @@ Amended(39) by Proposal 7610 (G.), 22 December 2013
 Amended(40) by Proposal 7610 (G.), 22 December 2013
 Amended(41) by Proposal 7610 (G.), 22 December 2013
 Amended(42) by Proposal 7629 (scshunt), 7 April 2014
+Amended(43) by Proposal 7632 (scshunt), 1 May 2014
 
 ----------------------------------------------------------------------
 
@@ -2477,7 +2467,7 @@ Amended(17) by Proposal 7629 (scshunt), 7 April 2014
 
 ----------------------------------------------------------------------
 
-Rule 683/18 (Power=3)
+Rule 683/19 (Power=3)
 Voting on Agoran Decisions
 
       An entity submits a ballot on an Agoran decision by publishing
@@ -2489,7 +2479,7 @@ Voting on Agoran Decisions
           decision.
 
       (b) The entity casting the ballot (the voter) was, at the
-          initiation of the decision, an active player.
+          initiation of the decision, an player.
 
       (c) The ballot clearly identifies the matter to be decided.
 
@@ -2537,6 +2527,7 @@ Amended(15) by Proposal 6378 (Murphy), 3 July 2009
 Amended(16) by Proposal 7032 (omd), 16 May 2011
 Amended(17) by Proposal 7077 (omd), 16 June 2011
 Amended(18) by Proposal 7629 (scshunt), 7 April 2014
+Amended(19) by Proposal 7632 (scshunt), 1 May 2014
 
 ----------------------------------------------------------------------
 
@@ -2742,12 +2733,12 @@ Amended(18) by Proposal 7238 (omd), 10 June 2012
 
 ----------------------------------------------------------------------
 
-Rule 879/30 (Power=2)
+Rule 879/31 (Power=2)
 Quorum
 
       Quorum for an Agoran Decision is equal to the number of
-      currently active players who voted on the most recently
-      resolved Agoran Decision to adopt a proposal, minus 3.
+      currently players who voted on the most recently resolved Agoran
+      Decision to adopt a proposal, minus 3.
 
 [CFJ 1562 (called 3 May 2005): A cancelled vote on a Proposal does not
 count towards quorum.]
@@ -2791,6 +2782,7 @@ Amended(27) by Proposal 5445 (Goethe, Murphy), 21 February 2008
 Amended(28) by Proposal 7317 (omd), 16 October 2012
 Amended(29) by Proposal 7552 (omd), 24 August 2013
 Amended(30) by Proposal 7612 (ais523), 11 January 2014
+Amended(31) by Proposal 7632 (scshunt), 1 May 2014
 
 ----------------------------------------------------------------------
 
@@ -2985,8 +2977,8 @@ Distribution
       Promotor.
 
       If there is a Proposal in the Pool that it would otherwise be
-      IMPOSSIBLE for any active player to distribute, then any player
-      CAN distribute that Proposal Without 3 Objections.
+      IMPOSSIBLE for any player to distribute, then any player CAN
+      distribute that Proposal Without 3 Objections.
 
       The Promotor's report includes a list of all proposals in the
       Proposal Pool, along with their text and attributes.  This
