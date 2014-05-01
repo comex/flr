@@ -2,13 +2,13 @@ THE FULL LOGICAL RULESET
 
 Last updated: 1 May 2014
 
-Last proposal with recorded effect on this ruleset: 7636
-Last change to this ruleset: by Proposal 7636
+Last proposal with recorded effect on this ruleset: 7637
+Last change to this ruleset: by Proposal 7637
 
 Last ratification: Short Logical Ruleset of 27 July 2013
 Last ratification date: 24 August 2013
 
-Highest Rule ID number ever assigned: 2424
+Highest Rule ID number ever assigned: 2425
 
 Online documents:
   http://agora.qoid.us/current_flr.txt (FLR)
@@ -19,7 +19,7 @@ Online documents:
 
 Statistics
 
-Current total number of rules: 65
+Current total number of rules: 66
 
 Power distribution:
        1 with Power=4
@@ -29,7 +29,7 @@ Power distribution:
       14 with Power=2
        2 with Power=1.7
        2 with Power=1.5
-      12 with Power=1
+      13 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -64,6 +64,7 @@ Index of Rules
       Rule 2419: Winning
       Rule 2420: Score
       Rule 2421: Points Awards
+      Rule 2425: Go out and Vote
 
       * Definitions
       Rule 1023: Common Definitions
@@ -1154,6 +1155,18 @@ Points Awards
 
 History:
 Created by Proposal 7629 (scshunt), 7 April 2014
+
+----------------------------------------------------------------------
+
+Rule 2425/0 (Power=1)
+Go out and Vote
+
+      The first time in each Agoran week that a proposal is resolved
+      on which a given player voted (including PRESENT), that player
+      is awarded 5 points.
+
+History:
+Created by Proposal 7637 (scshunt), 1 May 2014
 
 ----------------------------------------------------------------------
 
