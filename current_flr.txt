@@ -2,13 +2,13 @@ THE FULL LOGICAL RULESET
 
 Last updated: 1 May 2014
 
-Last proposal with recorded effect on this ruleset: 7637
-Last change to this ruleset: by Proposal 7637
+Last proposal with recorded effect on this ruleset: 7639
+Last change to this ruleset: by Proposal 7639
 
 Last ratification: Short Logical Ruleset of 7 April 2014
 Last ratification date: 1 May 2014
 
-Highest Rule ID number ever assigned: 2425
+Highest Rule ID number ever assigned: 2427
 
 Online documents:
   http://agora.qoid.us/current_flr.txt (FLR)
@@ -19,17 +19,17 @@ Online documents:
 
 Statistics
 
-Current total number of rules: 66
+Current total number of rules: 68
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
        1 with Power=3.1
-      32 with Power=3
+      33 with Power=3
       14 with Power=2
        2 with Power=1.7
        2 with Power=1.5
-      13 with Power=1
+      14 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -112,6 +112,8 @@ Index of Rules
       Rule  591: Delivering Judgements
       Rule  911: Motions and Moots
       Rule 2175: Judicial Retraction and Excess
+      Rule 2426: Cards
+      Rule 2427: Red Cards
 
       * Patent Titles and Degrees
       Rule  649: Patent Titles
@@ -3505,6 +3507,68 @@ Amended(5) by Proposal 6445 (coppro; disi.), 27 August 2009
 Amended(6) by Proposal 6944 (omd; disi.), 16 January 2011
 Amended(7) by Proposal 7623 (G.), 23 February 2014
 Amended(8) by Proposal 7629 (scshunt), 7 April 2014
+
+----------------------------------------------------------------------
+
+Rule 2426/0 (Power=1)
+Cards
+
+      The Referee is an office; its holder is responsible for keeping
+      track of wrongdoing.
+
+      The Referee CAN issue a Card to a specified player by
+      announcement.  When issuing each Card, e SHALL cite a unique
+      violation of the rules e perceives to have occurred within the
+      last 14 days, and CANNOT issue more than three Cards per week,
+      or one per week to a single player.  The Arbitor CAN issue Black
+      Cards to the Referee solely for alleged violations of the former
+      requirement.
+
+      The following Cards exist:
+
+      - Green Card, intended for offenses which the Referee does not
+        believe warrant effective punishment.  When a Green Card is
+        issued, the Referee gains two points, and the target player is
+        ENCOURAGED to travel to the United States.
+
+      - Yellow Card, intended for less serious or justifiable
+        infractions.   When a person who has received a Yellow Card in
+        the last 7 days earns points, e only receives half as many as
+        e otherwise would, rounded up.
+
+      - Red Card, intended for more severe offenses.  The effects of a
+        Red Card are described elsewhere.
+
+      - Black Card, naming an office held by the player, intended for
+        severe abuses of power.  Within seven days after a Black Card
+        is issued, any player CAN become the holder of the target
+        office with two support; the Referee CANNOT initiate or
+        support this.
+
+      The Referee SHALL issue at least one Card per week, unless no
+      violations occurred that week.
+
+      Rules to the contrary notwithstanding, the Referee does not gain
+      weekly points for holding the office.
+
+History:
+Created by Proposal 7639 (omd), 1 May 2014
+
+----------------------------------------------------------------------
+
+Rule 2427/0 (Power=3)
+Red Cards
+
+      After a Red Card has been issued to a player, e SHOULD publish a
+      formal apology of at least 200 words, including all the
+      prescribed words, explaining eir error, shame, remorse, and
+      ardent desire for self-improvement; other effects are described
+      elsewhere.  Until e does so or 30 days have passed, e CANNOT
+      cast votes other than PRESENT, rules to the contrary
+      notwithstanding.
+
+History:
+Created by Proposal 7639 (omd), 1 May 2014
 
 ----------------------------------------------------------------------
 
