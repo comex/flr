@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 1 May 2014
 
-Last proposal with recorded effect on this ruleset: 7635
-Last change to this ruleset: by Proposal 7635
+Last proposal with recorded effect on this ruleset: 7636
+Last change to this ruleset: by Proposal 7636
 
 Last ratification: Short Logical Ruleset of 27 July 2013
 Last ratification date: 24 August 2013
@@ -1098,21 +1098,20 @@ Economy
       A category concerning asset-based gameplay.
 ----------------------------------------------------------------------
 
-Rule 2419/3 (Power=2)
+Rule 2419/4 (Power=2)
 Winning
 
       If any player has a score of at least 250, then any player who
-      has at least as much score as any other player can make an
-      announcement naming all players with the highest score and
-      indicating that they have won Agora.
+      has  at least as much score as any other player CAN claim
+      victory by announcement, naming all players with the highest
+      score.
 
-      Upon such an announcement, if it is true, then all such players
-      win the game and a new game begins. All players' scores are
-      reset to default. The beginning of a new game does not cause any
-      changes to the game state not specified by the rules; in
-      particular, Agora does not end and the ruleset remains
-      unchanged. The Herald is then authorized to award those players
-      the Patent Title of Champion.
+      When this occurs, all those players win the game and a new game
+      begins.  All players' scores are reset to default. The beginning
+      of a new game does not cause any changes to the game state not
+      specified by the rules; in particular, Agora does not end and
+      the ruleset remains unchanged. The Herald is then authorized to
+      award those players the Patent Title of Champion.
 
 History:
 Created by Proposal 7609 (G.), 13 December 2013
@@ -1120,6 +1119,7 @@ Amended(1) by Proposal 7617 (G.), 16 January 2014
 Amended(2) by Proposal 7626 (omd), 23 February 2014
 Amended(3) by Proposal 7629 (scshunt), 7 April 2014
 Power changed from 1 to 2 by Proposal 7629 (scshunt), 7 April 2014
+Amended(4) by Proposal 7636 (scshunt), 1 May 2014
 
 ----------------------------------------------------------------------
 
