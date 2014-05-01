@@ -2,13 +2,13 @@ THE FULL LOGICAL RULESET
 
 Last updated: 1 May 2014
 
-Last proposal with recorded effect on this ruleset: 7632
-Last change to this ruleset: by Proposal 7632
+Last proposal with recorded effect on this ruleset: 7633
+Last change to this ruleset: by Proposal 7633
 
 Last ratification: Short Logical Ruleset of 27 July 2013
 Last ratification date: 24 August 2013
 
-Highest Rule ID number ever assigned: 2422
+Highest Rule ID number ever assigned: 2423
 
 Online documents:
   http://agora.qoid.us/current_flr.txt (FLR)
@@ -19,14 +19,14 @@ Online documents:
 
 Statistics
 
-Current total number of rules: 63
+Current total number of rules: 64
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
        1 with Power=3.1
       32 with Power=3
-      13 with Power=2
+      14 with Power=2
        2 with Power=1.7
        2 with Power=1.5
       11 with Power=1
@@ -82,9 +82,8 @@ Index of Rules
       Rule 1551: Ratification
       Rule 2202: Ratification Without Objection
       Rule 2201: Self-Ratification
-
-      * Party Politics
       Rule  103: The Speaker
+      Rule 2423: First Among Equals
 
       * Agoran Decisions
       Rule  693: Agoran Decisions
@@ -2293,19 +2292,14 @@ Amended(6) by Proposal 7420 (omd), 27 May 2013
 
 ----------------------------------------------------------------------
 
-======================================================================
-Party Politics
-      A category concerning means for players to ally themselves as a
-      group.
-----------------------------------------------------------------------
-
-Rule 103/18 (Power=2)
+Rule 103/19 (Power=2)
 The Speaker
 
-      The Speaker is an elected office and a figurehead of Agora. The
-      Speaker SHOULD be a person who has proven themselves to be
-      worthy of the title, and for a time can direct Agoran government
-      affairs.  The holder of the office of Speaker has voting
+      The Speaker is an imposed office and the figurehead leader of
+      Agora. The office of Speaker is held by the player to have most
+      recently won Agora.
+
+      For an election of the Prime Minister, the Speaker has voting
       strength one greater than e would have if e did not hold the
       office.
 
@@ -2336,6 +2330,24 @@ Amended(15) by Proposal 7465 (Walker) 17 June 2013
 Amended(16) by Proposal 7486 (scshunt), 9 July 2013
 Amended(17) by Proposal 7610 (G.), 22 December 2013
 Amended(18) by Proposal 7631 (scshunt), 14 April 2014
+Amended(19) by Proposal 7633 (scshunt), 1 May 2014
+
+----------------------------------------------------------------------
+
+Rule 2423/0 (Power=2)
+First Among Equals
+
+      The Prime Minister is an office. The Prime Minister is elected
+      by the players of Agora primarily on account of not being the
+      other guy. The Prime Minister SHOULD ensure that Agoran affairs
+      proceed smoothly.
+
+      The holder of the office of Prime Minister has voting strength
+      one greater than e would have if e did not hold the office. This
+      does not apply in respect of an election of the Prime Minister.
+
+History:
+Created by Proposal 7633 (scshunt), 1 May 2014
 
 ----------------------------------------------------------------------
 
