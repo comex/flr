@@ -2,13 +2,13 @@ THE FULL LOGICAL RULESET
 
 Last updated: 1 May 2014
 
-Last proposal with recorded effect on this ruleset: 7633
-Last change to this ruleset: by Proposal 7633
+Last proposal with recorded effect on this ruleset: 7635
+Last change to this ruleset: by Proposal 7635
 
 Last ratification: Short Logical Ruleset of 27 July 2013
 Last ratification date: 24 August 2013
 
-Highest Rule ID number ever assigned: 2423
+Highest Rule ID number ever assigned: 2424
 
 Online documents:
   http://agora.qoid.us/current_flr.txt (FLR)
@@ -19,7 +19,7 @@ Online documents:
 
 Statistics
 
-Current total number of rules: 64
+Current total number of rules: 65
 
 Power distribution:
        1 with Power=4
@@ -29,7 +29,7 @@ Power distribution:
       14 with Power=2
        2 with Power=1.7
        2 with Power=1.5
-      11 with Power=1
+      12 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -58,6 +58,7 @@ Index of Rules
       Rule 2139: The Registrar
       Rule 1789: Cantus Cygneus
       Rule 2130: How to be Shown the Door
+      Rule 2424: Recruitment Bonus
 
       * Economy
       Rule 2419: Winning
@@ -1070,6 +1071,25 @@ Amended by Proposal 6959 (G.), 31 January 2011
 Amended(12) by Proposal 6974 (Murphy), 30 March 2011
 Amended(13) by Proposal 6984 (Murphy), 10 April 2011
 Retitled and amended(14) by Proposal 7632 (scshunt), 1 May 2014
+
+----------------------------------------------------------------------
+
+Rule 2424/0 (Power=1)
+Recruitment Bonus
+
+      If, during the first week after a player registers, that player
+      reasonably clearly indicates a unique player responsible for eir
+      registration, then the responsible player is referred to as eir
+      mentor.
+
+      If, during the first month after e registers, a player votes
+      (including PRESENT) on at least half of the proposals whose
+      voting periods fall entirely within that month and submits at
+      least two proposals, then e is awarded 20 points and eir mentor,
+      if any, is awarded 40 points.
+
+History:
+Created by Proposal 7635 (scshunt), 1 May 2014
 
 ----------------------------------------------------------------------
 
