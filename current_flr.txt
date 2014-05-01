@@ -5,8 +5,8 @@ Last updated: 1 May 2014
 Last proposal with recorded effect on this ruleset: 7637
 Last change to this ruleset: by Proposal 7637
 
-Last ratification: Short Logical Ruleset of 27 July 2013
-Last ratification date: 24 August 2013
+Last ratification: Short Logical Ruleset of 7 April 2014
+Last ratification date: 1 May 2014
 
 Highest Rule ID number ever assigned: 2425
 
