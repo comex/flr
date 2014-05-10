@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last updated: 1 May 2014
+Last updated: 9 May 2014
 
 Last proposal with recorded effect on this ruleset: 7639
 Last change to this ruleset: by Proposal 7639
@@ -640,7 +640,7 @@ Amended(1) by Proposal 6429 (Murphy), 18 August 2009
 
 ----------------------------------------------------------------------
 
-Rule 105/8 (Power=3)
+Rule 105/9 (Power=3)
 Rule Changes
 
       Where permitted by other rules, an instrument generally can,
@@ -756,6 +756,7 @@ Amended(5) by Proposal 6741 (comex; disi.), 1 July 2010
 Amended(6) by Proposal 7433 (Walker), 27 May 2013
 Amended(7) by Proposal 7607 (OscarMeyr), 13 December 2013
 Amended(8) by Proposal 7614 (G.), 13 January 2014
+Amended(9) by SLR ratification (Proposal 7638; omd), 1 May 2014
 
 ----------------------------------------------------------------------
 
