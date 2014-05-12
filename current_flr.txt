@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last updated: 9 May 2014
+Last updated: 12 May 2014
 
-Last proposal with recorded effect on this ruleset: 7639
-Last change to this ruleset: by Proposal 7639
+Last proposal with recorded effect on this ruleset: 7641
+Last change to this ruleset: by Proposal 7641
 
 Last ratification: Short Logical Ruleset of 7 April 2014
 Last ratification date: 1 May 2014
@@ -1179,7 +1179,7 @@ Definitions
       widely used and do not readily fall into any other category.
 ----------------------------------------------------------------------
 
-Rule 1023/31 (Power=2)
+Rule 1023/32 (Power=2)
 Common Definitions
 
       The following terms are defined:
@@ -1224,6 +1224,18 @@ Common Definitions
           indefinitely between values, then the value is considered to
           be Indeterminate, otherwise it is Determinate.
 
+      (d) Two points in time are within a month of each other if:
+
+          (1) they occur in the same Agoran month;
+
+          (2) they occur in two consecutive Agoran months, and the
+              later of the two occurs in an earlier day in the month
+              than the earlier one;
+
+          (3) they occur in two consecutive Agoran months on the same
+              day of the month, and the later of the two occurs at the
+              same or earlier time of day.
+
 History:
 Created by Proposal 805, ca. Jan. or Feb. 1994
 Amended by Proposal 907, ca. Apr. or May 1994
@@ -1262,6 +1274,7 @@ Amended(28) by Proposal 7045 (Walker), 16 May 2011
 Amended(29) by Proposal 7289 (G.), 9 September 2012
 Amended(30) by Proposal 7420 (omd), 27 May 2013
 Amended(31) by Proposal 7606 (G.), 13 December 2013
+Amended(32) by Proposal 7641 (scshunt), 12 May 2014
 
 ----------------------------------------------------------------------
 
