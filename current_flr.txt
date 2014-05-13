@@ -133,16 +133,10 @@ Rules are listed as follows.  "nnnn" is the rule's ID number, loosely
 regulated by Rule 2141; ID numbers are assigned in increasing order
 and are never reused.  "r" is the rule's revision number, not defined
 by the rules; any amendment (but not retitling or mutation) increases
-this number.  History entries are required by Rule 1681; an ellipsis
-(...) indicates that the history is incomplete.
+this number.
 
 Rule nnnn/r (Power=p)
 Title of Rule
-
-      Text of rule.
-
-History:
-List of changes to the rule.
 
 Annotations in square brackets are unofficial and have no legal force.
 They are added at the Rulekeepor's discrection.
