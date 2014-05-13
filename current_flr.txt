@@ -145,9 +145,6 @@ They are added at the Rulekeepor's discrection.
 
 ======================================================================
 The Game of Agora
-      A category concerning this nomic generally, constitutional
-      matters, and relationships between the most fundamental nomic
-      entities.
 ----------------------------------------------------------------------
 
 Rule 101/16 (Power=3)
@@ -385,8 +382,6 @@ Mutated from MI=Unanimity to MI=3 by Proposal 1482, Mar. 15 1995
 
 ======================================================================
 Rules
-      A category concerning the rules of the game, including the
-      processes of changing the rules.
 ----------------------------------------------------------------------
 
 Rule 2141/8 (Power=3)
@@ -869,9 +864,6 @@ Amended(1) by Proposal 6995 (omd, harvel), 10 April 2011
 
 ======================================================================
 Players
-      A category concerning players, including the processes of
-      becoming and ceasing to be players, and game-relevant aspects of
-      players.
 ----------------------------------------------------------------------
 
 Rule 869/36 (Power=3)
@@ -1093,7 +1085,6 @@ Created by Proposal 7635 (scshunt), 1 May 2014
 
 ======================================================================
 Economy
-      A category concerning asset-based gameplay.
 ----------------------------------------------------------------------
 
 Rule 2419/4 (Power=2)
@@ -1169,8 +1160,6 @@ Created by Proposal 7637 (scshunt), 1 May 2014
 
 ======================================================================
 Definitions
-      A category of definitions of terms and procedures that are
-      widely used and do not readily fall into any other category.
 ----------------------------------------------------------------------
 
 Rule 1023/32 (Power=2)
@@ -1807,8 +1796,6 @@ Amended(17) by Proposal 7610 (G.), 22 December 2013
 
 ======================================================================
 Offices
-      A category concerning administrative positions held by persons
-      within the game.
 ----------------------------------------------------------------------
 
 Rule 1006/37 (Power=2)
@@ -2396,8 +2383,6 @@ Created by Proposal 7633 (scshunt), 1 May 2014
 
 ======================================================================
 Agoran Decisions
-      A category concerning the means by which this nomic makes
-      collective decisions.
 ----------------------------------------------------------------------
 
 Rule 693/14 (Power=3)
@@ -2867,8 +2852,6 @@ Amended(8) by Proposal 7585 (omd), 24 August 2013
 
 ======================================================================
 Proposals
-      A category concerning the primary and plenipotent system by
-      which changes are made to the game.
 ----------------------------------------------------------------------
 
 Rule 2350/6 (Power=3)
@@ -3227,8 +3210,6 @@ Amended(4) by Proposal 7628 (ais523), 7 April 2014
 
 ======================================================================
 Adjudication
-      A category concerning the judicial system by which matters of
-      controversy are resolved.
 ----------------------------------------------------------------------
 
 Rule 991/14 (Power=2)
@@ -3582,7 +3563,6 @@ Created by Proposal 7639 (omd), 1 May 2014
 
 ======================================================================
 Patent Titles and Degrees
-      A category concerning titles of honor and dishonor.
 ----------------------------------------------------------------------
 
 Rule 649/36 (Power=1.5)
@@ -3769,7 +3749,6 @@ Created by Proposal 7516 (G.), 19 July 2013
 
 ======================================================================
 Trophies
-      A category concerning commemoration and symbolism.
 ----------------------------------------------------------------------
 
 Rule 1727/18 (Power=1)
