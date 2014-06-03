@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 3 June 2014
 
-Last proposal with recorded effect on this ruleset: 7653
-Last change to this ruleset: by Proposal 7653
+Last proposal with recorded effect on this ruleset: 7654
+Last change to this ruleset: by Proposal 7654
 
 Last ratification: Short Logical Ruleset of 7 April 2014
 Last ratification date: 1 May 2014
@@ -2036,7 +2036,7 @@ Amended(11) by Proposal 7651 (scshunt), 3 June 2014
 
 ----------------------------------------------------------------------
 
-Rule 2154/44 (Power=2)
+Rule 2154/45 (Power=2)
 Election Procedure
 
       A player CAN initiate an election for a specified elected office
@@ -2048,40 +2048,12 @@ Election Procedure
 
       b) with 4 Supporters, otherwise.
 
-      When an election is initiated, the current holder of the office
-      (if any) is initially considered to have been nominated and have
-      accepted.
-
-      During the first four days of the election (the nomination
-      period), any player CAN by announcement nominate one or more
-      players.
-
       After the nomination period ends, the IADoP CAN once initiate an
       Agoran decision to determine the new officeholder, and SHALL do
-      so in a timely fashion. For this decision:
-
-       1) The valid options are the players (hereafter the candidates)
-          who, during the election,
-
-            a) received and accepted a nomination for the office
-               before the decision was initiated (self-nomination
-               constitutes acceptance), and
-
-            b) did not decline a nomination for the office.
-
-          The set of candidates can change after the decision is
-          initiated.
-
-       3) If there are no valid options for the Decision, the IADoP
-          SHALL, in place of initiating the decision, announce this
-          fact, ending the election.  If there is exactly one valid
-          option for the Decision, the IADoP SHALL, in place of
-          initiating the Decision, announce the valid option (the
-          candidate), thus installing that candidate into the office
-          and ending the election.
-
-      Upon the resolution of this decision, its outcome (if a
-      candidate) is installed into the office, and the election ends.
+      so in a timely fashion.  For this decision, the valid options
+      are the players. Upon the resolution of this decision, its
+      outcome, if a player, is installed into office, and the election
+      ends.
 
 History:
 Created by Proposal 5059 (Zefram, Goethe), 9 July 2007
@@ -2132,6 +2104,7 @@ Amended(41) by Proposal 7610 (G.), 22 December 2013
 Amended(42) by Proposal 7629 (scshunt), 7 April 2014
 Amended(43) by Proposal 7632 (scshunt), 1 May 2014
 Amended(44) by Proposal 7645 (omd), 3 June 2014
+Amended(45) by Proposal 7654 (scshunt), 3 June 2014
 
 ----------------------------------------------------------------------
 
