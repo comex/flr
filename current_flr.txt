@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 3 June 2014
 
-Last proposal with recorded effect on this ruleset: 7658
-Last change to this ruleset: by Proposal 7658
+Last proposal with recorded effect on this ruleset: 7659
+Last change to this ruleset: by Proposal 7659
 
 Last ratification: Short Logical Ruleset of 7 April 2014
 Last ratification date: 1 May 2014
@@ -1151,7 +1151,7 @@ Amended(1) by Proposal 7656 (scshunt), 3 June 2014
 
 ----------------------------------------------------------------------
 
-Rule 2421/1 (Power=1)
+Rule 2421/2 (Power=1)
 Points Awards
 
       Whenever a proposal is adopted, its author and co-authors (if
@@ -1162,9 +1162,21 @@ Points Awards
       At the beginning of each Agoran week, the holder of each office
       is awarded 10 points.
 
+      The Purse of an Agoran decision to adopt a proposal is a number
+      of Points equal to 10 times the quorum on the decision, plus 10.
+      A Punter on such a decision is any player who cast a valid,
+      unretracted, unconditional ballot on the decision.
+
+      If the result of a decision is ADOPTED, the Purse is split as
+      evenly as possible (rounding down) among all punters who voted
+      AGAINST it.  If the result of the decision is REJECTED, the
+      Purse is split as evenly as possible (rounding down) among all
+      punters who voted FOR it.
+
 History:
 Created by Proposal 7629 (scshunt), 7 April 2014
 Amended(1) by Proposal 7655 (scshunt), 3 June 2014
+Amended(2) by Proposal 7659 (G.), 3 June 2014
 
 ----------------------------------------------------------------------
 
