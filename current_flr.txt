@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 3 June 2014
 
-Last proposal with recorded effect on this ruleset: 7654
-Last change to this ruleset: by Proposal 7654
+Last proposal with recorded effect on this ruleset: 7655
+Last change to this ruleset: by Proposal 7655
 
 Last ratification: Short Logical Ruleset of 7 April 2014
 Last ratification date: 1 May 2014
@@ -1149,19 +1149,20 @@ Created by Proposal 7629 (scshunt), 7 April 2014
 
 ----------------------------------------------------------------------
 
-Rule 2421/0 (Power=1)
+Rule 2421/1 (Power=1)
 Points Awards
 
-      Whenever a proposal is adopted, its author earns a number of
-      points equal to its adoption index, rounded down. A given player
-      cannot earn more than 15 points this way in a single Agoran
-      week.
+      Whenever a proposal is adopted, its author and co-authors (if
+      any) earns a number of points equal to its adoption index,
+      rounded down. A given player cannot earn more than 15 points
+      this way in a single Agoran week.
 
       At the beginning of each Agoran week, the holder of each office
       is awarded 10 points.
 
 History:
 Created by Proposal 7629 (scshunt), 7 April 2014
+Amended(1) by Proposal 7655 (scshunt), 3 June 2014
 
 ----------------------------------------------------------------------
 
