@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 3 June 2014
 
-Last proposal with recorded effect on this ruleset: 7648
-Last change to this ruleset: by Proposal 7648
+Last proposal with recorded effect on this ruleset: 7650
+Last change to this ruleset: by Proposal 7650
 
 Last ratification: Short Logical Ruleset of 7 April 2014
 Last ratification date: 1 May 2014
@@ -2340,12 +2340,20 @@ Amended(6) by Proposal 7420 (omd), 27 May 2013
 
 ----------------------------------------------------------------------
 
-Rule 103/19 (Power=2)
+Rule 103/20 (Power=2)
 The Speaker
 
       The Speaker is an imposed office and the figurehead leader of
-      Agora. The office of Speaker is held by the player to have most
-      recently won Agora.
+      Agora.
+
+      The player or players who have most recently won the game are
+      called Laureled. If at any time the office of Speaker is vacant,
+      or when one or more players win Agora, then the Prime Minister
+      CAN and SHALL, once and in a timely fashion, appoint a Laureled
+      player to the office of Speaker.
+
+      If the Prime Minister becomes the Speaker, e ceases to hold the
+      position of Prime Minister.
 
       For an election of the Prime Minister, the Speaker has voting
       strength one greater than e would have if e did not hold the
@@ -2379,6 +2387,7 @@ Amended(16) by Proposal 7486 (scshunt), 9 July 2013
 Amended(17) by Proposal 7610 (G.), 22 December 2013
 Amended(18) by Proposal 7631 (scshunt), 14 April 2014
 Amended(19) by Proposal 7633 (scshunt), 1 May 2014
+Amended(20) by Proposal 7650 (scshunt, G.), 3 June 2014
 
 ----------------------------------------------------------------------
 
