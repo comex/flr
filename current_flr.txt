@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 3 June 2014
 
-Last proposal with recorded effect on this ruleset: 7668
-Last change to this ruleset: by Proposal 7668
+Last proposal with recorded effect on this ruleset: 7649
+Last change to this ruleset: by Proposal 7649
 
 Last ratification: Short Logical Ruleset of 7 April 2014
 Last ratification date: 1 May 2014
@@ -1403,7 +1403,7 @@ Amended(13) by Proposal 7647 (omd), 3 June 2014
 
 ----------------------------------------------------------------------
 
-Rule 2162/4 (Power=2)
+Rule 2162/5 (Power=2)
 Switches
 
       A type of switch is a property that the rules define as a
@@ -1419,7 +1419,9 @@ Switches
       c) Optionally, exactly one office whose holder tracks instances
          of that switch.  That officer's report includes the value of
          each instance of that switch whose value is not its default
-         value.
+         value; a public document purporting to be this portion of
+         that officer's report is self-ratifying, and implies that
+         other instances are at their default value.
 
       At any given time, each instance of a switch has exactly one
       possible value for that type of switch.  If an instance of a
@@ -1452,6 +1454,7 @@ Amended(1) by Proposal 5271 (Murphy), 7 November 2007
 Amended(2) by Proposal 7247 (omd), 10 June 2012
 Amended(3) by Proposal 7289 (G.), 9 September 2012
 Amended(4) by Proposal 7425 (Walker, G., Murphy, omd), 27 May 2013
+Amended(5) by Proposal 7649 (omd), 3 June 2014
 
 ----------------------------------------------------------------------
 
@@ -2192,7 +2195,7 @@ Amended(46) by Proposal 7658 (scshunt), 3 June 2014
 
 ----------------------------------------------------------------------
 
-Rule 2138/19 (Power=1)
+Rule 2138/20 (Power=1)
 The Interstellar Associate Director of Personnel
 
       The Interstellar Associate Director of Personnel (IADoP) is an
@@ -2204,9 +2207,6 @@ The Interstellar Associate Director of Personnel
          Officeholder.
       b) The date on which the most recent election for each office
          was initiated.
-
-      The portion of a public message purporting to be an IADoP's
-      report that lists the holder of each office is self-ratifying.
 
       Any player CAN, with Agoran Consent, cause this Rule to amend
       itself by replacing "Interstellar" with any other single word
@@ -2239,6 +2239,7 @@ Amended(16) by Proposal 7524 (scshunt), 19 July 2013
 Amended(17) by Proposal 7566 (Walker), 24 August 2013
 Amended(18) by Proposal 7629 (scshunt), 7 April 2014
 Amended(19) by Proposal 7663 (omd), 3 June 2014
+Amended(20) by Proposal 7649 (omd), 3 June 2014
 
 ----------------------------------------------------------------------
 
