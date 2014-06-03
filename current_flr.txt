@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 3 June 2014
 
-Last proposal with recorded effect on this ruleset: 7665
-Last change to this ruleset: by Proposal 7665
+Last proposal with recorded effect on this ruleset: 7666
+Last change to this ruleset: by Proposal 7666
 
 Last ratification: Short Logical Ruleset of 7 April 2014
 Last ratification date: 1 May 2014
@@ -1193,7 +1193,7 @@ Amended(2) by Proposal 7660 (G.), 3 June 2014
 
 ----------------------------------------------------------------------
 
-Rule 2421/2 (Power=1)
+Rule 2421/3 (Power=1)
 Points Awards
 
       Whenever a proposal is adopted, its author and co-authors (if
@@ -1201,8 +1201,10 @@ Points Awards
       rounded down. A given player cannot earn more than 15 points
       this way in a single Agoran week.
 
-      At the beginning of each Agoran week, the holder of each office
-      is awarded 10 points.
+      At the beginning of each Agoran week, each player is awarded 10
+      points for the first office e holds, 8 points for eir second
+      office, 6 points for eir third office, 4 points for eir fourth
+      office, and 2 points for every office e holds thereafter.
 
       The Purse of an Agoran decision to adopt a proposal is a number
       of Points equal to 10 times the quorum on the decision, plus 10.
@@ -1219,6 +1221,7 @@ History:
 Created by Proposal 7629 (scshunt), 7 April 2014
 Amended(1) by Proposal 7655 (scshunt), 3 June 2014
 Amended(2) by Proposal 7659 (G.), 3 June 2014
+Amended(3) by Proposal 7666 (scshunt), 3 June 2014
 
 ----------------------------------------------------------------------
 
