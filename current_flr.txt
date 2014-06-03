@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 3 June 2014
 
-Last proposal with recorded effect on this ruleset: 7651
-Last change to this ruleset: by Proposal 7651
+Last proposal with recorded effect on this ruleset: 7653
+Last change to this ruleset: by Proposal 7653
 
 Last ratification: Short Logical Ruleset of 7 April 2014
 Last ratification date: 1 May 2014
@@ -2884,7 +2884,7 @@ Amended(8) by Proposal 7585 (omd), 24 August 2013
 Proposals
 ----------------------------------------------------------------------
 
-Rule 2350/6 (Power=3)
+Rule 2350/7 (Power=3)
 Proposals
 
       A proposal is a type of entity consisting of a body of text and
@@ -2896,7 +2896,6 @@ Proposals
       * A list of co-authors (which must be persons other than the
         author).
       * An adoption index.
-      * A Chamber.
 
       Creating a proposal adds it to the Proposal Pool.  Once a
       proposal is created, none of its attributes can be changed.  The
@@ -2918,6 +2917,7 @@ Amended(3) by Proposal 7225 (omd), 10 June 2012
 Amended(4) by Proposal 7241 (omd), 10 June 2012
 Amended(5) by Proposal 7245 (omd), 10 June 2012
 Amended(6) by Proposal 7250 (omd), 10 June 2012
+Amended(7) by Proposal 7653 (scshunt), 3 June 2014
 
 [CFJ 1647 (called 30 April 2007): Preceding a proposal-like text with
 the heading "Proposal:" and a title can be sufficient to clearly
