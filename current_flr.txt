@@ -1,14 +1,14 @@
 THE FULL LOGICAL RULESET
 
-Last updated: 12 May 2014
+Last updated: 3 June 2014
 
-Last proposal with recorded effect on this ruleset: 7641
-Last change to this ruleset: by Proposal 7641
+Last proposal with recorded effect on this ruleset: 7643
+Last change to this ruleset: by Proposal 7643
 
 Last ratification: Short Logical Ruleset of 7 April 2014
 Last ratification date: 1 May 2014
 
-Highest Rule ID number ever assigned: 2427
+Highest Rule ID number ever assigned: 2428
 
 Online documents:
   http://agora.qoid.us/current_flr.txt (FLR)
@@ -19,7 +19,7 @@ Online documents:
 
 Statistics
 
-Current total number of rules: 68
+Current total number of rules: 69
 
 Power distribution:
        1 with Power=4
@@ -29,7 +29,7 @@ Power distribution:
       14 with Power=2
        2 with Power=1.7
        2 with Power=1.5
-      14 with Power=1
+      15 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -59,6 +59,7 @@ Index of Rules
       Rule 1789: Cantus Cygneus
       Rule 2130: How to be Shown the Door
       Rule 2424: Recruitment Bonus
+      Rule 2428: Mandatory Identification
 
       * Economy
       Rule 2419: Winning
@@ -1080,6 +1081,20 @@ Recruitment Bonus
 
 History:
 Created by Proposal 7635 (scshunt), 1 May 2014
+
+----------------------------------------------------------------------
+
+Rule 2428/0 (Power=1)
+Mandatory Identification
+
+      When publishing a message to the fora, the author must
+      explicitly sign eir name at the end of the message.
+
+      Failure of a person to sign eir name on eir published messages
+      in an explicit manner is the Class-2 crime of Incognito.
+
+History:
+Created by Proposal 7643 (Henri), 3 June 2014
 
 ----------------------------------------------------------------------
 
