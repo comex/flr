@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 3 June 2014
 
-Last proposal with recorded effect on this ruleset: 7659
-Last change to this ruleset: by Proposal 7659
+Last proposal with recorded effect on this ruleset: 7660
+Last change to this ruleset: by Proposal 7660
 
 Last ratification: Short Logical Ruleset of 7 April 2014
 Last ratification date: 1 May 2014
@@ -1131,7 +1131,7 @@ Amended(4) by Proposal 7636 (scshunt), 1 May 2014
 
 ----------------------------------------------------------------------
 
-Rule 2420/1 (Power=2)
+Rule 2420/2 (Power=2)
 Score
 
       Score is a player switch, with default 0 and possible values all
@@ -1145,9 +1145,16 @@ Score
 
       Score is secured at power 1.
 
+      If a Purse of a specified quantity of positive points is awarded
+      to one or more players, the total points of the purse are
+      divided and awarded to the indicated players as evenly as
+      possible (fractions rounded down) with each such player
+      receiving a minimum of one point.
+
 History:
 Created by Proposal 7629 (scshunt), 7 April 2014
 Amended(1) by Proposal 7656 (scshunt), 3 June 2014
+Amended(2) by Proposal 7660 (G.), 3 June 2014
 
 ----------------------------------------------------------------------
 
