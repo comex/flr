@@ -2,13 +2,13 @@ THE FULL LOGICAL RULESET
 
 Last updated: 3 June 2014
 
-Last proposal with recorded effect on this ruleset: 7666
-Last change to this ruleset: by Proposal 7666
+Last proposal with recorded effect on this ruleset: 7667
+Last change to this ruleset: by Proposal 7667
 
 Last ratification: Short Logical Ruleset of 7 April 2014
 Last ratification date: 1 May 2014
 
-Highest Rule ID number ever assigned: 2430
+Highest Rule ID number ever assigned: 2432
 
 Online documents:
   http://agora.qoid.us/current_flr.txt (FLR)
@@ -19,17 +19,17 @@ Online documents:
 
 Statistics
 
-Current total number of rules: 71
+Current total number of rules: 73
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
        1 with Power=3.1
-      34 with Power=3
+      35 with Power=3
       14 with Power=2
        2 with Power=1.7
        2 with Power=1.5
-      16 with Power=1
+      17 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -68,6 +68,7 @@ Index of Rules
       Rule 2420: Score
       Rule 2421: Points Awards
       Rule 2425: Go Out and Vote
+      Rule 2432: Competition Points
 
       * Definitions
       Rule 1023: Common Definitions
@@ -108,6 +109,7 @@ Index of Rules
       Rule 1607: Distribution
       Rule 1950: Decisions with Adoption Indices
       Rule 2137: The Assessor
+      Rule 2431: Proposal Competitions
       Rule 1698: Agora Is A Nomic
 
       * Adjudication
@@ -1235,6 +1237,21 @@ Go Out and Vote
 History:
 Created by Proposal 7637 (scshunt), 1 May 2014
 Retitled by Proposal 7662 (omd), 3 June 2014
+
+----------------------------------------------------------------------
+
+Rule 2432/0 (Power=1)
+Competition Points
+
+      When a Competition Proposal is adopted, its author receives 10
+      points in addition to any other points award e may get for that
+      proposal. If the proposal takes effect, e receives an additional
+      25 points and the Herald is ENCOURAGED to award em a creatively-
+      named Patent Title to recognize that e was the winner of a
+      competition.
+
+History:
+Created by Proposal 7667 (scshunt), 3 June 2014
 
 ----------------------------------------------------------------------
 
@@ -3248,6 +3265,50 @@ Amended(1) by Proposal 5078 (Zefram), 18 July 2007
 Amended(2) by Proposal 5453 (Murphy), 1 March 2008
 Assigned to Committee on Rules by Proposal 6053 (Murphy, woggle,
   ais523), 23 January 2009
+
+----------------------------------------------------------------------
+
+Rule 2431/0 (Power=3)
+Proposal Competitions
+
+      Any player CAN, with Agoran Consent, initiate a Proposal
+      Competition with a specified Objective. Only one Competition may
+      be in progress at a time. The Objective should be a
+      specification of effects of a proposal, and SHOULD NOT depend on
+      factors that could not be determined from the text of a
+      proposal.
+
+      During the Agoran Week following the initiation of a Proposal
+      Competition, any player CAN specify that a Proposal e submits is
+      a Competition Proposal. A player can only have one Competition
+      Proposal in the Proposal Pool at the time, any subsequent
+      attempt by the same player to submit a Competition Proposal is
+      INVALID unless e first withdraws the earlier one. Players are
+      ENCOURAGED to describe how their Competition Proposals fulfill
+      the Objective.
+
+      The Promotor SHALL distribute all Competition Proposals for a
+      given Competition in the same message. The Assessor SHALL
+      resolve all the Agoran Decisions to adopt the Competition
+      Proposals for a given Competition in the same message. The
+      Assessor CANNOT, rules to the contrary notwithstanding, resolve
+      an Agoran Decision to adopt a Competition Proposal if another
+      Agoran Decision to adopt a Competition Proposal in the same
+      Competition is still in its voting period.
+
+      When the Agoran decision to adopt a Competition Proposal is
+      resolved, and its outcome is ADOPTED, that Proposal does not
+      take effect unless it had the highest voting strength among
+      adopted Competition Proposals for that Competition and, rules to
+      the contrary notwithstanding, the time at which it takes effect
+      is immediately after all actions in the message in which the
+      decision is resolved.
+
+      Once all Agoran decisions to adopt Competition Proposals for a
+      given Competition have been resolved, the Competition ends.
+
+History:
+Created by Proposal 7667 (scshunt), 3 June 2014
 
 ----------------------------------------------------------------------
 
