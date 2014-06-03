@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 3 June 2014
 
-Last proposal with recorded effect on this ruleset: 7660
-Last change to this ruleset: by Proposal 7660
+Last proposal with recorded effect on this ruleset: 7662
+Last change to this ruleset: by Proposal 7662
 
 Last ratification: Short Logical Ruleset of 7 April 2014
 Last ratification date: 1 May 2014
@@ -65,7 +65,7 @@ Index of Rules
       Rule 2419: Winning
       Rule 2420: Score
       Rule 2421: Points Awards
-      Rule 2425: Go out and Vote
+      Rule 2425: Go Out and Vote
 
       * Definitions
       Rule 1023: Common Definitions
@@ -432,11 +432,11 @@ Amended(8) by Proposal 7614 (G.), 13 January 2014
 
 ----------------------------------------------------------------------
 
-Rule 217/10 (Power=3)
+Rule 217/11 (Power=3)
 Interpreting the Rules
 
       When interpreting and applying the rules, the text of the rules
-      takes precedence,   Where the text is silent, inconsistent, or
+      takes precedence.  Where the text is silent, inconsistent, or
       unclear, it is to be augmented by game custom, common sense,
       past judgements, and consideration of the best interests of the
       game.
@@ -444,10 +444,10 @@ Interpreting the Rules
       Definitions and prescriptions in the rules are only to be
       applied using direct, forward reasoning; in particular, an
       absurdity that can be concluded from the assumption that a
-      statement about rule- defined concepts is false does not
+      statement about rule-defined concepts is false does not
       constitute proof that it is true.  Definitions in lower-powered
-      Rules do not overrule common- sense interpretations or common
-      definitions of terms in higher- powered rules.
+      Rules do not overrule common-sense interpretations or common
+      definitions of terms in higher-powered rules.
 
       Rules to the contrary notwithstanding, any rule change that
       would (1) prevent a person from initiating a formal process to
@@ -541,6 +541,7 @@ Amended(7) by Proposal 7351 (G., ais523, Machiavelli), 27 March 2013
 Amended(8) by Proposal 7520 (omd), 19 July 2013
 Amended(9) by Proposal 7584 (omd), 24 August 2013
 Amended(10) by Proposal 7614 (G.), 13 January 2014
+Amended(11) by Proposal 7662 (omd), 3 June 2014
 
 ----------------------------------------------------------------------
 
@@ -1188,7 +1189,7 @@ Amended(2) by Proposal 7659 (G.), 3 June 2014
 ----------------------------------------------------------------------
 
 Rule 2425/0 (Power=1)
-Go out and Vote
+Go Out and Vote
 
       The first time in each Agoran week that a proposal is resolved
       on which a given player voted (including PRESENT), that player
@@ -1196,6 +1197,7 @@ Go out and Vote
 
 History:
 Created by Proposal 7637 (scshunt), 1 May 2014
+Retitled by Proposal 7662 (omd), 3 June 2014
 
 ----------------------------------------------------------------------
 
