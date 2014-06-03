@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 3 June 2014
 
-Last proposal with recorded effect on this ruleset: 7646
-Last change to this ruleset: by Proposal 7646
+Last proposal with recorded effect on this ruleset: 7647
+Last change to this ruleset: by Proposal 7647
 
 Last ratification: Short Logical Ruleset of 7 April 2014
 Last ratification date: 1 May 2014
@@ -630,7 +630,7 @@ Amended(1) by Proposal 6429 (Murphy), 18 August 2009
 
 ----------------------------------------------------------------------
 
-Rule 105/9 (Power=3)
+Rule 105/10 (Power=3)
 Rule Changes
 
       Where permitted by other rules, an instrument generally can,
@@ -659,11 +659,11 @@ Rule Changes
           same purpose as did the repealed version; otherwise, the
           attempt to reenact the rule is null and void.
 
-      (c) amend the text of a rule.
+      (d) amend the text of a rule.
 
-      (d) retitle a rule.
+      (e) retitle a rule.
 
-      (e) change the power of a rule.
+      (f) change the power of a rule.
 
       A rule change is any effect that falls into the above classes.
       Rule changes always occur sequentially, never simultaneously.
@@ -747,6 +747,7 @@ Amended(6) by Proposal 7433 (Walker), 27 May 2013
 Amended(7) by Proposal 7607 (OscarMeyr), 13 December 2013
 Amended(8) by Proposal 7614 (G.), 13 January 2014
 Amended(9) by SLR ratification (Proposal 7638; omd), 1 May 2014
+Amended(10) by Proposal 7647 (omd), 3 June 2014
 
 ----------------------------------------------------------------------
 
@@ -867,7 +868,7 @@ Amended(1) by Proposal 6995 (omd, harvel), 10 April 2011
 Players
 ----------------------------------------------------------------------
 
-Rule 869/36 (Power=3)
+Rule 869/37 (Power=3)
 How to Join and Leave Agora
 
       Any organism that is generally capable of freely originating and
@@ -875,7 +876,7 @@ How to Join and Leave Agora
       to the contrary notwithstanding, no other entities are persons.
 
       Citizenship is a person switch with values Unregistered
-      (default) and Registered, tracked by the registrar.  Changes to
+      (default) and Registered, tracked by the Registrar.  Changes to
       citizenship are secured.  A registered person is a Player.
 
       A person CAN (unless explicitly forbidden or prevented by the
@@ -943,6 +944,7 @@ Amended(34) by Proposal 7610 (G.), 22 December 2013
 Power changed from 2 to 3 by Proposal 7610 (G.), 22 December 2013
 Amended(35) by Proposal 7614 (G.), 13 January 2014
 Amended(36) by Proposal 7619 (woggle), 24 January 2014
+Amended(37) by Proposal 7647 (omd), 3 June 2014
 
 ----------------------------------------------------------------------
 
@@ -1278,7 +1280,7 @@ Amended(32) by Proposal 7641 (scshunt), 12 May 2014
 
 ----------------------------------------------------------------------
 
-Rule 1769/12 (Power=3)
+Rule 1769/13 (Power=3)
 Holidays
 
       The period each year from midnight GMT on the morning of 24
@@ -1286,11 +1288,10 @@ Holidays
       after 2 January is a Holiday.
 
       The week that contains the beginning of Agora's Birthday,
-      together with the following week, are a Holiday.
+      together with the following week, is a Holiday.
 
       If a person breaks a Rule by missing a deadline that occurs
-      during a Holiday, the most appropriate penalty is generally
-      DISCHARGE.
+      during a Holiday, punishment is generally not appropriate.
 
 [CFJ 1434 (called 24 January 2003): The registration of a player is an
 event for the purposes of Rule 1769.]
@@ -1320,6 +1321,7 @@ Amended(9) by Proposal 7150 (Murphy), 25 January 2012
 Amended(10) by Proposal 7151 (Murphy), 25 January 2012
 Amended(11) by Proposal 7262 (omd), 7 July 2012
 Amended(12) by Proposal 7610 (G.), 22 December 2013
+Amended(13) by Proposal 7647 (omd), 3 June 2014
 
 ----------------------------------------------------------------------
 
@@ -2525,7 +2527,7 @@ Amended(17) by Proposal 7629 (scshunt), 7 April 2014
 
 ----------------------------------------------------------------------
 
-Rule 683/19 (Power=3)
+Rule 683/20 (Power=3)
 Voting on Agoran Decisions
 
       An entity submits a ballot on an Agoran decision by publishing
@@ -2537,7 +2539,7 @@ Voting on Agoran Decisions
           decision.
 
       (b) The entity casting the ballot (the voter) was, at the
-          initiation of the decision, an player.
+          initiation of the decision, a player.
 
       (c) The ballot clearly identifies the matter to be decided.
 
@@ -2586,6 +2588,7 @@ Amended(16) by Proposal 7032 (omd), 16 May 2011
 Amended(17) by Proposal 7077 (omd), 16 June 2011
 Amended(18) by Proposal 7629 (scshunt), 7 April 2014
 Amended(19) by Proposal 7632 (scshunt), 1 May 2014
+Amended(20) by Proposal 7647 (omd), 3 June 2014
 
 ----------------------------------------------------------------------
 
@@ -2791,12 +2794,12 @@ Amended(18) by Proposal 7238 (omd), 10 June 2012
 
 ----------------------------------------------------------------------
 
-Rule 879/31 (Power=2)
+Rule 879/32 (Power=2)
 Quorum
 
-      Quorum for an Agoran Decision is equal to the number of
-      currently players who voted on the most recently resolved Agoran
-      Decision to adopt a proposal, minus 3.
+      Quorum for an Agoran Decision is equal to the number of players
+      who voted on the most recently resolved Agoran Decision to adopt
+      a proposal, minus 3.
 
 [CFJ 1562 (called 3 May 2005): A cancelled vote on a Proposal does not
 count towards quorum.]
@@ -2841,6 +2844,7 @@ Amended(28) by Proposal 7317 (omd), 16 October 2012
 Amended(29) by Proposal 7552 (omd), 24 August 2013
 Amended(30) by Proposal 7612 (ais523), 11 January 2014
 Amended(31) by Proposal 7632 (scshunt), 1 May 2014
+Amended(32) by Proposal 7647 (omd), 3 June 2014
 
 ----------------------------------------------------------------------
 
@@ -3230,7 +3234,7 @@ Amended(4) by Proposal 7628 (ais523), 7 April 2014
 Adjudication
 ----------------------------------------------------------------------
 
-Rule 991/14 (Power=2)
+Rule 991/15 (Power=2)
 Calls for Judgement
 
       Any person (the initiator) can initiate a Call for Judgement
@@ -3243,7 +3247,7 @@ Calls for Judgement
 
       The Arbitor is an office, responsible for the administration of
       justice in a manner that is fair for emself, if not for the rest
-      of Agora
+      of Agora.
 
       When a CFJ has no judge assigned, the Arbitor CAN assign any
       player to be its judge by announcement, and SHALL do so within a
@@ -3283,6 +3287,7 @@ Assigned to Committee on the Judiciary by Proposal 6053 (Murphy,
 Amended(12) by Proposal 7050 (omd), 16 May 2011
 Retitled and amended(13) by Proposal 7616 (G.), 16 January 2014
 Amended(14) by Proposal 7629 (scshunt), 7 April 2014
+Amended(15) by Proposal 7647 (omd), 3 June 2014
 
 ----------------------------------------------------------------------
 
@@ -3392,7 +3397,7 @@ Amended(40) by Proposal 7629 (scshunt), 7 April 2014
 
 ----------------------------------------------------------------------
 
-Rule 911/49 (Power=1.7)
+Rule 911/50 (Power=1.7)
 Motions and Moots
 
       If a CFJ (1) has a judgement that has been in effect for less
@@ -3404,11 +3409,11 @@ Motions and Moots
       the case is rendered open again.
 
       A judgement assigned to any CFJ within the past two weeks CAN be
-      entered into Moot by any Player, with 2 support, unless that
+      entered into Moot by any Player with 2 support, unless that
       judgement has already been entered into Moot.
 
       Entering a Judgement into Moot is considered to be the
-      publication of notice of intent by the Arbitor, to resolve the
+      publication of notice of intent by the Arbitor to resolve the
       Moot with Notice.  The Arbitor SHALL follow through in resolving
       the Moot.
 
@@ -3485,16 +3490,16 @@ Amended(46) by Proposal 7078 (omd), 16 June 2011
 Amended(47) by Proposal 7152 (Murphy), 25 January 2012
 Retitled and amended(48) by Proposal 7616 (G.), 16 January 2014
 Amended(49) by Proposal 7629 (scshunt), 7 April 2014
+Amended(50) by Proposal 7647 (omd), 3 June 2014
 
 ----------------------------------------------------------------------
 
-Rule 2175/8 (Power=1)
+Rule 2175/9 (Power=1)
 Judicial Retraction and Excess
 
-      A new case is a judicial case (other than an appeal case) that
-      has not had any judge assigned to it.  The initiator of a new
-      case CAN retract it by announcement, thus causing it to cease to
-      be a judicial case.
+      A new case is a judicial case that has not had any judge
+      assigned to it.  The initiator of a new case CAN retract it by
+      announcement, thus causing it to cease to be a judicial case.
 
       An excess case is a new case whose initiator previously
       initiated five or more cases during the same week as that case.
@@ -3514,6 +3519,7 @@ Amended(5) by Proposal 6445 (coppro; disi.), 27 August 2009
 Amended(6) by Proposal 6944 (omd; disi.), 16 January 2011
 Amended(7) by Proposal 7623 (G.), 23 February 2014
 Amended(8) by Proposal 7629 (scshunt), 7 April 2014
+Amended(9) by Proposal 7647 (omd), 3 June 2014
 
 ----------------------------------------------------------------------
 
@@ -3719,13 +3725,13 @@ Amended(19) by Proposal 7620 (omd), 24 January 2014
 
 ----------------------------------------------------------------------
 
-Rule 2231/4 (Power=3)
+Rule 2231/5 (Power=3)
 Order of the Hero of Agora Nomic
 
       Heroic titles are Agora's premier patent titles of distinction,
       and CAN be awarded to persons for meritorious service only by a
       proposal of power 3 or greater, which SHOULD explain why those
-      persons are qualified.  Bearers of heroic titles (Heros)
+      persons are qualified.  Bearers of heroic titles (Heroes)
       constitute the Order of the Hero of Agora Nomic.
 
       The Heroic titles in decreasing precedence are:
@@ -3747,6 +3753,7 @@ Amended(2) by Proposal 6571 (ais523), 28 November 2009
 Power changed from 2 to 3 by Proposal 6626 (Murphy), 20 February 2010
 Amended(3) by Proposal 6626 (Murphy), 20 February 2010
 Amended(4) by Proposal 7621 (G.), 23 February 2014
+Amended(5) by Proposal 7647 (omd), 3 June 2014
 
 ----------------------------------------------------------------------
 
