@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 3 June 2014
 
-Last proposal with recorded effect on this ruleset: 7647
-Last change to this ruleset: by Proposal 7647
+Last proposal with recorded effect on this ruleset: 7648
+Last change to this ruleset: by Proposal 7648
 
 Last ratification: Short Logical Ruleset of 7 April 2014
 Last ratification date: 1 May 2014
@@ -1894,7 +1894,7 @@ Amended(37) by Proposal 7629 (scshunt), 7 April 2014
 
 ----------------------------------------------------------------------
 
-Rule 2143/21 (Power=1)
+Rule 2143/22 (Power=1)
 Official Reports and Duties
 
       For each person:
@@ -1932,9 +1932,6 @@ Official Reports and Duties
       reports on the World Wide Web, and they SHOULD publish the
       address of this copy along with their published reports.
 
-      If an officer maintains an online copy of eir report, then e
-      SHALL publish the URI of this copy along with each report.
-
 [CFJ 2392 (called 27 February 2009): Publishing an intentionally
 incomplete report does not satisfy this rule's requirement to publish
 a report.]
@@ -1965,6 +1962,7 @@ Amended(18) by Proposal 7544 (Machiavelli), 30 July 2013
 Amended(19) by Proposal 7563 (omd), 24 August 2013
 Amended(20) by Proposal 7599 (Walker), 14 September 2013
 Amended(21) by Proposal 7606 (G.), 13 December 2013
+Amended(22) by Proposal 7648 (omd), 3 June 2014
 
 ----------------------------------------------------------------------
 
