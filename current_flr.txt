@@ -1131,7 +1131,7 @@ Amended(4) by Proposal 7636 (scshunt), 1 May 2014
 
 ----------------------------------------------------------------------
 
-Rule 2420/0 (Power=2)
+Rule 2420/1 (Power=2)
 Score
 
       Score is a player switch, with default 0 and possible values all
@@ -1140,12 +1140,14 @@ Score
       The Scorekeepor is an office and the recordkeeper of score.
 
       To award a player a number of points is to increase their score
-      by that number.
+      by that number, rounded down. If this would result in em having
+      a negative number of points, instead eir score is set to 0
 
       Score is secured at power 1.
 
 History:
 Created by Proposal 7629 (scshunt), 7 April 2014
+Amended(1) by Proposal 7656 (scshunt), 3 June 2014
 
 ----------------------------------------------------------------------
 
