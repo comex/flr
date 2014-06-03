@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 3 June 2014
 
-Last proposal with recorded effect on this ruleset: 7667
-Last change to this ruleset: by Proposal 7667
+Last proposal with recorded effect on this ruleset: 7668
+Last change to this ruleset: by Proposal 7668
 
 Last ratification: Short Logical Ruleset of 7 April 2014
 Last ratification date: 1 May 2014
@@ -1828,7 +1828,7 @@ Amended(33) by Proposal 7606 (G.), 13 December 2013
 
 ----------------------------------------------------------------------
 
-Rule 2124/17 (Power=2)
+Rule 2124/18 (Power=2)
 Agoran Satisfaction
 
       A Supporter of a dependent action is an eligible entity who has
@@ -1861,6 +1861,9 @@ Agoran Satisfaction
       and an objection to it has been withdrawn within the past 24
       hours, then Agora is not Satisfied with the intent.
 
+      The above notwithstanding, Agora is not satisfied with the
+      intent if the Speaker has objected to it in the last 48 hours.
+
       A person CANNOT support or object to an announcement of intent
       before the intent is announced, or after e has withdrawn the
       same type of response.
@@ -1888,6 +1891,7 @@ Amended(14) by Proposal 6475 (c.; disi.), 15 September 2009
 Amended(15) by Proposal 6512 (c.; disi.), 3 October 2009
 Amended(16) by cleaning (Keba), 20 August 2010
 Amended(17) by Proposal 7610 (G.), 22 December 2013
+Amended(18) by Proposal 7668 (scshunt), 3 June 2014
 
 ----------------------------------------------------------------------
 
