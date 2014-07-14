@@ -2,13 +2,13 @@ THE FULL LOGICAL RULESET
 
 Last updated: 14 July 2014
 
-Last proposal with recorded effect on this ruleset: 7676
-Last change to this ruleset: by Proposal 7676
+Last proposal with recorded effect on this ruleset: 7677
+Last change to this ruleset: by Proposal 7677
 
 Last ratification: Short Logical Ruleset of 7 April 2014
 Last ratification date: 1 May 2014
 
-Highest Rule ID number ever assigned: 2434
+Highest Rule ID number ever assigned: 2435
 
 Online documents:
   http://agora.qoid.us/current_flr.txt (FLR)
@@ -19,7 +19,7 @@ Online documents:
 
 Statistics
 
-Current total number of rules: 74
+Current total number of rules: 75
 
 Power distribution:
        1 with Power=4
@@ -29,7 +29,7 @@ Power distribution:
       14 with Power=2
        2 with Power=1.7
        2 with Power=1.5
-      18 with Power=1
+      19 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -70,6 +70,7 @@ Index of Rules
       Rule 2425: Go Out and Vote
       Rule 2432: Competition Points
       Rule 2434: GNP
+      Rule 2435: Minister for GNP Evaluation
 
       * Definitions
       Rule 1023: Common Definitions
@@ -1277,6 +1278,36 @@ GNP
 
 History:
 Created by Proposal 7676 (Henri), 12 July 2014
+
+----------------------------------------------------------------------
+
+Rule 2435/0 (Power=1)
+Minister for GNP Evaluation
+
+      The Minister for GNP Evaluation is an office; its holder is
+      responsible for keeping track of the Agoran GNP.
+
+      The Minister for GNP Evaluation’s weekly report includes:
+
+      a) The Weekly GNP values of the previous ten weeks.
+      b) The percent change of GNP between each consecutive week.
+      c) The percent change of GNP between the first week and  the
+         last week of the previous ten weeks.
+
+      The Minister for GNP Evaluation’s monthly report includes:
+
+      a) The Monthly GNP value of the previous twelve months.
+      b) The percent change of GNP between each consecutive month.
+      c) The percent change of GNP between the first and last months
+         of the previous twelve months.
+
+      The Minister for GNP Evaluation SHOULD maintain a publicly
+      visible graphical representation of the information included in
+      eir reports on the World Wide Web, and they SHOULD publish the
+      address of this copy along with their published reports.
+
+History:
+Created by Proposal 7677 (Henri), 12 July 2014
 
 ----------------------------------------------------------------------
 
