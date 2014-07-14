@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 14 July 2014
 
-Last proposal with recorded effect on this ruleset: 7679
-Last change to this ruleset: by Proposal 7679
+Last proposal with recorded effect on this ruleset: 7680
+Last change to this ruleset: by Proposal 7680
 
 Last ratification: Short Logical Ruleset of 7 April 2014
 Last ratification date: 1 May 2014
@@ -2372,14 +2372,11 @@ Amended(18) by Proposal 7664 (omd), 3 June 2014
 
 ----------------------------------------------------------------------
 
-Rule 2202/5 (Power=3)
+Rule 2202/6 (Power=3)
 Ratification Without Objection
 
       Any player CAN, without objection, ratify a public document,
-      specifying its scope. If that document is an official report or
-      a substantial portion thereof, until such a time as that report
-      or portion is again ratified, the date and scope of the
-      ratification become a part of the report.
+      specifying its scope.
 
       Ratification Without Objection CANNOT cause the repeal,
       amendment, enactment, or mutation of any Rule, rules to the
@@ -2413,6 +2410,7 @@ Amended(2) by Proposal 6174 (woggle), 7 April 2009
 Amended(3) by Proposal 6340 (G.), 11 June 2009
 Amended(4) by Proposal 6754 (coppro; disi.), 2 August 2010
 Amended(5) by Proposal 7451 (omd), 10 June 2013
+Amended(6) by Proposal 7680 (scshunt), 12 July 2014
 
 ----------------------------------------------------------------------
 
