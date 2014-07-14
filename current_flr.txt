@@ -1,14 +1,14 @@
 THE FULL LOGICAL RULESET
 
-Last updated: 12 July 2014
+Last updated: 14 July 2014
 
-Last proposal with recorded effect on this ruleset: 7670
-Last change to this ruleset: by Proposal 7670
+Last proposal with recorded effect on this ruleset: 7675
+Last change to this ruleset: by Proposal 7675
 
 Last ratification: Short Logical Ruleset of 7 April 2014
 Last ratification date: 1 May 2014
 
-Highest Rule ID number ever assigned: 2432
+Highest Rule ID number ever assigned: 2433
 
 Online documents:
   http://agora.qoid.us/current_flr.txt (FLR)
@@ -19,7 +19,7 @@ Online documents:
 
 Statistics
 
-Current total number of rules: 72
+Current total number of rules: 73
 
 Power distribution:
        1 with Power=4
@@ -29,7 +29,7 @@ Power distribution:
       14 with Power=2
        2 with Power=1.7
        2 with Power=1.5
-      16 with Power=1
+      17 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -65,6 +65,7 @@ Index of Rules
       * Economy
       Rule 2419: Winning
       Rule 2420: Score
+      Rule 2433: Point Transfers
       Rule 2421: Points Awards
       Rule 2425: Go Out and Vote
       Rule 2432: Competition Points
@@ -1177,6 +1178,25 @@ History:
 Created by Proposal 7629 (scshunt), 7 April 2014
 Amended(1) by Proposal 7656 (scshunt), 3 June 2014
 Amended(2) by Proposal 7660 (G.), 3 June 2014
+
+----------------------------------------------------------------------
+
+Rule 2433/0 (Power=1)
+Point Transfers
+
+      A player CAN spend N points to award a specified player N/2
+      points with notice.
+
+      A player CAN spend N points to award a specified player N points
+      with 0.6 Agoran Consent.  Players are generally ENCOURAGED to
+      object to such intents without a reason not to.
+
+      To spend an integral number of points is to decrease one's score
+      by that number, and is only possible if the resulting score is
+      nonnegative.
+
+History:
+Created by Proposal 7675 (omd), 8 July 2014
 
 ----------------------------------------------------------------------
 
