@@ -2,13 +2,13 @@ THE FULL LOGICAL RULESET
 
 Last updated: 14 July 2014
 
-Last proposal with recorded effect on this ruleset: 7678
-Last change to this ruleset: by Proposal 7678
+Last proposal with recorded effect on this ruleset: 7676
+Last change to this ruleset: by Proposal 7676
 
 Last ratification: Short Logical Ruleset of 7 April 2014
 Last ratification date: 1 May 2014
 
-Highest Rule ID number ever assigned: 2433
+Highest Rule ID number ever assigned: 2434
 
 Online documents:
   http://agora.qoid.us/current_flr.txt (FLR)
@@ -19,7 +19,7 @@ Online documents:
 
 Statistics
 
-Current total number of rules: 73
+Current total number of rules: 74
 
 Power distribution:
        1 with Power=4
@@ -29,7 +29,7 @@ Power distribution:
       14 with Power=2
        2 with Power=1.7
        2 with Power=1.5
-      17 with Power=1
+      18 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -69,6 +69,7 @@ Index of Rules
       Rule 2421: Points Awards
       Rule 2425: Go Out and Vote
       Rule 2432: Competition Points
+      Rule 2434: GNP
 
       * Definitions
       Rule 1023: Common Definitions
@@ -1259,6 +1260,23 @@ Competition Points
 
 History:
 Created by Proposal 7667 (scshunt), 3 June 2014
+
+----------------------------------------------------------------------
+
+Rule 2434/0 (Power=1)
+GNP
+
+      GNP (Gross Nomic Participation) is the number of messages
+      published in the public fora in a specified period of time.
+
+      Weekly GNP is the GNP measure for the period of time between the
+      start of an Agoran Week and the start of the following Agoran
+      Week. Monthly GNP is the GNP measure for the period of time
+      between the start of an Agoran Month and the start of the
+      following Agoran Month.
+
+History:
+Created by Proposal 7676 (Henri), 12 July 2014
 
 ----------------------------------------------------------------------
 
