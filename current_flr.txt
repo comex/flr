@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 14 July 2014
 
-Last proposal with recorded effect on this ruleset: 7677
-Last change to this ruleset: by Proposal 7677
+Last proposal with recorded effect on this ruleset: 7679
+Last change to this ruleset: by Proposal 7679
 
 Last ratification: Short Logical Ruleset of 7 April 2014
 Last ratification date: 1 May 2014
@@ -1131,13 +1131,13 @@ Created by Proposal 7635 (scshunt), 1 May 2014
 Economy
 ----------------------------------------------------------------------
 
-Rule 2419/4 (Power=2)
+Rule 2419/5 (Power=2)
 Winning
 
-      If any player has a score of at least 250, then any player who
-      has  at least as much score as any other player CAN claim
-      victory by announcement, naming all players with the highest
-      score.
+      If any player has a score of at least equal to the Goal, then
+      any player who has at least as much score as any other player
+      CAN claim victory by announcement, naming all players with the
+      highest score.
 
       When this occurs, all those players win the game and a new game
       begins.  All players' scores are reset to default. The beginning
@@ -1153,6 +1153,7 @@ Amended(2) by Proposal 7626 (omd), 23 February 2014
 Amended(3) by Proposal 7629 (scshunt), 7 April 2014
 Power changed from 1 to 2 by Proposal 7629 (scshunt), 7 April 2014
 Amended(4) by Proposal 7636 (scshunt), 1 May 2014
+Amended(5) by Proposal 7679 (G.), 12 July 2014
 
 ----------------------------------------------------------------------
 
