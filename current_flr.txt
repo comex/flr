@@ -146,7 +146,7 @@ Rule nnnn/r (Power=p)
 Title of Rule
 
 Annotations in square brackets are unofficial and have no legal force.
-They are added at the Rulekeepor's discrection.
+They are added at the Rulekeepor's discretion.
 
 ----------------------------------------------------------------------
 
