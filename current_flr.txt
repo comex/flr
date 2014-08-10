@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last updated: 14 July 2014
+Last updated: 10 August 2014
 
-Last proposal with recorded effect on this ruleset: 7684
-Last change to this ruleset: by Proposal 7684
+Last proposal with recorded effect on this ruleset: 7686
+Last change to this ruleset: by Proposal 7686
 
 Last ratification: Short Logical Ruleset of 7 April 2014
 Last ratification date: 1 May 2014
@@ -882,13 +882,13 @@ Created by Proposal 7665 (scshunt), 3 June 2014
 
 ----------------------------------------------------------------------
 
-Rule 2430/0 (Power=3)
+Rule 2430/1 (Power=3)
 Cleanup Time
 
       The Rulekeepor CAN, without objection, cause this rule to amend
       any specified rule by:
 
-        a) Changing the capitilization of a word, except to or from
+        a) Changing the capitalization of a word, except to or from
            all caps.
         b) Changing visual formatting (such as the layout and
            bulleting of a list).
@@ -900,6 +900,7 @@ Cleanup Time
 
 History:
 Created by Proposal 7665 (scshunt), 3 June 2014
+Amended(1) by Proposal 7686 (omd), 7 August 2014
 
 ----------------------------------------------------------------------
 
@@ -1157,13 +1158,13 @@ Amended(5) by Proposal 7679 (G.), 12 July 2014
 
 ----------------------------------------------------------------------
 
-Rule 2420/2 (Power=2)
+Rule 2420/3 (Power=2)
 Score
 
       Score is a player switch, with default 0 and possible values all
       non-negative integers.
 
-      The Scorekeepor is an office and the recordkeeper of score.
+      The Scorekeepor is an office and the recordkeepor of score.
 
       To award a player a number of points is to increase their score
       by that number, rounded down. If this would result in em having
@@ -1181,6 +1182,7 @@ History:
 Created by Proposal 7629 (scshunt), 7 April 2014
 Amended(1) by Proposal 7656 (scshunt), 3 June 2014
 Amended(2) by Proposal 7660 (G.), 3 June 2014
+Amended(3) by Proposal 7686 (omd), 7 August 2014
 
 ----------------------------------------------------------------------
 
@@ -1316,18 +1318,18 @@ Created by Proposal 7677 (Henri), 12 July 2014
 Definitions
 ----------------------------------------------------------------------
 
-Rule 1023/32 (Power=2)
+Rule 1023/33 (Power=2)
 Common Definitions
 
       The following terms are defined:
 
       (a) The phrase "in a timely fashion" means "within 7 days".
-          This time period is set when the requirement is created (ie.
-          X days before the limit ends).  A requirement to perform an
-          action at an exact instant (e.g.  "when X, Y SHALL Z"), but
-          not "in the same message", is instead interpreted as a
-          requirement to perform that action in a timely fashion after
-          that instant.
+          This time period is set when the requirement is created
+          (i.e. X days before the limit ends).  A requirement to
+          perform an action at an exact instant (e.g.  "when X, Y
+          SHALL Z"), but not "in the same message", is instead
+          interpreted as a requirement to perform that action in a
+          timely fashion after that instant.
 
       (b) Agoran epochs:
 
@@ -1412,6 +1414,7 @@ Amended(29) by Proposal 7289 (G.), 9 September 2012
 Amended(30) by Proposal 7420 (omd), 27 May 2013
 Amended(31) by Proposal 7606 (G.), 13 December 2013
 Amended(32) by Proposal 7641 (scshunt), 12 May 2014
+Amended(33) by Proposal 7686 (omd), 7 August 2014
 
 ----------------------------------------------------------------------
 
