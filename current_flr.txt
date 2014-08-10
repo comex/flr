@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 14 July 2014
 
-Last proposal with recorded effect on this ruleset: 7680
-Last change to this ruleset: by Proposal 7680
+Last proposal with recorded effect on this ruleset: 7684
+Last change to this ruleset: by Proposal 7684
 
 Last ratification: Short Logical Ruleset of 7 April 2014
 Last ratification date: 1 May 2014
@@ -2179,7 +2179,7 @@ Amended(12) by Proposal 7652 (scshunt), 3 June 2014
 
 ----------------------------------------------------------------------
 
-Rule 2154/46 (Power=2)
+Rule 2154/47 (Power=2)
 Election Procedure
 
       A player CAN initiate an election for a specified elected office
@@ -2192,12 +2192,13 @@ Election Procedure
 
       b) with 4 Supporters, otherwise.
 
-      After the nomination period ends, the IADoP CAN once initiate an
-      Agoran decision to determine the new officeholder, and SHALL do
-      so in a timely fashion.  For this decision, the valid options
-      are the players. Upon the resolution of this decision, its
-      outcome, if a player, is installed into office, and the election
-      ends.
+      After the election is initiated, any player CAN once initiate an
+      Agoran decision to determine the new officeholder, and the IADoP
+      SHALL do so in a timely fashion if no one else does first.  For
+      this decision, the valid options are the players and the vote
+      collector is the IADoP. Upon the resolution of this decision,
+      its outcome, if a player, is installed into office, and the
+      election ends.
 
 History:
 Created by Proposal 5059 (Zefram, Goethe), 9 July 2007
@@ -2250,6 +2251,7 @@ Amended(43) by Proposal 7632 (scshunt), 1 May 2014
 Amended(44) by Proposal 7645 (omd), 3 June 2014
 Amended(45) by Proposal 7654 (scshunt), 3 June 2014
 Amended(46) by Proposal 7658 (scshunt), 3 June 2014
+Amended(47) by Proposal 7684 (scshunt), 1 August 2014
 
 ----------------------------------------------------------------------
 
