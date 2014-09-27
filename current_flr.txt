@@ -1,6 +1,6 @@
 THE FULL LOGICAL RULESET
 
-Last updated: 10 August 2014
+Last updated: 26 September 2014
 
 Last proposal with recorded effect on this ruleset: 7690
 Last change to this ruleset: by Proposal 7690
@@ -8,7 +8,7 @@ Last change to this ruleset: by Proposal 7690
 Last ratification: Short Logical Ruleset of 7 April 2014
 Last ratification date: 1 May 2014
 
-Highest Rule ID number ever assigned: 2435
+Highest Rule ID number ever assigned: 2437
 
 Online documents:
   http://agora.qoid.us/current_flr.txt (FLR)
@@ -19,7 +19,7 @@ Online documents:
 
 Statistics
 
-Current total number of rules: 75
+Current total number of rules: 77
 
 Power distribution:
        1 with Power=4
@@ -29,7 +29,8 @@ Power distribution:
       14 with Power=2
        2 with Power=1.7
        2 with Power=1.5
-      19 with Power=1
+       1 with Power=1.1
+      20 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -71,6 +72,10 @@ Index of Rules
       Rule 2432: Competition Points
       Rule 2434: GNP
       Rule 2435: Minister for GNP Evaluation
+
+      * Province of Agora
+      Rule 2436: The Province of Agora
+      Rule 2437: The Dungeon Master
 
       * Definitions
       Rule 1023: Common Definitions
@@ -1311,6 +1316,46 @@ Minister for GNP Evaluation
 
 History:
 Created by Proposal 7677 (Henri), 12 July 2014
+
+----------------------------------------------------------------------
+
+======================================================================
+Province of Agora
+----------------------------------------------------------------------
+
+Rule 2436/0 (Power=1.1)
+The Province of Agora
+
+      The term "Province of Agora" (PoA) refers to the state of a
+      specific subgame described by Agoran Rules. The PoA is imaginary
+      and self-contained; it CANNOT specify aspects of outside
+      entities. The PoA is secured at a power threshold of 1.
+
+History:
+Created by Proposal 7693 (aranea, Warrigal), 24 September 2014
+
+----------------------------------------------------------------------
+
+Rule 2437/0 (Power=1)
+The Dungeon Master
+
+      The Dungeon Master is an office. His weekly report includes a
+      summary of the changes which have occured to the PoA since the
+      previous report. The Dungeon Master's monthly report includes a
+      summary of the entire PoA.
+
+      These summaries MAY be anything whatsoever (subject to other
+      rules), but they SHOULD follow common sense, precedent, and
+      Agoran consensus. Provided they don't describe any entities not
+      belonging to the PoA, such summaries inside a Dungeon Master's
+      report are self-ratifying.
+
+      The Dungeon Master CAN by Announcement cause this rule to add or
+      remove entities to/from the PoA or set properties of entities
+      pertaining to the PoA, unless rules to the contrary exist.
+
+History:
+Created by Proposal 7693 (aranea, Warrigal), 24 September 2014
 
 ----------------------------------------------------------------------
 
