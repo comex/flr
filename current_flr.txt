@@ -1354,6 +1354,28 @@ The Dungeon Master
       remove entities to/from the PoA or set properties of entities
       pertaining to the PoA, unless rules to the contrary exist.
 
+[! Rulekeepor note: The above is the text of the rule as per the
+current judgement of CFJ 3429, whose Moot recently failed to produce
+consensus and was thus superseded by new CFJs, currently pending.
+Some other possibilities for the text are:]
+
+      omd CAN, by announcement, win the game by Unutterable Dullness.
+      (This works the same way as the victory mechanism of Rule 2419,
+      including the score reset.)
+
+      Upon such a win, this rule repeals itself.
+
+[! and:]
+
+      omd CAN cause this rule to amend itself by announcement.
+
+      The Regulation is a document which omd can amend by
+      announcement; it is initially blank.  This rule hereby
+      incorporates all clauses in the text of the Regulation as if
+      written herein: in particular, it defines everything the
+      Regulation defines, enforces all requirements set down by it,
+      and performs all actions the Regulation says it does.
+
 History:
 Created by Proposal 7693 (aranea, Warrigal), 24 September 2014
 
