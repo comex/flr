@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 26 September 2014
 
-Last proposal with recorded effect on this ruleset: 7690
-Last change to this ruleset: by Proposal 7690
+Last proposal with recorded effect on this ruleset: 7694
+Last change to this ruleset: by Proposal 7694
 
 Last ratification: Short Logical Ruleset of 7 April 2014
 Last ratification date: 1 May 2014
@@ -3512,7 +3512,7 @@ Amended(15) by Proposal 7647 (omd), 3 June 2014
 
 ----------------------------------------------------------------------
 
-Rule 591/40 (Power=1.7)
+Rule 591/41 (Power=1.7)
 Delivering Judgements
 
       When a CFJ becomes open and is assigned to a judge, that judge
@@ -3520,13 +3520,12 @@ Delivering Judgements
       assignment, by announcement.  If e does not, the Arbitor CAN
       remove em from being the judge of that case by announcement.
 
-      The valid judgements, based on the facts of the case at the
-      statement at the time the CFJ was initiated, are TRUE, FALSE,
-      and DISMISS.  DISMISS is appropriate if the statement is
-      malformed, undecidable, irrelevant to the game, if insufficient
-      information exists to make a judgement with reasonable effort,
-      or the statement is otherwise not able to be answered TRUE or
-      FALSE.
+      The valid judgements, based on the facts of the case at the time
+      the CFJ was initiated, are TRUE, FALSE, and DISMISS.  DISMISS is
+      appropriate if the statement is malformed, undecidable,
+      irrelevant to the game, if insufficient information exists to
+      make a judgement with reasonable effort, or the statement is
+      otherwise not able to be answered TRUE or FALSE.
 
 [CFJ 1835 (called 18 December 2007): A question cannot generally take
 the place of a statement in initiating an inquiry case.]
@@ -3615,6 +3614,7 @@ Amended(37) by Proposal 7293 (Murphy), 9 September 2012
 Amended(38) by Proposal 7610 (G.), 22 December 2013
 Retitled and amended(39) by Proposal 7616 (G.), 16 January 2014
 Amended(40) by Proposal 7629 (scshunt), 7 April 2014
+Amended(41) by Proposal 7694 (omd), 23 October 2014
 
 ----------------------------------------------------------------------
 
