@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 2 November 2014
 
-Last proposal with recorded effect on this ruleset: 7709
-Last change to this ruleset: by Proposal 7709
+Last proposal with recorded effect on this ruleset: 7710
+Last change to this ruleset: by Proposal 7710
 
 Last ratification: Short Logical Ruleset of 7 April 2014
 Last ratification date: 1 May 2014
@@ -643,7 +643,7 @@ Amended(1) by Proposal 6429 (Murphy), 18 August 2009
 
 ----------------------------------------------------------------------
 
-Rule 105/10 (Power=3)
+Rule 105/11 (Power=3)
 Rule Changes
 
       Where permitted by other rules, an instrument generally can,
@@ -687,10 +687,11 @@ Rule Changes
       constitute ambiguity for the purposes of this rule, but any
       other variation does.
 
-      A rule change which would otherwise take effect without its
-      substance being subject to general player review through a
-      reasonably public process is wholly prevented from taking
-      effect.
+      A rule change is wholly prevented from taking effect unless its
+      full text was published, along with an unambiguous and clear
+      specification of the method to be used for changing the rule, at
+      least 4 days and no more than 60 days before it would otherwise
+      take effect.
 
       This rule provides the only mechanism by which rules can be
       created, modified, or destroyed, or by which an entity can
@@ -761,6 +762,7 @@ Amended(7) by Proposal 7607 (OscarMeyr), 13 December 2013
 Amended(8) by Proposal 7614 (G.), 13 January 2014
 Amended(9) by SLR ratification (Proposal 7638; omd), 1 May 2014
 Amended(10) by Proposal 7647 (omd), 3 June 2014
+Amended(11) by Proposal 7710 (G.), 3 November 2014
 
 ----------------------------------------------------------------------
 
