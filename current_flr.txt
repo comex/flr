@@ -2,13 +2,13 @@ THE FULL LOGICAL RULESET
 
 Last updated: 2 November 2014
 
-Last proposal with recorded effect on this ruleset: 7698
-Last change to this ruleset: by Proposal 7698
+Last proposal with recorded effect on this ruleset: 7700
+Last change to this ruleset: by Proposal 7700
 
 Last ratification: Short Logical Ruleset of 7 April 2014
 Last ratification date: 1 May 2014
 
-Highest Rule ID number ever assigned: 2438
+Highest Rule ID number ever assigned: 2439
 
 Online documents:
   http://agora.qoid.us/current_flr.txt (FLR)
@@ -19,7 +19,7 @@ Online documents:
 
 Statistics
 
-Current total number of rules: 78
+Current total number of rules: 79
 
 Power distribution:
        1 with Power=4
@@ -30,7 +30,7 @@ Power distribution:
        2 with Power=1.7
        2 with Power=1.5
        1 with Power=1.1
-      21 with Power=1
+      22 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -68,6 +68,7 @@ Index of Rules
       Rule 2420: Score
       Rule 2433: Point Transfers
       Rule 2421: Points Awards
+      Rule 2439: Office Salary
       Rule 2425: Go Out and Vote
       Rule 2432: Competition Points
       Rule 2434: GNP
@@ -1219,11 +1220,6 @@ Points Awards
       rounded down. A given player cannot earn more than 15 points
       this way in a single Agoran week.
 
-      At the beginning of each Agoran week, each player is awarded 10
-      points for the first office e holds, 8 points for eir second
-      office, 6 points for eir third office, 4 points for eir fourth
-      office, and 2 points for every office e holds thereafter.
-
       The Purse of an Agoran decision to adopt a proposal is a number
       of Points equal to 10 times the quorum on the decision, plus 10.
       A Punter on such a decision is any player who cast a valid
@@ -1242,6 +1238,35 @@ Amended(1) by Proposal 7655 (scshunt), 3 June 2014
 Amended(2) by Proposal 7659 (G.), 3 June 2014
 Amended(3) by Proposal 7666 (scshunt), 3 June 2014
 Amended(4) by Proposal 7678 (G.), 12 July 2014
+
+----------------------------------------------------------------------
+
+Rule 2439/0 (Power=1)
+Office Salary
+
+      Salary is a office switch tracked by the IADoP with values all
+      integers and a default value of 10.
+
+      During the nomination period of an election, each candidate CAN
+      set their proposed salary, a possible value of the office's
+      salary switch, by announcement. If they fail to do so before the
+      end of the nomination period, their proposed salary is set to
+      the current salary of the office. The proposed salaries for each
+      candidate are essential parameters for the Agoran decision to
+      decide the officeholder. The proposed salary of the winning
+      candidate becomes the salary of the office upon the resolution
+      of the relevant decision.
+
+      A player CAN flip the salary of an office without two
+      objections. The holder of an office CAN decrease its salary by
+      announcement. At the beginning of each month, the Scorekeeper is
+      impelled to award each officeholder a number of points equal to
+      the sum of the salaries of eir offices for which the
+      officeholder held the office for at least two weeks continuously
+      in the previous month.
+
+History:
+Created by Proposal 7700 (Henri), 3 November 2014
 
 ----------------------------------------------------------------------
 
