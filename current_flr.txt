@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 2 November 2014
 
-Last proposal with recorded effect on this ruleset: 7705
-Last change to this ruleset: by Proposal 7705
+Last proposal with recorded effect on this ruleset: 7707
+Last change to this ruleset: by Proposal 7707
 
 Last ratification: Short Logical Ruleset of 7 April 2014
 Last ratification date: 1 May 2014
@@ -29,8 +29,7 @@ Power distribution:
       14 with Power=2
        2 with Power=1.7
        2 with Power=1.5
-       1 with Power=1.1
-      23 with Power=1
+      24 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -1437,61 +1436,46 @@ Created by Proposal 7698 (ais523), 3 November 2014
 Province of Agora
 ----------------------------------------------------------------------
 
-Rule 2436/0 (Power=1.1)
+Rule 2436/1 (Power=1)
 The Province of Agora
 
-      The term "Province of Agora" (PoA) refers to the state of a
-      specific subgame described by Agoran Rules. The PoA is imaginary
-      and self-contained; it CANNOT specify aspects of outside
-      entities. The PoA is secured at a power threshold of 1.
+      The Province of Agora is a subgame whose state comprises the
+      imagined state of an imaginary region.
+
+      Each player controls exactly one imaginary player character in
+      the Province.  (If this character dies, a new one is created.)
+      Whenever a player announces that this character takes an action,
+      the Dungeon Master SHALL announce the imaginary result of the
+      action in a timely fashion.  E MAY state that the result is
+      anything whatsoever (subject to other rules), but e SHOULD
+      choose a result that follows common sense, precedent, and Agoran
+      consensus.
 
 History:
 Created by Proposal 7693 (aranea, Warrigal), 24 September 2014
+Power changed from 1.1 to 1 by Proposal 7707 (Warrigal),
+  3 November 2014
+Amended(1) by Proposal 7707 (Warrigal), 3 November 2014
 
 ----------------------------------------------------------------------
 
-Rule 2437/0 (Power=1)
+Rule 2437/1 (Power=1)
 The Dungeon Master
 
-      The Dungeon Master is an office. His weekly report includes a
-      summary of the changes which have occured to the PoA since the
-      previous report. The Dungeon Master's monthly report includes a
-      summary of the entire PoA.
+      The Dungeon Master is an office.  The Dungeon Master's weekly
+      report includes a summary of what has happened in the Province
+      of Agora since the previous report.  The Dungeon Master's
+      monthly report includes a summary of the entire publicly known
+      state of the Province.  These summaries MAY be anything
+      whatsoever (subject to other rules), but they SHOULD follow
+      common sense, precedent, and Agoran consensus.
 
-      These summaries MAY be anything whatsoever (subject to other
-      rules), but they SHOULD follow common sense, precedent, and
-      Agoran consensus. Provided they don't describe any entities not
-      belonging to the PoA, such summaries inside a Dungeon Master's
-      report are self-ratifying.
-
-      The Dungeon Master CAN by Announcement cause this rule to add or
-      remove entities to/from the PoA or set properties of entities
-      pertaining to the PoA, unless rules to the contrary exist.
-
-[! Rulekeepor note: The above is the text of the rule as per the
-current judgement of CFJ 3429, whose Moot recently failed to produce
-consensus and was thus superseded by new CFJs, currently pending.
-Some other possibilities for the text are:]
-
-      omd CAN, by announcement, win the game by Unutterable Dullness.
-      (This works the same way as the victory mechanism of Rule 2419,
-      including the score reset.)
-
-      Upon such a win, this rule repeals itself.
-
-[! and:]
-
-      omd CAN cause this rule to amend itself by announcement.
-
-      The Regulation is a document which omd can amend by
-      announcement; it is initially blank.  This rule hereby
-      incorporates all clauses in the text of the Regulation as if
-      written herein: in particular, it defines everything the
-      Regulation defines, enforces all requirements set down by it,
-      and performs all actions the Regulation says it does.
+[! Rulekeepor note: There is a small chance this rule has been
+   repealed.]
 
 History:
 Created by Proposal 7693 (aranea, Warrigal), 24 September 2014
+Amended(1) by Proposal 7707 (Warrigal), 3 November 2014
 
 ----------------------------------------------------------------------
 
