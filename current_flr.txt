@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 2 November 2014
 
-Last proposal with recorded effect on this ruleset: 7701
-Last change to this ruleset: by Proposal 7701
+Last proposal with recorded effect on this ruleset: 7704
+Last change to this ruleset: by Proposal 7704
 
 Last ratification: Short Logical Ruleset of 7 April 2014
 Last ratification date: 1 May 2014
@@ -2218,7 +2218,7 @@ Amended(37) by Proposal 7629 (scshunt), 7 April 2014
 
 ----------------------------------------------------------------------
 
-Rule 2143/23 (Power=1)
+Rule 2143/24 (Power=1)
 Official Reports and Duties
 
       For each person:
@@ -2246,10 +2246,10 @@ Official Reports and Duties
       specifically assign to that office's holder in particular
       (regardless of eir identity).
 
-      A person SHALL NOT publish information that is Indeterminate,
-      inaccurate or misleading while performing an official duty, or
-      within a document purporting to be part of any person or
-      office's weekly or monthly report.
+      A person SHALL NOT publish information that is inaccurate or
+      misleading while performing an official duty, or within a
+      document purporting to be part of any person or office's weekly
+      or monthly report.
 
       Reports SHALL be published in plain text.  Tabular data must
       line up properly when viewed in a monospaced font.  Publishing a
@@ -2292,6 +2292,7 @@ Amended(20) by Proposal 7599 (Walker), 14 September 2013
 Amended(21) by Proposal 7606 (G.), 13 December 2013
 Amended(22) by Proposal 7648 (omd), 3 June 2014
 Amended(23) by Proposal 7697 (omd), 23 October 2014
+Amended(24) by Proposal 7704 (G.), 3 November 2014
 
 ----------------------------------------------------------------------
 
