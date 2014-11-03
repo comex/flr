@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 2 November 2014
 
-Last proposal with recorded effect on this ruleset: 7700
-Last change to this ruleset: by Proposal 7700
+Last proposal with recorded effect on this ruleset: 7701
+Last change to this ruleset: by Proposal 7701
 
 Last ratification: Short Logical Ruleset of 7 April 2014
 Last ratification date: 1 May 2014
@@ -1165,13 +1165,14 @@ Amended(5) by Proposal 7679 (G.), 12 July 2014
 
 ----------------------------------------------------------------------
 
-Rule 2420/3 (Power=2)
+Rule 2420/4 (Power=2)
 Score
 
       Score is a player switch, with default 0 and possible values all
       non-negative integers.
 
-      The Scorekeepor is an office and the recordkeepor of score.
+      The Minister for Credits is an office and the recordkeepor of
+      score.
 
       To award a player a number of points is to increase their score
       by that number, rounded down. If this would result in em having
@@ -1183,13 +1184,14 @@ Score
       to one or more players, the total points of the purse are
       divided and awarded to the indicated players as evenly as
       possible (fractions rounded down) with each such player
-      receiving a minimum of one point.
+      receiving a minimum of one credit.
 
 History:
 Created by Proposal 7629 (scshunt), 7 April 2014
 Amended(1) by Proposal 7656 (scshunt), 3 June 2014
 Amended(2) by Proposal 7660 (G.), 3 June 2014
 Amended(3) by Proposal 7686 (omd), 7 August 2014
+Amended(4) by Proposal 7701 (Henri), 3 November 2014
 
 ----------------------------------------------------------------------
 
