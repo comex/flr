@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 2 November 2014
 
-Last proposal with recorded effect on this ruleset: 7707
-Last change to this ruleset: by Proposal 7707
+Last proposal with recorded effect on this ruleset: 7708
+Last change to this ruleset: by Proposal 7708
 
 Last ratification: Short Logical Ruleset of 7 April 2014
 Last ratification date: 1 May 2014
@@ -3858,7 +3858,7 @@ Amended(9) by Proposal 7647 (omd), 3 June 2014
 
 ----------------------------------------------------------------------
 
-Rule 2426/1 (Power=1)
+Rule 2426/2 (Power=1)
 Cards
 
       The Referee is an office; its holder is responsible for keeping
@@ -3891,8 +3891,8 @@ Cards
         severe abuses of power (the perceived rule violation must
         involve use or non-use of that office's powers).  Within seven
         days after a Black Card is issued, any player CAN become the
-        holder of the target office with two support; the Referee
-        CANNOT initiate or support this.
+        holder of the target office with two support;  the issuer of
+        that Card CANNOT initiate or support this.
 
       The Referee SHALL issue at least one Card per week, unless no
       violations occurred that week.
@@ -3903,6 +3903,7 @@ Cards
 History:
 Created by Proposal 7639 (omd), 1 May 2014
 Amended(1) by Proposal 7696 (omd), 23 October 2014
+Amended(2) by Proposal 7708 (Murphy), 3 November 2014
 
 ----------------------------------------------------------------------
 
