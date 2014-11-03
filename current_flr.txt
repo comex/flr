@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 2 November 2014
 
-Last proposal with recorded effect on this ruleset: 7708
-Last change to this ruleset: by Proposal 7708
+Last proposal with recorded effect on this ruleset: 7709
+Last change to this ruleset: by Proposal 7709
 
 Last ratification: Short Logical Ruleset of 7 April 2014
 Last ratification date: 1 May 2014
@@ -877,14 +877,16 @@ Amended(1) by Proposal 6995 (omd, harvel), 10 April 2011
 
 ----------------------------------------------------------------------
 
-Rule 2429/0 (Power=1)
+Rule 2429/1 (Power=1)
 Bleach
 
-      Whitespace is generally insignificant, except for paragraph
-      breaks.
+      Replacing a non-zero amount of whitespace with a different
+      non-zero amount of whitespace is generally insignificant, except
+      for paragraph breaks.
 
 History:
 Created by Proposal 7665 (scshunt), 3 June 2014
+Amended(1) by Proposal 7709 (Murphy), 3 November 2014
 
 ----------------------------------------------------------------------
 
