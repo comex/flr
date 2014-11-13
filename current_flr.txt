@@ -2,13 +2,13 @@ THE FULL LOGICAL RULESET
 
 Last updated: 13 November 2014
 
-Last proposal with recorded effect on this ruleset: 7711
-Last change to this ruleset: by Proposal 7711
+Last proposal with recorded effect on this ruleset: 7713
+Last change to this ruleset: by Proposal 7713
 
 Last ratification: Short Logical Ruleset of 7 April 2014
 Last ratification date: 1 May 2014
 
-Highest Rule ID number ever assigned: 2442
+Highest Rule ID number ever assigned: 2443
 
 Online documents:
   http://agora.qoid.us/current_flr.txt (FLR)
@@ -19,13 +19,13 @@ Online documents:
 
 Statistics
 
-Current total number of rules: 82
+Current total number of rules: 83
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
        1 with Power=3.1
-      34 with Power=3
+      35 with Power=3
       14 with Power=2
        2 with Power=1.7
        2 with Power=1.5
@@ -94,6 +94,7 @@ Index of Rules
       Rule 2143: Official Reports and Duties
       Rule 2379: No News Is Some News
       Rule 2160: Deputisation
+      Rule 2443: Expediting Proposals
       Rule 2154: Election Procedure
       Rule 2138: The Interstellar Associate Director of Personnel
       Rule 1551: Ratification
@@ -2376,7 +2377,7 @@ Created by Proposal 7286 (FKA441344), 9 September 2012
 
 ----------------------------------------------------------------------
 
-Rule 2160/12 (Power=3)
+Rule 2160/13 (Power=3)
 Deputisation
 
       Any player (a deputy) CAN perform an action as if e held a
@@ -2405,6 +2406,22 @@ Deputisation
       When a player deputises for an elected office, e becomes the
       holder of that office.
 
+      A rule which purports to allow a person (a special deputy) to
+      perform an action via special deputisation for an office thereby
+      allows them to perform the action as if e held the office, as
+      long as
+
+        (a) it would be POSSIBLE for the special deputy to perform the
+            action, other than by special deputisation, if e held the
+            office, and
+
+        (b) the special deputy, when performing the action, announces
+            that e is doing so by special deputisation.
+
+      Special deputisation is not a type of deputisation, and
+      therefore does not generally have the effects that deputisation
+      has.
+
 [CFJ 1776 (called 1 November 2007): A requirement to perform an
 action, for the purposes of this rule, can be a logical implication
 from rules and circumstances, not just directly imposed by the rules.
@@ -2432,6 +2449,28 @@ Amended(9) by Proposal 7403 (omd), 27 April 2013
 Amended(10) by Proposal 7629 (scshunt), 7 April 2014
 Amended(11) by Proposal 7651 (scshunt), 3 June 2014
 Amended(12) by Proposal 7652 (scshunt), 3 June 2014
+Amended(13) by Proposal 7713 (Warrigal), 9 November 2014
+
+----------------------------------------------------------------------
+
+Rule 2443/0 (Power=3)
+Expediting Proposals
+
+      A player CAN expedite a proposal whose adoption index is at most
+      1.5, in a message containing the character string "[Expedition]"
+      in the subject line,
+
+        (a) by specially deputising for the Promotor to distribute the
+            proposal, if it has not been distributed; or
+        (b) by announcement, otherwise.
+
+      If, in an Agoran Decision to adopt a proposal, the strength of
+      AGAINST is zero, and the proposal was expedited at least 7 days
+      earlier, then any player CAN specially deputise for the Assessor
+      to resolve the decision.
+
+History:
+Created by Proposal 7713 (Warrigal), 9 November 2014
 
 ----------------------------------------------------------------------
 
