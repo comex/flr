@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 13 November 2014
 
-Last proposal with recorded effect on this ruleset: 7713
-Last change to this ruleset: by Proposal 7713
+Last proposal with recorded effect on this ruleset: 7720
+Last change to this ruleset: by Proposal 7720
 
 Last ratification: Short Logical Ruleset of 7 April 2014
 Last ratification date: 1 May 2014
@@ -19,17 +19,17 @@ Online documents:
 
 Statistics
 
-Current total number of rules: 83
+Current total number of rules: 76
 
 Power distribution:
        1 with Power=4
        1 with Power=3.2
        1 with Power=3.1
       35 with Power=3
-      14 with Power=2
+      12 with Power=2
        2 with Power=1.7
        2 with Power=1.5
-      27 with Power=1
+      22 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -60,16 +60,9 @@ Index of Rules
       Rule 2139: The Registrar
       Rule 1789: Cantus Cygneus
       Rule 2130: How to be Shown the Door
-      Rule 2424: Recruitment Bonus
 
       * Economy
-      Rule 2419: Winning
-      Rule 2420: Score
-      Rule 2433: Point Transfers
-      Rule 2421: Points Awards
       Rule 2439: Office Salary
-      Rule 2425: Go Out and Vote
-      Rule 2432: Competition Points
       Rule 2434: GNP
       Rule 2435: Minister for GNP Evaluation
       Rule 2438: Ribbons
@@ -1123,131 +1116,8 @@ Retitled and amended(14) by Proposal 7632 (scshunt), 1 May 2014
 
 ----------------------------------------------------------------------
 
-Rule 2424/0 (Power=1)
-Recruitment Bonus
-
-      If, during the first week after a player registers, that player
-      reasonably clearly indicates a unique player responsible for eir
-      registration, then the responsible player is referred to as eir
-      mentor.
-
-      If, during the first month after e registers, a player votes
-      (including PRESENT) on at least half of the proposals whose
-      voting periods fall entirely within that month and submits at
-      least two proposals, then e is awarded 20 points and eir mentor,
-      if any, is awarded 40 points.
-
-History:
-Created by Proposal 7635 (scshunt), 1 May 2014
-
-----------------------------------------------------------------------
-
 ======================================================================
 Economy
-----------------------------------------------------------------------
-
-Rule 2419/5 (Power=2)
-Winning
-
-      If any player has a score of at least equal to the Goal, then
-      any player who has at least as much score as any other player
-      CAN claim victory by announcement, naming all players with the
-      highest score.
-
-      When this occurs, all those players win the game and a new game
-      begins.  All players' scores are reset to default. The beginning
-      of a new game does not cause any changes to the game state not
-      specified by the rules; in particular, Agora does not end and
-      the ruleset remains unchanged. The Herald is then authorized to
-      award those players the Patent Title of Champion.
-
-History:
-Created by Proposal 7609 (G.), 13 December 2013
-Amended(1) by Proposal 7617 (G.), 16 January 2014
-Amended(2) by Proposal 7626 (omd), 23 February 2014
-Amended(3) by Proposal 7629 (scshunt), 7 April 2014
-Power changed from 1 to 2 by Proposal 7629 (scshunt), 7 April 2014
-Amended(4) by Proposal 7636 (scshunt), 1 May 2014
-Amended(5) by Proposal 7679 (G.), 12 July 2014
-
-----------------------------------------------------------------------
-
-Rule 2420/4 (Power=2)
-Score
-
-      Score is a player switch, with default 0 and possible values all
-      non-negative integers.
-
-      The Minister for Credits is an office and the recordkeepor of
-      score.
-
-      To award a player a number of points is to increase their score
-      by that number, rounded down. If this would result in em having
-      a negative number of points, instead eir score is set to 0
-
-      Score is secured at power 1.
-
-      If a Purse of a specified quantity of positive points is awarded
-      to one or more players, the total points of the purse are
-      divided and awarded to the indicated players as evenly as
-      possible (fractions rounded down) with each such player
-      receiving a minimum of one credit.
-
-History:
-Created by Proposal 7629 (scshunt), 7 April 2014
-Amended(1) by Proposal 7656 (scshunt), 3 June 2014
-Amended(2) by Proposal 7660 (G.), 3 June 2014
-Amended(3) by Proposal 7686 (omd), 7 August 2014
-Amended(4) by Proposal 7701 (Henri), 3 November 2014
-
-----------------------------------------------------------------------
-
-Rule 2433/0 (Power=1)
-Point Transfers
-
-      A player CAN spend N points to award a specified player N/2
-      points with notice.
-
-      A player CAN spend N points to award a specified player N points
-      with 0.6 Agoran Consent.  Players are generally ENCOURAGED to
-      object to such intents without a reason not to.
-
-      To spend an integral number of points is to decrease one's score
-      by that number, and is only possible if the resulting score is
-      nonnegative.
-
-History:
-Created by Proposal 7675 (omd), 8 July 2014
-
-----------------------------------------------------------------------
-
-Rule 2421/4 (Power=1)
-Points Awards
-
-      Whenever a proposal is adopted, its author and co-authors (if
-      any) earns a number of points equal to its adoption index,
-      rounded down. A given player cannot earn more than 15 points
-      this way in a single Agoran week.
-
-      The Purse of an Agoran decision to adopt a proposal is a number
-      of Points equal to 10 times the quorum on the decision, plus 10.
-      A Punter on such a decision is any player who cast a valid
-      unconditional ballot on the decision, and did not retract any
-      ballots on that decision.
-
-      If the result of a decision is ADOPTED, the Purse is split as
-      evenly as possible (rounding down) among all punters who voted
-      AGAINST it.  If the result of the decision is REJECTED, the
-      Purse is split as evenly as possible (rounding down) among all
-      punters who voted FOR it.
-
-History:
-Created by Proposal 7629 (scshunt), 7 April 2014
-Amended(1) by Proposal 7655 (scshunt), 3 June 2014
-Amended(2) by Proposal 7659 (G.), 3 June 2014
-Amended(3) by Proposal 7666 (scshunt), 3 June 2014
-Amended(4) by Proposal 7678 (G.), 12 July 2014
-
 ----------------------------------------------------------------------
 
 Rule 2439/0 (Power=1)
@@ -1276,36 +1146,6 @@ Office Salary
 
 History:
 Created by Proposal 7700 (Henri), 3 November 2014
-
-----------------------------------------------------------------------
-
-Rule 2425/0 (Power=1)
-Go Out and Vote
-
-      The first time in each Agoran week that a proposal is resolved
-      on which a given player voted (including PRESENT), that player
-      is awarded 5 points.
-
-History:
-Created by Proposal 7637 (scshunt), 1 May 2014
-Retitled by Proposal 7662 (omd), 3 June 2014
-
-----------------------------------------------------------------------
-
-Rule 2432/1 (Power=1)
-Competition Points
-
-      When a Competition Proposal is adopted, its author receives 10
-      points in addition to any other points award e may get for that
-      proposal.  If it had a higher FOR/AGAINST strength ratio than
-      any other (zero AGAINST counts as infinity), e receives an
-      additional 25 points and the Herald is ENCOURAGED to award em a
-      creatively-named Patent Title to recognize that e was the winner
-      of a competition.
-
-History:
-Created by Proposal 7667 (scshunt), 3 June 2014
-Amended(1) by Proposal 7705 (omd), 3 November 2014
 
 ----------------------------------------------------------------------
 
@@ -3979,7 +3819,7 @@ Amended(9) by Proposal 7647 (omd), 3 June 2014
 
 ----------------------------------------------------------------------
 
-Rule 2426/2 (Power=1)
+Rule 2426/3 (Power=1)
 Cards
 
       The Referee is an office; its holder is responsible for keeping
@@ -3997,13 +3837,8 @@ Cards
 
       - Green Card, intended for offenses which the Referee does not
         believe warrant effective punishment.  When a Green Card is
-        issued, the Referee gains two points, and the target player is
-        ENCOURAGED to travel to the United States.
-
-      - Yellow Card, intended for less serious or justifiable
-        infractions.   When a person who has received a Yellow Card in
-        the last 7 days earns points, e only receives half as many as
-        e otherwise would, rounded up.
+        issued, the target player is ENCOURAGED to travel to the
+        United States.
 
       - Red Card, intended for more severe offenses.  The effects of a
         Red Card are described elsewhere.
@@ -4025,6 +3860,7 @@ History:
 Created by Proposal 7639 (omd), 1 May 2014
 Amended(1) by Proposal 7696 (omd), 23 October 2014
 Amended(2) by Proposal 7708 (Murphy), 3 November 2014
+Amended(3) by Proposal 7720 (omd), 9 November 2014
 
 ----------------------------------------------------------------------
 
