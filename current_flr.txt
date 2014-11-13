@@ -2,13 +2,13 @@ THE FULL LOGICAL RULESET
 
 Last updated: 13 November 2014
 
-Last proposal with recorded effect on this ruleset: 7720
-Last change to this ruleset: by Proposal 7720
+Last proposal with recorded effect on this ruleset: 7722
+Last change to this ruleset: by Proposal 7722
 
 Last ratification: Short Logical Ruleset of 7 April 2014
 Last ratification date: 1 May 2014
 
-Highest Rule ID number ever assigned: 2443
+Highest Rule ID number ever assigned: 2444
 
 Online documents:
   http://agora.qoid.us/current_flr.txt (FLR)
@@ -19,7 +19,7 @@ Online documents:
 
 Statistics
 
-Current total number of rules: 76
+Current total number of rules: 77
 
 Power distribution:
        1 with Power=4
@@ -29,7 +29,7 @@ Power distribution:
       12 with Power=2
        2 with Power=1.7
        2 with Power=1.5
-      22 with Power=1
+      23 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -116,6 +116,7 @@ Index of Rules
       Rule 2137: The Assessor
       Rule 2431: Proposal Competitions
       Rule 1698: Agora Is A Nomic
+      Rule 2444: Silver Quill
 
       * Adjudication
       Rule  991: Calls for Judgement
@@ -3523,6 +3524,48 @@ Amended(1) by Proposal 5536 (Murphy), 7 June 2008
 Amended(2) by Proposal 7075 (scshunt), 16 June 2011
 Amended(3) by Proposal 7088 (omd), 23 July 2011
 Amended(4) by Proposal 7628 (ais523), 7 April 2014
+
+----------------------------------------------------------------------
+
+Rule 2444/0 (Power=1)
+Silver Quill
+
+      The Silver Quill is a biannual award designed to honor the
+      authors of proposals of outstanding merit and influence on the
+      game.
+
+      The Marker Dates are July 14, two weeks after Agora's Birthday
+      (to avoid the Holiday), and December 29, the day of Agora's
+      Half-birthday, of each year, except for dates preceding the
+      enactment of this Rule.  After midnight on a given Marker Date,
+      the Herald CAN once initiate a Silver Quill Ceremony for that
+      Date by announcement, and SHALL do so in a timely fashion; e is
+      ENCOURAGED to initiate it on that exact Date if possible.
+
+      After a Silver Quill Ceremony has been initiated, players are
+      ENCOURAGED to discuss which eligible proposals best satisfy the
+      aforementioned criteria.  To be eligible, a proposal must have
+      been adopted at least 2 months, but no more than 14 months,
+      before the Marker Date, and must not have previously won a
+      Silver Quill Ceremony.  Proposals submitted by new players
+      SHOULD be given somewhat higher weight, but the primary
+      reference should be the proposals themselves and their effect on
+      the game since adoption.
+
+      Once four days have passed since initiation, the Herald CAN once
+      initiate the Agoran decision to determine the winner, and SHALL
+      do so in a timely fashion.  For this decision, the valid options
+      are all eligible proposals and the vote collector is the Herald.
+
+      Upon the resolution of the decision, if the outcome received at
+      least three votes (and is not FAILED QUORUM), that proposal wins
+      the Ceremony, and the Herald is authorized to award its author
+      the Patent Title of "Silver Quill YYYY/MM", substituting the
+      Marker Date; otherwise, there is no winner.  This ends the
+      Ceremony.
+
+History:
+Created by Proposal 7722 (omd), 11 November 2014
 
 ----------------------------------------------------------------------
 
