@@ -1,14 +1,14 @@
 THE FULL LOGICAL RULESET
 
-Last updated: 2 November 2014
+Last updated: 13 November 2014
 
-Last proposal with recorded effect on this ruleset: 7710
-Last change to this ruleset: by Proposal 7710
+Last proposal with recorded effect on this ruleset: 7711
+Last change to this ruleset: by Proposal 7711
 
 Last ratification: Short Logical Ruleset of 7 April 2014
 Last ratification date: 1 May 2014
 
-Highest Rule ID number ever assigned: 2439
+Highest Rule ID number ever assigned: 2442
 
 Online documents:
   http://agora.qoid.us/current_flr.txt (FLR)
@@ -19,7 +19,7 @@ Online documents:
 
 Statistics
 
-Current total number of rules: 79
+Current total number of rules: 82
 
 Power distribution:
        1 with Power=4
@@ -29,7 +29,7 @@ Power distribution:
       14 with Power=2
        2 with Power=1.7
        2 with Power=1.5
-      24 with Power=1
+      27 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -73,6 +73,9 @@ Index of Rules
       Rule 2434: GNP
       Rule 2435: Minister for GNP Evaluation
       Rule 2438: Ribbons
+      Rule 2440: Word Cards
+      Rule 2441: Shopping Periods
+      Rule 2442: Inventory
 
       * Province of Agora
       Rule 2436: The Province of Agora
@@ -1433,6 +1436,81 @@ Ribbons
 
 History:
 Created by Proposal 7698 (ais523), 3 November 2014
+
+----------------------------------------------------------------------
+
+Rule 2440/0 (Power=1)
+Word Cards
+
+      Word Cards are a class of entities.  Each Word Card is labeled
+      with one word, and belongs to exactly one player.  If the owner
+      of a Word Card ceases to be a player, the Card is destroyed.
+      For Word Card related purposes, a "word" is any sequence of
+      English letters and punctuation, but not whitespace.
+
+      King Azaz is an office.  Eir report contains a list of each Word
+      Card's label and owner; such a list in a document purporting to
+      be such a report is self-ratifying.
+
+      A player CAN by announcement transfer a Word Card e owns to
+      another player, or destroy a Word Card e owns.
+
+History:
+Created by Proposal 7711 (omd), 9 November 2014
+
+----------------------------------------------------------------------
+
+Rule 2441/0 (Power=1)
+Shopping Periods
+
+      If it has been at least 5 days since the beginning of the
+      current Shopping Period (or there is no current Shopping
+      Period), King Azaz CAN initiate a Shopping Period by
+      announcement, ending the previous one.  E SHALL initiate a new
+      Shopping Period within 10 days after the beginning of a previous
+      one.  Initiating a Shopping Period involves atomically
+      performing the following steps:
+
+      - Selecting the Shopping Rule, a Rule which has never before
+        been the Shopping Rule, which SHALL be picked at random.  (If
+        there is no such Rule, a Shopping Period NEED NOT be
+        initiated.)
+
+      - Awarding each player three Word Cards, each labeled with a
+        word selected from the concatenation of all rule bodies (the
+        words SHALL be picked at random with replacement).
+
+      When correcting a botched Shopping Period initiation, King Azaz
+      MAY and SHOULD reuse random values as appropriate instead of
+      recalculating everything anew.
+
+      Any player CAN, by announcement up to twice per Shopping Period,
+      trade in any Word Card e owns for one labeled with an arbitrary
+      word from the body of the Shopping Rule.
+
+History:
+Created by Proposal 7711 (omd), 9 November 2014
+
+----------------------------------------------------------------------
+
+Rule 2442/0 (Power=1)
+Inventory
+
+      Any player CAN by announcement order a subset of the labels of
+      eir Word Cards into a set of phrases; this is known as eir
+      Inventory.  A player's Inventory remains in effect until e
+      publishes a new one, or e no longer has Word Cards sufficient to
+      construct the Inventory.
+
+      For the purposes of roleplaying in the Province of Agora, the
+      Dungeon Master SHOULD construe grammatically correct phrases in
+      a player's Inventory as descriptions of things eir player
+      character owns or possesses.  E may, however, reject illogical
+      entities, and modify overpowered or unthematic items, as e sees
+      fit.
+
+History:
+Created by Proposal 7711 (omd), 9 November 2014
 
 ----------------------------------------------------------------------
 
