@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last updated: 13 November 2014
+Last updated: 16 November 2014
 
-Last proposal with recorded effect on this ruleset: 7722
-Last change to this ruleset: by Proposal 7722
+Last proposal with recorded effect on this ruleset: 7725
+Last change to this ruleset: by Proposal 7725
 
 Last ratification: Short Logical Ruleset of 7 April 2014
 Last ratification date: 1 May 2014
@@ -25,11 +25,11 @@ Power distribution:
        1 with Power=4
        1 with Power=3.2
        1 with Power=3.1
-      35 with Power=3
+      36 with Power=3
       12 with Power=2
        2 with Power=1.7
        2 with Power=1.5
-      23 with Power=1
+      22 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -1197,7 +1197,7 @@ Created by Proposal 7677 (Henri), 12 July 2014
 
 ----------------------------------------------------------------------
 
-Rule 2438/0 (Power=1)
+Rule 2438/0 (Power=3)
 Ribbons
 
       The Tailor is an office, and the recordkeepor of Ribbons.
@@ -1278,6 +1278,7 @@ Ribbons
 
 History:
 Created by Proposal 7698 (ais523), 3 November 2014
+Power changed from 1 to 3 by Proposal 7725 (aranea), 16 November 2014
 
 ----------------------------------------------------------------------
 
