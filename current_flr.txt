@@ -1,9 +1,9 @@
 THE FULL LOGICAL RULESET
 
-Last updated: 16 November 2014
+Last updated: 24 November 2014
 
-Last proposal with recorded effect on this ruleset: 7725
-Last change to this ruleset: by Proposal 7725
+Last proposal with recorded effect on this ruleset: 7727
+Last change to this ruleset: by Proposal 7727
 
 Last ratification: Short Logical Ruleset of 7 April 2014
 Last ratification date: 1 May 2014
@@ -1303,7 +1303,7 @@ Created by Proposal 7711 (omd), 9 November 2014
 
 ----------------------------------------------------------------------
 
-Rule 2441/0 (Power=1)
+Rule 2441/1 (Power=1)
 Shopping Periods
 
       If it has been at least 5 days since the beginning of the
@@ -1327,12 +1327,13 @@ Shopping Periods
       MAY and SHOULD reuse random values as appropriate instead of
       recalculating everything anew.
 
-      Any player CAN, by announcement up to twice per Shopping Period,
-      trade in any Word Card e owns for one labeled with an arbitrary
-      word from the body of the Shopping Rule.
+      Any player CAN, by announcement once per Shopping Period, trade
+      in any Word Card e owns for one labeled with an arbitrary word
+      from the body of the Shopping Rule.
 
 History:
 Created by Proposal 7711 (omd), 9 November 2014
+Amended(1) by Proposal 7727 (omd), 24 November 2014
 
 ----------------------------------------------------------------------
 
