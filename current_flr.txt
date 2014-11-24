@@ -2,13 +2,13 @@ THE FULL LOGICAL RULESET
 
 Last updated: 24 November 2014
 
-Last proposal with recorded effect on this ruleset: 7727
-Last change to this ruleset: by Proposal 7727
+Last proposal with recorded effect on this ruleset: 7728
+Last change to this ruleset: by Proposal 7728
 
 Last ratification: Short Logical Ruleset of 7 April 2014
 Last ratification date: 1 May 2014
 
-Highest Rule ID number ever assigned: 2444
+Highest Rule ID number ever assigned: 2445
 
 Online documents:
   http://agora.qoid.us/current_flr.txt (FLR)
@@ -19,7 +19,7 @@ Online documents:
 
 Statistics
 
-Current total number of rules: 77
+Current total number of rules: 78
 
 Power distribution:
        1 with Power=4
@@ -29,7 +29,7 @@ Power distribution:
       12 with Power=2
        2 with Power=1.7
        2 with Power=1.5
-      22 with Power=1
+      23 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -110,6 +110,7 @@ Index of Rules
 
       * Proposals
       Rule 2350: Proposals
+      Rule 2445: How to pend a proposal
       Rule  106: Adopting Proposals
       Rule 1607: Distribution
       Rule 1950: Decisions with Adoption Indices
@@ -3144,7 +3145,7 @@ Amended(8) by Proposal 7585 (omd), 24 August 2013
 Proposals
 ----------------------------------------------------------------------
 
-Rule 2350/7 (Power=3)
+Rule 2350/8 (Power=3)
 Proposals
 
       A proposal is a type of entity consisting of a body of text and
@@ -3158,9 +3159,9 @@ Proposals
       * An adoption index.
 
       Creating a proposal adds it to the Proposal Pool.  Once a
-      proposal is created, none of its attributes can be changed.  The
-      author (syn. proposer) of a proposal is the person who submitted
-      it.
+      proposal is created, nether its text nor any of the
+      aforementioned attributes can be changed.  The author (syn.
+      proposer) of a proposal is the person who submitted it.
 
       If a decision of whether to adopt a proposal was resolved as
       FAILED QUORUM in the last seven days, the Promotor CAN once add
@@ -3187,6 +3188,30 @@ Amended(4) by Proposal 7241 (omd), 10 June 2012
 Amended(5) by Proposal 7245 (omd), 10 June 2012
 Amended(6) by Proposal 7250 (omd), 10 June 2012
 Amended(7) by Proposal 7653 (scshunt), 3 June 2014
+Amended(8) by Proposal 7728 (Tiger), 24 November 2014
+
+----------------------------------------------------------------------
+
+Rule 2445/0 (Power=1)
+How to pend a proposal
+
+      Imminence is a switch, tracked by the Promotor, possessed by
+      proposals in the Proposal Pool, whose value is either "pending"
+      or "not pending" (default).
+
+      Spending power is a natural office switch tracked by the IADoP.
+      Its default value is 1. The holder of an office CAN make a
+      proposal pending; e can do this a number of times each Agoran
+      week not exceeding the spending power of that office.
+
+      The Rulekeepor, Speaker and Prime Minister each have a
+      spending power of 2. The Promotor has a spending power of
+      4.
+
+      Changes to imminence and spending power both are secured.
+
+History:
+Created by Proposal 7728 (Tiger), 24 November 2014
 
 ----------------------------------------------------------------------
 
@@ -3278,7 +3303,7 @@ Amended(35) by Proposal 7246 (omd), 10 June 2012
 
 ----------------------------------------------------------------------
 
-Rule 1607/41 (Power=3)
+Rule 1607/42 (Power=3)
 Distribution
 
       The Promotor is an office; its holder is responsible for
@@ -3292,11 +3317,9 @@ Distribution
       is known as distribution, and removes the proposal from the
       Proposal Pool.
 
-      A proposal that was in the Proposal Pool at the beginning of a
-      given week is a pending proposal.
-
       The Promotor CAN distribute a proposal which is in the Proposal
-      Pool at any time.
+      Pool at any time. The Promotor SHALL NOT distribute proposals
+      which are not pending.
 
       In a given Agoran week, the Promotor SHALL, as part of eir
       weekly duties, distribute all pending proposals.
@@ -3391,6 +3414,7 @@ Amended(38) by Proposal 7586 (omd), 24 August 2013
 Amended(39) by Proposal 7610 (G.), 22 December 2013
 Amended(40) by Proposal 7618 (omd), 24 January 2014
 Amended(41) by Proposal 7629 (scshunt), 7 April 2014
+Amended(42) by Proposal 7728 (Tiger), 24 November 2014
 
 ----------------------------------------------------------------------
 
