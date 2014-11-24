@@ -2,8 +2,8 @@ THE FULL LOGICAL RULESET
 
 Last updated: 24 November 2014
 
-Last proposal with recorded effect on this ruleset: 7728
-Last change to this ruleset: by Proposal 7728
+Last proposal with recorded effect on this ruleset: 7729
+Last change to this ruleset: by Proposal 7729
 
 Last ratification: Short Logical Ruleset of 7 April 2014
 Last ratification date: 1 May 2014
@@ -19,7 +19,7 @@ Online documents:
 
 Statistics
 
-Current total number of rules: 78
+Current total number of rules: 77
 
 Power distribution:
        1 with Power=4
@@ -29,7 +29,7 @@ Power distribution:
       12 with Power=2
        2 with Power=1.7
        2 with Power=1.5
-      23 with Power=1
+      22 with Power=1
 
 ----------------------------------------------------------------------
 
@@ -62,7 +62,6 @@ Index of Rules
       Rule 2130: How to be Shown the Door
 
       * Economy
-      Rule 2439: Office Salary
       Rule 2434: GNP
       Rule 2435: Minister for GNP Evaluation
       Rule 2438: Ribbons
@@ -1120,35 +1119,6 @@ Retitled and amended(14) by Proposal 7632 (scshunt), 1 May 2014
 
 ======================================================================
 Economy
-----------------------------------------------------------------------
-
-Rule 2439/0 (Power=1)
-Office Salary
-
-      Salary is a office switch tracked by the IADoP with values all
-      integers and a default value of 10.
-
-      During the nomination period of an election, each candidate CAN
-      set their proposed salary, a possible value of the office's
-      salary switch, by announcement. If they fail to do so before the
-      end of the nomination period, their proposed salary is set to
-      the current salary of the office. The proposed salaries for each
-      candidate are essential parameters for the Agoran decision to
-      decide the officeholder. The proposed salary of the winning
-      candidate becomes the salary of the office upon the resolution
-      of the relevant decision.
-
-      A player CAN flip the salary of an office without two
-      objections. The holder of an office CAN decrease its salary by
-      announcement. At the beginning of each month, the Scorekeeper is
-      impelled to award each officeholder a number of points equal to
-      the sum of the salaries of eir offices for which the
-      officeholder held the office for at least two weeks continuously
-      in the previous month.
-
-History:
-Created by Proposal 7700 (Henri), 3 November 2014
-
 ----------------------------------------------------------------------
 
 Rule 2434/0 (Power=1)
@@ -3888,7 +3858,7 @@ Amended(9) by Proposal 7647 (omd), 3 June 2014
 
 ----------------------------------------------------------------------
 
-Rule 2426/3 (Power=1)
+Rule 2426/4 (Power=1)
 Cards
 
       The Referee is an office; its holder is responsible for keeping
@@ -3922,14 +3892,12 @@ Cards
       The Referee SHALL issue at least one Card per week, unless no
       violations occurred that week.
 
-      Rules to the contrary notwithstanding, the Referee does not gain
-      weekly points for holding the office.
-
 History:
 Created by Proposal 7639 (omd), 1 May 2014
 Amended(1) by Proposal 7696 (omd), 23 October 2014
 Amended(2) by Proposal 7708 (Murphy), 3 November 2014
 Amended(3) by Proposal 7720 (omd), 9 November 2014
+Amended(4) by Proposal 7729 (Tiger), 24 November 2014
 
 ----------------------------------------------------------------------
 
