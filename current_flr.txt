@@ -87,7 +87,6 @@ Index of Rules
       Rule 2143: Official Reports and Duties
       Rule 2379: No News Is Some News
       Rule 2160: Deputisation
-      Rule 2443: Expediting Proposals
       Rule 2154: Election Procedure
       Rule 2138: The Interstellar Associate Director of Personnel
       Rule 1551: Ratification
@@ -111,6 +110,7 @@ Index of Rules
       * Proposals
       Rule 2350: Proposals
       Rule 2445: How to pend a proposal
+      Rule 2443: Expediting Proposals
       Rule  106: Adopting Proposals
       Rule 1607: Distribution
       Rule 1950: Decisions with Adoption Indices
@@ -2297,27 +2297,6 @@ Amended(13) by Proposal 7713 (Warrigal), 9 November 2014
 
 ----------------------------------------------------------------------
 
-Rule 2443/0 (Power=3)
-Expediting Proposals
-
-      A player CAN expedite a proposal whose adoption index is at most
-      1.5, in a message containing the character string "[Expedition]"
-      in the subject line,
-
-        (a) by specially deputising for the Promotor to distribute the
-            proposal, if it has not been distributed; or
-        (b) by announcement, otherwise.
-
-      If, in an Agoran Decision to adopt a proposal, the strength of
-      AGAINST is zero, and the proposal was expedited at least 7 days
-      earlier, then any player CAN specially deputise for the Assessor
-      to resolve the decision.
-
-History:
-Created by Proposal 7713 (Warrigal), 9 November 2014
-
-----------------------------------------------------------------------
-
 Rule 2154/47 (Power=2)
 Election Procedure
 
@@ -3212,6 +3191,27 @@ How to pend a proposal
 
 History:
 Created by Proposal 7728 (Tiger), 24 November 2014
+
+----------------------------------------------------------------------
+
+Rule 2443/0 (Power=3)
+Expediting Proposals
+
+      A player CAN expedite a proposal whose adoption index is at most
+      1.5, in a message containing the character string "[Expedition]"
+      in the subject line,
+
+        (a) by specially deputising for the Promotor to distribute the
+            proposal, if it has not been distributed; or
+        (b) by announcement, otherwise.
+
+      If, in an Agoran Decision to adopt a proposal, the strength of
+      AGAINST is zero, and the proposal was expedited at least 7 days
+      earlier, then any player CAN specially deputise for the Assessor
+      to resolve the decision.
+
+History:
+Created by Proposal 7713 (Warrigal), 9 November 2014
 
 ----------------------------------------------------------------------
 
